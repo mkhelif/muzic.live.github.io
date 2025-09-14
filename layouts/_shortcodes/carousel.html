@@ -20,7 +20,7 @@
     {{ range $index, $src := .Params }}
         {{ if gt $index 2 }}
             <div class="gallery-column">
-                <img class="demo" src="{{ $src }}" alt="{{ $alt }}" onclick="currentSlide({{ $id) }})">
+                <img class="demo" src="{{ $src }}" alt="{{ $alt }}" onclick="currentSlide({{ $id }})">
             </div>
         {{ end }}
     {{ end }}
@@ -31,7 +31,7 @@
     {{ range $index, $src := .Params }}
     {{ if gt $index 2 }}
     <div class="slide">
-        <img src="{{ $src }}" alt="{{ $alt }}" onclick="openGalleryLightbox({{ $id }}">
+        <img src="{{ $src }}" alt="{{ $alt }}" onclick="openGalleryLightbox({{ $id }})">
     </div>
     {{ end }}
     {{ end }}
