@@ -1,5 +1,5 @@
 # Site
-baseURL = 'https://muzic.live/'
+baseURL = '/'
 languageCode = 'fr-fr'
 title = 'Muzic.Live'
 
@@ -18,3 +18,7 @@ title = 'Muzic.Live'
 [taxonomies]
   artist = 'artists'
   festival = 'festivals'
+
+[services]
+  [services.disqus]
+    shortname = 'mkhelif_ml'

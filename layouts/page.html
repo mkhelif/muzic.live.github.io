@@ -16,9 +16,13 @@
         </span>
     </div>
 
+    <!-- Page Content -->
     {{ $content := .Content }}
-
     {{ $content }}
 
+    <!-- Related posts -->
     <!-- TODO view others ? -->
+
+    <!-- Comments -->
+    {{ partial "disqus.html" . }}
 {{ end }}
