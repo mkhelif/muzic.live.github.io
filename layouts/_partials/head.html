@@ -3,5 +3,5 @@
 <link rel="icon" type="image/png" href="/favicon.png">
 
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
-{{ partialCached "head/css.html" . }}
-{{ partialCached "head/js.html" . }}
+{{ partialCached "styles.html" . }}
+{{ partialCached "scripts.html" . }}

@@ -1,0 +1,11 @@
+{{ with resources.Get "sass/main.scss" }}
+    {{ $options := dict
+        "enableSourceMap" hugo.IsDevelopment
+        "outputStyle" (cond hugo.IsDevelopment "expanded" "compressed")
+        "targetPath" "css/styles.css"
+    }}
+
+    {{ with . | toCSS $options | fingerprint "sha512" }}
+        <link rel="stylesheet" href="{{ .Permalink }}" integrity="{{ .Data.Integrity }}">
+    {{ end }}
+{{ end }}

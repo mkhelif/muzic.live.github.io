@@ -11,6 +11,10 @@ title = 'Muzic.Live'
     weight = 10
 
   [[menus.main]]
-    name = 'Live reports'
+    name = 'Chroniques'
     pageRef = '/reports'
     weight = 20
+
+[taxonomies]
+  artist = 'artists'
+  festival = 'festivals'

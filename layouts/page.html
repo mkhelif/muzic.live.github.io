@@ -1,10 +1,24 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+    <h1>{{ .Title }}</h1>
 
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    <div class="d-flex flex-row justify-content-between mb-5">
+        {{ $dateMachine := .Date | time.Format "1970-01-01T00:00:00-00:00" }}
+        {{ $dateHuman := .Date | time.Format ":date_long" }}
+        <time class="text-body-tertiary" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 
-  {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+        <span>
+            {{ range $.GetTerms "artists" }}
+                <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            {{ end }}
+            {{ range $.GetTerms "festivals" }}
+                <a class="badge bg-success text-dark ms-1" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            {{ end }}
+        </span>
+    </div>
+
+    {{ $content := .Content }}
+
+    {{ $content }}
+
+    <!-- TODO view others ? -->
 {{ end }}

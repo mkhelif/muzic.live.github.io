@@ -1,0 +1,75 @@
+{{ $id := delimit (shuffle (seq 1 9)) "" }}
+{{ $alt := index .Params 0 }}
+{{ $authorName := index .Params 1 }}
+{{ $authorLink := index .Params 2 }}
+{{ $size := sub (len .Params) 3 }}
+<div class="gallery" id="carousel-{{ $id }}">
+    {{ range $index, $src := .Params }}
+        {{ if gt $index 2 }}
+            <div class="slide">
+                <img src="{{ $src }}" alt="{{ $alt }}" onclick="{{ safeJS (printf "openGalleryLightbox%s(%s)" $id (sub $index 3)) }}">
+            </div>
+        {{ end }}
+    {{ end }}
+
+    <!-- Controls -->
+    <a class="prev" onclick="{{ safeJS (printf "changeSlide%s(-1)" $id) }}">&#10094;</a>
+    <a class="next" onclick="{{ safeJS (printf "changeSlide%s(1)" $id) }}">&#10095;</a>
+
+    <!-- Thumbnails -->
+    {{ range $index, $src := .Params }}
+        {{ if gt $index 2 }}
+            <div class="gallery-column">
+                <img class="demo" src="{{ $src }}" alt="{{ $alt }}" onclick="{{ safeJS (printf "currentSlide%s(1)" $id) }}">
+            </div>
+        {{ end }}
+    {{ end }}
+</div>
+<p>Copyright <a href="https://instagram.com/{{ $authorLink }}">{{ $authorName }}</a></p>
+
+<div class="gallery-lightbox" id="carousel-{{ $id }}-lightbox">
+    {{ range $index, $src := .Params }}
+    {{ if gt $index 2 }}
+    <div class="slide">
+        <img src="{{ $src }}" alt="{{ $alt }}" onclick="{{ safeJS (printf "openGalleryLightbox%s()" $id) }}">
+    </div>
+    {{ end }}
+    {{ end }}
+</div>
+
+<script type="text/javascript">
+    const lightbox = document.getElementById('carousel-{{ $id }}-lightbox');
+
+    var slideIndex = 1;
+    showSlides(slideIndex);
+
+    // Open/close lightbox
+    function {{ safeJS (printf "openGalleryLightbox%s" $id) }}(index) {
+        lightbox.style.display = "block";
+        showSlides(slideIndex = index);
+    }
+    function {{ safeJS (printf "closeGalleryLightbox%s" $id) }}() {
+        lightbox.style.display = "none";
+    }
+
+    // Previous/next
+    function {{ safeJS (printf "changeSlide%s" $id) }}(index) {
+        showSlides(slideIndex = index);
+    }
+
+    function showSlides(n) {
+        var i;
+        var slides = lightbox.getElementsByClassName("slide");
+        var dots = document.getElementsByClassName("demo");
+        if (n > slides.length) {slideIndex = 1}
+        if (n < 1) {slideIndex = slides.length}
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";
+        }
+        for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].classList.remove("active");
+        }
+        slides[slideIndex-1].style.display = "block";
+        dots[slideIndex-1].classList.add("active");
+    }
+</script>

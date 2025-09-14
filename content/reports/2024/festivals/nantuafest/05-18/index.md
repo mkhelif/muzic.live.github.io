@@ -1,14 +1,24 @@
-+++
-date = "2024-05-19T10:11:32+02:00"
-draft = false
-title = "Nantuafest Jour 2 - T!no, Alice et Moi, Adèle Castillon, Jahneration, Caballero et JeanJass, Umbree"
-author = "mkhelif"
-+++
+---
+date: "2024-05-19T10:11:32+02:00"
+draft: false
+title: "Nantuafest 2024 - Jour 2 - T!no, Alice et Moi, Adèle Castillon, Jahneration, Caballero et JeanJass, Umbree"
+author: "mkhelif"
+festivals:
+- Nantuafest
+artists:
+- T!no
+- Alice et Moi
+- Adèle Castillon
+- Jahneration
+- Caballero
+- JeanJass
+- Umbree
+---
 
 De retour sur Nantua pour cette deuxième journée du Nantuafest. La mauvaise nouvelle de la journée, Dub Inc qui était programmé ont du annulé pour problèmes de santé. Ils sont remplacés au pied levé par Jahneration (spoiler : ils vont relever le défi brillamment).
-Dès l’arrivée je note qu’il y a beaucoup plus de monde que la veille, en discutant avec plusieurs festivaliers, la plupart étaient venus pour voir Dub Inc et on peut sentir la déception.
+Dès l’arrivée, je note qu’il y a beaucoup plus de monde que la veille, en discutant avec plusieurs festivaliers, la plupart étaient venus pour voir Dub Inc et on peut sentir la déception.
 
-[photo Tino]
+{{< carousel "T!NO" "Marwan Khelif" "mkhelif.photo" "tino-01.jpg" "tino-02.jpg" >}}
 
 La soirée est entamée par le jeune T!NO, il nous offre un mélange de hip-hop, RnB et quelques couplet de rap. Malgré une performance musicale appréciable, on a pu ressentir un manque d’expérience scénique avec peu d’interactions avec le public et des transitions hésitantes.
 

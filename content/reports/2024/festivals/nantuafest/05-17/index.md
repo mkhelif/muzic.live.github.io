@@ -1,9 +1,19 @@
-+++
-date = "2024-05-18T09:06:44+02:00"
-draft = false
-title = "Nantuafest Jour 1 - Melrose, Vernis Rouge, Two Faces, Noe Preszow, Pierre de Maere, Superbus, Boris Way"
-author = "mkhelif"
-+++
+---
+date: "2024-05-18T09:06:44+02:00"
+draft: false
+title: "Nantuafest 2024 - Jour 1 - Melrose, Vernis Rouge, Two Faces, Noé Preszow, Pierre de Maere, Superbus, Boris Way"
+author: "mkhelif"
+festivals:
+- Nantuafest
+artists:
+- Melrose
+- Vernis Rouge
+- Two Faces
+- Noé Preszow
+- Pierre de Maere
+- Superbus
+- Boris Way
+---
 
 C’est par un pur hasard, en scrollant distraitement sur les réseaux sociaux, que j’ai découvert le Nantuafest. Un festival de musique au bord du lac de Nantua, ça peut être sympathique !
 Un petit tour sur le site du festival (https://www.nantuafest.fr/) et je vois une programmation éclectique avec des styles musicaux différents. Le festival a aussi une partie sportive la journée et y propose des initiations et tests de matériel.
@@ -13,6 +23,7 @@ Il n’y a pas encore beaucoup de monde et la fosse peinera à se remplir pour l
 
 
 ![DJ Skred](dj-skred.jpg)
+{.m-auto}
 
 En points centraux, la régie son et la cabanne du DJ Skred. Le DJ est en charge d’ambiancer les festivaliers avant le premier set, entre chaque changement de scène et après le dernier concert. Au vu du nombres de festivaliers autour du DJ pendant ses serts et pour en avoir parler avec plusieurs personnes, le contrat est largement rempli.
 
