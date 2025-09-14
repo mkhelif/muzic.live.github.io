@@ -3,5 +3,14 @@ baseURL = 'https://muzic.live/'
 languageCode = 'fr-fr'
 title = 'Muzic.Live'
 
-# Theme
-theme = "muzic.live"
+# Menu
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+  [[menus.main]]
+    name = 'Live reports'
+    pageRef = '/reports'
+    weight = 20
