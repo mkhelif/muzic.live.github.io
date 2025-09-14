@@ -7,7 +7,7 @@
     {{ range $index, $src := .Params }}
         {{ if gt $index 2 }}
             <div class="slide">
-                <img src="{{ $src }}" alt="{{ $alt }}" onclick="openGalleryLightbox({{ $id }}, {{ sub $index 3 }}">
+                <img src="{{ $src }}" alt="{{ $alt }}" onclick="openGalleryLightbox({{ $id }}, {{ sub $index 3 }})">
             </div>
         {{ end }}
     {{ end }}
