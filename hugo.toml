@@ -4,4 +4,4 @@ languageCode = 'fr-fr'
 title = 'Muzic.Live'
 
 # Theme
-theme = ["github.com/onweru/newsroom"]
+theme = "muzic.live"
