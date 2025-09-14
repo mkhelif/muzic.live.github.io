@@ -7,20 +7,20 @@
     {{ range $index, $src := .Params }}
         {{ if gt $index 2 }}
             <div class="slide">
-                <img src="{{ $src }}" alt="{{ $alt }}" onclick="{{ safeJS (printf "openGalleryLightbox%s(%s)" $id (sub $index 3)) }}">
+                <img src="{{ $src }}" alt="{{ $alt }}" onclick="openGalleryLightbox({{ $id }}, {{ sub $index 3 }}">
             </div>
         {{ end }}
     {{ end }}
 
     <!-- Controls -->
-    <a class="prev" onclick="{{ safeJS (printf "changeSlide%s(-1)" $id) }}">&#10094;</a>
-    <a class="next" onclick="{{ safeJS (printf "changeSlide%s(1)" $id) }}">&#10095;</a>
+    <a class="prev" onclick="changeSlide({{ $id }}, -1)">&#10094;</a>
+    <a class="next" onclick="changeSlide({{ $id }}, 1)">&#10095;</a>
 
     <!-- Thumbnails -->
     {{ range $index, $src := .Params }}
         {{ if gt $index 2 }}
             <div class="gallery-column">
-                <img class="demo" src="{{ $src }}" alt="{{ $alt }}" onclick="{{ safeJS (printf "currentSlide%s(1)" $id) }}">
+                <img class="demo" src="{{ $src }}" alt="{{ $alt }}" onclick="currentSlide({{ $id) }})">
             </div>
         {{ end }}
     {{ end }}
@@ -31,7 +31,7 @@
     {{ range $index, $src := .Params }}
     {{ if gt $index 2 }}
     <div class="slide">
-        <img src="{{ $src }}" alt="{{ $alt }}" onclick="{{ safeJS (printf "openGalleryLightbox%s()" $id) }}">
+        <img src="{{ $src }}" alt="{{ $alt }}" onclick="openGalleryLightbox({{ $id }}">
     </div>
     {{ end }}
     {{ end }}
@@ -44,16 +44,16 @@
     showSlides(slideIndex);
 
     // Open/close lightbox
-    function {{ safeJS (printf "openGalleryLightbox%s" $id) }}(index) {
+    function openGalleryLightbox(id, index) {
         lightbox.style.display = "block";
         showSlides(slideIndex = index);
     }
-    function {{ safeJS (printf "closeGalleryLightbox%s" $id) }}() {
+    function closeGalleryLightbox(id) {
         lightbox.style.display = "none";
     }
 
     // Previous/next
-    function {{ safeJS (printf "changeSlide%s" $id) }}(index) {
+    function changeSlide(id, index) {
         showSlides(slideIndex = index);
     }
 
