@@ -1,0 +1,8 @@
+<h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+<div class="d-flex mb-5">
+    {{ if .Params.cover }}<img src="{{ .RelPermalink }}{{ .Params.cover | relURL }}" width="256px" height="170px" class="me-3" />{{ end }}
+    <div class="small text-muted">
+        {{ partial "time.html" .Date }}
+        <p>{{ .Summary }}</p>
+    </div>
+</div>

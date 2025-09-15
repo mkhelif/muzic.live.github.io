@@ -3,7 +3,6 @@
 
     {{ .Content }}
 
-    {{ range .Pages }}
-        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ end }}
+    <!-- Pages -->
+    {{ partial "pages.html" .Pages }}
 {{ end }}

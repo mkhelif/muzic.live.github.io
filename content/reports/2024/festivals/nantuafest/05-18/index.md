@@ -9,7 +9,7 @@ festivals:
 artists:
 - T!no
 - Alice et Moi
-- Adèle Castillon
+- Adèle Castillon
 - Jahneration
 - Caballero
 - JeanJass
@@ -22,9 +22,9 @@ Ils sont remplacés au pied levé par Jahneration (spoiler : ils vont relever le
 Dès l’arrivée, je note qu’il y a beaucoup plus de monde que la veille, en discutant avec plusieurs festivaliers, la plupart étaient venus pour voir Dub Inc et on peut sentir la déception.
 
 
-{{< carousel "T!NO" "Marwan Khelif" "mkhelif.photo" "tino-01.jpg" "tino-02.jpg" >}}
+![T!no](tino-02.jpg)
 
-La soirée est entamée par le jeune T!NO, il nous offre un mélange de hip-hop, RnB et quelques couplets de rap.
+La soirée est entamée par le jeune T!no, il nous offre un mélange de hip-hop, RnB et quelques couplets de rap.
 Malgré une performance musicale appréciable, on a pu ressentir un manque d’expérience scénique avec peu d’interactions avec le public et des transitions hésitantes.
 
 

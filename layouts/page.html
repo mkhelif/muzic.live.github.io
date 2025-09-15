@@ -15,12 +15,10 @@
 
     <!-- Page Content -->
     {{ $content := .Content }}
-    {{ range $type, $taxo := .Site.Data }}
-{{ $taxo }}
-
+    {{ range $.Site.RegularPages }}
+        {{ $link := printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle }}
+        {{ $content = (replace $content .LinkTitle $link) | safeHTML }}
     {{ end }}
-
-
     {{ range $.GetTerms "artists" }}
         {{ $content = (replace $content .LinkTitle (printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle)) | safeHTML }}
     {{ end }}
@@ -29,8 +27,18 @@
     {{ end }}
     {{ $content }}
 
-    <!-- Related posts -->
-
+    <!-- Related pages -->
+    {{ if eq .Section "artists" }}
+        <h2>Chroniques de concerts</h2>
+        {{ range $.Site.RegularPages }}
+            {{ $page := . }}
+            {{ range .GetTerms "artists" }}
+                {{ if eq .LinkTitle $.Title }}
+                    {{ partial "report.html" $page }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
 
     <!-- Comments -->
 
