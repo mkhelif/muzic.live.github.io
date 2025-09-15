@@ -2,5 +2,14 @@
     {{ .Content }}
 
     <h1>Dernières chroniques de concerts</h1>
-    {{ partial "pages.html" site.RegularPages }}
+    {{ $index := 0 }}
+    {{ range site.RegularPages }}
+        {{ if eq .Section "reports" }}
+            {{ $index = (add $index 1) }}
+            {{ partial "report.html" . }}
+        {{ end }}
+        {{ if ge $index 5 }}
+            {{ break }}
+        {{ end }}
+    {{ end }}
 {{ end }}
