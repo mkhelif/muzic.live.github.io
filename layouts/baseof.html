@@ -4,6 +4,10 @@
         {{ partial "head.html" . }}
     </head>
     <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ .Site.Config.Services.GoogleAnalytics.ID }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
         <div class="d-flex flex-column container h-100">
             <header>
                 {{ partial "header.html" . }}
