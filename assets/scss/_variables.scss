@@ -11,6 +11,9 @@ $dark: #000000;
 $body-bg: $dark;
 $body-color: $light;
 
+$primary-emphasis: lighten($primary, 0.5);
+$primary-muted: transparentize($primary, 0.5);
+
 // Fonts
 $font-family-base: 'Noto Sans', sans-serif;
 $font-weight-base: 200;
@@ -20,3 +23,10 @@ $headings-font-weight: 300;
 
 // Links
 $link-decoration: none;
+
+// Navbar
+$navbar-padding-y: 2.5rem;
+
+$navbar-dark-active-color: $primary;
+$navbar-dark-color: $primary-muted;
+$navbar-dark-hover-color: $primary;

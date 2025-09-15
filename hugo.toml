@@ -20,5 +20,14 @@ title = 'Muzic.Live'
   festival = 'festivals'
 
 [services]
+  [services.googleAnalytics]
+    id = 'GTM-NH68JMS8'
   [services.disqus]
     shortname = 'mkhelif_ml'
+  [services.rss]
+    limit = 42
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html']
+  taxonomy = ['html']

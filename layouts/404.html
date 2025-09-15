@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+    <div class="d-flex flex-column h-100 justify-content-center align-items-center">
+        <img src="404.svg" width="512px" />
+
+        <h2 class="mt-5 text-primary">Page non trouvée</h2>
+    </div>
+
+    {{ range site.RegularPages }}
+        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+        {{ .Summary }}
+    {{ end }}
+{{ end }}
