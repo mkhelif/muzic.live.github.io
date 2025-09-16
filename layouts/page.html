@@ -1,19 +1,25 @@
 {{ define "main" }}
-    <h1>{{ .Title }}</h1>
+    <h1 class="mb-4 p-3 bg-primary text-dark">{{ .Title }}</h1>
 
-    <div class="d-flex flex-row justify-content-between mb-5">
-        {{ partial "time.html" .Date }}
-        <span>
-            {{ range $.GetTerms "artists" }}
-                <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-            {{ end }}
-            {{ range $.GetTerms "festivals" }}
-                <a class="badge bg-success text-dark ms-1" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-            {{ end }}
-        </span>
-    </div>
+    {{ if eq .Section "reports" }}
+        <div class="d-flex flex-row justify-content-between mb-5">
+            {{ partial "time.html" .Date }}
+            <span>
+                {{ range $.GetTerms "artists" }}
+                    <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                {{ end }}
+                {{ range $.GetTerms "festivals" }}
+                    <a class="badge bg-success text-dark ms-1" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                {{ end }}
+            </span>
+        </div>
+    {{ end }}
 
     <!-- Page Content -->
+    {{ if and (ne .Section "reports") (.Params.cover) }}
+        <img src="{{ urls.JoinPath .Path .Params.cover | absURL }}" alt="{{ .Title }}" width="512px" />
+    {{ end }}
+
     {{ $content := .Content }}
     {{ range $.Site.RegularPages }}
         {{ $link := printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle }}
@@ -28,11 +34,33 @@
     {{ $content }}
 
     <!-- Related pages -->
-    {{ if eq .Section "artists" }}
-        <h2>Chroniques de concerts</h2>
+    {{ if eq .Section "reports" }}
+        {{ range .GetTerms "festivals" }}
+            {{ $festival := .LinkTitle }}
+            <h2 class="mt-5 p-3 bg-primary text-dark">Autres chroniques du {{ .LinkTitle }}</h2>
+            {{ range $.Site.RegularPages }}
+                {{ $page := . }}
+                {{ range .GetTerms "festivals" }}
+                    {{ if and (eq .LinkTitle $festival) (ne $page.Path $.Path) }}
+                        {{ partial "report.html" $page }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    {{ else }}
+        {{ if eq .Section "festivals" }}
+            <h2 class="mt-5 p-3 bg-primary text-dark">Chroniques du {{ .Title }}</h2>
+        {{ else }}
+            <h2 class="mt-5 p-3 bg-primary text-dark">Chroniques de {{ .Title }}</h2>
+        {{ end }}
         {{ range $.Site.RegularPages }}
             {{ $page := . }}
             {{ range .GetTerms "artists" }}
+                {{ if eq .LinkTitle $.Title }}
+                    {{ partial "report.html" $page }}
+                {{ end }}
+            {{ end }}
+            {{ range .GetTerms "festivals" }}
                 {{ if eq .LinkTitle $.Title }}
                     {{ partial "report.html" $page }}
                 {{ end }}

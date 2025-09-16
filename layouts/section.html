@@ -1,8 +1,13 @@
 {{ define "main" }}
-    <h1>{{ .Title }}</h1>
+    <h1 class="mb-4 p-3 bg-primary text-dark">{{ .Title }}</h1>
 
     {{ .Content }}
 
     <!-- Pages -->
     {{ partial "pages.html" .Pages }}
+    {{ range site.RegularPages }}
+        {{ if eq .Section $.Title }}
+            {{ partial "report.html" . }}
+        {{ end }}
+    {{ end }}
 {{ end }}

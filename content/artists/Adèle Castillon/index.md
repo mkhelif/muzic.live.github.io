@@ -1,7 +1,9 @@
 ---
 title: "Adèle Castillon"
-date: "2023-01-01T08:00:00+02:00"
-draft: false
+params:
+  cover: "image.jpg"
 ---
 
-![Adèle Castillon](image.jpg)
+TODO carousel images
+
+Demo

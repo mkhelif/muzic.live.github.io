@@ -1,8 +1,9 @@
 ---
 title: Nantuafest
+draft: false
+params:
+  cover: "nantuafest.png"
 ---
-
-![Nantuafest](nantuafest.png)
 
 Le Nantuafest est un festival de sport et musique lancé en 2021.
 Cet événement s'est rapidement imposé comme un événement phare pour les amateurs de musique et de festivités en plein air dans la région
