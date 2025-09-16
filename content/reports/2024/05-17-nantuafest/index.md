@@ -3,7 +3,7 @@ date: "2024-05-18T09:06:44+02:00"
 draft: false
 title: "Nantuafest 2024 - Jour 1 - Melrose, Vernis Rouge, Two Faces, Noé Preszow, Pierre de Maere, Superbus, Boris Way"
 author: "mkhelif"
-cover: "pierre-de-maere.jpg"
+cover: "pictures/pierre-de-maere.jpg"
 festivals:
 - Nantuafest
 artists:
@@ -27,14 +27,14 @@ Un festival bien organisé et réalisé avec intelligence.
 Il n’y a pas encore beaucoup de monde et la fosse peinera à se remplir pour les premiers artistes.
 
 
-![DJ Skred](dj-skred.jpg)
+![DJ Skred](pictures/dj-skred.jpg)
 
 En points centraux, la régie son et la cabane du DJ Skred.
 Le DJ est en charge d’ambiancer les festivaliers avant le premier set, entre chaque changement de scène et après le dernier concert.
 Au vu du nombre de festivaliers autour du DJ pendant ses sets et pour en avoir parlé avec plusieurs personnes, le contrat est largement rempli.
 
 
-![Melrose](melrose.jpg)
+![Melrose](pictures/melrose.jpg)
 
 C’est Melrose qui a la difficile tâche d’ouvrir le festival, ce qui de son aveu la stresse assez.
 Proposant une pop sucrée, oscillant entre les échos de Britney Spears et la poésie à la française.
@@ -43,8 +43,7 @@ Des mélodies entêtantes, des rythmes qui font taper du pied, une voix profonde
 Le public a dansé, mais sans se laisser emporter pour autant.
 
 
-
-![Vernis Rouge](vernis-rouge.jpg)
+![Vernis Rouge](pictures/vernis-rouge.jpg)
 
 C’est ensuite au tour de Vernis Rouge, le public commence à arriver et remplir la fosse.
 La chanteuse franco-libanaise nous sert une pop avec des textes profonds et une voix douce et suave.
@@ -55,8 +54,7 @@ Son étonnante reprise de Bande Organisée avait propulsé sa notoriété, c’e
 Suivi par tout le public, le show est bien rodé et ça fonctionne.
 
 
-
-![Two Faces](two-faces.jpg)
+![Two Faces](pictures/two-faces.jpg)
 
 Je n’avais pas eu le temps d’écouter la musique de Two Faces avant de venir au festival, c’est donc avec une oreille neuve que je découvre le duo lyonnais.
 Sur un fond de trip-hop et électro-rock, les voix des deux chanteurs nous embarquent dans leur univers, avec une influence évidente de groupes tel que Massive Attack.
@@ -64,7 +62,7 @@ Sur scène, les Two Faces ne retiennent pas leur énergie et cela se fait ressen
 Two Faces a été une belle découverte pour moi et je repartirais du festival avec un disque de leur album « After the Embers ».
 
 
-![Noé Preszow](noe-preszow.jpg)
+![Noé Preszow](pictures/noe-preszow.jpg)
 
 Après le duo, Noé Preszow entre sur scène.
 Selon Noé, et son second album éponyme (en phonétique), son nom se prononce « prèchof ».
@@ -73,7 +71,7 @@ Malgré une fièvre annoncée, l’énergie ne redescend par et le public est en
 Même si le style est moins propice aux déhanchés, le public reprend les paroles sur « À nous » ou encore « Prière de ne pas déranger ».
 
 
-![Pierre de Maere](pierre-de-maere.jpg)
+![Pierre de Maere](pictures/pierre-de-maere.jpg)
 
 Je n’avais encore jamais vu Pierre de Maere en live, c’est donc avec un œil curieux que j’attends l’artiste belge.
 Pierre de Maere fait une entrée flamboyante sur scène. Une allure longiligne, un style de dandy moderne et une attitude travaillée, on sent que le show est bien préparé.
@@ -82,8 +80,7 @@ Sa pop, à la fois nostalgique et avant-gardiste charme les festivaliers.
 Son set se termine par « Un jour je marierai un ange » suivi de « Mercredi », les deux titres repris en cœur avec ferveur par tout le public.
 
 
-
-![Superbus](superbus.jpg)
+![Superbus](pictures/superbus.jpg)
 
 Qui ne connaît pas Superbus ?
 Le groupe de rock emblématique des années 2000 revient pour annoncer son septième album, qui devrait sortir en fin d’année (en cherchant je vois que l’album est annoncé depuis plusieurs mois et devait sortir au printemps…),
@@ -95,7 +92,7 @@ Superbus continue ensuite avec leurs nouveaux titres « Baby Boom », titre abor
 Ces nouveaux titres sont plus en ligne avec leurs premiers tubes, plus pop-rock.
 
 
-![Boris Way](boris-way.jpg)
+![Boris Way](pictures/boris-way.jpg)
 
 Pour clôturer cette première journée, c’est Boris Way, le DJ niçois, qui entre en scène pour se poser derrière les platines.
 Il fait vibrer le Nantuafest sous des rythmes electro-pop comme « Running up that hill » ou d’autres titres plus house (je n’ai pas noté…).
