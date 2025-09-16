@@ -17,7 +17,9 @@
 
     <!-- Page Content -->
     {{ if and (ne .Section "reports") (.Params.cover) }}
-        <img src="{{ urls.JoinPath .Path .Params.cover | absURL }}" alt="{{ .Title }}" width="512px" />
+        <div class="d-flex justify-content-center mb-5">
+            <img src="{{ urls.JoinPath .Path .Params.cover | absURL }}" alt="{{ .Title }}" width="512px" />
+        </div>
     {{ end }}
 
     {{ $content := .Content }}
@@ -48,11 +50,7 @@
             {{ end }}
         {{ end }}
     {{ else }}
-        {{ if eq .Section "festivals" }}
-            <h2 class="mt-5 p-3 bg-primary text-dark">Chroniques du {{ .Title }}</h2>
-        {{ else }}
-            <h2 class="mt-5 p-3 bg-primary text-dark">Chroniques de {{ .Title }}</h2>
-        {{ end }}
+        <h2 class="mt-5 p-3 bg-primary text-dark">Chroniques de concerts</h2>
         {{ range $.Site.RegularPages }}
             {{ $page := . }}
             {{ range .GetTerms "artists" }}

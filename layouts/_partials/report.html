@@ -2,7 +2,7 @@
 <div class="d-flex pb-2">
     {{ if .Params.cover }}
         <a href="{{ .RelPermalink }}">
-            <img src="{{ urls.JoinPath .Path .Params.cover | absURL }}" width="256px" height="170px" class="me-3 mb-2" />
+            <img src="{{ urls.JoinPath .Path .Params.cover | absURL }}" height="170px" class="me-3 mb-2" />
         </a>
     {{ end }}
     <div class="small text-muted">
