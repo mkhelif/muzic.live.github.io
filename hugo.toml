@@ -18,6 +18,7 @@ title = 'Muzic.Live'
 [taxonomies]
   artist = 'artists'
   festival = 'festivals'
+  location = 'locations'
 
 [services]
   [services.googleAnalytics]

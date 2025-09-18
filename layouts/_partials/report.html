@@ -5,10 +5,16 @@
             <img src="{{ urls.JoinPath .Path .Params.cover | absURL }}" height="170px" class="me-3 mb-2" />
         </a>
     {{ end }}
-    <div class="small text-muted">
+    <div class="small text-body-tertiary">
+        {{ range $.GetTerms "locations" }}
+            {{ .LinkTitle }},
+        {{ end }}
         {{ if eq .Section "reports" }}
             {{ partial "time.html" .Date }}
         {{ end }}
-        <div class="pt-1">{{ .Summary }}</div>
+        <div class="pt-1 text-muted">{{ .Content | plainify | truncate 1000 }}</div>
+        <p class="text-end">
+            <a href="{{ .RelPermalink }}">Lire la suite</a>
+        </p>
     </div>
 </div>

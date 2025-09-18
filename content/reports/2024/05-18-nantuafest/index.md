@@ -1,9 +1,11 @@
 ---
 date: "2024-05-19T10:11:32+02:00"
-draft: false
 title: "Nantuafest 2024 - Jour 2 - T!no, Alice et Moi, Adèle Castillon, Jahneration, Caballero et JeanJass, Umbree"
 author: "mkhelif"
 cover: "pictures/adele-castillon.jpg"
+locations:
+  - Nantua
+  - France
 festivals:
 - Nantuafest
 artists:

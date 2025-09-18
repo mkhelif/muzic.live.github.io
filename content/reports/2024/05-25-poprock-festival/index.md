@@ -1,9 +1,11 @@
 ---
 date: "2024-05-25T19:00:00+02:00"
-draft: false
 title: "Poprock Festival 2024 - Jour 3 - Da Cruz, Da Break, Broken Back, My Beautiful Disorders"
 author: "mkhelif"
 cover: "pictures/broken-back-3.jpg"
+locations:
+  - Gilly
+  - Suisse
 festivals:
   - Poprock Festival
 artists:

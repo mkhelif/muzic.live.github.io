@@ -8,6 +8,6 @@
 
     {{ range site.RegularPages }}
         <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-        {{ .Summary }}
+        {{ .Content | plainify | truncate 1000 }}
     {{ end }}
 {{ end }}

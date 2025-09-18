@@ -1,9 +1,11 @@
 ---
 date: "2024-05-18T09:06:44+02:00"
-draft: false
 title: "Nantuafest 2024 - Jour 1 - Melrose, Vernis Rouge, Two Faces, Noé Preszow, Pierre de Maere, Superbus, Boris Way"
 author: "mkhelif"
 cover: "pictures/pierre-de-maere.jpg"
+locations:
+  - Nantua
+  - France
 festivals:
 - Nantuafest
 artists:

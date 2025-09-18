@@ -1,9 +1,11 @@
 ---
 date: "2024-05-23T19:00:00+02:00"
-draft: false
 title: "Poprock Festival 2024 - Jour 1 - Smokeheads, The Brains, Dropdead Chaos, Skellige"
 author: "mkhelif"
 cover: "pictures/smokeheads.jpg"
+locations:
+  - Gilly
+  - Suisse
 festivals:
   - Poprock Festival
 artists:

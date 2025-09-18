@@ -1,9 +1,11 @@
 ---
 date: "2024-05-24T19:00:00+02:00"
-draft: false
 title: "Poprock Festival 2024 - Jour 2 - The Clive, Storm Orchestra, Charlie Winston (solo), Tendinista"
 author: "mkhelif"
 cover: "pictures/storm-orchestra-1.jpg"
+locations:
+  - Gilly
+  - Suisse
 festivals:
   - Poprock Festival
 artists:

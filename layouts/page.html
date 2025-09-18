@@ -3,7 +3,12 @@
 
     {{ if eq .Section "reports" }}
         <div class="d-flex flex-row justify-content-between mb-5">
-            {{ partial "time.html" .Date }}
+            <span>
+                {{ range $.GetTerms "locations" }}
+                    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,
+                {{ end }}
+                {{ partial "time.html" .Date }}
+            </span>
             <span>
                 {{ range $.GetTerms "artists" }}
                     <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
@@ -33,6 +38,9 @@
     {{ range $.GetTerms "festivals" }}
         {{ $content = (replace $content .LinkTitle (printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle)) | safeHTML }}
     {{ end }}
+    {{ range $.GetTerms "locations" }}
+        {{ $content = (replace $content .LinkTitle (printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle)) | safeHTML }}
+    {{ end }}
     {{ $content }}
 
     <!-- Related pages -->
@@ -59,6 +67,11 @@
                 {{ end }}
             {{ end }}
             {{ range .GetTerms "festivals" }}
+                {{ if eq .LinkTitle $.Title }}
+                    {{ partial "report.html" $page }}
+                {{ end }}
+            {{ end }}
+            {{ range .GetTerms "locations" }}
                 {{ if eq .LinkTitle $.Title }}
                     {{ partial "report.html" $page }}
                 {{ end }}
