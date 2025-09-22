@@ -21,7 +21,7 @@ Me voilà de retour sur Nantua pour la dernière soirée du Nantuafest. Il y a b
 l’organisation, ils attendent encore beaucoup de personnes.
 
 
-![Lakna](pictures/lakna.jpg)
+{{< carousel pictures="pictures/lakna" alt="Lakna" author="mkhelif.photo" >}}
 
 Lakna, jeune chanteuse venue de la Suisse voisine, entame la soirée avec des musiques issues du RnB/afro/pop/soul. Par
 ses origines burkinabées, elle nous offre un véritable mélange des genres qui fonctionne vraiment bien.
@@ -29,7 +29,7 @@ ses origines burkinabées, elle nous offre un véritable mélange des genres qui
 de chauffer le public.
 
 
-![Styleto](pictures/styleto.jpg)
+{{< carousel pictures="pictures/styleto" alt="Styleto" author="mkhelif.photo" >}}
 
 Entre ensuite sur scène Styleto, grande blonde très à l’aise sur scène malgré une timidité annoncée dès la première
 chanson.
@@ -40,7 +40,7 @@ Styleto gère bien son concert et le public est conquis, on a même droit à un 
 rigolo.
 
 
-![The Doug](pictures/the-doug.jpg)
+{{< carousel pictures="pictures/the-doug" alt="The Doug" author="mkhelif.photo" >}}
 
 Après la pop rafraichissante de Styleto, changement d’univers avec The Doug. Le jeune homme arrive en short et santiags,
 on ne sait pas trop à quoi s’attendre (je le découvre sur scène).
@@ -51,7 +51,7 @@ style de The Doug permettent de garder le public en haleine et la plupart des fe
 principalement sur « On savait s’amuser » et « Génération ».
 
 
-![Niska](pictures/niska.jpg)
+{{< carousel pictures="pictures/niska" alt="Niska" author="mkhelif.photo" >}}
 
 Pour le prochain artiste, on sent que c’est le plus attendu de la soirée (voir même du festival). La fosse est complète,
 la sécurité est renforcé au niveau des crashs.
@@ -64,13 +64,13 @@ Le show est millimétré et il n’y a pas trop de place pour les interactions a
 Niska reprend « Italia » à cappella, seul moment que je trouve appréciable dans cette surenchère de mauvais goût.
 
 
-![Feder](pictures/feder.jpg)
+{{< carousel pictures="pictures/feder" alt="Feder" author="mkhelif.photo" >}}
 
 Changement de style et d’ambiance avec Feder, DJ très attendu, il va faire danser tout le festival.
 C’est du grand classique, déjà entendu, mais ça fonctionne remarquablement bien.
 
 
-![Blasterjaxx](pictures/blasterjaxx.jpg)
+{{< carousel pictures="pictures/blasterjaxx" alt="Blasterjaxx" author="mkhelif.photo" >}}
 
 La soirée, et le festival se termine avec Blasterjaxx, duo de DJ néerlandais leader de la scène EDM, dont seul Thom
 Jongkind est derrière les platines ce soir.
