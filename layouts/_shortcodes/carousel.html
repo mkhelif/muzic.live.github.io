@@ -1,75 +1,38 @@
 {{ $id := delimit (shuffle (seq 1 9)) "" }}
-{{ $alt := index .Params 0 }}
-{{ $authorName := index .Params 1 }}
-{{ $authorLink := index .Params 2 }}
-{{ $size := sub (len .Params) 3 }}
-<div class="gallery" id="carousel-{{ $id }}">
-    {{ range $index, $src := .Params }}
-        {{ if gt $index 2 }}
-            <div class="slide">
-                <img src="{{ $src }}" alt="{{ $alt }}" onclick="openGalleryLightbox({{ $id }}, {{ sub $index 3 }})">
-            </div>
-        {{ end }}
-    {{ end }}
+{{ $directory := path.Join page.Path .Params.pictures }}
+{{ $contentDirectory := path.Join "/content" $directory }}
 
-    <!-- Controls -->
-    <a class="prev" onclick="changeSlide({{ $id }}, -1)">&#10094;</a>
-    <a class="next" onclick="changeSlide({{ $id }}, 1)">&#10095;</a>
+{{ if fileExists $contentDirectory }}
+    {{ $pictures := readDir $contentDirectory }}
+    <div id="carousel-{{ $id }}" class="glide mt-4">
+        <div class="glide__track" data-glide-el="track">
+            <ul class="glide__slides">
+                {{ range sort $pictures ".Name" "asc" }}
+                    <li class="glide__slide text-center">
+                        <img src="{{ path.Join $directory .Name }}" alt="{{ $.Params.alt }}" height="512px">
+                    </li>
+                {{ end }}
+            </ul>
+        </div>
 
-    <!-- Thumbnails -->
-    {{ range $index, $src := .Params }}
-        {{ if gt $index 2 }}
-            <div class="gallery-column">
-                <img class="demo" src="{{ $src }}" alt="{{ $alt }}" onclick="currentSlide({{ $id }})">
-            </div>
-        {{ end }}
-    {{ end }}
-</div>
-<p>Copyright <a href="https://instagram.com/{{ $authorLink }}">{{ $authorName }}</a></p>
+        <div class="glide__arrows" data-glide-el="controls">
+            <button class="glide__arrow glide__arrow--left" data-glide-dir="<">&lt;</button>
+            <button class="glide__arrow glide__arrow--right" data-glide-dir=">">&gt;</button>
+        </div>
 
-<div class="gallery-lightbox" id="carousel-{{ $id }}-lightbox">
-    {{ range $index, $src := .Params }}
-    {{ if gt $index 2 }}
-    <div class="slide">
-        <img src="{{ $src }}" alt="{{ $alt }}" onclick="openGalleryLightbox({{ $id }})">
+        <div class="glide__bullets" data-glide-el="controls[nav]">
+            {{ range seq (len $pictures) }}
+                <button class="glide__bullet" data-glide-dir="={{ . }}"></button>
+            {{ end }}
+        </div>
     </div>
-    {{ end }}
-    {{ end }}
-</div>
+    {{ partial "copyright.html" .Params.author }}
 
-<script type="text/javascript">
-    const lightbox = document.getElementById('carousel-{{ $id }}-lightbox');
-
-    var slideIndex = 1;
-    showSlides(slideIndex);
-
-    // Open/close lightbox
-    function openGalleryLightbox(id, index) {
-        lightbox.style.display = "block";
-        showSlides(slideIndex = index);
-    }
-    function closeGalleryLightbox(id) {
-        lightbox.style.display = "none";
-    }
-
-    // Previous/next
-    function changeSlide(id, index) {
-        showSlides(slideIndex = index);
-    }
-
-    function showSlides(n) {
-        var i;
-        var slides = lightbox.getElementsByClassName("slide");
-        var dots = document.getElementsByClassName("demo");
-        if (n > slides.length) {slideIndex = 1}
-        if (n < 1) {slideIndex = slides.length}
-        for (i = 0; i < slides.length; i++) {
-            slides[i].style.display = "none";
-        }
-        for (i = 0; i < dots.length; i++) {
-            dots[i].className = dots[i].classList.remove("active");
-        }
-        slides[slideIndex-1].style.display = "block";
-        dots[slideIndex-1].classList.add("active");
-    }
-</script>
+    <script type="text/javascript">
+        new Glide('#carousel-{{ $id }}', {
+            type: 'carousel',
+            focusAt: 'center',
+            perView: 1,
+        }).mount();
+    </script>
+{{ end }}

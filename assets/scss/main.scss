@@ -1,13 +1,15 @@
 @import "variables";
 @import "fonts";
 
+// Third-parties
+@import "bootstrap-5.3.8/bootstrap";
+@import "glide-3.7.1/glide.core";
+@import "glide-3.7.1/glide.theme";
+
 // Components
 @import "carousel";
 @import "navbar";
 @import "type";
-
-// Third-parties
-@import "bootstrap-5.3.8/bootstrap";
 
 html, body {
     height: 100%;

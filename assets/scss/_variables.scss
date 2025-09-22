@@ -44,6 +44,11 @@ $pagination-border-radius: 2px;
 $pagination-active-bg: $primary;
 $pagination-active-color: $dark;
 
+$pagination-focus-bg: $primary;
+$pagination-focus-color: $dark;
+$pagination-focus-outline: none;
+$pagination-focus-box-shadow: none;
+
 $pagination-hover-bg: $primary-emphasis;
 
 $pagination-disabled-bg: $dark;
