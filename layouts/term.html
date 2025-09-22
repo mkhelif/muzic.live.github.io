@@ -4,5 +4,11 @@
     {{ .Content }}
 
     <!-- Pages -->
-    {{ partial "pages.html" .Pages }}
+    {{ $regularPages := where site.RegularPages "Section" .Section }}
+    {{ $pages := union $regularPages .Pages }}
+    {{ $paginator := .Paginate (cond (eq .Section "reports") $pages.ByDate.Reverse $pages.ByTitle) 10 }}
+    {{ range $paginator.Pages }}
+        {{ partial "report.html" . }}
+    {{ end }}
+    {{ partial "pagination.html" . }}
 {{ end }}

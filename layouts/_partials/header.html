@@ -17,13 +17,13 @@
                     <a class="nav-link {{ cond (eq .Path "/") "active" "" }}" {{ cond (eq .Path "/") "aria-current=\"page\"" "" }} href="/">Accueil</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{ cond (eq .Path "/reports") "active" "" }}" {{ cond (eq .Path "/reports") "aria-current=\"page\"" "" }} href="/reports">Chroniques</a>
+                    <a class="nav-link {{ cond (hasPrefix .Path "/reports") "active" "" }}" {{ cond (hasPrefix .Path "/reports") "aria-current=\"page\"" "" }} href="/reports">Chroniques</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{ cond (eq .Path "/artists") "active" "" }}" {{ cond (eq .Path "/artists") "aria-current=\"page\"" "" }} href="/artists">Artistes</a>
+                    <a class="nav-link {{ cond (hasPrefix .Path "/artists") "active" "" }}" {{ cond (hasPrefix .Path "/artists") "aria-current=\"page\"" "" }} href="/artists">Artistes</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{ cond (eq .Path "/festivals") "active" "" }}" {{ cond (eq .Path "/festivals") "aria-current=\"page\"" "" }} href="/festivals">Festivals</a>
+                    <a class="nav-link {{ cond (hasPrefix .Path "/festivals") "active" "" }}" {{ cond (hasPrefix .Path "/festivals") "aria-current=\"page\"" "" }} href="/festivals">Festivals</a>
                 </li>
             </ul>
         </div>

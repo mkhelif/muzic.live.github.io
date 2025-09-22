@@ -4,10 +4,9 @@
     {{ .Content }}
 
     <!-- Pages -->
-    {{ partial "pages.html" .Pages }}
-    {{ range site.RegularPages }}
-        {{ if eq .Section $.Title }}
-            {{ partial "report.html" . }}
-        {{ end }}
+    {{ $paginator := .Paginate .Pages.ByDate.Reverse 10 }}
+    {{ range $paginator.Pages }}
+        {{ partial "report.html" . }}
     {{ end }}
+    {{ partial "pagination.html" . }}
 {{ end }}

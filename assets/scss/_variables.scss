@@ -33,3 +33,18 @@ $navbar-dark-color: $primary-muted;
 $navbar-dark-hover-color: $primary;
 
 $navbar-toggler-focus-width: 0;
+
+// Buttons
+$btn-border-radius: 2px;
+
+// Pagination
+$pagination-border-width: 0;
+$pagination-border-radius: 2px;
+
+$pagination-active-bg: $primary;
+$pagination-active-color: $dark;
+
+$pagination-hover-bg: $primary-emphasis;
+
+$pagination-disabled-bg: $dark;
+$pagination-disabled-color: $light;

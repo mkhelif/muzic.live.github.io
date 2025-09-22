@@ -1,6 +1,6 @@
 ---
 date: "2024-07-20T17:30:00+02:00"
-title: "Guitare en Scène 2024 - Jour 3 - Lean Wolf, Xavier Rudd, Rodrigo y Gabriela, Francis Cabrel, Nino Baliardo"
+title: "Guitare en Scène 2024 - Jour 3 - LeanWolf, Xavier Rudd, Rodrigo y Gabriela, Francis Cabrel, Nino Baliardo"
 author: "mkhelif"
 cover: "pictures/"
 locations:
@@ -9,7 +9,7 @@ locations:
 festivals:
   - Guitare en Scène
 artists:
-  - Lean Wolf
+  - LeanWolf
   - Xavier Rudd
   - Rodrigo y Gabriela
   - Francis Cabrel
@@ -36,13 +36,13 @@ Leur set, tout en nuances, est une introduction parfaite à cette journée, mett
 entre générations.
 
 
-![Lean Wolf]()
+![LeanWolf]()
 
-Le jeune prodige Lean Wolf, originaire de Montpellier, monte ensuite sur scène sous une chaleur écrasante.
+Le jeune prodige LeanWolf, originaire de Montpellier, monte ensuite sur scène sous une chaleur écrasante.
 
 Son blues rock puissant et viscéral, teinté de soul et de jazz, résonne dans tout le festival.
 
-Lean Wolf livre une performance impressionnante et termine son set par un gros coup de chaud le faisant sortir
+LeanWolf livre une performance impressionnante et termine son set par un gros coup de chaud le faisant sortir
 rapidement de la scène sous les acclamations du public.
 
 

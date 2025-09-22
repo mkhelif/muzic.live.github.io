@@ -2,10 +2,11 @@
     <h1 class="mb-4 p-3 bg-primary text-dark">{{ .Title }}</h1>
 
     <!-- Pages -->
-    {{ range site.RegularPages }}
-        {{ if eq .Section $.Section }}
-            {{ partial "report.html" . }}
-        {{ end }}
+    {{ $regularPages := where site.RegularPages "Section" .Section }}
+    {{ $pages := union $regularPages .Pages }}
+    {{ $paginator := .Paginate (cond (eq .Section "reports") $pages.ByDate.Reverse $pages.ByTitle) 10 }}
+    {{ range $paginator.Pages }}
+        {{ partial "report.html" . }}
     {{ end }}
-    {{ partial "pages.html" .Pages }}
+    {{ partial "pagination.html" . }}
 {{ end }}

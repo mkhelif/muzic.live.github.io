@@ -57,7 +57,7 @@
                 {{ end }}
             {{ end }}
         {{ end }}
-    {{ else if (ne .Kind "page") }}
+    {{ else if (in .Section "festivals") }}
         <h2 class="mt-5 p-3 bg-primary text-dark">Chroniques de concerts</h2>
         {{ range $.Site.RegularPages }}
             {{ $page := . }}
