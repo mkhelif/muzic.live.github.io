@@ -42,6 +42,9 @@
     {{ end }}
 {{ end }}
 
+{{ with resources.Get "js/fontawesome-7.0.1/all.min.js" | fingerprint }}
+    <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+{{ end }}
 {{ with resources.Get "js/glide-3.7.1/glide.min.js" | fingerprint }}
     <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
 {{ end }}
