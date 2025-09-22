@@ -2,7 +2,7 @@
 date: "2024-05-20T07:45:32+02:00"
 title: "Nantuafest 2024 - Jour 3 - Lakna, Styleto, The Doug, Niska, Feder, Blasterjaxx"
 author: "mkhelif"
-cover: "pictures/the-doug.jpg"
+cover: "pictures/the-doug/01.jpg"
 locations:
   - Nantua
   - France
@@ -37,10 +37,10 @@ Connue en tant qu’influenceuse, il ne faudrait pas la cantonner à son image d
 électro dansante soutenue par une voix profonde.
 On ne peut pas passer à côté de la ressemblance, musicale, avec Louane.
 Styleto gère bien son concert et le public est conquis, on a même droit à un wall of death (sur de la pop ?) assez
-rigolo.
+rigolo.`
 
 
-{{< carousel pictures="pictures/the-doug" alt="The Doug" author="mkhelif.photo" >}}
+`{{< carousel pictures="pictures/the-doug" alt="The Doug" author="mkhelif.photo" >}}
 
 Après la pop rafraichissante de Styleto, changement d’univers avec The Doug. Le jeune homme arrive en short et santiags,
 on ne sait pas trop à quoi s’attendre (je le découvre sur scène).
