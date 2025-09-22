@@ -1,9 +1,9 @@
 <h3 class="pt-3"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
 <div class="pb-2 px-3 px-sm-0">
     {{ if .Params.cover }}
-        <div style="height: 165px; width: 240px;" class="float-start d-flex align-content-center me-3">
+        <div class="float-sm-start d-flex align-content-center me-sm-3 mb-3" style="width: 250px">
             <a href="{{ .RelPermalink }}" class="mx-auto h-100">
-                <img src="{{ urls.JoinPath .Path .Params.cover | absURL }}" height="100%" />
+                <img src="{{ urls.JoinPath .Path .Params.cover | absURL }}" width="100%" />
             </a>
         </div>
     {{ end }}
