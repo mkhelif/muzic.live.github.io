@@ -1,9 +1,11 @@
 <h3 class="pt-3"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
-<div class="pb-2">
+<div class="pb-2 px-3 px-sm-0">
     {{ if .Params.cover }}
-        <a href="{{ .RelPermalink }}" class="float-start">
-            <img src="{{ urls.JoinPath .Path .Params.cover | absURL }}" height="165px" class="me-3" />
-        </a>
+        <div style="height: 165px; width: 240px;" class="float-start d-flex align-content-center me-3">
+            <a href="{{ .RelPermalink }}" class="mx-auto h-100">
+                <img src="{{ urls.JoinPath .Path .Params.cover | absURL }}" height="100%" />
+            </a>
+        </div>
     {{ end }}
     <div class="small text-body-tertiary">
         {{ range $.GetTerms "locations" }}
@@ -12,7 +14,7 @@
         {{ if eq .Section "reports" }}
             {{ partial "time.html" .Date }}
         {{ end }}
-        <div class="pt-1 text-muted ">{{ .Content | plainify | truncate 1000 }}</div>
+        <div class="pt-1 text-muted text-justify text-sm-start">{{ .Content | plainify | truncate 1000 }}</div>
         <p class="text-end" style="clear: both">
             <a href="{{ .RelPermalink }}">Lire la suite</a>
         </p>

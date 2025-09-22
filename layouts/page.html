@@ -57,7 +57,7 @@
                 {{ end }}
             {{ end }}
         {{ end }}
-    {{ else }}
+    {{ else if (ne .Kind "page") }}
         <h2 class="mt-5 p-3 bg-primary text-dark">Chroniques de concerts</h2>
         {{ range $.Site.RegularPages }}
             {{ $page := . }}

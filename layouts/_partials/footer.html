@@ -1,4 +1,32 @@
-<div class="d-flex justify-content-center bg-primary text-dark p-4 mt-5">
+<div class="bg-primary text-dark p-2 p-sm-4 mt-5 small">
+    <div class="d-flex mt-4 justify-content-evenly">
+        <div class="mx-2 mx-sm-5">
+            <a href="/">
+                <img class="d-block d-sm-none" src="/logo.png" width="80px" alt="{{ .Site.Title }}" />
+                <img class="d-none d-sm-block" src="/logo.png" width="96px" alt="{{ .Site.Title }}" />
+            </a>
+        </div>
 
-    <p class="small m-2 p-2">Copyright {{ now.Year }}. All rights reserved.</p>
+        <div class="flex-grow-1 d-none d-sm-block">
+        </div>
+
+        <div class="mx-2 mx-sm-5">
+            <h6 class="fw-semibold">À propos</h6>
+            <p class="mb-1"><a class="text-dark" href="/">Conditions d'utilisation</a></p>
+        </div>
+
+        <div class="mx-2 mx-sm-5">
+            <h6 class="fw-semibold">
+                <a class="text-dark" href="/contact">Nous contacter</a>
+            </h6>
+            <p class="mb-1">
+                <a class="text-dark" href="https://instagram.com/muzic.live">Insta</a>
+                <a class="text-dark" href="https://facebook.com/muzic.live">Face</a>
+                <a class="text-dark" href="mailto:contact@muzic.live">Email</a>
+            </p>
+        </div>
+    </div>
+    <p class="text-center small mt-4">
+        <small>Tous droits réservés, textes et photos XXX à leurs auteurs respectifs.</small>
+    </p>
 </div>

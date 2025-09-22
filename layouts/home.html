@@ -1,7 +1,7 @@
 {{ define "main" }}
     {{ .Content }}
 
-    <h1>Dernières chroniques de concerts</h1>
+    <h1 class="mb-4 p-3 bg-primary text-dark">Dernières chroniques de concerts</h1>
     {{ $index := 0 }}
     {{ range site.RegularPages }}
         {{ if eq .Section "reports" }}
