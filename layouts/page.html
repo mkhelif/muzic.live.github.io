@@ -44,7 +44,7 @@
     {{ if eq .Section "reports" }}
         {{ range .GetTerms "festivals" }}
             {{ $festival := .LinkTitle }}
-            <h2 class="mt-5 p-3 bg-primary text-dark">Autres chroniques du {{ .LinkTitle }}</h2>
+            <h2 class="mt-5 p-3 bg-primary text-dark">Autres chroniques du {{ $festival }}</h2>
             {{ range $.Site.RegularPages }}
                 {{ $page := . }}
                 {{ range .GetTerms "festivals" }}
@@ -77,5 +77,8 @@
     {{ end }}
 
     <!-- Comments -->
-
+    {{ if eq .Section "reports" }}
+        <h2 class="mt-5 p-3 bg-primary text-dark">Commentaires</h2>
+        {{ partial "disqus.html" . }}
+    {{ end }}
 {{ end }}

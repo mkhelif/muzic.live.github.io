@@ -6,14 +6,13 @@
 
         <!-- TODO style toggler -->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu" aria-controls="menu" aria-expanded="false" aria-label="Afficher menu">
-            <span class="navbar-toggler-icon"></span>
+            <i class="fa fa-bars"></i>
         </button>
 
         <!-- Menu -->
         <div class="collapse navbar-collapse" id="menu">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <!-- TODO set class="active" and aria-current="page" only for the active page -->
                     <a class="nav-link {{ cond (eq .Path "/") "active" "" }}" {{ cond (eq .Path "/") "aria-current=\"page\"" "" }} href="/">Accueil</a>
                 </li>
                 <li class="nav-item">
