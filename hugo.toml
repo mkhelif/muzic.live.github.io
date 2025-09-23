@@ -24,7 +24,7 @@ title = 'Muzic.Live'
   [services.googleAnalytics]
     id = 'GTM-NH68JMS8'
   [services.disqus]
-    shortname = 'mkhelif_ml'
+    shortname = 'muzic-live'
   [services.rss]
     limit = 42
 

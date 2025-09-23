@@ -1,0 +1,16 @@
+{{ if . }}
+    {{ $rank := div . 2.0 }}
+    <span class="text-primary">
+        {{ range seq 0 4 }}
+            {{ if ge $rank . }}
+                {{ if lt $rank (add . 1) }}
+                    <i class="fa fa-star-half-stroke"></i>
+                {{ else }}
+                    <i class="fa fa-star"></i>
+                {{ end }}
+            {{ else }}
+                <i class="far fa-star"></i>
+            {{ end }}
+        {{ end }}
+    </span>
+{{ end }}

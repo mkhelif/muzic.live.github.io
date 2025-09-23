@@ -9,6 +9,7 @@
                 {{ end }}
                 {{ partial "time.html" .Date }}
             </span>
+            <span class="flex-grow-1 ms-3">{{ partial "rank.html" .Params.rank }}</span>
             <span>
                 {{ range $.GetTerms "artists" }}
                     <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
