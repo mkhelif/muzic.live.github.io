@@ -1,7 +1,6 @@
 {{ $id := delimit (shuffle (seq 1 9)) "" }}
 {{ $directory := path.Join page.Path .Params.pictures }}
 {{ $contentDirectory := path.Join "/content" $directory }}
-
 {{ if fileExists $contentDirectory }}
     {{ $pictures := readDir $contentDirectory }}
     <div id="carousel-{{ $id }}" class="glide mt-4">
