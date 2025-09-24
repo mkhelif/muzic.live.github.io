@@ -8,7 +8,6 @@
         <div class="glide__track" data-glide-el="track">
             <ul class="glide__slides">
                 {{ range sort $pictures ".Name" "asc" }}
-                {{ .Name }}
                     <li class="glide__slide text-center">
                         <img src="{{ path.Join $directory .Name }}" alt="{{ $.Params.alt }}" height="512px">
                     </li>
