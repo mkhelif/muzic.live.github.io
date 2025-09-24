@@ -1,6 +1,6 @@
 {{ $id := delimit (shuffle (seq 1 9)) "" }}
 {{ $directory := path.Join .Page.Path .Params.pictures }}
-{{ $contentDirectory := path.Join (cond hugo.IsDevelopment "content" "") $directory }}
+{{ $contentDirectory := path.Join "content" $directory }}
 
 {{ if fileExists $contentDirectory }}
     {{ $pictures := readDir $contentDirectory }}
