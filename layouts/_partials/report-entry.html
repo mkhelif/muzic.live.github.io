@@ -1,7 +1,7 @@
 <div class="pb-2 px-3 px-sm-0" data-pagefind-ignore="all">
     {{ if .Params.cover }}
-        <div class="float-sm-start d-flex align-content-center me-sm-3 my-2" style="width: 250px">
-            <a href="{{ .RelPermalink }}" class="mx-auto h-100">
+        <div class="float-sm-start d-flex align-content-center me-sm-3 my-2 mx-auto" style="width: 250px">
+            <a href="{{ .RelPermalink }}" class="h-100">
                 <img src="{{ urls.JoinPath .Path .Params.cover | absURL }}" width="100%" class="rounded-1" />
             </a>
         </div>

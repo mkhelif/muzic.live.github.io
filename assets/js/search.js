@@ -46,14 +46,6 @@ window.addEventListener('DOMContentLoaded', () => loading.then(pagefind => {
             element.appendChild(createCoverElement(data.meta.image, data.meta.image_alt, data.url));
             element.appendChild(createTitleElement(data.meta.title, data.url));
             element.appendChild(createContentElement(data));
-            /*data.meta.date;
-            data.meta.image; // url
-            data.meta.image_alt; // alt
-            data.meta.locations; // locations
-            data.meta.rank; // ranking
-
-            console.log(data.url);
-            console.log(data.meta);*/
         });
         searchResults.appendChild(element);
     }
@@ -85,12 +77,12 @@ function createCoverElement(src, alt, url) {
 
     const link = document.createElement('a');
     link.href = url;
-    link.classList.add('mx-auto', 'h-100');
+    link.classList.add('h-100');
     link.appendChild(image);
 
     const cover = document.createElement('div');
     cover.style.width = '250px';
-    cover.classList.add('float-sm-start', 'd-flex', 'align-content-center', 'me-sm-3', 'my-2');
+    cover.classList.add('float-sm-start', 'd-flex', 'align-content-center', 'me-sm-3', 'my-2', 'mx-auto');
     cover.appendChild(link);
     return cover;
 }
@@ -121,7 +113,7 @@ function createContentElement(data) {
         content.appendChild(createDateElement(data.meta.date));
     }
 
-    const rank = createRankElement(data.rank);
+    const rank = createRankElement(data.meta.rank);
     if (rank) {
         content.appendChild(rank);
     }
@@ -154,11 +146,11 @@ function createRankElement(value) {
     const rank = document.createElement('span');
     rank.classList.add('ms-2', 'text-primary');
 
-    const scale = value / 2;
+    value = Number(value);
     for (let i = 0 ; i < 5 ; i++) {
         const icon = document.createElement('i');
-        if (scale > i) {
-            if (scale < i + 1) {
+        if (value > i) {
+            if (value < i + 1) {
                 icon.classList.add('fa', 'fa-star-half-stroke');
             } else {
                 icon.classList.add('fa', 'fa-star');
