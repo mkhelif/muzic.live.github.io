@@ -1,18 +1,20 @@
 {{ define "main" }}
-    {{ .Content }}
+    <div data-pagefind-ignore="all">
+        {{ .Content }}
 
-    <h1 class="mb-4 p-3 bg-primary text-dark">Dernières chroniques de concerts</h1>
-    {{ $index := 0 }}
-    {{ range site.RegularPages }}
-        {{ if eq .Section "reports" }}
-            {{ $index = (add $index 1) }}
-            {{ partial "report.html" . }}
+        <h1 class="mb-4 p-3 bg-primary text-dark">Dernières chroniques de concerts</h1>
+        {{ $index := 0 }}
+        {{ range site.RegularPages }}
+            {{ if eq .Section "reports" }}
+                {{ $index = (add $index 1) }}
+                {{ partial "report-entry.html" . }}
+            {{ end }}
+            {{ if ge $index 5 }}
+                {{ break }}
+            {{ end }}
         {{ end }}
-        {{ if ge $index 5 }}
-            {{ break }}
-        {{ end }}
-    {{ end }}
-    <p class="text-center">
-        <a class="btn btn-primary" href="/reports">Voir plus</a>
-    </p>
+        <p class="text-center">
+            <a class="btn btn-primary" href="/reports">Voir plus</a>
+        </p>
+    </div>
 {{ end }}

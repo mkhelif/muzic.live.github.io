@@ -1,12 +1,14 @@
 {{ define "main" }}
-    <h1 class="mb-4 p-3 bg-primary text-dark">{{ .Title }}</h1>
+    <div data-pagefind-ignore="all">
+        <h1 class="mb-4 p-3 bg-primary text-dark">{{ .Title }}</h1>
 
-    {{ .Content }}
+        {{ .Content }}
 
-    <!-- Pages -->
-    {{ $paginator := .Paginate .Pages.ByDate.Reverse 10 }}
-    {{ range $paginator.Pages }}
-        {{ partial "report.html" . }}
-    {{ end }}
-    {{ partial "pagination.html" . }}
+        <!-- Pages -->
+        {{ $paginator := .Paginate .Pages.ByDate.Reverse 10 }}
+        {{ range $paginator.Pages }}
+            {{ partial "report-entry.html" . }}
+        {{ end }}
+        {{ partial "pagination.html" . }}
+    </div>
 {{ end }}

@@ -1,3 +1,9 @@
 {{ $dateMachine := . | time.Format "1970-01-01T00:00:00-00:00" }}
 {{ $dateHuman := . | time.Format ":date_long" }}
-<time class="text-body" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+<time class="text-body"
+      datetime="{{ $dateMachine }}"
+      data-pagefind-meta="date"
+      data-pagefind-ignore
+>
+    {{ $dateHuman }}
+</time>

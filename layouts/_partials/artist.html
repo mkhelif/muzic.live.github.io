@@ -1,0 +1,21 @@
+<h1 class="mb-4 p-3 bg-primary text-dark"
+    data-pagefind-meta="title"
+    data-pagefind-ignore
+>
+    {{ .Title }}
+</h1>
+
+{{ partial "cover.html" . }}
+{{ partial "content.html" . }}
+
+<div data-pagefind-ignore="all">
+    <h4 class="mt-5 p-3 bg-primary text-dark">Chroniques de concerts</h4>
+    {{ range $.Site.RegularPages }}
+        {{ $page := . }}
+        {{ range .GetTerms "artists" }}
+            {{ if eq .LinkTitle $.Title }}
+                {{ partial "report-entry.html" $page }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+</div>

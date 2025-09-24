@@ -1,8 +1,13 @@
 <nav class="navbar navbar-dark navbar-expand-lg">
-    <div class="container-fluid">
+    <div class="d-flex align-items-center w-100">
         <a class="navbar-brand" href="/">
-            <img src="/logo-text.png" alt="{{ site.Title }}" />
+            <img class="d-block d-sm-none" src="/logo.png" alt="{{ site.Title }}" width="50px" />
+            <img class="d-none d-sm-block" src="/logo-text.png" alt="{{ site.Title }}" />
         </a>
+
+        <div class="w-100 me-3 z-3">
+            <input class="form-control form-control-sm" id="search-input" type="search" placeholder="Rechercher" aria-label="Rechercher" />
+        </div>
 
         <!-- TODO style toggler -->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu" aria-controls="menu" aria-expanded="false" aria-label="Afficher menu">

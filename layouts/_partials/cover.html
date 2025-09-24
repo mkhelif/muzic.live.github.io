@@ -1,0 +1,8 @@
+{{ if .Params.cover }}
+    <div class="d-flex justify-content-center mb-5">
+        <img data-pagefind-meta="image[src], image_alt[alt]"
+             src="{{ urls.JoinPath .Path .Params.cover | absURL }}"
+             alt="{{ .Title }}"
+             width="512px">
+    </div>
+{{ end }}

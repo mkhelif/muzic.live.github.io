@@ -12,12 +12,14 @@
             <header>
                 {{ partial "header.html" . }}
             </header>
-            <main class="grow-1">
+            <main class="flex-grow-1" data-pagefind-body>
                 {{ block "main" . }}{{ end }}
             </main>
             <footer>
                 {{ partial "footer.html" . }}
             </footer>
         </div>
+
+        {{ partial "search-results.html" }}
     </body>
 </html>

@@ -1,0 +1,8 @@
+#search-results-container {
+    background-color: transparentize($dark, 0.15);
+    overflow-y: scroll;
+}
+
+#search-results {
+    padding: 2.5rem 0;
+}

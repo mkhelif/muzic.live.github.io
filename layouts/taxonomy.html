@@ -1,12 +1,13 @@
 {{ define "main" }}
-    <h1 class="mb-4 p-3 bg-primary text-dark">{{ .Title }}</h1>
+    <div data-pagefind-ignore="all">
+        <h1 class="mb-4 p-3 bg-primary text-dark">{{ .Title }}</h1>
 
-    <!-- Pages -->
-    {{ $regularPages := where site.RegularPages "Section" .Section }}
-    {{ $pages := union $regularPages .Pages }}
-    {{ $paginator := .Paginate (cond (eq .Section "reports") $pages.ByDate.Reverse $pages.ByTitle) 10 }}
-    {{ range $paginator.Pages }}
-        {{ partial "report.html" . }}
-    {{ end }}
-    {{ partial "pagination.html" . }}
+        <!-- Pages -->
+        {{ $pages := where site.RegularPages "Section" .Section }}
+        {{ $paginator := .Paginate (cond (eq .Section "reports") $pages.ByDate.Reverse $pages.ByTitle) 10 }}
+        {{ range $paginator.Pages }}
+            {{ partial "report-entry.html" . }}
+        {{ end }}
+        {{ partial "pagination.html" . }}
+    </div>
 {{ end }}

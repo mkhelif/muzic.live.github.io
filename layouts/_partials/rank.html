@@ -1,6 +1,9 @@
 {{ if . }}
     {{ $rank := div . 2.0 }}
-    <span class="text-primary">
+    <span class="text-primary"
+          data-pagefind-meta="rank: {{ $rank }}"
+          data-pagefind-ignore
+    >
         {{ range seq 0 4 }}
             {{ if ge $rank . }}
                 {{ if lt $rank (add . 1) }}

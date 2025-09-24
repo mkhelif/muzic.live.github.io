@@ -32,6 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.150.0
+      PAGEFIND_VERSION: 1.4.0
     steps:
       - name: Install Hugo CLI
         run: |
@@ -56,6 +57,9 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Build pagefind index
+        run: |
+          npx pagefind --site public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -15,6 +15,8 @@ $primary-emphasis: lighten($primary, 0.5);
 $primary-muted: transparentize($primary, 0.5);
 
 // Fonts
+$font-path: "/fonts/fontawesome-7.0.1";
+
 $font-family-base: 'Noto Sans', sans-serif;
 $font-weight-base: 200;
 
@@ -24,6 +26,10 @@ $headings-margin-top: 1em;
 
 // Links
 $link-decoration: none;
+
+// Z-Index
+$zindex-modal-backdrop: 1050;
+$zindex-modal:          1055;
 
 // Navbar
 $navbar-padding-y: 2.5rem;
@@ -54,5 +60,6 @@ $pagination-hover-bg: $primary-emphasis;
 $pagination-disabled-bg: $dark;
 $pagination-disabled-color: $light;
 
-// FontAwesome
-$font-path: "/fonts/fontawesome-7.0.1";
+// Mark
+$mark-bg: $primary;
+$mark-color: $dark;

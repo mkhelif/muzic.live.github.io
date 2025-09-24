@@ -6,5 +6,7 @@
 {{ end }}
 
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+
+<!-- Resources -->
 {{ partial "styles.html" . }}
 {{ partial "scripts.html" . }}

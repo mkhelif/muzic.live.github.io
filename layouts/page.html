@@ -1,85 +1,20 @@
 {{ define "main" }}
-    <h1 class="mb-4 p-3 bg-primary text-dark">{{ .Title }}</h1>
-
-    {{ if eq .Section "reports" }}
-        <div class="d-flex flex-row justify-content-between mb-5">
-            <span>
-                {{ range $.GetTerms "locations" }}
-                    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,
-                {{ end }}
-                {{ partial "time.html" .Date }}
-            </span>
-            <span class="flex-grow-1 ms-3">{{ partial "rank.html" .Params.rank }}</span>
-            <span>
-                {{ range $.GetTerms "artists" }}
-                    <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-                {{ end }}
-                {{ range $.GetTerms "festivals" }}
-                    <a class="badge bg-success text-dark ms-1" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-                {{ end }}
-            </span>
-        </div>
-    {{ end }}
-
-    <!-- Page Content -->
-    {{ if and (ne .Section "reports") (.Params.cover) }}
-        <div class="d-flex justify-content-center mb-5">
-            <img src="{{ urls.JoinPath .Path .Params.cover | absURL }}" alt="{{ .Title }}" width="512px" />
-        </div>
-    {{ end }}
-
-    {{ $content := .Content }}
-    {{ range $.Site.RegularPages }}
-        {{ $link := printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle }}
-        {{ $content = (replace $content .LinkTitle $link) | safeHTML }}
-    {{ end }}
-    {{ range $.GetTerms "artists" }}
-        {{ $content = (replace $content .LinkTitle (printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle)) | safeHTML }}
-    {{ end }}
-    {{ range $.GetTerms "festivals" }}
-        {{ $content = (replace $content .LinkTitle (printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle)) | safeHTML }}
-    {{ end }}
-    {{ $content }}
-
-    <!-- Related pages -->
-    {{ if eq .Section "reports" }}
-        {{ range .GetTerms "festivals" }}
-            {{ $festival := .LinkTitle }}
-            <h2 class="mt-5 p-3 bg-primary text-dark">Autres chroniques du {{ $festival }}</h2>
-            {{ range $.Site.RegularPages }}
-                {{ $page := . }}
-                {{ range .GetTerms "festivals" }}
-                    {{ if and (eq .LinkTitle $festival) (ne $page.Path $.Path) }}
-                        {{ partial "report.html" $page }}
-                    {{ end }}
-                {{ end }}
-            {{ end }}
+    <div>
+        <!-- Content -->
+        {{ if eq .Section "artists" }}
+            {{ partial "artist.html" . }}
+        {{ else if eq .Section "festivals" }}
+            {{ partial "festival.html" . }}
+        {{ else if eq .Section "reports" }}
+            {{ partial "report.html" . }}
         {{ end }}
-    {{ else if (in .Section "festivals") }}
-        <h2 class="mt-5 p-3 bg-primary text-dark">Chroniques de concerts</h2>
-        {{ range $.Site.RegularPages }}
-            {{ $page := . }}
-            {{ range .GetTerms "artists" }}
-                {{ if eq .LinkTitle $.Title }}
-                    {{ partial "report.html" $page }}
-                {{ end }}
-            {{ end }}
-            {{ range .GetTerms "festivals" }}
-                {{ if eq .LinkTitle $.Title }}
-                    {{ partial "report.html" $page }}
-                {{ end }}
-            {{ end }}
-            {{ range .GetTerms "locations" }}
-                {{ if eq .LinkTitle $.Title }}
-                    {{ partial "report.html" $page }}
-                {{ end }}
-            {{ end }}
-        {{ end }}
-    {{ end }}
 
-    <!-- Comments -->
-    {{ if eq .Section "reports" }}
-        <h2 class="mt-5 p-3 bg-primary text-dark">Commentaires</h2>
-        {{ partial "disqus.html" . }}
-    {{ end }}
+        <!-- Comments -->
+        {{ if eq .Section "reports" }}
+            <div data-pagefind-ignore="all">
+                <h4 class="mt-3 p-3 bg-primary text-dark">Commentaires</h4>
+                {{ partial "disqus.html" . }}
+            </div>
+        {{ end }}
+    </div>
 {{ end }}
