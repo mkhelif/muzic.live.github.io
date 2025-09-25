@@ -15,7 +15,7 @@ artists:
   - My Beautiful Disorders
 ---
 
-![The Square](pictures/the-square-1.jpg)
+{{< carousel pictures="pictures/the-square" alt="The Square" author="mkhelif.photo" >}}
 
 Les gagnants du concours jeune talent, The Square, ont ouvert les festivités avec une énergie rafraîchissante.
 
@@ -29,7 +29,7 @@ L'interaction avec le public était dynamique, bien que ce dernier soit encore p
 Une performance prometteuse pour ce jeune groupe.
 
 
-![My Beautiful Disorders](pictures/my-beautiful-disorders.jpg)
+{{< carousel pictures="pictures/my-beautiful-disorders" alt="My Beautiful Disorders" author="mkhelif.photo" >}}
 
 Dans une ambiance plus aérienne et introspective, My Beautiful Disorders a proposé un set qui, bien que de grande
 qualité, a eu du mal à captiver un public déjà habitué à des rythmes plus dynamiques.
@@ -41,7 +41,7 @@ Une prestation peut-être mal placée dans la programmation, mais qui a tout de 
 à la soirée.
 
 
-![Da Cruz](pictures/da-cruz-1.jpg)
+{{< carousel pictures="pictures/da-cruz" alt="Da Cruz" author="mkhelif.photo" >}}
 
 Mariana Da Cruz, une véritable tornade brésilienne, a enflammé la scène avec sa présence exubérante et sa voix
 chaleureuse.
@@ -55,7 +55,7 @@ Mariana est même descendue au milieu du public, créant une connexion intime et
 Une performance énergique et colorée.
 
 
-![Da Break](pictures/da-break-1.jpg)
+{{< carousel pictures="pictures/da-break" alt="Da Break" author="mkhelif.photo" >}}
 
 Da Break a ensuite apporté une dose massive de groove et de chaleur avec leur mélange de soul, hip-hop, R’n’B et funk.
 
@@ -69,7 +69,7 @@ Chaque membre du quintet a brillé, démontrant une parfaite alchimie et une pr�
 Da Break a transformé le festival en une immense piste de danse, impossible de résister à leur invitation.
 
 
-![Broken Back](pictures/broken-back-3.jpg)
+{{< carousel pictures="pictures/broken-back" alt="Broken Back" author="mkhelif.photo" >}}
 
 Pour clore cette dernière journée, Broken Back a littéralement mis le feu au Poprock Festival.
 
