@@ -2,7 +2,7 @@
 date: "2024-05-23T19:00:00+02:00"
 title: "Poprock Festival 2024 - Jour 1 - Smokeheads, The Brains, Dropdead Chaos, Skellige"
 author: "mkhelif"
-cover: "pictures/smokeheads.jpg"
+cover: "pictures/dropdead-chaos/01.jpg"
 locations:
   - Gilly
   - Suisse
@@ -22,7 +22,7 @@ Les groupes présents ont montré une palette musicale riche et diversifiée, fa
 par l’association depuis 2008.
 
 
-![Skellige](pictures/skellige.jpg)
+{{< carousel pictures="pictures/skellige" alt="Skellige" author="mkhelif.photo" >}}
 
 Démarrant la soirée (ainsi qu’entre chaque changement de la scène principale), le groupe vaudois Skellige nous propose
 une folk celtique avec des harmonies vocales et instrumentales parfaitement entrelacées.
@@ -31,7 +31,7 @@ Le groupe a su séduire le public et a apporté une ambiance conviviale et enjou
 irlandaises.
 
 
-![Smokeheads](pictures/smokeheads.jpg)
+{{< carousel pictures="pictures/smokeheads" alt="Smokeheads" author="mkhelif.photo" >}}
 
 Smokeheads est ensuite entré en scène pour enflammer le Poprock Festival.
 
@@ -46,7 +46,7 @@ Smokeheads a fait honneur à la tradition du festival de mélanger têtes d'affi
 authenticité et une puissance brute qui a transcendé la scène.
 
 
-![The Brains](pictures/the-brains.jpg)
+{{< carousel pictures="pictures/the-brains" alt="The Brains" author="mkhelif.photo" >}}
 
 Après une nouvelle entracte avec Skellige, c’est le trio punk rock canadien, The Brains, qui a littéralement électrisé
 la scène.
@@ -62,7 +62,7 @@ Une leçon de punk rock rockabilly à l’état pur, sublimée par une interacti
 barrières.
 
 
-![Dropdead Chaos](pictures/dropdead-chaos-1.jpg)
+{{< carousel pictures="pictures/dropdead-chaos" alt="Dropdead Chaos" author="mkhelif.photo" >}}
 
 Dropdead Chaos fait une entrée tonitruante.
 
@@ -77,7 +77,7 @@ La synchronisation parfaite et la synergie entre les membres ont offert un spect
 leur réputation de machine live implacable.
 
 
-![DJ Gil Von De](pictures/dj-gil-von-de.jpg)
+{{< carousel pictures="pictures/dj-gil-von-de" alt="DJ Gil Von De" author="mkhelif.photo" >}}
 
 Pour conclure cette première soirée, c’est le DJ Gil Von De qui se met aux platines en gardant le thème rock/métal de la
 journée.
