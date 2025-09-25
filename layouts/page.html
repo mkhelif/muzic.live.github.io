@@ -9,6 +9,7 @@
             {{ partial "report.html" . }}
         {{ else }}
             <div class="container">
+                <h1 class="mb-3 px-4 py-3 bg-primary text-dark">{{ .Title }}</h1>
                 {{ partial "content.html" . }}
             </div>
         {{ end }}
