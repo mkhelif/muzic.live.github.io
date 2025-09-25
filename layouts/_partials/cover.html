@@ -1,8 +1,30 @@
 {{ if .Params.cover }}
-    <div class="d-flex justify-content-center mb-5">
-        <img data-pagefind-meta="image[src], image_alt[alt]"
-             src="{{ urls.JoinPath .Path .Params.cover | absURL }}"
-             alt="{{ .Title }}"
-             width="512px">
+    {{ $url := urls.JoinPath .Path .Params.cover | absURL | safeURL }}
+    <div class="cover position-relative d-flex flex-column align-content-end mb-4" style="background-image: url({{ $url }});">
+        <div data-pagefind-meta="image[data-src], image_alt[data-alt]"
+             data-src="{{ urls.JoinPath .Path .Params.cover | absURL }}"
+             data-alt="{{ .Title }}"
+             class="backdrop-blur position-absolute w-100 h-100"
+        ></div>
+
+        <div class="flex-grow-1"></div>
+        <div class="container z-1 p-0 position-relative">
+            <div class="position-absolute bottom-0 bg-dark w-100 h-100 opacity-25 rounded-top-1"></div>
+            <h1 class="position-relative m-0 px-4 py-3 text-primary"
+                data-pagefind-meta="title"
+                data-pagefind-ignore
+            >
+                {{ .Title }}
+            </h1>
+        </div>
+    </div>
+{{ else }}
+    <div class="container">
+        <h1 class="mb-4 p-3 bg-primary text-dark"
+            data-pagefind-meta="title"
+            data-pagefind-ignore
+        >
+            {{ .Title }}
+        </h1>
     </div>
 {{ end }}

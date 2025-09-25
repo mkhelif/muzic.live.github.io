@@ -1,0 +1,14 @@
+.cover {
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    .backdrop-blur {
+        backdrop-filter: blur(10px);
+    }
+    .backdrop-opacity {
+        backdrop-filter: opacity(50%);
+    }
+}

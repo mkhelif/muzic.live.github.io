@@ -1,51 +1,47 @@
-<h1 class="mb-4 p-3 bg-primary text-dark"
-    data-pagefind-meta="title"
-    data-pagefind-ignore
->
-    {{ .Title }}
-</h1>
+{{ partial "cover.html" . }}
 
-<div data-pagefind-meta="image[data-src], image_alt[data-alt]"
-     data-src="{{ urls.JoinPath .Path .Params.cover | absURL }}"
-     data-alt="{{ .Title }}"
-     class="d-none"></div>
+<div class="container">
+    <div data-pagefind-meta="image[data-src], image_alt[data-alt]"
+         data-src="{{ urls.JoinPath .Path .Params.cover | absURL }}"
+         data-alt="{{ .Title }}"
+         class="d-none"></div>
 
-<p>
-    {{ range $.GetTerms "artists" }}
-    <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
-    {{ end }}
-    {{ range $.GetTerms "festivals" }}
-    <a class="badge bg-success text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
-    {{ end }}
-</p>
-
-<div class="d-flex flex-row justify-content-between mb-5">
-    <span>
-        {{ $locations := slice }}
-        {{ range $.GetTerms "locations" }}
-            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,
-            {{ $locations = $locations | append .LinkTitle }}
+    <p>
+        {{ range $.GetTerms "artists" }}
+        <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
         {{ end }}
-        {{ partial "time.html" .Date }}
-    </span>
-    <span data-pagefind-meta="locations: {{ delimit $locations ", " }}"></span>
-    <span class="flex-grow-1 ms-3">{{ partial "rank.html" .Params.rank }}</span>
-</div>
+        {{ range $.GetTerms "festivals" }}
+        <a class="badge bg-success text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+        {{ end }}
+    </p>
 
-{{ partial "content.html" . }}
+    <div class="d-flex flex-row justify-content-between mb-5">
+        <span>
+            {{ $locations := slice }}
+            {{ range $.GetTerms "locations" }}
+                <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,
+                {{ $locations = $locations | append .LinkTitle }}
+            {{ end }}
+            {{ partial "time.html" .Date }}
+        </span>
+        <span data-pagefind-meta="locations: {{ delimit $locations ", " }}"></span>
+        <span class="flex-grow-1 ms-3">{{ partial "rank.html" .Params.rank }}</span>
+    </div>
 
-<div data-pagefind-ignore="all">
-    {{ range .GetTerms "festivals" }}
-        {{ $festival := .LinkTitle }}
-        <h4 class="mt-5 p-3 bg-primary text-dark">Autres chroniques du festival {{ $festival }}</h4>
-        {{ range $.Site.RegularPages }}
-            {{ $page := . }}
-            {{ range .GetTerms "festivals" }}
-                {{ if and (eq .LinkTitle $festival) (ne $page.Path $.Path) }}
-                    {{ partial "report-entry.html" $page }}
+    {{ partial "content.html" . }}
+
+    <div data-pagefind-ignore="all">
+        {{ range .GetTerms "festivals" }}
+            {{ $festival := .LinkTitle }}
+            <h4 class="mt-5 p-3 bg-primary text-dark">Autres chroniques du festival {{ $festival }}</h4>
+            {{ range $.Site.RegularPages }}
+                {{ $page := . }}
+                {{ range .GetTerms "festivals" }}
+                    {{ if and (eq .LinkTitle $festival) (ne $page.Path $.Path) }}
+                        {{ partial "report-entry.html" $page }}
+                    {{ end }}
                 {{ end }}
             {{ end }}
         {{ end }}
-    {{ end }}
+    </div>
 </div>
-
