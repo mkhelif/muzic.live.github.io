@@ -3,6 +3,7 @@ date: "2025-07-16T17:30:00+02:00"
 title: "Guitare en Scène 2025 - Jour 1 - Rosaly, Eagle-Eye Cherry, Simple Minds, Dynamite Shakers"
 author: "mkhelif"
 cover: "pictures/"
+rank: 10
 locations:
   - Saint-Julien-en-Genevois
   - France

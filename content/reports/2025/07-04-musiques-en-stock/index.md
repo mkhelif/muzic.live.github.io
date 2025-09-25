@@ -3,6 +3,7 @@ date: "2025-07-04T19:00:00+02:00"
 title: "Musiques en Stock 2025 - Jour 2 - Crazy Jess, Ménades, Kid Kapichi, Bloc Party"
 author: "mkhelif"
 cover: "pictures/"
+rank: 10
 locations:
   - Scionzier
   - France

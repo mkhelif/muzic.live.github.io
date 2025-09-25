@@ -3,6 +3,7 @@ date: "2025-06-06T17:30:00+02:00"
 title: "Heavy Weekend 2025 - Jour 1 - Vandenberg, Battle Beast, Saxon, Powerwolf"
 author: "mkhelif"
 cover: "pictures/"
+rank: 10
 locations:
   - Zenith Nancy
   - Nancy

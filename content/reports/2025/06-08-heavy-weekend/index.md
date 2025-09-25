@@ -3,6 +3,7 @@ date: "2025-06-08T17:30:00+02:00"
 title: "Heavy Weekend 2025 - Jour 3 - Nothing More, Rise of the North Star, Mass Hysteria, Slipknot"
 author: "mkhelif"
 cover: "pictures/"
+rank: 10
 locations:
   - Zenith Nancy
   - Nancy

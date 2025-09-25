@@ -3,6 +3,7 @@ date: "2025-07-05T19:00:00+02:00"
 title: "Musiques en Stock 2025 - Jour 3 - Nótt, Soft Loft, The Royston Club, Franz Ferdinand"
 author: "mkhelif"
 cover: "pictures/"
+rank: 10
 locations:
   - Scionzier
   - France

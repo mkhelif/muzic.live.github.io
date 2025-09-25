@@ -3,6 +3,7 @@ date: "2025-08-14T17:30:00+02:00"
 title: "Venoge Festival 2025 - Jour 2 - Sugarhill Gang, Sheila, UB40, Murray Head, Sean Paul, Show Minuit 27"
 author: "mkhelif"
 cover: "pictures/"
+rank: 8
 locations:
   - Penthaz
   - Suisse

@@ -3,6 +3,7 @@ date: "2025-07-17T17:30:00+02:00"
 title: "Guitare en Scène 2025 - Jour 2 - Chey'N'Shiners, Wolfmother, Nada Surf, Stereophonics, Storm Orchestra"
 author: "mkhelif"
 cover: "pictures/"
+rank: 9
 locations:
   - Saint-Julien-en-Genevois
   - France

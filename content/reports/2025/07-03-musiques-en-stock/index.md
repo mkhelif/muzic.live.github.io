@@ -3,6 +3,7 @@ date: "2025-07-03T19:00:00+02:00"
 title: "Musiques en Stock 2025 - Jour 1 - Fugue, Feldup, Gringe, ATOEM"
 author: "mkhelif"
 cover: "pictures/"
+rank: 8
 locations:
   - Scionzier
   - France

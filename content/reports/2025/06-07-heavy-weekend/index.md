@@ -3,6 +3,7 @@ date: "2025-06-07T17:30:00+02:00"
 title: "Heavy Weekend 2025 - Jour 2 - Wings of Steel, Vanden Plas, Europe, Dream Theater"
 author: "mkhelif"
 cover: "pictures/"
+rank: 10
 locations:
   - Zenith Nancy
   - Nancy

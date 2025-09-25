@@ -3,6 +3,7 @@ date: "2025-07-19T17:30:00+02:00"
 title: "Guitare en Scène 2025 - Jour 4 - Younger Spirit, Nik West, Santana, Orianthi"
 author: "mkhelif"
 cover: "pictures/"
+rank: 9
 locations:
   - Saint-Julien-en-Genevois
   - France
