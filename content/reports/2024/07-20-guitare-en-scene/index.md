@@ -3,6 +3,7 @@ date: "2024-07-20T17:30:00+02:00"
 title: "Guitare en Scène 2024 - Jour 3 - LeanWolf, Xavier Rudd, Rodrigo y Gabriela, Francis Cabrel, Nino Baliardo"
 author: "mkhelif"
 cover: "pictures/"
+rank: 8
 locations:
   - Saint-Julien-en-Genevois
   - France

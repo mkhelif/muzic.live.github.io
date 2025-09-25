@@ -3,6 +3,7 @@ date: "2024-07-05T18:30:00+02:00"
 title: "Vercors Music Festival 2024 - Jour 1 - Cléa Vincent, H-Burns, Pambelé, Les Wampas"
 author: "mkhelif"
 cover: "pictures/.jpg"
+rank: 10
 locations:
   - Autrans
   - France

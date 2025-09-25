@@ -3,6 +3,7 @@ date: "2024-07-06T18:30:00+02:00"
 title: "Vercors Music Festival 2024 - Jour 2 - Sarah Lenka, El Gato Negro, Massilia Sound System, Danakil, Asian Dub Foundation"
 author: "mkhelif"
 cover: "pictures/.jpg"
+rank: 10
 locations:
   - Autrans
   - France

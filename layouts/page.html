@@ -7,6 +7,8 @@
             {{ partial "festival.html" . }}
         {{ else if eq .Section "reports" }}
             {{ partial "report.html" . }}
+        {{ else }}
+            {{ partial "content.html" . }}
         {{ end }}
 
         <!-- Comments -->

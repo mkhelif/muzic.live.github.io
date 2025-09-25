@@ -3,6 +3,7 @@ date: "2024-07-07T18:30:00+02:00"
 title: "Vercors Music Festival 2024 - Jour 3 - Kolinga, Ladaniva, Keziah Jones, Faada Freddy, Flavia Coelho"
 author: "mkhelif"
 cover: "pictures/.jpg"
+rank: 10
 locations:
   - Autrans
   - France

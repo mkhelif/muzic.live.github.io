@@ -3,6 +3,7 @@ date: "2024-07-18T17:30:00+02:00"
 title: "Guitare en Scène 2024 - Jour 1 - Paddang, Seasick Steve, Status Quo, John Fogerty, The Inspector Cluzo"
 author: "mkhelif"
 cover: "pictures/"
+rank: 10
 locations:
   - Saint-Julien-en-Genevois
   - France

@@ -3,6 +3,7 @@ date: "2024-07-21T17:30:00+02:00"
 title: "Guitare en Scène 2024 - Jour 4 - Toby Lee, Dave Stewart, Marcus Miller, Nile Rodgers"
 author: "mkhelif"
 cover: "pictures/"
+rank: 10
 locations:
   - Saint-Julien-en-Genevois
   - France

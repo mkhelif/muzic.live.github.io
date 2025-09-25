@@ -3,6 +3,7 @@ date: "2024-07-19T17:30:00+02:00"
 title: "Guitare en Scène 2024 - Jour 2 - Seven Ages, Larkin Poe, Chris Isaak, Rival Sons, Ko Ko Mo"
 author: "mkhelif"
 cover: "pictures/"
+rank: 10
 locations:
   - Saint-Julien-en-Genevois
   - France
