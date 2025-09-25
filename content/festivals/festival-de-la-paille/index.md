@@ -1,6 +1,6 @@
 ---
 title: "Festival de la Paille"
-cover: "pictures/2025.jpg"
+cover: "cover.jpg"
 ---
 
 ##### Un projet artistique riche et éclectique

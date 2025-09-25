@@ -2,7 +2,7 @@
 date: "2024-07-06T18:30:00+02:00"
 title: "Vercors Music Festival 2024 - Jour 2 - Sarah Lenka, El Gato Negro, Massilia Sound System, Danakil, Asian Dub Foundation"
 author: "mkhelif"
-cover: "pictures/.jpg"
+cover: "pictures/danakil/01.jpg"
 rank: 10
 locations:
   - Autrans
@@ -21,7 +21,7 @@ Le Vercors Music Festival démarre pour sa deuxième journée sur une météo ca
 éclectique prometteuse.
 
 
-![Sarah Lenka]()
+{{< carousel pictures="pictures/sarah-lenka" alt="Sarah Lenka" author="mkhelif.photo" >}}
 
 Sarah Lenka ouvre cette journée avec une prestation qui, dès les premières notes, captive les spectateurs.
 
@@ -37,7 +37,7 @@ Elle réussi à transmettre une émotion brute et sincère, et les échanges sur
 connexion avec le public, créant une atmosphère intime et chaleureuse.
 
 
-![El Gato Negro]()
+{{< carousel pictures="pictures/el-gato-negro" alt="El Gato Negro" author="mkhelif.photo" >}}
 
 El Gato Negro prend le relais avec un set énergique et vibrant.
 
@@ -51,7 +51,7 @@ La prestation de Salif Diarra du Burkina Faso ajoute une dimension supplémentai
 festive et dynamique.
 
 
-![Massilia Sound System]()
+{{< carousel pictures="pictures/massilia-sound-system" alt="Massilia Sound System" author="mkhelif.photo" >}}
 
 C’est ensuite aux marseillais de Massilia Sound System de monter sur scène.
 
@@ -70,7 +70,7 @@ autant.
 Leur set doit être interrompu car il pleut à torrent et ils ne pourront malheureusement pas terminer.
 
 
-![Danakil]()
+{{< carousel pictures="pictures/danakil" alt="Danakil" author="mkhelif.photo" >}}
 
 Danakil, malgré la pluie persistante, apporte une touche de chaleur et de positivité.
 
@@ -84,7 +84,7 @@ Les dix musiciens sur scène créent une harmonie qui enveloppe le public, même
 Les nouvelles chansons sont bien accueillies, et les classiques sont repris en chœur par tous.
 
 
-![Asian Dub Foundation]()
+{{< carousel pictures="pictures/asian-dub-foundation" alt="Asian Dub Foundation" author="mkhelif.photo" >}}
 
 La soirée se termine en apothéose avec Asian Dub Foundation.
 

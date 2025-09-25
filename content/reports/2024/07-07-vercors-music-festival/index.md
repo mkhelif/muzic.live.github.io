@@ -2,7 +2,7 @@
 date: "2024-07-07T18:30:00+02:00"
 title: "Vercors Music Festival 2024 - Jour 3 - Kolinga, Ladaniva, Keziah Jones, Faada Freddy, Flavia Coelho"
 author: "mkhelif"
-cover: "pictures/.jpg"
+cover: "pictures/faada-freddy/01.jpg"
 rank: 10
 locations:
   - Autrans
@@ -23,7 +23,7 @@ nombreuses familles.
 La programmation riche et variée promet une clôture mémorable pour ce festival.
 
 
-![Kolinga]()
+{{< carousel pictures="pictures/kolinga" alt="Kolinga" author="mkhelif.photo" >}}
 
 Kolinga ouvre la journée avec une performance vibrante.
 
@@ -38,7 +38,7 @@ Les échanges complices entre les musiciens et les moments d'humour ajoutent une
 performance.
 
 
-![Ladaniva]()
+{{< carousel pictures="pictures/ladaniva" alt="Ladaniva" author="mkhelif.photo" >}}
 
 Ladaniva enchaîne avec une prestation ensorcelante.
 
@@ -54,7 +54,7 @@ Les solos de trompette et saxophone, sont particulièrement puissants et captiva
 Une superbe découverte !
 
 
-![Keziah Jones]()
+{{< carousel pictures="pictures/keziah-jones" alt="Keziah Jones" author="mkhelif.photo" >}}
 
 Keziah Jones, malgré quelques problèmes techniques initiaux, parvient rapidement à captiver la foule avec son rythme et
 son groove incomparables.
@@ -66,7 +66,7 @@ Passablement agacé par les différents problèmes techniques, il part de la sc�
 musiciens sont toujours en train de jouer laissant le public sans voix.
 
 
-![Faada Freddy]()
+{{< carousel pictures="pictures/faada-freddy" alt="Faada Freddy" author="mkhelif.photo" >}}
 
 Faada Freddy apporte une ambiance beaucoup plus détendue et joyeuse.
 
@@ -80,7 +80,7 @@ tout au long de son set.
 Une incroyable performance pour ce showman !
 
 
-![Flavia Coelho]()
+{{< carousel pictures="pictures/flavia-coelho" alt="Flavia Coelho" author="mkhelif.photo" >}}
 
 Flavia Coelho clôt la journée avec une performance explosive.
 

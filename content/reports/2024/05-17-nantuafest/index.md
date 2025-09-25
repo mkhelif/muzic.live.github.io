@@ -8,15 +8,15 @@ locations:
   - Nantua
   - France
 festivals:
-- Nantuafest
+  - Nantuafest
 artists:
-- Melrose
-- Vernis Rouge
-- Two Faces
-- Noé Preszow
-- Pierre de Maere
-- Superbus
-- Boris Way
+  - Melrose
+  - Vernis Rouge
+  - Two Faces
+  - Noé Preszow
+  - Pierre de Maere
+  - Superbus
+  - Boris Way
 ---
 
 C’est par un pur hasard, en scrollant distraitement sur les réseaux sociaux, que j’ai découvert le Nantuafest.

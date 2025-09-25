@@ -1,6 +1,12 @@
 {{ $id := delimit (shuffle (seq 1 9)) "" }}
 
 {{ $pictures := .Page.Resources.Match (path.Join .Params.pictures "*") }}
+{{ if eq .Params.reverse "true" }}
+    {{ $pictures = sort $pictures "Name" "desc" }}
+{{ else }}
+    {{ $pictures = sort $pictures "Name" "asc" }}
+{{ end }}
+
 <div id="carousel-{{ $id }}" class="glide mt-4">
     <div class="glide__track" data-glide-el="track">
         <ul class="glide__slides align-items-center">
@@ -35,7 +41,9 @@
         {{ end }}
     </div>
 </div>
-{{ partial "copyright.html" .Params.author }}
+{{ with .Params.author }}
+    {{ partial "copyright.html" . }}
+{{ end }}
 
 <script type="text/javascript">
     new Glide('#carousel-{{ $id }}', {

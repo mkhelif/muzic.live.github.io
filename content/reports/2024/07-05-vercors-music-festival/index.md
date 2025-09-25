@@ -2,7 +2,7 @@
 date: "2024-07-05T18:30:00+02:00"
 title: "Vercors Music Festival 2024 - Jour 1 - Cléa Vincent, H-Burns, Pambelé, Les Wampas"
 author: "mkhelif"
-cover: "pictures/.jpg"
+cover: "pictures/h-burns/01.jpg"
 rank: 10
 locations:
   - Autrans
@@ -21,16 +21,16 @@ musicales.
 
 En plein milieu du massif du Vercors, le lieu du festival offre un panorama spectaculaire sur les montagnes alentours.
 
-Cette année il n’y a qu’une seule scène, avec en fond l’impressionnante piste de luge sur rail.
+Cette année, il n’y a qu’une seule scène, avec en fond l’impressionnante piste de luge sur rail.
 
 Cette immersion en plein air crée une ambiance unique, familiale, marquée par la convivialité et la proximité.
 Entre les concerts, pendant les changements de scène, c’est le duo de DJs locaux de la boite Le Koda qui maintiendront
 l'ambiance depuis le bar avec des mixes variés en fonction de l’ambiance de chaque soirée.
 
 
-![Cléa Vincent]()
+{{< carousel pictures="pictures/clea-vincent" alt="Cléa Vincent" author="mkhelif.photo" >}}
 
-La soirée débute avec Cléa Vincent, qui, malgré un public encore clairsemé, réussi a captiver l'audience avec ses
+La soirée débute avec Cléa Vincent, qui, malgré un public encore clairsemé, réussi à captiver l'audience avec ses
 mélodies pop électro et ses textes inspirés.
 
 Accompagnée d’une basse, un clavier et une batterie, elle offre une performance planante, oscillant entre pop, électro
@@ -38,7 +38,7 @@ et bossa nova.
 Sa gaieté est communicative et son talent indéniable, une belle entrée en matière pour le festival.
 
 
-![H-Burns]()
+{{< carousel pictures="pictures/h-burns" alt="H-Burns" author="mkhelif.photo" >}}
 
 La scène accueille ensuite H-Burns, alias Renaud Brustlein, qui livre une prestation intense et émotive.
 
@@ -48,7 +48,7 @@ Le show est maitrisé à la perfection, et le groupe, originaire de la région, 
 festivaliers.
 
 
-![Pambelé]()
+{{< carousel pictures="pictures/pambele" alt="Pambelé" author="mkhelif.photo" >}}
 
 Entre ensuite en scène le collectif Pambelé.
 
@@ -60,7 +60,7 @@ Le groupe alterne habilement les musiques aux rythmes brésiliens et les mélodi
 pluie.
 
 
-![Les Wampas]()
+{{< carousel pictures="pictures/les-wampas" alt="Les Wampas" author="mkhelif.photo" >}}
 
 La soirée se conclue avec les inénarrables Wampas.
 

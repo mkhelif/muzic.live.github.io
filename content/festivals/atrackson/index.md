@@ -1,6 +1,6 @@
 ---
 title: "Atrack'Son"
-cover: "pictures/cover.png"
+cover: "cover.jpg"
 ---
 
 

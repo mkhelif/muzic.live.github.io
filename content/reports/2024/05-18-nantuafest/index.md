@@ -8,15 +8,15 @@ locations:
   - Nantua
   - France
 festivals:
-- Nantuafest
+  - Nantuafest
 artists:
-- Tino
-- Alice et Moi
-- Adèle Castillon
-- Jahneration
-- Caballero
-- JeanJass
-- Umbree
+  - Tino
+  - Alice et Moi
+  - Adèle Castillon
+  - Jahneration
+  - Caballero
+  - JeanJass
+  - Umbree
 ---
 
 De retour sur Nantua pour cette deuxième journée du Nantuafest.
