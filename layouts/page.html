@@ -8,7 +8,9 @@
         {{ else if eq .Section "reports" }}
             {{ partial "report.html" . }}
         {{ else }}
-            {{ partial "content.html" . }}
+            <div class="container">
+                {{ partial "content.html" . }}
+            </div>
         {{ end }}
 
         <!-- Comments -->
