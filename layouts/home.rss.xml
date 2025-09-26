@@ -1,6 +1,6 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 
-{{ $pages := .Site.RegularPages }}<!-- TODO use only `news` and `reports` sections -->
+{{ $pages := (where .Site.RegularPages.ByDate "Section" "in" (slice "reports" "news")) }}<!-- TODO use only `news` and `reports` sections -->
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>{{ .Site.Title }}</title>
@@ -8,7 +8,7 @@
         <description>{{ .Site.Title }}</description>
         <language>{{ site.Language.LanguageCode }}</language>
         <managingEditor>hello@muzic.live</managingEditor>
-        <webMaster>webmaster@muzic.live</webMaster>
+        <webMaster>hello@muzic.live</webMaster>
         <copyright>Muzic.Live</copyright>
         <lastBuildDate>{{ (index $pages.ByLastmod.Reverse 0).Lastmod | safeHTML }}</lastBuildDate>
         {{- with .OutputFormats.Get "RSS" }}
@@ -16,10 +16,13 @@
         {{- end }}
         {{- range $pages }}
         <item>
-            <title>{{ .Title | transform.XMLEscape | safeHTML }}</title>
+            <guid>{{ hash.XxHash .Path }}</guid>
             <link>{{ .Permalink }}</link>
+            <title>{{ .Title | transform.XMLEscape | safeHTML }}</title>
+            {{- with .Resources.Get .Params.cover }}
+            <enclosure url="{{ .Permalink }}" length="{{ .Content | len }}" type="{{ .MediaType }}" />
+            {{- end }}
             <pubDate>{{ .PublishDate | safeHTML }}</pubDate>
-            <guid>{{ .Permalink }}</guid>
             <description>{{ .Content | plainify | truncate 1000 | transform.XMLEscape | safeHTML }}</description>
         </item>
         {{- end }}
