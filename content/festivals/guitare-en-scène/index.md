@@ -3,7 +3,7 @@ title: "Guitare en Scène"
 cover: "cover.jpg"
 ---
 
-##### Un Écrin Intimiste pour les Guitar Heroes
+##### Un écrin intimiste pour les guitar heroes
 
 Le Festival Guitare en Scène s'est imposé depuis plus d'une décennie comme l'un des événements musicaux les plus
 prestigieux de la région franco-genevoise. Situé à Saint Julien, en Haute-Savoie, aux portes de Genève, le festival
@@ -13,7 +13,7 @@ vivre une expérience privilégiée avec des artistes de renommée international
 la frontière franco-suisse, attire un public cosmopolite qui contribue à l'atmosphère unique de cet événement devenu
 incontournable.
 
-##### Une Programmation Axée sur l'Excellence Guitaristique
+##### Une programmation axée sur l'excellence guitaristique
 
 Le désormais mythique festival Guitare en scène se caractérise par la proximité hors norme, la présence des plus grands
 guitaristes et groupes, établissant sa réputation d'événement de référence pour tous les amateurs de guitare. La
@@ -34,7 +34,7 @@ festival de maintenir un lien étroit avec la scène musicale locale tout en off
 talents de demain. LeanWolf, vainqueur du tremplin 2024, illustre parfaitement le potentiel de cette initiative qui a
 révélé de nombreux artistes aujourd'hui reconnus sur la scène française.
 
-##### Une Organisation Professionnelle et Humaine
+##### Une organisation professionnelle et humaine
 
 Avec son slogan "Petite taille... grosses pointures !", le Festival Guitare en Scène revendique cette approche
 artisanale qui fait sa force depuis ses débuts. L'édition type propose 2 scènes, 4 jours, 16 concerts et 5500 places,
@@ -43,7 +43,7 @@ philosophie permet au festival de maintenir une qualité d'accueil et une attent
 événement des grands rassemblements musicaux. L'équipe organisatrice cultive cette proximité avec le public et les
 artistes, créant une atmosphère conviviale qui contribue largement au succès et à la réputation de l'événement.
 
-##### Impact Culturel et Rayonnement Régional
+##### Impact culturel et rayonnement régional
 
 Le Festival Guitare en Scène s'est imposé comme un acteur culturel majeur de la région franco-genevoise, contribuant
 significativement au rayonnement artistique du territoire. Son influence dépasse largement les frontières régionales,
@@ -53,7 +53,7 @@ réputation du festival comme événement de référence dans le paysage musical
 retombées économiques importantes pour la région, transformant Saint-Julien-en-Genevois en capitale temporaire de la
 guitare européenne durant plusieurs jours chaque été.
 
-##### Perspectives et Évolution
+##### Perspectives et évolution
 
 Avec sa 11ème édition programmée, le Festival Guitare en Scène entre dans une nouvelle décennie d'existence, fort de son
 expérience et de sa réputation établie. L'événement continue d'évoluer en intégrant les nouvelles technologies et les

@@ -57,3 +57,6 @@ démontrant la détermination et l'engagement des organisateurs locaux.
 
 L'Atrack'Son Festival représente ainsi un parfait exemple de dynamisme culturel en milieu rural, alliant qualité
 musicale, engagement environnemental et développement territorial dans le cadre exceptionnel du Haut-Doubs.
+
+
+{{< carousel pictures="pictures" alt="Atrack'Son" reverse="true" >}}

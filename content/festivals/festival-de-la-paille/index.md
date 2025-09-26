@@ -32,3 +32,6 @@ des échanges et mutualisation pour dessiner des objectifs à court, moyens et l
 durable en matière : d’égalité femmes-hommes, de luttes contre les VHSS, inclusion et accessibilité, de transition
 écologique concernant l’alimentation, les déchets, l'énergie, la mobilité... Depuis 2024 un plan de transition est mis
 en place pour permettre à chacun de profiter d’un festival tout en étant responsable et respectueux de l’environnement. 
+
+
+{{< carousel pictures="pictures" alt="Festival de la Paille" reverse="true" >}}
