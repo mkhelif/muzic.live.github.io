@@ -5,6 +5,8 @@
             {{ partial "artist.html" . }}
         {{ else if eq .Section "festivals" }}
             {{ partial "festival.html" . }}
+        {{ else if eq .Section "locations" }}
+        {{ partial "location.html" . }}
         {{ else if eq .Section "reports" }}
             {{ partial "report.html" . }}
         {{ else }}
