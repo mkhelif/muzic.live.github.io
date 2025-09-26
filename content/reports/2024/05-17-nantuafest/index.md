@@ -17,6 +17,7 @@ artists:
   - Pierre de Maere
   - Superbus
   - Boris Way
+  - DJ Skred
 ---
 
 C’est par un pur hasard, en scrollant distraitement sur les réseaux sociaux, que j’ai découvert le Nantuafest.

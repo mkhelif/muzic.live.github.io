@@ -2,7 +2,7 @@
 date: "2025-02-16T20:00:00+02:00"
 title: "off:circuit, Oscar and the Wolf"
 author: "mkhelif"
-cover: "pictures/oscar-and-the-wolf-07.jpg"
+cover: "pictures/oscar-and-the-wolf/07.jpg"
 locations:
   - Les Docks
   - Lausanne
@@ -18,7 +18,7 @@ tout aussi envoûtants.
 Une soirée qui a oscillé entre la violence brute d’off:circuit et la mélancolie euphorisante d’Oscar and the Wolf.
 
 
-![off:circuit](pictures/off-circuit-01.jpg)
+{{< carousel pictures="pictures/off-circuit" alt="off:circuit" author="mkhelif.photo" >}}
 
 off:circuit a ouvert le bal avec une performance aussi implacable que leur musique.
 
@@ -34,7 +34,7 @@ Les textures industrielles et les mélodies mélancoliques ont créé une ambian
 Dommage que les lumières aient été si timides – on aurait aimé voir autant que ressentir cette énergie brute.
 
 
-![Oscar and the Wolf](pictures/oscar-and-the-wolf-07.jpg)
+{{< carousel pictures="pictures/oscar-and-the-wolf" alt="Oscar and the Wolf" author="mkhelif.photo" >}}
 
 Après l’assaut d’off:circuit, Oscar and the Wolf a pris le relais avec une performance tout en contrastes.
 
