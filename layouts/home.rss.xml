@@ -1,28 +1,28 @@
-{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-
-{{ $pages := (where .Site.RegularPages.ByDate "Section" "in" (slice "reports" "news")) }}<!-- TODO use only `news` and `reports` sections -->
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- $pages := (where .Site.RegularPages.ByDate "Section" "in" (slice "reports" "news")) }}<!-- TODO use only `news` and `reports` sections -->
+{{- $dateFormat := "Mon, 01 Jan 1970 00:00:00 +0000" }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>{{ .Site.Title }}</title>
         <link>{{ .Permalink }}</link>
         <description>{{ .Site.Title }}</description>
         <language>{{ site.Language.LanguageCode }}</language>
-        <managingEditor>hello@muzic.live</managingEditor>
-        <webMaster>hello@muzic.live</webMaster>
+        <managingEditor>hello@muzic.live (Muzic.Live)</managingEditor>
+        <webMaster>hello@muzic.live (Muzic.Live)</webMaster>
         <copyright>Muzic.Live</copyright>
-        <lastBuildDate>{{ (index $pages.ByLastmod.Reverse 0).Lastmod | safeHTML }}</lastBuildDate>
+        <lastBuildDate>{{ (index $pages.ByLastmod.Reverse 0).Lastmod.Format $dateFormat | safeHTML }}</lastBuildDate>
         {{- with .OutputFormats.Get "RSS" }}
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
         {{- end }}
         {{- range $pages }}
         <item>
-            <guid>{{ hash.XxHash .Path }}</guid>
+            <guid>{{ .Permalink }}</guid>
             <link>{{ .Permalink }}</link>
             <title>{{ .Title | transform.XMLEscape | safeHTML }}</title>
             {{- with .Resources.Get .Params.cover }}
             <enclosure url="{{ .Permalink }}" length="{{ .Content | len }}" type="{{ .MediaType }}" />
             {{- end }}
-            <pubDate>{{ .PublishDate | safeHTML }}</pubDate>
+            <pubDate>{{ .PublishDate.Format $dateFormat | safeHTML }}</pubDate>
             <description>{{ .Content | plainify | truncate 1000 | transform.XMLEscape | safeHTML }}</description>
         </item>
         {{- end }}
