@@ -32,3 +32,8 @@ title = 'Muzic.Live'
   home = ['html', 'rss']
   section = ['html']
   taxonomy = ['html']
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "feed"
