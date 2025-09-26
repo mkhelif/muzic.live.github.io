@@ -12,7 +12,7 @@ festivals:
 artists:
   - Saults
   - Dream Theater
-  - Satchvai
+  - SatchVai Band
   - Matteo Mancuso
 ---
 

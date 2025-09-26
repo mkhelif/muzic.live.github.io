@@ -1,4 +1,4 @@
 ---
-title: "Off-Circuit"
+title: "off:circuit"
 cover: "cover.jpg"
 ---

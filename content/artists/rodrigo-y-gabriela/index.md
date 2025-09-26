@@ -1,4 +1,4 @@
 ---
-title: "Rodrigo Y Gabriela"
+title: "Rodrigo y Gabriela"
 cover: "cover.jpg"
 ---
