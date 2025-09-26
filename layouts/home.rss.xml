@@ -1,6 +1,6 @@
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 {{- $pages := (where .Site.RegularPages.ByDate "Section" "in" (slice "reports" "news")) }}<!-- TODO use only `news` and `reports` sections -->
-{{- $dateFormat := "Mon, 01 Jan 1970 00:00:00 +0000" }}
+{{- $dateFormat := "Mon, 02 Jan 2006 15:04:05 -0700" }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>{{ .Site.Title }}</title>
@@ -14,7 +14,7 @@
         {{- with .OutputFormats.Get "RSS" }}
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
         {{- end }}
-        {{- range $pages }}
+        {{- range ($pages | first .Site.Config.Services.RSS.Limit) }}
         <item>
             <guid>{{ .Permalink }}</guid>
             <link>{{ .Permalink }}</link>
