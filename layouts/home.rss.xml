@@ -16,11 +16,11 @@
         {{- end }}
         {{- range $pages }}
         <item>
-            <title>{{ .Title | safeHTML }}</title>
+            <title>{{ .Title | transform.XMLEscape | safeHTML }}</title>
             <link>{{ .Permalink }}</link>
             <pubDate>{{ .PublishDate | safeHTML }}</pubDate>
             <guid>{{ .Permalink }}</guid>
-            <description>{{ .Content | plainify | truncate 1000 }}</description>
+            <description>{{ .Content | plainify | truncate 1000 | transform.XMLEscape | safeHTML }}</description>
         </item>
         {{- end }}
     </channel>
