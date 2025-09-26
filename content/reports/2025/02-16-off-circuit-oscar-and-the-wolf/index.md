@@ -3,6 +3,7 @@ date: "2025-02-16T20:00:00+02:00"
 title: "off:circuit, Oscar and the Wolf"
 author: "mkhelif"
 cover: "pictures/oscar-and-the-wolf/07.jpg"
+rank: 8
 locations:
   - Les Docks
   - Lausanne

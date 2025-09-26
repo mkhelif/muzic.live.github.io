@@ -5,11 +5,11 @@
           data-pagefind-ignore
     >
         {{ range seq 0 4 }}
-            {{ if ge $rank . }}
-                {{ if lt $rank (add . 1) }}
-                    <i class="fa fa-star-half-stroke"></i>
-                {{ else }}
+            {{ if gt $rank . }}
+                {{ if ge $rank (add . 0.5) }}
                     <i class="fa fa-star"></i>
+                {{ else }}
+                    <i class="fa fa-star-half-stroke"></i>
                 {{ end }}
             {{ else }}
                 <i class="far fa-star"></i>

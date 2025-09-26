@@ -14,9 +14,11 @@ artists:
 ---
 
 Les Docks de Lausanne ont vibré au rythme des mélodies pop-folk de Gavin James, précédé par la douceur du duo suisse
-Lost in Lona.
+Lost in Lona. Une soirée où l’émotion et l’authenticité ont pris le devant de la scène.
 
-Une soirée où l’émotion et l’authenticité ont pris le devant de la scène.
+
+{{< carousel pictures="pictures/lost-in-lona" alt="Lost in Lona" author="mkhelif.photo" >}}
+
 Le duo zurichois Lidia et Konstantin a ouvert la soirée avec une sobriété touchante.
 
 Leur indie-folk, minimaliste mais profondément évocateur, a rempli la salle d’une douceur à la fois fragile et
@@ -30,6 +32,10 @@ Les voix entrelacées, les textes porteurs d’espoir et les mélodies pures ont
 était reine.
 
 Un moment salvateur, comme une respiration avant l’embrasement.
+
+
+{{< carousel pictures="pictures/gavin-james" alt="Gavin James" author="mkhelif.photo" >}}
+
 Puis est monté sur scène Gavin James, l’Irlandais au timbre d’or, et la magie a opéré dès les premières notes.
 
 Accompagné d’une batterie et d’un clavier, il a déployé sa pop-folk lumineuse avec une générosité désarmante.

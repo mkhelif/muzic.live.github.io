@@ -2,7 +2,7 @@
 date: "2025-02-22T20:00:00+02:00"
 title: "Haevn"
 author: "mkhelif"
-cover: "pictures/haevn-01.jpg"
+cover: "pictures/haevn/01.jpg"
 rank: 10
 locations:
   - Les Docks
@@ -11,6 +11,8 @@ locations:
 artists:
   - Haevn
 ---
+
+{{< carousel pictures="pictures/haevn" alt="Haevn" author="mkhelif.photo" >}}
 
 Les Docks ont accueilli Haevn, le duo néerlandais porté par Marijn van der Meer et Jorrit Kleijnen, pour une performance
 aussi envoûtante que poétique.
