@@ -2,7 +2,7 @@
 date: "2025-07-18T17:30:00+02:00"
 title: "Guitare en Scène 2025 - Jour 3 - Saults, Dream Theater, Satchvai, Matteo Mancuso"
 author: "mkhelif"
-cover: "pictures/"
+cover: "pictures/dream-theater/05.jpg"
 rank: 9
 locations:
   - Saint-Julien-en-Genevois
@@ -21,7 +21,7 @@ pop-rock et légendes du prog metal et de la guitare. Une soirée où la techniq
 moments magiques.
 
 
-![Saults]()
+{{< carousel pictures="pictures/saults" alt="Saults" author="mkhelif.photo" >}}
 
 La soirée a commencé en trombe avec Saults, le duo fraternel français qui a insufflé une énergie communicative avec son
 pop-rock groovy. Leur set a immédiatement captivé grâce à une formation complète (saxo, trompette, guitare, batterie,
@@ -29,7 +29,7 @@ basse et clavier) et des harmonies vocales impeccables. Si la basse souffrait pa
 pourquoi ce groupe est considéré comme la révélation pop-rock française du moment.
 
 
-![Dream Theater]()
+{{< carousel pictures="pictures/dream-theater" alt="Dream Theater" author="mkhelif.photo" >}}
 
 Les maîtres du metal progressif, Dream Theater, ont offert une performance magistrale. Avec le retour de Mike Portnoy à
 la batterie, le groupe a retrouvé sa configuration classique pour un set tiré de leur nouvel album "Parasomnia". Le
@@ -38,7 +38,7 @@ que la batterie monumentale de Portnoy a laissé le public bouche bée. Particul
 s'est fait discret, laissant la place aux instrumentistes, véritable âme du groupe.
 
 
-![Satchvai]()
+{{< carousel pictures="pictures/satchvai-band" alt="SatchVai Band" author="GES_luc.naville" >}}
 
 Le clou de la soirée fut sans conteste la performance conjointe de Joe Satriani et Steve Vai. Les deux légendes ont
 démontré pourquoi elles dominent la scène des “guitar hero” depuis des décennies. Le duo a offert un véritable feu
@@ -47,7 +47,7 @@ sembler long et répétitif vers la fin, les moments de pure magie (comme leur r
 fans. Dommage que les autres musiciens n'aient pas été plus mis en avant.
 
 
-![Matteo Mancuso]()
+{{< carousel pictures="pictures/matteo-mancuso" alt="Matteo Mancuso" author="mkhelif.photo" >}}
 
 Le jeune prodige italien a clôturé la soirée avec une démonstration de maîtrise technique époustouflante. Accompagné
 simplement d'une basse et d'une batterie, Mancuso a montré pourquoi il est considéré comme la révélation guitariste de

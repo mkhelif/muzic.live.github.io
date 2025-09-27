@@ -5,7 +5,7 @@
         {{ .Content }}
 
         <!-- Pages -->
-        {{ $paginator := .Paginate (cond (eq .Section "reports") .Pages.ByDate.Reverse .Pages.ByTitle) 10 }}
+        {{ $paginator := .Paginate (cond (in (slice "reports" "festivals" "locations") .Section) .Pages.ByDate.Reverse .Pages.ByTitle) 10 }}
         {{ range $paginator.Pages }}
             {{ partial "report-entry.html" . }}
         {{ end }}
