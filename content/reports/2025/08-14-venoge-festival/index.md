@@ -26,7 +26,7 @@ disco français, la fusion reggae-pop britannique, le folk-rock international, l
 l'apothéose kitsch des tubes des années 80-90.
 
 
-![Sugarhill Gang]()
+{{< carousel pictures="pictures/sugarhill-gang" alt="Sugarhill Gang" author="mkhelif.photo" >}}
 
 Les pionniers du mouvement hip-hop débarquent sur scène avec une formation réduite à l'essentiel : deux MCs et un DJ qui
 n'hésite pas à abandonner ses platines pour prendre le micro. Cette configuration minimaliste révèle toute la substance
@@ -39,7 +39,7 @@ contemporains. Face à cette démonstration d'authenticité, les productions act
 digitaux semblent artificielles et déconnectées de l'essence même du mouvement.
 
 
-![Sheila]()
+{{< carousel pictures="pictures/sheila" alt="Sheila" author="mkhelif.photo" >}}
 
 À 79 ans, deux jours seulement avant son anniversaire, Sheila incarne cette génération d'artistes français qui ont
 traversé toutes les révolutions musicales sans jamais abdiquer. Son répertoire s'étend du yéyé des années 60 au disco
@@ -52,7 +52,7 @@ internationaux. Sa capacité à se classer au Billboard américain témoigne d'u
 frontières hexagonales, phénomène rare à une époque où la chanson française peinait à s'exporter.
 
 
-![UB40]()
+{{< carousel pictures="pictures/ub40" alt="UB40" author="mkhelif.photo" >}}
 
 La grande scène se transforme en temple du reggae britannique sous l'impulsion de ces enfants de Birmingham qui ont
 révolutionné le genre à la fin des années 70. Leur formation pléthorique occupe l'espace scénique avec une présence
@@ -66,7 +66,7 @@ quarante ans après leurs débuts, UB40 continue de prouver que leur mélange de
 transcende les générations et les frontières culturelles.
 
 
-![Murray Head]()
+{{< carousel pictures="pictures/murray-head" alt="Murray Head" author="mkhelif.photo" >}}
 
 Le drame se joue en direct sous les yeux d'un public venu retrouver l'interprète de "One Night in Bangkok" et "Say It
 Ain't So". L'accompagnement instrumental frôle la perfection : piano, basse, deux guitares, violon, batterie et chœurs
@@ -80,7 +80,7 @@ artistes de cette génération. Murray Head, éternel rêveur qui a atteint les 
 aujourd'hui prisonnier d'un répertoire que son instrument vocal ne peut plus servir dignement.
 
 
-![Sean Paul]()
+{{< carousel pictures="pictures/sean-paul" alt="Sean Paul" author="mkhelif.photo" >}}
 
 Le roi du dancehall débarque avec une formule rodée et une balance sonore enfin maîtrisée, contrairement à sa prestation
 décevante de l'année passée au Paléo. Sean Paul incarne parfaitement l'exportation culturelle jamaïcaine, cette capacité
@@ -92,9 +92,7 @@ constance artistique peut être une forme de génie populaire, surtout quand ell
 reggae-dancehall inébranlables.
 
 
-![Laroche Valmont]()
-![Léopold Nord]()
-![Helmut Fritz]()
+{{< carousel pictures="pictures/show-minuit-27" alt="Show Minuit 27" author="mkhelif.photo" >}}
 
 Le concept exclusif du Venoge Festival atteint cette année des sommets de ringardise assumée avec un casting qui flirte
 dangereusement avec le second degré. Laroche Valmont ouvre les festivités sur "T'as le look coco" en playback intégral,

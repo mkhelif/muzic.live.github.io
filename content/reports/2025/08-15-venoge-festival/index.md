@@ -24,7 +24,7 @@ nouvelle chanson française électronique aux origines du rap suisse, de l'élec
 commercial français, en passant par l'expérimentation sonore et le show business américain.
 
 
-![Vendredi sur Mer]()
+{{< carousel pictures="pictures/vendredi-sur-mer" alt="Vendredi sur Mer" author="mkhelif.photo" >}}
 
 L'ancienne photographe transformée en chanteuse confirme sa singularité esthétique avec une scénographie dépouillée où
 des draps blancs tendus dessinent des montagnes abstraites en fond de scène. Cette approche visuelle minimaliste reflète
@@ -37,7 +37,7 @@ les cloisonnements esthétiques, préférant puiser dans tous les réservoirs so
 musicale.
 
 
-![Sens Unik]()
+{{< carousel pictures="pictures/sens-unik" alt="Sens Unik" author="mkhelif.photo" >}}
 
 Devant un public clairsemé qui ne mesure pas l'importance historique de ce moment, les pionniers du rap suisse offrent
 une leçon d'authenticité brute. Deux MCs, un choriste, une batterie et un DJ : la formation originelle du hip-hop
@@ -50,7 +50,7 @@ quand la musique se vivait exclusivement en direct. Quinze ans après leur sépa
 héritages artistiques transcendent les modes et les générations.
 
 
-![Bon Entendeur]()
+{{< carousel pictures="pictures/bon-entendeur" alt="Bon Entendeur" author="mkhelif.photo" >}}
 
 Le duo attire un public plus jeune, révélant l'efficacité de leur concept : faire dialoguer les époques à travers des
 samples et des collaborations intergénérationnelles. Leur approche de l'électro-pop française, qui puise dans les
@@ -73,7 +73,7 @@ phénoménale. Venoge, en tant que seul festival suisse de l'été pour le duo, 
 d'événement historique.
 
 
-![Vladimir Cauchemar]()
+{{< carousel pictures="pictures/vladimir-cauchemar" alt="Vladimir Cauchemar" author="mkhelif.photo" >}}
 
 Basses saturées au maximum, lasers, flammes : l'univers de Vladimir Cauchemar se résume à une recherche de puissance
 sonore brute. Cette approche radicale de l'électro expérimentale divise forcément, entre ceux qui y voient une
@@ -83,7 +83,7 @@ narrative ou mélodique accessible. L'artiste assume parfaitement cette radicali
 totale où le son devient matière physique, transformant le concert en installation artistique éphémère.
 
 
-![Jason Derulo]()
+{{< carousel pictures="pictures/jason-derulo" alt="Jason Derulo" author="mkhelif.photo" >}}
 
 Bigflo et Oli assis dans la fosse pour profiter du spectacle : même les têtes d'affiche françaises reconnaissent la
 maîtrise du show business américain. Danseuses en sous-vêtements, quatre breakdanceurs champions du monde (The Twins),
@@ -95,7 +95,7 @@ approche industrielle de la musique populaire, si elle peut sembler cynique, té
 scénique indéniable.
 
 
-![DJ Bens]()
+{{< carousel pictures="pictures/dj-bens" alt="DJ Bens" author="mkhelif.photo" >}}
 
 Le DJ montpelliérain confirme sa réputation internationale avec ses "powerful live sets" qui ont conquis les clubs du
 monde entier, de Miami à Hong Kong. Spécialiste de l'Urban Music et du Hip Hop, il incarne cette génération marquée

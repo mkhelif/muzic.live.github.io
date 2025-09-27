@@ -20,9 +20,9 @@ artists:
   - Mosimann
 ---
 
-![photos]()
+{{< carousel pictures="pictures/nuit-incolore" alt="Nuit Incolore" author="mkhelif.photo" >}}
 
-Le révélation valaisanne confirme sa singularité avec une scénographie épurée dominée par un immense papillon lumineux à
+La révélation valaisanne confirme sa singularité avec une scénographie épurée dominée par un immense papillon lumineux à
 LEDs, référence directe à "La note noire" et son album "La nuit du papillon". Guitare-chant et batterie suffisent à
 porter ses mélodies sombres et introspectives qui explorent l'abandon et la solitude contemporaine. "J'ai besoin de
 prendre l'air", repris en chœur par un public conquis, révèle cette capacité rare à transformer l'intime en communion
@@ -33,7 +33,7 @@ contemporaines, Nuit Incolore incarne cette nouvelle génération d'artistes fra
 tradition et modernité.
 
 
-![photos]()
+{{< carousel pictures="pictures/fleche-love" alt="Flèche Love" author="mkhelif.photo" >}}
 
 Expérience sensorielle et spirituelle radicale dans un décor ultra-minimaliste : deux montagnes noires et l'arrivée de
 danseuses masquées en costumes rouges. Aucun instrument traditionnel, seulement cette voix qui transperce et une
@@ -73,7 +73,7 @@ Leur performance rappelle que l'"École du Micro d'Argent" reste une référence
 d'artistes qui peinent parfois à égaler cette excellence.
 
 
-![photos]()
+{{< carousel pictures="pictures/eddy-de-pretto" alt="Eddy de Pretto" author="mkhelif.photo" >}}
 
 Pas de musiciens sur scène, mais une plateforme avec écrans qui diffusent les instrumentistes virtuels : Eddy de Pretto
 assume parfaitement cette approche technologique de la performance live, même si l’on peut trouver cela dommage, le
@@ -85,7 +85,7 @@ univers émotionnellement intense trouvent dans cette théâtralité épurée un
 peut s'accommoder d'artifices techniques assumés.
 
 
-![photos]()
+{{< carousel pictures="pictures/mika" alt="MIKA" author="mkhelif.photo" >}}
 
 Arrivée avec d'immenses ailes, chœur de quatre voix, changements de tenue à (presque) chaque chanson : Mika transforme
 son concert en comédie musicale live. Son amplitude vocale incroyable porte aussi bien ses hits internationaux que son
@@ -98,7 +98,7 @@ artistes capables de transformer un festival en événement théâtral total, sy
 spectacle grandiose.
 
 
-![photos]()
+{{< carousel pictures="pictures/mosimann" alt="Mosimann" author="mkhelif.photo" >}}
 
 Pour conclure cette soirée et cette édition du Venoge festival, Mosimann décide de s’installer non sur scène mais dans
 un box lumineux en plein milieu de la fosse. Mosimann révolutionne physiquement l'art du DJing. Cette approche

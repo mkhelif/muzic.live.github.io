@@ -2,7 +2,7 @@
 date: "2025-03-20T20:00:00+02:00"
 title: "Lost in Lona, Gavin James"
 author: "mkhelif"
-cover: "pictures/gavin-james-02.jpg"
+cover: "pictures/gavin-james/02.jpg"
 rank: 10
 locations:
   - Les Docks

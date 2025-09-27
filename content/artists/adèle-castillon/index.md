@@ -1,5 +1,5 @@
 ---
-title: "Adèle Castillon"
+title: "Adèle Castillon"
 cover: "cover.jpg"
 ---
 

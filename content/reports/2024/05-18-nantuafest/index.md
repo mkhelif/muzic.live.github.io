@@ -12,7 +12,7 @@ festivals:
 artists:
   - Tino
   - Alice et Moi
-  - Adèle Castillon
+  - Adèle Castillon
   - Jahneration
   - Caballero
   - JeanJass
