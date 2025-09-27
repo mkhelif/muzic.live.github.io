@@ -2,7 +2,7 @@
 date: "2025-07-04T19:00:00+02:00"
 title: "Musiques en Stock 2025 - Jour 2 - Crazy Jess, Ménades, Kid Kapichi, Bloc Party"
 author: "mkhelif"
-cover: "pictures/"
+cover: "pictures/bloc-party/09.jpg"
 rank: 10
 locations:
   - Scionzier
@@ -20,6 +20,10 @@ La deuxième soirée du festival Musiques en Stock a confirmé la diversité et 
 punk, rock brut et électro-post-punk.
 
 Entre montagnes et moshpits, Scionzier a vibré jusqu’au bout de la nuit.
+
+
+{{< carousel pictures="pictures/crazy-jesse" alt="Crazy Jesse" author="mkhelif.photo" >}}
+
 Ouverture émouvante avec Crazy Jesse, trio originaire de Scionzier, qui a offert une performance puissante et sincère.
 
 Jesse, la chanteuse au charisme magnétique, n’a pas caché son émotion de jouer "à la maison", tandis que la batterie (
@@ -28,6 +32,10 @@ Leur rock, épuré mais intense, a mis en avant des morceaux de Le fil de l’hi
 Somewhere.
 
 Un set simple et authentique qui a réussi à électriser la foule.
+
+
+{{< carousel pictures="pictures/menades" alt="Ménades" author="mkhelif.photo" >}}
+
 Les Ménades ont ensuite déchaîné leur punk rock survolté, entre shoegaze et psyché déjantée.
 
 Eva, en nuisette vinylique, a hurlé des textes en français et anglais, tandis que les guitares dissonantes et la basse
@@ -36,6 +44,10 @@ Leur morceau I’m Going Mad a été un moment clé : le batteur (François) a l
 le reste du groupe reprenait en chœur, déclenchant un mini-pogo.
 
 Entre Viagra Boys et Amyl & The Sniffers, les Ménades ont prouvé qu’ils/elles sont la révélation punk de l’année.
+
+
+{{< carousel pictures="pictures/kid-kapici" alt="Kid Kapici" author="mkhelif.photo" >}}
+
 Les Britanniques de Kid Kapichi ont enchaîné avec un punk rock furieux et engagé.
 
 Le quatuor a balancé des hymnes de There Goes the Neighbourhood, critiquant le Brexit et les inégalités sociales avec un
@@ -45,6 +57,10 @@ Leur énergie live, aussi brute que sur disque, a fait monter la température.
 Les pogos ont éclaté, et le public a repris en chœur leurs refrains revendicatifs.
 
 Un set cathartique, comme une thérapie collective contre la morosité ambiante.
+
+
+{{< carousel pictures="pictures/bloc-party" alt="Bloc Party" author="mkhelif.photo" >}}
+
 Clôture en apothéose avec Bloc Party, venu célébrer les 20 ans de Silent Alarm.
 
 Le groupe a livré une performance nerveuse et sophistiquée, mêlant post-punk anguleux et influences électroniques.

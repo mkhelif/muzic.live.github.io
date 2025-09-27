@@ -1,11 +1,10 @@
-
 <div class="container">
     <h1 class="mb-3 px-4 py-3 bg-primary text-dark">{{ .Title }}</h1>
 
     {{ partial "content.html" . }}
 
     <div data-pagefind-ignore="all">
-        <h4 class="mt-5 p-3 bg-primary text-dark">Chroniques de concerts</h4>
+        <h4 class="mt-5 mb-3 p-3 bg-primary text-dark">Chroniques de concerts</h4>
         {{ range $.Site.RegularPages }}
             {{ $page := . }}
             {{ range .GetTerms "locations" }}

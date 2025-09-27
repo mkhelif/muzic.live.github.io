@@ -2,7 +2,7 @@
 date: "2025-06-08T17:30:00+02:00"
 title: "Heavy Weekend 2025 - Jour 3 - Nothing More, Rise of the North Star, Mass Hysteria, Slipknot"
 author: "mkhelif"
-cover: "pictures/"
+cover: "pictures/rise-of-the-northstar/15.jpg"
 rank: 10
 locations:
   - Zenith Nancy
@@ -22,6 +22,9 @@ enchaînées performances explosives et énergie pure.
 
 Une clôture à la hauteur de ce festival devenu incontournable.
 
+
+{{< carousel pictures="pictures/nothing-more" alt="Nothing More" author="mkhelif.photo" >}}
+
 Les texans de Nothing More ont ouvert les hostilités avec une énergie folle.
 
 Jonny Hawkins, torse peint de motifs noirs et or, pieds nus sur scène, a livré une performance physique époustouflante.
@@ -30,6 +33,9 @@ Entre les jets de flammes synchronisés et sa voix aux amplitudes démoniaques, 
 nominations aux Grammy Awards.
 
 Leur metal alternatif, à la fois technique et viscéral, a parfaitement préparé le terrain pour la suite.
+
+
+{{< carousel pictures="pictures/rise-of-the-northstar" alt="Rise Of The NorthStar" author="mkhelif.photo" >}}
 
 Les Français de Rise of the Northstar ont ensuite pris possession de la scène avec leur mélange unique de metalcore et
 de rap.
@@ -41,6 +47,9 @@ Leur esthétique manga et leurs riffs coup-de-poing ont électrisé le public, d
 Une performance qui confirme leur statut de phénomène underground.
 
 Les spectateurs (record d'affluence du weekend) ont transformé le site en une mer de crowdsurfers.
+
+
+{{< carousel pictures="pictures/mass-hysteria" alt="Mass Hysteria" author="mkhelif.photo" >}}
 
 Avec Mass Hysteria, c'est un quart de siècle d'histoire du metal français qui a déferlé sur Nancy.
 

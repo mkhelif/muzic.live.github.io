@@ -2,7 +2,7 @@
 date: "2025-07-03T19:00:00+02:00"
 title: "Musiques en Stock 2025 - Jour 1 - Fugue, Feldup, Gringe, ATOEM"
 author: "mkhelif"
-cover: "pictures/"
+cover: "pictures/atoem/01.jpg"
 rank: 8
 locations:
   - Scionzier
@@ -23,7 +23,7 @@ Sous un ciel estival et face aux montagnes de Haute-Savoie, quatre artistes ont 
 vibrionnant de la scène indépendante française.
 
 
-![Fugue]()
+{{< carousel pictures="pictures/fugue" alt="Fugue" author="mkhelif.photo" >}}
 
 Ouverture en force avec Fugue, le quatuor amiénois qui a insufflé une énergie glacée et passionnée à la scène.
 
@@ -35,7 +35,7 @@ Leur set, puisant dans l’EP YELL, a révélé une révolte raw et instinctive,
 Un coup de maître pour ces "rookies" prometteurs, dont la performance a confirmé leur statut de future tête d’affiche.
 
 
-![Feldup]()
+{{< carousel pictures="pictures/feldup" alt="Feldup" author="mkhelif.photo" >}}
 
 Transition saisissante avec Feldup, dont l’apparence banale (jeans, t-shirt oversize) contrastait avec l’intensité de sa
 musique.
@@ -49,7 +49,7 @@ Le public, conquis, a acclamé ce pur produit de la génération internet, timid
 scène.
 
 
-![Gringe]()
+{{< carousel pictures="pictures/gringe" alt="Gringe" author="mkhelif.photo" >}}
 
 Arrivée de Gringe, entouré de son fidèle DJ Pone et du pianiste Livian.
 
@@ -63,7 +63,7 @@ Sydney Valette (des Casseurs Flowters) a même fait une apparition, rappelant l�
 La foule, en transe, a repris chaque refrain – preuve que Gringe maîtrise l’art de l’émotion collective.
 
 
-![ATOEM]()
+{{< carousel pictures="pictures/atoem" alt="ATOEM" author="mkhelif.photo" >}}
 
 Clôture hypnotique avec ATOEM, duo rennais spécialiste des expérimentations psychédéliques.
 

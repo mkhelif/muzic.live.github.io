@@ -2,7 +2,7 @@
 date: "2025-06-07T17:30:00+02:00"
 title: "Heavy Weekend 2025 - Jour 2 - Wings of Steel, Vanden Plas, Europe, Dream Theater"
 author: "mkhelif"
-cover: "pictures/"
+cover: "pictures/dream-theater/02.jpg"
 rank: 10
 locations:
   - Zenith Nancy
@@ -22,6 +22,9 @@ metal progressif, tout en célébrant les classiques intemporels du hard rock.
 
 Une nuit où la virtuosité technique a rencontré l'émotion pure.
 
+
+{{< carousel pictures="pictures/wings-of-steel" alt="Wings of Steel" author="mkhelif.photo" >}}
+
 Le quintet de Wings of Steel a ouvert les hostilités avec une énergie contagieuse, malgré une affluence encore timide
 dans la fosse.
 
@@ -32,6 +35,9 @@ scène underground.
 
 Un set prometteur pour ces nouveaux venus qui mériteraient une plus large audience.
 
+
+{{< carousel pictures="pictures/vanden-plas" alt="Vanden Plas" author="mkhelif.photo" >}}
+
 Les Allemands de Vanden Plas ont démontré leur maîtrise du metal progressif.
 
 Leur set, principalement tiré de The God Thing, a impressionné par sa complexité technique et ses arrangements
@@ -41,6 +47,9 @@ Pourtant, l'absence de véritable interaction avec le public et une certaine rig
 impact de leur performance.
 
 Dommage pour ce groupe qui mériterait plus de reconnaissance.
+
+
+{{< carousel pictures="pictures/europe" alt="Europe" author="mkhelif.photo" >}}
 
 Contrairement aux attentes de certains, les Suédois d'Europe ont offert bien plus qu'une simple reprise de The Final
 Countdown.
@@ -54,6 +63,9 @@ ballades et hymnes rock.
 Leur performance a rappelé pourquoi ils restent des piliers de la scène hard rock depuis près de 40 ans.
 
 Le clou de la soirée fut sans conteste le retour du line-up classique de Dream Theater.
+
+
+{{< carousel pictures="pictures/dream-theater" alt="Dream Theaster" author="mkhelif.photo" >}}
 
 Après une longue vidéo introductive, les maîtres du prog metal ont délivré une performance technique époustoutflante.
 

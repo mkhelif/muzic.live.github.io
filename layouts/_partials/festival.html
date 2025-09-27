@@ -4,7 +4,7 @@
     {{ partial "content.html" . }}
 
     <div data-pagefind-ignore="all">
-        <h4 class="mt-5 p-3 bg-primary text-dark">Chroniques de concerts</h4>
+        <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">Chroniques de concerts</h4>
         {{ range $.Site.RegularPages }}
             {{ $page := . }}
             {{ range .GetTerms "festivals" }}
