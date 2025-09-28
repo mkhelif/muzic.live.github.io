@@ -2,7 +2,7 @@
 date: "2024-07-20T17:30:00+02:00"
 title: "Guitare en Scène 2024 - Jour 3 - LeanWolf, Xavier Rudd, Rodrigo y Gabriela, Francis Cabrel, Nino Baliardo"
 author: "mkhelif"
-cover: "pictures/"
+cover: "pictures/rodrigo-y-gabriela/03.jpg"
 rank: 8
 locations:
   - Saint-Julien-en-Genevois
@@ -24,7 +24,7 @@ Le public, en nombre, profite d'une programmation riche et variée qui va du blu
 folk australienne.
 
 
-![Héritage]()
+{{< carousel pictures="pictures/heritage" alt="Héritage" author="mkhelif.photo" >}}
 
 Le groupe Héritage ouvre cette journée avec un groove impeccable, fruit d'une alchimie parfaite entre les générations.
 
@@ -37,7 +37,7 @@ Leur set, tout en nuances, est une introduction parfaite à cette journée, mett
 entre générations.
 
 
-![LeanWolf]()
+{{< carousel pictures="pictures/leanwofl" alt="LeanWolf" author="mkhelif.photo" >}}
 
 Le jeune prodige LeanWolf, originaire de Montpellier, monte ensuite sur scène sous une chaleur écrasante.
 
@@ -47,7 +47,7 @@ LeanWolf livre une performance impressionnante et termine son set par un gros co
 rapidement de la scène sous les acclamations du public.
 
 
-![Xavier Rudd]()
+{{< carousel pictures="pictures/xavier-rudd" alt="Xavier Rudd" author="mkhelif.photo" >}}
 
 Xavier Rudd transporte littéralement le public dans un autre monde.
 
@@ -64,7 +64,8 @@ Ses bras tatoués, son drapeau aborigène, et son mélange de folk, reggae et mu
 l'attachement de Rudd à ses racines et à la nature.
 
 
-![Rodrigo y Gabriela]()
+{{< carousel pictures="pictures/rodrigo-y-gabriela" alt="Rodrigo y Gabriela" author="mkhelif.photo" >}}
+
 Le duo mexicain Rodrigo y Gabriela prend ensuite possession de la scène avec une énergie débridée.
 
 Avec seulement deux guitares, ils parviennent à créer une atmosphère vibrante, mêlant rock, hard rock, et flamenco avec
@@ -77,7 +78,7 @@ Leurs solos endiablés et leur complémentarité parfaite captivent le public du
 performance un des moments les plus mémorables de la journée.
 
 
-![Francis Cabrel]()
+{{< carousel pictures="pictures/francis-cabrel" alt="Francis Cabrel" author="mkhelif.photo" >}}
 
 Francis Cabrel, véritable icône de la chanson française, offre un moment de pure nostalgie.
 
@@ -94,7 +95,7 @@ déclenchées par le public en leur honneur.
 Pas de grande surprise mais un set maitrisé et qui a tout pour plaire au public.
 
 
-![Nino Baliardo]()
+{{< carousel pictures="pictures/nino-baliardo" alt="Nino Baliardo" author="mkhelif.photo" >}}
 
 Pour clôturer cette journée, Nino Baliardo, fondateur des Gipsy Kings, transforme la fosse en une véritable piste de
 danse avec ses rythmes endiablés de rumba catalane et de flamenco.

@@ -8,10 +8,10 @@
 
     <p>
         {{ range $.GetTerms "artists" }}
-        <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+            <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
         {{ end }}
         {{ range $.GetTerms "festivals" }}
-        <a class="badge bg-success text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+            <a class="badge bg-success text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
         {{ end }}
     </p>
 

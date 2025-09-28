@@ -9,4 +9,7 @@
 {{ range $.GetTerms "festivals" }}
     {{ $content = (replace $content .LinkTitle (printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle)) | safeHTML }}
 {{ end }}
+{{ range $.GetTerms "albums" }}
+    {{ $content = (replace $content .LinkTitle (printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle)) | safeHTML }}
+{{ end }}
 {{ $content }}

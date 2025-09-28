@@ -6,9 +6,11 @@
         {{ else if eq .Section "festivals" }}
             {{ partial "festival.html" . }}
         {{ else if eq .Section "locations" }}
-        {{ partial "location.html" . }}
+            {{ partial "location.html" . }}
         {{ else if eq .Section "reports" }}
             {{ partial "report.html" . }}
+        {{ else if eq .Section "albums" }}
+            {{ partial "album.html" . }}
         {{ else }}
             <div class="container">
                 <h1 class="mb-3 px-4 py-3 bg-primary text-dark">{{ .Title }}</h1>

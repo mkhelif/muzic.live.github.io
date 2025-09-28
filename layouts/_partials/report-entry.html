@@ -6,14 +6,23 @@
             </a>
         </div>
     {{ end }}
-    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+    <h3>
+        <a href="{{ .RelPermalink }}">
+            {{ if .Params.artist }}
+                {{ .Params.artist }} -
+            {{ end }}
+            {{ .LinkTitle }}
+        </a>
+    </h3>
     <div class="small text-body-tertiary">
         {{ range $.GetTerms "locations" }}
             {{ .LinkTitle }},
         {{ end }}
         {{ if eq .Section "reports" }}
-            {{ partial "time.html" .Date }}
-            <span class="ms-2">{{ partial "rank.html" .Params.rank }}</span>
+            <span class="me-2">{{ partial "time.html" .Date }}</span>
+        {{ end }}
+        {{ if .Params.rank }}
+            <span>{{ partial "rank.html" .Params.rank }}</span>
         {{ end }}
         <div class="pt-1 text-muted text-justify text-sm-start">{{ .Content | plainify | truncate 1000 }}</div>
         <p class="text-end" style="clear: both">

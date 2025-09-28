@@ -6,7 +6,7 @@
     >
         {{ range seq 0 4 }}
             {{ if gt $rank . }}
-                {{ if ge $rank (add . 0.5) }}
+                {{ if gt $rank (add . 0.5) }}
                     <i class="fa fa-star"></i>
                 {{ else }}
                     <i class="fa fa-star-half-stroke"></i>

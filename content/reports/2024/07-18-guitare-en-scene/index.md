@@ -2,8 +2,8 @@
 date: "2024-07-18T17:30:00+02:00"
 title: "Guitare en Scène 2024 - Jour 1 - Paddang, Seasick Steve, Status Quo, John Fogerty, The Inspector Cluzo"
 author: "mkhelif"
-cover: "pictures/"
-rank: 10
+cover: "pictures/status-quo/04.jpg"
+rank: 8
 locations:
   - Saint-Julien-en-Genevois
   - France
@@ -15,6 +15,7 @@ artists:
   - Status Quo
   - John Fogerty
   - The Inspector Cluzo
+  - Axel Zimmerman
 ---
 
 La première soirée du festival Guitare en Scène a accueilli une foule impatiente de vibrer au rythme du rock.
@@ -22,7 +23,7 @@ La première soirée du festival Guitare en Scène a accueilli une foule impatie
 Avec une jauge maximale de 5000 personnes, l’atmosphère était électrique dès les premières notes.
 
 
-[Photos Paddang]
+{{< carousel pictures="pictures/paddang" alt="Paddang" author="mkhelif.photo" >}}
 
 La soirée s’ouvre avec Paddang, groupe toulousain, lauréat du tremplin du festival.
 
@@ -34,7 +35,7 @@ répondre à l'urgence de vivre face à un monde en plein tumulte.
 Paddang, c’est l’essence même du garage-punk, une explosion d’énergie qui réveille les esprits.
 
 
-[Photos Seasick Steve]
+{{< carousel pictures="pictures/seasick-steve" alt="Seasick Steve" author="mkhelif.photo" >}}
 
 Seasick Steve, vétéran des scènes du monde entier, prend ensuite place.
 
@@ -50,7 +51,7 @@ voyage musical intense.
 Sa musique, authentique et rugueuse, fait résonner l’esprit de la route et du sud des États-Unis.
 
 
-[Photos Status Quo]
+{{< carousel pictures="pictures/status-quo" alt="Status Quo" author="mkhelif.photo" >}}
 
 Sur la grande scène, Status Quo attire la foule.
 
@@ -65,7 +66,7 @@ Le groupe, véritable monument du rock, prouve une fois de plus qu’il sait com
 aisance et un savoir-faire inégalés.
 
 
-[Photos Axel Zimmerman]
+{{< carousel pictures="pictures/axel-zimmerman" alt="Axel Zimmerman" author="mkhelif.photo" >}}
 
 Entre deux décharges de rock, une parenthèse plus douce est offerte par Alex Zimmerman, qui investit l’espace chill du
 festival.
@@ -76,7 +77,7 @@ Sa musique, empreinte de sensibilité, offre un moment de répit aux festivalier
 grands noms du rock.
 
 
-[Photo John Fogerty]
+{{< carousel pictures="pictures/john-fogerty" alt="John Fogerty" author="mkhelif.photo" >}}
 
 John Fogerty, légende vivante du rock, entre en scène sur une vidéo racontant ses débuts dans la musique.
 
@@ -93,7 +94,7 @@ Malgré quelques signes de fatigue, Fogerty reste un géant du rock, offrant une
 d’émotion.
 
 
-[Photos The Inspector Cluzo]
+{{< carousel pictures="pictures/the-inspector-cluzo" alt="The Inspector Cluzo" author="mkhelif.photo" >}}
 
 La soirée se termine en apothéose avec The Inspector Cluzo, qui déploie une énergie phénoménale sur scène.
 
