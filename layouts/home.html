@@ -14,7 +14,7 @@
 
             <div class="col-4">
                 <h3 class="mb-4 p-3 bg-primary text-dark">Dernières critiques d'albums</h3>
-                {{ range (where site.RegularPages "Section" "albums").Limit 5 }}
+                {{ range (where site.RegularPages "Section" "albums").Limit 2 }}
                     {{ partial "report-entry.html" . }}
                 {{ end }}
                 <p class="text-center">
