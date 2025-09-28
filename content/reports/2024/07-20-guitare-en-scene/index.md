@@ -37,7 +37,7 @@ Leur set, tout en nuances, est une introduction parfaite à cette journée, mett
 entre générations.
 
 
-{{< carousel pictures="pictures/leanwofl" alt="LeanWolf" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/leanwolf" alt="LeanWolf" author="mkhelif.photo" >}}
 
 Le jeune prodige LeanWolf, originaire de Montpellier, monte ensuite sur scène sous une chaleur écrasante.
 

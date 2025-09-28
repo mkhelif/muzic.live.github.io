@@ -3,7 +3,7 @@ date: "2024-05-20T07:45:32+02:00"
 title: "Nantuafest 2024 - Jour 3 - Lakna, Styleto, The Doug, Niska, Feder, Blasterjaxx"
 author: "mkhelif"
 cover: "pictures/the-doug/01.jpg"
-rank: 7
+rank: 6
 locations:
   - Nantua
   - France
