@@ -2,7 +2,7 @@
     <div class="container" data-pagefind-ignore="all">
         <!-- Last live reports -->
         <div class="row">
-            <div class="col-8">
+            <div class="col-12 col-lg-8">
                 <h3 class="mb-4 p-3 bg-primary text-dark">Dernières chroniques de concerts</h3>
                 {{ range (where site.RegularPages "Section" "reports").Limit 5 }}
                     {{ partial "report-entry.html" . }}
@@ -12,13 +12,13 @@
                 </p>
             </div>
 
-            <div class="col-4">
+            <div class="col-12 col-lg-4">
                 <h3 class="mb-4 p-3 bg-primary text-dark">Dernières critiques d'albums</h3>
                 {{ range (where site.RegularPages "Section" "albums").Limit 2 }}
                     {{ partial "report-entry.html" . }}
                 {{ end }}
                 <p class="text-center">
-                    <a class="btn btn-primary" href="/reports">Voir plus</a>
+                    <a class="btn btn-primary" href="/albums">Voir plus</a>
                 </p>
             </div>
         </div>
