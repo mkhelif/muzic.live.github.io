@@ -1,6 +1,10 @@
 ---
 title: "Atrack'Son"
 cover: "cover.jpg"
+socials:
+  facebook: "latrackson"
+  instagram: "latrackson"
+  web: "https://www.latrackson.fr/"
 ---
 
 

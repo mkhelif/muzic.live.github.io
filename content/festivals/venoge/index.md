@@ -1,6 +1,12 @@
 ---
 title: "Venoge Festival"
 cover: "cover.jpg"
+socials:
+  facebook: "venogefestival"
+  instagram: "venoge_festival"
+  tiktok: "@venogefestival"
+  youtube: "VenogeFestivalVid"
+  web: "https://venogefestival.ch/"
 ---
 
 ##### Un géant musical en terre vaudoise

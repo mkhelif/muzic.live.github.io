@@ -1,6 +1,12 @@
 ---
 title: "Vercors Music Festival"
 cover: "cover.jpg"
+socials:
+  facebook: "vercorsmusicfestival"
+  instagram: "vercorsmusicfestival"
+  x: "VercorsMusic"
+  youtube: "@vercorsmusicfestival9416"
+  web: "https://vercorsmusicfestival.com/"
 ---
 
 ##### Un écrin naturel exceptionnel

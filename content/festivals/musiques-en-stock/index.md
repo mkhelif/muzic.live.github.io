@@ -1,6 +1,10 @@
 ---
 title: "Musiques en Stock"
 cover: "cover.jpg"
+socials:
+  facebook: "musiquesenstockfestival"
+  instagram: "festivalmusiquesenstock"
+  web: "https://musiquesenstock.fr/"
 ---
 
 ##### Un festival intimiste dans un cadre idyllique

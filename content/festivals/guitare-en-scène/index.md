@@ -1,6 +1,12 @@
 ---
 title: "Guitare en Scène"
 cover: "cover.jpg"
+socials:
+  facebook: "festivalguitareenscene"
+  instagram: "festivalguitareenscene"
+  tiktok: "@festivalguitareenscene"
+  youtube: "@festivalguitareenscene7632"
+  web: "https://www.guitare-en-scene.com/"
 ---
 
 ##### Un écrin intimiste pour les guitar heroes

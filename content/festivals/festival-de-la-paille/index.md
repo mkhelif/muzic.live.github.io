@@ -1,6 +1,12 @@
 ---
 title: "Festival de la Paille"
 cover: "cover.jpg"
+socials:
+  facebook: "FestivalPaille"
+  instagram: "festivalpaille"
+  tiktok: "@festivalpaille"
+  youtube: "@Festivalpaille"
+  web: "https://www.festivalpaille.fr/"
 ---
 
 ##### Un ancrage géographique authentique

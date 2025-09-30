@@ -1,6 +1,11 @@
 ---
 title: "Heavy Weekend"
 cover: "cover.jpg"
+socials:
+  facebook: "HeavyWeekEnd"
+  instagram: "heavyweekend"
+  tiktok: "@heavyweekend"
+  web: "https://www.heavyweekend.live/"
 ---
 
 ##### Un nouveau rendez-vous metal de prestige

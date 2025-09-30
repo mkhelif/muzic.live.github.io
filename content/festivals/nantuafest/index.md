@@ -1,6 +1,11 @@
 ---
 title: "Nantuafest"
 cover: "cover.jpg"
+socials:
+  facebook: "nantua.fest"
+  instagram: "nantuafest"
+  youtube: "@nantuafest4235"
+  web: "https://www.nantuafest.fr/"
 ---
 
 ##### Un cadre naturel exceptionnel
