@@ -1,4 +1,7 @@
 <p class="text-end fs-4 mb-0">
+    {{ if .Params.socials.web }}
+        <a class="me-2 align-middle" href="{{ .Params.socials.web }}" target="_blank" rel="noreferrer noopener"><i class="fa fa-globe"></i></a>
+    {{ end }}
     {{ if .Params.socials.facebook }}
         <a class="me-2 align-middle" href="https://www.facebook.com/{{ .Params.socials.facebook }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-facebook"></i></a>
     {{ end }}
@@ -11,13 +14,16 @@
     {{ if .Params.socials.x }}
         <a class="me-2 align-middle" href="https://x.com/{{ .Params.socials.x }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-x-twitter"></i></a>
     {{ end }}
+    {{ if .Params.socials.threads }}
+        <a class="me-2 align-middle" href="https://www.threads.com/{{ .Params.socials.threads }}/" target="_blank" rel="noreferrer noopener"><i class="fab fa-threads"></i></a>
+    {{ end }}
     {{ if .Params.socials.youtube }}
         <a class="me-2 align-middle" href="https://www.youtube.com/{{ .Params.socials.youtube }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-youtube"></i></a>
     {{ end }}
+    {{ if .Params.socials.whatsapp }}
+        <a class="me-2 align-middle" href="https://www.whatsapp.com/channel/{{ .Params.socials.whatsapp }}/" target="_blank" rel="noreferrer noopener"><i class="fab fa-whatsapp"></i></a>
+    {{ end }}
     {{ if .Params.socials.tidal }}
         <a class="me-2 align-middle" href="https://tidal.com/artist/{{ .Params.socials.tidal }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-tidal"></i></a>
-    {{ end }}
-    {{ if .Params.socials.web }}
-        <a class="me-2 align-middle" href="{{ .Params.socials.web }}" target="_blank" rel="noreferrer noopener"><i class="fa fa-globe"></i></a>
     {{ end }}
 </p>
