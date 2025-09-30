@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "MIKA"
 cover: "cover.jpg"
 ---

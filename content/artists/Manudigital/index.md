@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Manudigital"
 cover: "cover.jpg"
 ---

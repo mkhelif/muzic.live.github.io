@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Mosimann"
 cover: "cover.jpg"
 ---
