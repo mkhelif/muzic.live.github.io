@@ -1,4 +1,5 @@
 ---
+draft: true
 date: "2025-08-15T17:30:00+02:00"
 title: "Venoge Festival 2025 - Jour 3 - Vendredi sur Mer, Sens Unik, Bon Entendeur, BigFlo & Oli, Vladimir Cauchemar, Jason Derulo, DJ Bens"
 author: "mkhelif"
