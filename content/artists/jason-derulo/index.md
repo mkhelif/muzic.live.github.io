@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Jason Derulo"
 cover: "cover.jpg"
 ---

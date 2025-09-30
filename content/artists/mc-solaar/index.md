@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "MC Solaar"
 cover: "cover.jpg"
 ---

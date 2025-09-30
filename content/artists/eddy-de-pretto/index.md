@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Eddy De Pretto"
 cover: "cover.jpg"
 ---
