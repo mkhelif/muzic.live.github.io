@@ -14,3 +14,13 @@ artists:
   - Heldsmachine
 ---
 
+
+###### Heldsmachine
+Metal indus German tranquille
+Des arrangements classiques mais qui fonctionnent
+Un peu d'électro
+Bonne première partie, le peu de public present est en fusion
+
+##### eisbercher
+La salle s'est rempli
+Clairement l'expérience

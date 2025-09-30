@@ -1,4 +1,4 @@
-<p class="text-end fs-4 mb-0">
+<p class="text-end fs-4 mb-4">
     {{ if .Params.socials.web }}
         <a class="me-2 align-middle" href="{{ .Params.socials.web }}" target="_blank" rel="noreferrer noopener"><i class="fa fa-globe"></i></a>
     {{ end }}
@@ -25,5 +25,8 @@
     {{ end }}
     {{ if .Params.socials.tidal }}
         <a class="me-2 align-middle" href="https://tidal.com/artist/{{ .Params.socials.tidal }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-tidal"></i></a>
+    {{ end }}
+    {{ if .Params.socials.soundcloud }}
+        <a class="me-2 align-middle" href="https://soundcloud.com/{{ .Params.socials.soundcloud }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-soundcloud"></i></a>
     {{ end }}
 </p>
