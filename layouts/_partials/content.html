@@ -1,15 +1,11 @@
 {{ $content := .Content }}
-{{ range $.Site.RegularPages }}
-    {{ $link := printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle }}
-    {{ $content = (replace $content .LinkTitle $link) | safeHTML }}
-{{ end }}
-{{ range $.GetTerms "artists" }}
+{{ range (where $.Site.RegularPages "Section" "artists") }}
     {{ $content = (replace $content .LinkTitle (printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle)) | safeHTML }}
 {{ end }}
-{{ range $.GetTerms "festivals" }}
+{{ range (where $.Site.RegularPages "Section" "albums") }}
     {{ $content = (replace $content .LinkTitle (printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle)) | safeHTML }}
 {{ end }}
-{{ range $.GetTerms "albums" }}
+{{ range (where $.Site.RegularPages "Section" "festivals") }}
     {{ $content = (replace $content .LinkTitle (printf "<a href='%s'>%s</a>" .RelPermalink .LinkTitle)) | safeHTML }}
 {{ end }}
 {{ $content }}
