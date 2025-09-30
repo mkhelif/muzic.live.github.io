@@ -1,0 +1,20 @@
+<p class="text-end fs-4 mb-0">
+    {{ if .Params.socials.facebook }}
+        <a class="me-2 align-middle" href="https://www.facebook.com/{{ .Params.socials.facebook }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-facebook"></i></a>
+    {{ end }}
+    {{ if .Params.socials.instagram }}
+        <a class="me-2 align-middle" href="https://www.instagram.com/{{ .Params.socials.instagram }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-instagram"></i></a>
+    {{ end }}
+    {{ if .Params.socials.tiktok }}
+        <a class="me-2 align-middle" href="https://www.tiktok.com/{{ .Params.socials.tiktok }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-tiktok"></i></a>
+    {{ end }}
+    {{ if .Params.socials.youtube }}
+        <a class="me-2 align-middle" href="https://www.youtube.com/{{ .Params.socials.youtube }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-youtube"></i></a>
+    {{ end }}
+    {{ if .Params.socials.tidal }}
+        <a class="me-2 align-middle" href="https://tidal.com/artist/{{ .Params.socials.tidal }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-tidal"></i></a>
+    {{ end }}
+    {{ if .Params.socials.web }}
+        <a class="me-2 align-middle" href="{{ .Params.socials.web }}" target="_blank" rel="noreferrer noopener"><i class="fa fa-globe"></i></a>
+    {{ end }}
+</p>
