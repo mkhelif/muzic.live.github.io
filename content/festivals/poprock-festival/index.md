@@ -1,6 +1,12 @@
 ---
 title: "Poprock Festival"
 cover: "cover.jpg"
+socials:
+  facebook: "poprockfestivalgilly"
+  instagram: "poprockgilly"
+  tiktok: "@poprock.festival"
+  youtube: "@POPROCKFESTIVAL.GILLY.1182"
+  web: "https://www.poprockfestival.ch/"
 ---
 
 ##### Un écrin viticole d'exception
