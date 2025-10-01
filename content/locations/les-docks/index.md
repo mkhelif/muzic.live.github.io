@@ -1,6 +1,12 @@
 ---
 title: "Les Docks"
 cover: "cover.png"
+socials:
+  facebook: "dockslausanne"
+  instagram: "lesdocks_lausanne"
+  youtube: "@DocksLausanne"
+  x: "Docks_Lausanne"
+  web: "https://www.docks.ch/"
 ---
 
 Située à deux pas du Flon dans le quartier de Sévelin, la salle de concert Docks propose une scène dédiée aux musiques

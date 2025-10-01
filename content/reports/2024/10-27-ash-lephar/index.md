@@ -3,6 +3,7 @@ date: "2024-10-27T20:00:00+02:00"
 title: "LePhar, ASH"
 author: "mkhelif"
 cover: "pictures/lephar/02.jpg"
+rank: 8
 locations:
   - Les Docks
   - Lausanne

@@ -1,6 +1,7 @@
 # Site
 baseURL = '/'
 languageCode = 'fr-fr'
+defaultContentLanguage = 'fr'
 title = 'Muzic.Live'
 
 # Menu
