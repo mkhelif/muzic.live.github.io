@@ -1,12 +1,12 @@
 ---
 date: "2025-09-12T00:00:00+02:00"
 title: "Breach"
-subtitle: "Fueled by Ramen (13 titres, 47:29)"
+subtitle: "13 titres, 47:29"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 7
 artist: "Twenty One Pilots"
-tidalAlbumId: "459844445"
+tidal: "459844445"
 ---
 
 ##### L'épilogue nécessaire d'un duo qui refuse de mourir

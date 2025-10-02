@@ -1,12 +1,12 @@
 ---
 date: "2024-11-15T00:00:00+02:00"
 title: "From Zero"
-subtitle: "Warner Records (11 titres, 31:58)"
+subtitle: "11 titres, 31:58"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 9
 artist: "Linkin Park"
-tidalAlbumId: "396931349"
+tidal: "396931349"
 ---
 
 Sept ans après la mort de Chester Bennington, Linkin Park ressuscite. Pas en tentant de remplacer l'irremplaçable, mais

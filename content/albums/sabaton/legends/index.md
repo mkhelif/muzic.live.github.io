@@ -1,12 +1,12 @@
 ---
 date: "2025-10-17T00:00:00+02:00"
 title: "Legends"
-subtitle: "Better Noise Music (11 titres, 45:43)"
+subtitle: "11 titres, 45:43"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 6
 artist: "Sabaton"
-tidalAlbumId: "442030480"
+tidal: "442030480"
 ---
 
 Avec Legends, Sabaton signe son dixième album studio et nous offre une nouvelle leçon d'histoire mise en musique,

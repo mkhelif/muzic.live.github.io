@@ -1,6 +1,12 @@
 ---
 title: "Eagle-Eye Cherry"
 cover: "cover.jpg"
+socials:
+  facebook: "EagleEyeCherryofficial"
+  instagram: "eagle_eyecherry"
+  youtube: "@Eagle-Eye-Cherry"
+  web: "https://www.eagleeyecherry.com"
+  tidal: "2047"
 ---
 
 Eagle-Eye Cherry est un chanteur-compositeur suédois-américain né en 1968, fils du trompettiste de jazz Don Cherry.
@@ -10,7 +16,6 @@ créer un style personnel et reconnaissable.
 
 Il grandit dans un environnement musical riche qui façonne sa vision artistique, développant une approche moderne de la
 chanson populaire qui mélange authenticité émotionnelle et accessibilité commerciale.
-
 
 ##### Carrière musicale
 
@@ -22,7 +27,6 @@ Cette réussite le propulse sur la scène mondiale et confirme son talent pour c
 Il développe ensuite un catalogue qui témoigne de sa capacité à maintenir une identité artistique forte tout en
 explorant différentes facettes de son style folk-rock, confirmant son statut d'artiste accompli.
 
-
 ##### Style et influences
 
 Le style d'Eagle-Eye Cherry se caractérise par des mélodies mélancoliques, une voix expressive et des arrangements qui
@@ -33,7 +37,6 @@ universels.
 
 Ses influences puisent dans le folk américain, le rock alternatif des années 90 et l'héritage musical familial jazz,
 créant un son hybride qui transcende les catégories traditionnelles.
-
 
 ##### Actualité
 

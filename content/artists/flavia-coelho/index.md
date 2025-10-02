@@ -1,6 +1,13 @@
 ---
 title: "Flavia Coelho"
 cover: "cover.jpg"
+socials:
+  facebook: "flaviacoelho.officiel"
+  instagram: "flaviacoelhobr"
+  threads: "flaviacoelhobr"
+  x: "flaviacoelhobr"
+  youtube: "@FlaviaCoelhoMusic"
+  tidal: "4102226"
 ---
 
 Flavia Coelho est une chanteuse brésilienne installée en France, qui émerge sur la scène world music européenne avec une
@@ -11,7 +18,6 @@ les sonorités contemporaines pour créer un style personnel et accessible.
 
 Elle développe rapidement une identité artistique qui mélange traditions brésiliennes et influences européennes, créant
 un pont musical entre ses deux cultures d'appartenance.
-
 
 ##### Carrière musicale
 
@@ -24,7 +30,6 @@ ses talents de chanteuse et d'interprète.
 Ses performances scéniques confirment sa capacité à transmettre la joie de vivre brésilienne à travers une musique
 festive et émotionnellement riche, établissant sa réputation sur la scène world music européenne.
 
-
 ##### Style et influences
 
 Le style de Flavia Coelho puise dans toute la richesse de la musique populaire brésilienne, de la bossa nova au samba en
@@ -35,7 +40,6 @@ scénique communicative.
 
 Ses influences révèlent une connaissance approfondie du patrimoine musical brésilien qu'elle réinterprète avec une
 fraîcheur contemporaine.
-
 
 ##### Actualité
 

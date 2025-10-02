@@ -1,6 +1,13 @@
 ---
 title: "Flaur"
 cover: "cover.jpg"
+socials:
+  facebook: "FlaurMusic"
+  instagram: "flaurmusic"
+  tiktok: "@flaurmusic"
+  bandcamp: "flaurmusic"
+  soundcloud: "flaurmusic"
+  youtube: "@flaurmusic"
 ---
 
 Flaur représente l'une des voix les plus prometteuses et innovantes du paysage musical actuel. Avec un univers sonore à

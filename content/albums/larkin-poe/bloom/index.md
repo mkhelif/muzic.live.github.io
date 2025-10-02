@@ -1,12 +1,12 @@
 ---
 date: "2025-01-24T00:00:00+02:00"
 title: "Bloom"
-subtitle: "2 Def Pig Publishing (11 titres, 42:09)"
+subtitle: "11 titres, 42:09"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 9
 artist: "Larkin Poe"
-tidalAlbumId: "382280129"
+tidal: "382280129"
 ---
 
 Les sœurs Lovell reviennent avec Bloom, un album qui cristallise dix ans d'évolution artistique en treize morceaux de

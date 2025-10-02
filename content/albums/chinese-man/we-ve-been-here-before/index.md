@@ -1,12 +1,12 @@
 ---
 date: "2024-03-01T00:00:00+02:00"
 title: "We've Been Here Before"
-subtitle: "Warner Records (13 titres, 46:05)"
+subtitle: "13 titres, 46:05"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
 artist: "Chinese Man"
-tidalAlbumId: "338319361"
+tidal: "338319361"
 ---
 
 Six ans de silence. Six ans pour que les Aixois de Chinese Man digèrent leur propre légende, celle qui depuis 2004 les a

@@ -1,6 +1,11 @@
 ---
 title: "Feder"
 cover: "cover.jpg"
+socials:
+  facebook: "Federuniverse"
+  instagram: "feder.music"
+  youtube: "@federuniverse"
+  tidal: "4801103"
 ---
 
 Feder, de son vrai nom Hadrien Federiconi, est un DJ et producteur français originaire de Nice, qui développe sa
@@ -12,7 +17,6 @@ des dynamiques de dancefloor.
 Cette expérience locale lui permet de comprendre les attentes du public et de développer un style deep house
 sophistiqué qui se distingue par sa qualité mélodique et sa profondeur émotionnelle.
 
-
 ##### Carrière musicale
 
 La carrière de Feder explose véritablement avec son titre "Goodbye" featuring Lyse, qui devient un succès planétaire
@@ -21,7 +25,6 @@ avec des centaines de millions d'écoutes.
 Cette réussite le propulse sur la scène électronique mondiale et lui ouvre les portes des plus grands festivals et
 clubs prestigieux de la planète. Le producteur français développe ensuite un catalogue de productions qui confirment
 son talent et sa capacité à créer des hits durables qui marquent l'histoire de la musique électronique française.
-
 
 ##### Style et influences
 
@@ -33,7 +36,6 @@ trouvant l'équilibre parfait entre exigence artistique et accessibilité grand 
 
 Ses productions sont caractérisées par une qualité sonore irréprochable et une attention particulière portée aux
 détails, révélant un perfectionnisme qui contribue à son succès international.
-
 
 ##### Actualité
 

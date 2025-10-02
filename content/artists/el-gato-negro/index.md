@@ -1,6 +1,14 @@
 ---
 title: "El Gato Negro"
 cover: "cover.jpg"
+socials:
+  facebook: "elgatonegrotropical"
+  instagram: "elgatonegrotropical"
+  threads: "elgatonegrotropical"
+  soundcloud: "el-gato-negro-tropical"
+  youtube: "@ElGatoNegroTropical"
+  web: "http://gatonegrotropical.com/"
+  tidal: "42097218"
 ---
 
 El Gato Negro est un projet musical français qui émerge sur la scène alternative hexagonale avec une approche
@@ -11,7 +19,6 @@ sonore, développant un style unique qui puise dans différentes cultures musica
 
 Leurs débuts révèlent des musiciens passionnés par la diversité culturelle et désireux de créer des ponts entre les
 traditions musicales du monde et les innovations contemporaines, créant un univers sonore riche et métissé.
-
 
 ##### Carrière musicale
 
@@ -25,7 +32,6 @@ traditions musicales tout en les réinterprétant avec une modernité assumée.
 Leurs morceaux révèlent une approche créative qui refuse les catégorisations traditionnelles et explore de nouveaux
 territoires sonores avec une curiosité artistique constante.
 
-
 ##### Style et influences
 
 Le style d'El Gato Negro se caractérise par un mélange d'éléments latinos, de sonorités alternatives et d'influences
@@ -36,7 +42,6 @@ contemporaines.
 
 Leurs influences puisent dans les musiques latines, les courants alternatifs européens et les traditions folkloriques
 mondiales, créant un son qui célèbre la diversité culturelle tout en maintenant une cohérence artistique remarquable.
-
 
 ##### Actualité
 

@@ -1,6 +1,10 @@
 ---
 title: "Francis Cabrel"
 cover: "cover.jpg"
+socials:
+  youtube: "@FrancisCabrelOfficiel"
+  web: "https://www.franciscabrel.com/"
+  tidal: "797"
 ---
 
 Francis Cabrel naît le 23 novembre 1953 à Agen, dans une famille modeste où la musique occupe une place importante grâce

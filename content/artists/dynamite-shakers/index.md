@@ -1,6 +1,10 @@
 ---
 title: "Dynamite Shakers"
 cover: "cover.jpg"
+socials:
+  facebook: "dynamiteshakers"
+  instagram: "dynashakers"
+  youtube: "@dynashakers"
 ---
 
 Dynamite Shakers est un groupe de rock français qui émerge sur la scène hexagonale avec une approche festive et
@@ -11,7 +15,6 @@ développant un style qui mélange influences rockabilly, rhythm'n'blues et rock
 
 Leurs débuts révèlent une formation qui privilégie l'authenticité et l'énergie brute sur la sophistication technique,
 créant un son direct et efficace qui enflamme immédiatement les scènes de concert.
-
 
 ##### Carrière musicale
 
@@ -24,7 +27,6 @@ modernité qui séduit un public contemporain.
 Leurs morceaux révèlent une maîtrise parfaite des codes du rock traditionnel et une capacité remarquable à recréer
 l'énergie et l'esprit festif des pionniers du genre.
 
-
 ##### Style et influences
 
 Le style de Dynamite Shakers puise dans le rock'n'roll des années 50, le rhythm'n'blues et le rockabilly, créant un son
@@ -35,7 +37,6 @@ accrocheuses.
 
 Leurs influences révèlent une connaissance encyclopédique du rock traditionnel américain, qu'ils réinterprètent avec une
 passion et une énergie contagieuses.
-
 
 ##### Actualité
 

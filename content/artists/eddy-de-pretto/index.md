@@ -2,6 +2,13 @@
 draft: true
 title: "Eddy De Pretto"
 cover: "cover.jpg"
+socials:
+  facebook: "eddydepretto"
+  instagram: "eddydepretto"
+  tiktok: "@eddydepretto"
+  youtube: "@iameddydepretto"
+  web: "https://eddydepretto.com/"
+  tidal: "7284774"
 ---
 
 Eddy de Pretto est un chanteur français né en 1993, qui émerge sur la scène musicale hexagonale avec une approche
@@ -12,7 +19,6 @@ créer un style unique qui aborde des thèmes sociétaux avec une sincérité re
 
 Il grandit dans la banlieue de Créteil et développe très tôt une conscience sociale aiguë qui nourrira plus tard ses
 compositions engagées et percutantes.
-
 
 ##### Carrière musicale
 
@@ -25,7 +31,6 @@ créant une musique qui fait réfléchir tout en émouvant profondément.
 Ses compositions révèlent une maturité artistique précoce et une vision sociale qui résonne avec les préoccupations de
 sa génération, établissant rapidement sa réputation d'artiste engagé et authentique.
 
-
 ##### Style et influences
 
 Le style d'Eddy de Pretto se caractérise par un mélange original de chanson française, de rap conscient et de pop
@@ -36,7 +41,6 @@ générationnels avec une profondeur et une sincérité exceptionnelles.
 
 Ses influences puisent dans la chanson française engagée, le rap conscient et la pop internationale, créant un style
 hybride qui renouvelle les codes de la chanson hexagonale.
-
 
 ##### Actualité
 
