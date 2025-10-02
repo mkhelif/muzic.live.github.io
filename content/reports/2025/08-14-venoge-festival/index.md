@@ -1,9 +1,8 @@
 ---
-draft: true
 date: "2025-08-14T17:30:00+02:00"
-title: "Venoge Festival 2025 - Jour 2 - Sugarhill Gang, Sheila, UB40, Murray Head, Sean Paul, Show Minuit 27"
+title: "Venoge Festival 2025 - Jour 2 - Sugarhill Gang, Sheila, UB40, Murray Head, Sean Paul, Show Minuit 27 (Laroche Valmont, Léopold Nord et Vous, Helmut Fritz, Yannick, Plastic Bertrand)"
 author: "mkhelif"
-cover: "pictures/"
+cover: "pictures/sean-paul/07.jpg"
 rank: 8
 locations:
   - Penthaz
@@ -17,8 +16,10 @@ artists:
   - Murray Head
   - Sean Paul
   - Laroche Valmont
-  - Léopold Nord
+  - Léopold Nord et Vous
   - Helmut Fritz
+  - Yannick
+  - Plastic Bertrand
 ---
 
 Cette deuxième soirée du Venoge Festival s'annonce comme un voyage temporel ambitieux à travers les révolutions
@@ -93,18 +94,25 @@ constance artistique peut être une forme de génie populaire, surtout quand ell
 reggae-dancehall inébranlables.
 
 
-{{< carousel pictures="pictures/show-minuit-27" alt="Show Minuit 27" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/laroche-valmont" alt="Laroche Valmont" author="mkhelif.photo" >}}
 
 Le concept exclusif du Venoge Festival atteint cette année des sommets de ringardise assumée avec un casting qui flirte
 dangereusement avec le second degré. Laroche Valmont ouvre les festivités sur "T'as le look coco" en playback intégral,
 incarnation parfaite de cette époque où l'image primait sur la substance musicale. Cette prestation mime révèle tout le
 cynisme de l'industrie musicale des années 80, période où le marketing audiovisuel transformait les artistes en produits
-de consommation. Léopold Nord et Vous sauve partiellement l'honneur avec une prestation acoustique authentique, guitare
+de consommation.
+
+{{< carousel pictures="pictures/leopold-nord-et-vous" alt="Léopold Nord et Vous" author="mkhelif.photo" >}}
+
+Léopold Nord et Vous sauve partiellement l'honneur avec une prestation acoustique authentique, guitare
 et voix véritables qui tranchent avec l'artifice ambiant. Cette simplicité instrumentale rappelle que derrière les excès
-esthétiques de l'époque se cachaient parfois de véritables qualités d'interprète. Helmut Fritz conclut sur "Ça
-m'énerve", hymne involontaire à l'absurdité contemporaine qui résume parfaitement l'esprit de cette soirée décalée. Ce
-show Minuit 27 pousse le concept kitsch à son paroxysme, transformant la nostalgie en expérience cathartique où l'on
-plane effectivement sans s'énerver, comme le promettait le programme.
+esthétiques de l'époque se cachaient parfois de véritables qualités d'interprète.
+
+{{< carousel pictures="pictures/helmut-fritz" alt="Helmut Fritz" author="mkhelif.photo" >}}
+
+Helmut Fritz conclut sur "Ça m'énerve", hymne involontaire à l'absurdité contemporaine qui résume parfaitement l'esprit
+de cette soirée décalée. Ce show Minuit 27 pousse le concept kitsch à son paroxysme, transformant la nostalgie en
+expérience cathartique où l'on plane effectivement sans s'énerver, comme le promettait le programme.
 
 Je ne resterais pas jusqu’à la fin, cette deuxième soirée du Venoge festival aura révélé toute la complexité de la
 nostalgie musicale contemporaine. Certains fondamentaux artistiques peuvent défier le temps quand d’autres rappellent

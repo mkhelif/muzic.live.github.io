@@ -1,6 +1,13 @@
 ---
 title: "Battle Beast"
 cover: "cover.jpg"
+socials:
+  facebook: "battlebeastofficial"
+  instagram: "battlebeastband"
+  x: "battlebeast"
+  youtube: "@BattleBeast"
+  web: "https://www.battlebeast.fi"
+  tidal: "3866638"
 ---
 
 Battle Beast est un groupe de metal finlandais formé en 2008, qui émerge de la riche scène metal scandinave avec une
@@ -11,7 +18,6 @@ Le groupe naît de la passion de ses membres pour le metal classique des années
 
 Leurs débuts révèlent une formation qui maîtrise parfaitement les codes du genre tout en y apportant une fraîcheur et
 une puissance qui séduisent immédiatement les amateurs de metal mélodique.
-
 
 #### Carrière musicale
 
@@ -24,7 +30,6 @@ mémorables qui marquent les esprits.
 Leurs compositions mêlent technicité instrumentale et accessibilité mélodique, créant un metal puissant mais accessible
 qui séduit un large public d'amateurs du genre.
 
-
 #### Style et influences
 
 Le style de Battle Beast puise dans le heavy metal traditionnel, le power metal et les influences du metal mélodique
@@ -35,7 +40,6 @@ section rythmique solide et une production moderne.
 
 Leurs compositions évoquent l'esprit du metal classique tout en bénéficiant d'une modernité sonore qui les rend
 contemporaines.
-
 
 #### Actualité
 

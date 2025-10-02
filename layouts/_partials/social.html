@@ -17,6 +17,9 @@
     {{ if .Params.socials.threads }}
         <a class="me-2 align-middle" href="https://www.threads.com/{{ .Params.socials.threads }}/" target="_blank" rel="noreferrer noopener"><i class="fab fa-threads"></i></a>
     {{ end }}
+    {{ if .Params.socials.bandcamp }}
+        <a class="me-2 align-middle" href="https://{{ .Params.socials.bandcamp }}.bandcamp.com/" target="_blank" rel="noreferrer noopener"><i class="fab fa-bandcamp"></i></a>
+    {{ end }}
     {{ if .Params.socials.youtube }}
         <a class="me-2 align-middle" href="https://www.youtube.com/{{ .Params.socials.youtube }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-youtube"></i></a>
     {{ end }}

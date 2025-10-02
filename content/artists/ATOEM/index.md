@@ -1,6 +1,14 @@
 ---
 title: "ATOEM"
 cover: "cover.jpg"
+socials:
+  facebook: "atoemmusic"
+  instagram: "atoem_music"
+  bandcamp: "atoem"
+  soundcloud: "atoemmusic"
+  youtube: "@atoem_official"
+  web: "https://atoemmusic.com/"
+  tidal: "9206145"
 ---
 
 ATOEM est un projet musical français qui émerge sur la scène électronique hexagonale avec une approche moderne des
@@ -11,7 +19,6 @@ internationale, cherchant à créer un son français contemporain qui puisse riv
 
 Le projet développe rapidement une identité sonore reconnaissable qui se distingue par sa qualité de production et sa
 capacité à créer des atmosphères dancefloor efficaces.
-
 
 #### Carrière musicale
 
@@ -24,7 +31,6 @@ personnelle, démontrant une compréhension fine des attentes du public électro
 Leurs compositions révèlent une maîtrise technique croissante et une vision artistique qui évolue avec les tendances
 actuelles de la musique électronique.
 
-
 #### Style et influences
 
 Le style d'ATOEM puise dans les courants actuels de la musique électronique, mêlant house moderne, techno accessible et
@@ -34,7 +40,6 @@ Le projet se caractérise par des productions léchées, des mélodies accrocheu
 connaissance approfondie des codes de la musique électronique actuelle.
 
 Leurs influences se nourrissent des tendances internationales tout en conservant une couleur française reconnaissable.
-
 
 #### Actualité
 

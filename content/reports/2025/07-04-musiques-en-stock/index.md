@@ -46,7 +46,7 @@ le reste du groupe reprenait en chœur, déclenchant un mini-pogo.
 Entre Viagra Boys et Amyl & The Sniffers, les Ménades ont prouvé qu’ils/elles sont la révélation punk de l’année.
 
 
-{{< carousel pictures="pictures/kid-kapici" alt="Kid Kapici" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/kid-kapichi" alt="Kid Kapichi" author="mkhelif.photo" >}}
 
 Les Britanniques de Kid Kapichi ont enchaîné avec un punk rock furieux et engagé.
 

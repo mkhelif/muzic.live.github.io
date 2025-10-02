@@ -1,6 +1,6 @@
 ---
 date: "2025-06-08T17:30:00+02:00"
-title: "Heavy Weekend 2025 - Jour 3 - Nothing More, Rise of the North Star, Mass Hysteria, Slipknot"
+title: "Heavy Weekend 2025 - Jour 3 - Nothing More, Rise of the NorthStar, Mass Hysteria, Slipknot"
 author: "mkhelif"
 cover: "pictures/rise-of-the-northstar/15.jpg"
 rank: 10

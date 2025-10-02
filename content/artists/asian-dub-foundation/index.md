@@ -1,6 +1,15 @@
 ---
 title: "Asian Dub Foundation"
 cover: "cover.jpg"
+socials:
+  facebook: "asiandubfoundation"
+  instagram: "asian_dub_foundation"
+  tiktok: "@asian_dub_foundation"
+  x: "ADFofficial"
+  youtube: "@AsianDubFoundation1official"
+  bandcamp: "asiandubfoundation"
+  web: "https://www.asiandubfoundation.com"
+  tidal: "10586"
 ---
 
 Asian Dub Foundation est un groupe britannique formé à Londres en 1993, né de la rencontre entre musiciens d'origines
@@ -11,7 +20,6 @@ rapidement un style unique qui mélange dub, jungle, breakbeat et influences asi
 
 Leurs débuts révèlent une formation radicalement innovante qui refuse les catégorisations traditionnelles et crée un son
 révolutionnaire.
-
 
 #### Carrière musicale
 
@@ -24,7 +32,6 @@ leur son tout en conservant leur identité militante.
 Leurs compositions mêlent efficacité dancefloor et messages politiques forts, créant une musique qui fait danser tout en
 faisant réfléchir.
 
-
 #### Style et influences
 
 Le style d'Asian Dub Foundation combine dub jamaïcain, jungle britannique, breakbeat et influences musicales asiatiques,
@@ -35,7 +42,6 @@ samples percutants.
 
 Leurs textes abordent des thèmes politiques et sociaux avec une radicalité assumée, faisant du groupe un porte-voix des
 communautés marginalisées.
-
 
 #### Actualité
 

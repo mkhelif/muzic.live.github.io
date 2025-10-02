@@ -1,6 +1,12 @@
 ---
 title: "Adrian Vandenberg"
 cover: "cover.jpg"
+socials:
+  instagram: "adrianvandenberg_official"
+  x: "vandenbergband"
+  youtube: "@Vandenberg_Official"
+  web: "https://vandenbergband.com/"
+  tidal: "11073159"
 ---
 
 Adrian Vandenberg, de son vrai nom Adriaan van den Berg, naît le 31 janvier 1954 aux Pays-Bas et se passionne très tôt

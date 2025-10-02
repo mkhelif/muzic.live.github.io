@@ -1,6 +1,12 @@
 ---
-title: "Alfred Massaï"
+title: "Alfred Massaï"
 cover: "cover.jpg"
+socials:
+  facebook: "AlfredMassai"
+  instagram: "alfred.massai"
+  youtube: "@alfredmassai"
+  web: "https://www.alfredmassai.fr/"
+  tidal: "5569218"
 ---
 
 Alfred Massaï est un artiste français qui émerge sur la scène musicale hexagonale avec une approche originale mêlant
@@ -13,7 +19,6 @@ Il développe progressivement un style personnel qui puise dans différentes inf
 expérimentale aux musiques urbaines, créant un univers artistique unique qui se distingue dans le paysage musical
 français actuel.
 
-
 #### Carrière musicale
 
 La carrière d'Alfred Massaï se construit progressivement grâce à ses compositions originales qui révèlent une vision
@@ -25,7 +30,6 @@ sonores immersives.
 Ses productions se caractérisent par une recherche constante d'innovation et une volonté d'explorer les possibilités
 offertes par les nouvelles technologies musicales, révélant un artiste en perpétuelle évolution créative.
 
-
 #### Style et influences
 
 Le style d'Alfred Massaï se caractérise par un mélange d'éléments électroniques modernes, d'influences urbaines et de
@@ -36,7 +40,6 @@ sophistiquées.
 
 Ses influences puisent dans l'électronique française, les musiques urbaines internationales et les courants
 expérimentaux, créant un son qui reflète la diversité de la scène musicale contemporaine.
-
 
 #### Actualité
 
