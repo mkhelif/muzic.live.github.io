@@ -1,9 +1,13 @@
 ---
-title: "Content Placeholder"
-build:
-  render: never
-  list: never
-  publishResources: false
+title: "Cléa Vincent"
+cover: "cover.jpg"
+socials:
+  facebook: "cleavincentmusic"
+  instagram: "cleavincent"
+  bandcamp: "cleavincent"
+  soundcloud: "cleavincent"
+  youtube: "c/CléaVincentMusic"
+  tidal: "4949748"
 ---
 
 Cléa Vincent est une chanteuse française qui émerge sur la scène pop hexagonale avec une approche moderne et
@@ -14,7 +18,6 @@ internationale et les sonorités rétro-futuristes pour créer un style personne
 
 Elle développe très tôt une identité artistique forte, caractérisée par une voix expressive et une écriture ciselée qui
 aborde les thèmes de l'amour moderne et des relations contemporaines.
-
 
 ##### Carrière musicale
 
@@ -27,7 +30,6 @@ modernes qui séduisent aussi bien les amateurs de pop que les passionnés de ch
 Elle se distingue par sa capacité à aborder des thèmes contemporains avec une élégance et une sophistication qui
 rappellent les grandes traditions de la chanson hexagonale.
 
-
 ##### Style et influences
 
 Le style de Cléa Vincent se caractérise par des mélodies sophistiquées, des arrangements pop soignés et une voix
@@ -38,7 +40,6 @@ chanson française.
 
 Ses influences puisent dans la pop française des années 80, les grandes figures de la chanson hexagonale et l'indie-pop
 internationale, créant un son qui modernise l'héritage français tout en conservant son élégance.
-
 
 ##### Actualité
 

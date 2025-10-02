@@ -1,6 +1,12 @@
 ---
 title: "Crazy Jesse"
 cover: "cover.jpg"
+socials:
+  facebook: "crazyjesseband"
+  instagram: "crazyjesse_the_band"
+  bandcamp: "crazyjesse"
+  youtube: "@crazyjesse6480"
+  web: "https://www.crazyjesse-band.com/"
 ---
 
 Crazy Jesse est un musicien français qui émerge sur la scène rock blues hexagonale avec une approche authentique et
@@ -11,7 +17,6 @@ sincérité des grands maîtres du genre tout en y apportant sa propre sensibili
 
 Il développe rapidement un style personnel qui mélange blues traditionnel et influences rock, créant un son à la fois
 respectueux de l'héritage et résolument contemporain.
-
 
 ##### Carrière musicale
 
@@ -24,7 +29,6 @@ au blues électrique moderne.
 Ses performances révèlent un musicien complet qui maîtrise parfaitement les subtilités du genre et sait créer une
 communion particulière avec son public à travers l'émotion brute de sa musique.
 
-
 ##### Style et influences
 
 Le style de Crazy Jesse puise dans les différentes traditions du blues américain, du Mississippi Delta blues au Chicago
@@ -34,7 +38,6 @@ Il excelle dans l'art de faire ressentir l'émotion blues, mêlant technique ins
 
 Ses influences révèlent une connaissance encyclopédique du genre et une capacité remarquable à s'approprier les
 différents styles blues.
-
 
 ##### Actualité
 
