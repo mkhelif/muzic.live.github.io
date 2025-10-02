@@ -1,6 +1,13 @@
 ---
 title: "Danakil"
 cover: "cover.jpg"
+socials:
+  facebook: "danakil"
+  instagram: "danakilofficiel"
+  tiktok: "@danakilofficiel"
+  youtube: "@Danakil"
+  web: "http://www.danakil.fr"
+  tidal: "4505277"
 ---
 
 Danakil est un groupe de reggae français formé à Paris en 2000, né de la passion de ses membres pour la culture rasta et
@@ -11,7 +18,6 @@ transmettre les valeurs originelles du reggae tout en développant une identité
 
 Leurs débuts révèlent une formation profondément imprégnée de la philosophie rastafari et désireuse de faire du reggae
 un vecteur de conscience sociale et spirituelle en France.
-
 
 ##### Carrière musicale
 
@@ -24,7 +30,6 @@ aborder des thèmes variés tout en conservant leur message spirituel.
 Leurs compositions mêlent reggae traditionnel et sonorités modernes, créant une musique accessible qui touche un large
 public tout en conservant l'authenticité et la profondeur du genre.
 
-
 ##### Style et influences
 
 Le style de Danakil puise dans les différentes traditions du reggae jamaïcain, du roots au dub en passant par le reggae
@@ -35,7 +40,6 @@ mélodies profondes.
 
 Leurs textes abordent la spiritualité, la conscience sociale, l'amour et l'unité avec une sincérité qui touche
 directement l'âme de l'auditeur.
-
 
 ##### Actualité
 

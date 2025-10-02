@@ -1,6 +1,12 @@
 ---
 title: "Dave Stewart"
 cover: "cover.jpg"
+socials:
+  facebook: "davestewart"
+  instagram: "davestewarteurythmics"
+  x: "davestewart"
+  youtube: "@DaveStewartOfficial"
+  tidal: "14661"
 ---
 
 Dave Stewart est un musicien britannique né en 1952, qui commence sa carrière dans les années 70 avant de connaître la
@@ -11,7 +17,6 @@ tôt une vision moderne de la musique pop.
 
 Il participe à la révolution de la new wave britannique des années 80, contribuant à définir le son d'une époque grâce à
 son approche innovante de la production musicale et sa maîtrise des nouvelles technologies.
-
 
 ##### Carrière musicale
 
@@ -24,7 +29,6 @@ qui révèlent l'étendue de ses talents créatifs.
 Son influence sur la musique pop des années 80 et 90 est considérable, ayant participé à l'évolution du genre vers plus
 de sophistication technologique et d'innovation sonore.
 
-
 ##### Style et influences
 
 Le style de Dave Stewart se caractérise par une approche moderne de la composition et de la production, mêlant
@@ -35,7 +39,6 @@ pour repousser les limites créatives.
 
 Ses influences puisent dans le rock progressif, la soul et la musique électronique naissante, créant un style éclectique
 qui a marqué plusieurs générations d'artistes.
-
 
 ##### Actualité
 

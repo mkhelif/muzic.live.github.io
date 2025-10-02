@@ -2,6 +2,17 @@
 draft: true
 title: "DJ Bens"
 cover: "cover.jpg"
+socials:
+  facebook: "djbensfan"
+  instagram: "djbens"
+  snapchat: "@djbenslive"
+  tiktok: "@djbens"
+  threads: "djbens"
+  x: "deejaybens"
+  soundcloud: "djbensbox"
+  youtube: "@DJBENS"
+  web: "https://djbens.com/"
+  tidal: "9869983"
 ---
 
 DJ Bens est un DJ et producteur français qui émerge sur la scène électronique hexagonale avec une approche technique et
@@ -12,7 +23,6 @@ une expertise dans l'art du mix et de la sélection musicale.
 
 Il commence par se faire connaître dans les clubs français, où sa technique irréprochable et sa capacité à créer des
 ambiances uniques lui permettent de se construire une réputation solide dans le milieu underground européen.
-
 
 ##### Carrière musicale
 
@@ -26,7 +36,6 @@ unique.
 Ses productions originales révèlent également ses qualités de compositeur et sa compréhension fine des dynamiques de
 dancefloor.
 
-
 ##### Style et influences
 
 Le style de DJ Bens se caractérise par une approche éclectique de la musique électronique, mêlant influences house,
@@ -37,7 +46,6 @@ de véritables voyages musicaux.
 
 Ses influences puisent dans toute l'histoire de la musique électronique, des pionniers de la house aux innovations
 technologiques contemporaines, créant un style personnel qui transcende les catégories.
-
 
 ##### Actualité
 
