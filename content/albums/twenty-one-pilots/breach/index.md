@@ -1,7 +1,7 @@
 ---
 date: "2025-09-12T00:00:00+02:00"
 title: "Breach"
-subtitle: "Fueled by Ramen (48 minutes)"
+subtitle: "Fueled by Ramen (13 titres, 47:29)"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 7

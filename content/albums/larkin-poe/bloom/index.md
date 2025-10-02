@@ -1,7 +1,7 @@
 ---
 date: "2025-01-24T00:00:00+02:00"
 title: "Bloom"
-subtitle: "2 Def Pig Publishing (11 titres, 42 minutes)"
+subtitle: "2 Def Pig Publishing (11 titres, 42:09)"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 9

@@ -1,7 +1,7 @@
 ---
 date: "2024-03-01T00:00:00+02:00"
 title: "We've Been Here Before"
-subtitle: "Warner Records (13 titres, 46 minutes)"
+subtitle: "Warner Records (13 titres, 46:05)"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10

@@ -1,6 +1,12 @@
 ---
 title: "Da Break"
 cover: "cover.jpg"
+socials:
+  instagram: "dabreakstagram"
+  facebook: "DaBreaktheband"
+  youtube: "@DaBreak"
+  web: "https://www.da-break.com/"
+  tidal: "4023164"
 ---
 
 Da Break est un projet musical français qui émerge sur la scène électronique hexagonale avec une approche moderne des
@@ -11,7 +17,6 @@ hip-hop, créant un style hybride qui se distingue dans le paysage musical fran�
 
 Leurs débuts révèlent des producteurs maîtrisant parfaitement les codes de l'électronique moderne tout en y apportant
 une dimension urbaine qui enrichit leur proposition artistique.
-
 
 ##### Carrière musicale
 
@@ -25,7 +30,6 @@ sophistiquées.
 Leurs morceaux révèlent une approche créative qui refuse les catégorisations traditionnelles et explore de nouveaux
 territoires sonores.
 
-
 ##### Style et influences
 
 Le style de Da Break se caractérise par un mélange d'éléments électroniques modernes, de rythmiques hip-hop et de
@@ -36,7 +40,6 @@ production.
 
 Leurs influences puisent dans l'électronique française, le hip-hop international et les courants urbains actuels, créant
 un son qui reflète la diversité de la scène musicale urbaine française.
-
 
 ##### Actualité
 

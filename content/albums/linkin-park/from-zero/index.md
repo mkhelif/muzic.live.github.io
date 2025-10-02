@@ -1,7 +1,7 @@
 ---
 date: "2024-11-15T00:00:00+02:00"
 title: "From Zero"
-subtitle: "Warner Records (11 titres, 32 minutes)"
+subtitle: "Warner Records (11 titres, 31:58)"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 9

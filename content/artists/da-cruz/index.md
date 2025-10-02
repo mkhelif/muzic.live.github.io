@@ -1,6 +1,14 @@
 ---
 title: "Da Cruz"
 cover: "cover.jpg"
+socials:
+  facebook: "dacruzmusic"
+  instagram: "dacruzmusic"
+  tiktok: "@dacruzmusica"
+  threads: "dacruzmusic"
+  youtube: "@bentheimer1"
+  web: "https://dacruzmusic.com/"
+  tidal: "3563842"
 ---
 
 Da Cruz est un groupe français de reggae-hip-hop formé à Lyon dans les années 90, né de la rencontre entre musiciens
@@ -13,7 +21,6 @@ Leurs débuts révèlent une formation multiculturelle qui refuse les catégoris
 son métissé qui reflète la diversité de la société française contemporaine et l'esprit d'ouverture de la scène
 lyonnaise.
 
-
 ##### Carrière musicale
 
 Da Cruz se fait connaître grâce à des albums qui marquent durablement la scène reggae-hip-hop française, développant un
@@ -25,7 +32,6 @@ rassembleuse, créant une musique engagée mais accessible.
 Leurs compositions révèlent une maîtrise parfaite des codes du reggae et du hip-hop, qu'ils fusionnent avec une
 créativité remarquable pour créer un son unique sur la scène française.
 
-
 ##### Style et influences
 
 Le style de Da Cruz se caractérise par un mélange harmonieux de reggae, hip-hop et influences world music qui crée un
@@ -36,7 +42,6 @@ conscients qui abordent l'unité, la tolérance et la justice sociale.
 
 Leurs influences puisent dans le reggae jamaïcain, le hip-hop français, les musiques africaines et méditerranéennes,
 créant un son métissé qui célèbre la diversité culturelle.
-
 
 ##### Actualité
 
