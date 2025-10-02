@@ -8,6 +8,7 @@ window.addEventListener('DOMContentLoaded', () => loading.then(pagefind => {
     // Elements
     const searchInput = document.getElementById('search-input');
     const searchResultsContainer = document.getElementById('search-results-container');
+    const searchResultsClose = document.getElementById('search-results-close');
     const searchResults = document.getElementById('search-results');
 
     // Position elements
@@ -17,6 +18,7 @@ window.addEventListener('DOMContentLoaded', () => loading.then(pagefind => {
     // Bind events
     searchResults.addEventListener('click', e => e.stopPropagation());
     searchResultsContainer.addEventListener('click', hideResults);
+    searchResultsClose.addEventListener('click', hideResults);
 
     searchInput.addEventListener('keyup', () => {
         const term = (searchInput.value || '').trim();

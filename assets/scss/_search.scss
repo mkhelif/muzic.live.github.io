@@ -1,5 +1,5 @@
 #search-results-container {
-    background-color: transparentize($dark, 0.15);
+    background-color: $dark;
     overflow-y: scroll;
 }
 
