@@ -1,5 +1,5 @@
 ---
-date: "2025-10-02T00:00:00+02:00"
+date: "2025-10-17T00:00:00+02:00"
 title: "Legends"
 subtitle: "Better Noise Music (11 titres, 45:43)"
 author: "mkhelif"
