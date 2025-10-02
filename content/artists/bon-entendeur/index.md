@@ -1,8 +1,16 @@
 ---
 title: "Bon Entendeur"
 cover: "cover.jpg"
+socials:
+  facebook: "bonentendeurmusic"
+  instagram: "bon_entendeur"
+  tiktok: "@bon_entendeur"
+  x: "bon_entendeur"
+  youtube: "@BonEntendeurMusicFr"
+  soundcloud: "bon-entendeur"
+  web: "https://bonentendeur.com/"
+  tidal: "9174077"
 ---
-
 
 Bon Entendeur est un trio de producteurs et DJs français formé par Arnaud Bonet, Adrien Durand et Pierre Della Monica,
 qui émerge sur la scène électronique française avec une approche originale mêlant house moderne et samples vintage.
@@ -12,7 +20,6 @@ son français contemporain qui respecte l'héritage de la French Touch.
 
 Leurs débuts révèlent une formation qui maîtrise parfaitement l'art du sampling et de la production électronique
 moderne.
-
 
 #### Carrière musicale
 
@@ -25,7 +32,6 @@ de la chanson française.
 Le trio développe un répertoire qui témoigne de leur capacité à créer des ponts entre les générations musicales,
 révélant un savoir-faire technique et une sensibilité artistique remarquables.
 
-
 #### Style et influences
 
 Le style de Bon Entendeur se caractérise par l'utilisation créative de samples issus du patrimoine musical français,
@@ -36,7 +42,6 @@ Le trio excelle dans l'art de créer des atmosphères nostalgiques teintées de 
 
 Leurs influences puisent dans la French Touch classique, la deep house contemporaine et le riche patrimoine de la
 chanson française, créant un son unique qui définit une nouvelle approche de l'électronique française.
-
 
 #### Actualité
 

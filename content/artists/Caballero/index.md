@@ -1,6 +1,12 @@
 ---
 title: "Caballero"
 cover: "cover.jpg"
+socials:
+  facebook: "Caballerobxl"
+  instagram: "caballerobxl"
+  x: "caballerobxl"
+  youtube: "@caballerojeanjass"
+  tidal: "3846706"
 ---
 
 Caballero est un rappeur français membre du collectif Double Hélice, originaire de la région parisienne, qui développe
@@ -11,7 +17,6 @@ maîtres du rap français et américain pour développer son propre style.
 
 Il se forme à l'école du rap underground parisien, perfectionnant sa technique et développant une approche littéraire du
 genre qui le distingue rapidement de ses contemporains.
-
 
 ##### Carrière musicale
 
@@ -27,7 +32,6 @@ sa qualité d'écriture exceptionnelle et sa richesse artistique.
 Le rappeur français développe un répertoire qui témoigne d'une culture générale impressionnante et d'une maîtrise
 technique parfaite.
 
-
 ##### Style et influences
 
 Le style de Caballero se caractérise par des flows complexes, des références culturelles nombreuses et une écriture
@@ -38,7 +42,6 @@ Il excelle dans l'art de la punchline et du jeu de mots, créant des textes dens
 
 Ses influences puisent dans le rap US golden age, la littérature française classique et la culture populaire, créant un
 univers textuel unique qui élève le niveau d'exigence du rap hexagonal et inspire de nombreux jeunes rappeurs.
-
 
 ##### Actualité
 

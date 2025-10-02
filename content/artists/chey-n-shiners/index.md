@@ -1,6 +1,11 @@
 ---
 title: "Chey'N'Shiners"
 cover: "cover.jpg"
+socials:
+  facebook: "cheynshiners"
+  instagram: "cheynshiners"
+  bandcamp: "cheynshiners"
+  tidal: "46791365"
 ---
 
 Chey 'N' Shiners est un groupe de rock français qui émerge sur la scène hexagonale avec une approche énergique du rock
@@ -11,7 +16,6 @@ recréer l'authenticité et l'énergie brute des pionniers du genre.
 
 Leurs débuts révèlent une formation qui maîtrise parfaitement les codes du rock classique tout en y apportant une
 modernité et une fraîcheur qui séduisent un public jeune en quête d'authenticité rock.
-
 
 ##### Carrière musicale
 
@@ -24,7 +28,6 @@ et l'authenticité sur la sophistication technique.
 Leurs albums témoignent d'une évolution artistique constante et d'une volonté de maintenir vivant l'esprit du rock
 traditionnel dans un contexte musical contemporain.
 
-
 ##### Style et influences
 
 Le style de Chey 'N' Shiners puise dans le rock garage, le blues-rock et les influences du rock traditionnel américain
@@ -35,7 +38,6 @@ communicative qui enflamme les scènes de concert.
 
 Leurs influences révèlent un profond respect pour l'héritage du rock tout en cherchant à l'adapter aux sensibilités
 contemporaines.
-
 
 ##### Actualité
 

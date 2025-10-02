@@ -1,6 +1,14 @@
 ---
 title: "Chinese Man"
 cover: "cover.jpg"
+socials:
+  facebook: "chineseman"
+  instagram: "chinesemanmusic"
+  tiktok: "@chinesemanmusic"
+  x: "ChineseManMusic"
+  soundcloud: "chineseman"
+  youtube: "@chinesemanrec"
+  web: "https://www.chinesemanrecords.com/chineseman/"
 ---
 
 ### Genèse et formation
@@ -48,7 +56,6 @@ Le groupe cherche constamment à créer un nouveau style de trip-hop influencé 
 entendus en soirée, incorporant drum and bass, dubstep et même des éléments de trap. Cette perméabilité aux tendances
 contemporaines, loin d'être opportuniste, témoigne d'une volonté de maintenir le trip-hop vivant et pertinent.
 
-
 ### Discographie : L'évolution d'un son
 
 ##### Les albums studios majeurs
@@ -72,7 +79,6 @@ sonore où cumbia colombienne, orchestrations symphoniques et hip-hop polyglotte
 Outre leurs albums studios, le groupe multiplie les projets collectifs : EPs, remixes, albums live, et la série The
 Groove Sessions. Ces dernières, véritables laboratoires collaboratifs, voient Chinese Man s'associer à d'autres
 collectifs comme Scratch Bandits Crew et Baja Frequencia.
-
 
 ### Influences et héritage
 
@@ -102,7 +108,6 @@ Ce qui distingue Chinese Man, c'est l'injection d'une sensibilité méditerrané
 - Approche festive et communautaire du live
 - Multilinguisme naturel (français, anglais, espagnol, créole)
 
-
 ### Chinese Man Records : l'indépendance comme philosophie
 
 ##### Le Label-Manifeste
@@ -119,7 +124,6 @@ Plus qu'un label, c'est une école de pensée "groovalistik" qui prône :
 
 Le label devient rapidement un incubateur de talents, permettant l'émergence d'artistes partageant cette vision
 syncrétique du hip-hop. Cette structure favorise les collaborations croisées, créant une émulation créative permanente.
-
 
 ### Style musical : l'art de la fusion
 
@@ -150,7 +154,6 @@ Sur scène, Chinese Man transcende le simple DJ set :
 - **Interaction public** : Le groove comme communion collective
 - **Scénographie immersive** : Projections visuelles synchronisées, light design sophistiqué
 
-
 ### Impact et rayonnement
 
 ##### L'international
@@ -170,7 +173,6 @@ Le groupe a redéfini les codes du trip-hop pour le XXIe siècle :
 - Modèle d'indépendance artistique réussie
 - Bridge entre cultures musicales mondiales
 - Inspiration pour le renouveau du hip-hop instrumental français
-
 
 ### Conclusion : les alchimistes du groove
 

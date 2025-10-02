@@ -1,6 +1,13 @@
 ---
 title: "Boris Way"
 cover: "cover.jpg"
+socials:
+  facebook: "boriswayofficial"
+  instagram: "borisway"
+  tiktok: "@borisway"
+  youtube: "@BorisWayOfficial"
+  web: "https://www.borisway.com"
+  tidal: "4329187"
 ---
 
 Boris Way est un DJ et producteur français qui émerge sur la scène électronique hexagonale au milieu des années 2010,
@@ -11,7 +18,6 @@ français moderne qui puisse s'exporter sur la scène internationale.
 
 Il commence par se faire connaître dans les clubs français, où son style énergique et sa technique de mix irréprochable
 lui permettent de se construire une réputation solide dans le milieu underground européen.
-
 
 ##### Carrière musicale
 
@@ -25,7 +31,6 @@ Ses collaborations avec d'autres producteurs de la scène électronique françai
 de développer son réseau professionnel, révélant un artiste qui comprend parfaitement les enjeux de l'industrie
 électronique contemporaine.
 
-
 ##### Style et influences
 
 Le style de Boris Way se caractérise par des productions énergiques, des basslines puissantes et des arrangements
@@ -36,7 +41,6 @@ musique électronique, créant un son contemporain qui reste accessible au grand
 
 Sa capacité à créer des drops efficaces et des progressions mélodiques mémorables fait de lui un producteur recherché
 pour les compilations et les événements électroniques majeurs.
-
 
 ##### Actualité
 

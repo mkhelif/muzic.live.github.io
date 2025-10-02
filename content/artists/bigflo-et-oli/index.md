@@ -1,6 +1,15 @@
 ---
 title: "BigFlo & Oli"
 cover: "cover.jpg"
+socials:
+  facebook: "bigfloetoli"
+  instagram: "bigfloetoli"
+  tiktok: "@bigfloetoli_officiel"
+  x: "bigfloetoli"
+  soundcloud: "bigfloetoli"
+  youtube: "@BigfloetOli"
+  web: "https://bigfloetoli.show"
+  tidal: "5395754"
 ---
 
 BigFlo & Oli est un duo de rap français formé par les frères Florian et Olivio Ordonez, originaires de Toulouse.
@@ -10,7 +19,6 @@ accessible et mélodique qui tranche avec le rap plus dur de l'époque.
 
 Les deux frères grandissent dans un environnement familial artistique qui favorise leur épanouissement créatif, leur
 permettant de développer très tôt leurs talents d'écriture et de composition.
-
 
 #### Carrière musicale
 
@@ -22,7 +30,6 @@ bien les amateurs de hip-hop que le grand public.
 
 Leur capacité à aborder des thèmes personnels et universels avec sincérité contribue grandement à leur succès.
 
-
 #### Style et influences
 
 Le style de BigFlo & Oli se caractérise par des mélodies accrocheuses, des textes introspectifs et une approche du rap
@@ -33,7 +40,6 @@ doutes de la jeunesse et les relations humaines avec une sincérité touchante.
 
 Leurs influences puisent dans le rap français conscient mais aussi dans la pop internationale, créant un son hybride qui
 élargit considérablement l'audience du rap français.
-
 
 #### Actualité
 

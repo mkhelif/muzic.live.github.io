@@ -1,6 +1,12 @@
 ---
 title: "Carbonne"
 cover: "cover.jpg"
+socials:
+  facebook: "carbonne.p"
+  instagram: "carbonne.14"
+  tiktok: "@carbonne14"
+  youtube: "@Carbonne"
+  tidal: "17992676"
 ---
 
 Carbonne est un rappeur français qui émerge sur la scène hip-hop hexagonale avec une approche moderne du rap conscient
@@ -11,7 +17,6 @@ démarquer dans un paysage rap français très concurrentiel.
 
 Il développe rapidement un style personnel qui mélange flow technique et conscience sociale, s'inscrivant dans la
 tradition du rap français intelligent tout en y apportant une couleur contemporaine.
-
 
 ##### Carrière musicale
 
@@ -24,7 +29,6 @@ sociale et personnelle.
 Ses compositions révèlent une maîtrise croissante de l'écriture rap et une capacité à créer des morceaux qui marquent l'
 auditeur par leur sincérité et leur pertinence.
 
-
 ##### Style et influences
 
 Le style de Carbonne se caractérise par des textes fouillés, un flow maîtrisé et une approche consciente du rap qui
@@ -35,7 +39,6 @@ genre.
 
 Ses influences puisent dans le rap français conscient, le hip-hop américain golden age et les courants de pensée
 contemporains, créant un rap engagé qui résonne avec les préoccupations actuelles.
-
 
 ##### Actualité
 

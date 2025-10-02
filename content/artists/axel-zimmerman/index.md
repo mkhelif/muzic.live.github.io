@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Axel Zimmerman"
 cover: "cover.jpg"
 socials:

@@ -1,6 +1,14 @@
 ---
 title: "Broken Back"
 cover: "cover.jpg"
+socials:
+  facebook: "BrokenBackMusic"
+  instagram: "brokenbackmusic"
+  x: "BrokenBackMusic"
+  soundcloud: "broken-back"
+  bandcamp: "brokenbackmusic"
+  youtube: "@BrokenBackMusic"
+  tidal: "5110762"
 ---
 
 Broken Back est le projet solo de Jérôme Fagnet, musicien français qui émerge sur la scène indie-pop hexagonale avec une
@@ -11,7 +19,6 @@ l'électronique ambient pour créer un univers sonore personnel et émotionnel.
 
 Le projet naît de la volonté de créer une musique introspective qui explore les thèmes de l'amour, de la perte et de la
 reconstruction personnelle avec une sensibilité contemporaine.
-
 
 ##### Carrière musicale
 
@@ -24,7 +31,6 @@ approche tout en conservant son identité mélancolique.
 Ses morceaux révèlent une maturité compositionnelle remarquable et une sensibilité artistique qui touche un public en
 quête d'authenticité émotionnelle.
 
-
 ##### Style et influences
 
 Le style de Broken Back se caractérise par des mélodies mélancoliques, des arrangements délicats et une production
@@ -35,7 +41,6 @@ Le projet excelle dans l'art de créer des atmosphères intimistes, mêlant inst
 
 Les influences puisent dans l'indie-rock moderne, la folk contemporaine et l'ambient électronique, créant un son qui
 évoque à la fois la fragilité et la force de l'émotion humaine.
-
 
 ##### Actualité
 
