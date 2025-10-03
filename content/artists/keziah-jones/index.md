@@ -1,6 +1,13 @@
 ---
 title: "Keziah Jones"
 cover: "cover.jpg"
+socials:
+  facebook: "keziahjones"
+  instagram: "keziahjonesofficiel"
+  x: "keziahjones"
+  threads: "@keziahjonesofficiel"
+  youtube: "@keziahjones"
+  web: "https://keziah-jones.com/"
 ---
 
 Keziah Jones, de son vrai nom Olufemi Sanyaolu, est un chanteur-compositeur nigérian-britannique qui émerge sur la scène
@@ -11,7 +18,6 @@ expérience européenne pour créer un style musical totalement original.
 
 Il développe une technique guitaristique particulière et une approche vocale distinctive qui le distinguent
 immédiatement dans le paysage musical mondial.
-
 
 ##### Carrière musicale
 
@@ -24,7 +30,6 @@ un artiste cosmopolite au style immédiatement reconnaissable.
 Ses performances live confirment son statut de performer exceptionnel capable de captiver son public par son charisme et
 son originalité artistique.
 
-
 ##### Style et influences
 
 Le style de Keziah Jones combine influences yoruba, blues américain et funk contemporain, créant le "Blufunk", un genre
@@ -35,7 +40,6 @@ personnel.
 
 Ses compositions révèlent une approche créative qui transcende les frontières culturelles et géographiques, créant une
 musique universelle qui célèbre la diversité.
-
 
 ##### Actualité
 

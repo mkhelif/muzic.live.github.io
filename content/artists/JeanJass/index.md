@@ -1,6 +1,10 @@
 ---
 title: "JeanJass"
 cover: "cover.jpg"
+socials:
+  instagram: "jeanjass"
+  x: "JeanJass"
+  youtube: "channel/UCBVvd8QemU9L_gpV4Frf3VA"
 ---
 
 JeanJass est un rappeur belge membre du collectif Double Hélice, originaire de Belgique, qui apporte une couleur
@@ -11,7 +15,6 @@ jouer avec les rythmes de façon innovante.
 
 Il développe son style en s'inspirant des différentes époques du hip-hop, du boom bap des années 90 aux sonorités plus
 contemporaines, créant progressivement une identité artistique personnelle qui enrichit la diversité du rap francophone.
-
 
 ##### Carrière musicale
 
@@ -25,7 +28,6 @@ créative.
 Le rappeur belge développe un catalogue qui témoigne de sa maîtrise parfaite de la langue française et de ses
 subtilités, démontrant que l'excellence du rap francophone dépasse les frontières nationales.
 
-
 ##### Style et influences
 
 Le flow de JeanJass se caractérise par une fluidité remarquable et une capacité à créer des patterns originaux qui
@@ -36,7 +38,6 @@ démontrent une culture générale impressionnante et une créativité débordan
 
 Ses multiples influences lui permettent de créer un style personnel qui transcende les modes et les époques, établissant
 de nouveaux standards d'excellence dans le rap francophone.
-
 
 ##### Actualité
 

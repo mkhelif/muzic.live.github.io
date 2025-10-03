@@ -1,6 +1,14 @@
 ---
 title: "Kid Kapichi"
 cover: "cover.jpg"
+socials:
+  facebook: "KidKapichi"
+  instagram: "kidkapichi"
+  tiktok: "@kidkapichi"
+  x: "KidKapichi"
+  youtube: "@kidkapichi"
+  web: "https://www.kidkapichi.com"
+  tidal: "9561242"
 ---
 
 Kid Kapichi est un groupe de rock britannique formé à Hastings, qui émerge sur la scène rock indépendante avec une
@@ -12,7 +20,6 @@ rapidement un style qui mélange punk traditionnel, rock alternatif et influence
 Leurs débuts révèlent une formation qui refuse les compromis commerciaux pour privilégier l'authenticité et l'engagement
 social.
 
-
 ##### Carrière musicale
 
 Kid Kapichi se fait connaître grâce à des compositions rock directes et engagées qui révèlent leur capacité à porter des
@@ -23,7 +30,6 @@ de contestation sociale contemporaine.
 
 Leurs morceaux révèlent une énergie brute et une sincérité qui résonnent avec les préoccupations de leur génération.
 
-
 ##### Style et influences
 
 Le style de Kid Kapichi puise dans le punk-rock traditionnel, le rock alternatif et les influences indie contemporaines,
@@ -33,7 +39,6 @@ Le groupe excelle dans l'art de créer des morceaux directs et efficaces, mêlan
 
 Leurs compositions révèlent une approche du rock qui privilégie l'engagement et l'authenticité sur la sophistication
 technique.
-
 
 ##### Actualité
 

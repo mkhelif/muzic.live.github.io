@@ -1,6 +1,11 @@
 ---
 title: "Jahneration"
 cover: "cover.jpg"
+socials:
+  facebook: "jahnerationofficial"
+  instagram: "jahneration"
+  youtube: "@Jahneration"
+  web: "https://www.jahneration.com"
 ---
 
 Jahneration est un groupe de reggae français formé en 2008 dans la région parisienne, né de la rencontre de musiciens
@@ -12,7 +17,6 @@ apportant une couleur française contemporaine.
 
 Leurs débuts révèlent une parfaite maîtrise des codes du reggae
 traditionnel et une volonté d'innovation qui les distingue immédiatement sur la scène reggae européenne.
-
 
 ##### Carrière musicale
 
@@ -26,7 +30,6 @@ reggae.
 Leurs albums révèlent une maturité croissante et une maîtrise technique qui confirment leur statut de référence
 du reggae français contemporain.
 
-
 ##### Style et influences
 
 Le style de Jahneration se caractérise par des rythmiques solides, des mélodies entêtantes et des arrangements soignés
@@ -38,7 +41,6 @@ qui respecte l'héritage jamaïcain.
 
 Leurs textes abordent les thèmes classiques du reggae - spiritualité, justice
 sociale, amour, unité - avec une sincérité et une conviction qui touchent un public large et diversifié.
-
 
 ##### Actualité
 

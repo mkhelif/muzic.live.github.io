@@ -2,6 +2,15 @@
 draft: true
 title: "Jason Derulo"
 cover: "cover.jpg"
+socials:
+  facebook: "jasonderulo"
+  instagram: "jasonderulo"
+  tiktok: "@jasonderulo"
+  x: "jasonderulo"
+  threads: "jasonderulo"
+  soundcloud: "jasonderulo"
+  youtube: "@JasonDerulo"
+  web: "https://www.jasonderulo.com/"
 ---
 
 Jason Derulo est un chanteur, danseur et compositeur américain né en Floride en 1989, qui s'est imposé comme l'une des
