@@ -1,6 +1,14 @@
 ---
 title: "Haevn"
 cover: "cover.jpg"
+socials:
+  facebook: "haevnmusic"
+  instagram: "haevnmusic"
+  threads: "haevnmusic"
+  x: "haevnmusic"
+  youtube: "@HAEVNMUSIC"
+  web: "https://haevnmusic.com/"
+  tidal: "7177859"
 ---
 
 Haevn est un duo néerlandais formé par Jorrit Kleijnen et Marijn van der Meer, qui émerge sur la scène musicale
@@ -11,7 +19,6 @@ l'électronique et la pop pour créer un style unique qui évoque les bandes son
 
 Le duo développe rapidement une identité artistique forte caractérisée par des compositions grandioses et
 émotionnellement chargées qui transportent l'auditeur dans des univers sonores contemplatifs.
-
 
 ##### Carrière musicale
 
@@ -24,7 +31,6 @@ révélant une approche artistique ambitieuse.
 Leurs morceaux révèlent une maîtrise remarquable de l'art de la composition et une vision créative qui transcende les
 catégories musicales traditionnelles.
 
-
 ##### Style et influences
 
 Le style d'Haevn se caractérise par des arrangements orchestraux, des éléments électroniques subtils et des mélodies
@@ -35,7 +41,6 @@ et pop cinématographique.
 
 Leurs compositions évoquent les grands espaces et les émotions profondes, créant une musique qui transcende les mots et
 parle directement à l'âme de l'auditeur.
-
 
 ##### Actualité
 

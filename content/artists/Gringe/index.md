@@ -1,6 +1,12 @@
 ---
 title: "Gringe"
 cover: "cover.jpg"
+socials:
+  facebook: "Gringeofficiel"
+  instagram: "gringe"
+  x: "officielgringe"
+  youtube: "@GringeOfficiel"
+  tidal: "4725215"
 ---
 
 Gringe, de son vrai nom Guillaume Tranchant, est un rappeur français membre du duo Casseurs Flowters avec Orelsan, qui
@@ -11,7 +17,6 @@ une approche personnelle du hip-hop français.
 
 Il grandit en Normandie et développe sa passion pour le rap en même temps que son amitié artistique avec Orelsan, créant
 ensemble une dynamique créative qui marquera durablement la scène rap française contemporaine.
-
 
 ##### Carrière musicale
 
@@ -24,7 +29,6 @@ générale et de sa créativité débordante.
 Ses compositions révèlent un artiste complet qui maîtrise autant l'écriture que la réalisation, confirmant son statut
 d'artiste polyvalent de la scène française contemporaine.
 
-
 ##### Style et influences
 
 Le style de Gringe se caractérise par un flow maîtrisé, des textes intelligents et une approche du rap qui privilégie la
@@ -35,7 +39,6 @@ et engagement.
 
 Ses influences puisent dans le rap français, la culture populaire et les références cinématographiques, créant un style
 éclectique qui enrichit la diversité du hip-hop hexagonal.
-
 
 ##### Actualité
 

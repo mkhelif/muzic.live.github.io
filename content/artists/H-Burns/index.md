@@ -1,6 +1,12 @@
 ---
 title: "H-Burns"
 cover: "cover.jpg"
+socials:
+  facebook: "hburnsmusic"
+  instagram: "hburnsmusic1"
+  threads: "hburnsmusic1"
+  youtube: "@HBurnsOfficial"
+  tidal: "3923677"
 ---
 
 H-Burns, de son vrai nom Renaud Rebillaud, est un chanteur-compositeur français qui émerge sur la scène indie-folk
@@ -11,7 +17,6 @@ mélange mélodies délicates et arrangements épurés.
 
 Il commence par se faire connaître dans les clubs parisiens, développant progressivement un style qui privilégie
 l'émotion et l'authenticité sur les effets de production, créant une musique intimiste et contemplative.
-
 
 ##### Carrière musicale
 
@@ -24,7 +29,6 @@ un talent pour l'écriture de chansons personnelles et universelles.
 Ses morceaux révèlent une maturité artistique constante et une recherche permanente d'authenticité dans l'expression
 musicale.
 
-
 ##### Style et influences
 
 Le style d'H-Burns se caractérise par des arrangements minimalistes, une voix fragile mais expressive et des mélodies
@@ -35,7 +39,6 @@ tradition de la chanson française.
 
 Ses influences révèlent une sensibilité artistique qui transcende les genres, créant une musique qui parle directement
 au cœur de l'auditeur.
-
 
 ##### Actualité
 

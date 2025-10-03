@@ -1,6 +1,14 @@
 ---
 title: "Gavin James"
 cover: "cover.jpg"
+socials:
+  facebook: "gavinjamesmusic"
+  instagram: "gavinjameslive"
+  tiktok: "@gavinjamesmusic"
+  x: "gavinjames"
+  youtube: "@gavinjamesofficial"
+  web: "https://gavinjamesmusic.com/"
+  tidal: "5087386"
 ---
 
 Gavin James est un chanteur-compositeur irlandais né à Dublin, qui émerge sur la scène musicale au début des années 2010
@@ -11,7 +19,6 @@ internationale pour créer un style personnel et émotionnel.
 
 Il commence par se faire connaître dans les pubs et les petites salles de Dublin, développant son style acoustique et sa
 capacité à créer une intimité particulière avec son public à travers ses compositions touchantes et sa voix expressive.
-
 
 ##### Carrière musicale
 
@@ -24,7 +31,6 @@ l'espoir avec une sincérité touchante.
 Ses albums révèlent une maturité artistique croissante et une maîtrise de l'art de la chanson qui lui permettent de
 toucher un public international, confirmant son statut d'artiste accompli de la scène folk-pop contemporaine.
 
-
 ##### Style et influences
 
 Le style de Gavin James se caractérise par des mélodies mélancoliques, une voix chaleureuse et des arrangements délicats
@@ -35,7 +41,6 @@ moderne.
 
 Ses compositions révèlent une sensibilité artistique remarquable et une capacité à transformer les émotions personnelles
 en chansons universelles qui résonnent avec un large public.
-
 
 ##### Actualité
 
