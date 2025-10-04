@@ -7,6 +7,7 @@ socials:
   tiktok: "@itslordlakna"
   threads: "@itslordlakna"
   youtube: "@itslordlakna"
+  tidal: "10440075"
 ---
 
 Lakna est une rappeuse française qui émerge sur la scène hip-hop hexagonale avec une approche moderne et personnelle du

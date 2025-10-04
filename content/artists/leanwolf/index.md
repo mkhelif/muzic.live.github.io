@@ -1,49 +1,80 @@
 ---
 title: "LeanWolf"
 cover: "cover.jpg"
+socials:
+  facebook: "leanwolfofficial"
+  instagram: "imleanwolf"
+  youtube: "@leanwolf6529"
+  tidal: "29394658"
 ---
 
-LeanWolf représente cette génération émergente de musiciens français qui bousculent les codes établis avec une fraîcheur
-saisissante.
+LeanWolf tire son nom d'une métaphore puissante : celle du loup efflanqué, affamé, animé par une faim viscérale qui
+caractérise son approche musicale. Cet animal totem reflète parfaitement l'énergie brute et la détermination farouche
+qui habitent ce jeune artiste français, dont la musique se nourrit d'une soif insatiable d'expression et d'authenticité.
 
-Lauréat du tremplin 2024 du prestigieux Festival Guitare en Scène, cet artiste incarne parfaitement l'esprit de
-renouveau qui souffle sur la scène musicale hexagonale.
+##### Un premier EP remarqué (2021)
 
-Son parcours débute dans l'ombre des studios et des petites scènes locales, où il forge patiemment son identité sonore
-en puisant dans ses influences multiples.
+LeanWolf fait ses premières armes avec un EP autoproduit en 2021 qui ne passe pas inaperçu dans le milieu du blues
+électrique français. Dès cette première sortie, le musicien révèle une fluidité impressionnante à la guitare et un
+toucher reconnaissable entre mille.
 
-La victoire au Festival Guitare en Scène marque un tournant décisif, propulsant ce talent prometteur sous les
-projecteurs nationaux.
+Son jeu s'inscrit dans la lignée directe des légendes qui ont façonné le blues électrique moderne : Jeff Beck pour son
+expressivité sonore et ses innovations techniques, Stevie Ray Vaughan pour sa puissance brute et son feeling texan, Gary
+Moore pour son lyrisme déchirant et sa maîtrise du vibrato.
 
+Mais loin de se contenter d'imiter ses maîtres, LeanWolf parvient déjà à apposer sa signature singulière : un
+toucher à la fois sauvage et racé, où la technique virtuose se met au service de l'émotion pure.
 
-##### Émergence artistique
+##### Une évolution sonore ambitieuse
 
-L'ascension de LeanWolf témoigne de cette nouvelle approche de la découverte musicale, où les tremplins et festivals
-jouent un rôle crucial dans la révélation des talents.
+Avec son album Limbo, enregistré au Mirador Sound Studio de Corconne, LeanWolf franchit un cap décisif dans sa
+carrière. Ce disque marque une rupture avec l'approche plus traditionnelle de son premier EP, au profit d'une vision
+musicale plus globale et audacieuse.
 
-Sa musique révèle une approche moderne qui mélange tradition guitaristique et innovation contemporaine, créant un
-univers sonore qui séduit immédiatement les programmateurs et le public.
+L'artiste y adopte une approche organique et live, privilégiant la spontanéité et l'authenticité de la prise de son
+plutôt que le perfectionnisme du studio. Cette démarche vise à capturer l'essence brute de son énergie scénique.
 
-Les compositions de LeanWolf démontrent une maturité artistique étonnante pour un artiste en devenir, révélant des
-qualités d'écriture et d'arrangement qui laissent présager d'un avenir prometteur sur la scène française.
+##### L'ouverture esthétique
 
+Limbo se distingue par son refus des étiquettes restrictives. LeanWolf y multiplie les fissures dans le carcan blues
+ pour explorer des territoires musicaux plus vastes : le rock (qui apporte puissance et dynamisme), le soul (qui
+imprègne profondément son chant) et le jazz (qui enrichit ses harmonies et improvisations).
 
-##### Univers musical et références
+Cette ouverture stylistique place LeanWolf dans le sillage d'artistes contemporains qui ont su transcender les
+frontières du blues traditionnel, comme Marcus King ou le Tedeschi Trucks Band. À l'instar de ces formations,
+LeanWolf convoque des espaces sonores vastes, des atmosphères cinématographiques qui évoquent les grands horizons
+américains.
 
-L'esthétique de LeanWolf puise dans un réservoir d'influences éclectiques, mêlant guitare moderne et sonorités
-alternatives dans une synthèse originale.
+##### Une écriture exigeante
 
-Son approche instrumentale révèle une technique affirmée au service d'une vision artistique personnelle, refusant la
-virtuosité gratuite pour privilégier l'émotion et l'authenticité.
+Au-delà de la prouesse instrumentale, Limbo révèle un compositeur d'une grande exigence. LeanWolf ne se contente
+pas de démonstrations techniques : il construit des chansons structurées, avec une véritable attention portée à
+l'architecture musicale et à la narration émotionnelle.
 
-Cette philosophie musicale s'inscrit dans la lignée des grands guitaristes français qui ont su créer leur propre langage
-tout en respectant l'héritage du genre.
+Son écriture met en lumière le spectre complet de ses émotions, des passages les plus introspectifs aux explosions
+cathartiques, créant un album d'une profondeur psychologique remarquable.
 
+##### La révélation vocale
 
-##### Perspectives d'avenir
+L'une des surprises majeures de Limbo réside dans l'affirmation de LeanWolf comme chanteur d'une remarquable
+expressivité.
 
-LeanWolf incarne l'espoir de la scène musicale française, représentant cette nouvelle garde d'artistes qui portent l'
-avenir de la guitare hexagonale.
+Sa voix, gorgée de soul, devient l'instrument premier de son expression artistique. Il se libère du besoin de se
+réfugier systématiquement derrière sa virtuosité guitaristique – désormais établie et reconnue – pour s'imposer avant
+tout par son interprétation vocale.
 
-Sa victoire au festival Guitare en Scène ouvre toutes les portes d'une carrière prometteuse, confirmant le rôle
-essentiel de ces événements dans la découverte de nouveaux talents authentiques.
+Cette évolution témoigne d'une maturité artistique : LeanWolf n'a plus rien à prouver techniquement et peut enfin se
+concentrer sur l'essentiel – toucher l'auditeur au cœur.
+
+##### Un Positionnement Unique
+
+Dans le paysage musical français contemporain, LeanWolf occupe une place singulière. Il incarne cette nouvelle
+génération de musiciens qui : maîtrisent parfaitement l'héritage du blues tout en refusant de s'y enfermer, placent
+l'émotion et l'authenticité au-dessus de la démonstration technique, cherchent à créer une musique universelle
+affranchie des carcans stylistiques.
+
+Son approche iconoclaste et sa capacité à fusionner influences classiques et sensibilité moderne font de lui un artiste
+en pleine ascension, capable de toucher aussi bien les puristes du blues que les amateurs de musiques plus éclectiques.
+
+Plus qu'un guitar hero, LeanWolf se révèle être un artiste complet, capable d'émouvoir autant par sa voix que par son
+instrument, et dont la hargne créative – celle du loup affamé – promet encore de belles aventures musicales à venir.

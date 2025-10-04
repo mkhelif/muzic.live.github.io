@@ -7,6 +7,7 @@ socials:
   tiktok: "@larkinpoe"
   youtube: "@larkinpoe"
   web: "https://www.larkinpoe.com"
+  tidal: "3701245"
 ---
 
 Larkin Poe est un duo de sœurs américaines, Rebecca et Megan Lovell, qui émerge sur la scène blues-rock internationale

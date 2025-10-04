@@ -7,6 +7,7 @@ socials:
   bandcamp: "kolinga"
   youtube: "@KolingaMusic"
   web: "https://www.kolingamusic.com/"
+  tidal: "8640174"
 ---
 
 Kolinga est une chanteuse franco-camerounaise qui émerge sur la scène world music européenne avec une approche moderne

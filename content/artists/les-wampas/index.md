@@ -1,6 +1,12 @@
 ---
 title: "Les Wampas"
 cover: "cover.jpg"
+socials:
+  facebook: "LesWampasVousAiment"
+  instagram: "leswampasofficiel"
+  youtube: "@LesWampas"
+  web: "https://wampas.com/"
+  tidal: "36432"
 ---
 
 Les Wampas surgissent de la scène punk française des années 80 tel un ouragan salvateur, incarnant cette rage juvénile
@@ -14,7 +20,6 @@ qui ne laisse personne indifférent.
 
 L'ADN punk des Wampas se nourrit de cette urgence existentielle qui transcende les modes et les époques.
 
-
 ##### Trajectoire légendaire
 
 Le parcours des Wampas s'étend sur plus de trois décennies de rock français, traversant toutes les mutations musicales
@@ -26,7 +31,6 @@ conservant cette identité sonore immédiatement reconnaissable.
 Les albums se succèdent, chacun apportant sa pierre à l'édifice d'une œuvre cohérente qui définit ce que le punk-rock
 français a de plus authentique et durable.
 
-
 ##### ADN sonore et héritage
 
 L'essence musicale des Wampas réside dans cette alchimie parfaite entre mélodies accrocheuses et énergie punk décapante.
@@ -36,7 +40,6 @@ rassemble plutôt qu'il ne divise.
 
 Cette approche unique du genre a inspiré d'innombrables formations françaises, établissant les Wampas comme pères
 spirituels de toute une école de rock hexagonal.
-
 
 ##### Héritage contemporain
 

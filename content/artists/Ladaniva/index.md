@@ -7,6 +7,7 @@ socials:
   tiktok: "@ladaniva.ladaniva"
   youtube: "@ladaniva.ladaniva"
   web: "https://www.ladaniva.com"
+  tidal: "18660775"
 ---
 
 Ladaniva est un groupe français qui émerge sur la scène world music hexagonale avec une approche festive mêlant
