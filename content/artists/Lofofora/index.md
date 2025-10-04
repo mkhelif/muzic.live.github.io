@@ -1,6 +1,13 @@
 ---
 title: "Lofofora"
 cover: "cover.jpg"
+socials:
+  facebook: "Lofofora"
+  instagram: "lofoforaofficiel"
+  x: "lofofora_"
+  youtube: "@lofoforaofficiel"
+  web: "https://www.lofofora.com/"
+  tidal: "3513934"
 ---
 
 Lofofora est un groupe de metal alternatif français formé à Paris en 1989, né dans le contexte de l'émergence du metal
@@ -11,7 +18,6 @@ la production metal de l'époque.
 
 Leurs débuts révèlent une volonté de faire du metal un outil de contestation sociale et politique, créant un style
 crossover unique qui influence durablement la scène metal française.
-
 
 ##### Carrière musicale
 
@@ -24,7 +30,6 @@ tout en conservant leur radicalité politique.
 Leurs compositions servent de véhicule à des messages forts sur l'injustice sociale, la corruption, l'écologie et les
 dérives du système, créant un metal conscient et militant.
 
-
 ##### Style et influences
 
 Le style de Lofofora combine éléments de thrash metal, punk hardcore et metal alternatif, créant un son puissant et
@@ -34,7 +39,6 @@ Le groupe excelle dans l'art de créer des morceaux percutants qui marient effic
 démontrant que le metal peut être un outil de conscientisation et de résistance.
 
 Leurs performances live sont réputées pour leur intensité et l'engagement total des musiciens.
-
 
 ##### Actualité
 
