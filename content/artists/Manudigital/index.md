@@ -1,6 +1,14 @@
 ---
 title: "Manudigital"
 cover: "cover.jpg"
+socials:
+  facebook: "manudigital"
+  instagram: "manudigital"
+  x: "MANUDIGITAL"
+  tiktok: "@manudigital.official"
+  youtube: "@MANUDIGITALRMX"
+  web: "https://www.manudigital.fr"
+  tidal: "4822452"
 ---
 
 Manudigital est un producteur et musicien français spécialisé dans le reggae digital et le dub, basé à Marseille, qui
@@ -10,7 +18,6 @@ Ses débuts révèlent une compréhension profonde de l'héritage des pionniers 
 réinterprète avec une modernité et une fraîcheur qui renouvellent les codes établis.
 
 Son approche technique et créative lui permet rapidement de se faire remarquer sur la scène reggae européenne.
-
 
 ##### Carrière musicale
 
@@ -22,7 +29,6 @@ reggae européennes et internationales.
 
 Il devient une référence incontournable pour les chanteurs reggae en quête de productions de qualité.
 
-
 ##### Style et influences
 
 Le style de Manudigital mélange reggae traditionnel, sonorités digitales modernes et influences méditerranéennes, créant
@@ -33,7 +39,6 @@ atmosphère à la fois dansante et contemplative.
 
 Il excelle dans l'art de la production, créant des riddims puissants et des arrangements sophistiqués qui servent de
 base à de nombreuses collaborations.
-
 
 ##### Actualité
 

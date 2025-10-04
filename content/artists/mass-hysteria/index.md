@@ -1,6 +1,12 @@
 ---
 title: "Mass Hysteria"
 cover: "cover.jpg"
+socials:
+  facebook: "masshysteriaofficiel"
+  instagram: "masshysteria_official"
+  youtube: "@masshysteria_official"
+  web: "https://masshysteriaofficial.bigcartel.com/"
+  tidal: "6023"
 ---
 
 Mass Hysteria débarque sur la scène metal française comme une déflagration sonore, imposant d'emblée ce son lourd et
@@ -14,7 +20,6 @@ qui définiront l'avenir du genre.
 
 L'énergie Mass Hysteria catalyse toute cette effervescence créative qui caractérise cette décennie charnière.
 
-
 ##### Domination scénique
 
 Le règne de Mass Hysteria s'étend sur plus de vingt ans de metal français, période durant laquelle ils s'imposent comme
@@ -26,7 +31,6 @@ recherche sonore qui fait leur singularité.
 Les compositions révèlent une banda capable de conjuguer accessibilité mélodique et radicalité sonore, équilibre rare
 qui explique leur succès durable auprès du public français.
 
-
 ##### Puissance sonore et innovation
 
 L'arsenal musical de Mass Hysteria repose sur cette capacité unique à créer des hymnes metal qui marquent instantanément
@@ -37,7 +41,6 @@ musiciens accomplis au service d'une vision collective cohérente.
 
 Cette approche du heavy metal influence profondément la scène française, établissant de nouveaux standards de qualité et
 d'efficacité.
-
 
 ##### Règne continu
 

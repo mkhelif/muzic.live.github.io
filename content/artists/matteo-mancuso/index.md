@@ -1,6 +1,13 @@
 ---
 title: "Matteo Mancuso"
 cover: "cover.jpg"
+socials:
+  facebook: "matteomancusoofficial"
+  instagram: "matteomancuso.guitar"
+  tiktok: "@matteomancuso.guitar"
+  youtube: "@MatteoMancusoofficial"
+  web: "https://www.matteomancuso.net/"
+  tidal: "6346354"
 ---
 
 Matteo Mancuso surgit de Sicile comme un météore guitaristique, bouleversant tous les codes établis avec une technique
@@ -15,7 +22,6 @@ guitaristique contemporain.
 L'émergence de Mancuso coïncide avec cette renaissance de la guitare instrumentale, période où les jeunes prodiges
 redéfinissent les possibilités de l'instrument.
 
-
 ##### Révolution technique
 
 L'ascension fulgurante de Matteo Mancuso repose sur cette maîtrise technique absolue qui lui permet de transcender
@@ -27,7 +33,6 @@ fluidité surnaturelle.
 Cette polyvalence exceptionnelle transforme chaque morceau en démonstration de virtuosité pure, sans jamais sacrifier
 l'émotion musicale à la prouesse technique.
 
-
 ##### Innovation stylistique
 
 Le vocabulaire musical de Mancuso fusionne influences jazz, fusion, flamenco et rock dans une synthèse personnelle d'une
@@ -38,7 +43,6 @@ tous les courants guitaristiques.
 
 Cette érudition musicale nourrit une créativité débordante qui produit des compositions d'une richesse mélodique et
 harmonique exceptionnelle.
-
 
 ##### Avenir prometteur
 

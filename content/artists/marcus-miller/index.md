@@ -1,6 +1,14 @@
 ---
 title: "Marcus Miller"
 cover: "cover.jpg"
+socials:
+  facebook: "MarcusMillerOfficialFanPage"
+  instagram: "therealmarcusmiller"
+  threads: "@therealmarcusmiller"
+  x: "MarcusMiller959"
+  youtube: "@MarcusMiller1"
+  web: "https://www.marcusmiller.com"
+  tidal: "3552389"
 ---
 
 Marcus Miller transcende le simple statut de bassiste pour s'imposer comme architecte sonore de génie, révolutionnant
@@ -15,7 +23,6 @@ autonome, redéfinissant les possibilités expressives de l'instrument.
 Son parcours initial aux côtés des plus grands noms du jazz, funk et R&B forge cette polyvalence qui caractérisera toute
 sa carrière.
 
-
 ##### Maîtrise polymorphe
 
 L'œuvre de Marcus Miller s'épanouit dans cette diversité stylistique qui lui permet d'explorer tous les territoires
@@ -27,7 +34,6 @@ capable d'exceller dans tous les aspects de la création musicale.
 Ses albums solos révèlent un artiste qui transcende les catégories pour créer une musique véritablement universelle,
 mêlant sophistication harmonique et groove irrésistible.
 
-
 ##### Langage musical révolutionnaire
 
 L'idiome Marcus Miller révolutionne l'écriture bass, introduisant techniques nouvelles et approches harmoniques inédites
@@ -37,7 +43,6 @@ Son style fusionne influences jazz, funk, pop et world music dans une synthèse 
 
 Cette originalité technique sert toujours une musique accessible et émotionnellement riche, prouvant que virtuosité et
 communication peuvent parfaitement cohabiter.
-
 
 ##### Influence planétaire
 

@@ -1,7 +1,13 @@
 ---
-draft: true
 title: "MC Solaar"
 cover: "cover.jpg"
+socials:
+  facebook: "MCSolaarOfficiel"
+  instagram: "mcsolaaroff"
+  x: "mcsolaarback"
+  youtube: "@mc-solaar"
+  web: "https://mcsolaar.shop/"
+  tidal: "4703230"
 ---
 
 MC Solaar, de son vrai nom Claude M'Barali, est un rappeur français d'origine tchadienne qui émerge sur la scène hip-hop
@@ -12,7 +18,6 @@ une dimension poétique et intellectuelle inédite dans le genre.
 
 Pionnier du rap français, il développe une approche littéraire du hip-hop qui élève considérablement le niveau
 d'exigence artistique et culturel du rap hexagonal, ouvrant la voie à une nouvelle génération de rappeurs conscients.
-
 
 ##### Carrière musicale
 
@@ -25,7 +30,6 @@ peut être à la fois populaire et exigeant.
 Sa carrière témoigne d'une constante recherche d'excellence et d'innovation, influençant durablement toute la scène rap
 francophone et inspirant des générations entières de rappeurs.
 
-
 ##### Style et influences
 
 Le style de MC Solaar se caractérise par des textes d'une richesse exceptionnelle, truffés de références culturelles, de
@@ -36,7 +40,6 @@ Il puise ses influences dans la littérature française classique, la philosophi
 créant un univers textuel unique qui transcende les codes traditionnels du rap.
 
 Sa maîtrise parfaite de la langue française fait de lui un véritable poète du hip-hop.
-
 
 ##### Actualité
 
