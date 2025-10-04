@@ -1,6 +1,12 @@
 ---
 title: "Kolinga"
 cover: "cover.jpg"
+socials:
+  facebook: "kolingamusic"
+  instagram: "kolingamusic"
+  bandcamp: "kolinga"
+  youtube: "@KolingaMusic"
+  web: "https://www.kolingamusic.com/"
 ---
 
 Kolinga est une chanteuse franco-camerounaise qui émerge sur la scène world music européenne avec une approche moderne
@@ -11,7 +17,6 @@ camerounaises et les sonorités contemporaines pour créer un style personnel et
 
 Elle développe rapidement une identité artistique qui mélange racines africaines et influences européennes, créant un
 pont musical entre ses deux cultures d'appartenance.
-
 
 ##### Carrière musicale
 
@@ -24,7 +29,6 @@ ses talents de chanteuse et d'interprète.
 Ses performances scéniques confirment sa capacité à transmettre la joie et la spiritualité africaines à travers une
 musique riche et émotionnellement puissante.
 
-
 ##### Style et influences
 
 Le style de Kolinga puise dans toute la richesse des musiques africaines, des polyrythmes traditionnels aux influences
@@ -35,7 +39,6 @@ scénique communicative.
 
 Ses influences révèlent une connaissance approfondie du patrimoine musical africain qu'elle réinterprète avec une
 sensibilité contemporaine.
-
 
 ##### Actualité
 

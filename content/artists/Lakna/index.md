@@ -1,6 +1,12 @@
 ---
 title: "Lakna"
 cover: "cover.jpg"
+socials:
+  facebook: "profile.php?id=100055051995283"
+  instagram: "itslordlakna"
+  tiktok: "@itslordlakna"
+  threads: "@itslordlakna"
+  youtube: "@itslordlakna"
 ---
 
 Lakna est une rappeuse française qui émerge sur la scène hip-hop hexagonale avec une approche moderne et personnelle du
@@ -11,7 +17,6 @@ traditionnel pour créer une identité artistique authentique.
 
 Elle développe rapidement un style qui mélange flow technique et sensibilité personnelle, s'imposant progressivement
 comme une voix originale sur la scène rap française contemporaine.
-
 
 ##### Carrière musicale
 
@@ -24,7 +29,6 @@ plus large, révélant des talents de compositrice et d'interprète.
 Ses sorties révèlent une évolution artistique constante et une volonté de repousser les limites du rap féminin français,
 établissant sa réputation d'artiste exigeante.
 
-
 ##### Style et influences
 
 Le style de Lakna se caractérise par un flow distinctif, des textes travaillés et une approche du rap qui mélange
@@ -35,7 +39,6 @@ maturité artistique remarquable.
 
 Ses influences puisent dans différents courants du rap français et international, créant un style personnel qui enrichit
 la diversité du hip-hop hexagonal contemporain.
-
 
 ##### Actualité
 

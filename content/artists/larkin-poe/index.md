@@ -1,6 +1,12 @@
 ---
 title: "Larkin Poe"
 cover: "cover.jpg"
+socials:
+  facebook: "larkinpoe"
+  instagram: "larkinpoe"
+  tiktok: "@larkinpoe"
+  youtube: "@larkinpoe"
+  web: "https://www.larkinpoe.com"
 ---
 
 Larkin Poe est un duo de sœurs américaines, Rebecca et Megan Lovell, qui émerge sur la scène blues-rock internationale
@@ -11,7 +17,6 @@ traditionnel, rock sudiste et influences contemporaines.
 
 Elles grandissent dans une famille musicale du Sud des États-Unis et développent leur passion pour le blues en étudiant
 les maîtres du genre, créant un style qui respecte l'héritage tout en l'enrichissant d'une perspective féminine moderne.
-
 
 ##### Carrière musicale
 
@@ -24,7 +29,6 @@ leur compréhension profonde des traditions musicales américaines.
 Leurs performances live confirment leur statut de musiciennes exceptionnelles capables de rivaliser avec les plus grands
 noms du blues contemporain.
 
-
 ##### Style et influences
 
 Le style de Larkin Poe puise dans les racines profondes du blues américain, du Delta blues au rock sudiste, créant un
@@ -35,7 +39,6 @@ contemporaine, révélant des talents instrumentaux exceptionnels.
 
 Leurs influences révèlent une connaissance encyclopédique du blues et du rock américains qu'elles réinterprètent avec
 une créativité et une technique remarquables.
-
 
 ##### Actualité
 

@@ -1,6 +1,12 @@
 ---
 title: "Ladaniva"
 cover: "cover.jpg"
+socials:
+  facebook: "ladanivayaman"
+  instagram: "ladaniva.ladaniva"
+  tiktok: "@ladaniva.ladaniva"
+  youtube: "@ladaniva.ladaniva"
+  web: "https://www.ladaniva.com"
 ---
 
 Ladaniva est un groupe français qui émerge sur la scène world music hexagonale avec une approche festive mêlant
@@ -11,7 +17,6 @@ traditionnelles européennes et leur désir de les réinterpréter avec une éne
 
 Leurs débuts révèlent une formation multiculturelle qui refuse les catégorisations musicales traditionnelles, créant un
 son festif qui célèbre la diversité culturelle européenne.
-
 
 ##### Carrière musicale
 
@@ -24,7 +29,6 @@ européennes, révélant une approche créative qui transcende les frontières n
 Leurs performances live confirment leur réputation de groupe festif capable de créer une ambiance unique lors de leurs
 concerts.
 
-
 ##### Style et influences
 
 Le style de Ladaniva combine influences balkaniques, musiques tziganes et sonorités françaises contemporaines, créant un
@@ -35,7 +39,6 @@ arrangements modernes.
 
 Leurs influences puisent dans toute la richesse des musiques populaires européennes, créant un style qui célèbre l'unité
 dans la diversité.
-
 
 ##### Actualité
 
