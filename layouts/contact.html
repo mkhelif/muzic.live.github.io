@@ -1,7 +1,12 @@
 {{ define "main" }}
     <div class="container">
-        <form method="POST" action="https://kwesforms.com/api/f/mmy2raKV5Dgi2LJYi8OG">
+        <form method="POST" class="kf-form" action="https://kwesforms.com/api/f/mmy2raKV5Dgi2LJYi8OG">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name">
 
+            <button type="submit">Submit</button>
         </form>
     </div>
+
+    <script src="https://kwesforms.com/v2/kf-script.js" defer></script>
 {{ end }}
