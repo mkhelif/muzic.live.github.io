@@ -2,6 +2,13 @@
 draft: true
 title: "Mosimann"
 cover: "cover.jpg"
+socials:
+  facebook: "MosimannOfficial"
+  instagram: "mosimann"
+  tiktok: "@mosimannofficial"
+  youtube: "@MosimannOfficial"
+  web: "quentinmosimann.com"
+  tidal: "7641415"
 ---
 
 Quentin Mosimann surgit de la scène électronique française armé d'une vision moderne qui révolutionne l'approche
@@ -16,7 +23,6 @@ musique à la fois créative et commercialement viable.
 L'apparition de Mosimann coïncide avec cette renaissance de l'électronique française, mouvement qui renouvelle
 l'héritage de la French Touch.
 
-
 ##### Domination dancefloor
 
 L'œuvre de Mosimann s'épanouit dans cette diversité stylistique qui lui permet d'explorer tous les courants
@@ -28,7 +34,6 @@ explique son succès durable sur les dancefloors européens.
 Cette polyvalence exceptionnelle le distingue dans un milieu souvent compartimenté, établissant sa réputation d'artiste
 électronique complet.
 
-
 ##### Signature sonore distinctive
 
 L'ADN musical de Mosimann privilégie cette approche mélodique de l'électronique qui différencie ses productions de la
@@ -38,7 +43,6 @@ Son style fusionne influences electro, house et trance dans une synthèse person
 
 Cette originalité sonore sert une vision artistique cohérente qui transcende les modes passagères pour créer une musique
 véritablement intemporelle.
-
 
 ##### Rayonnement continu
 

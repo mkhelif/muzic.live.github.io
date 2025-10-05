@@ -11,7 +11,7 @@ festivals:
   - Musiques en Stock
 artists:
   - Crazy Jess
-  - Ménades
+  - Menades
   - Kid Kapichi
   - Bloc Party
 ---

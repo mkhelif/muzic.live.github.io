@@ -2,6 +2,13 @@
 draft: true
 title: "Mentissa"
 cover: "cover.jpg"
+socials:
+  facebook: "mentissamusic"
+  instagram: "mentissa_off"
+  tiktok: "@mentissa"
+  youtube: "@MentissaMusique"
+  web: "https://mentissaofficiel.com/"
+  tidal: "28860030"
 ---
 
 Mentissa navigue dans l'univers musical français avec cette liberté créative totale qui caractérise les artistes
@@ -16,7 +23,6 @@ soucieuse de préserver son intégrité créative.
 L'univers Mentissa s'épanouit dans cette diversité stylistique qui enrichit considérablement la scène française
 alternative.
 
-
 ##### Parcours singulier
 
 L'évolution artistique de Mentissa témoigne d'une recherche permanente qui refuse la facilité des formules éprouvées
@@ -28,7 +34,6 @@ vocale qui la distingue immédiatement.
 Cette exigence créative établit sa réputation d'artiste authentique dans un milieu souvent dominé par les considérations
 commerciales.
 
-
 ##### Richesse expressive multiple
 
 La musique de Mentissa fonctionne comme un kaléidoscope permanent, mêlant influences diverses dans des compositions
@@ -38,7 +43,6 @@ Son style vocal unique transcende les genres pour créer cette signature artisti
 
 Cette approche personnelle de la chanson française inspire d'autres artistes soucieux de développer leur propre langage
 musical.
-
 
 ##### Indépendance créative
 

@@ -1,14 +1,38 @@
 {{ define "main" }}
     <div class="container">
-        <form method="POST" action="https://formsubmit.co/hello@muzic.live">
-            <label for="name">Name</label>
-            <input type="text" id="name" name="name" required>
+        <h1 class="mb-4 p-3 bg-primary text-dark"
+            data-pagefind-meta="title"
+        >
+            {{ .Title }}
+        </h1>
 
-            <label for="email">Email</label>
-            <input type="email" id="email" name="email" required>
+        <form method="POST" action="https://formsubmit.co/762982a601b0042844604ce901e037a2">
+            <div class="row mb-3">
+                <div class="col-12 col-md-6 offset-md-3">
+                    <label class="form-label text-primary fw-bold" for="name">Nom</label>
+                    <input class="form-control" type="text" id="name" name="name" required>
+                </div>
+            </div>
 
+            <div class="row mb-3">
+                <div class="col-12 col-md-6 offset-md-3">
+                    <label class="form-label text-primary fw-bold" for="email">Email</label>
+                    <input  class="form-control" type="email" id="email" name="email" required>
+                </div>
+            </div>
 
-            <button type="submit">Submit</button>
+            <div class="row mb-3">
+                <div class="col-12 col-md-6 offset-md-3">
+                    <label class="form-label text-primary fw-bold" for="message">Message</label>
+                    <textarea class="form-control" rows="10" id="message" name="message" required></textarea>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-12 col-md-6 offset-md-3 text-center">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+            </div>
         </form>
     </div>
 {{ end }}

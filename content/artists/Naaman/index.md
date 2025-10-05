@@ -1,6 +1,13 @@
 ---
 title: "Naaman"
 cover: "cover.jpg"
+socials:
+  facebook: "Naaman.Official"
+  instagram: "naaman_official"
+  soundcloud: "naaman_official"
+  youtube: "@NaamanOfficial"
+  web: "https://www.naaman-official.com/"
+  tidal: "4900928"
 ---
 
 Naaman est un chanteur et producteur français de reggae-dancehall originaire de Dijon, qui développe sa passion pour la
@@ -11,7 +18,6 @@ aspects de sa création artistique.
 
 Cette approche complète lui permet de développer un son personnel qui mélange authenticité jamaïcaine et modernité
 française, créant une identité artistique unique sur la scène reggae francophone.
-
 
 ##### Carrière musicale
 
@@ -24,7 +30,6 @@ en respectant l'héritage jamaïcain.
 Ses albums rencontrent un succès critique et commercial notable, confirmant son statut de référence du reggae français
 moderne.
 
-
 ##### Style et influences
 
 Le style de Naaman combine reggae traditionnel, dancehall contemporain et éléments de musiques urbaines, créant un son
@@ -35,7 +40,6 @@ jamaïcain, démontrant sa parfaite maîtrise des codes du genre.
 
 Ses productions se caractérisent par une qualité sonore irréprochable et des arrangements sophistiqués qui révèlent son
 expertise technique.
-
 
 ##### Actualité
 
