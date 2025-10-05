@@ -1,8 +1,8 @@
 ---
-title: "Content Placeholder"
-build:
-  render: never
-  list: never
-  publishResources: false
+title: "Nótt"
+cover: "cover.jpg"
+socials:
+  facebook: "nottduomusic"
+  instagram: "nott_music"
+  youtube: "@nott4718"
 ---
-
