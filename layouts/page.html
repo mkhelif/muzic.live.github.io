@@ -1,7 +1,9 @@
 {{ define "main" }}
     <div>
         <!-- Content -->
-        {{ if eq .Section "artists" }}
+        {{ if eq .Section "news" }}
+            {{ partial "new.html" . }}
+        {{ else if eq .Section "artists" }}
             {{ partial "artist.html" . }}
         {{ else if eq .Section "festivals" }}
             {{ partial "festival.html" . }}

@@ -1,6 +1,37 @@
 {{ define "main" }}
-    <div class="bg-primary text-dark w-100" style="height: 600px;">
+    <div class="w-100" style="height: 600px;" data-pagefind-ignore="all">
+        <div id="carousel-recent-news" class="glide mt-4">
+            <div class="glide__track" data-glide-el="track">
+                <ul class="glide__slides align-items-center">
+                    {{ range (where site.RegularPages "Section" "news").Limit 5 }}
+                        <li class="glide__slide text-center mh-100">
+                            <a href="{{ .RelPermalink }}">
+                                <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .Title }}" height="600px">
+                            </a>
+                        </li>
+                    {{ end }}
+                </ul>
+            </div>
 
+            <div class="glide__arrows" data-glide-el="controls">
+                <button class="glide__arrow glide__arrow--left" data-glide-dir="<">
+                    <i class="fa fa-caret-left"></i>
+                </button>
+                <button class="glide__arrow glide__arrow--right" data-glide-dir=">">
+                    <i class="fa fa-caret-right"></i>
+                </button>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            new Glide('#carousel-recent-news', {
+                type: 'carousel',
+                autoplay: 3000,
+                hoverpause: false,
+                focusAt: 'center',
+                perView: 2,
+            }).mount();
+        </script>
     </div>
 
     <div class="container mt-4" data-pagefind-ignore="all">

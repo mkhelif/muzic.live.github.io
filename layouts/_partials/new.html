@@ -1,0 +1,55 @@
+{{ partial "cover.html" . }}
+
+<div class="container">
+
+    <div class="d-flex flex-row justify-content-between mb-5">
+        <span>
+            {{ range $.GetTerms "artists" }}
+                <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+            {{ end }}
+            {{ range $.GetTerms "albums" }}
+                <a class="badge bg-warning text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+            {{ end }}
+            {{ range $.GetTerms "festivals" }}
+                <a class="badge bg-success text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+            {{ end }}
+        </span>
+        <small>
+            {{ $locations := slice }}
+            {{ range $.GetTerms "locations" }}
+                <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,
+                {{ $locations = $locations | append .LinkTitle }}
+            {{ end }}
+            {{ partial "time.html" .Date }}
+        </small>
+    </div>
+
+    {{ partial "content.html" . }}
+
+    <!-- Other reports -->
+    <div data-pagefind-ignore="all">
+        {{ range .GetTerms "festivals" }}
+            {{ $festival := .LinkTitle }}
+            <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">Autres chroniques du festival {{ $festival }}</h4>
+            {{ $count := 0 }}
+            {{ range $.Site.RegularPages }}
+                {{ $page := . }}
+                {{ range .GetTerms "festivals" }}
+                    {{ if and (eq .LinkTitle $festival) (ne $page.Path $.Path) }}
+                        {{ $count = add $count 1 }}
+                        {{ partial "report-entry.html" $page }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            {{ if eq $count 0 }}
+                <p class="small text-muted text-center">Aucune chronique de concert</p>
+            {{ end }}
+        {{ end }}
+    </div>
+
+    <!-- Comments -->
+    <div data-pagefind-ignore="all">
+        <h4 class="mt-5 p-3 bg-primary text-dark">Commentaires</h4>
+        {{ partial "disqus.html" . }}
+    </div>
+</div>

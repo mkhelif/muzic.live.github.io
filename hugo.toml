@@ -16,11 +16,13 @@ title = 'Muzic.Live'
     pageRef = '/reports'
     weight = 20
 
+# Categories
 [taxonomies]
   artist = 'artists'
   festival = 'festivals'
   location = 'locations'
 
+# Services
 [services]
   [services.googleAnalytics]
     id = 'GTM-NH68JMS8'
@@ -29,6 +31,7 @@ title = 'Muzic.Live'
   [services.rss]
     limit = 30
 
+# RSS
 [outputs]
   home = ['html', 'rss']
   section = ['html']
@@ -38,3 +41,10 @@ title = 'Muzic.Live'
   [outputFormats.RSS]
     mediatype = "application/rss"
     baseName = "feed"
+
+# Markup
+[markup]
+  [markup.goldmark.parser]
+    wrapStandAloneImageWithinParagraph = false
+  [markup.goldmark.parser.attribute]
+  block = true
