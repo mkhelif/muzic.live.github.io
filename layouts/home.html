@@ -1,12 +1,12 @@
 {{ define "main" }}
-    <div class="w-100" style="height: 600px;" data-pagefind-ignore="all">
+    <div class="w-100" data-pagefind-ignore="all">
         <div id="carousel-recent-news" class="glide mt-4">
             <div class="glide__track" data-glide-el="track">
                 <ul class="glide__slides align-items-center">
                     {{ range (where site.RegularPages "Section" "news").Limit 5 }}
-                        <li class="glide__slide text-center mh-100">
+                        <li class="glide__slide text-center mh-100 mw-100">
                             <a href="{{ .RelPermalink }}">
-                                <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .Title }}" height="600px">
+                                <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .Title }}" width="100%" style="max-width: 1200px">
                             </a>
                         </li>
                     {{ end }}
@@ -30,6 +30,9 @@
                 hoverpause: false,
                 focusAt: 'center',
                 perView: 2,
+                breakpoints: {
+                    1400: { perView: 1 }
+                }
             }).mount();
         </script>
     </div>
