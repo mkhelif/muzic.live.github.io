@@ -57,7 +57,7 @@ témoigne de la reconnaissance du groupe au-delà des frontières américaines. 
 premiers retours critiques sont particulièrement élogieux, certains chroniqueurs attribuant déjà une note de 4,5/5 à
 l'album.
 
-## Un avenir prometteur
+#### Un avenir prometteur
 
 Wings of Steel ne compte pas s'arrêter là. Début 2026, le groupe rejoindra Sabaton pour une tournée, une opportunité
 exceptionnelle qui leur permettra de se produire devant des milliers de fans de metal à travers l'Europe et de
