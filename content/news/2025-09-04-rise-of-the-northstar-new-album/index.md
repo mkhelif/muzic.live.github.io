@@ -2,7 +2,7 @@
 date: "2025-09-04T14:30:00+02:00"
 title: "Rise Of The Northstar : retour en force avec un nouvel album"
 artists:
-  - Rise Of The Northstar
+  - Rise Of The NorthStar
 albums:
   - Chapter 04 - Red Falcon Super Battle! New Paris War!!
 cover: "cover.jpg"
