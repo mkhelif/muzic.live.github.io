@@ -1,6 +1,6 @@
 {{ define "main" }}
     <div class="w-100" data-pagefind-ignore="all">
-        <div id="carousel-recent-news" class="glide mt-4">
+        <div id="carousel-recent-news" class="glide">
             <div class="glide__track" data-glide-el="track">
                 <ul class="glide__slides align-items-center">
                     {{ range (where site.RegularPages "Section" "news").Limit 5 }}
@@ -41,7 +41,7 @@
         <!-- Last live reports -->
         <div class="row">
             <div class="col-12 col-lg-8">
-                <h3 class="mb-4 p-3 bg-primary text-dark">Dernières chroniques de concerts</h3>
+                <h4 class="mb-4 p-3 bg-primary text-dark">Dernières chroniques de concerts</h4>
                 {{ range (where site.RegularPages "Section" "reports").Limit 5 }}
                     {{ partial "report-entry.html" . }}
                 {{ end }}
@@ -51,7 +51,7 @@
             </div>
 
             <div class="col-12 col-lg-4">
-                <h3 class="mb-4 p-3 bg-primary text-dark">Dernières critiques d'albums</h3>
+                <h4 class="mb-4 p-3 bg-primary text-dark">Dernières critiques d'albums</h4>
                 {{ range (where site.RegularPages "Section" "albums").Limit 2 }}
                     {{ partial "report-entry.html" . }}
                 {{ end }}

@@ -6,14 +6,14 @@
             </a>
         </div>
     {{ end }}
-    <h3>
+    <h4>
         <a href="{{ .RelPermalink }}">
             {{ if .Params.artist }}
                 {{ .Params.artist }} -
             {{ end }}
             {{ .LinkTitle }}
         </a>
-    </h3>
+    </h4>
     <div class="small text-body-tertiary">
         {{ range $.GetTerms "locations" }}
             {{ .LinkTitle }},
