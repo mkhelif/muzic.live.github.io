@@ -25,7 +25,7 @@ title = 'Muzic.Live'
 # Services
 [services]
   [services.googleAnalytics]
-    id = 'GTM-NH68JMS8'
+    id = 'G-HE90TD2KM0'
   [services.disqus]
     shortname = 'muzic-live'
   [services.rss]
