@@ -18,7 +18,7 @@
         {{ range $.GetTerms "locations" }}
             {{ .LinkTitle }},
         {{ end }}
-        {{ if eq .Section "reports" }}
+        {{ if or (eq .Section "reports") (eq .Section "news") }}
             <span class="me-2">{{ partial "time.html" .Date }}</span>
         {{ end }}
         {{ if .Params.rank }}
