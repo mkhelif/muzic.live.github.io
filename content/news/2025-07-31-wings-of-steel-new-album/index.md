@@ -5,10 +5,11 @@ artists:
   - Wings of Steel
 albums:
   - Winds of Time
+hero: "hero.jpg"
 cover: "cover.jpg"
 ---
 
-![Winds of Time](album-cover.jpg)
+![Winds of Time](cover.jpg)
 {.mx-auto .d-block .mb-5}
 
 Le groupe américain Wings of Steel s'apprête à dévoiler "Winds of Time", son deuxième album studio prévu pour le 17

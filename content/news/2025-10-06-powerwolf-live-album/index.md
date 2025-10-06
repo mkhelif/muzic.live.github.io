@@ -5,10 +5,11 @@ artists:
   - Powerwolf
 albums:
   - Wildlive
+hero: "hero.jpg"
 cover: "cover.jpg"
 ---
 
-![Wildlive](album-cover.jpg)
+![Wildlive](cover.jpg)
 {.mx-auto .d-block .mb-5}
 
 Les géants allemands du power metal Powerwolf s'apprêtent à graver dans le marbre l'un des moments les plus mémorables

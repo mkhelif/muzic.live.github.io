@@ -6,7 +6,7 @@
                     {{ range (where site.RegularPages "Section" "news").Limit 5 }}
                         <li class="glide__slide text-center mh-100 mw-100">
                             <a href="{{ .RelPermalink }}">
-                                <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .Title }}" width="100%" style="max-width: 1200px">
+                                <img src="{{ urls.JoinPath .Path .Params.hero | absURL | safeURL }}" alt="{{ .Title }}" width="100%" style="max-width: 1200px">
                             </a>
                         </li>
                     {{ end }}

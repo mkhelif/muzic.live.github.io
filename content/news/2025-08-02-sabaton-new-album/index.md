@@ -5,10 +5,11 @@ artists:
   - Sabaton
 albums:
   - Legends
+hero: "hero.jpg"
 cover: "cover.jpg"
 ---
 
-![Legends](album-cover.jpg)
+![Legends](cover.jpg)
 {.mx-auto .d-block .mb-5}
 
 Le groupe suédois Sabaton s'apprête à frapper un grand coup avec la sortie de "Legends", leur onzième album studio prévu

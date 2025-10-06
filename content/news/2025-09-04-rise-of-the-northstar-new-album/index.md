@@ -5,10 +5,11 @@ artists:
   - Rise Of The NorthStar
 albums:
   - Chapter 04 - Red Falcon Super Battle! New Paris War!!
+hero: "hero.jpg"
 cover: "cover.jpg"
 ---
 
-![Chapter 04 - Red Falcon Super Battle! New Paris War!!](album-cover.jpg)
+![Chapter 04 - Red Falcon Super Battle! New Paris War!!](cover.jpg)
 {.mx-auto .d-block .mb-5}
 
 Les passionnés de rap-metal et de hardcore ont de quoi se réjouir. Rise Of The Northstar (ROTNS), formation emblématique

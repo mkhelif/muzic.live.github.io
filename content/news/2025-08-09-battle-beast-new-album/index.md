@@ -5,10 +5,11 @@ artists:
   - Battle Beast
 albums:
   - Steelbound
+hero: "hero.jpg"
 cover: "cover.jpg"
 ---
 
-![Steelbound](album-cover.jpg)
+![Steelbound](cover.jpg)
 {.mx-auto .d-block .mb-5}
 
 Le groupe de heavy metal finlandais Battle Beast prépare la sortie de son septième album studio, Steelbound, pour le 17
