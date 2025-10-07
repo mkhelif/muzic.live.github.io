@@ -31,7 +31,7 @@
     {{ partial "content.html" . }}
 
     <!-- Other reports -->
-    <div data-pagefind-ignore="all">
+    <div data-pagefind-ignore="all" class="d-print-none">
         {{ range .GetTerms "festivals" }}
             {{ $festival := .LinkTitle }}
             <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">Autres chroniques du festival {{ $festival }}</h4>
@@ -52,7 +52,7 @@
     </div>
 
     <!-- Comments -->
-    <div data-pagefind-ignore="all">
+    <div data-pagefind-ignore="all" class="d-print-none">
         <h4 class="mt-5 p-3 bg-primary text-dark">Commentaires</h4>
         {{ partial "disqus.html" . }}
     </div>

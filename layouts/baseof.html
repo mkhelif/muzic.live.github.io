@@ -9,13 +9,13 @@
         <!-- End Google Tag Manager (noscript) -->
 
         <div class="d-flex flex-column h-100">
-            <header>
+            <header class="d-print-none">
                 {{ partial "header.html" . }}
             </header>
             <main class="flex-grow-1" data-pagefind-body>
                 {{ block "main" . }}{{ end }}
             </main>
-            <footer>
+            <footer class="d-print-none">
                 {{ partial "footer.html" . }}
             </footer>
         </div>

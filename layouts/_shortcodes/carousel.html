@@ -7,7 +7,7 @@
     {{ $pictures = sort $pictures "Name" "asc" }}
 {{ end }}
 
-<div id="carousel-{{ $id }}" class="glide mt-4">
+<div id="carousel-{{ $id }}" class="glide mt-4 d-print-none">
     <div class="glide__track" data-glide-el="track">
         <ul class="glide__slides align-items-center">
             {{ range $pictures }}
