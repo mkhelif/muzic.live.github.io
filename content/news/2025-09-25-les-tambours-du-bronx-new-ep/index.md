@@ -10,7 +10,7 @@ cover: "cover.jpg"
 ---
 
 ![The Wild Pack](cover.jpg)
-{.mx-auto .d-block .mb-5}
+{.mx-auto .d-block .mb-5 .mw-100}
 
 Deux ans après avoir marqué les esprits avec Evilution, Les Tambours du Bronx reviennent à la charge avec un nouvel EP
 intitulé The Wild Pack. Prévu pour le 25 septembre 2025, ce disque six-titres promet une nouvelle déflagration sonore

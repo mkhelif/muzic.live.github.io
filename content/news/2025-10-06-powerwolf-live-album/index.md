@@ -10,7 +10,7 @@ cover: "cover.jpg"
 ---
 
 ![Wildlive](cover.jpg)
-{.mx-auto .d-block .mb-5}
+{.mx-auto .d-block .mb-5 .mw-100}
 
 Les géants allemands du power metal Powerwolf s'apprêtent à graver dans le marbre l'un des moments les plus mémorables
 de leur carrière avec la sortie de Wildlive (Live at Olympiahalle), prévue pour le 6 mars 2026 chez Napalm Records.

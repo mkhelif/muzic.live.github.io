@@ -10,7 +10,7 @@ cover: "cover.jpg"
 ---
 
 ![Winds of Time](cover.jpg)
-{.mx-auto .d-block .mb-5}
+{.mx-auto .d-block .mb-5 .mw-100}
 
 Le groupe américain Wings of Steel s'apprête à dévoiler "Winds of Time", son deuxième album studio prévu pour le 17
 octobre 2025. Basé à Los Angeles et fondé en 2019 par le chanteur Leo Unnermark et le guitariste Parker Halub, le groupe

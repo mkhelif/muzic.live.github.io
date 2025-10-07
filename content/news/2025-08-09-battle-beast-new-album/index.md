@@ -10,7 +10,7 @@ cover: "cover.jpg"
 ---
 
 ![Steelbound](cover.jpg)
-{.mx-auto .d-block .mb-5}
+{.mx-auto .d-block .mb-5 .mw-100}
 
 Le groupe de heavy metal finlandais Battle Beast prépare la sortie de son septième album studio, Steelbound, pour le 17
 octobre 2025. L'album sera disponible sous différents formats, dont des vinyles colorés et une édition limitée incluant

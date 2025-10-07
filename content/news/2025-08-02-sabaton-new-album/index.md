@@ -10,7 +10,7 @@ cover: "cover.jpg"
 ---
 
 ![Legends](cover.jpg)
-{.mx-auto .d-block .mb-5}
+{.mx-auto .d-block .mb-5 .mw-100}
 
 Le groupe suédois Sabaton s'apprête à frapper un grand coup avec la sortie de "Legends", leur onzième album studio prévu
 pour le 17 octobre 2025. Fidèles à leur réputation de conteurs épiques de l'Histoire, les cinq musiciens franchissent

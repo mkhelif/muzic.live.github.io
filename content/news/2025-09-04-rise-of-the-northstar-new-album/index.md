@@ -10,7 +10,7 @@ cover: "cover.jpg"
 ---
 
 ![Chapter 04 - Red Falcon Super Battle! New Paris War!!](cover.jpg)
-{.mx-auto .d-block .mb-5}
+{.mx-auto .d-block .mb-5 .mw-100}
 
 Les passionnés de rap-metal et de hardcore ont de quoi se réjouir. Rise Of The Northstar (ROTNS), formation emblématique
 de la banlieue parisienne, annonce la sortie imminente de son quatrième opus intitulé "Chapter 4 : Red Falcon Super
@@ -49,7 +49,7 @@ incontournable de la scène metal hardcore française, prête à conquérir de n
 l'authenticité qui caractérise son identité musicale depuis ses débuts.
 
 ![Tournée européenne ROTNS](tour-2025.jpg)
-{.mx-auto .d-block .mt-5}
+{.mx-auto .d-block .mt-5 .mw-100}
 
 ---
 

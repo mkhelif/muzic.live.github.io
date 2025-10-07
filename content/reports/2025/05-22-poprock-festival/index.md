@@ -1,6 +1,6 @@
 ---
 date: "2025-05-22T19:00:00+02:00"
-title: "Poprock Festival 2025 - Jour 1 - Showcave, MADAM, Hey Satan, Soen"
+title: "Poprock Festival 2025 - Jour 1 - Showcave, MADAM, Hey Satan, SOEN"
 author: "mkhelif"
 cover: "pictures/madam/02.jpg"
 rank: 10
@@ -13,7 +13,7 @@ artists:
   - Showcave
   - MADAM
   - Hey Satan
-  - Soen
+  - SOEN
 ---
 
 Cette soirée d'ouverture du Poprock Festival 2025 dessine une cartographie du rock contemporain dans sa diversité
@@ -71,7 +71,7 @@ l'acoustique particulière du hangar vigneron un écrin parfait.
 artistique peut cohabiter avec l'énergie primitive.
 
 
-{{< carousel pictures="pictures/soen" alt="Soen" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/soen" alt="SOEN" author="mkhelif.photo" >}}
 
 Coup de cœur avoué du programmateur, le groupe de Martin Lopez et Joel Ekelof justifie pleinement cette distinction avec
 une démonstration de metal progressif qui élève immédiatement le niveau esthétique de la soirée.
