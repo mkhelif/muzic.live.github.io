@@ -15,8 +15,9 @@
         </a>
     </h4>
     <div class="small text-body-tertiary">
-        {{ range $.GetTerms "locations" }}
-            {{ .LinkTitle }},
+        {{ range $index, $term := $.GetTerms "locations" }}
+            {{- if gt $index 0 -}},{{ end }}
+            {{ $term.LinkTitle -}}
         {{ end }}
         {{ if or (eq .Section "reports") (eq .Section "news") }}
             <span class="me-2">{{ partial "time.html" .Date }}</span>

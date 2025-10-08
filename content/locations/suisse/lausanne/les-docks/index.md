@@ -1,6 +1,9 @@
 ---
 title: "Les Docks"
-cover: "cover.png"
+cover: "cover.jpg"
+locations:
+  - Lausanne
+  - Suisse
 socials:
   facebook: "dockslausanne"
   instagram: "lesdocks_lausanne"
