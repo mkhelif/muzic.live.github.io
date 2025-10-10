@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Grandson"
 cover: "cover.jpg"
 socials:
