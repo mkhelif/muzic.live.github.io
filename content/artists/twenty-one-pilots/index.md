@@ -33,7 +33,6 @@ définitive et transforme Twenty One Pilots en une entité symbiotique où la re
 transcende le simple partenariat musical. Les deux arborent des tatouages X, symbole de leur dévotion aux fans de
 Columbus, rituel d'appartenance qui témoigne de leur ancrage local malgré leur succès mondial.
 
-
 ### ADN musical : le genre-bending comme manifeste
 
 ##### L'inclassable classification
@@ -55,7 +54,6 @@ L'inclusion du ukulélé dans plusieurs chansons est devenue une signature sonor
 of Gold" de l'album Vessel, le ukulélé sert d'instrument principal, donnant au morceau une qualité folk fantaisiste. "
 Ride" combine rap et reggae avec leur son pop, rappelant le titre "Screen" de Vessel, conduit par le ukulélé. Cette
 appropriation d'un instrument traditionnellement léger pour explorer des thèmes sombres crée un contraste saisissant.
-
 
 ### Discographie : L'odyssée conceptuelle
 
@@ -90,7 +88,6 @@ devient épopée.
 Album pandémique par excellence, "Scaled and Icy" (anagramme de "Clancy Is Dead") présente une façade pop colorée
 masquant des thèmes sombres – métaphore parfaite de la positivité toxique des réseaux sociaux.
 
-
 ### Influences et héritage
 
 ##### Les racines spirituelles
@@ -111,7 +108,6 @@ respectueuse et innovante transcende l'appropriation culturelle pour créer un d
 Héritiers de Radiohead dans leur refus des catégories, de Nine Inch Nails dans leur exploration des ténèbres
 intérieures, de Linkin Park dans leur fusion rap-rock, Twenty One Pilots synthétise deux décennies d'alternative rock en
 y injectant une sensibilité millennial unique.
-
 
 ### Style musical : l'architecture de l'angoisse
 
@@ -141,7 +137,6 @@ Josh Dun transcende le rôle traditionnel du batteur :
 - **Électronique hybride** fusionnant acoustique et samples
 - **Performances acrobatiques** transformant la batterie en art visuel
 
-
 ### Le live : théâtre de la catharsis
 
 ##### La performance totale
@@ -160,7 +155,6 @@ Le duo parvient à créer une intimité dans des arenas de 20,000 personnes :
 - **Performances acoustiques** au milieu du public
 - **Confessions personnelles** entre les morceaux
 - **Participation active** du public dans la narration
-
 
 ### Impact culturel : la voix d'une génération anxieuse
 
@@ -184,7 +178,6 @@ Twenty One Pilots a redéfini ce que peut être un groupe mainstream :
 
 Le single "Heathens" enregistré pour la bande originale de Suicide Squad illustre leur capacité à naviguer entre
 underground et mainstream sans compromettre leur intégrité artistique.
-
 
 ### L'esthétique : symbolisme et sémiologie
 

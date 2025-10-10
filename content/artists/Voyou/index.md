@@ -1,7 +1,14 @@
 ---
-draft: true
 title: "Voyou"
 cover: "cover.jpg"
+socials:
+  facebook: "voyoumusique"
+  instagram: "voyovoyou"
+  tiktok: "@voyovoyou"
+  bandcamp: "voyouvoyou"
+  youtube: "@voyovoyou"
+  web: "https://voyoumusic.fr/"
+  tidal: "4172530"
 ---
 
 Voyou est le projet solo électro-pop de Christophe Musset, ancien membre du groupe Les Bizarres, qui a décidé de se
@@ -13,7 +20,6 @@ personnel et sophistiqué.
 Le projet naît de sa volonté d'expérimenter avec les sons électroniques modernes tout en conservant une approche
 mélodique héritée de son expérience en formation, créant ainsi un style unique qui se distingue dans le paysage
 électro-pop français.
-
 
 ##### Carrière musicale
 
@@ -27,7 +33,6 @@ Le projet reçoit un accueil critique favorable, notamment pour la qualité de s
 approche artistique, qui renouvelle les codes de la chanson française contemporaine en y intégrant des éléments
 électroniques sophistiqués.
 
-
 ##### Style et influences
 
 L'univers de Voyou se caractérise par une production léchée, des synthétiseurs vintages, des boîtes à rythmes
@@ -39,7 +44,6 @@ parfaitement avec ses arrangements électroniques.
 
 Ses textes, en français, abordent des thèmes intimistes et contemporains avec une poésie moderne qui résonne avec
 l'époque actuelle et touche un public en quête d'authenticité.
-
 
 ##### Actualité
 

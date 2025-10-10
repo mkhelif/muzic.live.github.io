@@ -4,7 +4,7 @@ title: "The Party and the Mess"
 subtitle: "12 titres, 46:09"
 author: "mkhelif"
 cover: "cover.jpg"
-rank: 8
+rank: 9
 artist: "Soft Loft"
 tidal: "328542561"
 ---

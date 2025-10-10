@@ -1,6 +1,12 @@
 ---
 title: "The Inspector Cluzo"
 cover: "cover.jpg"
+socials:
+  facebook: "ticluzo"
+  instagram: "theinspectorcluzo"
+  youtube: "@theinspectorcluzo"
+  web: "https://www.theinspectorcluzo.com"
+  tidal: "4110463"
 ---
 
 The Inspector Cluzo est un duo de rock français composé de Laurent Lacrouts (chant, guitare) et Phil Jourdain (
@@ -11,7 +17,6 @@ développant rapidement une complicité musicale évidente.
 
 Leurs débuts révèlent une approche minimaliste mais intense du rock, où l'énergie brute prime sur la sophistication
 technique, créant un son puissant et authentique qui rappelle les grands noms du rock des années 60 et 70.
-
 
 ##### Carrière musicale
 
@@ -24,7 +29,6 @@ de batterie puissantes qui créent une dynamique live exceptionnelle.
 Leur réputation dépasse rapidement les frontières françaises, le duo tournant régulièrement en Europe et aux États-Unis,
 prouvant que le rock français peut rivaliser avec les meilleures productions anglo-saxonnes.
 
-
 ##### Style et influences
 
 Le style de The Inspector Cluzo puise dans le rock blues, le punk et le garage rock, créant un son dépouillé mais
@@ -35,7 +39,6 @@ sur la complexité technique.
 
 Leurs textes, principalement en anglais, abordent des thèmes universels du rock - liberté, rébellion, amour, route -
 avec une sincérité et une simplicité qui touchent directement l'auditeur.
-
 
 ##### Actualité
 
