@@ -1,26 +1,17 @@
 # Site
+title = 'Muzic.Live'
 baseURL = '/'
 languageCode = 'fr-fr'
 defaultContentLanguage = 'fr'
-title = 'Muzic.Live'
-
-# Menu
-[menus]
-  [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
-
-  [[menus.main]]
-    name = 'Chroniques'
-    pageRef = '/reports'
-    weight = 20
 
 # Categories
 [taxonomies]
+  album = 'albums'
   artist = 'artists'
   festival = 'festivals'
   location = 'locations'
+  event = 'events'
+  new = 'news'
 
 # Services
 [services]

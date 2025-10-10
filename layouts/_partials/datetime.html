@@ -1,0 +1,13 @@
+{{ $dateMachine := .date | time.Format "1970-01-01T00:00:00-00:00" }}
+{{ $date := .date | time.Format ":date_long" }}
+{{ $time := .date | time.Format ":time_short" }}
+<time class="text-body"
+      datetime="{{ $dateMachine }}"
+      data-pagefind-meta="date"
+      data-pagefind-ignore
+>
+    {{ $date }}
+    {{ if .includeTime }}
+        <small class="ms-1 text-muted">{{ $time }}</small>
+    {{ end }}
+</time>

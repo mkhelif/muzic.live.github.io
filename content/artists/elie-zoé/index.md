@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Elie Zoé"
 cover: "cover.jpg"
 socials:

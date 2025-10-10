@@ -3,16 +3,6 @@
 <div class="container">
     {{ partial "social.html" . }}
     {{ partial "content.html" . }}
-
-    <div data-pagefind-ignore="all">
-        <h4 class="mt-5 mb-3 p-3 bg-primary text-dark">Chroniques de concerts</h4>
-        {{ range $.Site.RegularPages }}
-            {{ $page := . }}
-            {{ range .GetTerms "locations" }}
-                {{ if eq .LinkTitle $.Title }}
-                    {{ partial "report-entry.html" $page }}
-                {{ end }}
-            {{ end }}
-        {{ end }}
-    </div>
+    {{ partial "events.html" (dict "context" . "term" "locations" "filter" .Title) }}
+    {{ partial "reports.html" (dict "context" . "term" "locations" "filter" .Title) }}
 </div>

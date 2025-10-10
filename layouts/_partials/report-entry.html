@@ -20,7 +20,7 @@
             {{ $term.LinkTitle -}}
         {{ end }}
         {{ if or (eq .Section "reports") (eq .Section "news") }}
-            <span class="me-2">{{ partial "time.html" .Date }}</span>
+            <span class="me-2">{{ partial "datetime.html" (dict "date" .Date) }}</span>
         {{ end }}
         {{ if .Params.rank }}
             <span>{{ partial "rank.html" .Params.rank }}</span>

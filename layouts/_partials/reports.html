@@ -1,0 +1,16 @@
+<div data-pagefind-ignore="all">
+    <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">Chroniques de concerts</h4>
+    {{ $count := 0 }}
+    {{ range (where site.RegularPages "Section" "reports") }}
+        {{ $page := . }}
+        {{ range .GetTerms $.term }}
+            {{ if eq .LinkTitle $.filter }}
+                {{ $count = add $count 1 }}
+                {{ partial "report-entry.html" $page }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+    {{ if eq $count 0 }}
+        <p class="small text-muted text-center">Aucune chronique de concert</p>
+    {{ end }}
+</div>

@@ -1,0 +1,85 @@
+<div data-pagefind-ignore="all">
+    <h4 class="mt-5 mb-3 p-3 bg-primary text-dark">Concerts à venir</h4>
+    {{ $count := 0 }}
+    <table class="table table-sm table-borderless">
+        <thead>
+            <tr>
+                <th></th>
+                <th></th>
+                <th width="100%"></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            {{ range (where site.RegularPages "Section" "events") }}
+                {{ if (lt 7 (div (sub now.Unix (.Params.eventDate | time).Unix) 86400)) }}
+                    {{ continue }}
+                {{ end }}
+                {{ $page := . }}
+                {{ range $page.GetTerms $.term }}
+                    {{ if eq .LinkTitle $.filter }}
+                        {{ $count = add $count 1 }}
+                        {{ $padding := cond (eq $count 1) "pb-2" "py-2" }}
+                        <tr class="{{ cond (eq $count 1) "" "border-top" }} border-primary" style="--bs-border-opacity: 0.25;">
+                            <td class="{{ $padding }} text-nowrap">
+                                <span><i class="fa fa-2xs text-muted fa-clock ms-1"></i></span>
+                                {{ partial "datetime.html" (dict "date" $page.Params.eventDate "includeTime" true) }}
+                            </td>
+
+                            <!-- Locations -->
+                            <td class="{{ $padding }} text-white text-nowrap">
+                                <span><i class="fa fa-xs text-muted fa-map-marker-alt ms-1"></i></span>
+                                {{ range $location := $page.GetTerms "locations" }}
+                                    {{ range (where site.RegularPages "Section" "locations") }}
+                                        {{ if (eq $location.LinkTitle .LinkTitle) }}
+                                            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,
+                                            {{ range $index, $term := .GetTerms "locations" }}
+                                                {{- if (gt $index 0) }}, {{ end -}}
+                                                <a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>
+                                            {{- end }}
+                                        {{ end }}
+                                    {{ end }}
+                                {{- end }}
+                            </td>
+
+                            <!-- Artists -->
+                            <td class="{{ $padding }} text-white">
+                                <span><i class="fa fa-xs text-muted fa-music ms-1"></i></span>
+                                {{ range $index, $artist := $page.GetTerms "artists" }}
+                                    {{- $matched := false -}}
+                                    {{- range (where site.RegularPages "Section" "artists") -}}
+                                        {{- if (eq $artist.LinkTitle .LinkTitle) -}}
+                                            {{- $matched = true -}}
+                                            {{- if (gt $index 0) }}, {{ end -}}
+                                            <a href="{{ .RelPermalink }}">{{ .LinkTitle | safeHTML }}</a>
+                                        {{- end -}}
+                                    {{- end -}}
+                                    {{- if not $matched -}}
+                                        {{- if (gt $index 0) }}, {{ end -}}
+                                        {{- $artist.LinkTitle -}}
+                                    {{- end -}}
+                                {{- end }}
+                            </td>
+
+                            <td class="{{ $padding }} text-nowrap text-center">
+                                {{ if $page.Params.tickets }}
+                                    <a target="_blank" rel="noopener norefferer" class="{{ cond $page.Params.full "text-warning" (cond $page.Params.cancelled "text-danger text-decoration-line-through" "text-primary") }}"
+                                       href="
+                                        {{- if $page.Params.tickets.seetickets }}{{ trim (partial "seetickets.html" $page.Params.tickets.seetickets) "\n\r " -}}{{ end -}}
+                                    ">
+                                        <i class="fa fa-cart-shopping me-1"></i>
+                                        Tickets
+                                    </a>
+                                {{ end }}
+                            </td>
+                        </tr>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        </tbody>
+    </table>
+    {{ if eq $count 0 }}
+        <p class="small text-muted text-center">Aucun concert annoncé</p>
+    {{ end }}
+</div>

@@ -18,11 +18,23 @@
     <div class="d-flex flex-row justify-content-between mb-5">
         <span>
             {{ $locations := slice }}
-            {{ range $.GetTerms "locations" }}
-                <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,
-                {{ $locations = $locations | append .LinkTitle }}
+            {{ range .GetTerms "locations" }}
+                {{ $location := .LinkTitle }}
+                {{ $match := false }}
+                {{ range (where $.Site.RegularPages "Section" "locations") }}
+                    {{ if (eq .LinkTitle $location) }}
+                        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,
+                        {{ $locations = $locations | append .LinkTitle }}
+                        {{ $match = true }}
+                    {{ end }}
+                {{ end }}
+                {{ if not $match }}
+                    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,
+                    {{ $locations = $locations | append .LinkTitle }}
+                {{ end }}
             {{ end }}
-            {{ partial "time.html" .Date }}
+
+            {{ partial "datetime.html" (dict "date" .Date) }}
         </span>
         <span data-pagefind-meta="locations: {{ delimit $locations ", " }}"></span>
         <span class="flex-grow-1 ms-3">{{ partial "rank.html" .Params.rank }}</span>
