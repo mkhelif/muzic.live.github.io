@@ -4,7 +4,12 @@
 
         <!-- Pages -->
         {{ $pages := where site.RegularPages "Section" .Section }}
-        {{ $paginator := .Paginate (cond (eq .Section "reports") $pages.ByDate.Reverse $pages.ByTitle) 10 }}
+        {{ if or (eq .Section "reports") (eq .Section "albums") }}
+            {{ $pages = $pages.ByDate.Reverse }}
+        {{ else }}
+            {{ $pages = $pages.ByTitle }}
+        {{ end }}
+        {{ $paginator := .Paginate $pages 10 }}
         {{ range $paginator.Pages }}
             {{ partial "report-entry.html" . }}
         {{ end }}
