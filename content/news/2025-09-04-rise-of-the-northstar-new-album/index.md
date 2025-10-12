@@ -1,6 +1,6 @@
 ---
 date: "2025-09-04T14:30:00+02:00"
-title: "Rise Of The Northstar : retour en force avec un nouvel album"
+title: "Rise Of The NorthStar : retour en force avec un nouvel album"
 artists:
   - Rise Of The NorthStar
 albums:

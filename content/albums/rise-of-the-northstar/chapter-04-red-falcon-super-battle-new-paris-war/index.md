@@ -6,7 +6,7 @@ subtitle: "TODO"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
-artist: "Rise Of The Northstar"
+artist: "Rise Of The NorthStar"
 tidal: "TODO"
 ---
 
