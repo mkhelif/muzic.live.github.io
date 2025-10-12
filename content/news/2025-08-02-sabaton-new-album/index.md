@@ -9,7 +9,7 @@ hero: "hero.jpg"
 cover: "cover.jpg"
 ---
 
-![Legends](cover.jpg)
+![Legends](album.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
 Le groupe suédois Sabaton s'apprête à frapper un grand coup avec la sortie de "Legends", leur onzième album studio prévu

@@ -9,7 +9,7 @@ hero: "hero.jpg"
 cover: "cover.jpg"
 ---
 
-![Winds of Time](cover.jpg)
+![Winds of Time](album.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
 Le groupe américain Wings of Steel s'apprête à dévoiler "Winds of Time", son deuxième album studio prévu pour le 17

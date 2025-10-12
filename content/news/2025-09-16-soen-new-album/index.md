@@ -9,7 +9,7 @@ hero: "hero.jpg"
 cover: "cover.jpg"
 ---
 
-![Reliance](cover.jpg)
+![Reliance](album.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
 Le mastodonte suédois du metal progressif SOEN annonce la sortie de "Reliance", son septième album studio, prévu pour le

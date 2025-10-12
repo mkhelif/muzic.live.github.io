@@ -9,7 +9,7 @@ hero: "hero.jpg"
 cover: "cover.jpg"
 ---
 
-![Chapter 04 - Red Falcon Super Battle! New Paris War!!](cover.jpg)
+![Chapter 04 - Red Falcon Super Battle! New Paris War!!](album.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
 Les passionnés de rap-metal et de hardcore ont de quoi se réjouir. Rise Of The Northstar (ROTNS), formation emblématique
