@@ -40,7 +40,7 @@
     <div class="container mt-4" data-pagefind-ignore="all">
         <!-- Other news -->
         <div class="row">
-            {{ range (after 5 (where site.RegularPages "Section" "news")).Limit 15 }}
+            {{ range (after 5 (where site.RegularPages "Section" "news")).Limit 16 }}
             <div class="col-12 col-sm-6 col-md-3 news-card mb-4">
                 <a href="{{ .RelPermalink }}" class="d-block position-relative">
                     <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .Title }}" width="100%" class="news-image rounded-1 mw-100">
