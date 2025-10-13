@@ -1,13 +1,19 @@
+{{- $format := "20060102T150405Z" -}}
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//{{ .Path }}//NONSGML v1.0//EN
-{{- range (where site.RegularPages "Section" "events") -}}
+PRODID:-//{{ site.Title }}//NONSGML v1.0//EN
+X-WR-CALNAME:{{ site.Title }}
+NAME:{{ site.Title }}
+REFRESH-INTERVAL;VALUE=DURATION:P3H
+CALSCALE:GREGORIAN
+{{- range (where site.RegularPages "Section" "events") }}
 BEGIN:VEVENT
 UID:{{ hash.XxHash .RelPermalink }}
-DTSTART:{{ mul 1000 (time.AsTime .Params.eventDate).Unix }}Z
-DTEND:{{ mul 1000 (time.AsTime .Params.eventDate).Unix }}Z
+DTSTAMP:{{ (.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $format }}
+DTSTART:{{ (.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $format }}
+DTEND:{{ (.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $format }}
 SUMMARY:{{- range $index, $artist := .Params.artists -}}
-    {{- if gt $index 0 -}}, {{ end -}}{{- $artist -}}
+    {{- if gt $index 0 -}}, {{ end -}}{{- $artist | safeHTML -}}
 {{ end }}
 LOCATION:{{- range $location := .GetTerms "locations" -}}
     {{- range (where site.RegularPages "Section" "locations") -}}
@@ -17,5 +23,5 @@ LOCATION:{{- range $location := .GetTerms "locations" -}}
     {{- end -}}
 {{- end }}
 END:VEVENT
-{{- end -}}
+{{- end }}
 END:VCALENDAR
