@@ -18,7 +18,7 @@ SUMMARY:{{- range $index, $artist := .Params.artists -}}
 LOCATION:{{- range $location := .GetTerms "locations" -}}
     {{- range (where site.RegularPages "Section" "locations") -}}
         {{- if (eq $location.LinkTitle .LinkTitle) -}}
-            {{- .LinkTitle -}}, {{ .Params.address -}}
+            {{- .LinkTitle -}}\, {{ replace .Params.address "," "\\," -}}
         {{- end -}}
     {{- end -}}
 {{- end }}
