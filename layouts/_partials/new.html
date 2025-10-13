@@ -26,27 +26,6 @@
 
     {{ partial "content.html" . }}
 
-    <!-- Other reports -->
-    <div data-pagefind-ignore="all">
-        {{ range .GetTerms "festivals" }}
-            {{ $festival := .LinkTitle }}
-            <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">Autres chroniques du festival {{ $festival }}</h4>
-            {{ $count := 0 }}
-            {{ range $.Site.RegularPages }}
-                {{ $page := . }}
-                {{ range .GetTerms "festivals" }}
-                    {{ if and (eq .LinkTitle $festival) (ne $page.Path $.Path) }}
-                        {{ $count = add $count 1 }}
-                        {{ partial "report-entry.html" $page }}
-                    {{ end }}
-                {{ end }}
-            {{ end }}
-            {{ if eq $count 0 }}
-                <p class="small text-muted text-center">Aucune chronique de concert</p>
-            {{ end }}
-        {{ end }}
-    </div>
-
     <!-- Comments -->
     <div data-pagefind-ignore="all">
         <h4 class="mt-5 p-3 bg-primary text-dark">Commentaires</h4>
