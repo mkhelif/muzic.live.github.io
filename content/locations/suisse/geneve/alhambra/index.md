@@ -1,6 +1,7 @@
 ---
 title: "Alhambra"
 cover: "cover.jpg"
+address: "Rue de la Rôtisserie 10, 1204 Genève, Suisse"
 locations:
   - Genève
   - Suisse

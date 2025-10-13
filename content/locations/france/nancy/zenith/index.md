@@ -1,6 +1,7 @@
 ---
 title: "Zénith de Nancy"
 cover: "cover.jpg"
+address: "Rue du Zénith, 54320 Maxéville, France"
 locations:
   - Nancy
   - France

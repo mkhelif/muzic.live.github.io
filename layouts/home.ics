@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//{{ .Path }}//NONSGML v1.0//EN
+{{- range (where site.RegularPages "Section" "events") -}}
+BEGIN:VEVENT
+UID:{{ hash.XxHash .RelPermalink }}
+DTSTART:{{ mul 1000 (time.AsTime .Params.eventDate).Unix }}Z
+DTEND:{{ mul 1000 (time.AsTime .Params.eventDate).Unix }}Z
+SUMMARY:{{- range $index, $artist := .Params.artists -}}
+    {{- if gt $index 0 -}}, {{ end -}}{{- $artist -}}
+{{ end }}
+LOCATION:{{- range $location := .GetTerms "locations" -}}
+    {{- range (where site.RegularPages "Section" "locations") -}}
+        {{- if (eq $location.LinkTitle .LinkTitle) -}}
+            {{- .LinkTitle -}}, {{ .Params.address -}}
+        {{- end -}}
+    {{- end -}}
+{{- end }}
+END:VEVENT
+{{- end -}}
+END:VCALENDAR

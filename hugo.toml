@@ -24,14 +24,17 @@ defaultContentLanguage = 'fr'
 
 # RSS
 [outputs]
-  home = ['html', 'rss']
+  home = ['html', 'rss', 'ics']
+  page = ['html']
   section = ['html']
   taxonomy = ['html']
 
 [outputFormats]
-  [outputFormats.RSS]
-    mediatype = "application/rss"
+  [outputFormats.rss]
     baseName = "feed"
+  [outputFormats.ics]
+    baseName = "calendar"
+    mediaType = 'text/calendar'
 
 # Markup
 [markup]

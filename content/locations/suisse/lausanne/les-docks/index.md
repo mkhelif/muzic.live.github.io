@@ -1,6 +1,7 @@
 ---
 title: "Les Docks"
 cover: "cover.jpg"
+address: "Avenue de Sévelin 34, 1004 Lausanne, Suisse"
 locations:
   - Lausanne
   - Suisse
