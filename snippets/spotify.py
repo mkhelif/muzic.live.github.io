@@ -5,6 +5,8 @@ from os import listdir
 from pathlib import Path
 
 import frontmatter
+import gettext
+import pycountry
 import re
 import requests
 
@@ -33,6 +35,14 @@ DEFAULT_HEADERS = {
     "Cache-Control": "no-cache",
     "TE": "trailer"
 }
+
+french = gettext.translation('iso3166-1', pycountry.LOCALES_DIR, languages = ['fr'])
+french.install()
+_ = french.gettext
+
+COUNTRIES = {}
+for country in pycountry.countries:
+    COUNTRIES[country.alpha_2.upper()] = _(country.name)
 
 # Utility functions
 def get_artist_concerts(spotify_id):
@@ -89,7 +99,11 @@ def get_concert(concert_uri):
     # Retrieve concert information
     concert_details = {}
     concert_details["date"] = content['data']['concert']['startDateIsoString']
-    concert_details["location"] = content['data']['concert']['location']['name']
+    concert_details["locations"] = [
+        content['data']['concert']['location']['name'],
+        content['data']['concert']['location']['city'],
+        COUNTRIES[content['data']['concert']['location']['country']]
+    ]
     concert_details["artists"] = []
 
     # Compute artists list
@@ -120,8 +134,8 @@ if __name__ == '__main__':
             concerts = get_artist_concerts(spotifyId)
             for concert in concerts:
                 date = datetime.fromisoformat(concert['date'])
-                artists_list = (""
-                                "  - ".join(concert['artists']))
+                artists_list = "\n  - ".join(concert['artists'])
+                locations_list = "\n  - ".join(concert['locations'])
 
                 directory = Path(f"./content/events/{date.year}/{date.month:02d}/{date.day:02d}")
                 directory.mkdir(parents = True, exist_ok = True)
@@ -135,7 +149,7 @@ eventDate: "{date.isoformat()}"
 artists:
   - {artists_list}
 locations:
-  - {concert['location']}
+  - {locations_list}
 ---
 """, encoding = "UTF-8")
         except Exception as e:
