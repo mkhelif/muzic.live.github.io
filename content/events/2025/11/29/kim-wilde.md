@@ -4,6 +4,8 @@ artists:
   - Kim Wilde
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/kim-wilde-uk-the-closer-tour-2025/docks/3228492"
 full: true

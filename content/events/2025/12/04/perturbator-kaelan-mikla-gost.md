@@ -6,6 +6,8 @@ artists:
   - Gost
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/perturbator-fr-k-lan-mikla-is-gost-us-/docks/3290193"
 ---

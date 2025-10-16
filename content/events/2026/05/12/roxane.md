@@ -4,4 +4,6 @@ artists:
   - Roxane
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 ---

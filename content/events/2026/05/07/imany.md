@@ -4,6 +4,8 @@ artists:
   - Imany
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/imany-fr-/docks/3517529"
 ---

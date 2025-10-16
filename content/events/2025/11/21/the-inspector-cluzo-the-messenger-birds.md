@@ -5,6 +5,8 @@ artists:
   - The Messenger Birds
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/the-inspector-cluzo-fr-/docks/3246828"
 ---

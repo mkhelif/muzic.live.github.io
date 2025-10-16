@@ -4,6 +4,8 @@ artists:
   - Hammerfall
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/hammerfall-se-/docks/3482420"
 ---

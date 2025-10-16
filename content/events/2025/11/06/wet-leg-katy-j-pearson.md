@@ -5,6 +5,8 @@ artists:
   - Katy J Pearson
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/wet-leg-uk-katy-j-pearson-uk-/docks/3425965"
 full: true

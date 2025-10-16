@@ -4,6 +4,8 @@ artists:
   - Yuston XIII
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/yuston-xiii-fr-/docks/3510421"
 ---

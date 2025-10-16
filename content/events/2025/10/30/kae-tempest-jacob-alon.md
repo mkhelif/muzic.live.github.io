@@ -5,6 +5,8 @@ artists:
   - Jacob Alon
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/kae-tempest-uk-jacob-ablon-uk-/docks/3414069"
 ---

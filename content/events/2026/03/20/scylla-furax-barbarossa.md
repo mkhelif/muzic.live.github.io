@@ -4,6 +4,8 @@ artists:
   - Scylla & Furax Barbarossa
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/scylla-furax-barbarossa-be-fr-/docks/3513279"
 ---

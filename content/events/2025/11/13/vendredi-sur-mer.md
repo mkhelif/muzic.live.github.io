@@ -4,6 +4,8 @@ artists:
   - Vendredi sur Mer
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/vendredi-sur-mer-fr-/docks/3256400"
 ---

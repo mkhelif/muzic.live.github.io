@@ -6,6 +6,8 @@ artists:
   - Silver Dust
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/coroner-ch-/docks/3390285"
 ---

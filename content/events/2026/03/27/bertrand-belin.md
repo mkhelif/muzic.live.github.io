@@ -4,6 +4,8 @@ artists:
   - Bertrand Belin
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/bertrand-belin-fr-/docks/3422133"
 ---

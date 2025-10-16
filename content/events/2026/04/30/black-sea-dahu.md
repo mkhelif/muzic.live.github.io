@@ -4,6 +4,8 @@ artists:
   - Black Sea Dahu
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/black-sea-dahu-ch-/docks/3422102"
 ---

@@ -4,6 +4,8 @@ artists:
   - Barbara Pravi
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/barbara-pravi-fr-/docks/3506221"
 ---

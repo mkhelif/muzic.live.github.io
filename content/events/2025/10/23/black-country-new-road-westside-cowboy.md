@@ -5,6 +5,8 @@ artists:
   - Westside Cowboy
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/black-country-new-road-uk-/docks/3290197"
 ---

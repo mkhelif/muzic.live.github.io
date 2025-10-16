@@ -5,6 +5,8 @@ artists:
   - Clara Kimera
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/iliona-be-/docks/3342927"
 ---

@@ -5,6 +5,8 @@ artists:
   - Lily Lyons
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/charlie-cunningham-uk-/docks/3403926"
 ---

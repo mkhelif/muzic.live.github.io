@@ -4,6 +4,8 @@ artists:
   - The Young Gods
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/the-young-gods-ch-/docks/3492059"
 ---

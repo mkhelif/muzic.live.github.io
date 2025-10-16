@@ -5,6 +5,8 @@ artists:
   - BRUIT
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/alcest-fr-support-bruit-fr-/docks/3353293"
 ---

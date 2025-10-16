@@ -4,6 +4,8 @@ artists:
   - Perceval
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/perceval-fr-/docks/3518423"
 ---

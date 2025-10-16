@@ -4,6 +4,8 @@ artists:
   - Sens Unik
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/sens-unik-ch-/docks/3501570"
 ---

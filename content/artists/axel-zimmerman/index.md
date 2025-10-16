@@ -7,6 +7,7 @@ socials:
   threads: "@axelzimmermanmusic"
   youtube: "@axelzimmerman"
   tidal: "19950526"
+  spotify: "3GDzngDYtIbipwZF0pi42y"
 ---
 
 Axel Zimmerman est un artiste français qui a su captiver l'attention du public avec son style musical unique, mêlant

@@ -5,6 +5,8 @@ artists:
   - Pinkshift
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/grandson-us-ca-/docks/3472407"
 ---

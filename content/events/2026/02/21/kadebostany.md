@@ -4,6 +4,8 @@ artists:
   - Kadebostany
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/kadebostany-ch-/docks/3443918"
 ---

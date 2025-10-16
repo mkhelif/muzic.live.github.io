@@ -4,6 +4,8 @@ artists:
   - Myd
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/myd-live-fr-/docks/3465617"
 ---

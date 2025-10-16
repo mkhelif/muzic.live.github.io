@@ -6,6 +6,8 @@ artists:
   - The Dead Sexy
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/kompromat-camilla-sparksss-the-dead-sexy/docks/3407538"
 full: true

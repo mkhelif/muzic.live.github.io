@@ -5,6 +5,8 @@ artists:
   - Palinstar
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/soap-skin-at-palinstar-ch-/docks/3407206"
 cancelled: true

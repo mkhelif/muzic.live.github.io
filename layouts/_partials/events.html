@@ -32,16 +32,12 @@
                                 <span><i class="fa fa-xs text-muted fa-map-marker-alt ms-1"></i></span>
                                 {{ range $index, $location := $page.GetTerms "locations" }}
                                     {{- $matched := false -}}
-                                    {{ range (where site.RegularPages "Section" "locations") }}
+                                    {{- range (where site.RegularPages "Section" "locations") -}}
                                         {{ if (eq $location.LinkTitle .LinkTitle) }}
                                             {{- $matched = true -}}
-                                            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,
-                                            {{ range $index, $term := .GetTerms "locations" }}
-                                                {{- if (gt $index 0) }}, {{ end -}}
-                                                <a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>
-                                            {{- end }}
-                                        {{ end }}
-                                    {{ end }}
+                                            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                                        {{- end -}}
+                                    {{- end -}}
                                     {{- if not $matched -}}
                                         {{- if (gt $index 0) }}, {{ end -}}
                                         {{- $location.LinkTitle -}}

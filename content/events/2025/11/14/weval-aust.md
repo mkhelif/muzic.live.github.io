@@ -5,6 +5,8 @@ artists:
   - Aust
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/weval-nl-/docks/3420206"
 ---

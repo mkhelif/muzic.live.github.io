@@ -4,6 +4,8 @@ artists:
   - Saya Gray
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/saya-gray-ca-/docks/3429837"
 ---

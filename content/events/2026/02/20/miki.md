@@ -4,6 +4,8 @@ artists:
   - Miki
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/miki-fr-/docks/3414979"
 ---

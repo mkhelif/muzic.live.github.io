@@ -4,6 +4,8 @@ artists:
   - Portugal. The Man
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/portugal-the-man-us-/docks/3494929"
 ---

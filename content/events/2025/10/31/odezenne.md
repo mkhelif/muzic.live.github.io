@@ -4,6 +4,8 @@ artists:
   - Odezenne
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/odezenne-fr-/docks/3403459"
 full: true

@@ -5,6 +5,8 @@ artists:
   - Alex Montembault
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/solann-fr-/docks/3196481"
 full: true

@@ -4,6 +4,8 @@ artists:
   - Menace Santana
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/menace-santana-fr-/docks/3518562"
 ---

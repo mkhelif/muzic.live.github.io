@@ -4,6 +4,8 @@ artists:
   - ISHA et Limsa d’Aulnay
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/isha-limsa-be-fr-/docks/3246822"
 ---

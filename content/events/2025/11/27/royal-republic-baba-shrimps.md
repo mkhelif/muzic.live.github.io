@@ -5,6 +5,8 @@ artists:
   - Baba Shrimps
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/royal-republic-se-/docks/3453089"
 ---

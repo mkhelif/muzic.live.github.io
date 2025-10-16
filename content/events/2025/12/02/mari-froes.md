@@ -4,6 +4,8 @@ artists:
   - Mari Froes
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/mari-froes-br-/docks/3476322"
 ---

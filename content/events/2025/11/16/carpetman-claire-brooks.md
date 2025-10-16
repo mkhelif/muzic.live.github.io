@@ -5,6 +5,8 @@ artists:
   - Claire Brooks
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/carpetman-ua-/docks/3440047"
 ---

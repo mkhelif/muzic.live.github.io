@@ -6,6 +6,8 @@ artists:
   - Jesus on Extasy
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/kmfdm-de-i-ya-toyah-us-/docks/3463728"
 ---

@@ -4,6 +4,8 @@ artists:
   - The Avener
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/the-avener-fr-/docks/3505820"
 ---

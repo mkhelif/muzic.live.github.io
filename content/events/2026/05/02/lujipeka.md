@@ -4,6 +4,8 @@ artists:
   - Lujipeka
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/lujipeka-fr-/docks/3495963"
 ---

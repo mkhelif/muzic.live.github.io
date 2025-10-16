@@ -4,6 +4,8 @@ artists:
   - Labor X
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/labor-x/docks/3463579"
 ---

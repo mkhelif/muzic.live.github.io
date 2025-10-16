@@ -4,4 +4,6 @@ artists:
   - Stain of Light
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 ---

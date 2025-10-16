@@ -4,6 +4,8 @@ artists:
   - Mosimann
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/mosimann-live-ch-fr-/docks/3510447"
 ---

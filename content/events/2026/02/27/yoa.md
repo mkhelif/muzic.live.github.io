@@ -4,6 +4,8 @@ artists:
   - Yoa
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/yoa-fr-ch-/docks/3481363"
 ---

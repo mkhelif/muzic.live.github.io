@@ -5,6 +5,8 @@ artists:
   - Prune Carmen Diaz
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/elie-zoe-prune-carmen-diaz-ch-/docks/3419726"
 ---

@@ -5,6 +5,8 @@ artists:
   - Harrison Storm
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/nick-mulvey-uk-/docks/3386132"
 ---

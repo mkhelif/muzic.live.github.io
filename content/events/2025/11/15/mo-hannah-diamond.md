@@ -5,6 +5,8 @@ artists:
   - Hannah Diamond
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/mo-dk-/docks/3427178"
 ---

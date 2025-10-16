@@ -10,6 +10,7 @@ socials:
   youtube: "@BigfloetOli"
   web: "https://bigfloetoli.show"
   tidal: "5395754"
+  spotify: "5mmEMfYChd6MImBagU7zCs"
 ---
 
 BigFlo & Oli est un duo de rap français formé par les frères Florian et Olivio Ordonez, originaires de Toulouse.

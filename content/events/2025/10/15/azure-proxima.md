@@ -5,4 +5,6 @@ artists:
   - Proxima
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 ---

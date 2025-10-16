@@ -5,6 +5,8 @@ artists:
   - Nonpoint
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/lacuna-coil-it-/docks/3294523"
 ---

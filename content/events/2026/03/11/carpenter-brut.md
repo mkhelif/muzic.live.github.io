@@ -4,6 +4,8 @@ artists:
   - Carpenter Brut
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/carpenter-brut-fr-/docks/3440077"
 ---
