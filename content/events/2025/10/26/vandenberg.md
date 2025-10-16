@@ -4,4 +4,6 @@ artists:
   - Adrian Vandenberg
 locations:
   - Venue23
+  - Wakefield
+  - Royaume-Uni
 ---

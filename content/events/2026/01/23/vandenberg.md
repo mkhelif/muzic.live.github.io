@@ -4,4 +4,6 @@ artists:
   - Adrian Vandenberg
 locations:
   - Frimis
+  - Örebro
+  - Suède
 ---

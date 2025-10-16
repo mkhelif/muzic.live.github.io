@@ -4,4 +4,6 @@ artists:
   - Adrian Vandenberg
 locations:
   - Dreamland
+  - Margate
+  - Royaume-Uni
 ---

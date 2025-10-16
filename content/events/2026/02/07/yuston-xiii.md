@@ -4,4 +4,6 @@ artists:
   - Yuston XIII
 locations:
   - Zénith Paris - La Villette
+  - Paris
+  - France
 ---

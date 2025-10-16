@@ -4,4 +4,6 @@ artists:
   - Yuston XIII
 locations:
   - La Coopérative de Mai
+  - Clermont-Ferrand
+  - France
 ---

@@ -4,4 +4,6 @@ artists:
   - Yuston XIII
 locations:
   - La Sirène
+  - La Rochelle
+  - France
 ---

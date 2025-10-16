@@ -4,4 +4,6 @@ artists:
   - Yuston XIII
 locations:
   - Le 106
+  - Rouen
+  - France
 ---

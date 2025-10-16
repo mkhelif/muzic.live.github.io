@@ -4,4 +4,6 @@ artists:
   - Yuston XIII
 locations:
   - Le Point d'Eau
+  - Ostwald
+  - France
 ---

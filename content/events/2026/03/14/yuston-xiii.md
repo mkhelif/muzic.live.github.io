@@ -4,4 +4,6 @@ artists:
   - Yuston XIII
 locations:
   - L'Autre Canal
+  - Nancy
+  - France
 ---

@@ -4,4 +4,6 @@ artists:
   - Yuston XIII
 locations:
   - MTELUS
+  - Montréal
+  - Canada
 ---
