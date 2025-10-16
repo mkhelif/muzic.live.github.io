@@ -9,6 +9,7 @@ socials:
   youtube: "@atoem_official"
   web: "https://atoemmusic.com/"
   tidal: "9206145"
+  spotify: "3h1CDf5DWhsGXMsefho0X6"
 ---
 
 ATOEM est un projet musical français qui émerge sur la scène électronique hexagonale avec une approche moderne des

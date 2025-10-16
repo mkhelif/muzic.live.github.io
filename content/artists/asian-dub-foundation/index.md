@@ -10,6 +10,7 @@ socials:
   bandcamp: "asiandubfoundation"
   web: "https://www.asiandubfoundation.com"
   tidal: "10586"
+  spotify: "2EeUsNnv2BcVIGhBZ5SV8z"
 ---
 
 Asian Dub Foundation est un groupe britannique formé à Londres en 1993, né de la rencontre entre musiciens d'origines
