@@ -42,7 +42,7 @@ var filename = Array(artist, ...supports)
 ;
 
 // Generate content
-copy(`cat <<EOF > "${directory}/${filename}.md"
+copy(`mkdir -p "${directory}" && cat <<EOF > "${directory}/${filename}.md"
 ---
 eventDate: "${datetime}"
 artists:
