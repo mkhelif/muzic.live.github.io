@@ -130,13 +130,14 @@ if __name__ == '__main__':
 
                 filename = "-".join(re.sub('-{2,}', '-', re.sub('[^a-z0-9]', '-', artist.lower())) for artist in concert['artists']) + ".md"
                 event = Path(f"./content/events/{date.year}/{date.month:02d}/{date.day:02d}/{filename}")
-                event.write_text(("---"
-                   f"eventDate: \"{concert['date']}\""
-                    "artists:"
-                   f"  - {artists_list}"
-                    "locations:"
-                   f"  - {concert['location']}"
-                    "---"
-                    ""), encoding = "UTF-8")
+                event.write_text(f"""\
+---
+eventDate: "{date.isoformat()}"
+artists:
+  - {artists_list}
+locations:
+  - {concert['location']}
+---
+""", encoding = "UTF-8")
         except Exception as e:
             print(e)
