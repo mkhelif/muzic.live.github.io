@@ -35,12 +35,13 @@ DEFAULT_HEADERS = {
 }
 
 # Utility functions
-def get_artist_concerts(spotifyId):
+def get_artist_concerts(spotify_id):
+    print(f"  - Fetching concerts {spotify_id}")
     response = requests.post(
         'https://api-partner.spotify.com/pathfinder/v2/query',
         json = {
             "variables": {
-                "artistUri": f"spotify:artist:{spotifyId}",
+                "artistUri": f"spotify:artist:{spotify_id}",
                 "geoHash": None,
                 "includeNearby": False
             },
@@ -58,18 +59,18 @@ def get_artist_concerts(spotifyId):
         raise Exception(f"Failed to fetch concerts ({response.status_code})")
 
     # For each concert, load its details
-    concerts = []
-    content = response.json()
-    for concert in content['data']['concerts']['concerts']['items']:
-        concerts.append(get_concert(concert['data']['uri']))
-    return concerts
+    concerts_list = []
+    for concert_info in response.json()['data']['concerts']['concerts']['items']:
+        concerts_list.append(get_concert(concert_info['data']['uri']))
+    return concerts_list
 
-def get_concert(concertUri):
+def get_concert(concert_uri):
+    print(f"  - Fetching concert details {concert_uri}")
     response = requests.post(
         'https://api-partner.spotify.com/pathfinder/v2/query',
         json = {
             "variables": {
-                "uri": concertUri,
+                "uri": concert_uri,
                 "authenticated": False
             },
             "operationName": "concert",
@@ -88,20 +89,16 @@ def get_concert(concertUri):
     content = response.json()
 
     # Retrieve concert information
-    concert = {
-        "date": content['data']['concert']['startDateIsoString'],
-        "location": content['data']['concert']['venue']['name'],
-        "artists": []
-    }
+    concert_details = {}
+    concert_details["date"] = content['data']['concert']['startDateIsoString']
+    concert_details["location"] = content['data']['concert']['location']['name']
+    concert_details["artists"] = []
 
     # Compute artists list
-    for artist in content['data']['concert']['artists']['items']:
-        concert['artists'].append(artist['data']['profile']['name'])
+    for concert_artist in content['data']['concert']['artists']['items']:
+        concert_details['artists'].append(concert_artist['data']['profile']['name'])
 
-    # Fetch festival information?
-    # TODO
-
-    return concert
+    return concert_details
 
 #
 # The script will go through all artists declared
@@ -124,21 +121,22 @@ if __name__ == '__main__':
         try:
             concerts = get_artist_concerts(spotifyId)
             for concert in concerts:
-                date = datetime.fromisoformat(concert.date)
+                date = datetime.fromisoformat(concert['date'])
+                artists_list = (""
+                                "  - ".join(concert['artists']))
 
                 directory = Path(f"./content/events/{date.year}/{date.month:02d}/{date.day:02d}")
                 directory.mkdir(parents = True, exist_ok = True)
 
-                filename = "-".join(re.sub('-{2,}', '-', re.sub('[^a-z0-9]', '-', artist.lower())) for _, artist in concert['artists']) + ".md"
+                filename = "-".join(re.sub('-{2,}', '-', re.sub('[^a-z0-9]', '-', artist.lower())) for artist in concert['artists']) + ".md"
                 event = Path(f"./content/events/{date.year}/{date.month:02d}/{date.day:02d}/{filename}")
-                event.write_text(f"""---
-                eventDate: "{concert.date}"
-                artists:
-                  - {""
-                   "  - ".join(concert.artists)}
-                locations:
-                  - {concert.location}
-                ---
-                """, encoding = "UTF-8")
+                event.write_text(("---"
+                   f"eventDate: \"{concert['date']}\""
+                    "artists:"
+                   f"  - {artists_list}"
+                    "locations:"
+                   f"  - {concert['location']}"
+                    "---"
+                    ""), encoding = "UTF-8")
         except Exception as e:
             print(e)
