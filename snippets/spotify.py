@@ -36,7 +36,6 @@ DEFAULT_HEADERS = {
 
 # Utility functions
 def get_artist_concerts(spotify_id):
-    print(f"  - Fetching concerts {spotify_id}")
     response = requests.post(
         'https://api-partner.spotify.com/pathfinder/v2/query',
         json = {
@@ -65,7 +64,6 @@ def get_artist_concerts(spotify_id):
     return concerts_list
 
 def get_concert(concert_uri):
-    print(f"  - Fetching concert details {concert_uri}")
     response = requests.post(
         'https://api-partner.spotify.com/pathfinder/v2/query',
         json = {
@@ -130,7 +128,8 @@ if __name__ == '__main__':
 
                 filename = "-".join(re.sub('-{2,}', '-', re.sub('[^a-z0-9]', '-', artist.lower())) for artist in concert['artists']) + ".md"
                 event = Path(f"./content/events/{date.year}/{date.month:02d}/{date.day:02d}/{filename}")
-                event.write_text(f"""\
+                if not event.exists():
+                  event.write_text(f"""\
 ---
 eventDate: "{date.isoformat()}"
 artists:
