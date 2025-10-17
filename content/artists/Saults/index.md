@@ -9,4 +9,5 @@ socials:
   youtube: "@SaultsMusic"
   web: "https://www.saultsmusic.com/"
   tidal: "15826925"
+  spotify: "0v3GJQVtEdCbwnKpCUwOE8"
 ---

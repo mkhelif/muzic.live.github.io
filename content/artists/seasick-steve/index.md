@@ -9,6 +9,7 @@ socials:
   youtube: "@SeasickSteve"
   web: "https://www.seasicksteve.com"
   tidal: "23477"
+  spotify: "6OVkHZQP8QoBYqr1ejCGDv"
 ---
 
 Seasick Steve, de son vrai nom Steven Gene Wold, est un musicien américain né dans l'Ohio, qui développe son approche

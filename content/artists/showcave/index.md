@@ -6,4 +6,5 @@ socials:
   instagram: "showcave_band"
   threads: "@showcave_band"
   youtube: "@showcave_band"
+  spotify: "36G6hW5pAdoHcJav1ua15h"
 ---

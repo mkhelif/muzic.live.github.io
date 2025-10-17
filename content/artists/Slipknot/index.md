@@ -9,6 +9,7 @@ socials:
   youtube: "@slipknot"
   web: "https://www.slipknot1.com"
   tidal: "37277"
+  spotify: "05fG473iIaoy82BF1aGhL8"
 ---
 
 Slipknot émerge des entrailles de Des Moines, Iowa, en 1995, dans un contexte de contre-culture underground américaine.

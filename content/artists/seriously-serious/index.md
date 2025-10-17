@@ -8,4 +8,5 @@ socials:
   youtube: "@SeriouslySerious"
   web: "https://www.seriously-serious.com/"
   tidal: "8603188"
+  spotify: "0Sek1oG1xrjFtagNRmy9BF"
 ---

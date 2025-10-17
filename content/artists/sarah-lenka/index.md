@@ -7,4 +7,5 @@ socials:
   youtube: "@SarahLenkamusic"
   web: "https://www.sarahlenka.com/"
   tidal: "4667263"
+  spotify: "3M76tBXJOda2p2tIGxNcB7"
 ---
