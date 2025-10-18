@@ -7,6 +7,7 @@ socials:
   bandcamp: "madam"
   youtube: "@madamofficiel"
   tidal: "3521240"
+  spotify: "6JbwGT0YARZ43pze31ST8h"
 ---
 
 Au départ, il n'y avait rien. Les trois musiciennes ne se connaissaient pas et se sont rencontrées pour monter le
