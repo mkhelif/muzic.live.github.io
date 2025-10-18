@@ -1,8 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//{{ site.Title }}//NONSGML v1.0//EN
-X-WR-CALNAME:{{ .Title }}
-NAME:{{ .Title }}
+{{- $title := printf "%s | %s" site.Title .LinkTitle -}}
+PRODID:-//{{ $title }}//NONSGML v1.0//EN
+X-WR-CALNAME:{{ $title }}
+NAME:{{ $title }}
 REFRESH-INTERVAL;VALUE=DURATION:P3H
 CALSCALE:GREGORIAN
 {{- if eq .Section "artists" -}}
