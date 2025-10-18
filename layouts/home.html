@@ -1,9 +1,11 @@
 {{ define "main" }}
+    {{- $highlights := slice -}}
     <div class="w-100" data-pagefind-ignore="all">
         <div id="carousel-recent-news" class="glide">
             <div class="glide__track" data-glide-el="track">
                 <ul class="glide__slides align-items-center">
-                    {{ range (where site.RegularPages "Section" "news").Limit 5 }}
+                    {{ range (where (where site.RegularPages "Section" "news") "Params.hero" "ne" nil).Limit 5 }}
+                        {{ $highlights = $highlights | append .RelPermalink }}
                         <li class="glide__slide text-center mh-100 mw-100">
                             <a href="{{ .RelPermalink }}">
                                 <img src="{{ urls.JoinPath .Path .Params.hero | absURL | safeURL }}" alt="{{ .Title }}" width="100%" style="max-width: 1200px">
@@ -40,14 +42,17 @@
     <div class="container mt-4" data-pagefind-ignore="all">
         <!-- Other news -->
         <div class="row">
-            {{ range (after 5 (where site.RegularPages "Section" "news")).Limit 16 }}
-            <div class="col-12 col-sm-6 col-md-3 news-card mb-4">
-                <a href="{{ .RelPermalink }}" class="d-block position-relative">
-                    <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .Title }}" width="100%" class="news-image rounded-1 mw-100">
+            {{ range $index, $page := (where site.RegularPages "Section" "news") }}
+                {{ if in $highlights $page.RelPermalink }}
+                    {{ continue }}
+                {{ end }}
+                <div class="col-12 col-sm-6 col-md-3 news-card mb-4">
+                    <a href="{{ .RelPermalink }}" class="d-block position-relative">
+                        <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .Title }}" width="100%" class="news-image rounded-1 mw-100">
 
-                    <h5 class="news-title">{{ .Title }}</h5>
-                </a>
-            </div>
+                        <h5 class="news-title">{{ .Title }}</h5>
+                    </a>
+                </div>
             {{ end }}
         </div>
 
