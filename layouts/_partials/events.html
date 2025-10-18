@@ -1,5 +1,10 @@
 <div data-pagefind-ignore="all">
-    <h4 class="mt-5 mb-3 p-3 bg-primary text-dark">Concerts à venir</h4>
+    <h4 class="mt-5 mb-3 p-3 bg-primary text-dark position-relative">
+        Concerts à venir
+        <a href="{{ .RelPermalink }}/calendar.ics" class="d-block position-absolute top-50 end-0 translate-middle-y text-dark me-3">
+            <i class="fa fa-calendar"></i>
+        </a>
+    </h4>
     {{ $count := 0 }}
     <table class="table table-sm table-borderless">
         <thead>

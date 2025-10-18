@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//{{ site.Title }}//NONSGML v1.0//EN
+X-WR-CALNAME:{{ .Title }}
+NAME:{{ .Title }}
+REFRESH-INTERVAL;VALUE=DURATION:P3H
+CALSCALE:GREGORIAN
+{{- if eq .Section "artists" -}}
+    {{- partial "events.ics" (dict "context" . "term" "artists" "filter" .Title) -}}
+{{- else if eq .Section "festivals" -}}
+    {{- partial "events.ics" (dict "context" . "term" "festivals" "filter" .Title) -}}
+{{- else if eq .Section "locations" -}}
+    {{- partial "events.ics" (dict "context" . "term" "locations" "filter" .Title) -}}
+{{- end }}
+END:VCALENDAR

@@ -1,0 +1,24 @@
+{{- $format := "20060102T150405Z" -}}
+{{- range (where site.RegularPages "Section" "events") -}}
+    {{- $event := . -}}
+    {{- range $event.GetTerms $.term -}}
+        {{- if eq .LinkTitle $.filter -}}
+BEGIN:VEVENT
+UID:{{ hash.XxHash $event.RelPermalink }}
+DTSTAMP:{{ ($event.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $format }}
+DTSTART:{{ ($event.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $format }}
+DTEND:{{ ($event.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $format }}
+SUMMARY:{{- range $index, $artist := $event.Params.artists -}}
+    {{- if gt $index 0 -}}, {{ end -}}{{- $artist | safeHTML -}}
+{{ end }}
+LOCATION:{{- range $location := $event.GetTerms "locations" -}}
+    {{- range (where site.RegularPages "Section" "locations") -}}
+        {{- if (eq $location.LinkTitle .LinkTitle) -}}
+            {{- .LinkTitle -}}\, {{ replace .Params.address "," "\\," -}}
+        {{- end -}}
+    {{- end -}}
+{{- end }}
+END:VEVENT
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
