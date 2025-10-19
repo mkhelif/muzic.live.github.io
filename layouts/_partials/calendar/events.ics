@@ -1,0 +1,8 @@
+{{- range (where site.RegularPages "Section" "events") -}}
+    {{- $event := . -}}
+    {{- range $event.GetTerms $.term -}}
+        {{- if eq .LinkTitle $.filter -}}
+            {{- partial "calendar/event.ics" $event -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}

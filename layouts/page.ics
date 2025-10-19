@@ -1,16 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-{{- $title := printf "%s | %s" site.Title .LinkTitle -}}
+{{ $title := printf "%s | %s" site.Title .LinkTitle -}}
 PRODID:-//{{ $title }}//NONSGML v1.0//EN
 X-WR-CALNAME:{{ $title }}
 NAME:{{ $title }}
 REFRESH-INTERVAL;VALUE=DURATION:P3H
 CALSCALE:GREGORIAN
-{{- if eq .Section "artists" -}}
-    {{- partial "events.ics" (dict "context" . "term" "artists" "filter" .Title) -}}
+{{ if eq .Section "artists" -}}
+    {{- partial "calendar/events.ics" (dict "context" . "term" "artists" "filter" .Title) -}}
 {{- else if eq .Section "festivals" -}}
-    {{- partial "events.ics" (dict "context" . "term" "festivals" "filter" .Title) -}}
+    {{- partial "calendar/events.ics" (dict "context" . "term" "festivals" "filter" .Title) -}}
 {{- else if eq .Section "locations" -}}
-    {{- partial "events.ics" (dict "context" . "term" "locations" "filter" .Title) -}}
-{{- end }}
-END:VCALENDAR
+    {{- partial "calendar/events.ics" (dict "context" . "term" "locations" "filter" .Title) -}}
+{{- end -}}
+END:VCALENDAR{{- /**/ -}}

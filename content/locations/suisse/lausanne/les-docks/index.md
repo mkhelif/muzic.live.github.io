@@ -2,6 +2,8 @@
 title: "Les Docks"
 cover: "cover.jpg"
 address: "Avenue de Sévelin 34, 1004 Lausanne, Suisse"
+latitude: "46.522434"
+longitude: "6.619295"
 locations:
   - Lausanne
   - Suisse
@@ -11,6 +13,8 @@ socials:
   youtube: "@DocksLausanne"
   x: "Docks_Lausanne"
   web: "https://www.docks.ch/"
+calendar:
+  apple: "CAES8wIIrk0Qpty/47udkqwuGhIJcCqtGt9CR0ARwkDGkih6GkAiwAEKC1N3aXR6ZXJsYW5kEgJDSBoOQ2FudG9uIG9mIFZhdWQiAlZEKghMYXVzYW5uZTIITGF1c2FubmU6BDEwMDRCEVJ1ZSBkZSBTw6liZWlsbG9uUhJBdmVudWUgZGUgU8OpdmVsaW5aAjM0YhVBdmVudWUgZGUgU8OpdmVsaW4gMzRyClPDqXZlbGluIEOKARFSdWUgZGUgU8OpYmVpbGxvbooBEVPDqWJlaWxsb24vTWFsbGV5igEITGF1c2FubmUqCUxlcyBEb2NrczIVQXZlbnVlIGRlIFPDqXZlbGluIDM0Mg0xMDA0IExhdXNhbm5lMgtTd2l0emVybGFuZDgvUAFaSwonCKbcv+O7nZKsLhISCXAqrRrfQkdAEcJAxpIoehpAGK5NkAMBmAMBoh8fCKbcv+O7nZKsLhoTCglMZXMgRG9ja3MQACoCZW5AAA=="
 ---
 
 Située à deux pas du Flon dans le quartier de Sévelin, la salle de concert Docks propose une scène dédiée aux musiques

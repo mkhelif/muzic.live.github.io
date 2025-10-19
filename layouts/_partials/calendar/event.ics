@@ -1,12 +1,4 @@
 {{- $format := "20060102T150405Z" -}}
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//{{ site.Title }}//NONSGML v1.0//EN
-X-WR-CALNAME:{{ site.Title }}
-NAME:{{ site.Title }}
-REFRESH-INTERVAL;VALUE=DURATION:P3H
-CALSCALE:GREGORIAN
-{{- range (where site.RegularPages "Section" "events") }}
 BEGIN:VEVENT
 UID:{{ hash.XxHash .RelPermalink }}
 DTSTAMP:{{ (.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $format }}
@@ -14,9 +6,7 @@ DTSTART:{{ (.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $form
 DTEND:{{ (.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $format }}
 SUMMARY:{{- range $index, $artist := .Params.artists -}}
     {{- if gt $index 0 -}}, {{ end -}}{{- $artist | safeHTML -}}
-{{- end -}}
-{{ partial "calendar/location.ics" . }}
-{{ partial "calendar/apple.ics" . }}
-END:VEVENT
 {{- end }}
-END:VCALENDAR
+LOCATION:{{- partial "calendar/location.ics" . }}
+{{- partial "calendar/apple.ics" . }}
+END:VEVENT
