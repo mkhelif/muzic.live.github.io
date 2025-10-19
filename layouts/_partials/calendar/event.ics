@@ -1,12 +1,13 @@
-{{- $format := "20060102T150405Z" -}}
 BEGIN:VEVENT
 UID:{{ hash.XxHash .RelPermalink }}
-DTSTAMP:{{ (.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $format }}
-DTSTART:{{ (.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $format }}
-DTEND:{{ (.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $format }}
-SUMMARY:{{- range $index, $artist := .Params.artists -}}
-    {{- if gt $index 0 -}}, {{ end -}}{{- $artist | safeHTML -}}
-{{- end }}
+{{ $eventDate := .Params.eventDate | time.AsTime -}}
+DTSTAMP:{{ partial "calendar/time.ics" $eventDate }}
+DTSTART:{{ partial "calendar/time.ics" $eventDate }}
+{{ $artistsCount := printf "%dh" (.Params.artists | len) -}}
+{{ $duration := time.ParseDuration $artistsCount -}}
+DTEND:{{ partial "calendar/time.ics" ($eventDate.Add $duration) }}
+SUMMARY:{{ partial "calendar/artists.ics" . }}
+DESCRIPTION:{{ partial "calendar/artists.ics" . }}
 LOCATION:{{- partial "calendar/location.ics" . }}
 {{- partial "calendar/apple.ics" . }}
 END:VEVENT

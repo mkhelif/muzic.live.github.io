@@ -1,0 +1,2 @@
+{{- $format := "20060102T150405Z" -}}
+{{- (. | time.In "UTC") | time.Format $format -}}

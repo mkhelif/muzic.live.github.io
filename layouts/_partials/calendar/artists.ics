@@ -1,0 +1,3 @@
+{{- range $index, $artist := .Params.artists -}}
+    {{- if gt $index 0 -}}, {{ end -}}{{- $artist | safeHTML -}}
+{{- end -}}
