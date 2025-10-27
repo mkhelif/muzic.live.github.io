@@ -1,0 +1,25 @@
+{{- $location := "" -}}
+{{- $latitude := "" -}}
+{{- $longitude := "" -}}
+{{- range $term := .GetTerms "locations" -}}
+    {{- range (where site.RegularPages "Section" "locations") -}}
+        {{- if and (eq $term.LinkTitle .LinkTitle) -}}
+            {{- with .Params.calendar -}}
+                {{- $location = cond $location $location .apple -}}
+            {{- end -}}
+            {{- if and (ne .Params.latitude "") (ne .Params.longitude "") -}}
+                {{- $latitude  = cond $latitude  $latitude  .Params.latitude -}}
+                {{- $longitude = cond $longitude $longitude .Params.longitude -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+X-APPLE-STRUCTURED-LOCATION;
+{{- /**/ -}}    VALUE=URI;
+{{- /**/ -}}    X-APPLE-REFERENCEFRAME=0;
+{{- /**/ -}}    X-APPLE-RADIUS=140;
+{{- /**/ -}}    X-APPLE-MAPKIT-HANDLE="{{ $location }}";
+{{- /**/ -}}    X-TITLE="{{ partial "calendar/location.ics" . }}"
+{{- if and (ne $latitude "") (ne $longitude "") -}}
+    :geo{{ $latitude }},{{ $longitude }}
+{{- end -}}

@@ -14,3 +14,20 @@ artists:
   - Prune Carmen Diaz
 ---
 
+
+### prune Carmen Diaz
+Clavier, basse, batterie et voix
+Concert super intimiste
+Alvin schare
+Schiavi mesmer
+Felix?
+Nouvel album sorti il y a quelques jours
+Disobedience
+Formule live intimiste qui fait penser à un concert dans son salon
+
+#### Elie Zoé
+Fred burki batterie
+"Change my name"
+2 sur scène, batteur/clavier et iel guitare/clavier/voix
+Messages vocaux, plus qu'un concert, une expérience à vivre
+Alterne entre rock, folk
