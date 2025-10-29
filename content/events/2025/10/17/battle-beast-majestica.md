@@ -7,4 +7,5 @@ locations:
   - Fabrik
   - Hambourg
   - Allemagne
+full: true
 ---
