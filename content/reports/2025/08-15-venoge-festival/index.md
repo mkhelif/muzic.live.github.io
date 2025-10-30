@@ -1,9 +1,8 @@
 ---
-draft: true
 date: "2025-08-15T17:30:00+02:00"
 title: "Venoge Festival 2025 - Jour 3 - Vendredi sur Mer, Sens Unik, Bon Entendeur, BigFlo & Oli, Vladimir Cauchemar, Jason Derulo, DJ Bens"
 author: "mkhelif"
-cover: "pictures/"
+cover: "pictures/jason-derulo/11.jpg"
 rank: 10
 locations:
   - Penthaz
@@ -31,8 +30,8 @@ L'ancienne photographe transformée en chanteuse confirme sa singularité esthé
 des draps blancs tendus dessinent des montagnes abstraites en fond de scène. Cette approche visuelle minimaliste reflète
 parfaitement son univers musical, né de la composition de bandes-son pour ses propres clichés photographiques.
 Accompagnée d'une formation réduite - batterie, guitare et piano - elle prouve que la nouvelle chanson française peut
-s'affranchir des artifices pour retrouver une essence poétique authentique. Son chanté-parlé singulier, hérité de ses "
-Premiers émois", dialogue avec l'approche plus brutale de "Métamorphose", révélant une artiste capable d'évoluer sans
+s'affranchir des artifices pour retrouver une essence poétique authentique. Son chanté-parlé singulier, hérité de ses
+"Premiers émois", dialogue avec l'approche plus brutale de "Métamorphose", révélant une artiste capable d'évoluer sans
 trahir son identité. Cette synthèse entre influences techno et tradition française témoigne d'une génération qui refuse
 les cloisonnements esthétiques, préférant puiser dans tous les réservoirs sonores pour construire sa propre langue
 musicale.
@@ -56,8 +55,8 @@ héritages artistiques transcendent les modes et les générations.
 Le duo attire un public plus jeune, révélant l'efficacité de leur concept : faire dialoguer les époques à travers des
 samples et des collaborations intergénérationnelles. Leur approche de l'électro-pop française, qui puise dans les
 archives de la chanson hexagonale pour les réactualiser avec des productions contemporaines, séduit une génération
-nourrie aux playlists algorithmiques. Cette esthétique du recyclage intelligent, déjà éprouvée sur "Aller-Retour" et "
-Minuit", trouve avec "Rivages" une nouvelle dimension méditerranéenne qui élargit leur palette sonore. Bon Entendeur
+nourrie aux playlists algorithmiques. Cette esthétique du recyclage intelligent, déjà éprouvée sur "Aller-Retour" et 
+"Minuit", trouve avec "Rivages" une nouvelle dimension méditerranéenne qui élargit leur palette sonore. Bon Entendeur
 incarne parfaitement cette époque où la nostalgie devient matériau créatif, transformant l'archive en inspiration pour
 produire une musique résolument actuelle.
 
@@ -86,7 +85,7 @@ totale où le son devient matière physique, transformant le concert en installa
 
 {{< carousel pictures="pictures/jason-derulo" alt="Jason Derulo" author="mkhelif.photo" >}}
 
-Bigflo et Oli assis dans la fosse pour profiter du spectacle : même les têtes d'affiche françaises reconnaissent la
+BigFlo & Oli assis dans la fosse pour profiter du spectacle : même les têtes d'affiche françaises reconnaissent la
 maîtrise du show business américain. Danseuses en sous-vêtements, quatre breakdanceurs champions du monde (The Twins),
 quatre poupées géantes gonflables : le spectacle égale le chant dans cette démonstration d'entertainment formaté. Star
 de TikTok avec 56 millions de followers, Jason Derulo incarne parfaitement cette époque où l'artiste devient marque
