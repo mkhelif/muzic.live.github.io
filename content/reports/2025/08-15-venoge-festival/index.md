@@ -1,6 +1,6 @@
 ---
 date: "2025-08-15T17:30:00+02:00"
-title: "Venoge Festival 2025 - Jour 3 - Vendredi sur Mer, Sens Unik, Bon Entendeur, BigFlo & Oli, Vladimir Cauchemar, Jason Derulo, DJ Bens"
+title: "Venoge Festival 2025 - Jour 3 - Vendredi sur Mer, Sens Unik, Bon Entendeur, Bigflo & Oli, Vladimir Cauchemar, Jason Derulo, DJ Bens"
 author: "mkhelif"
 cover: "pictures/jason-derulo/11.jpg"
 rank: 10
@@ -13,7 +13,7 @@ artists:
   - Vendredi sur Mer
   - Sens Unik
   - Bon Entendeur
-  - BigFlo & Oli
+  - Bigflo & Oli
   - Vladimir Cauchemar
   - Jason Derulo
   - DJ Bens
@@ -85,7 +85,7 @@ totale où le son devient matière physique, transformant le concert en installa
 
 {{< carousel pictures="pictures/jason-derulo" alt="Jason Derulo" author="mkhelif.photo" >}}
 
-BigFlo & Oli assis dans la fosse pour profiter du spectacle : même les têtes d'affiche françaises reconnaissent la
+Bigflo & Oli assis dans la fosse pour profiter du spectacle : même les têtes d'affiche françaises reconnaissent la
 maîtrise du show business américain. Danseuses en sous-vêtements, quatre breakdanceurs champions du monde (The Twins),
 quatre poupées géantes gonflables : le spectacle égale le chant dans cette démonstration d'entertainment formaté. Star
 de TikTok avec 56 millions de followers, Jason Derulo incarne parfaitement cette époque où l'artiste devient marque
