@@ -1,6 +1,6 @@
 {{ define "main" }}
     {{- $highlights := slice -}}
-    <div class="w-100" data-pagefind-ignore="all">
+    <div class="w-100 d-none d-md-block" data-pagefind-ignore="all">
         <div id="carousel-recent-news" class="glide">
             <div class="glide__track" data-glide-el="track">
                 <ul class="glide__slides align-items-center">
@@ -43,10 +43,8 @@
         <!-- Other news -->
         <div class="row">
             {{ range $index, $page := (where site.RegularPages "Section" "news") }}
-                {{ if in $highlights $page.RelPermalink }}
-                    {{ continue }}
-                {{ end }}
-                <div class="col-12 col-sm-6 col-md-3 news-card mb-4">
+                {{ $visibility := cond (in $highlights $page.RelPermalink) "d-block d-md-none" "" }}
+                <div class="col-12 col-sm-6 col-md-3 news-card mb-4 {{ $visibility }}">
                     <a href="{{ .RelPermalink }}" class="d-block position-relative">
                         <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .Title }}" width="100%" class="news-image rounded-1 mw-100">
 
