@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Kae Tempest"
 cover: "cover.jpg"
 socials:

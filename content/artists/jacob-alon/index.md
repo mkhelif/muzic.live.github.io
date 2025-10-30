@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Jacob Alon"
 cover: "cover.jpg"
 socials:

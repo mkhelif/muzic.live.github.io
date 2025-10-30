@@ -9,4 +9,5 @@ locations:
   - Suisse
 tickets:
   seetickets: "/ch/event/kae-tempest-uk-jacob-ablon-uk-/docks/3414069"
+full: true
 ---
