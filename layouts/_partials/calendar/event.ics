@@ -3,7 +3,7 @@ UID:{{ hash.XxHash .RelPermalink }}
 {{ $eventDate := .Params.eventDate | time.AsTime -}}
 DTSTAMP:{{ partial "calendar/time.ics" $eventDate }}
 DTSTART:{{ partial "calendar/time.ics" $eventDate }}
-{{ $artistsCount := printf "%dh" (.Params.artists | len) -}}
+{{ $artistsCount := printf "%dh" (cond (.Param "artists") (.Params.artists | len) 0) -}}
 {{ $duration := time.ParseDuration $artistsCount -}}
 DTEND:{{ partial "calendar/time.ics" ($eventDate.Add $duration) }}
 SUMMARY:{{ partial "calendar/artists.ics" . }}

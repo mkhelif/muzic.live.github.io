@@ -32,7 +32,7 @@ fidélisation remarquable du public et la reconnaissance croissante du festival 
 
 La richesse artistique du Poprock Festival se révèle à travers une programmation impressionnante qui a accueilli
 Astonvilla, Holyfield, Cali, BB Brunes, Gerald de Palmas, Michael Jones, Phanee de Pool, Bokassa, DeWolff, Soan,
-Dropdead Chaos, Charlie Winston, Broken Back, Stuck In The Sound, SOEN, Eagle-Eye Cherry et bien d'autres. Cette
+Dropdead Chaos, Charlie Winston, Broken Back, Stuck in the Sound, SOEN, Eagle-Eye Cherry et bien d'autres. Cette
 diversité stylistique témoigne d'une approche curatorielle exigeante qui refuse l'enfermement dans un genre unique,
 proposant une palette musicale riche allant du rock alternatif à la chanson française, en passant par l'électronique et
 les musiques du monde. L'édition 2025 confirmera cette tradition d'excellence avec Stuck in the Sound qui se produira au
