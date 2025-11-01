@@ -9,6 +9,7 @@ socials:
   soundcloud: "chineseman"
   youtube: "@chinesemanrec"
   web: "https://www.chinesemanrecords.com/chineseman/"
+  spotify: "6vgw0jwJkUnW2NR1rzsQU3"
 ---
 
 ### Genèse et formation

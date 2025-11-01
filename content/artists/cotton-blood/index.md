@@ -8,4 +8,6 @@ socials:
   bandcamp: "cottonblood"
   soundcloud: "cotton-blood"
   youtube: "@cottonblood812"
+  tidal: "39630684"
+  spotify: "7dBsT0CskzHJGu2PGENBSn"
 ---

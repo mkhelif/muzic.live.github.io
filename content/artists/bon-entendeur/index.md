@@ -10,6 +10,7 @@ socials:
   soundcloud: "bon-entendeur"
   web: "https://bonentendeur.com/"
   tidal: "9174077"
+  spotify: "2lwjwKfYZCuPEJOo8t32CD"
 ---
 
 Bon Entendeur est un trio de producteurs et DJs français formé par Arnaud Bonet, Adrien Durand et Pierre Della Monica,

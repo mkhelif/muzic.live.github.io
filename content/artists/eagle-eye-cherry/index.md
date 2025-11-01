@@ -7,6 +7,7 @@ socials:
   youtube: "@Eagle-Eye-Cherry"
   web: "https://www.eagleeyecherry.com"
   tidal: "2047"
+  spotify: "3ngKsDXZAssmljeXCvEgOe"
 ---
 
 Eagle-Eye Cherry est un chanteur-compositeur suédois-américain né en 1968, fils du trompettiste de jazz Don Cherry.

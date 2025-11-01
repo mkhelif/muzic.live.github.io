@@ -6,4 +6,5 @@ socials:
   instagram: "fabuloussheepband"
   youtube: "@fabuloussheep"
   tidal: "7672411"
+  spotify: "53PR6aQRtneL0Gf0ZhxWvh"
 ---

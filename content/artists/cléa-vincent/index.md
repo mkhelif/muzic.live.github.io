@@ -8,6 +8,7 @@ socials:
   soundcloud: "cleavincent"
   youtube: "c/CléaVincentMusic"
   tidal: "4949748"
+  spotify: "6eforqOxk5mRrgprF7XtYu"
 ---
 
 Cléa Vincent est une chanteuse française qui émerge sur la scène pop hexagonale avec une approche moderne et

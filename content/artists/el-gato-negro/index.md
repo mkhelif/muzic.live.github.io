@@ -9,6 +9,7 @@ socials:
   youtube: "@ElGatoNegroTropical"
   web: "http://gatonegrotropical.com/"
   tidal: "42097218"
+  spotify: "4Dt6KxesVwSSGdwmFAZ89b"
 ---
 
 El Gato Negro est un projet musical français qui émerge sur la scène alternative hexagonale avec une approche

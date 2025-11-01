@@ -8,6 +8,7 @@ socials:
   youtube: "@Charliewinstonofficial"
   web: "https://charliewinston.com/"
   tidal: "3635479"
+  spotify: "7xQTON6uj7akAGzlanUzy3"
 ---
 
 Charlie Winston est un chanteur-compositeur britannique né à Londres dans une famille de musiciens, ce qui l'amène très

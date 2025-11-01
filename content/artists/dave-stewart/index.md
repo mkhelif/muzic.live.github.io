@@ -7,6 +7,7 @@ socials:
   x: "davestewart"
   youtube: "@DaveStewartOfficial"
   tidal: "14661"
+  spotify: "7gcCQIlkkfbul5Mt0jBQkg"
 ---
 
 Dave Stewart est un musicien britannique né en 1952, qui commence sa carrière dans les années 70 avant de connaître la

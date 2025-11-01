@@ -8,5 +8,6 @@ socials:
   youtube: "@fugueofficial7281"
   web: "https://fugueofficial.fr/"
   tidal: "39472334"
+  spotify: "2nX2bgbDjtGMOk7ACjnKAX"
 ---
 

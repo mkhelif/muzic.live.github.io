@@ -7,6 +7,7 @@ socials:
   bandcamp: "crazyjesse"
   youtube: "@crazyjesse6480"
   web: "https://www.crazyjesse-band.com/"
+  spotify: "2UzMkB2UHfuCL4esZR9wJE"
 ---
 
 Crazy Jesse est un musicien français qui émerge sur la scène rock blues hexagonale avec une approche authentique et

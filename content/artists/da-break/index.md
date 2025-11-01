@@ -7,6 +7,7 @@ socials:
   youtube: "@DaBreak"
   web: "https://www.da-break.com/"
   tidal: "4023164"
+  spotify: "4jEG2lTc6lDIfimnB97szL"
 ---
 
 Da Break est un projet musical français qui émerge sur la scène électronique hexagonale avec une approche moderne des

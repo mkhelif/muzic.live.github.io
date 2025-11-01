@@ -6,6 +6,7 @@ socials:
   instagram: "cheynshiners"
   bandcamp: "cheynshiners"
   tidal: "46791365"
+  spotify: "5sxXsop3Sfcrc1ZwiCTNlq"
 ---
 
 Chey 'N' Shiners est un groupe de rock français qui émerge sur la scène hexagonale avec une approche énergique du rock

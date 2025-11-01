@@ -9,6 +9,7 @@ socials:
   youtube: "@europethebandtv"
   web: "https://www.europetheband.com/"
   tidal: "554"
+  spotify: "7Js6Lde8thlIHXggv2SCBz"
 ---
 
 Europe naît en 1979 en Suède sous l'impulsion de Joey Tempest (chant) et John Norum (guitare), rejoints par John Levén (

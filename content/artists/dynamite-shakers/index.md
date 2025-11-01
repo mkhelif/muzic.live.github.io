@@ -5,6 +5,8 @@ socials:
   facebook: "dynamiteshakers"
   instagram: "dynashakers"
   youtube: "@dynashakers"
+  tidal: "30182232"
+  spotify: "0T6jBctjBGXqRmXI2pe0aT"
 ---
 
 Dynamite Shakers est un groupe de rock français qui émerge sur la scène hexagonale avec une approche festive et

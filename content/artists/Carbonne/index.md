@@ -7,6 +7,7 @@ socials:
   tiktok: "@carbonne14"
   youtube: "@Carbonne"
   tidal: "17992676"
+  spotify: "2t0frJEIdex2PTwuLlGxDD"
 ---
 
 Carbonne est un rappeur français qui émerge sur la scène hip-hop hexagonale avec une approche moderne du rap conscient

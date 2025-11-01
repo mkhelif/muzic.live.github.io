@@ -6,4 +6,5 @@ socials:
   instagram: "eliezoemusic"
   web: "https://eliezoe.com/"
   tidal: "49348544"
+  spotify: "2t7zzvR3tKMctlLIUkTvjc"
 ---

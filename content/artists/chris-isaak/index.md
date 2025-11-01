@@ -9,6 +9,7 @@ socials:
   youtube: "@officialchrisisaak"
   web: "https://chrisisaak.com/"
   tidal: "6891"
+  spotify: "7290H8m1Dwt8G7jm1y9CQx"
 ---
 
 Chris Isaak est un chanteur-compositeur américain né en Californie en 1956, qui développe sa passion pour la musique dès
