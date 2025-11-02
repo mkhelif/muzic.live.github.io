@@ -6,6 +6,6 @@ artists:
   - DOMINUM
 locations:
   - Capitol
-  - Hanovre
+  - Hannover
   - Allemagne
 ---

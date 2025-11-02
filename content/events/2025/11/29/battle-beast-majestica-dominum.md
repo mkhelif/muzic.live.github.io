@@ -6,6 +6,6 @@ artists:
   - DOMINUM
 locations:
   - Löwensaal
-  - Nuremberg
+  - Nürnberg
   - Allemagne
 ---

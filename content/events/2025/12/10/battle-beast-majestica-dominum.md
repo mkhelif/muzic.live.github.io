@@ -6,6 +6,6 @@ artists:
   - DOMINUM
 locations:
   - Garage
-  - Sarrebruck
+  - Saarbrücken
   - Allemagne
 ---

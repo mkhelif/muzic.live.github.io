@@ -5,7 +5,7 @@ artists:
   - Majestica
   - DOMINUM
 locations:
-  - TonHalle München
-  - Munich
+  - Tonhalle München (Im Werksviertel Mitte)
+  - München
   - Allemagne
 ---
