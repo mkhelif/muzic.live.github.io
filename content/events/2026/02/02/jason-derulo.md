@@ -1,0 +1,9 @@
+---
+eventDate: "2026-02-02T18:30:00+00:00"
+artists:
+  - Jason Derulo
+locations:
+  - Utilita Arena Cardiff
+  - Cardiff
+  - Royaume-Uni
+---

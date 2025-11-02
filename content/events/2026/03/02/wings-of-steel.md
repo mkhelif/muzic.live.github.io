@@ -1,0 +1,9 @@
+---
+eventDate: "2026-03-02T19:00:00-06:00"
+artists:
+  - Wings of Steel
+locations:
+  - Vibrant Music Hall
+  - Waukee
+  - États-Unis
+---

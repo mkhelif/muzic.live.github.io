@@ -1,0 +1,9 @@
+---
+eventDate: "2025-11-05T20:00:00+01:00"
+artists:
+  - HAEVN
+locations:
+  - Chassé Theater & Cinema Breda
+  - Breda
+  - Pays-Bas
+---
