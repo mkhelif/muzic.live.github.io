@@ -6,4 +6,5 @@ socials:
   facebook: "prunecarmen.vegas"
   web: "https://humus-records.com/artists/prune-carmen-diaz/"
   tidal: "7321259"
+  spotify: "206NhPGzNln07Bp9moafgJ"
 ---

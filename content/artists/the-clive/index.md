@@ -9,4 +9,5 @@ socials:
   youtube: "@TheCliveMusic"
   web: "https://www.the-clive.com/"
   tidal: "7779755"
+  spotify: "47yrP8BFVfdiWrKkcgoHmh"
 ---

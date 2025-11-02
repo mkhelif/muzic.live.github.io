@@ -8,4 +8,5 @@ socials:
   youtube: "@MarceletsonOrchestre"
   web: "https://marceletsonorchestre.com/"
   tidal: "3954658"
+  spotify: "5YdOZp94WgelKxaAlQ2j7y"
 ---

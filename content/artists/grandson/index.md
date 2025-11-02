@@ -9,6 +9,7 @@ socials:
   youtube: "@grandson"
   web: "https://grandsonmusic.com/"
   tidal: "4409634"
+  spotify: "4ZgQDCtRqZlhLswVS6MHN4"
 ---
 
 

@@ -8,6 +8,7 @@ socials:
   youtube: "@mc-solaar"
   web: "https://mcsolaar.shop/"
   tidal: "4703230"
+  spotify: "3nU8TSIICYDbUqRpJISTRE"
 ---
 
 MC Solaar, de son vrai nom Claude M'Barali, est un rappeur français d'origine tchadienne qui émerge sur la scène hip-hop

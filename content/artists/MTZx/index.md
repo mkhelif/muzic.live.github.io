@@ -9,4 +9,5 @@ socials:
   bandcamp: "mtzxoff"
   youtube: "@MTZx_off"
   tidal: "26537491"
+  spotify: "38SyTmaiqF8l8gg5SUy1KM"
 ---

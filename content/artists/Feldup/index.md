@@ -9,5 +9,6 @@ socials:
   soundcloud: "user-671268887"
   youtube: "@Feldup"
   tidal: "10112501"
+  spotify: "2x7iNShxKzU4gIZIdbHMBM"
 ---
 

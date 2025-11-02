@@ -7,6 +7,7 @@ socials:
   bandcamp: "menadesband"
   youtube: "@menadesband"
   tidal: "9718687"
+  spotify: "69KFMOLkskbZbQBXsTlizU"
 ---
 
 Ménades émerge sur la scène punk parisienne avec une fureur et une détermination qui tranchent immédiatement avec la

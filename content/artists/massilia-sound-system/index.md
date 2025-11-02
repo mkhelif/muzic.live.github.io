@@ -9,6 +9,7 @@ socials:
   youtube: "@MSoundSystem13"
   web: "https://massilia-soundsystem.com/"
   tidal: "4561961"
+  spotify: "6OQvEmzlyemB8CjQGgIKqr"
 ---
 
 Massilia Sound System déferle sur la scène française comme un raz-de-marée sonore et culturel, imposant cette esthétique

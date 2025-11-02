@@ -7,6 +7,7 @@ socials:
   youtube: "@lepharmusic"
   web: "https://www.lepharmusic.com/"
   tidal: "15773099"
+  spotify: "2Ex68JUpCGwG53wjVXkuDO"
 ---
 
 Figure de la scène nocturne helvétique, LePhar a longtemps jonglé entre différents registres avant de trouver sa voie.

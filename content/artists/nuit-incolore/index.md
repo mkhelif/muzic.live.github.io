@@ -9,4 +9,5 @@ socials:
   x: "nuitincolore"
   youtube: "@NuitIncolore"
   tidal: "19087211"
+  spotify: "2oOAiE62UgqjCEWTHPdn0F"
 ---

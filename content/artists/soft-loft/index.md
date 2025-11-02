@@ -9,4 +9,5 @@ socials:
   youtube: "@softloftmusic"
   web: "https://softloftmusic.com/"
   tidal: "37303383"
+  spotify: ""
 ---

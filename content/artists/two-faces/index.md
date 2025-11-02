@@ -8,6 +8,7 @@ socials:
   soundcloud: "two-faces-music"
   youtube: "@TwoFacesMusic"
   tidal: "3720277"
+  spotify: "37RXY1VVv4OUFrx6AjJIry"
 ---
 
 Two Faces naît à Lyon de la rencontre entre deux frères d'âme partageant une vision artistique commune, unis par une

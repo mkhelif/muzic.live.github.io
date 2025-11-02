@@ -6,6 +6,7 @@ socials:
   instagram: "feder.music"
   youtube: "@federuniverse"
   tidal: "4801103"
+  spotify: "5KnoVkIUGmK0PiDKMjz2LM"
 ---
 
 Feder, de son vrai nom Hadrien Federiconi, est un DJ et producteur français originaire de Nice, qui développe sa

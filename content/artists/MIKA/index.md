@@ -10,6 +10,7 @@ socials:
   youtube: "@MikaSoundsOfficial"
   web: "https://www.yomika.com/"
   tidal: "16926"
+  spotify: "5MmVJVhhYKQ86izuGHzJYA"
 ---
 
 Michael Holbrook Penniman Jr.

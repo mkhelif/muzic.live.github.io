@@ -7,6 +7,7 @@ socials:
   tiktok: "@jesuismelrose"
   youtube: "@jesuismelrose"
   tidal: "39556996"
+  spotify: "1Ay914SUZT3uhezQ7fOOji"
 ---
 
 Melrose nous vient de Toulouse, la ville rose qui pourrait avoir inspiré son nom d'artiste. Cette jeune chanteuse

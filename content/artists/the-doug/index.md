@@ -8,4 +8,5 @@ socials:
   threads: "@thedoug_edn"
   youtube: "@TheDoug_edn"
   tidal: "14638162"
+  spotify: "1AT7xbkG9hKbNlvGfZtA7S"
 ---

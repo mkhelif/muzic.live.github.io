@@ -8,6 +8,7 @@ socials:
   bandcamp: "flaurmusic"
   soundcloud: "flaurmusic"
   youtube: "@flaurmusic"
+  spotify: "0bGKCNI2C7jmY6YhVMIUAd"
 ---
 
 Flaur représente l'une des voix les plus prometteuses et innovantes du paysage musical actuel. Avec un univers sonore à

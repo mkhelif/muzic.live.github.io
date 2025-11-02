@@ -5,6 +5,7 @@ socials:
   facebook: "helmutfritzofficiel"
   youtube: "@HelmutFritzOfficiel"
   tidal: "3638975"
+  spotify: "5xsFbfm9lL1iTOvX3hXpoK"
 ---
 
 Helmut Fritz est le personnage décalé et irrésistible créé en 2009 par Éric Greff, artiste français né le 19 juillet

@@ -7,6 +7,7 @@ socials:
   bandcamp: "lostinlona"
   youtube: "@lostinlona2510"
   tidal: "29608422"
+  spotify: "6GpX7OGPoZNG1GMbtbiOPD"
 ---
 
 Lost in Lona est un duo formé par la rencontre artistique de deux musiciens originaires de Bâle et Zurich, deux des

@@ -8,6 +8,7 @@ socials:
   youtube: "@MosimannOfficial"
   web: "quentinmosimann.com"
   tidal: "7641415"
+  spotify: "7sAqpkrQBaOkddsv1Tz1XK"
 ---
 
 Quentin Mosimann surgit de la scène électronique française armé d'une vision moderne qui révolutionne l'approche

@@ -10,6 +10,7 @@ socials:
   youtube: "@NileRodgersOfficial"
   web: "https://www.nilerodgers.com"
   tidal: "30528"
+  spotify: "3yDIp0kaq9EFKe07X1X2rz"
 ---
 
 Nile Gregory Rodgers Jr., né le 19 septembre 1952 à New York, est un guitariste, producteur et compositeur légendaire

@@ -9,6 +9,7 @@ socials:
   youtube: "@Wearepalace"
   web: "https://www.wearepalace.com/"
   tidal: "10789981"
+  spotify: "48vDIufGC8ujPuBiTxY8dm"
 ---
 
 **Style intimiste et mélancolique** - Palace, c'est Leo Wyndham (chant/guitare), Rupert Turner (guitare) et Matt

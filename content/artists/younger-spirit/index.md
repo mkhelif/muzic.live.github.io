@@ -7,6 +7,7 @@ socials:
   tiktok: "@younger.spirit"
   youtube: "@YoungerSpirit"
   tidal: "50276599"
+  spotify: "3nDQLFEK4IcQf7beZahauv"
 ---
 
 Younger Spirit représente l'une des révélations les plus prometteuses de la scène rock alternative de ces dernières

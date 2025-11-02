@@ -10,4 +10,5 @@ socials:
   bandcamp: "sorgandnapoleonmaddox"
   youtube: "@sorgmusic"
   tidal: "5488192"
+  spotify: ""
 ---

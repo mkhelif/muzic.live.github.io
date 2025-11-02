@@ -9,6 +9,7 @@ socials:
   youtube: "@kidkapichi"
   web: "https://www.kidkapichi.com"
   tidal: "9561242"
+  spotify: "2iwVdN0Geaw5Sn2Abeh9fB"
 ---
 
 Kid Kapichi est un groupe de rock britannique formé à Hastings, qui émerge sur la scène rock indépendante avec une

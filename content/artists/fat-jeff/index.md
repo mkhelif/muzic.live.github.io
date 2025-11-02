@@ -6,4 +6,5 @@ socials:
   bandcamp: "fatjeff"
   youtube: "@fatjeffblues"
   tidal: "21162452"
+  spotify: "7BVnaWtPz0v3VwDhaNpVLA"
 ---

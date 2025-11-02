@@ -9,6 +9,7 @@ socials:
   youtube: "@HAEVNMUSIC"
   web: "https://haevnmusic.com/"
   tidal: "7177859"
+  spotify: "65Tmt9uAPTYGl1ZhsOeEJ6"
 ---
 
 Haevn est un duo néerlandais formé par Jorrit Kleijnen et Marijn van der Meer, qui émerge sur la scène musicale

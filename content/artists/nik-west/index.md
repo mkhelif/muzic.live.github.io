@@ -10,6 +10,7 @@ socials:
   youtube: "@NikWestBass"
   web: "https://nikwestbass.com/"
   tidal: "4602176"
+  spotify: "5yrmwjhscVmbinBG3hx86i"
 ---
 
 Nik West s'impose comme l'une des bassistes les plus innovantes et flamboyantes de sa génération, incarnant une fusion

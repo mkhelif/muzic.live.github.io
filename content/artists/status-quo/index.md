@@ -8,6 +8,7 @@ socials:
   youtube: "@OfficialStatusQuo"
   web: "https://www.statusquo.co.uk"
   tidal: "17400"
+  spotify: ""
 ---
 
 Status Quo représente l'une des institutions les plus durables et respectées du rock britannique, incarnant depuis plus

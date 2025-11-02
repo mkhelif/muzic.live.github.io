@@ -11,5 +11,6 @@ socials:
   youtube: "@Pinkshift"
   web: "https://www.pinkshiftmd.com/"
   tidal: "16450333"
+  spotify: "3bfSaJqEYosPcdoCN06G3P"
 ---
 

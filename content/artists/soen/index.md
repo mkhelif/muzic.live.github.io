@@ -7,6 +7,7 @@ socials:
   youtube: "@SoenOfficial"
   web: "https://soenmusic.com/"
   tidal: "4373811"
+  spotify: ""
 ---
 
 SOEN émerge des ombres de la scène metal progressive suédoise en 2004, non pas dans un murmure mais avec une clarté et

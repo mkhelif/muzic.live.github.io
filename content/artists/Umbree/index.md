@@ -8,4 +8,5 @@ socials:
   soundcloud: "umbree-music"
   youtube: "@umbree8810"
   tidal: "7284231"
+  spotify: "2LbJZpMk21KtMBkCiHcJug"
 ---

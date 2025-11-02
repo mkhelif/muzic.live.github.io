@@ -8,6 +8,7 @@ socials:
   youtube: "@KolingaMusic"
   web: "https://www.kolingamusic.com/"
   tidal: "8640174"
+  spotify: "1l4wo8qR1qvFN8aym2xmDM"
 ---
 
 Kolinga est une chanteuse franco-camerounaise qui émerge sur la scène world music européenne avec une approche moderne

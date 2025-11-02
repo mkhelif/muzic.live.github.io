@@ -7,4 +7,5 @@ socials:
   youtube: "@noepreszowofficiel"
   web: "https://www.noepreszow.com"
   tidal: "13810946"
+  spotify: "6CZhbpXpR3VJNQWFkwd2Ic"
 ---

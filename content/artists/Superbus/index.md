@@ -9,6 +9,7 @@ socials:
   youtube: "@Superbus__"
   web: "https://superbus.fr/"
   tidal: "3672711"
+  spotify: "3Hog7RVQ1lAv1crdfiJPLq"
 ---
 
 Superbus est un groupe de rock-pop français formé en 1999 par Jennifer Ayache, qui en devient la chanteuse principale et

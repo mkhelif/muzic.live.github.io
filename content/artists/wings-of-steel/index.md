@@ -9,5 +9,6 @@ socials:
   bandcamp: "officialwingsofsteel"
   youtube: "@wingsofsteel"
   web: "https://wingsofsteelband.com/"
-  tidal: "21163115" 
+  tidal: "21163115"
+  spotify: "0y43lCvntQtyFlhCABGb0T"
 ---

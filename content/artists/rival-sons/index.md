@@ -11,6 +11,7 @@ socials:
   youtube: "@RivalSons"
   web: "https://www.rivalsons.com"
   tidal: "4101294"
+  spotify: "356c8AN5YWKvz86B4Sb1yf"
 ---
 
 Rival Sons est un groupe américain formé en 2009 à Long Beach, Californie, qui incarne le revival authentique du rock

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Mentissa"
 cover: "cover.jpg"
 socials:
@@ -9,6 +8,7 @@ socials:
   youtube: "@MentissaMusique"
   web: "https://mentissaofficiel.com/"
   tidal: "28860030"
+  spotify: "0cb0p26TbAeBeekZHfxWlS"
 ---
 
 Mentissa navigue dans l'univers musical français avec cette liberté créative totale qui caractérise les artistes

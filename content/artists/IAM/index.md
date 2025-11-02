@@ -7,6 +7,7 @@ socials:
   youtube: "@IAMofficiel"
   x: "iam"
   tidal: "11162"
+  spotify: "56Q6weEROZ1RsVrTak8Bm7"
 ---
 
 IAM est un groupe de rap français formé à Marseille en 1989, qui s'est imposé comme l'une des formations les plus

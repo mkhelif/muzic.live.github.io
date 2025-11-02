@@ -8,6 +8,7 @@ socials:
   web: "https://www.twentyonepilots.com/"
   tiktok: "@twentyonepilots"
   tidal: "4664877"
+  spotify: "3YQKmKGau1PzlVlkL1iodx"
 ---
 
 ### Genèse et formation : Columbus Underground

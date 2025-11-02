@@ -8,6 +8,7 @@ socials:
   youtube: "@nadasurf"
   web: "https://www.nadasurf.com"
   tidal: "10595"
+  spotify: "11zHPjHnZN0ACA50rSnTcy"
 ---
 
 Nada Surf est un groupe américain formé en 1992 à New York, qui a transcendé son statut de groupe à tube unique pour

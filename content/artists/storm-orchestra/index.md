@@ -10,4 +10,5 @@ socials:
   youtube: "@StormOrchestra"
   web: "https://stormorchestra.com/"
   tidal: "5936094"
+  spotify: "5Zl04O5XJOu7kGrAosCPfR"
 ---

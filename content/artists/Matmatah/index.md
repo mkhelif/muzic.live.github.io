@@ -8,6 +8,7 @@ socials:
   youtube: "@Matmatah"
   web: "https://www.matmatah.com/"
   tidal: "3673229"
+  spotify: "4bhynkwu2d1ZbjPTNBkI2t"
 ---
 
 Tout commence en septembre 1995, lorsque Stan et Sammy qui, à cette époque, formaient un duo appelé "Tricards Twins",

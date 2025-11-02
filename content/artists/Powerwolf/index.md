@@ -10,6 +10,7 @@ socials:
   youtube: "@Powerwolfmetal"
   web: "https://www.powerwolf.net"
   tidal: "3545381"
+  spotify: "5HFkc3t0HYETL4JeEbDB1v"
 ---
 
 Powerwolf est un groupe de power metal allemand formé en 2003, qui a créé un univers musical unique mêlant imagerie

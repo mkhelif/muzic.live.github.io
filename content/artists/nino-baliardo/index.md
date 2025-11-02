@@ -5,6 +5,7 @@ socials:
   facebook: "nino.baliardo"
   instagram: "baliardonino"
   threads: "@baliardonino"
+  spotify: "5QaurFdSg3hSGuzsRbmpiX"
 ---
 
 Nino Baliardo incarne la continuation d'une dynastie musicale qui a marqué l'histoire de la rumba flamenca : celle des

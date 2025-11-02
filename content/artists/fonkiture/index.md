@@ -7,4 +7,5 @@ socials:
   instagram: "fonki.ture"
   youtube: "@Fonkiture"
   tidal: "60352372"
+  spotify: "0J5xHZbnFrIWvGc9bv19i7"
 ---

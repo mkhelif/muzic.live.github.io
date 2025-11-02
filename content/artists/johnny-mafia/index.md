@@ -8,6 +8,7 @@ socials:
   youtube: "@Johnnymafiasens"
   soundcloud: "johnnymafia"
   tidal: "8191938"
+  spotify: "7iM6UV8wXD4l2bS2QxdOPY"
 ---
 
 Johnny Mafia s'impose comme l'un des groupes les plus explosifs et rafraîchissants de la scène rock hexagonale

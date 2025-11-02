@@ -7,6 +7,7 @@ socials:
   youtube: "@masshysteria_official"
   web: "https://masshysteriaofficial.bigcartel.com/"
   tidal: "6023"
+  spotify: "30oV84oJ6PpIzrJFpVBlM6"
 ---
 
 Mass Hysteria débarque sur la scène metal française comme une déflagration sonore, imposant d'emblée ce son lourd et

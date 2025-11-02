@@ -9,4 +9,5 @@ socials:
   youtube: "@Leyun"
   web: "https://zedyunpavarotti.com/"
   tidal: "9486254"
+  spotify: "2TM7WyJwjfD5wKyX9OtIWJ"
 ---

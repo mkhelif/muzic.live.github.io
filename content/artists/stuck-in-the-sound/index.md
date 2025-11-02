@@ -9,6 +9,7 @@ socials:
   youtube: "@stuckinthesoundofficial"
   web: "http://stuckinthesound.com/"
   tidal: "3918337"
+  spotify: "5sTzirFL1wjNa3GuSiUHsy"
 ---
 
 **Style énergique et direct** - Stuck in the Sound débarque en 2002 depuis Montreuil avec une énergie qui claque comme
