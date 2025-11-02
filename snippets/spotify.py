@@ -3,6 +3,7 @@
 from datetime import datetime
 from os import listdir
 from pathlib import Path
+from unidecode import unidecode
 
 import frontmatter
 import gettext
@@ -44,6 +45,15 @@ COUNTRIES = {}
 for country in pycountry.countries:
     COUNTRIES[country.alpha_2.upper()] = _(country.name)
 
+LOCATIONS = {
+    'House of Blues Las Vegas ': 'House of Blues'
+}
+
+ARTISTS = {
+    'Carlos Santana': 'Santana',
+    'Udo Dirkschneider': 'Dirkschneider'
+}
+
 # Utility functions
 def get_artist_concerts(spotify_id):
     response = requests.post(
@@ -70,7 +80,9 @@ def get_artist_concerts(spotify_id):
     # For each concert, load its details
     concerts_list = []
     for concert_info in response.json()['data']['concerts']['concerts']['items']:
-        concerts_list.append(get_concert(concert_info['data']['uri']))
+        concert = get_concert(concert_info['data']['uri'])
+        if concert is not None:
+          concerts_list.append(concert)
     return concerts_list
 
 def get_concert(concert_uri):
@@ -100,17 +112,34 @@ def get_concert(concert_uri):
     concert_details = {}
     concert_details["date"] = content['data']['concert']['startDateIsoString']
     concert_details["locations"] = [
-        content['data']['concert']['location']['name'],
-        content['data']['concert']['location']['city'],
+        translate(content['data']['concert']['location']['name'].title(), LOCATIONS),
+        translate(content['data']['concert']['location']['city'].title(), LOCATIONS),
         COUNTRIES[content['data']['concert']['location']['country']]
     ]
     concert_details["artists"] = []
+    concert_details["festival"] = content['data']['concert']['festival']
 
     # Compute artists list
+    if len(content['data']['concert']['artists']['items']) > 5:
+        return None
+
     for concert_artist in content['data']['concert']['artists']['items']:
-        concert_details['artists'].append(concert_artist['data']['profile']['name'])
+        concert_details['artists'].append(translate(concert_artist['data']['profile']['name'], ARTISTS))
+    concert_details['artists'].sort()
+    concert_details['artists'] = set(concert_details['artists'])
 
     return concert_details
+
+def translate(key, hash):
+    if key in hash:
+        return hash[key]
+    else:
+        return key
+
+def format_filename(name):
+    return re.sub('-{2,}', '-',
+           re.sub('[^a-z0-9]', '-',
+              unidecode(name).lower()))
 
 #
 # The script will go through all artists declared
@@ -134,14 +163,19 @@ if __name__ == '__main__':
             concerts = get_artist_concerts(spotifyId)
             for concert in concerts:
                 date = datetime.fromisoformat(concert['date'])
+                date_format = f"{date.year}/{date.month:02d}/{date.day:02d}"
                 artists_list = "\n  - ".join(concert['artists'])
                 locations_list = "\n  - ".join(concert['locations'])
 
-                directory = Path(f"./content/events/{date.year}/{date.month:02d}/{date.day:02d}")
+                if concert["festival"] is True:
+                    print(f"  - (festival) {date_format}: {', '.join(concert['artists'])} ({', '.join(concert['locations'])})")
+                    continue
+
+                directory = Path(f"./content/events/{date_format}")
                 directory.mkdir(parents = True, exist_ok = True)
 
-                filename = "-".join(re.sub('-{2,}', '-', re.sub('[^a-z0-9]', '-', artist.lower())) for artist in concert['artists']) + ".md"
-                event = Path(f"./content/events/{date.year}/{date.month:02d}/{date.day:02d}/{filename}")
+                filename = "-".join(format_filename(artist) for artist in concert['artists']) + ".md"
+                event = Path(f"./content/events/{date_format}/{filename}")
                 if not event.exists():
                   event.write_text(f"""\
 ---
