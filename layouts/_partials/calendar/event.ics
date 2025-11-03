@@ -3,7 +3,7 @@ UID:{{ hash.XxHash .event.RelPermalink }}
 {{ partial "calendar/event-date.ics" . }}
 SUMMARY:{{ .title }} : {{ partial "calendar/artists.ics" .event }}
 DESCRIPTION:{{ .title }} : {{ partial "calendar/artists.ics" .event }}
-LOCATION:{{- partial "calendar/location.ics" .event }}
+{{ partial "calendar/location.ics" .event }}
 {{ partial "calendar/alarm.ics" . }}
 {{ partial "calendar/outlook.ics" . }}
 END:VEVENT

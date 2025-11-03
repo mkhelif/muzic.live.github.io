@@ -1,4 +1,4 @@
-{{- range $location := .GetTerms "locations" -}}
+LOCATION:{{- range $location := .GetTerms "locations" -}}
     {{- range (where site.RegularPages "Section" "locations") -}}
         {{- if (eq $location.LinkTitle .LinkTitle) -}}
             {{- .LinkTitle -}}\, {{ replace .Params.address "," "\\," -}}
