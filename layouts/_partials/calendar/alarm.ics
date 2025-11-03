@@ -1,6 +1,6 @@
 BEGIN:VALARM
 TRIGGER:-P15D
-DESCRIPTION:{{ .Title }} : {{ partial "calendar/artists.ics" . }}
+DESCRIPTION:{{ .title }} : {{ partial "calendar/artists.ics" .event }}
 ACTION:DISPLAY
 END:VALARM
 {{- /**/ -}}

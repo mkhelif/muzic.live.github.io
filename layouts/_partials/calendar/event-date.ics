@@ -1,0 +1,8 @@
+{{- $format := "20060102T150405Z" -}}
+{{ $eventDate := .event.Params.eventDate | time.AsTime -}}
+DTSTAMP:{{ ($eventDate | time.In "UTC") | time.Format $format }}
+DTSTART:{{ ($eventDate | time.In "UTC") | time.Format $format }}
+{{ $artistsCount := printf "%dh" (cond (.event.Param "artists") (.event.Params.artists | len) 0) -}}
+{{ $duration := time.ParseDuration $artistsCount -}}
+DTEND:{{ (($eventDate.Add $duration) | time.In "UTC") | time.Format $format }}
+{{- /**/ -}}
