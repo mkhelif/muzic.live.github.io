@@ -6,9 +6,10 @@ DTSTART:{{ partial "calendar/time.ics" $eventDate }}
 {{ $artistsCount := printf "%dh" (cond (.Param "artists") (.Params.artists | len) 0) -}}
 {{ $duration := time.ParseDuration $artistsCount -}}
 DTEND:{{ partial "calendar/time.ics" ($eventDate.Add $duration) }}
-SUMMARY:{{ partial "calendar/artists.ics" . }}
+SUMMARY:{{ .Title }} : {{ partial "calendar/artists.ics" . }}
 DESCRIPTION:{{ partial "calendar/artists.ics" . }}
 LOCATION:{{- partial "calendar/location.ics" . }}
+{{- partial "calendar/alarm.ics" . }}
 {{- partial "calendar/apple.ics" . }}
 {{- partial "calendar/outlook.ics" . }}
 END:VEVENT
