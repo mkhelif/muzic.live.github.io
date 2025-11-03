@@ -1,4 +1,10 @@
+X-APPLE-CREATOR-IDENTITY:com.apple.calendar
+X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 {{- $location := (partial "calendar/apple-structured-location.ics" .) | safeHTML }}
-{{ range seq (math.Div ($location | len) 75) -}}
-    {{ . }}
+X-APPLE-STRUCTURED-LOCATION;{{ substr $location 0 (sub 72 28) }}
+{{- $location = (substr $location (sub 72 28)) }}
+{{- range seq (math.Add (math.Div ($location | len) 72) 1) }}
+ {{ substr $location 0 72 | safeHTML -}}
+ {{- $location = (substr $location 72 | safeHTML) }}
 {{- end }}
+{{- /**/ -}}

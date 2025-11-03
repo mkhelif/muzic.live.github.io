@@ -24,7 +24,7 @@ defaultContentLanguage = 'fr'
 
 # RSS
 [outputs]
-  home = ['html', 'rss', 'ics']
+  home = ['html', 'rss']
   page = ['html', 'ics']
   section = ['html']
   taxonomy = ['html']
