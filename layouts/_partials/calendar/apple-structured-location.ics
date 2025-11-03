@@ -19,7 +19,7 @@
 {{- /**/ -}}    X-APPLE-REFERENCEFRAME=0;
 {{- /**/ -}}    X-APPLE-RADIUS=140;
 {{- /**/ -}}    X-ADDRESS={{ partial "calendar/location.ics" . }};
-{{- /**/ -}}    X-TITLE={{ partial "calendar/location.ics" . -}}
+{{- /**/ -}}    X-TITLE="{{ partial "calendar/location.ics" . -}}"
 {{- if and (ne $latitude "") (ne $longitude "") -}}
     :geo:{{ $latitude }},{{ $longitude -}}
 {{- end -}}
