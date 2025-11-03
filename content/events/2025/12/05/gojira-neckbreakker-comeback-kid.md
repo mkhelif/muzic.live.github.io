@@ -6,6 +6,6 @@ artists:
   - Comeback Kid
 locations:
   - Zenith D'Auvergne
-  - Cournon D Auvergne
+  - Cournon d'Auvergne
   - France
 ---
