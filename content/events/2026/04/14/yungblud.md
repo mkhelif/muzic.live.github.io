@@ -1,0 +1,9 @@
+---
+eventDate: "2026-04-14T18:30:00+01:00"
+artists:
+  - YUNGBLUD
+locations:
+  - The Sse Arena, Belfast
+  - Belfast
+  - Royaume-Uni
+---
