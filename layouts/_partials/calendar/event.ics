@@ -1,14 +1,14 @@
 BEGIN:VEVENT
-UID:{{ hash.XxHash .RelPermalink }}
-{{ $eventDate := .Params.eventDate | time.AsTime -}}
+UID:{{ hash.XxHash .event.RelPermalink }}
+{{ $eventDate := .event.Params.eventDate | time.AsTime -}}
 DTSTAMP:{{ partial "calendar/time.ics" $eventDate }}
 DTSTART:{{ partial "calendar/time.ics" $eventDate }}
-{{ $artistsCount := printf "%dh" (cond (.Param "artists") (.Params.artists | len) 0) -}}
+{{ $artistsCount := printf "%dh" (cond (.event.Param "artists") (.event.Params.artists | len) 0) -}}
 {{ $duration := time.ParseDuration $artistsCount -}}
 DTEND:{{ partial "calendar/time.ics" ($eventDate.Add $duration) }}
-SUMMARY:{{ .Title }} : {{ partial "calendar/artists.ics" . }}
-DESCRIPTION:{{ partial "calendar/artists.ics" . }}
-LOCATION:{{- partial "calendar/location.ics" . }}
-{{- partial "calendar/alarm.ics" . }}
-{{- partial "calendar/outlook.ics" . }}
+SUMMARY:{{ .title }} : {{ partial "calendar/artists.ics" .event }}
+DESCRIPTION:{{ .title }} : {{ partial "calendar/artists.ics" .event }}
+LOCATION:{{- partial "calendar/location.ics" .event }}
+{{ partial "calendar/alarm.ics" .event }}
+{{ partial "calendar/outlook.ics" .event }}
 END:VEVENT

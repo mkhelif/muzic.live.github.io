@@ -3,3 +3,4 @@ TRIGGER:-P15D
 DESCRIPTION:{{ .Title }} : {{ partial "calendar/artists.ics" . }}
 ACTION:DISPLAY
 END:VALARM
+{{- /**/ -}}
