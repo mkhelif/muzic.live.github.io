@@ -48,7 +48,7 @@
             {{ $festival := .LinkTitle }}
             <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">Autres chroniques du festival {{ $festival }}</h4>
             {{ $count := 0 }}
-            {{ range $.Site.RegularPages }}
+            {{ range (where $.Site.RegularPages "Section" "reports") }}
                 {{ $page := . }}
                 {{ range .GetTerms "festivals" }}
                     {{ if and (eq .LinkTitle $festival) (ne $page.Path $.Path) }}
