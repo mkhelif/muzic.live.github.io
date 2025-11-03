@@ -10,6 +10,5 @@ SUMMARY:{{ .Title }} : {{ partial "calendar/artists.ics" . }}
 DESCRIPTION:{{ partial "calendar/artists.ics" . }}
 LOCATION:{{- partial "calendar/location.ics" . }}
 {{- partial "calendar/alarm.ics" . }}
-{{- partial "calendar/apple.ics" . }}
 {{- partial "calendar/outlook.ics" . }}
 END:VEVENT
