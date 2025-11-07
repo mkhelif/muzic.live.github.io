@@ -5,7 +5,7 @@ subtitle: "11 titres, 34:14"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
-artist: "Ménades"
+artist: "Ménades"
 tidal: "414110568"
 ---
 
