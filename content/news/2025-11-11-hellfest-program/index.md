@@ -5,62 +5,188 @@ festivals:
   - Hellfest
 artists:
   - Bring Me The Horizon
-  - Iron Maiden
-  - Limp Bizkit
-  - The Offspring
-  - Anthrax
-  - Helloween
-  - Sabaton
-  - Volbeat
   - Papa Roach
-  - Opeth
-  - Mastodon
-  - Down
-  - Carcass
-  - Deicide
-  - Napalm Death
-  - Behemoth
-  - Mayhem
-  - Sepultura
-  - Architects
-  - Hatebreed
-  - Cancer Bats
-  - Kublai Khan TX
-  - Drain
-  - Knocked Loose
-  - End It
-  - Gatecreeper
-  - Three Days Grace
   - Breaking Benjamin
+  - The Plot In You
+  - We Came As Romans
+  - Iron Maiden
+  - Helloween
+  - Ultra Vomit
+  - Accept
+  - Queensrÿche
+  - Sortilège
+  - Wings Of Steel
+  - Blackrain
+  - Limp Bizkit
+  - A Perfect Circle
+  - Tom Morello
+  - Static-X
+  - Enhancer
+  - House of Protection
+  - Thornhill
+  - Slay Squad
+  - The Offspring
+  - The Hives
+  - Rise Against
+  - Pennywise
+  - The Ataris
+  - The Bones
+  - The Dwarves
+  - Not Scientists
+  - Deep Purple
+  - Alice Cooper
+  - The Pretty Reckless
+  - Alestorm
+  - Mikkey Dee With Friends
+  - Sabaton
+  - Opeth
+  - Sepultura
+  - Bloodywood
+  - Tesseract
+  - Brothers Of Metal
+  - Return To Dust
+  - Uravena
+  - Volbeat
+  - Megadeth
+  - Anthrax
+  - Cavalera "Chaos A.d."
+  - Crisix
+  - Gatecreeper
+  - Escuela Grind
+  - Insanity Alert
+  - Locomuerte
+  - Bad Omens
+  - Architects
+  - Three Days Grace
   - Black Veil Brides
-  - All Time Low
-  - Blood Incantation
-  - Decapitated
-  - Defeated Sanity
-  - Devangelic
-  - Carach Angren
-  - Aura Noir
-  - Gehenna
-  - Borknagar
+  - President
+  - Resolve
+  - Revnoir
+  - The Funeral Portrait
   - Social Distortion
-  - Circle Jerks
-  - Buzzcocks
+  - All Time Low
+  - Lagwagon
+  - Shelter
+  - Satanic Surfers
+  - The Dillinger Escape Plan
+  - La Dispute
+  - Malevolence
+  - Ceremony
+  - Pogo Car Crash Control
+  - Point Mort
+  - Die Spitz
+  - Gridiron
+  - Wake The Dead
+  - Hatebreed
+  - Lionheart
+  - Kublai Khan Tx
+  - Cro-Mags
+  - Trash Talk
+  - Cancer Bats
+  - King 810
+  - Combust
+  - False Reality
   - The Adicts
   - Agnostic Front
-  - Cro-Mags
-  - A Perfect Circle
-  - Cult Of Luna
-  - The Gathering
-  - God Is An Astronaut
+  - Circle Jerks
+  - Buzzcocks
+  - Drain
+  - End It
+  - Maid Of Ace
+  - Karen Dió
+  - Kadavar
+  - Uncle Acid And The Deadbeats
+  - The Inspector Cluzo
   - Elder
+  - Truckfighters
+  - Mastodon
+  - Slift
+  - Loathe
+  - Torche
+  - Stoned Jesus
+  - Primitive Man
+  - Rezn
+  - Yarostan
+  - Dragunov
+  - Cult Of Luna
   - Amenra
-  - Ultra Vomit
-  - Igorrr
-  - BlackRain
+  - The Young Gods
+  - God Is An Astronaut
+  - Pigs Pigs Pigs Pigs Pigs Pigs Pigs
+  - Psychonaut
   - Fange
+  - Bruit ≤
+  - Cold.cApsule
+  - Down
+  - Acid Bath
+  - Corrosion Of Conformity
+  - Eyehategod
+  - Soilent Green
+  - Black Tusk
+  - Gnome
   - Alta Rossa
-  - BRUIT ≤
+  - Igorrr
+  - The Halo Effect
+  - Rivers Of Nihil
+  - Devangelic
+  - Skaphos
+  - Blood Incantation
+  - Periphery
+  - Decapitated
+  - Sylosis
+  - Sinsaenum
+  - Blood Red Throne
+  - Crypta
+  - Esodic
+  - Impureza
+  - Deicide
+  - Carcass
+  - Septicflesh
+  - Obscura
+  - Severe Torture
+  - Defeated Sanity
+  - Cabal
+  - Profanation
+  - Dvrk
+  - Napalm Death
+  - Possessed
+  - Forbidden
+  - Six Feet Under
+  - Fulci
+  - Sublime Cadaveric Decomposition
   - Bloodstain
+  - Tempt Fate
+  - Skáld
+  - Feuerschwanz
+  - Borknagar
+  - Winterfylleth
+  - Perchta
+  - The Gathering
+  - My Dying Bride
+  - Rotting Christ
+  - Carach Angren
+  - Trelldom
+  - Einherjer
+  - Ponte Del Diavolo
+  - Killus
+  - Mourir
+  - Behemoth
+  - Old Man's Child
+  - Aura Noir
+  - Oranssi Pazuzu
+  - Gaerea
+  - 1914
+  - Non Est Deus
+  - Hulder
+  - Vígljós
+  - Mayhem
+  - Marduk
+  - Wolves In The Throne Room
+  - Scour
+  - Gehenna
+  - Thy Light
+  - Austere
+  - Silhouette
 hero: "hero.jpg"
 cover: "cover.jpg"
 ---
