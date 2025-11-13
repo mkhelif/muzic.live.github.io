@@ -1,0 +1,12 @@
+---
+eventDate: "2026-02-20T17:30:00-05:00"
+artists:
+  - Archers
+  - Catch Your Breath
+  - Doobie
+  - NOTHING MORE
+locations:
+  - Citizens House Of Blues Boston
+  - Boston
+  - États-Unis
+---
