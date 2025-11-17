@@ -1,10 +1,13 @@
+{{- $locationExist := false -}}
 {{- range $index, $location := .GetTerms "locations" -}}
     {{- range (where site.RegularPages "Section" "locations") -}}
         {{- if (eq $location.LinkTitle .LinkTitle) -}}
+            {{- $locationExist = true -}}
             {{- .LinkTitle -}}, {{ .Params.address -}}
-        {{- else -}}
-            {{- if gt $index 0 }}, {{ end -}}
-            {{- .LinkTitle -}}
         {{- end -}}
+    {{- end -}}
+    {{- if not $locationExist -}}
+        {{- if gt $index 0 }}, {{ end -}}
+        {{- .LinkTitle -}}
     {{- end -}}
 {{- end -}}
