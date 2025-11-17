@@ -1,6 +1,6 @@
 BEGIN:VALARM
 TRIGGER:-P15D
-DESCRIPTION:{{ .title }} : {{ partial "calendar/artists.ics" .event }}
+DESCRIPTION:{{ (index (.event.GetTerms "locations") 0).LinkTitle }} : {{ partial "calendar/artists.ics" .event }}
 ACTION:DISPLAY
 END:VALARM
 {{- /**/ -}}
