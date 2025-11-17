@@ -1,7 +1,7 @@
 BEGIN:VEVENT
 UID:{{ hash.XxHash .event.RelPermalink }}
 {{ partial "calendar/event-date.ics" . }}
-SUMMARY:{{ (index (.event.GetTerms "locations") 0).LinkTitle }} : {{ partial "calendar/artists.ics" .event }}
+SUMMARY:{{ partial "calendar/summary.ics" (dict "event" .event "term" .term "title" .title) }}
 DESCRIPTION:{{ partial "calendar/artists.ics" .event }}
 LOCATION:{{ replace (partial "calendar/location.ics" .event) "," "\\," }}
 {{ partial "calendar/alarm.ics" . }}

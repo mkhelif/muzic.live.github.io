@@ -6,6 +6,7 @@
             {{- $context := dict
               "event" $event
               "title" $title
+              "term" $.term
             -}}
             {{- partial "calendar/event.ics" $context -}}
         {{- end -}}

@@ -1,0 +1,8 @@
+{{ if eq .term "artists" -}}
+    {{ .title }} : {{ (index (.event.GetTerms "locations") 0).LinkTitle }}
+{{- else if eq .term "festivals" -}}
+    {{- partial "calendar/events.ics" (dict "context" . "term" "festivals" "filter" .Title) -}}
+{{- else if eq .term "locations" -}}
+    {{ .event.Title }} : {{ partial "calendar/artists.ics" .event }}
+{{- end -}}
+
