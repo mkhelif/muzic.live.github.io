@@ -1,9 +1,8 @@
 ---
-draft: true
 date: "2025-08-16T17:30:00+02:00"
 title: "Venoge Festival 2025 - Jour 4 - Nuit Incolore, Flèche Love, Adèle Castillon, Carbonne, IAM, Eddy de Pretto, MIKA, Mosimann"
 author: "mkhelif"
-cover: "pictures/"
+cover: "pictures/mika/01.jpg"
 rank: 10
 locations:
   - Penthaz
