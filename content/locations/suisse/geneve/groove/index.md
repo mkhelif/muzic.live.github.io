@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Le Groove"
 cover: "cover.jpg"
 address: "Rue des Gazomètres 9, 1205 Genève, Suisse"
