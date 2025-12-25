@@ -13,7 +13,7 @@ import requests
 
 # Configure authentication token
 CLIENT_TOKEN=""
-ACCESS_TOKEN="Bearer"
+ACCESS_TOKEN=""
 
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:143.0) Gecko/20100101 Firefox/143.0",
@@ -46,7 +46,8 @@ for country in pycountry.countries:
     COUNTRIES[country.alpha_2.upper()] = _(country.name)
 
 LOCATIONS = {
-    'House of Blues Las Vegas ': 'House of Blues'
+    'House of Blues Las Vegas ': 'House of Blues',
+    'Cournon D Auvergne': 'Cournon d\'Auvergne',
 }
 
 ARTISTS = {
@@ -111,6 +112,7 @@ def get_concert(concert_uri):
     # Retrieve concert information
     concert_details = {}
     concert_details["date"] = content['data']['concert']['startDateIsoString']
+
     concert_details["locations"] = [
         translate(content['data']['concert']['location']['name'].title(), LOCATIONS),
         translate(content['data']['concert']['location']['city'].title(), LOCATIONS),
@@ -125,8 +127,7 @@ def get_concert(concert_uri):
 
     for concert_artist in content['data']['concert']['artists']['items']:
         concert_details['artists'].append(translate(concert_artist['data']['profile']['name'], ARTISTS))
-    concert_details['artists'].sort()
-    concert_details['artists'] = set(concert_details['artists'])
+    concert_details['artists'] = sorted(set(concert_details['artists']))
 
     return concert_details
 
@@ -146,7 +147,7 @@ def format_filename(name):
 #
 if __name__ == '__main__':
     # Fetch concerts for all artists
-    for artist in listdir('./content/artists'):
+    for artist in sorted(listdir('./content/artists')):
         file = Path(f"./content/artists/{artist}/index.md")
         if not file.exists():
             continue
