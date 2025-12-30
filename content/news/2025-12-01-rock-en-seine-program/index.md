@@ -22,6 +22,7 @@ artists:
   - Interpol
   - Slowdive
 cover: "cover.jpg"
+hero: "hero.jpg"
 ---
 
 Il y a des annonces qui font l'effet d'une déflagration. Celle de Rock en Seine pour son édition 2026 appartient à cette

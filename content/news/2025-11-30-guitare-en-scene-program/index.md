@@ -9,6 +9,7 @@ artists:
   - Airbourne
   - John Butler
 cover: "cover.jpg"
+hero: "hero.jpg"
 ---
 
 Le festival haut-savoyard dévoile quatre premiers noms pour son édition estivale. Entre soul feutrée, rock alternatif
