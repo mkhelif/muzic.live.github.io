@@ -13,7 +13,7 @@ import requests
 
 # Configure authentication token
 CLIENT_TOKEN=""
-ACCESS_TOKEN=""
+ACCESS_TOKEN="Bearer"
 
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:143.0) Gecko/20100101 Firefox/143.0",
@@ -23,7 +23,7 @@ DEFAULT_HEADERS = {
     "Content-Type": "application/json;charset=UTF-8",
     "Referer": "https://open.spotify.com/",
     "app-platform": "WebPlayer",
-    "spotify-app-version": "1.2.75.457.g9ae6e679",
+    "spotify-app-version": "1.2.81.63.g951e8eb6",
     "client-token": CLIENT_TOKEN,
     "authorization": ACCESS_TOKEN,
     "Origin": "https://open.spotify.com",
