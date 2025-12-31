@@ -4,7 +4,7 @@
         <div id="carousel-recent-news" class="glide">
             <div class="glide__track" data-glide-el="track">
                 <ul class="glide__slides align-items-center">
-                    {{ range (where (where site.RegularPages "Section" "news") "Params.hero" "ne" nil).Limit 5 }}
+                    {{ range (where (where site.RegularPages "Section" "news") "Params.hero" "ne" nil).Limit 6 }}
                         {{ $highlights = $highlights | append .RelPermalink }}
                         <li class="glide__slide text-center mh-100 mw-100">
                             <a href="{{ .RelPermalink }}">
@@ -42,7 +42,7 @@
     <div class="container mt-4" data-pagefind-ignore="all">
         <!-- Other news -->
         <div class="row">
-            {{ range $index, $page := (where site.RegularPages "Section" "news").Limit 12 }}
+            {{ range $index, $page := (where site.RegularPages "Section" "news").Limit 18 }}
                 {{ $visibility := cond (in $highlights $page.RelPermalink) "d-block d-md-none" "" }}
                 <div class="col-12 col-sm-6 col-md-3 news-card mb-4 {{ $visibility }}">
                     <a href="{{ .RelPermalink }}" class="d-block position-relative">
