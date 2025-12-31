@@ -42,7 +42,7 @@
     <div class="container mt-4" data-pagefind-ignore="all">
         <!-- Other news -->
         <div class="row">
-            {{ range $index, $page := (where site.RegularPages "Section" "news") }}
+            {{ range $index, $page := (where site.RegularPages "Section" "news").Limit 12 }}
                 {{ $visibility := cond (in $highlights $page.RelPermalink) "d-block d-md-none" "" }}
                 <div class="col-12 col-sm-6 col-md-3 news-card mb-4 {{ $visibility }}">
                     <a href="{{ .RelPermalink }}" class="d-block position-relative">
@@ -52,6 +52,11 @@
                     </a>
                 </div>
             {{ end }}
+        </div>
+        <div class="row">
+            <div class="text-center">
+                <a class="btn btn-primary" href="/news">Voir plus</a>
+            </div>
         </div>
 
         <!-- Last live reports -->
