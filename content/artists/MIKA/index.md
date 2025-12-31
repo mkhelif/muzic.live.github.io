@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "MIKA"
 cover: "cover.jpg"
 socials:
@@ -13,10 +12,8 @@ socials:
   spotify: "5MmVJVhhYKQ86izuGHzJYA"
 ---
 
-Michael Holbrook Penniman Jr.
-
-débarque dans l'univers musical tel un ouragan coloré, imposant instantanément cette esthétique pop-rock flamboyante qui
-redéfinit les codes du genre.
+Michael Holbrook Penniman Jr. débarque dans l'univers musical tel un ouragan coloré, imposant instantanément cette
+esthétique pop-rock flamboyante qui redéfinit les codes du genre.
 
 Mika développe d'emblée ce style theatral qui mélange influences Queen, Beatles et Elton John dans une synthèse
 personnelle d'une originalité saisissante.
