@@ -4,7 +4,7 @@ title: "Evanescence 2026 : une tournée mondiale monumentale portée par un line
 artists:
   - Evanescence
   - Spiritbox
-  - Puppy
+  - Poppy
   - Nova Twins
   - K.Flay
 cover: "cover.jpg"
