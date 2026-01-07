@@ -3,11 +3,11 @@
     {{- range (where site.RegularPages "Section" "locations") -}}
         {{- if (eq $location.LinkTitle .LinkTitle) -}}
             {{- $locationExist = true -}}
-            {{- .LinkTitle -}}, {{ .Params.address -}}
+            {{- .LinkTitle | safeHTML -}}, {{ .Params.address -}}
         {{- end -}}
     {{- end -}}
     {{- if not $locationExist -}}
         {{- if gt $index 0 }}, {{ end -}}
-        {{- .LinkTitle -}}
+        {{- .LinkTitle | safeHTML -}}
     {{- end -}}
 {{- end -}}
