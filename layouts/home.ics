@@ -6,7 +6,7 @@ X-WR-CALNAME:{{ site.Title }}
 NAME:{{ site.Title }}
 REFRESH-INTERVAL;VALUE=DURATION:P3H
 CALSCALE:GREGORIAN
-{{- range (where site.RegularPages "Section" "events") -}}
+{{ range (where site.RegularPages "Section" "events") -}}
     {{- $context := dict
       "event" .
       "title" (partial "calendar/artists.ics" .)
