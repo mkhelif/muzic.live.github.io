@@ -4,5 +4,7 @@
     {{- partial "calendar/events.ics" (dict "context" . "term" "festivals" "filter" .Title) -}}
 {{- else if eq .term "locations" -}}
     {{ .title }} : {{ partial "calendar/artists.ics" .event }}
+{{- else if eq .term "home" -}}
+    {{ .title }} ({{ (index (.event.GetTerms "locations") 0).LinkTitle }})
 {{- end -}}
 

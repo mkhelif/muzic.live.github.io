@@ -6,17 +6,12 @@ X-WR-CALNAME:{{ site.Title }}
 NAME:{{ site.Title }}
 REFRESH-INTERVAL;VALUE=DURATION:P3H
 CALSCALE:GREGORIAN
-{{- range (where site.RegularPages "Section" "events") }}
-BEGIN:VEVENT
-UID:{{ hash.XxHash .RelPermalink }}
-DTSTAMP:{{ (.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $format }}
-DTSTART:{{ (.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $format }}
-DTEND:{{ (.Params.eventDate | time.AsTime | time.In "UTC") | time.Format $format }}
-SUMMARY:{{- range $index, $artist := .Params.artists -}}
-    {{- if gt $index 0 -}}, {{ end -}}{{- $artist | safeHTML -}}
+{{- range (where site.RegularPages "Section" "events") -}}
+    {{- $context := dict
+      "event" .
+      "title" (partial "calendar/artists.ics" .)
+      "term" "home"
+    -}}
+    {{- partial "calendar/event.ics" $context -}}
 {{- end -}}
-{{ partial "calendar/location.ics" . }}
-{{ partial "calendar/apple.ics" . }}
-END:VEVENT
-{{- end }}
 END:VCALENDAR
