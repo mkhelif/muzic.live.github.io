@@ -3,7 +3,7 @@ title: "Nous rejoindre"
 ---
 
 Vous êtes photographe, journaliste ou rédacteur ? Votre passion est la musique ? Muzic.Live vous offre une scène pour
-vos talents !** Rejoignez une équipe de passionnés et contribuez à un webzine dédié à la scène musicale, des artistes
+vos talents ! Rejoignez une équipe de passionnés et contribuez à un webzine dédié à la scène musicale, des artistes
 émergents aux têtes d'affiche. En partageant votre temps et vos compétences, vous vivrez des expériences uniques et
 enrichissantes au rythme de la musique.
 
@@ -14,9 +14,9 @@ aventure humaine et professionnelle unique.
 
 - **Accédez aux événements** : soyez aux premières loges des concerts, festivals et rencontres en coulisse pour
   réaliser vos reportages.
-- **Valorisez vos compétences** : Bénéficiez d'une vitrine exceptionnelle pour votre travail. Chaque article et chaque
+- **Valorisez vos compétences** : bénéficiez d'une vitrine exceptionnelle pour votre travail. Chaque article et chaque
   photo seront publiés sous votre nom, enrichissant votre portfolio.
-- **Faites vivre la scène musicale** : Votre contribution est essentielle pour soutenir et promouvoir la diversité
+- **Faites vivre la scène musicale** : votre contribution est essentielle pour soutenir et promouvoir la diversité
   artistique. Vous jouerez un rôle actif dans la découverte de nouveaux talents.
 
 
