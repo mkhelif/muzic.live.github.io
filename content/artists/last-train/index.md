@@ -8,6 +8,6 @@ socials:
   x: "bandlasttrain"
   youtube: "@lasttrainband"
   web: "https://www.lasttrain.fr/"
-  tidal: "4748134"
+  tidal: "5876814"
   spotify: "4S47feOS2ATuhc7Ao5ilfG"
 ---
