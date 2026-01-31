@@ -4,6 +4,8 @@ artists:
   - 16 HORSEPOWER
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/16-horsepower-us-/docks/3561685"
 ---

@@ -4,6 +4,8 @@ artists:
   - Cabaret Voltaire
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/cabaret-voltaire-uk-/docks/3547536"
 ---

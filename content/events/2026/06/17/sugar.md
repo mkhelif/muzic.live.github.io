@@ -4,6 +4,8 @@ artists:
   - Sugar
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/sugar-us-/docks/3595227"
 ---

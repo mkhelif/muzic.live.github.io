@@ -5,6 +5,8 @@ artists:
   - BASHT.
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/miles-kane-uk-/docks/3529015"
 ---

@@ -4,6 +4,8 @@ artists:
   - Ultra Vomit
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: ""
 ---

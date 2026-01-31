@@ -4,6 +4,8 @@ artists:
   - Del Water Gap
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/-del-water-gap-us-/docks/3517672"
 ---

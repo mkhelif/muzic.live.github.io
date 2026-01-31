@@ -5,6 +5,8 @@ artists:
   - Beka
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/yvnnis-fr-/docks/3517858"
 ---

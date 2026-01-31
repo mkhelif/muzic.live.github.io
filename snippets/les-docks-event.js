@@ -49,6 +49,8 @@ artists:
   - ${artist}${supportsList}
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "${seetickets}"
 ---

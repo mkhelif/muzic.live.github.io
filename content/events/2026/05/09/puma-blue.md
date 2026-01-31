@@ -4,6 +4,8 @@ artists:
   - Puma Blue
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/puma-blue-uk-/l-octogone/3521158"
 ---

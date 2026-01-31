@@ -4,6 +4,8 @@ artists:
   - Cat Power
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/cat-power-us-/docks/3532003"
 ---

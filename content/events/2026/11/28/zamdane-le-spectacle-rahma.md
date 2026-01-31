@@ -5,6 +5,8 @@ artists:
   - Le Spectacle RAHMA
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: "/ch/event/zamdane-ma-le-spectacle-rahma/docks/3565526"
 ---

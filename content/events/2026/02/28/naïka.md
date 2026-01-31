@@ -4,6 +4,8 @@ artists:
   - Naïka
 locations:
   - Les Docks
+  - Lausanne
+  - Suisse
 tickets:
   seetickets: ""
 ---
