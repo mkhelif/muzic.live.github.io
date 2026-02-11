@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Marraine Coque"
 cover: "cover.jpg"
 socials:
