@@ -20,6 +20,9 @@ groupe lauréat d'un Grammy Award a dévoilé les dates de sa tournée mondiale,
 Royaume-Uni et l'Europe pour livrer un tout nouveau set. Mais au-delà des dates, c'est le message qui frappe : une
 tournée entièrement portée par des artistes féminines, reflet des collaborations qui ont jalonné l'année 2025.
 
+![Evanescence tournée](tour.jpg)
+{.mx-auto .d-block .mb-5 .mw-100}
+
 ## Une armada de talents féminins
 
 Le groupe traversera l'Amérique du Nord de juin à août, accompagné de Spiritbox et Nova Twins. Le package changera pour

@@ -4,7 +4,7 @@ title: "Skeletá"
 subtitle: "10 titres, 46:49"
 author: "mkhelif"
 cover: "cover.jpg"
-rank: 5
+rank: 6
 artist: "Ghost"
 tidal: "430783746"
 ---
