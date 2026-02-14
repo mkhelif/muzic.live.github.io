@@ -7,6 +7,8 @@ cover: "cover.jpg"
 rank: 6
 artist: "Ghost"
 tidal: "430783746"
+todo:
+  - Check if makes sense or rewrite
 ---
 
 Tobias Forge avait déjà l'album suivant cartographié en janvier 2022, deux mois avant même qu'Impera ne sorte. Voilà
