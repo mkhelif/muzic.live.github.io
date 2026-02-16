@@ -58,9 +58,9 @@ main, arrache à son instrument des textures abrasives qui dialoguent avec les g
 rythmes tribaux, portés par une batterie tour à tour chirurgicale et dévastatrice, viennent renforcer l'ambiance
 chamanique qui imprègne l'ensemble.
 
-On note un instrument singulier — une sorte d'hybride entre cornemuse et harpe, dont les sonorités organiques ajoutent
-une couche supplémentaire à l'édifice. C'est dans ces détails que réside la richesse du projet *Iconoclasts* en version
-live : chaque musicien apporte sa propre couleur à une palette déjà somptueuse.
+On note un instrument singulier — je découvre par la suite qu'il s'agit d'un cantiga organetto, dont les sonorités
+organiques ajoutent une couche supplémentaire à l'édifice. C'est dans ces détails que réside la richesse du projet
+*Iconoclasts* en version live : chaque musicien apporte sa propre couleur à une palette déjà somptueuse.
 
 Mais le moment de grâce absolue, c'est le final. Anna von Hausswolff attaque a cappella — sa voix nue, sans filet,
 suspendue dans le silence de la salle. Puis, lentement, inexorablement, la guitare saturée monte. Le clavier s'épaissit.
