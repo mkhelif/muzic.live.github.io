@@ -11,8 +11,6 @@ socials:
   web: "https://www.annavonhausswolff.com/"
   tidal: "3664307"
   spotify: "1eiXrvua27VlWgZ9kiaIn6"
-todo:
-  - Add cover image from concert
 ---
 
 Anna von Hausswolff est une artiste suédoise née le 6 septembre 1986 à Göteborg, figure incontournable de la scène
