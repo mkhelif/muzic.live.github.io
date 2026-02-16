@@ -65,8 +65,8 @@ organiques ajoutent une couche supplémentaire à l'édifice. C'est dans ces dé
 Mais le moment de grâce absolue, c'est le final. Anna von Hausswolff attaque a cappella — sa voix nue, sans filet,
 suspendue dans le silence de la salle. Puis, lentement, inexorablement, la guitare saturée monte. Le clavier s'épaissit.
 Le saxophone se fait grondement. L'ensemble se densifie jusqu'à atteindre une intensité quasi insoutenable — une
-ambiance envoûtante, presque sacrée, qui fait de ce concert ce qu'il a toujours promis d'être : un rituel. L'intro et l'
-outro se répondent comme les deux pans d'une même prière. Le cercle se referme.
+ambiance envoûtante, presque sacrée, qui fait de ce concert ce qu'il a toujours promis d'être : un rituel. L'intro et
+l'outro se répondent comme les deux pans d'une même prière. Le cercle se referme.
 
 Standing ovation. Le public de l'Alhambra, debout, rend les armes. Difficile de faire autrement.
 
