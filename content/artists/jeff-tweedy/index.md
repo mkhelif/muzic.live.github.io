@@ -10,6 +10,8 @@ socials:
   web: "https://jefftweedy.com/"
   tidal: "64633"
   spotify: "2rDxtYUzTAYJJE3Bl3Z5IN"
+todo:
+  - Add cover from concert
 ---
 
 Jeff Tweedy est un auteur-compositeur-interprète et guitariste américain né le 25 août 1967 à Belleville, dans
