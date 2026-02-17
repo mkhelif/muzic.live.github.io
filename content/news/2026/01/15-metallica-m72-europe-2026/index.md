@@ -3,6 +3,10 @@ date: "2026-01-15T10:00:00+02:00"
 title: "Metallica : la tournée M72 revient en Europe avec Gojira et Pantera"
 artists:
   - Metallica
+  - Gojira
+  - Pantera
+  - Knocked Loose
+  - Avatar
 cover: "cover.jpg"
 ---
 

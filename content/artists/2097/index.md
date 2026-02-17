@@ -8,6 +8,8 @@ socials:
   youtube: "@2097_band"
   web: "https://2097.fr/"
   tidal: "21889863"
+todo:
+  - Add picture from concert
 ---
 
 Le groupe de rock bisontin, « 2097 », est fondé en 2017 par Victor (Batteur) ensuite rejoins par Antonin (Guitare),

@@ -10,5 +10,7 @@ socials:
   youtube: "@Feldup"
   tidal: "10112501"
   spotify: "2x7iNShxKzU4gIZIdbHMBM"
+todo:
+  - Write artist bio
 ---
 

@@ -8,4 +8,6 @@ socials:
   web: "https://www.mystically.net/"
   tidal: "17558331"
   spotify: "38Y1Q2c1EOdNAyvNyZjUeC"
+todo:
+  - Write artist bio
 ---

@@ -11,5 +11,7 @@ socials:
   web: "https://www.ash-music.com/"
   tidal: "30190973"
   spotify: "4nkuNzBcYGlNmAqFWbHLqS"
+todo:
+  - Write artist bio
 ---
 

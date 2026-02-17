@@ -8,4 +8,6 @@ socials:
   web: "https://www.noepreszow.com"
   tidal: "13810946"
   spotify: "6CZhbpXpR3VJNQWFkwd2Ic"
+todo:
+  - Write artist bio
 ---

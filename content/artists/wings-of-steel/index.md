@@ -11,4 +11,6 @@ socials:
   web: "https://wingsofsteelband.com/"
   tidal: "21163115"
   spotify: "0y43lCvntQtyFlhCABGb0T"
+todo:
+  - Write artist bio
 ---

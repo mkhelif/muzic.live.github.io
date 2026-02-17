@@ -8,5 +8,7 @@ socials:
   youtube: "@VernisRougeMusic"
   tidal: "16658581"
   spotify: "6Miu2EYSCD74K7VzDYostC"
+todo:
+  - Write artist bio
 ---
 
