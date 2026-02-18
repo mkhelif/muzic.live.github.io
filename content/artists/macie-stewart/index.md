@@ -10,8 +10,6 @@ socials:
   web: "https://maciestewart.com/"
   tidal: "7352947"
   spotify: "4bAFS16s5qBFYuOM4gQ5Xv"
-todo:
-  - Add cover from concert
 ---
 
 Macie Stewart est une multi-instrumentiste, compositrice, autrice-compositrice et improvisatrice basée à Chicago, dans
