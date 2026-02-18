@@ -1,9 +1,8 @@
 ---
-draft: true
 date: "2026-02-14T19:50:00+02:00"
 title: "Antigel 2026 - Eckhart, Last Train"
 author: "mkhelif"
-cover: "pictures/last-train/.jpg"
+cover: "pictures/last-train/01.jpg"
 rank: 10
 locations:
   - L'Alhambra
@@ -14,8 +13,6 @@ festivals:
 artists:
   - Eckhart
   - Last Train
-todo:
-  - Add pictures for Last Train
 ---
 
 Ce soir, Antigel avait choisi de secouer les murs de l'Alhambra. Et le moins que l'on puisse dire, c'est que le contrat
