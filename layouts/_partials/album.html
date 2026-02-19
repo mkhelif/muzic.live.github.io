@@ -5,9 +5,11 @@
         <div class="col-12 {{ if .Params.tidal }}col-md-8{{ end }}">
             <div class="d-flex">
                 <p class="flex-grow-1">
-                    {{ range (where .Site.AllPages "Section" "artists") }}
-                        {{ if eq .LinkTitle $.Params.artist }}
-                            <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+                    {{ range hugo.Sites }}
+                        {{ range (where .Pages "Section" "artists") }}
+                            {{ if eq .LinkTitle $.Params.artist }}
+                                <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+                            {{ end }}
                         {{ end }}
                     {{ end }}
                 </p>
