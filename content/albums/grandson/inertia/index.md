@@ -1,6 +1,6 @@
 ---
 date: "2025-09-05T00:00:00+02:00"
-title: "Inertia"
+title: "INERTIA"
 subtitle: "10 titres, 29:34"
 author: "mkhelif"
 cover: "cover.jpg"
