@@ -1,5 +1,5 @@
 ---
-title: "Portugal. The Man"
+title: "Portugal. the Man"
 cover: "cover.jpg"
 socials:
   facebook: "portugaltheman"
