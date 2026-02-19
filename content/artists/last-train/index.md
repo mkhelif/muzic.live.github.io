@@ -10,8 +10,6 @@ socials:
   web: "https://www.lasttrain.fr/"
   tidal: "5876814"
   spotify: "4S47feOS2ATuhc7Ao5ilfG"
-todo:
-  - Add cover from concert
 ---
 
 Last Train est un groupe de rock français originaire de Mulhouse, en Alsace, formé en 2014. Quatuor électrique porté par
