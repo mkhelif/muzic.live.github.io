@@ -1,9 +1,8 @@
 ---
-draft: true
 date: "2025-02-22T20:00:00+02:00"
 title: "Haevn"
 author: "mkhelif"
-cover: "pictures/haevn/01.jpg"
+cover: "pictures/haevn/06.jpg"
 rank: 10
 locations:
   - Les Docks
