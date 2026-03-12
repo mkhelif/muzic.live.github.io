@@ -12,5 +12,8 @@ socials:
   web: "https://www.flecheloveofficiel.com/"
   tidal: "8760785"
   spotify: "7kGHEZX0pDGy9ur8pPZUA6"
+todo:
+  - Add picture from concert
+  - Add description
 ---
 
