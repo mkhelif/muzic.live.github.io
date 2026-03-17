@@ -4,114 +4,112 @@ title: "Paléo 2026 : The Cure, Gorillaz, Katy Perry, Orelsan et Lorde en têtes
 festivals:
   - Paléo
 artists:
-  - Twenty One Pilots
+  - Adèle Castillon
+  - Antti Paalanen
   - Asaf Avidan
+  - Ásgeir
+  - AURA
   - Balu Brigada
-  - Skáld
-  - Sprints
-  - Witch Club Satan
-  - Ditter
-  - Soft Loft
-  - Maustetytöt
-  - Lorde
-  - Suzane
-  - Sam Quealy
-  - Perceval
-  - Upsilone
-  - OkGiorgio
-  - Dylan Dylan
+  - Basta Lion
+  - Björn Again
+  - Bob Sinclar
+  - Bound by Endogamy
+  - Braises de Velours
+  - Camille Doe
+  - Camille Yembe
   - Club Katel
+  - Deize Tigrona
+  - Diffrent
+  - Disiz
+  - Ditter
+  - DJ Schnake
+  - Dope Saint Jude
+  - Doucesoeur
+  - Dylan Dylan
+  - Eihwar
+  - Eivør
+  - Ensemble Vocal Utopie — Carmina Burana
+  - Esaïa
+  - Estelle Zamme
+  - Eto
+  - Feu! Chatterton
+  - Gims
+  - Gorillaz
+  - Helena
+  - Hialøsa
+  - Hindarfjäll
+  - Ino Casablanca
+  - Jen Cardini
+  - Jok'Air
+  - Joshua Idehen
+  - Julien Clerc
+  - Kabylie Minogue
+  - Katarina Barruk
+  - Katy Perry
+  - Kendal
+  - Keny Arkana
+  - Kompromat
+  - La Valentina
+  - Legit Girl DJ
+  - Linapary
+  - Linlin
+  - Little Lion Sound
+  - Lorde
+  - Luiza
+  - Marara Kelly
+  - Marguerite
+  - Marie Jay
+  - Maustetytöt
+  - Max Baby
+  - Miki
+  - Morcheeba
+  - Mosimann
+  - Nashwa
+  - Nonante
+  - Nusantara Beat
+  - OkGiorgio
+  - Omega Nebula
+  - Open Season
+  - Orelsan
+  - Perceval
+  - Riria
+  - Roni Size
+  - Roxane
+  - Saint Levant
+  - Sam Quealy
+  - Sam Sauvage
+  - Skáld
+  - Soft Loft
+  - Solann
+  - Sprints
+  - St Graal
+  - Steve'n'Seagulls
+  - Sueilo
+  - Suzane
+  - Sylvie Kreusch
+  - Tarrak
+  - Teksti-TV 666
   - The Cure
   - The Last Dinner Party
   - The Young Gods
-  - Eivør
-  - Sylvie Kreusch
-  - Witch Club Satan
-  - Max Baby
-  - Nonante
-  - Feu! Chatterton
-  - Sam Sauvage
-  - Ásgeir
-  - St Graal
-  - Kompromat
-  - Jen Cardini
-  - Kendal
-  - Zaatar
-  - Bound by Endogamy
-  - Gorillaz
-  - Morcheeba
-  - Nusantara Beat
-  - Steve'n'Seagulls
-  - Hindarfjäll
   - Theodora
-  - Disiz
-  - Saint Levant
-  - Miki
-  - Ino Casablanca
-  - Joshua Idehen
-  - Marie Jay
-  - AURA
-  - Riria
-  - Diffrent
-  - Antti Paalanen
-  - Camille Doe
-  - Braises de Velours
-  - Orelsan
-  - Yamê
-  - Keny Arkana
-  - Roxane
-  - Sueilo
-  - Julien Clerc
-  - Solann
-  - Camille Yembe
-  - Mosimann
-  - Urumi
-  - DJ Schnake
-  - Legit Girl DJ
-  - Nashwa
-  - Estelle Zamme
-  - Björn Again
-  - Eihwar
-  - Värttinä
-  - Katarina Barruk
-  - Katy Perry
-  - Vanessa Paradis
-  - Helena
-  - Adèle Castillon
-  - Marguerite
-  - Vald
-  - Vladimir Cauchemar
-  - Todiefor
-  - Kabylie Minogue
-  - Linapary
-  - Deize Tigrona
-  - Doucesoeur
-  - Marara Kelly
-  - Jok'Air
-  - La Valentina
-  - Dope Saint Jude
-  - Linlin
-  - Eto
-  - Tarrak
-  - Trolska Polska
-  - Teksti-TV 666
-  - Gims
-  - Zaz
-  - Luiza
-  - Timmy Trumpet
-  - Bob Sinclar
-  - Roni Size
   - THK
-  - Xana Romeo
-  - Little Lion Sound
-  - Basta Lion
-  - Omega Nebula
-  - Esaïa
-  - Open Season
-  - Ensemble Vocal Utopie — Carmina Burana
+  - Timmy Trumpet
+  - Todiefor
   - Trolska Polska
   - Tuuletar
-  - Hialøsa
+  - Twenty One Pilots
+  - Upsilone
+  - Urumi
+  - Vald
+  - Vanessa Paradis
+  - Värttinä
+  - Vladimir Cauchemar
+  - Witch Club Satan
+  - Xana Romeo
+  - Yamê
+  - Zaatar
+  - Zaz
 cover: "cover.jpg"
 hero: "hero.jpg"
 ---
