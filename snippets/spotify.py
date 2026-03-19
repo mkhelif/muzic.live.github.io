@@ -19,11 +19,11 @@ DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:143.0) Gecko/20100101 Firefox/143.0",
     "Accept": "application/json",
     "Accept-Language": "en-GB",
-    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Accept-Encoding": "application/json",
     "Content-Type": "application/json;charset=UTF-8",
     "Referer": "https://open.spotify.com/",
     "app-platform": "WebPlayer",
-    "spotify-app-version": "1.2.82.361.gd53c2e4e",
+    "spotify-app-version": "1.2.86.442.gda390418",
     "client-token": CLIENT_TOKEN,
     "authorization": ACCESS_TOKEN,
     "Origin": "https://open.spotify.com",
@@ -34,7 +34,7 @@ DEFAULT_HEADERS = {
     "Priority": "u=4",
     "Pragma": "no-cache",
     "Cache-Control": "no-cache",
-    "TE": "trailer"
+    "TE": "trailers"
 }
 
 french = gettext.translation('iso3166-1', pycountry.LOCALES_DIR, languages = ['fr'])
@@ -61,29 +61,29 @@ def get_artist_concerts(spotify_id):
         'https://api-partner.spotify.com/pathfinder/v2/query',
         json = {
             "variables": {
-                "artistUri": f"spotify:artist:{spotify_id}",
-                "geoHash": None,
-                "includeNearby": False
+                "uri": f"spotify:artist:{spotify_id}",
+                "preReleaseV2": False,
+                "locale": ""
             },
-            "operationName": "ArtistConcerts",
+            "operationName": "queryArtistOverview",
             "extensions": {
                 "persistedQuery": {
                     "version": 1,
-                    "sha256Hash": "ef53c43b865496b9890b7167eab1dc614a8949ef9451b3c41184ea888de8bd2b" # Apparently can remain the same
+                    "sha256Hash": "5b9e64f43843fa3a9b6a98543600299b0a2cbbbccfdcdcef2402eb9c1017ca4c" # Apparently can remain the same
                 }
             }
         },
         headers = DEFAULT_HEADERS
     )
     if not response.ok:
-        raise Exception(f"Failed to fetch concerts ({response.status_code})")
+        raise Exception(f"Failed to fetch artist information ({response.status_code}): {response.content}")
 
     # For each concert, load its details
     concerts_list = []
-    for concert_info in response.json()['data']['concerts']['concerts']['items']:
+    for concert_info in response.json()['data']['artistUnion']['goods']['concerts']['items']:
         concert = get_concert(concert_info['data']['uri'])
         if concert is not None:
-          concerts_list.append(concert)
+            concerts_list.append(concert)
     return concerts_list
 
 def get_concert(concert_uri):
