@@ -112,3 +112,5 @@ Blévennec jusqu'à la codirection de Priscille Alber et Guillaume Noyé, le fes
 est une langue de création vivante, plurielle, en perpétuel renouvellement. Que l'on vienne pour Oxmo Puccino ou pour un
 nom découvert sur l'affiche cinq minutes avant le concert, l'expérience est la même : celle d'un festival qui met la
 musique — et le texte — au centre de tout, dans une ville qui, chaque mars, retrouve sa voix.
+
+{{< carousel pictures="pictures" alt="Voix de Fête" reverse="true" >}}
