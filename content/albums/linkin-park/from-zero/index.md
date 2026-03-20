@@ -6,6 +6,7 @@ author: "mkhelif"
 cover: "cover.jpg"
 rank: 9
 artist: "Linkin Park"
+album: "5QfFvOMOJ0CrIDmu33RmSJ"
 tidal: "396931349"
 ---
 

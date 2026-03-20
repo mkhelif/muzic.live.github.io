@@ -6,6 +6,7 @@ author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
 artist: "Rodrigo y Gabriela"
+spotify: "5PVxkqY37lh5zCftJmv0g0"
 tidal: "289630560"
 ---
 

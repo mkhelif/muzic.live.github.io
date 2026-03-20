@@ -6,6 +6,7 @@ author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
 artist: "Last Train"
+spotify: "39ERFFU6V30kTOEZbsznoH"
 tidal: "413873110"
 ---
 

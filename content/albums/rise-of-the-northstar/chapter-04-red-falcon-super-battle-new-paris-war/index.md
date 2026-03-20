@@ -6,6 +6,7 @@ author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
 artist: "Rise Of The NorthStar"
+spotify: "3rvuosVjs5t0CyCok0r7Y3"
 tidal: "463156550"
 ---
 

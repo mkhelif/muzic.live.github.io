@@ -6,6 +6,7 @@ author: "mkhelif"
 cover: "cover.jpg"
 rank: 9
 artist: "Larkin Poe"
+spotify: "3j4gz6gqIxtKaW0NHAOZwc"
 tidal: "382280129"
 ---
 

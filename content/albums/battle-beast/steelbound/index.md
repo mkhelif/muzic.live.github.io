@@ -6,6 +6,7 @@ author: "mkhelif"
 cover: "cover.jpg"
 rank: 7
 artist: "Battle Beast"
+spotify: "2729tzbbE6CeRuFmbGOUry"
 tidal: "464397628"
 ---
 

@@ -6,6 +6,7 @@ author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
 artist: "Grandson"
+album: "5Srzn7hnU7DcsvD6BBTjHC"
 tidal: "437360262"
 ---
 

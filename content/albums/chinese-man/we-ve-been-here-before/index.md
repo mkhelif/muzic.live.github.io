@@ -6,6 +6,7 @@ author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
 artist: "Chinese Man"
+spotify: "5Y5CBLFXoXh67bJrF76ivt"
 tidal: "338319361"
 ---
 

@@ -6,6 +6,7 @@ author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
 artist: "Faada Freddy"
+spotify: "591SAjhEIu4bVOEe17Ryhx"
 tidal: "307512117"
 ---
 

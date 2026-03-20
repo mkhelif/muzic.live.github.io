@@ -7,6 +7,9 @@ author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
 artist: "Portugal. The Man"
+spotify: "7pbhvtNUvp160w3qgtwCCg"
 tidal: "457012625"
+todo:
+  - Write review
 ---
 

@@ -2,6 +2,13 @@
 
 <div class="container">
     {{ partial "social.html" . }}
+
+    {{ with .Params.socials }}
+        {{ with .spotify }}
+            <div class="mb-4">{{ partial "embed/spotify-artist.html" . }}</div>
+        {{ end }}
+    {{ end }}
+
     {{ partial "content.html" . }}
 
     {{ partial "news.html" (dict "context" . "term" "artists" "filter" .Title) }}

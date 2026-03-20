@@ -6,6 +6,7 @@ author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
 artist: "Nothing More"
+spotify: "6bo0qsybdHj6lP2Hr0flUj"
 tidal: "355013613"
 ---
 

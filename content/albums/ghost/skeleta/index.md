@@ -6,6 +6,7 @@ author: "mkhelif"
 cover: "cover.jpg"
 rank: 6
 artist: "Ghost"
+spotify: "2PFJKjBqXpYrRcdClhfcnX"
 tidal: "430783746"
 todo:
   - Check if makes sense or rewrite

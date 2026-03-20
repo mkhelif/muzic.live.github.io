@@ -1,0 +1,12 @@
+<div id="spotify-album-{{ . }}"></div>
+<script type="application/javascript">
+    window.onSpotifyIframeApiReady = iframeApi => {
+        const element = document.getElementById("spotify-album-{{ . }}");
+        const options = {
+            width: "100%",
+            uri: "spotify:album:{{ . }}"
+        };
+        const callback = embedController => {};
+        iframeApi.createController(element, options, callback);
+    };
+</script>

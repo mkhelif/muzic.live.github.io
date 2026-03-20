@@ -1,13 +1,16 @@
 ---
 draft: true
-date: "2026-03-06T00:00:00+02:00"
+date: "2026-02-13T00:00:00+02:00"
 title: "Wildlive"
-subtitle: "TODO"
+subtitle: "20 titres, 1:29:41"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
 artist: "Powerwolf"
-tidal: "TODO"
+spotify: "0sYsti82VA37zLESxDYVsm"
+tidal: "466546699"
+todo:
+  - Write review
 ---
 
 TODO
