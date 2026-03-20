@@ -4,14 +4,34 @@
 
     <div class="d-flex flex-row justify-content-between mb-5">
         <span>
-            {{ range $.GetTerms "artists" }}
-                <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
-            {{ end }}
-            {{ range $.GetTerms "albums" }}
-                <a class="badge bg-warning text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
-            {{ end }}
-            {{ range $.GetTerms "festivals" }}
-                <a class="badge bg-success text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+            {{ range hugo.Sites }}
+                {{ $site := . }}
+                {{ range $.GetTerms "artists" }}
+                    {{ $term := . }}
+                    {{ range (where $site.RegularPages "Section" "artists") }}
+                        {{ if eq $term.LinkTitle .LinkTitle }}
+                            <a class="badge bg-primary text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+
+                {{ range $.GetTerms "albums" }}
+                    {{ $term := . }}
+                    {{ range (where $site.RegularPages "Section" "albums") }}
+                        {{ if eq $term.LinkTitle .LinkTitle }}
+                            <a class="badge bg-warning text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+
+                {{ range $.GetTerms "albums" }}
+                    {{ $term := . }}
+                    {{ range (where $site.RegularPages "Section" "festivals") }}
+                        {{ if eq $term.LinkTitle .LinkTitle }}
+                            <a class="badge bg-success text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
             {{ end }}
         </span>
         <small>

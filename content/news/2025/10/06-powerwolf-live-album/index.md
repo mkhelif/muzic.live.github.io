@@ -4,7 +4,7 @@ title: "Powerwolf immortalise leur show le plus spectaculaire avec Wildlive"
 artists:
   - Powerwolf
 albums:
-  - Wildlive
+  - Wildlive (Live at Olympiahalle)
 hero: "hero.jpg"
 cover: "cover.jpg"
 ---
