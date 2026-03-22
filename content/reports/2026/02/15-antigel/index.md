@@ -1,9 +1,8 @@
 ---
-draft: true
 date: "2026-02-15T19:30:00+02:00"
 title: "Antigel 2026 - Macie Stewart, Jeff Tweedy"
 author: "mkhelif"
-cover: "pictures/jeff-tweedy/.jpg"
+cover: "pictures/jeff-tweedy/09.jpg"
 rank: 8
 locations:
   - L'Alhambra
