@@ -4,7 +4,7 @@
 
         <!-- Pages -->
         {{ $pages := where site.RegularPages "Section" .Section }}
-        {{ if (cond (in (slice "reports" "albums" "news") .Section)) }}
+        {{ if (in (slice "reports" "albums" "news") .Section) }}
             {{ $pages = $pages.ByDate.Reverse }}
         {{ else }}
             {{ $pages = $pages.ByTitle }}
