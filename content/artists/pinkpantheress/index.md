@@ -6,6 +6,7 @@ socials:
   tiktok: "@pinkpantheress"
   youtube: "@ponies721"
   web: "https://www.pantheress.pink/"
+  tidal: "23409727"
   spotify: "78rUTD7y6Cy67W1RVzYs7t"
 todo:
   - Add picture from concert
