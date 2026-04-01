@@ -10,6 +10,8 @@ socials:
   web: "https://www.tylaworld.com/"
   tidal: "3606450"
   spotify: "3SozjO3Lat463tQICI9LcE"
+todo:
+  - Add picture from concert
 ---
 
 Tyla, de son vrai nom Tyla Laura Seethal, est une chanteuse, danseuse et auteure-compositrice sud-africaine née le 30
