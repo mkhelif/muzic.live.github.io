@@ -72,6 +72,7 @@ artists:
   - Zara Larsson
   - ¥ØU$UK€ ¥UK1MAT$U
 cover: "cover.jpg"
+hero: "hero.jpg"
 ---
 
 Soixante ans et aucun signe de lassitude. Le Montreux Jazz Festival a dévoilé ce mardi la programmation de son édition
@@ -84,6 +85,9 @@ L'événement marque surtout le retour tant attendu dans le Centre des Congrès 
 Montreux Jazz Lab (2 293 places). Les festivités s'accompagneront d'un tout nouveau club électro de 1 000 places, de
 terrasses réaménagées et d'un parc de Vernex transformé en espace restaurant-plage — les artistes du club seront
 annoncés en juin.
+
+![Programme Montreux Jazz Festival 2026](program.jpg)
+{.mx-auto .d-block .mb-5 .mw-100}
 
 ## RAYE en majesté pour ouvrir le bal
 
