@@ -32,6 +32,12 @@
     {{ if .Params.socials.spotify }}
         <a class="me-2 align-middle" href="https://open.spotify.com/artist/{{ .Params.socials.spotify }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-spotify"></i></a>
     {{ end }}
+    {{ if .Params.socials.apple }}
+        <a class="me-2 align-middle" href="https://music.apple.com/artist/{{ .Params.socials.spotify }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-apple"></i></a>
+    {{ end }}
+    {{ if .Params.socials.amazon }}
+        <a class="me-2 align-middle" href="https://music.amazon.com/artists/{{ .Params.socials.spotify }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-amazon"></i></a>
+    {{ end }}
     {{ if .Params.socials.soundcloud }}
         <a class="me-2 align-middle" href="https://soundcloud.com/{{ .Params.socials.soundcloud }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-soundcloud"></i></a>
     {{ end }}
