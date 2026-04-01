@@ -32,6 +32,9 @@
     {{ if .Params.socials.spotify }}
         <a class="me-2 align-middle" href="https://open.spotify.com/artist/{{ .Params.socials.spotify }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-spotify"></i></a>
     {{ end }}
+    {{ if .Params.socials.deezer }}
+        <a class="me-2 align-middle" href="https://www.deezer.com/artist/{{ .Params.socials.spotify }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-deezer"></i></a>
+    {{ end }}
     {{ if .Params.socials.apple }}
         <a class="me-2 align-middle" href="https://music.apple.com/artist/{{ .Params.socials.spotify }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-apple"></i></a>
     {{ end }}
@@ -41,4 +44,5 @@
     {{ if .Params.socials.soundcloud }}
         <a class="me-2 align-middle" href="https://soundcloud.com/{{ .Params.socials.soundcloud }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-soundcloud"></i></a>
     {{ end }}
+    <!-- TODO Songkick / Bandsintown -->
 </p>

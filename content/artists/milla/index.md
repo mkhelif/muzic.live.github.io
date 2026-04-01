@@ -10,8 +10,8 @@ socials:
   web: "https://millamusic.ch/"
   tidal: "24735"
   spotify: "6rE5eLk3qCfZo8LDBKuYxN"
-  apple: "milla/637462"
-  amazon: "B0DSPKDBGP/milla"
+  apple: "637462"
+  amazon: "B0DSPKDBGP"
   email: "milla@millamusic.ch"
 todo:
   - Add cover from concert picture
