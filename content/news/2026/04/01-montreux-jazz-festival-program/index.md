@@ -136,27 +136,6 @@ l'Israélienne Noga Erez, la Portoricaine Young Miko ou encore le Japonais ¥ØU
 internationale de cette édition, qui voit 22 pays de tous les continents représentés. Plus de quarante concerts seront
 des exclusivités suisses.
 
-## La programmation jour par jour
-
-| Date                | Auditorium Stravinski                      | Montreux Jazz Lab                                            |
-|---------------------|--------------------------------------------|--------------------------------------------------------------|
-| **Jeu. 3 juillet**  | RAYE & Special Guests                      | Sekou · Eddy de Pretto × Maud Le Pladec                      |
-| **Ven. 4 juillet**  | Maro · Sting                               | Dove Ellis · Angus & Julia Stone                             |
-| **Sam. 5 juillet**  | Aldous Harding · Nick Cave & The Bad Seeds | Danny L Harle · Ascendant Vierge · ¥ØU$UK€ ¥UK1MAT$U         |
-| **Dim. 6 juillet**  | Hemlocke Springs · PinkPantheress          | KWN · Sienna Spiro                                           |
-| **Lun. 7 juillet**  | Guitarricadelafuente · Conan Gray          | Liniker · Naïka                                              |
-| **Mar. 8 juillet**  | Sasha Keable · Tyla                        | Nectar Woode · Dermot Kennedy                                |
-| **Mer. 9 juillet**  | Joy Crookes · John Legend                  | Ben Böhmer Live · Adriatique                                 |
-| **Jeu. 10 juillet** | Yebba · Givēon                             | Selah Sue and The Gallands · Agnes Obel                      |
-| **Ven. 11 juillet** | The Isley Brothers · The Roots             | Pale Jay · Dabeull Live Band                                 |
-| **Sam. 12 juillet** | Faouzia · Zara Larsson                     | R2 · Makala · RnBoi · Bekar                                  |
-| **Dim. 13 juillet** | Rival Sons · Deep Purple                   | Erin LeCount · Paris Paloma · Iliona                         |
-| **Lun. 14 juillet** | Sofia Camara · Lewis Capaldi               | Don West · Charlotte Cardin                                  |
-| **Mar. 15 juillet** | Noga Erez · Moby                           | Danny Ocean · Young Miko                                     |
-| **Mer. 16 juillet** | Fresh Mula · Jovanotti                     | Billy Cobham's Time Machine · Marcus Miller (We Want Miles!) |
-| **Jeu. 17 juillet** | Loyle Carner · Vulfpeck                    | Charles Lloyd · Gregory Porter                               |
-| **Ven. 18 juillet** | Van Morrison · James Taylor                | Mind Enterprises · Cerrone Disco Symphonic                   |
-
 Avec cette programmation à la croisée des styles, des continents et des générations, le Montreux Jazz Festival confirme
 qu'à 60 ans, il reste l'un des rendez-vous musicaux les plus essentiels au monde — un lieu où le jazz dialogue encore
 avec toutes les musiques, au bord d'un lac qui n'a rien perdu de sa magie.
