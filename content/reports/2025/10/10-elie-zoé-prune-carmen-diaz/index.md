@@ -3,7 +3,7 @@ draft: true
 date: "2025-10-10T20:30:00+02:00"
 title: "Prune Carmen Diaz, Elie Zoé"
 author: "mkhelif"
-cover: "pictures/elie-zoe"
+cover: "pictures/elie-zoe/04.jpg"
 rank: 7
 locations:
   - Les Docks
