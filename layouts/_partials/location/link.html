@@ -1,0 +1,24 @@
+{{ $locationId := . }}
+{{ range hugo.Sites }}
+    {{ range (where .Pages "Section" "locations") }}
+        {{ if eq .Params.locationId $locationId }}
+            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{ range .GetTerms "locations" }}
+{{ $location := .LinkTitle }}
+{{ $match := false }}
+{{ range (where $.Site.RegularPages "Section" "locations") }}
+{{ if (eq .LinkTitle $location) }}
+<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,
+{{ $locations = $locations | append .LinkTitle }}
+{{ $match = true }}
+{{ end }}
+{{ end }}
+{{ if not $match }}
+<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,
+{{ $locations = $locations | append .LinkTitle }}
+{{ end }}
+{{ end }}

@@ -4,10 +4,7 @@ title: "Haevn"
 author: "mkhelif"
 cover: "pictures/haevn/06.jpg"
 rank: 10
-locations:
-  - Les Docks
-  - Lausanne
-  - Suisse
+locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 artists:
   - Haevn
 ---

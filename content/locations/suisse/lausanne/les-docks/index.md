@@ -1,4 +1,5 @@
 ---
+id: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 title: "Les Docks"
 cover: "cover.jpg"
 address: "Avenue de Sévelin 34, 1004 Lausanne, Suisse"

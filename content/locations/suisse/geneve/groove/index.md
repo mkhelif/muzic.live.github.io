@@ -1,4 +1,5 @@
 ---
+id: "ca36524c-d667-407a-a8b2-462071906a22"
 title: "Le Groove"
 cover: "cover.jpg"
 address: "Rue des Gazomètres 9, 1205 Genève, Suisse"

@@ -5,10 +5,7 @@ title: "Milla, Bertrand Belin"
 author: "mkhelif"
 cover: "pictures/bertrand-belin/.jpg"
 rank: 9
-locations:
-  - Les Docks
-  - Lausanne
-  - Suisse
+locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 artists:
   - Milla
   - Bertrand Belin

@@ -1,4 +1,5 @@
 ---
+id: "b9db0ba1-5e88-43c2-9a95-fd4381135612"
 title: "L'Olympia"
 cover: "cover.jpg"
 address: "28 boulevard des Capucines, 75009 Paris, France"

@@ -5,10 +5,7 @@ title: "Prune Carmen Diaz, Elie Zoé"
 author: "mkhelif"
 cover: "pictures/elie-zoe/04.jpg"
 rank: 7
-locations:
-  - Les Docks
-  - Lausanne
-  - Suisse
+locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 artists:
   - Prune Carmen Diaz
   - Elie Zoé

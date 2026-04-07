@@ -47,10 +47,7 @@ copy(`mkdir -p "${directory}" && cat <<EOF > "${directory}/${filename}.md"
 eventDate: "${datetime}"
 artists:
   - ${artist}${supportsList}
-locations:
-  - Les Docks
-  - Lausanne
-  - Suisse
+locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 tickets:
   seetickets: "${seetickets}"
 ---
