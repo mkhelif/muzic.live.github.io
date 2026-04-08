@@ -4,9 +4,7 @@ title: "Guitare en Scène 2024 - Jour 2 - Seven Ages, Larkin Poe, Chris Isaak, R
 author: "mkhelif"
 cover: "pictures/rival-sons/12.jpg"
 rank: 10
-locations:
-  - Saint-Julien-en-Genevois
-  - France
+locationId: "3696b1db-7afd-4eb4-afcc-8bcf4ed56c08"
 festivals:
   - Guitare en Scène
 artists:

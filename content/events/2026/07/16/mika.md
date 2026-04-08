@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-07-16T20:00:00+02:00"
+date: 2026-07-16T20:00:00+02:00
 artists:
   - MIKA
-locations:
-  - Theatre Antique
-  - Vienne
-  - France
+locationId: "c65ba131-abff-4875-bad4-757d85701581"
 ---

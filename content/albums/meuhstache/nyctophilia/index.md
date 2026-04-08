@@ -5,7 +5,8 @@ subtitle: "9 titres, 36:51"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
-artist: "Meuhstache"
+artists:
+  - Meuhstache
 ---
 
 Il y a des albums qui ne se contentent pas d'occuper vos enceintes — ils s'y installent comme une entité invoquée,

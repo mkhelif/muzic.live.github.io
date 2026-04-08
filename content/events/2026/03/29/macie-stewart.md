@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-03-29T19:30:00-07:00"
+date: 2026-03-29T19:30:00-07:00
 artists:
   - Macie Stewart
-locations:
-  - Cascade Theatre
-  - Redding
-  - États-Unis
+locationId: "0304d692-dce2-4a3a-b097-fcbbe1aa8677"
 ---

@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-01-30T19:00:00-08:00"
+date: 2026-01-30T19:00:00-08:00
 artists:
   - Matteo Mancuso
-locations:
-  - The Uc Theatre
-  - Berkeley
-  - États-Unis
+locationId: "9c4b020e-cf94-4a28-98df-d1e1bee64a31"
 ---

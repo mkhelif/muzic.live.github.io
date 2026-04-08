@@ -1,10 +1,7 @@
 ---
-eventDate: "2026-07-19T19:00:00-04:00"
+date: 2026-07-19T19:00:00-04:00
 artists:
   - Djo
   - Tame Impala
-locations:
-  - Cfg Bank Arena
-  - Baltimore
-  - États-Unis
+locationId: "aaecb210-f366-4dcb-b299-a843ec8c1374"
 ---

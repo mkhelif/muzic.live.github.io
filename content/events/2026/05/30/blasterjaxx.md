@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-05-30T17:00:00+02:00"
+date: 2026-05-30T17:00:00+02:00
 artists:
   - Blasterjaxx
-locations:
-  - Astra Music Festival
-  - La Roche-Sur-Foron
-  - France
+locationId: "7314a9b1-7254-45ab-b093-e59a6b81a34a"
 ---

@@ -5,9 +5,7 @@ title: "Atrack'Son 2025 - Jour 2 - Bruno Obéron, Fonkiture, Cinza, Gliz, Marrai
 author: "mkhelif"
 cover: "pictures/"
 rank: 9
-locations:
-  - Orchamps-Vennes
-  - France
+locationId: "a0e3cf66-d5f3-4256-96dd-69e0f505c16f"
 festivals:
   - Atrack'Son
 artists:

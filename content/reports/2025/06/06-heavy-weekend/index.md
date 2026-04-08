@@ -4,10 +4,7 @@ title: "Heavy Weekend 2025 - Jour 1 - Adrian Vandenberg, Battle Beast, Saxon, Po
 author: "mkhelif"
 cover: "pictures/powerwolf/15.jpg"
 rank: 10
-locations:
-  - Zenith Nancy
-  - Nancy
-  - France
+locationId: "73e73a54-9f04-4d46-ab08-824a19a88e54"
 festivals:
   - Heavy Weekend
 artists:

@@ -1,13 +1,10 @@
 ---
-eventDate: "2026-08-22T15:00:00+01:00"
+date: 2026-08-22T15:00:00+01:00
 artists:
   - Andy C
   - Carl Cox
   - David Rodigan
   - Scarlxrd
   - The Prodigy
-locations:
-  - The National Bowl
-  - Milton Keynes
-  - Royaume-Uni
+locationId: "83dd096e-32eb-4040-b4a9-8aaa0996d92b"
 ---

@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-02-13T20:00:00+05:30"
+date: 2026-02-13T20:00:00+05:30
 artists:
   - Pinkshift
-locations:
-  - Antisocial
-  - Mumbai
-  - Inde
+locationId: "6cabf994-59c1-4f94-a353-089987af3f6f"
 ---

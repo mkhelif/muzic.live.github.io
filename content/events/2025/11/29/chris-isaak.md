@@ -1,9 +1,6 @@
 ---
-eventDate: "2025-11-29T20:00:00-05:00"
+date: 2025-11-29T20:00:00-05:00
 artists:
   - Chris Isaak
-locations:
-  - Music Box At The Borgata
-  - Atlantic City
-  - États-Unis
+locationId: "26c21e87-b49e-42b6-b193-bfadd477c8a6"
 ---

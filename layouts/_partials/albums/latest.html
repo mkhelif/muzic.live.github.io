@@ -1,0 +1,7 @@
+<h4 class="mb-4 p-3 bg-primary text-dark">Dernières critiques d'albums</h4>
+{{ range $index, $album := (where site.RegularPages "Section" "albums").Limit 2 }}
+    {{ partial "albums/list-entry.html" (dict "album" $album "index" $index) }}
+{{ end }}
+<p class="text-center">
+    <a class="btn btn-primary" href="/albums">Voir plus</a>
+</p>

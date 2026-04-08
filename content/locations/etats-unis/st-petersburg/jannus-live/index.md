@@ -1,0 +1,17 @@
+---
+id: "41008f54-37b2-4c97-b72f-de9ad9a1b8b8"
+locationId: "80f9848b-8fc8-4e5e-9b4a-0ef0c1337f9c"
+title: "Jannus Live"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

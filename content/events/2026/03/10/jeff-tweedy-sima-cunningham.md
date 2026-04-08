@@ -1,10 +1,7 @@
 ---
-eventDate: "2026-03-10T19:30:00-05:00"
+date: 2026-03-10T19:30:00-05:00
 artists:
   - Jeff Tweedy
   - Sima Cunningham
-locations:
-  - Hoyt Sherman Place
-  - Des Moines
-  - États-Unis
+locationId: "cb92539b-48bf-493a-9f60-f33fd9ad9a0f"
 ---

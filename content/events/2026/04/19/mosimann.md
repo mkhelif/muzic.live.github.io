@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-04-19T00:30:00+02:00"
+date: 2026-04-19T00:30:00+02:00
 artists:
   - Mosimann
-locations:
-  - Fuse
-  - Brussels
-  - Belgique
+locationId: "1195d4b5-d36a-4d44-9a05-1bbc6fb9e894"
 ---

@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-06-28T00:00:00+02:00"
+date: 2026-06-28T00:00:00+02:00
 artists:
   - Mentissa
-locations:
-  - Parc Du Chateau
-  - Saint-Maurice-De-Rémens
-  - France
+locationId: "be12c8f0-75ba-45c4-907c-3c4ecc3bb352"
 ---

@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-08-14T19:00:00-05:00"
+date: 2026-08-14T19:00:00-05:00
 artists:
   - Franz Ferdinand
-locations:
-  - Stubb'S Waller Creek Amphitheater
-  - Austin
-  - États-Unis
+locationId: "7e8061b3-4af5-4151-894e-a7cdc22c97af"
 ---

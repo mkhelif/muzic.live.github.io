@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-10-24T20:00:00+02:00"
+date: 2026-10-24T20:00:00+02:00
 artists:
   - Europe
-locations:
-  - B-K
-  - Stockholm
-  - Suède
+locationId: "768355bb-6f50-4bd2-845c-0f3e75a7135e"
 ---

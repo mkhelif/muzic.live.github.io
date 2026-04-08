@@ -4,9 +4,7 @@ title: "Festival de la Paille 2024 - Jour 2 - Flaur, Yuston XIII, Mystically, MC
 author: "mkhelif"
 cover: "pictures/vladimir-cauchemar/02.jpg"
 rank: 7
-locations:
-  - Métabief
-  - France
+locationId: "c8281c1a-24ff-4029-a3ba-788175e6476c"
 festivals:
   - Festival de la Paille
 artists:

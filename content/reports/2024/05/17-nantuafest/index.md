@@ -4,9 +4,7 @@ title: "Nantuafest 2024 - Jour 1 - Melrose, Vernis Rouge, Two Faces, Noé Preszo
 author: "mkhelif"
 cover: "pictures/pierre-de-maere/04.jpg"
 rank: 10
-locations:
-  - Nantua
-  - France
+locationId: "080a0659-9aa9-4098-87fb-bc491fed9695"
 festivals:
   - Nantuafest
 artists:

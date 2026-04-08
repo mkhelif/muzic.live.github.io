@@ -1,11 +1,8 @@
 ---
-eventDate: "2025-12-20T19:00:00+01:00"
+date: 2025-12-20T19:00:00+01:00
 artists:
   - LANDMVRKS
   - Split Chain
   - Underoath
-locations:
-  - Le Radiant
-  - Caluire-Et-Cuire
-  - France
+locationId: "6036dd44-d601-44ff-bf5e-85df7331dc27"
 ---

@@ -1,10 +1,7 @@
 ---
-eventDate: "2026-08-01T19:00:00-04:00"
+date: 2026-08-01T19:00:00-04:00
 artists:
   - Djo
   - Tame Impala
-locations:
-  - Spectrum Center
-  - Charlotte
-  - États-Unis
+locationId: "d5ef4aaa-30f8-4ebb-8556-9e67d6d0a77a"
 ---

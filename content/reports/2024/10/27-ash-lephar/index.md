@@ -4,10 +4,7 @@ title: "LePhar, ASH"
 author: "mkhelif"
 cover: "pictures/lephar/02.jpg"
 rank: 8
-locations:
-  - Les Docks
-  - Lausanne
-  - Suisse
+locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 artists:
   - LePhar
   - ASH

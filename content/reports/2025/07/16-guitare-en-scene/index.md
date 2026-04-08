@@ -4,9 +4,7 @@ title: "Guitare en Scène 2025 - Jour 1 - Rosaly, Jango Janice, Eagle-Eye Cherry
 author: "mkhelif"
 cover: "pictures/eagle-eye-cherry/02.jpg"
 rank: 10
-locations:
-  - Saint-Julien-en-Genevois
-  - France
+locationId: "3696b1db-7afd-4eb4-afcc-8bcf4ed56c08"
 festivals:
   - Guitare en Scène
 artists:

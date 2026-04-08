@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-12-03T21:00:00+02:00"
+date: 2026-12-03T21:00:00+02:00
 artists:
   - Broken Back
-locations:
-  - Le Métaphone
-  - Oignies
-  - France
+locationId: "23d7753b-da0b-4c8c-9718-a2861f978cd2"
 ---

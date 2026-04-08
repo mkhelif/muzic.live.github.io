@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-05-23T20:00:00+02:00"
+date: 2026-05-23T20:00:00+02:00
 artists:
   - Charlie Winston
-locations:
-  - Le 112
-  - Terville
-  - France
+locationId: "c83bd968-b51d-45b6-8ae8-9ed627b9aefb"
 ---

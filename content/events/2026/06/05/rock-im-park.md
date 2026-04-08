@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-06-05T13:00:00+02:00"
+date: 2026-06-05T13:00:00+02:00
 festivals:
   - Rock Im Park
 artists:
@@ -22,8 +22,5 @@ artists:
   - Ice Nine Kills
   - Bad Omens
   - LANDMVRKS
-locations:
-  - Zeppelinfeld
-  - Nürnberg
-  - Allemagne
+locationId: "8ae82944-de5e-4973-bfd1-22238602d55f"
 ---

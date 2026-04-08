@@ -5,7 +5,8 @@ subtitle: "11 titres, 31:58"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 9
-artist: "Linkin Park"
+artists:
+  - Linkin Park
 album: "5QfFvOMOJ0CrIDmu33RmSJ"
 tidal: "396931349"
 ---

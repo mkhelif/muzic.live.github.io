@@ -10,8 +10,8 @@
             {{ $pages = $pages.ByTitle }}
         {{ end }}
         {{ $paginator := .Paginate $pages 10 }}
-        {{ range $paginator.Pages }}
-            {{ partial "report-entry.html" . }}
+        {{ range $index, $report := $paginator.Pages }}
+            {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
         {{ end }}
         {{ partial "pagination.html" . }}
     </div>

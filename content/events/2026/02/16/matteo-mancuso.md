@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-02-16T19:30:00-06:00"
+date: 2026-02-16T19:30:00-06:00
 artists:
   - Matteo Mancuso
-locations:
-  - City Winery Nashville
-  - Nashville
-  - États-Unis
+locationId: "5028d421-8ba2-49b3-96bd-a5c25181e056"
 ---

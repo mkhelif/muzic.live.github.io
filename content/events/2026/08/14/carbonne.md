@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-08-14T15:00:00+02:00"
+date: 2026-08-14T15:00:00+02:00
 artists:
   - Carbonne
-locations:
-  - Festival La Nuit Des Étoiles
-  - Le Folgoët
-  - France
+locationId: "a62aef56-d78f-42b5-a406-d7777ac8aa81"
 ---

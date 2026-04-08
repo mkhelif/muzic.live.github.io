@@ -4,9 +4,7 @@ title: "Poprock Festival 2024 - Jour 2 - The Clive, Storm Orchestra, Charlie Win
 author: "mkhelif"
 cover: "pictures/storm-orchestra/05.jpg"
 rank: 10
-locations:
-  - Gilly
-  - Suisse
+locationId: "555d590a-f1e0-4c09-8a76-d88a43af0d1a"
 festivals:
   - Poprock Festival
 artists:

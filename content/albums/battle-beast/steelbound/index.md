@@ -5,7 +5,8 @@ subtitle: "10 titres, 37:06"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 7
-artist: "Battle Beast"
+artists:
+  - Battle Beast
 spotify: "2729tzbbE6CeRuFmbGOUry"
 tidal: "464397628"
 ---

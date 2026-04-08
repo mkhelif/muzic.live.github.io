@@ -4,9 +4,7 @@ title: "Guitare en Scène 2025 - Jour 4 - Younger Spirit, Nik West, Santana, Ori
 author: "mkhelif"
 cover: "pictures/santana/03.jpg"
 rank: 9
-locations:
-  - Saint-Julien-en-Genevois
-  - France
+locationId: "3696b1db-7afd-4eb4-afcc-8bcf4ed56c08"
 festivals:
   - Guitare en Scène
 artists:

@@ -4,9 +4,7 @@ title: "Nantuafest 2024 - Jour 3 - Lakna, Styleto, The Doug, Niska, Feder, Blast
 author: "mkhelif"
 cover: "pictures/the-doug/01.jpg"
 rank: 6
-locations:
-  - Nantua
-  - France
+locationId: "080a0659-9aa9-4098-87fb-bc491fed9695"
 festivals:
   - Nantuafest
 artists:

@@ -1,0 +1,19 @@
+<div class="pb-2 px-3 px-sm-0" data-pagefind-ignore="all">
+    {{ if .new.Params.cover }}
+        <div class="float-sm-start d-flex align-content-center me-sm-3 my-2 mx-auto mw-100" style="width: 350px">
+            <a href="{{ .new.RelPermalink }}" class="h-100">
+                <img src="{{ urls.JoinPath .new.Path .new.Params.cover | absURL }}" width="100%" class="rounded-1" />
+            </a>
+        </div>
+    {{ end }}
+    <h4>
+        <a href="{{ .new.RelPermalink }}">{{ .new.LinkTitle }}</a>
+    </h4>
+    <div class="small text-body-tertiary">
+        <span class="me-2">{{ partial "datetime.html" (dict "date" .new.Date) }}</span>
+        <div class="pt-1 text-muted text-justify text-sm-start">{{ .new.Content | plainify | truncate 1000 }}</div>
+        <p class="text-end" style="clear: both">
+            <a href="{{ .new.RelPermalink }}">Lire la suite</a>
+        </p>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+---
+id: "0c43b627-1683-46bd-8db5-3a28d2f1c865"
+locationId: "3b71a7b5-a9e5-41b7-a4d5-ee19fe2aa8d9"
+title: "The Chicago Theatre"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-11-19T20:00:00+01:00"
+date: 2026-11-19T20:00:00+01:00
 artists:
   - Superbus
-locations:
-  - Zenith De Lille
-  - Lille
-  - France
+locationId: "f76df7fe-1867-4631-8947-92d72c79214a"
 ---

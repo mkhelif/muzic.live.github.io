@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-02-10T19:00:00-05:00"
+date: 2026-02-10T19:00:00-05:00
 artists:
   - Wings of Steel
-locations:
-  - Yuengling Center
-  - Tampa
-  - États-Unis
+locationId: "f33102f4-d3c4-4957-b4d6-ce3b4fa6f842"
 ---

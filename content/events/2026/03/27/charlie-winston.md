@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-03-27T20:30:00+01:00"
+date: 2026-03-27T20:30:00+01:00
 artists:
   - Charlie Winston
-locations:
-  - Espace Nova
-  - Velaux
-  - France
+locationId: "1a667f3b-9076-474e-b8a8-ae0f1ed2a02c"
 ---

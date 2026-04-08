@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-04-15T20:00:00+02:00"
+date: 2026-04-15T20:00:00+02:00
 artists:
   - HAEVN
-locations:
-  - Vega - Musikkens Hus, Store Vega
-  - København V
-  - Danemark
+locationId: "7a1b4fe3-c423-499c-8145-bb8ad14fe0d5"
 ---

@@ -1,0 +1,17 @@
+---
+id: "1fbabb0f-4997-4c63-a648-583a1d49408c"
+locationId: "ac63294e-d3e3-4741-ad71-0801f82ab280"
+title: "Mayor - Thierville Sur Meuse"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

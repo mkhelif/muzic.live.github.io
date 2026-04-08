@@ -1,0 +1,17 @@
+---
+id: "daaefa4c-841c-4101-8e80-daac618a609e"
+locationId: "672e08e0-d8c2-4129-9ccd-d04f5783179f"
+title: "Live Au Campo"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

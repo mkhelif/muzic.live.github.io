@@ -1,0 +1,17 @@
+---
+id: "5b4145fb-ff68-4cc7-a566-a2dd8ffbafd9"
+locationId: "9b65ee99-93db-4a11-96d5-5056486ff09e"
+title: "O2 Institute Birmingham"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

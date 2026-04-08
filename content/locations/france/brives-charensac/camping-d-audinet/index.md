@@ -1,0 +1,17 @@
+---
+id: "f21a992f-7642-4c12-afc8-303eecd10e07"
+locationId: "29b575d1-4134-4926-820b-358b4916a71a"
+title: "Camping D'Audinet"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

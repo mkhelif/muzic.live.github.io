@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-11-12T20:30:00+01:00"
+date: 2026-11-12T20:30:00+01:00
 artists:
   - Mass Hysteria
-locations:
-  - Le Forum
-  - Vauréal
-  - France
+locationId: "63646d0f-72f2-46f6-979d-9c7cd932df73"
 ---

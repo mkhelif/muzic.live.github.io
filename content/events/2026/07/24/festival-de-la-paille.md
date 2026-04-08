@@ -1,10 +1,8 @@
 ---
-eventDate: "2026-07-24T17:00:00+02:00"
+date: 2026-07-24T17:00:00+02:00
 artists:
   -
 festivals:
   - Festival de la Paille
-locations:
-  - Métabief
-  - France
+locationId: "c8281c1a-24ff-4029-a3ba-788175e6476c"
 ---

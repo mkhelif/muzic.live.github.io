@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-03-19T18:30:00-04:00"
+date: 2026-03-19T18:30:00-04:00
 artists:
   - Taj Farrant
-locations:
-  - World Cafe Live
-  - Philadelphia
-  - États-Unis
+locationId: "69f2d32b-db21-45ad-9d9d-10a2eaab98b2"
 ---

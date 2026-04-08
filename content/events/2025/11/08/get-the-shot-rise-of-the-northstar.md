@@ -1,10 +1,7 @@
 ---
-eventDate: "2025-11-08T19:30:00+01:00"
+date: 2025-11-08T19:30:00+01:00
 artists:
   - Get The Shot
   - Rise Of The Northstar
-locations:
-  - Le Rockstore
-  - Montpellier
-  - France
+locationId: "7fdc9940-b867-4ff4-99b3-081f9594d120"
 ---

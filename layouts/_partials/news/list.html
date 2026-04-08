@@ -1,0 +1,9 @@
+<div data-pagefind-ignore="all">
+    <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">Actualités</h4>
+    {{ range $index, $new := .news }}
+        {{ partial "news/list-entry.html" (dict "new" $new "index" $index) }}
+    {{ end }}
+    {{ if eq .news.Len 0 }}
+        <p class="small text-muted text-center">Aucune actualité récente</p>
+    {{ end }}
+</div>

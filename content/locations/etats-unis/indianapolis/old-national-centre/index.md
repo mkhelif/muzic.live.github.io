@@ -1,0 +1,17 @@
+---
+id: "efcececd-e9e2-4fb2-a293-a119447723b5"
+locationId: "83011b12-95d0-449f-8299-8afe9fab08ff"
+title: "Old National Centre"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

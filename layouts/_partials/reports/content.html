@@ -1,0 +1,51 @@
+{{ partial "cover.html" . }}
+
+<div class="container">
+    <div data-pagefind-meta="image[data-src], image_alt[data-alt]"
+         data-src="{{ urls.JoinPath .Path .Params.cover | absURL }}"
+         data-alt="{{ .Title }}"
+         class="d-none"></div>
+
+    <p>
+        {{ range $.GetTerms "artists" }}{{ partial "artists/badge.html" . }}{{ end }}
+        {{ range $.GetTerms "festivals" }}{{ partial "festivals/badge.html" . }}{{ end }}
+    </p>
+
+    <div class="d-flex flex-row justify-content-between mb-5">
+        {{ partial "locations/pagefind.html" .Params.locationId }}
+        <span>
+            {{ partial "locations/link.html" .Params.locationId }}
+            {{ partial "datetime.html" (dict "date" .Date) }}
+        </span>
+        <span class="flex-grow-1 ms-3">{{ partial "rank.html" .Params.rank }}</span>
+    </div>
+
+    {{ partial "content.html" . }}
+
+    <!-- Other reports -->
+    <div data-pagefind-ignore="all" class="d-print-none">
+        {{ range .GetTerms "festivals" }}
+            {{ $festival := .LinkTitle }}
+            <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">Autres chroniques du festival {{ $festival }}</h4>
+            {{ $count := 0 }}
+            {{ range (where $.Site.RegularPages "Section" "reports") }}
+                {{ $page := . }}
+                {{ range .GetTerms "festivals" }}
+                    {{ if and (eq .LinkTitle $festival) (ne $page.Path $.Path) }}
+                        {{ $count = add $count 1 }}
+                        {{ partial "reports/list-entry.html" (dict "report" $page "index" $count) }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            {{ if eq $count 0 }}
+                <p class="small text-muted text-center">Aucune chronique de concert</p>
+            {{ end }}
+        {{ end }}
+    </div>
+
+    <!-- Comments -->
+    <div data-pagefind-ignore="all" class="d-print-none">
+        <h4 class="mt-5 p-3 bg-primary text-dark">Commentaires</h4>
+        {{ partial "disqus.html" . }}
+    </div>
+</div>

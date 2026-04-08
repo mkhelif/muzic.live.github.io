@@ -1,9 +1,6 @@
 ---
-eventDate: "2025-11-02T14:00:00-03:00"
+date: 2025-11-02T14:00:00-03:00
 artists:
   - Bloc Party
-locations:
-  - Parque Ibirapuera
-  - São Paulo
-  - Brésil
+locationId: "6600ab15-c0a9-428a-881a-f575c060f135"
 ---

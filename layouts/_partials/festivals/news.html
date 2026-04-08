@@ -1,0 +1,5 @@
+{{/* --- News ---  */}}
+{{ $news := where .Site.RegularPages "Section" "news" }}
+{{ $news = where $news ".Params.festivals" "intersect" (slice .Title) }}
+{{ $news = $news.ByDate.Reverse }}
+{{ partial "news/list.html" (dict "context" . "news" $news) }}

@@ -4,10 +4,7 @@ title: "Rollo Doherty, Palace"
 author: "mkhelif"
 cover: "pictures/palace/05.jpg"
 rank: 9
-locations:
-  - Les Docks
-  - Lausanne
-  - Suisse
+locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 artists:
   - Rollo Doherty
   - Palace

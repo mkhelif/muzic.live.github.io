@@ -1,0 +1,5 @@
+{{/* --- Reports ---  */}}
+{{ $reports := where .Site.RegularPages "Section" "reports" }}
+{{ $reports = where $reports ".Params.festivals" "intersect" (slice .Title) }}
+{{ $reports = $reports.ByDate.Reverse }}
+{{ partial "reports/list.html" (dict "context" . "reports" $reports) }}

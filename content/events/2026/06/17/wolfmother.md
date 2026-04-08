@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-06-17T19:30:00-04:00"
+date: 2026-06-17T19:30:00-04:00
 artists:
   - Wolfmother
-locations:
-  - The Norva
-  - Norfolk
-  - États-Unis
+locationId: "8111d7a9-5c13-4f23-96f4-f3468cc5ecdf"
 ---

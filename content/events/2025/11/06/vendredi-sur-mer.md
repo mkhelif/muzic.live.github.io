@@ -1,9 +1,6 @@
 ---
-eventDate: "2025-11-06T20:00:00+01:00"
+date: 2025-11-06T20:00:00+01:00
 artists:
   - Vendredi sur Mer
-locations:
-  - Le Rocher De Palmer
-  - Cenon
-  - France
+locationId: "07167781-2a16-464c-b722-bd6fa1f67769"
 ---

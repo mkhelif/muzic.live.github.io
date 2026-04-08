@@ -1,0 +1,28 @@
+<div class="pb-2 px-3 px-sm-0" data-pagefind-ignore="all">
+    {{ if .album.Params.cover }}
+        <div class="float-sm-start d-flex align-content-center me-sm-3 my-2 mx-auto mw-100" style="width: 350px">
+            <a href="{{ .album.RelPermalink }}" class="h-100">
+                <img src="{{ urls.JoinPath .album.Path .album.Params.cover | absURL }}" width="100%" class="rounded-1" />
+            </a>
+        </div>
+    {{ end }}
+    <h4>
+        <a href="{{ .album.RelPermalink }}">
+            {{ if .album.Params.artist }}
+                {{ .album.Params.artist }} -
+            {{ end }}
+            {{ .album.LinkTitle }}
+        </a>
+    </h4>
+    <div class="small text-body-tertiary">
+        {{ partial "locations/label.html" .album.Params.locationId }}
+        <span class="me-2">{{ partial "datetime.html" (dict "date" .album.Date) }}</span>
+        {{ with .album.Params.rank }}
+            <span>{{ partial "rank.html" . }}</span>
+        {{ end }}
+        <div class="pt-1 text-muted text-justify text-sm-start">{{ .album.Content | plainify | truncate 1000 }}</div>
+        <p class="text-end" style="clear: both">
+            <a href="{{ .album.RelPermalink }}">Lire la suite</a>
+        </p>
+    </div>
+</div>

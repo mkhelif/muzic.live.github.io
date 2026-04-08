@@ -4,10 +4,7 @@ title: "Antigel 2026 - Eckhart, Last Train"
 author: "mkhelif"
 cover: "pictures/last-train/01.jpg"
 rank: 10
-locations:
-  - L'Alhambra
-  - Genève
-  - Suisse
+locationId: "506d7a39-4f4c-4c98-bc9c-1acdf64b5665"
 festivals:
   - Antigel
 artists:

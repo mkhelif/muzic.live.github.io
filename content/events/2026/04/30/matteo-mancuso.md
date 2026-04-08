@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-04-30T19:30:00+02:00"
+date: 2026-04-30T19:30:00+02:00
 artists:
   - Matteo Mancuso
-locations:
-  - Paradiso
-  - Amsterdam
-  - Pays-Bas
+locationId: "4f557163-10f5-469e-b52d-17473f57a9b7"
 ---

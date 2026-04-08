@@ -4,9 +4,7 @@ title: "Vercors Music Festival 2024 - Jour 2 - Sarah Lenka, El Gato Negro, Massi
 author: "mkhelif"
 cover: "pictures/danakil/01.jpg"
 rank: 10
-locations:
-  - Autrans
-  - France
+locationId: "429ce815-53da-4a16-833a-d29997086186"
 festivals:
   - Vercors Music Festival
 artists:

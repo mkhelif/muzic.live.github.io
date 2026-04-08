@@ -5,7 +5,8 @@ subtitle: "10 titres, 29:34"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
-artist: "Grandson"
+artists:
+  - Grandson
 album: "5Srzn7hnU7DcsvD6BBTjHC"
 tidal: "437360262"
 ---

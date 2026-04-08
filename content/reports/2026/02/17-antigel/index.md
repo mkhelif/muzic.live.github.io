@@ -4,10 +4,7 @@ title: "Antigel 2026 - Finnegan Tui"
 author: "mkhelif"
 cover: "pictures/finnegan-tui/01.jpg"
 rank: 8
-locations:
-  - Temple de Carouge
-  - Genève
-  - Suisse
+locationId: "b0b7ed52-8ea4-45b4-af69-50b39c936504"
 festivals:
   - Antigel
 artists:

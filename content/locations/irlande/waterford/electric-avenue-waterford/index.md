@@ -1,0 +1,17 @@
+---
+id: "f61535ca-7e67-475b-a664-56aea39ecaf7"
+locationId: "2ea22513-af6e-41b2-8985-943b05d0b670"
+title: "Electric Avenue, Waterford"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

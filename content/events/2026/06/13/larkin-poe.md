@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-06-13T19:00:00-04:00"
+date: 2026-06-13T19:00:00-04:00
 artists:
   - Larkin Poe
-locations:
-  - Merriweather Post Pavilion
-  - Columbia
-  - États-Unis
+locationId: "34ef2ac1-9f48-4b0d-ba5b-8f0ccae358e1"
 ---

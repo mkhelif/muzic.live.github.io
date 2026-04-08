@@ -1,0 +1,9 @@
+<div data-pagefind-ignore="all">
+    <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">Critiques d'albums</h4>
+    {{ range $index, $album := .albums }}
+        {{ partial "albums/list-entry.html" (dict "album" $album "index" $index) }}
+    {{ end }}
+    {{ if eq .albums.Len 0 }}
+        <p class="small text-muted text-center">Aucune critique d'album</p>
+    {{ end }}
+</div>

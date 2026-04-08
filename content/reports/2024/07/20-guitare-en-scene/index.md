@@ -4,9 +4,7 @@ title: "Guitare en Scène 2024 - Jour 3 - LeanWolf, Xavier Rudd, Rodrigo y Gabri
 author: "mkhelif"
 cover: "pictures/rodrigo-y-gabriela/03.jpg"
 rank: 8
-locations:
-  - Saint-Julien-en-Genevois
-  - France
+locationId: "3696b1db-7afd-4eb4-afcc-8bcf4ed56c08"
 festivals:
   - Guitare en Scène
 artists:

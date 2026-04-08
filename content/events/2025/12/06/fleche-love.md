@@ -1,9 +1,6 @@
 ---
-eventDate: "2025-12-06T20:00:00+01:00"
+date: 2025-12-06T20:00:00+01:00
 artists:
   - Flèche Love
-locations:
-  - Centre Musical Les Arcades
-  - Faches-Thumesnil
-  - France
+locationId: "142d02bd-6884-4edb-91c4-18aabeddb6ba"
 ---

@@ -1,11 +1,8 @@
 ---
-eventDate: "2026-02-27T18:00:00-05:00"
+date: 2026-02-27T18:00:00-05:00
 artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Glc Live At 20 Monroe
-  - Grand Rapids
-  - États-Unis
+locationId: "8ed427bc-284a-48c5-b7ea-0291922c78a1"
 ---

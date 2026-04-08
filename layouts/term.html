@@ -2,12 +2,16 @@
     <div class="container" data-pagefind-ignore="all">
         <h1 class="mb-4 p-3 bg-primary text-dark">{{ .Title }}</h1>
 
+        {{ if eq .Section "locations" }}
+            {{ partial "locations/parent.html" . }}
+        {{ end }}
+
         {{ .Content }}
 
         <!-- Pages -->
         {{ $paginator := .Paginate (cond (in (slice "reports" "festivals" "locations") .Section) (where .Pages "Section" "eq" "reports").ByDate.Reverse .Pages.ByTitle) 10 }}
-        {{ range $paginator.Pages }}
-            {{ partial "report-entry.html" . }}
+        {{ range $index, $report := $paginator.Pages }}
+            {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
         {{ end }}
         {{ partial "pagination.html" . }}
     </div>

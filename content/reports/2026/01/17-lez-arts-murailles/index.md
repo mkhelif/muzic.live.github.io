@@ -4,10 +4,7 @@ title: "Lez'Arts Murailles 2026 - Meuhstache, The Dungbeetle Conspiracy, Lofofor
 author: "mkhelif"
 cover: "pictures/lofofora/02.jpg"
 rank: 10
-locations:
-  - L'Usine
-  - Genève
-  - Suisse
+locationId: "bc9e9b9b-ceea-4234-bd2b-0c863b000213"
 festivals:
   - Lez'Arts Murailles
 artists:

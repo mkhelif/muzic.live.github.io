@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-10-17T20:00:00+02:00"
+date: 2026-10-17T20:00:00+02:00
 artists:
   - Sarah Lenka
-locations:
-  - Salle De Spectacles De L'Épinette
-  - Coteaux Du Lizon
-  - France
+locationId: "2846db77-4f5f-470b-9e85-4590690295d5"
 ---

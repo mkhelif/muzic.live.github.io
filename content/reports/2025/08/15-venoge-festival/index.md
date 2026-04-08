@@ -4,9 +4,7 @@ title: "Venoge Festival 2025 - Jour 3 - Vendredi sur Mer, Sens Unik, Bon Entende
 author: "mkhelif"
 cover: "pictures/jason-derulo/11.jpg"
 rank: 10
-locations:
-  - Penthaz
-  - Suisse
+locationId: "47382bea-bcce-4ade-b985-046a224676f5"
 festivals:
   - Venoge Festival
 artists:

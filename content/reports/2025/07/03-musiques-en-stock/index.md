@@ -4,9 +4,7 @@ title: "Musiques en Stock 2025 - Jour 1 - Fugue, Feldup, Gringe, ATOEM"
 author: "mkhelif"
 cover: "pictures/atoem/01.jpg"
 rank: 8
-locations:
-  - Scionzier
-  - France
+locationId: "830edf51-8e24-4f4c-ac2c-408e20ecb99a"
 festivals:
   - Musiques en Stock
 artists:

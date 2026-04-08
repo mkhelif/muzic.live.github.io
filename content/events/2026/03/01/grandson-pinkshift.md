@@ -1,10 +1,7 @@
 ---
-eventDate: "2026-03-01T19:00:00+00:00"
+date: 2026-03-01T19:00:00+00:00
 artists:
   - grandson
   - Pinkshift
-locations:
-  - Electric Bristol
-  - Bristol
-  - Royaume-Uni
+locationId: "26c4bbba-00b8-434b-9e35-b925f5b516a8"
 ---

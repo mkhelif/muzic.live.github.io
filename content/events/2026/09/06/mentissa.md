@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-09-06T17:00:00+02:00"
+date: 2026-09-06T17:00:00+02:00
 artists:
   - Mentissa
-locations:
-  - Les Solidarités
-  - Belgrade
-  - Belgique
+locationId: "e2cd73ce-bfdd-48c1-8f93-9674da4fa166"
 ---

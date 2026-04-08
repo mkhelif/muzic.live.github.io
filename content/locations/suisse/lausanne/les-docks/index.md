@@ -1,12 +1,12 @@
 ---
+id: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
+locationId: "675b6a08-55bc-4cc7-92b8-e235888b8925"
 title: "Les Docks"
 cover: "cover.jpg"
 address: "Avenue de Sévelin 34, 1004 Lausanne, Suisse"
-latitude: "46.522434"
-longitude: "6.619295"
-locations:
-  - Lausanne
-  - Suisse
+coordinates:
+  latitude: 46.522434
+  longitude: 6.619295
 socials:
   facebook: "dockslausanne"
   instagram: "lesdocks_lausanne"

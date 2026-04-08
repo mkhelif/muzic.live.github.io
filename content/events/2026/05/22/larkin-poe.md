@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-05-22T19:00:00-07:00"
+date: 2026-05-22T19:00:00-07:00
 artists:
   - Larkin Poe
-locations:
-  - The Guild Theatre
-  - Menlo Park
-  - États-Unis
+locationId: "b9bf374e-c46d-41e4-988a-d6667f8edae9"
 ---

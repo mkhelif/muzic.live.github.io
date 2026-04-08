@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-01-15T19:00:00+01:00"
+date: 2026-01-15T19:00:00+01:00
 artists:
   - LANDMVRKS
-locations:
-  - KB Hallen
-  - Frederiksberg
-  - Danemark
+locationId: "9c4bd370-6ada-4acd-a962-bbaf107e2f01"
 ---

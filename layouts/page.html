@@ -2,17 +2,17 @@
     <div>
         <!-- Content -->
         {{ if eq .Section "news" }}
-            {{ partial "new.html" . }}
+            {{ partial "news/content.html" . }}
         {{ else if eq .Section "artists" }}
-            {{ partial "artist.html" . }}
+            {{ partial "artists/content.html" . }}
         {{ else if eq .Section "festivals" }}
-            {{ partial "festival.html" . }}
+            {{ partial "festivals/content.html" . }}
         {{ else if eq .Section "locations" }}
-            {{ partial "location.html" . }}
+            {{ partial "locations/content.html" . }}
         {{ else if eq .Section "reports" }}
-            {{ partial "report.html" . }}
+            {{ partial "reports/content.html" . }}
         {{ else if eq .Section "albums" }}
-            {{ partial "album.html" . }}
+            {{ partial "albums/content.html" . }}
         {{ else }}
             <div class="container" data-pagefind-ignore="all">
                 <h1 class="mb-3 px-4 py-3 bg-primary text-dark">{{ .Title }}</h1>

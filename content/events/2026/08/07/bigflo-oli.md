@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-08-07T19:00:00+02:00"
+date: 2026-08-07T19:00:00+02:00
 artists:
   - Bigflo & Oli
-locations:
-  - La Cigalière
-  - Bollène
-  - France
+locationId: "84cb1717-2834-4ff7-a831-6c645bb7afc9"
 ---

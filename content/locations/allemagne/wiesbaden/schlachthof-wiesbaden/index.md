@@ -1,0 +1,17 @@
+---
+id: "37273009-6c36-4206-a229-5b10491977de"
+locationId: "e6626703-faf0-4f07-b7e0-bb7cf7c91042"
+title: "Schlachthof Wiesbaden"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

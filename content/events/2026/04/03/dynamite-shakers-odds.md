@@ -1,10 +1,7 @@
 ---
-eventDate: "2026-04-03T20:30:00+02:00"
+date: 2026-04-03T20:30:00+02:00
 artists:
   - Dynamite Shakers
   - Odds
-locations:
-  - La Clef - Saint-Germain-En-Laye
-  - Saint-Germain-En-Laye
-  - France
+locationId: "a317dd2f-3bfe-4a1f-b7de-c01bd0ce660f"
 ---

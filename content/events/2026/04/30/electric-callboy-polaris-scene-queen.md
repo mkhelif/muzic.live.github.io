@@ -1,11 +1,8 @@
 ---
-eventDate: "2026-04-30T19:00:00-06:00"
+date: 2026-04-30T19:00:00-06:00
 artists:
   - Electric Callboy
   - Polaris
   - Scene Queen
-locations:
-  - Red Rocks Amphitheatre
-  - Morrison
-  - États-Unis
+locationId: "b85f8576-ad15-467f-b636-d1050ddeb611"
 ---

@@ -4,9 +4,7 @@ title: "Venoge Festival 2025 - Jour 4 - Nuit Incolore, Flèche Love, Adèle Ca
 author: "mkhelif"
 cover: "pictures/mika/01.jpg"
 rank: 10
-locations:
-  - Penthaz
-  - Suisse
+locationId: "47382bea-bcce-4ade-b985-046a224676f5"
 festivals:
   - Venoge Festival
 artists:

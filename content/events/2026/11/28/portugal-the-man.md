@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-11-28T20:00:00+01:00"
+date: 2026-11-28T20:00:00+01:00
 artists:
   - Portugal. The Man
-locations:
-  - Carlswerk Victoria
-  - Köln
-  - Allemagne
+locationId: "3e3bf48e-6cf9-4c8c-8a7f-496883da9750"
 ---

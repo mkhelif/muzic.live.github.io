@@ -1,0 +1,27 @@
+{{ partial "cover.html" . }}
+
+<div class="container">
+    <div class="d-flex">
+        <p class="flex-grow-1">
+            {{ range $.GetTerms "artists" }}{{ partial "artists/badge.html" . }}{{ end }}
+        </p>
+        <p>
+            <small class="ms-2">{{ partial "datetime.html" (dict "date" .Date) }}</small>
+            <small class="ms-2">{{ partial "rank.html" .Params.rank }}</small>
+        </p>
+    </div>
+    <p class="small">{{ .Params.subtitle }}</p>
+    <hr>
+
+    {{ with .Params.spotify }}
+        <div class="mb-4">{{ partial "embed/spotify-album.html" . }}</div>
+    {{ end }}
+
+    {{ partial "content.html" . }}
+
+    <!-- Comments -->
+    <div class="mt-4" data-pagefind-ignore="all">
+        <h4 class="mt-3 p-3 bg-primary text-dark">Commentaires</h4>
+        {{ partial "disqus.html" . }}
+    </div>
+</div>

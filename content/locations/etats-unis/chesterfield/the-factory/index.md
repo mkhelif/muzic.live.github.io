@@ -1,0 +1,17 @@
+---
+id: "b0bf7fc1-0b18-4eab-81cf-8c1e65c65d2d"
+locationId: "5dfe024c-b382-4402-8a63-d48e0005b9fa"
+title: "The Factory"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

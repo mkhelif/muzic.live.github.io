@@ -1,12 +1,9 @@
 ---
-eventDate: "2026-01-24T18:30:00-06:00"
+date: 2026-01-24T18:30:00-06:00
 artists:
   - Archers
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Acl Live At The Moody Theater
-  - Austin
-  - États-Unis
+locationId: "79fcc79d-e104-4a3c-804f-97489e2f86ad"
 ---

@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-02-20T20:00:00-05:00"
+date: 2026-02-20T20:00:00-05:00
 artists:
   - Matteo Mancuso
-locations:
-  - Richmond Music Hall
-  - Richmond
-  - États-Unis
+locationId: "75df5265-16aa-4697-b771-91ad17c4a388"
 ---

@@ -1,0 +1,17 @@
+---
+id: "d1e970a8-50e4-46a4-9955-1341de3f32d1"
+locationId: "4c02ea45-b8ec-415a-a537-7cc13deb1666"
+title: "Synovus Bank Amphitheater At Chastain Park"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-04-17T19:30:00+02:00"
+date: 2026-04-17T19:30:00+02:00
 artists:
   - Dynamite Shakers
-locations:
-  - Le Rex De Toulouse
-  - Toulouse
-  - France
+locationId: "c6fbd473-1fb6-4e28-a15c-1a52f401ddd0"
 ---

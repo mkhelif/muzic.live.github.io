@@ -1,12 +1,9 @@
 ---
-eventDate: "2026-05-23T10:00:00+02:00"
+date: 2026-05-23T10:00:00+02:00
 artists:
   - Colette GAZE
   - ELFIGO
   - Malaa
   - Niska
-locations:
-  - Parc Georges Brassens
-  - Massy
-  - France
+locationId: "80174e60-ef36-4852-87b0-2b81658b6fbc"
 ---

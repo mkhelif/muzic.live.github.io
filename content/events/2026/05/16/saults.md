@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-05-16T18:30:00-04:00"
+date: 2026-05-16T18:30:00-04:00
 artists:
   - Saults
-locations:
-  - Milkboy
-  - Philadelphia
-  - États-Unis
+locationId: "4118fb78-b58e-4cf2-ba19-ceab137fbb66"
 ---

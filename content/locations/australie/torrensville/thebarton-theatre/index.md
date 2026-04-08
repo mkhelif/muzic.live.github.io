@@ -1,0 +1,17 @@
+---
+id: "75d77995-e638-4090-8f07-2ef21dbe932e"
+locationId: "4b689c22-17d4-4148-87b3-1aeea605e64f"
+title: "Thebarton Theatre"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

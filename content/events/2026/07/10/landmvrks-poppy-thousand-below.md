@@ -1,11 +1,8 @@
 ---
-eventDate: "2026-07-10T19:00:00-04:00"
+date: 2026-07-10T19:00:00-04:00
 artists:
   - LANDMVRKS
   - Poppy
   - Thousand Below
-locations:
-  - The Rooftop At Pier 17
-  - New York
-  - États-Unis
+locationId: "8c5b0296-70e5-4ed1-b5fa-6a253465114f"
 ---

@@ -1,10 +1,7 @@
 ---
-eventDate: "2026-03-21T23:59:00+01:00"
+date: 2026-03-21T23:59:00+01:00
 artists:
   - Vladimir Cauchemar
   - Young Marco
-locations:
-  - Sound Department
-  - Taranto
-  - Italie
+locationId: "2a44eeb0-ccda-444f-a297-b600f86cb45a"
 ---

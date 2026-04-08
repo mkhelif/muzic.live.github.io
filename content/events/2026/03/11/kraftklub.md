@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-03-11T20:00:00+01:00"
+date: 2026-03-11T20:00:00+01:00
 artists:
   - Kraftklub
-locations:
-  - Max-Schmeling-Halle
-  - Berlin
-  - Allemagne
+locationId: "024c4e22-eb7e-43e5-bc92-1c7d8b8f27d1"
 ---

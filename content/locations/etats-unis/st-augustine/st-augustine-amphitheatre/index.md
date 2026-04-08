@@ -1,0 +1,17 @@
+---
+id: "2ca7f677-d8f4-4c99-8c21-1203a11a83bd"
+locationId: "06df0080-3850-4028-9276-3bb4c29239bd"
+title: "St. Augustine Amphitheatre"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

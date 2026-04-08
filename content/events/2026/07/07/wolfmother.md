@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-07-07T20:00:00-07:00"
+date: 2026-07-07T20:00:00-07:00
 artists:
   - Wolfmother
-locations:
-  - Channel 24
-  - Sacramento
-  - États-Unis
+locationId: "9d71d699-3d1b-48ab-8f4f-5036014234a3"
 ---

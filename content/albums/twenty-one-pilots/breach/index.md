@@ -5,7 +5,8 @@ subtitle: "13 titres, 47:29"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 7
-artist: "Twenty One Pilots"
+artists:
+  - Twenty One Pilots
 spotify: "1El3k8dU3sKyoGUeuyrolH"
 tidal: "459844445"
 ---

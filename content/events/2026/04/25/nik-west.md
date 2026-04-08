@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-04-25T20:00:00-05:00"
+date: 2026-04-25T20:00:00-05:00
 artists:
   - Nik West
-locations:
-  - Aaron Besant Amphitheater
-  - Panama City Beach
-  - États-Unis
+locationId: "cb0ab135-9809-442d-a0bb-1e5d4f0133c6"
 ---

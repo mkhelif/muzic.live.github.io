@@ -1,0 +1,27 @@
+<div data-pagefind-ignore="all">
+    <h4 class="mt-5 mb-3 p-3 bg-primary text-dark position-relative">
+        Concerts à venir
+        <a href="{{ .context.Path }}/calendar.ics" class="d-block position-absolute top-50 end-0 translate-middle-y text-dark me-3">
+            <i class="fa fa-2xs fa-calendar"></i>
+        </a>
+    </h4>
+    <table class="table table-sm table-borderless">
+        <thead>
+            <tr>
+                <th></th>
+                <th></th>
+                <th width="100%"></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            {{ range $index, $event := .events }}
+                {{ partial "events/list-entry.html" (dict "event" $event "index" $index) }}
+            {{ end }}
+        </tbody>
+    </table>
+    {{ if eq .events.Len 0 }}
+        <p class="small text-muted text-center">Aucun concert annoncé</p>
+    {{ end }}
+</div>

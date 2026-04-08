@@ -1,0 +1,17 @@
+---
+id: "a48ddcf0-b910-4311-987a-51f67156bf66"
+locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
+title: "The Social"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

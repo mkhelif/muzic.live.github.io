@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-06-26T12:00:00+02:00"
+date: 2026-06-26T12:00:00+02:00
 artists:
   - Wings of Steel
-locations:
-  - Summerside Festival
-  - Grenchen
-  - Suisse
+locationId: "5d1287a9-17b6-4839-a39e-2412c429182a"
 ---

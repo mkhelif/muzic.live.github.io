@@ -5,7 +5,8 @@ subtitle: "11 titres, 45:43"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 6
-artist: "Sabaton"
+artists:
+  - Sabaton
 spotify: "1jjx7U3tayhJTytJVBj0WY"
 tidal: "442030480"
 ---

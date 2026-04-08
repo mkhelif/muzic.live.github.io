@@ -1,0 +1,17 @@
+---
+id: "d812f9d6-9276-4b01-b419-dec2316b43f8"
+locationId: "673262d4-2107-4cd5-85c2-6e654523f721"
+title: "Icf: Warehouse"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

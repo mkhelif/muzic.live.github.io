@@ -1,0 +1,17 @@
+---
+id: "8a9f396b-1682-4bd5-8ed5-8722264fe35a"
+locationId: "1c7d1c1d-f3d5-4630-aec4-6a1ade546b05"
+title: "Tubby’S Kingston"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

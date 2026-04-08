@@ -1,9 +1,6 @@
 ---
-eventDate: "2025-11-11T19:00:00+00:00"
+date: 2025-11-11T19:00:00+00:00
 artists:
   - The Royston Club
-locations:
-  - Old Fire Station
-  - Carlisle
-  - Royaume-Uni
+locationId: "995af9b7-75a9-4cae-80a1-ff30f133f581"
 ---

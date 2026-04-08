@@ -4,10 +4,7 @@ title: "Heavy Weekend 2025 - Jour 3 - Nothing More, Rise of the NorthStar, Mass 
 author: "mkhelif"
 cover: "pictures/rise-of-the-northstar/15.jpg"
 rank: 10
-locations:
-  - Zenith Nancy
-  - Nancy
-  - France
+locationId: "73e73a54-9f04-4d46-ab08-824a19a88e54"
 festivals:
   - Heavy Weekend
 artists:

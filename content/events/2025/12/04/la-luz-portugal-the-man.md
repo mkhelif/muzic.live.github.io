@@ -1,10 +1,7 @@
 ---
-eventDate: "2025-12-04T20:00:00-05:00"
+date: 2025-12-04T20:00:00-05:00
 artists:
   - La Luz
   - Portugal. The Man
-locations:
-  - Union Transfer
-  - Philadelphia
-  - États-Unis
+locationId: "842c84c9-008d-44f9-a74f-476fac344b82"
 ---

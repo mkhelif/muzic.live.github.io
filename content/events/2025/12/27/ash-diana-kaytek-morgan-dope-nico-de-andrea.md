@@ -1,13 +1,10 @@
 ---
-eventDate: "2025-12-27T19:00:00+04:00"
+date: 2025-12-27T19:00:00+04:00
 artists:
   - Ash
   - Diana
   - KayteK
   - Morgan Dope
   - Nico de Andrea
-locations:
-  - Surf Club
-  - Dubai
-  - Émirats arabes unis
+locationId: "81990761-f3c9-4309-8a1a-7ccb319ca1f5"
 ---

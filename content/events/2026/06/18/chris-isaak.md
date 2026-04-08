@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-06-18T21:00:00+03:00"
+date: 2026-06-18T21:00:00+03:00
 artists:
   - Chris Isaak
-locations:
-  - Oran Açık Hava Sahnesi
-  - Ankara
-  - Turquie
+locationId: "2241039d-5716-4db4-9aa6-c0a035fee65d"
 ---

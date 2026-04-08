@@ -4,10 +4,7 @@ title: "Ace G, John Mavro, Saya Gray"
 author: "mkhelif"
 cover: "pictures/saya-gray/10.jpg"
 rank: 9
-locations:
-  - Les Docks
-  - Lausanne
-  - Suisse
+locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 artists:
   - Ace G
   - John Mavro

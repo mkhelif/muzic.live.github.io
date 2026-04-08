@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-06-16T20:00:00-04:00"
+date: 2026-06-16T20:00:00-04:00
 artists:
   - Wolfmother
-locations:
-  - The Fillmore Charlotte
-  - Charlotte
-  - États-Unis
+locationId: "821dff4f-3d3e-47c8-b13d-b09b710bfb1e"
 ---

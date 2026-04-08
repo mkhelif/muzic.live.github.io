@@ -6,7 +6,8 @@ subtitle: "10 titres, 41:49"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
-artist: "Portugal. The Man"
+artists:
+  - Portugal. The Man
 spotify: "7pbhvtNUvp160w3qgtwCCg"
 tidal: "457012625"
 todo:

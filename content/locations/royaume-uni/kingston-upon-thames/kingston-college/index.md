@@ -1,0 +1,17 @@
+---
+id: "a88fd1ba-c4f2-4e10-bcb5-251767279b3a"
+locationId: "2af4ab5b-18b6-4f75-8b69-da674ee7769e"
+title: "Kingston College"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

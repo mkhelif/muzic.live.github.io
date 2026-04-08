@@ -1,10 +1,7 @@
 ---
-eventDate: "2026-08-06T19:00:00-07:00"
+date: 2026-08-06T19:00:00-07:00
 artists:
   - Santana
   - The Doobie Brothers
-locations:
-  - White River Amphitheatre
-  - Auburn
-  - États-Unis
+locationId: "eea8ae32-5118-401f-a58f-331652b98561"
 ---

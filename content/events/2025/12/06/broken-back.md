@@ -1,9 +1,6 @@
 ---
-eventDate: "2025-12-06T20:00:00+01:00"
+date: 2025-12-06T20:00:00+01:00
 artists:
   - Broken Back
-locations:
-  - Centre Culturel John Lennon
-  - Limoges
-  - France
+locationId: "a866280e-dfbb-4f27-8d50-e40d920fad4b"
 ---

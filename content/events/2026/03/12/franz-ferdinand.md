@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-03-12T20:00:00+01:00"
+date: 2026-03-12T20:00:00+01:00
 artists:
   - Franz Ferdinand
-locations:
-  - O2 Academy Brixton
-  - London
-  - Royaume-Uni
+locationId: "46027e91-fa12-42b8-ba8b-7a63eafc86e0"
 ---

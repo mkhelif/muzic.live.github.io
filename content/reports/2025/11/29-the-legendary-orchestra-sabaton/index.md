@@ -4,10 +4,7 @@ title: "The Legendary Orchestra, Sabaton"
 author: "mkhelif"
 cover: "pictures/sabaton/04.jpg"
 rank: 10
-locations:
-  - LDLC Arena
-  - Décines-Charpieu
-  - France
+locationId: "6374f3c7-9af5-449a-9d30-cfa1383d871a"
 artists:
   - The Legendary Orchestra
   - Sabaton

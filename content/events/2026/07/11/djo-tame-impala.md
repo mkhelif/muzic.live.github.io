@@ -1,10 +1,7 @@
 ---
-eventDate: "2026-07-11T19:00:00-04:00"
+date: 2026-07-11T19:00:00-04:00
 artists:
   - Djo
   - Tame Impala
-locations:
-  - State Farm Arena
-  - Atlanta
-  - États-Unis
+locationId: "19ae52cf-34f2-4ea3-8b36-5cacf6fd360b"
 ---

@@ -1,0 +1,17 @@
+---
+id: "26ad986f-e76d-460c-95d0-94e77fde4385"
+locationId: "3232a713-da62-4969-8c82-7dd64856fe2e"
+title: "Mcmenamins Crystal Ballroom"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

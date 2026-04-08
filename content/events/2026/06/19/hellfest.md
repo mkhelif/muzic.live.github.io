@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-06-19T12:00:00+02:00"
+date: 2026-06-19T12:00:00+02:00
 festivals:
   - Hellfest
 artists:
@@ -34,7 +34,5 @@ artists:
   - My Dying Bride
   - Rotting Christ
   - Carach Angren
-locations:
-  - Clisson
-  - France
+locationId: "a96150fd-cd15-4d68-8c73-31fff4f3ae29"
 ---

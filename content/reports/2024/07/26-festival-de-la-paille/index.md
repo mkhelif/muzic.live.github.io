@@ -4,9 +4,7 @@ title: "Festival de la Paille 2024 - Jour 1 - Fat Jeff, Ko Ko Mo, Seriously Seri
 author: "mkhelif"
 cover: "pictures/asian-dub-foundation/03.jpg"
 rank: 10
-locations:
-  - Métabief
-  - France
+locationId: "c8281c1a-24ff-4029-a3ba-788175e6476c"
 festivals:
   - Festival de la Paille
 artists:

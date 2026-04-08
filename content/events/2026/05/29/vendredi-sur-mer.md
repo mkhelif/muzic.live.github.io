@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-05-29T20:00:00+02:00"
+date: 2026-05-29T20:00:00+02:00
 artists:
   - Vendredi sur Mer
-locations:
-  - Nalen
-  - Stockholm
-  - Suède
+locationId: "80a37581-70c9-439e-8218-28943f0f8297"
 ---

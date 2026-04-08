@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-11-11T19:00:00-07:00"
+date: 2026-11-11T19:00:00-07:00
 artists:
   - Wings of Steel
-locations:
-  - Arizona Financial Theatre
-  - Phoenix
-  - États-Unis
+locationId: "90e219ec-c28f-4b85-aafc-395d103bd501"
 ---

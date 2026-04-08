@@ -1,10 +1,7 @@
 ---
-eventDate: "2026-07-27T19:00:00-05:00"
+date: 2026-07-27T19:00:00-05:00
 artists:
   - LANDMVRKS
   - Thousand Below
-locations:
-  - The Admiral Theater
-  - Omaha
-  - États-Unis
+locationId: "74ec032a-ce79-4a71-9424-b0bbe631b656"
 ---

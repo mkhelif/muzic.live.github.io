@@ -1,0 +1,17 @@
+---
+id: "4043e73f-1f22-4431-a34a-38768e5adee7"
+locationId: "6aa8bcb5-1342-4ebf-8c1d-2b0a41efce13"
+title: "Rock Werchter"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

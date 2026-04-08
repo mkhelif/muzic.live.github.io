@@ -1,0 +1,17 @@
+---
+id: "fd07d416-1122-4c8b-991f-404c68758414"
+locationId: "d02afb42-08ff-43b4-860d-17ca1998551e"
+title: "Visarno Arena"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

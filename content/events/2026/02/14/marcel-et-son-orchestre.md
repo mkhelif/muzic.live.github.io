@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-02-14T20:30:00+01:00"
+date: 2026-02-14T20:30:00+01:00
 artists:
   - Marcel et son Orchestre
-locations:
-  - Complexe Jean Carmet
-  - Allonnes
-  - France
+locationId: "fcd52f3f-443d-4e3b-ac0b-ce4e092d4d2b"
 ---

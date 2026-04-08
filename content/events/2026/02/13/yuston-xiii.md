@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-02-13T20:00:00+01:00"
+date: 2026-02-13T20:00:00+01:00
 artists:
   - Yuston XIII
-locations:
-  - Le 106
-  - Rouen
-  - France
+locationId: "2870ed8f-b3a2-4070-947f-94b0cba2deb8"
 ---

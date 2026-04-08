@@ -1,0 +1,17 @@
+---
+id: "f34452f3-5964-4d15-b16e-bcdebe7d21cf"
+locationId: "8a6f9e08-b4e2-4713-be74-f668f6f4daee"
+title: "Liseberg"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

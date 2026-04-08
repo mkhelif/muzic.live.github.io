@@ -1,0 +1,17 @@
+---
+id: "8c6190a9-1066-4ef0-872c-af07eec3e09c"
+locationId: "5bb2bb3c-fc7f-4b68-9715-9b7087c1e8c0"
+title: "Lac de Nantua"
+cover: "cover.jpg"
+address: ""
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-06-15T20:00:00-04:00"
+date: 2026-06-15T20:00:00-04:00
 artists:
   - Wolfmother
-locations:
-  - The Orange Peel
-  - Asheville
-  - États-Unis
+locationId: "b4e70657-0330-457d-93ea-ce395d2f0233"
 ---

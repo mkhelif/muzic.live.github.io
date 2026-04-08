@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-06-17T18:00:00+02:00"
+date: 2026-06-17T18:00:00+02:00
 festivals:
   - Caribana
 artists:
@@ -8,7 +8,5 @@ artists:
   - Marine
   - Nadiya
   - Deluxe
-locations:
-  - Crans-près-Céligny
-  - Suisse
+locationId: "1bad22fd-705d-467f-b319-ee787b9543ad"
 ---

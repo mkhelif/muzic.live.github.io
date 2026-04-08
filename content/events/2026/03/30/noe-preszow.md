@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-03-30T20:00:00+02:00"
+date: 2026-03-30T20:00:00+02:00
 artists:
   - Noé Preszow
-locations:
-  - L'Européen
-  - Paris
-  - France
+locationId: "c749b477-86de-44d8-b8b1-f861476380f7"
 ---

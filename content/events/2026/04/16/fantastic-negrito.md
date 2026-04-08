@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-04-16T20:00:00-04:00"
+date: 2026-04-16T20:00:00-04:00
 artists:
   - Fantastic Negrito
-locations:
-  - The Ark
-  - Ann Arbor
-  - États-Unis
+locationId: "680a1738-22e2-47c7-b8d8-75cd4e1e88b6"
 ---

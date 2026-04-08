@@ -1,10 +1,7 @@
 ---
-eventDate: "2026-02-28T19:00:00+00:00"
+date: 2026-02-28T19:00:00+00:00
 artists:
   - grandson
   - Pinkshift
-locations:
-  - O2 Institute Birmingham
-  - Birmingham
-  - Royaume-Uni
+locationId: "5b4145fb-ff68-4cc7-a566-a2dd8ffbafd9"
 ---

@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-07-02T20:00:00+02:00"
+date: 2026-07-02T20:00:00+02:00
 artists:
   - Chris Isaak
-locations:
-  - La Seine Musicale - Grande Seine
-  - Boulogne Billancourt
-  - France
+locationId: "5929adaa-8599-49d8-abfb-8cd4f16b7faf"
 ---

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Marcel et son Orchestre"
 cover: "cover.jpg"
 socials:
@@ -9,4 +8,6 @@ socials:
   web: "https://marceletsonorchestre.com/"
   tidal: "3954658"
   spotify: "5YdOZp94WgelKxaAlQ2j7y"
+todo:
+  - Add picture from concert
 ---

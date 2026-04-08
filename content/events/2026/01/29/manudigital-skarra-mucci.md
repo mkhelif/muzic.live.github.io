@@ -1,10 +1,7 @@
 ---
-eventDate: "2026-01-29T20:00:00+01:00"
+date: 2026-01-29T20:00:00+01:00
 artists:
   - Manudigital
   - Skarra Mucci
-locations:
-  - So 36
-  - Berlin
-  - Allemagne
+locationId: "c1c4fa8b-4cda-4f5e-b1e0-1f808a0f0e14"
 ---

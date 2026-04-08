@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-03-28T20:00:00-05:00"
+date: 2026-03-28T20:00:00-05:00
 artists:
   - Santana
-locations:
-  - Lucas Oil Live At Winstar World Casino And Resort
-  - Thackerville
-  - États-Unis
+locationId: "ccfeb0d2-aa28-492e-beed-24ee71ca2037"
 ---

@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-12-10T20:00:00+01:00"
+date: 2026-12-10T20:00:00+01:00
 artists:
   - Bigflo & Oli
-locations:
-  - Arkéa Arena
-  - Bordeaux
-  - France
+locationId: "403ac772-6a03-42f1-b99b-4d02f9b3cbda"
 ---

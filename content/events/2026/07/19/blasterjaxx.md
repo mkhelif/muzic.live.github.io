@@ -1,9 +1,6 @@
 ---
-eventDate: "2026-07-19T13:00:00+02:00"
+date: 2026-07-19T13:00:00+02:00
 artists:
   - Blasterjaxx
-locations:
-  - Provincial Recreation Domain De Schorre
-  - Boom
-  - Belgique
+locationId: "dc975694-2bd5-4397-8391-b88276d9b9f5"
 ---
