@@ -1,9 +1,8 @@
 {{ $cover := .Resources.Get .Params.cover }}
 {{ if $cover }}
-    {{ $url := urls.JoinPath .Path .Params.cover | absURL }}
-    <div class="cover position-relative d-flex flex-column align-content-end mb-4" style="background-image: url({{ $url | safeURL }});">
+    <div class="cover position-relative d-flex flex-column align-content-end mb-4" style="background-image: url({{ $cover.Permalink | safeURL }});">
         <div data-pagefind-meta="image[data-src], image_alt[data-alt]"
-             data-src="{{ $url }}"
+             data-src="{{ $cover.Permalink }}"
              data-alt="{{ .Title }}"
              class="backdrop-blur position-absolute w-100 h-100"
         ></div>
@@ -20,9 +19,9 @@
     </div>
 {{ else }}
     <div data-pagefind-meta="image[data-src], image_alt[data-alt]"
-         data-src="{{ .Resources.Get "images/cover-empty.jpg" | absURL }}"
+         data-src="/images/cover-empty.jpg"
          data-alt="{{ .Title }}"
-         class="backdrop-blur position-absolute w-100 h-100"
+         class="d-none"
     ></div>
 
     <div class="container">
