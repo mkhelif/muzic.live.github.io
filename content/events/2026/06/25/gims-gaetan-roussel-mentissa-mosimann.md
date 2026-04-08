@@ -5,8 +5,5 @@ artists:
   - Gaëtan Roussel
   - Mentissa
   - Mosimann
-locations:
-  - Ardèche Aluna Festival - Plein Air
-  - Ruoms
-  - France
+locationId: "e1fe6148-afa8-481a-b25b-d2c161d78eac"
 ---

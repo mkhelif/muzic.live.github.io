@@ -6,7 +6,8 @@ subtitle: "8 titres, 26:15"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
-artist: "Lost in Lona"
+artists:
+  - Lost in Lona
 spotify: "42fS5G4YXzoi4iz2pztDLP"
 tidal: "447492552"
 todo:

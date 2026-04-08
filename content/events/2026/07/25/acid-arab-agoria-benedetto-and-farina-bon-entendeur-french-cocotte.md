@@ -6,8 +6,5 @@ artists:
   - Benedetto And Farina
   - Bon Entendeur
   - French Cocotte
-locations:
-  - Hôtel-Dieu De Carpentras
-  - Carpentras
-  - France
+locationId: "c4359b27-cd10-411f-aee2-45fe268d96d5"
 ---

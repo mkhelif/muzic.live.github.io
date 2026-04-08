@@ -1,0 +1,14 @@
+{{ $locationId := . }}
+{{ $locations := slice }}
+{{ range hugo.Sites }}
+    {{ range (where .Pages "Section" "locations") }}
+        {{ if eq .Params.id $locationId }}
+            {{ $locations = $locations | append .LinkTitle }}
+            {{ range .Params.locations }}
+                {{ $locations = $locations | append . }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{ $pagefind := delimit $locations ", " }}
+<span data-pagefind-meta="locations: {{ $pagefind }}"></span>

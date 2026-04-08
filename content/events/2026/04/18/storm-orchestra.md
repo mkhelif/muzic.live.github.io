@@ -2,8 +2,5 @@
 eventDate: "2026-04-18T18:00:00+02:00"
 artists:
   - Storm Orchestra
-locations:
-  - Palladium Köln
-  - Köln
-  - Allemagne
+locationId: "2cdb1309-c5cf-4de4-8cca-ba715cf2c687"
 ---

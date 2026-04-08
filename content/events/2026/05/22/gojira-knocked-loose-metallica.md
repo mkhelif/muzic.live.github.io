@@ -4,8 +4,5 @@ artists:
   - Gojira
   - Knocked Loose
   - Metallica
-locations:
-  - Deutsche Bank Park
-  - Frankfurt Am Main
-  - Allemagne
+locationId: "0359cd71-6b6a-40af-919d-6ab17a8042ff"
 ---

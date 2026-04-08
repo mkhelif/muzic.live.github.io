@@ -5,8 +5,5 @@ artists:
   - Mosimann
   - Orelsan
   - Rilès
-locations:
-  - Base De Loisirs De Pratgraussals
-  - Albi
-  - France
+locationId: "014d8467-fb53-4d0f-aebd-f25787a2f263"
 ---

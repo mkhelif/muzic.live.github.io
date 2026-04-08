@@ -6,8 +6,5 @@ artists:
   - ERNA
   - Feder
   - Magnolia
-locations:
-  - Friche La Belle De Mai
-  - Marseille
-  - France
+locationId: "c55fc395-41f7-44dc-ba8c-81e95d3e43b1"
 ---

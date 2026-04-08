@@ -4,9 +4,7 @@ title: "Poprock Festival 2025 - Jour 1 - Showcave, MADAM, Hey Satan, SOEN"
 author: "mkhelif"
 cover: "pictures/madam/02.jpg"
 rank: 10
-locations:
-  - Gilly
-  - Suisse
+locationId: "555d590a-f1e0-4c09-8a76-d88a43af0d1a"
 festivals:
   - Poprock Festival
 artists:

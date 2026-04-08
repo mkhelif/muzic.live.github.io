@@ -4,8 +4,5 @@ artists:
   - Electric Callboy
   - Polaris
   - Scene Queen
-locations:
-  - The Masonic
-  - San Francisco
-  - États-Unis
+locationId: "b819c2a2-b22c-4213-90f3-62eca5cf1ce2"
 ---

@@ -5,7 +5,8 @@ subtitle: "11 titres, 34:49"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
-artist: "Toby Lee"
+artists:
+  - Toby Lee
 spotify: "31vki7hqYMXMrVZePwMzKj"
 tidal: "378519527"
 ---

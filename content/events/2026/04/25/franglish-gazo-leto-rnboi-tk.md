@@ -6,8 +6,5 @@ artists:
   - Leto
   - RnBoi
   - TK
-locations:
-  - Ldlc Arena
-  - Décines-Charpieu
-  - France
+locationId: "6374f3c7-9af5-449a-9d30-cfa1383d871a"
 ---

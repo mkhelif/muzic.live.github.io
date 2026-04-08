@@ -4,8 +4,5 @@ artists:
   - Clipse
   - Linkin Park
   - Phantogram
-locations:
-  - Allianz Arena
-  - München
-  - Allemagne
+locationId: "b8aa21f2-b766-412f-8870-c7fa80ccdf94"
 ---

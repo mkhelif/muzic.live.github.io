@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - The Wind Creek Event Center 
-  - Bethlehem
-  - États-Unis
+locationId: "eed7728a-9422-40e8-b09f-75520e39ae72"
 ---

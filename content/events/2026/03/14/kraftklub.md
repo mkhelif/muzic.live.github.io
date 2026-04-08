@@ -2,8 +2,5 @@
 eventDate: "2026-03-14T20:00:00+01:00"
 artists:
   - Kraftklub
-locations:
-  - Psd Bank Dome
-  - Düsseldorf
-  - Allemagne
+locationId: "5a96382b-d1cb-4b88-92f0-b8aee7a7bbf3"
 ---

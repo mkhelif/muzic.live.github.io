@@ -6,8 +6,5 @@ artists:
   - Danakil
   - Feu! Chatterton
   - Vanessa Paradis
-locations:
-  - Parc Du Port Mulon
-  - Nort Sur Erdre
-  - France
+locationId: "afa1fd43-a2f7-4598-8f5a-493a45852be0"
 ---

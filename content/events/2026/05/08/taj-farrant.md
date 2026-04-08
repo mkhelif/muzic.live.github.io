@@ -2,8 +2,5 @@
 eventDate: "2026-05-08T18:00:00+01:00"
 artists:
   - Taj Farrant
-locations:
-  - The Black Prince
-  - Northampton
-  - Royaume-Uni
+locationId: "8230e7af-5e6b-4bc4-b0fb-b12b36791fce"
 ---

@@ -6,8 +6,5 @@ artists:
   - Esha Tewari
   - Lorde
   - Rose Gray
-locations:
-  - Clifton Downs
-  - Bristol
-  - Royaume-Uni
+locationId: "23957c3b-17b2-4d9d-872f-736a504c9cdd"
 ---

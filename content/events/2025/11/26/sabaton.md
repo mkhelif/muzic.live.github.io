@@ -4,8 +4,5 @@ festivals:
   - Rockhal
 artists:
   - Sabaton
-locations:
-  - Rockhal
-  - Esch-sur-Alzzette
-  - Luxembourg
+locationId: "7faa4aff-4b94-4852-9680-13ed384d52db"
 ---

@@ -4,8 +4,5 @@ artists:
   - LANDMVRKS
   - Poppy
   - Thousand Below
-locations:
-  - The Fillmore Charlotte
-  - Charlotte
-  - États-Unis
+locationId: "821dff4f-3d3e-47c8-b13d-b09b710bfb1e"
 ---

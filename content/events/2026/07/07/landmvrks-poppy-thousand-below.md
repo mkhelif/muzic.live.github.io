@@ -4,8 +4,5 @@ artists:
   - LANDMVRKS
   - Poppy
   - Thousand Below
-locations:
-  - Echostage
-  - Washington
-  - États-Unis
+locationId: "fc6a0fcd-a7d5-4073-aa40-47320259f344"
 ---

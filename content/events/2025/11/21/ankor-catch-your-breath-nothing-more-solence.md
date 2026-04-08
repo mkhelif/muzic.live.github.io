@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - NOTHING MORE
   - Solence
-locations:
-  - Backstage Werk
-  - München
-  - Allemagne
+locationId: "57b21699-bde2-4e23-ba78-c98afcb4306b"
 ---

@@ -6,8 +6,5 @@ artists:
   - KayteK
   - Morgan Dope
   - Nico de Andrea
-locations:
-  - Surf Club
-  - Dubai
-  - Émirats arabes unis
+locationId: "81990761-f3c9-4309-8a1a-7ccb319ca1f5"
 ---

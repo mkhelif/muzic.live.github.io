@@ -4,8 +4,5 @@ artists:
   - Deez Nuts
   - Half Me
   - Rise Of The Northstar
-locations:
-  - Legend Club
-  - Milano
-  - Italie
+locationId: "62feb88d-23fc-456e-b60f-50baaeb89b5b"
 ---

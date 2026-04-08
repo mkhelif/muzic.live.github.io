@@ -6,8 +6,5 @@ artists:
   - Lofofora
   - Perl
   - Septaria
-locations:
-  - Le Plan
-  - Ris-Orangis
-  - France
+locationId: "40c490c8-052b-4e7a-a06e-329f14bbaa57"
 ---

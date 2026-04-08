@@ -4,9 +4,7 @@ title: "Musiques en Stock 2025 - Jour 2 - Crazy Jess, Ménades, Kid Kapichi, Bl
 author: "mkhelif"
 cover: "pictures/bloc-party/09.jpg"
 rank: 10
-locations:
-  - Scionzier
-  - France
+locationId: "830edf51-8e24-4f4c-ac2c-408e20ecb99a"
 festivals:
   - Musiques en Stock
 artists:

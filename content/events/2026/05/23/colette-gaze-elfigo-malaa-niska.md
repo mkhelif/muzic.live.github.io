@@ -5,8 +5,5 @@ artists:
   - ELFIGO
   - Malaa
   - Niska
-locations:
-  - Parc Georges Brassens
-  - Massy
-  - France
+locationId: "80174e60-ef36-4852-87b0-2b81658b6fbc"
 ---

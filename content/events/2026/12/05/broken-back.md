@@ -2,8 +2,5 @@
 eventDate: "2026-12-05T21:00:00+02:00"
 artists:
   - Broken Back
-locations:
-  - La Cigale
-  - Paris 18
-  - France
+locationId: "666f57e0-7717-4bd7-839e-409bde73f5c9"
 ---

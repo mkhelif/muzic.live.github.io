@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Jannus Live
-  - St Petersburg
-  - États-Unis
+locationId: "41008f54-37b2-4c97-b72f-de9ad9a1b8b8"
 ---

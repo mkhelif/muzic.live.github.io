@@ -6,8 +6,5 @@ artists:
   - David Rodigan
   - Scarlxrd
   - The Prodigy
-locations:
-  - The National Bowl
-  - Milton Keynes
-  - Royaume-Uni
+locationId: "83dd096e-32eb-4040-b4a9-8aaa0996d92b"
 ---

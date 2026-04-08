@@ -6,7 +6,8 @@ subtitle: TODO"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 6
-artist: "SOEN"
+artists:
+  - SOEN
 spotify: "2gwGCs13DZjH1dHpyAJ5AG"
 tidal: "442030480"
 todo:

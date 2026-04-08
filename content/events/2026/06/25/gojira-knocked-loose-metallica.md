@@ -4,8 +4,5 @@ artists:
   - Gojira
   - Knocked Loose
   - Metallica
-locations:
-  - Hampden Park National Stadium
-  - Glasgow
-  - Royaume-Uni
+locationId: "a5d38701-c951-455d-be3e-a13b7de795ed"
 ---

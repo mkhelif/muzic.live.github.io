@@ -5,7 +5,8 @@ subtitle: "12 titres, 46:09"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 9
-artist: "Soft Loft"
+artists:
+  - Soft Loft
 spotify: "3fSI4OFejKzQKZFosmR0vX"
 tidal: "328542561"
 ---

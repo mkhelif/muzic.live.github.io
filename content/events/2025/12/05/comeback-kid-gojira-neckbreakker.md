@@ -4,8 +4,5 @@ artists:
   - Comeback Kid
   - Gojira
   - NECKBREAKKER
-locations:
-  - Zenith D'Auvergne
-  - Cournon d'Auvergne
-  - France
+locationId: "87e90c42-4fef-4a0c-955b-dccf9894f37c"
 ---

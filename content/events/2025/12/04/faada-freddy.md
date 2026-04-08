@@ -2,8 +2,5 @@
 eventDate: "2025-12-04T20:30:00+01:00"
 artists:
   - Faada Freddy
-locations:
-  - Espace Marcel Carné
-  - Saint-Michel-Sur-Orge
-  - France
+locationId: "6c8e8a29-b1cd-4b28-99ea-1dff9ee668e6"
 ---

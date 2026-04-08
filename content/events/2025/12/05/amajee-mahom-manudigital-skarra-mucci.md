@@ -5,8 +5,5 @@ artists:
   - Mahom
   - Manudigital
   - Skarra Mucci
-locations:
-  - Le Bœuf Sur Le Toit
-  - Lons-Le-Saunier
-  - France
+locationId: "ae812db5-13f1-45e3-ae0f-d00d449c2acf"
 ---

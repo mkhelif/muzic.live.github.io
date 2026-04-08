@@ -4,8 +4,5 @@ artists:
   - HammerFall
   - Powerwolf
   - Wind Rose
-locations:
-  - Quarterback Immobilien Arena
-  - Leipzig
-  - Allemagne
+locationId: "59aa98da-e1c8-41ee-9c43-16847acaef79"
 ---

@@ -6,8 +6,5 @@ artists:
   - Helmut Fritz
   - Kamini
   - L5
-locations:
-  - Salle Du Median
-  - St Quentin Fallavier
-  - France
+locationId: "d13a67d2-f2a4-4408-b4c7-e2e31d6a5a45"
 ---

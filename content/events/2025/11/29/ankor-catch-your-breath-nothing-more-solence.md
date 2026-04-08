@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - NOTHING MORE
   - Solence
-locations:
-  - Essigfabrik
-  - Köln
-  - Allemagne
+locationId: "7721d4a9-3c58-4993-97e6-772d1e77128a"
 ---

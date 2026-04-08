@@ -4,8 +4,5 @@ artists:
   - Joshua Idehen
   - Kae Tempest
   - Self Esteem
-locations:
-  - Cardiff Castle
-  - Cardiff
-  - Royaume-Uni
+locationId: "28e13c79-b35b-4822-9085-be1a717d594a"
 ---

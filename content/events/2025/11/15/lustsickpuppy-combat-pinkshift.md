@@ -4,8 +4,5 @@ artists:
   - LustSickPuppy
   - Combat
   - Pinkshift
-locations:
-  - The First Unitarian Church
-  - Philadelphia
-  - États-Unis
+locationId: "9faf400f-6827-462b-8efb-ad9ff2521618"
 ---

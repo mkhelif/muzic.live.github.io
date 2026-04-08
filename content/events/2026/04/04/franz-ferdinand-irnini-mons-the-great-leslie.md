@@ -4,8 +4,5 @@ artists:
   - Franz Ferdinand
   - Irnini Mons
   - The Great Leslie
-locations:
-  - Palladium
-  - Köln
-  - Allemagne
+locationId: "2cd8a7ea-aec0-4478-94eb-7bd94dfb8488"
 ---

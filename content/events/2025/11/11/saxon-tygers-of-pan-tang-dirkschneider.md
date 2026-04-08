@@ -4,8 +4,5 @@ artists:
   - Saxon
   - Tygers Of Pan Tang
   - Dirkschneider
-locations:
-  - O2 City Hall Newcastle
-  - Newcastle Upon Tyne
-  - Royaume-Uni
+locationId: "798f8f28-637a-46e2-8ef1-936977e063da"
 ---

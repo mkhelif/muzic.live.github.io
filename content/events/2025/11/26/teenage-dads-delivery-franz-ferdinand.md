@@ -4,8 +4,5 @@ artists:
   - Teenage Dads
   - Delivery
   - Franz Ferdinand
-locations:
-  - Icf: Warehouse
-  - Northbridge
-  - Australie
+locationId: "d812f9d6-9276-4b01-b419-dec2316b43f8"
 ---

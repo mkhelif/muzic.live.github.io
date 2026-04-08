@@ -4,8 +4,5 @@ artists:
   - LustSickPuppy
   - Combat
   - Pinkshift
-locations:
-  - Mahall'S
-  - Lakewood
-  - États-Unis
+locationId: "8de7b6a1-192d-48a7-aaa8-45025d4f2039"
 ---

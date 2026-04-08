@@ -4,10 +4,7 @@ title: "Antigel 2026 - Hinako Omori, Anna Von Hausswolff"
 author: "mkhelif"
 cover: "pictures/anna-von-hausswolff/12.jpg"
 rank: 10
-locations:
-  - L'Alhambra
-  - Genève
-  - Suisse
+locationId: "506d7a39-4f4c-4c98-bc9c-1acdf64b5665"
 festivals:
   - Antigel
 artists:

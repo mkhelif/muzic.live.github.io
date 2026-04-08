@@ -4,8 +4,5 @@ artists:
   - Battle Beast
   - Majestica
   - DOMINUM
-locations:
-  - Capitol
-  - Hannover
-  - Allemagne
+locationId: "afe3f142-8f1c-43c8-af06-9f76bf783d7d"
 ---

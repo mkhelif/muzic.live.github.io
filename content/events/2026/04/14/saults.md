@@ -2,8 +2,5 @@
 eventDate: "2026-04-14T20:00:00+01:00"
 artists:
   - Saults
-locations:
-  - Copper Bar, Band On The Wall
-  - Manchester
-  - Royaume-Uni
+locationId: "13be37d5-1530-413a-9396-80827bd1d799"
 ---

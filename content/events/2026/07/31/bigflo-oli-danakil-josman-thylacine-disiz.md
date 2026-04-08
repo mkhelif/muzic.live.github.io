@@ -6,8 +6,5 @@ artists:
   - Josman
   - Thylacine
   - disiz
-locations:
-  - Foreztival
-  - Trelins
-  - France
+locationId: "c4932f78-03e5-4901-a7e7-a0e5172eef15"
 ---

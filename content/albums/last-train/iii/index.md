@@ -5,7 +5,8 @@ subtitle: "9 titres, 42:13"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
-artist: "Last Train"
+artists:
+  - Last Train
 spotify: "39ERFFU6V30kTOEZbsznoH"
 tidal: "413873110"
 ---

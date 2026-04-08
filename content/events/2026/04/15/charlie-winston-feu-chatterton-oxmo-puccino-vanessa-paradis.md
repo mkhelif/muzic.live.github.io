@@ -5,8 +5,5 @@ artists:
   - Feu! Chatterton
   - Oxmo Puccino
   - Vanessa Paradis
-locations:
-  - Le W
-  - Bourges
-  - France
+locationId: "821659a4-284f-43d6-a70d-9432eade8d03"
 ---

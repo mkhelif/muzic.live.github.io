@@ -10,7 +10,5 @@ artists:
   - A-Trak
   - Myd
   - Leila
-locations:
-  - Crans-près-Céligny
-  - Suisse
+locationId: "1bad22fd-705d-467f-b319-ee787b9543ad"
 ---

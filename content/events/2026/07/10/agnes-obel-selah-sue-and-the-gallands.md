@@ -5,8 +5,5 @@ festivals:
 artists:
   - Agnes Obel
   - Selah Sue and The Gallands
-locations:
-  - Montreux Jazz Lab
-  - Montreux
-  - Suisse
+locationId: "dcba98e3-f6fc-4768-92eb-b86b1298fa0f"
 ---

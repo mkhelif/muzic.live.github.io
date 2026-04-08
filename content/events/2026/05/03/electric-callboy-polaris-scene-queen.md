@@ -4,8 +4,5 @@ artists:
   - Electric Callboy
   - Polaris
   - Scene Queen
-locations:
-  - Wintrust Arena
-  - Chicago
-  - États-Unis
+locationId: "1e97382d-a114-483d-9e80-f33da48f3290"
 ---

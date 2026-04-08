@@ -2,8 +2,5 @@
 eventDate: "2026-07-31T19:30:00+02:00"
 artists:
   - Sarah Lenka
-locations:
-  - Luchon Superbagnères Pyrenez-Vous
-  - Bagnères-De-Luchon
-  - France
+locationId: "d323affd-dc48-4545-8889-6f7cd768a719"
 ---

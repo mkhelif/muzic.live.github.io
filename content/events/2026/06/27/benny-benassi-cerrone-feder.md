@@ -4,8 +4,5 @@ artists:
   - Benny Benassi
   - Cerrone
   - Feder
-locations:
-  - Parc De Loisirs Jacques Vernier
-  - Douai
-  - France
+locationId: "f999efb5-4570-493b-8b21-a6b0c761fe01"
 ---

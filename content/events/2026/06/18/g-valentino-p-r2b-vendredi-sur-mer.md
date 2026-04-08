@@ -4,8 +4,5 @@ artists:
   - G. Valentino
   - P.R2B
   - Vendredi sur Mer
-locations:
-  - Festival Cabourg Mon Amour
-  - Cabourg
-  - France
+locationId: "d6f6e0d1-5831-4464-bdcf-daaa8c898c84"
 ---

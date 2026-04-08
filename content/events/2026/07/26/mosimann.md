@@ -2,8 +2,5 @@
 eventDate: "2026-07-26T19:00:00+02:00"
 artists:
   - Mosimann
-locations:
-  - Francofolies De Spa
-  - Spa
-  - Belgique
+locationId: "f91513cd-e7a9-425e-b029-bad0f50e789a"
 ---

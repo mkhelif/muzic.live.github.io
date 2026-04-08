@@ -4,8 +4,5 @@ artists:
   - Electric Callboy
   - Polaris
   - Scene Queen
-locations:
-  - Paramount Theatre
-  - Seattle
-  - États-Unis
+locationId: "08c71c90-9422-44d5-b8c5-612358a9e726"
 ---

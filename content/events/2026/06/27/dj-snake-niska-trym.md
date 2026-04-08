@@ -4,8 +4,5 @@ artists:
   - DJ Snake
   - Niska
   - TRYM
-locations:
-  - Matmut Stadium Gerland
-  - Lyon
-  - France
+locationId: "e6f0dece-4956-48b9-9cc2-64107df55f3e"
 ---

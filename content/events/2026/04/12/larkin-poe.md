@@ -2,8 +2,5 @@
 eventDate: "2026-04-12T17:00:00-05:00"
 artists:
   - Larkin Poe
-locations:
-  - Miramar Beach
-  - Miramar Beach
-  - États-Unis
+locationId: "9e23177a-0c2a-4152-826b-0fb3d8a04cb1"
 ---

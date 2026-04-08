@@ -2,8 +2,5 @@
 eventDate: "2026-03-03T19:00:00-06:00"
 artists:
   - Wings of Steel
-locations:
-  - Armory
-  - Minneapolis
-  - États-Unis
+locationId: "a8b4a894-126e-4aa4-a7d7-42c8e5236f4d"
 ---

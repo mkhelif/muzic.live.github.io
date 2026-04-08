@@ -2,8 +2,5 @@
 eventDate: "2025-12-06T18:00:00+00:00"
 artists:
   - Stereophonics
-locations:
-  - Utilita Arena Newcastle
-  - Newcastle Upon Tyne
-  - Royaume-Uni
+locationId: "77a3acb8-a1e9-41af-be2e-530acdc8731c"
 ---

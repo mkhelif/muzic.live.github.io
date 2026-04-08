@@ -61,26 +61,8 @@
 
         <!-- Last live reports -->
         <div class="row mt-4">
-            <div class="col-12 col-lg-8">
-                <h4 class="mb-4 p-3 bg-primary text-dark">Dernières chroniques de concerts</h4>
-                {{ range (where site.RegularPages "Section" "reports").Limit 5 }}
-                    {{ partial "report-entry.html" . }}
-                {{ end }}
-                <p class="text-center">
-                    <a class="btn btn-primary" href="/reports">Voir plus</a>
-                </p>
-            </div>
-
-            <div class="col-12 col-lg-4">
-                <h4 class="mb-4 p-3 bg-primary text-dark">Dernières critiques d'albums</h4>
-                {{ range (where site.RegularPages "Section" "albums").Limit 2 }}
-                    {{ partial "report-entry.html" . }}
-                {{ end }}
-                <p class="text-center">
-                    <a class="btn btn-primary" href="/albums">Voir plus</a>
-                </p>
-            </div>
+            <div class="col-12 col-lg-8">{{ partial "reports/latest.html" . }}</div>
+            <div class="col-12 col-lg-4">{{ partial "albums/latest.html" . }}</div>
         </div>
-
     </div>
 {{ end }}

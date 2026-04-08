@@ -5,8 +5,5 @@ artists:
   - Luiza
   - Niska
   - Tafta
-locations:
-  - Dritchino Open Air Festival
-  - Courgenay
-  - Suisse
+locationId: "972af622-301e-4fc6-8d78-f045a3204b55"
 ---

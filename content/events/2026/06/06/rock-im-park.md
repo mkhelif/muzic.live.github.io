@@ -9,8 +9,5 @@ artists:
   - Social Distortion
   - Sabaton
   - Hollywood Undead
-locations:
-  - Zeppelinfeld
-  - Nürnberg
-  - Allemagne
+locationId: "8ae82944-de5e-4973-bfd1-22238602d55f"
 ---

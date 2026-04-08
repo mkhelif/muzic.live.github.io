@@ -2,8 +2,5 @@
 eventDate: "2026-02-14T19:10:00+11:00"
 artists:
   - Wolfmother
-locations:
-  - Margaret Court Arena
-  - Melbourne
-  - Australie
+locationId: "49a69d87-2c56-4cfb-8d50-9b45b24f742c"
 ---

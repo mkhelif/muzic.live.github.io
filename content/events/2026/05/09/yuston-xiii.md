@@ -2,8 +2,5 @@
 eventDate: "2026-05-09T20:00:00-04:00"
 artists:
   - Yuston XIII
-locations:
-  - MTELUS
-  - Montréal
-  - Canada
+locationId: "33eb2f5a-b0a0-41a0-af51-365e665844cd"
 ---

@@ -4,7 +4,5 @@ artists:
   -
 festivals:
   - Festival de la Paille
-locations:
-  - Métabief
-  - France
+locationId: "c8281c1a-24ff-4029-a3ba-788175e6476c"
 ---

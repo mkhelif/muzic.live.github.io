@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Old National Centre
-  - Indianapolis
-  - États-Unis
+locationId: "efcececd-e9e2-4fb2-a293-a119447723b5"
 ---

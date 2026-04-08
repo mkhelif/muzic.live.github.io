@@ -4,8 +4,5 @@ artists:
   - Clipse
   - Linkin Park
   - Phantogram
-locations:
-  - Stadion Letzigrund
-  - Zürich
-  - Suisse
+locationId: "c4375044-441e-486d-b091-a46315dde93a"
 ---

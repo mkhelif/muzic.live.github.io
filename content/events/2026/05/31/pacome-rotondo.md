@@ -2,8 +2,5 @@
 eventDate: "2026-05-31T15:00:00+02:00"
 artists:
   - Pacôme Rotondo
-locations:
-  - Château Rozier
-  - Feurs
-  - France
+locationId: "5930aebd-c02a-4937-9433-5583faa38d65"
 ---

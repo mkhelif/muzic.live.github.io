@@ -2,8 +2,5 @@
 eventDate: "2026-05-07T18:15:00+01:00"
 artists:
   - Asian Dub Foundation
-locations:
-  - Brighton Dome
-  - Brighton
-  - Royaume-Uni
+locationId: "c10f2683-eb94-4793-9eb5-f7913883d67f"
 ---

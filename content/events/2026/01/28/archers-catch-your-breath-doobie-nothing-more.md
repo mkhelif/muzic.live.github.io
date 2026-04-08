@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Riverside Municipal Auditorium
-  - Riverside
-  - États-Unis
+locationId: "8beb08c7-a57b-447b-a8c5-379a86f5f5f9"
 ---

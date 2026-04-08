@@ -2,8 +2,5 @@
 eventDate: "2026-03-14T19:00:00-04:00"
 artists:
   - Wings of Steel
-locations:
-  - The Dome
-  - Virginia Beach
-  - États-Unis
+locationId: "65ccdef1-d391-4eb7-8310-292245a8fa72"
 ---

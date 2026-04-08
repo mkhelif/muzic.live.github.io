@@ -4,9 +4,7 @@ title: "Guitare en Scène 2024 - Jour 1 - Paddang, Seasick Steve, Status Quo, Jo
 author: "mkhelif"
 cover: "pictures/status-quo/04.jpg"
 rank: 8
-locations:
-  - Saint-Julien-en-Genevois
-  - France
+locationId: "3696b1db-7afd-4eb4-afcc-8bcf4ed56c08"
 festivals:
   - Guitare en Scène
 artists:

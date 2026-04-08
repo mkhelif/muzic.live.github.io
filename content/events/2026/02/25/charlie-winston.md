@@ -2,8 +2,5 @@
 eventDate: "2026-02-25T20:00:00+01:00"
 artists:
   - Charlie Winston
-locations:
-  - Gymnase Municipal
-  - Mauriac
-  - France
+locationId: "b5c1f928-9b04-46ab-af85-3a806c940221"
 ---

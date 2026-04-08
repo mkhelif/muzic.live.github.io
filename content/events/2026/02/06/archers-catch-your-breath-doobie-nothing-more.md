@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Marathon Music Works
-  - Nashville
-  - États-Unis
+locationId: "427656d0-6284-4cfa-a2a1-37b661412830"
 ---

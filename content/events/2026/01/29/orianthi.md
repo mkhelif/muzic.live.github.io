@@ -2,8 +2,5 @@
 eventDate: "2026-01-29T19:00:00+00:00"
 artists:
   - Orianthi
-locations:
-  - O2 Academy Islington
-  - London
-  - Royaume-Uni
+locationId: "65926690-afd7-41af-8272-d467779fd220"
 ---

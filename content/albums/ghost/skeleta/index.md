@@ -5,7 +5,8 @@ subtitle: "10 titres, 46:49"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 6
-artist: "Ghost"
+artists:
+  - Ghost
 spotify: "2PFJKjBqXpYrRcdClhfcnX"
 tidal: "430783746"
 todo:

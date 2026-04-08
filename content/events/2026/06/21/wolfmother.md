@@ -2,8 +2,5 @@
 eventDate: "2026-06-21T19:00:00-04:00"
 artists:
   - Wolfmother
-locations:
-  - Citizens House Of Blues Boston
-  - Boston
-  - États-Unis
+locationId: "d1223360-c508-490b-933d-02d90008beab"
 ---

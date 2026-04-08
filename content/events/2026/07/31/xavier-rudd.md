@@ -2,8 +2,5 @@
 eventDate: "2026-07-31T18:30:00+02:00"
 artists:
   - Xavier Rudd
-locations:
-  - Parco Manifestazioni Festplatz
-  - Lagundo
-  - Italie
+locationId: "a26a67b6-53fe-4948-acb7-abdac3ebe839"
 ---

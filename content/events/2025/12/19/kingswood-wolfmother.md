@@ -3,8 +3,5 @@ eventDate: "2025-12-19T16:00:00+11:00"
 artists:
   - Kingswood
   - Wolfmother
-locations:
-  - The Goods Shed
-  - Hobart
-  - Australie
+locationId: "03779949-6441-4e4b-ad72-55e224b9c67c"
 ---

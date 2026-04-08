@@ -4,8 +4,5 @@ artists:
   - Battle Beast
   - DOMINUM
   - Majestica
-locations:
-  - Löwensaal
-  - Nürnberg
-  - Allemagne
+locationId: "e00a6e85-813a-462f-8a18-eed923fb9bdf"
 ---

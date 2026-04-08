@@ -5,8 +5,5 @@ artists:
   - Blond
   - Sean Paul
   - Zartmann
-locations:
-  - Bodenseestadion Konstanz
-  - Konstanz
-  - Allemagne
+locationId: "41f85ab6-d0e5-4799-918b-f718a19abdff"
 ---

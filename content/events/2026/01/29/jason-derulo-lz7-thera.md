@@ -4,8 +4,5 @@ artists:
   - Jason Derulo
   - LZ7
   - THERA
-locations:
-  - Ovo Hydro
-  - Glasgow
-  - Royaume-Uni
+locationId: "4b439396-6540-43df-b83b-0b754d465393"
 ---

@@ -4,8 +4,5 @@ artists:
   - Battle Beast
   - DOMINUM
   - Majestica
-locations:
-  - Turbinenhalle
-  - Oberhausen
-  - Allemagne
+locationId: "398cbcb5-48d3-4825-abe9-308745f520f7"
 ---

@@ -4,8 +4,5 @@ artists:
   - Franz Ferdinand
   - Irnini Mons
   - The Great Leslie
-locations:
-  - Tempodrom
-  - Berlin
-  - Allemagne
+locationId: "413cfeae-f98c-4e3d-a238-7fd81a183d25"
 ---

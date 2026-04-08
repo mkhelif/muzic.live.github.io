@@ -4,8 +4,5 @@ artists:
   - Architects
   - LANDMVRKS
   - PRESIDENT
-locations:
-  - Fabrique
-  - Milano
-  - Italie
+locationId: "866840b7-9023-4116-a13d-467b7375fd3d"
 ---

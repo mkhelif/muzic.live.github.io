@@ -4,8 +4,5 @@ artists:
   - HammerFall
   - Powerwolf
   - Wind Rose
-locations:
-  - Ratiopharm Arena
-  - Neu-Ulm
-  - Allemagne
+locationId: "68726f44-0e79-4353-b722-6a25171a518f"
 ---

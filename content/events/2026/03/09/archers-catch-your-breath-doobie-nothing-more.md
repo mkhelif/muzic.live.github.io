@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Commodore Ballroom
-  - Vancouver
-  - Canada
+locationId: "3234004e-b6a7-413b-9fac-592f3491ec4c"
 ---

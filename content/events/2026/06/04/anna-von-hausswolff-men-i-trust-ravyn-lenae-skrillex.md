@@ -5,8 +5,5 @@ artists:
   - Men I Trust
   - Ravyn Lenae
   - Skrillex
-locations:
-  - Parc Del Fòrum
-  - Barcelona
-  - Espagne
+locationId: "7a93c65e-5527-4235-9f1d-0486d7f3017e"
 ---

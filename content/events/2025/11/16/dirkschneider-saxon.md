@@ -3,8 +3,5 @@ eventDate: "2025-11-16T19:00:00+00:00"
 artists:
   - Dirkschneider
   - Saxon
-locations:
-  - The Great Hall - Cardiff University Students' Union
-  - Cardiff
-  - Royaume-Uni
+locationId: "8229a1e5-6b30-4084-a052-cd0940bb7f7f"
 ---

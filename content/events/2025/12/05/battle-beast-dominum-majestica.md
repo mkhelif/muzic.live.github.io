@@ -4,8 +4,5 @@ artists:
   - Battle Beast
   - DOMINUM
   - Majestica
-locations:
-  - Tonhalle München (Im Werksviertel Mitte)
-  - München
-  - Allemagne
+locationId: "44921e1b-ed40-48de-b4c7-d1d281e2d063"
 ---

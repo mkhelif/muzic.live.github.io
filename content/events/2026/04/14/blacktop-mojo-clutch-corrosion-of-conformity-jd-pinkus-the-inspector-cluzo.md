@@ -6,8 +6,5 @@ artists:
   - Corrosion Of Conformity
   - JD Pinkus
   - The Inspector Cluzo
-locations:
-  - The Factory
-  - Saint Louis
-  - États-Unis
+locationId: "3ee5d248-4001-4d0b-aec0-70eb5171bf4e"
 ---

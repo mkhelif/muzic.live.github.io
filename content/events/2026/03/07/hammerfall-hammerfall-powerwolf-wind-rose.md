@@ -5,8 +5,5 @@ artists:
   - Hammerfall
   - Powerwolf
   - Wind Rose
-locations:
-  - Ovo Arena Wembley
-  - London
-  - Royaume-Uni
+locationId: "bbe8eb14-142b-41d3-a9cd-4a21a0d79d66"
 ---

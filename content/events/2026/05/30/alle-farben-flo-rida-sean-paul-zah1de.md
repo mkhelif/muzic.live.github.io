@@ -5,8 +5,5 @@ artists:
   - Flo Rida
   - Sean Paul
   - ZAH1DE
-locations:
-  - Expo-Gelände
-  - Hannover
-  - Allemagne
+locationId: "8d044fe4-f5a2-4a6b-9c70-9ef32c0a4084"
 ---

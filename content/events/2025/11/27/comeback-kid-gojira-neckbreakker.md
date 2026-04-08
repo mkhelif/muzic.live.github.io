@@ -4,8 +4,5 @@ artists:
   - Comeback Kid
   - Gojira
   - NECKBREAKKER
-locations:
-  - Reims Arena
-  - Reims
-  - France
+locationId: "7b50b240-7e4d-4d18-b07d-6b83391f3629"
 ---

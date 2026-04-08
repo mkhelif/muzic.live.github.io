@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Moore Theatre
-  - Seattle
-  - États-Unis
+locationId: "fbcd7c6c-471d-48b7-abe3-2ceb635de47b"
 ---

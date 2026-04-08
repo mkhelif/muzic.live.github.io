@@ -5,7 +5,8 @@ subtitle: "17 titres, 58:08"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
-artist: "Orelsan"
+artists:
+  - Orelsan
 spotify: "130L3uMANE28R0eH0GtmZS"
 tidal: "472233405"
 ---

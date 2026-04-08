@@ -4,8 +4,5 @@ artists:
   - Bury Tomorrow
   - Electric Callboy
   - Wargasm
-locations:
-  - Zenith Paris - La Villette
-  - Paris
-  - France
+locationId: "7c12b150-e372-4bdf-ae92-8714741a8edd"
 ---

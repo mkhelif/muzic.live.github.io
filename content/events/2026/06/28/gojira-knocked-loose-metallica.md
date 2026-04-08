@@ -4,8 +4,5 @@ artists:
   - Gojira
   - Knocked Loose
   - Metallica
-locations:
-  - Principality Stadium
-  - Cardiff
-  - Royaume-Uni
+locationId: "ede8ef86-62b1-4f6b-842d-3d14be09bbc6"
 ---

@@ -6,8 +6,5 @@ artists:
   - Joachim Garraud
   - Ofenbach
   - Sara Costa
-locations:
-  - Lac De Monteux
-  - Monteux
-  - France
+locationId: "2a32e755-7616-48cd-a936-a4a83ffb6651"
 ---

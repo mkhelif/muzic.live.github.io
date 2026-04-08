@@ -4,8 +4,5 @@ artists:
   - Combat
   - LustSickPuppy
   - Pinkshift
-locations:
-  - Brighton Music Hall Presented By Citizens
-  - Boston
-  - États-Unis
+locationId: "61a71dd5-4373-4f99-be02-87c5581ebc51"
 ---

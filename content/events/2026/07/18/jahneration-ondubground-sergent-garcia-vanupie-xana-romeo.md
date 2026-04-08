@@ -6,8 +6,5 @@ artists:
   - Sergent Garcia
   - Vanupié
   - Xana Romeo
-locations:
-  - Les Tanzmatten
-  - Sélestat
-  - France
+locationId: "946c6ac3-72c8-4f9a-89c3-fdc61f261f13"
 ---

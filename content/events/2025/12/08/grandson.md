@@ -2,8 +2,5 @@
 eventDate: "2025-12-08T20:00:00-06:00"
 artists:
   - grandson
-locations:
-  - Burton Cummings Theatre
-  - Winnipeg
-  - Canada
+locationId: "126c7cfd-eb88-42ec-afb2-80e61c2fce71"
 ---

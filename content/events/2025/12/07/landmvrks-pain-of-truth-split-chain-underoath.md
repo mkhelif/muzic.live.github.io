@@ -5,8 +5,5 @@ artists:
   - Pain of Truth
   - Split Chain
   - Underoath
-locations:
-  - Roundhouse
-  - London
-  - Royaume-Uni
+locationId: "694636cf-b6be-4c08-a121-75634063421b"
 ---

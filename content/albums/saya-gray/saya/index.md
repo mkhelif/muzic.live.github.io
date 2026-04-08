@@ -5,7 +5,8 @@ subtitle: "10 titres, 39:08"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
-artist: "Saya Gray"
+artists:
+  - Saya Gray
 spotify: "4w5yIvQJ8vlxDnMyN8A8qE"
 tidal: "373218697"
 ---

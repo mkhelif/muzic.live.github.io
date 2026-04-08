@@ -5,8 +5,5 @@ artists:
   - LustSickPuppy
   - Combat
   - Pinkshift
-locations:
-  - Hard Luck Bar
-  - Toronto
-  - Canada
+locationId: "ae5e32c7-d7f8-4045-9544-50215356a0af"
 ---

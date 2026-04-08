@@ -4,8 +4,5 @@ artists:
   - Conan Gray
   - Jacob Alon
   - Lewis Capaldi
-locations:
-  - Hyde Park
-  - London
-  - Royaume-Uni
+locationId: "8787c6dc-5fe5-41ab-b632-f4071a44347e"
 ---

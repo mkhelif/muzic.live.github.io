@@ -5,7 +5,8 @@ subtitle: "12 titres, 38:39"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
-artist: "Faada Freddy"
+artists:
+  - Faada Freddy
 spotify: "591SAjhEIu4bVOEe17Ryhx"
 tidal: "307512117"
 ---

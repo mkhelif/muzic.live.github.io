@@ -4,8 +4,5 @@ artists:
   - LANDMVRKS
   - Poppy
   - Thousand Below
-locations:
-  - Revel
-  - Albuquerque
-  - États-Unis
+locationId: "eb413e15-daeb-4682-b274-fadc345f3d19"
 ---

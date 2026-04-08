@@ -4,8 +4,5 @@ artists:
   - Charlie P.
   - MTZx
   - O.B.F
-locations:
-  - Saline Royale D'Arc-Et-Senans
-  - Arc-Et-Senans
-  - France
+locationId: "5b6c3201-42cc-4f3e-9f6c-388a0ea29d1d"
 ---

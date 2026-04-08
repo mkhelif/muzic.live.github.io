@@ -6,8 +6,5 @@ artists:
   - Ascendant Vierge
   - Danny L Harle
   - ¥ØU$UK€ ¥UK1MAT$U
-locations:
-  - Montreux Jazz Lab
-  - Montreux
-  - Suisse
+locationId: "dcba98e3-f6fc-4768-92eb-b86b1298fa0f"
 ---

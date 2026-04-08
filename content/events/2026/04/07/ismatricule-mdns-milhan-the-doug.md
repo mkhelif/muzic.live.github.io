@@ -5,8 +5,5 @@ artists:
   - MDNS
   - Milhan
   - The Doug
-locations:
-  - Le Saint Des Seins
-  - Toulouse
-  - France
+locationId: "af624336-12b1-44b2-bdaa-f98940508408"
 ---

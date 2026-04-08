@@ -2,8 +2,5 @@
 eventDate: "2025-12-04T20:00:00+01:00"
 artists:
   - HAEVN
-locations:
-  - Theater Aan Het Vrijthof
-  - Maastricht
-  - Pays-Bas
+locationId: "ee3d6837-49f9-466d-8072-f361631f72cf"
 ---

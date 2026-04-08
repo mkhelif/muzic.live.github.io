@@ -4,8 +4,5 @@ artists:
   - Comeback Kid
   - Gojira
   - NECKBREAKKER
-locations:
-  - Le Dome Marseille
-  - Marseille
-  - France
+locationId: "0ca9fefe-06e7-4eaf-80be-8d2023a66a10"
 ---

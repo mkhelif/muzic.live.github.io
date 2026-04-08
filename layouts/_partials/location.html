@@ -1,8 +1,0 @@
-{{ partial "cover.html" . }}
-
-<div class="container">
-    {{ partial "social.html" . }}
-    {{ partial "content.html" . }}
-    {{ partial "events.html" (dict "context" . "term" "locations" "filter" .Title) }}
-    {{ partial "reports.html" (dict "context" . "term" "locations" "filter" .Title) }}
-</div>

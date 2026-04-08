@@ -5,8 +5,5 @@ artists:
   - James Emmanuel
   - Nile Rodgers
   - The Brand New Heavies
-locations:
-  - Dreamland
-  - Margate
-  - Royaume-Uni
+locationId: "31e45e27-4be8-4132-977e-d87fbf7f9cb6"
 ---

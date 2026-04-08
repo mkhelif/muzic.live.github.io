@@ -2,8 +2,5 @@
 eventDate: "2025-11-04T19:00:00-05:00"
 artists:
   - John Fogerty
-locations:
-  - The Fox Theatre
-  - Atlanta
-  - États-Unis
+locationId: "f0c19ee5-cdff-4678-bed7-2935a1bc4e3b"
 ---

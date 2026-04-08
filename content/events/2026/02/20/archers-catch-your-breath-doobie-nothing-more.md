@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Citizens House Of Blues Boston
-  - Boston
-  - États-Unis
+locationId: "d1223360-c508-490b-933d-02d90008beab"
 ---

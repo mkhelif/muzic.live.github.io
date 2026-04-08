@@ -5,7 +5,8 @@ subtitle: "20 titres, 1:29:41"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
-artist: "Powerwolf"
+artists:
+  - Powerwolf
 spotify: "0sYsti82VA37zLESxDYVsm"
 tidal: "466546699"
 ---

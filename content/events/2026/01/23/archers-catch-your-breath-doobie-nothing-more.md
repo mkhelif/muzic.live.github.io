@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - South Side Ballroom
-  - Dallas
-  - États-Unis
+locationId: "35afbb43-c7ef-48cb-9b2a-0975afff541e"
 ---

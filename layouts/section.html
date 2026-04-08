@@ -6,8 +6,8 @@
 
         <!-- Pages -->
         {{ $paginator := .Paginate (where .Pages "Section" "eq" "reports").ByDate.Reverse 10 }}
-        {{ range $paginator.Pages }}
-            {{ partial "report-entry.html" . }}
+        {{ range $index, $report := $paginator.Pages }}
+            {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
         {{ end }}
         {{ partial "pagination.html" . }}
     </div>

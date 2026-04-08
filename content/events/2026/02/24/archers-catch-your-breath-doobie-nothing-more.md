@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - History
-  - Toronto
-  - Canada
+locationId: "340eec97-a23d-4d82-aab9-f9a62369ee84"
 ---

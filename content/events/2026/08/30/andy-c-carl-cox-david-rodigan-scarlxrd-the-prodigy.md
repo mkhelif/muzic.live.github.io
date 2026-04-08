@@ -6,8 +6,5 @@ artists:
   - David Rodigan
   - Scarlxrd
   - The Prodigy
-locations:
-  - Wythenshawe Park
-  - Manchester
-  - Royaume-Uni
+locationId: "b46efd82-854c-4a2d-89ca-d2e30972990f"
 ---

@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Fillmore Auditorium (Denver)
-  - Denver
-  - États-Unis
+locationId: "b552dd6c-201f-4281-b236-33f5025605ce"
 ---

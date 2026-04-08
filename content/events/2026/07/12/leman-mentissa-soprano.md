@@ -4,8 +4,5 @@ artists:
   - Léman
   - Mentissa
   - Soprano
-locations:
-  - Site Du Festival
-  - Bertrix
-  - Belgique
+locationId: "3d363554-dbeb-41c0-8f07-40ef62530c8f"
 ---

@@ -5,8 +5,5 @@ artists:
   - Kasabian
   - Planet Funk
   - Skunk Anansie
-locations:
-  - Mostra D'Oltremare
-  - Napoli
-  - Italie
+locationId: "b4987af2-e274-4107-bd2d-d59dd82711ae"
 ---

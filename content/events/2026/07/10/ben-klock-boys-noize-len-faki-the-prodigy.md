@@ -5,8 +5,5 @@ artists:
   - Boys Noize
   - Len Faki
   - The Prodigy
-locations:
-  - Błonia Łódzkie
-  - Łódź
-  - Pologne
+locationId: "9ff5f8a0-7495-4666-b2c5-88e810ac0124"
 ---

@@ -5,8 +5,5 @@ artists:
   - Feder
   - Franglish
   - Kungs
-locations:
-  - Plages Du Prado
-  - Marseille
-  - France
+locationId: "2631145a-05d0-418a-8051-e13a1d0db1c2"
 ---

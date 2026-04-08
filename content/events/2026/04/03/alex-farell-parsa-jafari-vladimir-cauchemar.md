@@ -4,8 +4,5 @@ artists:
   - Alex Farell
   - Parsa Jafari
   - Vladimir Cauchemar
-locations:
-  - E1
-  - London
-  - Royaume-Uni
+locationId: "0c8d49ee-b79c-4b0b-a8d9-b92d1078b7f8"
 ---

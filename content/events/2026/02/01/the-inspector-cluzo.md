@@ -2,8 +2,5 @@
 eventDate: "2026-02-01T19:30:00+01:00"
 artists:
   - The Inspector Cluzo
-locations:
-  - La Maroquinerie
-  - Paris
-  - France
+locationId: "bba22bed-6aaf-497b-b2fe-c0bfdafd87c2"
 ---

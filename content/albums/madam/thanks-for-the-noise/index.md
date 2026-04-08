@@ -5,7 +5,8 @@ subtitle: "12 titres, 35:32"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
-artist: "MADAM"
+artists:
+  - MADAM
 spotify: "5ypPwi6yhfMZ6wEhgX5aV3"
 tidal: "346042741"
 ---

@@ -5,7 +5,8 @@ subtitle: "11 titres, 38:12"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 9
-artist: "LANDMVRKS"
+artists:
+  - LANDMVRKS
 spotify: "2F9JIN5xlQs9Z6eVANk7mF"
 tidal: "402488167"
 ---

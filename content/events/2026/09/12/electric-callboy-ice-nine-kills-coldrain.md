@@ -4,8 +4,5 @@ artists:
   - Electric Callboy
   - Ice Nine Kills
   - coldrain
-locations:
-  - Riverstage Brisbane
-  - Brisbane
-  - Australie
+locationId: "f375321a-8b02-463f-9a41-8a61409ed599"
 ---

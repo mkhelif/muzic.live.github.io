@@ -4,8 +4,5 @@ artists:
   - Electric Callboy
   - Polaris
   - Scene Queen
-locations:
-  - Mgm Music Hall At Fenway
-  - Boston
-  - États-Unis
+locationId: "df867b89-db0a-41fc-bcfd-881d847f8059"
 ---

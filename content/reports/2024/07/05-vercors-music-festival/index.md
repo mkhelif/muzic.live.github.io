@@ -4,9 +4,7 @@ title: "Vercors Music Festival 2024 - Jour 1 - CleÌa Vincent, H-Burns, PambeleÌ
 author: "mkhelif"
 cover: "pictures/h-burns/01.jpg"
 rank: 10
-locations:
-  - Autrans
-  - France
+locationId: "429ce815-53da-4a16-833a-d29997086186"
 festivals:
   - Vercors Music Festival
 artists:

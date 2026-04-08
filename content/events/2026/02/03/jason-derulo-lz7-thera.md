@@ -4,8 +4,5 @@ artists:
   - Jason Derulo
   - LZ7
   - THERA
-locations:
-  - The Brighton Centre
-  - Brighton
-  - Royaume-Uni
+locationId: "2b968bb3-57c2-482b-a57e-cf48234822d3"
 ---

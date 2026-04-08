@@ -5,8 +5,5 @@ artists:
   - Electric Callboy
   - WARGASM (UK)
   - Wargasm
-locations:
-  - Rtm Stage - Rotterdam Ahoy
-  - Rotterdam
-  - Pays-Bas
+locationId: "7acb72fe-c7ce-4552-b40f-f0d8603c0228"
 ---

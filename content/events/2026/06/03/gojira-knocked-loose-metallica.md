@@ -4,8 +4,5 @@ artists:
   - Gojira
   - Knocked Loose
   - Metallica
-locations:
-  - Stadio Dall'Ara
-  - Bologna
-  - Italie
+locationId: "393f1504-1fb1-4294-825b-53e9312c50e2"
 ---

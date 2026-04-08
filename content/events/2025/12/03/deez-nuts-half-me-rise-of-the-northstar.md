@@ -4,8 +4,5 @@ artists:
   - Deez Nuts
   - Half Me
   - Rise Of The Northstar
-locations:
-  - Palác Akropolis
-  - Praha 3
-  - Tchéquie
+locationId: "c92daac8-99d2-411a-bc32-b4f6a1eb2df6"
 ---

@@ -2,8 +2,5 @@
 eventDate: "2026-08-28T20:00:00+02:00"
 artists:
   - Wolfmother
-locations:
-  - Rock Planet
-  - Cervia
-  - Italie
+locationId: "194f3708-8251-4db1-be8a-27bf1a907801"
 ---

@@ -4,8 +4,5 @@ artists:
   - Electric Callboy
   - Polaris
   - Scene Queen
-locations:
-  - Yuengling Center
-  - Tampa
-  - États-Unis
+locationId: "f33102f4-d3c4-4957-b4d6-ce3b4fa6f842"
 ---

@@ -28,7 +28,5 @@ artists:
   - SKALD
   - Feuerschwanz
   - Borknagar
-locations:
-  - Clisson
-  - France
+locationId: "a96150fd-cd15-4d68-8c73-31fff4f3ae29"
 ---

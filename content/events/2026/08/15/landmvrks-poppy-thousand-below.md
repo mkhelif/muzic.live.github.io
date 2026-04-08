@@ -4,8 +4,5 @@ artists:
   - LANDMVRKS
   - Poppy
   - Thousand Below
-locations:
-  - Hard Rock Live Orlando
-  - Orlando
-  - États-Unis
+locationId: "08c3dafe-8a5f-4325-8019-9a7ff2ce50b6"
 ---

@@ -5,7 +5,8 @@ subtitle: "15 titres, 45:57"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
-artist: "Nothing More"
+artists:
+  - Nothing More
 spotify: "6bo0qsybdHj6lP2Hr0flUj"
 tidal: "355013613"
 ---

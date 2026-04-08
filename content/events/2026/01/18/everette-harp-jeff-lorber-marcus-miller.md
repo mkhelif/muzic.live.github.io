@@ -4,8 +4,5 @@ artists:
   - Everette Harp
   - Jeff Lorber
   - Marcus Miller
-locations:
-  - Texas Trust Cu Theatre
-  - Grand Prairie
-  - États-Unis
+locationId: "97eed762-29f3-4b98-8a35-e6c7e110a21e"
 ---

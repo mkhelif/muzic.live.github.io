@@ -4,10 +4,7 @@ title: "Heavy Weekend 2025 - Jour 2 - Wings of Steel, Vanden Plas, Europe, Dream
 author: "mkhelif"
 cover: "pictures/dream-theater/02.jpg"
 rank: 10
-locations:
-  - Zenith Nancy
-  - Nancy
-  - France
+locationId: "73e73a54-9f04-4d46-ab08-824a19a88e54"
 festivals:
   - Heavy Weekend
 artists:

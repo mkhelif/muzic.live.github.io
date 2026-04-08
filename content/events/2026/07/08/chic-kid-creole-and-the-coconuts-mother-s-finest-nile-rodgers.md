@@ -5,8 +5,5 @@ artists:
   - Kid Creole And The Coconuts
   - Mother's Finest
   - Nile Rodgers
-locations:
-  - Kunst!Rasen Bonn/Gronau
-  - Bonn
-  - Allemagne
+locationId: "7484ee27-62bd-4302-9f65-0045befe38b0"
 ---

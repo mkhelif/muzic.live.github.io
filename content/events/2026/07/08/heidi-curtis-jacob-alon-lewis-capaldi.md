@@ -4,8 +4,5 @@ artists:
   - Heidi Curtis
   - Jacob Alon
   - Lewis Capaldi
-locations:
-  - Exhibition Park
-  - Newcastle
-  - Royaume-Uni
+locationId: "bed5133c-79ed-4add-8092-dc70bc8cd3b3"
 ---

@@ -4,9 +4,7 @@ title: "Venoge Festival 2025 - Jour 2 - Sugarhill Gang, Sheila, UB40, Murray Hea
 author: "mkhelif"
 cover: "pictures/sean-paul/07.jpg"
 rank: 8
-locations:
-  - Penthaz
-  - Suisse
+locationId: "47382bea-bcce-4ade-b985-046a224676f5"
 festivals:
   - Venoge Festival
 artists:

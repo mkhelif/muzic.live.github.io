@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - The Ritz
-  - Raleigh
-  - États-Unis
+locationId: "eaa628d1-bba1-4d93-bf93-25ae2f0af9df"
 ---

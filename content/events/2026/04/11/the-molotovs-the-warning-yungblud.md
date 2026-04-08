@@ -4,8 +4,5 @@ artists:
   - The Molotovs
   - The Warning
   - YUNGBLUD
-locations:
-  - Utilita Arena Sheffield
-  - Sheffield
-  - Royaume-Uni
+locationId: "c85e626c-f87a-4dca-ae9c-597b818674a4"
 ---

@@ -4,8 +4,5 @@ artists:
   - Jacob Alon
   - Kae Tempest
   - Sarah Nimmo
-locations:
-  - O2 Academy Brixton
-  - London
-  - Royaume-Uni
+locationId: "46027e91-fa12-42b8-ba8b-7a63eafc86e0"
 ---

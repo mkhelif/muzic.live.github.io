@@ -5,8 +5,5 @@ artists:
   - Beatsteaks
   - Kraftklub
   - SDP
-locations:
-  - Störmthaler See
-  - Grosspösna
-  - Allemagne
+locationId: "3c3f4897-a9ad-4bf3-a5bf-c69c6f256de9"
 ---

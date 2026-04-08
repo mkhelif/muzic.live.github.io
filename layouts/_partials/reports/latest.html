@@ -1,0 +1,7 @@
+<h4 class="mb-4 p-3 bg-primary text-dark">Dernières chroniques de concerts</h4>
+{{ range $index, $report := (where site.RegularPages "Section" "reports").Limit 5 }}
+    {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
+{{ end }}
+<p class="text-center">
+    <a class="btn btn-primary" href="/reports">Voir plus</a>
+</p>

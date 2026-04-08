@@ -5,8 +5,5 @@ festivals:
 artists:
   - Cerrone
   - Mind Enterprises
-locations:
-  - Montreux Jazz Lab
-  - Montreux
-  - Suisse
+locationId: "dcba98e3-f6fc-4768-92eb-b86b1298fa0f"
 ---

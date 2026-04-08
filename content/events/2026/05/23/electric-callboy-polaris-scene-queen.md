@@ -4,8 +4,5 @@ artists:
   - Electric Callboy
   - Polaris
   - Scene Queen
-locations:
-  - Coca-Cola Roxy
-  - Atlanta
-  - États-Unis
+locationId: "87cb60ce-8e8a-48cb-adb8-faba02ddeca2"
 ---

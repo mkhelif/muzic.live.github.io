@@ -4,8 +4,5 @@ artists:
   - Carl Cox
   - David Rodigan
   - The Prodigy
-locations:
-  - Imma
-  - Dublin
-  - Irlande
+locationId: "30c33630-34eb-445d-ae16-0fb82020d4eb"
 ---

@@ -2,8 +2,5 @@
 eventDate: "2026-02-06T19:00:00+01:00"
 artists:
   - Lofofora
-locations:
-  - La Moba
-  - Bagnols-Sur-Cèze
-  - France
+locationId: "1ba00b36-a591-4e2c-a530-8daa1a7d78ac"
 ---

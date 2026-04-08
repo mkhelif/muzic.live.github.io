@@ -2,8 +2,5 @@
 eventDate: "2025-11-20T20:30:00+01:00"
 artists:
   - Broken Back
-locations:
-  - Le Fil
-  - Saint-Étienne
-  - France
+locationId: "8b5117a5-325f-4749-be2c-a9cec8143d72"
 ---

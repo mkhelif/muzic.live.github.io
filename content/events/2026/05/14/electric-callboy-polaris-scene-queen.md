@@ -4,8 +4,5 @@ artists:
   - Electric Callboy
   - Polaris
   - Scene Queen
-locations:
-  - Place Bell
-  - Laval
-  - Canada
+locationId: "dce558bd-0fc5-444f-9327-dd508945fcc3"
 ---

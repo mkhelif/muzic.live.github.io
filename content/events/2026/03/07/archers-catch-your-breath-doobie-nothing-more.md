@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Grey Eagle Event Centre
-  - Calgary
-  - Canada
+locationId: "d4ad869a-97cd-4955-9ca5-83f5373d1f90"
 ---

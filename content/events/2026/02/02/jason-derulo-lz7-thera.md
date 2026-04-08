@@ -4,8 +4,5 @@ artists:
   - Jason Derulo
   - LZ7
   - THERA
-locations:
-  - Utilita Arena Cardiff
-  - Cardiff
-  - Royaume-Uni
+locationId: "8057e7ff-5362-49d0-87c4-497f40161a68"
 ---

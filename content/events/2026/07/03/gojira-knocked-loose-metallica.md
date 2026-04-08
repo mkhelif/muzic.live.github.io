@@ -4,8 +4,5 @@ artists:
   - Gojira
   - Knocked Loose
   - Metallica
-locations:
-  - London Stadium
-  - London
-  - Royaume-Uni
+locationId: "6d198b1d-7adf-4b30-8319-f274a48d6446"
 ---

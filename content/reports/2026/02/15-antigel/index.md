@@ -4,10 +4,7 @@ title: "Antigel 2026 - Macie Stewart, Jeff Tweedy"
 author: "mkhelif"
 cover: "pictures/jeff-tweedy/09.jpg"
 rank: 8
-locations:
-  - L'Alhambra
-  - Genève
-  - Suisse
+locationId: "506d7a39-4f4c-4c98-bc9c-1acdf64b5665"
 festivals:
   - Antigel
 artists:

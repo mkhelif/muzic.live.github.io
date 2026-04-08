@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - NOTHING MORE
   - Solence
-locations:
-  - Lka-Longhorn
-  - Stuttgart-Wangen
-  - Allemagne
+locationId: "f20630ae-d5d3-4ef0-b006-5b466a1a94e2"
 ---

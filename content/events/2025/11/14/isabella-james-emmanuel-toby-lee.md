@@ -4,8 +4,5 @@ artists:
   - Isabella
   - James Emmanuel
   - Toby Lee
-locations:
-  - The Georgian Theatre, Stockton-On-Tees
-  - Stockton-On-Tees
-  - Royaume-Uni
+locationId: "05f6e11e-676b-4909-84ec-a36668b045ba"
 ---

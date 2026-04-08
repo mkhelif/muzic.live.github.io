@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Midway Music Hall
-  - Edmonton
-  - Canada
+locationId: "6762e790-41b9-47b5-a6fd-cd980f7916fc"
 ---

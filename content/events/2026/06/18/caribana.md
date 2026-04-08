@@ -9,7 +9,5 @@ artists:
   - Broken Back
   - Eve
   - Saint Stacy
-locations:
-  - Crans-près-Céligny
-  - Suisse
+locationId: "1bad22fd-705d-467f-b319-ee787b9543ad"
 ---

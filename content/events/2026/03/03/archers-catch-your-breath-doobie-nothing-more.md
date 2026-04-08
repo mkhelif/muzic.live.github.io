@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Fillmore Minneapolis Presented By Affinity Plus
-  - Minneapolis
-  - États-Unis
+locationId: "64858c27-97f9-4d5e-8d8f-aee34c4deaae"
 ---

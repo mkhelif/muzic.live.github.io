@@ -3,8 +3,5 @@ eventDate: "2026-05-25T19:00:00-06:00"
 artists:
   - Alabama Shakes
   - JJ Grey & Mofro
-locations:
-  - Red Rocks Amphitheatre
-  - Morrison
-  - États-Unis
+locationId: "b85f8576-ad15-467f-b636-d1050ddeb611"
 ---

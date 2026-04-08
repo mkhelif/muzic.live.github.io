@@ -2,8 +2,5 @@
 eventDate: "2025-11-08T14:30:00+02:00"
 artists:
   - NOTHING MORE
-locations:
-  - Lahti Energia Tapahtumapuisto
-  - Lahti
-  - Finlande
+locationId: "e1ae68a8-1874-41b0-8e19-ce5d11fb992a"
 ---

@@ -6,8 +6,5 @@ artists:
   - Kid Kapichi
   - The Meffs
   - swim school
-locations:
-  - Melkweg
-  - Amsterdam
-  - Pays-Bas
+locationId: "3ad905b6-e98e-4e46-9c2c-c2ac66240b91"
 ---

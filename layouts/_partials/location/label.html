@@ -1,8 +1,0 @@
-{{ $locationId := . }}
-{{ range hugo.Sites }}
-    {{ range (where .Pages "Section" "locations") }}
-        {{ if eq .Params.locationId $locationId }}
-            {{ .LinkTitle }}
-        {{ end }}
-    {{ end }}
-{{ end }}

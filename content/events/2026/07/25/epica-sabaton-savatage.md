@@ -4,8 +4,5 @@ artists:
   - Epica
   - Sabaton
   - Savatage
-locations:
-  - Πλατεία Νερού, Φάληρο
-  - Φάληρο
-  - Grèce
+locationId: "466b684d-1d93-4de7-b544-dbd1cea4f925"
 ---

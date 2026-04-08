@@ -4,8 +4,5 @@ artists:
   - Europe
   - Gun
   - The Damn Truth
-locations:
-  - Sec Armadillo
-  - Glasgow
-  - Royaume-Uni
+locationId: "34234d3c-89a4-4165-951d-029806a32618"
 ---

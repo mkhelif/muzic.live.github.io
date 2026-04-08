@@ -4,8 +4,5 @@ artists:
   - Europe
   - Gun
   - The Damn Truth
-locations:
-  - Eventim Apollo
-  - London
-  - Royaume-Uni
+locationId: "87ac6464-d28e-4b46-962a-9902efa0797a"
 ---

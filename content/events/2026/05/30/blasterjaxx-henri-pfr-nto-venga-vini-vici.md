@@ -6,8 +6,5 @@ artists:
   - NTO
   - VENGA
   - Vini Vici
-locations:
-  - Rochexpo
-  - La Roche-Sur-Foron
-  - France
+locationId: "280f1757-97b3-4437-aa9b-08761e6e47f5"
 ---

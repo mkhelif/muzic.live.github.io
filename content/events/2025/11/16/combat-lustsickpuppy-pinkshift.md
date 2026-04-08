@@ -4,8 +4,5 @@ artists:
   - Combat
   - LustSickPuppy
   - Pinkshift
-locations:
-  - The Atlantis
-  - Washington
-  - États-Unis
+locationId: "a1a34aff-3f49-4a86-b5c9-1658a35be978"
 ---

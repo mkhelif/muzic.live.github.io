@@ -4,8 +4,5 @@ artists:
   - Battle Beast
   - Majestica
   - DOMINUM
-locations:
-  - Huskvarna Folkets Park
-  - Huskvarna Jönköping
-  - Suède
+locationId: "fd49e4c4-aa75-4665-ae4c-c4b56b08f834"
 ---

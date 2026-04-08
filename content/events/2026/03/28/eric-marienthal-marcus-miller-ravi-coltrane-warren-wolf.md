@@ -5,8 +5,5 @@ artists:
   - Marcus Miller
   - Ravi Coltrane
   - Warren Wolf
-locations:
-  - Double Tree Hotel
-  - Reading
-  - États-Unis
+locationId: "e13da7e2-a940-4af0-bcc6-2f0a5c3f8569"
 ---

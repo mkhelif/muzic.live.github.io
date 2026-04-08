@@ -6,8 +6,5 @@ artists:
   - Matmatah
   - The Silencers
   - Ultra Vomit
-locations:
-  - Théâtre De Verdure
-  - Lampaul-Plouarzel
-  - France
+locationId: "8728c0d4-f5bb-4229-8a2b-88fcb560aed6"
 ---

@@ -4,9 +4,7 @@ title: "Poprock Festival 2025 - Jour 2 - Swab, Nerlov, Fabulous Sheep, Stuck in 
 author: "mkhelif"
 cover: "pictures/stuck-in-the-sound/01.jpg"
 rank: 9
-locations:
-  - Gilly
-  - Suisse
+locationId: "555d590a-f1e0-4c09-8a76-d88a43af0d1a"
 festivals:
   - Poprock Festival
 artists:

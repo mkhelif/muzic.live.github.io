@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - NOTHING MORE
   - Solence
-locations:
-  - O2 Ritz Manchester
-  - Manchester
-  - Royaume-Uni
+locationId: "cfe83595-8184-484d-9303-78f808c8e844"
 ---

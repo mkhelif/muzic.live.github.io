@@ -5,7 +5,8 @@ subtitle: "8 titres, 1:11:16"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
-artist: "Dream Theater"
+artists:
+  - Dream Theater
 spotify: "0ER7sdwIe6mfM63TbWcHmd"
 tidal: "413373265"
 ---

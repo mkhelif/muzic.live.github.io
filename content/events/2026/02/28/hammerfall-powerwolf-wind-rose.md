@@ -4,8 +4,5 @@ artists:
   - HammerFall
   - Powerwolf
   - Wind Rose
-locations:
-  - Psd Bank Dome
-  - Düsseldorf
-  - Allemagne
+locationId: "5a96382b-d1cb-4b88-92f0-b8aee7a7bbf3"
 ---

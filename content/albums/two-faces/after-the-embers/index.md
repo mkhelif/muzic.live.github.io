@@ -5,7 +5,8 @@ subtitle: "11 titres, 38:39"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
-artist: "Two Faces"
+artists:
+  - Two Faces
 spotify: "6swvaaPMfY7cJL3HJnIDuA"
 tidal: "280664986"
 ---

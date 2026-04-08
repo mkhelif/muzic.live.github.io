@@ -4,8 +4,5 @@ artists:
   - HammerFall
   - Powerwolf
   - Wind Rose
-locations:
-  - Sap Arena
-  - Mannheim
-  - Allemagne
+locationId: "0d00b6e3-5fed-4900-9389-75d167c97569"
 ---

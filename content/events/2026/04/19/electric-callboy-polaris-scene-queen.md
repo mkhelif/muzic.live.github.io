@@ -4,8 +4,5 @@ artists:
   - Electric Callboy
   - Polaris
   - Scene Queen
-locations:
-  - Arizona Financial Theatre
-  - Phoenix
-  - États-Unis
+locationId: "90e219ec-c28f-4b85-aafc-395d103bd501"
 ---

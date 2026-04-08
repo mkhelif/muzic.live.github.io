@@ -4,8 +4,5 @@ artists:
   - Franz Ferdinand
   - Irnini Mons
   - The Great Leslie
-locations:
-  - Zenith
-  - München
-  - Allemagne
+locationId: "f3446de9-b2f1-48ad-b4e6-da323e8af969"
 ---

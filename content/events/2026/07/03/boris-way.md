@@ -2,8 +2,5 @@
 eventDate: "2026-07-03T18:00:00+02:00"
 artists:
   - Boris Way
-locations:
-  - Ō Lac Festival
-  - Châteauneuf-Sur-Isère
-  - France
+locationId: "35f1062d-aa70-48db-9ed3-624014cce229"
 ---

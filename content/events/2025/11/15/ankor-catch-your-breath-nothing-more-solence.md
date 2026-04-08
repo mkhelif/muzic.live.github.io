@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - NOTHING MORE
   - Solence
-locations:
-  - Astra Kulturhaus
-  - Berlin
-  - Allemagne
+locationId: "af26ce1f-dc2f-4de4-84e2-56c09bf23b2b"
 ---

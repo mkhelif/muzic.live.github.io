@@ -4,8 +4,5 @@ artists:
   - Feder
   - Nathalie Duchene
   - Ofenbach
-locations:
-  - Grimaldi Forum - Espace Ravel
-  - Monaco
-  - Monaco
+locationId: "2f08af74-f4c2-48cc-bfca-532c1249ae17"
 ---

@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Acl Live At The Moody Theater
-  - Austin
-  - États-Unis
+locationId: "79fcc79d-e104-4a3c-804f-97489e2f86ad"
 ---

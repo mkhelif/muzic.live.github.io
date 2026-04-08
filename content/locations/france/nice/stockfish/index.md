@@ -1,0 +1,19 @@
+---
+id: "953e95c0-126a-439d-a32f-8f4696ab2626"
+title: "Stockfish"
+cover: "cover.jpg"
+address: ""
+locations:
+  - Nice
+  - France
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

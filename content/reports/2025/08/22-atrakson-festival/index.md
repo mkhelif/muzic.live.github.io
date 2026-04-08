@@ -4,9 +4,7 @@ title: "Atrack'Son 2025 - Jour 1 - Follo, The Harbingerz, Lou Beurier, Mad in Sk
 author: "mkhelif"
 cover: "pictures/cotton-blood/02.jpg"
 rank: 9
-locations:
-  - Orchamps-Vennes
-  - France
+locationId: "a0e3cf66-d5f3-4256-96dd-69e0f505c16f"
 festivals:
   - Atrack'Son
 artists:

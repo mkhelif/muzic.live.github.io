@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - NOTHING MORE
   - Solence
-locations:
-  - O2 Forum Kentish Town
-  - London
-  - Royaume-Uni
+locationId: "f6f7e759-8c4d-4482-afd9-abc307cc125d"
 ---

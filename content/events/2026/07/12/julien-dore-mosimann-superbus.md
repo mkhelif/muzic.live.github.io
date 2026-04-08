@@ -4,8 +4,5 @@ artists:
   - Julien Doré
   - Mosimann
   - Superbus
-locations:
-  - Domaine De Cande
-  - Monts
-  - France
+locationId: "84f95258-efd2-43b4-bd67-c7e9affdf325"
 ---

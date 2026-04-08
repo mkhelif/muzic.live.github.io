@@ -4,8 +4,5 @@ artists:
   - Clipse
   - Linkin Park
   - Phantogram
-locations:
-  - Visarno Arena
-  - Firenze
-  - Italie
+locationId: "fd07d416-1122-4c8b-991f-404c68758414"
 ---

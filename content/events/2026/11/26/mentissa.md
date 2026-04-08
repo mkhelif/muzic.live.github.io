@@ -2,8 +2,5 @@
 eventDate: "2026-11-26T20:00:00+01:00"
 artists:
   - Mentissa
-locations:
-  - Rockhal
-  - Esch-Sur-Alzette
-  - Luxembourg
+locationId: "7fb5a989-6b51-4fcb-83bf-b25a94fb6777"
 ---

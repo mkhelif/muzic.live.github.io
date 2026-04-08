@@ -4,8 +4,5 @@ artists:
   - Alabama Shakes
   - Gabriella Rose
   - Zach Bryan
-locations:
-  - The Woodlands
-  - Dover
-  - États-Unis
+locationId: "0580ef4f-5cc6-4238-a2a0-57489ad21880"
 ---

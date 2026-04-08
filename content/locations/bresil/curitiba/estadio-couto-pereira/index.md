@@ -1,0 +1,19 @@
+---
+id: "1d1c35c2-71d8-4e05-8408-c3a7f0ff5c62"
+title: "Estádio Couto Pereira"
+cover: "cover.jpg"
+address: ""
+locations:
+  - Curitiba
+  - Brésil
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

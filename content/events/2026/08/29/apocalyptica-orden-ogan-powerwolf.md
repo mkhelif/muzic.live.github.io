@@ -4,8 +4,5 @@ artists:
   - Apocalyptica
   - Orden Ogan
   - Powerwolf
-locations:
-  - Loreley Freilichtbühne
-  - St. Goarshausen / Loreley
-  - Allemagne
+locationId: "504c726a-cff5-4550-8632-435434afadf7"
 ---

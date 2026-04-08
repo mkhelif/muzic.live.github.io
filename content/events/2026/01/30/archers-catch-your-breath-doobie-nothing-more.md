@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - Brooklyn Bowl Las Vegas
-  - Las Vegas
-  - États-Unis
+locationId: "8924f1c6-4c3e-4bc6-bbd5-289dbd129489"
 ---

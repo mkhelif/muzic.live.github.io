@@ -4,9 +4,7 @@ title: "Musiques en Stock 2025 - Jour 3 - Nótt, Soft Loft, The Royston Club, F
 author: "mkhelif"
 cover: "pictures/franz-ferdinand/08.jpg"
 rank: 10
-locations:
-  - Scionzier
-  - France
+locationId: "830edf51-8e24-4f4c-ac2c-408e20ecb99a"
 festivals:
   - Musiques en Stock
 artists:

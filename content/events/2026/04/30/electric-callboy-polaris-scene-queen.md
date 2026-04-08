@@ -4,8 +4,5 @@ artists:
   - Electric Callboy
   - Polaris
   - Scene Queen
-locations:
-  - Red Rocks Amphitheatre
-  - Morrison
-  - États-Unis
+locationId: "b85f8576-ad15-467f-b636-d1050ddeb611"
 ---

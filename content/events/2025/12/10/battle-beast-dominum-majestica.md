@@ -4,8 +4,5 @@ artists:
   - Battle Beast
   - DOMINUM
   - Majestica
-locations:
-  - Garage
-  - Saarbrücken
-  - Allemagne
+locationId: "fcccc3b8-bde4-4174-9c6e-935d247013af"
 ---

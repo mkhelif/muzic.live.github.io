@@ -5,8 +5,5 @@ artists:
   - Maximo Park
   - Opus Kink
   - The Libertines
-locations:
-  - Rochester Castle
-  - Kent
-  - Royaume-Uni
+locationId: "174ac2b3-f5bd-4289-af99-9d760be3c736"
 ---

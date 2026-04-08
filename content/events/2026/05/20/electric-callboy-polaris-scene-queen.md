@@ -4,8 +4,5 @@ artists:
   - Electric Callboy
   - Polaris
   - Scene Queen
-locations:
-  - Greensboro Coliseum Complex
-  - Greensboro
-  - États-Unis
+locationId: "dd66da0e-c58f-4ee7-9c67-afd6bbaaa6cd"
 ---

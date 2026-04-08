@@ -4,8 +4,5 @@ artists:
   - Apocalyptica
   - Powerwolf
   - Serenity
-locations:
-  - Schloßplatz Coburg
-  - Coburg
-  - Allemagne
+locationId: "a14ab0de-fee1-488e-9b35-83cd1f394924"
 ---

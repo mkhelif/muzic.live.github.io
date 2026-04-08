@@ -2,8 +2,5 @@
 eventDate: "2026-02-14T20:00:00+01:00"
 artists:
   - Les Wampas
-locations:
-  - Le 106
-  - Rouen
-  - France
+locationId: "2870ed8f-b3a2-4070-947f-94b0cba2deb8"
 ---

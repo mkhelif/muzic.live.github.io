@@ -6,8 +6,5 @@ artists:
   - Cerrone
   - DJ Ghost
   - Odymel
-locations:
-  - Parc Jacques Vernier
-  - Douai
-  - France
+locationId: "97fd4268-1235-4b83-9a20-44a486ef1f69"
 ---

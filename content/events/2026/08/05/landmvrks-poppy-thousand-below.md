@@ -4,8 +4,5 @@ artists:
   - LANDMVRKS
   - Poppy
   - Thousand Below
-locations:
-  - Fox Theater - Oakland
-  - Oakland
-  - États-Unis
+locationId: "e6fdd4c0-fe4f-422d-85c4-a4cdda12ed29"
 ---

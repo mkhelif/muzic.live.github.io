@@ -4,8 +4,5 @@ artists:
   - Comeback Kid
   - Gojira
   - NECKBREAKKER
-locations:
-  - Palais Nikaia  De Nice
-  - Nice
-  - France
+locationId: "088e73d0-3b91-440b-a07b-4aa24e37a2e4"
 ---

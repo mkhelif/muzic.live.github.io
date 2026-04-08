@@ -2,8 +2,5 @@
 eventDate: "2026-07-25T19:00:00+02:00"
 artists:
   - Sean Paul
-locations:
-  - Wiley Sportpark Neu-Ulm
-  - Neu-Ulm
-  - Allemagne
+locationId: "80fa8827-e0c3-4697-924f-32dc2da8f958"
 ---

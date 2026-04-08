@@ -4,8 +4,5 @@ artists:
   - Battle Beast
   - DOMINUM
   - Majestica
-locations:
-  - Felsenkeller Leipzig
-  - Leipzig
-  - Allemagne
+locationId: "ebf79ebd-5dc6-41f0-a915-01670552093b"
 ---

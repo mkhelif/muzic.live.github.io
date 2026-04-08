@@ -20,7 +20,5 @@ artists:
   - Urne
   - Master Boot Record
   - Miracle of Sound
-locations:
-  - Carhaix
-  - France
+locationId: "9633bc88-aa43-441e-b64e-4c67e149e765"
 ---

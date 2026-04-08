@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - House Of Blues Orlando
-  - Orlando
-  - États-Unis
+locationId: "2ad89f53-4eb4-4263-9715-d94a606d6ab7"
 ---

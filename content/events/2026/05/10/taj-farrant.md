@@ -2,8 +2,5 @@
 eventDate: "2026-05-10T18:00:00+00:00"
 artists:
   - Taj Farrant
-locations:
-  - Thekla
-  - Bristol
-  - Royaume-Uni
+locationId: "54bd1182-4830-4270-b06d-dcd7bd85cea9"
 ---

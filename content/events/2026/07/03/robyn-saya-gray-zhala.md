@@ -4,8 +4,5 @@ artists:
   - Robyn
   - Saya Gray
   - Zhala
-locations:
-  - The O2
-  - London
-  - Royaume-Uni
+locationId: "7ae26562-82b0-493a-a834-72bd853183a3"
 ---

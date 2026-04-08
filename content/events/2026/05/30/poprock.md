@@ -4,7 +4,5 @@ artists:
   -
 festivals:
   - Poprock Festival
-locations:
-  - Gilly
-  - Suisse
+locationId: "555d590a-f1e0-4c09-8a76-d88a43af0d1a"
 ---

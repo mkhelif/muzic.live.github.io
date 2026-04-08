@@ -6,8 +6,5 @@ artists:
   - Quiet Riot
   - Santana
   - Survivor
-locations:
-  - Star Of The Desert Arena At Primm Valley Resorts
-  - Primm
-  - États-Unis
+locationId: "3d9543cf-d542-4c9c-8dfd-351bc8fb572f"
 ---

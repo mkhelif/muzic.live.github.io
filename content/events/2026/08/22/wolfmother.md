@@ -2,8 +2,5 @@
 eventDate: "2026-08-22T20:00:00+02:00"
 artists:
   - Wolfmother
-locations:
-  - Muziekgieterij
-  - Maastricht
-  - Pays-Bas
+locationId: "ce994a61-ae09-4c5e-8d2a-d14fbf4abee9"
 ---

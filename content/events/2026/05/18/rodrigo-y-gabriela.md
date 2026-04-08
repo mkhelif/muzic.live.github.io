@@ -2,8 +2,5 @@
 eventDate: "2026-05-18T20:00:00+02:00"
 artists:
   - Rodrigo y Gabriela
-locations:
-  - Hudební Klub Doupě
-  - Hlavní Město Praha
-  - Tchéquie
+locationId: "f0869dcb-ff2b-4353-91b1-64acabf3d75a"
 ---

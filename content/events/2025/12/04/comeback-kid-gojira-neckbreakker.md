@@ -4,8 +4,5 @@ artists:
   - Comeback Kid
   - Gojira
   - NECKBREAKKER
-locations:
-  - Zenith Toulouse Metropole
-  - Toulouse
-  - France
+locationId: "30cdec4a-f0b0-449e-a2c7-4317c8d366dc"
 ---

@@ -4,8 +4,5 @@ artists:
   - Jason Derulo
   - LZ7
   - THERA
-locations:
-  - Utilita Arena Birmingham
-  - Birmingham
-  - Royaume-Uni
+locationId: "ab2bad2f-3e79-4a57-9871-5be181770292"
 ---

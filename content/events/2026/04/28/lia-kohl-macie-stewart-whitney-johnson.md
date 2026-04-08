@@ -4,8 +4,5 @@ artists:
   - Lia Kohl
   - Macie Stewart
   - Whitney Johnson
-locations:
-  - Tubby’S Kingston
-  - Kingston
-  - États-Unis
+locationId: "8a9f396b-1682-4bd5-8ed5-8722264fe35a"
 ---

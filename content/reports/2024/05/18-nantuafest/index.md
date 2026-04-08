@@ -4,9 +4,7 @@ title: "Nantuafest 2024 - Jour 2 - T!no, Alice et Moi, Adèle Castillon, Jahner
 author: "mkhelif"
 cover: "pictures/adele-castillon/01.jpg"
 rank: 8
-locations:
-  - Nantua
-  - France
+locationId: "080a0659-9aa9-4098-87fb-bc491fed9695"
 festivals:
   - Nantuafest
 artists:

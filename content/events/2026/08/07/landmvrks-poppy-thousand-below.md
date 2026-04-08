@@ -4,8 +4,5 @@ artists:
   - LANDMVRKS
   - Poppy
   - Thousand Below
-locations:
-  - Hollywood Palladium
-  - Hollywood
-  - États-Unis
+locationId: "1163a427-a108-489f-87dd-16b44f396710"
 ---

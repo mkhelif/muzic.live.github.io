@@ -4,8 +4,5 @@ artists:
   - Jason Derulo
   - LZ7
   - THERA
-locations:
-  - Co-Op Live
-  - Manchester
-  - Royaume-Uni
+locationId: "4df83a91-577b-4bf9-88ba-6936f8677778"
 ---

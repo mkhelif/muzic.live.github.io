@@ -4,8 +4,5 @@ artists:
   - Delivery
   - Franz Ferdinand
   - Teenage Dads
-locations:
-  - Royal Botanic Gardens Melbourne
-  - South Yarra
-  - Australie
+locationId: "5e86eb1d-30cf-43f9-b95c-82553c11cb8c"
 ---

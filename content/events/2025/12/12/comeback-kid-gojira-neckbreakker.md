@@ -4,8 +4,5 @@ artists:
   - Comeback Kid
   - Gojira
   - NECKBREAKKER
-locations:
-  - Zenith Europe Strasbourg
-  - Eckbolsheim
-  - France
+locationId: "c5c16a5f-fdd6-42a9-89d7-85fa8923f649"
 ---

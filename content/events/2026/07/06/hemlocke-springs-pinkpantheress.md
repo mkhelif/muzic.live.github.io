@@ -5,8 +5,5 @@ festivals:
 artists:
   - Hemlocke Springs
   - PinkPantheress
-locations:
-  - Auditorium Stravinski
-  - Montreux
-  - Suisse
+locationId: "bc4a67d5-e5cc-4bea-aac4-c9ed2482daeb"
 ---

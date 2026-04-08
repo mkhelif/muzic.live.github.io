@@ -2,8 +2,5 @@
 eventDate: "2026-04-18T20:00:00+02:00"
 artists:
   - Bigflo & Oli
-locations:
-  - Zénith De Toulouse
-  - Toulouse
-  - France
+locationId: "3e6f85d7-93e3-477b-ab00-a64ae6d29ccb"
 ---

@@ -4,8 +4,5 @@ artists:
   - Bigflo et oli
   - Last Train
   - Mosimann
-locations:
-  - Plein Air
-  - Marmande
-  - France
+locationId: "e7eb4012-5a4c-443d-ae48-a0cf906f50a1"
 ---

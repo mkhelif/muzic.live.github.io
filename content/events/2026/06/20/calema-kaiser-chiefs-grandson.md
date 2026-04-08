@@ -4,8 +4,5 @@ artists:
   - Calema
   - Kaiser Chiefs
   - grandson
-locations:
-  - Parque Urbano Do Tejo E Do Trancão
-  - Lisboa
-  - Portugal
+locationId: "be35df05-8f45-42e3-9007-dc84bdcbf771"
 ---

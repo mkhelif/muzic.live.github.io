@@ -4,8 +4,5 @@ artists:
   - Jon Stevens
   - The Screaming Jets
   - Wolfmother
-locations:
-  - The Fortitude Music Hall
-  - Brisbane
-  - Australie
+locationId: "187051cd-3b50-49e4-bd42-f2f0d344030e"
 ---

@@ -4,8 +4,5 @@ artists:
   - Lia Kohl
   - Macie Stewart
   - Whitney Johnson
-locations:
-  - Cafe Oto
-  - London
-  - Royaume-Uni
+locationId: "ed68e8ff-258d-4b8b-bbdf-b8c30a0b273a"
 ---

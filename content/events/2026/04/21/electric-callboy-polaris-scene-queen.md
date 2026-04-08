@@ -4,8 +4,5 @@ artists:
   - Electric Callboy
   - Polaris
   - Scene Queen
-locations:
-  - Kia Forum
-  - Inglewood
-  - États-Unis
+locationId: "dd51675d-05c6-4898-84aa-493e5e372476"
 ---

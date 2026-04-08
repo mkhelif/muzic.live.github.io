@@ -5,8 +5,5 @@ artists:
   - Catch Your Breath
   - Doobie
   - NOTHING MORE
-locations:
-  - The Union
-  - Salt Lake City
-  - États-Unis
+locationId: "421ca04b-1eb8-488e-ad02-1b4af5961f79"
 ---

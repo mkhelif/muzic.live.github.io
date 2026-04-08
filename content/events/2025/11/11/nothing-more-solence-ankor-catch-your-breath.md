@@ -5,8 +5,5 @@ artists:
   - Solence
   - Ankor
   - Catch Your Breath
-locations:
-  - Vulkan Arena
-  - Oslo
-  - Norvège
+locationId: "6672e932-c84f-407e-8203-d31e235f6185"
 ---

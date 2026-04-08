@@ -4,8 +4,5 @@ artists:
   - Hilight Tribe
   - Manudigital
   - Spoink
-locations:
-  - Transbordeur
-  - Villeurbanne
-  - France
+locationId: "74fce122-43a4-418c-96c9-08a10ec83df2"
 ---

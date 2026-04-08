@@ -5,7 +5,8 @@ subtitle: "11 titres, 42:09"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 9
-artist: "Larkin Poe"
+artists:
+  - Larkin Poe
 spotify: "3j4gz6gqIxtKaW0NHAOZwc"
 tidal: "382280129"
 ---
