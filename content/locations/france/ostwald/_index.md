@@ -5,4 +5,5 @@ title: "Ostwald"
 coordinates:
   latitude: 48.5447
   longitude: 7.7117
+  zoom: 12
 ---

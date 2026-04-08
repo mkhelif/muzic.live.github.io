@@ -4,6 +4,10 @@ locationId: "2da24c2c-9a95-4fac-a1f6-c59e535c2330"
 title: "Place Des Arts - Maison Symphonique"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.503182
+  longitude: -73.569806
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Oxon Hill"
 coordinates:
   latitude: 38.8034
   longitude: -76.9899
+  zoom: 12
 ---

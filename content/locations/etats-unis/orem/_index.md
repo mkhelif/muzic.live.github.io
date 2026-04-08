@@ -5,4 +5,5 @@ title: "Orem"
 coordinates:
   latitude: 40.2969
   longitude: -111.6946
+  zoom: 12
 ---

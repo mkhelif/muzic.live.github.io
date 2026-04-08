@@ -5,4 +5,5 @@ title: "Margate"
 coordinates:
   latitude: 51.3813
   longitude: 1.3863
+  zoom: 12
 ---

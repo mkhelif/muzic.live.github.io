@@ -4,6 +4,10 @@ locationId: "0885abf2-16d3-4b5e-a259-0c11aa320218"
 title: "La Riviera"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.412955
+  longitude: -3.722134
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

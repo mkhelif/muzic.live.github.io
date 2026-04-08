@@ -4,6 +4,10 @@ locationId: "34d77efe-deb8-49af-a28e-66dd955796e7"
 title: "The Music Center At Strathmore"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.031678
+  longitude: -77.102946
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

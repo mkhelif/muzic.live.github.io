@@ -4,6 +4,10 @@ locationId: "4b689c22-17d4-4148-87b3-1aeea605e64f"
 title: "Thebarton Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -34.923441
+  longitude: 138.568967
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

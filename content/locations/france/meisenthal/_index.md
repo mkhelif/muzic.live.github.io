@@ -5,4 +5,5 @@ title: "Meisenthal"
 coordinates:
   latitude: 48.9667
   longitude: 7.35
+  zoom: 14
 ---

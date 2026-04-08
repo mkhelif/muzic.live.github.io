@@ -4,6 +4,10 @@ locationId: "52cbab3f-d468-4ee4-ba18-d5c5304b2d55"
 title: "Parque Ibirapuera"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -23.587713
+  longitude: -46.658521
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

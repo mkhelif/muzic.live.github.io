@@ -4,6 +4,10 @@ locationId: "7b47101e-7d65-4b34-88e0-882d7aa20fa3"
 title: "Manning Bar"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -33.88685
+  longitude: 151.187544
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

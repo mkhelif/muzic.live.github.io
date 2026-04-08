@@ -5,4 +5,5 @@ title: "Kaiserslautern"
 coordinates:
   latitude: 49.4447
   longitude: 7.7689
+  zoom: 12
 ---

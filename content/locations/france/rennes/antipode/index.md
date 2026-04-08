@@ -4,6 +4,10 @@ locationId: "0714b1bb-e9ec-4d2b-8e9f-79719dc72cb2"
 title: "Antipode"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.098263
+  longitude: -1.704712
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

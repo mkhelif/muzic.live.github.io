@@ -4,6 +4,10 @@ locationId: "ddde2787-ce99-4e3f-8805-88ae9f4e3834"
 title: "Stadion Madya"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -6.217281
+  longitude: 106.799508
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

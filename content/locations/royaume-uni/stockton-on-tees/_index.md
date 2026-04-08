@@ -5,4 +5,5 @@ title: "Stockton On Tees"
 coordinates:
   latitude: 54.5685
   longitude: -1.3187
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Albuquerque"
 coordinates:
   latitude: 35.0844
   longitude: -106.6504
+  zoom: 12
 ---

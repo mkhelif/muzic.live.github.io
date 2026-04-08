@@ -4,6 +4,10 @@ locationId: "271b7ed4-b1e5-4bd7-95de-d204f7693a51"
 title: "Texas Trust Cu Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 32.766806
+  longitude: -96.982432
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

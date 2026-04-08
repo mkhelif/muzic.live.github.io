@@ -4,6 +4,10 @@ locationId: "844c2cc2-5dd9-4f7e-aaf8-f74e83905211"
 title: "Valley Of Songs"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 54.898214
+  longitude: 23.904482
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

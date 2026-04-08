@@ -5,4 +5,5 @@ title: "Fort Lauderdale"
 coordinates:
   latitude: 26.1224
   longitude: -80.1373
+  zoom: 12
 ---

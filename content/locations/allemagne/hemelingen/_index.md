@@ -5,4 +5,5 @@ title: "Hemelingen"
 coordinates:
   latitude: 53.05
   longitude: 8.8833
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Chula Vista"
 coordinates:
   latitude: 32.6401
   longitude: -117.0842
+  zoom: 12
 ---

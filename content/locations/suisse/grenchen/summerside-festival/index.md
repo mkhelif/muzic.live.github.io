@@ -4,6 +4,10 @@ locationId: "9979e95c-5e28-41a9-9929-f95e52e448cc"
 title: "Summerside Festival"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.19115
+  longitude: 7.39672
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

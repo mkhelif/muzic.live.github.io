@@ -5,4 +5,5 @@ title: "Carhaix Plouguer"
 coordinates:
   latitude: 48.2769
   longitude: -3.5731
+  zoom: 12
 ---

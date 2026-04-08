@@ -5,4 +5,5 @@ title: "Freiburg"
 coordinates:
   latitude: 47.999
   longitude: 7.8421
+  zoom: 12
 ---

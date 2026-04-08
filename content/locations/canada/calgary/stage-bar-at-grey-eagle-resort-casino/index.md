@@ -4,6 +4,10 @@ locationId: "7b41f274-df9b-43dc-ab20-34feddb38c10"
 title: "Stage Bar At Grey Eagle Resort & Casino"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.045606
+  longitude: -114.057541
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

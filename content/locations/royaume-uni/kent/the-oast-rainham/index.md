@@ -4,6 +4,10 @@ locationId: "78d25a0d-9ccc-4453-930f-402fdaf954a7"
 title: "The Oast Rainham"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.207075
+  longitude: 0.721036
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

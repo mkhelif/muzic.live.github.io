@@ -4,6 +4,10 @@ locationId: "81773251-a33d-407e-9c75-62b47dbd91d1"
 title: "Le Hasard Ludique"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.895658
+  longitude: 2.32866
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

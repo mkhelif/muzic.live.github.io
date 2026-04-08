@@ -5,4 +5,5 @@ title: "Reims"
 coordinates:
   latitude: 49.2583
   longitude: 3.575
+  zoom: 12
 ---

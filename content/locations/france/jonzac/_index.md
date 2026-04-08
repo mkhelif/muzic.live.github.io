@@ -5,4 +5,5 @@ title: "Jonzac"
 coordinates:
   latitude: 45.4464
   longitude: -0.4308
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Napa"
 coordinates:
   latitude: 38.2975
   longitude: -122.2869
+  zoom: 12
 ---

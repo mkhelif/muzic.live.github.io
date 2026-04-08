@@ -4,6 +4,10 @@ locationId: "fe8c469d-0d47-4061-b98f-0097f25b6339"
 title: "La Cabane - Les Halles De La Cartoucherie"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.604464
+  longitude: 1.444243
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

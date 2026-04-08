@@ -4,6 +4,10 @@ locationId: "26c74836-3255-4002-a8f3-0daa334dfcb5"
 title: "Fair Grounds Race Course"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 29.985185
+  longitude: -90.081284
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

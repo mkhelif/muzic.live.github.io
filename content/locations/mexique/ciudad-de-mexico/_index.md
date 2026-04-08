@@ -5,4 +5,5 @@ title: "Ciudad de México"
 coordinates:
   latitude: 19.4326
   longitude: -99.1332
+  zoom: 11
 ---

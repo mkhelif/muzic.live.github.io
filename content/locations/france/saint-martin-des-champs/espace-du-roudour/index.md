@@ -4,6 +4,10 @@ locationId: "ce161618-726e-4572-bb92-8a1cdeaf7d53"
 title: "Espace Du Roudour"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.778103
+  longitude: 3.336034
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

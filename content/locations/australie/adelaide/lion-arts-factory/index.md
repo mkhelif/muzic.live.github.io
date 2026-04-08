@@ -4,6 +4,10 @@ locationId: "e1ba16ce-3d9e-4c30-aac6-a7053f19310a"
 title: "Lion Arts Factory"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -34.922133
+  longitude: 138.592914
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

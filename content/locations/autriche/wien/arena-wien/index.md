@@ -4,6 +4,10 @@ locationId: "324b1ac4-bd03-467a-808d-0918ff49a461"
 title: "Arena Wien"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.187534
+  longitude: 16.41276
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

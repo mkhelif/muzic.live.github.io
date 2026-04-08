@@ -4,6 +4,10 @@ locationId: "9ede10d6-7d28-41f7-a512-9f608048cf49"
 title: "Scionzier"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.057179
+  longitude: 6.549569
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

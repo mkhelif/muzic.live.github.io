@@ -5,4 +5,5 @@ title: "Münster"
 coordinates:
   latitude: 51.9607
   longitude: 7.6261
+  zoom: 12
 ---

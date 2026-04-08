@@ -4,6 +4,10 @@ locationId: "9efb1e17-f5c4-420b-be9b-c5f13c23665a"
 title: "Brooklyn Steel"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.719393
+  longitude: -73.938747
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "60adb012-ed24-47a6-80e3-9302a537166e"
 title: "Music Hall Innsbruck"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.264864
+  longitude: 11.44149
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

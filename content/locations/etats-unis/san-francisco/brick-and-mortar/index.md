@@ -4,6 +4,10 @@ locationId: "b4b402f0-7c84-4a62-a8ee-6123d54e213a"
 title: "Brick And Mortar"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.769686
+  longitude: -122.420303
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

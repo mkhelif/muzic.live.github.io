@@ -4,6 +4,10 @@ locationId: "37358065-290a-4cf7-b859-c4abe4f4aa6d"
 title: "Burgruine Nanstein"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.414331
+  longitude: 7.57223
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

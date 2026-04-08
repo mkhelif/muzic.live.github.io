@@ -5,4 +5,5 @@ title: "Helsing R"
 coordinates:
   latitude: 56.036
   longitude: 12.6136
+  zoom: 14
 ---

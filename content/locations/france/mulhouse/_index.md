@@ -5,4 +5,5 @@ title: "Mulhouse"
 coordinates:
   latitude: 47.7508
   longitude: 7.3359
+  zoom: 12
 ---

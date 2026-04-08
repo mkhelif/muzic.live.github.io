@@ -5,4 +5,5 @@ title: "Estero"
 coordinates:
   latitude: 26.4381
   longitude: -81.8068
+  zoom: 12
 ---

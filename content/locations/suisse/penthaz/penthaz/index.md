@@ -4,6 +4,10 @@ locationId: "56f67e42-ae1f-4589-bd6a-4b3009b97951"
 title: "Penthaz"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.606112
+  longitude: 6.534842
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

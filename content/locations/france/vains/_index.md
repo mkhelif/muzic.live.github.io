@@ -5,4 +5,5 @@ title: "Vains"
 coordinates:
   latitude: 48.6833
   longitude: -1.45
+  zoom: 14
 ---

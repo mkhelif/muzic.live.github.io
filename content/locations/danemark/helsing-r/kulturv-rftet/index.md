@@ -4,6 +4,10 @@ locationId: "0c3abf43-ad86-47f4-887c-6f9b66e8d176"
 title: "Kulturværftet"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 56.0396
+  longitude: 12.6183
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

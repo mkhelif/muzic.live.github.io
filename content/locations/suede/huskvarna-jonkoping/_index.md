@@ -5,4 +5,5 @@ title: "Huskvarna Jonkoping"
 coordinates:
   latitude: 57.7826
   longitude: 14.272
+  zoom: 12
 ---

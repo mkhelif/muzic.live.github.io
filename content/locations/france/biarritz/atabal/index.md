@@ -4,6 +4,10 @@ locationId: "894f7fc6-cf12-4e64-a0bc-07ba2bd7ad3a"
 title: "Atabal"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.460489
+  longitude: -1.539941
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

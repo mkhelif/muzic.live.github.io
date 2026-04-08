@@ -5,4 +5,5 @@ title: "Bremerton"
 coordinates:
   latitude: 47.5673
   longitude: -122.6326
+  zoom: 12
 ---

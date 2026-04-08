@@ -4,6 +4,10 @@ locationId: "c6092523-1e09-43d1-a4b9-df0f4c98110b"
 title: "Maison Du Patrimoine - Aprj"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.457369
+  longitude: 1.665185
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

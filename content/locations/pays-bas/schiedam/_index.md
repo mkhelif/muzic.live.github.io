@@ -5,4 +5,5 @@ title: "Schiedam"
 coordinates:
   latitude: 51.9194
   longitude: 4.3889
+  zoom: 12
 ---

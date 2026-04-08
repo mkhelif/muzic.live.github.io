@@ -5,4 +5,5 @@ title: "Mondorf Les Bains"
 coordinates:
   latitude: 49.5053
   longitude: 6.2811
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "53f02ac4-ab34-482b-915d-d13be3e6413e"
 title: "Madrid Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.058023
+  longitude: -94.586439
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

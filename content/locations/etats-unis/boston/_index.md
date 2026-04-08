@@ -5,4 +5,5 @@ title: "Boston"
 coordinates:
   latitude: 42.3601
   longitude: -71.0589
+  zoom: 11
 ---

@@ -5,4 +5,5 @@ title: "Feldkirch"
 coordinates:
   latitude: 47.2354
   longitude: 9.5981
+  zoom: 12
 ---

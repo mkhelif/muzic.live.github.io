@@ -4,6 +4,10 @@ locationId: "2d5f06e7-523c-483a-9e45-ff5464aaa2dc"
 title: "The Factory Live"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.81154
+  longitude: -0.36997
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

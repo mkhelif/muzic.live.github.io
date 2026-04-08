@@ -4,6 +4,10 @@ locationId: "3e1c6e12-1cc6-4282-801b-9a074757e5c1"
 title: "Arizona Financial Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.44893
+  longitude: -112.079626
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

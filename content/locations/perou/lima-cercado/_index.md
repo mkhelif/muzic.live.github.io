@@ -5,4 +5,5 @@ title: "Lima Cercado"
 coordinates:
   latitude: -12.0464
   longitude: -77.0428
+  zoom: 12
 ---

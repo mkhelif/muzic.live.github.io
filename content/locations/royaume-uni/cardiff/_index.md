@@ -5,4 +5,5 @@ title: "Cardiff"
 coordinates:
   latitude: 51.4816
   longitude: -3.1791
+  zoom: 12
 ---

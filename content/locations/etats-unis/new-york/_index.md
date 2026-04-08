@@ -5,4 +5,5 @@ title: "New York"
 coordinates:
   latitude: 40.7128
   longitude: -74.006
+  zoom: 11
 ---

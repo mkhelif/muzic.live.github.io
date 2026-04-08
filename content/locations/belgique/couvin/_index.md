@@ -5,4 +5,5 @@ title: "Couvin"
 coordinates:
   latitude: 50.0547
   longitude: 4.4961
+  zoom: 14
 ---

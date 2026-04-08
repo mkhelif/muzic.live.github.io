@@ -4,6 +4,10 @@ locationId: "f82c3f71-47a8-4502-8aef-967ba73cd2ac"
 title: "Tourists"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.700778
+  longitude: -73.166653
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

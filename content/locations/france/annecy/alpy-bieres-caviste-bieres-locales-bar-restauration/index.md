@@ -4,6 +4,10 @@ locationId: "3de0a9a4-1915-47b0-b7e5-8e0c6e831c84"
 title: "Alpy Bières - Caviste -Bières Locales - Bar- Restauration"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.899235
+  longitude: 6.128885
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

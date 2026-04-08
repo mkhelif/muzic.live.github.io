@@ -4,6 +4,10 @@ locationId: "fbf1993f-0963-4b16-8043-8d0a99eaae1b"
 title: "Showroom At Talking Stick Resort"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.494219
+  longitude: -111.926018
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Saint Aubin"
 coordinates:
   latitude: 48.7167
   longitude: 2.1667
+  zoom: 14
 ---

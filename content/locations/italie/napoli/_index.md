@@ -5,4 +5,5 @@ title: "Napoli"
 coordinates:
   latitude: 40.8518
   longitude: 14.2681
+  zoom: 12
 ---

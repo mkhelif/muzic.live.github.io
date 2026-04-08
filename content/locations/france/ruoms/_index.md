@@ -5,4 +5,5 @@ title: "Ruoms"
 coordinates:
   latitude: 44.4533
   longitude: 4.3433
+  zoom: 12
 ---

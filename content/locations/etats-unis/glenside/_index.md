@@ -5,4 +5,5 @@ title: "Glenside"
 coordinates:
   latitude: 40.1018
   longitude: -75.1524
+  zoom: 12
 ---

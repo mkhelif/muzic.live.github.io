@@ -4,6 +4,10 @@ locationId: "269ceb64-e65e-415d-976a-5f34c1cb701e"
 title: "X-Tra"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.384081
+  longitude: 8.532934
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

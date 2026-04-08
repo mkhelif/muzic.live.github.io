@@ -4,6 +4,10 @@ locationId: "f752783e-75a8-4779-a2e5-bf834fcb963e"
 title: "Marktplatz 1 Crailsheim"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.136737
+  longitude: 10.071529
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

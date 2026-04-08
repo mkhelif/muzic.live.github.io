@@ -4,6 +4,10 @@ locationId: "aa7f66f8-b26c-4b17-93d3-c096baeee95c"
 title: "170 Russell"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -37.812011
+  longitude: 144.967937
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

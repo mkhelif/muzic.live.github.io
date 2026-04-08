@@ -5,4 +5,5 @@ title: "Waterford"
 coordinates:
   latitude: 52.2593
   longitude: -7.1101
+  zoom: 12
 ---

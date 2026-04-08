@@ -5,4 +5,5 @@ title: "Stuttgart Wangen"
 coordinates:
   latitude: 48.7625
   longitude: 9.2419
+  zoom: 12
 ---

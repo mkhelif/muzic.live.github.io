@@ -4,6 +4,10 @@ locationId: "c7f8b7ae-7e27-418b-b161-a479b9c195e7"
 title: "The Live Rooms"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.196833
+  longitude: -2.882316
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

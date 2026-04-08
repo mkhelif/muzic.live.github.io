@@ -5,4 +5,5 @@ title: "Vaugneray"
 coordinates:
   latitude: 45.7375
   longitude: 4.6583
+  zoom: 12
 ---

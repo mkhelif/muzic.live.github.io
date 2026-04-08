@@ -4,6 +4,10 @@ locationId: "076802e7-3880-4520-b58d-09029e463d11"
 title: "La Seine Musicale - Grande Seine"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.835665
+  longitude: 2.240206
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

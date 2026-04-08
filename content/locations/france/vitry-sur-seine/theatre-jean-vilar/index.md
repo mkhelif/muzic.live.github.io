@@ -4,6 +4,10 @@ locationId: "0e17bcd5-02e0-41d3-9983-b399ec3c7663"
 title: "Theatre Jean Vilar"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.788727
+  longitude: 2.390177
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

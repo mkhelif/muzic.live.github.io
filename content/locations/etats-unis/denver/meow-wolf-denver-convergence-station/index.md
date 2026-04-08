@@ -4,6 +4,10 @@ locationId: "ab4a88e1-2e9b-4927-810a-48476151e3fa"
 title: "Meow Wolf Denver | Convergence Station"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.739236
+  longitude: -104.984862
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

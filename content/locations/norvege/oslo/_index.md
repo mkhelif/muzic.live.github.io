@@ -5,4 +5,5 @@ title: "Oslo"
 coordinates:
   latitude: 59.9139
   longitude: 10.7522
+  zoom: 11
 ---

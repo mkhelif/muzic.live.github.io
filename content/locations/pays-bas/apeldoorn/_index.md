@@ -5,4 +5,5 @@ title: "Apeldoorn"
 coordinates:
   latitude: 52.2112
   longitude: 5.9699
+  zoom: 12
 ---

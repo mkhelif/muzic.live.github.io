@@ -4,6 +4,10 @@ locationId: "81773251-a33d-407e-9c75-62b47dbd91d1"
 title: "L'Olympia"
 cover: "cover.jpg"
 address: "28 boulevard des Capucines, 75009 Paris, France"
+coordinates:
+  latitude: 48.870244
+  longitude: 2.328359
+  zoom: 17
 socials:
   facebook: "olympiabrunocoquatrix"
   instagram: "olympiahall"

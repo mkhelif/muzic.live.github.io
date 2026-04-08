@@ -4,6 +4,10 @@ locationId: "524f268b-ce6d-4e12-9878-9d7f3e4916ac"
 title: "Cfg Bank Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.288604
+  longitude: -76.618709
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

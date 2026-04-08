@@ -5,4 +5,5 @@ title: "Hobart"
 coordinates:
   latitude: -42.8821
   longitude: 147.3272
+  zoom: 12
 ---

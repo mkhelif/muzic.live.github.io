@@ -5,4 +5,5 @@ title: "Zürich"
 coordinates:
   latitude: 47.3769
   longitude: 8.5417
+  zoom: 12
 ---

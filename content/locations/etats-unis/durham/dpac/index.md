@@ -4,6 +4,10 @@ locationId: "cacb3868-35b5-4bf7-ad60-eebe9157a9a3"
 title: "Dpac"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 35.996653
+  longitude: -78.901805
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "08122aea-6b54-4f4f-9155-12ba275ee95c"
 title: "Cirque Royal"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.848859
+  longitude: 4.366019
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

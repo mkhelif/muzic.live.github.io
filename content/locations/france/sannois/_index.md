@@ -5,4 +5,5 @@ title: "Sannois"
 coordinates:
   latitude: 48.97
   longitude: 2.26
+  zoom: 12
 ---

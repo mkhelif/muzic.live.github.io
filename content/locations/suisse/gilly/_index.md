@@ -5,4 +5,5 @@ title: "Gilly"
 coordinates:
   latitude: 46.4833
   longitude: 6.2833
+  zoom: 14
 ---

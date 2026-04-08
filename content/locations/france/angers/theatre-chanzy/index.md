@@ -4,6 +4,10 @@ locationId: "cabbb036-e352-4e40-96b4-70c74172929f"
 title: "Theatre Chanzy"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.460746
+  longitude: -0.55662
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

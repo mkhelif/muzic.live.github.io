@@ -5,4 +5,5 @@ title: "La Roche Sur Yon"
 coordinates:
   latitude: 46.6708
   longitude: -1.4269
+  zoom: 12
 ---

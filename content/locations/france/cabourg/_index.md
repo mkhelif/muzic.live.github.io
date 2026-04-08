@@ -5,4 +5,5 @@ title: "Cabourg"
 coordinates:
   latitude: 49.29
   longitude: -0.1178
+  zoom: 12
 ---

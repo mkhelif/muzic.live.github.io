@@ -4,6 +4,10 @@ locationId: "8ecc1af0-55de-4302-8889-4642714646ab"
 title: "Espace Culturel - Les Pieux"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.513753
+  longitude: -1.808308
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

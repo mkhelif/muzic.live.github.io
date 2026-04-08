@@ -4,6 +4,10 @@ locationId: "28baffd4-7578-49b3-aae6-a5867b372889"
 title: "Café De La Poèterie"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.614258
+  longitude: 3.213769
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

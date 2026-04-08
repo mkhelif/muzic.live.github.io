@@ -5,4 +5,5 @@ title: "Berkeley"
 coordinates:
   latitude: 37.8716
   longitude: -122.2727
+  zoom: 12
 ---

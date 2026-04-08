@@ -5,4 +5,5 @@ title: "Rasnov"
 coordinates:
   latitude: 45.5903
   longitude: 25.4625
+  zoom: 14
 ---

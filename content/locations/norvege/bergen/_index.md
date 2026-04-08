@@ -5,4 +5,5 @@ title: "Bergen"
 coordinates:
   latitude: 60.3913
   longitude: 5.3221
+  zoom: 12
 ---

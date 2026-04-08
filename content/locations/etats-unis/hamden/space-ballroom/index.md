@@ -4,6 +4,10 @@ locationId: "8bb063ac-757f-413f-8663-a6c3ab7bb43a"
 title: "Space Ballroom"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.353912
+  longitude: -72.925328
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Lawrence"
 coordinates:
   latitude: 38.9717
   longitude: -95.2353
+  zoom: 12
 ---

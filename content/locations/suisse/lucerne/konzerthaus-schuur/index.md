@@ -4,6 +4,10 @@ locationId: "a7ab7937-a044-4de2-bc63-ca0183603594"
 title: "Konzerthaus Schüür"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.044653
+  longitude: 8.311234
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

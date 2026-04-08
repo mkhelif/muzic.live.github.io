@@ -5,4 +5,5 @@ title: "Bergerac"
 coordinates:
   latitude: 44.8531
   longitude: 0.4836
+  zoom: 12
 ---

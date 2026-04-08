@@ -5,4 +5,5 @@ title: "Rouen"
 coordinates:
   latitude: 49.4432
   longitude: 1.0993
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "3e1c6e12-1cc6-4282-801b-9a074757e5c1"
 title: "The Van Buren"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.451086
+  longitude: -112.079439
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

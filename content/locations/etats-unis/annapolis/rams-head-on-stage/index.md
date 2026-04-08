@@ -4,6 +4,10 @@ locationId: "2d9ab076-f14f-4004-bc71-46838f4e8fb4"
 title: "Rams Head On Stage"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.978114
+  longitude: -76.494303
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

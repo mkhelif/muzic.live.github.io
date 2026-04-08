@@ -5,4 +5,5 @@ title: "Chateaurenard"
 coordinates:
   latitude: 43.8825
   longitude: 4.8553
+  zoom: 12
 ---

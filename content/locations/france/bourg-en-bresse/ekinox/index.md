@@ -4,6 +4,10 @@ locationId: "29106faf-47f2-46f9-8aa9-427a626f7bae"
 title: "Ekinox"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.186483
+  longitude: 5.247713
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

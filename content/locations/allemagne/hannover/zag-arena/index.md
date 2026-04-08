@@ -4,6 +4,10 @@ locationId: "bc551cab-a0c4-4a77-9c57-3bfea0952e9b"
 title: "Zag Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.322433
+  longitude: 9.8165
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

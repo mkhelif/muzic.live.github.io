@@ -5,4 +5,5 @@ title: "Ostrava"
 coordinates:
   latitude: 49.8209
   longitude: 18.2625
+  zoom: 12
 ---

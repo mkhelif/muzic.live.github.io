@@ -4,6 +4,10 @@ locationId: "be97bc43-409d-4967-94d0-a5832a2a2262"
 title: "So36"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.500391
+  longitude: 13.422161
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

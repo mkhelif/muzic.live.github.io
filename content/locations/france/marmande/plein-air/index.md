@@ -4,6 +4,10 @@ locationId: "4a5b4ca2-6cc5-4f67-9aa0-c414f97c4866"
 title: "Plein Air"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.500794
+  longitude: 0.164274
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

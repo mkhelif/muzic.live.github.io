@@ -5,4 +5,5 @@ title: "Echuca"
 coordinates:
   latitude: -36.1333
   longitude: 144.75
+  zoom: 12
 ---

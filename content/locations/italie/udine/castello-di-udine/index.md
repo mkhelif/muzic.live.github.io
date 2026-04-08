@@ -4,6 +4,10 @@ locationId: "a6db1484-1bde-4c56-9f4f-842563c12ef5"
 title: "Castello Di Udine"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.064409
+  longitude: 13.23607
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

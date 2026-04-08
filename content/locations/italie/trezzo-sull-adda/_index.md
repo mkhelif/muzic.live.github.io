@@ -5,4 +5,5 @@ title: "Trezzo Sull Adda"
 coordinates:
   latitude: 45.6072
   longitude: 9.5208
+  zoom: 12
 ---

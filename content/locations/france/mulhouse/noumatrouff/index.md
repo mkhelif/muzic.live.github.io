@@ -4,6 +4,10 @@ locationId: "59d6234b-71e3-467c-99de-509a8404826a"
 title: "Noumatrouff"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.761332
+  longitude: 7.333291
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

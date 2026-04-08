@@ -5,4 +5,5 @@ title: "San Juan"
 coordinates:
   latitude: 18.4655
   longitude: -66.1057
+  zoom: 12
 ---

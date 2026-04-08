@@ -4,6 +4,10 @@ locationId: "1ee634f4-f600-416c-8c32-c6ce6b008e61"
 title: "Den 1880"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.46527
+  longitude: -80.522296
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

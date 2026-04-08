@@ -4,6 +4,10 @@ locationId: "f6057953-74b9-4354-b692-27b7d5ca053f"
 title: "House Of Blues Anaheim"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.806403
+  longitude: -117.912267
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

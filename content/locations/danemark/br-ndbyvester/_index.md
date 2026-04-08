@@ -5,4 +5,5 @@ title: "Br Ndbyvester"
 coordinates:
   latitude: 55.6481
   longitude: 12.4088
+  zoom: 12
 ---

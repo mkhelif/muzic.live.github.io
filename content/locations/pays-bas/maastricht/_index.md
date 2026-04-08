@@ -5,4 +5,5 @@ title: "Maastricht"
 coordinates:
   latitude: 50.8514
   longitude: 5.691
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Cartagena"
 coordinates:
   latitude: 37.6057
   longitude: -0.9913
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "ab4a88e1-2e9b-4927-810a-48476151e3fa"
 title: "Fillmore Auditorium (Denver)"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.740635
+  longitude: -104.977182
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

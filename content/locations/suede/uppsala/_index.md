@@ -5,4 +5,5 @@ title: "Uppsala"
 coordinates:
   latitude: 59.8586
   longitude: 17.6389
+  zoom: 12
 ---

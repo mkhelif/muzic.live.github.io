@@ -5,4 +5,5 @@ title: "Rouillac"
 coordinates:
   latitude: 45.7756
   longitude: -0.0647
+  zoom: 14
 ---

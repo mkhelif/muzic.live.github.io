@@ -4,6 +4,10 @@ locationId: "defec116-a1b7-48fb-836a-87c238db5bf3"
 title: "Alcatraz"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.494495
+  longitude: 9.182627
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

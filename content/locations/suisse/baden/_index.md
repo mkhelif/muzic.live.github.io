@@ -5,4 +5,5 @@ title: "Baden"
 coordinates:
   latitude: 47.4734
   longitude: 8.3064
+  zoom: 12
 ---

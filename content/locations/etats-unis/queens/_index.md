@@ -5,4 +5,5 @@ title: "Queens"
 coordinates:
   latitude: 40.7282
   longitude: -73.7949
+  zoom: 12
 ---

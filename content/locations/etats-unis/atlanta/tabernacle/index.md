@@ -4,6 +4,10 @@ locationId: "4c02ea45-b8ec-415a-a537-7cc13deb1666"
 title: "Tabernacle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.758713
+  longitude: -84.391422
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

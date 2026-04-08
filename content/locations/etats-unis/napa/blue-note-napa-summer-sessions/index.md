@@ -4,6 +4,10 @@ locationId: "f243a558-df2b-4bc7-929a-9dbc650b3416"
 title: "Blue Note Napa Summer Sessions"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.489868
+  longitude: -122.321841
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

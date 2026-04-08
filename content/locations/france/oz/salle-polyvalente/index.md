@@ -4,6 +4,10 @@ locationId: "e325022c-42f0-40a1-95d2-ea72f1995ea4"
 title: "Salle Polyvalente"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.140555
+  longitude: 6.051623
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

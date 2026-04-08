@@ -4,6 +4,10 @@ locationId: "f7fbeab9-5927-4845-8732-42ea88e3a20b"
 title: "Dakota"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.97376
+  longitude: -93.275143
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

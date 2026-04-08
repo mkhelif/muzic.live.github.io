@@ -4,6 +4,10 @@ locationId: "5e9e3dce-62dd-4817-9603-7ce76415805b"
 title: "The Norva"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 36.850259
+  longitude: -76.289664
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

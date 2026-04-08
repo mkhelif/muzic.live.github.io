@@ -5,4 +5,5 @@ title: "Bouy Luxembourg"
 coordinates:
   latitude: 48.7083
   longitude: 4.4333
+  zoom: 14
 ---

@@ -5,4 +5,5 @@ title: "Kortrijk"
 coordinates:
   latitude: 50.8278
   longitude: 3.265
+  zoom: 12
 ---

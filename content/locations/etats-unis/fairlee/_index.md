@@ -5,4 +5,5 @@ title: "Fairlee"
 coordinates:
   latitude: 43.9089
   longitude: -72.147
+  zoom: 14
 ---

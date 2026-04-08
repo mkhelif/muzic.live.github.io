@@ -4,6 +4,10 @@ locationId: "c3ec40d2-26ee-4a2f-a2a8-fe296e011518"
 title: "L'Embarcadere - Grande Salle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.725999
+  longitude: 1.611877
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

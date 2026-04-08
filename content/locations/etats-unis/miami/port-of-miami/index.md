@@ -4,6 +4,10 @@ locationId: "acbf4aba-6312-41e4-834d-604a954f0be6"
 title: "Port Of Miami"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 25.773514
+  longitude: -80.169196
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

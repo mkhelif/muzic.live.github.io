@@ -5,4 +5,5 @@ title: "Reno"
 coordinates:
   latitude: 39.5296
   longitude: -119.8138
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Columbia"
 coordinates:
   latitude: 34.0007
   longitude: -81.0348
+  zoom: 12
 ---

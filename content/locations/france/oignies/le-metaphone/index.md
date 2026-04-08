@@ -4,6 +4,10 @@ locationId: "266be4df-0767-43aa-9f84-a8dd74dcd9b3"
 title: "Le Métaphone"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.461967
+  longitude: 2.986881
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

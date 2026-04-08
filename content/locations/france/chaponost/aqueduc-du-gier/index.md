@@ -4,6 +4,10 @@ locationId: "4706bb26-4fbd-4278-af0e-bec16daeb48d"
 title: "Aqueduc Du Gier"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.696131
+  longitude: 4.738767
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

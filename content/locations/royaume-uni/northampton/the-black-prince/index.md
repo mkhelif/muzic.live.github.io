@@ -4,6 +4,10 @@ locationId: "8583871e-e637-43a6-afe3-697f6274f8b9"
 title: "The Black Prince"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.240206
+  longitude: -0.888461
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

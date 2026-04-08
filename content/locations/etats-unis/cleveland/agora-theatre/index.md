@@ -4,6 +4,10 @@ locationId: "8df18055-d0d8-4f3e-9913-47765f650464"
 title: "Agora Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.499657
+  longitude: -81.693677
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

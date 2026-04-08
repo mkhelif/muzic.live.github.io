@@ -4,6 +4,10 @@ locationId: "b7ec93b4-4d7b-4153-8b77-946172772a71"
 title: "Teatro Vorterix"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -34.58006
+  longitude: -58.451008
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

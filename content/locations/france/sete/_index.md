@@ -5,4 +5,5 @@ title: "Sete"
 coordinates:
   latitude: 43.4036
   longitude: 3.6969
+  zoom: 12
 ---

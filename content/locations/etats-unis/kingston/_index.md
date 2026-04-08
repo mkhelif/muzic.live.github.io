@@ -5,4 +5,5 @@ title: "Kingston"
 coordinates:
   latitude: 41.927
   longitude: -73.9974
+  zoom: 12
 ---

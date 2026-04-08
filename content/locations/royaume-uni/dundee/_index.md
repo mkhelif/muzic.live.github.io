@@ -5,4 +5,5 @@ title: "Dundee"
 coordinates:
   latitude: 56.462
   longitude: -2.9707
+  zoom: 12
 ---

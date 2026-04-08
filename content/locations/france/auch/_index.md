@@ -5,4 +5,5 @@ title: "Auch"
 coordinates:
   latitude: 43.6464
   longitude: 0.5853
+  zoom: 12
 ---

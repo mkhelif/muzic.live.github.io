@@ -4,6 +4,10 @@ locationId: "e77f754f-dab1-4f62-a18d-9bbd1bcbb76a"
 title: "Espace Carjat"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.018933
+  longitude: 4.76005
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

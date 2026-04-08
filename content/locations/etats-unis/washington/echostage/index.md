@@ -4,6 +4,10 @@ locationId: "b2358ddf-1fa2-41ae-860d-d46d78e05402"
 title: "Echostage"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.919901
+  longitude: -76.972424
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

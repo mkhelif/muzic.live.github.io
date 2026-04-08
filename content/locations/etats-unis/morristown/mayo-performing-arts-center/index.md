@@ -4,6 +4,10 @@ locationId: "f07c2c6e-35ca-4620-a8d4-a3fa6012cd66"
 title: "Mayo Performing Arts Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.79434
+  longitude: -74.477938
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

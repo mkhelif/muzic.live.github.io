@@ -4,6 +4,10 @@ locationId: "60adb012-ed24-47a6-80e3-9302a537166e"
 title: "Treibhaus"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.267616
+  longitude: 11.39637
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

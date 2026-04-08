@@ -5,4 +5,5 @@ title: "Essen"
 coordinates:
   latitude: 51.4556
   longitude: 7.0116
+  zoom: 12
 ---

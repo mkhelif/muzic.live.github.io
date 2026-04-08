@@ -4,6 +4,10 @@ locationId: "c2c600bb-8dca-4f0a-9a0e-b3d1b657a33d"
 title: "Credit Union 1 Amphitheatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.573367
+  longitude: -87.784494
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "b21d718c-151e-4f14-9c29-4f91bb38677f"
 title: "Salle De Spectacles De L'Épinette"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.413947
+  longitude: 5.804834
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "3f3e5a89-f6e3-41be-85a2-298ea1b21714"
 title: "Netzwerk Neubad"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.050545
+  longitude: 8.305468
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

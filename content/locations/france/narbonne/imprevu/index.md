@@ -4,6 +4,10 @@ locationId: "7ccb5cb9-3eb2-4760-b124-e99b7db3e62a"
 title: "Imprévu"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.183776
+  longitude: 3.004191
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

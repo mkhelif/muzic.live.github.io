@@ -5,4 +5,5 @@ title: "Washington"
 coordinates:
   latitude: 38.9072
   longitude: -77.0369
+  zoom: 11
 ---

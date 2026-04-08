@@ -5,4 +5,5 @@ title: "Chester"
 coordinates:
   latitude: 53.1906
   longitude: -2.8914
+  zoom: 12
 ---

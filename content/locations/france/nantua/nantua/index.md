@@ -4,6 +4,10 @@ locationId: "5bb2bb3c-fc7f-4b68-9715-9b7087c1e8c0"
 title: "Nantua"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.153425
+  longitude: 5.605899
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

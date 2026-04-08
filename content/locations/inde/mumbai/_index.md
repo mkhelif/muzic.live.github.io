@@ -5,4 +5,5 @@ title: "Mumbai"
 coordinates:
   latitude: 19.076
   longitude: 72.8777
+  zoom: 11
 ---

@@ -4,6 +4,10 @@ locationId: "dd361a07-7d6f-4abd-9ffd-02e4b0ba6016"
 title: "Dreamland Margate, Scenic Stage"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.387817
+  longitude: 1.38197
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

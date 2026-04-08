@@ -4,6 +4,10 @@ locationId: "a331be35-ee14-4d68-b572-936a3d8e91d3"
 title: "Parque Viva"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 9.932771
+  longitude: -84.079614
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Bournemouth"
 coordinates:
   latitude: 50.7192
   longitude: -1.8808
+  zoom: 12
 ---

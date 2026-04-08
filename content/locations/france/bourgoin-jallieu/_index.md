@@ -5,4 +5,5 @@ title: "Bourgoin Jallieu"
 coordinates:
   latitude: 45.5861
   longitude: 5.2736
+  zoom: 12
 ---

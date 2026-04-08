@@ -5,4 +5,5 @@ title: "Huez"
 coordinates:
   latitude: 45.09
   longitude: 6.07
+  zoom: 14
 ---

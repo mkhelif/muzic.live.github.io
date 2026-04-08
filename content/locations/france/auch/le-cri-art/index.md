@@ -4,6 +4,10 @@ locationId: "31e0d980-e016-4a64-9d74-dbe48968bb38"
 title: "Le Cri'Art"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.646356
+  longitude: 0.585051
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

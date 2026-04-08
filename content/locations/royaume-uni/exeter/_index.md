@@ -5,4 +5,5 @@ title: "Exeter"
 coordinates:
   latitude: 50.7184
   longitude: -3.5339
+  zoom: 12
 ---

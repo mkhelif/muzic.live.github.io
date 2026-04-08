@@ -5,4 +5,5 @@ title: "Marostica"
 coordinates:
   latitude: 45.7461
   longitude: 11.6586
+  zoom: 12
 ---

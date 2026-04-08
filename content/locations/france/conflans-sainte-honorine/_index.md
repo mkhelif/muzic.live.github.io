@@ -5,4 +5,5 @@ title: "Conflans Sainte Honorine"
 coordinates:
   latitude: 49.0014
   longitude: 2.0947
+  zoom: 12
 ---

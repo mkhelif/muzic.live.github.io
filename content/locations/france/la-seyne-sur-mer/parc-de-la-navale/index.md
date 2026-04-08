@@ -4,6 +4,10 @@ locationId: "e2d03017-a9b0-4047-9913-09e4c5b749d6"
 title: "Parc De La Navale"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.102328
+  longitude: 5.885187
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Décines-Charpieu"
 coordinates:
   latitude: 45.7697
   longitude: 4.9594
+  zoom: 12
 ---

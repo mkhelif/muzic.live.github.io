@@ -5,4 +5,5 @@ title: "Vitry Sur Seine"
 coordinates:
   latitude: 48.7875
   longitude: 2.3917
+  zoom: 12
 ---

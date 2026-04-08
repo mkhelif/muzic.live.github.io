@@ -4,6 +4,10 @@ locationId: "9845bd07-d722-438f-aa66-f867bb92d9e2"
 title: "Théâtre De Verdure"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.447261
+  longitude: -4.76034
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

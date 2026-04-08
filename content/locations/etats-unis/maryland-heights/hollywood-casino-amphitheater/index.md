@@ -4,6 +4,10 @@ locationId: "16b7ea20-2588-42aa-a90d-3a3309de510c"
 title: "Hollywood Casino Amphitheater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.715051
+  longitude: -90.435999
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

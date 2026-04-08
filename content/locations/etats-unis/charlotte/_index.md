@@ -5,4 +5,5 @@ title: "Charlotte"
 coordinates:
   latitude: 35.2271
   longitude: -80.8431
+  zoom: 12
 ---

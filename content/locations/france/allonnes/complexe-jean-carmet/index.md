@@ -4,6 +4,10 @@ locationId: "3ab7878e-c021-448c-bdf0-2af0daf51f68"
 title: "Complexe Jean Carmet"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.966828
+  longitude: 0.160912
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

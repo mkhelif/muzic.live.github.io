@@ -5,4 +5,5 @@ title: "Athens"
 coordinates:
   latitude: 33.9519
   longitude: -83.3576
+  zoom: 12
 ---

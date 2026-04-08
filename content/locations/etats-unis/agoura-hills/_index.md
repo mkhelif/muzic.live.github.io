@@ -5,4 +5,5 @@ title: "Agoura Hills"
 coordinates:
   latitude: 34.1361
   longitude: -118.7615
+  zoom: 12
 ---

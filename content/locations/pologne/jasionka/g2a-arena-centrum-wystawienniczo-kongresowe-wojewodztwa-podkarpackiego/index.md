@@ -4,6 +4,10 @@ locationId: "b61691bf-36c8-4fd4-a864-78867d124645"
 title: "G2A Arena Centrum Wystawienniczo–Kongresowe Województwa Podkarpackiego"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.949828
+  longitude: 19.390768
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

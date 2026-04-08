@@ -5,4 +5,5 @@ title: "Trappes"
 coordinates:
   latitude: 48.7756
   longitude: 2.0019
+  zoom: 12
 ---

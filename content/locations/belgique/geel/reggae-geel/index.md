@@ -4,6 +4,10 @@ locationId: "68fac67b-5e58-4513-a2b0-48dbcedd98a9"
 title: "Reggae Geel"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.161083
+  longitude: 4.990319
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

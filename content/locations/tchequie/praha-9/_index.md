@@ -5,4 +5,5 @@ title: "Praha 9"
 coordinates:
   latitude: 50.1167
   longitude: 14.5
+  zoom: 12
 ---

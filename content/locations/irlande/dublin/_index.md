@@ -5,4 +5,5 @@ title: "Dublin"
 coordinates:
   latitude: 53.3498
   longitude: -6.2603
+  zoom: 12
 ---

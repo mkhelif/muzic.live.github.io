@@ -5,4 +5,5 @@ title: "Brest"
 coordinates:
   latitude: 48.3904
   longitude: -4.4861
+  zoom: 12
 ---

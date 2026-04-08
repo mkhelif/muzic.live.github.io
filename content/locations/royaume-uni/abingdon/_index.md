@@ -5,4 +5,5 @@ title: "Abingdon"
 coordinates:
   latitude: 51.6709
   longitude: -1.2789
+  zoom: 12
 ---

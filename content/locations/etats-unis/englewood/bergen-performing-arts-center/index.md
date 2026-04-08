@@ -4,6 +4,10 @@ locationId: "4b700d98-6d5d-499e-a4cd-b005251052d1"
 title: "Bergen Performing Arts Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.895413
+  longitude: -73.975145
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "53f02ac4-ab34-482b-915d-d13be3e6413e"
 title: "Uptown Theater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.060924
+  longitude: -94.591051
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

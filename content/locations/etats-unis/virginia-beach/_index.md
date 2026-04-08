@@ -5,4 +5,5 @@ title: "Virginia Beach"
 coordinates:
   latitude: 36.8529
   longitude: -75.978
+  zoom: 12
 ---

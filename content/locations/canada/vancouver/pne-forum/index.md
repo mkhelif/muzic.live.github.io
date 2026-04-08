@@ -4,6 +4,10 @@ locationId: "5d8eb85e-d61d-4d40-a053-269e6c071c81"
 title: "Pne Forum"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.282324
+  longitude: -123.043015
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

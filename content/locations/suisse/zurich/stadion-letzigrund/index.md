@@ -4,6 +4,10 @@ locationId: "269ceb64-e65e-415d-976a-5f34c1cb701e"
 title: "Stadion Letzigrund"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.382821
+  longitude: 8.503739
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

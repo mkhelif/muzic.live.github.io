@@ -5,4 +5,5 @@ title: "Winnipeg"
 coordinates:
   latitude: 49.8951
   longitude: -97.1384
+  zoom: 12
 ---

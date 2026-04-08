@@ -5,4 +5,5 @@ title: "Clarkston"
 coordinates:
   latitude: 42.7298
   longitude: -83.0149
+  zoom: 12
 ---

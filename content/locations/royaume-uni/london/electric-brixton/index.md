@@ -4,6 +4,10 @@ locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "Electric Brixton"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.460225
+  longitude: -0.116815
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

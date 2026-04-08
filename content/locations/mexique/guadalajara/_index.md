@@ -5,4 +5,5 @@ title: "Guadalajara"
 coordinates:
   latitude: 20.6597
   longitude: -103.3496
+  zoom: 12
 ---

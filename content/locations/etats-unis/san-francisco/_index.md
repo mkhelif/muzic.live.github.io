@@ -5,4 +5,5 @@ title: "San Francisco"
 coordinates:
   latitude: 37.7749
   longitude: -122.4194
+  zoom: 11
 ---

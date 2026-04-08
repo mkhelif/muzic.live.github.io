@@ -5,4 +5,5 @@ title: "Montaigu Vendee"
 coordinates:
   latitude: 46.9747
   longitude: -1.3108
+  zoom: 12
 ---

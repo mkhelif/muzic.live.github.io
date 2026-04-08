@@ -4,6 +4,10 @@ locationId: "29298140-7818-49e2-96bd-1053c73e6f9b"
 title: "Tivolivredenburg"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.092454
+  longitude: 5.112768
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

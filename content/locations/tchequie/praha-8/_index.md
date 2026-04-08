@@ -5,4 +5,5 @@ title: "Praha 8"
 coordinates:
   latitude: 50.1096
   longitude: 14.4596
+  zoom: 12
 ---

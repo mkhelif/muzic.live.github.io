@@ -4,6 +4,10 @@ locationId: "7a61dd75-e05f-4031-bda7-337cac4cf5e5"
 title: "Theatre De Verdure A St Malo Du Bois"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.925315
+  longitude: -0.874227
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

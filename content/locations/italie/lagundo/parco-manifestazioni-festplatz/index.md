@@ -4,6 +4,10 @@ locationId: "0c547e22-de97-4603-a112-a621309d39fd"
 title: "Parco Manifestazioni Festplatz"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.682519
+  longitude: 11.123069
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Marousi"
 coordinates:
   latitude: 38.0494
   longitude: 23.8028
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "11dad0b9-3a59-4dc9-aa3f-26dd90352ef9"
 title: "Don Haskins Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 31.777614
+  longitude: -106.505694
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

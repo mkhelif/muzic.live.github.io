@@ -4,6 +4,10 @@ locationId: "cc8534c3-e257-4259-a4a7-532fa4252ae9"
 title: "Les Tanzmatten"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.254353
+  longitude: 7.462962
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

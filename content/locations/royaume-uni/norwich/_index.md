@@ -5,4 +5,5 @@ title: "Norwich"
 coordinates:
   latitude: 52.6309
   longitude: 1.2974
+  zoom: 12
 ---

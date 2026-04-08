@@ -4,6 +4,10 @@ locationId: "3232a713-da62-4969-8c82-7dd64856fe2e"
 title: "Mcmenamins Mission Theater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.520247
+  longitude: -122.674194
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

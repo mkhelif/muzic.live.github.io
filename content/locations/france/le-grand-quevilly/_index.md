@@ -5,4 +5,5 @@ title: "Le Grand Quevilly"
 coordinates:
   latitude: 49.4097
   longitude: 1.05
+  zoom: 12
 ---

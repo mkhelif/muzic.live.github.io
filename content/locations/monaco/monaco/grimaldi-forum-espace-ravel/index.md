@@ -4,6 +4,10 @@ locationId: "a6b5e4ce-2191-4f36-8099-cb15d515b650"
 title: "Grimaldi Forum - Espace Ravel"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.732349
+  longitude: 7.427683
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

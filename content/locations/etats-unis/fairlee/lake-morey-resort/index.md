@@ -4,6 +4,10 @@ locationId: "a96b164b-5edd-412b-80a5-915ea32f2fa6"
 title: "Lake Morey Resort"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.910732
+  longitude: -72.154745
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Rennes"
 coordinates:
   latitude: 48.1173
   longitude: -1.6778
+  zoom: 12
 ---

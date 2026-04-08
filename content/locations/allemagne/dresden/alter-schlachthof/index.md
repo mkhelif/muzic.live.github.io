@@ -4,6 +4,10 @@ locationId: "c7b6fd99-db35-474d-b1f5-2f6760725fd9"
 title: "Alter Schlachthof"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.069673
+  longitude: 13.734058
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

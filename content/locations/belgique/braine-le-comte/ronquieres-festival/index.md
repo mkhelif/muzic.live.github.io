@@ -4,6 +4,10 @@ locationId: "bb04b6a1-8615-4b95-a82a-2dd93800348f"
 title: "Ronquières Festival"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.610706
+  longitude: 4.13607
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

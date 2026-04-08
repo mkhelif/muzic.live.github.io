@@ -4,6 +4,10 @@ locationId: "45c0d9f6-7ab4-4444-857b-a916840c5f8b"
 title: "Sunset Cove Amphitheater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 26.372386
+  longitude: -80.237662
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

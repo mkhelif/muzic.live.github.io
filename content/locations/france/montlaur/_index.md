@@ -5,4 +5,5 @@ title: "Montlaur"
 coordinates:
   latitude: 43.35
   longitude: 2.4667
+  zoom: 14
 ---

@@ -5,4 +5,5 @@ title: "Saint Michel Sur Orge"
 coordinates:
   latitude: 48.6344
   longitude: 2.3139
+  zoom: 12
 ---

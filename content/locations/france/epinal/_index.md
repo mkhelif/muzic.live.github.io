@@ -5,4 +5,5 @@ title: "Epinal"
 coordinates:
   latitude: 48.1744
   longitude: 6.4513
+  zoom: 12
 ---

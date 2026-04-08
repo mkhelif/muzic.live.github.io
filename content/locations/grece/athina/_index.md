@@ -5,4 +5,5 @@ title: "Athina"
 coordinates:
   latitude: 37.9838
   longitude: 23.7275
+  zoom: 11
 ---

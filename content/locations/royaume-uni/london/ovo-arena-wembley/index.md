@@ -4,6 +4,10 @@ locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "Ovo Arena Wembley"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.558
+  longitude: -0.282792
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "e1ba16ce-3d9e-4c30-aac6-a7053f19310a"
 title: "Hindley St Music Hall"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -34.9235
+  longitude: 138.594027
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

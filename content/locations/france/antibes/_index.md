@@ -5,4 +5,5 @@ title: "Antibes"
 coordinates:
   latitude: 43.5808
   longitude: 7.1239
+  zoom: 12
 ---

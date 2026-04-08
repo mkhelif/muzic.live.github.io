@@ -5,4 +5,5 @@ title: "Victoria"
 coordinates:
   latitude: 48.4284
   longitude: -123.3656
+  zoom: 12
 ---

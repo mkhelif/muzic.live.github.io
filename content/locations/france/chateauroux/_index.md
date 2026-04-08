@@ -5,4 +5,5 @@ title: "Chateauroux"
 coordinates:
   latitude: 46.8108
   longitude: 1.6911
+  zoom: 12
 ---

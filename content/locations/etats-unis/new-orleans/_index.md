@@ -5,4 +5,5 @@ title: "New Orleans"
 coordinates:
   latitude: 29.9511
   longitude: -90.0715
+  zoom: 12
 ---

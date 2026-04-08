@@ -5,4 +5,5 @@ title: "Pompei"
 coordinates:
   latitude: 40.7462
   longitude: 14.5006
+  zoom: 12
 ---

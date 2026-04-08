@@ -4,6 +4,10 @@ locationId: "0e45cbfe-9a4e-40de-9c35-ca0dd4a4d078"
 title: "De Roma"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.213389
+  longitude: 4.440014
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "491b3d26-a34f-4ba9-9a66-c75d417d1d9f"
 title: "Błonia Łódzkie"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.816432
+  longitude: 17.451225
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

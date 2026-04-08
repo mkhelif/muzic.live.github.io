@@ -5,4 +5,5 @@ title: "Ridgefield"
 coordinates:
   latitude: 41.2815
   longitude: -73.4983
+  zoom: 12
 ---

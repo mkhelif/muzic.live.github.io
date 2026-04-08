@@ -5,4 +5,5 @@ title: "Werchter"
 coordinates:
   latitude: 50.9714
   longitude: 4.7072
+  zoom: 14
 ---

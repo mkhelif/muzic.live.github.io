@@ -5,4 +5,5 @@ title: "Cahors"
 coordinates:
   latitude: 44.4478
   longitude: 1.4403
+  zoom: 12
 ---

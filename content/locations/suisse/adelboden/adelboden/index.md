@@ -4,6 +4,10 @@ locationId: "c0d1832b-a462-410b-a7f2-45f2669d7d96"
 title: "Adelboden"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.492895
+  longitude: 7.557679
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

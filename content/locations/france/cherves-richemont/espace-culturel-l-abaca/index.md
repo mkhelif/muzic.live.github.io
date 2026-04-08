@@ -4,6 +4,10 @@ locationId: "47a9ec53-8374-4c4f-bc29-f00d01d5fb54"
 title: "Espace Culturel - L'Abaca"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.747956
+  longitude: -0.338561
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

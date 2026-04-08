@@ -4,6 +4,10 @@ locationId: "329da46a-cefc-4473-8961-af16bf9868a5"
 title: "Göttinger Altes Rathaus"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.532833
+  longitude: 9.935181
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

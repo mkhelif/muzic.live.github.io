@@ -5,4 +5,5 @@ title: "Mansfield"
 coordinates:
   latitude: 42.0334
   longitude: -71.2189
+  zoom: 12
 ---

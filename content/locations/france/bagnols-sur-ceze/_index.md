@@ -5,4 +5,5 @@ title: "Bagnols Sur Ceze"
 coordinates:
   latitude: 44.1628
   longitude: 4.6192
+  zoom: 12
 ---

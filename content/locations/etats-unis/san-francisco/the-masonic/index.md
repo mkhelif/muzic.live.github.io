@@ -4,6 +4,10 @@ locationId: "b4b402f0-7c84-4a62-a8ee-6123d54e213a"
 title: "The Masonic"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.791174
+  longitude: -122.41299
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

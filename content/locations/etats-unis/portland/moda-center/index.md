@@ -4,6 +4,10 @@ locationId: "3232a713-da62-4969-8c82-7dd64856fe2e"
 title: "Moda Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.531579
+  longitude: -122.666834
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

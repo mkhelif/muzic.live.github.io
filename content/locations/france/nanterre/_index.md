@@ -5,4 +5,5 @@ title: "Nanterre"
 coordinates:
   latitude: 48.8924
   longitude: 2.2071
+  zoom: 12
 ---

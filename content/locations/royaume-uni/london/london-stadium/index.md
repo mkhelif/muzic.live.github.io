@@ -4,6 +4,10 @@ locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "London Stadium"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.538621
+  longitude: -0.016624
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

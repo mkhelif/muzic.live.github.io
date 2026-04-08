@@ -4,6 +4,10 @@ locationId: "e66e56f0-fa42-4edb-933a-c38baede19f9"
 title: "Southampton 1865"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.909306
+  longitude: -1.446401
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

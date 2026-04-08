@@ -5,4 +5,5 @@ title: "Lido Di Camaiore"
 coordinates:
   latitude: 43.8833
   longitude: 10.2333
+  zoom: 12
 ---

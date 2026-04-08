@@ -4,6 +4,10 @@ locationId: "536e78db-10bc-427b-a7ad-c9396337efe0"
 title: "Parc Du Port Mulon"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.430599
+  longitude: -1.497794
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

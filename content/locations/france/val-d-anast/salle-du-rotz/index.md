@@ -4,6 +4,10 @@ locationId: "1686726a-237c-4d3f-bb1c-b240260ca233"
 title: "Salle Du Rotz"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.900224
+  longitude: -2.022462
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

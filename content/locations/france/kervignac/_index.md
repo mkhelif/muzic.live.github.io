@@ -5,4 +5,5 @@ title: "Kervignac"
 coordinates:
   latitude: 47.765
   longitude: -3.2378
+  zoom: 14
 ---

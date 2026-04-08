@@ -5,4 +5,5 @@ title: "Bergen Op Zoom"
 coordinates:
   latitude: 51.495
   longitude: 4.2906
+  zoom: 12
 ---

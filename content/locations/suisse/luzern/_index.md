@@ -5,4 +5,5 @@ title: "Luzern"
 coordinates:
   latitude: 47.0502
   longitude: 8.3093
+  zoom: 12
 ---

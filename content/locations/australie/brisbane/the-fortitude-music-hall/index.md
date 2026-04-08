@@ -4,6 +4,10 @@ locationId: "88cc63fb-e86f-45e7-afee-77e0813b59b8"
 title: "The Fortitude Music Hall"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -27.365991
+  longitude: 152.948963
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

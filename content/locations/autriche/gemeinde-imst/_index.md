@@ -5,4 +5,5 @@ title: "Gemeinde Imst"
 coordinates:
   latitude: 47.2456
   longitude: 10.7389
+  zoom: 12
 ---

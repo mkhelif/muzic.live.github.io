@@ -5,4 +5,5 @@ title: "Bourg En Bresse"
 coordinates:
   latitude: 46.2056
   longitude: 5.2253
+  zoom: 12
 ---

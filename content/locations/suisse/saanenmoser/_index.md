@@ -5,4 +5,5 @@ title: "Saanenmoser"
 coordinates:
   latitude: 46.5
   longitude: 7.3
+  zoom: 14
 ---

@@ -5,4 +5,5 @@ title: "St Avertin"
 coordinates:
   latitude: 47.3667
   longitude: 0.7333
+  zoom: 12
 ---

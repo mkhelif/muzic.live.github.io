@@ -4,6 +4,10 @@ locationId: "dfc99999-4112-47ce-915d-38f00ea0bc7a"
 title: "Temple de Carouge"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.185031
+  longitude: 6.139634
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

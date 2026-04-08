@@ -5,4 +5,5 @@ title: "Tulle"
 coordinates:
   latitude: 45.2674
   longitude: 1.7697
+  zoom: 12
 ---

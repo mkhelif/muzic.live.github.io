@@ -5,4 +5,5 @@ title: "Dudelange"
 coordinates:
   latitude: 49.4811
   longitude: 6.0875
+  zoom: 12
 ---

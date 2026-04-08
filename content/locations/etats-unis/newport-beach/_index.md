@@ -5,4 +5,5 @@ title: "Newport Beach"
 coordinates:
   latitude: 33.6189
   longitude: -117.9298
+  zoom: 12
 ---

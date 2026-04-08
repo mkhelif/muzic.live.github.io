@@ -5,4 +5,5 @@ title: "Leeds"
 coordinates:
   latitude: 53.8008
   longitude: -1.5491
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "7f99152b-d2c4-40ac-8e84-31897950e29d"
 title: "Poppodium Iduna"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.108608
+  longitude: 6.090286
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

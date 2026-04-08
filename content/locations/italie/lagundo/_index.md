@@ -5,4 +5,5 @@ title: "Lagundo"
 coordinates:
   latitude: 46.6833
   longitude: 11.1167
+  zoom: 14
 ---

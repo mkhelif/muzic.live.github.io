@@ -5,4 +5,5 @@ title: "Saint Germain En Laye"
 coordinates:
   latitude: 48.8989
   longitude: 2.0938
+  zoom: 12
 ---

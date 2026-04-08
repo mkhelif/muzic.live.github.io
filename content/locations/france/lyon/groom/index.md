@@ -4,6 +4,10 @@ locationId: "06b75f78-4a60-4e47-8013-c7902d446814"
 title: "Groom"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.770606
+  longitude: 4.837007
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

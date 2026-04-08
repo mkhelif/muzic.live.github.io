@@ -5,4 +5,5 @@ title: "Kallithea"
 coordinates:
   latitude: 37.95
   longitude: 23.7
+  zoom: 12
 ---

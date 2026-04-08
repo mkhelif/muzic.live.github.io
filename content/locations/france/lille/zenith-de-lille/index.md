@@ -4,6 +4,10 @@ locationId: "a61ab19c-ce63-477e-a292-db6628cbd335"
 title: "Zenith De Lille"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.633508
+  longitude: 3.077553
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

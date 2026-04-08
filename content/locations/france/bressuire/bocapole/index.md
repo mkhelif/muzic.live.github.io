@@ -4,6 +4,10 @@ locationId: "f4aae45b-0a0a-408d-9b7f-21466cee8894"
 title: "Bocapole"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.848712
+  longitude: -0.476003
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

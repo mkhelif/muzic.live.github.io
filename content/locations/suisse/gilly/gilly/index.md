@@ -4,6 +4,10 @@ locationId: "77058a29-15e0-461c-a9b5-9dc5d555d0a0"
 title: "Gilly"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.457003
+  longitude: 6.297295
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

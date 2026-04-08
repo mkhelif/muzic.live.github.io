@@ -5,4 +5,5 @@ title: "Big Indian"
 coordinates:
   latitude: 42.1145
   longitude: -74.4576
+  zoom: 14
 ---

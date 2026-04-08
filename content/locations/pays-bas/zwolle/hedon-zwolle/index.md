@@ -4,6 +4,10 @@ locationId: "33b4cf17-0a32-4c32-8984-0afbf93ffb7c"
 title: "Hedon Zwolle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.517258
+  longitude: 6.094477
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

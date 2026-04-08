@@ -4,6 +4,10 @@ locationId: "81773251-a33d-407e-9c75-62b47dbd91d1"
 title: "Accor Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.838709
+  longitude: 2.378767
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

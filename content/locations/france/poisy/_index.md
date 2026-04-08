@@ -5,4 +5,5 @@ title: "Poisy"
 coordinates:
   latitude: 45.9333
   longitude: 6.0667
+  zoom: 12
 ---

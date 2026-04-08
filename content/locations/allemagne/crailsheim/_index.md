@@ -5,4 +5,5 @@ title: "Crailsheim"
 coordinates:
   latitude: 49.1347
   longitude: 10.0706
+  zoom: 12
 ---

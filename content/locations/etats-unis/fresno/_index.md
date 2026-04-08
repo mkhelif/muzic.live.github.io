@@ -5,4 +5,5 @@ title: "Fresno"
 coordinates:
   latitude: 36.7378
   longitude: -119.7871
+  zoom: 12
 ---

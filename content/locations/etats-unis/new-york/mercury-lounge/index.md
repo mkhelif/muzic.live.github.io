@@ -4,6 +4,10 @@ locationId: "681e5f86-22ae-41e4-be85-be9b3dee5a52"
 title: "Mercury Lounge"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.722104
+  longitude: -73.986793
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

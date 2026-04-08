@@ -5,4 +5,5 @@ title: "Ambazac"
 coordinates:
   latitude: 46.0
   longitude: 1.4
+  zoom: 14
 ---

@@ -5,4 +5,5 @@ title: "Istres"
 coordinates:
   latitude: 43.5131
   longitude: 4.9881
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "b8842043-8198-46ee-a599-736b9f775c8e"
 title: "L'Astroclub"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.902734
+  longitude: 1.908607
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

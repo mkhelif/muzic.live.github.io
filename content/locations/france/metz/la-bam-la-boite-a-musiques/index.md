@@ -4,6 +4,10 @@ locationId: "35d884da-a174-419c-ac7b-d0e5a00e3898"
 title: "La Bam (La Boite À Musiques)"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.119696
+  longitude: 6.176355
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

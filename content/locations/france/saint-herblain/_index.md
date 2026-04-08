@@ -5,4 +5,5 @@ title: "Saint-Herblain"
 coordinates:
   latitude: 47.2128
   longitude: -1.6497
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "bc4632ff-34c9-4241-85ff-6f6301896a8d"
 title: "Salle Polyvalente - Laval"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.079159
+  longitude: -0.755472
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

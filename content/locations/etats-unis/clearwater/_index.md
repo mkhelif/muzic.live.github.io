@@ -5,4 +5,5 @@ title: "Clearwater"
 coordinates:
   latitude: 27.9659
   longitude: -82.8001
+  zoom: 12
 ---

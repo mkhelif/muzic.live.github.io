@@ -4,6 +4,10 @@ locationId: "0e332b12-21d3-47af-932b-bebbe4cb5cc2"
 title: "Rote Sonne"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.142181
+  longitude: 11.570142
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

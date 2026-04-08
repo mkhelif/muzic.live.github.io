@@ -5,4 +5,5 @@ title: "Angers"
 coordinates:
   latitude: 47.4784
   longitude: -0.5632
+  zoom: 12
 ---

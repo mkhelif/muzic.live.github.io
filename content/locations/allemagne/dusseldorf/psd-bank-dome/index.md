@@ -4,6 +4,10 @@ locationId: "f30e93cf-c9e4-4c17-88a4-f9bf04b14d1f"
 title: "Psd Bank Dome"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.272849
+  longitude: 6.812345
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Savannah"
 coordinates:
   latitude: 32.0809
   longitude: -81.0912
+  zoom: 12
 ---

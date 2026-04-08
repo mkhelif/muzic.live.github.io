@@ -5,4 +5,5 @@ title: "Huechuraba"
 coordinates:
   latitude: -33.37
   longitude: -70.635
+  zoom: 12
 ---

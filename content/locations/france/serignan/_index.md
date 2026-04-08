@@ -5,4 +5,5 @@ title: "Serignan"
 coordinates:
   latitude: 43.2806
   longitude: 3.2792
+  zoom: 12
 ---

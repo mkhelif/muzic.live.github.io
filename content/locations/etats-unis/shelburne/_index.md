@@ -5,4 +5,5 @@ title: "Shelburne"
 coordinates:
   latitude: 44.3789
   longitude: -73.2268
+  zoom: 12
 ---

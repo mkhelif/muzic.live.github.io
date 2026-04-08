@@ -5,4 +5,5 @@ title: "Fort Wayne"
 coordinates:
   latitude: 41.0793
   longitude: -85.1394
+  zoom: 12
 ---

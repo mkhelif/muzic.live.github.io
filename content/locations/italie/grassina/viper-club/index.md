@@ -4,6 +4,10 @@ locationId: "b7cbcb29-2943-470f-b3a7-18c0fcf5fa2b"
 title: "Viper Club"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.723544
+  longitude: 11.293451
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

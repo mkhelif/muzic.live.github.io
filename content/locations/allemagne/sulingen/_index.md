@@ -5,4 +5,5 @@ title: "Sulingen"
 coordinates:
   latitude: 52.6833
   longitude: 8.8
+  zoom: 14
 ---

@@ -4,6 +4,10 @@ locationId: "9fc6e04c-fa0a-4ad6-b20b-fa2f647f3fdf"
 title: "Tanglewood Music Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.881298
+  longitude: -94.558895
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

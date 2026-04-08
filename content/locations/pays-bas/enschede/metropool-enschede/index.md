@@ -4,6 +4,10 @@ locationId: "132ed572-1b20-4d47-b74c-48530e7d516d"
 title: "Metropool Enschede"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.222568
+  longitude: 6.894448
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

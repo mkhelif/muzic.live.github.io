@@ -5,4 +5,5 @@ title: "Port Louis"
 coordinates:
   latitude: -20.1609
   longitude: 57.5012
+  zoom: 12
 ---

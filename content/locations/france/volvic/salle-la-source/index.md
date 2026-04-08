@@ -4,6 +4,10 @@ locationId: "8a51868f-0fc0-4b79-a1e4-98160c3177af"
 title: "Salle La Source"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.872542
+  longitude: 3.03757
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

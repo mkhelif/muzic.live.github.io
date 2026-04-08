@@ -4,6 +4,10 @@ locationId: "4f0de3e1-0099-4805-979f-6cab1071b85d"
 title: "Oran Açık Hava Sahnesi"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.920776
+  longitude: 32.85405
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "be97bc43-409d-4967-94d0-a5832a2a2262"
 title: "Columbiahalle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.484738
+  longitude: 13.392546
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

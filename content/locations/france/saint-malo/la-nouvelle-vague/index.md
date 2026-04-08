@@ -4,6 +4,10 @@ locationId: "5117990d-95c2-4d24-a15a-1207594fd1eb"
 title: "La Nouvelle Vague"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.633834
+  longitude: -1.990277
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

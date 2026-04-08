@@ -4,6 +4,10 @@ locationId: "12b6f65a-3041-4706-8f46-6324d01d5234"
 title: "Zoom"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.121735
+  longitude: 8.750661
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Tarbes"
 coordinates:
   latitude: 43.2328
   longitude: 0.0783
+  zoom: 12
 ---

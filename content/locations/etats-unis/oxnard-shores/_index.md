@@ -5,4 +5,5 @@ title: "Oxnard Shores"
 coordinates:
   latitude: 34.1975
   longitude: -119.1771
+  zoom: 12
 ---

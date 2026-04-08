@@ -4,6 +4,10 @@ locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "Fox And Firkin"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.507446
+  longitude: -0.127765
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

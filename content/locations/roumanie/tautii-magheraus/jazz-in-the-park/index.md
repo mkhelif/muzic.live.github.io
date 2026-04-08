@@ -4,6 +4,10 @@ locationId: "b231ebdf-d4dc-4b0c-9971-140a5070e85e"
 title: "Jazz In The Park"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.665965
+  longitude: 23.467985
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

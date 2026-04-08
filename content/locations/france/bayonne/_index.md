@@ -5,4 +5,5 @@ title: "Bayonne"
 coordinates:
   latitude: 43.4929
   longitude: -1.4748
+  zoom: 12
 ---

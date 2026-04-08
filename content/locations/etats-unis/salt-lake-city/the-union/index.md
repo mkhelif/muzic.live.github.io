@@ -4,6 +4,10 @@ locationId: "fa76a67e-9116-4443-8ce7-b75377965691"
 title: "The Union"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.774559
+  longitude: -111.90646
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

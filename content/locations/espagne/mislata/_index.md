@@ -5,4 +5,5 @@ title: "Mislata"
 coordinates:
   latitude: 39.4756
   longitude: -0.4183
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Toulon"
 coordinates:
   latitude: 43.1242
   longitude: 5.928
+  zoom: 12
 ---

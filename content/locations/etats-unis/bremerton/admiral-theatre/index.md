@@ -4,6 +4,10 @@ locationId: "de753926-882b-4c4b-ad82-6f6b60875691"
 title: "Admiral Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.566775
+  longitude: -122.627375
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

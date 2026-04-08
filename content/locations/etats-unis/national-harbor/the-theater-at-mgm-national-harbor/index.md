@@ -4,6 +4,10 @@ locationId: "26da379f-f3d1-4280-8d2b-feee4bfb00a4"
 title: "The Theater At Mgm National Harbor"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.783342
+  longitude: -77.014828
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

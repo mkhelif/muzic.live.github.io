@@ -4,6 +4,10 @@ locationId: "294dda52-a47e-440c-81c1-2143f6fcd5ab"
 title: "Telluride Town Park"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.937494
+  longitude: -107.812285
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

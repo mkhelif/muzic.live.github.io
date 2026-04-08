@@ -4,6 +4,10 @@ locationId: "be97bc43-409d-4967-94d0-a5832a2a2262"
 title: "Olympiastadion"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.514585
+  longitude: 13.239814
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

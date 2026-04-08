@@ -4,6 +4,10 @@ locationId: "9efb1e17-f5c4-420b-be9b-c5f13c23665a"
 title: "Warsaw"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.722392
+  longitude: -73.94847
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

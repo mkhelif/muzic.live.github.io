@@ -4,6 +4,10 @@ locationId: "a61ab19c-ce63-477e-a292-db6628cbd335"
 title: "L'Aéronef"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.636813
+  longitude: 3.073738
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

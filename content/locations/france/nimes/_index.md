@@ -5,4 +5,5 @@ title: "Nîmes"
 coordinates:
   latitude: 43.8367
   longitude: 4.3601
+  zoom: 12
 ---

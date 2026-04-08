@@ -4,6 +4,10 @@ locationId: "c37d560d-b5e7-4c0f-a215-08160fc54a8d"
 title: "World Cafe Live"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.952724
+  longitude: -75.163526
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

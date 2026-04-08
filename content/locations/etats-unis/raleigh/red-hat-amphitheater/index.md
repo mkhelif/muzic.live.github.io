@@ -4,6 +4,10 @@ locationId: "d7259ed8-538a-464e-9606-03985b15d288"
 title: "Red Hat Amphitheater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 35.773556
+  longitude: -78.642916
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

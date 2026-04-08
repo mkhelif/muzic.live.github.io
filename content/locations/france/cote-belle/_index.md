@@ -5,4 +5,5 @@ title: "Cote Belle"
 coordinates:
   latitude: 45.764
   longitude: 4.8357
+  zoom: 14
 ---

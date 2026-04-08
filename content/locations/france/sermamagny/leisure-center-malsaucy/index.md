@@ -4,6 +4,10 @@ locationId: "973e5904-b704-4d90-9087-bbf0c5df7d40"
 title: "Leisure Center Malsaucy"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.688371
+  longitude: 6.837325
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

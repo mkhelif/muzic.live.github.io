@@ -4,6 +4,10 @@ locationId: "b2358ddf-1fa2-41ae-860d-d46d78e05402"
 title: "The Hamilton Live"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.895098
+  longitude: -77.036385
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

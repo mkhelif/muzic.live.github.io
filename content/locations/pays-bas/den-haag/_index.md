@@ -5,4 +5,5 @@ title: "Den Haag"
 coordinates:
   latitude: 52.0705
   longitude: 4.3007
+  zoom: 12
 ---

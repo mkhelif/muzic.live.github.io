@@ -4,6 +4,10 @@ locationId: "cb31842a-a72b-4e1a-a48c-c6f564b3a6eb"
 title: "Praia Fluvial Do Taboão"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.918452
+  longitude: -8.569518
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

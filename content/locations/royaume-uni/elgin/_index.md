@@ -5,4 +5,5 @@ title: "Elgin"
 coordinates:
   latitude: 57.6489
   longitude: -3.3158
+  zoom: 12
 ---

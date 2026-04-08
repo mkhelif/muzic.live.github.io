@@ -5,4 +5,5 @@ title: "Ramonville St Agne"
 coordinates:
   latitude: 43.55
   longitude: 1.475
+  zoom: 12
 ---

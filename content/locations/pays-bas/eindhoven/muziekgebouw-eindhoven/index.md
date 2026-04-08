@@ -4,6 +4,10 @@ locationId: "a46e335e-4817-42b4-b3fe-09c51662c8ed"
 title: "Muziekgebouw Eindhoven"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.438672
+  longitude: 5.479678
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

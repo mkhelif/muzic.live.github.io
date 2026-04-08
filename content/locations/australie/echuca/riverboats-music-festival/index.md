@@ -4,6 +4,10 @@ locationId: "69c08ba7-a627-4238-ad5e-2ab261d74e9b"
 title: "Riverboats Music Festival"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -36.128141
+  longitude: 144.751696
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

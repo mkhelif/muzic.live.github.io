@@ -4,6 +4,10 @@ locationId: "0a37d25a-76f4-4dee-a889-6c8767e07012"
 title: "University Of Wolverhampton At The Civic Hall"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.584765
+  longitude: -2.127567
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "be97bc43-409d-4967-94d0-a5832a2a2262"
 title: "Max-Schmeling-Halle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.5448
+  longitude: 13.404494
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

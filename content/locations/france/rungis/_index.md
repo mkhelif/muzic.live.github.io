@@ -5,4 +5,5 @@ title: "Rungis"
 coordinates:
   latitude: 48.7492
   longitude: 2.3514
+  zoom: 12
 ---

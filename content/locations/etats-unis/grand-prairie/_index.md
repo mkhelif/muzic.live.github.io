@@ -5,4 +5,5 @@ title: "Grand Prairie"
 coordinates:
   latitude: 32.7459
   longitude: -96.9978
+  zoom: 12
 ---

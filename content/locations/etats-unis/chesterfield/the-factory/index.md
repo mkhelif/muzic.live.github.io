@@ -4,6 +4,10 @@ locationId: "5dfe024c-b382-4402-8a63-d48e0005b9fa"
 title: "The Factory"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.671742
+  longitude: -90.593594
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

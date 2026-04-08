@@ -5,4 +5,5 @@ title: "Villars Les Dombes"
 coordinates:
   latitude: 46.0
   longitude: 5.0167
+  zoom: 12
 ---

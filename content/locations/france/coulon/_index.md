@@ -5,4 +5,5 @@ title: "Coulon"
 coordinates:
   latitude: 46.3206
   longitude: -0.5856
+  zoom: 14
 ---

@@ -5,4 +5,5 @@ title: "Louisville"
 coordinates:
   latitude: 38.2527
   longitude: -85.7585
+  zoom: 12
 ---

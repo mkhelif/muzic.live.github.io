@@ -5,4 +5,5 @@ title: "Heerlen"
 coordinates:
   latitude: 50.8883
   longitude: 5.9831
+  zoom: 12
 ---

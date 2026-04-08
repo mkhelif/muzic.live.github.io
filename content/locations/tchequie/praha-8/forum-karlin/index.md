@@ -4,6 +4,10 @@ locationId: "75b88d8a-c776-420e-b31c-7bbfbd7eebea"
 title: "Forum Karlín"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.091846
+  longitude: 14.454877
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

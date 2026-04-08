@@ -5,4 +5,5 @@ title: "Pornichet"
 coordinates:
   latitude: 47.2597
   longitude: -2.3378
+  zoom: 12
 ---

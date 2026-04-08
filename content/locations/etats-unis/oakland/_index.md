@@ -5,4 +5,5 @@ title: "Oakland"
 coordinates:
   latitude: 37.8044
   longitude: -122.2712
+  zoom: 12
 ---

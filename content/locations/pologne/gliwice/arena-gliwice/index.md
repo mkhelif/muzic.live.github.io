@@ -4,6 +4,10 @@ locationId: "fd60b216-e78c-44e7-8869-dcb7b84431fd"
 title: "Arena Gliwice"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.285673
+  longitude: 18.68612
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "e52373b5-e7a9-4677-9ec9-dc5a22ad586e"
 title: "Xfinity Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.992445
+  longitude: -71.219612
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

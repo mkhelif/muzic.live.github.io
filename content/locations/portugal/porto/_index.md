@@ -5,4 +5,5 @@ title: "Porto"
 coordinates:
   latitude: 41.1579
   longitude: -8.6291
+  zoom: 12
 ---

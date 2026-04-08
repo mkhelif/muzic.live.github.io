@@ -5,4 +5,5 @@ title: "Arcachon"
 coordinates:
   latitude: 44.6619
   longitude: -1.1681
+  zoom: 12
 ---

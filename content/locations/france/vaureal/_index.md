@@ -5,4 +5,5 @@ title: "Vaureal"
 coordinates:
   latitude: 49.0367
   longitude: 2.0292
+  zoom: 12
 ---

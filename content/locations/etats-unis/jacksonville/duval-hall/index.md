@@ -4,6 +4,10 @@ locationId: "abb25ba6-4ceb-4175-8056-05ebd8bc5f1c"
 title: "Duval Hall"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 30.326225
+  longitude: -81.657918
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

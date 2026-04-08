@@ -4,6 +4,10 @@ locationId: "bedb4481-3f28-4bde-9670-4faa86eb2ea7"
 title: "The Sse Arena, Belfast"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 54.59758
+  longitude: -5.92771
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

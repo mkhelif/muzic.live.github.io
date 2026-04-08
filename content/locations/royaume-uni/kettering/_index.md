@@ -5,4 +5,5 @@ title: "Kettering"
 coordinates:
   latitude: 52.3936
   longitude: -0.7231
+  zoom: 12
 ---

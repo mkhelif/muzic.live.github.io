@@ -5,4 +5,5 @@ title: "Saratoga Springs"
 coordinates:
   latitude: 43.0831
   longitude: -73.7846
+  zoom: 12
 ---

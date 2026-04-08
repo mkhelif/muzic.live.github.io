@@ -4,6 +4,10 @@ locationId: "d6c1e0e9-9880-4cab-8495-a37116e83698"
 title: "Parc De Loisirs Jacques Vernier"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.367568
+  longitude: 3.080464
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

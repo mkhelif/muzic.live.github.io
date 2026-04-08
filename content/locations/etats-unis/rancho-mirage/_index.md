@@ -5,4 +5,5 @@ title: "Rancho Mirage"
 coordinates:
   latitude: 33.7397
   longitude: -116.4128
+  zoom: 12
 ---

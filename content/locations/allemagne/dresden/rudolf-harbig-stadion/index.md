@@ -4,6 +4,10 @@ locationId: "c7b6fd99-db35-474d-b1f5-2f6760725fd9"
 title: "Rudolf Harbig Stadion"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.040849
+  longitude: 13.748042
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

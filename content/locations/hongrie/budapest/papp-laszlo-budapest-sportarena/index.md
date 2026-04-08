@@ -4,6 +4,10 @@ locationId: "f9d4fc90-7ba2-46dc-8a63-7417f93e7510"
 title: "Papp László Budapest Sportaréna"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.502029
+  longitude: 19.105373
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

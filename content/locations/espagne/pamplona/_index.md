@@ -5,4 +5,5 @@ title: "Pamplona"
 coordinates:
   latitude: 42.8125
   longitude: -1.6458
+  zoom: 12
 ---

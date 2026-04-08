@@ -4,6 +4,10 @@ locationId: "f2bb28a0-bc9b-419d-82ac-5abc1ec580f4"
 title: "King John'S Castle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.669689
+  longitude: -8.62507
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

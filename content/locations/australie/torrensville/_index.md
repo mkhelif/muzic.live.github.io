@@ -5,4 +5,5 @@ title: "Torrensville"
 coordinates:
   latitude: -34.9242
   longitude: 138.5669
+  zoom: 12
 ---

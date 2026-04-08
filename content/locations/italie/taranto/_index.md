@@ -5,4 +5,5 @@ title: "Taranto"
 coordinates:
   latitude: 40.4764
   longitude: 17.2299
+  zoom: 12
 ---

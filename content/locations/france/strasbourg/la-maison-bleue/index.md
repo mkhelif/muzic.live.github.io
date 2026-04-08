@@ -4,6 +4,10 @@ locationId: "438b5f46-4051-452f-a825-fc2d234f8ef1"
 title: "La Maison Bleue"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.559535
+  longitude: 7.768052
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

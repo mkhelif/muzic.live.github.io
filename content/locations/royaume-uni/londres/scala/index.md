@@ -4,6 +4,10 @@ locationId: "c0aa2a2f-19cf-45dd-ac34-f9ec5e47a593"
 title: "Scala"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.530606
+  longitude: -0.120663
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

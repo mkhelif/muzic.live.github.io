@@ -5,4 +5,5 @@ title: "Gignac"
 coordinates:
   latitude: 43.6533
   longitude: 3.55
+  zoom: 14
 ---

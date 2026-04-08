@@ -4,6 +4,10 @@ locationId: "9069bbb6-5f9f-4fb3-a9e8-b70487414db0"
 title: "Mairie De Labergement-Sainte-Marie"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.774372
+  longitude: 6.282292
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

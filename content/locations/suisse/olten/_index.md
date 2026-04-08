@@ -5,4 +5,5 @@ title: "Olten"
 coordinates:
   latitude: 47.35
   longitude: 7.9
+  zoom: 12
 ---

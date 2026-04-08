@@ -5,4 +5,5 @@ title: "Dijon"
 coordinates:
   latitude: 47.322
   longitude: 5.0415
+  zoom: 12
 ---

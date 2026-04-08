@@ -5,4 +5,5 @@ title: "Cherokee"
 coordinates:
   latitude: 35.4745
   longitude: -83.3146
+  zoom: 14
 ---

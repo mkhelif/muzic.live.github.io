@@ -4,6 +4,10 @@ locationId: "2da24c2c-9a95-4fac-a1f6-c59e535c2330"
 title: "Mtelus"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.51061
+  longitude: -73.563396
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "e77b5119-d0ea-4523-91fd-61a6db277a46"
 title: "Arcada Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.91339
+  longitude: -88.312078
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

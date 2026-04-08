@@ -4,6 +4,10 @@ locationId: "9eb5ca3a-d8e5-4ee0-9677-4e6d07290921"
 title: "Théâtre Saint-Louis"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.058577
+  longitude: -0.883703
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

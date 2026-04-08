@@ -4,6 +4,10 @@ locationId: "4b82cbe3-cc33-4520-b732-fb5f2f6b3a0d"
 title: "Teatro Auditorium Unical"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.367741
+  longitude: 16.225425
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "West Des Moines"
 coordinates:
   latitude: 41.5772
   longitude: -93.7113
+  zoom: 12
 ---

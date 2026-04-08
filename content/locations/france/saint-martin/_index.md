@@ -5,4 +5,5 @@ title: "Saint Martin"
 coordinates:
   latitude: 47.4
   longitude: 0.7
+  zoom: 12
 ---

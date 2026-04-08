@@ -5,4 +5,5 @@ title: "Taule"
 coordinates:
   latitude: 48.5872
   longitude: -3.9
+  zoom: 14
 ---

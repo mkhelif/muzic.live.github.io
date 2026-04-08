@@ -5,4 +5,5 @@ title: "Mozac"
 coordinates:
   latitude: 45.8917
   longitude: 3.0833
+  zoom: 14
 ---

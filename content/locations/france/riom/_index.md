@@ -5,4 +5,5 @@ title: "Riom"
 coordinates:
   latitude: 45.8933
   longitude: 3.1144
+  zoom: 12
 ---

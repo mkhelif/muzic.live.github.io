@@ -5,4 +5,5 @@ title: "Audincourt"
 coordinates:
   latitude: 47.4828
   longitude: 6.8414
+  zoom: 12
 ---

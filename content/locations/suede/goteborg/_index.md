@@ -5,4 +5,5 @@ title: "Göteborg"
 coordinates:
   latitude: 57.7089
   longitude: 11.9746
+  zoom: 12
 ---

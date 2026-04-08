@@ -5,4 +5,5 @@ title: "Six-Fours-les-Plages"
 coordinates:
   latitude: 43.0971
   longitude: 5.8266
+  zoom: 12
 ---

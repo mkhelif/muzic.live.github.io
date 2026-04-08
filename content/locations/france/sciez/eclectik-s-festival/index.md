@@ -4,6 +4,10 @@ locationId: "3c3fe94a-a19a-4728-81e4-2ff0f4d9f93a"
 title: "Eclectik'S Festival"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.331359
+  longitude: 6.37525
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

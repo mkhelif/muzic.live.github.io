@@ -4,6 +4,10 @@ locationId: "bc551cab-a0c4-4a77-9c57-3bfea0952e9b"
 title: "Capitol"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.368456
+  longitude: 9.720375
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

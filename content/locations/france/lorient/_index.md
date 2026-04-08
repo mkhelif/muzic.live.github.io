@@ -5,4 +5,5 @@ title: "Lorient"
 coordinates:
   latitude: 47.7483
   longitude: -3.3667
+  zoom: 12
 ---

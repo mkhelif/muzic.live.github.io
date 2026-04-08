@@ -5,4 +5,5 @@ title: "Tilburg"
 coordinates:
   latitude: 51.5555
   longitude: 5.0913
+  zoom: 12
 ---

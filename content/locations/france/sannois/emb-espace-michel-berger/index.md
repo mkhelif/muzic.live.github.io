@@ -4,6 +4,10 @@ locationId: "36f2eeb1-80a9-4567-bd48-dae940413781"
 title: "EMB Espace Michel Berger"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.971727
+  longitude: 2.25683
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

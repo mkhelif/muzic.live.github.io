@@ -5,4 +5,5 @@ title: "Les Herbiers"
 coordinates:
   latitude: 46.8692
   longitude: -1.0144
+  zoom: 12
 ---

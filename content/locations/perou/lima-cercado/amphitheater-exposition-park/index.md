@@ -4,6 +4,10 @@ locationId: "9fc2263d-3b14-458e-8824-29755ed34696"
 title: "Amphitheater Exposition Park"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -12.04996
+  longitude: -77.029138
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

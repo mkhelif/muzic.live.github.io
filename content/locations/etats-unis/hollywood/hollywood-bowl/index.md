@@ -4,6 +4,10 @@ locationId: "222f0ce2-bf0e-487f-80a1-a1badda97a76"
 title: "Hollywood Bowl"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.822212
+  longitude: -96.653151
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

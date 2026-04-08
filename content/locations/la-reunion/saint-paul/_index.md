@@ -5,4 +5,5 @@ title: "Saint-Paul"
 coordinates:
   latitude: -21.0098
   longitude: 55.271
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Eu"
 coordinates:
   latitude: 50.0458
   longitude: 1.4186
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "73012c37-557e-4813-8fd4-4b8516846a87"
 title: "Bristol Beacon"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.454709
+  longitude: -2.598267
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

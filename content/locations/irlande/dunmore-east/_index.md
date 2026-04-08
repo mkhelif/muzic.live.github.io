@@ -5,4 +5,5 @@ title: "Dunmore East"
 coordinates:
   latitude: 52.1519
   longitude: -6.9975
+  zoom: 14
 ---

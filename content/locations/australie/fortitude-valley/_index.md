@@ -5,4 +5,5 @@ title: "Fortitude Valley"
 coordinates:
   latitude: -27.4577
   longitude: 153.0356
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "75ce03b8-9059-401c-98ae-bcb4fc600812"
 title: "Teffli-Rally"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.95695
+  longitude: 8.337403
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

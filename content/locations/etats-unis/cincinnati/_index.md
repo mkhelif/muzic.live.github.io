@@ -5,4 +5,5 @@ title: "Cincinnati"
 coordinates:
   latitude: 39.1031
   longitude: -84.512
+  zoom: 12
 ---

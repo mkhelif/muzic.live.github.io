@@ -4,6 +4,10 @@ locationId: "921c51f3-7e92-41e3-8442-4f714f661664"
 title: "The Paramount In Concert With Northwell"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.41925
+  longitude: -82.445154
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

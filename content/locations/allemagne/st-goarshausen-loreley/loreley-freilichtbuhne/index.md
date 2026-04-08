@@ -4,6 +4,10 @@ locationId: "6dd9a376-0524-4a62-9fdd-8dabaab2a572"
 title: "Loreley Freilichtbühne"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.15488
+  longitude: 7.716098
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

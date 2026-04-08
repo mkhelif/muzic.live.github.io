@@ -4,6 +4,10 @@ locationId: "8e167830-4558-45c2-80bb-18ed2bbcd783"
 title: "Falkoner Salen"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 55.678016
+  longitude: 12.532619
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

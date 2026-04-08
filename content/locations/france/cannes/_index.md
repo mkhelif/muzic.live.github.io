@@ -5,4 +5,5 @@ title: "Cannes"
 coordinates:
   latitude: 43.5528
   longitude: 7.0174
+  zoom: 12
 ---

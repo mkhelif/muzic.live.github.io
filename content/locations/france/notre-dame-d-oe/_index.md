@@ -5,4 +5,5 @@ title: "Notre Dame D Oe"
 coordinates:
   latitude: 47.45
   longitude: 0.7167
+  zoom: 12
 ---

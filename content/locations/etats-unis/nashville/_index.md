@@ -5,4 +5,5 @@ title: "Nashville"
 coordinates:
   latitude: 36.1627
   longitude: -86.7816
+  zoom: 12
 ---

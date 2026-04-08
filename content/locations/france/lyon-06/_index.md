@@ -5,4 +5,5 @@ title: "Lyon 06"
 coordinates:
   latitude: 45.7676
   longitude: 4.8506
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "7c468bfc-92b5-4331-aba1-609320eefdf1"
 title: "Pine Knob Music Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.735863
+  longitude: -83.41883
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

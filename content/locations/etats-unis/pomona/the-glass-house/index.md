@@ -4,6 +4,10 @@ locationId: "ae159ff1-57dd-4f46-b8d7-f59feb7c8bb7"
 title: "The Glass House"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 34.0575
+  longitude: -117.751458
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

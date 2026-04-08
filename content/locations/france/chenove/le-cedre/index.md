@@ -4,6 +4,10 @@ locationId: "4792dcda-7bfd-432f-a9a7-fcc3d6b4890f"
 title: "Le Cèdre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.294992
+  longitude: 5.006129
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

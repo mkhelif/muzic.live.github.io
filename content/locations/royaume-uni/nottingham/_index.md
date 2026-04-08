@@ -5,4 +5,5 @@ title: "Nottingham"
 coordinates:
   latitude: 52.9548
   longitude: -1.1581
+  zoom: 12
 ---

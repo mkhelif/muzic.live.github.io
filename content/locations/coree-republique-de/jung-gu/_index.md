@@ -5,4 +5,5 @@ title: "Jung Gu"
 coordinates:
   latitude: 37.5636
   longitude: 126.9976
+  zoom: 12
 ---

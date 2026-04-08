@@ -5,4 +5,5 @@ title: "Nürnberg"
 coordinates:
   latitude: 49.4521
   longitude: 11.0767
+  zoom: 12
 ---

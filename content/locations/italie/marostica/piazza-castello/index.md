@@ -4,6 +4,10 @@ locationId: "2fbbae20-8be4-478d-a587-1e9881703393"
 title: "Piazza Castello"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.745514
+  longitude: 11.6553
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

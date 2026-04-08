@@ -4,6 +4,10 @@ locationId: "d9363cbf-21ec-4d80-a385-e021090ce38b"
 title: "Reload Festival"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.682837
+  longitude: 8.801892
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Faches Thumesnil"
 coordinates:
   latitude: 50.5889
   longitude: 3.0736
+  zoom: 12
 ---

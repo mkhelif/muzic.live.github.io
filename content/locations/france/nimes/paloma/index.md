@@ -4,6 +4,10 @@ locationId: "3cf229e9-bea5-4d70-b928-de140abb26ac"
 title: "Paloma"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.856331
+  longitude: 4.404056
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

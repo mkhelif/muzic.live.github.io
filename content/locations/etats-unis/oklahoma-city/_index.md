@@ -5,4 +5,5 @@ title: "Oklahoma City"
 coordinates:
   latitude: 35.4676
   longitude: -97.5164
+  zoom: 12
 ---

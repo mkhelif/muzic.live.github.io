@@ -4,6 +4,10 @@ locationId: "be97bc43-409d-4967-94d0-a5832a2a2262"
 title: "Maschinenhaus"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.395353
+  longitude: 13.151338
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Bozeman"
 coordinates:
   latitude: 45.677
   longitude: -111.0429
+  zoom: 12
 ---

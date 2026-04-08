@@ -5,4 +5,5 @@ title: "Douai"
 coordinates:
   latitude: 50.3714
   longitude: 3.0797
+  zoom: 12
 ---

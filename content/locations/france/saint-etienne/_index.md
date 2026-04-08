@@ -5,4 +5,5 @@ title: "Saint Etienne"
 coordinates:
   latitude: 45.4397
   longitude: 4.3872
+  zoom: 12
 ---

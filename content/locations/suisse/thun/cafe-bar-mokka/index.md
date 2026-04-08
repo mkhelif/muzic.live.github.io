@@ -4,6 +4,10 @@ locationId: "e849e77d-17e0-4449-bfc3-6302ad2eeae6"
 title: "Cafe Bar Mokka"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.758283
+  longitude: 7.628086
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

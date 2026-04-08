@@ -4,6 +4,10 @@ locationId: "b7af53fe-add3-46d9-80b8-48f34650986b"
 title: "Byron Events Farm"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -28.5985
+  longitude: 153.5512
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

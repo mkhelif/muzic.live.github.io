@@ -4,6 +4,10 @@ locationId: "f43abc70-2497-4cb4-8035-50d6111f316c"
 title: "André Malraux Cultural Space"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.093511
+  longitude: 5.839395
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

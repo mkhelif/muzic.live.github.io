@@ -4,6 +4,10 @@ locationId: "a929105e-bfb5-4d09-bf62-9738c9b0f5db"
 title: "House Of Blues Houston"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 29.753798
+  longitude: -95.363957
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

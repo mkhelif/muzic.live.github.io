@@ -5,4 +5,5 @@ title: "Canandaigua"
 coordinates:
   latitude: 42.8873
   longitude: -77.2817
+  zoom: 12
 ---

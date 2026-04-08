@@ -4,6 +4,10 @@ locationId: "1f54ea3d-e72b-4b8e-afc9-c20e0cd01d29"
 title: "Rough Trade Liverpool"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.403773
+  longitude: -2.982798
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

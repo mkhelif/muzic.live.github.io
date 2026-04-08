@@ -5,4 +5,5 @@ title: "Bern"
 coordinates:
   latitude: 46.948
   longitude: 7.4474
+  zoom: 12
 ---

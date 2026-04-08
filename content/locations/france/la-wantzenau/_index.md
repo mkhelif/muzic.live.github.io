@@ -5,4 +5,5 @@ title: "La Wantzenau"
 coordinates:
   latitude: 48.6556
   longitude: 7.8303
+  zoom: 12
 ---

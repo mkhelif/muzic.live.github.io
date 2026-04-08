@@ -4,6 +4,10 @@ locationId: "4606353f-baf8-4129-9d05-cd7ac447ef68"
 title: "Zuiderparktheater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.079984
+  longitude: 4.311346
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

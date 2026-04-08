@@ -5,4 +5,5 @@ title: "Wiesbaden"
 coordinates:
   latitude: 50.0782
   longitude: 8.2398
+  zoom: 12
 ---

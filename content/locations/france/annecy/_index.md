@@ -5,4 +5,5 @@ title: "Annecy"
 coordinates:
   latitude: 45.8992
   longitude: 6.1294
+  zoom: 12
 ---

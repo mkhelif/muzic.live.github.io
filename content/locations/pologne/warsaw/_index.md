@@ -5,4 +5,5 @@ title: "Warsaw"
 coordinates:
   latitude: 52.2297
   longitude: 21.0122
+  zoom: 11
 ---

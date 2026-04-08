@@ -4,6 +4,10 @@ locationId: "b4b402f0-7c84-4a62-a8ee-6123d54e213a"
 title: "The Fillmore"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.784084
+  longitude: -122.433171
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

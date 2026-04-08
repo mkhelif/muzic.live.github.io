@@ -5,4 +5,5 @@ title: "Brives Charensac"
 coordinates:
   latitude: 45.05
   longitude: 3.9167
+  zoom: 12
 ---

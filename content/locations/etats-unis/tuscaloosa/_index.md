@@ -5,4 +5,5 @@ title: "Tuscaloosa"
 coordinates:
   latitude: 33.2098
   longitude: -87.5692
+  zoom: 12
 ---

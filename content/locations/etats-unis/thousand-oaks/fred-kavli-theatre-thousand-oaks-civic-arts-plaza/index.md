@@ -4,6 +4,10 @@ locationId: "613e1e1a-c5be-485a-8e34-167ff9defc1b"
 title: "Fred Kavli Theatre - Thousand Oaks Civic Arts Plaza"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 34.170561
+  longitude: -118.837594
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

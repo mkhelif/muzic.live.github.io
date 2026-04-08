@@ -4,6 +4,10 @@ locationId: "290ec76e-0c35-42e3-88ce-fc8727b9a069"
 title: "Room Léon Curral"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.936125
+  longitude: 6.630255
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

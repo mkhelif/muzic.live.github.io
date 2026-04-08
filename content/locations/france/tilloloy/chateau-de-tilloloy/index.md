@@ -4,6 +4,10 @@ locationId: "fda6c1d1-9e61-4cc7-9710-9295d63778a3"
 title: "Chateau De Tilloloy"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.644546
+  longitude: 2.74901
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

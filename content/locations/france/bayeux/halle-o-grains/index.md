@@ -4,6 +4,10 @@ locationId: "5e2f7b59-164c-462b-9543-e66d5b4ddafc"
 title: "Halle ô Grains"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.275858
+  longitude: -0.698794
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

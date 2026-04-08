@@ -5,4 +5,5 @@ title: "Paris 18"
 coordinates:
   latitude: 48.8925
   longitude: 2.3444
+  zoom: 12
 ---

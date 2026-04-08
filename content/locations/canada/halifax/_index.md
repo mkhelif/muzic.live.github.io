@@ -5,4 +5,5 @@ title: "Halifax"
 coordinates:
   latitude: 44.6488
   longitude: -63.5752
+  zoom: 12
 ---

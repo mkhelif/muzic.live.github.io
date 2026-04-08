@@ -5,4 +5,5 @@ title: "Tsuut Ina"
 coordinates:
   latitude: 50.9239
   longitude: -114.2067
+  zoom: 14
 ---

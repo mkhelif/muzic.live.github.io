@@ -4,6 +4,10 @@ locationId: "4d5b542b-7531-4c98-9d36-fdddf0aea712"
 title: "Birchmere"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.840033
+  longitude: -77.06143
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

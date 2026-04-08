@@ -5,4 +5,5 @@ title: "Torino"
 coordinates:
   latitude: 45.0703
   longitude: 7.6869
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Porto Alegre"
 coordinates:
   latitude: -30.0346
   longitude: -51.2177
+  zoom: 12
 ---

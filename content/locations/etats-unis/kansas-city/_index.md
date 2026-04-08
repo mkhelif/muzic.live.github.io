@@ -5,4 +5,5 @@ title: "Kansas City"
 coordinates:
   latitude: 39.0997
   longitude: -94.5786
+  zoom: 12
 ---

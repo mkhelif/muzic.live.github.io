@@ -5,4 +5,5 @@ title: "Istanbul"
 coordinates:
   latitude: 41.0082
   longitude: 28.9784
+  zoom: 11
 ---

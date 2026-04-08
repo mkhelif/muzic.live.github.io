@@ -5,4 +5,5 @@ title: "Dubendorf"
 coordinates:
   latitude: 47.3969
   longitude: 8.6181
+  zoom: 12
 ---

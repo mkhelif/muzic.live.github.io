@@ -5,4 +5,5 @@ title: "Missoula"
 coordinates:
   latitude: 46.8721
   longitude: -114.0001
+  zoom: 12
 ---

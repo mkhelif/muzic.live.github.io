@@ -5,4 +5,5 @@ title: "Co Kerry"
 coordinates:
   latitude: 52.059
   longitude: -9.5066
+  zoom: 14
 ---

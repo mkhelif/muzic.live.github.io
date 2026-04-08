@@ -5,4 +5,5 @@ title: "Partille"
 coordinates:
   latitude: 57.7397
   longitude: 12.1064
+  zoom: 12
 ---

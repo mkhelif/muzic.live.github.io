@@ -5,4 +5,5 @@ title: "Plymouth"
 coordinates:
   latitude: 50.3755
   longitude: -4.1427
+  zoom: 12
 ---

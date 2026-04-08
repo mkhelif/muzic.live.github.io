@@ -5,4 +5,5 @@ title: "Givry"
 coordinates:
   latitude: 46.7833
   longitude: 4.75
+  zoom: 14
 ---

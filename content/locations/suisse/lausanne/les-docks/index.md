@@ -7,6 +7,7 @@ address: "Avenue de Sévelin 34, 1004 Lausanne, Suisse"
 coordinates:
   latitude: 46.522434
   longitude: 6.619295
+  zoom: 17
 socials:
   facebook: "dockslausanne"
   instagram: "lesdocks_lausanne"

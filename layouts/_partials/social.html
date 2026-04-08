@@ -45,4 +45,9 @@
         <a class="me-2 align-middle" href="https://soundcloud.com/{{ .Params.socials.soundcloud }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-soundcloud"></i></a>
     {{ end }}
     <!-- TODO Songkick / Bandsintown -->
+
+
+    {{ with .Params.coordinates }}
+        <a class="me-2 align-middle" href="https://www.google.com/maps/place/{{ .latitude }},{{ .longitude }}" target="_blank" rel="noreferrer noopener"><i class="fa fa-location-dot"></i></a>
+    {{ end }}
 </p>

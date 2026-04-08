@@ -5,4 +5,5 @@ title: "Shakopee"
 coordinates:
   latitude: 44.7974
   longitude: -93.5272
+  zoom: 12
 ---

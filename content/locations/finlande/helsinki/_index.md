@@ -5,4 +5,5 @@ title: "Helsinki"
 coordinates:
   latitude: 60.1699
   longitude: 24.9384
+  zoom: 11
 ---

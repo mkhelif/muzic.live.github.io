@@ -4,6 +4,10 @@ locationId: "8b407a63-de16-482f-a435-6e4b54ce7d5a"
 title: "Hartford Healthcare Amphitheater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.179269
+  longitude: -73.188786
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

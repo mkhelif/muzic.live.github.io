@@ -5,4 +5,5 @@ title: "Luxembourg"
 coordinates:
   latitude: 49.6117
   longitude: 6.13
+  zoom: 13
 ---

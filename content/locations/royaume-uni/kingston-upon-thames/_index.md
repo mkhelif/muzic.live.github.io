@@ -5,4 +5,5 @@ title: "Kingston Upon Thames"
 coordinates:
   latitude: 51.4085
   longitude: -0.3064
+  zoom: 12
 ---

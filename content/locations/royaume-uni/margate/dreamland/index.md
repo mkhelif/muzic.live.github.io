@@ -4,6 +4,10 @@ locationId: "dd361a07-7d6f-4abd-9ffd-02e4b0ba6016"
 title: "Dreamland"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.385159
+  longitude: 1.37724
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

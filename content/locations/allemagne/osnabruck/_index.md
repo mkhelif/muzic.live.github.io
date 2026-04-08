@@ -5,4 +5,5 @@ title: "Osnabruck"
 coordinates:
   latitude: 52.2799
   longitude: 8.0472
+  zoom: 12
 ---

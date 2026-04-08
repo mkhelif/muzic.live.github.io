@@ -4,6 +4,10 @@ locationId: "80facefd-d323-494d-96b7-bcebac4f7378"
 title: "Festi'Zac"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.958226
+  longitude: 1.401928
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

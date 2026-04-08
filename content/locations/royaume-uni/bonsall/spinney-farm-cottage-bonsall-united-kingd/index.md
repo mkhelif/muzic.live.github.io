@@ -4,6 +4,10 @@ locationId: "b0edb0cf-6dba-4efa-980d-937a8807bb2d"
 title: "Spinney Farm Cottage - Bonsall, United Kingd"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.121417
+  longitude: -1.584825
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

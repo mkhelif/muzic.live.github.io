@@ -5,4 +5,5 @@ title: "Honolulu"
 coordinates:
   latitude: 21.3069
   longitude: -157.8583
+  zoom: 12
 ---

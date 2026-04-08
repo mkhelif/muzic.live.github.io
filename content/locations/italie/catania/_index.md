@@ -5,4 +5,5 @@ title: "Catania"
 coordinates:
   latitude: 37.5079
   longitude: 15.083
+  zoom: 12
 ---

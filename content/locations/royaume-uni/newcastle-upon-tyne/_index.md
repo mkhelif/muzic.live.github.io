@@ -5,4 +5,5 @@ title: "Newcastle upon Tyne"
 coordinates:
   latitude: 54.9783
   longitude: -1.6178
+  zoom: 12
 ---

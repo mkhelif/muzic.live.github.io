@@ -4,6 +4,10 @@ locationId: "06df0080-3850-4028-9276-3bb4c29239bd"
 title: "St. Augustine Amphitheatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 29.875513
+  longitude: -81.282771
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

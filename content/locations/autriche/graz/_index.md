@@ -5,4 +5,5 @@ title: "Graz"
 coordinates:
   latitude: 47.0707
   longitude: 15.4395
+  zoom: 12
 ---

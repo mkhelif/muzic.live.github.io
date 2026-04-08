@@ -5,4 +5,5 @@ title: "Empoli"
 coordinates:
   latitude: 43.7194
   longitude: 10.9475
+  zoom: 12
 ---

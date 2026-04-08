@@ -5,4 +5,5 @@ title: "Cervia"
 coordinates:
   latitude: 44.2619
   longitude: 12.3506
+  zoom: 12
 ---

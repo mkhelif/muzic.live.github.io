@@ -4,6 +4,10 @@ locationId: "9925df85-c3f9-40ad-8f13-4933a2e0a312"
 title: "Union Stage"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.87874
+  longitude: -77.024101
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

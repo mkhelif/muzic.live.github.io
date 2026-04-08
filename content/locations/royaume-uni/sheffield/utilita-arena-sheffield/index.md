@@ -4,6 +4,10 @@ locationId: "0dc5404e-4160-4215-b55f-7d119587926a"
 title: "Utilita Arena Sheffield"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.399899
+  longitude: -1.418818
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

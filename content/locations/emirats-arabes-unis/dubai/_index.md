@@ -5,4 +5,5 @@ title: "Dubai"
 coordinates:
   latitude: 25.2048
   longitude: 55.2708
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Wellington"
 coordinates:
   latitude: -41.2865
   longitude: 174.7762
+  zoom: 12
 ---

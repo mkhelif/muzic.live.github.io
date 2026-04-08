@@ -4,6 +4,10 @@ locationId: "878c87ce-db86-4fae-844b-8ae314d2ffc4"
 title: "Theatre Simone Signoret A Conflans"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.993879
+  longitude: 2.094977
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

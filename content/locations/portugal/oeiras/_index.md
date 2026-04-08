@@ -5,4 +5,5 @@ title: "Oeiras"
 coordinates:
   latitude: 38.6913
   longitude: -9.3147
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Provincia Di Cosenza"
 coordinates:
   latitude: 39.3
   longitude: 16.25
+  zoom: 12
 ---

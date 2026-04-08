@@ -4,6 +4,10 @@ locationId: "ab74de79-74fd-4bf4-8488-4699d1b9f387"
 title: "Cafe Calluna"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.535337
+  longitude: 6.356144
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

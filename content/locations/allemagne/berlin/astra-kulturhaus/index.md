@@ -4,6 +4,10 @@ locationId: "be97bc43-409d-4967-94d0-a5832a2a2262"
 title: "Astra Kulturhaus"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.507383
+  longitude: 13.451895
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

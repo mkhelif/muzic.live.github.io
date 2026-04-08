@@ -5,4 +5,5 @@ title: "Adelaide"
 coordinates:
   latitude: -34.9285
   longitude: 138.6007
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Santiago"
 coordinates:
   latitude: -33.4489
   longitude: -70.6693
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "26c5ebdd-95f2-482b-9f48-4b9d01debdf4"
 title: "Blue Note Los Angeles"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 34.053691
+  longitude: -118.242766
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

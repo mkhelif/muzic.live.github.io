@@ -4,6 +4,10 @@ locationId: "b99a0072-7c3b-4fdc-9696-45204887917a"
 title: "Messehalle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.977797
+  longitude: 11.028736
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "59d52c9d-f967-4bd9-a1e8-f8023cf67ab0"
 title: "Lindbergh Club"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.052647
+  longitude: 4.495438
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Crans-près-Céligny"
 coordinates:
   latitude: 46.3833
   longitude: 6.1833
+  zoom: 14
 ---

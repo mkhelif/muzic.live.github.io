@@ -4,6 +4,10 @@ locationId: "b095bd97-e8dd-4b17-8e16-3bef0986f37f"
 title: "Greek Theatre-U.C. Berkeley"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.870839
+  longitude: -122.272863
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

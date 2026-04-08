@@ -4,6 +4,10 @@ locationId: "8a6f9e08-b4e2-4713-be74-f668f6f4daee"
 title: "Liseberg"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 57.694517
+  longitude: 11.993695
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Nancy"
 coordinates:
   latitude: 48.6921
   longitude: 6.1844
+  zoom: 12
 ---

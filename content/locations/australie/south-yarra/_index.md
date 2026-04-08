@@ -5,4 +5,5 @@ title: "South Yarra"
 coordinates:
   latitude: -37.8384
   longitude: 144.9911
+  zoom: 12
 ---

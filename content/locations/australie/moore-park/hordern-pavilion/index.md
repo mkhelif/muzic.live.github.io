@@ -4,6 +4,10 @@ locationId: "9591dc56-f3ad-4a0d-8b40-a98b8cbba2aa"
 title: "Hordern Pavilion"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -33.894058
+  longitude: 151.224243
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

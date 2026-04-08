@@ -5,4 +5,5 @@ title: "Aix-en-Provence"
 coordinates:
   latitude: 43.5297
   longitude: 5.4474
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Germantown"
 coordinates:
   latitude: 35.0868
   longitude: -89.81
+  zoom: 12
 ---

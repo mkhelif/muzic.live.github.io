@@ -5,4 +5,5 @@ title: "Sanem"
 coordinates:
   latitude: 49.5489
   longitude: 5.9289
+  zoom: 12
 ---

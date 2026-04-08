@@ -5,4 +5,5 @@ title: "Blainville Crevon"
 coordinates:
   latitude: 49.5219
   longitude: 1.225
+  zoom: 14
 ---

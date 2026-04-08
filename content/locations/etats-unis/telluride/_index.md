@@ -5,4 +5,5 @@ title: "Telluride"
 coordinates:
   latitude: 37.9375
   longitude: -107.8123
+  zoom: 14
 ---

@@ -5,4 +5,5 @@ title: "Büren"
 coordinates:
   latitude: 51.55
   longitude: 8.5667
+  zoom: 14
 ---

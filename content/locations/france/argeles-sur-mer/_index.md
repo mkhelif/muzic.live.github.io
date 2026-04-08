@@ -5,4 +5,5 @@ title: "Argeles Sur Mer"
 coordinates:
   latitude: 42.5461
   longitude: 3.0239
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Saint Michel"
 coordinates:
   latitude: 45.65
   longitude: 4.8167
+  zoom: 12
 ---

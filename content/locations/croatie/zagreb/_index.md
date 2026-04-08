@@ -5,4 +5,5 @@ title: "Zagreb"
 coordinates:
   latitude: 45.815
   longitude: 15.9819
+  zoom: 14
 ---

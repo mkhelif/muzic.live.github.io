@@ -4,6 +4,10 @@ locationId: "f7fbeab9-5927-4845-8732-42ea88e3a20b"
 title: "7Th St Entry"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.978441
+  longitude: -93.275817
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

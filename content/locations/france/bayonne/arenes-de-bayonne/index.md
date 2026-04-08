@@ -4,6 +4,10 @@ locationId: "aa3884dd-0f60-410f-adea-17d456985f3b"
 title: "Arenes De Bayonne"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.494915
+  longitude: -1.488768
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

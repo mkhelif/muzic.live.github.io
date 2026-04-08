@@ -5,4 +5,5 @@ title: "Tyagarah"
 coordinates:
   latitude: -28.5856
   longitude: 153.5311
+  zoom: 14
 ---

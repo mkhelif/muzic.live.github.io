@@ -5,4 +5,5 @@ title: "Nantes"
 coordinates:
   latitude: 47.2184
   longitude: -1.5536
+  zoom: 12
 ---

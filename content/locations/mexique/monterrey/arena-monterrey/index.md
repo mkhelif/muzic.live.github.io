@@ -4,6 +4,10 @@ locationId: "6aa4872d-57d6-4a46-a314-528fd9d1c897"
 title: "Arena Monterrey"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 25.680901
+  longitude: -100.288245
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "St Polten"
 coordinates:
   latitude: 48.2058
   longitude: 15.6222
+  zoom: 12
 ---

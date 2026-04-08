@@ -4,6 +4,10 @@ locationId: "b0e0816c-c173-4110-bbd3-50e5bebbb4d8"
 title: "Carlos Gomes Theater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -26.918521
+  longitude: -49.067994
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

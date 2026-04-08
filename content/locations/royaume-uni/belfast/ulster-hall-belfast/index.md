@@ -4,6 +4,10 @@ locationId: "bedb4481-3f28-4bde-9670-4faa86eb2ea7"
 title: "Ulster Hall Belfast"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 54.594618
+  longitude: -5.930517
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

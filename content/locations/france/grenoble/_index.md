@@ -5,4 +5,5 @@ title: "Grenoble"
 coordinates:
   latitude: 45.1885
   longitude: 5.7245
+  zoom: 12
 ---

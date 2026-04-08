@@ -4,6 +4,10 @@ locationId: "6aca9188-5556-471d-a336-1b221e609736"
 title: "Docks Hamburg"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.549262
+  longitude: 9.964552
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

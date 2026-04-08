@@ -5,4 +5,5 @@ title: "Melbourne"
 coordinates:
   latitude: -37.8136
   longitude: 144.9631
+  zoom: 11
 ---

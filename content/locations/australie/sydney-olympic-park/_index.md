@@ -5,4 +5,5 @@ title: "Sydney Olympic Park"
 coordinates:
   latitude: -33.8468
   longitude: 151.0694
+  zoom: 12
 ---

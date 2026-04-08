@@ -5,4 +5,5 @@ title: "Seattle"
 coordinates:
   latitude: 47.6062
   longitude: -122.3321
+  zoom: 11
 ---

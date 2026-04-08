@@ -4,6 +4,10 @@ locationId: "7c0f435e-b038-4d48-9f8a-87903ae68ad5"
 title: "Arkéa Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.824772
+  longitude: -0.531365
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Coteaux Du Lizon"
 coordinates:
   latitude: 46.3833
   longitude: 5.8333
+  zoom: 14
 ---

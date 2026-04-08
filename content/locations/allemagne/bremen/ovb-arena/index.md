@@ -4,6 +4,10 @@ locationId: "097a5bd2-3981-42e7-beb6-3f68bd298aaa"
 title: "Övb-Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.08669
+  longitude: 8.816865
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

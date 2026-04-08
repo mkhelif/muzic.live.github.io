@@ -4,6 +4,10 @@ locationId: "007eb1b6-216b-46ce-95d0-e57a6e6bbf6c"
 title: "Channel 24"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.566234
+  longitude: -121.478939
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

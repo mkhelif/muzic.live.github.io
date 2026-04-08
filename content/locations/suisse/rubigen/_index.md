@@ -5,4 +5,5 @@ title: "Rubigen"
 coordinates:
   latitude: 46.8917
   longitude: 7.55
+  zoom: 14
 ---

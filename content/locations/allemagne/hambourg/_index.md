@@ -5,4 +5,5 @@ title: "Hambourg"
 coordinates:
   latitude: 53.5511
   longitude: 9.9937
+  zoom: 12
 ---

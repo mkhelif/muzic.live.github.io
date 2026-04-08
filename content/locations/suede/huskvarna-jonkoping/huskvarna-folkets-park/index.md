@@ -4,6 +4,10 @@ locationId: "c5dcdefb-523c-4ec6-b6f2-77a2a05d675a"
 title: "Huskvarna Folkets Park"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 57.784345
+  longitude: 14.263676
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

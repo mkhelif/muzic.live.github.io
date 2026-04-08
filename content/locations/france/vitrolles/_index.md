@@ -5,4 +5,5 @@ title: "Vitrolles"
 coordinates:
   latitude: 43.4608
   longitude: 5.2478
+  zoom: 12
 ---

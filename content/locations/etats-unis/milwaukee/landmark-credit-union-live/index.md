@@ -4,6 +4,10 @@ locationId: "50207598-de3a-4ed2-a8ec-9976cd5b83c3"
 title: "Landmark Credit Union Live"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.043889
+  longitude: -87.916838
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

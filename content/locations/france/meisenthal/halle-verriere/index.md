@@ -4,6 +4,10 @@ locationId: "009c08a5-4b40-4946-a768-7825fac3b31b"
 title: "Halle Verrière"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.965691
+  longitude: 7.353378
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

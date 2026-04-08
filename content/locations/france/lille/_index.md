@@ -5,4 +5,5 @@ title: "Lille"
 coordinates:
   latitude: 50.6292
   longitude: 3.0573
+  zoom: 12
 ---

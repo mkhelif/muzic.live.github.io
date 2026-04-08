@@ -4,6 +4,10 @@ locationId: "b701f14e-2cc5-4141-a18d-12e81b8d8b8b"
 title: "Ulmer Zelt"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.413365
+  longitude: 10.015303
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

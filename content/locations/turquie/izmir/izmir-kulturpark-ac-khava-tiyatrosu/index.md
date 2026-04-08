@@ -4,6 +4,10 @@ locationId: "14db9f5c-0c26-4452-b230-9b579a83b358"
 title: "İzmir Kültürpark Açıkhava Tiyatrosu"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.419254
+  longitude: 27.128469
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Richmond"
 coordinates:
   latitude: 37.5407
   longitude: -77.436
+  zoom: 12
 ---

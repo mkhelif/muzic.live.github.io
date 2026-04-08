@@ -4,6 +4,10 @@ locationId: "b7003d41-7d03-4d19-99b2-959dc526bfe9"
 title: "Saint-Julien-en-Genevois"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.144479
+  longitude: 6.081247
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

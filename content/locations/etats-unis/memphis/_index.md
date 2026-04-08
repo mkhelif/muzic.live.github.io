@@ -5,4 +5,5 @@ title: "Memphis"
 coordinates:
   latitude: 35.1495
   longitude: -90.049
+  zoom: 12
 ---

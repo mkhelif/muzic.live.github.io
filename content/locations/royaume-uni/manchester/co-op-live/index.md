@@ -4,6 +4,10 @@ locationId: "0c8747fd-4b89-4805-a0a3-f361d9a7a48c"
 title: "Co-op Live"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.486407
+  longitude: -2.2
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

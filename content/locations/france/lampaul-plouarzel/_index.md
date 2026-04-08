@@ -5,4 +5,5 @@ title: "Lampaul Plouarzel"
 coordinates:
   latitude: 48.4497
   longitude: -4.7628
+  zoom: 14
 ---

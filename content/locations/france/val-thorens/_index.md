@@ -5,4 +5,5 @@ title: "Val Thorens"
 coordinates:
   latitude: 45.2978
   longitude: 6.58
+  zoom: 14
 ---

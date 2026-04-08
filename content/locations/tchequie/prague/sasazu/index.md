@@ -4,6 +4,10 @@ locationId: "3ec94a58-a1ee-4610-a244-454e40d2ca4e"
 title: "Sasazu"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.099227
+  longitude: 14.445092
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

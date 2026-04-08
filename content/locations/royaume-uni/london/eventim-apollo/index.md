@@ -4,6 +4,10 @@ locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "Eventim Apollo"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.490747
+  longitude: -0.224452
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

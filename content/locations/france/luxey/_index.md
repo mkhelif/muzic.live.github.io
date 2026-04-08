@@ -5,4 +5,5 @@ title: "Luxey"
 coordinates:
   latitude: 44.2289
   longitude: -0.5031
+  zoom: 14
 ---

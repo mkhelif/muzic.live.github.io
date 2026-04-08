@@ -5,4 +5,5 @@ title: "Spa"
 coordinates:
   latitude: 50.4875
   longitude: 5.8611
+  zoom: 12
 ---

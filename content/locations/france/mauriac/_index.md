@@ -5,4 +5,5 @@ title: "Mauriac"
 coordinates:
   latitude: 45.2189
   longitude: 2.33
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Cleveland"
 coordinates:
   latitude: 41.4993
   longitude: -81.6944
+  zoom: 12
 ---

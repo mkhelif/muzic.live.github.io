@@ -4,6 +4,10 @@ locationId: "35fb221d-2fa6-43f4-9f33-f0589f61acb1"
 title: "Bethel Woods Center For The Arts"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.695651
+  longitude: -74.876868
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

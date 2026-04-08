@@ -5,4 +5,5 @@ title: "Northeim"
 coordinates:
   latitude: 51.7069
   longitude: 9.9994
+  zoom: 14
 ---

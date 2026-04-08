@@ -5,4 +5,5 @@ title: "Wacken"
 coordinates:
   latitude: 54.025
   longitude: 9.35
+  zoom: 14
 ---

@@ -5,4 +5,5 @@ title: "Landstuhl"
 coordinates:
   latitude: 49.4119
   longitude: 7.5714
+  zoom: 14
 ---

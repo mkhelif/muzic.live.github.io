@@ -5,4 +5,5 @@ title: "Nort Sur Erdre"
 coordinates:
   latitude: 47.4389
   longitude: -1.4986
+  zoom: 14
 ---

@@ -5,4 +5,5 @@ title: "Southampton"
 coordinates:
   latitude: 50.9097
   longitude: -1.4044
+  zoom: 12
 ---

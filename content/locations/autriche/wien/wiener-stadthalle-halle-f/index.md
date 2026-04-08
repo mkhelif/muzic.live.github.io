@@ -4,6 +4,10 @@ locationId: "324b1ac4-bd03-467a-808d-0918ff49a461"
 title: "Wiener Stadthalle - Halle F"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.201514
+  longitude: 16.333549
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

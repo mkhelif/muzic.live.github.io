@@ -5,4 +5,5 @@ title: "Grassina"
 coordinates:
   latitude: 43.7256
   longitude: 11.2878
+  zoom: 14
 ---

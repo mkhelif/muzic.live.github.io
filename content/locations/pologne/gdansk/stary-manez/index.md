@@ -4,6 +4,10 @@ locationId: "8f385178-98dc-4f19-9ca8-7b2c090a53a2"
 title: "Stary Maneż"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 54.380678
+  longitude: 18.588916
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

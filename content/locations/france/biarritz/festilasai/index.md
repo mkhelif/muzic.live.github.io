@@ -4,6 +4,10 @@ locationId: "894f7fc6-cf12-4e64-a0bc-07ba2bd7ad3a"
 title: "Festilasai"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.483252
+  longitude: -1.559278
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

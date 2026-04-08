@@ -5,4 +5,5 @@ title: "Albany"
 coordinates:
   latitude: 42.6526
   longitude: -73.7562
+  zoom: 12
 ---

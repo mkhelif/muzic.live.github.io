@@ -5,4 +5,5 @@ title: "Braine Le Comte"
 coordinates:
   latitude: 50.6094
   longitude: 4.1361
+  zoom: 12
 ---

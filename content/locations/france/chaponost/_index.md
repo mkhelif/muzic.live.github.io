@@ -5,4 +5,5 @@ title: "Chaponost"
 coordinates:
   latitude: 45.7117
   longitude: 4.7433
+  zoom: 14
 ---

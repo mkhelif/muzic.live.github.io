@@ -4,6 +4,10 @@ locationId: "3c170237-261b-4f24-bbaa-ebe0b1650e98"
 title: "Dolní Vítkovice"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.81834
+  longitude: 18.276031
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

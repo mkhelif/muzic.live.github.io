@@ -5,4 +5,5 @@ title: "Balma"
 coordinates:
   latitude: 43.6108
   longitude: 1.4997
+  zoom: 12
 ---

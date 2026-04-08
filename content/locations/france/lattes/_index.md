@@ -5,4 +5,5 @@ title: "Lattes"
 coordinates:
   latitude: 43.5672
   longitude: 3.9008
+  zoom: 12
 ---

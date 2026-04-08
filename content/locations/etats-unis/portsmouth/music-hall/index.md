@@ -4,6 +4,10 @@ locationId: "d8e401aa-7ce3-4f71-862d-1bd0474dd3f4"
 title: "Music Hall"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.075745
+  longitude: -70.759659
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

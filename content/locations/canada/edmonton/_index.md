@@ -5,4 +5,5 @@ title: "Edmonton"
 coordinates:
   latitude: 53.5461
   longitude: -113.4938
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "2a4f84f2-acf5-4cd2-94a5-976b26f40a6e"
 title: "Sala Totem Aretoa"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.834653
+  longitude: -1.615077
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

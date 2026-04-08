@@ -5,4 +5,5 @@ title: "Coburg"
 coordinates:
   latitude: 50.2612
   longitude: 10.9628
+  zoom: 12
 ---

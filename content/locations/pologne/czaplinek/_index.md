@@ -5,4 +5,5 @@ title: "Czaplinek"
 coordinates:
   latitude: 53.5597
   longitude: 16.23
+  zoom: 14
 ---

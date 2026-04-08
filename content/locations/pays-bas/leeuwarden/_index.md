@@ -5,4 +5,5 @@ title: "Leeuwarden"
 coordinates:
   latitude: 53.2012
   longitude: 5.7999
+  zoom: 12
 ---

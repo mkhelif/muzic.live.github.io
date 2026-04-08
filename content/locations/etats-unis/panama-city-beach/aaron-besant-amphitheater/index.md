@@ -4,6 +4,10 @@ locationId: "fd7a995a-411c-4536-9ea7-c4b210c8b9e3"
 title: "Aaron Besant Amphitheater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 30.220277
+  longitude: -85.87662
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

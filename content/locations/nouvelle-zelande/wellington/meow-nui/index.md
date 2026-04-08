@@ -4,6 +4,10 @@ locationId: "4562663d-0a28-4059-8323-8793a7731215"
 title: "Meow Nui"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -41.295495
+  longitude: 174.777974
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

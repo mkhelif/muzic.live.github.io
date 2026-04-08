@@ -5,4 +5,5 @@ title: "Saint-Julien-en-Genevois"
 coordinates:
   latitude: 46.1433
   longitude: 6.0833
+  zoom: 12
 ---

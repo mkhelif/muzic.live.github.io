@@ -4,6 +4,10 @@ locationId: "102a745b-e967-40e5-9f1c-6cd0cc073604"
 title: "Pumpehuset"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 55.677262
+  longitude: 12.564445
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

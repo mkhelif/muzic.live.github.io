@@ -5,4 +5,5 @@ title: "Burswood"
 coordinates:
   latitude: -31.9589
   longitude: 115.8974
+  zoom: 12
 ---

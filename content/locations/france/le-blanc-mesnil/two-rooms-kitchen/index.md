@@ -4,6 +4,10 @@ locationId: "cbbc3ea9-0d52-4a7f-abaa-3c461139c25a"
 title: "Two Rooms Kitchen"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.938549
+  longitude: 2.463148
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

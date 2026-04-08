@@ -4,6 +4,10 @@ locationId: "da9b1712-bdbe-442c-b383-64df9abccf77"
 title: "La Carriere"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.210735
+  longitude: -1.634178
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

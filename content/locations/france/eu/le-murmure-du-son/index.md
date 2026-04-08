@@ -4,6 +4,10 @@ locationId: "0b81df82-9904-48f9-be4c-353e21c9ef1b"
 title: "Le Murmure Du Son"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.04917
+  longitude: 1.417574
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

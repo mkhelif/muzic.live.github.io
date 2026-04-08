@@ -5,4 +5,5 @@ title: "Oulu"
 coordinates:
   latitude: 65.0121
   longitude: 25.4651
+  zoom: 12
 ---

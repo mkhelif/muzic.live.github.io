@@ -4,6 +4,10 @@ locationId: "bfed2640-b549-4ab8-bab9-4c1ab5d7608f"
 title: "Cooper Park"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 57.652246
+  longitude: -3.310471
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

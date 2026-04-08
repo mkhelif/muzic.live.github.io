@@ -4,6 +4,10 @@ locationId: "877bc261-a977-45f9-8424-51284fb4e66d"
 title: "Grand Sierra Resort And Casino"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.526179
+  longitude: -119.812658
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

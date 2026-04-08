@@ -4,6 +4,10 @@ locationId: "6aca9188-5556-471d-a336-1b221e609736"
 title: "Inselparkhalle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.550172
+  longitude: 10.001316
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

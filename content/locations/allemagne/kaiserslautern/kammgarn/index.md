@@ -4,6 +4,10 @@ locationId: "f200ab62-4628-49b8-8226-279de18685ca"
 title: "Kammgarn"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.447572
+  longitude: 7.754989
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

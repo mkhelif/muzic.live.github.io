@@ -4,6 +4,10 @@ locationId: "4868fe50-b583-4c12-9bb1-194b21724003"
 title: "Casino 2000"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.507931
+  longitude: 6.279112
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

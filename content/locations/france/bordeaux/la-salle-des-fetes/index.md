@@ -4,6 +4,10 @@ locationId: "7c0f435e-b038-4d48-9f8a-87903ae68ad5"
 title: "La Salle Des Fetes"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.835877
+  longitude: -0.619956
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

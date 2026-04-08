@@ -5,4 +5,5 @@ title: "North Adams"
 coordinates:
   latitude: 42.7006
   longitude: -73.1087
+  zoom: 12
 ---

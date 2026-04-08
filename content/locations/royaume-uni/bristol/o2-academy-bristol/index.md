@@ -4,6 +4,10 @@ locationId: "73012c37-557e-4813-8fd4-4b8516846a87"
 title: "O2 Academy Bristol"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.454596
+  longitude: -2.600396
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

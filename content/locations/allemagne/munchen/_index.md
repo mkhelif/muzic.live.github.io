@@ -5,4 +5,5 @@ title: "München"
 coordinates:
   latitude: 48.1351
   longitude: 11.582
+  zoom: 11
 ---

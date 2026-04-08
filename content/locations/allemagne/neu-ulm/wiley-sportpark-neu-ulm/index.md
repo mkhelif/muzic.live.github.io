@@ -4,6 +4,10 @@ locationId: "7b3913a8-6fed-4368-8002-aaa969b0261a"
 title: "Wiley Sportpark Neu-Ulm"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.382179
+  longitude: 10.010478
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

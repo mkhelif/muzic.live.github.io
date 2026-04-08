@@ -5,4 +5,5 @@ title: "Minato City"
 coordinates:
   latitude: 35.6581
   longitude: 139.7514
+  zoom: 12
 ---

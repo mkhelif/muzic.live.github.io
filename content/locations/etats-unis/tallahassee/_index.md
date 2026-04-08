@@ -5,4 +5,5 @@ title: "Tallahassee"
 coordinates:
   latitude: 30.4383
   longitude: -84.2807
+  zoom: 12
 ---

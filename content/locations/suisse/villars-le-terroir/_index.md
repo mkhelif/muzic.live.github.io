@@ -5,4 +5,5 @@ title: "Villars Le Terroir"
 coordinates:
   latitude: 46.6667
   longitude: 6.5667
+  zoom: 14
 ---

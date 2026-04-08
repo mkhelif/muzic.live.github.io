@@ -5,4 +5,5 @@ title: "La Seyne Sur Mer"
 coordinates:
   latitude: 43.1004
   longitude: 5.8781
+  zoom: 12
 ---

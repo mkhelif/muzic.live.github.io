@@ -5,4 +5,5 @@ title: "Auckland"
 coordinates:
   latitude: -36.8485
   longitude: 174.7633
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Bremen"
 coordinates:
   latitude: 53.0793
   longitude: 8.8017
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "003c0433-0950-4c1f-b494-eac071cf416a"
 title: "Velodrome D'Arcachon"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.655194
+  longitude: -1.157111
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

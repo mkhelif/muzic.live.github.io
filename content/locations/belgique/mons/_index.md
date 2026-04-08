@@ -5,4 +5,5 @@ title: "Mons"
 coordinates:
   latitude: 50.4542
   longitude: 3.9567
+  zoom: 12
 ---

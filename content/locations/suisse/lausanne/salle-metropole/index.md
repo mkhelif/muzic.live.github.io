@@ -4,6 +4,10 @@ locationId: "675b6a08-55bc-4cc7-92b8-e235888b8925"
 title: "Salle Métropole"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.522213
+  longitude: 6.628781
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

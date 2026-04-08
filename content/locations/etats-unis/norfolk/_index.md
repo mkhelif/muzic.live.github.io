@@ -5,4 +5,5 @@ title: "Norfolk"
 coordinates:
   latitude: 36.8508
   longitude: -76.2859
+  zoom: 12
 ---

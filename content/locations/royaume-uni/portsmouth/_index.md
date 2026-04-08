@@ -5,4 +5,5 @@ title: "Portsmouth"
 coordinates:
   latitude: 50.8198
   longitude: -1.088
+  zoom: 12
 ---

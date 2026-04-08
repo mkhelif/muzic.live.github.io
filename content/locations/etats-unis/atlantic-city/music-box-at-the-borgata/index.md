@@ -4,6 +4,10 @@ locationId: "c680f658-b802-4a15-983e-b210b47dac38"
 title: "Music Box At The Borgata"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.364285
+  longitude: -74.422935
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

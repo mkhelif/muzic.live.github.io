@@ -5,4 +5,5 @@ title: "Creutzwald"
 coordinates:
   latitude: 49.2047
   longitude: 6.6956
+  zoom: 12
 ---

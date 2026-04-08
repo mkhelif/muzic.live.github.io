@@ -5,4 +5,5 @@ title: "Terville"
 coordinates:
   latitude: 49.35
   longitude: 6.1333
+  zoom: 12
 ---

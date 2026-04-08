@@ -4,6 +4,10 @@ locationId: "4c02ea45-b8ec-415a-a537-7cc13deb1666"
 title: "State Farm Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.75737
+  longitude: -84.396385
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

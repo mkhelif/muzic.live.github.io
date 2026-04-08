@@ -5,4 +5,5 @@ title: "Phoenix"
 coordinates:
   latitude: 33.4484
   longitude: -112.074
+  zoom: 11
 ---

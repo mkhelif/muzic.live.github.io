@@ -5,4 +5,5 @@ title: "Sisli"
 coordinates:
   latitude: 41.06
   longitude: 28.9872
+  zoom: 12
 ---

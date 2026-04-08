@@ -4,6 +4,10 @@ locationId: "8a323c03-63c9-45d2-8e99-14628dc371f0"
 title: "Blue Note Hawaii"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 21.27715
+  longitude: -157.827671
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

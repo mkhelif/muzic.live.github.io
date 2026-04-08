@@ -5,4 +5,5 @@ title: "Orléans"
 coordinates:
   latitude: 47.9029
   longitude: 1.9039
+  zoom: 12
 ---

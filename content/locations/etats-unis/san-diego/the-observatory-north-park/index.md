@@ -4,6 +4,10 @@ locationId: "a0101517-93f6-48de-b426-0750df5fee69"
 title: "The Observatory North Park"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 32.748013
+  longitude: -117.13128
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Cherbourg-en-Cotentin"
 coordinates:
   latitude: 49.6337
   longitude: -1.6222
+  zoom: 12
 ---

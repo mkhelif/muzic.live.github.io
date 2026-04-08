@@ -4,6 +4,10 @@ locationId: "c255e0e9-f04f-4108-8619-254897edd6ef"
 title: "L'Oasis"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.959775
+  longitude: 0.202296
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

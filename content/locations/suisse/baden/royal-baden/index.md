@@ -4,6 +4,10 @@ locationId: "a2822e10-349d-42f8-a215-485355be7482"
 title: "Royal Baden"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.478242
+  longitude: 8.308703
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

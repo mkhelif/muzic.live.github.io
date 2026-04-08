@@ -5,4 +5,5 @@ title: "Nantua"
 coordinates:
   latitude: 46.1533
   longitude: 5.6089
+  zoom: 14
 ---

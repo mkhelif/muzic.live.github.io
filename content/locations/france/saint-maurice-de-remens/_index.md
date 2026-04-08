@@ -5,4 +5,5 @@ title: "Saint Maurice De Remens"
 coordinates:
   latitude: 45.95
   longitude: 5.2833
+  zoom: 14
 ---

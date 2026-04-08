@@ -5,4 +5,5 @@ title: "Joliet"
 coordinates:
   latitude: 41.525
   longitude: -88.0817
+  zoom: 12
 ---

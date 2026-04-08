@@ -5,4 +5,5 @@ title: "Rasquert"
 coordinates:
   latitude: 53.3667
   longitude: 6.55
+  zoom: 14
 ---

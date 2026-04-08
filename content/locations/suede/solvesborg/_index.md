@@ -5,4 +5,5 @@ title: "Solvesborg"
 coordinates:
   latitude: 56.0539
   longitude: 14.5849
+  zoom: 14
 ---

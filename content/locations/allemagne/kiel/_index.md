@@ -5,4 +5,5 @@ title: "Kiel"
 coordinates:
   latitude: 54.3233
   longitude: 10.1228
+  zoom: 12
 ---

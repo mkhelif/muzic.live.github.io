@@ -4,6 +4,10 @@ locationId: "3b0f8ab9-db92-4a18-a681-bfcae40230b3"
 title: "Espace culturel Philippe Torreton"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.274522
+  longitude: 1.047637
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

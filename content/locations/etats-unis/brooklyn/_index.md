@@ -5,4 +5,5 @@ title: "Brooklyn"
 coordinates:
   latitude: 40.6782
   longitude: -73.9442
+  zoom: 12
 ---

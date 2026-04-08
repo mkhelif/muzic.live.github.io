@@ -5,4 +5,5 @@ title: "Arnhem"
 coordinates:
   latitude: 51.9851
   longitude: 5.8987
+  zoom: 12
 ---

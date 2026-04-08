@@ -4,6 +4,10 @@ locationId: "a773b01d-5be5-4d36-9964-1ca1b18753b9"
 title: "Harrah'S Cherokee Resort Event Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 31.839083
+  longitude: -95.179185
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

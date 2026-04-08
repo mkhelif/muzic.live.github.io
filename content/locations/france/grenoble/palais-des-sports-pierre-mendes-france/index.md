@@ -4,6 +4,10 @@ locationId: "f70d8251-8e4c-41cb-9d03-4afefcc243d8"
 title: "Palais Des Sports Pierre Mendès France"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.18756
+  longitude: 5.735782
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

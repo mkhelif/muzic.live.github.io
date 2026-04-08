@@ -5,4 +5,5 @@ title: "Milton Keynes"
 coordinates:
   latitude: 52.0406
   longitude: -0.7594
+  zoom: 12
 ---

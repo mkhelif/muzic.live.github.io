@@ -5,4 +5,5 @@ title: "Grimsby"
 coordinates:
   latitude: 53.5675
   longitude: -0.0805
+  zoom: 12
 ---

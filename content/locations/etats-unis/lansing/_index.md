@@ -5,4 +5,5 @@ title: "Lansing"
 coordinates:
   latitude: 42.7325
   longitude: -84.5555
+  zoom: 12
 ---

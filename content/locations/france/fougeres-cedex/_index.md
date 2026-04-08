@@ -5,4 +5,5 @@ title: "Fougeres Cedex"
 coordinates:
   latitude: 48.3506
   longitude: -1.2006
+  zoom: 12
 ---

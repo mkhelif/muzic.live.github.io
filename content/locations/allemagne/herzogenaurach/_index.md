@@ -5,4 +5,5 @@ title: "Herzogenaurach"
 coordinates:
   latitude: 49.5683
   longitude: 10.8856
+  zoom: 12
 ---

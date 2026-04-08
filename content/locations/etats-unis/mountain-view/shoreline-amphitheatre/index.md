@@ -4,6 +4,10 @@ locationId: "97eb8207-bbfa-40e4-ab72-78ba31691939"
 title: "Shoreline Amphitheatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.426862
+  longitude: -122.080607
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

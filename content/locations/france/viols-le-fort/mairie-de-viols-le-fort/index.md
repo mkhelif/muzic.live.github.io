@@ -4,6 +4,10 @@ locationId: "d90790f8-dc1b-45b4-990c-0490550bc66e"
 title: "Mairie De Viols Le Fort"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.742479
+  longitude: 3.704072
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

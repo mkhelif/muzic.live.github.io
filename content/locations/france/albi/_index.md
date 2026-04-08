@@ -5,4 +5,5 @@ title: "Albi"
 coordinates:
   latitude: 43.9283
   longitude: 2.1481
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "c656252f-5c05-4b93-8483-d4f116120eb5"
 title: "Forum Leverkusen Terrassensaal"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.032474
+  longitude: 6.988119
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

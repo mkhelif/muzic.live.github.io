@@ -5,4 +5,5 @@ title: "Santa Cruz"
 coordinates:
   latitude: 36.9741
   longitude: -122.0308
+  zoom: 12
 ---

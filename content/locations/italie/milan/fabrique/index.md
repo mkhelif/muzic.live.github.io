@@ -4,6 +4,10 @@ locationId: "6f1a6ec9-8ae9-4396-9a15-2e515041c099"
 title: "Fabrique"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.452124
+  longitude: 9.252277
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

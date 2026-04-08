@@ -4,6 +4,10 @@ locationId: "a88d7277-ce7a-4e4c-bf66-911c7f15e31a"
 title: "Bodenseestadion Konstanz"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.668115
+  longitude: 9.213384
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

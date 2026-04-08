@@ -4,6 +4,10 @@ locationId: "dfc99999-4112-47ce-915d-38f00ea0bc7a"
 title: "L'Usine"
 cover: "cover.jpg"
 address: "Place des Volontaires 4, 1204 Genève, Suisse"
+coordinates:
+  latitude: 46.203977
+  longitude: 6.136005
+  zoom: 17
 socials:
   facebook: "Usine.ch"
   instagram: "usinegeneve"

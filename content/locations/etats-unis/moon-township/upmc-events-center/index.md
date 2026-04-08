@@ -4,6 +4,10 @@ locationId: "4ea201c4-78d0-42f9-af0f-f6b5a1b8e4f5"
 title: "Upmc Events Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.520269
+  longitude: -80.214674
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

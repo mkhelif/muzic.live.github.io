@@ -5,4 +5,5 @@ title: "Calgary"
 coordinates:
   latitude: 51.0447
   longitude: -114.0719
+  zoom: 12
 ---

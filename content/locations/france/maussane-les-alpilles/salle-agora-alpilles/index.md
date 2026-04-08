@@ -4,6 +4,10 @@ locationId: "756c362a-61d9-4129-8802-72bdee7b1b05"
 title: "Salle Agora Alpilles"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.721045
+  longitude: 4.805511
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

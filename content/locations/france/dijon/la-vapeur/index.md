@@ -4,6 +4,10 @@ locationId: "0e9980b5-f28b-4378-8ca2-1721ef892c77"
 title: "La Vapeur"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.346345
+  longitude: 5.059437
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

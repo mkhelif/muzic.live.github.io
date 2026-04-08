@@ -5,4 +5,5 @@ title: "Santa Fe"
 coordinates:
   latitude: 35.687
   longitude: -105.9378
+  zoom: 12
 ---

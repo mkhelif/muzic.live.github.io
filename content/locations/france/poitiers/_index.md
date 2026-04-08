@@ -5,4 +5,5 @@ title: "Poitiers"
 coordinates:
   latitude: 46.5802
   longitude: 0.3404
+  zoom: 12
 ---

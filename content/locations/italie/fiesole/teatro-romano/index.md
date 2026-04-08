@@ -4,6 +4,10 @@ locationId: "a5d4333f-7dbf-4aad-967e-02eb986bf301"
 title: "Teatro Romano"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.807792
+  longitude: 11.293801
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

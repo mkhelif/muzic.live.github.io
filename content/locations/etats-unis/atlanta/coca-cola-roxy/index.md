@@ -4,6 +4,10 @@ locationId: "4c02ea45-b8ec-415a-a537-7cc13deb1666"
 title: "Coca-Cola Roxy"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.890412
+  longitude: -84.469826
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

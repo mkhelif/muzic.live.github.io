@@ -4,6 +4,10 @@ locationId: "e7210d43-c0cd-45eb-8334-0cecdb30ec0c"
 title: "Raiffeisen Halle im Gasometer"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.185022
+  longitude: 16.41931
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

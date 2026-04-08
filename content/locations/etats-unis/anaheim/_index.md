@@ -5,4 +5,5 @@ title: "Anaheim"
 coordinates:
   latitude: 33.8366
   longitude: -117.9143
+  zoom: 12
 ---

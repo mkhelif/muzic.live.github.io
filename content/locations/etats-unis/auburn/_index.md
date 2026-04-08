@@ -5,4 +5,5 @@ title: "Auburn"
 coordinates:
   latitude: 32.6099
   longitude: -85.4808
+  zoom: 12
 ---

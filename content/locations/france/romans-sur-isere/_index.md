@@ -5,4 +5,5 @@ title: "Romans Sur Isere"
 coordinates:
   latitude: 45.0444
   longitude: 5.05
+  zoom: 12
 ---

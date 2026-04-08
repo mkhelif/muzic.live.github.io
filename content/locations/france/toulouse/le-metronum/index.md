@@ -4,6 +4,10 @@ locationId: "fe8c469d-0d47-4061-b98f-0097f25b6339"
 title: "Le Metronum"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.641506
+  longitude: 1.450599
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

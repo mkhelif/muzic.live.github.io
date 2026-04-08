@@ -4,6 +4,10 @@ locationId: "975c8590-67ce-4906-be5b-89b25cacf2c7"
 title: "Live Club"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.598988
+  longitude: 9.516953
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

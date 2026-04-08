@@ -5,4 +5,5 @@ title: "Asbury Park"
 coordinates:
   latitude: 40.2204
   longitude: -74.0121
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "47178ee1-591c-43dc-8c8e-ce82482011d7"
 title: "La Puce A L'Oreille"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.887019
+  longitude: 3.115645
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

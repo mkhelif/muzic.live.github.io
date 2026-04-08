@@ -4,6 +4,10 @@ locationId: "76d86201-64ec-4d68-8993-47df1051c43e"
 title: "Greensboro Coliseum Complex"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 36.072635
+  longitude: -79.791975
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

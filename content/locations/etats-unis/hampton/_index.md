@@ -5,4 +5,5 @@ title: "Hampton"
 coordinates:
   latitude: 37.0299
   longitude: -76.3452
+  zoom: 12
 ---

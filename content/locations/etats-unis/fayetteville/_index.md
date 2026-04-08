@@ -5,4 +5,5 @@ title: "Fayetteville"
 coordinates:
   latitude: 36.0626
   longitude: -94.1574
+  zoom: 12
 ---

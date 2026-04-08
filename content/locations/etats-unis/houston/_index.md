@@ -5,4 +5,5 @@ title: "Houston"
 coordinates:
   latitude: 29.7604
   longitude: -95.3698
+  zoom: 11
 ---

@@ -4,6 +4,10 @@ locationId: "222f0ce2-bf0e-487f-80a1-a1badda97a76"
 title: "Catalina Bar & Grill"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 34.098003
+  longitude: -118.329523
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

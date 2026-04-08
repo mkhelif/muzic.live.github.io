@@ -5,4 +5,5 @@ title: "Aubiere"
 coordinates:
   latitude: 45.75
   longitude: 3.1
+  zoom: 12
 ---

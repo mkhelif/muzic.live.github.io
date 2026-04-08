@@ -4,6 +4,10 @@ locationId: "e7b65519-54c1-4645-b01a-fcf40a61d638"
 title: "Den Atelier"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.59877
+  longitude: 6.126154
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

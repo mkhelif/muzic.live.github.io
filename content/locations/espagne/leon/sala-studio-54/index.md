@@ -4,6 +4,10 @@ locationId: "5b817fdd-fa10-49a7-b894-99de1bdcc86e"
 title: "Sala Studio 54"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.634145
+  longitude: -5.971415
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

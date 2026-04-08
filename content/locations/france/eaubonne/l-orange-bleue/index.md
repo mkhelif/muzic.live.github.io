@@ -4,6 +4,10 @@ locationId: "9c949ecd-6c2f-4ffb-97df-8436d55d1eb8"
 title: "L'Orange Bleue"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.992654
+  longitude: 2.277867
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "74e03fc1-38aa-4300-904c-8fdce3546eba"
 title: "Brasserie Illegaal"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.811183
+  longitude: 4.30648
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

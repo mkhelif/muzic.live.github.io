@@ -4,6 +4,10 @@ locationId: "0d5deb07-9e73-4140-822d-310e478b4b22"
 title: "Lo Bolegason"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.601411
+  longitude: 2.246968
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

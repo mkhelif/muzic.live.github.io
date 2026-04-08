@@ -4,6 +4,10 @@ locationId: "a5668da8-7bb6-4eeb-89fa-88c77d50a040"
 title: "Le Moloco"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.478939
+  longitude: 6.843055
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

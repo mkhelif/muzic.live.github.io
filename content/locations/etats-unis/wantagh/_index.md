@@ -5,4 +5,5 @@ title: "Wantagh"
 coordinates:
   latitude: 40.6834
   longitude: -73.5101
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Salt Lake City"
 coordinates:
   latitude: 40.7608
   longitude: -111.891
+  zoom: 12
 ---

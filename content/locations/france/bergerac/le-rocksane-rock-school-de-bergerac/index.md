@@ -4,6 +4,10 @@ locationId: "aac38f8b-87d0-4f0a-8c93-83a0da8ff153"
 title: "Le Rocksane Rock School De Bergerac"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.853457
+  longitude: 0.487531
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

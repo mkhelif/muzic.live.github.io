@@ -4,6 +4,10 @@ locationId: "368ff8df-db96-40cc-8e3c-5dcce0847777"
 title: "Nendaz (4 Valleys)"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.186708
+  longitude: 7.305101
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

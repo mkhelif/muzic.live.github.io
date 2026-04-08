@@ -4,6 +4,10 @@ locationId: "0e303708-26b3-4fde-860d-55e3bfcef3ab"
 title: "Club Vaudeville Lindau E.V."
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.550753
+  longitude: 9.692662
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

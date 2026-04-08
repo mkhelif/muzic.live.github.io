@@ -5,4 +5,5 @@ title: "Loveland"
 coordinates:
   latitude: 40.3978
   longitude: -105.075
+  zoom: 12
 ---

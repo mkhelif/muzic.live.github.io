@@ -5,4 +5,5 @@ title: "Tilloloy"
 coordinates:
   latitude: 49.7833
   longitude: 2.8
+  zoom: 12
 ---

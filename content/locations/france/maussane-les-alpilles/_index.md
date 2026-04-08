@@ -5,4 +5,5 @@ title: "Maussane Les Alpilles"
 coordinates:
   latitude: 43.7217
   longitude: 4.8033
+  zoom: 14
 ---

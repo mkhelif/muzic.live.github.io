@@ -5,4 +5,5 @@ title: "Genoa"
 coordinates:
   latitude: 44.4056
   longitude: 8.9463
+  zoom: 12
 ---

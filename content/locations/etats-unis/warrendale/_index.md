@@ -5,4 +5,5 @@ title: "Warrendale"
 coordinates:
   latitude: 40.6425
   longitude: -80.0965
+  zoom: 12
 ---

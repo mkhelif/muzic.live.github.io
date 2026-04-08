@@ -4,6 +4,10 @@ locationId: "83011b12-95d0-449f-8299-8afe9fab08ff"
 title: "Hi-Fi Indy"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.752512
+  longitude: -86.141166
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

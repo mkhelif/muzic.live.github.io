@@ -4,6 +4,10 @@ locationId: "27cbd3e4-01e8-42dc-8153-a05ac0a755e7"
 title: "Jannus Live"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 27.771922
+  longitude: -82.63607
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

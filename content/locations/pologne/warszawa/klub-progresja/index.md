@@ -4,6 +4,10 @@ locationId: "1c1e17aa-ae14-4a0e-8d1b-798f0e471006"
 title: "Klub Progresja"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.2248
+  longitude: 20.928857
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

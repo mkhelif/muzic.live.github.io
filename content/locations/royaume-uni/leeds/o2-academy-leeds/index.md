@@ -4,6 +4,10 @@ locationId: "24423496-442c-4db3-91d3-94e0c078ea21"
 title: "O2 Academy Leeds"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.802274
+  longitude: -1.547314
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

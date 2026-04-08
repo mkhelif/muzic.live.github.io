@@ -5,4 +5,5 @@ title: "Panama City"
 coordinates:
   latitude: 8.9824
   longitude: -79.5199
+  zoom: 12
 ---

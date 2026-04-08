@@ -5,4 +5,5 @@ title: "Bari"
 coordinates:
   latitude: 41.1171
   longitude: 16.8719
+  zoom: 12
 ---

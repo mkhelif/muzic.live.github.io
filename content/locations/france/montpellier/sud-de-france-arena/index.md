@@ -4,6 +4,10 @@ locationId: "c0ff72ce-a134-48a8-aa65-5ebb9a61e2d7"
 title: "Sud De France Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.573297
+  longitude: 3.951716
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

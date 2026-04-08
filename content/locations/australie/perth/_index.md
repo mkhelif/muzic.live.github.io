@@ -5,4 +5,5 @@ title: "Perth"
 coordinates:
   latitude: -31.9505
   longitude: 115.8605
+  zoom: 12
 ---

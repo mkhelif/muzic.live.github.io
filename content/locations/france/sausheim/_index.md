@@ -5,4 +5,5 @@ title: "Sausheim"
 coordinates:
   latitude: 47.7833
   longitude: 7.3667
+  zoom: 12
 ---

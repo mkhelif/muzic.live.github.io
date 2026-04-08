@@ -5,4 +5,5 @@ title: "Reading"
 coordinates:
   latitude: 40.3356
   longitude: -75.9269
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Bourges"
 coordinates:
   latitude: 47.0833
   longitude: 2.4
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "bbd0202a-f913-4d45-b47b-5564d53f1394"
 title: "Estádio Couto Pereira"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -25.421438
+  longitude: -49.259757
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

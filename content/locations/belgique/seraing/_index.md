@@ -5,4 +5,5 @@ title: "Seraing"
 coordinates:
   latitude: 50.5833
   longitude: 5.5
+  zoom: 12
 ---

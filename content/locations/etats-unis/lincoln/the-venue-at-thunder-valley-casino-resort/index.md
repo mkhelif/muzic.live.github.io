@@ -4,6 +4,10 @@ locationId: "9d8f7276-a749-47f3-b8a7-09225da0e75b"
 title: "The Venue At Thunder Valley Casino Resort"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.808886
+  longitude: -96.707775
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

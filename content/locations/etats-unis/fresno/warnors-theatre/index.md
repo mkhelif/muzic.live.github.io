@@ -4,6 +4,10 @@ locationId: "57042099-528d-4bb0-a2b0-d5e811a80db2"
 title: "Warnors Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 36.738423
+  longitude: -119.794598
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

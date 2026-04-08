@@ -4,6 +4,10 @@ locationId: "3d0acdec-2222-4218-aa88-019141195999"
 title: "Barrio San Francisco De Asis"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.630957
+  longitude: -0.851243
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "81d9c2fa-cf0f-44ab-9a91-15430624dc9b"
 title: "Edinburgh Corn Exchange"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 55.926705
+  longitude: -3.248276
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "a7c59de8-527c-45d4-a883-e376e24cdb5c"
 title: "Northwell At Jones Beach Theater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.60121
+  longitude: -73.502713
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

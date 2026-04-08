@@ -4,6 +4,10 @@ locationId: "d3455e4f-7e30-4824-b4f7-af24f082c425"
 title: "Electr'Au Dub Festival"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.974115
+  longitude: -1.292746
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

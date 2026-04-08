@@ -4,6 +4,10 @@ locationId: "6aca9188-5556-471d-a336-1b221e609736"
 title: "Inselpark Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.495584
+  longitude: 10.002418
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

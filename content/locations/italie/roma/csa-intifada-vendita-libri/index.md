@@ -4,6 +4,10 @@ locationId: "525ab53e-3134-4c61-84c2-c0ee7a572ef3"
 title: "Csa Intifada Vendita Libri"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.89332
+  longitude: 12.482932
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

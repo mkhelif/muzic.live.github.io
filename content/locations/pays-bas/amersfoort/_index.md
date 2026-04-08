@@ -5,4 +5,5 @@ title: "Amersfoort"
 coordinates:
   latitude: 52.1561
   longitude: 5.3878
+  zoom: 12
 ---

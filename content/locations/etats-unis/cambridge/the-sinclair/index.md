@@ -4,6 +4,10 @@ locationId: "a4052e3f-af70-48a1-881f-ec3c348113fd"
 title: "The Sinclair"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.374076
+  longitude: -71.120629
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

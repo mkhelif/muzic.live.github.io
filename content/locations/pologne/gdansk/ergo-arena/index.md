@@ -4,6 +4,10 @@ locationId: "8f385178-98dc-4f19-9ca8-7b2c090a53a2"
 title: "ERGO ARENA"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 54.426528
+  longitude: 18.580525
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

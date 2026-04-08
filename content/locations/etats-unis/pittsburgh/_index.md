@@ -5,4 +5,5 @@ title: "Pittsburgh"
 coordinates:
   latitude: 40.4406
   longitude: -79.9959
+  zoom: 12
 ---

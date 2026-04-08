@@ -5,4 +5,5 @@ title: "Praha 1"
 coordinates:
   latitude: 50.087
   longitude: 14.4213
+  zoom: 12
 ---

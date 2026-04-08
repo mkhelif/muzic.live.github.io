@@ -4,6 +4,10 @@ locationId: "798f80aa-5ac2-4cb7-943f-3868eb4e280a"
 title: "Musis Arnhem"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.982704
+  longitude: 5.913799
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

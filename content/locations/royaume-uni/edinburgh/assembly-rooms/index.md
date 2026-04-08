@@ -4,6 +4,10 @@ locationId: "81d9c2fa-cf0f-44ab-9a91-15430624dc9b"
 title: "Assembly Rooms"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 55.952829
+  longitude: -3.198599
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Padova"
 coordinates:
   latitude: 45.4064
   longitude: 11.8768
+  zoom: 12
 ---

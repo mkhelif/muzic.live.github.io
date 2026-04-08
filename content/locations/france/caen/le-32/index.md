@@ -4,6 +4,10 @@ locationId: "bad1dc89-c386-4980-a7ed-28d75474e06d"
 title: "Le 32"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.18134
+  longitude: -0.363561
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

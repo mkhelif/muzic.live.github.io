@@ -4,6 +4,10 @@ locationId: "fcc21de8-4f3b-4a3a-93a2-4f03f91c2a9a"
 title: "Pôle Des Cultures Actuelles"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.195729
+  longitude: 3.83768
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

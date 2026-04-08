@@ -4,6 +4,10 @@ locationId: "7ef0c57a-a001-4f65-a3d9-9bece0c1d8e1"
 title: "Stage Red"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 34.099949
+  longitude: -117.435343
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

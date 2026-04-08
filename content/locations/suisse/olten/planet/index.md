@@ -4,6 +4,10 @@ locationId: "3e492a0b-1654-473e-8391-9c2a0d9adfa0"
 title: "Planet"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.349657
+  longitude: 7.903787
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Winchester"
 coordinates:
   latitude: 51.0632
   longitude: -1.308
+  zoom: 12
 ---

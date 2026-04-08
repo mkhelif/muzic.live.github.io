@@ -5,4 +5,5 @@ title: "St Petersburg"
 coordinates:
   latitude: 27.7676
   longitude: -82.6403
+  zoom: 12
 ---

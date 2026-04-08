@@ -4,6 +4,10 @@ locationId: "bd3c838e-573d-4977-a415-0819658171d3"
 title: "Fallsview Casino Resort"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.082326
+  longitude: -79.080651
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

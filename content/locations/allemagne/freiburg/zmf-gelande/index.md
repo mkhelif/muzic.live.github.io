@@ -4,6 +4,10 @@ locationId: "c36e0e00-b331-4bae-a5cb-d5a2d7ea2cb8"
 title: "Zmf Gelände"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.99609
+  longitude: 7.8494
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

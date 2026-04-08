@@ -4,6 +4,10 @@ locationId: "a84b194e-ce0b-47cf-a7ff-c112372095df"
 title: "Oldehove"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.202972
+  longitude: 5.789704
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

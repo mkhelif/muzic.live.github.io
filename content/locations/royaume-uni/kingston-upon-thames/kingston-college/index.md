@@ -4,6 +4,10 @@ locationId: "2af4ab5b-18b6-4f75-8b69-da674ee7769e"
 title: "Kingston College"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.406854
+  longitude: -0.305632
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

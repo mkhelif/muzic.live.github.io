@@ -4,6 +4,10 @@ locationId: "40780714-5038-4d41-8076-a2782d4e5443"
 title: "Stadtbühne Imst"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.870984
+  longitude: 11.028743
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "ab99f02b-80a4-47e5-be54-457160376765"
 title: "Wasing Estate"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.387449
+  longitude: -1.186845
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

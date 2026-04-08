@@ -4,6 +4,10 @@ locationId: "53935603-91a8-42ee-ab7d-4ac5ed691576"
 title: "Sol Travel Hall"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.566679
+  longitude: 126.978291
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

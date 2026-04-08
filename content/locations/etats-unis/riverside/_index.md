@@ -5,4 +5,5 @@ title: "Riverside"
 coordinates:
   latitude: 33.9533
   longitude: -117.3962
+  zoom: 12
 ---

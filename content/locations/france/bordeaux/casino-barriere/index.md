@@ -4,6 +4,10 @@ locationId: "7c0f435e-b038-4d48-9f8a-87903ae68ad5"
 title: "Casino Barrière"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.88832
+  longitude: -0.565874
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

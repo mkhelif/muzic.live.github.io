@@ -5,4 +5,5 @@ title: "Provincia Di Vicenza"
 coordinates:
   latitude: 45.5455
   longitude: 11.5354
+  zoom: 12
 ---

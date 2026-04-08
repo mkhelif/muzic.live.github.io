@@ -7,6 +7,7 @@ address: "Rue de la Rôtisserie 10, 1204 Genève, Suisse"
 coordinates:
   latitude: 46.20274
   longitude: 6.14655
+  zoom: 17
 socials:
   facebook: "AlhambraGeneve"
   instagram: "alhambra__geneve"

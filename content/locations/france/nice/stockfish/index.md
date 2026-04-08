@@ -4,6 +4,10 @@ locationId: "0f86d7bb-0135-4cfd-a49f-8dc9b9c698a9"
 title: "Stockfish"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.710604
+  longitude: 7.285433
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

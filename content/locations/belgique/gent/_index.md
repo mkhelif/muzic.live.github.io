@@ -5,4 +5,5 @@ title: "Gent"
 coordinates:
   latitude: 51.0543
   longitude: 3.7174
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "46addc11-4b6b-49e3-a160-984ee7cfb9d8"
 title: "EcoCentro Expositor Querétaro"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 20.5923
+  longitude: -100.391742
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

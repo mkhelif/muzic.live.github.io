@@ -5,4 +5,5 @@ title: "Barberaz"
 coordinates:
   latitude: 45.5594
   longitude: 5.9436
+  zoom: 12
 ---

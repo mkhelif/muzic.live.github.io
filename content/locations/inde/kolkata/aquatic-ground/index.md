@@ -4,6 +4,10 @@ locationId: "6d8c6b51-a564-4171-8a00-92bce3c4b2c6"
 title: "Aquatic Ground"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 22.572646
+  longitude: 88.363895
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

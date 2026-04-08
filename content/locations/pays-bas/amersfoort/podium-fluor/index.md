@@ -4,6 +4,10 @@ locationId: "c6e51dda-30b6-44e7-812c-92f9aef3fb34"
 title: "Podium Fluor"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.16377
+  longitude: 5.408885
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "e02d11c9-ebd5-4033-af18-5f5a9bcd052e"
 title: "Les Jardins Du Lydia"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.794679
+  longitude: 3.033524
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

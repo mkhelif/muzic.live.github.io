@@ -5,4 +5,5 @@ title: "Curitiba"
 coordinates:
   latitude: -25.4284
   longitude: -49.2733
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Murs Erigne"
 coordinates:
   latitude: 47.4
   longitude: -0.55
+  zoom: 12
 ---

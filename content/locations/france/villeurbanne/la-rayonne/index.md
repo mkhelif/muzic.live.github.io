@@ -4,6 +4,10 @@ locationId: "bff8daaa-e73e-4e05-8113-89e2278cc9a7"
 title: "La Rayonne"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.756954
+  longitude: 4.917029
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

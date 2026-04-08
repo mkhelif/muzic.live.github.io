@@ -5,4 +5,5 @@ title: "Limerick City"
 coordinates:
   latitude: 52.6638
   longitude: -8.6267
+  zoom: 12
 ---

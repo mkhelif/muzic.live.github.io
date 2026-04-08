@@ -4,6 +4,10 @@ locationId: "482a1ee0-4ef0-41e5-b918-352fce6bc5dc"
 title: "Gleneagle Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.044658
+  longitude: -9.502294
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

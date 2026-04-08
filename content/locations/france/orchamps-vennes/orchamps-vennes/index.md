@@ -4,6 +4,10 @@ locationId: "da7f8b08-ed9c-4181-b315-7b51dbd8d7e5"
 title: "Orchamps-Vennes"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.131901
+  longitude: 6.526708
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "d26c07e9-45d2-4e2f-aaca-da74a1b6b84b"
 title: "Parc Georges Brassens"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.725882
+  longitude: 2.290352
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

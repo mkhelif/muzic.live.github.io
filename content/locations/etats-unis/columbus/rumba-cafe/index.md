@@ -4,6 +4,10 @@ locationId: "d8306016-3626-4b55-95c5-37e38f6c6d03"
 title: "Rumba Cafe"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.014741
+  longitude: -83.000304
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

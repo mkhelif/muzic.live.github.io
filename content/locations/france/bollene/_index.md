@@ -5,4 +5,5 @@ title: "Bollene"
 coordinates:
   latitude: 44.2803
   longitude: 4.7492
+  zoom: 12
 ---

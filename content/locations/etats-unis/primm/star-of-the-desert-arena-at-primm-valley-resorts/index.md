@@ -4,6 +4,10 @@ locationId: "3d27d78d-559d-49c6-b1d0-e2071a942bae"
 title: "Star Of The Desert Arena At Primm Valley Resorts"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 35.612403
+  longitude: -115.386299
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

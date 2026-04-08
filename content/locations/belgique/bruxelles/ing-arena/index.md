@@ -4,6 +4,10 @@ locationId: "08fa8edf-d4a6-460e-a1f6-04c4d3c3287b"
 title: "Ing Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.90112
+  longitude: 4.342315
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

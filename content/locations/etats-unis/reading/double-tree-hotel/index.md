@@ -4,6 +4,10 @@ locationId: "77405d28-dd71-476d-a1fc-3f16224a8f02"
 title: "Double Tree Hotel"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.335345
+  longitude: -75.927949
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Chelles"
 coordinates:
   latitude: 48.8817
   longitude: 2.5936
+  zoom: 12
 ---

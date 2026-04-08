@@ -4,6 +4,10 @@ locationId: "6f3132be-8204-4a77-bd4b-09d8a59da8d2"
 title: "Rocca Brancaleone"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.422305
+  longitude: 12.205883
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

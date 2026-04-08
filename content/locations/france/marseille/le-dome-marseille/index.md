@@ -4,6 +4,10 @@ locationId: "6c56d14e-7967-490d-9c11-b43052f6fc28"
 title: "Le Dome Marseille"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.315315
+  longitude: 5.404423
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

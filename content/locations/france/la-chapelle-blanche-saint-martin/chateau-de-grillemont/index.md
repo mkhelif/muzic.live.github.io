@@ -4,6 +4,10 @@ locationId: "d2ea6147-79b1-4832-bece-60bbbcd4009b"
 title: "Château de Grillemont"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.091493
+  longitude: 0.768682
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "0a4471c3-26cd-413a-95e8-41e50a2cc4ad"
 title: "Connexin Live"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.762386
+  longitude: -0.330121
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

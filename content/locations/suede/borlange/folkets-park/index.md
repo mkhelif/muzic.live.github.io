@@ -4,6 +4,10 @@ locationId: "26ddad65-1375-4c9e-9da5-31120dabce94"
 title: "Folkets Park"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 60.489072
+  longitude: 15.42978
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

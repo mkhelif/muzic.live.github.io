@@ -5,4 +5,5 @@ title: "Ventura"
 coordinates:
   latitude: 34.2805
   longitude: -119.2945
+  zoom: 12
 ---

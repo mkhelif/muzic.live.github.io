@@ -5,4 +5,5 @@ title: "Hull"
 coordinates:
   latitude: 53.7457
   longitude: -0.3367
+  zoom: 12
 ---

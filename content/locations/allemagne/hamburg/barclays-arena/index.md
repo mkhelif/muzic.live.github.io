@@ -4,6 +4,10 @@ locationId: "6aca9188-5556-471d-a336-1b221e609736"
 title: "Barclays Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.5894
+  longitude: 9.899108
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

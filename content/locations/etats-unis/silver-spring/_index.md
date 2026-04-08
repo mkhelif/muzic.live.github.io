@@ -5,4 +5,5 @@ title: "Silver Spring"
 coordinates:
   latitude: 38.9907
   longitude: -77.0261
+  zoom: 12
 ---

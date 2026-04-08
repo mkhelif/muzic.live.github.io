@@ -5,4 +5,5 @@ title: "Haguenau"
 coordinates:
   latitude: 48.8156
   longitude: 7.7908
+  zoom: 12
 ---

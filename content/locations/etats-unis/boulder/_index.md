@@ -5,4 +5,5 @@ title: "Boulder"
 coordinates:
   latitude: 40.015
   longitude: -105.2705
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "7c7a6a7f-dbf3-4596-b9c2-214674edbb44"
 title: "Grezz"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -30.0325
+  longitude: -51.230377
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

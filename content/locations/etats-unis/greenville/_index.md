@@ -5,4 +5,5 @@ title: "Greenville"
 coordinates:
   latitude: 34.8526
   longitude: -82.394
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "bce4b685-9f6a-4b18-8d89-e265f1055d21"
 title: "Partille Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 57.739877
+  longitude: 12.117051
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

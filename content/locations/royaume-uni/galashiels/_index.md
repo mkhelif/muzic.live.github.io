@@ -5,4 +5,5 @@ title: "Galashiels"
 coordinates:
   latitude: 55.6161
   longitude: -2.8019
+  zoom: 12
 ---

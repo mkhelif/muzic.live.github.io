@@ -5,4 +5,5 @@ title: "Antwerp"
 coordinates:
   latitude: 51.2194
   longitude: 4.4025
+  zoom: 12
 ---

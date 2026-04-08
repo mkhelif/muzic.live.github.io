@@ -5,4 +5,5 @@ title: "Cormeilles En Parisis"
 coordinates:
   latitude: 48.9722
   longitude: 2.2017
+  zoom: 12
 ---

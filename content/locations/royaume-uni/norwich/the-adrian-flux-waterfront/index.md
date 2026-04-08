@@ -4,6 +4,10 @@ locationId: "8feba49c-c32d-42b6-8eaf-03281ce7249c"
 title: "The Adrian Flux Waterfront"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.628558
+  longitude: 1.292395
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

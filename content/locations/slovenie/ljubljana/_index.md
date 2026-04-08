@@ -5,4 +5,5 @@ title: "Ljubljana"
 coordinates:
   latitude: 46.0569
   longitude: 14.5058
+  zoom: 12
 ---

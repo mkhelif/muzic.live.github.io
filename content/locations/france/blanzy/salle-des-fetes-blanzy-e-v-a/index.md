@@ -4,6 +4,10 @@ locationId: "c3f40baf-aef0-4623-9299-d045577427b6"
 title: "Salle Des Fêtes Blanzy (E.V.A)"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.703742
+  longitude: 4.389951
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "d3c13575-a680-4894-9a06-cbd689227835"
 title: "Pensacola Bay Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 30.416394
+  longitude: -87.20895
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

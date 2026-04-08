@@ -5,4 +5,5 @@ title: "Orangevale"
 coordinates:
   latitude: 38.6786
   longitude: -121.2258
+  zoom: 12
 ---

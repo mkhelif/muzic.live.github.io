@@ -4,6 +4,10 @@ locationId: "32c6dc42-ea45-4560-b168-31c36d2e1616"
 title: "De Montfort Hall"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.625032
+  longitude: -1.12202
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

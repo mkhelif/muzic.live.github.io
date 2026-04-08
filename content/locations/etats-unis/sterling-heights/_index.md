@@ -5,4 +5,5 @@ title: "Sterling Heights"
 coordinates:
   latitude: 42.5803
   longitude: -83.0302
+  zoom: 12
 ---

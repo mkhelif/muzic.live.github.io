@@ -4,6 +4,10 @@ locationId: "0981fe1e-39e4-4e0d-8ab4-9801dbd858ec"
 title: "Le Printemps De Bourges"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.081166
+  longitude: 2.399125
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

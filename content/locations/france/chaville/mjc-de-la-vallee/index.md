@@ -4,6 +4,10 @@ locationId: "fc8d3d4e-9c0d-4313-957d-fe6052ebf66a"
 title: "Mjc De La Vallée"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.808188
+  longitude: 2.188249
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

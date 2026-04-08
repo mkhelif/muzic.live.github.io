@@ -4,6 +4,10 @@ locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "Theatre Royal Drury Lane"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.512994
+  longitude: -0.12023
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

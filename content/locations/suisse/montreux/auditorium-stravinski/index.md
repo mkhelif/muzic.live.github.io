@@ -4,6 +4,10 @@ locationId: "366932bf-ffb3-45c6-8c42-5e3bd93f6b5f"
 title: "Auditorium Stravinski"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.439137
+  longitude: 6.904781
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "0885abf2-16d3-4b5e-a259-0c11aa320218"
 title: "Real Jardín Botánico Alfonso Xiii"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.447249
+  longitude: -3.726143
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

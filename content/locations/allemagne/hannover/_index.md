@@ -5,4 +5,5 @@ title: "Hannover"
 coordinates:
   latitude: 52.3759
   longitude: 9.732
+  zoom: 12
 ---

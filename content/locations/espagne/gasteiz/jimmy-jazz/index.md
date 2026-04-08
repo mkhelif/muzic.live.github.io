@@ -4,6 +4,10 @@ locationId: "519fd059-a4cc-4a52-a0fc-aa87a3ff58d7"
 title: "Jimmy Jazz"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.852226
+  longitude: -2.676611
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

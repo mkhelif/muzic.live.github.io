@@ -5,4 +5,5 @@ title: "Cork"
 coordinates:
   latitude: 51.8985
   longitude: -8.4756
+  zoom: 12
 ---

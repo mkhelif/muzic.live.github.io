@@ -5,4 +5,5 @@ title: "Le Vesinet"
 coordinates:
   latitude: 48.8917
   longitude: 2.1306
+  zoom: 12
 ---

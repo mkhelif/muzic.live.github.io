@@ -4,6 +4,10 @@ locationId: "24423496-442c-4db3-91d3-94e0c078ea21"
 title: "Leeds First Direct Bank Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.797418
+  longitude: -1.543794
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

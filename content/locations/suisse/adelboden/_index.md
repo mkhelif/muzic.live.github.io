@@ -5,4 +5,5 @@ title: "Adelboden"
 coordinates:
   latitude: 46.4929
   longitude: 7.5598
+  zoom: 14
 ---

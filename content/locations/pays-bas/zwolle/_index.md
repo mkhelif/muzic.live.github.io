@@ -5,4 +5,5 @@ title: "Zwolle"
 coordinates:
   latitude: 52.5168
   longitude: 6.083
+  zoom: 12
 ---

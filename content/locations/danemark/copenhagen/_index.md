@@ -5,4 +5,5 @@ title: "Copenhagen"
 coordinates:
   latitude: 55.6761
   longitude: 12.5683
+  zoom: 11
 ---

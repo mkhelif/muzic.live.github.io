@@ -5,4 +5,5 @@ title: "Pensacola"
 coordinates:
   latitude: 30.4213
   longitude: -87.2169
+  zoom: 12
 ---

@@ -7,6 +7,7 @@ address: "Rue des Gazomètres 9, 1205 Genève, Suisse"
 coordinates:
   latitude: 46.201472
   longitude: 6.133639
+  zoom: 17
 socials:
   facebook: "legroovegva"
   instagram: "legroove_gva"

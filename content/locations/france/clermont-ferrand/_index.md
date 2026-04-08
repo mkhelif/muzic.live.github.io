@@ -5,4 +5,5 @@ title: "Clermont-Ferrand"
 coordinates:
   latitude: 45.7772
   longitude: 3.087
+  zoom: 12
 ---

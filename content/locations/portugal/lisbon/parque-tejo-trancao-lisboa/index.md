@@ -4,6 +4,10 @@ locationId: "f4bd5cbf-7f06-4166-86e4-348444ca57fd"
 title: "Parque Tejo-Trancão (Lisboa)"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.707751
+  longitude: -9.136592
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

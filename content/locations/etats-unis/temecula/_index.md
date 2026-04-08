@@ -5,4 +5,5 @@ title: "Temecula"
 coordinates:
   latitude: 33.4936
   longitude: -117.1484
+  zoom: 12
 ---

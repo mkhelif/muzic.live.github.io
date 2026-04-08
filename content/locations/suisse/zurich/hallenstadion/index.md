@@ -4,6 +4,10 @@ locationId: "269ceb64-e65e-415d-976a-5f34c1cb701e"
 title: "Hallenstadion"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.411425
+  longitude: 8.551685
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

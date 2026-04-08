@@ -5,4 +5,5 @@ title: "Cenon"
 coordinates:
   latitude: 44.8572
   longitude: -0.5333
+  zoom: 12
 ---

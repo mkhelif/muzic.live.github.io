@@ -4,6 +4,10 @@ locationId: "2ce2c185-6ca8-4c3d-b0be-3bc0588519ea"
 title: "Stadthalle Offenbach"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.08302
+  longitude: 8.776823
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

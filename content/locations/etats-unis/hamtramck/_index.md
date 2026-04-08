@@ -5,4 +5,5 @@ title: "Hamtramck"
 coordinates:
   latitude: 42.3953
   longitude: -83.0496
+  zoom: 12
 ---

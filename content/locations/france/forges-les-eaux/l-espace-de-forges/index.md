@@ -4,6 +4,10 @@ locationId: "7695d982-8438-429b-bc69-b32d6f644f2c"
 title: "L'Espace De Forges"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.615435
+  longitude: 1.543745
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

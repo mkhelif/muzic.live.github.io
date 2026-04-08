@@ -4,6 +4,10 @@ locationId: "e92bcfb7-b538-451b-b554-c8f6ede75806"
 title: "Slopesound Festival"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.514448
+  longitude: 7.304696
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

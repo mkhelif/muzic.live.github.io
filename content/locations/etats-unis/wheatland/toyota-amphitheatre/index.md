@@ -4,6 +4,10 @@ locationId: "5073be80-5229-4b70-8ad2-5a0f1829187d"
 title: "Toyota Amphitheatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.031146
+  longitude: -121.512912
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

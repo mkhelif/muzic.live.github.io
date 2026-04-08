@@ -5,4 +5,5 @@ title: "Northampton"
 coordinates:
   latitude: 52.2405
   longitude: -0.9027
+  zoom: 12
 ---

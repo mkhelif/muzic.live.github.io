@@ -4,6 +4,10 @@ locationId: "8e167830-4558-45c2-80bb-18ed2bbcd783"
 title: "K.B. Hallen"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 55.676862
+  longitude: 12.494857
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

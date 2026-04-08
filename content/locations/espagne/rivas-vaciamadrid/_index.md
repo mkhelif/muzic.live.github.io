@@ -5,4 +5,5 @@ title: "Rivas-Vaciamadrid"
 coordinates:
   latitude: 40.3256
   longitude: -3.5223
+  zoom: 12
 ---

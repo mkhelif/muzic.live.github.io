@@ -5,4 +5,5 @@ title: "Walton On Trent"
 coordinates:
   latitude: 52.7617
   longitude: -1.6408
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Nice"
 coordinates:
   latitude: 43.7102
   longitude: 7.262
+  zoom: 12
 ---

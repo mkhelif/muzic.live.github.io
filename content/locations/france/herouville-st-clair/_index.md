@@ -5,4 +5,5 @@ title: "Herouville St Clair"
 coordinates:
   latitude: 49.2044
   longitude: -0.3258
+  zoom: 12
 ---

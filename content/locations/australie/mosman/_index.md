@@ -5,4 +5,5 @@ title: "Mosman"
 coordinates:
   latitude: -33.8269
   longitude: 151.2444
+  zoom: 12
 ---

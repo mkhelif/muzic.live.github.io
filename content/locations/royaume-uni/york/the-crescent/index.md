@@ -4,6 +4,10 @@ locationId: "c92597a6-0cf4-4314-875f-5201b72c1690"
 title: "The Crescent"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.954977
+  longitude: -1.093623
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "386ade12-bf44-4d13-997a-ce235c58e5f3"
 title: "Marquee Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.436966
+  longitude: -111.943989
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

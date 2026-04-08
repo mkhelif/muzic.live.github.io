@@ -4,6 +4,10 @@ locationId: "4219a07c-d22e-42cc-a52b-0e461d37cb26"
 title: "Rio Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 36.98001
+  longitude: -122.01045
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

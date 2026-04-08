@@ -4,6 +4,10 @@ locationId: "63e73e60-e9ec-4d7b-92bd-fa67edc17c8c"
 title: "Saline Royale D'Arc-Et-Senans"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.033983
+  longitude: 5.777332
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

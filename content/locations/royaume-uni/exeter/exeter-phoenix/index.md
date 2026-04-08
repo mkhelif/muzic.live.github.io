@@ -4,6 +4,10 @@ locationId: "f44724e2-6bbe-4848-8372-79a3753565b7"
 title: "Exeter Phoenix"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.725297
+  longitude: -3.531294
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

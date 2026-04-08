@@ -4,6 +4,10 @@ locationId: "26c5ebdd-95f2-482b-9f48-4b9d01debdf4"
 title: "Orpheum Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 34.042718
+  longitude: -118.255389
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

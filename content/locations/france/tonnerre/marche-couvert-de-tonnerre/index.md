@@ -4,6 +4,10 @@ locationId: "724b8f67-cb64-4b0e-99a3-912e69df6585"
 title: "Marché Couvert De Tonnerre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.856776
+  longitude: 3.973578
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Hollywood"
 coordinates:
   latitude: 34.0928
   longitude: -118.3287
+  zoom: 12
 ---

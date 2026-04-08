@@ -4,6 +4,10 @@ locationId: "b03bdfcc-80ea-4194-af73-0d9b731baa2b"
 title: "Plaza De La Música"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -31.406174
+  longitude: -64.197471
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

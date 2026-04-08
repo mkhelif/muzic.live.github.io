@@ -4,6 +4,10 @@ locationId: "4a76c4ec-0f4c-4921-98f1-bded827b1259"
 title: "Kulturarena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.928172
+  longitude: 11.587936
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

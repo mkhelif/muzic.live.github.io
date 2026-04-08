@@ -5,4 +5,5 @@ title: "Oignies"
 coordinates:
   latitude: 50.4592
   longitude: 2.9903
+  zoom: 12
 ---

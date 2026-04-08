@@ -4,6 +4,10 @@ locationId: "a0ac69a8-6487-4f07-943f-59c1acd2ee25"
 title: "The Wilma"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.870105
+  longitude: -113.995267
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

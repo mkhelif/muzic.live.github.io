@@ -4,6 +4,10 @@ locationId: "8fb6b7d0-9f5c-4336-bd34-bf9eb5fc275d"
 title: "Theatre Of The Vesinet"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.894254
+  longitude: 2.134729
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

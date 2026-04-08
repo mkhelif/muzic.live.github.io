@@ -5,4 +5,5 @@ title: "Uden"
 coordinates:
   latitude: 51.6605
   longitude: 5.6189
+  zoom: 12
 ---

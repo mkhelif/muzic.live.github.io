@@ -5,4 +5,5 @@ title: "San José"
 coordinates:
   latitude: 9.9281
   longitude: -84.0907
+  zoom: 12
 ---

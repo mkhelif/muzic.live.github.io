@@ -4,6 +4,10 @@ locationId: "7edcebf1-b5a4-4498-a7a8-697f82cc1085"
 title: "Erin Arts Centre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 54.087085
+  longitude: -4.757855
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

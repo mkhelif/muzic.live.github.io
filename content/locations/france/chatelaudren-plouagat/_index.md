@@ -5,4 +5,5 @@ title: "Chatelaudren Plouagat"
 coordinates:
   latitude: 48.5417
   longitude: -2.9722
+  zoom: 12
 ---

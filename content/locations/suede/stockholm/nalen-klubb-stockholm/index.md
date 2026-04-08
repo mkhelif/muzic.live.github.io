@@ -4,6 +4,10 @@ locationId: "cf04546e-c226-46e3-b6d1-0dd25b746344"
 title: "Nalen Klubb, Stockholm"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 59.337184
+  longitude: 18.06811
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Penthaz"
 coordinates:
   latitude: 46.5667
   longitude: 6.5333
+  zoom: 14
 ---

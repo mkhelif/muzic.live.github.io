@@ -5,4 +5,5 @@ title: "Casalecchio Di Reno"
 coordinates:
   latitude: 44.4733
   longitude: 11.2775
+  zoom: 12
 ---

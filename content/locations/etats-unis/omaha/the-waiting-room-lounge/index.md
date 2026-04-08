@@ -4,6 +4,10 @@ locationId: "21f5a851-ecbc-4c6b-bb95-3fd9515c099d"
 title: "The Waiting Room Lounge"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.28523
+  longitude: -96.008597
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

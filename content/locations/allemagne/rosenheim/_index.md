@@ -5,4 +5,5 @@ title: "Rosenheim"
 coordinates:
   latitude: 47.8561
   longitude: 12.1289
+  zoom: 12
 ---

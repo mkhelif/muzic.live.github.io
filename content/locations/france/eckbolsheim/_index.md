@@ -5,4 +5,5 @@ title: "Eckbolsheim"
 coordinates:
   latitude: 48.5814
   longitude: 7.6917
+  zoom: 12
 ---

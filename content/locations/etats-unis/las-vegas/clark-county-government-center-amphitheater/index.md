@@ -4,6 +4,10 @@ locationId: "1ae3da38-3ea6-43ff-911d-3d020caaebaa"
 title: "Clark County Government Center Amphitheater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 36.167426
+  longitude: -115.148413
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "0e332b12-21d3-47af-932b-bebbe4cb5cc2"
 title: "Technikum"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.123506
+  longitude: 11.606611
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

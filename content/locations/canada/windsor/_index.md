@@ -5,4 +5,5 @@ title: "Windsor"
 coordinates:
   latitude: 42.3149
   longitude: -83.0364
+  zoom: 12
 ---

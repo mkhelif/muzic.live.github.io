@@ -5,4 +5,5 @@ title: "Tampere"
 coordinates:
   latitude: 61.4978
   longitude: 23.761
+  zoom: 12
 ---

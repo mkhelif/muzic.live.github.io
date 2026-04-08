@@ -5,4 +5,5 @@ title: "Belfort"
 coordinates:
   latitude: 47.64
   longitude: 6.86
+  zoom: 12
 ---

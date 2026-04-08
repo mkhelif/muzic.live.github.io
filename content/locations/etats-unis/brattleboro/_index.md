@@ -5,4 +5,5 @@ title: "Brattleboro"
 coordinates:
   latitude: 42.8509
   longitude: -72.5579
+  zoom: 12
 ---

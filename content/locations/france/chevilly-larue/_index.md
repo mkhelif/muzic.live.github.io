@@ -5,4 +5,5 @@ title: "Chevilly Larue"
 coordinates:
   latitude: 48.7647
   longitude: 2.35
+  zoom: 12
 ---

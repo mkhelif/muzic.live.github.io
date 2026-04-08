@@ -5,4 +5,5 @@ title: "Neuchatel"
 coordinates:
   latitude: 46.99
   longitude: 6.9293
+  zoom: 12
 ---

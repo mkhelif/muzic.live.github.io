@@ -5,4 +5,5 @@ title: "Tonnerre"
 coordinates:
   latitude: 47.8567
   longitude: 3.9744
+  zoom: 12
 ---

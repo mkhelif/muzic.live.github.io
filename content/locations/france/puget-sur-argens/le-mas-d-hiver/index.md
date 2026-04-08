@@ -4,6 +4,10 @@ locationId: "982632cb-c8ec-41cb-bdf0-0275e1752fa1"
 title: "Le Mas D'Hiver"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.456168
+  longitude: 6.684436
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "e0e11589-16b8-4ce9-a13f-bb46f1d39020"
 title: "Echo System"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.667475
+  longitude: 5.972897
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

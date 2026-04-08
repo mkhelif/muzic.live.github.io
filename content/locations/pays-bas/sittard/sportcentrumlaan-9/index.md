@@ -4,6 +4,10 @@ locationId: "b983a917-887d-476b-9676-de1b2e8f6366"
 title: "Sportcentrumlaan 9"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.008465
+  longitude: 5.880479
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

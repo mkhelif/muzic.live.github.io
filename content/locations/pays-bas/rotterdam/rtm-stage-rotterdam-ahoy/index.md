@@ -4,6 +4,10 @@ locationId: "8a5cb827-7c6a-4b39-9331-6275fd0b1ae0"
 title: "Rtm Stage - Rotterdam Ahoy"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.924442
+  longitude: 4.47775
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

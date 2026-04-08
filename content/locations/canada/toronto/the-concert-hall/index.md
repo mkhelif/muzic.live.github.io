@@ -4,6 +4,10 @@ locationId: "5e0816b9-7085-4d69-89f8-9562d89868d1"
 title: "The Concert Hall"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.653482
+  longitude: -79.383935
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

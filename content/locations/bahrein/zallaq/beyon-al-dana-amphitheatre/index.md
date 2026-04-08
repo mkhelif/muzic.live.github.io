@@ -4,6 +4,10 @@ locationId: "d1978e19-522b-472a-9654-0b9b69acd3ea"
 title: "Beyon Al Dana Amphitheatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 26.048455
+  longitude: 50.486984
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

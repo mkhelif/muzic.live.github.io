@@ -5,4 +5,5 @@ title: "Beziers"
 coordinates:
   latitude: 43.3448
   longitude: 3.2151
+  zoom: 12
 ---

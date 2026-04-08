@@ -5,4 +5,5 @@ title: "Leiden"
 coordinates:
   latitude: 52.1601
   longitude: 4.497
+  zoom: 12
 ---

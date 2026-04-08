@@ -5,4 +5,5 @@ title: "Arras"
 coordinates:
   latitude: 50.2917
   longitude: 2.7775
+  zoom: 12
 ---

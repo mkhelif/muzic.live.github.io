@@ -5,4 +5,5 @@ title: "Enschede"
 coordinates:
   latitude: 52.2215
   longitude: 6.8937
+  zoom: 12
 ---

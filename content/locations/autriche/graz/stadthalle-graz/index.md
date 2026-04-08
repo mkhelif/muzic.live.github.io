@@ -4,6 +4,10 @@ locationId: "7890f5f1-7905-4f1b-93dd-9e2d2385b056"
 title: "Stadthalle Graz"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.057687
+  longitude: 15.447512
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

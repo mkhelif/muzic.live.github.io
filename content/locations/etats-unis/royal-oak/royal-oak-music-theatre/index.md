@@ -4,6 +4,10 @@ locationId: "eeb85377-d4d9-4ab8-add9-393f9d554ee6"
 title: "Royal Oak Music Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.48734
+  longitude: -83.147482
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Düsseldorf"
 coordinates:
   latitude: 51.2277
   longitude: 6.7735
+  zoom: 11
 ---

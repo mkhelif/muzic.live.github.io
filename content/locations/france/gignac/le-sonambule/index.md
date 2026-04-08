@@ -4,6 +4,10 @@ locationId: "e339744e-399c-4d28-8fa8-8d9b02597309"
 title: "Le Sonambule"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.657081
+  longitude: 3.546403
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Alexandria"
 coordinates:
   latitude: 38.8048
   longitude: -77.0469
+  zoom: 12
 ---

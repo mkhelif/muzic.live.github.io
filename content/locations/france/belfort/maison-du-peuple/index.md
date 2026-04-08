@@ -4,6 +4,10 @@ locationId: "e6237e45-6619-495b-923b-c0c58f00d613"
 title: "Maison Du Peuple"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.641473
+  longitude: 6.851369
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

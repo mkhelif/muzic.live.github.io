@@ -5,4 +5,5 @@ title: "Hershey"
 coordinates:
   latitude: 40.2857
   longitude: -76.6505
+  zoom: 12
 ---

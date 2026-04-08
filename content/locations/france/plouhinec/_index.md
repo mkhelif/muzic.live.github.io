@@ -5,4 +5,5 @@ title: "Plouhinec"
 coordinates:
   latitude: 47.6978
   longitude: -3.2361
+  zoom: 14
 ---

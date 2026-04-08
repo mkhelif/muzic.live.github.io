@@ -4,6 +4,10 @@ locationId: "ef1dca8a-8f2e-4ea6-811a-ee4f42e1d944"
 title: "The Colosseum At Caesars Windsor"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.285854
+  longitude: -82.97807
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

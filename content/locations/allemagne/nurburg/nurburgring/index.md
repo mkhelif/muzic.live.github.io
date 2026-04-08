@@ -4,6 +4,10 @@ locationId: "318e7861-025e-45f2-86e7-2bbd8402a86e"
 title: "Nürburgring"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.33092
+  longitude: 6.940674
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

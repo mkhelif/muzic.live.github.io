@@ -5,4 +5,5 @@ title: "Massy"
 coordinates:
   latitude: 48.7308
   longitude: 2.2717
+  zoom: 12
 ---

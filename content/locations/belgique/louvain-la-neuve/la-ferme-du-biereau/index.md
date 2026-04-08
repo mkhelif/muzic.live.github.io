@@ -4,6 +4,10 @@ locationId: "e31836fe-a7cb-4d98-aa65-8a8b2d25feb5"
 title: "La Ferme Du Biéreau"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.674067
+  longitude: 4.61381
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

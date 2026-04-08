@@ -4,6 +4,10 @@ locationId: "7bdf8222-635c-444e-b413-59d92ad31128"
 title: "Usine À Gaz"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.383517
+  longitude: 6.243539
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Le Mans"
 coordinates:
   latitude: 47.996
   longitude: 0.1926
+  zoom: 12
 ---

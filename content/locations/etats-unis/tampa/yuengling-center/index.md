@@ -4,6 +4,10 @@ locationId: "0448a10f-688b-4553-b9e0-1948f7a5efd4"
 title: "Yuengling Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 28.059244
+  longitude: -82.406624
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

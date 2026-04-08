@@ -5,4 +5,5 @@ title: "Vienne"
 coordinates:
   latitude: 45.5242
   longitude: 4.8781
+  zoom: 12
 ---

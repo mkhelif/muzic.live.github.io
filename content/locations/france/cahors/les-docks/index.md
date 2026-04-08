@@ -4,6 +4,10 @@ locationId: "e4c255f2-bbb9-4f0f-a368-ed104e5c35d7"
 title: "Les Docks"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.444601
+  longitude: 1.433324
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Le Havre"
 coordinates:
   latitude: 49.4944
   longitude: 0.1079
+  zoom: 12
 ---

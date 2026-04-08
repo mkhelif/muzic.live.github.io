@@ -5,4 +5,5 @@ title: "Rodez"
 coordinates:
   latitude: 44.3497
   longitude: 2.575
+  zoom: 12
 ---

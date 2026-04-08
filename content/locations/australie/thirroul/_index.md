@@ -5,4 +5,5 @@ title: "Thirroul"
 coordinates:
   latitude: -34.3161
   longitude: 150.9216
+  zoom: 14
 ---

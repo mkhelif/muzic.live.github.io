@@ -5,4 +5,5 @@ title: "Meaux"
 coordinates:
   latitude: 48.9606
   longitude: 2.8786
+  zoom: 12
 ---

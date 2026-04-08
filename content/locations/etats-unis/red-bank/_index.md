@@ -5,4 +5,5 @@ title: "Red Bank"
 coordinates:
   latitude: 40.3471
   longitude: -74.0643
+  zoom: 12
 ---

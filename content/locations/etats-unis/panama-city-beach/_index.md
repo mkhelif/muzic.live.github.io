@@ -5,4 +5,5 @@ title: "Panama City Beach"
 coordinates:
   latitude: 30.1766
   longitude: -85.8055
+  zoom: 12
 ---

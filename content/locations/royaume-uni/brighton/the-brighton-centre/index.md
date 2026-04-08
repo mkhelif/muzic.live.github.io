@@ -4,6 +4,10 @@ locationId: "39bb0493-f1b4-4b4b-b100-70b567edda6e"
 title: "The Brighton Centre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.821567
+  longitude: -0.146297
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

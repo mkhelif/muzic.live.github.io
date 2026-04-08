@@ -5,4 +5,5 @@ title: "Lillebonne"
 coordinates:
   latitude: 49.5186
   longitude: 0.5342
+  zoom: 12
 ---

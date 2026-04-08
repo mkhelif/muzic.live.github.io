@@ -4,6 +4,10 @@ locationId: "269ceb64-e65e-415d-976a-5f34c1cb701e"
 title: "Komplex 457"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.387268
+  longitude: 8.5
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

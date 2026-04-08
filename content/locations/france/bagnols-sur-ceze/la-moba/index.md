@@ -4,6 +4,10 @@ locationId: "0238cc19-ba4e-442e-b76c-ad999b58d7fc"
 title: "La Moba"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.154966
+  longitude: 4.639154
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

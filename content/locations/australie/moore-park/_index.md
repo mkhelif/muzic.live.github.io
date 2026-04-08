@@ -5,4 +5,5 @@ title: "Moore Park"
 coordinates:
   latitude: -33.8958
   longitude: 151.2167
+  zoom: 12
 ---

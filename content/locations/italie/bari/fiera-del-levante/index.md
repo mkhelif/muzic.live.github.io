@@ -4,6 +4,10 @@ locationId: "746c3542-4360-4912-a7f4-68121a99e5c8"
 title: "Fiera Del Levante"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.135659
+  longitude: 16.838981
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Eugene"
 coordinates:
   latitude: 44.0521
   longitude: -123.0868
+  zoom: 12
 ---

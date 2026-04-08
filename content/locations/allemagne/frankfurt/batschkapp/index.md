@@ -4,6 +4,10 @@ locationId: "79b42cf6-77e6-4fbe-90c0-52419cabcd9e"
 title: "Batschkapp"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.13506
+  longitude: 8.738805
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "1fd8218e-dc9a-4f87-9b8f-96c88be72f04"
 title: "The Castle Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.479354
+  longitude: -88.991742
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

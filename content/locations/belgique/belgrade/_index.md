@@ -5,4 +5,5 @@ title: "Belgrade"
 coordinates:
   latitude: 50.2833
   longitude: 5.05
+  zoom: 14
 ---

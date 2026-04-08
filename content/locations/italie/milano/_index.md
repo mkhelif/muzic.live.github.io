@@ -5,4 +5,5 @@ title: "Milano"
 coordinates:
   latitude: 45.4642
   longitude: 9.19
+  zoom: 11
 ---

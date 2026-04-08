@@ -5,4 +5,5 @@ title: "Kolkata"
 coordinates:
   latitude: 22.5726
   longitude: 88.3639
+  zoom: 12
 ---

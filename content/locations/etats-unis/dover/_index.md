@@ -5,4 +5,5 @@ title: "Dover"
 coordinates:
   latitude: 39.1582
   longitude: -75.5244
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Porto Recanati"
 coordinates:
   latitude: 43.4333
   longitude: 13.6667
+  zoom: 12
 ---

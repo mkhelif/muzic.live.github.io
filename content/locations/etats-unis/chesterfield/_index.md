@@ -5,4 +5,5 @@ title: "Chesterfield"
 coordinates:
   latitude: 38.6631
   longitude: -90.5771
+  zoom: 12
 ---

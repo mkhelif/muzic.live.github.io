@@ -5,4 +5,5 @@ title: "Orlando"
 coordinates:
   latitude: 28.5383
   longitude: -81.3792
+  zoom: 12
 ---

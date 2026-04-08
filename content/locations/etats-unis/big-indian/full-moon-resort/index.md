@@ -4,6 +4,10 @@ locationId: "10f502aa-37e2-4192-b045-c9efc6135727"
 title: "Full Moon Resort"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.039628
+  longitude: -74.441818
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

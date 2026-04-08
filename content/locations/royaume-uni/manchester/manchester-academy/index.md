@@ -4,6 +4,10 @@ locationId: "0c8747fd-4b89-4805-a0a3-f361d9a7a48c"
 title: "Manchester Academy"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.463664
+  longitude: -2.23165
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

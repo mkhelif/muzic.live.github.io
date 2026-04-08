@@ -5,4 +5,5 @@ title: "Nendaz"
 coordinates:
   latitude: 46.1833
   longitude: 7.3
+  zoom: 12
 ---

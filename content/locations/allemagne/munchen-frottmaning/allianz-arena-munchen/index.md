@@ -4,6 +4,10 @@ locationId: "1816fb2a-ac48-4408-bda1-279ebfa71d67"
 title: "Allianz Arena München"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.21879
+  longitude: 11.623623
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

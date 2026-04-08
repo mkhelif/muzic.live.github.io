@@ -4,6 +4,10 @@ locationId: "5295c25b-6f23-4c07-a4c1-25ede3a499ff"
 title: "Rock No Rio Febras"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.514337
+  longitude: -8.3129
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

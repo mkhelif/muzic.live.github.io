@@ -4,6 +4,10 @@ locationId: "cda5ad29-3243-4772-aa45-821d72566730"
 title: "Blue Shell"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.927758
+  longitude: 6.939874
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

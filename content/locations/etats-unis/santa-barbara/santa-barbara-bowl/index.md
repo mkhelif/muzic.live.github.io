@@ -4,6 +4,10 @@ locationId: "d4a1248e-925e-4da7-847c-0c87637aeba5"
 title: "Santa Barbara Bowl"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 34.435115
+  longitude: -119.693409
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

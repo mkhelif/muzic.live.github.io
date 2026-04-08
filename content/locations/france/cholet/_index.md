@@ -5,4 +5,5 @@ title: "Cholet"
 coordinates:
   latitude: 47.06
   longitude: -0.88
+  zoom: 12
 ---

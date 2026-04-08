@@ -4,6 +4,10 @@ locationId: "9ce8b206-8d47-4b02-91de-81e83d4def65"
 title: "Dolans Warehouse"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.648596
+  longitude: -8.452319
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

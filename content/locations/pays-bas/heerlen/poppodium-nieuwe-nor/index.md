@@ -4,6 +4,10 @@ locationId: "429efbf1-25dd-4e94-924d-7d250bc70e02"
 title: "Poppodium Nieuwe Nor"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.887929
+  longitude: 5.981221
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

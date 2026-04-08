@@ -4,6 +4,10 @@ locationId: "312e0331-606d-429c-9f20-94002652ac2c"
 title: "Parco Di Villa Negri"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.634859
+  longitude: 11.406354
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

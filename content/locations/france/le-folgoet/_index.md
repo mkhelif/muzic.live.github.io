@@ -5,4 +5,5 @@ title: "Le Folgoet"
 coordinates:
   latitude: 48.56
   longitude: -4.3389
+  zoom: 14
 ---

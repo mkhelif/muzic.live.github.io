@@ -4,6 +4,10 @@ locationId: "b62510ed-58d0-4beb-8044-99ca330688b3"
 title: "Grote Kaai"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.106461
+  longitude: 3.990286
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

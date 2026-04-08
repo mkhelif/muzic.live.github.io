@@ -5,4 +5,5 @@ title: "Hlavni Mesto Praha"
 coordinates:
   latitude: 50.0755
   longitude: 14.4378
+  zoom: 12
 ---

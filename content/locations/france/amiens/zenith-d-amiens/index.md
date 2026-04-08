@@ -4,6 +4,10 @@ locationId: "72f6947a-b839-4fb5-bcb4-3706af79d02e"
 title: "Zenith D'Amiens"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.895624
+  longitude: 2.268129
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

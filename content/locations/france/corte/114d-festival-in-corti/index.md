@@ -4,6 +4,10 @@ locationId: "30551c0a-1806-4900-8968-8ef5fccc1405"
 title: "114D Festival In Corti"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.30529
+  longitude: 9.151193
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

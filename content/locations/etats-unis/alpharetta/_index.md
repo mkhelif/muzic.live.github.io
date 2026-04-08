@@ -5,4 +5,5 @@ title: "Alpharetta"
 coordinates:
   latitude: 34.0754
   longitude: -84.2941
+  zoom: 12
 ---

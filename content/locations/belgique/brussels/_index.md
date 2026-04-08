@@ -5,4 +5,5 @@ title: "Brussels"
 coordinates:
   latitude: 50.8503
   longitude: 4.3517
+  zoom: 11
 ---

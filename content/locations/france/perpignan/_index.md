@@ -5,4 +5,5 @@ title: "Perpignan"
 coordinates:
   latitude: 42.6986
   longitude: 2.8956
+  zoom: 12
 ---

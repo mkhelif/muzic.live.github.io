@@ -5,4 +5,5 @@ title: "Montauban"
 coordinates:
   latitude: 44.0175
   longitude: 1.3514
+  zoom: 12
 ---

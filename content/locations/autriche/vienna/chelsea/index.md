@@ -4,6 +4,10 @@ locationId: "e7210d43-c0cd-45eb-8334-0cecdb30ec0c"
 title: "Chelsea"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.209882
+  longitude: 16.338957
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

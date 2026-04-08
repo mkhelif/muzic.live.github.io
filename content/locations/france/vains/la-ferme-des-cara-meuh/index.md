@@ -4,6 +4,10 @@ locationId: "636ee5e6-c88b-4575-9948-5f9f78a3ab7c"
 title: "La Ferme Des Cara-Meuh!"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.681272
+  longitude: -1.412475
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

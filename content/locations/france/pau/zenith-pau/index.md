@@ -4,6 +4,10 @@ locationId: "ad4ed6de-4478-4f52-92e9-be04d0c9fcee"
 title: "Zenith Pau"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.330419
+  longitude: -0.358563
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

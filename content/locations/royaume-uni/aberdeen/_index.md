@@ -5,4 +5,5 @@ title: "Aberdeen"
 coordinates:
   latitude: 57.1497
   longitude: -2.0943
+  zoom: 12
 ---

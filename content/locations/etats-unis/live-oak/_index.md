@@ -5,4 +5,5 @@ title: "Live Oak"
 coordinates:
   latitude: 30.2955
   longitude: -83.1838
+  zoom: 14
 ---

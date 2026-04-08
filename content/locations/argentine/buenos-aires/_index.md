@@ -5,4 +5,5 @@ title: "Buenos Aires"
 coordinates:
   latitude: -34.6037
   longitude: -58.3816
+  zoom: 11
 ---

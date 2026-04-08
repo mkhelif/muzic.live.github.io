@@ -4,6 +4,10 @@ locationId: "4d78196e-1d23-4ec9-b75e-cea9bf192288"
 title: "Arena Du Pays D'Aix"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.472665
+  longitude: 5.404927
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

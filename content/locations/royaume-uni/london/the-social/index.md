@@ -4,6 +4,10 @@ locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "The Social"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.517319
+  longitude: -0.140818
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "f52523b1-19ae-41e8-b2f8-904532fc819d"
 title: "Place Bell"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.555842
+  longitude: -73.721663
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

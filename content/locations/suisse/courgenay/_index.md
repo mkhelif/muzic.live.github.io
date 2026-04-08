@@ -5,4 +5,5 @@ title: "Courgenay"
 coordinates:
   latitude: 47.4
   longitude: 7.1167
+  zoom: 14
 ---

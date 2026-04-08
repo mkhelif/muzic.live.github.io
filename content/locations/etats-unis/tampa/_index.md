@@ -5,4 +5,5 @@ title: "Tampa"
 coordinates:
   latitude: 27.9506
   longitude: -82.4572
+  zoom: 12
 ---

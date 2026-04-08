@@ -4,6 +4,10 @@ locationId: "bff8daaa-e73e-4e05-8113-89e2278cc9a7"
 title: "Transbordeur"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.784039
+  longitude: 4.860794
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "53968b01-cc6a-444d-8cdd-72c1aa28aea5"
 title: "Bierhübeli"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.071323
+  longitude: 7.366764
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

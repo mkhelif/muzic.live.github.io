@@ -5,4 +5,5 @@ title: "Strasbourg"
 coordinates:
   latitude: 48.5734
   longitude: 7.7521
+  zoom: 12
 ---

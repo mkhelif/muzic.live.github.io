@@ -4,6 +4,10 @@ locationId: "ff809897-a35e-45bd-a8c9-3d064ffa25f3"
 title: "Bottleneck"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.969842
+  longitude: -95.235068
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

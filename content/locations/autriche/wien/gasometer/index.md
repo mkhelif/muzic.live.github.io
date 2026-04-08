@@ -4,6 +4,10 @@ locationId: "324b1ac4-bd03-467a-808d-0918ff49a461"
 title: "Gasometer"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.184894
+  longitude: 16.417265
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

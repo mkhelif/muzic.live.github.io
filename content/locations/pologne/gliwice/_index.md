@@ -5,4 +5,5 @@ title: "Gliwice"
 coordinates:
   latitude: 50.2945
   longitude: 18.6714
+  zoom: 12
 ---

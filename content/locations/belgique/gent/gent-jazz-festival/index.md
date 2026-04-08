@@ -4,6 +4,10 @@ locationId: "bf772559-03c6-4403-971f-bf99bbb1c8b8"
 title: "Gent Jazz Festival"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.053829
+  longitude: 3.725012
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "23541265-6973-4fa0-99a9-7e237b50abc4"
 title: "Pirotska 5 Event Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.697703
+  longitude: 23.321736
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

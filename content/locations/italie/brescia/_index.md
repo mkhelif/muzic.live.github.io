@@ -5,4 +5,5 @@ title: "Brescia"
 coordinates:
   latitude: 45.5416
   longitude: 10.2118
+  zoom: 12
 ---

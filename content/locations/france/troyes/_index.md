@@ -5,4 +5,5 @@ title: "Troyes"
 coordinates:
   latitude: 48.2974
   longitude: 4.0744
+  zoom: 12
 ---

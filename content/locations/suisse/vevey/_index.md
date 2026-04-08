@@ -5,4 +5,5 @@ title: "Vevey"
 coordinates:
   latitude: 46.4628
   longitude: 6.8431
+  zoom: 12
 ---

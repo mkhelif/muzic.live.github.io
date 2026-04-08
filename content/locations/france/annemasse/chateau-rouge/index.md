@@ -4,6 +4,10 @@ locationId: "ba17ccd4-f0ee-41fa-adf8-d1b4020cba87"
 title: "Chateau Rouge"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.18852
+  longitude: 6.239011
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

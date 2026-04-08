@@ -4,6 +4,10 @@ locationId: "0090812b-62b4-49ef-8b30-63dff1324ed4"
 title: "The Elm"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.684735
+  longitude: -111.045585
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

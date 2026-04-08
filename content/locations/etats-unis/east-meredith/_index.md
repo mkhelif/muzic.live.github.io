@@ -5,4 +5,5 @@ title: "East Meredith"
 coordinates:
   latitude: 42.4251
   longitude: -74.9337
+  zoom: 14
 ---

@@ -4,6 +4,10 @@ locationId: "71754966-8000-4451-b9a3-6868c14e82aa"
 title: "La Halle Aux Grains"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.590197
+  longitude: 1.335657
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

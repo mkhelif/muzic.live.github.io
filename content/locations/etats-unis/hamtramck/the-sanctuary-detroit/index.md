@@ -4,6 +4,10 @@ locationId: "a732ab24-320b-46f6-8341-99205309ca23"
 title: "The Sanctuary Detroit"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.392815
+  longitude: -83.049644
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

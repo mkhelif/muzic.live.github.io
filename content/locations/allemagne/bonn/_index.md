@@ -5,4 +5,5 @@ title: "Bonn"
 coordinates:
   latitude: 50.7374
   longitude: 7.0982
+  zoom: 12
 ---

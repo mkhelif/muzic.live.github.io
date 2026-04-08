@@ -5,4 +5,5 @@ title: "Tacoma"
 coordinates:
   latitude: 47.2529
   longitude: -122.4443
+  zoom: 12
 ---

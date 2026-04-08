@@ -5,4 +5,5 @@ title: "Rottendorf"
 coordinates:
   latitude: 49.7917
   longitude: 10.025
+  zoom: 12
 ---

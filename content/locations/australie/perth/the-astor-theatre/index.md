@@ -4,6 +4,10 @@ locationId: "8283b5b3-77c7-43f6-a4b6-99e047499864"
 title: "The Astor Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -31.955897
+  longitude: 115.860578
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

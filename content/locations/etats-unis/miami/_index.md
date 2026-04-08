@@ -5,4 +5,5 @@ title: "Miami"
 coordinates:
   latitude: 25.7617
   longitude: -80.1918
+  zoom: 11
 ---

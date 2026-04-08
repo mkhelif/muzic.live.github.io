@@ -5,4 +5,5 @@ title: "Carmel"
 coordinates:
   latitude: 36.5552
   longitude: -121.9233
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "58f7fea2-96aa-4049-9ee4-18530a3c8283"
 title: "Phenomenon"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.654491
+  longitude: 8.494901
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

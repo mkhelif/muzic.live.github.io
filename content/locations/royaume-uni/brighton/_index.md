@@ -5,4 +5,5 @@ title: "Brighton"
 coordinates:
   latitude: 50.8225
   longitude: -0.1372
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "9db7e45e-4535-4a83-8f7e-a8220e5e0816"
 title: "Arena Campo Marte"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.779581
+  longitude: 10.425873
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

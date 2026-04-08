@@ -4,6 +4,10 @@ locationId: "baea2695-8026-4fdd-b9fc-45496462d7d4"
 title: "Théâtre Royal"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.455316
+  longitude: 3.95236
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

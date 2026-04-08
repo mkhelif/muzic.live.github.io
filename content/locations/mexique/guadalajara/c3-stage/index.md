@@ -4,6 +4,10 @@ locationId: "83cf21ef-c295-42da-9a84-94aada67f5e1"
 title: "C3 Stage"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 20.674741
+  longitude: -103.369531
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "2cfbf966-50fc-4735-bd77-670e8d4ba5cb"
 title: "Paramount Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.613245
+  longitude: -122.331356
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

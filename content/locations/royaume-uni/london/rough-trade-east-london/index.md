@@ -4,6 +4,10 @@ locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "Rough Trade East London"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.521202
+  longitude: -0.072416
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

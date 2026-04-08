@@ -4,6 +4,10 @@ locationId: "4c02ea45-b8ec-415a-a537-7cc13deb1666"
 title: "Terminal West"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.781498
+  longitude: -84.415441
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Menlo Park"
 coordinates:
   latitude: 37.453
   longitude: -122.1817
+  zoom: 12
 ---

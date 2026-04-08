@@ -5,4 +5,5 @@ title: "São Paulo"
 coordinates:
   latitude: -23.5505
   longitude: -46.6333
+  zoom: 11
 ---

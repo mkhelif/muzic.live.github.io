@@ -5,4 +5,5 @@ title: "Asheville"
 coordinates:
   latitude: 35.5951
   longitude: -82.5515
+  zoom: 12
 ---

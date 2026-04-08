@@ -4,6 +4,10 @@ locationId: "73012c37-557e-4813-8fd4-4b8516846a87"
 title: "Thekla"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.448977
+  longitude: -2.594184
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

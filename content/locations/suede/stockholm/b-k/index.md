@@ -4,6 +4,10 @@ locationId: "cf04546e-c226-46e3-b6d1-0dd25b746344"
 title: "B-K"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 59.257061
+  longitude: 17.869936
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

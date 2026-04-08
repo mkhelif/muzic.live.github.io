@@ -4,6 +4,10 @@ locationId: "344b10d0-d4d5-472e-a5fd-9d91e65d7b36"
 title: "Blue Fcu Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.397761
+  longitude: -105.07498
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

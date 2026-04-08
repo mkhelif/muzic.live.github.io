@@ -4,6 +4,10 @@ locationId: "4ccc7215-7dee-4e24-b3c8-c814996312b5"
 title: "Zenith De Rouen"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.406899
+  longitude: 1.050793
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

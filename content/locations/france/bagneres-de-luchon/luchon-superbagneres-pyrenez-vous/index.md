@@ -4,6 +4,10 @@ locationId: "5e1518b7-9d47-431d-8177-83e2f94c3a82"
 title: "Luchon Superbagnères Pyrenez-Vous"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.791062
+  longitude: 0.591228
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

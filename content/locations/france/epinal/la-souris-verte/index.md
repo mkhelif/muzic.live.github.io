@@ -4,6 +4,10 @@ locationId: "beb4133a-e786-4798-b466-58f1679ee993"
 title: "La Souris Verte"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.175632
+  longitude: 6.444018
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

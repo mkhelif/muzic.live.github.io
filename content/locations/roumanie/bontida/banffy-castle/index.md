@@ -4,6 +4,10 @@ locationId: "163e9652-4344-49c9-a270-5330ffa9b00c"
 title: "Bánffy Castle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.910253
+  longitude: 23.810321
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

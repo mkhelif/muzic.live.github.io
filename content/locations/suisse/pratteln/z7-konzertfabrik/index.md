@@ -4,6 +4,10 @@ locationId: "ff213cb0-a16d-44b6-9741-19de9641553e"
 title: "Z7 Konzertfabrik"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.527313
+  longitude: 7.694249
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

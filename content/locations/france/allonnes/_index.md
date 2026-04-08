@@ -5,4 +5,5 @@ title: "Allonnes"
 coordinates:
   latitude: 47.9667
   longitude: 0.1667
+  zoom: 12
 ---

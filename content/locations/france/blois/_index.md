@@ -5,4 +5,5 @@ title: "Blois"
 coordinates:
   latitude: 47.5861
   longitude: 1.3311
+  zoom: 12
 ---

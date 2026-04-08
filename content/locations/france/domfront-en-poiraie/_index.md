@@ -5,4 +5,5 @@ title: "Domfront en Poiraie"
 coordinates:
   latitude: 48.5903
   longitude: -0.6431
+  zoom: 14
 ---

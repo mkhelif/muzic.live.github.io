@@ -5,4 +5,5 @@ title: "Forest"
 coordinates:
   latitude: 50.8103
   longitude: 4.3197
+  zoom: 12
 ---

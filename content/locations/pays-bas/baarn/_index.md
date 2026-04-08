@@ -5,4 +5,5 @@ title: "Baarn"
 coordinates:
   latitude: 52.2117
   longitude: 5.2881
+  zoom: 12
 ---

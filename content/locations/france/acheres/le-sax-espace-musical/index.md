@@ -4,6 +4,10 @@ locationId: "c6224362-5c3b-4658-97d1-258a8df896eb"
 title: "Le Sax - Espace Musical"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.277456
+  longitude: 2.449182
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

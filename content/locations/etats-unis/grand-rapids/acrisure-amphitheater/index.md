@@ -4,6 +4,10 @@ locationId: "cc6613a5-b24f-4730-a434-ea8969be649a"
 title: "Acrisure Amphitheater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.959491
+  longitude: -85.677292
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

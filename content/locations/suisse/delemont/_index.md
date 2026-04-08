@@ -5,4 +5,5 @@ title: "Delemont"
 coordinates:
   latitude: 47.3647
   longitude: 7.3469
+  zoom: 12
 ---

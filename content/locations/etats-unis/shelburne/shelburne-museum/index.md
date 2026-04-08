@@ -4,6 +4,10 @@ locationId: "8229fbe9-1e75-492e-bf35-66399cd54552"
 title: "Shelburne Museum"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.373682
+  longitude: -73.232347
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

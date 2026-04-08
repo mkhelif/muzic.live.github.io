@@ -4,6 +4,10 @@ locationId: "cda5ad29-3243-4772-aa45-821d72566730"
 title: "Live Music Hall"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.949322
+  longitude: 6.909476
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

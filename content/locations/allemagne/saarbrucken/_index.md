@@ -5,4 +5,5 @@ title: "Saarbrücken"
 coordinates:
   latitude: 49.2401
   longitude: 6.9969
+  zoom: 12
 ---

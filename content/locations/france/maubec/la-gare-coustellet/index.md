@@ -4,6 +4,10 @@ locationId: "667f709a-b905-438b-9e15-b846d17e4a3a"
 title: "La Gare Coustellet"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.867338
+  longitude: 5.143504
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

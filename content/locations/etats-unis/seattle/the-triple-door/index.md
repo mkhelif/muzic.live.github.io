@@ -4,6 +4,10 @@ locationId: "2cfbf966-50fc-4735-bd77-670e8d4ba5cb"
 title: "The Triple Door"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.608644
+  longitude: -122.337685
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

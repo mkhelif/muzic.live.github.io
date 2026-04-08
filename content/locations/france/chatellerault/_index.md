@@ -5,4 +5,5 @@ title: "Chatellerault"
 coordinates:
   latitude: 46.8167
   longitude: 0.55
+  zoom: 12
 ---

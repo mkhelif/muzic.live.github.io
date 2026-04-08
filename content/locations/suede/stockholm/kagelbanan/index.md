@@ -4,6 +4,10 @@ locationId: "cf04546e-c226-46e3-b6d1-0dd25b746344"
 title: "Kägelbanan"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 59.327083
+  longitude: 17.954138
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "21305886-7d32-4d8f-827a-2b4bdf64130b"
 title: "Audiodrome Live Club"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.067755
+  longitude: 7.682489
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

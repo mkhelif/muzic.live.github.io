@@ -5,4 +5,5 @@ title: "St Dizier"
 coordinates:
   latitude: 48.6378
   longitude: 4.95
+  zoom: 12
 ---

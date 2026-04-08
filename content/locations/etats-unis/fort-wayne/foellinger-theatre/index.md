@@ -4,6 +4,10 @@ locationId: "f1b47896-5c9a-4820-ad13-8b6f4e056e37"
 title: "Foellinger Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.104304
+  longitude: -85.155998
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

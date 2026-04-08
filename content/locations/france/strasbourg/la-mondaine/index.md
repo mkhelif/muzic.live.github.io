@@ -4,6 +4,10 @@ locationId: "438b5f46-4051-452f-a825-fc2d234f8ef1"
 title: "La Mondaine"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.584614
+  longitude: 7.750713
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

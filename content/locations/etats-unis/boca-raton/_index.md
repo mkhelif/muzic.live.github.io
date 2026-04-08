@@ -5,4 +5,5 @@ title: "Boca Raton"
 coordinates:
   latitude: 26.3683
   longitude: -80.1289
+  zoom: 12
 ---

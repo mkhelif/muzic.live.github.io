@@ -4,6 +4,10 @@ locationId: "b19d146b-7123-4a66-aca7-c51e9a66e1cf"
 title: "Lahti Energia Tapahtumapuisto"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 61.017484
+  longitude: 25.63743
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "b871392f-c89a-4cde-9edd-e10577aa7333"
 title: "Sala Custom"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.408415
+  longitude: -5.957695
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

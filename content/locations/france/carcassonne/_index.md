@@ -5,4 +5,5 @@ title: "Carcassonne"
 coordinates:
   latitude: 43.213
   longitude: 2.3491
+  zoom: 12
 ---

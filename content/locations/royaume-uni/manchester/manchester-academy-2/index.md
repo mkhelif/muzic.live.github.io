@@ -4,6 +4,10 @@ locationId: "0c8747fd-4b89-4805-a0a3-f361d9a7a48c"
 title: "Manchester Academy 2"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.469165
+  longitude: -2.219842
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

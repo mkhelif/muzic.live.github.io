@@ -5,4 +5,5 @@ title: "Fontaneto D Agogna"
 coordinates:
   latitude: 45.5539
   longitude: 8.4761
+  zoom: 14
 ---

@@ -5,4 +5,5 @@ title: "Ennetmoos"
 coordinates:
   latitude: 46.95
   longitude: 8.3333
+  zoom: 14
 ---

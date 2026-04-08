@@ -4,6 +4,10 @@ locationId: "089b5bb7-d400-430f-ae45-0faa982e9272"
 title: "House Of Blues Orlando"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 28.542122
+  longitude: -81.379045
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

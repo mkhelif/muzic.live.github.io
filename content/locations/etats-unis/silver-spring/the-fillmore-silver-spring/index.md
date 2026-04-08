@@ -4,6 +4,10 @@ locationId: "759e910c-9ae1-4537-a866-ada917cb9dbb"
 title: "The Fillmore Silver Spring"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.997445
+  longitude: -77.027607
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

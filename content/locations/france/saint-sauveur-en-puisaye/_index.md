@@ -5,4 +5,5 @@ title: "Saint Sauveur En Puisaye"
 coordinates:
   latitude: 47.5639
   longitude: 3.1997
+  zoom: 14
 ---

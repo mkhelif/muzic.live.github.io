@@ -5,4 +5,5 @@ title: "Fort Mcdowell"
 coordinates:
   latitude: 33.5767
   longitude: -111.6706
+  zoom: 12
 ---

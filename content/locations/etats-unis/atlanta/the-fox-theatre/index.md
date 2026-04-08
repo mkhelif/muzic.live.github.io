@@ -4,6 +4,10 @@ locationId: "4c02ea45-b8ec-415a-a537-7cc13deb1666"
 title: "The Fox Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.773546
+  longitude: -84.385288
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

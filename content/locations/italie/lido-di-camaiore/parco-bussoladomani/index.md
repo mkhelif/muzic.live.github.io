@@ -4,6 +4,10 @@ locationId: "8c267084-b6c2-40f2-a3b8-3cd24c33f8f0"
 title: "Parco Bussoladomani"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.908737
+  longitude: 10.216611
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

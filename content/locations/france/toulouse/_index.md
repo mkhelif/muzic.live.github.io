@@ -5,4 +5,5 @@ title: "Toulouse"
 coordinates:
   latitude: 43.6047
   longitude: 1.4442
+  zoom: 12
 ---

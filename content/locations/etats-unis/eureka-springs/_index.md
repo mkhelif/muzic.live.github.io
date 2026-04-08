@@ -5,4 +5,5 @@ title: "Eureka Springs"
 coordinates:
   latitude: 36.4012
   longitude: -93.7377
+  zoom: 14
 ---

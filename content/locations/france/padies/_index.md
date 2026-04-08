@@ -5,4 +5,5 @@ title: "Padies"
 coordinates:
   latitude: 43.8
   longitude: 2.4333
+  zoom: 14
 ---

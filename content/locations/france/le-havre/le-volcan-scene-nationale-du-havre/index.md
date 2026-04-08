@@ -4,6 +4,10 @@ locationId: "2ab66b46-6a18-416d-84e4-b3221b39d127"
 title: "Le Volcan - Scène Nationale Du Havre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.490342
+  longitude: 0.106973
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

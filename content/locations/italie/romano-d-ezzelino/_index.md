@@ -5,4 +5,5 @@ title: "Romano D Ezzelino"
 coordinates:
   latitude: 45.7769
   longitude: 11.7708
+  zoom: 14
 ---

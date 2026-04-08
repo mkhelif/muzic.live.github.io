@@ -4,6 +4,10 @@ locationId: "95195430-2e6a-43e1-93ed-961df85b59f4"
 title: "Ruoff Music Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.004407
+  longitude: -85.928436
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

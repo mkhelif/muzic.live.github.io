@@ -4,6 +4,10 @@ locationId: "0a575593-fe2d-45f4-b6e4-895964e09ac9"
 title: "De La Warr Pavilion"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.837479
+  longitude: 0.471578
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

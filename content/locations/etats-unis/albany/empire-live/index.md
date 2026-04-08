@@ -4,6 +4,10 @@ locationId: "754d8971-3b0a-411c-a4aa-15df07888fda"
 title: "Empire Live"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.652745
+  longitude: -73.750411
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

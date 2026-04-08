@@ -5,4 +5,5 @@ title: "Geel"
 coordinates:
   latitude: 51.1667
   longitude: 4.9833
+  zoom: 12
 ---

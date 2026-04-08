@@ -5,4 +5,5 @@ title: "Roma"
 coordinates:
   latitude: 41.9028
   longitude: 12.4964
+  zoom: 11
 ---

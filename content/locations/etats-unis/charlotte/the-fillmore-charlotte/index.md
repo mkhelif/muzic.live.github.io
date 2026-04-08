@@ -4,6 +4,10 @@ locationId: "be6e20b0-338f-4df2-bfe5-446e4f1363d2"
 title: "The Fillmore Charlotte"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 35.239179
+  longitude: -80.845042
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Monteux"
 coordinates:
   latitude: 44.0361
   longitude: 5.0028
+  zoom: 12
 ---

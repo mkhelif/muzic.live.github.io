@@ -5,4 +5,5 @@ title: "Esch Sur Alzzette"
 coordinates:
   latitude: 49.4956
   longitude: 5.9806
+  zoom: 12
 ---

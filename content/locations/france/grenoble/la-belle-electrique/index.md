@@ -4,6 +4,10 @@ locationId: "f70d8251-8e4c-41cb-9d03-4afefcc243d8"
 title: "La Belle Electrique"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.187171
+  longitude: 5.704152
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

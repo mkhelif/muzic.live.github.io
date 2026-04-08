@@ -5,4 +5,5 @@ title: "Birmingham"
 coordinates:
   latitude: 52.4862
   longitude: -1.8904
+  zoom: 11
 ---

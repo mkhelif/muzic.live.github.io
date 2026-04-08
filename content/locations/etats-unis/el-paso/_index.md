@@ -5,4 +5,5 @@ title: "El Paso"
 coordinates:
   latitude: 31.7619
   longitude: -106.485
+  zoom: 12
 ---

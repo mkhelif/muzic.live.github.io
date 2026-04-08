@@ -4,6 +4,10 @@ locationId: "9ed45176-f579-49e1-9d43-a80783b924c6"
 title: "Slaughter Club"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.575565
+  longitude: 9.15202
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

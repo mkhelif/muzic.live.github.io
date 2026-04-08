@@ -5,4 +5,5 @@ title: "Abu Dhabi"
 coordinates:
   latitude: 24.4539
   longitude: 54.3773
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Berkshire"
 coordinates:
   latitude: 51.4531
   longitude: -1.015
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "5bb2bb3c-fc7f-4b68-9715-9b7087c1e8c0"
 title: "Lac de Nantua"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.161853
+  longitude: 5.58754
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

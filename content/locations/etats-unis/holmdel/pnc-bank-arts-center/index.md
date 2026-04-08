@@ -4,6 +4,10 @@ locationId: "0d8d91e4-121d-4d3c-8f3e-5bdfb7a612ca"
 title: "Pnc Bank Arts Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.393593
+  longitude: -74.175596
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

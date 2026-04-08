@@ -5,4 +5,5 @@ title: "Puente Tocinos"
 coordinates:
   latitude: 38.0083
   longitude: -1.0875
+  zoom: 12
 ---

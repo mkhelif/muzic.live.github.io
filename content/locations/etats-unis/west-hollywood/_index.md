@@ -5,4 +5,5 @@ title: "West Hollywood"
 coordinates:
   latitude: 34.09
   longitude: -118.3617
+  zoom: 12
 ---

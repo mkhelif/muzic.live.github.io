@@ -4,6 +4,10 @@ locationId: "a816e409-4848-4c8b-83c7-10f6ac536980"
 title: "Anfiteatro Scavi Di Pompei"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.749127
+  longitude: 14.500642
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

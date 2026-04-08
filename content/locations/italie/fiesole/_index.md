@@ -5,4 +5,5 @@ title: "Fiesole"
 coordinates:
   latitude: 43.8044
   longitude: 11.2919
+  zoom: 12
 ---

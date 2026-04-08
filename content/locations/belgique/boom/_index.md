@@ -5,4 +5,5 @@ title: "Boom"
 coordinates:
   latitude: 51.0904
   longitude: 4.3686
+  zoom: 12
 ---

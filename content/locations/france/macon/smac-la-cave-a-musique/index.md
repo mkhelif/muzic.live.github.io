@@ -4,6 +4,10 @@ locationId: "48d6eefd-b3fd-4598-98f6-2f33493e50ef"
 title: "Smac - La Cave À Musique"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.303668
+  longitude: 4.832227
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

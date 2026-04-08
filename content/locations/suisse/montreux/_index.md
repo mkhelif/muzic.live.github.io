@@ -5,4 +5,5 @@ title: "Montreux"
 coordinates:
   latitude: 46.4312
   longitude: 6.9107
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Asnieres Sur Seine"
 coordinates:
   latitude: 48.9117
   longitude: 2.2847
+  zoom: 12
 ---

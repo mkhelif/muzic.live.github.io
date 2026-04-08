@@ -4,6 +4,10 @@ locationId: "c86707ff-3cbc-423a-bd4b-499ce4d14f15"
 title: "Quai Des Arts"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.265312
+  longitude: -2.335519
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

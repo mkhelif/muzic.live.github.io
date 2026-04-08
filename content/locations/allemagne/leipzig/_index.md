@@ -5,4 +5,5 @@ title: "Leipzig"
 coordinates:
   latitude: 51.3397
   longitude: 12.3731
+  zoom: 12
 ---

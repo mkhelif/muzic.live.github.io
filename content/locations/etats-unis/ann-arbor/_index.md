@@ -5,4 +5,5 @@ title: "Ann Arbor"
 coordinates:
   latitude: 42.2808
   longitude: -83.743
+  zoom: 12
 ---

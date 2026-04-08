@@ -5,4 +5,5 @@ title: "Joue Les Tours"
 coordinates:
   latitude: 47.3522
   longitude: 0.6622
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "75a4a798-ef05-412d-b73d-8ad877da2278"
 title: "Amfiteatr W Płocku"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.5463
+  longitude: 19.7065
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "a247a437-395f-469d-b44d-7154ea3597a4"
 title: "Espace Culturel Grossemy"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.479062
+  longitude: 2.536909
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

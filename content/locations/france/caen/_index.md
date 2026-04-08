@@ -5,4 +5,5 @@ title: "Caen"
 coordinates:
   latitude: 49.1829
   longitude: -0.3707
+  zoom: 12
 ---

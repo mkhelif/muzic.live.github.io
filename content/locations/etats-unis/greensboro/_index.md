@@ -5,4 +5,5 @@ title: "Greensboro"
 coordinates:
   latitude: 36.0726
   longitude: -79.792
+  zoom: 12
 ---

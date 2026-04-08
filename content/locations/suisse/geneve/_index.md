@@ -5,4 +5,5 @@ title: "Genève"
 coordinates:
   latitude: 46.2043907
   longitude: 6.1431577
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Puget Sur Argens"
 coordinates:
   latitude: 43.455
   longitude: 6.6847
+  zoom: 12
 ---

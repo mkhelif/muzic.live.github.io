@@ -5,4 +5,5 @@ title: "Ankara"
 coordinates:
   latitude: 39.9334
   longitude: 32.8597
+  zoom: 12
 ---

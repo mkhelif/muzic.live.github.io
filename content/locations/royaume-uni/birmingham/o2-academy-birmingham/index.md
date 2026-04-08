@@ -4,6 +4,10 @@ locationId: "9b65ee99-93db-4a11-96d5-5056486ff09e"
 title: "O2 Academy Birmingham"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.473113
+  longitude: -1.900265
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

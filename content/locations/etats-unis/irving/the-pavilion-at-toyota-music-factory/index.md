@@ -4,6 +4,10 @@ locationId: "01cff597-338d-4de6-abe1-b26e30967987"
 title: "The Pavilion At Toyota Music Factory"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 32.829518
+  longitude: -96.944218
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

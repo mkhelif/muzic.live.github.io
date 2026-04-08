@@ -5,4 +5,5 @@ title: "Edingen"
 coordinates:
   latitude: 50.6928
   longitude: 4.0497
+  zoom: 12
 ---

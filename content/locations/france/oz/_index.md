@@ -5,4 +5,5 @@ title: "Oz"
 coordinates:
   latitude: 45.0833
   longitude: 6.0667
+  zoom: 14
 ---

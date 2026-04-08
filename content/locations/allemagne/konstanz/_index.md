@@ -5,4 +5,5 @@ title: "Konstanz"
 coordinates:
   latitude: 47.6633
   longitude: 9.1753
+  zoom: 12
 ---

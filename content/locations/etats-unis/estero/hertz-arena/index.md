@@ -4,6 +4,10 @@ locationId: "0a5b62fa-7c8e-423c-a8b4-c1a312a49c9e"
 title: "Hertz Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 26.440457
+  longitude: -81.77884
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

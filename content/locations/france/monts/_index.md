@@ -5,4 +5,5 @@ title: "Monts"
 coordinates:
   latitude: 47.275
   longitude: 0.6333
+  zoom: 14
 ---

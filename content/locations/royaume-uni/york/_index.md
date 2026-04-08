@@ -5,4 +5,5 @@ title: "York"
 coordinates:
   latitude: 53.9591
   longitude: -1.0815
+  zoom: 12
 ---

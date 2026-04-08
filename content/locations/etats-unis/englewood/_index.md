@@ -5,4 +5,5 @@ title: "Englewood"
 coordinates:
   latitude: 39.648
   longitude: -104.9879
+  zoom: 12
 ---

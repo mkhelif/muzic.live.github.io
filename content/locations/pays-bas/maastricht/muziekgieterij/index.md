@@ -4,6 +4,10 @@ locationId: "833fe36a-3dda-4c1f-be97-d8b61f09853f"
 title: "Muziekgieterij"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.857018
+  longitude: 5.690747
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

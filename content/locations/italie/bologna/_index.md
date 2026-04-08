@@ -5,4 +5,5 @@ title: "Bologna"
 coordinates:
   latitude: 44.4949
   longitude: 11.3426
+  zoom: 12
 ---

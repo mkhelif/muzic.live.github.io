@@ -4,6 +4,10 @@ locationId: "defec116-a1b7-48fb-836a-87c238db5bf3"
 title: "Justme Milano"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.473132
+  longitude: 9.172942
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "878c87ce-db86-4fae-844b-8ae314d2ffc4"
 title: "Theatre Simone Signoret"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.998085
+  longitude: 2.098894
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

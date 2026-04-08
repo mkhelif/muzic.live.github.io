@@ -5,4 +5,5 @@ title: "Orange"
 coordinates:
   latitude: 44.1369
   longitude: 4.8081
+  zoom: 12
 ---

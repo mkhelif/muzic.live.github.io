@@ -5,4 +5,5 @@ title: "Aarau"
 coordinates:
   latitude: 47.3925
   longitude: 8.0444
+  zoom: 12
 ---

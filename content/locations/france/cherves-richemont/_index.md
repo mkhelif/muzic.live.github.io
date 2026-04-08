@@ -5,4 +5,5 @@ title: "Cherves Richemont"
 coordinates:
   latitude: 45.7447
   longitude: -0.3542
+  zoom: 14
 ---

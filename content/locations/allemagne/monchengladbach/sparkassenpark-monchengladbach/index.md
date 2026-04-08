@@ -4,6 +4,10 @@ locationId: "c5d49c86-2c0b-4958-9e28-ff6749ab99c6"
 title: "Sparkassenpark Mönchengladbach"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.178259
+  longitude: 6.389632
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

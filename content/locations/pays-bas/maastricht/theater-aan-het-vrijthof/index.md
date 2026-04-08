@@ -4,6 +4,10 @@ locationId: "833fe36a-3dda-4c1f-be97-d8b61f09853f"
 title: "Theater Aan Het Vrijthof"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.850222
+  longitude: 5.687979
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

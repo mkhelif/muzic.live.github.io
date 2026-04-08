@@ -5,4 +5,5 @@ title: "Villeurbanne"
 coordinates:
   latitude: 45.7667
   longitude: 4.8833
+  zoom: 12
 ---

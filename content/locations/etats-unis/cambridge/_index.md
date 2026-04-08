@@ -5,4 +5,5 @@ title: "Cambridge"
 coordinates:
   latitude: 42.3736
   longitude: -71.1097
+  zoom: 12
 ---

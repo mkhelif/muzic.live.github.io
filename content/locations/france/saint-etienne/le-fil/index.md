@@ -4,6 +4,10 @@ locationId: "768581cb-f0d0-4508-992c-3bd25268bedd"
 title: "Le Fil"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.44995
+  longitude: 4.390749
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

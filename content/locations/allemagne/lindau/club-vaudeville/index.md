@@ -4,6 +4,10 @@ locationId: "0e303708-26b3-4fde-860d-55e3bfcef3ab"
 title: "Club Vaudeville"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.551256
+  longitude: 9.723319
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

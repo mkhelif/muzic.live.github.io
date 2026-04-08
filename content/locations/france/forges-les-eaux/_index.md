@@ -5,4 +5,5 @@ title: "Forges Les Eaux"
 coordinates:
   latitude: 49.6147
   longitude: 1.5422
+  zoom: 12
 ---

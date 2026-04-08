@@ -5,4 +5,5 @@ title: "Tautii Magheraus"
 coordinates:
   latitude: 47.6717
   longitude: 23.7117
+  zoom: 14
 ---

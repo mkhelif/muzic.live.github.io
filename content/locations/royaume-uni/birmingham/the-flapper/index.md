@@ -4,6 +4,10 @@ locationId: "9b65ee99-93db-4a11-96d5-5056486ff09e"
 title: "The Flapper"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.480461
+  longitude: -1.912038
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

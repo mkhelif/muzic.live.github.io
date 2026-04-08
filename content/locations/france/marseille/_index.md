@@ -5,4 +5,5 @@ title: "Marseille"
 coordinates:
   latitude: 43.2965
   longitude: 5.3698
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "dfdc52d2-137d-4a56-9706-85e1abbfcad0"
 title: "Tupelo Music Hall"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.880868
+  longitude: -71.326449
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

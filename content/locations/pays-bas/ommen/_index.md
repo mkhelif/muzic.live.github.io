@@ -5,4 +5,5 @@ title: "Ommen"
 coordinates:
   latitude: 52.5243
   longitude: 6.4242
+  zoom: 14
 ---

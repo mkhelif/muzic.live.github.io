@@ -4,6 +4,10 @@ locationId: "a30032ba-865c-439f-8b53-365172049379"
 title: "Club Chroma"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.563656
+  longitude: 126.99751
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

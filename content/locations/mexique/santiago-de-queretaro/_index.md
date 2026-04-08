@@ -5,4 +5,5 @@ title: "Santiago De Queretaro"
 coordinates:
   latitude: 20.5888
   longitude: -100.3899
+  zoom: 12
 ---

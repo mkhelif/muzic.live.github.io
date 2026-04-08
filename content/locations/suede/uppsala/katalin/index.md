@@ -4,6 +4,10 @@ locationId: "6e88a657-e868-42a2-96d7-7e3ea962126a"
 title: "Katalin"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 59.859867
+  longitude: 17.645761
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

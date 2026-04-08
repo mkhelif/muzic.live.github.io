@@ -5,4 +5,5 @@ title: "Trelins"
 coordinates:
   latitude: 45.7
   longitude: 4.0
+  zoom: 14
 ---

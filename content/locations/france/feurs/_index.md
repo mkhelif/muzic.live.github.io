@@ -5,4 +5,5 @@ title: "Feurs"
 coordinates:
   latitude: 45.7333
   longitude: 4.2333
+  zoom: 14
 ---

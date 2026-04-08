@@ -4,6 +4,10 @@ locationId: "1c7d1c1d-f3d5-4630-aec4-6a1ade546b05"
 title: "Tubby’S Kingston"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.929423
+  longitude: -74.003622
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

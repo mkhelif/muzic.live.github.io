@@ -5,4 +5,5 @@ title: "Bielefeld"
 coordinates:
   latitude: 52.0302
   longitude: 8.5325
+  zoom: 12
 ---

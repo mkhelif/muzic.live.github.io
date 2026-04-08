@@ -4,6 +4,10 @@ locationId: "d8a4f6eb-01b8-4331-987d-b5ebb6626d15"
 title: "Oran Mor"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 55.877555
+  longitude: -4.289702
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

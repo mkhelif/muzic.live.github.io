@@ -4,6 +4,10 @@ locationId: "e1ba16ce-3d9e-4c30-aac6-a7053f19310a"
 title: "Adelaide Entertainment Centre Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -34.928181
+  longitude: 138.599931
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Leverkusen"
 coordinates:
   latitude: 51.0459
   longitude: 6.9844
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Macon"
 coordinates:
   latitude: 46.3067
   longitude: 4.8283
+  zoom: 12
 ---

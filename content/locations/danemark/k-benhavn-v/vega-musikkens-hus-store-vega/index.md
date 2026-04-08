@@ -4,6 +4,10 @@ locationId: "339fcc02-815d-4540-89d8-7437669dcd7e"
 title: "Vega - Musikkens Hus, Store Vega"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 55.67
+  longitude: 12.5439
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

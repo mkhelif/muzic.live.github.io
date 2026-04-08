@@ -4,6 +4,10 @@ locationId: "4897cbb1-225d-4359-b072-4eed0b8c9fdb"
 title: "We-Ko-Pa Casino Resort"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.63671
+  longitude: -111.674583
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

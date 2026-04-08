@@ -4,6 +4,10 @@ locationId: "79b42cf6-77e6-4fbe-90c0-52419cabcd9e"
 title: "Zoom Frankfurt"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.121735
+  longitude: 8.750661
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

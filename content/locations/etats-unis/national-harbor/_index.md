@@ -5,4 +5,5 @@ title: "National Harbor"
 coordinates:
   latitude: 38.7826
   longitude: -77.0147
+  zoom: 12
 ---

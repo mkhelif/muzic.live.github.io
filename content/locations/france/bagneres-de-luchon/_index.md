@@ -5,4 +5,5 @@ title: "Bagneres De Luchon"
 coordinates:
   latitude: 42.7908
   longitude: 0.5944
+  zoom: 12
 ---

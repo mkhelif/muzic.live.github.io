@@ -4,6 +4,10 @@ locationId: "e747ad89-4f71-4b51-9a4e-d108982477e2"
 title: "Salle Des Fêtes De Pierre Chatel"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.0126
+  longitude: 5.7585
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

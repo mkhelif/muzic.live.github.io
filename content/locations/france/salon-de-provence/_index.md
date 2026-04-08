@@ -5,4 +5,5 @@ title: "Salon De Provence"
 coordinates:
   latitude: 43.6407
   longitude: 5.098
+  zoom: 12
 ---

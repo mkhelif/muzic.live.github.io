@@ -4,6 +4,10 @@ locationId: "75c6dee5-d195-4a71-b504-fae5a11efaf5"
 title: "Théatre Antique De Vienne"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.524853
+  longitude: 4.878913
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

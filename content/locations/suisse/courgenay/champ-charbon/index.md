@@ -4,5 +4,9 @@ locationId: "db781409-27af-4c88-b75a-399a8ec7df20"
 title: "Champ Charbon"
 cover: "cover.jpg"
 address: "Champ Charbon, 2950 Courgenay, Suisse"
+coordinates:
+  latitude: 47.404543
+  longitude: 7.124296
+  zoom: 17
 ---
 

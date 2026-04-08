@@ -4,6 +4,10 @@ locationId: "81d9c2fa-cf0f-44ab-9a91-15430624dc9b"
 title: "Royal Highland Showgrounds"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 55.953346
+  longitude: -3.188375
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

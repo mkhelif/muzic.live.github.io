@@ -5,4 +5,5 @@ title: "Sofia"
 coordinates:
   latitude: 42.6977
   longitude: 23.3219
+  zoom: 12
 ---

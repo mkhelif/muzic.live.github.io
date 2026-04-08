@@ -5,4 +5,5 @@ title: "Indianapolis"
 coordinates:
   latitude: 39.7684
   longitude: -86.1581
+  zoom: 12
 ---

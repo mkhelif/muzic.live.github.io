@@ -5,4 +5,5 @@ title: "Jacksonville"
 coordinates:
   latitude: 30.3322
   longitude: -81.6557
+  zoom: 12
 ---

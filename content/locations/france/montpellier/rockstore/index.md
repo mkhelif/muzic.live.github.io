@@ -4,6 +4,10 @@ locationId: "c0ff72ce-a134-48a8-aa65-5ebb9a61e2d7"
 title: "Rockstore"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.606242
+  longitude: 3.881365
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

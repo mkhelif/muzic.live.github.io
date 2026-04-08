@@ -5,4 +5,5 @@ title: "Hamden"
 coordinates:
   latitude: 41.3959
   longitude: -72.8968
+  zoom: 12
 ---

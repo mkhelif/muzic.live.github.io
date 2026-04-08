@@ -4,6 +4,10 @@ locationId: "222f0ce2-bf0e-487f-80a1-a1badda97a76"
 title: "Hard Rock Live"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 26.0523
+  longitude: -80.211613
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

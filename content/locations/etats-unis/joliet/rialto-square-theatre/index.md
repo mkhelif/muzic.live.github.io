@@ -4,6 +4,10 @@ locationId: "7529725f-14ae-4f2f-bc85-1fe49208a67e"
 title: "Rialto Square Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.526331
+  longitude: -88.080967
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

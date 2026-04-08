@@ -5,4 +5,5 @@ title: "Zapopan"
 coordinates:
   latitude: 20.7214
   longitude: -103.3911
+  zoom: 12
 ---

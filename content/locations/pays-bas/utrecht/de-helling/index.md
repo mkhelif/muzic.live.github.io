@@ -4,6 +4,10 @@ locationId: "29298140-7818-49e2-96bd-1053c73e6f9b"
 title: "De Helling"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.251002
+  longitude: 5.311206
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

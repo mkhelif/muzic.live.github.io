@@ -4,6 +4,10 @@ locationId: "50207598-de3a-4ed2-a8ec-9976cd5b83c3"
 title: "Bmo Pavilion"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.028586
+  longitude: -87.896615
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

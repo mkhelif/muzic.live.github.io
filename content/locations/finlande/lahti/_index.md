@@ -5,4 +5,5 @@ title: "Lahti"
 coordinates:
   latitude: 60.9827
   longitude: 25.6612
+  zoom: 12
 ---

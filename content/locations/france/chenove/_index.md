@@ -5,4 +5,5 @@ title: "Chenove"
 coordinates:
   latitude: 47.2917
   longitude: 5.0083
+  zoom: 12
 ---

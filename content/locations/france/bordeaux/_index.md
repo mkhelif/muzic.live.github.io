@@ -5,4 +5,5 @@ title: "Bordeaux"
 coordinates:
   latitude: 44.8378
   longitude: -0.5792
+  zoom: 12
 ---

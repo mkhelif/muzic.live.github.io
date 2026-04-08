@@ -4,6 +4,10 @@ locationId: "c807e8e2-0246-48c9-9835-1b87946287ac"
 title: "Zorlu Center For Performing Arts"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.006381
+  longitude: 28.975872
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

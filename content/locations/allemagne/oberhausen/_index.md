@@ -5,4 +5,5 @@ title: "Oberhausen"
 coordinates:
   latitude: 51.4963
   longitude: 6.8625
+  zoom: 12
 ---

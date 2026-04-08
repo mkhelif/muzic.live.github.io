@@ -4,6 +4,10 @@ locationId: "a0c3159f-08ab-45d6-bb5a-c07cbaf9f180"
 title: "Crok'Nature"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.041912
+  longitude: 2.364186
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

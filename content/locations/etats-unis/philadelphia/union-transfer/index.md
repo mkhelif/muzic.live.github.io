@@ -4,6 +4,10 @@ locationId: "c37d560d-b5e7-4c0f-a215-08160fc54a8d"
 title: "Union Transfer"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.961382
+  longitude: -75.155345
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "673262d4-2107-4cd5-85c2-6e654523f721"
 title: "Icf: Warehouse"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -31.947851
+  longitude: 115.857546
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

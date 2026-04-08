@@ -5,4 +5,5 @@ title: "Pomona"
 coordinates:
   latitude: 34.0551
   longitude: -117.75
+  zoom: 12
 ---

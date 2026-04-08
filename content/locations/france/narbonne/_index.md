@@ -5,4 +5,5 @@ title: "Narbonne"
 coordinates:
   latitude: 43.1842
   longitude: 2.9992
+  zoom: 12
 ---

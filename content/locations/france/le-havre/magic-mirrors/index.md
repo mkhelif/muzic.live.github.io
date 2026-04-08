@@ -4,6 +4,10 @@ locationId: "2ab66b46-6a18-416d-84e4-b3221b39d127"
 title: "Magic Mirrors"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.48924
+  longitude: 0.12048
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

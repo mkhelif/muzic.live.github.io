@@ -5,4 +5,5 @@ title: "Montpellier"
 coordinates:
   latitude: 43.6108
   longitude: 3.8767
+  zoom: 12
 ---

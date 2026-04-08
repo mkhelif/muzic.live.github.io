@@ -4,6 +4,10 @@ locationId: "2c7210f3-5e4e-4d85-8788-f0c9bd9e5be8"
 title: "The Pageant"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.655627
+  longitude: -90.297942
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

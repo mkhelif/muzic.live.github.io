@@ -4,6 +4,10 @@ locationId: "cabbb036-e352-4e40-96b4-70c74172929f"
 title: "Chabada"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.489463
+  longitude: -0.536909
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "c55eaedb-16b9-49b2-8e09-dabeb7d64a4a"
 title: "P&J Live, Aberdeen"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 57.185624
+  longitude: -2.187669
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

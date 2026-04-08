@@ -5,4 +5,5 @@ title: "Pelham"
 coordinates:
   latitude: 33.2856
   longitude: -86.81
+  zoom: 12
 ---

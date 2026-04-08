@@ -4,6 +4,10 @@ locationId: "24423496-442c-4db3-91d3-94e0c078ea21"
 title: "Millennium Square Leeds"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.80154
+  longitude: -1.54826
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Annapolis"
 coordinates:
   latitude: 38.9784
   longitude: -76.4922
+  zoom: 12
 ---

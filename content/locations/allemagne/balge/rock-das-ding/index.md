@@ -4,6 +4,10 @@ locationId: "477a2975-da3f-460a-b105-09e623c9758c"
 title: "Rock Das Ding"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.719187
+  longitude: 9.186428
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

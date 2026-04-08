@@ -5,4 +5,5 @@ title: "Lucca"
 coordinates:
   latitude: 43.8376
   longitude: 10.4951
+  zoom: 12
 ---

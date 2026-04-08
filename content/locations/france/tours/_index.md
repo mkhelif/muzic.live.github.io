@@ -5,4 +5,5 @@ title: "Tours"
 coordinates:
   latitude: 47.3941
   longitude: 0.6848
+  zoom: 12
 ---

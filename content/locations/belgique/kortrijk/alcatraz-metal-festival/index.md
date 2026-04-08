@@ -4,6 +4,10 @@ locationId: "434793ed-2707-43da-b574-18a8a12f3fd2"
 title: "Alcatraz Metal Festival"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.827643
+  longitude: 3.265988
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

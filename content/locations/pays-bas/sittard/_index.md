@@ -5,4 +5,5 @@ title: "Sittard"
 coordinates:
   latitude: 50.9979
   longitude: 5.8687
+  zoom: 12
 ---

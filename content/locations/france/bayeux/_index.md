@@ -5,4 +5,5 @@ title: "Bayeux"
 coordinates:
   latitude: 49.2764
   longitude: -0.7025
+  zoom: 12
 ---

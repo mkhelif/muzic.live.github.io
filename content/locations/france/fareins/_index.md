@@ -5,4 +5,5 @@ title: "Fareins"
 coordinates:
   latitude: 46.0333
   longitude: 4.7667
+  zoom: 14
 ---

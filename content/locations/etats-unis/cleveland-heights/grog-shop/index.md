@@ -4,6 +4,10 @@ locationId: "d2a18723-cc1c-4d00-9b47-99149f616adc"
 title: "Grog Shop"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.508265
+  longitude: -81.580437
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

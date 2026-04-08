@@ -4,6 +4,10 @@ locationId: "1bb72542-1239-4444-8f23-a765ea61cb26"
 title: "Archa+"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.089508
+  longitude: 14.434176
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

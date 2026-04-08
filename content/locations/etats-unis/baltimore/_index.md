@@ -5,4 +5,5 @@ title: "Baltimore"
 coordinates:
   latitude: 39.2904
   longitude: -76.6122
+  zoom: 12
 ---

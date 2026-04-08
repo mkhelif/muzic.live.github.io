@@ -5,4 +5,5 @@ title: "Chicago"
 coordinates:
   latitude: 41.8781
   longitude: -87.6298
+  zoom: 11
 ---

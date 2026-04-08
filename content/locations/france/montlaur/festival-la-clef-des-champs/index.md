@@ -4,6 +4,10 @@ locationId: "95d2cd6d-8e1e-4458-810e-50f716480afc"
 title: "Festival La Clef Des Champs"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.488445
+  longitude: 1.57015
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

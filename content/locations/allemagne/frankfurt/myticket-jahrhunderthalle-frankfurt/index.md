@@ -4,6 +4,10 @@ locationId: "79b42cf6-77e6-4fbe-90c0-52419cabcd9e"
 title: "Myticket Jahrhunderthalle Frankfurt"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.110644
+  longitude: 8.682092
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

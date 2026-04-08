@@ -4,6 +4,10 @@ locationId: "f17238a4-f3e2-4cd5-b008-9f5baf97d55b"
 title: "Yaamava' Theater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.180252
+  longitude: -83.630434
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

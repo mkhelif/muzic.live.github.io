@@ -5,4 +5,5 @@ title: "The Woodlands"
 coordinates:
   latitude: 30.1658
   longitude: -95.4613
+  zoom: 12
 ---

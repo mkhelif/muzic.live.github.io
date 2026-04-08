@@ -5,4 +5,5 @@ title: "Hopewell"
 coordinates:
   latitude: 40.3893
   longitude: -74.659
+  zoom: 12
 ---

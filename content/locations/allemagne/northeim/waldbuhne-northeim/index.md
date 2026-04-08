@@ -4,6 +4,10 @@ locationId: "e0db7311-99fc-4899-8e03-6b107c8d0381"
 title: "Waldbühne Northeim"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.703106
+  longitude: 10.025088
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

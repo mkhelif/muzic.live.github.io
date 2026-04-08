@@ -4,6 +4,10 @@ locationId: "b2358ddf-1fa2-41ae-860d-d46d78e05402"
 title: "The Anthem"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.880065
+  longitude: -77.025897
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

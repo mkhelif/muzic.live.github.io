@@ -5,4 +5,5 @@ title: "La Ferte Saint Aubin"
 coordinates:
   latitude: 47.7228
   longitude: 1.9397
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Sevilla"
 coordinates:
   latitude: 37.3891
   longitude: -5.9845
+  zoom: 12
 ---

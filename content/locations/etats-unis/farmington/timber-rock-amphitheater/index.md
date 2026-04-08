@@ -4,6 +4,10 @@ locationId: "8aa2a03f-fe02-47eb-8dcb-82bd0b6955bd"
 title: "Timber Rock Amphitheater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.640243
+  longitude: -93.14355
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

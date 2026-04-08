@@ -4,6 +4,10 @@ locationId: "7e89e242-fe73-4cd4-8546-dad62c561c56"
 title: "Divinya"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 55.85
+  longitude: 13.316667
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

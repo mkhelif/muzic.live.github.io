@@ -5,4 +5,5 @@ title: "Monchengladbach"
 coordinates:
   latitude: 51.1805
   longitude: 6.4428
+  zoom: 12
 ---

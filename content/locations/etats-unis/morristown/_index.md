@@ -5,4 +5,5 @@ title: "Morristown"
 coordinates:
   latitude: 40.7968
   longitude: -74.4815
+  zoom: 12
 ---

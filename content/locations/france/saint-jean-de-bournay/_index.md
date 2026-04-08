@@ -5,4 +5,5 @@ title: "Saint Jean De Bournay"
 coordinates:
   latitude: 45.5017
   longitude: 5.1414
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "9b65ee99-93db-4a11-96d5-5056486ff09e"
 title: "The Jam House Birmingham"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.484985
+  longitude: -1.904693
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

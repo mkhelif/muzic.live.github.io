@@ -4,6 +4,10 @@ locationId: "8725606b-e3df-4200-b0ea-3c1efaf084e8"
 title: "Big Top Chautauqua - Concert Venue"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.471024
+  longitude: -91.198318
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

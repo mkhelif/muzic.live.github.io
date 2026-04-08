@@ -5,4 +5,5 @@ title: "Saint-Nazaire"
 coordinates:
   latitude: 47.2733
   longitude: -2.2136
+  zoom: 12
 ---

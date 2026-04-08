@@ -4,6 +4,10 @@ locationId: "83887387-3ab6-43e4-8679-277956a14fb1"
 title: "Tvornica Kulture"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.808729
+  longitude: 15.992189
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

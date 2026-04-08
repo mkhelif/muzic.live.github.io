@@ -4,6 +4,10 @@ locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "Hyde Park"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.507489
+  longitude: -0.162207
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

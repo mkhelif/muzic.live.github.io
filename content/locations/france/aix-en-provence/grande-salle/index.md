@@ -4,6 +4,10 @@ locationId: "4d78196e-1d23-4ec9-b75e-cea9bf192288"
 title: "Grande Salle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.42756
+  longitude: 5.48567
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

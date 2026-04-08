@@ -4,6 +4,10 @@ locationId: "cd42281c-e265-4ff8-a00e-1e2e1332940c"
 title: "Harrah'S Cherokee Center - Asheville"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 35.597492
+  longitude: -82.555385
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

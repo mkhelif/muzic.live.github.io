@@ -5,4 +5,5 @@ title: "Dawn Beach"
 coordinates:
   latitude: 18.0472
   longitude: -63.0167
+  zoom: 14
 ---

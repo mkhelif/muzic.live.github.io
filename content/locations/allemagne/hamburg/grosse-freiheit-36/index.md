@@ -4,6 +4,10 @@ locationId: "6aca9188-5556-471d-a336-1b221e609736"
 title: "Grosse Freiheit 36"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.551114
+  longitude: 9.95808
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

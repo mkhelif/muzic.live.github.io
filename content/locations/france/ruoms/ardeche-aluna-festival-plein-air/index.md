@@ -4,6 +4,10 @@ locationId: "bc52463b-bf27-477b-9c19-4a005a45cb6b"
 title: "Ardèche Aluna Festival - Plein Air"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.453724
+  longitude: 4.340599
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

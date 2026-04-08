@@ -5,4 +5,5 @@ title: "Valley Center"
 coordinates:
   latitude: 33.2151
   longitude: -117.0342
+  zoom: 14
 ---

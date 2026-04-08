@@ -4,6 +4,10 @@ locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "E1"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.508859
+  longitude: -0.061243
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

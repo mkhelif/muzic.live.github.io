@@ -5,4 +5,5 @@ title: "Solothurn"
 coordinates:
   latitude: 47.2088
   longitude: 7.5338
+  zoom: 12
 ---

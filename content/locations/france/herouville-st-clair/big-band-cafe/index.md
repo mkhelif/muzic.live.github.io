@@ -4,6 +4,10 @@ locationId: "684ad617-1a45-4048-8a9b-6ec4b5d46468"
 title: "Big Band Cafe"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.210809
+  longitude: -0.334083
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "bb410cf0-3f7f-49a6-aa23-d12be2f2994b"
 title: "Kulturfabrik Kofmehl"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.200649
+  longitude: 7.5282
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

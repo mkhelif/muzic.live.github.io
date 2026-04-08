@@ -4,6 +4,10 @@ locationId: "6f1a6ec9-8ae9-4396-9a15-2e515041c099"
 title: "Magazzini Generali"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.444097
+  longitude: 9.195262
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

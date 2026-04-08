@@ -4,6 +4,10 @@ locationId: "24423496-442c-4db3-91d3-94e0c078ea21"
 title: "Headrow House"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.799703
+  longitude: -1.544342
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

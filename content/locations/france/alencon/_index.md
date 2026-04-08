@@ -5,4 +5,5 @@ title: "Alencon"
 coordinates:
   latitude: 48.4333
   longitude: 0.0833
+  zoom: 12
 ---

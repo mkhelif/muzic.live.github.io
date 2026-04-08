@@ -5,4 +5,5 @@ title: "Drachten"
 coordinates:
   latitude: 53.1125
   longitude: 6.1
+  zoom: 12
 ---

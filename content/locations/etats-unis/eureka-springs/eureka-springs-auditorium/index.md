@@ -4,6 +4,10 @@ locationId: "3744b519-984b-417c-9e82-e54a2f63cb41"
 title: "Eureka Springs Auditorium"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 36.40008
+  longitude: -93.739242
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

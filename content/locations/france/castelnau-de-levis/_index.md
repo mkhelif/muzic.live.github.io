@@ -5,4 +5,5 @@ title: "Castelnau De Levis"
 coordinates:
   latitude: 43.9333
   longitude: 2.1
+  zoom: 12
 ---

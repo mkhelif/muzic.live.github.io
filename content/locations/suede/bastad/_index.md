@@ -5,4 +5,5 @@ title: "Bastad"
 coordinates:
   latitude: 56.4319
   longitude: 12.8553
+  zoom: 14
 ---

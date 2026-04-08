@@ -4,6 +4,10 @@ locationId: "4d78196e-1d23-4ec9-b75e-cea9bf192288"
 title: "6Mic"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.519293
+  longitude: 5.421814
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

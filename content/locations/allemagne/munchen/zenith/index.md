@@ -4,6 +4,10 @@ locationId: "0e332b12-21d3-47af-932b-bebbe4cb5cc2"
 title: "Zenith"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.194686
+  longitude: 11.607853
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Corte"
 coordinates:
   latitude: 42.3092
   longitude: 9.15
+  zoom: 12
 ---

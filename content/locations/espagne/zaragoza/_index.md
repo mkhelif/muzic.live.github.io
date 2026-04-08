@@ -5,4 +5,5 @@ title: "Zaragoza"
 coordinates:
   latitude: 41.6488
   longitude: -0.8891
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Torquay"
 coordinates:
   latitude: -38.3316
   longitude: 144.326
+  zoom: 14
 ---

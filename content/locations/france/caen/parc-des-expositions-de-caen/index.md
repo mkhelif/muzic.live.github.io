@@ -4,6 +4,10 @@ locationId: "bad1dc89-c386-4980-a7ed-28d75474e06d"
 title: "Parc Des Expositions De Caen"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.171042
+  longitude: -0.380202
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "c46f279b-5fd4-40ad-8e2c-b02f117c4269"
 title: "Almeauen Park"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.552655
+  longitude: 8.555603
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

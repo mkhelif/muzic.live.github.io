@@ -5,4 +5,5 @@ title: "Stuttgart"
 coordinates:
   latitude: 48.7758
   longitude: 9.1829
+  zoom: 11
 ---

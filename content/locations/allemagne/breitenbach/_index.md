@@ -5,4 +5,5 @@ title: "Breitenbach"
 coordinates:
   latitude: 50.8833
   longitude: 9.65
+  zoom: 14
 ---

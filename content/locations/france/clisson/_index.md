@@ -5,4 +5,5 @@ title: "Clisson"
 coordinates:
   latitude: 47.0872
   longitude: -1.2808
+  zoom: 12
 ---

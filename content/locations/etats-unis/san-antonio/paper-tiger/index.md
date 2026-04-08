@@ -4,6 +4,10 @@ locationId: "ef07fed4-3699-4f40-b235-08f8834e95de"
 title: "Paper Tiger"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 29.448566
+  longitude: -98.487539
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "4cc0c1f6-160c-4882-b404-c3f1c7ed68d0"
 title: "Espace Intercommunal"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.354264
+  longitude: -1.254349
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

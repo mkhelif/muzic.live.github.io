@@ -4,6 +4,10 @@ locationId: "29c2dd77-89a4-4a12-bf43-f4191ea60d24"
 title: "The Bomb Factory"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 32.776272
+  longitude: -96.796856
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

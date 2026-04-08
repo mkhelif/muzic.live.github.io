@@ -5,4 +5,5 @@ title: "Bourg Les Valence"
 coordinates:
   latitude: 44.95
   longitude: 4.8833
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "9707f114-acca-4db6-89c3-3ac9e482e192"
 title: "Central Park"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.386369
+  longitude: -4.149478
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

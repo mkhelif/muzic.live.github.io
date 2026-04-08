@@ -5,4 +5,5 @@ title: "Pont Pean"
 coordinates:
   latitude: 48.0333
   longitude: -1.7167
+  zoom: 14
 ---

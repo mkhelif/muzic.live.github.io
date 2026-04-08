@@ -5,4 +5,5 @@ title: "Jackson"
 coordinates:
   latitude: 32.2988
   longitude: -90.1848
+  zoom: 12
 ---

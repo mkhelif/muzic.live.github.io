@@ -4,6 +4,10 @@ locationId: "5feae9ef-473c-40a3-b8ee-eb6a7ece4090"
 title: "Kleinkunstandmore Ug"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.534423
+  longitude: 7.043456
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

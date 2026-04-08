@@ -5,4 +5,5 @@ title: "Brisbane"
 coordinates:
   latitude: -27.4698
   longitude: 153.0251
+  zoom: 12
 ---

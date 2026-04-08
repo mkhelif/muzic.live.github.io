@@ -4,6 +4,10 @@ locationId: "f5621a1e-e1f0-4bc7-abd7-8a59493cf045"
 title: "Stadion Śląski"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.288246
+  longitude: 18.973499
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Langhorne Creek"
 coordinates:
   latitude: -35.2934
   longitude: 139.0393
+  zoom: 14
 ---

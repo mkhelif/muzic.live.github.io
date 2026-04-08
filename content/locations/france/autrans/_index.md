@@ -5,4 +5,5 @@ title: "Autrans"
 coordinates:
   latitude: 45.175
   longitude: 5.5417
+  zoom: 14
 ---

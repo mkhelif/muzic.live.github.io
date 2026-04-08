@@ -5,4 +5,5 @@ title: "Sciez"
 coordinates:
   latitude: 46.3333
   longitude: 6.3833
+  zoom: 14
 ---

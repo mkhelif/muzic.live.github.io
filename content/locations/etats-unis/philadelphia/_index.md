@@ -5,4 +5,5 @@ title: "Philadelphia"
 coordinates:
   latitude: 39.9526
   longitude: -75.1652
+  zoom: 11
 ---

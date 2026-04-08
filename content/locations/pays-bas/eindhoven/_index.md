@@ -5,4 +5,5 @@ title: "Eindhoven"
 coordinates:
   latitude: 51.4416
   longitude: 5.4697
+  zoom: 12
 ---

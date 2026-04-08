@@ -5,4 +5,5 @@ title: "La Louviere"
 coordinates:
   latitude: 50.48
   longitude: 4.19
+  zoom: 12
 ---

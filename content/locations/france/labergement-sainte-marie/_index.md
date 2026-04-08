@@ -5,4 +5,5 @@ title: "Labergement Sainte Marie"
 coordinates:
   latitude: 46.775
   longitude: 6.2833
+  zoom: 14
 ---

@@ -4,6 +4,10 @@ locationId: "238347cd-f1a3-4219-a62c-f46c6b9615df"
 title: "Rock Planet"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.260984
+  longitude: 12.349546
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

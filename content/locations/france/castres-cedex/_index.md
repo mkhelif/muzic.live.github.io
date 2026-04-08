@@ -5,4 +5,5 @@ title: "Castres Cedex"
 coordinates:
   latitude: 43.6064
   longitude: 2.24
+  zoom: 12
 ---

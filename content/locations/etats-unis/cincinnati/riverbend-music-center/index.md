@@ -4,6 +4,10 @@ locationId: "8147e148-5c77-4cde-bd68-f127662e8eac"
 title: "Riverbend Music Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.051936
+  longitude: -84.418863
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

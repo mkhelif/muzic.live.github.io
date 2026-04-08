@@ -4,6 +4,10 @@ locationId: "87b85716-e6f5-4fc6-9de6-f7bbe8d445f7"
 title: "Espace Marcel Carné"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.637431
+  longitude: 2.321765
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

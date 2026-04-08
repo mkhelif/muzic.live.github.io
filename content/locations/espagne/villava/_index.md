@@ -5,4 +5,5 @@ title: "Villava"
 coordinates:
   latitude: 42.8275
   longitude: -1.6181
+  zoom: 12
 ---

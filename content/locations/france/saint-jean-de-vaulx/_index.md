@@ -5,4 +5,5 @@ title: "Saint Jean De Vaulx"
 coordinates:
   latitude: 45.0
   longitude: 5.8333
+  zoom: 14
 ---

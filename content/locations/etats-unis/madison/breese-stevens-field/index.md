@@ -4,6 +4,10 @@ locationId: "e4738f3e-857e-4a85-9d0d-7d62ac8b464a"
 title: "Breese Stevens Field"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.083289
+  longitude: -89.37321
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

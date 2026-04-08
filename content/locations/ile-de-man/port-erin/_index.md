@@ -5,4 +5,5 @@ title: "Port Erin"
 coordinates:
   latitude: 54.0861
   longitude: -4.7583
+  zoom: 14
 ---

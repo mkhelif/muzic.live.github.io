@@ -4,6 +4,10 @@ locationId: "f47dd583-764e-4197-b13b-dfdf5e21274d"
 title: "Keswick Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.106411
+  longitude: -75.14682
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

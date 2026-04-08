@@ -4,6 +4,10 @@ locationId: "61d2dbd9-981d-43b1-a7e2-ca2ff63cd390"
 title: "New Jersey Performing Arts Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.740214
+  longitude: -74.167388
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

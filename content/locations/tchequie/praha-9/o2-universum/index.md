@@ -4,6 +4,10 @@ locationId: "d9a2a3bf-6a7a-4678-9357-7590f3f9d688"
 title: "O2 Universum"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.103841
+  longitude: 14.493356
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Sacramento"
 coordinates:
   latitude: 38.5816
   longitude: -121.4944
+  zoom: 12
 ---

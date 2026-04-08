@@ -4,6 +4,10 @@ locationId: "1dce6732-a907-426b-9a6f-091c2b3d42f4"
 title: "Differdange"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.532551
+  longitude: 5.931818
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

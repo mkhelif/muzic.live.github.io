@@ -5,4 +5,5 @@ title: "Primm"
 coordinates:
   latitude: 35.6103
   longitude: -115.3866
+  zoom: 14
 ---

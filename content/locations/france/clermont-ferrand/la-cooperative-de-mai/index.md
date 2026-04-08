@@ -4,6 +4,10 @@ locationId: "0009ef4c-9833-42e8-8410-a895ba67c9c0"
 title: "La Coopérative de Mai"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.788095
+  longitude: 3.100196
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

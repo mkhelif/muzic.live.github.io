@@ -4,6 +4,10 @@ locationId: "11726455-6f8f-4f65-8326-26170c3a3181"
 title: "La Luciole"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.432327
+  longitude: 0.067439
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

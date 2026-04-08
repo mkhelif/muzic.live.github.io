@@ -4,6 +4,10 @@ locationId: "6bf237a0-4d75-4f98-879b-8f5323d508a0"
 title: "Arkea Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.824772
+  longitude: -0.531365
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

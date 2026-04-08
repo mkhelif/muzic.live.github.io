@@ -5,4 +5,5 @@ title: "Ulm"
 coordinates:
   latitude: 48.4011
   longitude: 9.9876
+  zoom: 12
 ---

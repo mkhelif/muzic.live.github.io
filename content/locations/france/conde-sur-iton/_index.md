@@ -5,4 +5,5 @@ title: "Conde Sur Iton"
 coordinates:
   latitude: 48.8
   longitude: 1.0167
+  zoom: 14
 ---

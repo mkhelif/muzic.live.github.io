@@ -4,6 +4,10 @@ locationId: "0f818c9c-5610-4fe9-a924-b670e21d4f0f"
 title: "The O'Liver Pub"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.565399
+  longitude: 3.901711
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

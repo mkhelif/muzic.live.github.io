@@ -5,4 +5,5 @@ title: "San Diego"
 coordinates:
   latitude: 32.7157
   longitude: -117.1611
+  zoom: 12
 ---

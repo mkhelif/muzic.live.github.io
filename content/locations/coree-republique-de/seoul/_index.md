@@ -5,4 +5,5 @@ title: "Seoul"
 coordinates:
   latitude: 37.5665
   longitude: 126.978
+  zoom: 11
 ---

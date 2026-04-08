@@ -5,4 +5,5 @@ title: "Belfast"
 coordinates:
   latitude: 54.5973
   longitude: -5.9301
+  zoom: 12
 ---

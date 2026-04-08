@@ -5,4 +5,5 @@ title: "Odz"
 coordinates:
   latitude: 51.7592
   longitude: 19.456
+  zoom: 12
 ---

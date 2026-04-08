@@ -5,4 +5,5 @@ title: "Aspen"
 coordinates:
   latitude: 39.1911
   longitude: -106.8175
+  zoom: 12
 ---

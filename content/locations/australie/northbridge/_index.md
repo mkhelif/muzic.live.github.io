@@ -5,4 +5,5 @@ title: "Northbridge"
 coordinates:
   latitude: -31.9456
   longitude: 115.8606
+  zoom: 12
 ---

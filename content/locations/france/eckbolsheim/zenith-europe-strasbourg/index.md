@@ -4,6 +4,10 @@ locationId: "29c1152a-af83-466c-b0f3-700430acce9b"
 title: "Zenith Europe Strasbourg"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.593165
+  longitude: 7.687133
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

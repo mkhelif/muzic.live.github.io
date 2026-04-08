@@ -4,6 +4,10 @@ locationId: "708486c7-21ad-4240-abd7-33f9833f8a75"
 title: "Théatre Municipal"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.485015
+  longitude: 4.688538
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

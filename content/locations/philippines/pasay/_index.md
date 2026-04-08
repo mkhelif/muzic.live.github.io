@@ -5,4 +5,5 @@ title: "Pasay"
 coordinates:
   latitude: 14.5378
   longitude: 121.0014
+  zoom: 12
 ---

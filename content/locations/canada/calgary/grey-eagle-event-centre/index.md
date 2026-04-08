@@ -4,6 +4,10 @@ locationId: "7b41f274-df9b-43dc-ab20-34feddb38c10"
 title: "Grey Eagle Event Centre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.045606
+  longitude: -114.057541
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

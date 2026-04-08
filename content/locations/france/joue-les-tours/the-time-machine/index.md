@@ -4,6 +4,10 @@ locationId: "ba5ab828-8dd6-4ada-bb84-9a7c7debfcdb"
 title: "The Time Machine"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.351116
+  longitude: 0.662235
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

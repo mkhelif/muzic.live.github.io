@@ -5,4 +5,5 @@ title: "Herisau"
 coordinates:
   latitude: 47.3861
   longitude: 9.2792
+  zoom: 12
 ---

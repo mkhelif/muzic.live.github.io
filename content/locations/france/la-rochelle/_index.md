@@ -5,4 +5,5 @@ title: "La Rochelle"
 coordinates:
   latitude: 46.1603
   longitude: -1.1511
+  zoom: 12
 ---

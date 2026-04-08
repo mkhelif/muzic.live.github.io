@@ -5,4 +5,5 @@ title: "Bilbao"
 coordinates:
   latitude: 43.263
   longitude: -2.935
+  zoom: 12
 ---

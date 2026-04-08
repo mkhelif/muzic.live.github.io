@@ -5,4 +5,5 @@ title: "Le Barcares"
 coordinates:
   latitude: 42.7906
   longitude: 3.0353
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "8147e148-5c77-4cde-bd68-f127662e8eac"
 title: "Ludlow Garage Cincinnati"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.143883
+  longitude: -84.521244
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

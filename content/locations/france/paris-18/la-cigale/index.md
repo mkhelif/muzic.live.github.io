@@ -4,6 +4,10 @@ locationId: "4c88822c-9cba-4cc0-8772-e61991a8369c"
 title: "La Cigale"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.882269
+  longitude: 2.339914
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

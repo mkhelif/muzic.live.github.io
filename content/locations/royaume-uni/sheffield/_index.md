@@ -5,4 +5,5 @@ title: "Sheffield"
 coordinates:
   latitude: 53.3811
   longitude: -1.4701
+  zoom: 12
 ---

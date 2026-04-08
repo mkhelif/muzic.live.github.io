@@ -4,6 +4,10 @@ locationId: "42773808-259d-426c-8eaa-0a1a61f80240"
 title: "Lucas Theatre For The Arts"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 32.079007
+  longitude: -81.092134
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

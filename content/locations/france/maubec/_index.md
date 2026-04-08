@@ -5,4 +5,5 @@ title: "Maubec"
 coordinates:
   latitude: 43.85
   longitude: 5.1333
+  zoom: 14
 ---

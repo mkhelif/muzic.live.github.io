@@ -5,4 +5,5 @@ title: "Burgos"
 coordinates:
   latitude: 42.344
   longitude: -3.6969
+  zoom: 12
 ---

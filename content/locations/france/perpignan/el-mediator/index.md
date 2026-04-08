@@ -4,6 +4,10 @@ locationId: "672e08e0-d8c2-4129-9ccd-d04f5783179f"
 title: "El Médiator"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.69853
+  longitude: 2.895312
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "24dae0f6-88d4-4351-b281-739a4e070328"
 title: "Des Lendemains Qui Chantent"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.279214
+  longitude: 1.784657
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

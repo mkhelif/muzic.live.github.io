@@ -4,6 +4,10 @@ locationId: "d5b9d8bf-1041-4703-8afd-adf15349ed97"
 title: "Crossroad"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.102899
+  longitude: -1.092803
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

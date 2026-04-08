@@ -5,4 +5,5 @@ title: "Marmande"
 coordinates:
   latitude: 44.5
   longitude: 0.1667
+  zoom: 12
 ---

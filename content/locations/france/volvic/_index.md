@@ -5,4 +5,5 @@ title: "Volvic"
 coordinates:
   latitude: 45.8722
   longitude: 2.95
+  zoom: 14
 ---

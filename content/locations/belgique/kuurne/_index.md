@@ -5,4 +5,5 @@ title: "Kuurne"
 coordinates:
   latitude: 50.8564
   longitude: 3.2906
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Göttingen"
 coordinates:
   latitude: 51.5328
   longitude: 9.9354
+  zoom: 12
 ---

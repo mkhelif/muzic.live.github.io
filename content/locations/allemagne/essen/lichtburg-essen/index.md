@@ -4,6 +4,10 @@ locationId: "6edebe0e-a8f9-4871-8203-d017ca47441e"
 title: "Lichtburg Essen"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.45485
+  longitude: 7.01301
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

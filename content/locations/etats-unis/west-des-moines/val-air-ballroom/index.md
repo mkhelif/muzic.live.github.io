@@ -4,6 +4,10 @@ locationId: "2885a3e3-62c3-4405-8c1a-25a4f4cf11fa"
 title: "Val Air Ballroom"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.585337
+  longitude: -93.706472
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "67be7569-764f-481b-8e7a-4732bd01db59"
 title: "Pechanga Resort Casino"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.455992
+  longitude: -117.106917
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

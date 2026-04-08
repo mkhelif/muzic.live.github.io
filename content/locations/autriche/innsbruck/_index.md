@@ -5,4 +5,5 @@ title: "Innsbruck"
 coordinates:
   latitude: 47.2692
   longitude: 11.4041
+  zoom: 12
 ---

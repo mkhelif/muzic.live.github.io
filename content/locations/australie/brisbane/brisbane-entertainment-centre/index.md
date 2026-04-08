@@ -4,6 +4,10 @@ locationId: "88cc63fb-e86f-45e7-afee-77e0813b59b8"
 title: "Brisbane Entertainment Centre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -27.342697
+  longitude: 153.069211
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

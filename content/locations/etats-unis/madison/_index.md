@@ -5,4 +5,5 @@ title: "Madison"
 coordinates:
   latitude: 43.0731
   longitude: -89.4012
+  zoom: 12
 ---

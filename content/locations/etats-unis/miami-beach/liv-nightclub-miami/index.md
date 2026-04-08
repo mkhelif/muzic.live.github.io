@@ -4,6 +4,10 @@ locationId: "7b6cbf49-4420-46ef-b2d3-8887163abca1"
 title: "Liv Nightclub Miami"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 25.817723
+  longitude: -80.12238
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "bad1dc89-c386-4980-a7ed-28d75474e06d"
 title: "Le Cargö"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.181081
+  longitude: -0.347197
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

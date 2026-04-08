@@ -5,4 +5,5 @@ title: "Thousand Oaks"
 coordinates:
   latitude: 34.1706
   longitude: -118.8376
+  zoom: 12
 ---

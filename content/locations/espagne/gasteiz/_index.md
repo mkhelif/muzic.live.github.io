@@ -5,4 +5,5 @@ title: "Gasteiz"
 coordinates:
   latitude: 42.8467
   longitude: -2.6726
+  zoom: 12
 ---

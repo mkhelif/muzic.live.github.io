@@ -4,6 +4,10 @@ locationId: "681e5f86-22ae-41e4-be85-be9b3dee5a52"
 title: "Knockdown Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.715279
+  longitude: -73.913671
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

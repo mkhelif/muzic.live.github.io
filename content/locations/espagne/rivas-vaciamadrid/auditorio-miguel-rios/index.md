@@ -4,6 +4,10 @@ locationId: "5d67bdee-9d8c-4bd2-99c0-c13c0c622c69"
 title: "Auditorio Miguel Ríos"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.345375
+  longitude: -3.513502
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "St Augustine"
 coordinates:
   latitude: 29.8946
   longitude: -81.3145
+  zoom: 12
 ---

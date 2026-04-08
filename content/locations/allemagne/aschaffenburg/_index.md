@@ -5,4 +5,5 @@ title: "Aschaffenburg"
 coordinates:
   latitude: 49.9771
   longitude: 9.1587
+  zoom: 12
 ---

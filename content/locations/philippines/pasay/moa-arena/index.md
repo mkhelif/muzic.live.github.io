@@ -4,6 +4,10 @@ locationId: "2caacbb8-de31-4945-8d77-28f99924bdd6"
 title: "Moa Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 14.5437
+  longitude: 120.99465
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

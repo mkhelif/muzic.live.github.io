@@ -5,4 +5,5 @@ title: "St Charles"
 coordinates:
   latitude: 41.9142
   longitude: -88.3087
+  zoom: 12
 ---

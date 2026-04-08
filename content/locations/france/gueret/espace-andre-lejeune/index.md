@@ -4,6 +4,10 @@ locationId: "ce3f68ed-2b2b-45ee-8e06-cf98ddc52f6c"
 title: "Espace Andre Lejeune"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.180649
+  longitude: 1.874619
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "be676e70-0019-4ecd-82d1-9f2d683f8dd0"
 title: "The Ridgefield Playhouse"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.281484
+  longitude: -73.498179
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

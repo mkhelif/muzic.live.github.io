@@ -4,6 +4,10 @@ locationId: "cc6613a5-b24f-4730-a434-ea8969be649a"
 title: "Glc Live At 20 Monroe"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.963654
+  longitude: -85.67239
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

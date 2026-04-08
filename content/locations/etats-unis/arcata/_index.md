@@ -5,4 +5,5 @@ title: "Arcata"
 coordinates:
   latitude: 40.8665
   longitude: -124.0828
+  zoom: 12
 ---

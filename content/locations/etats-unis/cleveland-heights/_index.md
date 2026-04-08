@@ -5,4 +5,5 @@ title: "Cleveland Heights"
 coordinates:
   latitude: 41.5201
   longitude: -81.5563
+  zoom: 12
 ---

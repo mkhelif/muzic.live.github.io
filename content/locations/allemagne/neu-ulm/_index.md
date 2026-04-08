@@ -5,4 +5,5 @@ title: "Neu Ulm"
 coordinates:
   latitude: 48.3933
   longitude: 10.0167
+  zoom: 12
 ---

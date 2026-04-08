@@ -4,6 +4,10 @@ locationId: "a9766ec6-5da9-4fe1-bccd-c0600e8be958"
 title: "Kiff, Saal"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.392715
+  longitude: 8.044445
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

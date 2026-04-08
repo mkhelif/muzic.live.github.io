@@ -5,4 +5,5 @@ title: "Montréal"
 coordinates:
   latitude: 45.5017
   longitude: -73.5673
+  zoom: 11
 ---

@@ -5,4 +5,5 @@ title: "Auxerre"
 coordinates:
   latitude: 47.7986
   longitude: 3.5672
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "595369e9-ab63-4577-b615-7ac5c45174bc"
 title: "Yoshi'S"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.796226
+  longitude: -122.278595
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

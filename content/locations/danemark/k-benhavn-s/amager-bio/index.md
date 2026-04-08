@@ -4,6 +4,10 @@ locationId: "cbfd6231-31b0-4fa8-aa94-ae4fb9675424"
 title: "Amager Bio"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 55.6535
+  longitude: 12.605
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

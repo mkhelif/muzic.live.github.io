@@ -5,4 +5,5 @@ title: "Detroit"
 coordinates:
   latitude: 42.3314
   longitude: -83.0458
+  zoom: 11
 ---

@@ -5,4 +5,5 @@ title: "Zamora"
 coordinates:
   latitude: 41.5034
   longitude: -5.7467
+  zoom: 12
 ---

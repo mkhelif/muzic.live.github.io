@@ -4,6 +4,10 @@ locationId: "8147e148-5c77-4cde-bd68-f127662e8eac"
 title: "The Andrew J Brady Music Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.095467
+  longitude: -84.513675
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

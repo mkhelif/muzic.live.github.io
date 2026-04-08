@@ -5,4 +5,5 @@ title: "Lincoln"
 coordinates:
   latitude: 40.8136
   longitude: -96.7026
+  zoom: 12
 ---

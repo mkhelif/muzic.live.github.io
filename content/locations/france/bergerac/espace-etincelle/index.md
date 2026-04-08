@@ -4,6 +4,10 @@ locationId: "aac38f8b-87d0-4f0a-8c93-83a0da8ff153"
 title: "Espace Etincelle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.846505
+  longitude: 0.498934
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

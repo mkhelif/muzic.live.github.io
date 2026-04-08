@@ -4,6 +4,10 @@ locationId: "fd76ee18-64d0-4e0f-bd08-a7ed19d677c7"
 title: "Rockstadt Extreme Fest"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.588939
+  longitude: 25.478599
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

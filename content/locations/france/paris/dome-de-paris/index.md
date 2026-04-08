@@ -4,6 +4,10 @@ locationId: "81773251-a33d-407e-9c75-62b47dbd91d1"
 title: "Dôme de Paris"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.832764
+  longitude: 2.286336
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

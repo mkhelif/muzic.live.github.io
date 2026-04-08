@@ -5,4 +5,5 @@ title: "Amiens"
 coordinates:
   latitude: 49.8942
   longitude: 2.3022
+  zoom: 12
 ---

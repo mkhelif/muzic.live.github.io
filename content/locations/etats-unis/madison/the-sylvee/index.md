@@ -4,6 +4,10 @@ locationId: "e4738f3e-857e-4a85-9d0d-7d62ac8b464a"
 title: "The Sylvee"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.080559
+  longitude: -89.374255
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "1c3069ba-512d-4ea8-9f74-6c15a1fe8d49"
 title: "Les Dominicains"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.908157
+  longitude: 7.214603
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

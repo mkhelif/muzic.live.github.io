@@ -4,6 +4,10 @@ locationId: "2eb805e5-23c1-4143-8f3f-4b946ae5c314"
 title: "Allianz Amphitheater At Riverfront"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.538509
+  longitude: -77.43428
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Sermamagny"
 coordinates:
   latitude: 47.6667
   longitude: 6.85
+  zoom: 14
 ---

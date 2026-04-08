@@ -4,6 +4,10 @@ locationId: "2b72c6c1-753e-421e-a90f-740d5b2f9b4b"
 title: "La Louvière"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.479358
+  longitude: 4.18563
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

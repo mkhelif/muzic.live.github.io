@@ -5,4 +5,5 @@ title: "Nijmegen"
 coordinates:
   latitude: 51.8126
   longitude: 5.8372
+  zoom: 12
 ---

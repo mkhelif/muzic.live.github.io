@@ -4,6 +4,10 @@ locationId: "474d7297-a1e6-4235-8fed-c416e83d7c5f"
 title: "Arènes Du Plumaçon"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.886145
+  longitude: -0.503342
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

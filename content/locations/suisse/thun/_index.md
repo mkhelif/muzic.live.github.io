@@ -5,4 +5,5 @@ title: "Thun"
 coordinates:
   latitude: 46.758
   longitude: 7.628
+  zoom: 12
 ---

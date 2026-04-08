@@ -5,4 +5,5 @@ title: "Scey Sur Saone"
 coordinates:
   latitude: 47.65
   longitude: 6.15
+  zoom: 14
 ---

@@ -4,6 +4,10 @@ locationId: "923ab248-0613-4066-b3a0-e7adadb36671"
 title: "The Baycare Sound"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 27.967495
+  longitude: -82.802783
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

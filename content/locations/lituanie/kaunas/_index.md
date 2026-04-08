@@ -5,4 +5,5 @@ title: "Kaunas"
 coordinates:
   latitude: 54.8985
   longitude: 23.9036
+  zoom: 12
 ---

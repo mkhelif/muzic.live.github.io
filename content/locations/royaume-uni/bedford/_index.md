@@ -5,4 +5,5 @@ title: "Bedford"
 coordinates:
   latitude: 52.1356
   longitude: -0.4686
+  zoom: 12
 ---

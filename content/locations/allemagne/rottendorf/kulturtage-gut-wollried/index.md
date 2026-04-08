@@ -4,6 +4,10 @@ locationId: "80d8323f-3b6b-4b6b-a3b6-9491a122bd0a"
 title: "Kulturtage Gut Wöllried"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.792107
+  longitude: 10.02595
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

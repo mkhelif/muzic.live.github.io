@@ -4,6 +4,10 @@ locationId: "d9908e86-eef6-4058-a66e-f0c6ae09b67a"
 title: "Mauz Music-Club"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.131024
+  longitude: 8.744995
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

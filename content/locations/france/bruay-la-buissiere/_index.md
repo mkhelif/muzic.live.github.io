@@ -5,4 +5,5 @@ title: "Bruay La Buissiere"
 coordinates:
   latitude: 50.4844
   longitude: 2.5511
+  zoom: 12
 ---

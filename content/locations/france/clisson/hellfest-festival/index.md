@@ -4,6 +4,10 @@ locationId: "6254d67a-03a1-4068-9004-6e14751c3c5c"
 title: "Hellfest Festival"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.087722
+  longitude: -1.281742
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

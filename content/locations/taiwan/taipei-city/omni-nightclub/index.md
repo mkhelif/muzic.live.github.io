@@ -4,6 +4,10 @@ locationId: "7e19b158-3a72-4cb1-88a6-e6cb2d6469dc"
 title: "Omni Nightclub"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 25.083455
+  longitude: 121.475534
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

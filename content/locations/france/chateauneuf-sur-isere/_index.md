@@ -5,4 +5,5 @@ title: "Chateauneuf Sur Isere"
 coordinates:
   latitude: 44.9833
   longitude: 4.9333
+  zoom: 12
 ---

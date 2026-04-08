@@ -5,4 +5,5 @@ title: "Dallas"
 coordinates:
   latitude: 32.7767
   longitude: -96.797
+  zoom: 11
 ---

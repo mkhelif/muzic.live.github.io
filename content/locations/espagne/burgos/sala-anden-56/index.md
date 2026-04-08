@@ -4,6 +4,10 @@ locationId: "c6599038-06fa-4a7c-a1ed-66b2cdda3fac"
 title: "Sala Anden 56"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.33217
+  longitude: -3.70952
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

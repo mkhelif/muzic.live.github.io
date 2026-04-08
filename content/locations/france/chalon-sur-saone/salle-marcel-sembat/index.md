@@ -4,6 +4,10 @@ locationId: "681369ed-6d0d-4f57-a887-fc8b3997de43"
 title: "Salle Marcel Sembat"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.786899
+  longitude: 4.860034
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

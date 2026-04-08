@@ -5,4 +5,5 @@ title: "P Ock"
 coordinates:
   latitude: 52.5463
   longitude: 19.7065
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "b095bd97-e8dd-4b17-8e16-3bef0986f37f"
 title: "The Uc Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.871806
+  longitude: -122.269814
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

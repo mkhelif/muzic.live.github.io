@@ -5,4 +5,5 @@ title: "Monaco"
 coordinates:
   latitude: 43.7384
   longitude: 7.4246
+  zoom: 13
 ---

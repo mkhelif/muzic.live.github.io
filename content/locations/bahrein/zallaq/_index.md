@@ -5,4 +5,5 @@ title: "Zallaq"
 coordinates:
   latitude: 26.0383
   longitude: 50.4817
+  zoom: 14
 ---

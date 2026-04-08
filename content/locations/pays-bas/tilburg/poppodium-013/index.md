@@ -4,6 +4,10 @@ locationId: "42acc1b3-52a8-4eef-9ceb-8da203283521"
 title: "Poppodium 013"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.557738
+  longitude: 5.092839
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

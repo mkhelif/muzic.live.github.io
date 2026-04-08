@@ -4,6 +4,10 @@ locationId: "7c7a6a7f-dbf3-4596-b9c2-214674edbb44"
 title: "Auditório Araújo Vianna"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -30.035906
+  longitude: -51.214458
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "089b5bb7-d400-430f-ae45-0faa982e9272"
 title: "Addition Financial Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 28.607341
+  longitude: -81.197297
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

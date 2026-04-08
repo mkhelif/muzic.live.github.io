@@ -5,4 +5,5 @@ title: "Praha 3"
 coordinates:
   latitude: 50.0833
   longitude: 14.45
+  zoom: 12
 ---

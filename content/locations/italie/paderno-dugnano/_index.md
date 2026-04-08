@@ -5,4 +5,5 @@ title: "Paderno Dugnano"
 coordinates:
   latitude: 45.5667
   longitude: 9.1667
+  zoom: 12
 ---

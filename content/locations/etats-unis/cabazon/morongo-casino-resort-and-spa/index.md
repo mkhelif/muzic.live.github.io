@@ -4,6 +4,10 @@ locationId: "4b4cc2ee-4ffb-4d7a-860d-6570d04f91ff"
 title: "Morongo Casino Resort And Spa"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.909031
+  longitude: -116.779534
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

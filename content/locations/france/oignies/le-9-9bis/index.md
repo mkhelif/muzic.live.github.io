@@ -4,6 +4,10 @@ locationId: "266be4df-0767-43aa-9f84-a8dd74dcd9b3"
 title: "Le 9-9Bis"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.464466
+  longitude: 2.996851
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

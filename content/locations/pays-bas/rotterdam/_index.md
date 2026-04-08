@@ -5,4 +5,5 @@ title: "Rotterdam"
 coordinates:
   latitude: 51.9244
   longitude: 4.4777
+  zoom: 12
 ---

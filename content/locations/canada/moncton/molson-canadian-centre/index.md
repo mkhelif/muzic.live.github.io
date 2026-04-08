@@ -4,6 +4,10 @@ locationId: "aad2ffef-fd62-44c1-8b7d-f3671580e405"
 title: "Molson Canadian Centre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.098568
+  longitude: -64.800427
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

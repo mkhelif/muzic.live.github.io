@@ -4,6 +4,10 @@ locationId: "99268dcf-1cfd-4ebd-8490-8836ae80474e"
 title: "Passeio Marítimo De Algés"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.698223
+  longitude: -9.23463
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

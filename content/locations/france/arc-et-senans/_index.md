@@ -5,4 +5,5 @@ title: "Arc Et Senans"
 coordinates:
   latitude: 47.0333
   longitude: 5.775
+  zoom: 12
 ---

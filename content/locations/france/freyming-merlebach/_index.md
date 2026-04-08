@@ -5,4 +5,5 @@ title: "Freyming Merlebach"
 coordinates:
   latitude: 49.15
   longitude: 6.7917
+  zoom: 12
 ---

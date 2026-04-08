@@ -4,6 +4,10 @@ locationId: "aed9a75b-a6ea-4d77-8e4d-222c35443a25"
 title: "Loft Metropolis"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.757915
+  longitude: 2.348324
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Frankfurt"
 coordinates:
   latitude: 50.1109
   longitude: 8.6821
+  zoom: 11
 ---

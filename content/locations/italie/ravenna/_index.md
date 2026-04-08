@@ -5,4 +5,5 @@ title: "Ravenna"
 coordinates:
   latitude: 44.4184
   longitude: 12.2035
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "03ef171c-3e09-46cd-b516-a63fbeafc852"
 title: "Espace Nova"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.530534
+  longitude: 5.254547
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

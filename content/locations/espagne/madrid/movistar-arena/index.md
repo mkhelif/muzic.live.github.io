@@ -4,6 +4,10 @@ locationId: "0885abf2-16d3-4b5e-a259-0c11aa320218"
 title: "Movistar Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.423862
+  longitude: -3.671788
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Kraków"
 coordinates:
   latitude: 50.0647
   longitude: 19.945
+  zoom: 12
 ---

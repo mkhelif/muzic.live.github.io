@@ -4,6 +4,10 @@ locationId: "7a9a8f69-d000-4c6a-8d7e-2c5a14213885"
 title: "Agora - Espace Cultures"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.642534
+  longitude: -1.624956
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

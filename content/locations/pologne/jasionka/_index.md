@@ -5,4 +5,5 @@ title: "Jasionka"
 coordinates:
   latitude: 50.11
   longitude: 22.0183
+  zoom: 14
 ---

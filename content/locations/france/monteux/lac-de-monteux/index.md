@@ -4,6 +4,10 @@ locationId: "5953cfa8-175e-45c2-8344-a3820fd5dd9c"
 title: "Lac De Monteux"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.019541
+  longitude: 4.96795
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

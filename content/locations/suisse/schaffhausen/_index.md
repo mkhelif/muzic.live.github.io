@@ -5,4 +5,5 @@ title: "Schaffhausen"
 coordinates:
   latitude: 47.6961
   longitude: 8.635
+  zoom: 12
 ---

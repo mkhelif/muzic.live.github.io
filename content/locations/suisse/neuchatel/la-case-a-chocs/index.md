@@ -4,6 +4,10 @@ locationId: "3c700fbe-b798-4ee7-bbd0-fa77e62c8cb9"
 title: "La Case À Chocs"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.989583
+  longitude: 6.929264
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

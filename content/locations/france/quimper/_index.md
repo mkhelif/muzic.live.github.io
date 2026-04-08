@@ -5,4 +5,5 @@ title: "Quimper"
 coordinates:
   latitude: 47.996
   longitude: -4.1024
+  zoom: 12
 ---

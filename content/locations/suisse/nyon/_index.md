@@ -5,4 +5,5 @@ title: "Nyon"
 coordinates:
   latitude: 46.3833
   longitude: 6.2333
+  zoom: 12
 ---

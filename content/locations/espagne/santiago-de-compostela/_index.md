@@ -5,4 +5,5 @@ title: "Santiago De Compostela"
 coordinates:
   latitude: 42.8782
   longitude: -8.5448
+  zoom: 12
 ---

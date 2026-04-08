@@ -4,6 +4,10 @@ locationId: "32ae1452-ae8b-4006-99c3-248f195a040d"
 title: "Anthéa"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.590309
+  longitude: 7.11821
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

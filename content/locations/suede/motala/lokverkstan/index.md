@@ -4,6 +4,10 @@ locationId: "e3dbd205-cadb-4a69-b7e8-75b5c247cb16"
 title: "Lokverkstan"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 58.54204
+  longitude: 15.041261
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

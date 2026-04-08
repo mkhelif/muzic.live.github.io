@@ -5,4 +5,5 @@ title: "Besançon"
 coordinates:
   latitude: 47.2378
   longitude: 6.0241
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "acbf4aba-6312-41e4-834d-604a954f0be6"
 title: "Zeyzey Miami"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 25.832808
+  longitude: -80.189092
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

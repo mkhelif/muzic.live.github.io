@@ -4,6 +4,10 @@ locationId: "346b7655-a82e-456a-85d1-4f835fee57f4"
 title: "Stadio Dall'Ara"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.492317
+  longitude: 11.309997
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "8b13f149-552c-4066-9dd3-e823511fa422"
 title: "Mahall'S"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.47736
+  longitude: -81.781184
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

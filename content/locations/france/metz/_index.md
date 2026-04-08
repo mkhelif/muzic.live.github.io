@@ -5,4 +5,5 @@ title: "Metz"
 coordinates:
   latitude: 49.1193
   longitude: 6.1757
+  zoom: 12
 ---

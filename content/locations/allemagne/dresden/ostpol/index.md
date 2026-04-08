@@ -4,6 +4,10 @@ locationId: "c7b6fd99-db35-474d-b1f5-2f6760725fd9"
 title: "Ostpol"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.070289
+  longitude: 13.749284
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

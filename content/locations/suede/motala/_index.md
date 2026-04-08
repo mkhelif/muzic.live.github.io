@@ -5,4 +5,5 @@ title: "Motala"
 coordinates:
   latitude: 58.5378
   longitude: 15.0361
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "a6f412a9-183b-4929-bce0-41345076a1c3"
 title: "The Haven Hotel"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.152364
+  longitude: -6.995967
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "a1ded267-4a12-495a-bdab-f652df60732a"
 title: "Dudelange"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.486808
+  longitude: 6.117281
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

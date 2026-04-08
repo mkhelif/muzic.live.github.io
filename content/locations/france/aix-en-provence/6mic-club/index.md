@@ -4,6 +4,10 @@ locationId: "4d78196e-1d23-4ec9-b75e-cea9bf192288"
 title: "6Mic Club"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.529842
+  longitude: 5.447474
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

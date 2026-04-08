@@ -4,6 +4,10 @@ locationId: "b6642b76-d8a1-4502-aa7b-1b9856293679"
 title: "Midway Music Hall"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.498606
+  longitude: -113.496832
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

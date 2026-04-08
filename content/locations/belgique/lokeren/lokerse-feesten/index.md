@@ -4,6 +4,10 @@ locationId: "b62510ed-58d0-4beb-8044-99ca330688b3"
 title: "Lokerse Feesten"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.104449
+  longitude: 3.989869
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "ee455b67-48e9-4354-88eb-032c2148d132"
 title: "Centre Gerard Philipe"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.381957
+  longitude: 2.402573
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

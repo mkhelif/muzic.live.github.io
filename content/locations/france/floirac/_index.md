@@ -5,4 +5,5 @@ title: "Floirac"
 coordinates:
   latitude: 44.8333
   longitude: -0.5167
+  zoom: 12
 ---

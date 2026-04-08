@@ -4,6 +4,10 @@ locationId: "5ce32573-0ca2-47b7-afa9-f73359bf775e"
 title: "Lulboompop"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.820612
+  longitude: 5.563223
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

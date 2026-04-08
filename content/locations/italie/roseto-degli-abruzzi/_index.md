@@ -5,4 +5,5 @@ title: "Roseto Degli Abruzzi"
 coordinates:
   latitude: 42.675
   longitude: 14.0153
+  zoom: 12
 ---

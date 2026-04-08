@@ -5,4 +5,5 @@ title: "Cabazon"
 coordinates:
   latitude: 33.9175
   longitude: -116.7872
+  zoom: 14
 ---

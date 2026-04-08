@@ -4,6 +4,10 @@ locationId: "b2b612dc-ce23-4c35-8d8c-047ee143f582"
 title: "L'Usine"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.491448
+  longitude: 4.969528
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

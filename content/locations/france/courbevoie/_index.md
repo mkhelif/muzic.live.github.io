@@ -5,4 +5,5 @@ title: "Courbevoie"
 coordinates:
   latitude: 48.8978
   longitude: 2.2531
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Val D Anast"
 coordinates:
   latitude: 47.8833
   longitude: -1.9333
+  zoom: 14
 ---

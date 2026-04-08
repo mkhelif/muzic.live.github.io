@@ -5,4 +5,5 @@ title: "Caluire Et Cuire"
 coordinates:
   latitude: 45.7958
   longitude: 4.8472
+  zoom: 12
 ---

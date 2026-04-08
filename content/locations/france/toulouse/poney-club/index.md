@@ -4,6 +4,10 @@ locationId: "fe8c469d-0d47-4061-b98f-0097f25b6339"
 title: "Poney Club"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.480398
+  longitude: 1.49852
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

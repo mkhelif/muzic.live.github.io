@@ -5,4 +5,5 @@ title: "Forte Dei Marmi"
 coordinates:
   latitude: 43.9617
   longitude: 10.1678
+  zoom: 12
 ---

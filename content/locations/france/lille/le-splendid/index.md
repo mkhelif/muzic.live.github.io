@@ -4,6 +4,10 @@ locationId: "a61ab19c-ce63-477e-a292-db6628cbd335"
 title: "Le Splendid"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.623431
+  longitude: 3.090692
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

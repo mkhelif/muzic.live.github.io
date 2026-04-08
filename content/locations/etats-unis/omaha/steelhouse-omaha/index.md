@@ -4,6 +4,10 @@ locationId: "21f5a851-ecbc-4c6b-bb95-3fd9515c099d"
 title: "Steelhouse Omaha"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.2603
+  longitude: -95.931202
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

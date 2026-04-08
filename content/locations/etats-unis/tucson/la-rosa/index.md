@@ -4,6 +4,10 @@ locationId: "91dde893-8572-477f-ad4b-95d4b70a6178"
 title: "La Rosa"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 32.341888
+  longitude: -110.934513
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

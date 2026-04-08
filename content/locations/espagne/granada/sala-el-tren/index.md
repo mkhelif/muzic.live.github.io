@@ -4,6 +4,10 @@ locationId: "601000ee-64a4-4ba0-9085-9f23e25765ba"
 title: "Sala El Tren"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.190679
+  longitude: -3.635313
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

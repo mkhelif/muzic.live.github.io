@@ -5,4 +5,5 @@ title: "Trenčín"
 coordinates:
   latitude: 48.8945
   longitude: 18.0444
+  zoom: 14
 ---

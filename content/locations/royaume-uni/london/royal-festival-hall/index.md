@@ -4,6 +4,10 @@ locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "Royal Festival Hall"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.505779
+  longitude: -0.116787
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

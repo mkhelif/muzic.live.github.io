@@ -5,4 +5,5 @@ title: "Dortmund"
 coordinates:
   latitude: 51.5136
   longitude: 7.4653
+  zoom: 12
 ---

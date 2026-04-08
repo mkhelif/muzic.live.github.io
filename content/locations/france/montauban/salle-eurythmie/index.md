@@ -4,6 +4,10 @@ locationId: "d42842a6-25aa-4686-ab13-2519a22745a0"
 title: "Salle Eurythmie"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.023379
+  longitude: 1.362693
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

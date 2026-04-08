@@ -5,4 +5,5 @@ title: "Ploeren"
 coordinates:
   latitude: 47.6583
   longitude: -2.75
+  zoom: 12
 ---

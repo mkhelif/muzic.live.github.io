@@ -5,4 +5,5 @@ title: "Moravsky Krumlov"
 coordinates:
   latitude: 49.0486
   longitude: 16.3119
+  zoom: 14
 ---

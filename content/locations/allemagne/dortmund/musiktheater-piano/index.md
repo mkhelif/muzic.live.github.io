@@ -4,6 +4,10 @@ locationId: "345bb966-a4f0-4ae3-ba16-09dfbaf99a3f"
 title: "Musiktheater Piano"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.498925
+  longitude: 7.349229
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

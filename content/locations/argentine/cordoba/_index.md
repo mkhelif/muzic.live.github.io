@@ -5,4 +5,5 @@ title: "Cordoba"
 coordinates:
   latitude: -31.4201
   longitude: -64.1888
+  zoom: 12
 ---

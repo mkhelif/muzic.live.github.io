@@ -4,6 +4,10 @@ locationId: "7fe2d359-604f-4a39-bc26-09a3dbd54787"
 title: "Nobel Leiden"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.163296
+  longitude: 4.488293
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

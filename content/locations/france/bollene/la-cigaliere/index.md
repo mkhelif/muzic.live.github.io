@@ -4,6 +4,10 @@ locationId: "734cf8c6-929a-4e3f-b284-7cf435e9ce39"
 title: "La Cigalière"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.288129
+  longitude: 4.725874
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

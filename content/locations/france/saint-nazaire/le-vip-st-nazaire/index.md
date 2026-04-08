@@ -4,6 +4,10 @@ locationId: "8b384c9d-455f-4c35-8f76-e137f39a8a6e"
 title: "Le Vip - St Nazaire"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.274789
+  longitude: -2.203675
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

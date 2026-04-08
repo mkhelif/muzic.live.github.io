@@ -4,6 +4,10 @@ locationId: "df6e82a7-b69c-4783-8479-e49f45976852"
 title: "Parc Del Fòrum"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.412102
+  longitude: 2.226786
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

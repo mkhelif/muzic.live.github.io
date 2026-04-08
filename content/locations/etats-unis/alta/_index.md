@@ -5,4 +5,5 @@ title: "Alta"
 coordinates:
   latitude: 40.5885
   longitude: -111.6369
+  zoom: 14
 ---

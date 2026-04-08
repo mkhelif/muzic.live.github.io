@@ -5,4 +5,5 @@ title: "Carquefou"
 coordinates:
   latitude: 47.2972
   longitude: -1.4906
+  zoom: 12
 ---

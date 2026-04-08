@@ -5,4 +5,5 @@ title: "Wheatland"
 coordinates:
   latitude: 38.6627
   longitude: -121.435
+  zoom: 12
 ---

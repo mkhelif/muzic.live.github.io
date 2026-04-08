@@ -5,4 +5,5 @@ title: "San Antonio"
 coordinates:
   latitude: 29.4241
   longitude: -98.4936
+  zoom: 12
 ---

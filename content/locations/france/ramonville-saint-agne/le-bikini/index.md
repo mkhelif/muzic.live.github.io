@@ -4,6 +4,10 @@ locationId: "9655f312-58eb-4457-9212-6614274ddb5d"
 title: "Le Bikini"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.547948
+  longitude: 1.485678
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

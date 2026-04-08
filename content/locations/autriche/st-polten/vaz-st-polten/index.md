@@ -4,6 +4,10 @@ locationId: "c5b0ff33-7369-4243-8dca-a28e3865d5a1"
 title: "Vaz St. Pölten"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.178966
+  longitude: 15.62341
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

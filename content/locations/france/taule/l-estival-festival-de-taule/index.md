@@ -4,6 +4,10 @@ locationId: "0980e8e4-d8e3-47f7-a739-3ce666a2746c"
 title: "L'Estival - Festival De Taulé"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.603826
+  longitude: -3.899582
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

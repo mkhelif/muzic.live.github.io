@@ -4,6 +4,10 @@ locationId: "6362c765-954f-47fb-b697-6d954d9bcdfc"
 title: "Coco Beach"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 18.0472
+  longitude: -63.0167
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

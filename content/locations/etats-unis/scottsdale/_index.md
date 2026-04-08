@@ -5,4 +5,5 @@ title: "Scottsdale"
 coordinates:
   latitude: 33.4942
   longitude: -111.9261
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "04d8061c-0c4f-4e27-a15c-e0f9ecd5efe7"
 title: "Smac De La Gespe"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.232858
+  longitude: 0.078102
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

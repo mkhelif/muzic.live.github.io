@@ -4,6 +4,10 @@ locationId: "83011b12-95d0-449f-8299-8afe9fab08ff"
 title: "Murat Egyptian Room"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.768333
+  longitude: -86.15835
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

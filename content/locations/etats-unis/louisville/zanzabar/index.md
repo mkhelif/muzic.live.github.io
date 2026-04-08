@@ -4,6 +4,10 @@ locationId: "407aad2c-1b6d-4890-8cd7-ee21d7d00a8a"
 title: "Zanzabar"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.217373
+  longitude: -85.746132
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

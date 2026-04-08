@@ -5,4 +5,5 @@ title: "K Benhavn S"
 coordinates:
   latitude: 55.6535
   longitude: 12.5953
+  zoom: 12
 ---

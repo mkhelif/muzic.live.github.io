@@ -4,6 +4,10 @@ locationId: "2cfbf966-50fc-4735-bd77-670e8d4ba5cb"
 title: "The Showbox"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.608514
+  longitude: -122.339473
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

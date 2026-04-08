@@ -5,4 +5,5 @@ title: "Boulogne Sur Mer"
 coordinates:
   latitude: 50.7264
   longitude: 1.6136
+  zoom: 12
 ---

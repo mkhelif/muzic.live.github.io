@@ -5,4 +5,5 @@ title: "Moon Township"
 coordinates:
   latitude: 40.5186
   longitude: -80.2226
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "84fc1702-6972-4387-b3f7-d9affedbc650"
 title: "De Pul"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.663236
+  longitude: 5.610296
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

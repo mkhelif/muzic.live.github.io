@@ -5,4 +5,5 @@ title: "Lenox"
 coordinates:
   latitude: 42.3584
   longitude: -73.2716
+  zoom: 12
 ---

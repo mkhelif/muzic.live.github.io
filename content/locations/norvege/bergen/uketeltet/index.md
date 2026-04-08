@@ -4,6 +4,10 @@ locationId: "9f8b4267-b1a0-44fc-a446-1e556a863667"
 title: "Uketeltet"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 60.394306
+  longitude: 5.325919
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

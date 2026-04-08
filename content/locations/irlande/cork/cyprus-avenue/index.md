@@ -4,6 +4,10 @@ locationId: "66205adb-51ff-4355-bdb5-472f9a6b21a0"
 title: "Cyprus Avenue"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.898343
+  longitude: -8.469812
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

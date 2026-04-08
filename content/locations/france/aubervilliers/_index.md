@@ -5,4 +5,5 @@ title: "Aubervilliers"
 coordinates:
   latitude: 48.9136
   longitude: 2.3828
+  zoom: 12
 ---

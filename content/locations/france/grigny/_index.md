@@ -5,4 +5,5 @@ title: "Grigny"
 coordinates:
   latitude: 48.6539
   longitude: 2.3833
+  zoom: 12
 ---

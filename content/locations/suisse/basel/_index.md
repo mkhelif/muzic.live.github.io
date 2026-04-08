@@ -5,4 +5,5 @@ title: "Basel"
 coordinates:
   latitude: 47.5596
   longitude: 7.5886
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "d4a1248e-925e-4da7-847c-0c87637aeba5"
 title: "Lobero Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 34.421668
+  longitude: -119.700021
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

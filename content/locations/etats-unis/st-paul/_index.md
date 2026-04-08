@@ -5,4 +5,5 @@ title: "St. Paul"
 coordinates:
   latitude: 44.9537
   longitude: -93.09
+  zoom: 12
 ---

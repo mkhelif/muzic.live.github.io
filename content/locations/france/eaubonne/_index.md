@@ -5,4 +5,5 @@ title: "Eaubonne"
 coordinates:
   latitude: 48.9889
   longitude: 2.2794
+  zoom: 12
 ---

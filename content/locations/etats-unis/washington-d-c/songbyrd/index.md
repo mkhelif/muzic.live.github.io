@@ -4,6 +4,10 @@ locationId: "9925df85-c3f9-40ad-8f13-4933a2e0a312"
 title: "Songbyrd"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.910303
+  longitude: -76.996412
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

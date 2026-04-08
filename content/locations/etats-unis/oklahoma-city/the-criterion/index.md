@@ -4,6 +4,10 @@ locationId: "a002fc4e-19b2-4eea-94e6-ce22beb0b469"
 title: "The Criterion"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 35.466073
+  longitude: -97.503967
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

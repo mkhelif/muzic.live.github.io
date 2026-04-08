@@ -5,4 +5,5 @@ title: "Tinley Park"
 coordinates:
   latitude: 41.5731
   longitude: -87.7845
+  zoom: 12
 ---

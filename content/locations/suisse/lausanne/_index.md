@@ -5,4 +5,5 @@ title: "Lausanne"
 coordinates:
   latitude: 46.5197
   longitude: 6.6323
+  zoom: 12
 ---

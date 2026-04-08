@@ -5,4 +5,5 @@ title: "Dernau"
 coordinates:
   latitude: 50.5417
   longitude: 7.0417
+  zoom: 14
 ---

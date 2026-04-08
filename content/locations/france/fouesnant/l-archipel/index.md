@@ -4,6 +4,10 @@ locationId: "713f2c4c-5e72-4c7f-a8ef-0acaf48c479b"
 title: "L'Archipel"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.894692
+  longitude: -4.013052
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

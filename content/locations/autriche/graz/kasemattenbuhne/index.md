@@ -4,6 +4,10 @@ locationId: "7890f5f1-7905-4f1b-93dd-9e2d2385b056"
 title: "Kasemattenbühne"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.070868
+  longitude: 15.438279
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

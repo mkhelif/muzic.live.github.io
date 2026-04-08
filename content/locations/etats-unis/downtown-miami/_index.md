@@ -5,4 +5,5 @@ title: "Downtown Miami"
 coordinates:
   latitude: 25.7743
   longitude: -80.1937
+  zoom: 12
 ---

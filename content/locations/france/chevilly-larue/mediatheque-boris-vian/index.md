@@ -4,6 +4,10 @@ locationId: "acf8e53e-79c7-4c7a-b82e-ce6f122febdf"
 title: "Médiathèque Boris Vian"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.77186
+  longitude: 2.359983
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

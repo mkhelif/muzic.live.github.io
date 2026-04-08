@@ -4,6 +4,10 @@ locationId: "a6f81551-964f-4693-b6e2-d32cdbd487b7"
 title: "The Cabot"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.549684
+  longitude: -70.877454
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

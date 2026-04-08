@@ -5,4 +5,5 @@ title: "Hyeres"
 coordinates:
   latitude: 43.12
   longitude: 6.1286
+  zoom: 12
 ---

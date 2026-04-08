@@ -4,6 +4,10 @@ locationId: "f3ce988b-0b51-49f0-8afd-a52c586cb118"
 title: "Domaine De Cande"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.29692
+  longitude: 0.664247
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

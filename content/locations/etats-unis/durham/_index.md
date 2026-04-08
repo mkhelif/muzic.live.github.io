@@ -5,4 +5,5 @@ title: "Durham"
 coordinates:
   latitude: 35.994
   longitude: -78.8986
+  zoom: 12
 ---

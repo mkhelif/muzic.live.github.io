@@ -4,6 +4,10 @@ locationId: "5de434b7-19dd-45a2-bdf6-574da047ff0f"
 title: "Boulder Theater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.019194
+  longitude: -105.277236
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

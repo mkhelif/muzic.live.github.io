@@ -5,4 +5,5 @@ title: "Moncton"
 coordinates:
   latitude: 46.0878
   longitude: -64.7782
+  zoom: 12
 ---

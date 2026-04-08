@@ -4,6 +4,10 @@ locationId: "b742699c-fac6-4849-be17-0404bd0f10c1"
 title: "Salle Du Median"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.631498
+  longitude: 5.110632
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

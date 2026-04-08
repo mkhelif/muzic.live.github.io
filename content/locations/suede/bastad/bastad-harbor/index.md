@@ -4,6 +4,10 @@ locationId: "b3a5de0c-96fe-4733-9559-0cdd349f76a3"
 title: "Bastad Harbor"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 56.426896
+  longitude: 12.860879
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

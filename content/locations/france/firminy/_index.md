@@ -5,4 +5,5 @@ title: "Firminy"
 coordinates:
   latitude: 45.3892
   longitude: 4.2892
+  zoom: 12
 ---

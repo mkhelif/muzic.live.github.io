@@ -5,4 +5,5 @@ title: "Bontida"
 coordinates:
   latitude: 46.8833
   longitude: 23.8167
+  zoom: 14
 ---

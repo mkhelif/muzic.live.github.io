@@ -5,4 +5,5 @@ title: "Bethel"
 coordinates:
   latitude: 41.3712
   longitude: -73.414
+  zoom: 14
 ---

@@ -4,6 +4,10 @@ locationId: "42451457-22c9-4270-aa80-f574b2da1e71"
 title: "Allianz Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.21879
+  longitude: 11.623623
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

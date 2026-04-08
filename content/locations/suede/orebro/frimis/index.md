@@ -4,6 +4,10 @@ locationId: "fdd6e057-8691-44a3-a452-1fe0c9953b79"
 title: "Frimis"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 59.274166
+  longitude: 15.209971
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "f1ca1379-d19e-4d61-bc12-b205c5704119"
 title: "Matterley Basin Grand Prix Track"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.061277
+  longitude: -1.313169
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Viviers"
 coordinates:
   latitude: 44.4844
   longitude: 4.6889
+  zoom: 14
 ---

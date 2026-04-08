@@ -5,4 +5,5 @@ title: "Nurburg"
 coordinates:
   latitude: 50.3349
   longitude: 6.9443
+  zoom: 14
 ---

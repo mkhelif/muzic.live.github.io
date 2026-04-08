@@ -4,6 +4,10 @@ locationId: "0e9980b5-f28b-4378-8ca2-1721ef892c77"
 title: "Bistrot de la Scène"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.305891
+  longitude: 5.060441
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

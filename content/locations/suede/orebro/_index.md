@@ -5,4 +5,5 @@ title: "Orebro"
 coordinates:
   latitude: 59.2753
   longitude: 15.2134
+  zoom: 12
 ---

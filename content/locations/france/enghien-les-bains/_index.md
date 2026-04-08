@@ -5,4 +5,5 @@ title: "Enghien Les Bains"
 coordinates:
   latitude: 48.97
   longitude: 2.3089
+  zoom: 12
 ---

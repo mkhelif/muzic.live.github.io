@@ -4,6 +4,10 @@ locationId: "8bb04f3d-4d58-4828-960c-ea23518d36ad"
 title: "Festival Eucalyptus"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.015363
+  longitude: -4.487786
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

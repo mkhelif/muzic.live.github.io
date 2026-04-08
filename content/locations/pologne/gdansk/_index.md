@@ -5,4 +5,5 @@ title: "Gdansk"
 coordinates:
   latitude: 54.352
   longitude: 18.6466
+  zoom: 12
 ---

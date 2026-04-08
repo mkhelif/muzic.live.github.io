@@ -4,6 +4,10 @@ locationId: "c19dba57-10b2-48f4-9aaf-a209081bd722"
 title: "Lądowisko Czaplinek-Broczyno"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.519023
+  longitude: 16.2832
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

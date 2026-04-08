@@ -4,6 +4,10 @@ locationId: "5d8eb85e-d61d-4d40-a053-269e6c071c81"
 title: "Commodore Ballroom"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.280563
+  longitude: -123.120792
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

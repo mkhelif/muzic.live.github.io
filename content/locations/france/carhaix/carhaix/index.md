@@ -4,6 +4,10 @@ locationId: "7173bafe-3f1f-4d07-9a8b-3eff12e324a4"
 title: "Carhaix"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.277996
+  longitude: -3.562198
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

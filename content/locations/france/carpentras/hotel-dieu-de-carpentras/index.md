@@ -4,6 +4,10 @@ locationId: "3b7087d2-437b-4411-b7d0-fceffb5d798c"
 title: "Hôtel-Dieu De Carpentras"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.135998
+  longitude: 4.810476
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

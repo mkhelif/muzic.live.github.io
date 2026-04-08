@@ -4,6 +4,10 @@ locationId: "fb05cb21-9256-4496-a94a-55ca93ebb445"
 title: "Brigade Innovation Gardens"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 12.976794
+  longitude: 77.590082
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "3961f176-b9e4-486a-ad93-b8fc1488c56b"
 title: "La Rodia"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.232399
+  longitude: 6.037615
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

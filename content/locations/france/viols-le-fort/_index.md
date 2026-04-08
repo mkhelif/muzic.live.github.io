@@ -5,4 +5,5 @@ title: "Viols Le Fort"
 coordinates:
   latitude: 43.7333
   longitude: 3.7
+  zoom: 14
 ---

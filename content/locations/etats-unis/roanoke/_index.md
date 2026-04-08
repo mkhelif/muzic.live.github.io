@@ -5,4 +5,5 @@ title: "Roanoke"
 coordinates:
   latitude: 37.271
   longitude: -79.9414
+  zoom: 12
 ---

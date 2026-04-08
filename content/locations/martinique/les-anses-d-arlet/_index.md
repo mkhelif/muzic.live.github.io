@@ -5,4 +5,5 @@ title: "Les Anses D Arlet"
 coordinates:
   latitude: 14.5
   longitude: -61.0833
+  zoom: 12
 ---

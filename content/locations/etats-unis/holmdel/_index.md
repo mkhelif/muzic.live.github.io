@@ -5,4 +5,5 @@ title: "Holmdel"
 coordinates:
   latitude: 40.3751
   longitude: -74.1731
+  zoom: 12
 ---

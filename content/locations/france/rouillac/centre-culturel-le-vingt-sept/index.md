@@ -4,6 +4,10 @@ locationId: "784245c5-86f7-44ca-9fd5-20d34771b1f4"
 title: "Centre Culturel Le Vingt Sept"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.309347
+  longitude: -2.366702
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

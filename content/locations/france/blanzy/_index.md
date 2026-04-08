@@ -5,4 +5,5 @@ title: "Blanzy"
 coordinates:
   latitude: 46.7
   longitude: 4.3833
+  zoom: 14
 ---

@@ -4,6 +4,10 @@ locationId: "142fff9a-67ec-43c9-b646-e571e4c61cb9"
 title: "Filene Center At Wolf Trap"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.901373
+  longitude: -77.265176
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

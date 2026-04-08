@@ -5,4 +5,5 @@ title: "Villena"
 coordinates:
   latitude: 38.6361
   longitude: -0.8658
+  zoom: 12
 ---

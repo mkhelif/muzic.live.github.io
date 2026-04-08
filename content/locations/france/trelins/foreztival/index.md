@@ -4,6 +4,10 @@ locationId: "2a1a4560-a063-4fe7-81ac-97c20c409725"
 title: "Foreztival"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.731193
+  longitude: 4.007365
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

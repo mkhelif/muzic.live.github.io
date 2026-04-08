@@ -5,4 +5,5 @@ title: "Palermo"
 coordinates:
   latitude: 38.1157
   longitude: 13.3615
+  zoom: 12
 ---

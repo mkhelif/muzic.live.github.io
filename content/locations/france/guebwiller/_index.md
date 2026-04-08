@@ -5,4 +5,5 @@ title: "Guebwiller"
 coordinates:
   latitude: 47.9097
   longitude: 7.2133
+  zoom: 12
 ---

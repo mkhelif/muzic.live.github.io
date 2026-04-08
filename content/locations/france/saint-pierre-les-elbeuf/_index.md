@@ -5,4 +5,5 @@ title: "Saint Pierre Les Elbeuf"
 coordinates:
   latitude: 49.2811
   longitude: 1.0506
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Velaux"
 coordinates:
   latitude: 43.5272
   longitude: 5.2567
+  zoom: 14
 ---

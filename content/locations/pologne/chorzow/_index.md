@@ -5,4 +5,5 @@ title: "Chorzow"
 coordinates:
   latitude: 50.2967
   longitude: 18.9547
+  zoom: 12
 ---

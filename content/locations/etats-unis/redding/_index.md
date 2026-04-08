@@ -5,4 +5,5 @@ title: "Redding"
 coordinates:
   latitude: 40.5865
   longitude: -122.3917
+  zoom: 12
 ---

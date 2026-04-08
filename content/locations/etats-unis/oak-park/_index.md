@@ -5,4 +5,5 @@ title: "Oak Park"
 coordinates:
   latitude: 41.885
   longitude: -87.7845
+  zoom: 12
 ---

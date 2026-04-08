@@ -4,6 +4,10 @@ locationId: "225d7820-b76f-4b96-b8e5-132849376687"
 title: "Schloßplatz Coburg"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.258831
+  longitude: 10.968314
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

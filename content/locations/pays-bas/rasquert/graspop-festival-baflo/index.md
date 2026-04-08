@@ -4,6 +4,10 @@ locationId: "c22e5485-6fe5-4f56-930d-62fd921c0387"
 title: "Graspop Festival Baflo"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.368662
+  longitude: 6.516687
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

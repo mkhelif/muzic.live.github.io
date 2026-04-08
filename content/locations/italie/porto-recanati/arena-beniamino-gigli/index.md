@@ -4,6 +4,10 @@ locationId: "00a1b5e7-ef19-4c7a-90b6-23dec048d9de"
 title: "Arena Beniamino Gigli"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.435315
+  longitude: 13.66195
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

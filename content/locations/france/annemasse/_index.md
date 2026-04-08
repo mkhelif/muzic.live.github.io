@@ -5,4 +5,5 @@ title: "Annemasse"
 coordinates:
   latitude: 46.1942
   longitude: 6.2364
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Borlange"
 coordinates:
   latitude: 60.4858
   longitude: 15.4367
+  zoom: 12
 ---

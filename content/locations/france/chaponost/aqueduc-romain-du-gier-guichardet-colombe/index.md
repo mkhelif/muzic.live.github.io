@@ -4,6 +4,10 @@ locationId: "4706bb26-4fbd-4278-af0e-bec16daeb48d"
 title: "Aqueduc Romain Du Gier (Guichardet-Colombe)"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.710702
+  longitude: 4.746916
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "7f38c886-a723-4f1c-a3e1-8b12c48e71e6"
 title: "Tullisali"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 64.993503
+  longitude: 25.457407
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "260d9a8a-ec11-40ff-ba45-678c91be5a84"
 title: "L'Embarcadère"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.910361
+  longitude: 2.382982
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

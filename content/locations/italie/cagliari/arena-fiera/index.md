@@ -4,6 +4,10 @@ locationId: "9ee9d2b4-d80e-4de3-b5fb-6eae484ebefd"
 title: "Arena Fiera"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.217199
+  longitude: 9.113311
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "c6781d4e-719a-4068-bc34-4fe508af1bfb"
 title: "Autrans"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.174621
+  longitude: 5.543128
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

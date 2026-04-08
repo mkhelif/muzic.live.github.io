@@ -4,6 +4,10 @@ locationId: "af50eca2-6c6f-4d4a-839c-ac9bf384bbd7"
 title: "Palace Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.947133
+  longitude: -93.09673
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

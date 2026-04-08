@@ -5,4 +5,5 @@ title: "Utrecht"
 coordinates:
   latitude: 52.0907
   longitude: 5.1214
+  zoom: 12
 ---

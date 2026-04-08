@@ -5,4 +5,5 @@ title: "Biarritz"
 coordinates:
   latitude: 43.4832
   longitude: -1.5586
+  zoom: 12
 ---

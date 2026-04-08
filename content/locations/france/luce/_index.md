@@ -5,4 +5,5 @@ title: "Luce"
 coordinates:
   latitude: 48.4372
   longitude: 1.4572
+  zoom: 12
 ---

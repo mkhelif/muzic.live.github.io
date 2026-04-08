@@ -5,4 +5,5 @@ title: "Nilvange"
 coordinates:
   latitude: 49.3403
   longitude: 6.0472
+  zoom: 12
 ---

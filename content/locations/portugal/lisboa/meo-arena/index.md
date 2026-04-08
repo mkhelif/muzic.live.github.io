@@ -4,6 +4,10 @@ locationId: "31f4c5f6-c97e-4f4f-be7f-35c4bb0fc9f2"
 title: "Meo Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.768469
+  longitude: -9.0939
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

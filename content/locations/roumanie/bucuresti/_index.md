@@ -5,4 +5,5 @@ title: "București"
 coordinates:
   latitude: 44.4268
   longitude: 26.1025
+  zoom: 11
 ---

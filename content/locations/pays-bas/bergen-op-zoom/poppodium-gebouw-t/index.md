@@ -4,6 +4,10 @@ locationId: "92d04f85-cf10-4bfb-ae76-a4b797302e53"
 title: "Poppodium Gebouw-T"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.494476
+  longitude: 4.287154
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

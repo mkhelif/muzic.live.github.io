@@ -5,4 +5,5 @@ title: "Bonsall"
 coordinates:
   latitude: 53.0817
   longitude: -1.5783
+  zoom: 12
 ---

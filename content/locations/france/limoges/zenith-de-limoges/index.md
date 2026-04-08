@@ -4,6 +4,10 @@ locationId: "94547b3d-6565-4dbd-921a-950a0d99166b"
 title: "Zenith De Limoges"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.862273
+  longitude: 1.279222
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "ab4a88e1-2e9b-4927-810a-48476151e3fa"
 title: "Cervantes' Other Side"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.754357
+  longitude: -104.978847
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

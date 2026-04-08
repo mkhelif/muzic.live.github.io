@@ -5,4 +5,5 @@ title: "Briteiros"
 coordinates:
   latitude: 41.5167
   longitude: -8.3167
+  zoom: 14
 ---

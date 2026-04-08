@@ -4,6 +4,10 @@ locationId: "5fec4f08-503f-4b27-9a18-b713e50fafd0"
 title: "Qudos Bank Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -33.844289
+  longitude: 151.062239
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

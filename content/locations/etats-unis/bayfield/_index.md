@@ -5,4 +5,5 @@ title: "Bayfield"
 coordinates:
   latitude: 46.8125
   longitude: -90.8194
+  zoom: 14
 ---

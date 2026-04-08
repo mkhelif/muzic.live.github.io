@@ -5,4 +5,5 @@ title: "Alkmaar"
 coordinates:
   latitude: 52.6324
   longitude: 4.7534
+  zoom: 12
 ---

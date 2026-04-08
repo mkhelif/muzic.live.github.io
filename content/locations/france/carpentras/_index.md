@@ -5,4 +5,5 @@ title: "Carpentras"
 coordinates:
   latitude: 44.0558
   longitude: 5.0481
+  zoom: 12
 ---

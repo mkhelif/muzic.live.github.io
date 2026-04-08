@@ -5,4 +5,5 @@ title: "Newark"
 coordinates:
   latitude: 40.7357
   longitude: -74.1724
+  zoom: 12
 ---

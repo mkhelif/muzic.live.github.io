@@ -4,6 +4,10 @@ locationId: "10cfdcae-13d1-4b36-87f9-61014f0482d3"
 title: "The Goods Shed"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -42.882509
+  longitude: 147.328123
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

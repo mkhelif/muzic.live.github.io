@@ -4,6 +4,10 @@ locationId: "1faf0344-4f9e-430b-bc9d-3ef84f6f29b7"
 title: "Križanke"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.046365
+  longitude: 14.503189
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

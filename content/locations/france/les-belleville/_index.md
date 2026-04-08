@@ -5,4 +5,5 @@ title: "Les Belleville"
 coordinates:
   latitude: 45.3833
   longitude: 6.5
+  zoom: 14
 ---

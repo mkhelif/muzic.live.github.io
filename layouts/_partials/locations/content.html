@@ -2,6 +2,10 @@
 
 <div class="container">
     {{ partial "social.html" . }}
+    {{ with .Params.coordinates }}
+        {{ partial "locations/map.html" . }}
+    {{ end }}
+
     {{ partial "content.html" . }}
 
     {{ partial "locations/events.html" . }}

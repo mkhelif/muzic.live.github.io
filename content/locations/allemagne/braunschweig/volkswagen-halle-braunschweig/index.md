@@ -4,6 +4,10 @@ locationId: "4d92a5e4-6d17-4e73-a0b2-518d721f038a"
 title: "Volkswagen Halle Braunschweig"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.257359
+  longitude: 10.519072
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

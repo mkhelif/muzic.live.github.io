@@ -4,6 +4,10 @@ locationId: "cfd77ff3-90a0-4c4b-abd6-0d663df7e441"
 title: "Störmthaler See"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.229248
+  longitude: 12.453483
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

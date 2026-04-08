@@ -5,4 +5,5 @@ title: "Chateau Arnoux Saint Auban"
 coordinates:
   latitude: 44.0925
   longitude: 5.9933
+  zoom: 12
 ---

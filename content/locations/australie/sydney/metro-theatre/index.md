@@ -4,6 +4,10 @@ locationId: "697a7332-b782-44cf-acd4-79c890545fb0"
 title: "Metro Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -33.875754
+  longitude: 151.206749
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

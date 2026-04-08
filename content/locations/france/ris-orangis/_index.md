@@ -5,4 +5,5 @@ title: "Ris Orangis"
 coordinates:
   latitude: 48.6508
   longitude: 2.4147
+  zoom: 12
 ---

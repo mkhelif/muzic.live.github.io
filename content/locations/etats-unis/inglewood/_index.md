@@ -5,4 +5,5 @@ title: "Inglewood"
 coordinates:
   latitude: 33.9617
   longitude: -118.3531
+  zoom: 12
 ---

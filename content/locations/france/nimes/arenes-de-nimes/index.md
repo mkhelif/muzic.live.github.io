@@ -4,6 +4,10 @@ locationId: "3cf229e9-bea5-4d70-b928-de140abb26ac"
 title: "Arènes De Nîmes"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.834885
+  longitude: 4.359624
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

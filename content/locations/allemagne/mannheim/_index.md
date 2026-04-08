@@ -5,4 +5,5 @@ title: "Mannheim"
 coordinates:
   latitude: 49.4875
   longitude: 8.466
+  zoom: 12
 ---

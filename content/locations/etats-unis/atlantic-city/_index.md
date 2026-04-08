@@ -5,4 +5,5 @@ title: "Atlantic City"
 coordinates:
   latitude: 39.3643
   longitude: -74.4229
+  zoom: 12
 ---

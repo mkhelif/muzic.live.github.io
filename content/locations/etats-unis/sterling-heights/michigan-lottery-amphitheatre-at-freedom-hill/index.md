@@ -4,6 +4,10 @@ locationId: "f222d766-2c06-4c77-895d-3563f3eb0829"
 title: "Michigan Lottery Amphitheatre At Freedom Hill"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.564148
+  longitude: -82.976158
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

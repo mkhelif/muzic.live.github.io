@@ -5,4 +5,5 @@ title: "Waukee"
 coordinates:
   latitude: 41.6117
   longitude: -93.885
+  zoom: 12
 ---

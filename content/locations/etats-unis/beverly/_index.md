@@ -5,4 +5,5 @@ title: "Beverly"
 coordinates:
   latitude: 42.5584
   longitude: -70.88
+  zoom: 12
 ---

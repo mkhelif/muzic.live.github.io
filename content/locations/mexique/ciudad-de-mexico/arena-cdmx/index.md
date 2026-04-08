@@ -4,6 +4,10 @@ locationId: "d85e4233-3c26-4fae-91cb-def08d21076c"
 title: "Arena Cdmx"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 19.424614
+  longitude: -99.152001
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

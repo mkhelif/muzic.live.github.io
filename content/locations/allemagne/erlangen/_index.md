@@ -5,4 +5,5 @@ title: "Erlangen"
 coordinates:
   latitude: 49.5897
   longitude: 11.0078
+  zoom: 12
 ---

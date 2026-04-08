@@ -4,6 +4,10 @@ locationId: "681e5f86-22ae-41e4-be85-be9b3dee5a52"
 title: "Beacon Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.78049
+  longitude: -73.981131
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

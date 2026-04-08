@@ -5,4 +5,5 @@ title: "Granada"
 coordinates:
   latitude: 37.1773
   longitude: -3.5986
+  zoom: 12
 ---

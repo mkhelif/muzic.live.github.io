@@ -4,6 +4,10 @@ locationId: "78d25a0d-9ccc-4453-930f-402fdaf954a7"
 title: "Rochester Castle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.392022
+  longitude: 0.507223
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

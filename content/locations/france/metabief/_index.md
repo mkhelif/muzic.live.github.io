@@ -5,4 +5,5 @@ title: "Métabief"
 coordinates:
   latitude: 46.775
   longitude: 6.3544
+  zoom: 14
 ---

@@ -5,4 +5,5 @@ title: "Roubaix"
 coordinates:
   latitude: 50.6942
   longitude: 3.1747
+  zoom: 12
 ---

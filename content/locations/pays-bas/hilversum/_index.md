@@ -5,4 +5,5 @@ title: "Hilversum"
 coordinates:
   latitude: 52.2292
   longitude: 5.17
+  zoom: 12
 ---

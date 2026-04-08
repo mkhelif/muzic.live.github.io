@@ -4,6 +4,10 @@ locationId: "239ad800-d3d6-494e-a5fd-d1f15b5b10c5"
 title: "Cemil Topuzlu Open Air Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.235753
+  longitude: 42.54521
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

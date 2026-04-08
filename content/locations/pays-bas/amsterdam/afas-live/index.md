@@ -4,6 +4,10 @@ locationId: "b8d6b4c8-8df9-4172-932c-38577c3be484"
 title: "Afas Live"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.312261
+  longitude: 4.944217
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

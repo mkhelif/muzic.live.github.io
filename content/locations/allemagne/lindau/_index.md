@@ -5,4 +5,5 @@ title: "Lindau"
 coordinates:
   latitude: 47.546
   longitude: 9.6839
+  zoom: 12
 ---

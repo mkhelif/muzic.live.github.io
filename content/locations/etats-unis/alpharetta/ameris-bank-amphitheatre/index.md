@@ -4,6 +4,10 @@ locationId: "22609514-8e3a-46e8-8a61-f89a36f23bfa"
 title: "Ameris Bank Amphitheatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 34.054353
+  longitude: -84.306335
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

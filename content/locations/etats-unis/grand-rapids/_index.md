@@ -5,4 +5,5 @@ title: "Grand Rapids"
 coordinates:
   latitude: 42.9634
   longitude: -85.6681
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Jena"
 coordinates:
   latitude: 50.9272
   longitude: 11.5892
+  zoom: 12
 ---

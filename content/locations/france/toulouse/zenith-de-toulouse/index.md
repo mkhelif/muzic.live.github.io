@@ -4,6 +4,10 @@ locationId: "fe8c469d-0d47-4061-b98f-0097f25b6339"
 title: "Zénith De Toulouse"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.600843
+  longitude: 1.411441
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

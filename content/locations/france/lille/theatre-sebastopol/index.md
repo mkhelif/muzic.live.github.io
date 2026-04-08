@@ -4,6 +4,10 @@ locationId: "a61ab19c-ce63-477e-a292-db6628cbd335"
 title: "Theatre Sebastopol"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.629089
+  longitude: 3.057945
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

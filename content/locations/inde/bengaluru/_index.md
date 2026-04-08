@@ -5,4 +5,5 @@ title: "Bengaluru"
 coordinates:
   latitude: 12.9716
   longitude: 77.5946
+  zoom: 11
 ---

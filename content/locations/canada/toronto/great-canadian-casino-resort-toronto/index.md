@@ -4,6 +4,10 @@ locationId: "5e0816b9-7085-4d69-89f8-9562d89868d1"
 title: "Great Canadian Casino Resort Toronto"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.716088
+  longitude: -79.6018
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

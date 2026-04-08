@@ -5,4 +5,5 @@ title: "Le Chambon Feugerolles"
 coordinates:
   latitude: 45.3956
   longitude: 4.3269
+  zoom: 12
 ---

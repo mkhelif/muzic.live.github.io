@@ -4,6 +4,10 @@ locationId: "81773251-a33d-407e-9c75-62b47dbd91d1"
 title: "Café De La Danse"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.854112
+  longitude: 2.372842
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

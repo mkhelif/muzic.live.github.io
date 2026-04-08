@@ -4,6 +4,10 @@ locationId: "57e2d57e-efbf-4523-bad9-79f101d88dea"
 title: "Hoyt Sherman Place"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.588955
+  longitude: -93.63815
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

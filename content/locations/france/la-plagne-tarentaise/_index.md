@@ -5,4 +5,5 @@ title: "La Plagne Tarentaise"
 coordinates:
   latitude: 45.5407
   longitude: 6.7124
+  zoom: 14
 ---

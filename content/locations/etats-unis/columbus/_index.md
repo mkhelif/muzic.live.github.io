@@ -5,4 +5,5 @@ title: "Columbus"
 coordinates:
   latitude: 39.9612
   longitude: -82.9988
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "a98173b3-7f25-465e-843b-48bc5cbe00f8"
 title: "Swansea Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.616088
+  longitude: -3.94239
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

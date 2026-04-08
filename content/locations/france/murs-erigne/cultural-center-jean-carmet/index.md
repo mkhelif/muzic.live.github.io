@@ -4,6 +4,10 @@ locationId: "77699c6f-4a55-4079-afb7-caa4309005ab"
 title: "Cultural Center Jean Carmet"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.399204
+  longitude: -0.536115
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

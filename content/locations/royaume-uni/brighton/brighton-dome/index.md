@@ -4,6 +4,10 @@ locationId: "39bb0493-f1b4-4b4b-b100-70b567edda6e"
 title: "Brighton Dome"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.823645
+  longitude: -0.138345
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

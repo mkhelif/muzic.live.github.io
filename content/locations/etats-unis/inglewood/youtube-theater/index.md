@@ -4,6 +4,10 @@ locationId: "d69ba880-8571-46f2-a747-f03fcacf97e6"
 title: "Youtube Theater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.951756
+  longitude: -118.336787
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

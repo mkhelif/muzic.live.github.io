@@ -4,6 +4,10 @@ locationId: "7b3913a8-6fed-4368-8002-aaa969b0261a"
 title: "Ratiopharm Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.381743
+  longitude: 10.004737
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

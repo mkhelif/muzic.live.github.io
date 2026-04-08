@@ -5,4 +5,5 @@ title: "Worthing"
 coordinates:
   latitude: 50.8148
   longitude: -0.3714
+  zoom: 12
 ---

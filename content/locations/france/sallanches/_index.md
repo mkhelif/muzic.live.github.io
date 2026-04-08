@@ -5,4 +5,5 @@ title: "Sallanches"
 coordinates:
   latitude: 45.9367
   longitude: 6.6311
+  zoom: 12
 ---

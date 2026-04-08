@@ -4,6 +4,10 @@ locationId: "cd610717-7808-4f6a-95cd-3fc627cba001"
 title: "Middenvijver Park"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.223502
+  longitude: 4.3701
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

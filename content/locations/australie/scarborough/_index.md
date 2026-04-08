@@ -5,4 +5,5 @@ title: "Scarborough"
 coordinates:
   latitude: -31.8939
   longitude: 115.7556
+  zoom: 12
 ---

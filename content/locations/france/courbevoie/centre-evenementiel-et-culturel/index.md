@@ -4,6 +4,10 @@ locationId: "a8030b22-9b1d-4abd-ba40-14c37982e12a"
 title: "Centre Evénementiel Et Culturel"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.895333
+  longitude: 2.25616
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

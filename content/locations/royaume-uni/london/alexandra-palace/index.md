@@ -4,6 +4,10 @@ locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "Alexandra Palace"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.594349
+  longitude: -0.13064
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

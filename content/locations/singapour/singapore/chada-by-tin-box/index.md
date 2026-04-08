@@ -4,6 +4,10 @@ locationId: "de675985-c6e9-4ec6-9084-73dadd954456"
 title: "Chada By Tin Box"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 1.357107
+  longitude: 103.819499
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

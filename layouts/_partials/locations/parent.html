@@ -1,2 +1,6 @@
+{{ with .Params.coordinates }}
+    {{ partial "locations/map.html" . }}
+{{ end }}
+
 {{ partial "locations/events.html" . }}
 {{ partial "locations/reports.html" . }}

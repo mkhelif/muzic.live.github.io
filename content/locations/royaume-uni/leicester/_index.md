@@ -5,4 +5,5 @@ title: "Leicester"
 coordinates:
   latitude: 52.6369
   longitude: -1.1398
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "8e94eea4-c531-40d6-99dc-5a63cb7e28fe"
 title: "Parque Ciudad Empresarial"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -33.389969
+  longitude: -70.618053
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

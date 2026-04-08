@@ -4,6 +4,10 @@ locationId: "4c987d5c-bc72-492a-8b68-6d0dc466ff9f"
 title: "Gaskessel Bern"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.938327
+  longitude: 7.44238
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

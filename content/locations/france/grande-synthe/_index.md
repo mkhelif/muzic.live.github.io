@@ -5,4 +5,5 @@ title: "Grande Synthe"
 coordinates:
   latitude: 51.0139
   longitude: 2.3028
+  zoom: 12
 ---

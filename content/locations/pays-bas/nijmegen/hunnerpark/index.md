@@ -4,6 +4,10 @@ locationId: "3d1342c8-4ab2-4561-a823-065c21339aae"
 title: "Hunnerpark"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.847125
+  longitude: 5.872083
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

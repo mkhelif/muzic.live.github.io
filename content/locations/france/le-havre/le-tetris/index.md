@@ -4,6 +4,10 @@ locationId: "2ab66b46-6a18-416d-84e4-b3221b39d127"
 title: "Le Tetris"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.504059
+  longitude: 0.120714
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

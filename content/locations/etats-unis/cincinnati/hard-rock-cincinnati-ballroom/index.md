@@ -4,6 +4,10 @@ locationId: "8147e148-5c77-4cde-bd68-f127662e8eac"
 title: "Hard Rock Cincinnati Ballroom"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.101454
+  longitude: -84.51246
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Tempe"
 coordinates:
   latitude: 33.4255
   longitude: -111.94
+  zoom: 12
 ---

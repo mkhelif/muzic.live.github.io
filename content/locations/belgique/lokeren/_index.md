@@ -5,4 +5,5 @@ title: "Lokeren"
 coordinates:
   latitude: 51.1025
   longitude: 3.9908
+  zoom: 12
 ---

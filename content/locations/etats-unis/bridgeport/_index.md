@@ -5,4 +5,5 @@ title: "Bridgeport"
 coordinates:
   latitude: 41.1865
   longitude: -73.1952
+  zoom: 12
 ---

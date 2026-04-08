@@ -5,4 +5,5 @@ title: "Wolverhampton"
 coordinates:
   latitude: 52.587
   longitude: -2.1288
+  zoom: 12
 ---

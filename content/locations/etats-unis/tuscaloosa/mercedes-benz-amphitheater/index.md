@@ -4,6 +4,10 @@ locationId: "e0e98d28-9e88-459d-bce8-301915c168f7"
 title: "Mercedes-Benz Amphitheater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.209561
+  longitude: -87.567526
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Saint-Malo"
 coordinates:
   latitude: 48.6493
   longitude: -2.0007
+  zoom: 12
 ---

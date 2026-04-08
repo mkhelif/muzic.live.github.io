@@ -4,6 +4,10 @@ locationId: "fbbae854-7c97-4a52-a691-df7db70127f0"
 title: "Madison Street Theater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.879854
+  longitude: -87.800437
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

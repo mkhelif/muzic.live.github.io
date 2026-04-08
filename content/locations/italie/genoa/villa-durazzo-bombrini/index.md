@@ -4,6 +4,10 @@ locationId: "0adc0e1a-e88f-41b9-8524-bffe26a9a7a7"
 title: "Villa Durazzo Bombrini"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.415509
+  longitude: 8.876062
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "57cd5ca6-18b9-4a2d-98e8-e54ba146c60b"
 title: "Francofolies De Spa"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.492065
+  longitude: 5.862757
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

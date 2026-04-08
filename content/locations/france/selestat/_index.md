@@ -5,4 +5,5 @@ title: "Selestat"
 coordinates:
   latitude: 48.2597
   longitude: 7.4531
+  zoom: 12
 ---

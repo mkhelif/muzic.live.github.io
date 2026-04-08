@@ -5,4 +5,5 @@ title: "Thackerville"
 coordinates:
   latitude: 33.7979
   longitude: -97.1375
+  zoom: 14
 ---

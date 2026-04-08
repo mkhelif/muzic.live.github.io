@@ -4,6 +4,10 @@ locationId: "7cc6d318-3f94-493a-a242-a1deab474623"
 title: "Salle De La Carrière"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.20951
+  longitude: -1.634878
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

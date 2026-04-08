@@ -5,4 +5,5 @@ title: "Indio"
 coordinates:
   latitude: 33.7206
   longitude: -116.2156
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "cf04546e-c226-46e3-b6d1-0dd25b746344"
 title: "Nalen"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 59.336994
+  longitude: 18.067587
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Bristow"
 coordinates:
   latitude: 38.729
   longitude: -77.5428
+  zoom: 12
 ---

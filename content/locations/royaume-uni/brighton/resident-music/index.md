@@ -4,6 +4,10 @@ locationId: "39bb0493-f1b4-4b4b-b100-70b567edda6e"
 title: "Resident Music"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.821463
+  longitude: -0.140056
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

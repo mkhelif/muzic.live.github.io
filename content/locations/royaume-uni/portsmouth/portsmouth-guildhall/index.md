@@ -4,6 +4,10 @@ locationId: "6d46f20f-4298-4a58-b35f-da275ade348b"
 title: "Portsmouth Guildhall"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.797594
+  longitude: -1.09299
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

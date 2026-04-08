@@ -4,6 +4,10 @@ locationId: "06b75f78-4a60-4e47-8013-c7902d446814"
 title: "Ldlc Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.769518
+  longitude: 4.979946
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Fussen"
 coordinates:
   latitude: 47.57
   longitude: 10.7006
+  zoom: 12
 ---

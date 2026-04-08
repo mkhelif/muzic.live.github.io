@@ -5,4 +5,5 @@ title: "Bertrix"
 coordinates:
   latitude: 49.8567
   longitude: 5.2567
+  zoom: 14
 ---

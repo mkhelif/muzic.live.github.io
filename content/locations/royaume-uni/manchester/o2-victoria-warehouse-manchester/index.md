@@ -4,6 +4,10 @@ locationId: "0c8747fd-4b89-4805-a0a3-f361d9a7a48c"
 title: "O2 Victoria Warehouse Manchester"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.46451
+  longitude: -2.286523
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

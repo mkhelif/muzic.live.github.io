@@ -5,4 +5,5 @@ title: "Portes Les Valence"
 coordinates:
   latitude: 44.8667
   longitude: 4.8833
+  zoom: 12
 ---

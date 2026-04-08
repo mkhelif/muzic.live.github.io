@@ -5,4 +5,5 @@ title: "Irving"
 coordinates:
   latitude: 32.814
   longitude: -96.9489
+  zoom: 12
 ---

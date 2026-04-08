@@ -5,4 +5,5 @@ title: "Omaha"
 coordinates:
   latitude: 41.2565
   longitude: -95.9345
+  zoom: 12
 ---

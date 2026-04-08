@@ -5,4 +5,5 @@ title: "St Goarshausen Loreley"
 coordinates:
   latitude: 50.15
   longitude: 7.7333
+  zoom: 14
 ---

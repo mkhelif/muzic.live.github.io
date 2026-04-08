@@ -5,4 +5,5 @@ title: "Iowa City"
 coordinates:
   latitude: 41.6611
   longitude: -91.5302
+  zoom: 12
 ---

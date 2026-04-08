@@ -5,4 +5,5 @@ title: "Braunschweig"
 coordinates:
   latitude: 52.2689
   longitude: 10.5268
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "cb8d4478-b69e-47a5-8228-82bc1e8e6909"
 title: "Theâtre Alexandre III"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.546586
+  longitude: 7.036912
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

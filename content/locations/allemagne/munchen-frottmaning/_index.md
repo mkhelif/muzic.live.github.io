@@ -5,4 +5,5 @@ title: "München-Fröttmaning"
 coordinates:
   latitude: 48.2188
   longitude: 11.6247
+  zoom: 12
 ---

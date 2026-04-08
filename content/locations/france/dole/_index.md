@@ -5,4 +5,5 @@ title: "Dole"
 coordinates:
   latitude: 47.0933
   longitude: 5.4953
+  zoom: 12
 ---

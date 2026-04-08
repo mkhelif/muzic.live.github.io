@@ -5,4 +5,5 @@ title: "Calais"
 coordinates:
   latitude: 50.9514
   longitude: 1.8586
+  zoom: 12
 ---

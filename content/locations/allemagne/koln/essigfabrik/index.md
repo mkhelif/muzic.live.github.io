@@ -4,6 +4,10 @@ locationId: "cda5ad29-3243-4772-aa45-821d72566730"
 title: "Essigfabrik"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.924712
+  longitude: 6.978078
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "5e0816b9-7085-4d69-89f8-9562d89868d1"
 title: "The Opera House"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.658987
+  longitude: -79.348786
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

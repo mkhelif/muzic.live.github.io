@@ -4,6 +4,10 @@ locationId: "83bc99c6-3ba9-417a-a8dc-199e928c4229"
 title: "La Cordo"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.045889
+  longitude: 5.052868
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

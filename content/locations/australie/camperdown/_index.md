@@ -5,4 +5,5 @@ title: "Camperdown"
 coordinates:
   latitude: -33.8897
   longitude: 151.1786
+  zoom: 12
 ---

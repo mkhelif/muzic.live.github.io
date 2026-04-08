@@ -5,4 +5,5 @@ title: "Agon Coutainville"
 coordinates:
   latitude: 49.0206
   longitude: -1.5806
+  zoom: 14
 ---

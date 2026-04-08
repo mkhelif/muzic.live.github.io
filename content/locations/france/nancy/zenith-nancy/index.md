@@ -4,6 +4,10 @@ locationId: "9a1953a4-a389-44f1-9ad0-27244d07d6ce"
 title: "Zenith Nancy"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.708963
+  longitude: 6.14909
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

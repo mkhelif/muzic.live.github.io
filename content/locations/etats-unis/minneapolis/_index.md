@@ -5,4 +5,5 @@ title: "Minneapolis"
 coordinates:
   latitude: 44.9778
   longitude: -93.265
+  zoom: 12
 ---

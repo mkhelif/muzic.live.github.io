@@ -5,4 +5,5 @@ title: "Lons Le Saunier"
 coordinates:
   latitude: 46.6744
   longitude: 5.5514
+  zoom: 12
 ---

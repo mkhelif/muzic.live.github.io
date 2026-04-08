@@ -5,4 +5,5 @@ title: "Fouesnant"
 coordinates:
   latitude: 47.8914
   longitude: -4.0097
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "a34b5081-7a81-4bfc-ba94-e93adff4122d"
 title: "Royal Botanic Gardens Melbourne"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -37.83777
+  longitude: 144.991854
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "a7c4d4d7-1577-4f4f-b77e-576b445bd55e"
 title: "Constellation Brands-Marvin Sands Performing Arts Center: Cmac"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.850682
+  longitude: -77.319145
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

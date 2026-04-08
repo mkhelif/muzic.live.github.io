@@ -4,6 +4,10 @@ locationId: "72ba7efd-2496-4aff-8173-07a23121eaa5"
 title: "Uccu Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.278937
+  longitude: -111.718493
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

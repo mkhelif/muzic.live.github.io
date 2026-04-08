@@ -5,4 +5,5 @@ title: "Sydney"
 coordinates:
   latitude: -33.8688
   longitude: 151.2093
+  zoom: 11
 ---

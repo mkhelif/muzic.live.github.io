@@ -4,6 +4,10 @@ locationId: "f54652db-7c0a-4fa1-9b8f-ab7b775c21ce"
 title: "Torquay Hotel"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -25.284531
+  longitude: 152.869677
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

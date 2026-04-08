@@ -5,4 +5,5 @@ title: "Bexhill On Sea"
 coordinates:
   latitude: 50.8421
   longitude: 0.4703
+  zoom: 12
 ---

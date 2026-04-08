@@ -4,6 +4,10 @@ locationId: "022eca66-2963-477a-9140-3a7f23035c0e"
 title: "Domaine De Fontblanche"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.434711
+  longitude: 5.949604
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

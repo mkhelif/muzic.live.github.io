@@ -4,6 +4,10 @@ locationId: "05316f53-26f9-483b-bb95-f1a57056cff1"
 title: "Rockhal"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.495804
+  longitude: 5.983495
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

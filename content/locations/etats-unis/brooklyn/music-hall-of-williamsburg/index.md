@@ -4,6 +4,10 @@ locationId: "9efb1e17-f5c4-420b-be9b-c5f13c23665a"
 title: "Music Hall Of Williamsburg"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.719152
+  longitude: -73.961784
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

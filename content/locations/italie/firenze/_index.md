@@ -5,4 +5,5 @@ title: "Firenze"
 coordinates:
   latitude: 43.7696
   longitude: 11.2558
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "be6e20b0-338f-4df2-bfe5-446e4f1363d2"
 title: "Spectrum Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 35.225098
+  longitude: -80.839154
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

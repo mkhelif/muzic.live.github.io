@@ -5,4 +5,5 @@ title: "Morrison"
 coordinates:
   latitude: 39.6536
   longitude: -105.1911
+  zoom: 12
 ---

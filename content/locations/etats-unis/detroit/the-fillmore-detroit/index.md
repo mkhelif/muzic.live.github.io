@@ -4,6 +4,10 @@ locationId: "1118381e-3bbd-4f20-b969-ecabd23a4e52"
 title: "The Fillmore Detroit"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.337833
+  longitude: -83.051768
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

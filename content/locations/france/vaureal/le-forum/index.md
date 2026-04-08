@@ -4,6 +4,10 @@ locationId: "255855b8-588b-4247-a84f-f654ed3d2a35"
 title: "Le Forum"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 49.031366
+  longitude: 2.021894
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

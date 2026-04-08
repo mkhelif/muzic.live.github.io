@@ -4,6 +4,10 @@ locationId: "681e5f86-22ae-41e4-be85-be9b3dee5a52"
 title: "Terminal 5"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.769747
+  longitude: -73.992744
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

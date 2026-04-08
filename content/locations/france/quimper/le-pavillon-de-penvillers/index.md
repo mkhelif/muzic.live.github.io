@@ -4,6 +4,10 @@ locationId: "be6b5765-0ac0-4ff2-9643-95ea98abfe2c"
 title: "Le Pavillon De Penvillers"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.011842
+  longitude: -4.100313
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

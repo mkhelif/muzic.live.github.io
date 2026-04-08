@@ -4,6 +4,10 @@ locationId: "6ff378f8-9477-4d96-84d1-947912efa394"
 title: "Spirit Of The Suwannee Music Park"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 28.267875
+  longitude: -98.101923
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

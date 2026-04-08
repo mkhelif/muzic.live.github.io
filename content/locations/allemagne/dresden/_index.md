@@ -5,4 +5,5 @@ title: "Dresden"
 coordinates:
   latitude: 51.0504
   longitude: 13.7373
+  zoom: 12
 ---

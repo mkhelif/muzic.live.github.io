@@ -4,6 +4,10 @@ locationId: "43b8cbb9-d691-4425-a3b0-ac866d46d326"
 title: "Le Zephyr"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.652506
+  longitude: 3.189236
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

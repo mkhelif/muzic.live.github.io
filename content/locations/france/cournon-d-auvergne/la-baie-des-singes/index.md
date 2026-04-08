@@ -4,6 +4,10 @@ locationId: "0ebb907c-d5ba-41ef-8146-b734b69cff2e"
 title: "La Baie des Singes"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.740153
+  longitude: 3.195203
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

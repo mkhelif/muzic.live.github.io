@@ -5,4 +5,5 @@ title: "St Quentin Fallavier"
 coordinates:
   latitude: 45.6428
   longitude: 5.1092
+  zoom: 12
 ---

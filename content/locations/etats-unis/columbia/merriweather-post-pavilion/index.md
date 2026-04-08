@@ -4,6 +4,10 @@ locationId: "6a2bbd5a-8eba-4cd8-9e2e-7b9d48e4d28a"
 title: "Merriweather Post Pavilion"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.208835
+  longitude: -76.862506
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

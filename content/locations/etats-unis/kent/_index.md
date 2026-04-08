@@ -5,4 +5,5 @@ title: "Kent"
 coordinates:
   latitude: 41.1537
   longitude: -81.3579
+  zoom: 12
 ---

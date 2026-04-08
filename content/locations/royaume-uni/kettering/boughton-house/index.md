@@ -4,6 +4,10 @@ locationId: "62bed830-af29-4c10-817d-1535e8f73444"
 title: "Boughton House"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.399423
+  longitude: -0.728004
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

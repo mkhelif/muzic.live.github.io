@@ -5,4 +5,5 @@ title: "Miami Beach"
 coordinates:
   latitude: 25.7907
   longitude: -80.13
+  zoom: 12
 ---

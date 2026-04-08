@@ -5,4 +5,5 @@ title: "Einsiedeln"
 coordinates:
   latitude: 47.1286
   longitude: 8.7528
+  zoom: 14
 ---

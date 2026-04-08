@@ -4,6 +4,10 @@ locationId: "ed917af2-387c-48d1-8ab1-3023d6759eef"
 title: "Piazza Napoleone"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.84131
+  longitude: 10.502486
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

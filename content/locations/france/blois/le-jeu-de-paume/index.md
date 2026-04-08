@@ -4,6 +4,10 @@ locationId: "71754966-8000-4451-b9a3-6868c14e82aa"
 title: "Le Jeu De Paume"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.643716
+  longitude: 1.262549
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Atlanta"
 coordinates:
   latitude: 33.749
   longitude: -84.388
+  zoom: 11
 ---

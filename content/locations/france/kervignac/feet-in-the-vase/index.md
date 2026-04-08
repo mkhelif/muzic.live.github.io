@@ -4,6 +4,10 @@ locationId: "e7d9e2a4-a11a-4ece-a812-caf18846b6d8"
 title: "Feet In The Vase"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.763595
+  longitude: -3.238867
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

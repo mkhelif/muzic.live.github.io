@@ -4,6 +4,10 @@ locationId: "bf1876b8-97b0-4560-bed2-d43c0b181198"
 title: "Athens Olympic Stadium"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.05624
+  longitude: 23.804941
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

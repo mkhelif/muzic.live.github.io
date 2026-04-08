@@ -5,4 +5,5 @@ title: "Montclair"
 coordinates:
   latitude: 40.8259
   longitude: -74.209
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Miramar Beach"
 coordinates:
   latitude: 30.3744
   longitude: -86.3597
+  zoom: 14
 ---

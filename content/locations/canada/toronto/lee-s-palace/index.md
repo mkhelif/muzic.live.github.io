@@ -4,6 +4,10 @@ locationId: "5e0816b9-7085-4d69-89f8-9562d89868d1"
 title: "Lee'S Palace"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.665315
+  longitude: -79.409429
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

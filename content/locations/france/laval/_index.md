@@ -5,4 +5,5 @@ title: "Laval"
 coordinates:
   latitude: 48.0733
   longitude: -0.7689
+  zoom: 12
 ---

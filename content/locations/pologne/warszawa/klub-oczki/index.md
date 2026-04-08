@@ -4,6 +4,10 @@ locationId: "1c1e17aa-ae14-4a0e-8d1b-798f0e471006"
 title: "Klub Oczki"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.224243
+  longitude: 21.000968
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

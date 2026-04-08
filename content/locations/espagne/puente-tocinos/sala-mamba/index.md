@@ -4,6 +4,10 @@ locationId: "02e7a80a-c2ef-4d6b-a451-8cdb6906b6ff"
 title: "Sala Mamba!"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.99481
+  longitude: -1.100208
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

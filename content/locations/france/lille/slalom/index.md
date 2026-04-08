@@ -4,6 +4,10 @@ locationId: "a61ab19c-ce63-477e-a292-db6628cbd335"
 title: "Slalom"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.622566
+  longitude: 3.077809
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "c49e9297-8688-439f-a041-9c795cb81b9b"
 title: "Mühle Hunziken"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.890643
+  longitude: 7.542166
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

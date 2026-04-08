@@ -4,6 +4,10 @@ locationId: "9c8d15d9-4306-4605-a7fc-4eca8006268e"
 title: "Soul Dread"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 19.476846
+  longitude: -99.052414
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

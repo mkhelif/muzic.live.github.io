@@ -4,6 +4,10 @@ locationId: "42acc1b3-52a8-4eef-9ceb-8da203283521"
 title: "Spoorpark Live"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.585618
+  longitude: 5.066062
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

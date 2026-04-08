@@ -4,6 +4,10 @@ locationId: "a0b86f9d-be46-4216-967c-e91be303d376"
 title: "St1 Tampere Marine Ratinanniemi"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 61.497793
+  longitude: 23.761637
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

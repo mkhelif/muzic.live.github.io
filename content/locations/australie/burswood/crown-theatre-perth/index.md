@@ -4,6 +4,10 @@ locationId: "f14db76e-f2c3-4b8d-8609-59ff377a8f7a"
 title: "Crown Theatre Perth"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -31.959739
+  longitude: 115.8951
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

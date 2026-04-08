@@ -4,6 +4,10 @@ locationId: "a8453bcc-5a4b-4aee-b856-6cd0661f3428"
 title: "La Cave Aux Poetes"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.692171
+  longitude: 3.16927
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

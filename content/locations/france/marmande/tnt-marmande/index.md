@@ -4,6 +4,10 @@ locationId: "4a5b4ca2-6cc5-4f67-9aa0-c414f97c4866"
 title: "Tnt - Marmande"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.508515
+  longitude: 0.145348
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

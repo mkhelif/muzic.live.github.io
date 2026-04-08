@@ -4,6 +4,10 @@ locationId: "cd6cd4bc-af48-4972-b0d4-b310a24137f1"
 title: "Astra Music Festival"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.067219
+  longitude: 6.312166
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

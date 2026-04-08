@@ -4,6 +4,10 @@ locationId: "6ed61938-0bfb-4797-9833-b5f60a627a5a"
 title: "City Winery St. Louis"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 38.625406
+  longitude: -90.190009
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

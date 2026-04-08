@@ -4,6 +4,10 @@ locationId: "0d89f66c-3e2b-485e-974c-d1082164abdb"
 title: "Yoga & Musik Festival - Om Am See"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.5676
+  longitude: 10.699322
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

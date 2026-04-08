@@ -4,6 +4,10 @@ locationId: "3aa23d83-381b-445d-95c0-7379817a0ce4"
 title: "Paul Jas Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.191113
+  longitude: -106.82356
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

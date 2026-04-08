@@ -4,6 +4,10 @@ locationId: "345bb966-a4f0-4ae3-ba16-09dfbaf99a3f"
 title: "Konzerthaus Dortmund"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.516268
+  longitude: 7.466575
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

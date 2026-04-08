@@ -4,6 +4,10 @@ locationId: "a0101517-93f6-48de-b426-0750df5fee69"
 title: "Music Box"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 32.719405
+  longitude: -117.168093
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

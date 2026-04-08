@@ -5,4 +5,5 @@ title: "Aulnoye Aymeries"
 coordinates:
   latitude: 50.2053
   longitude: 3.8369
+  zoom: 12
 ---

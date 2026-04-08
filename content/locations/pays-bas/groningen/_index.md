@@ -5,4 +5,5 @@ title: "Groningen"
 coordinates:
   latitude: 53.2194
   longitude: 6.5665
+  zoom: 12
 ---

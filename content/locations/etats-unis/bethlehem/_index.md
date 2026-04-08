@@ -5,4 +5,5 @@ title: "Bethlehem"
 coordinates:
   latitude: 40.6259
   longitude: -75.3705
+  zoom: 12
 ---

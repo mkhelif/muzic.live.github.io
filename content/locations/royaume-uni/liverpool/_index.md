@@ -5,4 +5,5 @@ title: "Liverpool"
 coordinates:
   latitude: 53.4084
   longitude: -2.9916
+  zoom: 12
 ---

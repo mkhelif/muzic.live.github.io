@@ -5,4 +5,5 @@ title: "Huntington"
 coordinates:
   latitude: 40.8682
   longitude: -73.4257
+  zoom: 12
 ---

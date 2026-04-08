@@ -4,6 +4,10 @@ locationId: "2985f112-84dd-4f26-9285-2b88102317d8"
 title: "The Wilbur"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.358834
+  longitude: -71.05783
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "fd2a6fe0-44af-48e1-80a2-f54b31f27005"
 title: "Theatre Le Rhone"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.943907
+  longitude: 4.886815
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

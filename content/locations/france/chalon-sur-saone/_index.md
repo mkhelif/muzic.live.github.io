@@ -5,4 +5,5 @@ title: "Chalon-sur-Saône"
 coordinates:
   latitude: 46.7833
   longitude: 4.85
+  zoom: 12
 ---

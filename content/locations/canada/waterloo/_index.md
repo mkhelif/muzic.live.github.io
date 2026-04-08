@@ -5,4 +5,5 @@ title: "Waterloo"
 coordinates:
   latitude: 43.4643
   longitude: -80.5204
+  zoom: 12
 ---

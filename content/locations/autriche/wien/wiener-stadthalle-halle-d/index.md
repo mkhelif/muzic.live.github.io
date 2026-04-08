@@ -4,6 +4,10 @@ locationId: "324b1ac4-bd03-467a-808d-0918ff49a461"
 title: "Wiener Stadthalle Halle D"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.208354
+  longitude: 16.372504
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

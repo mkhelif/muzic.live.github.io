@@ -4,6 +4,10 @@ locationId: "91120f09-7cf2-474e-9c10-63668aae5967"
 title: "Underground Arts"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.986103
+  longitude: -75.250094
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

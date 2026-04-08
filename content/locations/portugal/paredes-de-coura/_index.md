@@ -5,4 +5,5 @@ title: "Paredes De Coura"
 coordinates:
   latitude: 41.9133
   longitude: -8.5628
+  zoom: 14
 ---

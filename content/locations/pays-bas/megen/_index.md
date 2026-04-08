@@ -5,4 +5,5 @@ title: "Megen"
 coordinates:
   latitude: 51.8167
   longitude: 5.5667
+  zoom: 14
 ---

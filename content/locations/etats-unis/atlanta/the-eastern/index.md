@@ -4,6 +4,10 @@ locationId: "4c02ea45-b8ec-415a-a537-7cc13deb1666"
 title: "The Eastern"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 33.745379
+  longitude: -84.360534
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

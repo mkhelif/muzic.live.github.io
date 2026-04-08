@@ -5,4 +5,5 @@ title: "Orchamps-Vennes"
 coordinates:
   latitude: 47.1333
   longitude: 6.5167
+  zoom: 14
 ---

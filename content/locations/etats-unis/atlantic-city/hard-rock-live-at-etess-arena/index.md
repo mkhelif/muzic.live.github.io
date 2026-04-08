@@ -4,6 +4,10 @@ locationId: "c680f658-b802-4a15-983e-b210b47dac38"
 title: "Hard Rock Live At Etess Arena"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.360432
+  longitude: -74.421255
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

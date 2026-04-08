@@ -5,4 +5,5 @@ title: "Frederiksberg"
 coordinates:
   latitude: 55.681
   longitude: 12.5301
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Acheres"
 coordinates:
   latitude: 48.9603
   longitude: 2.0681
+  zoom: 12
 ---

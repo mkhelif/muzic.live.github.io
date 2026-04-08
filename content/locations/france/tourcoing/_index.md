@@ -5,4 +5,5 @@ title: "Tourcoing"
 coordinates:
   latitude: 50.7239
   longitude: 3.1611
+  zoom: 12
 ---

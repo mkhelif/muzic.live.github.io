@@ -5,4 +5,5 @@ title: "London"
 coordinates:
   latitude: 51.5074
   longitude: -0.1278
+  zoom: 11
 ---

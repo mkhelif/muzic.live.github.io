@@ -5,4 +5,5 @@ title: "Ambert"
 coordinates:
   latitude: 45.55
   longitude: 3.7333
+  zoom: 12
 ---

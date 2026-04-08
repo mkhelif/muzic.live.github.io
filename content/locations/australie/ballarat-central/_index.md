@@ -5,4 +5,5 @@ title: "Ballarat Central"
 coordinates:
   latitude: -37.5622
   longitude: 143.8503
+  zoom: 12
 ---

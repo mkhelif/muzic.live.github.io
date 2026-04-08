@@ -5,4 +5,5 @@ title: "Fornebu"
 coordinates:
   latitude: 59.8975
   longitude: 10.6147
+  zoom: 12
 ---

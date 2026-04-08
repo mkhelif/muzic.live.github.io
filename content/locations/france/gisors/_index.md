@@ -5,4 +5,5 @@ title: "Gisors"
 coordinates:
   latitude: 49.2803
   longitude: 1.7778
+  zoom: 12
 ---

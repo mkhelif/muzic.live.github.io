@@ -4,6 +4,10 @@ locationId: "e03373f0-a8dc-4095-aff4-494b1cb7ed12"
 title: "Dune Peninsula"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.306189
+  longitude: -122.509792
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

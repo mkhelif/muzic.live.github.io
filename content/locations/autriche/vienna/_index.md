@@ -5,4 +5,5 @@ title: "Vienna"
 coordinates:
   latitude: 48.2082
   longitude: 16.3738
+  zoom: 11
 ---

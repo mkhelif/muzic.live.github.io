@@ -5,4 +5,5 @@ title: "St. Louis"
 coordinates:
   latitude: 38.627
   longitude: -90.1994
+  zoom: 12
 ---

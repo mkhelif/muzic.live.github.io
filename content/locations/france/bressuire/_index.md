@@ -5,4 +5,5 @@ title: "Bressuire"
 coordinates:
   latitude: 46.8403
   longitude: -0.4903
+  zoom: 12
 ---

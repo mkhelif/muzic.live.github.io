@@ -4,6 +4,10 @@ locationId: "06a9ef3b-be04-4799-844b-841f8fec096b"
 title: "Bournemouth International Centre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.716369
+  longitude: -1.878532
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

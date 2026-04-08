@@ -5,4 +5,5 @@ title: "Santa Barbara"
 coordinates:
   latitude: 34.4208
   longitude: -119.6982
+  zoom: 12
 ---

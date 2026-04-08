@@ -5,4 +5,5 @@ title: "Boise"
 coordinates:
   latitude: 43.615
   longitude: -116.2023
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Saint Malo Du Bois"
 coordinates:
   latitude: 46.9
   longitude: -0.9667
+  zoom: 14
 ---

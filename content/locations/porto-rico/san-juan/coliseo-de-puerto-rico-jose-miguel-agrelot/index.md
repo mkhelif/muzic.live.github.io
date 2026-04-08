@@ -4,6 +4,10 @@ locationId: "d2063618-730e-4708-bd3d-276c7d40c339"
 title: "Coliseo De Puerto Rico José Miguel Agrelot"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 18.4277
+  longitude: -66.0589
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

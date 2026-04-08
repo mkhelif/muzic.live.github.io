@@ -5,4 +5,5 @@ title: "Budapest"
 coordinates:
   latitude: 47.4979
   longitude: 19.0402
+  zoom: 11
 ---

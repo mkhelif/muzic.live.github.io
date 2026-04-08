@@ -5,4 +5,5 @@ title: "North Bethesda"
 coordinates:
   latitude: 39.0445
   longitude: -77.1187
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Cournon D Auvergne"
 coordinates:
   latitude: 45.74
   longitude: 3.1967
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "acbf4aba-6312-41e4-834d-604a954f0be6"
 title: "Kaseya Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 25.78136
+  longitude: -80.187944
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

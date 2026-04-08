@@ -5,4 +5,5 @@ title: "Izmir"
 coordinates:
   latitude: 38.4237
   longitude: 27.1428
+  zoom: 12
 ---

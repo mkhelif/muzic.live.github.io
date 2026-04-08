@@ -5,4 +5,5 @@ title: "La Chapelle Blanche Saint Martin"
 coordinates:
   latitude: 47.1667
   longitude: 0.7833
+  zoom: 14
 ---

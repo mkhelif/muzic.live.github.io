@@ -5,4 +5,5 @@ title: "Gueret"
 coordinates:
   latitude: 46.1711
   longitude: 1.8706
+  zoom: 12
 ---

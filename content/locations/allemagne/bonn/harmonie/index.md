@@ -4,6 +4,10 @@ locationId: "58401ed9-a860-47a6-ab19-70de8273b591"
 title: "Harmonie"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.72683
+  longitude: 7.074192
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

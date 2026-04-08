@@ -4,6 +4,10 @@ locationId: "24a90429-3778-4a28-a53c-8ec735e192bb"
 title: "Théâtre Antique"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.135774
+  longitude: 4.809241
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

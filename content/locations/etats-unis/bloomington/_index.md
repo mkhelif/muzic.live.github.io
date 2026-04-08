@@ -5,4 +5,5 @@ title: "Bloomington"
 coordinates:
   latitude: 40.4842
   longitude: -88.9937
+  zoom: 12
 ---

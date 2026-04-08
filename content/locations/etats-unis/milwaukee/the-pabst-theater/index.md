@@ -4,6 +4,10 @@ locationId: "50207598-de3a-4ed2-a8ec-9976cd5b83c3"
 title: "The Pabst Theater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.04114
+  longitude: -87.910462
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

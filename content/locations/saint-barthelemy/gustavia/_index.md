@@ -5,4 +5,5 @@ title: "Gustavia"
 coordinates:
   latitude: 17.8962
   longitude: -62.8498
+  zoom: 14
 ---

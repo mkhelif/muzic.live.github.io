@@ -5,4 +5,5 @@ title: "Les Pieux"
 coordinates:
   latitude: 49.5128
   longitude: -1.7975
+  zoom: 14
 ---

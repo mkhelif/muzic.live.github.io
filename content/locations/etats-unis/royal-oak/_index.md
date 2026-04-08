@@ -5,4 +5,5 @@ title: "Royal Oak"
 coordinates:
   latitude: 42.4895
   longitude: -83.1446
+  zoom: 12
 ---

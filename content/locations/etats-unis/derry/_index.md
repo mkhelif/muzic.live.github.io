@@ -5,4 +5,5 @@ title: "Derry"
 coordinates:
   latitude: 42.8806
   longitude: -71.3273
+  zoom: 12
 ---

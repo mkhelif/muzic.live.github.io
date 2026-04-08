@@ -5,4 +5,5 @@ title: "Lake Buena Vista"
 coordinates:
   latitude: 28.3772
   longitude: -81.519
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Eslov"
 coordinates:
   latitude: 55.8392
   longitude: 13.3542
+  zoom: 12
 ---

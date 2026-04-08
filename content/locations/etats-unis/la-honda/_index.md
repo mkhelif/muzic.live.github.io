@@ -5,4 +5,5 @@ title: "La Honda"
 coordinates:
   latitude: 37.321
   longitude: -122.2744
+  zoom: 14
 ---

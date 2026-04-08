@@ -4,6 +4,10 @@ locationId: "a0b86f9d-be46-4216-967c-e91be303d376"
 title: "Tampereen Tavara-Asema"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 61.499846
+  longitude: 23.775295
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

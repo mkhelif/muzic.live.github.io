@@ -4,6 +4,10 @@ locationId: "681e5f86-22ae-41e4-be85-be9b3dee5a52"
 title: "The Rooftop At Pier 17"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.712728
+  longitude: -74.006015
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

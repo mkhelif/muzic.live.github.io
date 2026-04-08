@@ -4,6 +4,10 @@ locationId: "1ae3da38-3ea6-43ff-911d-3d020caaebaa"
 title: "Brooklyn Bowl Las Vegas"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 36.117539
+  longitude: -115.169509
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

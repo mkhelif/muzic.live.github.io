@@ -4,6 +4,10 @@ locationId: "4c333bf8-7f51-4a9b-ab5d-1ffdb6a75a36"
 title: "Domaine Le Mezo"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.647429
+  longitude: -2.86222
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

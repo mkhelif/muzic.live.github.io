@@ -5,4 +5,5 @@ title: "Offenbach"
 coordinates:
   latitude: 50.1006
   longitude: 8.7648
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "aa856dc8-0247-47dd-abce-fc919dda32c9"
 title: "Centre Culturel J.Drouet"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.3506
+  longitude: -1.2006
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

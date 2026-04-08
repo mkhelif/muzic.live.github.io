@@ -5,4 +5,5 @@ title: "Berlin"
 coordinates:
   latitude: 52.52
   longitude: 13.405
+  zoom: 11
 ---

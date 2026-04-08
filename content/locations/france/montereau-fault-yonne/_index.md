@@ -5,4 +5,5 @@ title: "Montereau Fault Yonne"
 coordinates:
   latitude: 48.3833
   longitude: 2.95
+  zoom: 12
 ---

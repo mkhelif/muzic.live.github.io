@@ -4,6 +4,10 @@ locationId: "e7eeb09c-3861-44ad-b8db-0936202bdb7d"
 title: "O2 City Hall Newcastle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 54.977377
+  longitude: -1.610226
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

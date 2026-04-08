@@ -4,6 +4,10 @@ locationId: "f44724e2-6bbe-4848-8372-79a3753565b7"
 title: "Powderham Castle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.642761
+  longitude: -3.463639
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

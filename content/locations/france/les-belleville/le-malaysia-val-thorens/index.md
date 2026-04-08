@@ -4,6 +4,10 @@ locationId: "b54c7720-ddeb-45cd-8b33-db62d60630a7"
 title: "Le Malaysia Val Thorens"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.383052
+  longitude: 6.503499
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

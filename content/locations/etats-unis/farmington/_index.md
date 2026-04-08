@@ -5,4 +5,5 @@ title: "Farmington"
 coordinates:
   latitude: 40.9805
   longitude: -111.8874
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "083b2819-b73d-4d7a-a179-0c86317307b3"
 title: "Sky Park - Letisko Trenčín"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.892272
+  longitude: 18.038746
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

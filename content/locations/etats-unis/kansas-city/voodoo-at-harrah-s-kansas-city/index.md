@@ -4,6 +4,10 @@ locationId: "53f02ac4-ab34-482b-915d-d13be3e6413e"
 title: "Voodoo At Harrah'S Kansas City"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.100105
+  longitude: -94.578142
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

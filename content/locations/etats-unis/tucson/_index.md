@@ -5,4 +5,5 @@ title: "Tucson"
 coordinates:
   latitude: 32.2226
   longitude: -110.9747
+  zoom: 12
 ---

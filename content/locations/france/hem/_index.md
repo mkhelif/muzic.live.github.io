@@ -5,4 +5,5 @@ title: "Hem"
 coordinates:
   latitude: 50.6531
   longitude: 3.1892
+  zoom: 12
 ---

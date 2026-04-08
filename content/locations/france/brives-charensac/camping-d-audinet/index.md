@@ -4,6 +4,10 @@ locationId: "29b575d1-4134-4926-820b-358b4916a71a"
 title: "Camping D'Audinet"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.042327
+  longitude: 3.930549
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

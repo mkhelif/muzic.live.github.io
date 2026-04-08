@@ -5,4 +5,5 @@ title: "Bjarred"
 coordinates:
   latitude: 55.7167
   longitude: 13.0333
+  zoom: 14
 ---

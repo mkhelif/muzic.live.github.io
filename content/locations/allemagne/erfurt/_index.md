@@ -5,4 +5,5 @@ title: "Erfurt"
 coordinates:
   latitude: 50.9848
   longitude: 11.0299
+  zoom: 12
 ---

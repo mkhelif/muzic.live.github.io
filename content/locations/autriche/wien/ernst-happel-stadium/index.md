@@ -4,6 +4,10 @@ locationId: "324b1ac4-bd03-467a-808d-0918ff49a461"
 title: "Ernst Happel Stadium"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.207189
+  longitude: 16.420917
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

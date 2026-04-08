@@ -4,6 +4,10 @@ locationId: "27c294ae-81f6-423f-9edd-aec519eb54db"
 title: "Humboldt Brews"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 40.866517
+  longitude: -124.08284
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

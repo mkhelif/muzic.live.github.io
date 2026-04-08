@@ -5,4 +5,5 @@ title: "Thierville Sur Meuse"
 coordinates:
   latitude: 49.1833
   longitude: 5.35
+  zoom: 12
 ---

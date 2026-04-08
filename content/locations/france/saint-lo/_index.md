@@ -5,4 +5,5 @@ title: "Saint Lo"
 coordinates:
   latitude: 49.1167
   longitude: -1.0833
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Brasilia"
 coordinates:
   latitude: -15.7975
   longitude: -47.8919
+  zoom: 12
 ---

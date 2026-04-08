@@ -4,6 +4,10 @@ locationId: "7c093ef9-6c8f-4761-bb7d-0f4c659c124a"
 title: "The Center For The Performing Arts"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.969896
+  longitude: -86.130329
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

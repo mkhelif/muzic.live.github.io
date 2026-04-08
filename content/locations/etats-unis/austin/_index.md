@@ -5,4 +5,5 @@ title: "Austin"
 coordinates:
   latitude: 30.2672
   longitude: -97.7431
+  zoom: 12
 ---

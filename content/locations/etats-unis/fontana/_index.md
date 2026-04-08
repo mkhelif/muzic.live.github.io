@@ -5,4 +5,5 @@ title: "Fontana"
 coordinates:
   latitude: 34.0922
   longitude: -117.435
+  zoom: 12
 ---

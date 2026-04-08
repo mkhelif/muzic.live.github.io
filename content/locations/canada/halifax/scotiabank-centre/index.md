@@ -4,6 +4,10 @@ locationId: "fed1d951-ba4c-4e21-80f6-f48c7007d8bc"
 title: "Scotiabank Centre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.64822
+  longitude: -63.576741
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

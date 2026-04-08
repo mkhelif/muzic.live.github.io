@@ -5,4 +5,5 @@ title: "Veyrier"
 coordinates:
   latitude: 46.1672
   longitude: 6.1847
+  zoom: 14
 ---

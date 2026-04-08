@@ -5,4 +5,5 @@ title: "Cagliari"
 coordinates:
   latitude: 39.2238
   longitude: 9.1217
+  zoom: 12
 ---

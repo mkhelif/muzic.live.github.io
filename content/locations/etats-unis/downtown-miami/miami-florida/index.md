@@ -4,6 +4,10 @@ locationId: "18858c3b-a937-40db-b47c-ec1c64be5772"
 title: "Miami, Florida"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 25.785214
+  longitude: -80.189931
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

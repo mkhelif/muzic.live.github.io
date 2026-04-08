@@ -5,4 +5,5 @@ title: "K Benhavn V"
 coordinates:
   latitude: 55.6704
   longitude: 12.5567
+  zoom: 12
 ---

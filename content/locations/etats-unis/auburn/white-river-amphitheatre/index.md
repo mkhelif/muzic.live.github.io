@@ -4,6 +4,10 @@ locationId: "8eb36cc7-7911-4c10-b0bf-54f6eb99a9d6"
 title: "White River Amphitheatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 32.609857
+  longitude: -85.480783
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

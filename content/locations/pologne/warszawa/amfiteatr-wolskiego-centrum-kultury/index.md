@@ -4,6 +4,10 @@ locationId: "1c1e17aa-ae14-4a0e-8d1b-798f0e471006"
 title: "Amfiteatr Wolskiego Centrum Kultury"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.231958
+  longitude: 21.006725
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

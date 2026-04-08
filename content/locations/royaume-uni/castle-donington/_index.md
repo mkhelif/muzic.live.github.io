@@ -5,4 +5,5 @@ title: "Castle Donington"
 coordinates:
   latitude: 52.8417
   longitude: -1.3381
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Lisbon"
 coordinates:
   latitude: 38.7223
   longitude: -9.1393
+  zoom: 12
 ---

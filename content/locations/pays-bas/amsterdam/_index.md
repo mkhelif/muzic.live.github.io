@@ -5,4 +5,5 @@ title: "Amsterdam"
 coordinates:
   latitude: 52.3676
   longitude: 4.9041
+  zoom: 11
 ---

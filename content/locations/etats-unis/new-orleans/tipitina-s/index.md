@@ -4,6 +4,10 @@ locationId: "26c74836-3255-4002-a8f3-0daa334dfcb5"
 title: "Tipitina'S"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 29.917415
+  longitude: -90.100816
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

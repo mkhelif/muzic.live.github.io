@@ -4,6 +4,10 @@ locationId: "e3e9f274-b8c8-40ea-8525-2880df77599f"
 title: "Epsilon Spires"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 42.853788
+  longitude: -72.55923
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

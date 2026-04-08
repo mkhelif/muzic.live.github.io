@@ -4,6 +4,10 @@ locationId: "72a6d692-0d0b-4514-87d3-2c72e13e7e4a"
 title: "Revel"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 35.134626
+  longitude: -106.615912
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

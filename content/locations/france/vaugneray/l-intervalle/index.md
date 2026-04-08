@@ -4,6 +4,10 @@ locationId: "db0dc82c-bb87-4f6d-a7e1-7ad00860052c"
 title: "L'Intervalle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.738543
+  longitude: 4.680217
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "324b1ac4-bd03-467a-808d-0918ff49a461"
 title: "Wuk"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.222977
+  longitude: 16.351508
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

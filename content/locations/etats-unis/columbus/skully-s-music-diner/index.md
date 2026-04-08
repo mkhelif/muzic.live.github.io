@@ -4,6 +4,10 @@ locationId: "d8306016-3626-4b55-95c5-37e38f6c6d03"
 title: "Skully'S Music Diner"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 39.985889
+  longitude: -83.005744
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

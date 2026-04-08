@@ -5,4 +5,5 @@ title: "Prague"
 coordinates:
   latitude: 50.0755
   longitude: 14.4378
+  zoom: 11
 ---

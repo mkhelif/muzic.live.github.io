@@ -5,4 +5,5 @@ title: "Évreux"
 coordinates:
   latitude: 49.0244
   longitude: 1.1508
+  zoom: 12
 ---

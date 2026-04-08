@@ -4,6 +4,10 @@ locationId: "9beeb039-3445-4d17-99f3-0dc7cd6f6861"
 title: "The Canyon Agoura Hills"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 34.148169
+  longitude: -118.765546
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

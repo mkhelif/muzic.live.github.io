@@ -4,6 +4,10 @@ locationId: "3b71a7b5-a9e5-41b7-a4d5-ee19fe2aa8d9"
 title: "Auditorium Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.876077
+  longitude: -87.625271
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Le Blanc Mesnil"
 coordinates:
   latitude: 48.9417
   longitude: 2.4614
+  zoom: 12
 ---

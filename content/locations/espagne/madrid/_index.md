@@ -5,4 +5,5 @@ title: "Madrid"
 coordinates:
   latitude: 40.4168
   longitude: -3.7038
+  zoom: 11
 ---

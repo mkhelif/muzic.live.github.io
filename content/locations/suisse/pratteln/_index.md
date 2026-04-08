@@ -5,4 +5,5 @@ title: "Pratteln"
 coordinates:
   latitude: 47.5167
   longitude: 7.6833
+  zoom: 12
 ---

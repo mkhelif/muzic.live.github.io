@@ -5,4 +5,5 @@ title: "Taipei City"
 coordinates:
   latitude: 25.033
   longitude: 121.5654
+  zoom: 11
 ---

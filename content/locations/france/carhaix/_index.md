@@ -5,4 +5,5 @@ title: "Carhaix"
 coordinates:
   latitude: 48.2767
   longitude: -3.5722
+  zoom: 12
 ---

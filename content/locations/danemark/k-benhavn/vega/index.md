@@ -4,6 +4,10 @@ locationId: "1d263c50-065d-474e-bf32-5f00b3ef0605"
 title: "Vega"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 55.67
+  longitude: 12.5439
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

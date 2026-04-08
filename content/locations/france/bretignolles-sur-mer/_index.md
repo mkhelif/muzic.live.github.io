@@ -5,4 +5,5 @@ title: "Bretignolles Sur Mer"
 coordinates:
   latitude: 46.6361
   longitude: -1.8636
+  zoom: 14
 ---

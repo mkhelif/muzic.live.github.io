@@ -5,4 +5,5 @@ title: "Grenchen"
 coordinates:
   latitude: 47.1925
   longitude: 7.3958
+  zoom: 12
 ---

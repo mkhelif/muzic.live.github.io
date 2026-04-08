@@ -4,6 +4,10 @@ locationId: "5806a02d-ca23-4f15-8b1a-96c3c8bf4f63"
 title: "Messe Event Halle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.558108
+  longitude: 7.587826
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

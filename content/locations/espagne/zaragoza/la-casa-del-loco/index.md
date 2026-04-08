@@ -4,6 +4,10 @@ locationId: "b2c02a74-26c5-429b-bfb0-d5fb64110243"
 title: "La Casa Del Loco"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 41.653769
+  longitude: -0.87686
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

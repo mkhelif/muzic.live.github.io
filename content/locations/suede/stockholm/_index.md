@@ -5,4 +5,5 @@ title: "Stockholm"
 coordinates:
   latitude: 59.3293
   longitude: 18.0686
+  zoom: 11
 ---

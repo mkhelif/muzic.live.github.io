@@ -4,6 +4,10 @@ locationId: "a84b194e-ce0b-47cf-a7ff-c112372095df"
 title: "Stadsschouwburg De Harmonie"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 53.200128
+  longitude: 5.790079
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

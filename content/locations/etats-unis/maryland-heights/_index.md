@@ -5,4 +5,5 @@ title: "Maryland Heights"
 coordinates:
   latitude: 38.7131
   longitude: -90.4263
+  zoom: 12
 ---

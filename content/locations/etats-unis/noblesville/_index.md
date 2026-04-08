@@ -5,4 +5,5 @@ title: "Noblesville"
 coordinates:
   latitude: 40.0456
   longitude: -86.0086
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "480afa2c-6674-40e9-959d-9db31d29cd26"
 title: "Espace Dollfus Noack"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.780656
+  longitude: 7.368179
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

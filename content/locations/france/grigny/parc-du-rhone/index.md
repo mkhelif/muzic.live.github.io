@@ -4,6 +4,10 @@ locationId: "c1621a8f-b3db-4a82-9ff1-388e47eb7c68"
 title: "Parc Du Rhône"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.60776
+  longitude: 4.797568
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

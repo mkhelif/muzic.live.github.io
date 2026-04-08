@@ -4,6 +4,10 @@ locationId: "845a4b2e-ffbb-4821-ae3e-38c09fb17d5a"
 title: "Peace Concert Hall - Peace Center"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 34.851354
+  longitude: -82.398488
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

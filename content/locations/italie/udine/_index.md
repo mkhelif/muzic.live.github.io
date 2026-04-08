@@ -5,4 +5,5 @@ title: "Udine"
 coordinates:
   latitude: 46.0711
   longitude: 13.2346
+  zoom: 12
 ---

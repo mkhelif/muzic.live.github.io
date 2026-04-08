@@ -5,4 +5,5 @@ title: "Pau"
 coordinates:
   latitude: 43.2951
   longitude: -0.3708
+  zoom: 12
 ---

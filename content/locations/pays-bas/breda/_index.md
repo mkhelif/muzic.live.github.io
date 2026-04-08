@@ -5,4 +5,5 @@ title: "Breda"
 coordinates:
   latitude: 51.5719
   longitude: 4.7683
+  zoom: 12
 ---

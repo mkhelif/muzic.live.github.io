@@ -5,4 +5,5 @@ title: "Balge"
 coordinates:
   latitude: 52.7333
   longitude: 9.1333
+  zoom: 14
 ---

@@ -5,4 +5,5 @@ title: "Scionzier"
 coordinates:
   latitude: 46.0611
   longitude: 6.5519
+  zoom: 14
 ---

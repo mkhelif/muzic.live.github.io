@@ -5,4 +5,5 @@ title: "Des Moines"
 coordinates:
   latitude: 41.5868
   longitude: -93.625
+  zoom: 12
 ---

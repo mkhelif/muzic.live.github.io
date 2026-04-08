@@ -5,4 +5,5 @@ title: "Joinville"
 coordinates:
   latitude: -26.3045
   longitude: -48.8487
+  zoom: 12
 ---

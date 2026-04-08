@@ -5,4 +5,5 @@ title: "Kuching"
 coordinates:
   latitude: 1.5497
   longitude: 110.3414
+  zoom: 12
 ---

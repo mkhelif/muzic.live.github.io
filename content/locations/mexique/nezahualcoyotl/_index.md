@@ -5,4 +5,5 @@ title: "Nezahualcoyotl"
 coordinates:
   latitude: 19.4003
   longitude: -99.0147
+  zoom: 12
 ---

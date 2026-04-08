@@ -5,4 +5,5 @@ title: "Saint Martin Des Champs"
 coordinates:
   latitude: 48.5917
   longitude: -3.825
+  zoom: 12
 ---

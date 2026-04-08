@@ -4,6 +4,10 @@ locationId: "664ee9cd-831f-451f-87d6-9b2d033d27f3"
 title: "Mystic Lake Amphitheater"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.798019
+  longitude: -93.526899
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

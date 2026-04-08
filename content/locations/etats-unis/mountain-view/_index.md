@@ -5,4 +5,5 @@ title: "Mountain View"
 coordinates:
   latitude: 37.3861
   longitude: -122.0839
+  zoom: 12
 ---

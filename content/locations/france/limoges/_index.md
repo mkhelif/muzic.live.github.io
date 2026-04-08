@@ -5,4 +5,5 @@ title: "Limoges"
 coordinates:
   latitude: 45.8336
   longitude: 1.2611
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "9c830e0d-5a29-4f90-a8f7-0c249ed14be5"
 title: "Rockefeller"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 59.916103
+  longitude: 10.750277
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

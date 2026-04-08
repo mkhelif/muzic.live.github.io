@@ -5,4 +5,5 @@ title: "Portland"
 coordinates:
   latitude: 45.5152
   longitude: -122.6784
+  zoom: 12
 ---

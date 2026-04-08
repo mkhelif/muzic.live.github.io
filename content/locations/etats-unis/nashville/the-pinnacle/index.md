@@ -4,6 +4,10 @@ locationId: "8ec6d2f0-fadc-48f4-9379-e0ead6669ac7"
 title: "The Pinnacle"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 36.079993
+  longitude: -86.920788
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

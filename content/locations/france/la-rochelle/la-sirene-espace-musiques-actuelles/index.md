@@ -4,6 +4,10 @@ locationId: "ed730407-052f-4993-8773-ad6ae5c9aee2"
 title: "La Sirene - Espace Musiques Actuelles"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 46.159732
+  longitude: -1.151595
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

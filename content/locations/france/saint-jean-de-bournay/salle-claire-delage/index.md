@@ -4,6 +4,10 @@ locationId: "21ebb584-4a11-43c3-a7e1-9dc1f424880f"
 title: "Salle Claire Delage"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.500102
+  longitude: 5.143933
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

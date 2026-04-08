@@ -4,6 +4,10 @@ locationId: "9d6be698-c5d9-445f-8084-7cd3e5c53554"
 title: "Lka-Longhorn"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.767284
+  longitude: 9.251771
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

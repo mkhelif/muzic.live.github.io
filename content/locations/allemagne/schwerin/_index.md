@@ -5,4 +5,5 @@ title: "Schwerin"
 coordinates:
   latitude: 53.6355
   longitude: 11.4012
+  zoom: 12
 ---

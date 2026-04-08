@@ -5,4 +5,5 @@ title: "Gelsenkirchen"
 coordinates:
   latitude: 51.5177
   longitude: 7.0857
+  zoom: 12
 ---

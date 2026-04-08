@@ -4,6 +4,10 @@ locationId: "31ee98d4-737d-4b6c-9844-cfecb3a2e302"
 title: "Sala Santana 27"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.250262
+  longitude: -2.899936
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

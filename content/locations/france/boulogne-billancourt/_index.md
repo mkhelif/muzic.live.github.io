@@ -5,4 +5,5 @@ title: "Boulogne Billancourt"
 coordinates:
   latitude: 48.8352
   longitude: 2.2418
+  zoom: 12
 ---

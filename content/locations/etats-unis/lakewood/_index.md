@@ -5,4 +5,5 @@ title: "Lakewood"
 coordinates:
   latitude: 39.7047
   longitude: -105.0814
+  zoom: 12
 ---

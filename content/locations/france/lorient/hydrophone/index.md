@@ -4,6 +4,10 @@ locationId: "3814d3e6-11b9-4b05-b859-a53f4ecbb4ea"
 title: "Hydrophone"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 47.731043
+  longitude: -3.37306
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

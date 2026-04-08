@@ -5,4 +5,5 @@ title: "Milwaukee"
 coordinates:
   latitude: 43.0389
   longitude: -87.9065
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Highland"
 coordinates:
   latitude: 42.1328
   longitude: -83.5988
+  zoom: 12
 ---

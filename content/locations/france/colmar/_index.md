@@ -5,4 +5,5 @@ title: "Colmar"
 coordinates:
   latitude: 48.0794
   longitude: 7.3558
+  zoom: 12
 ---

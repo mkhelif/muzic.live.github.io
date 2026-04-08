@@ -5,4 +5,5 @@ title: "Angoulins"
 coordinates:
   latitude: 46.1089
   longitude: -1.1117
+  zoom: 12
 ---

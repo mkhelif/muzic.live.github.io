@@ -4,6 +4,10 @@ locationId: "8a0266bd-6ec2-4837-92da-24c0d6a9b8fe"
 title: "Amphitheater Gelsenkirchen"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 51.52241
+  longitude: 7.033947
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

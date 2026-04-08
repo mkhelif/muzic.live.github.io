@@ -4,6 +4,10 @@ locationId: "a5231237-9bcd-4c2b-955b-dce3b233f246"
 title: "Domaine De Mapou - Location De Vacances Martinique"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 14.5
+  longitude: -61.0833
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

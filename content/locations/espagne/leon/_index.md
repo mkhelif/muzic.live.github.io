@@ -5,4 +5,5 @@ title: "Leon"
 coordinates:
   latitude: 42.5987
   longitude: -5.5671
+  zoom: 12
 ---

@@ -4,6 +4,10 @@ locationId: "83093a4c-f89c-48de-9de8-a61bfeecdc0d"
 title: "Catton Hall & Park"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 52.759394
+  longitude: -1.677777
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

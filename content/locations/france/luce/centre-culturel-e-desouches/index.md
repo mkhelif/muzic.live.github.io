@@ -4,6 +4,10 @@ locationId: "8de88994-0ded-483d-9584-fc3ea2468cb0"
 title: "Centre Culturel E. Desouches"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.43647
+  longitude: 1.462865
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

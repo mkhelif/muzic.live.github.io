@@ -4,6 +4,10 @@ locationId: "08490cb3-6206-436c-89d4-c234537e7f8c"
 title: "Ogr Torino - Sala Fucine"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.067755
+  longitude: 7.682489
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

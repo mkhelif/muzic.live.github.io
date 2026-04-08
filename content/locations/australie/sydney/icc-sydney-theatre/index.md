@@ -4,6 +4,10 @@ locationId: "697a7332-b782-44cf-acd4-79c890545fb0"
 title: "Icc Sydney Theatre"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: -33.876899
+  longitude: 151.200654
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

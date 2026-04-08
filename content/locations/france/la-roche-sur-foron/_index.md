@@ -5,4 +5,5 @@ title: "La Roche-sur-Foron"
 coordinates:
   latitude: 46.0667
   longitude: 6.3167
+  zoom: 12
 ---

@@ -5,4 +5,5 @@ title: "Las Vegas"
 coordinates:
   latitude: 36.1699
   longitude: -115.1398
+  zoom: 12
 ---

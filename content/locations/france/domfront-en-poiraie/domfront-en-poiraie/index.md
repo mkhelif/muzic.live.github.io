@@ -4,6 +4,10 @@ locationId: "1aebd9f6-9709-4976-9478-a112bcd3c7ec"
 title: "Domfront en Poiraie"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.589632
+  longitude: -0.660011
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

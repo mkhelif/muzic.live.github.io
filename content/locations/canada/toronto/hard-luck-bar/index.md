@@ -4,6 +4,10 @@ locationId: "5e0816b9-7085-4d69-89f8-9562d89868d1"
 title: "Hard Luck Bar"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 43.652121
+  longitude: -79.407535
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

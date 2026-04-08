@@ -4,6 +4,10 @@ locationId: "9c830e0d-5a29-4f90-a8f7-0c249ed14be5"
 title: "Sentrum Scene"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 59.915476
+  longitude: 10.751781
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -5,4 +5,5 @@ title: "Chaville"
 coordinates:
   latitude: 48.8081
   longitude: 2.19
+  zoom: 12
 ---

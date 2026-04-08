@@ -5,4 +5,5 @@ title: "Swansea"
 coordinates:
   latitude: 51.6214
   longitude: -3.9436
+  zoom: 12
 ---

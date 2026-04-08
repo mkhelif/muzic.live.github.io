@@ -4,6 +4,10 @@ locationId: "dca4d8ae-50fa-4224-ae95-48c8675267a6"
 title: "Water Square"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 37.956011
+  longitude: 23.703379
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

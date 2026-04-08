@@ -5,4 +5,5 @@ title: "Mont-de-Marsan"
 coordinates:
   latitude: 43.8914
   longitude: -0.4942
+  zoom: 12
 ---

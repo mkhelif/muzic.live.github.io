@@ -5,4 +5,5 @@ title: "Grossposna"
 coordinates:
   latitude: 51.2614
   longitude: 12.5089
+  zoom: 12
 ---

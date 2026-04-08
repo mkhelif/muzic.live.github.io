@@ -4,6 +4,10 @@ locationId: "08122aea-6b54-4f4f-9155-12ba275ee95c"
 title: "Fuse"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 50.835359
+  longitude: 4.344763
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

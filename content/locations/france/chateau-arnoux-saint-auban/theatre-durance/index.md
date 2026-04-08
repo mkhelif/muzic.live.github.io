@@ -4,6 +4,10 @@ locationId: "dfe5f6ca-08dd-49e3-a4a2-87aea9e54eaf"
 title: "Théâtre Durance"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 44.083796
+  longitude: 6.003398
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

@@ -4,6 +4,10 @@ locationId: "2da24c2c-9a95-4fac-a1f6-c59e535c2330"
 title: "L'Olympia"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 45.51694
+  longitude: -73.556899
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""

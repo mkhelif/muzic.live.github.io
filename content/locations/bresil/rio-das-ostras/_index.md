@@ -5,4 +5,5 @@ title: "Rio Das Ostras"
 coordinates:
   latitude: -22.5269
   longitude: -41.9453
+  zoom: 12
 ---

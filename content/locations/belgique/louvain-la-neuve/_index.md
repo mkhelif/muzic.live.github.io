@@ -5,4 +5,5 @@ title: "Louvain La Neuve"
 coordinates:
   latitude: 50.6681
   longitude: 4.6118
+  zoom: 12
 ---

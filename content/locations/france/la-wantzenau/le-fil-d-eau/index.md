@@ -4,6 +4,10 @@ locationId: "2918f628-6921-4f79-a44a-2946077369fe"
 title: "Le Fil D'Eau"
 cover: "cover.jpg"
 address: ""
+coordinates:
+  latitude: 48.654832
+  longitude: 7.834427
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""
