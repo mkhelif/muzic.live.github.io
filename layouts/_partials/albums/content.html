@@ -13,9 +13,7 @@
     <p class="small">{{ .Params.subtitle }}</p>
     <hr>
 
-    {{ with .Params.spotify }}
-        <div class="mb-4">{{ partial "embed/spotify-album.html" . }}</div>
-    {{ end }}
+    {{ partial "albums/player.html" . }}
 
     {{ partial "content.html" . }}
 

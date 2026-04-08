@@ -1,0 +1,5 @@
+{{/* --- Albums ---  */}}
+{{ $albums := where .Site.RegularPages "Section" "albums" }}
+{{ $albums = where $albums ".Params.artists" "intersect" (slice .Title) }}
+{{ $albums = $albums.ByDate.Reverse }}
+{{ partial "albums/list.html" (dict "context" . "albums" $albums) }}
