@@ -10,8 +10,14 @@
             {{ $pages = $pages.ByTitle }}
         {{ end }}
         {{ $paginator := .Paginate $pages 10 }}
-        {{ range $index, $report := $paginator.Pages }}
-            {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
+        {{ range $index, $page := $paginator.Pages }}
+            {{ if eq .Section "artists" }}
+                {{ partial "artists/list-entry.html" (dict "artist" $page "index" $index) }}
+            {{ else if eq .Section "festivals" }}
+                {{ partial "festivals/list-entry.html" (dict "festival" $page "index" $index) }}
+            {{ else }}
+                {{ partial "reports/list-entry.html" (dict "report" $page "index" $index) }}
+            {{ end }}
         {{ end }}
         {{ partial "pagination.html" . }}
     </div>
