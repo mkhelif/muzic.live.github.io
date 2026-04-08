@@ -20,7 +20,7 @@
     </div>
 {{ else }}
     <div data-pagefind-meta="image[data-src], image_alt[data-alt]"
-         data-src="{{ .Resources.Get "/images/cover-empty.jpg" | absURL }}"
+         data-src="{{ .Resources.Get "images/cover-empty.jpg" | absURL }}"
          data-alt="{{ .Title }}"
          class="backdrop-blur position-absolute w-100 h-100"
     ></div>
