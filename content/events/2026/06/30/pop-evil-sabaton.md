@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-06-30T03:30:00-04:00"
+date: 2026-06-30T03:30:00-04:00
 artists:
   - Pop Evil
   - Sabaton

@@ -1,11 +1,9 @@
 ---
 id: "d860a720-d298-4e72-ae1a-1157b66a52fa"
+locationId: "480afa2c-6674-40e9-959d-9db31d29cd26"
 title: "Espace Dollfus Noack"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Sausheim
-  - France
 socials:
   facebook: ""
   instagram: ""

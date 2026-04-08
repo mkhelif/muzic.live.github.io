@@ -1,11 +1,9 @@
 ---
 id: "eb81a90b-2237-4455-a82d-07855ebd832b"
+locationId: "fbbae854-7c97-4a52-a691-df7db70127f0"
 title: "Madison Street Theater"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Oak Park
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

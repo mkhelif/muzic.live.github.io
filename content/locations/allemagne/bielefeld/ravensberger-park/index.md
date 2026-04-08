@@ -1,11 +1,9 @@
 ---
 id: "79e49a9e-bd90-4b20-a0e0-b2a46da39317"
+locationId: "ec7b47a5-218e-44fb-92f7-2474473966e2"
 title: "Ravensberger Park"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Bielefeld
-  - Allemagne
 socials:
   facebook: ""
   instagram: ""

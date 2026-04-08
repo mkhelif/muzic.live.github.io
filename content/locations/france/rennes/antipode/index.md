@@ -1,11 +1,9 @@
 ---
 id: "13da1e0d-98e5-4367-8878-f7ba93a89ad1"
+locationId: "0714b1bb-e9ec-4d2b-8e9f-79719dc72cb2"
 title: "Antipode"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Rennes
-  - France
 socials:
   facebook: ""
   instagram: ""

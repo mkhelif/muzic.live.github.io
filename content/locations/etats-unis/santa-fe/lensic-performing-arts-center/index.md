@@ -1,11 +1,9 @@
 ---
 id: "eb73ac3f-0ee7-4307-b265-1d4a8a095530"
+locationId: "45d779f7-4e3c-4ad1-8ce4-48d6d66bd6fd"
 title: "Lensic Performing Arts Center"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Santa Fe
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

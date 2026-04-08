@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-07-25T19:00:00-07:00"
+date: 2026-07-25T19:00:00-07:00
 artists:
   - Alabama Shakes
   - Zach Bryan

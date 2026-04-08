@@ -1,11 +1,9 @@
 ---
 id: "ea11cb71-cd62-43e1-998c-2a2a2551c5fa"
+locationId: "a0ac69a8-6487-4f07-943f-59c1acd2ee25"
 title: "The Wilma"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Missoula
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

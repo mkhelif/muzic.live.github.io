@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-04-02T18:00:00+01:00"
+date: 2026-04-02T18:00:00+01:00
 artists:
   - Richard Ashcroft
   - The Royston Club

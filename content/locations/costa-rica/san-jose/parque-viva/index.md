@@ -1,11 +1,9 @@
 ---
 id: "24f5b0fe-1e21-46ab-af57-95f1a6fcc0e8"
+locationId: "a331be35-ee14-4d68-b572-936a3d8e91d3"
 title: "Parque Viva"
 cover: "cover.jpg"
 address: ""
-locations:
-  - San José
-  - Costa Rica
 socials:
   facebook: ""
   instagram: ""

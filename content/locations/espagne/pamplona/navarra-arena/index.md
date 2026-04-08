@@ -1,11 +1,9 @@
 ---
 id: "f09b54e2-473f-4c07-8c34-e3030aa5cbaa"
+locationId: "c1fa095f-cf94-492c-8ce5-db734f8a52a6"
 title: "Navarra Arena"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Pamplona
-  - Espagne
 socials:
   facebook: ""
   instagram: ""

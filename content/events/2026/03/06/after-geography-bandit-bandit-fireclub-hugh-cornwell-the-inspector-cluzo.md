@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-03-06T15:30:00+01:00"
+date: 2026-03-06T15:30:00+01:00
 artists:
   - AFTER GEOGRAPHY
   - Bandit Bandit

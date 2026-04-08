@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-11-06T20:30:00+02:00"
+date: 2025-11-06T20:30:00+02:00
 artists:
   - Wet Leg
   - Katy J Pearson

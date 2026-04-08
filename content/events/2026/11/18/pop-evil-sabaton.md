@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-11-18T19:00:00-07:00"
+date: 2026-11-18T19:00:00-07:00
 artists:
   - Pop Evil
   - Sabaton

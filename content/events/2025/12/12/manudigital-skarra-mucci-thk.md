@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-12-12T21:30:00+02:00"
+date: 2025-12-12T21:30:00+02:00
 artists:
   - Manudigital
   - Skarra Mucci

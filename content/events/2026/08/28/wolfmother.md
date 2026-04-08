@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-08-28T20:00:00+02:00"
+date: 2026-08-28T20:00:00+02:00
 artists:
   - Wolfmother
 locationId: "194f3708-8251-4db1-be8a-27bf1a907801"

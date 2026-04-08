@@ -1,11 +1,9 @@
 ---
 id: "ba87e7eb-b774-4c6a-8a75-2c9ed04e0069"
+locationId: "1bb72542-1239-4444-8f23-a765ea61cb26"
 title: "Archa+"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Praha
-  - Tchéquie
 socials:
   facebook: ""
   instagram: ""

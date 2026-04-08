@@ -1,11 +1,9 @@
 ---
 id: "bbf3bb34-7b8d-4339-8932-49d16c611421"
+locationId: "523441af-2037-4c98-9e39-7100bdb0189b"
 title: "House Of Blues Gear Shop Orlando"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Lake Buena Vista
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

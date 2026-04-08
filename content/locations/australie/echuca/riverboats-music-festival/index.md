@@ -1,11 +1,9 @@
 ---
 id: "06846806-3e21-47d9-9168-3a0a62140124"
+locationId: "69c08ba7-a627-4238-ad5e-2ab261d74e9b"
 title: "Riverboats Music Festival"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Echuca
-  - Australie
 socials:
   facebook: ""
   instagram: ""

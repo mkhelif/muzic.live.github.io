@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-11-16T20:00:00+02:00"
+date: 2025-11-16T20:00:00+02:00
 artists:
   - Carpetman
   - Claire Brooks

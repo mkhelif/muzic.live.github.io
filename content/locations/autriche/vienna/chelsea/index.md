@@ -1,11 +1,9 @@
 ---
 id: "fb8e4ab0-221d-42de-a791-049fff6d5485"
+locationId: "e7210d43-c0cd-45eb-8334-0cecdb30ec0c"
 title: "Chelsea"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Vienna
-  - Autriche
 socials:
   facebook: ""
   instagram: ""

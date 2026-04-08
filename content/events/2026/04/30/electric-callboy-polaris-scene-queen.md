@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-04-30T19:00:00-06:00"
+date: 2026-04-30T19:00:00-06:00
 artists:
   - Electric Callboy
   - Polaris

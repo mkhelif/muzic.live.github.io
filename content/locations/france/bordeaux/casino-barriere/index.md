@@ -1,11 +1,9 @@
 ---
 id: "7deeffc4-de9a-4c40-a294-e58e4ae088ff"
+locationId: "7c0f435e-b038-4d48-9f8a-87903ae68ad5"
 title: "Casino Barrière"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Bordeaux
-  - France
 socials:
   facebook: ""
   instagram: ""

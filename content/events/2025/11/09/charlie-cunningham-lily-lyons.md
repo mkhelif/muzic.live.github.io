@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-11-09T20:00:00+02:00"
+date: 2025-11-09T20:00:00+02:00
 artists:
   - Charlie Cunningham
   - Lily Lyons

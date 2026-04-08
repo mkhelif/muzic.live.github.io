@@ -4,7 +4,7 @@
     {{ partial "social.html" . }}
     {{ partial "content.html" . }}
 
-    {{ partial "news/list.html" (dict "context" . "news" (where (where .Site.Pages "Section" "news") ".Params.festivals" "intersect" (slice .Title))) }}
-    {{ partial "events/list.html" (dict "context" . "events" (where (where .Site.Pages "Section" "events") ".Params.festivals" "intersect" (slice .Title))) }}
-    {{ partial "reports/list.html" (dict "context" . "reports" (where (where .Site.Pages "Section" "reports") ".Params.festivals" "intersect" (slice .Title))) }}
+    {{ partial "festivals/news.html" . }}
+    {{ partial "festivals/events.html" . }}
+    {{ partial "festivals/reports.html" . }}
 </div>

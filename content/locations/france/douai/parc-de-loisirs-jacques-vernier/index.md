@@ -1,11 +1,9 @@
 ---
 id: "f999efb5-4570-493b-8b21-a6b0c761fe01"
+locationId: "d6c1e0e9-9880-4cab-8495-a37116e83698"
 title: "Parc De Loisirs Jacques Vernier"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Douai
-  - France
 socials:
   facebook: ""
   instagram: ""

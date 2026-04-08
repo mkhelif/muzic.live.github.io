@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-03-21T23:59:00+01:00"
+date: 2026-03-21T23:59:00+01:00
 artists:
   - Vladimir Cauchemar
   - Young Marco

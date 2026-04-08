@@ -1,11 +1,9 @@
 ---
 id: "b9bf374e-c46d-41e4-988a-d6667f8edae9"
+locationId: "e75f55e2-6ec0-49e9-9b09-b111b4f5abad"
 title: "The Guild Theatre"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Menlo Park
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
 id: "aed9fe50-7608-4b43-9e60-735dc3483478"
+locationId: "6c56d14e-7967-490d-9c11-b43052f6fc28"
 title: "Cabaret Aléatoire - Smac"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Marseille
-  - France
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
 id: "0aa1f570-a6a5-4a7b-b70e-e59cd1d5cfe7"
+locationId: "4c987d5c-bc72-492a-8b68-6d0dc466ff9f"
 title: "Gaskessel Bern"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Bern
-  - Suisse
 socials:
   facebook: ""
   instagram: ""

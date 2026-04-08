@@ -1,11 +1,9 @@
 ---
 id: "f5155739-b63a-49cc-8558-acbe6369200e"
+locationId: "b2358ddf-1fa2-41ae-860d-d46d78e05402"
 title: "Pearl Street Warehouse"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Washington
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-09-05T19:00:00-04:00"
+date: 2026-09-05T19:00:00-04:00
 artists:
   - John Fogerty
   - Steve Winwood

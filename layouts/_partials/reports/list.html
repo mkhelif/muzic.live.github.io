@@ -1,5 +1,5 @@
 <div data-pagefind-ignore="all">
-    <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">Chroniques de concerts</h4>
+    <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">{{ default "Chroniques de concerts" .title }}</h4>
     {{ range $index, $report := .reports }}
         {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
     {{ end }}

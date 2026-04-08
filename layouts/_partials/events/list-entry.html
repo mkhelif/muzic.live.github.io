@@ -1,8 +1,8 @@
-{{ $padding := cond (eq .index 1) "pb-2" "py-2" }}
-<tr class="{{ cond (eq .index 1) "" "border-top" }} border-primary" style="--bs-border-opacity: 0.25;">
+{{ $padding := cond (eq .index 0) "pb-2" "py-2" }}
+<tr class="{{ cond (eq .index 0) "" "border-top" }} border-primary" style="--bs-border-opacity: 0.25;">
     <td class="{{ $padding }} text-nowrap">
         <span><i class="fa fa-2xs text-muted fa-clock ms-1"></i></span>
-        {{ partial "datetime.html" (dict "date" .event.Params.eventDate "includeTime" true) }}
+        {{ partial "datetime.html" (dict "date" .event.Date "includeTime" true) }}
     </td>
 
     <!-- Locations -->

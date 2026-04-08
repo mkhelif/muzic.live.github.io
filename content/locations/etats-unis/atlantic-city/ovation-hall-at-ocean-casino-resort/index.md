@@ -1,11 +1,9 @@
 ---
 id: "158e54bc-3a1b-4390-89c6-9780e0082b14"
+locationId: "c680f658-b802-4a15-983e-b210b47dac38"
 title: "Ovation Hall At Ocean Casino Resort"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Atlantic City
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

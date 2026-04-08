@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-07-25T18:00:00+03:00"
+date: 2026-07-25T18:00:00+03:00
 artists:
   - Epica
   - Sabaton

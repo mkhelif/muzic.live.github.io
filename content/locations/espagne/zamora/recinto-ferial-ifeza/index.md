@@ -1,11 +1,9 @@
 ---
 id: "eb94fcb8-0a42-417b-8359-f086b5e9acc7"
+locationId: "d158d89e-7a39-4712-9429-deb7edbfcb21"
 title: "Recinto Ferial Ifeza"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Zamora
-  - Espagne
 socials:
   facebook: ""
   instagram: ""

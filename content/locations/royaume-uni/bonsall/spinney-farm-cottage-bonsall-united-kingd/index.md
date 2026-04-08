@@ -1,11 +1,9 @@
 ---
 id: "4950e815-5912-49be-a70a-c4cedc215c5d"
+locationId: "b0edb0cf-6dba-4efa-980d-937a8807bb2d"
 title: "Spinney Farm Cottage - Bonsall, United Kingd"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Bonsall
-  - Royaume-Uni
 socials:
   facebook: ""
   instagram: ""

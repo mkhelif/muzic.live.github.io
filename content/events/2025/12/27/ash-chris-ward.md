@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-12-27T22:00:00+00:00"
+date: 2025-12-27T22:00:00+00:00
 artists:
   - Ash
   - Chris Ward

@@ -1,11 +1,9 @@
 ---
 id: "7682ac6d-818f-47c1-afba-a6527518af25"
+locationId: "3e6b8803-b9d9-4fde-835f-8b554985a756"
 title: "La Rotonde"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Châteaurenard
-  - France
 socials:
   facebook: ""
   instagram: ""

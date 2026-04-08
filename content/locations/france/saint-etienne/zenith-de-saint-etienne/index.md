@@ -1,11 +1,9 @@
 ---
 id: "2a203d77-3a20-4ba6-9c33-f964ab5118ad"
+locationId: "768581cb-f0d0-4508-992c-3bd25268bedd"
 title: "Zénith De Saint-Étienne"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Saint-Étienne
-  - France
 socials:
   facebook: ""
   instagram: ""

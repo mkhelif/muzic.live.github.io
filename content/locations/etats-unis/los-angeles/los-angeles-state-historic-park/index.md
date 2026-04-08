@@ -1,11 +1,9 @@
 ---
 id: "061dff04-a7a9-4ec9-b615-780e76402646"
+locationId: "26c5ebdd-95f2-482b-9f48-4b9d01debdf4"
 title: "Los Angeles State Historic Park"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Los Angeles
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
 id: "a82cea2f-3fc2-427b-b124-549399b588c7"
+locationId: "e52373b5-e7a9-4677-9ec9-dc5a22ad586e"
 title: "Xfinity Center"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Mansfield
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-02-12T18:00:00+00:00"
+date: 2026-02-12T18:00:00+00:00
 artists:
   - Jack Garratt
   - MIKA

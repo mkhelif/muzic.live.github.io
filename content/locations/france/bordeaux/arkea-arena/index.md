@@ -1,11 +1,9 @@
 ---
 id: "403ac772-6a03-42f1-b99b-4d02f9b3cbda"
+locationId: "7c0f435e-b038-4d48-9f8a-87903ae68ad5"
 title: "Arkéa Arena"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Bordeaux
-  - France
 socials:
   facebook: ""
   instagram: ""

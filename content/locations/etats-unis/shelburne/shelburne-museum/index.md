@@ -1,11 +1,9 @@
 ---
 id: "f2a4c13b-54ca-4f5c-a515-d5446d0f8bac"
+locationId: "8229fbe9-1e75-492e-bf35-66399cd54552"
 title: "Shelburne Museum"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Shelburne
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

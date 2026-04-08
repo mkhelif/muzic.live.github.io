@@ -1,11 +1,9 @@
 ---
 id: "bed5133c-79ed-4add-8092-dc70bc8cd3b3"
+locationId: "39d3d5bf-3f5c-4ee5-a690-8e1ef39b5f79"
 title: "Exhibition Park"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Newcastle
-  - Royaume-Uni
 socials:
   facebook: ""
   instagram: ""

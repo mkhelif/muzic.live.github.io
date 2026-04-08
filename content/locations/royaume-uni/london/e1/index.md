@@ -1,11 +1,9 @@
 ---
 id: "0c8d49ee-b79c-4b0b-a8d9-b92d1078b7f8"
+locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "E1"
 cover: "cover.jpg"
 address: ""
-locations:
-  - London
-  - Royaume-Uni
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
 id: "eed7728a-9422-40e8-b09f-75520e39ae72"
+locationId: "6dbbc738-c414-4682-92dd-6c2d8018b600"
 title: "The Wind Creek Event Center"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Bethlehem
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
 id: "0359cd71-6b6a-40af-919d-6ab17a8042ff"
+locationId: "12b6f65a-3041-4706-8f46-6324d01d5234"
 title: "Deutsche Bank Park"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Frankfurt Am Main
-  - Allemagne
 socials:
   facebook: ""
   instagram: ""

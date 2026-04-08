@@ -1,11 +1,9 @@
 ---
 id: "6a40135d-34cd-4129-be8f-9afa2527ee66"
+locationId: "bedb4481-3f28-4bde-9670-4faa86eb2ea7"
 title: "The Telegraph Building"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Belfast
-  - Royaume-Uni
 socials:
   facebook: ""
   instagram: ""

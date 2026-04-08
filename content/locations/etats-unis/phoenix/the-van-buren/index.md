@@ -1,11 +1,9 @@
 ---
 id: "fd2581c3-4e28-4d41-a0bf-c508e75ca302"
+locationId: "3e1c6e12-1cc6-4282-801b-9a074757e5c1"
 title: "The Van Buren"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Phoenix
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

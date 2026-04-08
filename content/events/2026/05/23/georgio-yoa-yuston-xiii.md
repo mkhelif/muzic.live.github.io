@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-05-23T18:00:00+01:00"
+date: 2026-05-23T18:00:00+01:00
 artists:
   - Georgio
   - Yoa

@@ -1,11 +1,9 @@
 ---
 id: "0a3c7920-5bbd-47b2-b8a8-81321abb7e7a"
+locationId: "be97bc43-409d-4967-94d0-a5832a2a2262"
 title: "Columbiahalle"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Berlin
-  - Allemagne
 socials:
   facebook: ""
   instagram: ""

@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-02-07T14:00:00-08:00"
+date: 2026-02-07T14:00:00-08:00
 artists:
   - Sean Paul
   - T-Pain

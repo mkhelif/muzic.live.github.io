@@ -3,9 +3,7 @@
         <h1 class="mb-4 p-3 bg-primary text-dark">{{ .Title }}</h1>
 
         {{ if eq .Section "locations" }}
-            {{ with .Params.locationId }}
-                {{ partial "locations/link.html" . }}
-            {{ end }}
+            {{ partial "locations/parent.html" . }}
         {{ end }}
 
         {{ .Content }}

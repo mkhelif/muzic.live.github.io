@@ -1,11 +1,9 @@
 ---
 id: "9fa75303-4b52-4d37-8dd3-df1cd2d627a6"
+locationId: "8a0266bd-6ec2-4837-92da-24c0d6a9b8fe"
 title: "Amphitheater Gelsenkirchen"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Gelsenkirchen
-  - Allemagne
 socials:
   facebook: ""
   instagram: ""

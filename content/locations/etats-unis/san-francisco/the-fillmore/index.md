@@ -1,11 +1,9 @@
 ---
 id: "bbd13e3b-6476-4eb1-afad-105414bc96a6"
+locationId: "b4b402f0-7c84-4a62-a8ee-6123d54e213a"
 title: "The Fillmore"
 cover: "cover.jpg"
 address: ""
-locations:
-  - San Francisco
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

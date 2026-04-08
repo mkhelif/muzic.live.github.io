@@ -1,11 +1,9 @@
 ---
 id: "f375321a-8b02-463f-9a41-8a61409ed599"
+locationId: "88cc63fb-e86f-45e7-afee-77e0813b59b8"
 title: "Riverstage Brisbane"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Brisbane
-  - Australie
 socials:
   facebook: ""
   instagram: ""

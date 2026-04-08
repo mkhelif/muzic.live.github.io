@@ -1,11 +1,9 @@
 ---
 id: "64c7795b-dcd4-4043-a674-cd2a6e91c2a1"
+locationId: "5806a02d-ca23-4f15-8b1a-96c3c8bf4f63"
 title: "Kuppel Basel"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Basel
-  - Suisse
 socials:
   facebook: ""
   instagram: ""

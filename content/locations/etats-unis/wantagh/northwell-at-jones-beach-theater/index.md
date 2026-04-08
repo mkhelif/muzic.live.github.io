@@ -1,11 +1,9 @@
 ---
 id: "51ae491e-1bd2-42fc-b02a-b1d13435d08c"
+locationId: "a7c59de8-527c-45d4-a883-e376e24cdb5c"
 title: "Northwell At Jones Beach Theater"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Wantagh
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

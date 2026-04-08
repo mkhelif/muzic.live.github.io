@@ -1,11 +1,9 @@
 ---
 id: "c08c4bff-6469-4556-a075-0a704115f1d1"
+locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "Here At Outernet"
 cover: "cover.jpg"
 address: ""
-locations:
-  - London
-  - Royaume-Uni
 socials:
   facebook: ""
   instagram: ""

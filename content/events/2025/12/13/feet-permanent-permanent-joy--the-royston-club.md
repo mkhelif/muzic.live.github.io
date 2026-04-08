@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-12-13T19:00:00+00:00"
+date: 2025-12-13T19:00:00+00:00
 artists:
   - FEET
   - Permanent

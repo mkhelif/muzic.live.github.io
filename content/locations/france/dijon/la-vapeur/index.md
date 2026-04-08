@@ -1,11 +1,9 @@
 ---
 id: "ca235cc1-b53b-4a4b-bf2d-5ecef4caa8de"
+locationId: "0e9980b5-f28b-4378-8ca2-1721ef892c77"
 title: "La Vapeur"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Dijon
-  - France
 socials:
   facebook: ""
   instagram: ""

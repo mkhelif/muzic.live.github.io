@@ -1,11 +1,9 @@
 ---
 id: "53f995bc-5cd7-457b-bec4-30534616658e"
+locationId: "9069bbb6-5f9f-4fb3-a9e8-b70487414db0"
 title: "Mairie De Labergement-Sainte-Marie"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Labergement-Sainte-Marie
-  - France
 socials:
   facebook: ""
   instagram: ""

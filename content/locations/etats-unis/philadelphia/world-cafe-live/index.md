@@ -1,11 +1,9 @@
 ---
 id: "69f2d32b-db21-45ad-9d9d-10a2eaab98b2"
+locationId: "c37d560d-b5e7-4c0f-a215-08160fc54a8d"
 title: "World Cafe Live"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Philadelphia
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

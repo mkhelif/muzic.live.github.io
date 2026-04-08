@@ -1,11 +1,9 @@
 ---
 id: "441b3f9d-772b-42b6-9b40-42073718ecea"
+locationId: "894f7fc6-cf12-4e64-a0bc-07ba2bd7ad3a"
 title: "Atabal"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Biarritz
-  - France
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
 id: "7bdefbd8-212d-4177-8e87-cb98cbb71bfd"
+locationId: "346b7655-a82e-456a-85d1-4f835fee57f4"
 title: "Locomotiv Club"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Bologna
-  - Italie
 socials:
   facebook: ""
   instagram: ""

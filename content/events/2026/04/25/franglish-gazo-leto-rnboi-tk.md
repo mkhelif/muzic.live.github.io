@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-04-25T19:30:00+02:00"
+date: 2026-04-25T19:30:00+02:00
 artists:
   - Franglish
   - Gazo

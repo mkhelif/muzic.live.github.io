@@ -1,11 +1,9 @@
 ---
 id: "4043e73f-1f22-4431-a34a-38768e5adee7"
+locationId: "6aa8bcb5-1342-4ebf-8c1d-2b0a41efce13"
 title: "Rock Werchter"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Werchter
-  - Belgique
 socials:
   facebook: ""
   instagram: ""

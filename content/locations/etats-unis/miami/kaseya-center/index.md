@@ -1,11 +1,9 @@
 ---
 id: "fcd113b9-590d-428e-9912-398f20f0340b"
+locationId: "acbf4aba-6312-41e4-834d-604a954f0be6"
 title: "Kaseya Center"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Miami
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

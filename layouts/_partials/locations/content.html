@@ -5,5 +5,5 @@
     {{ partial "content.html" . }}
 
     {{ partial "locations/events.html" . }}
-    {{ partial "reports/list.html" (dict "context" . "reports" (where (where .Site.Pages "Section" "reports") ".Params.locationId" .Params.id)) }}
+    {{ partial "locations/reports.html" . }}
 </div>

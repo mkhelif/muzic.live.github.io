@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-04-30T19:15:00-04:00"
+date: 2026-04-30T19:15:00-04:00
 artists:
   - Alabama Shakes
   - Lamont Landers

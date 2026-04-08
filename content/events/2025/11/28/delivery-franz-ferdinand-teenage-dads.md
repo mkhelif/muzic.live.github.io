@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-11-28T17:00:00+11:00"
+date: 2025-11-28T17:00:00+11:00
 artists:
   - Delivery
   - Franz Ferdinand

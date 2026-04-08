@@ -1,11 +1,9 @@
 ---
 id: "01d98ce7-4efc-4834-8dd1-2bd8e19e482f"
+locationId: "6aca9188-5556-471d-a336-1b221e609736"
 title: "Nochtwache"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Hamburg
-  - Allemagne
 socials:
   facebook: ""
   instagram: ""

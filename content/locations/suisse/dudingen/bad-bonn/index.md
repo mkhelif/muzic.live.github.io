@@ -1,11 +1,9 @@
 ---
 id: "6004c815-ab0e-492c-b947-112963cf2930"
+locationId: "3e0d6362-cff9-425c-bb30-5074e3e08946"
 title: "Bad Bonn"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Düdingen
-  - Suisse
 socials:
   facebook: ""
   instagram: ""

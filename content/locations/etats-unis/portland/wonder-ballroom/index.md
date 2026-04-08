@@ -1,11 +1,9 @@
 ---
 id: "37f1310d-40ce-423d-b3c9-918623a10fae"
+locationId: "3232a713-da62-4969-8c82-7dd64856fe2e"
 title: "Wonder Ballroom"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Portland
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-11-22T20:00:00-06:00"
+date: 2025-11-22T20:00:00-06:00
 artists:
   - La Luz
   - Portugal. The Man

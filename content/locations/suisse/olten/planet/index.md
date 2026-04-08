@@ -1,11 +1,9 @@
 ---
 id: "070030af-39d6-44b2-bb83-583facd1a71d"
+locationId: "3e492a0b-1654-473e-8391-9c2a0d9adfa0"
 title: "Planet"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Olten
-  - Suisse
 socials:
   facebook: ""
   instagram: ""

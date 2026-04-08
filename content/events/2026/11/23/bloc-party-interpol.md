@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-11-23T18:00:00+00:00"
+date: 2026-11-23T18:00:00+00:00
 artists:
   - Bloc Party
   - Interpol

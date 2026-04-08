@@ -1,11 +1,9 @@
 ---
 id: "831fc416-d437-44f3-b4b3-493f14a7b1f3"
+locationId: "7b7cca1d-8fe7-4479-bba6-b6f380d058d5"
 title: "Lo Bolegason"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Castres Cedex
-  - France
 socials:
   facebook: ""
   instagram: ""

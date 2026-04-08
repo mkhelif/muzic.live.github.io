@@ -1,11 +1,9 @@
 ---
 id: "830edf51-8e24-4f4c-ac2c-408e20ecb99a"
+locationId: "9ede10d6-7d28-41f7-a512-9f608048cf49"
 title: "Scionzier"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Scionzier
-  - France
 socials:
   facebook: ""
   instagram: ""

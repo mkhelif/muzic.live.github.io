@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-07-04T15:00:00+01:00"
+date: 2026-07-04T15:00:00+01:00
 artists:
   - Kid Kapichi
   - Maximo Park

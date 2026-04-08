@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-06-20T12:00:00+02:00"
+date: 2026-06-20T12:00:00+02:00
 festivals:
   - Hellfest
 artists:

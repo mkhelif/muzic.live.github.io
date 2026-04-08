@@ -1,11 +1,9 @@
 ---
 id: "b868b677-1c1e-46c2-b7fb-51d67b667120"
+locationId: "b3a5de0c-96fe-4733-9559-0cdd349f76a3"
 title: "Bastad Harbor"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Båstad
-  - Suède
 socials:
   facebook: ""
   instagram: ""

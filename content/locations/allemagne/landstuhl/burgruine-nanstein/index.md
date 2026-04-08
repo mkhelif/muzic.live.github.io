@@ -1,11 +1,9 @@
 ---
 id: "e79f3c1d-ded6-46ae-959c-051744723794"
+locationId: "37358065-290a-4cf7-b859-c4abe4f4aa6d"
 title: "Burgruine Nanstein"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Landstuhl
-  - Allemagne
 socials:
   facebook: ""
   instagram: ""

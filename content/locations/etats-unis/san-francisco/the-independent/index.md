@@ -1,11 +1,9 @@
 ---
 id: "eb86afe4-1325-4e30-88bc-a604a16048fa"
+locationId: "b4b402f0-7c84-4a62-a8ee-6123d54e213a"
 title: "The Independent"
 cover: "cover.jpg"
 address: ""
-locations:
-  - San Francisco
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
 id: "aa27adb7-2725-4228-8a78-2c343866faf2"
+locationId: "878c87ce-db86-4fae-844b-8ae314d2ffc4"
 title: "Theatre Simone Signoret A Conflans"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Conflans-Sainte-Honorine
-  - France
 socials:
   facebook: ""
   instagram: ""

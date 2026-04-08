@@ -1,11 +1,9 @@
 ---
 id: "ef874cea-9c0a-422b-b06b-17a756504500"
+locationId: "2da24c2c-9a95-4fac-a1f6-c59e535c2330"
 title: "Le Studio Td"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Montreal
-  - Canada
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
 id: "ed75722a-4ef6-47d4-9fa6-6c878448ad8f"
+locationId: "be6e20b0-338f-4df2-bfe5-446e4f1363d2"
 title: "Neighborhood Theatre Main Room"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Charlotte
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

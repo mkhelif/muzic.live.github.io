@@ -1,11 +1,9 @@
 ---
 id: "3b876cff-6c31-44e7-b2e9-789ec2ec434e"
+locationId: "c35f4e07-f899-44c1-a40b-2db28ce9b92e"
 title: "Lagerhalle E.V."
 cover: "cover.jpg"
 address: ""
-locations:
-  - Osnabrück
-  - Allemagne
 socials:
   facebook: ""
   instagram: ""

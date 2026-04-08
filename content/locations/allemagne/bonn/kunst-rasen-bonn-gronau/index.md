@@ -1,11 +1,9 @@
 ---
 id: "7484ee27-62bd-4302-9f65-0045befe38b0"
+locationId: "58401ed9-a860-47a6-ab19-70de8273b591"
 title: "Kunst!Rasen Bonn/Gronau"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Bonn
-  - Allemagne
 socials:
   facebook: ""
   instagram: ""

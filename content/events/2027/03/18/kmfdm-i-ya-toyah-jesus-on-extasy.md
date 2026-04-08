@@ -1,5 +1,5 @@
 ---
-eventDate: "2027-03-18T20:00:00+02:00"
+date: 2027-03-18T20:00:00+02:00
 artists:
   - KMFDM
   - I Ya Toyah

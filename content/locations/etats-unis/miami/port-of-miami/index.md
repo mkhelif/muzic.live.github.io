@@ -1,11 +1,9 @@
 ---
 id: "d6b82522-2ad9-477e-bbc7-0dbdbae16805"
+locationId: "acbf4aba-6312-41e4-834d-604a954f0be6"
 title: "Port Of Miami"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Miami
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

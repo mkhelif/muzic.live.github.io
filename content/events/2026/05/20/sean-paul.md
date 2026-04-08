@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-05-20T20:00:00+02:00"
+date: 2026-05-20T20:00:00+02:00
 artists:
   - Sean Paul
 locationId: "7e28c7d6-d2fe-4a77-b272-9d9c6a4b9da8"

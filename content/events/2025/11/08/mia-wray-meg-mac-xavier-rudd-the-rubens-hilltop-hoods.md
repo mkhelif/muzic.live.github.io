@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-11-08T12:30:00+10:30"
+date: 2025-11-08T12:30:00+10:30
 artists:
   - Mia Wray
   - Meg Mac

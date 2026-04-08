@@ -1,11 +1,9 @@
 ---
 id: "22928d34-80cf-4261-9b27-f48e4b3e4469"
+locationId: "71754966-8000-4451-b9a3-6868c14e82aa"
 title: "Le Jeu De Paume"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Blois
-  - France
 socials:
   facebook: ""
   instagram: ""

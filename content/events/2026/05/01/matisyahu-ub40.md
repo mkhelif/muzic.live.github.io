@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-05-01T21:00:00-04:00"
+date: 2026-05-01T21:00:00-04:00
 artists:
   - Matisyahu
   - UB40

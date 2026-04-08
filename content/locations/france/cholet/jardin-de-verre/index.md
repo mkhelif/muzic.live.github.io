@@ -1,11 +1,9 @@
 ---
 id: "8378f2e4-68e9-4a98-a748-5b9cfb5a08de"
+locationId: "9eb5ca3a-d8e5-4ee0-9677-4e6d07290921"
 title: "Jardin de Verre"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Cholet
-  - France
 socials:
   facebook: ""
   instagram: ""

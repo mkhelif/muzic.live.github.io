@@ -1,11 +1,9 @@
 ---
 id: "0c802e3c-fdb5-40ec-a823-848b0175d5f9"
+locationId: "5073be80-5229-4b70-8ad2-5a0f1829187d"
 title: "Toyota Amphitheatre"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Wheatland
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
 id: "899fc034-dee1-45b5-9d25-2322694aa615"
+locationId: "42acc1b3-52a8-4eef-9ceb-8da203283521"
 title: "Spoorpark Live"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Tilburg
-  - Pays-Bas
 socials:
   facebook: ""
   instagram: ""

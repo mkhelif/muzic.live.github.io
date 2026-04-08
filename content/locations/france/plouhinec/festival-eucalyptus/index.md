@@ -1,11 +1,9 @@
 ---
 id: "d432ab90-ff8a-493a-b8ae-0450fa7bfb4b"
+locationId: "8bb04f3d-4d58-4828-960c-ea23518d36ad"
 title: "Festival Eucalyptus"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Plouhinec
-  - France
 socials:
   facebook: ""
   instagram: ""

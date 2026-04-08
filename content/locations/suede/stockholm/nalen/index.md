@@ -1,11 +1,9 @@
 ---
 id: "80a37581-70c9-439e-8218-28943f0f8297"
+locationId: "cf04546e-c226-46e3-b6d1-0dd25b746344"
 title: "Nalen"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Stockholm
-  - Suède
 socials:
   facebook: ""
   instagram: ""

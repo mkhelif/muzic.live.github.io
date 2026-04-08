@@ -1,11 +1,9 @@
 ---
 id: "5d88e39e-d267-4bee-9374-c0fa48bcf28c"
+locationId: "b2358ddf-1fa2-41ae-860d-d46d78e05402"
 title: "The Hamilton Live"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Washington
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

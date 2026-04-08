@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-12-04T20:30:00+02:00"
+date: 2025-12-04T20:30:00+02:00
 artists:
   - Perturbator
   - Kaelan Mikla

@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-12-19T16:00:00+11:00"
+date: 2025-12-19T16:00:00+11:00
 artists:
   - Kingswood
   - Wolfmother

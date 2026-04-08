@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-05-02T17:30:00+01:00"
+date: 2026-05-02T17:30:00+01:00
 artists:
   - Carl Cox
   - The Prodigy

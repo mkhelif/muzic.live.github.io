@@ -1,11 +1,9 @@
 ---
 id: "6ee712c9-b65d-4147-bb6f-493a10a3b3fd"
+locationId: "26c74836-3255-4002-a8f3-0daa334dfcb5"
 title: "Tipitina'S"
 cover: "cover.jpg"
 address: ""
-locations:
-  - New Orleans
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
 id: "e69fd132-fa97-4584-8c49-c35f90728f5f"
+locationId: "2da24c2c-9a95-4fac-a1f6-c59e535c2330"
 title: "Place Des Arts - Maison Symphonique"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Montréal
-  - Canada
 socials:
   facebook: ""
   instagram: ""

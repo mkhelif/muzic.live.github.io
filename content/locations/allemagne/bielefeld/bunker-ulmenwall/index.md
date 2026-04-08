@@ -1,11 +1,9 @@
 ---
 id: "ce3d6518-d8a5-4f44-8583-06fb5b5385b6"
+locationId: "ec7b47a5-218e-44fb-92f7-2474473966e2"
 title: "Bunker Ulmenwall"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Bielefeld
-  - Allemagne
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
 id: "db59ce3f-0396-4573-8767-3fa41bdb3cec"
+locationId: "c656252f-5c05-4b93-8483-d4f116120eb5"
 title: "Forum Leverkusen Terrassensaal"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Leverkusen
-  - Allemagne
 socials:
   facebook: ""
   instagram: ""

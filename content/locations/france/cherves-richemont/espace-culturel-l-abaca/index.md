@@ -1,11 +1,9 @@
 ---
 id: "fb891c18-3bf4-4bcb-93c5-19722a27d0ef"
+locationId: "47a9ec53-8374-4c4f-bc29-f00d01d5fb54"
 title: "Espace Culturel - L'Abaca"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Cherves Richemont
-  - France
 socials:
   facebook: ""
   instagram: ""

@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-06-08T19:00:00-05:00"
+date: 2026-06-08T19:00:00-05:00
 artists:
   - Wolfmother
 locationId: "90eb6648-ad01-4895-9bf8-e1699e31b834"

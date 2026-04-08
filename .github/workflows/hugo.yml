@@ -60,7 +60,8 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --buildFuture
       - name: Build pagefind index
         run: |
           npx pagefind --site public

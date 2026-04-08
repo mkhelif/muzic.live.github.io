@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-06-11T18:00:00-07:00"
+date: 2026-06-11T18:00:00-07:00
 artists:
   - Brian Culbertson
   - Jonathan Butler

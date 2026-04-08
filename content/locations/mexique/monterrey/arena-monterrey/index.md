@@ -1,11 +1,9 @@
 ---
 id: "2db45522-f137-4d2a-b7cc-9b211ae33fff"
+locationId: "6aa4872d-57d6-4a46-a314-528fd9d1c897"
 title: "Arena Monterrey"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Monterrey
-  - Mexique
 socials:
   facebook: ""
   instagram: ""

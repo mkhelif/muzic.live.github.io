@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-06-26T19:30:00-07:00"
+date: 2026-06-26T19:30:00-07:00
 artists:
   - Hearty Har
   - John Fogerty

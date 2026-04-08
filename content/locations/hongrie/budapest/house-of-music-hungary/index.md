@@ -1,11 +1,9 @@
 ---
 id: "e776a186-efd3-4807-a0f9-86c105081757"
+locationId: "f9d4fc90-7ba2-46dc-8a63-7417f93e7510"
 title: "House Of Music Hungary"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Budapest
-  - Hongrie
 socials:
   facebook: ""
   instagram: ""

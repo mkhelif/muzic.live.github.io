@@ -1,11 +1,9 @@
 ---
 id: "427656d0-6284-4cfa-a2a1-37b661412830"
+locationId: "8ec6d2f0-fadc-48f4-9379-e0ead6669ac7"
 title: "Marathon Music Works"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Nashville
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

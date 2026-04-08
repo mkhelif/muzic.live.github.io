@@ -1,11 +1,9 @@
 ---
 id: "750e466f-5b29-45f7-9f73-4185257b4598"
+locationId: "ce3f68ed-2b2b-45ee-8e06-cf98ddc52f6c"
 title: "Espace Andre Lejeune"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Gueret
-  - France
 socials:
   facebook: ""
   instagram: ""

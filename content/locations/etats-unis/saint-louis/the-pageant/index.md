@@ -1,11 +1,9 @@
 ---
 id: "948d265a-a773-4d59-aea9-2033b0e91dd9"
+locationId: "2c7210f3-5e4e-4d85-8788-f0c9bd9e5be8"
 title: "The Pageant"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Saint Louis
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

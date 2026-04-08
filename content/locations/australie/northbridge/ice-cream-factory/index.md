@@ -1,11 +1,9 @@
 ---
 id: "76a50c45-9d8e-4917-8736-958aac495dbc"
+locationId: "673262d4-2107-4cd5-85c2-6e654523f721"
 title: "Ice Cream Factory"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Northbridge
-  - Australie
 socials:
   facebook: ""
   instagram: ""

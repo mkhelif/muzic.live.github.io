@@ -1,11 +1,9 @@
 ---
 id: "4bb4eb1f-3be7-4634-8ea0-8c6a7855ff99"
+locationId: "26c5ebdd-95f2-482b-9f48-4b9d01debdf4"
 title: "The Bellwether"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Los Angeles
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

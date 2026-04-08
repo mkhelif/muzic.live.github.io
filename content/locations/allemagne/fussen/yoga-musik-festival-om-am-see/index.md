@@ -1,11 +1,9 @@
 ---
 id: "ad88099c-381f-46cc-b09f-6f973a8c3649"
+locationId: "0d89f66c-3e2b-485e-974c-d1082164abdb"
 title: "Yoga & Musik Festival - Om Am See"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Füssen
-  - Allemagne
 socials:
   facebook: ""
   instagram: ""

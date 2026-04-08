@@ -1,11 +1,9 @@
 ---
 id: "7c12b150-e372-4bdf-ae92-8714741a8edd"
+locationId: "81773251-a33d-407e-9c75-62b47dbd91d1"
 title: "Zenith Paris - La Villette"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Paris
-  - France
 socials:
   facebook: ""
   instagram: ""

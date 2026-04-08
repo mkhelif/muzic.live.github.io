@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-03-09T20:00:00-04:00"
+date: 2026-03-09T20:00:00-04:00
 artists:
   - Super Plage
   - Vendredi sur Mer

@@ -1,11 +1,9 @@
 ---
 id: "7675d818-294a-4654-8824-d1e59a81b025"
+locationId: "0c8747fd-4b89-4805-a0a3-f361d9a7a48c"
 title: "Bridgewater Hall"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Manchester
-  - Royaume-Uni
 socials:
   facebook: ""
   instagram: ""

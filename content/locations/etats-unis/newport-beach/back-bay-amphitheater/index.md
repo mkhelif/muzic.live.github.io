@@ -1,11 +1,9 @@
 ---
 id: "f6c3be02-801e-4ff3-8612-40b5897e9c30"
+locationId: "1ef55e25-2e0b-4b2b-af53-fe47c4630850"
 title: "Back Bay Amphitheater"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Newport Beach
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

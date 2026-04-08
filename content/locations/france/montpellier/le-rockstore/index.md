@@ -1,11 +1,9 @@
 ---
 id: "7fdc9940-b867-4ff4-99b3-081f9594d120"
+locationId: "c0ff72ce-a134-48a8-aa65-5ebb9a61e2d7"
 title: "Le Rockstore"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Montpellier
-  - France
 socials:
   facebook: ""
   instagram: ""

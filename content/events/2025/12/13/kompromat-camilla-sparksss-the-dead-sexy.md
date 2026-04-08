@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-12-13T21:00:00+02:00"
+date: 2025-12-13T21:00:00+02:00
 artists:
   - Kompromat
   - Camilla Sparksss

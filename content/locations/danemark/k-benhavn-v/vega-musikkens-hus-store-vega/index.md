@@ -1,11 +1,9 @@
 ---
 id: "7a1b4fe3-c423-499c-8145-bb8ad14fe0d5"
+locationId: "339fcc02-815d-4540-89d8-7437669dcd7e"
 title: "Vega - Musikkens Hus, Store Vega"
 cover: "cover.jpg"
 address: ""
-locations:
-  - København V
-  - Danemark
 socials:
   facebook: ""
   instagram: ""

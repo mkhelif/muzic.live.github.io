@@ -1,11 +1,9 @@
 ---
 id: "a6861974-6252-4fc2-a59b-f2f5395215c1"
+locationId: "ad0232f9-f46c-4035-92f9-6ad6aadd105d"
 title: "Chorus-Live"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Aubière
-  - France
 socials:
   facebook: ""
   instagram: ""

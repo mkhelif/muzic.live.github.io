@@ -1,6 +1,16 @@
-{{ $events := where (where .Site.Pages "Section" "events") ".Params.locationId" .Params.id }}
-{{ range .Pages }}
-    {{ $events = $events | append (where (where .Site.Pages "Section" "events") ".Params.locationId" .Params.id) }}
+{{/* Fetch all nested locations (5 levels deep) */}}
+{{ $locations := slice .Params.id }}
+{{ range (seq 5)}}
+    {{ range hugo.Sites }}
+        {{ range where (where .Pages "Section" "locations") ".Params.locationId" "in" $locations }}
+            {{ $locations = $locations | append .Params.id }}
+        {{ end }}
+    {{ end }}
 {{ end }}
 
-{{ partial "events/list.html" (dict "context" . "events" $events) }}
+{{/* --- Events ---  */}}
+{{ $events := where .Site.RegularPages "Section" "events" }}
+{{ $events = where $events ".Params.locationId" "in" $locations }}
+{{ $events = where $events ".Date" "ge" (now.AddDate 0 0 -3) }}
+{{ $events = $events.ByDate }}
+{{ partial "events/list.html" (dict "context" . "events" ($events.Limit 50)) }}

@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-06-19T18:00:00+02:00"
+date: 2026-06-19T18:00:00+02:00
 festivals:
   - Caribana
 artists:

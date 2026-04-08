@@ -1,11 +1,9 @@
 ---
 id: "dbda6a18-f825-4b65-ad98-6efcf57e7fbc"
+locationId: "9591dc56-f3ad-4a0d-8b40-a98b8cbba2aa"
 title: "Hordern Pavilion"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Moore Park
-  - Australie
 socials:
   facebook: ""
   instagram: ""

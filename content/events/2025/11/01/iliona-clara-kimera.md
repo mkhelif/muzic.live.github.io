@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-11-01T20:30:00+02:00"
+date: 2025-11-01T20:30:00+02:00
 artists:
   - Iliona
   - Clara Kimera

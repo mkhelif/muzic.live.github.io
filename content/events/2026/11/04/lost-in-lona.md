@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-11-04T20:00:00+01:00"
+date: 2026-11-04T20:00:00+01:00
 artists:
   - Lost in Lona
 locationId: "e3c25b23-d07d-40c6-a519-f0864afc04d3"

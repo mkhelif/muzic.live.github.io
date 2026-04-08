@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-04-17T19:30:00-04:00"
+date: 2026-04-17T19:30:00-04:00
 artists:
   - Alabama Shakes
   - Joy Oladokun

@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-09-19T15:00:00-04:00"
+date: 2026-09-19T15:00:00-04:00
 artists:
   - Alabama Shakes
   - Gabriella Rose

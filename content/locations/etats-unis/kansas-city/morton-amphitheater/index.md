@@ -1,11 +1,9 @@
 ---
 id: "8c5db81e-c336-45d9-b5bc-34d2db78e2d0"
+locationId: "53f02ac4-ab34-482b-915d-d13be3e6413e"
 title: "Morton Amphitheater"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Kansas City
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
 id: "842c84c9-008d-44f9-a74f-476fac344b82"
+locationId: "c37d560d-b5e7-4c0f-a215-08160fc54a8d"
 title: "Union Transfer"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Philadelphia
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

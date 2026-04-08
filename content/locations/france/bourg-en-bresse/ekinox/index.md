@@ -1,11 +1,9 @@
 ---
 id: "b4a8c811-f9c9-4e78-aec0-039ec74b0612"
+locationId: "29106faf-47f2-46f9-8aa9-427a626f7bae"
 title: "Ekinox"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Bourg-En-Bresse
-  - France
 socials:
   facebook: ""
   instagram: ""

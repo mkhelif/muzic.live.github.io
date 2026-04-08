@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-06-07T19:30:00+10:00"
+date: 2026-06-07T19:30:00+10:00
 artists:
   - Kae Tempest
   - Open Season

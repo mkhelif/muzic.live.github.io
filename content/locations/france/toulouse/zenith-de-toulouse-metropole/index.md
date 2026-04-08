@@ -1,11 +1,9 @@
 ---
 id: "13e9f912-9d00-4a66-8d31-a2ca976e046f"
+locationId: "fe8c469d-0d47-4061-b98f-0097f25b6339"
 title: "Zénith De Toulouse Métropole"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Toulouse
-  - France
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
 id: "fe203e45-a3dc-4984-8502-3797202b23af"
+locationId: "0e303708-26b3-4fde-860d-55e3bfcef3ab"
 title: "Club Vaudeville Lindau E.V."
 cover: "cover.jpg"
 address: ""
-locations:
-  - Lindau
-  - Allemagne
 socials:
   facebook: ""
   instagram: ""

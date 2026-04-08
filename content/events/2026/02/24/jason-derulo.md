@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-02-24T20:00:00+01:00"
+date: 2026-02-24T20:00:00+01:00
 artists:
   - Jason Derulo
 locationId: "7fb5a989-6b51-4fcb-83bf-b25a94fb6777"

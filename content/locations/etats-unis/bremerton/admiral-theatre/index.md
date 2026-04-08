@@ -1,11 +1,9 @@
 ---
 id: "8efd2f63-b458-462e-bafb-3d1b5cc5f281"
+locationId: "de753926-882b-4c4b-ad82-6f6b60875691"
 title: "Admiral Theatre"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Bremerton
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

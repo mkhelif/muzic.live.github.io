@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-07-16T20:30:00+02:00"
+date: 2026-07-16T20:30:00+02:00
 artists:
   - Bigflo & Oli
 locationId: "74e94a04-9c42-48c8-9a78-5d0949a33ddc"

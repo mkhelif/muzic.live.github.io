@@ -1,11 +1,9 @@
 ---
 id: "bd9c23b9-894e-4863-8442-e2c406438b8a"
+locationId: "e1ba16ce-3d9e-4c30-aac6-a7053f19310a"
 title: "Hindley St Music Hall"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Adelaide
-  - Australie
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
 id: "9ceb5237-1966-4350-8821-94c009f9bfca"
+locationId: "df6e82a7-b69c-4783-8479-e49f45976852"
 title: "Razzmatazz 2"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Barcelona
-  - Espagne
 socials:
   facebook: ""
   instagram: ""

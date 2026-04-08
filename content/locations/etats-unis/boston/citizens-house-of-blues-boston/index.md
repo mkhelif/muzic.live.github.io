@@ -1,11 +1,9 @@
 ---
 id: "d1223360-c508-490b-933d-02d90008beab"
+locationId: "2985f112-84dd-4f26-9285-2b88102317d8"
 title: "Citizens House Of Blues Boston"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Boston
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

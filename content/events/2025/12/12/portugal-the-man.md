@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-12-12T20:00:00-06:00"
+date: 2025-12-12T20:00:00-06:00
 artists:
   - Portugal. The Man
 locationId: "e186d62c-ce7e-4973-8e2b-b88b58c48fb9"

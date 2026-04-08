@@ -1,5 +1,5 @@
 ---
-eventDate: "2025-11-07T17:30:00+02:00"
+date: 2025-11-07T17:30:00+02:00
 artists:
   - NOTHING MORE
   - Ankor

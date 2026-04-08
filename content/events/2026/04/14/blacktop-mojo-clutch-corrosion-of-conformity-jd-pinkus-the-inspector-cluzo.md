@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-04-14T19:30:00-05:00"
+date: 2026-04-14T19:30:00-05:00
 artists:
   - Blacktop Mojo
   - Clutch

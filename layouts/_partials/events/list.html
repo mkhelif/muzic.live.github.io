@@ -5,7 +5,6 @@
             <i class="fa fa-2xs fa-calendar"></i>
         </a>
     </h4>
-    {{ $count := 0 }}
     <table class="table table-sm table-borderless">
         <thead>
             <tr>
@@ -17,16 +16,12 @@
         </thead>
 
         <tbody>
-            {{ range .events }}
-                {{ if (lt 7 (div (sub now.Unix (.Params.eventDate | time).Unix) 86400)) }}
-                    {{ continue }}
-                {{ end }}
-                {{ partial "events/list-entry.html" (dict "event" . "index" $count) }}
-                {{ $count = add $count 1 }}
+            {{ range $index, $event := .events }}
+                {{ partial "events/list-entry.html" (dict "event" $event "index" $index) }}
             {{ end }}
         </tbody>
     </table>
-    {{ if eq $count 0 }}
+    {{ if eq .events.Len 0 }}
         <p class="small text-muted text-center">Aucun concert annoncé</p>
     {{ end }}
 </div>

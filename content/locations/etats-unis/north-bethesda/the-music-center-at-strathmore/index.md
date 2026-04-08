@@ -1,11 +1,9 @@
 ---
 id: "8a63723e-172b-4771-ad4c-33ef0b0b9259"
+locationId: "34d77efe-deb8-49af-a28e-66dd955796e7"
 title: "The Music Center At Strathmore"
 cover: "cover.jpg"
 address: ""
-locations:
-  - North Bethesda
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

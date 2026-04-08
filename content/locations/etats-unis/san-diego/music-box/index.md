@@ -1,11 +1,9 @@
 ---
 id: "fb5b5367-00ff-471e-9313-3dbeac5b1b05"
+locationId: "a0101517-93f6-48de-b426-0750df5fee69"
 title: "Music Box"
 cover: "cover.jpg"
 address: ""
-locations:
-  - San Diego
-  - États-Unis
 socials:
   facebook: ""
   instagram: ""

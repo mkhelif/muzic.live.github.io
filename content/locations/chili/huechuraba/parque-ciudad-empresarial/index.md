@@ -1,11 +1,9 @@
 ---
 id: "22b2ecaa-9607-44bd-8265-35c39d527e06"
+locationId: "8e94eea4-c531-40d6-99dc-5a63cb7e28fe"
 title: "Parque Ciudad Empresarial"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Huechuraba
-  - Chili
 socials:
   facebook: ""
   instagram: ""

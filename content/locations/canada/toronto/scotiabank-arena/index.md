@@ -1,11 +1,9 @@
 ---
 id: "7e12cf38-11ad-4808-bc7b-832d7f760db4"
+locationId: "5e0816b9-7085-4d69-89f8-9562d89868d1"
 title: "Scotiabank Arena"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Toronto
-  - Canada
 socials:
   facebook: ""
   instagram: ""

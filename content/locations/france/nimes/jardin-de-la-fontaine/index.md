@@ -1,11 +1,9 @@
 ---
 id: "d3b9f2e0-c472-4dc7-b79e-12735fd87156"
+locationId: "3cf229e9-bea5-4d70-b928-de140abb26ac"
 title: "Jardin De La Fontaine"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Nîmes
-  - France
 socials:
   facebook: ""
   instagram: ""

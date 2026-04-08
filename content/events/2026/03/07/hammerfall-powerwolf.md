@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-03-07T19:30:00+00:00"
+date: 2026-03-07T19:30:00+00:00
 artists:
   - HammerFall
   - Powerwolf

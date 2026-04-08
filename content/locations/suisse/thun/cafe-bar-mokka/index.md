@@ -1,11 +1,9 @@
 ---
 id: "a30673b2-0e0f-4b43-aeae-072be12e306a"
+locationId: "e849e77d-17e0-4449-bfc3-6302ad2eeae6"
 title: "Cafe Bar Mokka"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Thun
-  - Suisse
 socials:
   facebook: ""
   instagram: ""

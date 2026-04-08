@@ -1,11 +1,9 @@
 ---
 id: "736ca569-cad7-435d-bff5-5cfa41671d39"
+locationId: "81773251-a33d-407e-9c75-62b47dbd91d1"
 title: "Le Hasard Ludique"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Paris
-  - France
 socials:
   facebook: ""
   instagram: ""

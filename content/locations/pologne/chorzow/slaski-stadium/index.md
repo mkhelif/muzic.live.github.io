@@ -1,11 +1,9 @@
 ---
 id: "73537c84-487a-40ce-bd59-4b168b7d4e31"
+locationId: "f5621a1e-e1f0-4bc7-abd7-8a59493cf045"
 title: "Śląski Stadium"
 cover: "cover.jpg"
 address: ""
-locations:
-  - Chorzów
-  - Pologne
 socials:
   facebook: ""
   instagram: ""

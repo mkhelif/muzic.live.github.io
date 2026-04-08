@@ -1,5 +1,5 @@
 ---
-eventDate: "2026-11-24T19:00:00-06:00"
+date: 2026-11-24T19:00:00-06:00
 artists:
   - Wings of Steel
 locationId: "e2f10edc-5822-460d-9ec0-8b3ea58da811"
