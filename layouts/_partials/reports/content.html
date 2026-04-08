@@ -1,11 +1,6 @@
 {{ partial "cover.html" . }}
 
 <div class="container">
-    <div data-pagefind-meta="image[data-src], image_alt[data-alt]"
-         data-src="{{ urls.JoinPath .Path .Params.cover | absURL }}"
-         data-alt="{{ .Title }}"
-         class="d-none"></div>
-
     <p>
         {{ range $.GetTerms "artists" }}{{ partial "artists/badge.html" . }}{{ end }}
         {{ range $.GetTerms "festivals" }}{{ partial "festivals/badge.html" . }}{{ end }}
