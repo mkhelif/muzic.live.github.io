@@ -11,8 +11,8 @@
 
     {{ partial "content.html" . }}
 
-    {{ partial "news/list.html"    (dict "context" . "news"    (where (where .Site.Pages "Section" "news")    ".Params.artists" "intersect" (slice .Title))) }}
-    {{ partial "events/list.html"  (dict "context" . "events"  (where (where .Site.Pages "Section" "events")  ".Params.artists" "intersect" (slice .Title))) }}
-    {{ partial "reports/list.html" (dict "context" . "reports" (where (where .Site.Pages "Section" "reports") ".Params.artists" "intersect" (slice .Title))) }}
-    {{ partial "albums/list.html"  (dict "context" . "albums"  (where (where .Site.Pages "Section" "albums")  ".Params.artists" "intersect" (slice .Title))) }}
+    {{ partial "artists/news.html" . }}
+    {{ partial "artists/events.html" . }}
+    {{ partial "artists/reports.html" . }}
+    {{ partial "artists/albums.html" . }}
 </div>
