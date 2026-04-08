@@ -1,7 +1,5 @@
 {{ $events := where (where .Site.Pages "Section" "events") ".Params.locationId" .Params.id }}
-{{ debug.Dump . }}
 {{ range .Pages }}
-    {{ debug.Dump . }}
     {{ $events = $events | append (where (where .Site.Pages "Section" "events") ".Params.locationId" .Params.id) }}
 {{ end }}
 

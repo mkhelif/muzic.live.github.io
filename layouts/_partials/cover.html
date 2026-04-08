@@ -1,4 +1,5 @@
-{{ if .Params.cover }}
+{{ $cover := .Resources.Get .Params.cover }}
+{{ if $cover }}
     {{ $url := urls.JoinPath .Path .Params.cover | absURL | safeURL }}
     <div class="cover position-relative d-flex flex-column align-content-end mb-4" style="background-image: url({{ $url }});">
         <div data-pagefind-meta="image[data-src], image_alt[data-alt]"
