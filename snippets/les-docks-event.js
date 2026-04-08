@@ -44,7 +44,7 @@ var filename = Array(artist, ...supports)
 // Generate content
 copy(`mkdir -p "${directory}" && cat <<EOF > "${directory}/${filename}.md"
 ---
-date: "${datetime}"
+date: ${datetime}
 artists:
   - ${artist}${supportsList}
 locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"

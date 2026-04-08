@@ -180,7 +180,7 @@ if __name__ == '__main__':
                 if not event.exists():
                   event.write_text(f"""\
 ---
-date: "{date.isoformat()}"
+date: {date.isoformat()}
 artists:
   - {artists_list}
 locations:
