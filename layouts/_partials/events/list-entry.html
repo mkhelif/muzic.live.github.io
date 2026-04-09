@@ -17,6 +17,9 @@
         <p class="mb-0 d-flex">
             <i class="fa fa-xs text-muted fa-music ms-1 mt-2"></i>
             <span class="ms-2">
+                {{ range .event.Params.festivals }}
+                    {{- partial "festivals/link.html" . }} :
+                {{ end }}
                 {{ range $index, $artist := .event.GetTerms "artists" }}
                     {{- if (gt $index 0) }}, {{ end -}}
                     {{ partial "artists/link.html" $artist -}}

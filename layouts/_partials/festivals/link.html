@@ -1,0 +1,6 @@
+{{- $title := . -}}
+{{- range hugo.Sites -}}
+    {{- range where (where .Pages "Section" "festivals") ".LinkTitle" $title -}}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle | safeHTML }}</a>
+    {{- end -}}
+{{- end -}}

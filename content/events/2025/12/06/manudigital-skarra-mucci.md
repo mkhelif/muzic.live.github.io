@@ -3,5 +3,5 @@ date: 2025-12-06T20:30:00+01:00
 artists:
   - Manudigital
   - Skarra Mucci
-locationId: "5d0db00c-3b95-43e0-bb8a-d9ae2c127263"
+locationId: "6637ab77-8328-485b-9711-942be86fd6d7"
 ---
