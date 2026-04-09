@@ -1,6 +1,0 @@
----
-date: 2026-03-06T19:00:00+00:00
-artists:
-  - Franz Ferdinand
-locationId: "f804aa30-377a-4111-ac95-551d2ee8e5c0"
----
