@@ -1,11 +1,13 @@
 ---
 id: "3cdf54e0-fd0a-498e-8f98-f0720c99bcdd"
-title: "東京ガーデンシアター"
+locationId: "7001d135-2636-4b33-91c1-e7a92c35f3d2"
+title: "Tokyo Garden Theater"
 cover: "cover.jpg"
 address: ""
-locations:
-  - 江東区
-  - Japon
+coordinates:
+  latitude: 35.6474
+  longitude: 139.7917
+  zoom: 17
 socials:
   facebook: ""
   instagram: ""
@@ -16,4 +18,3 @@ todo:
   - Verify address
   - Add logo cover
 ---
-

@@ -1,11 +1,9 @@
 ---
-id: "88b0dfe3-fd85-4dec-abd6-0ba7f35f52f6"
-title: "Duo Music Exchange"
+id: "8a7c5028-6c9c-4feb-87e2-f3ff2524a40d"
+locationId: "7001d135-2636-4b33-91c1-e7a92c35f3d2"
+title: "Ex Theater Roppongi"
 cover: "cover.jpg"
 address: ""
-locations:
-  - 渋谷区
-  - Japon
 socials:
   facebook: ""
   instagram: ""

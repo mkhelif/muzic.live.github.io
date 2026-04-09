@@ -1,11 +1,9 @@
 ---
-id: "4621130a-a95b-482a-b558-b54f827e2572"
-title: "赤羽Reny Alpha"
+id: "1d7724ca-b9c9-474d-87ea-78329dba3dae"
+locationId: "d7731941-a45a-47b5-a7c2-914d599ec37d"
+title: "Namba Hatch"
 cover: "cover.jpg"
 address: ""
-locations:
-  - 北区
-  - Japon
 socials:
   facebook: ""
   instagram: ""

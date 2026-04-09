@@ -1,11 +1,9 @@
 ---
-id: "894c8585-147d-4824-b8bd-87be2db3854c"
-title: "Yogibo Meta Valley"
+id: "88b0dfe3-fd85-4dec-abd6-0ba7f35f52f6"
+locationId: "7001d135-2636-4b33-91c1-e7a92c35f3d2"
+title: "Duo Music Exchange"
 cover: "cover.jpg"
 address: ""
-locations:
-  - 大阪市浪速区
-  - Japon
 socials:
   facebook: ""
   instagram: ""

@@ -1,11 +1,9 @@
 ---
-id: "1d7724ca-b9c9-474d-87ea-78329dba3dae"
-title: "なんばＨａｔｃｈ"
+id: "80078caa-6981-4096-89da-20b34a72b02a"
+locationId: "d7731941-a45a-47b5-a7c2-914d599ec37d"
+title: "Gorilla Hall Osaka"
 cover: "cover.jpg"
 address: ""
-locations:
-  - 大阪市浪速区
-  - Japon
 socials:
   facebook: ""
   instagram: ""

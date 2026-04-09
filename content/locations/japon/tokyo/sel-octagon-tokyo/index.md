@@ -1,6 +1,6 @@
 ---
 id: "9d979723-ed2d-47a2-9078-407191a74c3f"
-locationId: "04bd5663-b5be-4d12-8220-84f0053382b7"
+locationId: "7001d135-2636-4b33-91c1-e7a92c35f3d2"
 title: "Sel Octagon Tokyo"
 cover: "cover.jpg"
 address: ""

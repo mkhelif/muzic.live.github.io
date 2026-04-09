@@ -1,7 +1,7 @@
-{{- if eq .page.IsHome -}}
-    {{ .page.Title }} : {{- partial "calendar/event-location.ics" .event.Params.locationId }}
+{{- if .page.IsHome -}}
+    {{ .page.Title }} : {{ partial "calendar/event-location.ics" .event.Params.locationId }}
 {{- else if eq .page.Section "artists" -}}
-    {{ .page.Title }} : {{- partial "calendar/event-location.ics" .event.Params.locationId }}
+    {{ .page.Title }} : {{ partial "calendar/event-location.ics" .event.Params.locationId }}
 {{- else if eq .page.Section "locations" -}}
     {{ .page.Title }} : {{ partial "calendar/event-artists.ics" .event.Params.artists }}
 {{- else if eq .page.Section "home" -}}

@@ -1,11 +1,9 @@
 ---
-id: "c10d5e35-3954-4790-9057-00c4120307e1"
-title: "Ｂｉｌｌｂｏａｒｄ　Ｌｉｖｅ　Ｏｓａｋａ"
+id: "5373f95b-396a-4112-85f1-d3fe618080b7"
+locationId: "7001d135-2636-4b33-91c1-e7a92c35f3d2"
+title: "Billboard Live Tokyo"
 cover: "cover.jpg"
 address: ""
-locations:
-  - 大阪市北区
-  - Japon
 socials:
   facebook: ""
   instagram: ""
