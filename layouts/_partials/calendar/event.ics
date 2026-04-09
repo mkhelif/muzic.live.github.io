@@ -4,6 +4,7 @@ UID:{{ hash.XxHash .event.RelPermalink }}
 SUMMARY:{{ partial "calendar/summary.ics" . }}
 DESCRIPTION:{{ partial "calendar/event-artists.ics" .event.Params.artists }}
 LOCATION:{{ replace (partial "calendar/location.ics" .event.Params.locationId) "," "\\," }}
+{{ partial "calendar/event-geo.ics" .event.Params.locationId }}
 BEGIN:VALARM
 TRIGGER:-P15D
 DESCRIPTION:{{ partial "calendar/summary.ics" . }}

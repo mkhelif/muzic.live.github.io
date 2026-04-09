@@ -1,0 +1,8 @@
+{{- $locationId := . -}}
+{{- range hugo.Sites -}}
+    {{- range where (where .Pages ".Section" "locations") ".Params.id" $locationId -}}
+        {{- with .Params.coordinates -}}
+            GEO:{{ .latitude }};{{ .longitude -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
