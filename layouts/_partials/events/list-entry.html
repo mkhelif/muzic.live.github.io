@@ -1,7 +1,7 @@
 {{ $padding := cond (eq .index 0) "pb-2" "py-2" }}
 <tr class="{{ cond (eq .index 0) "" "border-top" }} border-primary" style="--bs-border-opacity: 0.25;">
     <!-- Date & time-->
-    <td class="{{ $padding }} text-nowrap">
+    <td class="{{ $padding }} text-nowrap align-middle">
         <p class="d-flex mb-0 pt-1 align-items-center">
             <i class="fa fa-2xs text-muted fa-clock ms-1"></i>
             <small class="text-white ms-2">
@@ -13,22 +13,24 @@
     </td>
 
     <!-- Artists & locations -->
-    <td class="{{ $padding }} text-nowrap text-white-50">
-        <p class="mb-0">
-            <i class="fa fa-xs text-muted fa-music ms-1"></i>
-            {{ range $index, $artist := .event.GetTerms "artists" }}
-                {{- if (gt $index 0) }}, {{ end -}}
-                {{ partial "artists/link.html" $artist -}}
-            {{- end }}
+    <td class="{{ $padding }} text-white-50 align-middle">
+        <p class="mb-0 d-flex">
+            <i class="fa fa-xs text-muted fa-music ms-1 mt-2"></i>
+            <span class="ms-2">
+                {{ range $index, $artist := .event.GetTerms "artists" }}
+                    {{- if (gt $index 0) }}, {{ end -}}
+                    {{ partial "artists/link.html" $artist -}}
+                {{- end }}
+            </span>
         </p>
 
-        <p class="mb-0">
+        <p class="mb-0 d-flex align-items-center">
             <i class="fa fa-xs text-muted fa-map-marker-alt ms-1"></i>
-            <small class="opacity-50"><small>{{ partial "locations/link.html" .event.Params.locationId }}</small></small>
+            <small class="ms-2 opacity-50"><small>{{ partial "locations/link.html" .event.Params.locationId }}</small></small>
         </p>
     </td>
 
-    <td class="{{ $padding }} text-nowrap text-center">
+    <td class="{{ $padding }} text-nowrap text-center align-middle">
         {{ if .event.Params.tickets }}
             <a target="_blank" rel="noopener norefferer" class="{{ cond .Params.full "text-warning" (cond .event.Params.cancelled "text-danger text-decoration-line-through" "text-primary") }}"
                href="{{- if .event.Params.tickets.seetickets }}{{ trim (partial "tickets/seetickets.html" .event.Params.tickets.seetickets) "\n\r " -}}{{ end -}}">
