@@ -15,10 +15,7 @@ artists:
   - Rise Of The NorthStar
   - Sun
   - Ultra Vomit
-locations:
-  - Bataclan
-  - Paris
-  - France
+locationId: "34e0610f-b590-459c-9161-966d820ca3e9"
 hero: "hero.jpg"
 cover: "cover.jpg"
 ---

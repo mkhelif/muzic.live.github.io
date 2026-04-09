@@ -7,13 +7,12 @@
             {{ range $.GetTerms "albums" }}{{ partial "albums/badge.html" . }}{{ end }}
             {{ range $.GetTerms "festivals" }}{{ partial "festivals/badge.html" . }}{{ end }}
         </span>
-        <small>
+        <small class="text-nowrap">
             {{ $locations := slice }}
-            {{ range $.GetTerms "locations" }}
-                <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,
-                {{ $locations = $locations | append .LinkTitle }}
+            {{ with .Params.locationId }}
+                {{ partial "locations/link.html" . }}
             {{ end }}
-            {{ partial "format/datetime.html" (dict "date" .Date) }}
+            {{ partial "format/date.html" .Date }}
         </small>
     </div>
 
