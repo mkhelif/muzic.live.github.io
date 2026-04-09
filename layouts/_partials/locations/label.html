@@ -1,12 +1,13 @@
 {{ if . }}
     {{ $locationId := . }}
     {{ range hugo.Sites }}
-        {{ range (where .Pages "Section" "locations") }}
-            {{ if eq .Params.id $locationId }}
-                {{ .LinkTitle -}}
-                {{ range .Params.locations -}}
-                    , {{ . -}}
-                {{ end }}
+        {{ range (where (where .Pages "Section" "locations") ".Params.id" $locationId) }}
+            {{ .LinkTitle -}}
+            {{- with .Params.locationId -}}
+                , {{ partial "locations/label.html" . -}}
+            {{ end }}
+            {{- range .Params.locations -}}
+                , {{ . -}}
             {{ end }}
         {{ end }}
     {{ end }}

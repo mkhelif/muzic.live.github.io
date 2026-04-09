@@ -6,7 +6,7 @@
             {{ range $.GetTerms "artists" }}{{ partial "artists/badge.html" . }}{{ end }}
         </p>
         <p>
-            <small class="ms-2">{{ partial "datetime.html" (dict "date" .Date) }}</small>
+            <small class="ms-2">{{ partial "format/datetime.html" (dict "date" .Date) }}</small>
             <small class="ms-2">{{ partial "rank.html" .Params.rank }}</small>
         </p>
     </div>

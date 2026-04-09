@@ -12,15 +12,18 @@
 
     <h4>
         <a href="{{ .album.RelPermalink }}">
-            {{ with .album.Params.artist }}
-                {{ . }} -
+            {{ with .album.Params.artists }}
+                {{ range $index, $artist := . }}
+                    {{- if (gt $index 0) }}, {{ end -}}
+                    {{ . }}
+                {{ end }} -
             {{ end }}
             {{ .album.LinkTitle }}
         </a>
     </h4>
     <div class="small text-body-tertiary">
         {{ partial "locations/label.html" .album.Params.locationId }}
-        <span class="me-2">{{ partial "datetime.html" (dict "date" .album.Date) }}</span>
+        <span class="me-2">{{ partial "format/datetime.html" (dict "date" .album.Date) }}</span>
         {{ with .album.Params.rank }}
             <span>{{ partial "rank.html" . }}</span>
         {{ end }}

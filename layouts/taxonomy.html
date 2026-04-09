@@ -13,6 +13,8 @@
         {{ range $index, $page := $paginator.Pages }}
             {{ if eq .Section "artists" }}
                 {{ partial "artists/list-entry.html" (dict "artist" $page "index" $index) }}
+            {{ else if eq .Section "albums" }}
+                {{ partial "albums/list-entry.html" (dict "album" $page "index" $index) }}
             {{ else if eq .Section "festivals" }}
                 {{ partial "festivals/list-entry.html" (dict "festival" $page "index" $index) }}
             {{ else }}

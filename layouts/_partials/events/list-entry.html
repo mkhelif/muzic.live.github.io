@@ -1,33 +1,31 @@
 {{ $padding := cond (eq .index 0) "pb-2" "py-2" }}
 <tr class="{{ cond (eq .index 0) "" "border-top" }} border-primary" style="--bs-border-opacity: 0.25;">
+    <!-- Date & time-->
     <td class="{{ $padding }} text-nowrap">
-        <span><i class="fa fa-2xs text-muted fa-clock ms-1"></i></span>
-        {{ partial "datetime.html" (dict "date" .event.Date "includeTime" true) }}
+        <p class="d-flex mb-0 pt-1 align-items-center">
+            <i class="fa fa-2xs text-muted fa-clock ms-1"></i>
+            <small class="text-white ms-2">
+                {{ partial "format/date.html" .event.Date  }}
+                <br>
+                <small><small class="text-white-50">{{ partial "format/time.html" .event.Date }}</small></small>
+            </small>
+        </p>
     </td>
 
-    <!-- Locations -->
-    <td class="{{ $padding }} text-white text-nowrap">
-        <span><i class="fa fa-xs text-muted fa-map-marker-alt ms-1"></i></span>
-        {{ partial "locations/link.html" .event.Params.locationId }}
-    </td>
-
-    <!-- Artists -->
-    <td class="{{ $padding }} text-white">
-        <span><i class="fa fa-xs text-muted fa-music ms-1"></i></span>
-        {{ range $index, $artist := .event.GetTerms "artists" }}
-            {{- $matched := false -}}
-            {{- range (where site.RegularPages "Section" "artists") -}}
-                {{- if (eq $artist.LinkTitle .LinkTitle) -}}
-                    {{- $matched = true -}}
-                    {{- if (gt $index 0) }}, {{ end -}}
-                    <a href="{{ .RelPermalink }}">{{ .LinkTitle | safeHTML }}</a>
-                {{- end -}}
-            {{- end -}}
-            {{- if not $matched -}}
+    <!-- Artists & locations -->
+    <td class="{{ $padding }} text-nowrap text-white-50">
+        <p class="mb-0">
+            <i class="fa fa-xs text-muted fa-music ms-1"></i>
+            {{ range $index, $artist := .event.GetTerms "artists" }}
                 {{- if (gt $index 0) }}, {{ end -}}
-                {{- $artist.LinkTitle -}}
-            {{- end -}}
-        {{- end }}
+                {{ partial "artists/link.html" $artist -}}
+            {{- end }}
+        </p>
+
+        <p class="mb-0">
+            <i class="fa fa-xs text-muted fa-map-marker-alt ms-1"></i>
+            <small class="opacity-50"><small>{{ partial "locations/link.html" .event.Params.locationId }}</small></small>
+        </p>
     </td>
 
     <td class="{{ $padding }} text-nowrap text-center">

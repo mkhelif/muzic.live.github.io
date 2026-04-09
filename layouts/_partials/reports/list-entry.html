@@ -11,15 +11,12 @@
     </div>
     <h4>
         <a href="{{ .report.RelPermalink }}">
-            {{ if .report.Params.artist }}
-                {{ .report.Params.artist }} -
-            {{ end }}
             {{ .report.LinkTitle }}
         </a>
     </h4>
     <div class="small text-body-tertiary">
         {{ partial "locations/label.html" .report.Params.locationId }}
-        <span class="me-2">{{ partial "datetime.html" (dict "date" .report.Date) }}</span>
+        <span class="me-2">{{ partial "format/datetime.html" (dict "date" .report.Date) }}</span>
         {{ with .report.Params.rank }}
             <span>{{ partial "rank.html" . }}</span>
         {{ end }}

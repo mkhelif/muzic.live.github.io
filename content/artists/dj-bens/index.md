@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "DJ Bens"
 cover: "cover.jpg"
 socials:

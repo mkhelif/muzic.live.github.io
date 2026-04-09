@@ -1,18 +1,20 @@
 {{ define "main" }}
-    <div class="container" data-pagefind-ignore="all">
-        <h1 class="mb-4 p-3 bg-primary text-dark">{{ .Title }}</h1>
+    {{ if eq .Section "artists" }}
+        {{ partial "artists/content.html" . }}
+    {{ else if eq .Section "locations" }}
+        {{ partial "locations/content.html" . }}
+    {{ else }}
+        <div class="container" data-pagefind-ignore="all">
+            <h1 class="mb-4 p-3 bg-primary text-dark">{{ .Title }}</h1>
 
-        {{ if eq .Section "locations" }}
-            {{ partial "locations/parent.html" . }}
-        {{ end }}
+            {{ .Content }}
 
-        {{ .Content }}
-
-        <!-- Pages -->
-        {{ $paginator := .Paginate (cond (in (slice "reports" "festivals" "locations") .Section) (where .Pages "Section" "eq" "reports").ByDate.Reverse .Pages.ByTitle) 10 }}
-        {{ range $index, $report := $paginator.Pages }}
-            {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
-        {{ end }}
-        {{ partial "pagination.html" . }}
-    </div>
+            <!-- Pages -->
+            {{ $paginator := .Paginate (cond (in (slice "reports" "festivals" "locations") .Section) (where .Pages "Section" "eq" "reports").ByDate.Reverse .Pages.ByTitle) 10 }}
+            {{ range $index, $report := $paginator.Pages }}
+                {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
+            {{ end }}
+            {{ partial "pagination.html" . }}
+        </div>
+    {{ end }}
 {{ end }}

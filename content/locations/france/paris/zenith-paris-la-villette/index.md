@@ -5,8 +5,8 @@ title: "Zenith Paris - La Villette"
 cover: "cover.jpg"
 address: ""
 coordinates:
-  latitude: 48.853495
-  longitude: 2.348391
+  latitude: 48.89420
+  longitude: 2.39323
   zoom: 17
 socials:
   facebook: ""

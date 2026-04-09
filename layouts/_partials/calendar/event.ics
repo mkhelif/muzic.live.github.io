@@ -6,5 +6,5 @@ DESCRIPTION:{{ partial "calendar/artists.ics" .event }}
 LOCATION:{{ replace (partial "calendar/location.ics" .event) "," "\\," }}
 {{ partial "calendar/alarm.ics" . }}
 {{ partial "calendar/apple.ics" .event }}
-{{ partial "calendar/outlook.ics" . }}
+{{ partialCached "calendar/outlook.ics" . }}
 END:VEVENT

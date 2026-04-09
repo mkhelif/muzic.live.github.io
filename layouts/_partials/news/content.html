@@ -13,7 +13,7 @@
                 <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,
                 {{ $locations = $locations | append .LinkTitle }}
             {{ end }}
-            {{ partial "datetime.html" (dict "date" .Date) }}
+            {{ partial "format/datetime.html" (dict "date" .Date) }}
         </small>
     </div>
 

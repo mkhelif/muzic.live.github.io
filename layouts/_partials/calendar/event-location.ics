@@ -1,0 +1,6 @@
+{{- $locationId := . -}}
+{{- range hugo.Sites -}}
+    {{- range where (where .Pages ".Section" "locations") ".Params.id" $locationId -}}
+        {{- .LinkTitle -}}
+    {{- end -}}
+{{- end -}}
