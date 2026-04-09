@@ -7,10 +7,8 @@ NAME:{{ $title }}
 REFRESH-INTERVAL;VALUE=DURATION:P3H
 CALSCALE:GREGORIAN
 {{ if eq .Section "artists" -}}
-    {{- partial "calendar/events.ics" (dict "context" . "term" "artists" "filter" .Title) -}}
-{{- else if eq .Section "festivals" -}}
-    {{- partial "calendar/events.ics" (dict "context" . "term" "festivals" "filter" .Title) -}}
+    {{- partial "artists/events.ics" . -}}
 {{- else if eq .Section "locations" -}}
-    {{- partial "calendar/events.ics" (dict "context" . "term" "locations" "filter" .Title) -}}
+    {{- partial "locations/events.ics" . -}}
 {{- end -}}
 END:VCALENDAR{{- /**/ -}}

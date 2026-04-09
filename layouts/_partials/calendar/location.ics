@@ -1,13 +1,9 @@
-{{- $locationExist := false -}}
-{{- range $index, $location := .GetTerms "locations" -}}
-    {{- range (where site.RegularPages "Section" "locations") -}}
-        {{- if (eq $location.LinkTitle .LinkTitle) -}}
-            {{- $locationExist = true -}}
-            {{- .LinkTitle | safeHTML -}}, {{ .Params.address -}}
+{{- $locationId := . -}}
+{{- range hugo.Sites -}}
+    {{- range where (where .Pages ".Section" "locations") ".Params.id" $locationId -}}
+        {{- .LinkTitle -}}
+        {{- with .Params.address -}}
+            , {{ . -}}
         {{- end -}}
-    {{- end -}}
-    {{- if not $locationExist -}}
-        {{- if gt $index 0 }}, {{ end -}}
-        {{- .LinkTitle | safeHTML -}}
     {{- end -}}
 {{- end -}}

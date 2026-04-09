@@ -1,10 +1,14 @@
 BEGIN:VEVENT
 UID:{{ hash.XxHash .event.RelPermalink }}
-{{ partial "calendar/event-date.ics" . }}
-SUMMARY:{{ partial "calendar/summary.ics" (dict "event" .event "term" .term "title" .title) }}
-DESCRIPTION:{{ partial "calendar/artists.ics" .event }}
-LOCATION:{{ replace (partial "calendar/location.ics" .event) "," "\\," }}
-{{ partial "calendar/alarm.ics" . }}
+{{ partial "calendar/event-date.ics" .event }}
+SUMMARY:{{ partial "calendar/summary.ics" . }}
+DESCRIPTION:{{ partial "calendar/event-artists.ics" .event }}
+LOCATION:{{ replace (partial "calendar/location.ics" .event.Params.locationId) "," "\\," }}
+BEGIN:VALARM
+TRIGGER:-P15D
+DESCRIPTION:{{ partial "calendar/summary.ics" . }}
+ACTION:DISPLAY
+END:VALARM
 {{ partial "calendar/apple.ics" .event }}
 {{ partialCached "calendar/outlook.ics" . }}
 END:VEVENT

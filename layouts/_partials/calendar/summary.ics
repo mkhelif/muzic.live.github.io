@@ -1,10 +1,10 @@
-{{ if eq .term "artists" -}}
-    {{ .title }} : {{- partial "calendar/event-location.ics" .event.Params.locationId }}
-{{- else if eq .term "festivals" -}}
-    {{- partial "calendar/events.ics" (dict "context" . "term" "festivals" "filter" .Title) -}}
-{{- else if eq .term "locations" -}}
-    {{ .title }} : {{ partial "calendar/artists.ics" .event }}
-{{- else if eq .term "home" -}}
-    {{ .title }} ({{ partial "calendar/event-location.ics" .event.Params.locationId }})
+{{- if eq .page.Section "artists" -}}
+    {{ .page.Title }} : {{- partial "calendar/event-location.ics" .event.Params.locationId }}
+{{- else if eq .page.Section "festivals" -}}
+    {{ .page.Title }} : {{ partial "calendar/artists.ics" .event }}
+{{- else if eq .page.Section "locations" -}}
+    {{ .page.Title }} : {{ partial "calendar/artists.ics" .event }}
+{{- else if eq .page.Section "home" -}}
+    {{ .page.Title }} ({{ partial "calendar/event-location.ics" .event.Params.locationId }})
 {{- end -}}
 

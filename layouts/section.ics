@@ -6,6 +6,7 @@ X-WR-CALNAME:{{ $title }}
 NAME:{{ $title }}
 REFRESH-INTERVAL;VALUE=DURATION:P3H
 CALSCALE:GREGORIAN
+SECTION
 {{ if eq .Section "artists" -}}
     {{- partial "calendar/events.ics" (dict "context" . "term" "artists" "filter" .Title) -}}
 {{- else if eq .Section "festivals" -}}
