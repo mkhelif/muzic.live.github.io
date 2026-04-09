@@ -1,5 +1,5 @@
 {{- if .page.IsHome -}}
-    {{ .page.Title }} : {{ partial "calendar/event-location.ics" .event.Params.locationId }}
+    {{ partial "calendar/event-artists.ics" .event.Params.artists }} ({{ partial "calendar/event-location.ics" .event.Params.locationId }})
 {{- else if eq .page.Section "artists" -}}
     {{ .page.Title }} : {{ partial "calendar/event-location.ics" .event.Params.locationId }}
 {{- else if eq .page.Section "locations" -}}

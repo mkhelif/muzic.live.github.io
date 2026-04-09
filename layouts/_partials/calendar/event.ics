@@ -13,3 +13,4 @@ END:VALARM
 {{ partialCached "calendar/apple.ics" . }}
 {{ partialCached "calendar/outlook.ics" . }}
 END:VEVENT
+{{- /**/ -}}
