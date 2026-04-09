@@ -14,6 +14,9 @@
     {{ if .Params.socials.x }}
         <a class="me-2 align-middle" href="https://x.com/{{ .Params.socials.x }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-x-twitter"></i></a>
     {{ end }}
+    {{ if .Params.socials.bluesky }}
+        <a class="me-2 align-middle" href="https://bsky.app/profile/{{ .Params.socials.bluesky }}.bsky.social" target="_blank" rel="noreferrer noopener"><i class="fab fa-bluesky"></i></a>
+    {{ end }}
     {{ if .Params.socials.threads }}
         <a class="me-2 align-middle" href="https://www.threads.com/{{ .Params.socials.threads }}/" target="_blank" rel="noreferrer noopener"><i class="fab fa-threads"></i></a>
     {{ end }}
