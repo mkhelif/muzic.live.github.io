@@ -1,0 +1,8 @@
+{{ $artists := where site.RegularPages "Section" "artists" }}
+{{ $artists = $artists.ByTitle }}
+
+{{ $paginator := .Paginate $artists 10 }}
+{{ range $index, $artist := $paginator.Pages }}
+    {{ partial "artists/list-entry.html" (dict "artist" $artist "index" $index) }}
+{{ end }}
+{{ partial "pagination.html" . }}

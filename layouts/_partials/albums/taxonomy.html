@@ -1,0 +1,8 @@
+{{ $albums := where site.RegularPages "Section" "albums" }}
+{{ $albums = $albums.ByDate.Reverse }}
+
+{{ $paginator := .Paginate $albums 10 }}
+{{ range $index, $album := $paginator.Pages }}
+    {{ partial "albums/list-entry.html" (dict "album" $album "index" $index) }}
+{{ end }}
+{{ partial "pagination.html" . }}

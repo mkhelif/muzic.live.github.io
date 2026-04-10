@@ -1,0 +1,22 @@
+<table class="table table-sm table-borderless">
+    <thead>
+        <tr>
+            <th></th>
+            <th width="100%"></th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        {{ $events := where site.RegularPages "Section" "events" }}
+        {{ $events = where $events ".Date" "ge" (now.AddDate 0 0 -3) }}
+        {{ $events = $events.ByDate }}
+
+        {{ $paginator := .Paginate $events 50 }}
+        {{ range $index, $event := $paginator.Pages }}
+            {{ partial "events/list-entry.html" (dict "event" $event "index" $index) }}
+        {{ end }}
+    </tbody>
+</table>
+
+{{ partial "pagination.html" . }}

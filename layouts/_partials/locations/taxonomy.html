@@ -1,0 +1,8 @@
+{{ $locations := where site.RegularPages "Section" "locations" }}
+{{ $locations = $locations.ByTitle }}
+
+{{ $paginator := .Paginate $locations 10 }}
+{{ range $index, $location := $paginator.Pages }}
+    {{ partial "locations/list-entry.html" (dict "location" $location "index" $index) }}
+{{ end }}
+{{ partial "pagination.html" . }}

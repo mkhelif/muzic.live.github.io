@@ -2,25 +2,16 @@
     <div class="container" data-pagefind-ignore="all">
         <h1 class="mb-4 p-3 bg-primary text-dark">{{ .Title }}</h1>
 
-        <!-- Pages -->
-        {{ $pages := where site.RegularPages "Section" .Section }}
-        {{ if (in (slice "reports" "albums" "news") .Section) }}
-            {{ $pages = $pages.ByDate.Reverse }}
-        {{ else }}
-            {{ $pages = $pages.ByTitle }}
+        {{ if eq .Section "artists" }}
+            {{ partial "artists/taxonomy.html" . }}
+        {{ else if eq .Section "albums" }}
+            {{ partial "albums/taxonomy.html" . }}
+        {{ else if eq .Section "festivals" }}
+            {{ partial "festivals/taxonomy.html" . }}
+        {{ else if eq .Section "events" }}
+            {{ partial "events/taxonomy.html" . }}
+        {{ else if eq .Section "reports" }}
+            {{ partial "reports/taxonomy.html" . }}
         {{ end }}
-        {{ $paginator := .Paginate $pages 10 }}
-        {{ range $index, $page := $paginator.Pages }}
-            {{ if eq .Section "artists" }}
-                {{ partial "artists/list-entry.html" (dict "artist" $page "index" $index) }}
-            {{ else if eq .Section "albums" }}
-                {{ partial "albums/list-entry.html" (dict "album" $page "index" $index) }}
-            {{ else if eq .Section "festivals" }}
-                {{ partial "festivals/list-entry.html" (dict "festival" $page "index" $index) }}
-            {{ else }}
-                {{ partial "reports/list-entry.html" (dict "report" $page "index" $index) }}
-            {{ end }}
-        {{ end }}
-        {{ partial "pagination.html" . }}
     </div>
 {{ end }}

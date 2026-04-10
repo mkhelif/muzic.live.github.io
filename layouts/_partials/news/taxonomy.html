@@ -1,0 +1,8 @@
+{{ $news := where site.RegularPages "Section" "news" }}
+{{ $news = $news.ByDate.reverse }}
+
+{{ $paginator := .Paginate $news 10 }}
+{{ range $index, $new := $paginator.Pages }}
+    {{ partial "news/list-entry.html" (dict "new" $new "index" $index) }}
+{{ end }}
+{{ partial "pagination.html" . }}
