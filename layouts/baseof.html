@@ -15,13 +15,13 @@
             <main class="flex-grow-1" data-pagefind-body>
                 {{ block "main" . }}{{ end }}
 
-                {{ partial "advertisements/seetickets.html" . }}
+                {{ partialCached "advertisements/seetickets.html" . }}
             </main>
             <footer class="d-print-none">
-                {{ partial "footer.html" . }}
+                {{ partialCached "footer.html" . }}
             </footer>
         </div>
 
-        {{ partial "search-results.html" }}
+        {{ partialCached "search-results.html" . }}
     </body>
 </html>

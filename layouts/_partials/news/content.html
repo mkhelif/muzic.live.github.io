@@ -17,10 +17,5 @@
     </div>
 
     {{ partial "content.html" . }}
-
-    <!-- Comments -->
-    <div data-pagefind-ignore="all">
-        <h4 class="mt-5 p-3 bg-primary text-dark">Commentaires</h4>
-        {{ partial "disqus.html" . }}
-    </div>
+    {{ partialCached "comments.html" . }}
 </div>
