@@ -2,8 +2,10 @@
 {{- range hugo.Sites -}}
     {{- range where (where .Pages ".Section" "locations") ".Params.id" $locationId -}}
         {{- .LinkTitle -}}
-        {{- with .Params.address -}}
-            , {{ . -}}
+        {{- if .Params.address -}}
+            , {{ .Params.address -}}
+        {{- else if .Params.locationId -}}
+            , {{ partial "calendar/location.ics" .Params.locationId -}}
         {{- end -}}
     {{- end -}}
 {{- end -}}
