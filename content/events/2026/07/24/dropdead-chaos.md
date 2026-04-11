@@ -1,0 +1,6 @@
+---
+date: 2026-07-24T17:00:00+02:00
+locationId: "5cd0dd6b-ea8f-4022-94bd-5ce4b1293fb5"
+artists:
+  - Dropdead Chaos
+---
