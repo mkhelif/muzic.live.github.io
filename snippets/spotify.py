@@ -10,6 +10,8 @@ import gettext
 import pycountry
 import re
 import requests
+import traceback
+import uuid
 
 # Configure authentication token
 CLIENT_TOKEN=""
@@ -48,6 +50,7 @@ for country in pycountry.countries:
 LOCATIONS = {
     'House of Blues Las Vegas ': 'House of Blues',
     'Cournon D Auvergne': 'Cournon d\'Auvergne',
+    'Paris 18': 'Paris'
 }
 
 ARTISTS = {
@@ -113,11 +116,11 @@ def get_concert(concert_uri):
     concert_details = {}
     concert_details["date"] = content['data']['concert']['startDateIsoString']
 
-    concert_details["locations"] = [
-        translate(content['data']['concert']['location']['name'].title(), LOCATIONS),
-        translate(content['data']['concert']['location']['city'].title(), LOCATIONS),
-        COUNTRIES[content['data']['concert']['location']['country']]
-    ]
+    concert_details["location"] = {
+        'country': COUNTRIES[content['data']['concert']['location']['country']],
+        'city': translate(content['data']['concert']['location']['city'].title(), LOCATIONS),
+        'name': translate(content['data']['concert']['location']['name'].title(), LOCATIONS),
+    }
     concert_details["artists"] = []
     concert_details["festival"] = content['data']['concert']['festival']
 
@@ -131,6 +134,13 @@ def get_concert(concert_uri):
 
     return concert_details
 
+def load_frontmatter(file):
+    try:
+        return frontmatter.loads(file.read_text())
+    except Exception as e:
+        print(f"Failed to load frontmatter for {file}")
+        raise e
+
 def translate(key, hash):
     if key in hash:
         return hash[key]
@@ -142,6 +152,68 @@ def format_filename(name):
            re.sub('[^a-z0-9]', '-',
               unidecode(name).lower()))
 
+def get_or_create_location_country(country):
+    country_id = None
+    directory = Path(f"./content/locations/{format_filename(country)}")
+    directory.mkdir(parents = True, exist_ok = True)
+    file = directory.joinpath("_index.md")
+
+    if file.exists():
+        country_id = load_frontmatter(file).get('id', None)
+    else:
+        country_id = uuid.uuid4()
+        file.write_text(f"""\
+---
+id: "{country_id}"
+title: "{country}"
+---
+""")
+    if country_id is None:
+        raise Exception(f"Could not create country {country}")
+    return country_id
+
+def get_or_create_location_city(country, city):
+    city_id = None
+    directory = Path(f"./content/locations/{format_filename(country)}/{format_filename(city)}")
+    directory.mkdir(parents = True, exist_ok = True)
+    file = directory.joinpath("_index.md")
+
+    if file.exists():
+        city_id = load_frontmatter(file).get('id', None)
+    else:
+        city_id = uuid.uuid4()
+        file.write_text(f"""\
+---
+id: "{city_id}"
+locationId: "{get_or_create_location_country(country)}"
+title: "{city}"
+---
+""")
+    if city_id is None:
+        raise Exception(f"Could not create city {city} - {country}")
+    return city_id
+
+def get_or_create_location(location):
+    location_id = None
+    directory = Path(f"./content/locations/{format_filename(location['country'])}/{format_filename(location['city'])}/{format_filename(location['name'])}")
+    directory.mkdir(parents = True, exist_ok = True)
+    file = directory.joinpath("index.md")
+
+    if file.exists():
+        location_id = load_frontmatter(file).get('id', None)
+    else:
+        location_id = uuid.uuid4()
+        file.write_text(f"""\
+---
+id: "{location_id}"
+locationId: "{get_or_create_location_city(location['country'], location['city'])}"
+title: "{location['name']}"
+---
+""")
+    if location_id is None:
+        raise Exception(f"Could not create location {location['country']} - {location['city']} - {location['name']}")
+    return location_id
+
 #
 # The script will go through all artists declared
 #
@@ -152,7 +224,7 @@ if __name__ == '__main__':
         if not file.exists():
             continue
 
-        data = frontmatter.loads(file.read_text())
+        data = load_frontmatter(file)
         name = data.get('title', None)
         socials = data.get('socials', None)
         spotifyId = socials.get('spotify', None) if socials is not None else None
@@ -166,26 +238,32 @@ if __name__ == '__main__':
                 date = datetime.fromisoformat(concert['date'])
                 date_format = f"{date.year}/{date.month:02d}/{date.day:02d}"
                 artists_list = "\n  - ".join(concert['artists'])
-                locations_list = "\n  - ".join(concert['locations'])
 
-                if concert["festival"] is True:
-                    print(f"  - (festival) {date_format}: {', '.join(concert['artists'])} ({', '.join(concert['locations'])})")
-                    continue
-
+                # Create directory structure
                 directory = Path(f"./content/events/{date_format}")
                 directory.mkdir(parents = True, exist_ok = True)
 
+                # Compute event filename
                 filename = "-".join(format_filename(artist) for artist in concert['artists']) + ".md"
+                if concert['festival'] is True:
+                    print(f"  - (festival) {date_format}: {', '.join(concert['artists'])} ({', '.join(concert['location'][prop] for prop in ['country', 'city', 'name'])})")
+                    continue
+
+                # Compute location ID
+                location_id = get_or_create_location(concert['location'])
+                if location_id is None:
+                    raise Exception(f"Could not find or create location: {concert['location']}")
+
+                # Create event file
                 event = Path(f"./content/events/{date_format}/{filename}")
                 if not event.exists():
                   event.write_text(f"""\
 ---
 date: {date.isoformat()}
+locationId: "{location_id}"
 artists:
   - {artists_list}
-locations:
-  - {locations_list}
 ---
 """, encoding = "UTF-8")
-        except Exception as e:
-            print(e)
+        except Exception:
+            print(traceback.format_exc())
