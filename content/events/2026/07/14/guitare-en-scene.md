@@ -7,6 +7,6 @@ artists:
   - Florian Desbaillet
   - Taj Farrant
   - Gregory Porter
-  - Ben Harper & The Innocent Criminals
+  - Ben Harper
   - Sarah Brown
 ---
