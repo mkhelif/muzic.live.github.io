@@ -9,4 +9,6 @@ artists:
   - Gregory Porter
   - Ben Harper
   - Sarah Brown
+tickets:
+  web: "https://www.guitare-en-scene.com/billetterie"
 ---

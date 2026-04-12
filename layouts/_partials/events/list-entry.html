@@ -33,10 +33,9 @@
         </p>
     </td>
 
-    <td class="{{ $padding }} text-nowrap text-center align-middle">
-        {{ if .event.Params.tickets }}
-            <a target="_blank" rel="noopener norefferer" class="{{ cond .Params.full "text-warning" (cond .event.Params.cancelled "text-danger text-decoration-line-through" "text-primary") }}"
-               href="{{- if .event.Params.tickets.seetickets }}{{ trim (partial "tickets/seetickets.html" .event.Params.tickets.seetickets) "\n\r " -}}{{ end -}}">
+    <td class="{{ $padding }} text-nowrap text-center align-middle {{ cond .Params.full "text-warning" (cond .event.Params.cancelled "text-danger text-decoration-line-through" "text-primary") }}">
+        {{ with .event.Params.tickets }}
+            <a target="_blank" rel="noopener norefferer" href="{{ partial "events/tickets.html" . }}">
                 <i class="fa fa-cart-shopping me-1"></i>
                 Tickets
             </a>

@@ -7,4 +7,6 @@ artists:
   - This is Michael
   - Jennifer Batten
   - Franck Carducci
+tickets:
+  web: "https://www.guitare-en-scene.com/billetterie"
 ---

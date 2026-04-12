@@ -8,4 +8,6 @@ artists:
   - Fantastic Negrito
   - Pixies
   - Manu Lanvin
+tickets:
+  web: "https://www.guitare-en-scene.com/billetterie"
 ---

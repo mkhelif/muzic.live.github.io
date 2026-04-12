@@ -7,4 +7,6 @@ artists:
   - Steel Panther
   - Airbourne
   - The Inspector Cluzo
+tickets:
+  web: "https://www.guitare-en-scene.com/billetterie"
 ---

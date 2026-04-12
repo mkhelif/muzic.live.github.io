@@ -8,4 +8,6 @@ artists:
   - John Butler
   - Kool & The Gang
   - Robben Ford
+tickets:
+  web: "https://www.guitare-en-scene.com/billetterie"
 ---
