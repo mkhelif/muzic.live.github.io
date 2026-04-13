@@ -3,6 +3,7 @@ title = 'Muzic.Live'
 baseURL = '/'
 languageCode = 'fr-fr'
 defaultContentLanguage = 'fr'
+removePathAccents = true
 
 # Categories
 [taxonomies]

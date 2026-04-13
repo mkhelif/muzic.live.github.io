@@ -96,7 +96,7 @@ artists:
   - Maid Of Ace
   - Karen Dió
   - Kadavar
-  - Uncle Acid And The Deadbeats
+  - Uncle Acid & The Deadbeats
   - The Inspector Cluzo
   - Elder
   - Truckfighters
