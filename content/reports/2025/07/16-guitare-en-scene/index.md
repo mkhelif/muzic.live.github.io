@@ -12,6 +12,7 @@ artists:
   - Jango Janice
   - Eagle-Eye Cherry
   - Simple Minds
+  - Sarah Brown
   - Dynamite Shakers
 ---
 
