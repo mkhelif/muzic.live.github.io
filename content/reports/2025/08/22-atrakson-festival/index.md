@@ -7,14 +7,14 @@ cover: "pictures/cotton-blood/02.jpg"
 author: "mkhelif"
 rank: 9
 artists:
-  - Follo
-  - The Harbingerz
-  - Lou Beurier
-  - Mad in Ska
-  - Cotton Blood
-  - Marcel et son Orchestre
-  - Greasy Lumberjacks
-  - AutoThune
+  - "2aa8de7e-8131-4431-9c04-4e831d7608a0"
+  - "8abf73f6-1b8c-4962-b223-54586127fb12"
+  - "66c7e393-9f42-4d9a-817c-d198b837be21"
+  - "eb7b5954-56ad-434d-b6d7-1bec4bf7483b"
+  - "353d5a0e-3807-4dc0-8db6-1c294358737a"
+  - "abf25b09-9daf-49b4-8943-b1390f8abecf"
+  - "d59cdebc-e03b-4c0a-b937-6a1068d16d08"
+  - "9366b889-d0c8-4b44-b388-6519b8ca600b"
 ---
 
 Cette première journée de l'Atrack'Son Festival dessine une cartographie ambitieuse des musiques actuelles : de

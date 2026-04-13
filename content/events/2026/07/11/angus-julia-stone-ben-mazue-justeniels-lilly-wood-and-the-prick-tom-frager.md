@@ -2,9 +2,9 @@
 date: 2026-07-11T18:00:00+02:00
 locationId: "ec86f902-a7da-4109-af0e-e7473c89c72d"
 artists:
-  - Angus & Julia Stone
-  - Ben Mazué
-  - JusteNiels
-  - Lilly Wood and The Prick
-  - Tom Frager
+  - "6926b512-4a18-4f3e-8441-56de06367c9f"
+  - "7cb89e4a-738d-4260-b524-64b22d408743"
+  - "7a1dd7a6-2941-4876-94e3-10471a9e5df8"
+  - "261a8c91-cc6a-48be-a1bb-578aba41b3a0"
+  - "9b856a61-61c1-4b7a-a0db-428cdf715a06"
 ---

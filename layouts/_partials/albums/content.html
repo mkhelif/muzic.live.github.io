@@ -3,7 +3,7 @@
 <div class="container">
     <div class="d-flex">
         <p class="flex-grow-1">
-            {{ range $.GetTerms "artists" }}{{ partial "artists/badge.html" . }}{{ end }}
+            {{ range $.Params.artists }}{{ partial "artists/badge.html" . }}{{ end }}
         </p>
         <p>
             <small class="ms-2">{{ partial "format/datetime.html" (dict "date" .Date) }}</small>

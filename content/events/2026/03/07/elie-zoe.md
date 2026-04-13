@@ -2,5 +2,5 @@
 date: 2026-03-07T19:00:00+01:00
 locationId: "6c630007-2ac1-4e4e-b210-6f20ad966892"
 artists:
-  - Elie Zoé
+  - "bb0e9c76-6f88-42f7-9683-39f0a5d52a8a"
 ---

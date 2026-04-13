@@ -7,8 +7,8 @@ cover: "pictures/grandson/.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Pinkshift
-  - Grandson
+  - "d3a047d5-7760-484d-a9ac-5738da7a55dc"
+  - "68618401-47a8-439b-8e62-ba14b080ff6a"
 todo:
   - Add pictures for Pinkshift
   - Add pictures for Grandson

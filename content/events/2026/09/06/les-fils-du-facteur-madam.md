@@ -2,6 +2,6 @@
 date: 2026-09-06T10:00:00+02:00
 locationId: "29afacbb-ac35-4b32-a50a-45711bfeefc8"
 artists:
-  - Les Fils du Facteur
-  - MADAM
+  - "780a9a15-0bb5-47e6-9c99-c263cc933395"
+  - "bcd28ca5-451c-4701-a968-48086d087d28"
 ---

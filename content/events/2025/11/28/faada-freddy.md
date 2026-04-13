@@ -2,5 +2,5 @@
 date: 2025-11-28T20:30:00+01:00
 locationId: "199e5a54-2444-4575-98f7-03fd13442874"
 artists:
-  - Faada Freddy
+  - "3359f956-a55b-4b78-bf3e-a7c4d391ef9a"
 ---

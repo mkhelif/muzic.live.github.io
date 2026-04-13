@@ -2,6 +2,6 @@
 date: 2026-06-26T19:30:00-07:00
 locationId: "5e80c45d-e45e-4846-9bc3-ae0975c5d54a"
 artists:
-  - Hearty Har
-  - John Fogerty
+  - "3aae1358-fd46-475d-8c41-3dc0a6269cc9"
+  - "c0049171-e2f8-4956-b28a-afd8827857d6"
 ---

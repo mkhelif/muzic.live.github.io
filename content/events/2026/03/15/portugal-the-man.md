@@ -2,5 +2,5 @@
 date: 2026-03-15T19:00:00+01:00
 locationId: "696b58bd-1f56-409e-a801-57095b745f93"
 artists:
-  - Portugal. The Man
+  - "447f0a27-2b10-4c9c-b0f2-f9e6d7c8ee90"
 ---

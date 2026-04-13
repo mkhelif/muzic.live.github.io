@@ -2,6 +2,6 @@
 date: 2026-12-09T19:00:00+00:00
 locationId: "564dc148-0588-4d95-ba28-0b77f8a3a187"
 artists:
-  - Cassia
-  - Portugal. The Man
+  - "463865a5-3033-4f93-880b-b59d5a50264e"
+  - "447f0a27-2b10-4c9c-b0f2-f9e6d7c8ee90"
 ---

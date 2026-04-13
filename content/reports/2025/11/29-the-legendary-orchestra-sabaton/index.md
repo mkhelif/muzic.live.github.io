@@ -6,8 +6,8 @@ cover: "pictures/sabaton/04.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - The Legendary Orchestra
-  - Sabaton
+  - "2e53d4c9-7c54-429e-b174-a580661cf258"
+  - "477cfe7f-0349-4843-ae01-f8e7000dd261"
 ---
 
 En annonçant leur « Legendary Tour 2025 », Sabaton promettait de faire quelque chose qu'ils n'avaient jamais fait

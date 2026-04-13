@@ -7,8 +7,8 @@ cover: "pictures/jeff-tweedy/09.jpg"
 author: "mkhelif"
 rank: 8
 artists:
-  - Macie Stewart
-  - Jeff Tweedy
+  - "aab89568-93ec-4fab-add1-392ff5e6edec"
+  - "416b5836-ca39-4a81-972e-a9a2130b6e02"
 todo:
   - Add pictures for Macie Stewart
   - Add pictures for Jeff Tweedy

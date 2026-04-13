@@ -2,5 +2,5 @@
 date: 2025-12-18T20:30:00+01:00
 locationId: "13d022c3-e59d-404a-b555-1858119d44c7"
 artists:
-  - Murray Head
+  - "c26eedfe-d090-4790-8010-8cd8f6332d75"
 ---

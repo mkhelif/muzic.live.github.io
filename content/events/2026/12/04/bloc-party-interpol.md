@@ -2,6 +2,6 @@
 date: 2026-12-04T18:00:00+00:00
 locationId: "2ea40534-5312-475e-b985-9d34cb058895"
 artists:
-  - Bloc Party
-  - Interpol
+  - "efc4b136-61e7-40f2-8bcd-27240ab1c9ec"
+  - "04fdce89-15a5-4f41-a224-25e17cbdc442"
 ---

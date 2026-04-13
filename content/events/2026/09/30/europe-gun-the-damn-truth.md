@@ -2,7 +2,7 @@
 date: 2026-09-30T18:00:00+01:00
 locationId: "34234d3c-89a4-4165-951d-029806a32618"
 artists:
-  - Europe
-  - Gun
-  - The Damn Truth
+  - "76e7d907-1601-4a5a-9a9a-c8cf678a03f6"
+  - "972d4a84-e563-4fb3-8862-f29ff717502a"
+  - "f1079e99-1678-40dc-b965-13e7e789d059"
 ---

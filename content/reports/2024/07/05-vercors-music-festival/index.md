@@ -7,10 +7,10 @@ cover: "pictures/h-burns/01.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Cléa Vincent
-  - H-Burns
-  - Pambelé
-  - Les Wampas
+  - "ab264918-b7a4-488a-836e-93a7c61cf157"
+  - "58767d5c-701c-4005-8418-77d62b69c7fe"
+  - "3e64b6ad-426d-4101-b382-a89d99fa8eea"
+  - "65654368-fbef-452d-867e-092e42191146"
 ---
 
 Le Vercors Music Festival a célébré sa dixième édition avec une première soirée riche en émotions et en découvertes

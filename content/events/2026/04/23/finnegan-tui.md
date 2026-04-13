@@ -2,5 +2,5 @@
 date: 2026-04-23T19:00:00+02:00
 locationId: "9a3701c3-f041-42b2-a5f9-9698de2d4758"
 artists:
-  - Finnegan Tui
+  - "22ba3766-86b2-4bc7-a9e4-6508e1b1ee15"
 ---

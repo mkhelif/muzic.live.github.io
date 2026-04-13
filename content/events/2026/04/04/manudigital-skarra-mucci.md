@@ -2,6 +2,6 @@
 date: 2026-04-04T19:00:00+02:00
 locationId: "402c6d01-307a-4247-bf4b-160b19659a2d"
 artists:
-  - Manudigital
-  - Skarra Mucci
+  - "51436830-d36e-461d-85f1-b1145fec0cf7"
+  - "28a55e9f-db8d-4b86-b110-7178bad47a92"
 ---

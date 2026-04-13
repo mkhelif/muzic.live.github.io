@@ -6,9 +6,9 @@ cover: "pictures/saya-gray/10.jpg"
 author: "mkhelif"
 rank: 9
 artists:
-  - Ace G
-  - John Mavro
-  - Saya Gray
+  - "ef459bf4-7895-4b6b-9b6b-cbbd5263a2f8"
+  - "53407288-5d0f-47f9-9eab-5849f33cdc61"
+  - "35074d96-f001-461c-8c28-60eaa0abacc5"
 ---
 
 La Canadienne débarque aux Docks avec son premier album SAYA, fruit d'un voyage solitaire au Japon, pour offrir une

@@ -2,5 +2,5 @@
 date: 2025-11-18T20:30:00+01:00
 locationId: "b09bce1a-25b9-4583-88a3-d2f0a145e293"
 artists:
-  - Sheila
+  - "208bb2a8-7d65-4c91-9286-55b4627682d4"
 ---

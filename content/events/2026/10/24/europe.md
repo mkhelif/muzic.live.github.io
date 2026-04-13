@@ -2,5 +2,5 @@
 date: 2026-10-24T20:00:00+02:00
 locationId: "768355bb-6f50-4bd2-845c-0f3e75a7135e"
 artists:
-  - Europe
+  - "76e7d907-1601-4a5a-9a9a-c8cf678a03f6"
 ---

@@ -2,8 +2,8 @@
 date: 2026-03-07T17:00:00+00:00
 locationId: "bbe8eb14-142b-41d3-a9cd-4a21a0d79d66"
 artists:
-  - HammerFall
-  - Hammerfall
-  - Powerwolf
-  - Wind Rose
+  - "b6e818dc-da86-4549-9431-761403280a64"
+  - "b6e818dc-da86-4549-9431-761403280a64"
+  - "844af41a-c503-4748-9c8e-8f09de6065c2"
+  - "42f9703d-d1f3-44fa-a1d4-0b65ce538f0f"
 ---

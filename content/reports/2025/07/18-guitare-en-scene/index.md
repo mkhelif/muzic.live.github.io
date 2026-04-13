@@ -7,10 +7,10 @@ cover: "pictures/dream-theater/05.jpg"
 author: "mkhelif"
 rank: 9
 artists:
-  - Saults
-  - Dream Theater
-  - SatchVai Band
-  - Matteo Mancuso
+  - "e8376acb-4569-451b-a1a4-0bc281581b33"
+  - "d224b882-ac24-47f6-9adb-80e8dedc4ee9"
+  - "eba52f68-86ef-4673-ab48-9075d93d9704"
+  - "ce405914-4efe-4a7f-9f81-f4d1da70854b"
 ---
 
 Le troisième jour du festival Guitare en Scène a offert une plongée dans l'excellence instrumentale, mêlant révélation

@@ -6,8 +6,8 @@ cover: "pictures/lephar/02.jpg"
 author: "mkhelif"
 rank: 8
 artists:
-  - LePhar
-  - ASH
+  - "e2a3c329-a42b-4b8c-92a8-972320505b24"
+  - "5cdb578f-ea35-4222-b847-77aab37612dc"
 ---
 
 Une ambiance électrisante a envahi Les Docks ce vendredi 26 juillet 2024, avec la présence de deux artistes aux univers

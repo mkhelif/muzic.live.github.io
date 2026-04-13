@@ -7,10 +7,10 @@ cover: "pictures/bloc-party/09.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Crazy Jess
-  - Menades
-  - Kid Kapichi
-  - Bloc Party
+  - "3686979a-41e5-4601-bd38-55d4df788973"
+  - "e7ae033b-46c3-473a-99b2-e1209f7e97a9"
+  - "3ff8bd16-2687-4ea0-895d-da89855e8eb9"
+  - "efc4b136-61e7-40f2-8bcd-27240ab1c9ec"
 ---
 
 La deuxième soirée du festival Musiques en Stock a confirmé la diversité et l’audace de sa programmation, mêlant énergie

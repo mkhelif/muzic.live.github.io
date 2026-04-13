@@ -2,6 +2,6 @@
 date: 2026-05-09T19:00:00-05:00
 locationId: "7e9205ad-74e0-4a40-948a-842b116e2881"
 artists:
-  - Night Talks
-  - Saults
+  - "15169eb8-dccf-44f7-9232-2ba5cfc70194"
+  - "e8376acb-4569-451b-a1a4-0bc281581b33"
 ---

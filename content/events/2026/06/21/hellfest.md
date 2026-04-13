@@ -3,29 +3,29 @@ date: 2026-06-21 12:00:00+02:00
 festivalId: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
 locationId: "a96150fd-cd15-4d68-8c73-31fff4f3ae29"
 artists:
-  - The Offspring
-  - The Hives
-  - Rise Against
-  - Pennywise
-  - The Ataris
-  - Bad Omens
-  - Architects
-  - Three Days Grace
-  - Black Veil Brides
-  - The Adicts
-  - Agnostic Front
-  - Circle Jerks
-  - Buzzcocks
-  - Drain
-  - Down
-  - Acid Bath
-  - Corrosion Of Conformity
-  - Eyehategod
-  - Napalm Death
-  - Possessed
-  - Forbidden
-  - Six Feet Under
-  - Mayhem
-  - Marduk
-  - Wolves In The Throne Room
+  - "7cb9544a-baac-4082-a8ca-cc74d6c50a7f"
+  - "395c754f-7add-4513-b8be-45af12fd50d4"
+  - "9adaf544-4e2d-4f44-8bc7-b09e7b002ba8"
+  - "2662ada3-49a9-4cba-b414-b4e6e19457d0"
+  - "1703bef2-6377-4b8d-8bf9-9037589c3c13"
+  - "ee8b695f-b273-4d57-ae7e-7d379d7a8d65"
+  - "11743457-87dc-4615-a083-2c34b37eeb40"
+  - "0c37f31b-10ff-44e8-9205-f7d5ff9de427"
+  - "516cd396-e51f-43da-892a-fdaf1f19cb60"
+  - "620c14d7-0ef9-4b38-903e-31ed44a5d1a2"
+  - "c3110d6a-e930-404c-9e90-a37c94c4caae"
+  - "0069eeb1-0338-42ee-8e85-8fff0a0d4682"
+  - "380cff8a-f5dc-4c40-ae9b-98fe14747570"
+  - "84616bda-e3f4-4e47-a62d-22a0919aec3e"
+  - "fa563e77-1410-425c-b02c-9b9afd32ab97"
+  - "322f1a0e-ec1b-4afe-bb11-3a64ad721e51"
+  - "f1461356-818c-4271-b8fc-a096006ef18b"
+  - "3e723e50-004a-4f9e-bbda-a9f0823cc40b"
+  - "c662f028-39f3-4232-a33a-e6cbc9e19b9c"
+  - "d0fae171-9ee1-4735-a681-403c6381e484"
+  - "976133bf-5aae-49bd-87e3-739bbeed6102"
+  - "306a1e13-e3eb-4a79-8792-7a8accf0a742"
+  - "7f5dd07e-1ad9-406c-aa19-a4c854294432"
+  - "9cfb2adb-9d09-475e-a325-37fa1473168e"
+  - "ab5bf7bd-ed45-43a7-9a87-0466fd20ddb7"
 ---

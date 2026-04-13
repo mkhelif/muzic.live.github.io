@@ -7,10 +7,10 @@ cover: "pictures/santana/03.jpg"
 author: "mkhelif"
 rank: 9
 artists:
-  - Younger Spirit
-  - Nik West
-  - Santana
-  - Orianthi
+  - "92c26753-b7cc-4a97-8b19-016ecce37a41"
+  - "d01e187a-8065-4b26-b7c6-b48859f35eaf"
+  - "8a56959b-021a-4dce-b9c0-457ecaaa0ec7"
+  - "851a0e6f-2991-412b-90eb-d055a7f87d21"
 ---
 
 Le dernier jour du festival Guitare en Scène a offert une nuit magique où se sont enchaînées révélation blues, funk

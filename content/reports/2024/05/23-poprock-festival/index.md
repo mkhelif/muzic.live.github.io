@@ -7,10 +7,10 @@ cover: "pictures/dropdead-chaos/01.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Smokeheads
-  - The Brains
-  - Dropdead Chaos
-  - Skellige
+  - "b2891304-d1ef-496a-b07c-461104efd4a8"
+  - "38c99a5e-6c1e-4a7e-b9cf-7aa4864e9cc2"
+  - "2b16462f-27f8-46b9-9db6-ab08c8872b9f"
+  - "242891dd-72c8-49eb-b21a-acb0ac782f37"
 ---
 
 La première soirée du Poprock Festival a été une véritable déflagration musicale, dans un cadre buccolique au milieu des

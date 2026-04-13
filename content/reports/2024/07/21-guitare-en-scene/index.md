@@ -7,10 +7,10 @@ cover: "pictures/nile-rodgers/09.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Toby Lee
-  - Dave Stewart
-  - Marcus Miller
-  - Nile Rodgers
+  - "155c93a8-0b66-44f1-9322-88ca9e52a44d"
+  - "79a6537c-21d8-4626-997f-726564b38dc6"
+  - "f2dc2b4c-634c-49f2-94f7-ec73a12caae7"
+  - "5a2fc0d2-bd3b-4fca-bc29-ae627149fcec"
 ---
 
 La dernière journée du festival Guitare en Scène propose une programmation de haut niveau et sonne déjà comme une

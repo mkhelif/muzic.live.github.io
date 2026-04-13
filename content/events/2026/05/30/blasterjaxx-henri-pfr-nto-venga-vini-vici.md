@@ -2,9 +2,9 @@
 date: 2026-05-30T16:00:00+02:00
 locationId: "280f1757-97b3-4437-aa9b-08761e6e47f5"
 artists:
-  - Blasterjaxx
-  - Henri PFR
-  - NTO
-  - VENGA
-  - Vini Vici
+  - "fe47932b-4347-45a0-b608-6db188477042"
+  - "9d0b60d1-6bf0-4d16-b364-0ffef0301c47"
+  - "afbc6847-24ea-4381-a27f-81e9911cf61a"
+  - "9d27e97d-e2e9-438f-8677-8cf1255eb412"
+  - "50b287ee-4467-4cf6-ac6a-5f6fca052889"
 ---

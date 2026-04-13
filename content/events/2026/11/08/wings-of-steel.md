@@ -2,5 +2,5 @@
 date: 2026-11-08T19:00:00-06:00
 locationId: "a99393fd-888e-4894-930e-54c4e3f21fff"
 artists:
-  - Wings of Steel
+  - "075a2e4e-4568-4662-b71e-2088706b76d7"
 ---

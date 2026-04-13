@@ -6,8 +6,8 @@ cover: "pictures/saian-supa-celebration/04.jpg"
 author: "mkhelif"
 rank: 7
 artists:
-  - Doom Spirit
-  - Saïan Supa Celebration
+  - "f90cfa12-1f75-4e93-9231-2bce24c00b63"
+  - "c8a4416f-015e-4a8f-a82e-f874de431e2c"
 ---
 
 La salle des Docks de Lausanne affichait complet ce soir pour accueillir un événement particulier : l'avant-dernière

@@ -7,10 +7,10 @@ cover: "pictures/storm-orchestra/05.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - The Clive
-  - Storm Orchestra
-  - Charlie Winston
-  - Tendinista
+  - "80bac427-c5d0-44f0-af5f-05c0618bb7b9"
+  - "d7a3b9ed-e3df-4f4a-8e50-f58672118f64"
+  - "05d01105-609d-4634-bea7-d0209808a121"
+  - "4aa72a79-5f0b-4057-a515-16b3d7861e05"
 ---
 
 C’est sous un ciel capricieux que s’ouvre la deuxième soirée du Poprock Festival.

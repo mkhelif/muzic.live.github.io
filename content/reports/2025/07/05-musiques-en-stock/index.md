@@ -7,10 +7,10 @@ cover: "pictures/franz-ferdinand/08.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Nótt
-  - Soft Loft
-  - The Royston Club
-  - Franz Ferdinand
+  - "61253ee8-0a18-4357-9fdd-59fe6a6962df"
+  - "18e1b882-d0e1-4d33-a181-26b6db17625d"
+  - "b4d4e7c2-db8c-4db7-b9f8-664441a33cb8"
+  - "1388e767-c9b1-40fe-84ca-e644dc2463f4"
 ---
 
 Le dernier jour du festival Musiques en Stock à Scionzier a offert une traversée musicale allant de l'intimité folk aux

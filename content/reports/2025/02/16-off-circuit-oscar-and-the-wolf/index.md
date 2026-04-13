@@ -6,8 +6,8 @@ cover: "pictures/oscar-and-the-wolf/07.jpg"
 author: "mkhelif"
 rank: 8
 artists:
-  - off:circuit
-  - Oscar and the Wolf
+  - "722c278e-dac0-4805-9ad6-9b65c800dc8d"
+  - "84423f84-1b3f-4269-9d0b-212edc08fb53"
 ---
 
 Les Docks de Lausanne ont vibré sous les assauts sonores de deux artistes belges aux univers diamétralement opposés mais

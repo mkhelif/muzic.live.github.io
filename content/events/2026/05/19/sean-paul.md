@@ -2,5 +2,5 @@
 date: 2026-05-19T20:00:00+02:00
 locationId: "5456f96c-ea33-4442-9382-6bd8a9cac4b3"
 artists:
-  - Sean Paul
+  - "f98dd26e-240a-4a42-9640-70007ff7b1f0"
 ---

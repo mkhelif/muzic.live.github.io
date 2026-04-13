@@ -7,10 +7,10 @@ cover: "pictures/stuck-in-the-sound/01.jpg"
 author: "mkhelif"
 rank: 9
 artists:
-  - Swab
-  - Nerlov
-  - Fabulous Sheep
-  - Stuck in the Sound
+  - "b802fa5b-c8ac-4198-84b6-cafae9e15412"
+  - "57274040-61f1-4ede-93a2-e0c70d4cd8db"
+  - "eeb3f6e7-78ec-4809-8467-139019e86b4f"
+  - "eee02509-12fa-4047-8060-ca9ce5a56291"
 ---
 
 Cette seconde soirée du Poprock Festival orchestre une exploration des mutations contemporaines de la scène

@@ -7,8 +7,8 @@ cover: "pictures/last-train/01.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Eckhart
-  - Last Train
+  - "c0e144d7-a92d-4dfb-bf1a-68f4104e1651"
+  - "badb53d0-a3d1-4a37-81ca-c0c97653cfa4"
 ---
 
 Ce soir, Antigel avait choisi de secouer les murs de l'Alhambra. Et le moins que l'on puisse dire, c'est que le contrat

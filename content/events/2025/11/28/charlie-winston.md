@@ -2,5 +2,5 @@
 date: 2025-11-28T20:00:00+01:00
 locationId: "8f3990ec-d01e-43c0-a9e2-602f89b7231f"
 artists:
-  - Charlie Winston
+  - "05d01105-609d-4634-bea7-d0209808a121"
 ---

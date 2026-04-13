@@ -2,7 +2,7 @@
 date: 2026-09-12T17:30:00+10:00
 locationId: "f375321a-8b02-463f-9a41-8a61409ed599"
 artists:
-  - Electric Callboy
-  - Ice Nine Kills
-  - coldrain
+  - "74dd96c3-2ca5-4548-b0b0-6d9718ecb76a"
+  - "e32a183f-ccf7-479e-bd87-283f8b704500"
+  - "732431c8-d60d-45b0-b033-c04fc828f83a"
 ---

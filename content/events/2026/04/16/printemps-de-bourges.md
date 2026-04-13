@@ -3,9 +3,9 @@ date: 2026-04-16 19:00:00+02:00
 festivalId: "2342e13f-3297-43a6-95b2-a85178908cc1"
 locationId: "821659a4-284f-43d6-a70d-9432eade8d03"
 artists:
-  - Charlotte Cardin
-  - Helena
-  - Ofenbach
-  - Superbus
-  - Suzane
+  - "51669b3b-b74c-4c57-8a31-a59dc1fccae2"
+  - "75f1e8eb-9dcc-46d1-80f4-fb8f845c9f0a"
+  - "4b9cced1-f9cc-479f-9f37-1a542ab7b0bf"
+  - "a1c26486-0451-4806-af8d-50386d2d9a60"
+  - "e31f0522-4825-4f7c-a958-1378af3d6883"
 ---

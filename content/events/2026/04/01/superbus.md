@@ -2,5 +2,5 @@
 date: 2026-04-01T20:00:00+02:00
 locationId: "b39f6a17-e72b-4415-8d0a-cd297c321298"
 artists:
-  - Superbus
+  - "a1c26486-0451-4806-af8d-50386d2d9a60"
 ---

@@ -7,11 +7,11 @@ cover: "pictures/rival-sons/12.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Seven Ages
-  - Larkin Poe
-  - Chris Isaak
-  - Rival Sons
-  - Ko Ko Mo
+  - "973f77a6-6edf-4aef-9526-0b8811f9de3a"
+  - "cc301983-a8ee-4bde-9063-b2e99eb3017f"
+  - "19fd49d3-dde3-4528-8082-ec4e77ac46b0"
+  - "a9ce6260-715d-4642-b21f-d35e62a8bf4a"
+  - "e2bf5aea-cc16-4370-ba19-db3a6c15746f"
 ---
 
 La deuxième journée du festival Guitare en Scène a continué sur la lancée explosive de la veille, offrant une palette

@@ -7,10 +7,10 @@ cover: "pictures/broken-back/01.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Da Cruz
-  - Da Break
-  - Broken Back
-  - My Beautiful Disorders
+  - "96b1dc30-db5c-4a66-b4af-09d0132f0329"
+  - "f3af646c-5e12-41ec-a95c-203bb8d4188e"
+  - "9a68812d-53e4-4446-bff6-20eb0938f030"
+  - "ceeb7e51-ddaa-4d6f-a151-dfa141f84e18"
 ---
 
 {{< carousel pictures="pictures/the-square" alt="The Square" author="mkhelif.photo" >}}

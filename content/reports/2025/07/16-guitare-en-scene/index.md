@@ -7,12 +7,12 @@ cover: "pictures/eagle-eye-cherry/02.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Rosaly
-  - Jango Janice
-  - Eagle-Eye Cherry
-  - Simple Minds
-  - Sarah Brown
-  - Dynamite Shakers
+  - "64bc1b8d-8c06-40ad-bf81-12d7f8475d67"
+  - "7b03caeb-1f0f-4ffc-8803-bd406e51bbbd"
+  - "4a8092a2-dfe1-463e-b0b8-3070d6b6d2db"
+  - "520f6c28-131e-45ba-9661-37264678b9cf"
+  - "7b28b9f1-3d6a-41ed-9801-4a78530f9e23"
+  - "8bf3e9b5-d5f6-4e78-ac81-9458f19ee376"
 ---
 
 Le festival Guitare en Scène a ouvert sa 15ème édition avec une programmation éclectique allant du rock progressif aux

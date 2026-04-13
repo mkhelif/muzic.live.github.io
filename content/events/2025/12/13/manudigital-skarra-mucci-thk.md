@@ -2,7 +2,7 @@
 date: 2025-12-13T19:30:00+01:00
 locationId: "fc8521f3-5ccd-4681-aa55-92e460df4a89"
 artists:
-  - Manudigital
-  - Skarra Mucci
-  - THK
+  - "51436830-d36e-461d-85f1-b1145fec0cf7"
+  - "28a55e9f-db8d-4b86-b110-7178bad47a92"
+  - "7f30ae6a-f609-4488-8c3c-4a81401b022f"
 ---

@@ -3,7 +3,7 @@
 <div class="container">
     <div class="d-flex flex-row justify-content-between mb-5">
         <span>
-            {{ range $.GetTerms "artists" }}{{ partial "artists/badge.html" . }}{{ end }}
+            {{ range $.Params.artists }}{{ partial "artists/badge.html" . }}{{ end }}
             {{ range $.GetTerms "albums" }}{{ partial "albums/badge.html" . }}{{ end }}
             {{ with $.Params.festivalId }}{{ partial "festivals/badge.html" . }}{{ end }}
         </span>

@@ -7,10 +7,10 @@ cover: "pictures/dream-theater/02.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Wings of Steel
-  - Vanden Plas
-  - Europe
-  - Dream Theater
+  - "075a2e4e-4568-4662-b71e-2088706b76d7"
+  - "e62d8440-4b62-47b4-bf7f-01b645c9bfbd"
+  - "76e7d907-1601-4a5a-9a9a-c8cf678a03f6"
+  - "d224b882-ac24-47f6-9adb-80e8dedc4ee9"
 ---
 
 La deuxième soirée du Heavy Weekend au Zénith Open Air de Nancy a offert une fascinante plongée dans les arcanes du

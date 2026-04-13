@@ -7,13 +7,13 @@ cover: "pictures/asian-dub-foundation/03.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Fat Jeff
-  - Ko Ko Mo
-  - Seriously Serious
-  - Matmatah
-  - Lofofora
-  - Asian Dub Foundation
-  - MTZx
+  - "38b28e6a-5107-4194-be5d-a8cd972a883b"
+  - "e2bf5aea-cc16-4370-ba19-db3a6c15746f"
+  - "43dde4ab-4757-4283-90ce-408d050bc4bc"
+  - "9b4ea8b0-519d-41e1-9cf4-3bffc23913da"
+  - "a4ea37f1-9973-40f2-8438-1d38fb4c83d0"
+  - "4ee20c2d-7724-49ed-9b89-d8ced6f119ee"
+  - "13bfbfda-9515-47c0-b3d4-9166b70ec12a"
 ---
 
 Le Festival de la Paille a ouvert ses portes ce vendredi pour sa première soirée d'une édition 2024 qui s'annonce

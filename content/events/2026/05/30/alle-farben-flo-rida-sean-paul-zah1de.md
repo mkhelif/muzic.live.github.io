@@ -2,8 +2,8 @@
 date: 2026-05-30T15:00:00+02:00
 locationId: "8d044fe4-f5a2-4a6b-9c70-9ef32c0a4084"
 artists:
-  - Alle Farben
-  - Flo Rida
-  - Sean Paul
-  - ZAH1DE
+  - "b22776f9-5431-46af-9041-6c822a20c3a0"
+  - "12d30840-4703-4a34-aa69-0560e8f0c2c0"
+  - "f98dd26e-240a-4a42-9640-70007ff7b1f0"
+  - "877a5163-109a-4c18-ba4a-946e4654df3f"
 ---

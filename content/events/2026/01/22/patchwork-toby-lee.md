@@ -2,6 +2,6 @@
 date: 2026-01-22T19:00:00+00:00
 locationId: "a48ddcf0-b910-4311-987a-51f67156bf66"
 artists:
-  - Patchwork
-  - Toby Lee
+  - "918ebf36-ea7f-4a01-9986-e782b7cd6153"
+  - "155c93a8-0b66-44f1-9322-88ca9e52a44d"
 ---

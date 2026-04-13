@@ -2,8 +2,8 @@
 date: 2026-05-23T10:00:00+02:00
 locationId: "80174e60-ef36-4852-87b0-2b81658b6fbc"
 artists:
-  - Colette GAZE
-  - ELFIGO
-  - Malaa
-  - Niska
+  - "f39ced3c-7ef7-47fe-968b-b42b3d9a4530"
+  - "cf3657c9-7136-4cdd-830e-c037ea31e4b8"
+  - "6f6077e7-b11f-4e9c-b405-9dfc49550560"
+  - "583715c3-660b-415b-9196-5b52b5fda6a6"
 ---

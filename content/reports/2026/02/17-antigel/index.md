@@ -7,7 +7,7 @@ cover: "pictures/finnegan-tui/01.jpg"
 author: "mkhelif"
 rank: 8
 artists:
-  - Finnegan Tui
+  - "22ba3766-86b2-4bc7-a9e4-6508e1b1ee15"
 ---
 
 Il y a des soirs où le lieu fait le concert autant que l'artiste. Et puis il y a des soirs où l'artiste et le lieu se

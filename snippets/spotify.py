@@ -14,8 +14,8 @@ import traceback
 import uuid
 
 # Configure authentication token
-CLIENT_TOKEN=""
-ACCESS_TOKEN="Bearer "
+CLIENT_TOKEN="AABNEmTiwxcNuWsNd+DrJfsKm/EHI0EDmE1ENA415Bahr8I/k97nMnkQLXft3BAeM7yr8rKoxOezmykcZiqh1R5MROl9IfJYUelNp/6+tvm0kwM9Xm8+jTyxpLJlX8bfMEZcnsfycXKQieagqC+CX3qFDUjtu+v7I7DyJytzUpbqoPXokxUbIkFAhxWOKM5wFdeXN5k9OgMAwm7yXOPVannDh3TEdC4wHmQt/GStdlCO+zjf56yMjHgKchM5qzaPiBbHRqcqnYJDBIyR385IlSnU8YMNQN6RRWNFSa43j7wgCJeIUvoMq9OX5Xbu3wUj+dK0sbJelfdMbZCU5UPq"
+ACCESS_TOKEN="Bearer BQBQZlJnD-RyjlGfbbRpYMry-xre-gwYVt4320iHYVURT_CpkFo4CF2xtl_8fKDfXj_FkRWrLizVWpz9h5lBKHV5adATZTNpLHk65O2ROd5MjKGW2HoJ5rxgpapZBY8bTb8Nm4Hi9Bg"
 
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:143.0) Gecko/20100101 Firefox/143.0",
@@ -46,8 +46,8 @@ _ = french.gettext
 COUNTRIES = {}
 for country in pycountry.countries:
     COUNTRIES[country.alpha_2.upper()] = {
-        'name': _(country.name)
-        'code': country.alpha_3
+        "name": _(country.name),
+        "code": country.alpha_3,
     }
 
 
@@ -156,9 +156,36 @@ def format_filename(name):
            re.sub('[^a-z0-9]', '-',
               unidecode(name).lower()))
 
+def get_or_create_artist(name):
+    artist_id = None
+    directory = Path(f"./content/artists/{format_filename(name)}")
+    directory.mkdir(parents = True, exist_ok = True)
+    file = directory.joinpath("index.md")
+
+    if file.exists():
+        artist_id = load_frontmatter(file).get('id', None)
+    else:
+        artist_id = uuid.uuid4()
+        file.write_text(f"""\
+---
+id: "{artist_id}"
+title: "{name}"
+cover: "cover.jpg"
+socials:
+  facebook: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---
+""")
+    if artist_id is None:
+        raise Exception(f"Could not create artist {name}")
+    return str(artist_id)
+
 def get_or_create_location_country(country):
     country_id = None
-    directory = Path(f"./content/locations/{format_filename(country.code)}")
+    directory = Path(f"./content/locations/{format_filename(country['code'])}")
     directory.mkdir(parents = True, exist_ok = True)
     file = directory.joinpath("_index.md")
 
@@ -169,7 +196,7 @@ def get_or_create_location_country(country):
         file.write_text(f"""\
 ---
 id: "{country_id}"
-title: "{country.name}"
+title: "{country['name']}"
 ---
 """)
     if country_id is None:
@@ -178,7 +205,7 @@ title: "{country.name}"
 
 def get_or_create_location_city(country, city):
     city_id = None
-    directory = Path(f"./content/locations/{format_filename(country.code)}/{format_filename(city)}")
+    directory = Path(f"./content/locations/{format_filename(country['code'])}/{format_filename(city)}")
     directory.mkdir(parents = True, exist_ok = True)
     file = directory.joinpath("_index.md")
 
@@ -199,7 +226,7 @@ title: "{city}"
 
 def get_or_create_location(location):
     location_id = None
-    directory = Path(f"./content/locations/{format_filename(location['country'].code)}/{format_filename(location['city'])}/{format_filename(location['name'])}")
+    directory = Path(f"./content/locations/{format_filename(location['country']['code'])}/{format_filename(location['city'])}/{format_filename(location['name'])}")
     directory.mkdir(parents = True, exist_ok = True)
     file = directory.joinpath("index.md")
 
@@ -215,7 +242,7 @@ title: "{location['name']}"
 ---
 """)
     if location_id is None:
-        raise Exception(f"Could not create location {location['country'].name} - {location['city']} - {location['name']}")
+        raise Exception(f"Could not create location {location['country']['name']} - {location['city']} - {location['name']}")
     return location_id
 
 #
@@ -241,7 +268,8 @@ if __name__ == '__main__':
             for concert in concerts:
                 date = datetime.fromisoformat(concert['date'])
                 date_format = f"{date.year}/{date.month:02d}/{date.day:02d}"
-                artists_list = "\n  - ".join(concert['artists'])
+                artist_ids = [get_or_create_artist(artist) for artist in concert['artists']]
+                artists_list = "\n  - ".join(f'"{aid}"' for aid in artist_ids)
 
                 # Create directory structure
                 directory = Path(f"./content/events/{date_format}")
@@ -250,7 +278,8 @@ if __name__ == '__main__':
                 # Compute event filename
                 filename = "-".join(format_filename(artist) for artist in concert['artists']) + ".md"
                 if concert['festival'] is True:
-                    print(f"  - (festival) {date_format}: {', '.join(concert['artists'])} ({', '.join(concert['location'][prop] for prop in ['country', 'city', 'name'])})")
+                    location = concert['location']['country']['name'] + ', ' + concert['location']['city'] + ', ' + concert['location']['name']
+                    print(f"  - (festival) {date_format}: {', '.join(concert['artists'])} ({location})")
                     continue
 
                 # Compute location ID

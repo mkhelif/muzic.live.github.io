@@ -2,7 +2,7 @@
 date: 2026-01-23T20:00:00+01:00
 locationId: "5914be7f-3e6c-413e-9ac0-1de5f0534ad5"
 artists:
-  - Manudigital
-  - Open Season
-  - Skarra Mucci
+  - "51436830-d36e-461d-85f1-b1145fec0cf7"
+  - "d6797559-0a56-4464-8697-883cc11c42d3"
+  - "28a55e9f-db8d-4b86-b110-7178bad47a92"
 ---

@@ -7,12 +7,12 @@ cover: "pictures/status-quo/04.jpg"
 author: "mkhelif"
 rank: 8
 artists:
-  - Paddang
-  - Seasick Steve
-  - Status Quo
-  - John Fogerty
-  - The Inspector Cluzo
-  - Axel Zimmerman
+  - "69233fc0-a5fc-46b4-a0d3-774613bf14a2"
+  - "8a768de7-6d03-4526-be59-59a7ed18e834"
+  - "3b3caeec-2b4e-497c-9514-aff5b75475e9"
+  - "c0049171-e2f8-4956-b28a-afd8827857d6"
+  - "e7519b44-fd6a-4eb6-9ae1-88b12d266419"
+  - "bbfb7130-7bbc-4bb4-bdb4-8ae2d3e78176"
 ---
 
 La première soirée du festival Guitare en Scène a accueilli une foule impatiente de vibrer au rythme du rock.

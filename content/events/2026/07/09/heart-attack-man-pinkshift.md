@@ -2,6 +2,6 @@
 date: 2026-07-09T19:00:00+01:00
 locationId: "35ef7d3d-5261-4068-94f3-84a4175bb817"
 artists:
-  - Heart Attack Man
-  - Pinkshift
+  - "c89ef059-89ac-4b81-adb4-e09b9560772b"
+  - "d3a047d5-7760-484d-a9ac-5738da7a55dc"
 ---

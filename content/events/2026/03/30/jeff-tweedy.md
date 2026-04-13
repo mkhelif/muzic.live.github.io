@@ -2,5 +2,5 @@
 date: 2026-03-30T19:30:00-07:00
 locationId: "a5f06af5-e99e-419f-9584-a849b90c67be"
 artists:
-  - Jeff Tweedy
+  - "416b5836-ca39-4a81-972e-a9a2130b6e02"
 ---

@@ -7,13 +7,13 @@ cover: "pictures/naaman/04.jpg"
 author: "mkhelif"
 rank: 8
 artists:
-  - Alfred Massaï
-  - Mentissa
-  - Voyou
-  - Pierre de Maere
-  - Johnny Mafia
-  - Naaman
-  - Sorg & Napoleon Maddox
+  - "bef8be46-fe93-4f60-97f9-9c2adfc9861d"
+  - "a67ac70d-7fcc-4665-9cc6-b63faa8e286d"
+  - "418c882a-d0f4-4fa4-a1eb-defd71641e95"
+  - "eae3c7a3-8c11-46c4-ae3a-e2ff553a5006"
+  - "d996ca19-d866-4177-9978-09f96291696c"
+  - "17985c54-b7aa-47db-b170-0b10b2da5dd4"
+  - "5d2482a6-b6ed-496f-bffc-0353fdd3d211"
 ---
 
 Pour sa dernière journée, le Festival de la Paille a offert une programmation plus consensuelle, attirant un public plus

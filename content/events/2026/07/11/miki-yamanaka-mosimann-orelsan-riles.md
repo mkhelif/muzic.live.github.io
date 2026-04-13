@@ -2,8 +2,8 @@
 date: 2026-07-11T19:00:00+02:00
 locationId: "014d8467-fb53-4d0f-aebd-f25787a2f263"
 artists:
-  - Miki Yamanaka
-  - Mosimann
-  - Orelsan
-  - Rilès
+  - "e53dd134-9264-44b6-a5c8-8c9682132094"
+  - "1f2c99dc-cdcb-4c46-a937-9253b03e73e5"
+  - "55f62ae6-f2aa-4e82-ac11-76ec9948edee"
+  - "65264593-8d5c-461b-8253-7f3a97924a6c"
 ---

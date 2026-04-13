@@ -1,3 +1,4 @@
-{{- range where (where site.Pages "Section" "artists") ".RelPermalink" $.RelPermalink -}}
+{{- $id := . -}}
+{{- range where (where site.RegularPages "Section" "artists") ".Params.id" . -}}
     <a href="{{ .RelPermalink }}">{{ .LinkTitle | safeHTML }}</a>
 {{- end -}}

@@ -7,16 +7,16 @@ cover: "pictures/sean-paul/07.jpg"
 author: "mkhelif"
 rank: 8
 artists:
-  - Sugarhill Gang
-  - Sheila
-  - UB40
-  - Murray Head
-  - Sean Paul
-  - Laroche Valmont
-  - Léopold Nord et Vous
-  - Helmut Fritz
-  - Yannick
-  - Plastic Bertrand
+  - "ce8570a2-9a69-4bad-bbee-92061e4f59ad"
+  - "208bb2a8-7d65-4c91-9286-55b4627682d4"
+  - "dcd1f68a-07ec-45b6-b0fb-b52b1743fbbc"
+  - "c26eedfe-d090-4790-8010-8cd8f6332d75"
+  - "f98dd26e-240a-4a42-9640-70007ff7b1f0"
+  - "04092978-15f5-4f88-9e23-0664ba411062"
+  - "7674f2ed-8b4f-445b-93c9-c59243b6d0f5"
+  - "97c8aef0-268e-4287-9311-c89ce1173c84"
+  - "b226b806-e13f-49da-b742-1ac21fc3a44b"
+  - "8f890836-27f8-4fd2-a7f0-f415d36be3bb"
 ---
 
 Cette deuxième soirée du Venoge Festival s'annonce comme un voyage temporel ambitieux à travers les révolutions

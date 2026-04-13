@@ -20,9 +20,9 @@
                 {{ with .event.Params.festivalId }}
                     {{- partial "festivals/link.html" . }} :
                 {{ end }}
-                {{ range $index, $artist := .event.GetTerms "artists" }}
+                {{ range $index, $id := .event.Params.artists }}
                     {{- if (gt $index 0) }}, {{ end -}}
-                    {{ partial "artists/link.html" $artist -}}
+                    {{ partial "artists/link.html" $id -}}
                 {{- end }}
             </span>
         </p>

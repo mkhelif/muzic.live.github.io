@@ -2,5 +2,5 @@
 date: 2026-12-04T20:30:00+01:00
 locationId: "5cb18689-b550-4915-abab-02e74e074219"
 artists:
-  - Danakil
+  - "18d9ad69-9cb9-4880-a417-3d5bf70fc8e1"
 ---

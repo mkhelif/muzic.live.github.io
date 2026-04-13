@@ -7,13 +7,13 @@ cover: "pictures/jason-derulo/11.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Vendredi sur Mer
-  - Sens Unik
-  - Bon Entendeur
-  - Bigflo & Oli
-  - Vladimir Cauchemar
-  - Jason Derulo
-  - DJ Bens
+  - "00d73f02-6d56-4de9-a57f-d967e082d099"
+  - "6ec75b43-3ae7-47fd-9c24-208fe3d05adc"
+  - "bcfbe727-85f9-4b8f-ad24-6a1f94718386"
+  - "75d59ff6-7ac5-4f03-8094-bc455cdc9d6a"
+  - "273fb493-da91-4853-9fb7-e49b11a17635"
+  - "fc438050-a3ef-4c84-937a-fe8867d8e219"
+  - "15084580-17ec-4786-91ae-40f241e58e3e"
 ---
 
 Cette troisième journée du Venoge Festival dessine une cartographie ambitieuse des musiques contemporaines : de la

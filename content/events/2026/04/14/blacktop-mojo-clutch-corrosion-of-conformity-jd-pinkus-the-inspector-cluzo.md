@@ -2,9 +2,9 @@
 date: 2026-04-14T19:30:00-05:00
 locationId: "3ee5d248-4001-4d0b-aec0-70eb5171bf4e"
 artists:
-  - Blacktop Mojo
-  - Clutch
-  - Corrosion Of Conformity
-  - JD Pinkus
-  - The Inspector Cluzo
+  - "0eb3ad0b-683e-4365-8120-3041fa1ca383"
+  - "0363b2e0-0ca6-40bd-a751-ac16857e0b89"
+  - "f1461356-818c-4271-b8fc-a096006ef18b"
+  - "57bcae3c-9ee3-4b91-8974-af18212c12a0"
+  - "e7519b44-fd6a-4eb6-9ae1-88b12d266419"
 ---

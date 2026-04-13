@@ -2,5 +2,5 @@
 date: 2026-04-22T20:00:00+02:00
 locationId: "f1abda37-cb94-4596-a82c-61f00c675414"
 artists:
-  - H-Burns
+  - "58767d5c-701c-4005-8418-77d62b69c7fe"
 ---

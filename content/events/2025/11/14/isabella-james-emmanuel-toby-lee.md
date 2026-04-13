@@ -2,7 +2,7 @@
 date: 2025-11-14T19:30:00+00:00
 locationId: "05f6e11e-676b-4909-84ec-a36668b045ba"
 artists:
-  - Isabella
-  - James Emmanuel
-  - Toby Lee
+  - "0dd2d63b-5878-49ec-84f8-71e408849685"
+  - "582e0bb7-4446-45e7-b56d-5e0e5f989350"
+  - "155c93a8-0b66-44f1-9322-88ca9e52a44d"
 ---

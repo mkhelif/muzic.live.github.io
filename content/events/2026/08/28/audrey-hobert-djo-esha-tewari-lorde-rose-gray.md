@@ -2,9 +2,9 @@
 date: 2026-08-28T14:00:00+01:00
 locationId: "23957c3b-17b2-4d9d-872f-736a504c9cdd"
 artists:
-  - Audrey Hobert
-  - Djo
-  - Esha Tewari
-  - Lorde
-  - Rose Gray
+  - "7356497b-e5c8-48e2-94e2-bf11468cf938"
+  - "c39c265e-2ecd-43bf-9201-ee3667d9f76b"
+  - "a831f562-74aa-454e-9d22-99cd2c905013"
+  - "94f19406-4780-4c60-a2f0-2ec8386d639c"
+  - "70853657-6abf-43ff-b2c7-084019ce74fd"
 ---

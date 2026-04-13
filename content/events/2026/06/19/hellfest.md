@@ -3,35 +3,35 @@ date: 2026-06-19 12:00:00+02:00
 festivalId: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
 locationId: "a96150fd-cd15-4d68-8c73-31fff4f3ae29"
 artists:
-  - Iron Maiden
-  - Helloween
-  - Ultra Vomit
-  - Accept
-  - Queensryche
-  - Sortilege
-  - Wings of Steel
-  - Blackrain
-  - Sabaton
-  - Opeth
-  - Sepultura
-  - Bloodywood
-  - Tesseract
-  - Brothers of Metal
-  - The Dillinger Escape Plan
-  - La Dispute
-  - Malevolence
-  - Ceremony
-  - Dying Wish
-  - Mastodon
-  - Slift
-  - Loathe
-  - Torche
-  - Blood Incantation
-  - Periphery
-  - Decapitated
-  - Sylosis
-  - The Gathering
-  - My Dying Bride
-  - Rotting Christ
-  - Carach Angren
+  - "a98152c5-cd78-4264-9cb0-b074825ad314"
+  - "975394fe-0bc6-4171-b37f-a897e6233bd1"
+  - "37fd18d8-422e-425b-9227-b1d49f6b3cda"
+  - "1baaa9f8-8fc0-499d-ada1-ef998da20c71"
+  - "b40871db-2b95-4fe3-bb21-3fcd87f936df"
+  - "8ade1b96-7df0-4d32-912e-f37c3e318f8b"
+  - "075a2e4e-4568-4662-b71e-2088706b76d7"
+  - "de4ef6f5-905b-4435-83e8-fb8228e5b3e2"
+  - "477cfe7f-0349-4843-ae01-f8e7000dd261"
+  - "b451a414-cc3d-42db-8e3f-1220a2addd6e"
+  - "f6e0418f-38a7-408c-ae0f-c53178dcd6aa"
+  - "66ffa48c-6d6d-475f-b030-7a06d98dc98e"
+  - "7b386b28-aa50-481d-acbb-8831f838186f"
+  - "71c41ef9-ba66-4f94-bb93-ed93fc1d188e"
+  - "4bf6f3eb-4b1a-4d0d-af03-8a8092bcf617"
+  - "427b6412-f867-4828-84cd-131d3e017b49"
+  - "bb7f6d3f-3b1a-4947-a50c-4c4737c00a56"
+  - "a39ec4a3-46b8-4791-aec5-4b7467119769"
+  - "b57d69de-9d41-4724-bc75-8d796ccb44dd"
+  - "1b8ebdf8-2bef-4fd5-b99a-c97d93f78212"
+  - "37865937-d689-4a01-a69f-a1225ece455e"
+  - "5da309b8-6d78-4770-91ab-6cec2148b12e"
+  - "fd5bbd0f-3c83-4338-89cd-c9c1c3732859"
+  - "93e0930e-8c84-4aec-b502-e10f7bfabb29"
+  - "419275e7-7e84-4edc-88b2-c38ae7f33532"
+  - "47e0e00b-36fd-45d5-9ab3-eea36ccb5990"
+  - "ae0383b6-ca7d-4499-b74a-32511a378e36"
+  - "da92e12b-f7af-4e06-a140-fec0675bd7fb"
+  - "5c958fc3-4b49-4a8b-a611-3773487fcd7f"
+  - "9148dfcb-4a95-4f10-b722-6c7eece8de8e"
+  - "7103273e-fb64-4e80-8056-583af1f35922"
 ---

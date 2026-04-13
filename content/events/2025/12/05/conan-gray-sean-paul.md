@@ -2,6 +2,6 @@
 date: 2025-12-05T19:30:00-08:00
 locationId: "e39b5ac0-4513-4482-a0a4-18c884a39144"
 artists:
-  - Conan Gray
-  - Sean Paul
+  - "dd8f502b-e369-4537-8081-02ff19f23ccc"
+  - "f98dd26e-240a-4a42-9640-70007ff7b1f0"
 ---

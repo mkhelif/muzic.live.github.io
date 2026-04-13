@@ -2,5 +2,5 @@
 date: 2026-04-04T18:00:00+02:00
 locationId: "953e95c0-126a-439d-a32f-8f4696ab2626"
 artists:
-  - Boris Way
+  - "9dd20107-5a2e-4b1b-887b-ce9620298a6d"
 ---

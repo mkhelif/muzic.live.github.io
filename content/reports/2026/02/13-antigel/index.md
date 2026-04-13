@@ -7,8 +7,8 @@ cover: "pictures/anna-von-hausswolff/12.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Hinako Omori
-  - Anna Von Hausswolff
+  - "02d228a2-67e3-4e75-a886-df1bd85399aa"
+  - "04c61bd9-83c9-489f-a3f5-0eb10baf8bcf"
 ---
 
 Il y a des soirées où la musique ne se contente pas d'occuper l'espace : elle le reconfigure. Ce jeudi soir, dans le

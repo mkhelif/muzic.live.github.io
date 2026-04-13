@@ -1,3 +1,6 @@
-{{- range $index, $artist := . -}}
-    {{- if gt $index 0 -}}, {{ end -}}{{- $artist | safeHTML -}}
+{{- range $index, $id := . -}}
+    {{- if gt $index 0 -}}, {{ end -}}
+    {{- range where site.RegularPages "Section" "artists" -}}
+        {{- if eq .Params.id $id -}}{{- .Title | safeHTML -}}{{- end -}}
+    {{- end -}}
 {{- end -}}

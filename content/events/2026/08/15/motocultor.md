@@ -3,17 +3,17 @@ date: 2026-08-15 12:00:00+02:00
 festivalId: "9a6fffd4-43b0-4097-9556-14f69b24b419"
 locationId: "9633bc88-aa43-441e-b64e-4c67e149e765"
 artists:
-  - Within Temptation
-  - Nevermore
-  - Perturbator
-  - Ill Nino
-  - Nanowar of Steel
-  - The Casualties
-  - Orden Ogan
-  - Omnium Gatherum
-  - Cancer
-  - BRUIT
-  - Steve'n'Seagulls
-  - Les 3 Fromages
-  - Frog Leap
+  - "e574adc0-cdf8-416a-9bae-c84920b59376"
+  - "a1aab851-2a4f-4763-9736-4ab8886937be"
+  - "513fa998-822c-4802-a2bc-e02114975066"
+  - "a91a6a98-86bc-424a-9f63-c87ec37c311a"
+  - "9b60447a-7760-47d0-bccd-a75feabad093"
+  - "c3833df8-96a6-47bf-81a0-e2924d8babf1"
+  - "c61941fe-88f1-4cf6-a9e7-603cad8f5b99"
+  - "046366f4-5fd9-4284-9b1b-46961dcc4a2e"
+  - "91678be4-b289-4273-8eaa-ee5ac49df4fc"
+  - "8ff08758-f0d8-47cc-929b-d285f27929f9"
+  - "80216f89-8e61-4fa7-9e5d-0c161422d4fe"
+  - "ee3e0527-2060-4279-81d9-e4248e872374"
+  - "3776d583-ffdf-418b-90b2-1e6d3545ebbc"
 ---

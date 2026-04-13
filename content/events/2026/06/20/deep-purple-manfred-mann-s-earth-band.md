@@ -2,6 +2,6 @@
 date: 2026-06-20T19:00:00+02:00
 locationId: "7b03ce59-6484-49d5-982d-dcf4bc8152ac"
 artists:
-  - Deep Purple
-  - Manfred Mann's Earth Band
+  - "3c73672f-8be9-4a35-881e-8f643dc26630"
+  - "8b09428d-54c1-4fec-8618-32010b97c2bc"
 ---

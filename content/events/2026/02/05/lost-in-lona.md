@@ -2,5 +2,5 @@
 date: 2026-02-05T19:30:00+01:00
 locationId: "9315565b-6e10-4609-98b0-d7af4c45eecc"
 artists:
-  - Lost in Lona
+  - "34edfda5-5c66-4996-86a6-0858162d78cb"
 ---

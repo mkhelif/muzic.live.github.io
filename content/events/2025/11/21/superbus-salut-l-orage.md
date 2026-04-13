@@ -2,6 +2,6 @@
 date: 2025-11-21T20:00:00+01:00
 locationId: "84cb1717-2834-4ff7-a831-6c645bb7afc9"
 artists:
-  - Superbus
-  - Salut l'orage
+  - "a1c26486-0451-4806-af8d-50386d2d9a60"
+  - "b55fff8b-6555-4f65-b1e2-7bb6774c1841"
 ---

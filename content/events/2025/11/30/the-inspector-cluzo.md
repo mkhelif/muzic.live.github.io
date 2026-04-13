@@ -2,5 +2,5 @@
 date: 2025-11-30T19:30:00+01:00
 locationId: "441b3f9d-772b-42b6-9b40-42073718ecea"
 artists:
-  - The Inspector Cluzo
+  - "e7519b44-fd6a-4eb6-9ae1-88b12d266419"
 ---

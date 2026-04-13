@@ -2,9 +2,9 @@
 date: 2026-05-23T15:30:00+02:00
 locationId: "3ad905b6-e98e-4e46-9c2c-c2ac66240b91"
 artists:
-  - Aerial Salad
-  - Kid Kapichi
-  - The Meffs
-  - The Pill
-  - swim school
+  - "b3e8db31-40f7-4b92-a8e3-20e888655173"
+  - "3ff8bd16-2687-4ea0-895d-da89855e8eb9"
+  - "6c7c8a6d-6400-448e-938d-9ca2bb45d48c"
+  - "467ee4b4-0ec9-43d9-a512-66f33864449b"
+  - "8ae779d6-d38a-400e-80ca-7e6720089874"
 ---

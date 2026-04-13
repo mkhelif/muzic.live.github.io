@@ -7,12 +7,12 @@ cover: "pictures/the-doug/01.jpg"
 author: "mkhelif"
 rank: 6
 artists:
-  - Lakna
-  - Styleto
-  - The Doug
-  - Niska
-  - Feder
-  - Blasterjaxx
+  - "b4f265ff-069c-482a-8d9d-75e2ab578de0"
+  - "efcab4e0-6cc0-4155-bc82-353508f4b6f9"
+  - "195ce072-94c3-4ff8-bd64-cee2bdac30f3"
+  - "583715c3-660b-415b-9196-5b52b5fda6a6"
+  - "8f0eed2d-85af-43b0-85f5-6bfc83e005c9"
+  - "fe47932b-4347-45a0-b608-6db188477042"
 ---
 
 Me voilà de retour sur Nantua pour la dernière soirée du Nantuafest. Il y a beaucoup plus de monde, et en parlant avec

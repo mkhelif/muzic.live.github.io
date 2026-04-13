@@ -2,5 +2,5 @@
 date: 2026-07-03T19:00:00+02:00
 locationId: "34bb62a1-ea4c-41de-8d0c-76461de17011"
 artists:
-  - Kraftklub
+  - "c026a1a5-199a-4176-9907-01f4d227044c"
 ---

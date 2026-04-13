@@ -2,5 +2,5 @@
 date: 2026-02-20T23:00:00+01:00
 locationId: "4779fdfe-174c-460c-855e-f0b35eb313d7"
 artists:
-  - DJ Bens
+  - "15084580-17ec-4786-91ae-40f241e58e3e"
 ---

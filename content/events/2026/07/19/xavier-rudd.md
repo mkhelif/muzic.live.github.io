@@ -2,5 +2,5 @@
 date: 2026-07-19T12:00:00+02:00
 locationId: "38425be5-490f-48a5-9545-72e604771b74"
 artists:
-  - Xavier Rudd
+  - "0be79706-ed1e-4a08-ae29-6037112323b2"
 ---

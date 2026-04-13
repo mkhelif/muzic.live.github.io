@@ -2,9 +2,9 @@
 date: 2025-12-27T19:00:00+04:00
 locationId: "81990761-f3c9-4309-8a1a-7ccb319ca1f5"
 artists:
-  - Ash
-  - Diana
-  - KayteK
-  - Morgan Dope
-  - Nico de Andrea
+  - "5cdb578f-ea35-4222-b847-77aab37612dc"
+  - "9f8cb064-d8c8-4934-981a-b58d63eb61a5"
+  - "1f3082fc-0267-429b-83a5-35e2ec4ceafe"
+  - "cc8ec7c8-09fe-41dc-93df-eb8382a79425"
+  - "820e746f-3f57-4b7a-b640-3d623a462b5b"
 ---

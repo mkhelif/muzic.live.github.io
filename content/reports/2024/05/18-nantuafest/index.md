@@ -7,13 +7,12 @@ cover: "pictures/adele-castillon/01.jpg"
 author: "mkhelif"
 rank: 8
 artists:
-  - Tino
-  - Alice et Moi
-  - Adèle Castillon
-  - Jahneration
-  - Caballero
-  - JeanJass
-  - Umbree
+  - "78a6fec2-6417-4eda-af4e-d651e0420094"
+  - "58dbbe35-9c6e-4a60-a974-2e75e6d08df5"
+  - "672c70e5-e066-4cb7-8622-feefe58f48ab"
+  - "072b9fe9-1868-4efb-92e2-c9dd36b7d2d6"
+  - "ec430e99-6e25-40d4-a5b3-3e70d272f7fb"
+  - "73cd7419-efde-4e00-888d-8bacc9dc3ec4"
 ---
 
 De retour sur Nantua pour cette deuxième journée du Nantuafest.

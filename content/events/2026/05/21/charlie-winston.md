@@ -2,5 +2,5 @@
 date: 2026-05-21T20:00:00+02:00
 locationId: "c27d22b9-6c31-41c9-b7b8-67354802f09e"
 artists:
-  - Charlie Winston
+  - "05d01105-609d-4634-bea7-d0209808a121"
 ---

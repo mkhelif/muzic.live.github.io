@@ -2,6 +2,6 @@
 date: 2026-01-29T19:00:00+00:00
 locationId: "65926690-afd7-41af-8272-d467779fd220"
 artists:
-  - James Bruner
-  - Orianthi
+  - "190f6e0b-1e89-4d00-8530-9a79358d26d8"
+  - "851a0e6f-2991-412b-90eb-d055a7f87d21"
 ---

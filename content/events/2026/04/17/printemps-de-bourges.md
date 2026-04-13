@@ -3,10 +3,10 @@ date: 2026-04-17 19:00:00+02:00
 festivalId: "2342e13f-3297-43a6-95b2-a85178908cc1"
 locationId: "821659a4-284f-43d6-a70d-9432eade8d03"
 artists:
-  - Vladimir Cauchemar
-  - Mosimann
-  - Deluxe
-  - Luiza
-  - Magic System
-  - Biga*Ranx
+  - "273fb493-da91-4853-9fb7-e49b11a17635"
+  - "1f2c99dc-cdcb-4c46-a937-9253b03e73e5"
+  - "10fa6132-7887-4c47-a389-12c0fbd92579"
+  - "98532893-3411-4e8a-9c5e-3ef0a5f9bc5b"
+  - "fca753f5-6e97-4cf9-b850-32daaa135f2f"
+  - "75df4267-d6bd-48e8-9069-a2e5ff6cbb01"
 ---

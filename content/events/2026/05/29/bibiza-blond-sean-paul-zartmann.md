@@ -2,8 +2,8 @@
 date: 2026-05-29T16:30:00+02:00
 locationId: "41f85ab6-d0e5-4799-918b-f718a19abdff"
 artists:
-  - BIBIZA
-  - Blond
-  - Sean Paul
-  - Zartmann
+  - "bfeaf5c8-9021-4ac8-9f03-73847b1141a8"
+  - "1201f560-1f75-4990-a571-9ef927841a0c"
+  - "f98dd26e-240a-4a42-9640-70007ff7b1f0"
+  - "2ca327b5-8690-4a6b-968c-1dddc58c09e4"
 ---

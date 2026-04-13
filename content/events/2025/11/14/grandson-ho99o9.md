@@ -2,6 +2,6 @@
 date: 2025-11-14T19:00:00-06:00
 locationId: "0bb5c011-add5-4253-8628-76a2c6da4a25"
 artists:
-  - grandson
-  - Ho99o9
+  - "68618401-47a8-439b-8e62-ba14b080ff6a"
+  - "a9e835c2-cf94-4312-b912-27dbdc29c332"
 ---

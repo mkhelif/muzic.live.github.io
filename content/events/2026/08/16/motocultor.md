@@ -3,15 +3,15 @@ date: 2026-08-16 12:00:00+02:00
 festivalId: "9a6fffd4-43b0-4097-9556-14f69b24b419"
 locationId: "9633bc88-aa43-441e-b64e-4c67e149e765"
 artists:
-  - Judas Priest
-  - Arch Enemy
-  - Voivod
-  - Airbourne
-  - Fit for an Autopsy
-  - Deafheaven
-  - Cryptopsy
-  - Sacred Reich
-  - Vader
-  - Kim Dracula
-  - Killers
+  - "40743c55-1dd8-44b0-8ef8-aeeba35596e6"
+  - "f49072da-1c7f-471b-b702-64f942ffcfb4"
+  - "05a27ef1-c795-4354-8280-c66f88b600a1"
+  - "af59e553-2dd0-42b8-93a6-68e70e3dc683"
+  - "053981f1-fb74-42e5-94a3-d9a816565651"
+  - "561b356e-2b1b-4374-8e75-069c82eb5225"
+  - "6381049c-3551-46e3-bff4-d2462272ce28"
+  - "71438e37-e4b3-4fb7-a12a-5076e0ac2bee"
+  - "f9da39f9-7208-42e9-912a-f66cb2483087"
+  - "16ee444c-b467-413a-9690-1992a2999278"
+  - "67476840-19fb-43ab-89fc-766cc90a1967"
 ---

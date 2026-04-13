@@ -8,16 +8,16 @@ cover: "pictures/"
 author: "mkhelif"
 rank: 9
 artists:
-  - Bruno Obéron
-  - Fonkiture
-  - Cinza
-  - Gliz
-  - Marraine Coque
-  - Charlie Winston
-  - 2097
-  - Megaphone
-  - Grunk
-  - Cat Anderson
+  - "e145befb-a1ab-4cb7-97f9-1da422f9394c"
+  - "2980f07b-51a3-4a87-a5bf-b6fd5eefcb20"
+  - "579498d8-0cb6-494a-a351-0a03a09220df"
+  - "e0b2e729-1d43-45f6-a9ef-6fc7397750c5"
+  - "503e6fb3-dc61-47dd-9ce2-0ac58dae1e74"
+  - "05d01105-609d-4634-bea7-d0209808a121"
+  - "0d148669-2fcc-4f12-ab6b-056efb435e05"
+  - "8a8907ba-2971-42d4-a06e-5f16bfcfa4c6"
+  - "0ea3f977-312c-4fda-8e0b-f902b44744ae"
+  - "131c21d8-a484-4200-8785-0a7defba284e"
 ---
 
 Cette seconde journée de l'Atrack'Son Festival orchestre une montée en puissance : des découvertes enthousiastes aux

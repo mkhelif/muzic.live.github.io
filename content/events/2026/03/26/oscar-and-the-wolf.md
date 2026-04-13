@@ -2,5 +2,5 @@
 date: 2026-03-26T17:00:00+01:00
 locationId: "ce699ea1-a09a-4860-8b8a-67d32d409c86"
 artists:
-  - Oscar and the Wolf
+  - "84423f84-1b3f-4269-9d0b-212edc08fb53"
 ---

@@ -2,5 +2,5 @@
 date: 2026-06-13T17:00:00+02:00
 locationId: "04b37d2c-19b1-4d24-84ee-a94146f42110"
 artists:
-  - Blasterjaxx
+  - "fe47932b-4347-45a0-b608-6db188477042"
 ---

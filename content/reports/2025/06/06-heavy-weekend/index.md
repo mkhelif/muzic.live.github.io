@@ -7,10 +7,10 @@ cover: "pictures/powerwolf/15.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Adrian Vandenberg
-  - Battle Beast
-  - Saxon
-  - Powerwolf
+  - "700ef4e7-e11c-4e5d-84f5-3b4aeb2347d6"
+  - "3a93ff68-f045-4dc2-b55d-aacae431b76e"
+  - "eb010946-1e91-40f8-bc5a-824c7ba83387"
+  - "844af41a-c503-4748-9c8e-8f09de6065c2"
 ---
 
 Le premier jour du Heavy Weekend a transformé le Zénith Open Air de Nancy en cathédrale du metal, avec une programmation

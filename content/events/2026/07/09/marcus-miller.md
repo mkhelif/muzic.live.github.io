@@ -2,5 +2,5 @@
 date: 2026-07-09T20:00:00+02:00
 locationId: "9e261a51-6c78-45b0-8124-08920f024259"
 artists:
-  - Marcus Miller
+  - "f2dc2b4c-634c-49f2-94f7-ec73a12caae7"
 ---

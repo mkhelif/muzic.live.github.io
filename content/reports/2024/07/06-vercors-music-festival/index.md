@@ -7,11 +7,11 @@ cover: "pictures/danakil/01.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Sarah Lenka
-  - El Gato Negro
-  - Massilia Sound System
-  - Danakil
-  - Asian Dub Foundation
+  - "f41d5f2d-7194-4db7-91ae-0bbbc0dc2d24"
+  - "7507579e-bf09-461e-9e78-ddf54a9d8e50"
+  - "38847d85-dc00-4199-a364-77071d6c8858"
+  - "18d9ad69-9cb9-4880-a417-3d5bf70fc8e1"
+  - "4ee20c2d-7724-49ed-9b89-d8ced6f119ee"
 ---
 
 Le Vercors Music Festival démarre pour sa deuxième journée sur une météo capricieuse mais avec une programmation

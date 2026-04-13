@@ -2,5 +2,5 @@
 date: 2026-05-29T20:00:00+02:00
 locationId: "80a37581-70c9-439e-8218-28943f0f8297"
 artists:
-  - Vendredi sur Mer
+  - "00d73f02-6d56-4de9-a57f-d967e082d099"
 ---

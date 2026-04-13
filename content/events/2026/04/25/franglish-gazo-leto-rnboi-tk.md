@@ -2,9 +2,9 @@
 date: 2026-04-25T19:30:00+02:00
 locationId: "6374f3c7-9af5-449a-9d30-cfa1383d871a"
 artists:
-  - Franglish
-  - Gazo
-  - Leto
-  - RnBoi
-  - TK
+  - "6d870661-a309-472c-9976-4725ed0a7141"
+  - "f1365ad1-9ebd-415e-bf53-e6eb7eddf4ba"
+  - "d75f5676-0ad7-469a-9173-b5e09cc3abec"
+  - "a5415d00-b4ac-4d10-9a00-708acc90a041"
+  - "78e9dd81-3e7f-41b7-a614-42c59482ab59"
 ---

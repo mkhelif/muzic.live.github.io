@@ -2,5 +2,5 @@
 date: 2026-04-11T20:00:00+02:00
 locationId: "b9db0ba1-5e88-43c2-9a95-fd4381135612"
 artists:
-  - Les Wampas
+  - "65654368-fbef-452d-867e-092e42191146"
 ---

@@ -7,14 +7,14 @@ cover: "pictures/pierre-de-maere/04.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Melrose
-  - Vernis Rouge
-  - Two Faces
-  - Noé Preszow
-  - Pierre de Maere
-  - Superbus
-  - Boris Way
-  - DJ Skred
+  - "9ba19a0a-b5b4-4580-a535-ed2130b09777"
+  - "42a83a82-a73d-4bd8-a90a-998e3e8003e7"
+  - "f689b1ff-c5f4-413d-9f9b-c7d079a28294"
+  - "5aba9f2d-28f1-488e-85fe-18059af1f7f8"
+  - "eae3c7a3-8c11-46c4-ae3a-e2ff553a5006"
+  - "a1c26486-0451-4806-af8d-50386d2d9a60"
+  - "9dd20107-5a2e-4b1b-887b-ce9620298a6d"
+  - "9afeb910-6c3e-4b1a-b14f-5fa4e301e321"
 ---
 
 C’est par un pur hasard, en scrollant distraitement sur les réseaux sociaux, que j’ai découvert le Nantuafest.

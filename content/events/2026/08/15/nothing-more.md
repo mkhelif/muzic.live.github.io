@@ -2,5 +2,5 @@
 date: 2026-08-15T12:00:00+02:00
 locationId: "2e932071-3cea-4c9c-918d-229049fd48b7"
 artists:
-  - NOTHING MORE
+  - "21153c85-31ee-49db-8602-4f2512eca983"
 ---

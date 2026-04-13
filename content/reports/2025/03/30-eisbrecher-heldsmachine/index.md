@@ -7,8 +7,8 @@ cover: "pictures/.jpg"
 author: "mkhelif"
 rank: 8
 artists:
-  - Eisbrecher
-  - Heldsmachine
+  - "bf5ce3b7-fadf-48d4-8374-69bd162d4923"
+  - "01f26fba-f337-4042-b1ce-224a148f273b"
 ---
 
 

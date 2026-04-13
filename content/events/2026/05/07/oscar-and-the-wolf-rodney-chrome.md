@@ -2,6 +2,6 @@
 date: 2026-05-07T19:00:00-04:00
 locationId: "2530b781-0cf3-4566-8909-e6119935c81d"
 artists:
-  - Oscar and the Wolf
-  - Rodney Chrome
+  - "84423f84-1b3f-4269-9d0b-212edc08fb53"
+  - "e85ff1f1-1e6d-4560-93cf-499d3b75eea0"
 ---

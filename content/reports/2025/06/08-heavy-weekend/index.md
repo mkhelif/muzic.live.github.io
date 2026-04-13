@@ -7,10 +7,10 @@ cover: "pictures/rise-of-the-northstar/15.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Nothing More
-  - Rise Of The NorthStar
-  - Mass Hysteria
-  - Slipknot
+  - "21153c85-31ee-49db-8602-4f2512eca983"
+  - "ae36bfaa-cec8-4160-ba2e-0384322fefa5"
+  - "8b386859-0b16-4360-a012-16cf85585137"
+  - "3100a2b0-8068-4fbe-8498-6f2721c90427"
 ---
 
 Le dernier jour du Heavy Weekend a transformé le Zénith Open Air de Nancy en une arène de chaos organisé, où se sont

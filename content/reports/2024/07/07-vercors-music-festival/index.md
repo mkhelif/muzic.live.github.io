@@ -7,11 +7,11 @@ cover: "pictures/faada-freddy/01.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Kolinga
-  - Ladaniva
-  - Keziah Jones
-  - Faada Freddy
-  - Flavia Coelho
+  - "8c0e20a1-717a-465c-a09d-baeacebca72f"
+  - "a9b30707-6a10-48bb-9781-06f8fdae20f0"
+  - "6dbb9165-a8bc-4d03-a223-64219a413a32"
+  - "3359f956-a55b-4b78-bf3e-a7c4d391ef9a"
+  - "3d92fe02-9f2f-4b0c-9dcf-9f56512a1c59"
 ---
 
 Sous un grand soleil, la troisième et dernière journée du Vercors Music Festival commence plus tôt, attirant de

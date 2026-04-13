@@ -7,11 +7,11 @@ cover: "pictures/nada-surf/03.jpg"
 author: "mkhelif"
 rank: 9
 artists:
-  - Chey'N'Shiners
-  - Wolfmother
-  - Nada Surf
-  - Stereophonics
-  - Storm Orchestra
+  - "27f4063d-b0c0-4f22-a9c3-b18b5cec8f7d"
+  - "3b787e45-2a7c-49ac-87b9-ba7f9f636a42"
+  - "35f3c146-0d9b-44d8-bb73-31342b2e6bee"
+  - "070c10f4-5ab0-4a03-82d0-3e840033832c"
+  - "d7a3b9ed-e3df-4f4a-8e50-f58672118f64"
 ---
 
 La deuxième soirée du Guitare en Scène a mis le feu à Saint-Julien-en-Genevois avec une programmation éclectique allant

@@ -2,7 +2,7 @@
 date: 2025-11-27T19:30:00+01:00
 locationId: "7b50b240-7e4d-4d18-b07d-6b83391f3629"
 artists:
-  - Comeback Kid
-  - Gojira
-  - NECKBREAKKER
+  - "666c832b-df21-4883-99a4-c84bc976fc99"
+  - "e9cf3934-7712-4cfe-98e2-99dfe4d51de6"
+  - "378aa7d5-eae3-4649-b575-8312d95280fa"
 ---

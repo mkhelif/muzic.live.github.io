@@ -2,6 +2,6 @@
 date: 2026-10-16T20:00:00+02:00
 locationId: "7682ac6d-818f-47c1-afba-a6527518af25"
 artists:
-  - Laura Cox
-  - Les Wampas
+  - "1346d32d-6600-4fef-9d35-bb0a71800cea"
+  - "65654368-fbef-452d-867e-092e42191146"
 ---

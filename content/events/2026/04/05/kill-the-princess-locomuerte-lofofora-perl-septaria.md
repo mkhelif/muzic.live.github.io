@@ -2,9 +2,9 @@
 date: 2026-04-05T15:00:00+02:00
 locationId: "40c490c8-052b-4e7a-a06e-329f14bbaa57"
 artists:
-  - Kill The Princess
-  - LocoMuerte
-  - Lofofora
-  - Perl
-  - Septaria
+  - "c9ad764b-8dd1-4e04-b102-1cb2210cff57"
+  - "39114567-d279-4117-af6f-8a9e677094cf"
+  - "a4ea37f1-9973-40f2-8438-1d38fb4c83d0"
+  - "11bfdac4-5149-4839-830a-358c4e02e587"
+  - "0560e48a-b2c5-4f37-b492-a1b32caf21db"
 ---

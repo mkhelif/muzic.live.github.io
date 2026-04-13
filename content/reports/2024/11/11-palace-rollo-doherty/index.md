@@ -6,8 +6,8 @@ cover: "pictures/palace/05.jpg"
 author: "mkhelif"
 rank: 9
 artists:
-  - Rollo Doherty
-  - Palace
+  - "bd7132b0-91cb-4579-9052-e4ea607374d3"
+  - "eb558874-ed43-45af-b5b6-6199067f6da9"
 ---
 
 Cette soirée aux Docks de Lausanne s'annonçait sous le signe de la délicatesse musicale avec la venue du groupe

@@ -2,5 +2,5 @@
 date: 2026-02-02T20:00:00+01:00
 locationId: "d1d66bfd-0a55-4d69-966d-56b69a2780aa"
 artists:
-  - grandson
+  - "68618401-47a8-439b-8e62-ba14b080ff6a"
 ---

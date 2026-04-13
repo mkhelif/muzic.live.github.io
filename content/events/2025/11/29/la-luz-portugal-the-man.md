@@ -2,6 +2,6 @@
 date: 2025-11-29T20:00:00-05:00
 locationId: "e49c7980-7f5c-47dc-8f78-869e7dd21968"
 artists:
-  - La Luz
-  - Portugal. The Man
+  - "3804a6a6-4f46-4087-88f6-4656b3337241"
+  - "447f0a27-2b10-4c9c-b0f2-f9e6d7c8ee90"
 ---

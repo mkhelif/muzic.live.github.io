@@ -2,5 +2,5 @@
 date: 2026-08-04T20:00:00-04:00
 locationId: "c375d057-f440-4d23-b1c4-c4d8deb7e609"
 artists:
-  - Franz Ferdinand
+  - "1388e767-c9b1-40fe-84ca-e644dc2463f4"
 ---

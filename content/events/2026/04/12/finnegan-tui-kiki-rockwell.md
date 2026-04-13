@@ -2,6 +2,6 @@
 date: 2026-04-12T18:30:00+01:00
 locationId: "b1b9197f-7423-455d-a26f-b2f92076e790"
 artists:
-  - Finnegan Tui
-  - Kiki Rockwell
+  - "22ba3766-86b2-4bc7-a9e4-6508e1b1ee15"
+  - "ef9340bb-1b89-44d6-90be-8279f6cd5345"
 ---

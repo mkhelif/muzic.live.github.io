@@ -2,7 +2,8 @@
 {{ $eventDate := .Date | time.AsTime -}}
 DTSTAMP:{{ ($eventDate | time.In "UTC") | time.Format $format }}
 DTSTART:{{ ($eventDate | time.In "UTC") | time.Format $format }}
-{{ $artistsCount := printf "%dh" (cond (.Param "artists") (.Params.artists | len) 0) -}}
-{{ $duration := time.ParseDuration $artistsCount -}}
+{{ $artistsCount := 0 -}}
+{{ with .Params.artists }}{{ $artistsCount = len . }}{{ end -}}
+{{ $duration := time.ParseDuration (printf "%dh" $artistsCount) -}}
 DTEND:{{ (($eventDate.Add $duration) | time.In "UTC") | time.Format $format }}
 {{- /**/ -}}

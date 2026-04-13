@@ -2,8 +2,8 @@
 date: 2026-06-18T18:00:00+01:00
 locationId: "91c83211-5434-4543-aa7a-e52c3552771f"
 artists:
-  - Amy Macdonald
-  - Nathan Evans
-  - SAINT PHNX
-  - The Coral
+  - "ddfc3b61-7c0f-4722-a46e-f690c38f8f49"
+  - "92381a08-cd9b-415e-9c94-e0931566e778"
+  - "4b77718b-4344-4b0e-9997-8231dbbc39fc"
+  - "63969163-2db1-4faf-95c3-72dea9644edb"
 ---

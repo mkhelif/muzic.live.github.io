@@ -7,10 +7,10 @@ cover: "pictures/lofofora/02.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Meuhstache
-  - The Dungbeetle Conspiracy
-  - Lofofora
-  - SpaceBrain
+  - "c518c1e2-b44a-4e2c-80dc-88c14e4e6fe3"
+  - "f5599093-ec6a-4849-8241-e486095fffbe"
+  - "a4ea37f1-9973-40f2-8438-1d38fb4c83d0"
+  - "0c1ca2a9-dbb7-4e44-8ad8-404d3038c1a4"
 ---
 
 Pour sa troisième édition, le festival Lez'Arts Murailles avait vu les choses en grand : un double vernissage, une tête

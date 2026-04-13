@@ -2,5 +2,5 @@
 date: 2025-12-09T19:30:00-05:00
 locationId: "f37e24e5-4c47-4670-b03e-50a6f8815471"
 artists:
-  - Chris Isaak
+  - "19fd49d3-dde3-4528-8082-ec4e77ac46b0"
 ---

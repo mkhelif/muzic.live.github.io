@@ -2,5 +2,5 @@
 date: 2025-11-15T19:00:00+01:00
 locationId: "6195307f-3caf-4452-8f69-ec32d02fb697"
 artists:
-  - Sabaton
+  - "477cfe7f-0349-4843-ae01-f8e7000dd261"
 ---

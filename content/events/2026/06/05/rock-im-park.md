@@ -3,23 +3,23 @@ date: 2026-06-05 13:00:00+02:00
 festivalId: "8b6a48c3-3233-4eeb-9785-ff74ecf88ec8"
 locationId: "8ae82944-de5e-4973-bfd1-22238602d55f"
 artists:
-  - Linkin Park
-  - Iron Maiden
-  - Papa Roach
-  - The Offspring
-  - Within Temptation
-  - A Perfect Circle
-  - Social Distortion
-  - Sabaton
-  - Trivium
-  - Volbeat
-  - Architects
-  - Three Days Grace
-  - Hollywood Undead
-  - Marteria
-  - Electric Callboy
-  - BABYMETAL
-  - Ice Nine Kills
-  - Bad Omens
-  - LANDMVRKS
+  - "0b8a7424-dba1-4f5a-8f0e-42ebd1dd9f3b"
+  - "a98152c5-cd78-4264-9cb0-b074825ad314"
+  - "a154d4df-154b-400b-ae92-95c550c5d3cf"
+  - "7cb9544a-baac-4082-a8ca-cc74d6c50a7f"
+  - "e574adc0-cdf8-416a-9bae-c84920b59376"
+  - "d0f8e6cf-407f-4c7f-8bfa-262e69963b42"
+  - "9005b7af-5120-4da1-b2aa-3166284d0409"
+  - "477cfe7f-0349-4843-ae01-f8e7000dd261"
+  - "9a5961cc-80a5-4d0a-9d7b-a2957b223466"
+  - "63a79335-6099-47c3-8ccf-78a91a33586f"
+  - "11743457-87dc-4615-a083-2c34b37eeb40"
+  - "0c37f31b-10ff-44e8-9205-f7d5ff9de427"
+  - "d774c773-472f-4cd1-8d6e-a15efce12060"
+  - "ebfb33d9-4fef-45a2-81ce-729d52a6c11d"
+  - "74dd96c3-2ca5-4548-b0b0-6d9718ecb76a"
+  - "d5adce58-577c-4b5d-b766-722c8143259f"
+  - "e32a183f-ccf7-479e-bd87-283f8b704500"
+  - "ee8b695f-b273-4d57-ae7e-7d379d7a8d65"
+  - "6904a478-cc3a-4be8-819e-3f81eca3adf2"
 ---

@@ -2,5 +2,5 @@
 date: 2026-06-06T00:00:00+02:00
 locationId: "a3aff3ca-c80b-4157-a88d-ae35d8d2c09a"
 artists:
-  - Mosimann
+  - "1f2c99dc-cdcb-4c46-a937-9253b03e73e5"
 ---

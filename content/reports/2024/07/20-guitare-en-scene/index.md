@@ -7,11 +7,11 @@ cover: "pictures/rodrigo-y-gabriela/03.jpg"
 author: "mkhelif"
 rank: 8
 artists:
-  - LeanWolf
-  - Xavier Rudd
-  - Rodrigo y Gabriela
-  - Francis Cabrel
-  - Nino Baliardo
+  - "4d894ed6-6091-46ee-bcda-146549fb1e12"
+  - "0be79706-ed1e-4a08-ae29-6037112323b2"
+  - "bb0a1043-d8af-44fb-bca5-2778d6ab0437"
+  - "5507cc7a-918b-4397-844f-94892e9c9188"
+  - "78901e8e-0b49-48ff-8bae-3f52ae3c56fe"
 ---
 
 La troisième journée du festival Guitare en Scène est marquée par une diversité musicale, transformant la scène en un

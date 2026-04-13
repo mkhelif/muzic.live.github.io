@@ -7,8 +7,8 @@ cover: "pictures/bertrand-belin/.jpg"
 author: "mkhelif"
 rank: 9
 artists:
-  - Milla
-  - Bertrand Belin
+  - "b3a83259-8a14-4b9e-accf-b3bf0092c157"
+  - "0aaecd0d-4637-441b-b449-c3ba76dd4122"
 todo:
   - Add pictures for Milla
   - Add pictures for Bertrand Belin

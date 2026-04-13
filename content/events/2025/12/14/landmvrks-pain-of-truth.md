@@ -2,6 +2,6 @@
 date: 2025-12-14T19:00:00+01:00
 locationId: "6b634037-174c-4559-b614-4c499f1370f9"
 artists:
-  - LANDMVRKS
-  - Pain of Truth
+  - "6904a478-cc3a-4be8-819e-3f81eca3adf2"
+  - "c5a58616-6c59-402f-8e47-4a49e6e4ce74"
 ---

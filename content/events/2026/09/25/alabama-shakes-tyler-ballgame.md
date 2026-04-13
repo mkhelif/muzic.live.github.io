@@ -2,6 +2,6 @@
 date: 2026-09-25T19:00:00-07:00
 locationId: "7b098548-7d75-4b21-aebd-d36d21f75cc5"
 artists:
-  - Alabama Shakes
-  - Tyler Ballgame
+  - "de5f2824-1f2f-4251-93a9-1ac54043491a"
+  - "a600929e-dc23-4c53-a17e-7742f3084796"
 ---

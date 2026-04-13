@@ -2,5 +2,5 @@
 date: 2026-01-28T17:30:00+00:00
 locationId: "cb703142-961d-444c-a54f-26454d8b4c85"
 artists:
-  - MIKA
+  - "b2380604-a253-49d9-97be-25fd8ae1dfb9"
 ---

@@ -2,8 +2,8 @@
 date: 2025-11-11T19:00:00+01:00
 locationId: "6672e932-c84f-407e-8203-d31e235f6185"
 artists:
-  - NOTHING MORE
-  - Solence
-  - Ankor
-  - Catch Your Breath
+  - "21153c85-31ee-49db-8602-4f2512eca983"
+  - "e0c198b3-3f92-4dc0-a8d2-61bfeea80637"
+  - "d88304bd-4591-4713-a9a2-4a3fb06b9df6"
+  - "628894cb-f021-427b-9eee-0e19542ae38b"
 ---

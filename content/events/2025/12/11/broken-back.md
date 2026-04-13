@@ -2,5 +2,5 @@
 date: 2025-12-11T20:15:00+01:00
 locationId: "dd496879-b874-44f0-b0a9-865758215859"
 artists:
-  - Broken Back
+  - "9a68812d-53e4-4446-bff6-20eb0938f030"
 ---

@@ -2,8 +2,8 @@
 date: 2026-06-14T18:00:00-07:00
 locationId: "4063bf11-95b1-4483-a3cb-9a33f1299ef7"
 artists:
-  - Cimafunk
-  - Gregory Porter
-  - Kokoroko
-  - Patti LaBelle
+  - "b595ab13-040e-4198-ab9e-294539844b91"
+  - "cab4c355-2aa0-47e4-8dd0-e5c0cd702be3"
+  - "cf941eb0-ea11-488e-8970-e5605d13ad91"
+  - "adac1dc9-f59d-4548-83d7-f7c523135b83"
 ---

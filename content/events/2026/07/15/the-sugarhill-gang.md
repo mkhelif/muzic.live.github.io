@@ -2,5 +2,5 @@
 date: 2026-07-15T18:00:00+01:00
 locationId: "4faa77b2-8506-4d97-a874-9c14a6d84b9b"
 artists:
-  - The Sugarhill Gang
+  - "6d9375ee-1251-4bea-b4ba-74640516cc47"
 ---

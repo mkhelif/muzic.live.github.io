@@ -2,5 +2,5 @@
 date: 2027-01-09T20:00:00-08:00
 locationId: "69534565-fee9-45c0-9642-6619987c4257"
 artists:
-  - Anna von Hausswolff
+  - "04c61bd9-83c9-489f-a3f5-0eb10baf8bcf"
 ---

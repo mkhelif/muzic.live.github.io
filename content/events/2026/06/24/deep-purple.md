@@ -2,5 +2,5 @@
 date: 2026-06-24T19:00:00+02:00
 locationId: "34bb62a1-ea4c-41de-8d0c-76461de17011"
 artists:
-  - Deep Purple
+  - "3c73672f-8be9-4a35-881e-8f643dc26630"
 ---

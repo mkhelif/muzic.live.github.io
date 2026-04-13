@@ -2,7 +2,7 @@
 date: 2026-07-03T18:30:00+01:00
 locationId: "7ae26562-82b0-493a-a834-72bd853183a3"
 artists:
-  - Robyn
-  - Saya Gray
-  - Zhala
+  - "67644da8-75c5-446c-804e-43cb94ee2c20"
+  - "35074d96-f001-461c-8c28-60eaa0abacc5"
+  - "75b7713b-cd49-4ba2-8d5e-d570b0d6c818"
 ---

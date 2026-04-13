@@ -2,7 +2,7 @@
 date: 2026-07-25T18:00:00+03:00
 locationId: "466b684d-1d93-4de7-b544-dbd1cea4f925"
 artists:
-  - Epica
-  - Sabaton
-  - Savatage
+  - "a5615ab9-5074-471b-a082-287ee2701753"
+  - "477cfe7f-0349-4843-ae01-f8e7000dd261"
+  - "a456f8ca-8f03-409e-a688-43295df9214f"
 ---

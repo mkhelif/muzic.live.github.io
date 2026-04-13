@@ -7,13 +7,13 @@ cover: "pictures/vladimir-cauchemar/02.jpg"
 author: "mkhelif"
 rank: 7
 artists:
-  - Flaur
-  - Yuston XIII
-  - Mystically
-  - MC Solaar
-  - Zed Yun Pavarotti
-  - Vladimir Cauchemar
-  - Manudigital
+  - "bb2d1a60-9465-4724-9209-25e2d9e18b97"
+  - "1f80065a-496b-4e1e-8ee1-bea2d04cb4b0"
+  - "5a6cd4f1-3188-469a-be4f-d30a012d1de5"
+  - "9c887275-5393-4bda-adee-ffab7cb258af"
+  - "9cb4682e-90fb-4e11-abbf-ca2a0bfd3563"
+  - "273fb493-da91-4853-9fb7-e49b11a17635"
+  - "51436830-d36e-461d-85f1-b1145fec0cf7"
 ---
 
 Pour sa deuxième journée, le Festival de la Paille a déployé une programmation éclectique oscillant entre moments

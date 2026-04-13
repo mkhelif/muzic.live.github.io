@@ -2,6 +2,6 @@
 date: 2026-08-28T19:00:00-05:00
 locationId: "a857f845-1302-4db6-9765-c07ff060d5ac"
 artists:
-  - Alabama Shakes
-  - Hannah Cohen
+  - "de5f2824-1f2f-4251-93a9-1ac54043491a"
+  - "342e0a94-c264-4b65-b672-24ec84dce6ba"
 ---

@@ -2,5 +2,5 @@
 date: 2025-12-11T20:30:00+01:00
 locationId: "b170ea35-5e3a-48e2-bafd-49bbe57564e5"
 artists:
-  - Mass Hysteria
+  - "8b386859-0b16-4360-a012-16cf85585137"
 ---

@@ -2,5 +2,5 @@
 date: 2026-02-27T19:30:00-06:00
 locationId: "5c596a76-1830-4614-8eda-c420b95a0462"
 artists:
-  - Matteo Mancuso
+  - "ce405914-4efe-4a7f-9f81-f4d1da70854b"
 ---

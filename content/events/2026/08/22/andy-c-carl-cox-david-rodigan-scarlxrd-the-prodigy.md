@@ -2,9 +2,9 @@
 date: 2026-08-22T15:00:00+01:00
 locationId: "83dd096e-32eb-4040-b4a9-8aaa0996d92b"
 artists:
-  - Andy C
-  - Carl Cox
-  - David Rodigan
-  - Scarlxrd
-  - The Prodigy
+  - "e5095713-822c-4b6b-b2d0-9f19e9454777"
+  - "c844a8c3-8c59-426d-abfc-f7a755bcd96e"
+  - "66047ddd-37c2-44e1-8c63-0ed7177349f2"
+  - "412257c3-985d-4db9-91e7-fb034dbb2264"
+  - "d631a100-ff22-4e3a-843f-1c76a58db5f7"
 ---

@@ -2,6 +2,6 @@
 date: 2025-12-18T18:30:00+00:00
 locationId: "7ae26562-82b0-493a-a834-72bd853183a3"
 artists:
-  - Finn Forster
-  - Stereophonics
+  - "af51446e-5719-4c11-ad8a-5016870fb7fd"
+  - "070c10f4-5ab0-4a03-82d0-3e840033832c"
 ---

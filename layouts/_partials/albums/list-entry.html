@@ -13,9 +13,9 @@
     <h4>
         <a href="{{ .album.RelPermalink }}">
             {{ with .album.Params.artists }}
-                {{ range $index, $artist := . }}
+                {{ range $index, $id := . }}
                     {{- if (gt $index 0) }}, {{ end -}}
-                    {{ . }}
+                    {{- partial "artists/name.html" $id -}}
                 {{ end }} -
             {{ end }}
             {{ .album.LinkTitle }}

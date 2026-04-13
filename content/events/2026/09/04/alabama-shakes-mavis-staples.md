@@ -2,6 +2,6 @@
 date: 2026-09-04T20:00:00-04:00
 locationId: "b6f27995-c213-4c64-9471-13e3ad8ae409"
 artists:
-  - Alabama Shakes
-  - Mavis Staples
+  - "de5f2824-1f2f-4251-93a9-1ac54043491a"
+  - "160da6e1-ba4f-4a71-89aa-c4999254a366"
 ---

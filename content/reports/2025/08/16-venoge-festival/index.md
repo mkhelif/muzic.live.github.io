@@ -7,14 +7,14 @@ cover: "pictures/mika/01.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Nuit Incolore
-  - Flèche Love
-  - Adèle Castillon
-  - Carbonne
-  - IAM
-  - Eddy de Pretto
-  - MIKA
-  - Mosimann
+  - "77327d7a-4972-4f6d-b2af-ab8dad02f27a"
+  - "fc38d45c-c709-416b-98c2-ab1b149c72ad"
+  - "58dbbe35-9c6e-4a60-a974-2e75e6d08df5"
+  - "c994ca94-947d-49c0-a821-3c7add10d236"
+  - "e4ef32b3-ef4d-4d7e-9925-bbcc3706671b"
+  - "ba76eed2-50c9-4fed-9156-c9724b6446fa"
+  - "b2380604-a253-49d9-97be-25fd8ae1dfb9"
+  - "1f2c99dc-cdcb-4c46-a937-9253b03e73e5"
 ---
 
 {{< carousel pictures="pictures/nuit-incolore" alt="Nuit Incolore" author="mkhelif.photo" >}}

@@ -2,8 +2,8 @@
 date: 2026-10-02T19:00:00+02:00
 locationId: "f0cba2b7-363e-4b86-9201-1e47678782db"
 artists:
-  - Himra
-  - Josman
-  - La Rvfleuze
-  - Niska
+  - "f4b67133-3c1a-40e1-b0ad-67f18397e014"
+  - "f27353c1-2f48-4db8-8075-28c21d6c0ce6"
+  - "695c6224-8223-4904-a8cf-bb8e74ea4736"
+  - "583715c3-660b-415b-9196-5b52b5fda6a6"
 ---

@@ -2,5 +2,5 @@
 date: 2025-11-06T20:00:00+01:00
 locationId: "07167781-2a16-464c-b722-bd6fa1f67769"
 artists:
-  - Vendredi sur Mer
+  - "00d73f02-6d56-4de9-a57f-d967e082d099"
 ---

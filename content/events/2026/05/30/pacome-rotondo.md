@@ -2,5 +2,5 @@
 date: 2026-05-30T19:30:00+02:00
 locationId: "c390166b-fa71-484c-ac18-51c1368b5278"
 artists:
-  - Pacôme Rotondo
+  - "674f3c50-024a-4dce-9321-82da5467665e"
 ---

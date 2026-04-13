@@ -6,8 +6,8 @@ cover: "pictures/gavin-james/03.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Lost in Lona
-  - Gavin James
+  - "34edfda5-5c66-4996-86a6-0858162d78cb"
+  - "a032b0b8-838c-461a-9891-e2bf592de8fe"
 ---
 
 Les Docks de Lausanne ont vibré au rythme des mélodies pop-folk de Gavin James, précédé par la douceur du duo suisse

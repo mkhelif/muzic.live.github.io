@@ -1,0 +1,3 @@
+{{- range where (where site.RegularPages "Section" "artists") ".Params.id" . -}}
+    {{ .LinkTitle | safeHTML -}}
+{{- end -}}

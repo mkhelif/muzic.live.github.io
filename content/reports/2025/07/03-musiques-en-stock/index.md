@@ -7,10 +7,10 @@ cover: "pictures/atoem/01.jpg"
 author: "mkhelif"
 rank: 8
 artists:
-  - Fugue
-  - Feldup
-  - Gringe
-  - ATOEM
+  - "835bc880-4d35-4d8c-b271-5602711c7a8b"
+  - "de5dd543-22f9-4e1a-a53c-4aafc85b8c77"
+  - "6e6febdd-dd7a-45f2-8220-3c1ec817a95c"
+  - "7ff86d9e-896b-46f8-9f66-808214decdec"
 ---
 
 Le premier soir du festival Musiques en Stock à Scionzier a offert une traversée musicale audacieuse, mêlant post-punk

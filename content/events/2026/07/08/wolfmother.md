@@ -2,5 +2,5 @@
 date: 2026-07-08T20:00:00-07:00
 locationId: "69534565-fee9-45c0-9642-6619987c4257"
 artists:
-  - Wolfmother
+  - "3b787e45-2a7c-49ac-87b9-ba7f9f636a42"
 ---

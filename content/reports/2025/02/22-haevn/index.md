@@ -6,7 +6,7 @@ cover: "pictures/haevn/06.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Haevn
+  - "98e37a4e-4214-47bc-be3d-efbbe640b933"
 ---
 
 {{< carousel pictures="pictures/haevn" alt="Haevn" author="mkhelif.photo" >}}

@@ -7,10 +7,10 @@ cover: "pictures/eagle-eye-cherry/08.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Climax
-  - Simone Ringer
-  - RAW
-  - Eagle-Eye Cherry
+  - "007b566c-88ae-41b7-bd4b-3ad63a429420"
+  - "5a12d4a9-cea4-47b9-aba6-3f9ebf279b5b"
+  - "bbf6c17d-db6b-4634-a168-b1a1c5fa814b"
+  - "4a8092a2-dfe1-463e-b0b8-3070d6b6d2db"
 ---
 
 Dernière soirée du Poprock Festival qui orchestre une montée dramatique qui synthétise parfaitement l'esprit du

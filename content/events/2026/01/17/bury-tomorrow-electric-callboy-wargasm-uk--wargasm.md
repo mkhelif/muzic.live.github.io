@@ -2,8 +2,8 @@
 date: 2026-01-17T19:30:00+01:00
 locationId: "7acb72fe-c7ce-4552-b40f-f0d8603c0228"
 artists:
-  - Bury Tomorrow
-  - Electric Callboy
-  - WARGASM (UK)
-  - Wargasm
+  - "e7a5711b-914c-4317-9d77-6af95cbc1a7b"
+  - "74dd96c3-2ca5-4548-b0b0-6d9718ecb76a"
+  - "336c771c-4528-4c06-89fd-bb3118136696"
+  - "66933f21-eca6-4e06-9f25-807e62384f0e"
 ---

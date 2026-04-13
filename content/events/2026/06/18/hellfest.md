@@ -3,29 +3,29 @@ date: 2026-06-18 12:00:00+02:00
 festivalId: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
 locationId: "a96150fd-cd15-4d68-8c73-31fff4f3ae29"
 artists:
-  - Bring Me The Horizon
-  - Papa Roach
-  - Breaking Benjamin
-  - The Plot In You
-  - We Came As Romans
-  - Deep Purple
-  - Alice Cooper
-  - The Pretty Reckless
-  - Alestorm
-  - Social Distortion
-  - All Time Low
-  - Shelter
-  - Lagwagon
-  - Satanic Surfers
-  - Kadavar
-  - Uncle Acid & The Deadbeats
-  - The Inspector Cluzo
-  - Elder
-  - Truckfighters
-  - Igorrr
-  - The Halo Effect
-  - Rivers Of Nihil
-  - SKALD
-  - Feuerschwanz
-  - Borknagar
+  - "74853478-470b-47e4-8457-ff9ebfa69ce2"
+  - "a154d4df-154b-400b-ae92-95c550c5d3cf"
+  - "55cf8715-3023-49cf-9569-44aa2f84f888"
+  - "49c29f3a-3798-4168-9e26-5250fa2b351b"
+  - "1c458585-c342-4ba5-8277-1a5715507b7e"
+  - "3c73672f-8be9-4a35-881e-8f643dc26630"
+  - "c53f2102-8d18-46a5-a3de-752ccd168902"
+  - "8502b3f2-e118-4a1d-8580-cc48a8ea1efd"
+  - "8defcffd-a441-4dff-9819-532af8c17679"
+  - "9005b7af-5120-4da1-b2aa-3166284d0409"
+  - "0685c69e-1ffe-4f60-8b8c-c9f8e7d10690"
+  - "ea439630-2161-4da6-b997-91a83837430a"
+  - "cde65231-f812-4eed-ac15-192ed7048c91"
+  - "753cc0b7-e889-47a4-b2b8-32ace3555555"
+  - "feae3867-5fc0-4975-8dfb-91ca936b5a54"
+  - "f13bbcb3-4140-4ab8-8694-0bdbb97e95f8"
+  - "e7519b44-fd6a-4eb6-9ae1-88b12d266419"
+  - "b1268e5f-8923-4165-88c1-0c08a0ee873a"
+  - "6de26da7-6bde-4231-a3ef-63eef9d60276"
+  - "e13ccf39-606b-4fb3-96e8-864d99b2f091"
+  - "80627aed-095b-44e1-a3bd-82356180aa14"
+  - "431dd317-fc46-4673-b037-509580e3d29a"
+  - "937a55f6-d2e4-4438-887e-3f68fa77549b"
+  - "0843db71-c40e-4fc2-9e54-e65b52190f5f"
+  - "39ba2726-0de5-422a-9cfa-c24cb6c3c9c9"
 ---

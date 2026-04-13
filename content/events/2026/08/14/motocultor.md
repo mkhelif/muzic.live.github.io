@@ -3,21 +3,21 @@ date: 2026-08-14 12:00:00+02:00
 festivalId: "9a6fffd4-43b0-4097-9556-14f69b24b419"
 locationId: "9633bc88-aa43-441e-b64e-4c67e149e765"
 artists:
-  - Slaughter to Prevail
-  - Emperor
-  - Paradise Lost
-  - Mass Hysteria
-  - Chelsea Grin
-  - Lord of the Lost
-  - Alcest
-  - SOEN
-  - Textures
-  - Bolzer
-  - Hellripper
-  - Iotunn
-  - Visions of Atlantis
-  - Cage Fight
-  - Urne
-  - Master Boot Record
-  - Miracle of Sound
+  - "23c3c51b-70b4-46ef-85e4-4266dc2909ff"
+  - "076b7910-99e2-4727-968f-cfdb619a9002"
+  - "a36fc689-098e-41c1-b6b5-b9cd3a49b36e"
+  - "8b386859-0b16-4360-a012-16cf85585137"
+  - "a329f0d0-5d33-4454-a499-9792a7376ca7"
+  - "95b09f5b-df4c-4e6f-835b-953674eacca5"
+  - "9e16164e-b9e9-4a31-90d5-dccb54ef0ff0"
+  - "7f854bed-ca88-4c33-9be8-2d4f6c4d1b22"
+  - "bea79c3d-42d8-4c80-8915-fea5004f9cf7"
+  - "f1e143f8-8e4a-4a23-a3b4-cb00e75524b1"
+  - "8bc7c13f-4261-47ed-bd27-fb7d717e895d"
+  - "c81b976b-6809-4ed4-9cce-2cf33210644d"
+  - "5faf843a-fbd0-4108-ae0b-a9fe3c1c69aa"
+  - "5db72fc0-999c-415f-a8d7-871904ffe8a8"
+  - "49db20de-c1ca-44cd-8a49-f79e18111e2b"
+  - "81469991-7be5-401d-aa7b-d22059b424bc"
+  - "97c193c4-f165-412f-9c0e-3bde8007115a"
 ---

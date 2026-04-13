@@ -2,5 +2,5 @@
 date: 2025-12-13T20:00:00-05:00
 locationId: "33eb2f5a-b0a0-41a0-af51-365e665844cd"
 artists:
-  - grandson
+  - "68618401-47a8-439b-8e62-ba14b080ff6a"
 ---

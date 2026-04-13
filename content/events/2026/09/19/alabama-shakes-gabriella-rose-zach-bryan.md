@@ -2,7 +2,7 @@
 date: 2026-09-19T15:00:00-04:00
 locationId: "0580ef4f-5cc6-4238-a2a0-57489ad21880"
 artists:
-  - Alabama Shakes
-  - Gabriella Rose
-  - Zach Bryan
+  - "de5f2824-1f2f-4251-93a9-1ac54043491a"
+  - "94c9c76e-82b7-43d8-8225-f56bb275a51b"
+  - "0b31e661-9de7-485c-9fc9-52f48b4ce349"
 ---

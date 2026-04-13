@@ -7,8 +7,8 @@ cover: "pictures/elie-zoe/04.jpg"
 author: "mkhelif"
 rank: 7
 artists:
-  - Prune Carmen Diaz
-  - Elie Zoé
+  - "984385ab-b650-4a7b-b4cf-0529ee3be271"
+  - "bb0e9c76-6f88-42f7-9683-39f0a5d52a8a"
 ---
 
 Cette soirée en double affiche orchestrée par Humus Records dessine les contours d'une scène romande alternative qui

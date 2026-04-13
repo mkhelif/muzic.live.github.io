@@ -2,5 +2,5 @@
 date: 2025-11-13T19:30:00-05:00
 locationId: "050321f6-7312-4536-94b6-f32fc0bd1d18"
 artists:
-  - John Fogerty
+  - "c0049171-e2f8-4956-b28a-afd8827857d6"
 ---

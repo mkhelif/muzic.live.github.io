@@ -3,31 +3,31 @@ date: 2026-06-20 12:00:00+02:00
 festivalId: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
 locationId: "a96150fd-cd15-4d68-8c73-31fff4f3ae29"
 artists:
-  - Limp Bizkit
-  - A Perfect Circle
-  - Tom Morello
-  - Static-X
-  - Volbeat
-  - Megadeth
-  - Anthrax
-  - Cavalera
-  - Hatebreed
-  - Lionheart
-  - Kublai Khan TX
-  - Cro-Mags
-  - Trash Talk
-  - Cancer Bats
-  - Cult of Luna
-  - Amenra
-  - The Young Gods
-  - God Is An Astronaut
-  - Deicide
-  - Carcass
-  - Septicflesh
-  - Obscura
-  - Behemoth
-  - Old Man's Child
-  - Aura Noir
-  - Oranssi Pazuzu
-  - Gaerea
+  - "09ecd7d6-10aa-4f24-8fb4-3c5b927f2a36"
+  - "d0f8e6cf-407f-4c7f-8bfa-262e69963b42"
+  - "47cbc411-56c2-421b-87db-e2e6d923e62d"
+  - "816929f1-5039-4cfe-9782-71f8f394cdfd"
+  - "63a79335-6099-47c3-8ccf-78a91a33586f"
+  - "c09d0d5e-3918-4c11-ae2c-c026c07868bb"
+  - "14bfc179-ba8f-47d2-831c-872813affbf8"
+  - "db1049f5-9152-4c51-87c4-8cadc3a68efa"
+  - "66f8f414-5873-4b3f-90ae-8f9882565638"
+  - "151a26ea-ee14-4bd8-9004-433b7aecc8f8"
+  - "af57c201-1b6f-493d-91d4-e6b6116ef4f9"
+  - "b54c0a21-d8e5-4bb3-ba89-d2c8558cb3a8"
+  - "8ac9026b-3494-4454-8692-8d7e362b3f08"
+  - "c1866711-e288-42e1-ae72-e5fa0470ab9e"
+  - "76c2397a-499f-4490-9657-944242611394"
+  - "ab576014-5b3b-47a6-b2b5-a49f4a27118c"
+  - "67d4ab51-5979-466b-9c89-daf669fc2500"
+  - "8407e572-5bc9-46d7-97d2-ac65908ec4ba"
+  - "9997da65-8269-4a5e-af99-61c22e63416a"
+  - "e307f056-1a33-442a-b9b9-d6b0d46cee22"
+  - "c2e4c7ff-8446-4761-ba79-08eb1cc9d798"
+  - "e9931215-400e-4b63-9ed7-25bb57e207e5"
+  - "ce63358e-6612-443b-a28b-ea019eb8e333"
+  - "a4a9f396-7e3f-41a5-a77a-70e408b9c452"
+  - "f96e6217-ef67-41b4-8501-28f89763e283"
+  - "5fab8220-1483-43a9-b8f1-80384d62d139"
+  - "80f66fff-bbc0-4d7c-98ea-d8d353e6efbd"
 ---

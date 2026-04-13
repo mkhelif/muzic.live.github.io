@@ -7,10 +7,10 @@ cover: "pictures/madam/02.jpg"
 author: "mkhelif"
 rank: 10
 artists:
-  - Showcave
-  - MADAM
-  - Hey Satan
-  - SOEN
+  - "bba2e15f-646f-4ff2-8f15-34cadc0a49f2"
+  - "bcd28ca5-451c-4701-a968-48086d087d28"
+  - "f59d3471-0356-40bc-98cc-2a62a1aed47a"
+  - "7f854bed-ca88-4c33-9be8-2d4f6c4d1b22"
 ---
 
 Cette soirée d'ouverture du Poprock Festival 2025 dessine une cartographie du rock contemporain dans sa diversité

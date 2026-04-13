@@ -2,9 +2,9 @@
 date: 2026-07-31T17:00:00+02:00
 locationId: "c4932f78-03e5-4901-a7e7-a0e5172eef15"
 artists:
-  - Bigflo & Oli
-  - Danakil
-  - Josman
-  - Thylacine
-  - disiz
+  - "75d59ff6-7ac5-4f03-8094-bc455cdc9d6a"
+  - "18d9ad69-9cb9-4880-a417-3d5bf70fc8e1"
+  - "f27353c1-2f48-4db8-8075-28c21d6c0ce6"
+  - "408ec437-b75c-47d8-9dd6-78011ac7c011"
+  - "2daaab87-62b4-43f2-b950-450266800867"
 ---

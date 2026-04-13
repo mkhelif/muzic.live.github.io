@@ -3,10 +3,10 @@ date: 2026-04-24 18:00:00+02:00
 festivalId: "7d93d181-be1d-485b-ab16-7f0af3010fc0"
 locationId: "6637ab77-8328-485b-9711-942be86fd6d7"
 artists:
-  - Wicked Elephant Revival
-  - Datcha Mandala
-  - LOONS
-  - Catchy Peril
-  - Sun Brutal Pop
-  - Cachemire
+  - "fe80afc3-3896-4637-8190-b5f7cb3ae92f"
+  - "f92ee195-83e2-4108-921d-0cf7d2a05b6d"
+  - "73fd9807-7cb6-43b9-bdcc-4e57d192f146"
+  - "36aa2101-60b2-433c-9b89-7127c6212c38"
+  - "89e1cefa-e1d0-4470-b3c6-5bc604d6850f"
+  - "c1ee1791-6f40-4d6a-9ebc-1ef6691f2968"
 ---
