@@ -45,7 +45,11 @@ _ = french.gettext
 
 COUNTRIES = {}
 for country in pycountry.countries:
-    COUNTRIES[country.alpha_2.upper()] = _(country.name)
+    COUNTRIES[country.alpha_2.upper()] = {
+        'name': _(country.name)
+        'code': country.alpha_3
+    }
+
 
 LOCATIONS = {
     'House of Blues Las Vegas ': 'House of Blues',
@@ -154,7 +158,7 @@ def format_filename(name):
 
 def get_or_create_location_country(country):
     country_id = None
-    directory = Path(f"./content/locations/{format_filename(country)}")
+    directory = Path(f"./content/locations/{format_filename(country.code)}")
     directory.mkdir(parents = True, exist_ok = True)
     file = directory.joinpath("_index.md")
 
@@ -165,7 +169,7 @@ def get_or_create_location_country(country):
         file.write_text(f"""\
 ---
 id: "{country_id}"
-title: "{country}"
+title: "{country.name}"
 ---
 """)
     if country_id is None:
@@ -174,7 +178,7 @@ title: "{country}"
 
 def get_or_create_location_city(country, city):
     city_id = None
-    directory = Path(f"./content/locations/{format_filename(country)}/{format_filename(city)}")
+    directory = Path(f"./content/locations/{format_filename(country.code)}/{format_filename(city)}")
     directory.mkdir(parents = True, exist_ok = True)
     file = directory.joinpath("_index.md")
 
@@ -195,7 +199,7 @@ title: "{city}"
 
 def get_or_create_location(location):
     location_id = None
-    directory = Path(f"./content/locations/{format_filename(location['country'])}/{format_filename(location['city'])}/{format_filename(location['name'])}")
+    directory = Path(f"./content/locations/{format_filename(location['country'].code)}/{format_filename(location['city'])}/{format_filename(location['name'])}")
     directory.mkdir(parents = True, exist_ok = True)
     file = directory.joinpath("index.md")
 
@@ -211,7 +215,7 @@ title: "{location['name']}"
 ---
 """)
     if location_id is None:
-        raise Exception(f"Could not create location {location['country']} - {location['city']} - {location['name']}")
+        raise Exception(f"Could not create location {location['country'].name} - {location['city']} - {location['name']}")
     return location_id
 
 #
