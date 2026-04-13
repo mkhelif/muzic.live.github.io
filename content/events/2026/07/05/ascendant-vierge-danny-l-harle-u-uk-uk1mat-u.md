@@ -6,4 +6,6 @@ artists:
   - Ascendant Vierge
   - Danny L Harle
   - ¥ØU$UK€ ¥UK1MAT$U
+tickets:
+  web: "https://tickets.montreuxjazz.com/webshop/webticket/seatmap?eventId=507"
 ---

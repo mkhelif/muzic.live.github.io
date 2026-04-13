@@ -6,4 +6,6 @@ artists:
   - Erin LeCount
   - Iliona
   - Paris Paloma
+tickets:
+  web: "https://tickets.montreuxjazz.com/webshop/webticket/seatmap?eventId=515"
 ---

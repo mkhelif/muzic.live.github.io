@@ -4,4 +4,7 @@ festivalId: "1e091511-4a09-491d-92c7-50510b8f3911"
 locationId: "bc4a67d5-e5cc-4bea-aac4-c9ed2482daeb"
 artists:
   - RAYE
+tickets:
+  web: "https://tickets.montreuxjazz.com/webshop/webticket/seatmap?eventId=504"
+full: true
 ---

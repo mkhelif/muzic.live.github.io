@@ -5,4 +5,7 @@ locationId: "bc4a67d5-e5cc-4bea-aac4-c9ed2482daeb"
 artists:
   - Moby
   - Noga Erez
+tickets:
+  web: "https://tickets.montreuxjazz.com/webshop/webticket/seatmap?eventId=532"
+full: true
 ---

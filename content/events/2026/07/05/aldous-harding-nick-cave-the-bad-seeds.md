@@ -5,4 +5,6 @@ locationId: "bc4a67d5-e5cc-4bea-aac4-c9ed2482daeb"
 artists:
   - Aldous Harding
   - Nick Cave & The Bad Seeds
+tickets:
+  web: "https://tickets.montreuxjazz.com/webshop/webticket/seatmap?eventId=522"
 ---

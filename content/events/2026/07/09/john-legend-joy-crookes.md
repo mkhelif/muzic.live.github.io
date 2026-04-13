@@ -5,4 +5,6 @@ locationId: "bc4a67d5-e5cc-4bea-aac4-c9ed2482daeb"
 artists:
   - John Legend
   - Joy Crookes
+tickets:
+  web: "https://tickets.montreuxjazz.com/webshop/webticket/seatmap?eventId=526"
 ---

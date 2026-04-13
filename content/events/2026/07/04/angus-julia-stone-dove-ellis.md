@@ -5,4 +5,6 @@ locationId: "dcba98e3-f6fc-4768-92eb-b86b1298fa0f"
 artists:
   - Angus & Julia Stone
   - Dove Ellis
+tickets:
+  web: "https://tickets.montreuxjazz.com/webshop/webticket/seatmap?eventId=506"
 ---

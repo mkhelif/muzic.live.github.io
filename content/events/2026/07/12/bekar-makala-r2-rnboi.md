@@ -7,4 +7,6 @@ artists:
   - Makala
   - R2
   - RnBoi
+tickets:
+  web: "https://tickets.montreuxjazz.com/webshop/webticket/seatmap?eventId=514"
 ---
