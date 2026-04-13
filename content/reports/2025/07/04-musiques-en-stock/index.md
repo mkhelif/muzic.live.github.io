@@ -1,12 +1,11 @@
 ---
-date: "2025-07-04T19:00:00+02:00"
-title: "Musiques en Stock 2025 - Jour 2 - Crazy Jess, Ménades, Kid Kapichi, Bloc Party"
-author: "mkhelif"
-cover: "pictures/bloc-party/09.jpg"
-rank: 10
+date: 2025-07-04T19:00:00+02:00
+festivalId: "92ee72eb-532a-4ccd-bf2c-3233f055ca4b"
 locationId: "830edf51-8e24-4f4c-ac2c-408e20ecb99a"
-festivals:
-  - Musiques en Stock
+title: "Musiques en Stock 2025 - Jour 2 - Crazy Jess, Ménades, Kid Kapichi, Bloc Party"
+cover: "pictures/bloc-party/09.jpg"
+author: "mkhelif"
+rank: 10
 artists:
   - Crazy Jess
   - Menades
@@ -67,4 +66,3 @@ ambiance hypnotique.
 
 Dommage que les musiciens soient restés dans l’ombre – on aurait aimé plus de visibilité pour ce line-up légendaire.
 Une deuxième nuit explosive, une programmation qui prouve que le rock, sous toutes ses formes, est bien vivant.
-

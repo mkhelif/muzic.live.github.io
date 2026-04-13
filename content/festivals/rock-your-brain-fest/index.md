@@ -1,11 +1,12 @@
 ---
+id: "fd55ec3f-deac-4d90-a637-04cf1d0ffbe1"
 title: "Rock Your Brain Fest"
 cover: "cover.jpg"
 socials:
   facebook: "RockYourBrainFest"
   instagram: "rockyourbrainfest"
-  youtube: "@Zone51-Selestat"
   web: "https://www.zone51.net/"
+  youtube: "@Zone51-Selestat"
 ---
 
 Le Rock Your Brain Fest est LE rendez-vous incontournable des musiques alternatives en Alsace. Installé à Sélestat, ce

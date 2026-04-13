@@ -1,10 +1,10 @@
 ---
-date: "2025-02-16T20:00:00+02:00"
-title: "off:circuit, Oscar and the Wolf"
-author: "mkhelif"
-cover: "pictures/oscar-and-the-wolf/07.jpg"
-rank: 8
+date: 2025-02-16T20:00:00+02:00
 locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
+title: "off:circuit, Oscar and the Wolf"
+cover: "pictures/oscar-and-the-wolf/07.jpg"
+author: "mkhelif"
+rank: 8
 artists:
   - off:circuit
   - Oscar and the Wolf

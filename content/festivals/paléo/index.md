@@ -1,12 +1,13 @@
 ---
+id: "58957937-9b74-411e-9a93-45e0ac47a67e"
 title: "Paléo"
 cover: "cover.jpg"
 socials:
   facebook: "paleofestivalnyon"
   instagram: "paleofestival"
   tiktok: "@paleofestival"
-  youtube: "@PaléoFestivalNyon26"
   web: "https://paleo.ch/"
+  youtube: "@PaléoFestivalNyon26"
 ---
 
 Chaque année, fin juillet, la plaine de l'Asse se transforme. Là où paissent d'ordinaire les vaches au pied du Jura

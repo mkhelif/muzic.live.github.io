@@ -1,12 +1,12 @@
 ---
-date: "2025-09-04T14:30:00+02:00"
+date: 2025-09-04T14:30:00+02:00
 title: "Les Tambours du Bronx : \"The Wild Pack\", la déferlante industrielle française frappe à nouveau"
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Les Tambours du Bronx
 albums:
   - The Wild Pack
-hero: "hero.jpg"
-cover: "cover.jpg"
 ---
 
 ![The Wild Pack](album.jpg)

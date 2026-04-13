@@ -1,11 +1,12 @@
 ---
+id: "7d93d181-be1d-485b-ab16-7f0af3010fc0"
 title: "La Sainte Rock"
 cover: "cover.jpg"
 socials:
+  email: "lasainterock@gmx.fr"
   facebook: "profile.php?id=61552656495025"
   instagram: "lasainterockfestival"
   web: "https://lasainterockfestival.fr/"
-  email: "lasainterock@gmx.fr"
 ---
 
 ## Quand le rock plante ses amplis au pied de la Sainte-Victoire

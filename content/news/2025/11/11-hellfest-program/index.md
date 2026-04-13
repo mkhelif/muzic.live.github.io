@@ -1,8 +1,9 @@
 ---
-date: "2025-11-11T08:30:00+02:00"
+date: 2025-11-11T08:30:00+02:00
+festivalId: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
 title: "Hellfest 2026 : Une programmation monumentale avec 183 groupes et des têtes d'affiche explosives"
-festivals:
-  - Hellfest
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Bring Me The Horizon
   - Papa Roach
@@ -187,8 +188,6 @@ artists:
   - Thy Light
   - Austere
   - Silhouette
-hero: "hero.jpg"
-cover: "cover.jpg"
 ---
 
 **Iron Maiden, Bring Me The Horizon, Limp Bizkit et The Offspring domineront les quatre journées du 18 au 21 juin à

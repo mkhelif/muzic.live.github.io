@@ -1,10 +1,10 @@
 ---
-date: "2024-10-27T20:00:00+02:00"
-title: "LePhar, ASH"
-author: "mkhelif"
-cover: "pictures/lephar/02.jpg"
-rank: 8
+date: 2024-10-27T20:00:00+02:00
 locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
+title: "LePhar, ASH"
+cover: "pictures/lephar/02.jpg"
+author: "mkhelif"
+rank: 8
 artists:
   - LePhar
   - ASH

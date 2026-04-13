@@ -1,12 +1,11 @@
 ---
-date: "2024-05-20T07:45:32+02:00"
-title: "Nantuafest 2024 - Jour 3 - Lakna, Styleto, The Doug, Niska, Feder, Blasterjaxx"
-author: "mkhelif"
-cover: "pictures/the-doug/01.jpg"
-rank: 6
+date: 2024-05-20T07:45:32+02:00
+festivalId: "e33f81d6-e91b-41a7-9499-023c018e3cb5"
 locationId: "080a0659-9aa9-4098-87fb-bc491fed9695"
-festivals:
-  - Nantuafest
+title: "Nantuafest 2024 - Jour 3 - Lakna, Styleto, The Doug, Niska, Feder, Blasterjaxx"
+cover: "pictures/the-doug/01.jpg"
+author: "mkhelif"
+rank: 6
 artists:
   - Lakna
   - Styleto

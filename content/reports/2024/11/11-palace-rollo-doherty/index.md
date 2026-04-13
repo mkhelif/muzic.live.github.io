@@ -1,10 +1,10 @@
 ---
-date: "2024-11-11T20:00:00+02:00"
-title: "Rollo Doherty, Palace"
-author: "mkhelif"
-cover: "pictures/palace/05.jpg"
-rank: 9
+date: 2024-11-11T20:00:00+02:00
 locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
+title: "Rollo Doherty, Palace"
+cover: "pictures/palace/05.jpg"
+author: "mkhelif"
+rank: 9
 artists:
   - Rollo Doherty
   - Palace

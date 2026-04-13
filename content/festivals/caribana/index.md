@@ -1,12 +1,13 @@
 ---
+id: "e7f2421e-bfb5-44d3-adef-686998921e73"
 title: "Caribana"
 cover: "cover.jpg"
 socials:
   facebook: "caribana.ch"
   instagram: "caribanafestival"
   tiktok: "@caribana_festival"
-  youtube: "@caribana_festival"
   web: "https://caribana.ch/"
+  youtube: "@caribana_festival"
 ---
 
 # Caribana Festival : "Le plus petit des grands festivals" au bord du Léman

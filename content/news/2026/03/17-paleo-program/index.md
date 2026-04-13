@@ -1,8 +1,9 @@
 ---
-date: "2026-03-17T10:00:00+02:00"
+date: 2026-03-17T10:00:00+02:00
+festivalId: "58957937-9b74-411e-9a93-45e0ac47a67e"
 title: "Paléo 2026 : The Cure, Gorillaz, Katy Perry, Orelsan et Lorde en têtes d'affiche d'une 49e édition XXL"
-festivals:
-  - Paléo
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Adèle Castillon
   - Antti Paalanen
@@ -110,8 +111,6 @@ artists:
   - Yamê
   - Zaatar
   - Zaz
-cover: "cover.jpg"
-hero: "hero.jpg"
 ---
 
 On le savait depuis l'été dernier : le Village du Monde mettrait le cap sur les pays nordiques. On devinait que

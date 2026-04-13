@@ -1,7 +1,7 @@
 ---
-date: 2026-06-21T12:00:00+02:00
-festivals:
-  - Hellfest
+date: 2026-06-21 12:00:00+02:00
+festivalId: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
+locationId: "a96150fd-cd15-4d68-8c73-31fff4f3ae29"
 artists:
   - The Offspring
   - The Hives
@@ -28,5 +28,4 @@ artists:
   - Mayhem
   - Marduk
   - Wolves In The Throne Room
-locationId: "a96150fd-cd15-4d68-8c73-31fff4f3ae29"
 ---

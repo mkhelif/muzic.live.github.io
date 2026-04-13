@@ -1,11 +1,12 @@
 ---
+id: "70ecd28b-2990-49bb-9c91-b88215039ef4"
 title: "Antigel"
 cover: "cover.jpg"
 socials:
   facebook: "festantigel"
   instagram: "antigelfestival"
-  youtube: "@festivalantigel6871"
   web: "https://antigel.ch/"
+  youtube: "@festivalantigel6871"
 ---
 
 # Antigel : Le festival qui fait fondre les frontières

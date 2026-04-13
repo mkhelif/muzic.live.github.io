@@ -1,10 +1,10 @@
 ---
-date: "2025-10-18T10:00:00+02:00"
+date: 2025-10-18T10:00:00+02:00
 title: "LANDMVRKS lance sa plus grande tournée européenne avec Underoath : un plateau de rêve pour le metalcore"
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - LANDMVRKS
-hero: "hero.jpg"
-cover: "cover.jpg"
 ---
 
 Le groupe marseillais débute le 4 décembre à Meisenthal avec une affiche explosive

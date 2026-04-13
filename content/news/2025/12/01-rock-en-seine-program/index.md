@@ -1,8 +1,9 @@
 ---
-date: "2025-12-01T10:00:00+02:00"
+date: 2025-12-01T10:00:00+02:00
+festivalId: "7946e0a5-d2bd-4132-904b-de6190c36575"
 title: "Rock en Seine 2026 : le festival francilien sort l'artillerie lourde"
-festivals:
-  - Rock en Seine
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Tyler The Creator
   - SOMBR
@@ -21,8 +22,6 @@ artists:
   - The Cure
   - Interpol
   - Slowdive
-cover: "cover.jpg"
-hero: "hero.jpg"
 ---
 
 Il y a des annonces qui font l'effet d'une déflagration. Celle de Rock en Seine pour son édition 2026 appartient à cette

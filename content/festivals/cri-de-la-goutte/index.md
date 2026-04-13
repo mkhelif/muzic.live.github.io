@@ -1,13 +1,14 @@
 ---
+id: "d6781765-a0c8-434a-afd9-d3b81c933060"
 title: "Cri de la Goutte"
 cover: "cover.jpg"
 socials:
   facebook: "lecridelagoutte"
   instagram: "cri_delagoutte"
-  tiktok: "@cri_delagoutte"
   linkedin: "company/cridelagoutte"
-  youtube: "@lecridelagoutte"
+  tiktok: "@cri_delagoutte"
   web: "https://cridelagoutte.fr/"
+  youtube: "@lecridelagoutte"
 ---
 
 Il y a des festivals qui naissent dans des bureaux de production. Et il y a ceux qui naissent dans une vallée, entre six

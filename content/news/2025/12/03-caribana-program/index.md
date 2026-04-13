@@ -1,8 +1,9 @@
 ---
-date: "2025-12-03T10:00:00+02:00"
+date: 2025-12-03T10:00:00+02:00
+festivalId: "e7f2421e-bfb5-44d3-adef-686998921e73"
 title: "Caribana 2026 : pop, rap et French Touch sur les rives du Léman"
-festivals:
-  - Caribana
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - MIKA
   - Niska
@@ -17,8 +18,6 @@ artists:
   - Soolking
   - Genezio
   - Maureen
-cover: "cover.jpg"
-hero: "hero.jpg"
 ---
 
 Le festival vaudois dévoile les premiers noms de sa 34ᵉ édition. MIKA, Niska, Lost Frequencies, Soolking ou encore

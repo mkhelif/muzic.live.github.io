@@ -1,6 +1,6 @@
 {{/* --- Events ---  */}}
 {{ $events := where .Site.RegularPages "Section" "events" }}
-{{ $events = where $events ".Params.festivals" "intersect" (slice .Title) }}
+{{ $events = where $events ".Params.festivalId" .Params.id }}
 {{ $events = where $events ".Date" "ge" (now.AddDate 0 0 -3) }}
 {{ $events = $events.ByDate }}
 {{ partial "events/list.html" (dict "context" . "events" $events) }}

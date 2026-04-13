@@ -1,13 +1,14 @@
 ---
+id: "889e3cda-f87f-44b6-a841-9b7d679dead6"
 title: "Victorious Festival"
 cover: "cover.jpg"
 socials:
   facebook: "VictoriousFestival"
   instagram: "victoriousfestival"
-  x: "VictoriousFest"
   threads: "@victoriousfestival"
-  youtube: "@victorious_festival"
   web: "https://www.victoriousfestival.co.uk/"
+  x: "VictoriousFest"
+  youtube: "@victorious_festival"
 ---
 
 Imaginez trois jours de musique les pieds dans le sable, avec pour toile de fond le scintillement du Solent et les

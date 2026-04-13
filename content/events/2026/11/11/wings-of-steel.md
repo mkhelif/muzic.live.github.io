@@ -1,6 +1,6 @@
 ---
 date: 2026-11-11T19:00:00-07:00
+locationId: "90e219ec-c28f-4b85-aafc-395d103bd501"
 artists:
   - Wings of Steel
-locationId: "90e219ec-c28f-4b85-aafc-395d103bd501"
 ---

@@ -1,12 +1,11 @@
 ---
-date: "2025-07-05T19:00:00+02:00"
-title: "Musiques en Stock 2025 - Jour 3 - Nótt, Soft Loft, The Royston Club, Franz Ferdinand"
-author: "mkhelif"
-cover: "pictures/franz-ferdinand/08.jpg"
-rank: 10
+date: 2025-07-05T19:00:00+02:00
+festivalId: "92ee72eb-532a-4ccd-bf2c-3233f055ca4b"
 locationId: "830edf51-8e24-4f4c-ac2c-408e20ecb99a"
-festivals:
-  - Musiques en Stock
+title: "Musiques en Stock 2025 - Jour 3 - Nótt, Soft Loft, The Royston Club, Franz Ferdinand"
+cover: "pictures/franz-ferdinand/08.jpg"
+author: "mkhelif"
+rank: 10
 artists:
   - Nótt
   - Soft Loft

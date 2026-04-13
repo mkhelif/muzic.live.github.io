@@ -1,8 +1,10 @@
 ---
-date: "2026-04-01T10:00:00+02:00"
-title: "Montreux Jazz Festival 2026 : de RAYE à Nick Cave, une programmation magistrale pour la 60e édition"
-festivals:
-  - Montreux Jazz Festival
+date: 2026-04-01T10:00:00+02:00
+festivalId: "1e091511-4a09-491d-92c7-50510b8f3911"
+title: 'Montreux Jazz Festival 2026 : de RAYE à Nick Cave, une programmation magistrale
+  pour la 60e édition'
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Adriatique
   - Agnes Obel
@@ -71,8 +73,6 @@ artists:
   - Young Miko
   - Zara Larsson
   - ¥ØU$UK€ ¥UK1MAT$U
-cover: "cover.jpg"
-hero: "hero.jpg"
 ---
 
 Soixante ans et aucun signe de lassitude. Le Montreux Jazz Festival a dévoilé ce mardi la programmation de son édition

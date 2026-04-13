@@ -1,12 +1,11 @@
 ---
-date: "2026-02-14T19:50:00+02:00"
-title: "Antigel 2026 - Eckhart, Last Train"
-author: "mkhelif"
-cover: "pictures/last-train/01.jpg"
-rank: 10
+date: 2026-02-14T19:50:00+02:00
+festivalId: "70ecd28b-2990-49bb-9c91-b88215039ef4"
 locationId: "506d7a39-4f4c-4c98-bc9c-1acdf64b5665"
-festivals:
-  - Antigel
+title: "Antigel 2026 - Eckhart, Last Train"
+cover: "pictures/last-train/01.jpg"
+author: "mkhelif"
+rank: 10
 artists:
   - Eckhart
   - Last Train

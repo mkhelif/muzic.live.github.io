@@ -1,4 +1,5 @@
 ---
+id: "92ee72eb-532a-4ccd-bf2c-3233f055ca4b"
 title: "Musiques en Stock"
 cover: "cover.jpg"
 socials:

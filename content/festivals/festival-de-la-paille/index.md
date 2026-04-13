@@ -1,12 +1,13 @@
 ---
+id: "f72beec7-0c2e-4628-8732-28fe546b2169"
 title: "Festival de la Paille"
 cover: "cover.jpg"
 socials:
   facebook: "FestivalPaille"
   instagram: "festivalpaille"
   tiktok: "@festivalpaille"
-  youtube: "@Festivalpaille"
   web: "https://www.festivalpaille.fr/"
+  youtube: "@Festivalpaille"
 ---
 
 ##### Un ancrage géographique authentique

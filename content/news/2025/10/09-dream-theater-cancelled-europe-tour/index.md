@@ -1,13 +1,13 @@
 ---
-date: "2025-10-09T10:30:00+02:00"
+date: 2025-10-09T10:30:00+02:00
 title: "Dream Theater annule sa tournée européenne 2026 : \"Parfois les plans changent\""
+cover: "cover.jpg"
 artists:
   - Dream Theater
-cover: "cover.jpg"
 ---
 
 Coup de tonnerre dans le monde du metal progressif : Dream Theater a officiellement annulé ses projets de tournée
-européenne pour 2026 en soutien à leur dernier album "Parasomnia". L'annonce, faite via les réseaux sociaux le jeudi 9
+européenne pour 2026 en soutien à leur dernier album "Parasomnia. L'annonce, faite via les réseaux sociaux le jeudi 9
 octobre 2025, a pris de court les fans européens qui attendaient avec impatience le retour du groupe, désormais réuni
 avec Mike Portnoy à la batterie.
 

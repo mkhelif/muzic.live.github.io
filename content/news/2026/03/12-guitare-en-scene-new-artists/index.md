@@ -1,15 +1,15 @@
 ---
-date: "2026-03-12T10:00:00+02:00"
-title: "Guitare en Scène 2026 : cinq nouveaux noms pour compléter une affiche déjà éblouissante"
-festivals:
-  - Guitare en Scène
+date: 2026-03-12T10:00:00+02:00
+festivalId: "13e59726-a669-48a1-93ad-d52d04e4f44f"
+title: 'Guitare en Scène 2026 : cinq nouveaux noms pour compléter une affiche déjà
+  éblouissante'
+cover: "cover.jpg"
 artists:
   - Fantastic Negrito
   - Taj Farrant
   - Florian Desbaillet
   - Pacôme Rotondo
   - Jango Janice
-cover: "cover.jpg"
 ---
 
 Après avoir frappé fort en annonçant Ben Harper & The Innocent Criminals, Kool & The Gang, Pixies, Gregory Porter,

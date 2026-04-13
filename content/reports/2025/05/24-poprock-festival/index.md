@@ -1,12 +1,11 @@
 ---
-date: "2025-05-24T19:00:00+02:00"
-title: "Poprock Festival 2025 - Jour 3 - Climax, Simone Ringer, RAW, Eagle-Eye Cherry"
-author: "mkhelif"
-cover: "pictures/eagle-eye-cherry/08.jpg"
-rank: 10
+date: 2025-05-24T19:00:00+02:00
+festivalId: "5ca0550d-1ec2-4fd9-b225-e447b038ec5a"
 locationId: "555d590a-f1e0-4c09-8a76-d88a43af0d1a"
-festivals:
-  - Poprock Festival
+title: "Poprock Festival 2025 - Jour 3 - Climax, Simone Ringer, RAW, Eagle-Eye Cherry"
+cover: "pictures/eagle-eye-cherry/08.jpg"
+author: "mkhelif"
+rank: 10
 artists:
   - Climax
   - Simone Ringer

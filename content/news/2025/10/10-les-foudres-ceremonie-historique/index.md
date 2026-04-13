@@ -1,8 +1,10 @@
 ---
-date: "2025-10-10T09:45:00+02:00"
+date: 2025-10-10T09:45:00+02:00
+festivalId: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
+locationId: "34e0610f-b590-459c-9161-966d820ca3e9"
 title: "Les Foudres : Le metal français célèbre sa première cérémonie historique"
-festivals:
-  - Hellfest
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Alcest
   - Houle
@@ -15,9 +17,6 @@ artists:
   - Rise Of The NorthStar
   - Sun
   - Ultra Vomit
-locationId: "34e0610f-b590-459c-9161-966d820ca3e9"
-hero: "hero.jpg"
-cover: "cover.jpg"
 ---
 
 Le jeudi 9 octobre 2025, le Bataclan de Paris a accueilli un événement historique pour la scène metal française : Les

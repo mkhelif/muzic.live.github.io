@@ -1,10 +1,10 @@
 ---
-date: "2025-10-11T14:30:00+02:00"
+date: 2025-10-11T14:30:00+02:00
 title: "Battle Beast : la tournée européenne sur le point de commencer"
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Battle Beast
-hero: "hero.jpg"
-cover: "cover.jpg"
 ---
 
 Les géants finlandais du power metal Battle Beast s'apprêtent à enflammer l'Europe avec une tournée monumentale qui

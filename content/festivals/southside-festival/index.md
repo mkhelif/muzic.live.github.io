@@ -1,14 +1,15 @@
 ---
+id: "fe42c870-494a-44c2-bc52-71bfc56cab4e"
 title: "Southside Festival"
 cover: "cover.jpg"
 socials:
   facebook: "southsidefestival"
   instagram: "southsidefestival"
-  tiktok: "@southsidefestival"
   threads: "@southsidefestival"
-  youtube: "@SouthsideFstvl"
-  whatsapp: "0029VaFwqVnCxoAsDFVcKk34"
+  tiktok: "@southsidefestival"
   web: "https://southside.de/en/"
+  whatsapp: "0029VaFwqVnCxoAsDFVcKk34"
+  youtube: "@SouthsideFstvl"
 ---
 
 Le Southside Festival est l'un des plus grands festivals de musique en plein air d'Allemagne, attirant chaque année des

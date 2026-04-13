@@ -1,12 +1,11 @@
 ---
-date: "2025-07-18T17:30:00+02:00"
+date: 2025-07-18T17:30:00+02:00
+festivalId: "13e59726-a669-48a1-93ad-d52d04e4f44f"
+locationId: "598fe61c-2dca-4f48-99c6-0155689c665f"
 title: "Guitare en Scène 2025 - Jour 3 - Saults, Dream Theater, Satchvai, Matteo Mancuso"
-author: "mkhelif"
 cover: "pictures/dream-theater/05.jpg"
+author: "mkhelif"
 rank: 9
-locationId: "3696b1db-7afd-4eb4-afcc-8bcf4ed56c08"
-festivals:
-  - Guitare en Scène
 artists:
   - Saults
   - Dream Theater
@@ -52,4 +51,4 @@ simplement d'une basse et d'une batterie, Mancuso a montré pourquoi il est cons
 ces dernières années. Sa technique classique parfaite et son approche innovante de l'instrument ont fasciné. Seuls
 bémols : une faible présence scènique et une absence d'interaction avec le public.
 
-Cette troisième nuit a brillé par son exigence musicale et la qualité technique des artistes. 
+Cette troisième nuit a brillé par son exigence musicale et la qualité technique des artistes.

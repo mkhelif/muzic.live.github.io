@@ -1,12 +1,12 @@
 ---
-date: "2025-07-31T14:30:00+02:00"
+date: 2025-07-31T14:30:00+02:00
 title: "Wings of Steel : \"Winds of Time\", un retour ambitieux aux racines du heavy metal"
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Wings of Steel
 albums:
   - Winds of Time
-hero: "hero.jpg"
-cover: "cover.jpg"
 ---
 
 ![Winds of Time](album.jpg)

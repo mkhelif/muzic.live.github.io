@@ -1,10 +1,10 @@
 ---
-date: "2025-11-29T20:00:00+02:00"
-title: "The Legendary Orchestra, Sabaton"
-author: "mkhelif"
-cover: "pictures/sabaton/04.jpg"
-rank: 10
+date: 2025-11-29T20:00:00+02:00
 locationId: "6374f3c7-9af5-449a-9d30-cfa1383d871a"
+title: "The Legendary Orchestra, Sabaton"
+cover: "pictures/sabaton/04.jpg"
+author: "mkhelif"
+rank: 10
 artists:
   - The Legendary Orchestra
   - Sabaton

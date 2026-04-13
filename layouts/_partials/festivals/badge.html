@@ -1,1 +1,6 @@
-<a class="badge bg-success text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+{{- $id := . -}}
+{{- range where site.RegularPages "Section" "festivals" -}}
+    {{- if eq .Params.id $id -}}
+        <a class="badge bg-success text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+    {{- end -}}
+{{- end -}}

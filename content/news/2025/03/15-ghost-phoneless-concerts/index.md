@@ -1,11 +1,11 @@
 ---
-date: "2025-07-31T14:30:00+02:00"
-title: "Tobias Forge de Ghost : \"Les gens redécouvrent ce que c'est que d'assister à un concert\" - Le futur des shows sera sans téléphone"
+date: 2025-07-31T14:30:00+02:00
+title: "Tobias Forge de Ghost : \Les gens redécouvrent ce que c'est que d'assister à un concert\" - Le futur des shows sera sans téléphone"
+cover: "cover.jpg"
 artists:
   - Ghost
 albums:
   - Skeletour
-cover: "cover.jpg"
 ---
 
 Le mastermind suédois prédit que les concerts sans portable deviendront la norme après l'expérience révélatrice de sa

@@ -1,12 +1,12 @@
 ---
-date: "2025-08-09T14:30:00+02:00"
+date: 2025-08-09T14:30:00+02:00
 title: "Steelbound : Battle Beast célèbre la résistance dans un nouvel album"
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Battle Beast
 albums:
   - Steelbound
-hero: "hero.jpg"
-cover: "cover.jpg"
 ---
 
 ![Steelbound](album.jpg)

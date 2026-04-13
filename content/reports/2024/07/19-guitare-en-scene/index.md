@@ -1,12 +1,11 @@
 ---
-date: "2024-07-19T17:30:00+02:00"
+date: 2024-07-19T17:30:00+02:00
+festivalId: "13e59726-a669-48a1-93ad-d52d04e4f44f"
+locationId: "598fe61c-2dca-4f48-99c6-0155689c665f"
 title: "Guitare en Scène 2024 - Jour 2 - Seven Ages, Larkin Poe, Chris Isaak, Rival Sons, Ko Ko Mo"
-author: "mkhelif"
 cover: "pictures/rival-sons/12.jpg"
+author: "mkhelif"
 rank: 10
-locationId: "3696b1db-7afd-4eb4-afcc-8bcf4ed56c08"
-festivals:
-  - Guitare en Scène
 artists:
   - Seven Ages
   - Larkin Poe

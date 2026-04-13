@@ -1,4 +1,5 @@
 ---
+id: "278a6614-85e9-4fb7-a0a6-bb408fcb3739"
 title: "Heavy Weekend"
 cover: "cover.jpg"
 socials:

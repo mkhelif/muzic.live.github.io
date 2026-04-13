@@ -1,8 +1,9 @@
 ---
-date: "2025-10-21T10:00:00+02:00"
+date: 2025-10-21T10:00:00+02:00
+festivalId: "fd55ec3f-deac-4d90-a637-04cf1d0ffbe1"
 title: "Rock Your Brain Fest #13 : Premiers noms annoncés pour l'édition 2026 aux Tanzmatten de Sélestat"
-festivals:
-  - Rock Your Brain Fest
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Tagada Jones
   - Les Ramoneurs de Menhir
@@ -14,8 +15,6 @@ artists:
   - Not Scientists
   - Schlaasss
   - Corbillard
-hero: "hero.jpg"
-cover: "cover.jpg"
 ---
 
 Après une édition 2025 survoltée qui a vu le samedi afficher complet, le Rock Your Brain Fest annonce déjà les premiers

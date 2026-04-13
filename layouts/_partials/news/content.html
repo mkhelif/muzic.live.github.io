@@ -5,7 +5,7 @@
         <span>
             {{ range $.GetTerms "artists" }}{{ partial "artists/badge.html" . }}{{ end }}
             {{ range $.GetTerms "albums" }}{{ partial "albums/badge.html" . }}{{ end }}
-            {{ range $.GetTerms "festivals" }}{{ partial "festivals/badge.html" . }}{{ end }}
+            {{ with $.Params.festivalId }}{{ partial "festivals/badge.html" . }}{{ end }}
         </span>
         <small class="text-nowrap">
             {{ $locations := slice }}

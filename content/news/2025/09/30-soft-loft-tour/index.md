@@ -1,10 +1,10 @@
 ---
-date: "2025-09-30T10:00:00+02:00"
-title: "Soft Loft s'apprête à conquérir l'Europe avec la tournée \"Modern Roses\""
+date: 2025-09-30T10:00:00+02:00
+title: Soft Loft s'apprête à conquérir l'Europe avec la tournée \"Modern Roses\""
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Soft Loft
-hero: "hero.jpg"
-cover: "cover.jpg"
 ---
 
 Le collectif indie folk suisse Soft Loft s'apprête à partir à la conquête de l'Europe avec sa tournée "Modern Roses",

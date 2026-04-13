@@ -1,12 +1,11 @@
 ---
-date: "2025-06-06T17:30:00+02:00"
-title: "Heavy Weekend 2025 - Jour 1 - Adrian Vandenberg, Battle Beast, Saxon, Powerwolf"
-author: "mkhelif"
-cover: "pictures/powerwolf/15.jpg"
-rank: 10
+date: 2025-06-06T17:30:00+02:00
+festivalId: "278a6614-85e9-4fb7-a0a6-bb408fcb3739"
 locationId: "73e73a54-9f04-4d46-ab08-824a19a88e54"
-festivals:
-  - Heavy Weekend
+title: "Heavy Weekend 2025 - Jour 1 - Adrian Vandenberg, Battle Beast, Saxon, Powerwolf"
+cover: "pictures/powerwolf/15.jpg"
+author: "mkhelif"
+rank: 10
 artists:
   - Adrian Vandenberg
   - Battle Beast

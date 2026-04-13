@@ -1,7 +1,7 @@
 ---
-date: 2026-06-18T12:00:00+02:00
-festivals:
-  - Hellfest
+date: 2026-06-18 12:00:00+02:00
+festivalId: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
+locationId: "a96150fd-cd15-4d68-8c73-31fff4f3ae29"
 artists:
   - Bring Me The Horizon
   - Papa Roach
@@ -28,5 +28,4 @@ artists:
   - SKALD
   - Feuerschwanz
   - Borknagar
-locationId: "a96150fd-cd15-4d68-8c73-31fff4f3ae29"
 ---

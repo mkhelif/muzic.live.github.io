@@ -1,0 +1,4 @@
+{{- $id := . -}}
+{{- range where (where site.RegularPages "Section" "festivals") ".Params.id" $id -}}
+    {{ .LinkTitle -}}
+{{- end -}}

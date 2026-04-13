@@ -1,7 +1,7 @@
 ---
-date: 2026-06-05T13:00:00+02:00
-festivals:
-  - Rock Im Park
+date: 2026-06-05 13:00:00+02:00
+festivalId: "8b6a48c3-3233-4eeb-9785-ff74ecf88ec8"
+locationId: "8ae82944-de5e-4973-bfd1-22238602d55f"
 artists:
   - Linkin Park
   - Iron Maiden
@@ -22,5 +22,4 @@ artists:
   - Ice Nine Kills
   - Bad Omens
   - LANDMVRKS
-locationId: "8ae82944-de5e-4973-bfd1-22238602d55f"
 ---

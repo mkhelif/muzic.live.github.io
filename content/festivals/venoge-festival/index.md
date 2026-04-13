@@ -1,12 +1,13 @@
 ---
+id: "161a1289-1511-4e78-ad12-12a82cc9eabc"
 title: "Venoge Festival"
 cover: "cover.jpg"
 socials:
   facebook: "venogefestival"
   instagram: "venoge_festival"
   tiktok: "@venogefestival"
-  youtube: "VenogeFestivalVid"
   web: "https://venogefestival.ch/"
+  youtube: "VenogeFestivalVid"
 ---
 
 ##### Un géant musical en terre vaudoise

@@ -1,12 +1,12 @@
 ---
-date: "2025-09-16T14:30:00+02:00"
+date: 2025-09-16T14:30:00+02:00
 title: "SOEN explore les frontières de l'humanité avec Reliance"
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - SOEN
 albums:
   - Reliance
-hero: "hero.jpg"
-cover: "cover.jpg"
 ---
 
 ![Reliance](album.jpg)

@@ -1,8 +1,9 @@
 ---
-date: "2026-01-09T10:00:00+02:00"
+date: 2026-01-09T10:00:00+02:00
+festivalId: "ed47a838-c652-4756-83d9-3d0940f9cd15"
 title: "Greenfield Festival 2026 : le rock et le metal s'emparent d'Interlaken"
-festivals:
-  - Greenfield
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Slipknot
   - Korn
@@ -13,8 +14,6 @@ artists:
   - The Halo Effect
   - Orbit Culture
   - Any Given Day
-hero: "hero.jpg"
-cover: "cover.jpg"
 ---
 
 Le plus grand festival de rock et de metal de Suisse dévoile les premiers noms de son édition 2026. Le Greenfield Festival, qui se tiendra du 11 au 13 juin sur le site idyllique d'Interlaken au pied des Alpes bernoises, frappe fort avec une programmation qui mêle légendes du metal et nouvelles sensations.

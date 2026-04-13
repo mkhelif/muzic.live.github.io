@@ -1,9 +1,9 @@
 ---
-date: "2026-01-30T10:00:00+02:00"
+date: 2026-01-30T10:00:00+02:00
 title: "Nightwish : l'expérience orchestrale Yesterwynde arrive à Helsinki"
+cover: "cover.jpg"
 artists:
   - Nightwish
-cover: "cover.jpg"
 ---
 
 Nightwish continue de repousser les frontières du metal symphonique, même en pleine pause. Après trois représentations à

@@ -1,12 +1,11 @@
 ---
-date: "2024-05-18T09:06:44+02:00"
-title: "Nantuafest 2024 - Jour 1 - Melrose, Vernis Rouge, Two Faces, Noé Preszow, Pierre de Maere, Superbus, Boris Way"
-author: "mkhelif"
-cover: "pictures/pierre-de-maere/04.jpg"
-rank: 10
+date: 2024-05-18T09:06:44+02:00
+festivalId: "e33f81d6-e91b-41a7-9499-023c018e3cb5"
 locationId: "080a0659-9aa9-4098-87fb-bc491fed9695"
-festivals:
-  - Nantuafest
+title: "Nantuafest 2024 - Jour 1 - Melrose, Vernis Rouge, Two Faces, Noé Preszow, Pierre de Maere, Superbus, Boris Way"
+cover: "pictures/pierre-de-maere/04.jpg"
+author: "mkhelif"
+rank: 10
 artists:
   - Melrose
   - Vernis Rouge
@@ -100,4 +99,3 @@ Pour clôturer cette première journée, c’est Boris Way, le DJ niçois, qui e
 Il fait vibrer le Nantuafest sous des rythmes electro-pop comme « Running up that hill » ou d’autres titres plus house (je n’ai pas noté…).
 
 Une fin de soirée explosive pour le Nantuafest.
-

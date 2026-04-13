@@ -1,12 +1,11 @@
 ---
-date: "2024-07-21T17:30:00+02:00"
+date: 2024-07-21T17:30:00+02:00
+festivalId: "13e59726-a669-48a1-93ad-d52d04e4f44f"
+locationId: "598fe61c-2dca-4f48-99c6-0155689c665f"
 title: "Guitare en Scène 2024 - Jour 4 - Toby Lee, Dave Stewart, Marcus Miller, Nile Rodgers"
-author: "mkhelif"
 cover: "pictures/nile-rodgers/09.jpg"
+author: "mkhelif"
 rank: 10
-locationId: "3696b1db-7afd-4eb4-afcc-8bcf4ed56c08"
-festivals:
-  - Guitare en Scène
 artists:
   - Toby Lee
   - Dave Stewart

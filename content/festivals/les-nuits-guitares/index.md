@@ -1,11 +1,12 @@
 ---
+id: "1143b026-7afa-429e-bb84-5c3e71476750"
 title: "Les Nuits Guitares"
 cover: "cover.jpg"
 socials:
+  email: "contact@allover-production.com"
   facebook: "lesnuitsguitares"
   instagram: "lesnuitsguitares"
   web: "https://www.nuitsguitares.fr/"
-  email: "contact@allover-production.com"
 ---
 
 Imaginez une oliveraie de 6 000 m², arborée de plus de cent oliviers centenaires, nichée entre une falaise et le grand

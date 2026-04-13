@@ -1,12 +1,13 @@
 ---
+id: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
 title: "Hellfest"
 cover: "cover.jpg"
 socials:
   facebook: "hellfest"
   instagram: "hellfestopenair"
   tiktok: "@hellfest_openair"
-  youtube: "@hellfestopenair"
   web: "https://hellfest.fr/"
+  youtube: "@hellfestopenair"
 ---
 
 L'histoire du Hellfest commence en réalité bien avant 2006, puisant ses racines dans le Fury Fest créé en 2002 par Ben

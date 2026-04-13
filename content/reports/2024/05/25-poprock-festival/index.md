@@ -1,12 +1,11 @@
 ---
-date: "2024-05-25T19:00:00+02:00"
-title: "Poprock Festival 2024 - Jour 3 - Da Cruz, Da Break, Broken Back, My Beautiful Disorders"
-author: "mkhelif"
-cover: "pictures/broken-back/01.jpg"
-rank: 10
+date: 2024-05-25T19:00:00+02:00
+festivalId: "5ca0550d-1ec2-4fd9-b225-e447b038ec5a"
 locationId: "555d590a-f1e0-4c09-8a76-d88a43af0d1a"
-festivals:
-  - Poprock Festival
+title: "Poprock Festival 2024 - Jour 3 - Da Cruz, Da Break, Broken Back, My Beautiful Disorders"
+cover: "pictures/broken-back/01.jpg"
+author: "mkhelif"
+rank: 10
 artists:
   - Da Cruz
   - Da Break

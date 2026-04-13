@@ -2,8 +2,8 @@
 
 <div class="container">
     <p>
+        {{ with $.Params.festivalId }}{{ partial "festivals/badge.html" . }}{{ end }}
         {{ range $.GetTerms "artists" }}{{ partial "artists/badge.html" . }}{{ end }}
-        {{ range $.GetTerms "festivals" }}{{ partial "festivals/badge.html" . }}{{ end }}
     </p>
 
     <div class="d-flex flex-row justify-content-between mb-5">
@@ -19,20 +19,15 @@
 
     <!-- Other reports -->
     <div data-pagefind-ignore="all" class="d-print-none">
-        {{ range .GetTerms "festivals" }}
-            {{ $festival := .LinkTitle }}
-            <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">Autres chroniques du festival {{ $festival }}</h4>
-            {{ $count := 0 }}
-            {{ range (where $.Site.RegularPages "Section" "reports") }}
-                {{ $page := . }}
-                {{ range .GetTerms "festivals" }}
-                    {{ if and (eq .LinkTitle $festival) (ne $page.Path $.Path) }}
-                        {{ $count = add $count 1 }}
-                        {{ partial "reports/list-entry.html" (dict "report" $page "index" $count) }}
-                    {{ end }}
-                {{ end }}
+        {{ with .Params.festivalId }}
+            <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">Autres chroniques du festival {{ partial "festivals/name.html" . }}</h4>
+            {{ $reports := where $.Site.RegularPages "Section" "reports" }}
+            {{ $reports = where $reports ".Params.festivalId" . }}
+            {{ $reports = where $reports ".Path" "ne" $.Path }}
+            {{ range $index, $report := $reports }}
+                {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
             {{ end }}
-            {{ if eq $count 0 }}
+            {{ if eq $reports.Len 0 }}
                 <p class="small text-muted text-center">Aucune chronique de concert</p>
             {{ end }}
         {{ end }}

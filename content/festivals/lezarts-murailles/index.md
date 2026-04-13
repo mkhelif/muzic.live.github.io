@@ -1,10 +1,11 @@
 ---
+id: "bac195ab-b344-47b2-b633-bd369ea98cf7"
 title: "Lez'Arts Murailles"
 cover: "cover.jpg"
 socials:
+  email: "lezartsmurailles1219@gmail.com"
   facebook: "p/LezArts-Murailles-100064590556589"
   instagram: "lam.fest666"
-  email: "lezartsmurailles1219@gmail.com"
 ---
 
 Né de l'association éponyme fondée en 2000, le Lez'Arts Murailles Festival s'est imposé comme un rendez-vous

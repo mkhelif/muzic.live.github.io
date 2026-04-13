@@ -1,12 +1,12 @@
 ---
-date: "2025-09-04T14:30:00+02:00"
+date: 2025-09-04T14:30:00+02:00
 title: "Rise Of The NorthStar : retour en force avec un nouvel album"
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Rise Of The NorthStar
 albums:
   - Chapter 04 - Red Falcon Super Battle! New Paris War!!
-hero: "hero.jpg"
-cover: "cover.jpg"
 ---
 
 ![Chapter 04 - Red Falcon Super Battle! New Paris War!!](album.jpg)
@@ -14,7 +14,7 @@ cover: "cover.jpg"
 
 Les passionnés de rap-metal et de hardcore ont de quoi se réjouir. Rise Of The Northstar (ROTNS), formation emblématique
 de la banlieue parisienne, annonce la sortie imminente de son quatrième opus intitulé "Chapter 4 : Red Falcon Super
-Battle! Neo Paris War!!". Prévu pour le 14 novembre 2025 chez Kuromaku Corp Records, cet album s'annonce comme un
+Battle! Neo Paris War!!. Prévu pour le 14 novembre 2025 chez Kuromaku Corp Records, cet album s'annonce comme un
 concentré d'énergie brute et de puissance sonore.
 
 #### Un mélange explosif entre tradition et innovation

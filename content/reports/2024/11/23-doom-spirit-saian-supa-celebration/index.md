@@ -1,10 +1,10 @@
 ---
-date: "2024-11-23T20:00:00+02:00"
-title: "Doom Spirit, Saïan Supa Celebration"
-author: "mkhelif"
-cover: "pictures/saian-supa-celebration/04.jpg"
-rank: 7
+date: 2024-11-23T20:00:00+02:00
 locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
+title: "Doom Spirit, Saïan Supa Celebration"
+cover: "pictures/saian-supa-celebration/04.jpg"
+author: "mkhelif"
+rank: 7
 artists:
   - Doom Spirit
   - Saïan Supa Celebration

@@ -1,12 +1,12 @@
 ---
-date: "2025-10-06T14:30:00+02:00"
+date: 2025-10-06T14:30:00+02:00
 title: "Powerwolf immortalise leur show le plus spectaculaire avec Wildlive"
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Powerwolf
 albums:
   - Wildlive (Live at Olympiahalle)
-hero: "hero.jpg"
-cover: "cover.jpg"
 ---
 
 ![Wildlive](cover.jpg)

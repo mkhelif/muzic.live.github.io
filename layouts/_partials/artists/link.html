@@ -1,5 +1,3 @@
-{{- range hugo.Sites -}}
-    {{- range where (where .Pages "Section" "artists") ".LinkTitle" $.LinkTitle -}}
-        <a href="{{ .RelPermalink }}">{{ .LinkTitle | safeHTML }}</a>
-    {{- end -}}
+{{- range where (where site.Pages "Section" "artists") ".RelPermalink" $.RelPermalink -}}
+    <a href="{{ .RelPermalink }}">{{ .LinkTitle | safeHTML }}</a>
 {{- end -}}

@@ -1,7 +1,7 @@
 ---
-date: 2026-06-19T12:00:00+02:00
-festivals:
-  - Hellfest
+date: 2026-06-19 12:00:00+02:00
+festivalId: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
+locationId: "a96150fd-cd15-4d68-8c73-31fff4f3ae29"
 artists:
   - Iron Maiden
   - Helloween
@@ -34,5 +34,4 @@ artists:
   - My Dying Bride
   - Rotting Christ
   - Carach Angren
-locationId: "a96150fd-cd15-4d68-8c73-31fff4f3ae29"
 ---

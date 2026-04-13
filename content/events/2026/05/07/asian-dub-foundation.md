@@ -1,6 +1,6 @@
 ---
 date: 2026-05-07T18:15:00+01:00
+locationId: "c10f2683-eb94-4793-9eb5-f7913883d67f"
 artists:
   - Asian Dub Foundation
-locationId: "c10f2683-eb94-4793-9eb5-f7913883d67f"
 ---

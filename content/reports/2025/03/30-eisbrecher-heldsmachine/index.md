@@ -1,11 +1,11 @@
 ---
+date: 2025-03-30T20:00:00+02:00
 draft: true
-date: "2025-03-30T20:00:00+02:00"
-title: "Eisbrecher, Heldsmachine"
-author: "mkhelif"
-cover: "pictures/.jpg"
-rank: 8
 locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
+title: "Eisbrecher, Heldsmachine"
+cover: "pictures/.jpg"
+author: "mkhelif"
+rank: 8
 artists:
   - Eisbrecher
   - Heldsmachine

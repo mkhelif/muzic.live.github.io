@@ -1,12 +1,13 @@
 ---
+id: "ed47a838-c652-4756-83d9-3d0940f9cd15"
 title: "Greenfield Festival"
 cover: "cover.jpg"
 socials:
   facebook: "greenfieldfestival.ch"
   instagram: "greenfieldfestival"
+  web: "https://greenfieldfestival.ch/"
   x: "greenfield_ch"
   youtube: "@GreenfieldFestivalCH"
-  web: "https://greenfieldfestival.ch/"
 ---
 
 Le Greenfield Festival est l'un des rendez-vous incontournables de la scène rock et metal en Suisse. Niché dans le cadre

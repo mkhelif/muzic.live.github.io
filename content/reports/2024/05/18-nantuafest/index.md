@@ -1,12 +1,11 @@
 ---
-date: "2024-05-19T10:11:32+02:00"
-title: "Nantuafest 2024 - Jour 2 - T!no, Alice et Moi, Adèle Castillon, Jahneration, Caballero et JeanJass, Umbree"
-author: "mkhelif"
-cover: "pictures/adele-castillon/01.jpg"
-rank: 8
+date: 2024-05-19T10:11:32+02:00
+festivalId: "e33f81d6-e91b-41a7-9499-023c018e3cb5"
 locationId: "080a0659-9aa9-4098-87fb-bc491fed9695"
-festivals:
-  - Nantuafest
+title: "Nantuafest 2024 - Jour 2 - T!no, Alice et Moi, Adèle Castillon, Jahneration, Caballero et JeanJass, Umbree"
+cover: "pictures/adele-castillon/01.jpg"
+author: "mkhelif"
+rank: 8
 artists:
   - Tino
   - Alice et Moi

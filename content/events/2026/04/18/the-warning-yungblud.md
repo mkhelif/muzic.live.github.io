@@ -1,7 +1,7 @@
 ---
 date: 2026-04-18T18:30:00+01:00
+locationId: "8057e7ff-5362-49d0-87c4-497f40161a68"
 artists:
   - The Warning
   - YUNGBLUD
-locationId: "8057e7ff-5362-49d0-87c4-497f40161a68"
 ---

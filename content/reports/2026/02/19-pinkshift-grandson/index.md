@@ -1,11 +1,11 @@
 ---
 draft: true
-date: "2026-02-18T20:30:00+02:00"
-title: "Pinkshift, Grandson"
-author: "mkhelif"
-cover: "pictures/grandson/.jpg"
-rank: 10
+date: 2026-02-18T20:30:00+02:00
 locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
+title: "Pinkshift, Grandson"
+cover: "pictures/grandson/.jpg"
+author: "mkhelif"
+rank: 10
 artists:
   - Pinkshift
   - Grandson

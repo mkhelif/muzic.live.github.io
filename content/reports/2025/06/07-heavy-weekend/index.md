@@ -1,12 +1,11 @@
 ---
-date: "2025-06-07T17:30:00+02:00"
-title: "Heavy Weekend 2025 - Jour 2 - Wings of Steel, Vanden Plas, Europe, Dream Theater"
-author: "mkhelif"
-cover: "pictures/dream-theater/02.jpg"
-rank: 10
+date: 2025-06-07T17:30:00+02:00
+festivalId: "278a6614-85e9-4fb7-a0a6-bb408fcb3739"
 locationId: "73e73a54-9f04-4d46-ab08-824a19a88e54"
-festivals:
-  - Heavy Weekend
+title: "Heavy Weekend 2025 - Jour 2 - Wings of Steel, Vanden Plas, Europe, Dream Theater"
+cover: "pictures/dream-theater/02.jpg"
+author: "mkhelif"
+rank: 10
 artists:
   - Wings of Steel
   - Vanden Plas

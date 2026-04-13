@@ -1,11 +1,12 @@
 ---
+id: "e33f81d6-e91b-41a7-9499-023c018e3cb5"
 title: "Nantuafest"
 cover: "cover.jpg"
 socials:
   facebook: "nantua.fest"
   instagram: "nantuafest"
-  youtube: "@nantuafest4235"
   web: "https://www.nantuafest.fr/"
+  youtube: "@nantuafest4235"
 ---
 
 ##### Un cadre naturel exceptionnel

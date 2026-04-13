@@ -1,10 +1,9 @@
 ---
-date: 2026-07-13T20:00:00+02:00
-festivals:
-  - Montreux Jazz Festival
+date: 2026-07-13 20:00:00+02:00
+festivalId: "1e091511-4a09-491d-92c7-50510b8f3911"
+locationId: "dcba98e3-f6fc-4768-92eb-b86b1298fa0f"
 artists:
   - Erin LeCount
   - Iliona
   - Paris Paloma
-locationId: "dcba98e3-f6fc-4768-92eb-b86b1298fa0f"
 ---

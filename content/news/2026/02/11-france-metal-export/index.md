@@ -1,12 +1,12 @@
 ---
-date: "2026-02-11T10:00:00+02:00"
+date: 2026-02-11T10:00:00+02:00
 title: "Le metal français s'exporte : cinq groupes hexagonaux à suivre en 2026"
+cover: "cover.jpg"
 artists:
   - Celeste
   - Resolve
   - Benighted
   - Year Of No Light
-cover: "cover.jpg"
 ---
 
 La France n'a jamais autant compté sur la carte du metal mondial. Après la consécration olympique de Gojira et les

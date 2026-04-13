@@ -1,8 +1,8 @@
 ---
 date: 2026-01-18T19:00:00+01:00
+locationId: "7c12b150-e372-4bdf-ae92-8714741a8edd"
 artists:
   - Bury Tomorrow
   - Electric Callboy
   - Wargasm
-locationId: "7c12b150-e372-4bdf-ae92-8714741a8edd"
 ---

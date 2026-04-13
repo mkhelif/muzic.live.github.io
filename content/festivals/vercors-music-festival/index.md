@@ -1,12 +1,13 @@
 ---
+id: "5d71e71e-c997-4a61-a8a2-4c75cb93f578"
 title: "Vercors Music Festival"
 cover: "cover.jpg"
 socials:
   facebook: "vercorsmusicfestival"
   instagram: "vercorsmusicfestival"
+  web: "https://vercorsmusicfestival.com/"
   x: "VercorsMusic"
   youtube: "@vercorsmusicfestival9416"
-  web: "https://vercorsmusicfestival.com/"
 ---
 
 ##### Un écrin naturel exceptionnel

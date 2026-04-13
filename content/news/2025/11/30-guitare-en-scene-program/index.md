@@ -1,15 +1,14 @@
 ---
-date: "2025-11-30T10:00:00+02:00"
+date: 2025-11-30T10:00:00+02:00
+festivalId: "13e59726-a669-48a1-93ad-d52d04e4f44f"
 title: "Guitare en Scène 2026 : une première annonce qui sent la poudre et le velours"
-festivals:
-  - Guitare en Scène
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Gregory Porter
   - Pixies
   - Airbourne
   - John Butler
-cover: "cover.jpg"
-hero: "hero.jpg"
 ---
 
 Le festival haut-savoyard dévoile quatre premiers noms pour son édition estivale. Entre soul feutrée, rock alternatif

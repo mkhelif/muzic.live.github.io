@@ -1,15 +1,16 @@
 ---
+id: "1e091511-4a09-491d-92c7-50510b8f3911"
 title: "Montreux Jazz Festival"
 cover: "cover.jpg"
 socials:
+  email: "info@mjf.ch"
   facebook: "montreuxjazzfestival"
   instagram: "montreuxjazzfestival"
+  linkedin: "company/montreux-jazz-festival"
   tiktok: "@montreuxjazzfestival"
+  web: "https://www.montreuxjazzfestival.com/"
   x: "MontreuxJazz"
   youtube: "@MontreuxJazzFest"
-  linkedin: "company/montreux-jazz-festival"
-  web: "https://www.montreuxjazzfestival.com/"
-  email: "info@mjf.ch"
 ---
 
 Le Montreux Jazz Festival est l'un des événements musicaux les plus prestigieux au monde. Chaque été, pendant deux

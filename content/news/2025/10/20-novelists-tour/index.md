@@ -1,14 +1,14 @@
 ---
-date: "2025-10-20T10:00:00+02:00"
+date: 2025-10-20T10:00:00+02:00
 title: "Novelists annonce le \"Coda Tour 2026\" : 7 concerts en France pour célébrer son nouvel album"
+cover: "cover.jpg"
+hero: "hero.jpg"
 artists:
   - Novelists
-hero: "hero.jpg"
-cover: "cover.jpg"
 ---
 
 Le groupe français de metalcore progressif Novelists a officialisé une tournée européenne pour le printemps 2026,
-baptisée "Coda Tour", en soutien à son cinquième album studio "Coda" sorti en mai 2025. Cette tournée prévoit pas moins
+baptisée "Coda Tour", en soutien à son cinquième album studio "Coda sorti en mai 2025. Cette tournée prévoit pas moins
 de 7 concerts en France, confirmant le statut du groupe comme l'un des fers de lance du metalcore hexagonal.
 
 ![Novelists tournée](tour.jpg)
