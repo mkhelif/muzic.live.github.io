@@ -1,6 +1,5 @@
 ---
 id: "b802fa5b-c8ac-4198-84b6-cafae9e15412"
-draft: true
 title: "Swab"
 cover: "cover.jpg"
 socials:

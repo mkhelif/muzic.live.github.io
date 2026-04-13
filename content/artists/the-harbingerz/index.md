@@ -1,6 +1,5 @@
 ---
 id: "8abf73f6-1b8c-4962-b223-54586127fb12"
-draft: true
 title: "The Harbingerz"
 cover: "cover.jpg"
 socials:

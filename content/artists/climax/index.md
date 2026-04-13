@@ -1,6 +1,5 @@
 ---
 id: "007b566c-88ae-41b7-bd4b-3ad63a429420"
-draft: true
 title: "Climax"
 cover: "cover.jpg"
 socials:

@@ -1,6 +1,5 @@
 ---
 id: "353d5a0e-3807-4dc0-8db6-1c294358737a"
-draft: true
 title: "Cotton Blood"
 cover: "cover.jpg"
 socials:
