@@ -1,4 +1,5 @@
 ---
+id: "8b386859-0b16-4360-a012-16cf85585137"
 title: "Mass Hysteria"
 cover: "cover.jpg"
 socials:

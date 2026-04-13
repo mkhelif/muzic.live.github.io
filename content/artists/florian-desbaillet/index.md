@@ -1,4 +1,5 @@
 ---
+id: "4a25f0ae-d0b5-4c24-ac67-9c24743261ef"
 title: "Florian Desbaillet"
 cover: "cover.jpg"
 socials:

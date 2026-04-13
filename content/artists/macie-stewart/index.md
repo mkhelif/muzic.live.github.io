@@ -1,4 +1,5 @@
 ---
+id: "aab89568-93ec-4fab-add1-392ff5e6edec"
 title: "Macie Stewart"
 cover: "cover.jpg"
 socials:

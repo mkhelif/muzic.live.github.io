@@ -1,4 +1,5 @@
 ---
+id: "f2dc2b4c-634c-49f2-94f7-ec73a12caae7"
 title: "Marcus Miller"
 cover: "cover.jpg"
 socials:

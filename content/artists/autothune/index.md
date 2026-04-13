@@ -1,4 +1,5 @@
 ---
+id: "9366b889-d0c8-4b44-b388-6519b8ca600b"
 draft: true
 title: "AutoThune"
 cover: "cover.jpg"

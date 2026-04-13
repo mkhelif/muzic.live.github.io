@@ -1,4 +1,5 @@
 ---
+id: "15084580-17ec-4786-91ae-40f241e58e3e"
 title: "DJ Bens"
 cover: "cover.jpg"
 socials:

@@ -1,4 +1,5 @@
 ---
+id: "b2380604-a253-49d9-97be-25fd8ae1dfb9"
 title: "MIKA"
 cover: "cover.jpg"
 socials:

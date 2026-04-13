@@ -1,4 +1,5 @@
 ---
+id: "5507cc7a-918b-4397-844f-94892e9c9188"
 title: "Francis Cabrel"
 cover: "cover.jpg"
 socials:

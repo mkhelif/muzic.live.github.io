@@ -1,4 +1,5 @@
 ---
+id: "f5247646-e809-45e8-b7cb-1052412b014b"
 title: "RAYE"
 cover: "cover.jpg"
 socials:

@@ -1,4 +1,5 @@
 ---
+id: "ceeb7e51-ddaa-4d6f-a151-dfa141f84e18"
 title: "My Beautiful Disorders"
 cover: "cover.jpg"
 socials:

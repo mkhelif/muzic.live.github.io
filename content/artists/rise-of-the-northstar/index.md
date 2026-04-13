@@ -1,4 +1,5 @@
 ---
+id: "ae36bfaa-cec8-4160-ba2e-0384322fefa5"
 title: "Rise Of The NorthStar"
 cover: "cover.jpg"
 socials:

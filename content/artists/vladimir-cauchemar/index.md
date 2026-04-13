@@ -1,4 +1,5 @@
 ---
+id: "273fb493-da91-4853-9fb7-e49b11a17635"
 title: "Vladimir Cauchemar"
 cover: "cover.jpg"
 socials:

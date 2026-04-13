@@ -1,4 +1,5 @@
 ---
+id: "844af41a-c503-4748-9c8e-8f09de6065c2"
 title: "Powerwolf"
 cover: "cover.jpg"
 socials:

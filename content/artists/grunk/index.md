@@ -1,4 +1,5 @@
 ---
+id: "0ea3f977-312c-4fda-8e0b-f902b44744ae"
 draft: true
 title: "Grunk"
 cover: "cover.jpg"

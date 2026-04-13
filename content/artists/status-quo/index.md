@@ -1,4 +1,5 @@
 ---
+id: "3b3caeec-2b4e-497c-9514-aff5b75475e9"
 title: "Status Quo"
 cover: "cover.jpg"
 socials:

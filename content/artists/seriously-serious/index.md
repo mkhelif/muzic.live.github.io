@@ -1,4 +1,5 @@
 ---
+id: "43dde4ab-4757-4283-90ce-408d050bc4bc"
 draft: true
 title: "Seriously Serious"
 cover: "cover.jpg"

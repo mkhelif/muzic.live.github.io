@@ -1,4 +1,5 @@
 ---
+id: "abf25b09-9daf-49b4-8943-b1390f8abecf"
 title: "Marcel et son Orchestre"
 cover: "cover.jpg"
 socials:

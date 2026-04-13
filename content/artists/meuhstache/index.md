@@ -1,4 +1,5 @@
 ---
+id: "c518c1e2-b44a-4e2c-80dc-88c14e4e6fe3"
 title: "Meuhstache"
 cover: "cover.jpg"
 socials:

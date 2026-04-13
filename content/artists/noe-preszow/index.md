@@ -1,4 +1,5 @@
 ---
+id: "5aba9f2d-28f1-488e-85fe-18059af1f7f8"
 title: "Noé Preszow"
 cover: "cover.jpg"
 socials:

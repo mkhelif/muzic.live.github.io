@@ -1,4 +1,5 @@
 ---
+id: "eae3c7a3-8c11-46c4-ae3a-e2ff553a5006"
 title: "Pierre de Maere"
 cover: "cover.jpg"
 socials:

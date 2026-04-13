@@ -1,4 +1,5 @@
 ---
+id: "b161bbf1-bb40-4b50-a9bf-96c289bbcbe5"
 title: "Chinese Man"
 cover: "cover.jpg"
 socials:

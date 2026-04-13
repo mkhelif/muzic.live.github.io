@@ -1,4 +1,5 @@
 ---
+id: "2980f07b-51a3-4a87-a5bf-b6fd5eefcb20"
 draft: true
 title: "Fonkiture"
 cover: "cover.jpg"

@@ -1,4 +1,5 @@
 ---
+id: "78a6fec2-6417-4eda-af4e-d651e0420094"
 title: "Alice et Moi"
 cover: "cover.jpg"
 socials:

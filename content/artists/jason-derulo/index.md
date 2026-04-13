@@ -1,4 +1,5 @@
 ---
+id: "fc438050-a3ef-4c84-937a-fe8867d8e219"
 title: "Jason Derulo"
 cover: "cover.jpg"
 socials:

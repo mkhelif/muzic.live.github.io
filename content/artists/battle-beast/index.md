@@ -1,4 +1,5 @@
 ---
+id: "3a93ff68-f045-4dc2-b55d-aacae431b76e"
 title: "Battle Beast"
 cover: "cover.jpg"
 socials:

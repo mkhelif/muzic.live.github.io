@@ -1,4 +1,5 @@
 ---
+id: "c480bd4b-fa61-4b35-a7af-4d38033b13de"
 title: "PinkPantheress"
 cover: "cover.jpg"
 socials:

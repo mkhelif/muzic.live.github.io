@@ -1,4 +1,5 @@
 ---
+id: "3b787e45-2a7c-49ac-87b9-ba7f9f636a42"
 title: "Wolfmother"
 cover: "cover.jpg"
 socials:

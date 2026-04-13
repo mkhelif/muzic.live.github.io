@@ -1,4 +1,5 @@
 ---
+id: "579498d8-0cb6-494a-a351-0a03a09220df"
 draft: true
 title: "Cinza"
 cover: "cover.jpg"

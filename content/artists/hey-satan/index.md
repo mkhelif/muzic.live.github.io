@@ -1,4 +1,5 @@
 ---
+id: "f59d3471-0356-40bc-98cc-2a62a1aed47a"
 title: "Hey Satan"
 cover: "cover.jpg"
 socials:

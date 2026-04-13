@@ -1,4 +1,5 @@
 ---
+id: "5cdb578f-ea35-4222-b847-77aab37612dc"
 title: "ASH"
 cover: "cover.jpg"
 socials:

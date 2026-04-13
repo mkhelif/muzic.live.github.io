@@ -1,4 +1,5 @@
 ---
+id: "34edfda5-5c66-4996-86a6-0858162d78cb"
 title: "Lost in Lona"
 cover: "cover.jpg"
 socials:

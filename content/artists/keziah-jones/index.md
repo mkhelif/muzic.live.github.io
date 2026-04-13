@@ -1,4 +1,5 @@
 ---
+id: "6dbb9165-a8bc-4d03-a223-64219a413a32"
 title: "Keziah Jones"
 cover: "cover.jpg"
 socials:

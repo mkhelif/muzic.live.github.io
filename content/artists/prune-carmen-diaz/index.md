@@ -1,4 +1,5 @@
 ---
+id: "984385ab-b650-4a7b-b4cf-0529ee3be271"
 draft: true
 title: "Prune Carmen Diaz"
 cover: "cover.jpg"

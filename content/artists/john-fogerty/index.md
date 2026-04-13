@@ -1,4 +1,5 @@
 ---
+id: "c0049171-e2f8-4956-b28a-afd8827857d6"
 title: "John Fogerty"
 cover: "cover.jpg"
 socials:

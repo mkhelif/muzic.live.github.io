@@ -1,4 +1,5 @@
 ---
+id: "1f80065a-496b-4e1e-8ee1-bea2d04cb4b0"
 title: "Yuston XIII"
 cover: "cover.jpg"
 socials:

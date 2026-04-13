@@ -1,4 +1,5 @@
 ---
+id: "22ba3766-86b2-4bc7-a9e4-6508e1b1ee15"
 title: "Finnegan Tui"
 cover: "cover.jpg"
 socials:

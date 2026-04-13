@@ -1,4 +1,5 @@
 ---
+id: "6d870661-a309-472c-9976-4725ed0a7141"
 title: "Franglish"
 cover: "cover.jpg"
 socials:

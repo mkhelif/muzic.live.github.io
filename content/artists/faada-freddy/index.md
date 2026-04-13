@@ -1,4 +1,5 @@
 ---
+id: "3359f956-a55b-4b78-bf3e-a7c4d391ef9a"
 title: "Faada Freddy"
 cover: "cover.jpg"
 socials:

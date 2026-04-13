@@ -1,4 +1,5 @@
 ---
+id: "9dd20107-5a2e-4b1b-887b-ce9620298a6d"
 title: "Boris Way"
 cover: "cover.jpg"
 socials:

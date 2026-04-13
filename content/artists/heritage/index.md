@@ -1,4 +1,5 @@
 ---
+id: "05bc994d-4d3b-45fd-a27c-834d2fef47d9"
 title: "Héritage"
 cover: "cover.jpg"
 ---

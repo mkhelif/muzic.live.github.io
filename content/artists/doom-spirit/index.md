@@ -1,4 +1,5 @@
 ---
+id: "f90cfa12-1f75-4e93-9231-2bce24c00b63"
 title: "Doom Spirit"
 cover: "cover.jpg"
 socials:

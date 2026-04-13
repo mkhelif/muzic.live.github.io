@@ -1,4 +1,5 @@
 ---
+id: "e7519b44-fd6a-4eb6-9ae1-88b12d266419"
 title: "The Inspector Cluzo"
 cover: "cover.jpg"
 socials:

@@ -1,4 +1,5 @@
 ---
+id: "674f3c50-024a-4dce-9321-82da5467665e"
 title: "Pacôme Rotondo"
 cover: "cover.jpg"
 socials:

@@ -1,4 +1,5 @@
 ---
+id: "9c887275-5393-4bda-adee-ffab7cb258af"
 title: "MC Solaar"
 cover: "cover.jpg"
 socials:

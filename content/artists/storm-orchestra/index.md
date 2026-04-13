@@ -1,4 +1,5 @@
 ---
+id: "d7a3b9ed-e3df-4f4a-8e50-f58672118f64"
 title: "Storm Orchestra"
 cover: "cover.jpg"
 socials:

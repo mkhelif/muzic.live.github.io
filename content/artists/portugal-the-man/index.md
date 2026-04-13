@@ -1,4 +1,5 @@
 ---
+id: "447f0a27-2b10-4c9c-b0f2-f9e6d7c8ee90"
 title: "Portugal. the Man"
 cover: "cover.jpg"
 socials:

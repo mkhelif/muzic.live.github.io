@@ -1,4 +1,5 @@
 ---
+id: "684b074a-7b55-484a-883f-ed648b73cb6d"
 title: "Crazy Jesse"
 cover: "cover.jpg"
 socials:

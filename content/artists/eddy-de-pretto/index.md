@@ -1,4 +1,5 @@
 ---
+id: "ba76eed2-50c9-4fed-9156-c9724b6446fa"
 draft: true
 title: "Eddy De Pretto"
 cover: "cover.jpg"

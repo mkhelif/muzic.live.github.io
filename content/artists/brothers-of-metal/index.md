@@ -1,4 +1,5 @@
 ---
+id: "71c41ef9-ba66-4f94-bb93-ed93fc1d188e"
 title: "Brothers of Metal"
 cover: "cover.jpg"
 socials:

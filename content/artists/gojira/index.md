@@ -1,4 +1,5 @@
 ---
+id: "e9cf3934-7712-4cfe-98e2-99dfe4d51de6"
 title: "Gojira"
 cover: "cover.jpg"
 socials:

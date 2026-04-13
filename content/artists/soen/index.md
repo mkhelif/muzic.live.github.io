@@ -1,4 +1,5 @@
 ---
+id: "7f854bed-ca88-4c33-9be8-2d4f6c4d1b22"
 title: "SOEN"
 cover: "cover.jpg"
 socials:

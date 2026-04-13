@@ -1,4 +1,5 @@
 ---
+id: "477cfe7f-0349-4843-ae01-f8e7000dd261"
 title: "Sabaton"
 cover: "cover.jpg"
 socials:

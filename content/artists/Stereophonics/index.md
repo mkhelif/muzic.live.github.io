@@ -1,4 +1,5 @@
 ---
+id: "070c10f4-5ab0-4a03-82d0-3e840033832c"
 title: "Stereophonics"
 cover: "cover.jpg"
 socials:

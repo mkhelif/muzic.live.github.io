@@ -1,4 +1,5 @@
 ---
+id: "e0b2e729-1d43-45f6-a9ef-6fc7397750c5"
 draft: true
 title: "Gliz"
 cover: "cover.jpg"

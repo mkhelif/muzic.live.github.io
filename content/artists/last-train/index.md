@@ -1,4 +1,5 @@
 ---
+id: "badb53d0-a3d1-4a37-81ca-c0c97653cfa4"
 title: "Last Train"
 cover: "cover.jpg"
 socials:

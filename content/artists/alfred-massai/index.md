@@ -1,4 +1,5 @@
 ---
+id: "bef8be46-fe93-4f60-97f9-9c2adfc9861d"
 title: "Alfred Massaï"
 cover: "cover.jpg"
 socials:
