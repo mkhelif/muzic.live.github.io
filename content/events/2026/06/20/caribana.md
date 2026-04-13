@@ -10,4 +10,6 @@ artists:
   - A-Trak
   - Myd
   - Leila
+tickets:
+  web: "https://www.ticketcorner.ch/fr/event/caribana-festival-2026-caribana-festival-20983880/"
 ---

@@ -10,4 +10,7 @@ artists:
   - a6el
   - Maureen
   - Genezio
+tickets:
+  web: "https://www.ticketcorner.ch/fr/event/caribana-festival-2026-caribana-festival-21007826/"
+full: true
 ---

@@ -8,4 +8,6 @@ artists:
   - Marine
   - Nadiya
   - Deluxe
+tickets:
+  web: "https://www.ticketcorner.ch/fr/event/caribana-festival-2026-caribana-festival-20984034/"
 ---

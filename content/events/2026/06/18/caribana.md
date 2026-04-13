@@ -9,4 +9,6 @@ artists:
   - Broken Back
   - Eve
   - Saint Stacy
+tickets:
+  web: "https://www.ticketcorner.ch/fr/event/caribana-festival-2026-caribana-festival-21000242/"
 ---
