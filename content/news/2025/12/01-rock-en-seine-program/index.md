@@ -5,23 +5,23 @@ title: "Rock en Seine 2026 : le festival francilien sort l'artillerie lourde"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Tyler The Creator
-  - SOMBR
-  - Miki
-  - Ravyn Lenae
-  - Nick Cave & The Bad Seeds
-  - The Black Keys
-  - Franz Ferdinand
-  - Biffy Clyro
-  - Kurt Vile & The Violators
-  - Deftones
-  - Turnstile
-  - Amyl & The Sniffers
-  - LANDMVRKS
-  - Lambrini Girls
-  - The Cure
-  - Interpol
-  - Slowdive
+  - "8c43b7b4-ac01-45df-9548-e61be2f33cb4"
+  - "13d7335a-067b-46f1-be43-caebe410a269"
+  - "3aa32fc6-464c-4b65-86b1-02903c59e0cc"
+  - "2c388851-6044-44fc-bc51-0dd699acbc72"
+  - "d6898f85-1792-4c31-9281-8aea914def30"
+  - "d405b24b-376e-439b-8ec9-157d73b4af89"
+  - "1388e767-c9b1-40fe-84ca-e644dc2463f4"
+  - "36b7217a-51a8-40b2-8ca5-b5f1d3949678"
+  - "83a38fe1-73bd-4e2a-b5f6-55b6a0b5bb6f"
+  - "0e67deef-962b-488a-a4c1-3cd509f507b7"
+  - "09a29e78-6bd1-48af-b268-c77642fe00af"
+  - "276ee5df-36d9-453c-aac3-8cc564b1c202"
+  - "6904a478-cc3a-4be8-819e-3f81eca3adf2"
+  - "584ad542-558e-441d-adc5-e5dde1e6a3ba"
+  - "6ea006ab-c5af-4b67-b801-2379d013495b"
+  - "04fdce89-15a5-4f41-a224-25e17cbdc442"
+  - "f75e2ab2-d13e-4734-a24f-0640ba7ebb09"
 ---
 
 Il y a des annonces qui font l'effet d'une déflagration. Celle de Rock en Seine pour son édition 2026 appartient à cette

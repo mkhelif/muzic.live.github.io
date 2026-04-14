@@ -3,7 +3,7 @@ date: 2026-01-08T10:00:00+02:00
 title: "Ghost : le Skeletour World Tour poursuit sa conquête en Amérique du Nord"
 cover: "cover.jpg"
 artists:
-  - Ghost
+  - "c3b8c08a-b88d-4cd1-9b6c-194f2d341996"
 ---
 
 La conquête mondiale de Papa V Perpetua ne ralentit pas. Ghost, dont le sixième album *Skeletá* a établi de nouveaux

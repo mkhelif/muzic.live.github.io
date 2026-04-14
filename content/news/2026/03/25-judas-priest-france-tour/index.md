@@ -3,7 +3,7 @@ date: 2026-03-25T10:00:00+02:00
 title: "Judas Priest en France en 2026 : cinq dates pour les Metal Gods, du Motocultor au Zénith de Paris"
 cover: "cover.jpg"
 artists:
-  - Judas Priest
+  - "40743c55-1dd8-44b0-8ef8-aeeba35596e6"
 ---
 
 Les légendes britanniques du heavy metal annoncent leur retour dans l'Hexagone avec une série de concerts exceptionnels

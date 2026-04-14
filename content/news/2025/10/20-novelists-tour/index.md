@@ -4,7 +4,7 @@ title: "Novelists annonce le \"Coda Tour 2026\" : 7 concerts en France pour cél
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Novelists
+  - "7f51db35-2e17-46c5-b1e9-ba63ba5b715f"
 ---
 
 Le groupe français de metalcore progressif Novelists a officialisé une tournée européenne pour le printemps 2026,

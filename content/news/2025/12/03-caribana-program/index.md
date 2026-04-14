@@ -5,19 +5,19 @@ title: "Caribana 2026 : pop, rap et French Touch sur les rives du Léman"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - MIKA
-  - Niska
-  - Lost Frequencies
-  - Louane
-  - Trinix
-  - Purple Disco Machine
-  - KeBlack
-  - La Rvfleuze
-  - Yoa
-  - Étienne de Crécy
-  - Soolking
-  - Genezio
-  - Maureen
+  - "b2380604-a253-49d9-97be-25fd8ae1dfb9"
+  - "583715c3-660b-415b-9196-5b52b5fda6a6"
+  - "bc8855cd-3a83-4332-9198-ff549ca67151"
+  - "0e726847-4649-434b-b7b9-fde2da2dfb9c"
+  - "072d2be7-bb53-4e71-bb35-38a8557bddfb"
+  - "55513cb2-8987-4c22-b713-aba235b9a9fc"
+  - "06270fb8-6dc8-46c6-8763-66cb3de58775"
+  - "695c6224-8223-4904-a8cf-bb8e74ea4736"
+  - "31705c16-53ae-4cb6-bba1-7369dcbf36e8"
+  - "4f66c1ab-923d-46d0-99c2-59ca37c60a4e"
+  - "161e78f4-7e87-4181-8499-beb0ef88c3cd"
+  - "0fc671ad-eb52-41d8-a0e6-dd73ca77dc31"
+  - "668cba49-cfb5-4ef9-aa0d-150c984671ad"
 ---
 
 Le festival vaudois dévoile les premiers noms de sa 34ᵉ édition. MIKA, Niska, Lost Frequencies, Soolking ou encore

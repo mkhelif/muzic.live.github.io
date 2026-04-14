@@ -4,7 +4,7 @@ title: "Larkin Poe lance \"The Bloom UK-EU Tour 2025\" : Les sœurs Lovell défe
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Larkin Poe
+  - "cc301983-a8ee-4bde-9063-b2e99eb3017f"
 ---
 
 Le duo lauréat d'un Grammy entame sa tournée européenne le 17 octobre à Manchester.

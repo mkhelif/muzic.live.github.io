@@ -5,9 +5,9 @@ title: "Gojira confirmé au Heavy Weekend 2026 : l'unique concert français des 
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Sabaton
-  - Gojira
-  - Electric Callboy
+  - "477cfe7f-0349-4843-ae01-f8e7000dd261"
+  - "e9cf3934-7712-4cfe-98e2-99dfe4d51de6"
+  - "74dd96c3-2ca5-4548-b0b0-6d9718ecb76a"
 ---
 
 Le Heavy Weekend de Nancy vient d'annoncer un coup de maître pour son édition 2026 : Gojira sera en tête d'affiche le

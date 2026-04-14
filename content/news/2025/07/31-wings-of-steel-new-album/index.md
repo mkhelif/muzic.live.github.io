@@ -4,7 +4,7 @@ title: "Wings of Steel : \"Winds of Time\", un retour ambitieux aux racines du h
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Wings of Steel
+  - "075a2e4e-4568-4662-b71e-2088706b76d7"
 albums:
   - Winds of Time
 ---

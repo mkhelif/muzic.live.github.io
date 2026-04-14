@@ -4,11 +4,11 @@ title: "Evanescence 2026 : une tournée mondiale monumentale portée par un line
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Evanescence
-  - Spiritbox
-  - Poppy
-  - Nova Twins
-  - K.Flay
+  - "2f398845-d660-4bd3-bf54-4e81cfcd706f"
+  - "f31a6c9a-fc2d-4159-9136-831e7b4be142"
+  - "1ee75f98-04a5-4ca1-be56-212d04fcb4f2"
+  - "be3d7356-d6e0-489c-bf53-f5183686d92a"
+  - "d4709b02-001f-4782-ab3b-6d045f2960a1"
 ---
 
 Amy Lee et sa bande annoncent 47 dates à travers l'Amérique du Nord et l'Europe, accompagnés de Spiritbox, Poppy, Nova

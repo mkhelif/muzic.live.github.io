@@ -3,7 +3,7 @@ date: 2026-01-10T10:00:00+02:00
 title: "Iron Maiden : la tournée 'Run For Your Lives' arrive en France en 2026"
 cover: "cover.jpg"
 artists:
-  - Iron Maiden
+  - "a98152c5-cd78-4264-9cb0-b074825ad314"
 ---
 
 La Bête de l'Est déploie ses ailes sur la France. Iron Maiden confirme deux dates françaises dans le cadre de la tournée

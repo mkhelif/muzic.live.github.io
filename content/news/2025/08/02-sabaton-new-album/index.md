@@ -4,7 +4,7 @@ title: "Sabaton : retour en force avec un nouvel album"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Sabaton
+  - "477cfe7f-0349-4843-ae01-f8e7000dd261"
 albums:
   - Legends
 ---

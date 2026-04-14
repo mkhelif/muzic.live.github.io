@@ -3,7 +3,7 @@ date: 2025-10-18T12:00:00+02:00
 title: "Nothing More revisite \"We're In This Together\" de Nine Inch Nails : onze ans de gestation pour un hommage cathartique"
 cover: "cover.jpg"
 artists:
-  - Nothing More
+  - "21153c85-31ee-49db-8602-4f2512eca983"
 ---
 
 Le groupe de rock alternatif texan Nothing More vient de dévoiler sa version tant attendue de "We're In This Together",

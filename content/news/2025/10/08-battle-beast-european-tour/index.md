@@ -4,7 +4,7 @@ title: "Battle Beast : la tournée européenne sur le point de commencer"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Battle Beast
+  - "3a93ff68-f045-4dc2-b55d-aacae431b76e"
 ---
 
 Les géants finlandais du power metal Battle Beast s'apprêtent à enflammer l'Europe avec une tournée monumentale qui

@@ -4,7 +4,7 @@ title: "SOEN explore les frontières de l'humanité avec Reliance"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - SOEN
+  - "7f854bed-ca88-4c33-9be8-2d4f6c4d1b22"
 albums:
   - Reliance
 ---

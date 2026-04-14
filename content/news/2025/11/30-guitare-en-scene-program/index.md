@@ -5,10 +5,10 @@ title: "Guitare en Scène 2026 : une première annonce qui sent la poudre et le 
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Gregory Porter
-  - Pixies
-  - Airbourne
-  - John Butler
+  - "cab4c355-2aa0-47e4-8dd0-e5c0cd702be3"
+  - "afeb60c3-ae28-48f2-93ea-3491cd32b225"
+  - "af59e553-2dd0-42b8-93a6-68e70e3dc683"
+  - "28ebf650-ab2c-44d0-9c20-db53fb7cdb12"
 ---
 
 Le festival haut-savoyard dévoile quatre premiers noms pour son édition estivale. Entre soul feutrée, rock alternatif

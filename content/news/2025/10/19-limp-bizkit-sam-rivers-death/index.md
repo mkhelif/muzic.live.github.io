@@ -3,7 +3,7 @@ date: 2025-10-19T10:00:00+02:00
 title: "Sam Rivers, bassiste fondateur de Limp Bizkit, est décédé à 48 ans"
 cover: "cover.jpg"
 artists:
-  - Limp Bizkit
+  - "09ecd7d6-10aa-4f24-8fb4-3c5b927f2a36"
 ---
 
 La communauté rock mondiale est en deuil. Sam Rivers, bassiste et membre fondateur du groupe de nu-metal Limp Bizkit,

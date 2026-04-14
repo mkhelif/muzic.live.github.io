@@ -4,7 +4,7 @@ title: "Les Tambours du Bronx : \"The Wild Pack\", la déferlante industrielle f
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Les Tambours du Bronx
+  - "a298e43a-882c-478c-959b-10a243cbd8b7"
 albums:
   - The Wild Pack
 ---

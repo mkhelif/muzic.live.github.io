@@ -5,11 +5,11 @@ title: 'Guitare en Scène 2026 : cinq nouveaux noms pour compléter une affiche 
   éblouissante'
 cover: "cover.jpg"
 artists:
-  - Fantastic Negrito
-  - Taj Farrant
-  - Florian Desbaillet
-  - Pacôme Rotondo
-  - Jango Janice
+  - "62ef5fde-be61-43c1-8f65-ae931f5f16c7"
+  - "d10e8b72-f8e5-40f6-92f7-a8f8d6f7a90b"
+  - "4a25f0ae-d0b5-4c24-ac67-9c24743261ef"
+  - "674f3c50-024a-4dce-9321-82da5467665e"
+  - "7b03caeb-1f0f-4ffc-8803-bd406e51bbbd"
 ---
 
 Après avoir frappé fort en annonçant Ben Harper & The Innocent Criminals, Kool & The Gang, Pixies, Gregory Porter,

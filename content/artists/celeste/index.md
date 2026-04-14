@@ -1,0 +1,11 @@
+---
+id: "61adbeb6-1210-4a8c-949f-8b2bcfd2d222"
+title: "Celeste"
+cover: "cover.jpg"
+socials:
+  facebook: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

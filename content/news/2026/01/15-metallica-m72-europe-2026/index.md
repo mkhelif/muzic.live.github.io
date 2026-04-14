@@ -3,11 +3,11 @@ date: 2026-01-15T10:00:00+02:00
 title: "Metallica : la tournée M72 revient en Europe avec Gojira et Pantera"
 cover: "cover.jpg"
 artists:
-  - Metallica
-  - Gojira
-  - Pantera
-  - Knocked Loose
-  - Avatar
+  - "f77406ca-9c5a-4a15-a923-45d1c84f46d0"
+  - "e9cf3934-7712-4cfe-98e2-99dfe4d51de6"
+  - "77818978-0701-4cc4-a0b9-445e1cf23ba7"
+  - "9b96f62b-0026-476c-a384-70786dbfca70"
+  - "1d6356b1-a9d7-4c38-957d-067cd5c3e50f"
 ---
 
 Le mastodonte ne s'arrête pas. Metallica annonce le retour de sa tournée M72 en Europe pour l'été 2026, avec un plateau

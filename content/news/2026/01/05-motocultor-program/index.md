@@ -5,16 +5,16 @@ title: "Motocultor 2026 : première salve d'annonces pour le festival breton"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Opeth
-  - Carcass
-  - Cult Of Luna
-  - Igorrr
-  - Alcest
-  - Gaerea
-  - Celeste
-  - Regarde Les Hommes Tomber
-  - Misþyrming
-  - Déluge
+  - "b451a414-cc3d-42db-8e3f-1220a2addd6e"
+  - "e307f056-1a33-442a-b9b9-d6b0d46cee22"
+  - "76c2397a-499f-4490-9657-944242611394"
+  - "e13ccf39-606b-4fb3-96e8-864d99b2f091"
+  - "9e16164e-b9e9-4a31-90d5-dccb54ef0ff0"
+  - "80f66fff-bbc0-4d7c-98ea-d8d353e6efbd"
+  - "61adbeb6-1210-4a8c-949f-8b2bcfd2d222"
+  - "6588b2f2-8e4e-4a85-a38e-9f21058f2607"
+  - "422b382a-c8a5-47d3-98b7-c0b9ae44e513"
+  - "bc8991f4-f7c6-4d89-bcf9-e7c8f1167177"
 ---
 
 Le Motocultor frappe d'entrée. Le festival breton, installé à Carhaix depuis 2022 après des années passées à

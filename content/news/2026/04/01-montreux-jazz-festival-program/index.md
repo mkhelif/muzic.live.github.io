@@ -6,73 +6,73 @@ title: 'Montreux Jazz Festival 2026 : de RAYE à Nick Cave, une programmation ma
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Adriatique
-  - Agnes Obel
-  - Aldous Harding
-  - Angus & Julia Stone
-  - Ascendant Vierge
-  - Bekar
-  - Ben Böhmer
-  - Billy Cobham
-  - Cerrone
-  - Charlotte Cardin
-  - Charles Lloyd
-  - Conan Gray
-  - Dabeull Live Band
-  - Danny L Harle
-  - Danny Ocean
-  - Deep Purple
-  - Dermot Kennedy
-  - Don West
-  - Dove Ellis
-  - Eddy de Pretto
-  - Erin LeCount
-  - Faouzia
-  - Fresh Mula
-  - Givēon
-  - Gregory Porter
-  - Guitarricadelafuente
-  - Hemlocke Springs
-  - Iliona
-  - James Taylor
-  - John Legend
-  - Jovanotti
-  - Joy Crookes
-  - KWN
-  - Lewis Capaldi
-  - Liniker
-  - Loyle Carner
-  - Makala
-  - Marcus Miller
-  - Maro
-  - Mind Enterprises
-  - Moby
-  - Naïka
-  - Nectar Woode
-  - Nick Cave & The Bad Seeds
-  - Noga Erez
-  - Pale Jay
-  - Paris Paloma
-  - PinkPantheress
-  - R2
-  - RAYE
-  - Rival Sons
-  - RnBoi
-  - Sasha Keable
-  - Sekou
-  - Selah Sue and The Gallands
-  - Sienna Spiro
-  - Sofia Camara
-  - Sting
-  - The Isley Brothers
-  - The Roots
-  - Tyla
-  - Van Morrison
-  - Vulfpeck
-  - Yebba
-  - Young Miko
-  - Zara Larsson
-  - ¥ØU$UK€ ¥UK1MAT$U
+  - "84497f6b-27d2-4db8-8577-e043406e7db9"
+  - "a32488b7-3bac-4cd4-b091-e40932e3d85c"
+  - "18e6547e-5e9f-4d45-b840-856e7afb9e29"
+  - "6926b512-4a18-4f3e-8441-56de06367c9f"
+  - "b11e2b9d-ab6d-4bbe-8678-7f2c3b963736"
+  - "da08a7a4-fcda-4755-bdb7-da8536ba9fb5"
+  - "14c88ae8-5e39-4b62-894d-fd26d29d90ba"
+  - "8fe12217-9c47-4fe2-ab4f-7764decea36a"
+  - "f64c4268-ac3b-450e-ba63-110c8f216d20"
+  - "51669b3b-b74c-4c57-8a31-a59dc1fccae2"
+  - "bbb0a3d7-7f7b-4c87-b307-3e7653fd176d"
+  - "dd8f502b-e369-4537-8081-02ff19f23ccc"
+  - "4549309b-b7f2-4c26-844f-ee91a6727317"
+  - "d763eaba-5a26-4650-bde8-192d096cd43b"
+  - "b3a31b01-971b-4adf-8d0d-5df11b2053ab"
+  - "3c73672f-8be9-4a35-881e-8f643dc26630"
+  - "9142631c-939b-4d24-8d7c-1683d5086e86"
+  - "513e1419-f2ee-499b-a1a6-d172c2136ecf"
+  - "b3f67da4-c370-46fe-9985-8459a9ebe944"
+  - "ba76eed2-50c9-4fed-9156-c9724b6446fa"
+  - "d7bdba87-c21e-4f07-b0b4-775e201e304b"
+  - "4a61fcb3-ea57-441c-acee-fc28ef4e5809"
+  - "905c182c-256b-4812-bbc0-7db90f58e28e"
+  - "708fd8e5-d0fa-4a29-9bb9-10a41ac0c2f0"
+  - "cab4c355-2aa0-47e4-8dd0-e5c0cd702be3"
+  - "4a01340e-b94c-4e72-bd5b-a24503e02850"
+  - "0611bf62-2898-4399-9fbe-43c664ac5def"
+  - "2ec21dcb-9d96-4a23-ad86-bad0772be646"
+  - "10024fad-03d5-4176-b7d3-f3d66152690d"
+  - "9a2ddcad-8960-426f-afb6-6ece6dd9739b"
+  - "6db762ac-11c9-42cf-ae9e-7108d8f44e22"
+  - "9c43f234-9495-49f4-b162-0f79ddc2453e"
+  - "e36230af-3a5f-443a-a5cc-8695580dc83a"
+  - "a85985b5-4428-4baf-a61a-fe8549d1e6ec"
+  - "b3c2be2a-608a-4c1b-9ef9-8868ab85f3f0"
+  - "90965410-25b3-48f6-a7d2-49b2a0b0db92"
+  - "d8cc4898-a7d8-4757-b034-52916290a565"
+  - "f2dc2b4c-634c-49f2-94f7-ec73a12caae7"
+  - "9a0bd3fc-f975-405f-b9d2-f9f6c0484ecf"
+  - "d36372dc-ffe8-4f5b-939d-7b1f3bb93a63"
+  - "41e89fdf-34e2-44b3-bd84-bbffee6be42c"
+  - "3eb7081d-bbab-4e27-ad86-0109a9242109"
+  - "52d06dab-6372-4679-93e1-bcdd64ac9bd7"
+  - "d6898f85-1792-4c31-9281-8aea914def30"
+  - "397ec926-80f8-45ec-b08d-5f4bb7833c88"
+  - "65a7b252-ed4f-45b2-b2ee-9a6a54c5ea95"
+  - "e30a79da-7be4-4324-8e0f-a5c1440f3fe8"
+  - "c480bd4b-fa61-4b35-a7af-4d38033b13de"
+  - "dc5f5082-e796-4fab-bd00-13f64f12d1a3"
+  - "f5247646-e809-45e8-b7cb-1052412b014b"
+  - "a9ce6260-715d-4642-b21f-d35e62a8bf4a"
+  - "a5415d00-b4ac-4d10-9a00-708acc90a041"
+  - "eab246c9-a222-46f4-849d-9749573eb912"
+  - "c1e97bb3-cbc0-4685-aa5c-55acceed6a81"
+  - "5eba124a-0e6d-419d-9a4b-7a95146683e1"
+  - "eab7d010-05c4-4178-9e1f-f20c6c2e5909"
+  - "b3a799d6-13ee-40ec-9e86-9a8890cfd277"
+  - "41b17499-c8b5-4add-ae90-bd221551e418"
+  - "fa03b298-fc26-43f2-92a0-371486c9b692"
+  - "60a32285-accc-44eb-92d9-983eefa32e8c"
+  - "3ee1931d-1237-4b0b-9a9e-2a8c519484a0"
+  - "ae1b2a4e-291a-4cc2-8b0f-764ab7159a6c"
+  - "3a82a1d4-8fec-440e-91d7-993105c4c41a"
+  - "4f5e1d94-4e0b-4610-9098-1be5b10a5c22"
+  - "c68bb3bd-7687-4e1e-a85c-0403ad554dc2"
+  - "4fec5d54-529f-4f7b-9261-f7b2804263c3"
+  - "cde22ca5-e1fb-4884-ac48-20c4813bb856"
 ---
 
 Soixante ans et aucun signe de lassitude. Le Montreux Jazz Festival a dévoilé ce mardi la programmation de son édition

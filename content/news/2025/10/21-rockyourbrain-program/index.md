@@ -5,16 +5,16 @@ title: "Rock Your Brain Fest #13 : Premiers noms annoncés pour l'édition 2026 
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Tagada Jones
-  - Les Ramoneurs de Menhir
-  - Cachemire
-  - Didier Super
-  - Opium du Peuple
-  - Los Fastidios
-  - Darcy
-  - Not Scientists
-  - Schlaasss
-  - Corbillard
+  - "578b9f77-f480-47e8-ac0b-a67bc0b921fc"
+  - "62333507-b8ac-4ecb-a2da-229f11a8a93d"
+  - "c1ee1791-6f40-4d6a-9ebc-1ef6691f2968"
+  - "c617c806-8031-4317-98c7-1cb78be82a8e"
+  - "334afb46-0225-4616-94c6-e676d92a6a3d"
+  - "087fc8c1-75f5-4a1b-b10f-6b0c78adbd00"
+  - "7abbfe07-c09c-4b25-be40-9005bf091d04"
+  - "b14e9075-536c-4533-a631-bcee9a625d47"
+  - "3d4c9ddb-d4cb-44f6-ad00-be9bb6d4ba29"
+  - "133fdbce-1e5d-4b15-ae57-f76b42396248"
 ---
 
 Après une édition 2025 survoltée qui a vu le samedi afficher complet, le Rock Your Brain Fest annonce déjà les premiers

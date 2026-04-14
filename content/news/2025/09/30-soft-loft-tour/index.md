@@ -4,7 +4,7 @@ title: Soft Loft s'apprête à conquérir l'Europe avec la tournée \"Modern Ros
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Soft Loft
+  - "18e1b882-d0e1-4d33-a181-26b6db17625d"
 ---
 
 Le collectif indie folk suisse Soft Loft s'apprête à partir à la conquête de l'Europe avec sa tournée "Modern Roses",

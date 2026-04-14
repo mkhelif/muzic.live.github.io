@@ -4,7 +4,7 @@ title: "Powerwolf annonce le \"Wake Up The Wicked Tour 2026\" : une messe de hea
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Powerwolf
+  - "844af41a-c503-4748-9c8e-8f09de6065c2"
 ---
 
 Les géants du power metal allemand Powerwolf ont dévoilé les détails de leur tournée européenne massive pour 2026,

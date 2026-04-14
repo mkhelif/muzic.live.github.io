@@ -4,7 +4,7 @@ title: "Steelbound : Battle Beast célèbre la résistance dans un nouvel album"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Battle Beast
+  - "3a93ff68-f045-4dc2-b55d-aacae431b76e"
 albums:
   - Steelbound
 ---

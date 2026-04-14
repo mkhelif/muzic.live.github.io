@@ -3,7 +3,7 @@ date: 2025-10-09T10:30:00+02:00
 title: "Dream Theater annule sa tournée européenne 2026 : \"Parfois les plans changent\""
 cover: "cover.jpg"
 artists:
-  - Dream Theater
+  - "d224b882-ac24-47f6-9adb-80e8dedc4ee9"
 ---
 
 Coup de tonnerre dans le monde du metal progressif : Dream Theater a officiellement annulé ses projets de tournée

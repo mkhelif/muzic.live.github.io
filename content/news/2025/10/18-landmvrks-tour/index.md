@@ -4,7 +4,7 @@ title: "LANDMVRKS lance sa plus grande tournée européenne avec Underoath : un 
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - LANDMVRKS
+  - "6904a478-cc3a-4be8-819e-3f81eca3adf2"
 ---
 
 Le groupe marseillais débute le 4 décembre à Meisenthal avec une affiche explosive

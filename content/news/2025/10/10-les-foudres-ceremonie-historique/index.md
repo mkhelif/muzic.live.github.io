@@ -6,17 +6,17 @@ title: "Les Foudres : Le metal français célèbre sa première cérémonie hist
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Alcest
-  - Houle
-  - Gojira
-  - Gravekvlt
-  - Landmvrks
-  - Last Train
-  - Mass Hysteria
-  - Revnoir
-  - Rise Of The NorthStar
-  - Sun
-  - Ultra Vomit
+  - "9e16164e-b9e9-4a31-90d5-dccb54ef0ff0"
+  - "e2651af1-fe25-4b76-8d7e-201bd6d8ce7a"
+  - "e9cf3934-7712-4cfe-98e2-99dfe4d51de6"
+  - "3952b3b8-25ed-469e-bd40-b557841178f6"
+  - "6904a478-cc3a-4be8-819e-3f81eca3adf2"
+  - "badb53d0-a3d1-4a37-81ca-c0c97653cfa4"
+  - "8b386859-0b16-4360-a012-16cf85585137"
+  - "ba91c87a-3b73-4630-8c8e-f6440bf8e3eb"
+  - "ae36bfaa-cec8-4160-ba2e-0384322fefa5"
+  - "5280a95d-ea02-4289-9281-c15484a64217"
+  - "37fd18d8-422e-425b-9227-b1d49f6b3cda"
 ---
 
 Le jeudi 9 octobre 2025, le Bataclan de Paris a accueilli un événement historique pour la scène metal française : Les

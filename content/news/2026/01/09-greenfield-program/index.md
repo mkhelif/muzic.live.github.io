@@ -5,15 +5,15 @@ title: "Greenfield Festival 2026 : le rock et le metal s'emparent d'Interlaken"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
-  - Slipknot
-  - Korn
-  - Volbeat
-  - Parkway Drive
-  - Bullet For My Valentine
-  - Imminence
-  - The Halo Effect
-  - Orbit Culture
-  - Any Given Day
+  - "3100a2b0-8068-4fbe-8498-6f2721c90427"
+  - "63315159-9aff-4816-9df4-60b36def48ee"
+  - "63a79335-6099-47c3-8ccf-78a91a33586f"
+  - "8434836a-a58f-4b6a-b2db-a6d212822612"
+  - "58c573a4-8462-42e7-aed2-5cf915ebf5b2"
+  - "5b347b4d-07f6-4009-ba57-dd94f9808dab"
+  - "80627aed-095b-44e1-a3bd-82356180aa14"
+  - "d2b97ef4-8088-45a0-b09a-3ab19ebc9c75"
+  - "8538898e-ec26-4a78-b33b-8f65dddc2be2"
 ---
 
 Le plus grand festival de rock et de metal de Suisse dévoile les premiers noms de son édition 2026. Le Greenfield Festival, qui se tiendra du 11 au 13 juin sur le site idyllique d'Interlaken au pied des Alpes bernoises, frappe fort avec une programmation qui mêle légendes du metal et nouvelles sensations.
