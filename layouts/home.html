@@ -42,8 +42,18 @@
     <div class="container mt-4" data-pagefind-ignore="all">
         <!-- Other news -->
         <div class="row">
-            {{ range $index, $page := (where site.RegularPages "Section" "news").Limit 18 }}
-                {{ $visibility := cond (in $highlights $page.RelPermalink) "d-block d-md-none" "" }}
+            {{ $count := 0 }}
+            {{ range $index, $page := (where site.RegularPages "Section" "news") }}
+                {{ if eq $count 15 }}
+                    {{ break }}
+                {{ end }}
+
+                {{ $visibility := "" }}
+                {{ if in $highlights $page.RelPermalink }}
+                    {{ $visibility = "d-block d-md-none" }}
+                {{ else }}
+                    {{ $count = add $count 1 }}
+                {{ end }}
                 <div class="col-12 col-sm-6 col-md-3 news-card mb-4 {{ $visibility }}">
                     <a href="{{ .RelPermalink }}" class="d-block position-relative">
                         <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .Title }}" width="100%" class="news-image rounded-1 mw-100">
