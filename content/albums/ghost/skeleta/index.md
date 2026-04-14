@@ -8,10 +8,11 @@ cover: "cover.jpg"
 rank: 6
 artists:
   - "c3b8c08a-b88d-4cd1-9b6c-194f2d341996"
-spotify: "2PFJKjBqXpYrRcdClhfcnX"
-tidal: "430783746"
 todo:
   - Check if makes sense or rewrite
+socials:
+  spotify: "2PFJKjBqXpYrRcdClhfcnX"
+  tidal: "430783746"
 ---
 
 Tobias Forge avait déjà l'album suivant cartographié en janvier 2022, deux mois avant même qu'Impera ne sorte. Voilà

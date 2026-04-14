@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 7
 artists:
   - "90536ee8-6bb3-41bf-a04b-9f514ef4b4a7"
-spotify: "1El3k8dU3sKyoGUeuyrolH"
-tidal: "459844445"
+socials:
+  spotify: "1El3k8dU3sKyoGUeuyrolH"
+  tidal: "459844445"
 ---
 
 ##### L'épilogue nécessaire d'un duo qui refuse de mourir

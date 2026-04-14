@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 8
 artists:
   - "21153c85-31ee-49db-8602-4f2512eca983"
-spotify: "6bo0qsybdHj6lP2Hr0flUj"
-tidal: "355013613"
+socials:
+  spotify: "6bo0qsybdHj6lP2Hr0flUj"
+  tidal: "355013613"
 ---
 
 Trois nominations aux Grammy Awards. Sept singles dans le Top 10 des radios rock actives américaines. Vingt ans de

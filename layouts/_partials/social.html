@@ -1,4 +1,7 @@
 <p class="text-end fs-4 mb-4">
+    <!-- TODO Songkick / Bandsintown -->
+
+    <!-- Social networks -->
     {{ if .Params.socials.web }}
         <a class="me-2 align-middle" href="{{ .Params.socials.web }}" target="_blank" rel="noreferrer noopener"><i class="fa fa-globe"></i></a>
     {{ end }}
@@ -23,34 +26,56 @@
     {{ if .Params.socials.bandcamp }}
         <a class="me-2 align-middle" href="https://{{ .Params.socials.bandcamp }}.bandcamp.com/" target="_blank" rel="noreferrer noopener"><i class="fab fa-bandcamp"></i></a>
     {{ end }}
+    {{ if .Params.socials.soundcloud }}
+        <a class="me-2 align-middle" href="https://soundcloud.com/{{ .Params.socials.soundcloud }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-soundcloud"></i></a>
+    {{ end }}
+    {{ if .Params.socials.songkick }} <!-- TODO -->
+        <a class="me-2 align-middle" href="https://www.songkick.com/artists/{{ .Params.socials.songkick }}" target="_blank" rel="noreferrer noopener">
+            {{ readFile "static/icons/songkick.svg" | safeHTML }}
+        </a>
+    {{ end }}
+    {{ if .Params.socials.bandsintown }} <!-- TODO -->
+        <a class="me-2 align-middle" href="https://www.bandsintown.com/a/{{ .Params.socials.bandsintown }}" target="_blank" rel="noreferrer noopener">
+            {{ readFile "static/icons/bandsintown.svg" | safeHTML }}
+        </a>
+    {{ end }}
     {{ if .Params.socials.youtube }}
         <a class="me-2 align-middle" href="https://www.youtube.com/{{ .Params.socials.youtube }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-youtube"></i></a>
     {{ end }}
     {{ if .Params.socials.whatsapp }}
         <a class="me-2 align-middle" href="https://www.whatsapp.com/channel/{{ .Params.socials.whatsapp }}/" target="_blank" rel="noreferrer noopener"><i class="fab fa-whatsapp"></i></a>
     {{ end }}
-    {{ if .Params.socials.tidal }}
-        <a class="me-2 align-middle" href="https://tidal.com/artist/{{ .Params.socials.tidal }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-tidal"></i></a>
-    {{ end }}
-    {{ if .Params.socials.spotify }}
-        <a class="me-2 align-middle" href="https://open.spotify.com/artist/{{ .Params.socials.spotify }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-spotify"></i></a>
-    {{ end }}
-    {{ if .Params.socials.deezer }}
-        <a class="me-2 align-middle" href="https://www.deezer.com/artist/{{ .Params.socials.deezer }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-deezer"></i></a>
-    {{ end }}
-    {{ if .Params.socials.apple }}
-        <a class="me-2 align-middle" href="https://music.apple.com/artist/{{ .Params.socials.apple }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-apple"></i></a>
-    {{ end }}
-    {{ if .Params.socials.amazon }}
-        <a class="me-2 align-middle" href="https://music.amazon.com/artists/{{ .Params.socials.amazon }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-amazon"></i></a>
-    {{ end }}
-    {{ if .Params.socials.soundcloud }}
-        <a class="me-2 align-middle" href="https://soundcloud.com/{{ .Params.socials.soundcloud }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-soundcloud"></i></a>
-    {{ end }}
-    <!-- TODO Songkick / Bandsintown -->
 
+    <!-- Music platforms -->
+    {{ $type := "" }}
+    {{ if eq .Section "artists" }}
+        {{ $type = "artist" }}
+    {{ else if eq .Section "albums" }}
+        {{ $type = "album" }}
+    {{ end }}
 
-    {{ with .Params.coordinates }}
-        <a class="me-2 align-middle" href="https://www.google.com/maps/place/{{ .latitude }},{{ .longitude }}" target="_blank" rel="noreferrer noopener"><i class="fa fa-location-dot"></i></a>
+    {{ if $type }}
+        {{ if .Params.socials.tidal }}
+            <a class="me-2 align-middle" href="https://tidal.com/{{ $type }}/{{ .Params.socials.tidal }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-tidal"></i></a>
+        {{ end }}
+        {{ if .Params.socials.spotify }}
+            <a class="me-2 align-middle" href="https://open.spotify.com/{{ $type }}/{{ .Params.socials.spotify }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-spotify"></i></a>
+        {{ end }}
+        {{ if .Params.socials.deezer }}
+            <a class="me-2 align-middle" href="https://www.deezer.com/{{ $type }}/{{ .Params.socials.deezer }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-deezer"></i></a>
+        {{ end }}
+        {{ if .Params.socials.apple }}
+            <a class="me-2 align-middle" href="https://music.apple.com/{{ $type }}/{{ .Params.socials.apple }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-apple"></i></a>
+        {{ end }}
+        {{ if .Params.socials.amazon }}
+            <a class="me-2 align-middle" href="https://music.amazon.com/{{ $type }}s/{{ .Params.socials.amazon }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-amazon"></i></a>
+        {{ end }}
+    {{ end }}
+
+    <!-- Locations -->
+    {{ if eq .Section "locations" }}
+        {{ with .Params.coordinates }}
+            <a class="me-2 align-middle" href="https://www.google.com/maps/place/{{ .latitude }},{{ .longitude }}" target="_blank" rel="noreferrer noopener"><i class="fa fa-location-dot"></i></a>
+        {{ end }}
     {{ end }}
 </p>

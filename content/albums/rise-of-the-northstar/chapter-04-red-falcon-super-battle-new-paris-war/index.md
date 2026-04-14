@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 10
 artists:
   - "ae36bfaa-cec8-4160-ba2e-0384322fefa5"
-spotify: "3rvuosVjs5t0CyCok0r7Y3"
-tidal: "463156550"
+socials:
+  spotify: "3rvuosVjs5t0CyCok0r7Y3"
+  tidal: "463156550"
 ---
 
 Il n'y a personne d'autre comme eux, vraiment. Qu'on les aime ou qu'on les déteste, ce fait est indéniable. Rise Of The

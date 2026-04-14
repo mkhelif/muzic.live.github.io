@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 8
 artists:
   - "f689b1ff-c5f4-413d-9f9b-c7d079a28294"
-spotify: "6swvaaPMfY7cJL3HJnIDuA"
-tidal: "280664986"
+socials:
+  spotify: "6swvaaPMfY7cJL3HJnIDuA"
+  tidal: "280664986"
 ---
 
 Il y a des albums qui tombent à pic. After the Embers, premier long format du duo lyonnais Two Faces, sorti le 31 mars

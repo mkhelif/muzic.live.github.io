@@ -1,16 +1,5 @@
-{{ with .Params.spotify }}
-    <div class="mb-4">
-        <div id="spotify-album-{{ . }}"></div>
-        <script type="application/javascript">
-            window.onSpotifyIframeApiReady = iframeApi => {
-                const element = document.getElementById("spotify-album-{{ . }}");
-                const options = {
-                    width: "100%",
-                    uri: "spotify:album:{{ . }}"
-                };
-                const callback = () => {};
-                iframeApi.createController(element, options, callback);
-            };
-        </script>
-    </div>
+{{ with .Params.socials }}
+    {{ with .spotify }}
+        {{ partial "players/spotify.html" (dict "type" "album" "id" .) }}
+    {{ end }}
 {{ end }}

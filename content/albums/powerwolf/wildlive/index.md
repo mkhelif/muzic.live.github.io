@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 10
 artists:
   - "844af41a-c503-4748-9c8e-8f09de6065c2"
-spotify: "0sYsti82VA37zLESxDYVsm"
-tidal: "466546699"
+socials:
+  spotify: "0sYsti82VA37zLESxDYVsm"
+  tidal: "466546699"
 ---
 
 Les albums live se font rares dans le paysage metal contemporain. Quand ils existent, ils oscillent souvent entre le

@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 6
 artists:
   - "477cfe7f-0349-4843-ae01-f8e7000dd261"
-spotify: "1jjx7U3tayhJTytJVBj0WY"
-tidal: "442030480"
+socials:
+  spotify: "1jjx7U3tayhJTytJVBj0WY"
+  tidal: "442030480"
 ---
 
 Avec Legends, Sabaton signe son dixième album studio et nous offre une nouvelle leçon d'histoire mise en musique,

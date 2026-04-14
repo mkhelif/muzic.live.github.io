@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 9
 artists:
   - "18e1b882-d0e1-4d33-a181-26b6db17625d"
-spotify: "3fSI4OFejKzQKZFosmR0vX"
-tidal: "328542561"
+socials:
+  spotify: "3fSI4OFejKzQKZFosmR0vX"
+  tidal: "328542561"
 ---
 
 C'est avec une délicatesse rare que le collectif suisse Soft Loft a dévoilé son premier album studio "The Party and the

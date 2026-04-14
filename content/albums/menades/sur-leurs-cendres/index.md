@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 8
 artists:
   - "e7ae033b-46c3-473a-99b2-e1209f7e97a9"
-spotify: "4JYkws6onWZI1ks0jhvTjO"
-tidal: "414110568"
+socials:
+  spotify: "4JYkws6onWZI1ks0jhvTjO"
+  tidal: "414110568"
 ---
 
 "C'est un peu une volonté de dire qu'il faut tout brûler... Et dansons sur leurs cendres." Voilà comment le quintet

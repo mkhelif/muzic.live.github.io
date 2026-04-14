@@ -6,7 +6,7 @@ socials:
   facebook: "theclivemusic"
   instagram: "theclivemusic"
   x: "TheCliveMusic"
-  bandsintown: "TheClive"
+  bandsintown: "2373559"
   youtube: "@TheCliveMusic"
   web: "https://www.the-clive.com/"
   tidal: "7779755"

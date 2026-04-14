@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 8
 artists:
   - "155c93a8-0b66-44f1-9322-88ca9e52a44d"
-spotify: "31vki7hqYMXMrVZePwMzKj"
-tidal: "378519527"
+socials:
+  spotify: "31vki7hqYMXMrVZePwMzKj"
+  tidal: "378519527"
 ---
 
 Il a 19 ans. Trois fois vainqueur du Young Blues Artist of the Year aux UK Blues Awards. Encensé par Jools Holland et

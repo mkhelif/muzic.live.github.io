@@ -9,7 +9,8 @@ rank: 9
 artists:
   - "0b8a7424-dba1-4f5a-8f0e-42ebd1dd9f3b"
 album: "5QfFvOMOJ0CrIDmu33RmSJ"
-tidal: "396931349"
+socials:
+  tidal: "396931349"
 ---
 
 Sept ans après la mort de Chester Bennington, Linkin Park ressuscite. Pas en tentant de remplacer l'irremplaçable, mais

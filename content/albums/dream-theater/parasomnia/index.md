@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 8
 artists:
   - "d224b882-ac24-47f6-9adb-80e8dedc4ee9"
-spotify: "0ER7sdwIe6mfM63TbWcHmd"
-tidal: "413373265"
+socials:
+  spotify: "0ER7sdwIe6mfM63TbWcHmd"
+  tidal: "413373265"
 ---
 
 Seize ans. C'est le temps qu'il aura fallu pour que Mike Portnoy revienne dans le groupe qu'il a cofondé en 1985. Depuis

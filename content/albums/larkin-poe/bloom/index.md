@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 9
 artists:
   - "cc301983-a8ee-4bde-9063-b2e99eb3017f"
-spotify: "3j4gz6gqIxtKaW0NHAOZwc"
-tidal: "382280129"
+socials:
+  spotify: "3j4gz6gqIxtKaW0NHAOZwc"
+  tidal: "382280129"
 ---
 
 Les sœurs Lovell reviennent avec Bloom, un album qui cristallise dix ans d'évolution artistique en treize morceaux de

@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 10
 artists:
   - "badb53d0-a3d1-4a37-81ca-c0c97653cfa4"
-spotify: "39ERFFU6V30kTOEZbsznoH"
-tidal: "413873110"
+socials:
+  spotify: "39ERFFU6V30kTOEZbsznoH"
+  tidal: "413873110"
 ---
 
 **Le rock français a trouvé son altitude de croisière. Et elle est stratosphérique.**

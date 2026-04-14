@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 10
 artists:
   - "bcd28ca5-451c-4701-a968-48086d087d28"
-spotify: "5ypPwi6yhfMZ6wEhgX5aV3"
-tidal: "346042741"
+socials:
+  spotify: "5ypPwi6yhfMZ6wEhgX5aV3"
+  tidal: "346042741"
 ---
 
 "Notre musique on la fait avec nos putains de tripes." Cette phrase, MADAM l'a posée comme manifeste sur leur

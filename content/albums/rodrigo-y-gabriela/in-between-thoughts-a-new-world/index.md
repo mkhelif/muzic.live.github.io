@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 10
 artists:
   - "bb0a1043-d8af-44fb-bca5-2778d6ab0437"
-spotify: "5PVxkqY37lh5zCftJmv0g0"
-tidal: "289630560"
+socials:
+  spotify: "5PVxkqY37lh5zCftJmv0g0"
+  tidal: "289630560"
 ---
 
 Peu de duos instrumentaux possèdent une signature sonore aussi immédiatement identifiable. Quand résonnent ces guitares

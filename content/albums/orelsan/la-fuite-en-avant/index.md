@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 8
 artists:
   - "55f62ae6-f2aa-4e82-ac11-76ec9948edee"
-spotify: "130L3uMANE28R0eH0GtmZS"
-tidal: "472233405"
+socials:
+  spotify: "130L3uMANE28R0eH0GtmZS"
+  tidal: "472233405"
 ---
 
 Quatre ans. C'est le temps écoulé depuis Civilisation (2021), triomphe populaire et critique qui a définitivement

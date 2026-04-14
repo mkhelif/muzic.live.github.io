@@ -9,9 +9,10 @@ cover: "cover.jpg"
 rank: 10
 artists:
   - "34edfda5-5c66-4996-86a6-0858162d78cb"
-spotify: "42fS5G4YXzoi4iz2pztDLP"
-tidal: "447492552"
 todo:
   - Write review
+socials:
+  spotify: "42fS5G4YXzoi4iz2pztDLP"
+  tidal: "447492552"
 ---
 

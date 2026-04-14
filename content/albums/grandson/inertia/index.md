@@ -9,7 +9,8 @@ rank: 8
 artists:
   - "68618401-47a8-439b-8e62-ba14b080ff6a"
 album: "5Srzn7hnU7DcsvD6BBTjHC"
-tidal: "437360262"
+socials:
+  tidal: "437360262"
 ---
 
 Il y a quelque chose de presque poétique dans le titre de ce troisième album. *Inertia* — l'inertie — ce principe

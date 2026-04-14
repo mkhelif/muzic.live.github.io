@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 9
 artists:
   - "6904a478-cc3a-4be8-819e-3f81eca3adf2"
-spotify: "2F9JIN5xlQs9Z6eVANk7mF"
-tidal: "402488167"
+socials:
+  spotify: "2F9JIN5xlQs9Z6eVANk7mF"
+  tidal: "402488167"
 ---
 
 La contribution française à la musique heavy va bien au-delà de Gojira. Le monde devrait l'avoir compris maintenant.

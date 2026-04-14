@@ -8,8 +8,9 @@ cover: "cover.jpg"
 rank: 7
 artists:
   - "3a93ff68-f045-4dc2-b55d-aacae431b76e"
-spotify: "2729tzbbE6CeRuFmbGOUry"
-tidal: "464397628"
+socials:
+  spotify: "2729tzbbE6CeRuFmbGOUry"
+  tidal: "464397628"
 ---
 
 Il existe deux écoles face à Battle Beast. La première y voit un groupe de power metal assumant joyeusement son côté

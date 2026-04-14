@@ -1,0 +1,14 @@
+<div class="mb-4">
+    <div id="spotify-{{ .type }}-{{ .id }}"></div>
+    <script type="application/javascript">
+        window.onSpotifyIframeApiReady = iframeApi => {
+            const element = document.getElementById("spotify-{{ .type }}-{{ .id }}");
+            const options = {
+                width: "100%",
+                uri: "spotify:{{ .type }}:{{ .id }}"
+            };
+            const callback = () => {};
+            iframeApi.createController(element, options, callback);
+        };
+    </script>
+</div>
