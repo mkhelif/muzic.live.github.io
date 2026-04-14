@@ -6,7 +6,7 @@ hero: "hero.jpg"
 artists:
   - "477cfe7f-0349-4843-ae01-f8e7000dd261"
 albums:
-  - Legends
+  - "193e8fbf-e1a6-457a-be14-8e2df347e7b8"
 ---
 
 ![Legends](album.jpg)

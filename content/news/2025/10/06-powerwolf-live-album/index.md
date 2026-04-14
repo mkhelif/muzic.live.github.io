@@ -6,7 +6,7 @@ hero: "hero.jpg"
 artists:
   - "844af41a-c503-4748-9c8e-8f09de6065c2"
 albums:
-  - Wildlive (Live at Olympiahalle)
+  - "0b3572f2-f71f-4989-b666-3a2034b8c1b4"
 ---
 
 ![Wildlive](cover.jpg)

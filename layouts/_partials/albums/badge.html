@@ -1,1 +1,3 @@
-<a class="badge bg-warning text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+{{- range where (where site.RegularPages "Section" "albums") ".Params.id" . -}}
+    <a class="badge bg-warning text-dark ms-1" href="{{ .RelPermalink }}" data-pagefind-ignore>{{ .LinkTitle }}</a>
+{{- end -}}

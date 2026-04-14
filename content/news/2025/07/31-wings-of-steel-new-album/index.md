@@ -5,8 +5,6 @@ cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
   - "075a2e4e-4568-4662-b71e-2088706b76d7"
-albums:
-  - Winds of Time
 ---
 
 ![Winds of Time](album.jpg)

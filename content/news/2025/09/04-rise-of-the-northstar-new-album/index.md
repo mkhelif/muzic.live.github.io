@@ -6,7 +6,7 @@ hero: "hero.jpg"
 artists:
   - "ae36bfaa-cec8-4160-ba2e-0384322fefa5"
 albums:
-  - Chapter 04 - Red Falcon Super Battle! New Paris War!!
+  - "616b52d1-519b-4109-817a-908e34d63769"
 ---
 
 ![Chapter 04 - Red Falcon Super Battle! New Paris War!!](album.jpg)

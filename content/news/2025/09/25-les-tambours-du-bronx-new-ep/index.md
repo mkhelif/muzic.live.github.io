@@ -5,8 +5,6 @@ cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
   - "a298e43a-882c-478c-959b-10a243cbd8b7"
-albums:
-  - The Wild Pack
 ---
 
 ![The Wild Pack](album.jpg)

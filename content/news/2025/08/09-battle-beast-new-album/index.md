@@ -6,7 +6,7 @@ hero: "hero.jpg"
 artists:
   - "3a93ff68-f045-4dc2-b55d-aacae431b76e"
 albums:
-  - Steelbound
+  - "571880c3-b873-46c4-b70d-4048764eeed0"
 ---
 
 ![Steelbound](album.jpg)
