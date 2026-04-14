@@ -1,12 +1,13 @@
 ---
-date: "2025-06-20T00:00:00+02:00"
+id: "73337bd2-c294-497f-8564-2c33abcaef9c"
+date: 2025-06-20T00:00:00+02:00
 title: "III"
 subtitle: "9 titres, 42:13"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
 artists:
-  - Last Train
+  - "badb53d0-a3d1-4a37-81ca-c0c97653cfa4"
 spotify: "39ERFFU6V30kTOEZbsznoH"
 tidal: "413873110"
 ---

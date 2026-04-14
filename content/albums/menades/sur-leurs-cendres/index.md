@@ -1,12 +1,13 @@
 ---
-date: "2025-02-28T00:00:00+02:00"
+id: "91f0bcd5-8bc6-4576-8624-5679308578a9"
+date: 2025-02-28T00:00:00+02:00
 title: "Sur leurs cendres"
 subtitle: "11 titres, 34:14"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
 artists:
-  - Ménades
+  - "e7ae033b-46c3-473a-99b2-e1209f7e97a9"
 spotify: "4JYkws6onWZI1ks0jhvTjO"
 tidal: "414110568"
 ---

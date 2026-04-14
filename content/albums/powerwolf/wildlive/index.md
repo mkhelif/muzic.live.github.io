@@ -1,12 +1,13 @@
 ---
-date: "2026-02-13T00:00:00+02:00"
+id: "0b3572f2-f71f-4989-b666-3a2034b8c1b4"
+date: 2026-02-13T00:00:00+02:00
 title: "Wildlive (Live at Olympiahalle)"
 subtitle: "20 titres, 1:29:41"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
 artists:
-  - Powerwolf
+  - "844af41a-c503-4748-9c8e-8f09de6065c2"
 spotify: "0sYsti82VA37zLESxDYVsm"
 tidal: "466546699"
 ---

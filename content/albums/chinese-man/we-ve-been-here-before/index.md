@@ -1,12 +1,13 @@
 ---
-date: "2024-03-01T00:00:00+02:00"
+id: "a86230cc-0667-42fa-be5c-0116112349ce"
+date: 2024-03-01T00:00:00+02:00
 title: "We've Been Here Before"
 subtitle: "13 titres, 46:05"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
 artists:
-  - Chinese Man
+  - "b161bbf1-bb40-4b50-a9bf-96c289bbcbe5"
 spotify: "5Y5CBLFXoXh67bJrF76ivt"
 tidal: "338319361"
 ---

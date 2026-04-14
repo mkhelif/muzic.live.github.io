@@ -1,12 +1,13 @@
 ---
-date: "2025-11-07T00:00:00+02:00"
+id: "86a3f0a6-9e6d-4bea-9540-4c6132e71898"
+date: 2025-11-07T00:00:00+02:00
 title: "La Fuite en Avant"
 subtitle: "17 titres, 58:08"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
 artists:
-  - Orelsan
+  - "55f62ae6-f2aa-4e82-ac11-76ec9948edee"
 spotify: "130L3uMANE28R0eH0GtmZS"
 tidal: "472233405"
 ---

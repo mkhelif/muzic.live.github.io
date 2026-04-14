@@ -1,12 +1,13 @@
 ---
-date: "2024-10-04T00:00:00+02:00"
+id: "b7958e7a-c39f-47dc-b09f-44948b25f5c3"
+date: 2024-10-04T00:00:00+02:00
 title: "House on Fire"
 subtitle: "11 titres, 34:49"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
 artists:
-  - Toby Lee
+  - "155c93a8-0b66-44f1-9322-88ca9e52a44d"
 spotify: "31vki7hqYMXMrVZePwMzKj"
 tidal: "378519527"
 ---

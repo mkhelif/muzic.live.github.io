@@ -1,12 +1,13 @@
 ---
-date: "2024-03-15T00:00:00+02:00"
+id: "95f1b479-d81d-4d2a-8d0f-97961562e0ea"
+date: 2024-03-15T00:00:00+02:00
 title: "Golden Cage"
 subtitle: "12 titres, 38:39"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
 artists:
-  - Faada Freddy
+  - "3359f956-a55b-4b78-bf3e-a7c4d391ef9a"
 spotify: "591SAjhEIu4bVOEe17Ryhx"
 tidal: "307512117"
 ---

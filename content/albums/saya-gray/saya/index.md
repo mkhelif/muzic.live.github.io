@@ -1,12 +1,13 @@
 ---
-date: "2025-02-21T00:00:00+02:00"
+id: "64f4903d-d67c-4c2b-99bf-b4f4164aceb4"
+date: 2025-02-21T00:00:00+02:00
 title: "SAYA"
 subtitle: "10 titres, 39:08"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
 artists:
-  - Saya Gray
+  - "35074d96-f001-461c-8c28-60eaa0abacc5"
 spotify: "4w5yIvQJ8vlxDnMyN8A8qE"
 tidal: "373218697"
 ---

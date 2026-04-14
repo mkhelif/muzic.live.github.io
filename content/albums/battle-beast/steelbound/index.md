@@ -1,12 +1,13 @@
 ---
-date: "2025-10-17T00:00:00+02:00"
+id: "571880c3-b873-46c4-b70d-4048764eeed0"
+date: 2025-10-17T00:00:00+02:00
 title: "Steelbound"
 subtitle: "10 titres, 37:06"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 7
 artists:
-  - Battle Beast
+  - "3a93ff68-f045-4dc2-b55d-aacae431b76e"
 spotify: "2729tzbbE6CeRuFmbGOUry"
 tidal: "464397628"
 ---

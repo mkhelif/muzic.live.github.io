@@ -1,12 +1,13 @@
 ---
-date: "2025-04-25T00:00:00+02:00"
+id: "575fb2f5-d591-4d22-a598-ea27a4533522"
+date: 2025-04-25T00:00:00+02:00
 title: "Skeletá"
 subtitle: "10 titres, 46:49"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 6
 artists:
-  - Ghost
+  - "c3b8c08a-b88d-4cd1-9b6c-194f2d341996"
 spotify: "2PFJKjBqXpYrRcdClhfcnX"
 tidal: "430783746"
 todo:

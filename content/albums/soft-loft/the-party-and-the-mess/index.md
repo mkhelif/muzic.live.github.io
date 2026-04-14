@@ -1,12 +1,13 @@
 ---
-date: "2024-03-22T00:00:00+02:00"
+id: "cc80322a-c01c-4f67-93b0-ad12397f125c"
+date: 2024-03-22T00:00:00+02:00
 title: "The Party and the Mess"
 subtitle: "12 titres, 46:09"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 9
 artists:
-  - Soft Loft
+  - "18e1b882-d0e1-4d33-a181-26b6db17625d"
 spotify: "3fSI4OFejKzQKZFosmR0vX"
 tidal: "328542561"
 ---

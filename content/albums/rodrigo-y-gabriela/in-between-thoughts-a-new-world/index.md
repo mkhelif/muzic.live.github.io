@@ -1,12 +1,13 @@
 ---
-date: "2023-04-21T00:00:00+02:00"
+id: "4e285c2a-87da-42be-a6e2-984c174ec305"
+date: 2023-04-21T00:00:00+02:00
 title: "In Between Thoughts… A New World"
 subtitle: "9 titres, 32:56"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
 artists:
-  - Rodrigo y Gabriela
+  - "bb0a1043-d8af-44fb-bca5-2778d6ab0437"
 spotify: "5PVxkqY37lh5zCftJmv0g0"
 tidal: "289630560"
 ---

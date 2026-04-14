@@ -1,12 +1,13 @@
 ---
-date: "2025-04-11T00:00:00+02:00"
+id: "6a28e7be-0b97-460f-80e4-cf4f9d04c6bf"
+date: 2025-04-11T00:00:00+02:00
 title: "Get Better"
 subtitle: "12 titres, 38:17"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 9
 artists:
-  - Storm Orchestra
+  - "d7a3b9ed-e3df-4f4a-8e50-f58672118f64"
 spotify: "4oYoi6ymhhN9TE3pKnE2Hd"
 tidal: "419193316"
 ---

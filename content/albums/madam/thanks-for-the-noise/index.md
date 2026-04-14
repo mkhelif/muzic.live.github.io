@@ -1,12 +1,13 @@
 ---
-date: "2024-04-12T00:00:00+02:00"
+id: "2e38f7d0-6278-489a-b3f0-6a657dcc5a14"
+date: 2024-04-12T00:00:00+02:00
 title: "Thanks for the Noise"
 subtitle: "12 titres, 35:32"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 10
 artists:
-  - MADAM
+  - "bcd28ca5-451c-4701-a968-48086d087d28"
 spotify: "5ypPwi6yhfMZ6wEhgX5aV3"
 tidal: "346042741"
 ---

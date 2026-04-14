@@ -1,12 +1,13 @@
 ---
-date: "2025-11-15T00:00:00+02:00"
+id: "0de54b6f-4ba0-4526-9e74-88c592559be2"
+date: 2025-11-15T00:00:00+02:00
 title: "Nyctophilia"
 subtitle: "9 titres, 36:51"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
 artists:
-  - Meuhstache
+  - "c518c1e2-b44a-4e2c-80dc-88c14e4e6fe3"
 ---
 
 Il y a des albums qui ne se contentent pas d'occuper vos enceintes — ils s'y installent comme une entité invoquée,

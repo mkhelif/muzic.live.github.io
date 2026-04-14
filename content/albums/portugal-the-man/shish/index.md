@@ -1,13 +1,14 @@
 ---
+id: "e49168a9-903e-45fe-9a93-c16742a5a233"
 draft: true
-date: "2025-12-12T00:00:00+02:00"
+date: 2025-12-12T00:00:00+02:00
 title: "SHISH"
 subtitle: "10 titres, 41:49"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
 artists:
-  - Portugal. The Man
+  - "447f0a27-2b10-4c9c-b0f2-f9e6d7c8ee90"
 spotify: "7pbhvtNUvp160w3qgtwCCg"
 tidal: "457012625"
 todo:

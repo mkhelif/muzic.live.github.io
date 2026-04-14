@@ -1,12 +1,13 @@
 ---
-date: "2023-03-31T00:00:00+02:00"
+id: "0649453b-5cc9-44d1-8922-6ff65acd8f9c"
+date: 2023-03-31T00:00:00+02:00
 title: "After the Embers"
 subtitle: "11 titres, 38:39"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
 artists:
-  - Two Faces
+  - "f689b1ff-c5f4-413d-9f9b-c7d079a28294"
 spotify: "6swvaaPMfY7cJL3HJnIDuA"
 tidal: "280664986"
 ---

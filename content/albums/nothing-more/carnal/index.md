@@ -1,12 +1,13 @@
 ---
-date: "2024-06-28T00:00:00+02:00"
+id: "c6a74745-38ba-415c-a16e-78ea8396d447"
+date: 2024-06-28T00:00:00+02:00
 title: "Carnal"
 subtitle: "15 titres, 45:57"
 author: "mkhelif"
 cover: "cover.jpg"
 rank: 8
 artists:
-  - Nothing More
+  - "21153c85-31ee-49db-8602-4f2512eca983"
 spotify: "6bo0qsybdHj6lP2Hr0flUj"
 tidal: "355013613"
 ---
