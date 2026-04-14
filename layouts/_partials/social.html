@@ -29,12 +29,12 @@
     {{ if .Params.socials.soundcloud }}
         <a class="me-2 align-middle" href="https://soundcloud.com/{{ .Params.socials.soundcloud }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-soundcloud"></i></a>
     {{ end }}
-    {{ if .Params.socials.songkick }} <!-- TODO -->
+    {{ if .Params.socials.songkick }}
         <a class="me-2 align-middle" href="https://www.songkick.com/artists/{{ .Params.socials.songkick }}" target="_blank" rel="noreferrer noopener">
             {{ readFile "static/icons/songkick.svg" | safeHTML }}
         </a>
     {{ end }}
-    {{ if .Params.socials.bandsintown }} <!-- TODO -->
+    {{ if .Params.socials.bandsintown }}
         <a class="me-2 align-middle" href="https://www.bandsintown.com/a/{{ .Params.socials.bandsintown }}" target="_blank" rel="noreferrer noopener">
             {{ readFile "static/icons/bandsintown.svg" | safeHTML }}
         </a>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" class="svg-inline--fa fa-bandsintown">
-    <rect fill="currentColor" x="173.91" y="152.17" width="65.22" height="86.96"/>
-    <rect fill="currentColor" x="260.87" y="152.17" width="65.22" height="86.96"/>
-    <rect fill="currentColor" x="347.83" y="86.96" width="65.22" height="152.17"/>
-    <polygon fill="currentColor" points="173.91 260.87 173.91 326.09 347.83 326.09 347.83 347.83 152.17 347.83 152.17 86.96 86.96 86.96 86.96 413.04 413.04 413.04 413.04 260.87 173.91 260.87"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 453, 453" class="svg-inline--fa fa-bandsintown">
+    <rect fill="currentColor" x="151" y="129" width="65" height="87"/>
+    <rect fill="currentColor" x="238" y="129" width="65" height="87"/>
+    <rect fill="currentColor" x="324" y="64" width="65" height="152"/>
+    <polygon fill="currentColor" points="150,238 150,303 324,303 324,324 129,324 129,64 64,64 64,389 389,389 389,238 151,238"/>
 </svg>
