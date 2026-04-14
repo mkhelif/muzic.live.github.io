@@ -1,11 +1,10 @@
 ---
 date: 2026-04-08T14:00:00+02:00
-title: "Nine Inch Nails × Boys Noize : l'album collaboratif \"Nine Inch Noize\" arrive le 17 avril"
+title: "Nine Inch Nails x Boys Noize : l'album collaboratif \"Nine Inch Noize\" arrive le 17 avril"
 cover: "cover.jpg"
 artists:
   - "93941635-085e-474e-a4d4-de7b0db62487"
   - "ca3a5d54-fcea-477a-ae76-461d97e0a5b8"
-source: "https://consequence.net/2026/04/nine-inch-nails-boys-noize-nine-inch-noize-album/"
 ---
 
 La collision entre Trent Reznor et Alex Ridha (Boys Noize) prend officiellement forme. L'annonce est tombée via un
