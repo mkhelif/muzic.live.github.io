@@ -12,6 +12,8 @@
             {{ partial "events/taxonomy.html" . }}
         {{ else if eq .Section "reports" }}
             {{ partial "reports/taxonomy.html" . }}
+        {{ else if eq .Section "news" }}
+            {{ partial "news/taxonomy.html" . }}
         {{ end }}
     </div>
 {{ end }}

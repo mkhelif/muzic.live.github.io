@@ -1,5 +1,5 @@
 {{ $news := where site.RegularPages "Section" "news" }}
-{{ $news = $news.ByDate.reverse }}
+{{ $news = $news.ByDate.Reverse }}
 
 {{ $paginator := .Paginate $news 10 }}
 {{ range $index, $new := $paginator.Pages }}
