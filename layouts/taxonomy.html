@@ -1,6 +1,10 @@
 {{ define "main" }}
     <div class="container" data-pagefind-ignore="all">
-        <h1 class="mb-4 p-3 bg-primary text-dark">{{ .Title }}</h1>
+        <div class="mb-4 p-3 border-bottom border-primary border-4">
+            <h1 class="m-0 px-2 py-1">
+                {{ .Title }}
+            </h1>
+        </div>
 
         {{ if eq .Section "artists" }}
             {{ partial "artists/taxonomy.html" . }}
