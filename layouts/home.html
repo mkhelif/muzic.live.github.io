@@ -44,7 +44,7 @@
         <div class="row">
             {{ $count := 0 }}
             {{ range $index, $page := (where site.RegularPages "Section" "news") }}
-                {{ if eq $count 15 }}
+                {{ if eq $count 16 }}
                     {{ break }}
                 {{ end }}
 
