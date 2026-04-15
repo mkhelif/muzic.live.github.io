@@ -1,0 +1,10 @@
+<li class="page-item {{ cond (eq .current .page) "active" "" }}">
+    <a href="{{ .url }}"
+       {{ cond (eq .current .page) "aria-current=\"page\"" "" }}
+       aria-label="Page {{ .page }}"
+       class="page-link"
+       role="button"
+    >
+        {{ .page }}
+    </a>
+</li>

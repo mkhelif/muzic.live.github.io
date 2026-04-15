@@ -1,18 +1,62 @@
-{{ if gt .Paginator.TotalPages 1 }}
-    <ul class="pagination justify-content-center">
-        {{- with .Paginator }}
-            {{- $currentPageNumber := .PageNumber }}
-            {{- range $k := seq 1 .TotalPages }}
-                {{- if eq $.Paginator.PageNumber $k }}
-                    <li class="page-item active">
-                        <a aria-current="page" aria-label="Page {{ $k }}" class="page-link" role="button">{{ $k }}</a>
-                    </li>
-                {{- else }}
-                    <li class="page-item">
-                        <a href="{{ (index $.Paginator.Pagers (sub $k 1)).URL }}" aria-label="Page {{ $k }}" class="page-link" role="button">{{ $k }}</a>
-                    </li>
-                {{- end }}
-            {{- end }}
-        {{- end }}
-    </ul>
-{{- end }}
+{{ $pagesAround := 2 }}
+{{ with .Paginator }}
+    {{ if gt .TotalPages 1 }}
+        <ul class="pagination justify-content-center">
+            {{ $current := .PageNumber }}
+            {{ $total := .TotalPages }}
+            {{ $beforeSpread := false }}
+            {{ $afterSpread := false }}
+            {{ range $page := seq 1 $total }}
+                {{ $show := false }}
+
+                {{ if le $total 5 }}
+                    {{ $show = true }}
+                {{ else if eq $page $current }}
+                    {{ $show = true }}
+                {{ else if or (le $page $pagesAround) (gt $page (sub $total $pagesAround)) }}
+                    {{ $show = true }}
+                {{ else if and (lt $page $current) (ge $page (sub $current $pagesAround)) }}
+                    {{ $show = true }}
+                {{ else if and (gt $page $current) (le $page (add $current $pagesAround)) }}
+                    {{ $show = true }}
+                {{ end }}
+
+                {{ if $show }}
+                    {{ partial "inline/pagination/page.html" (dict "page" $page "current" $current "url" (index $.Paginator.Pagers (sub . 1)).URL) }}
+                {{ else }}
+                    {{ if and (gt $current $page) (not $beforeSpread) }}
+                        <li class="page-item disabled">
+                            <span class="page-link text-white-50">
+                                <i class="fa fa-ellipsis"></i>
+                            </span>
+                        </li>
+                        {{ $beforeSpread = true }}
+                    {{ end }}
+
+                    {{ if and (lt $current $page) (not $afterSpread) }}
+                        <li class="page-item disabled">
+                            <span class="page-link text-white-50">
+                                <i class="fa fa-ellipsis"></i>
+                            </span>
+                        </li>
+                        {{ $afterSpread = true }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        </ul>
+    {{ end }}
+{{ end }}
+
+{{/* Pagination page template */}}
+{{ define "_partials/inline/pagination/page.html" }}
+    <li class="page-item {{ cond (eq .current .page) "active" "" }}">
+        <a href="{{ .url }}"
+            {{ cond (eq .current .page) "aria-current=\"page\"" "" }}
+            aria-label="Page {{ .page }}"
+            class="page-link"
+            role="button"
+        >
+            {{ .page }}
+        </a>
+    </li>
+{{ end }}
