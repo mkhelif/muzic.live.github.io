@@ -1,17 +1,14 @@
 {{ partial "cover.html" . }}
 
 <div class="container">
-    <div class="d-flex">
-        <p class="flex-grow-1">
-            {{ range $.Params.artists }}{{ partial "artists/badge.html" . }}{{ end }}
-        </p>
-        <p>
+    <div class="d-flex align-items-center border-bottom border-primary border-1 pb-4 mb-4">
+        <p class="mb-0">{{ range $.Params.artists }}{{ partial "artists/badge.html" . }}{{ end }}</p>
+        <p class="mb-0 mt-1 ms-3 flex-grow-1 small">{{ .Params.subtitle }}</p>
+        <p class="mb-0">
             <small class="ms-2">{{ partial "format/datetime.html" (dict "date" .Date) }}</small>
             <small class="ms-2">{{ partial "rank.html" .Params.rank }}</small>
         </p>
     </div>
-    <p class="small">{{ .Params.subtitle }}</p>
-    <hr>
 
     {{ partial "albums/player.html" . }}
     {{ partial "content.html" . }}
