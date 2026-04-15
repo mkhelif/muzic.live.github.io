@@ -9,8 +9,11 @@ rank: 7
 artists:
   - "90536ee8-6bb3-41bf-a04b-9f514ef4b4a7"
 socials:
-  spotify: "1El3k8dU3sKyoGUeuyrolH"
+  amazon: "B0FJ2RD6G1"
+  apple: "1827507396"
+  deezer: "819534781"
   tidal: "459844445"
+  qobuz: "pzr459d494rqc"
 ---
 
 ##### L'épilogue nécessaire d'un duo qui refuse de mourir

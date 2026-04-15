@@ -9,8 +9,11 @@ rank: 10
 artists:
   - "ae36bfaa-cec8-4160-ba2e-0384322fefa5"
 socials:
-  spotify: "3rvuosVjs5t0CyCok0r7Y3"
+  amazon: "B0FSTDXMWG"
+  apple: "1842352070"
+  deezer: "828065991"
   tidal: "463156550"
+  qobuz: "lt94qu1ijpp4a"
 ---
 
 Il n'y a personne d'autre comme eux, vraiment. Qu'on les aime ou qu'on les déteste, ce fait est indéniable. Rise Of The

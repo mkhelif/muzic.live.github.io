@@ -1,0 +1,12 @@
+{{ if .Params.socials.qobuz }}
+    {{ if eq .Section "artists" }}
+        <a class="me-2 align-middle" href="https://www.qobuz.com/artist/{{ .Params.socials.qobuz }}" target="_blank" rel="noreferrer noopener">
+            {{ readFile "static/icons/qobuz.svg" | safeHTML }}
+        </a>
+    {{ else if eq .Section "albums" }}
+        {{ $qobuzSlug := split (substr .Path 8) "/" }}{{/* "/albums/" */}}
+        <a class="me-2 align-middle" href="https://www.qobuz.com/album/{{ index $qobuzSlug 1 }}-{{ index $qobuzSlug 0 }}/{{ .Params.socials.qobuz }}" target="_blank" rel="noreferrer noopener">
+            {{ readFile "static/icons/qobuz.svg" | safeHTML }}
+        </a>
+    {{ end }}
+{{ end }}

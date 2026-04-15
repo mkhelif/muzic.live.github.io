@@ -1,0 +1,7 @@
+{{ if .Params.socials.deezer }}
+    {{ if eq .Section "artists" }}
+        <a class="me-2 align-middle" href="https://www.deezer.com/artist/{{ .Params.socials.deezer }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-deezer"></i></a>
+    {{ else if eq .Section "albums" }}
+        <a class="me-2 align-middle" href="https://www.deezer.com/album/{{ .Params.socials.deezer }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-deezer"></i></a>
+    {{ end }}
+{{ end }}

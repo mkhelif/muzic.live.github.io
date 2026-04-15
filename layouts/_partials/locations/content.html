@@ -1,7 +1,7 @@
 {{ partial "cover.html" . }}
 
 <div class="container">
-    {{ partial "social.html" . }}
+    {{ partial "social/links.html" . }}
     {{ with .Params.coordinates }}
         {{ partial "locations/map.html" . }}
     {{ end }}

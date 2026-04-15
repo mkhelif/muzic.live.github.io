@@ -9,8 +9,11 @@ rank: 8
 artists:
   - "35074d96-f001-461c-8c28-60eaa0abacc5"
 socials:
-  spotify: "4w5yIvQJ8vlxDnMyN8A8qE"
+  amazon: "B0D8RY753T"
+  apple: "1755473266"
+  deezer: "610560312"
   tidal: "373218697"
+  qobuz: "uqgjap68it1fc"
 ---
 
 Il existe des artistes qui défient toute définition. Saya Gray en fait partie. Depuis son premier projet 19 Masters en

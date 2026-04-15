@@ -1,0 +1,7 @@
+{{ if .Params.socials.amazon }}
+    {{ if eq .Section "artists" }}
+        <a class="me-2 align-middle" href="https://music.amazon.com/artists/{{ .Params.socials.amazon }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-amazon"></i></a>
+    {{ else if eq .Section "albums" }}
+        <a class="me-2 align-middle" href="https://music.amazon.com/albums/{{ .Params.socials.amazon }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-amazon"></i></a>
+    {{ end }}
+{{ end }}

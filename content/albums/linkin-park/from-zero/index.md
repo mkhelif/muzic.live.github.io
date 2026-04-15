@@ -10,7 +10,11 @@ artists:
   - "0b8a7424-dba1-4f5a-8f0e-42ebd1dd9f3b"
 album: "5QfFvOMOJ0CrIDmu33RmSJ"
 socials:
-  tidal: "396931349"
+  amazon: "B0DFRSTV45"
+  apple: "1766137049"
+  deezer: "664052151"
+  spotify: "4R6FV9NSzhPihHR0h4pI93"
+  qobuz: "j6jq4oi12ptvb"
 ---
 
 Sept ans après la mort de Chester Bennington, Linkin Park ressuscite. Pas en tentant de remplacer l'irremplaçable, mais

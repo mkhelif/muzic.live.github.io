@@ -11,8 +11,12 @@ artists:
 todo:
   - Check if makes sense or rewrite
 socials:
+  amazon: "B0DX8NGG2J"
+  apple: "1796483834"
+  deezer: "744167511"
   spotify: "2PFJKjBqXpYrRcdClhfcnX"
   tidal: "430783746"
+  qobuz: "c0q7h65r6efua"
 ---
 
 Tobias Forge avait déjà l'album suivant cartographié en janvier 2022, deux mois avant même qu'Impera ne sorte. Voilà

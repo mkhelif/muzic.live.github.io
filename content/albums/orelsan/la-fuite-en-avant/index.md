@@ -9,8 +9,11 @@ rank: 8
 artists:
   - "55f62ae6-f2aa-4e82-ac11-76ec9948edee"
 socials:
-  spotify: "130L3uMANE28R0eH0GtmZS"
+  amazon: "B0FZLQQSLY"
+  apple: "1850732644"
+  deezer: "850246932"
   tidal: "472233405"
+  qobuz: "ygy0ms2h0upwb"
 ---
 
 Quatre ans. C'est le temps écoulé depuis Civilisation (2021), triomphe populaire et critique qui a définitivement

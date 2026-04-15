@@ -1,0 +1,3 @@
+{{ with .Params.coordinates }}
+    <a class="me-2 align-middle" href="https://www.google.com/maps/place/{{ .latitude }},{{ .longitude }}" target="_blank" rel="noreferrer noopener"><i class="fa fa-location-dot"></i></a>
+{{ end }}

@@ -9,8 +9,11 @@ rank: 9
 artists:
   - "cc301983-a8ee-4bde-9063-b2e99eb3017f"
 socials:
-  spotify: "3j4gz6gqIxtKaW0NHAOZwc"
+  amazon: "B0DDDNVC27"
+  apple: "1763271862"
+  deezer: "631919451"
   tidal: "382280129"
+  qobuz: "y02cszl670vzb"
 ---
 
 Les sœurs Lovell reviennent avec Bloom, un album qui cristallise dix ans d'évolution artistique en treize morceaux de

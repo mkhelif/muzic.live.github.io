@@ -9,8 +9,11 @@ rank: 9
 artists:
   - "6904a478-cc3a-4be8-819e-3f81eca3adf2"
 socials:
-  spotify: "2F9JIN5xlQs9Z6eVANk7mF"
+  amazon: "B0DP7JTPVH"
+  apple: "1782314691"
+  deezer: "676735071"
   tidal: "402488167"
+  qobuz: "l22tq1cbomnvc"
 ---
 
 La contribution française à la musique heavy va bien au-delà de Gojira. Le monde devrait l'avoir compris maintenant.

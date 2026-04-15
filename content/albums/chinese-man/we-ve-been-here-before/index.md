@@ -9,8 +9,12 @@ rank: 10
 artists:
   - "b161bbf1-bb40-4b50-a9bf-96c289bbcbe5"
 socials:
+  amazon: "B0CRHVR1K1"
+  apple: "1724285112"
+  deezer: "531050542"
   spotify: "5Y5CBLFXoXh67bJrF76ivt"
   tidal: "338319361"
+  qobuz: "fxe4ogti451jb"
 ---
 
 Six ans de silence. Six ans pour que les Aixois de Chinese Man digèrent leur propre légende, celle qui depuis 2004 les a

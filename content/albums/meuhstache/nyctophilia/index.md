@@ -8,6 +8,8 @@ cover: "cover.jpg"
 rank: 8
 artists:
   - "c518c1e2-b44a-4e2c-80dc-88c14e4e6fe3"
+socials:
+  deezer: "843238992"
 ---
 
 Il y a des albums qui ne se contentent pas d'occuper vos enceintes — ils s'y installent comme une entité invoquée,

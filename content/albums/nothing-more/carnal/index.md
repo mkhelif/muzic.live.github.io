@@ -9,8 +9,11 @@ rank: 8
 artists:
   - "21153c85-31ee-49db-8602-4f2512eca983"
 socials:
-  spotify: "6bo0qsybdHj6lP2Hr0flUj"
+  amazon: "B0CZPLRPV5"
+  apple: "1739157946"
+  deezer: "568302141"
   tidal: "355013613"
+  qobuz: "gpjskjdfnq9la"
 ---
 
 Trois nominations aux Grammy Awards. Sept singles dans le Top 10 des radios rock actives américaines. Vingt ans de

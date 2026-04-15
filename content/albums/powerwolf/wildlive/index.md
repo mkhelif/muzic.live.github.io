@@ -9,8 +9,11 @@ rank: 10
 artists:
   - "844af41a-c503-4748-9c8e-8f09de6065c2"
 socials:
-  spotify: "0sYsti82VA37zLESxDYVsm"
+  amazon: "B0FVY19Z6Y"
+  apple: "1845843740"
+  deezer: "837136712"
   tidal: "466546699"
+  qobuz: "l2bwjdyzak45a"
 ---
 
 Les albums live se font rares dans le paysage metal contemporain. Quand ils existent, ils oscillent souvent entre le

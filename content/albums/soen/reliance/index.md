@@ -10,8 +10,11 @@ rank: 6
 artists:
   - "7f854bed-ca88-4c33-9be8-2d4f6c4d1b22"
 socials:
-  spotify: "2gwGCs13DZjH1dHpyAJ5AG"
+  amazon: "B0FNDDLYL9"
+  apple: "1835017785"
+  deezer: "809121951"
   tidal: "442030480"
+  qobuz: "oymh2fcgyodcb"
 todo:
   - Write review
 ---

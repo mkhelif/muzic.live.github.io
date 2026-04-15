@@ -9,8 +9,12 @@ rank: 7
 artists:
   - "3a93ff68-f045-4dc2-b55d-aacae431b76e"
 socials:
+  amazon: "B0FHDWNS8J"
+  apple: "1827942552"
+  deezer: "787008481"
   spotify: "2729tzbbE6CeRuFmbGOUry"
   tidal: "464397628"
+  qobuz: "itr7sg783gz5b"
 ---
 
 Il existe deux écoles face à Battle Beast. La première y voit un groupe de power metal assumant joyeusement son côté

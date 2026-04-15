@@ -1,0 +1,7 @@
+{{ if .Params.socials.spotify }}
+    {{ if eq .Section "artists" }}
+        <a class="me-2 align-middle" href="https://open.spotify.com/artist/{{ .Params.socials.spotify }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-spotify"></i></a>
+    {{ else if eq .Section "albums" }}
+        <a class="me-2 align-middle" href="https://open.spotify.com/album/{{ .Params.socials.spotify }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-spotify"></i></a>
+    {{ end }}
+{{ end }}

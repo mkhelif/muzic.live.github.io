@@ -1,0 +1,7 @@
+{{ if .Params.socials.apple }}
+    {{ if eq .Section "artists" }}
+        <a class="me-2 align-middle" href="https://music.apple.com/artist/{{ .Params.socials.apple }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-apple"></i></a>
+    {{ else if eq .Section "albums" }}
+        <a class="me-2 align-middle" href="https://music.apple.com/album/{{ .Params.socials.apple }}" target="_blank" rel="noreferrer noopener"><i class="fab fa-apple"></i></a>
+    {{ end }}
+{{ end }}

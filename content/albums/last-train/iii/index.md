@@ -9,8 +9,10 @@ rank: 10
 artists:
   - "badb53d0-a3d1-4a37-81ca-c0c97653cfa4"
 socials:
-  spotify: "39ERFFU6V30kTOEZbsznoH"
+  apple: "1771912474"
+  deezer: "651161831"
   tidal: "413873110"
+  qobuz: "z7lharewuvewc"
 ---
 
 **Le rock français a trouvé son altitude de croisière. Et elle est stratosphérique.**

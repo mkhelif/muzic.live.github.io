@@ -9,8 +9,11 @@ rank: 10
 artists:
   - "bb0a1043-d8af-44fb-bca5-2778d6ab0437"
 socials:
-  spotify: "5PVxkqY37lh5zCftJmv0g0"
+  amazon: "B0BSMXTMJS"
+  apple: "1665296858"
+  deezer: "401342687"
   tidal: "289630560"
+  qobuz: "bncgzxip385ea"
 ---
 
 Peu de duos instrumentaux possèdent une signature sonore aussi immédiatement identifiable. Quand résonnent ces guitares

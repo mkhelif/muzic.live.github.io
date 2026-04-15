@@ -12,7 +12,10 @@ artists:
 todo:
   - Write review
 socials:
-  spotify: "7pbhvtNUvp160w3qgtwCCg"
+  amazon: "B0FP3XBJBN"
+  apple: "1836273576"
+  deezer: "812402971"
   tidal: "457012625"
+  qobuz: "f0lh3xoqef2ab"
 ---
 

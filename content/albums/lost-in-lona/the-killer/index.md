@@ -12,7 +12,8 @@ artists:
 todo:
   - Write review
 socials:
-  spotify: "42fS5G4YXzoi4iz2pztDLP"
+  apple: "1826628237"
+  deezer: "786567901"
   tidal: "447492552"
 ---
 

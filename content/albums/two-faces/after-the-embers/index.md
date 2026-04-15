@@ -9,6 +9,8 @@ rank: 8
 artists:
   - "f689b1ff-c5f4-413d-9f9b-c7d079a28294"
 socials:
+  apple: "1676205934"
+  deezer: "415261637"
   spotify: "6swvaaPMfY7cJL3HJnIDuA"
   tidal: "280664986"
 ---

@@ -9,8 +9,10 @@ rank: 10
 artists:
   - "bcd28ca5-451c-4701-a968-48086d087d28"
 socials:
-  spotify: "5ypPwi6yhfMZ6wEhgX5aV3"
+  apple: "1730944300"
+  deezer: "549178492"
   tidal: "346042741"
+  qobuz: "dl7bvsot2qauc"
 ---
 
 "Notre musique on la fait avec nos putains de tripes." Cette phrase, MADAM l'a posée comme manifeste sur leur

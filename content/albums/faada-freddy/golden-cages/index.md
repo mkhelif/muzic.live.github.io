@@ -9,8 +9,12 @@ rank: 10
 artists:
   - "3359f956-a55b-4b78-bf3e-a7c4d391ef9a"
 socials:
+  amazon: "B0CCYV15NC"
+  apple: "1699766710"
+  deezer: "469418355"
   spotify: "591SAjhEIu4bVOEe17Ryhx"
   tidal: "307512117"
+  qobuz: "za6oyoh5ah6ia"
 ---
 
 Neuf ans après Gospel Journey, Faada Freddy nous revient avec Golden Cages, un album solaire qui confirme son statut

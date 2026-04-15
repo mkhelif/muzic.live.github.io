@@ -9,8 +9,10 @@ rank: 9
 artists:
   - "d7a3b9ed-e3df-4f4a-8e50-f58672118f64"
 socials:
-  spotify: "4oYoi6ymhhN9TE3pKnE2Hd"
+  apple: "1798226822"
+  deezer: "716103601"
   tidal: "419193316"
+  qobuz: "eqfg6e4ki6axb"
 ---
 
 Depuis que "Drummer" a explosé en 2024, propulsant Storm Orchestra hors des clubs underground parisiens vers les radars
