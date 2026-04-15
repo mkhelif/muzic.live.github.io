@@ -1,13 +1,8 @@
 {{ partial "cover.html" . }}
 
 <div class="container">
-    {{ partial "social/links.html" . }}
-    {{ with .Params.coordinates }}
-        {{ partial "locations/map.html" . }}
-    {{ end }}
-
+    {{ partial "locations/map.html" . }}
     {{ partial "content.html" . }}
-
     {{ partial "locations/events.html" . }}
     {{ partial "locations/reports.html" . }}
     {{ partialCached "comments.html" . }}

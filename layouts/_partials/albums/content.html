@@ -1,8 +1,6 @@
 {{ partial "cover.html" . }}
 
 <div class="container">
-    {{ partial "social/links.html" . }}
-
     <div class="d-flex">
         <p class="flex-grow-1">
             {{ range $.Params.artists }}{{ partial "artists/badge.html" . }}{{ end }}
