@@ -1,0 +1,8 @@
+<figure>
+    {{ with .Attributes.caption }}
+        <figcaption class="blockquote-footer mt-4 fs-4">{{ . }} :</figcaption>
+    {{ end }}
+    <blockquote class="blockquote position-relative mt-3 px-4 fs-6" {{ with .Attributes.cite }}cite="{{ . }}"{{ end }}>
+        {{ .Text }}
+    </blockquote>
+</figure>
