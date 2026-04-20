@@ -14,8 +14,8 @@ import traceback
 import uuid
 
 # Configure authentication token
-CLIENT_TOKEN="AABNEmTiwxcNuWsNd+DrJfsKm/EHI0EDmE1ENA415Bahr8I/k97nMnkQLXft3BAeM7yr8rKoxOezmykcZiqh1R5MROl9IfJYUelNp/6+tvm0kwM9Xm8+jTyxpLJlX8bfMEZcnsfycXKQieagqC+CX3qFDUjtu+v7I7DyJytzUpbqoPXokxUbIkFAhxWOKM5wFdeXN5k9OgMAwm7yXOPVannDh3TEdC4wHmQt/GStdlCO+zjf56yMjHgKchM5qzaPiBbHRqcqnYJDBIyR385IlSnU8YMNQN6RRWNFSa43j7wgCJeIUvoMq9OX5Xbu3wUj+dK0sbJelfdMbZCU5UPq"
-ACCESS_TOKEN="Bearer BQBQZlJnD-RyjlGfbbRpYMry-xre-gwYVt4320iHYVURT_CpkFo4CF2xtl_8fKDfXj_FkRWrLizVWpz9h5lBKHV5adATZTNpLHk65O2ROd5MjKGW2HoJ5rxgpapZBY8bTb8Nm4Hi9Bg"
+CLIENT_TOKEN=""
+ACCESS_TOKEN="Bearer "
 
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:143.0) Gecko/20100101 Firefox/143.0",
@@ -133,7 +133,7 @@ def get_concert(concert_uri):
         return None
 
     for concert_artist in content['data']['concert']['artists']['items']:
-        concert_details['artists'].append(translate(concert_artist['data']['profile']['name'], ARTISTS))
+        concert_details['artists'].append(translate(concert_artist['data']['profile']['name'].strip(), ARTISTS))
     concert_details['artists'] = sorted(set(concert_details['artists']))
 
     return concert_details
