@@ -18,11 +18,11 @@
         <div class="collapse navbar-collapse" id="menu">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link {{ cond (eq .Path "/") "active" "" }}" {{ cond (eq .Path "/") "aria-current=\"page\"" "" }} href="/">Accueil</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link {{ cond (hasPrefix .Path "/reports") "active" "" }}" {{ cond (hasPrefix .Path "/reports") "aria-current=\"page\"" "" }} href="/reports">Chroniques</a>
                 </li>
+                <!--<li class="nav-item">
+                    <a class="nav-link {{ cond (hasPrefix .Path "/interviews") "active" "" }}" {{ cond (hasPrefix .Path "/interviews") "aria-current=\"page\"" "" }} href="/interviews">Interviews</a>
+                </li>-->
                 <li class="nav-item">
                     <a class="nav-link {{ cond (hasPrefix .Path "/artists") "active" "" }}" {{ cond (hasPrefix .Path "/artists") "aria-current=\"page\"" "" }} href="/artists">Artistes</a>
                 </li>
