@@ -32,8 +32,8 @@ talents émergents crée un équilibre parfait entre nostalgie et découverte.
 
 Heavy Week-end reviendra dans le cadre impressionnant du Nancy Open-Air les 5, 6 et 7 juin 2026, pour trois jours de
 folie metal. Le Zénith du Grand Nancy offre des conditions techniques exceptionnelles qui permettent aux groupes de
-déployer pleinement leur puissance sonore et leurs spectacles visuels. Comme il est désormais d'usage, 12 groupes (
-quatre par jour) divertiront les fans de "musique forte" sur cette scène unique en France et particulièrement bien
+déployer pleinement leur puissance sonore et leurs spectacles visuels. Comme il est désormais d'usage, 12 groupes 
+(quatre par jour) divertiront les fans de "musique forte" sur cette scène unique en France et particulièrement bien
 adaptée à ce type d'événement live. Cette configuration garantit une qualité sonore optimale et une expérience immersive
 pour tous les spectateurs, renforçant la réputation d'excellence technique du festival.
 
@@ -56,12 +56,12 @@ marché concurrentiel.
 
 ##### Une montée en puissance spectaculaire
 
-Nancy Open Air confirme son retour et organise la troisième édition de son week-end special metal ! Simplement nommé "
-Heavy Weekend", ce festival est à nouveau susceptible d'éveiller la curiosité de nombreux metalleux, attendu à Maxéville
-du vendredi 5 au dimanche 7 juin 2026. Cette progression constante, d'édition en édition, témoigne de l'ambition des
-organisateurs et de leur capacité à faire évoluer l'événement vers les plus hauts standards internationaux. La
-reconnaissance grandissante du festival auprès des professionnels de l'industrie musicale garantit des programmations
-toujours plus prestigieuses.
+Nancy Open Air confirme son retour et organise la troisième édition de son week-end special metal ! Simplement nommé 
+"Heavy Weekend", ce festival est à nouveau susceptible d'éveiller la curiosité de nombreux metalleux, attendu à 
+Maxéville du vendredi 5 au dimanche 7 juin 2026. Cette progression constante, d'édition en édition, témoigne de 
+l'ambition des organisateurs et de leur capacité à faire évoluer l'événement vers les plus hauts standards
+internationaux. La reconnaissance grandissante du festival auprès des professionnels de l'industrie musicale garantit
+des programmations toujours plus prestigieuses.
 
 ##### Des perspectives d'avenir prometteuses
 
