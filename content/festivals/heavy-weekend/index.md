@@ -22,7 +22,7 @@ l'événement, qui propose un cadre exceptionnel pour les amateurs de musiques l
 
 La programmation du Heavy Weekend illustre parfaitement l'excellence de l'événement, réunissant des légendes
 internationales et des références du metal français. La lineup comprend Dream Theater, Powerwolf, Slipknot, Adrian
-Vandenberg, Battle Beast, Europe, Mass Hysteria, Nothing More, Rise Of The NorthStar, Saxon, Vanden Plas,
+Vandenberg, Battle Beast, Europe, Mass Hysteria, Nothing More, Rise Of The NorthStar, Saxon, Vanden Plas, 
 Wings of Steel, révélant une sélection qui couvre toutes les facettes du metal contemporain. Cette diversité stylistique
 permet au festival de satisfaire tous les goûts des metalleux, des amateurs de metal progressif aux fans de metal
 extrême, en passant par les nostalgiques du heavy metal traditionnel. La présence simultanée de légendes établies et de
