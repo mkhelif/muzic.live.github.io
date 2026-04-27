@@ -22,9 +22,9 @@ $glide-modifier-separator: '--';
     // Bullets
     &#{$glide-element-separator}bullet {
         background-color: $primary-muted;
-        width: 20px;
+        width: 7px;
         height: 7px;
-        border-radius: 4px;
+        border-radius: 50%;
 
         &:hover,
         &:focus {
