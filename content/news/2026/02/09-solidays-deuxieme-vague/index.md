@@ -45,5 +45,5 @@ Un événement dans l'événement, qui confirme l'appétit de Solidays pour les 
 
 Sur la scène pop et chanson française, les ajouts sont tout aussi solides. Helena, Suzane, Yael Naim, Sam Sauvage, 
 Josman, Guy2Bezbar, Jolagreen23, Naïka, Iliona, Zaho, Skip The Use, Alessi Rose, Eve La Marka, Folie's, Tshegue et Roüge
-viennent compléter une affiche dont la diversité stylistique reste la signature la plus fidèle au projet Solidays —
+ viennent compléter une affiche dont la diversité stylistique reste la signature la plus fidèle au projet Solidays —
 faire cohabiter, sur les mêmes pelouses et dans le même élan, des univers que tout semble opposer.
