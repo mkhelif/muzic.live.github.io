@@ -10,5 +10,6 @@ artists:
 todo:
   - Add cover
   - Add review
+  - Add socials
   - Update subtitles
 ---
