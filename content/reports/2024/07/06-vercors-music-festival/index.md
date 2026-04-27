@@ -1,6 +1,6 @@
 ---
 date: 2024-07-06T18:30:00+02:00
-festivalId: "5d71e71e-c997-4a61-a8a2-4c75cb93f578"
+festival: "5d71e71e-c997-4a61-a8a2-4c75cb93f578"
 locationId: "429ce815-53da-4a16-833a-d29997086186"
 title: "Vercors Music Festival 2024 - Jour 2 - Sarah Lenka, El Gato Negro, Massilia Sound System, Danakil, Asian Dub Foundation"
 cover: "pictures/danakil/01.jpg"

@@ -1,6 +1,6 @@
 ---
 date: 2025-05-22T19:00:00+02:00
-festivalId: "5ca0550d-1ec2-4fd9-b225-e447b038ec5a"
+festival: "5ca0550d-1ec2-4fd9-b225-e447b038ec5a"
 locationId: "555d590a-f1e0-4c09-8a76-d88a43af0d1a"
 title: "Poprock Festival 2025 - Jour 1 - Showcave, MADAM, Hey Satan, SOEN"
 cover: "pictures/madam/02.jpg"

@@ -1,6 +1,6 @@
 ---
 date: 2026-02-15T19:30:00+02:00
-festivalId: "70ecd28b-2990-49bb-9c91-b88215039ef4"
+festival: "70ecd28b-2990-49bb-9c91-b88215039ef4"
 locationId: "506d7a39-4f4c-4c98-bc9c-1acdf64b5665"
 title: "Antigel 2026 - Macie Stewart, Jeff Tweedy"
 cover: "pictures/jeff-tweedy/09.jpg"

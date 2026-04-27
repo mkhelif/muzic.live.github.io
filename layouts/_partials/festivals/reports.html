@@ -1,5 +1,5 @@
 {{/* --- Reports ---  */}}
 {{ $reports := where .Site.RegularPages "Section" "reports" }}
-{{ $reports = where $reports ".Params.festivalId" .Params.id }}
+{{ $reports = where $reports ".Params.festival" .Params.id }}
 {{ $reports = $reports.ByDate.Reverse }}
 {{ partial "reports/list.html" (dict "context" . "reports" $reports) }}

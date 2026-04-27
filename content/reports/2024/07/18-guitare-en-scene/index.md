@@ -1,6 +1,6 @@
 ---
 date: 2024-07-18T17:30:00+02:00
-festivalId: "13e59726-a669-48a1-93ad-d52d04e4f44f"
+festival: "13e59726-a669-48a1-93ad-d52d04e4f44f"
 locationId: "598fe61c-2dca-4f48-99c6-0155689c665f"
 title: "Guitare en Scène 2024 - Jour 1 - Paddang, Seasick Steve, Status Quo, John Fogerty, The Inspector Cluzo"
 cover: "pictures/status-quo/04.jpg"

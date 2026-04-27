@@ -2,7 +2,7 @@
 
 <div class="container">
     <p>
-        {{ with $.Params.festivalId }}{{ partial "festivals/badge.html" . }}{{ end }}
+        {{ with $.Params.festival }}{{ partial "festivals/badge.html" . }}{{ end }}
         {{ range $.Params.artists }}{{ partial "artists/badge.html" . }}{{ end }}
     </p>
 
@@ -19,10 +19,10 @@
 
     <!-- Other reports -->
     <div data-pagefind-ignore="all" class="d-print-none">
-        {{ with .Params.festivalId }}
+        {{ with .Params.festival }}
             <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">Autres chroniques du festival {{ partial "festivals/name.html" . }}</h4>
             {{ $reports := where $.Site.RegularPages "Section" "reports" }}
-            {{ $reports = where $reports ".Params.festivalId" . }}
+            {{ $reports = where $reports ".Params.festival" . }}
             {{ $reports = where $reports ".Path" "ne" $.Path }}
             {{ range $index, $report := $reports }}
                 {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}

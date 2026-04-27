@@ -1,6 +1,6 @@
 ---
 date: 2025-12-10T10:00:00+01:00
-festivalId: "781241de-9bc3-42cf-86ae-f4cb401dc8d5"
+festival: "781241de-9bc3-42cf-86ae-f4cb401dc8d5"
 title: "Solidays 2026 : la première vague de noms confirme un festival pop, rap et électro au sommet"
 cover: "cover.jpg"
 artists:

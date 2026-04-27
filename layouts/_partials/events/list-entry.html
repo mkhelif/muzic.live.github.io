@@ -17,7 +17,7 @@
         <p class="mb-0 d-flex">
             <i class="fa fa-xs text-muted fa-music ms-1 mt-2"></i>
             <span class="ms-2">
-                {{ with .event.Params.festivalId }}
+                {{ with .event.Params.festival }}
                     {{- partial "festivals/link.html" . }} :
                 {{ end }}
                 {{ range $index, $id := .event.Params.artists }}

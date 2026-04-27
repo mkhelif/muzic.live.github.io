@@ -1,6 +1,6 @@
 ---
 date: 2025-08-22T17:30:00+02:00
-festivalId: "1a3b686c-c763-4bfd-aba9-e19957f88765"
+festival: "1a3b686c-c763-4bfd-aba9-e19957f88765"
 locationId: "a0e3cf66-d5f3-4256-96dd-69e0f505c16f"
 title: "Atrack'Son 2025 - Jour 1 - Follo, The Harbingerz, Lou Beurier, Mad in Ska, Cotton Blood, Marcel et son Orchestre, Greasy Lumberjacks, Autothune"
 cover: "pictures/cotton-blood/02.jpg"

@@ -1,7 +1,7 @@
 ---
 date: 2025-08-23T17:30:00+02:00
 draft: true
-festivalId: "1a3b686c-c763-4bfd-aba9-e19957f88765"
+festival: "1a3b686c-c763-4bfd-aba9-e19957f88765"
 locationId: "a0e3cf66-d5f3-4256-96dd-69e0f505c16f"
 title: "Atrack'Son 2025 - Jour 2 - Bruno Obéron, Fonkiture, Cinza, Gliz, Marraine Coque, Charlie Winston, 2097, Megaphone, Grunk, Cat Anderson"
 cover: "pictures/"

@@ -1,6 +1,6 @@
 ---
 date: 2026-02-13T19:30:00+02:00
-festivalId: "70ecd28b-2990-49bb-9c91-b88215039ef4"
+festival: "70ecd28b-2990-49bb-9c91-b88215039ef4"
 locationId: "506d7a39-4f4c-4c98-bc9c-1acdf64b5665"
 title: "Antigel 2026 - Hinako Omori, Anna Von Hausswolff"
 cover: "pictures/anna-von-hausswolff/12.jpg"

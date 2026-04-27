@@ -1,6 +1,6 @@
 ---
 date: 2024-05-24T19:00:00+02:00
-festivalId: "5ca0550d-1ec2-4fd9-b225-e447b038ec5a"
+festival: "5ca0550d-1ec2-4fd9-b225-e447b038ec5a"
 locationId: "555d590a-f1e0-4c09-8a76-d88a43af0d1a"
 title: "Poprock Festival 2024 - Jour 2 - The Clive, Storm Orchestra, Charlie Winston (solo), Tendinista"
 cover: "pictures/storm-orchestra/05.jpg"

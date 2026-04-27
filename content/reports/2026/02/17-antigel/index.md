@@ -1,6 +1,6 @@
 ---
 date: 2026-02-17T20:00:00+02:00
-festivalId: "70ecd28b-2990-49bb-9c91-b88215039ef4"
+festival: "70ecd28b-2990-49bb-9c91-b88215039ef4"
 locationId: "b0b7ed52-8ea4-45b4-af69-50b39c936504"
 title: "Antigel 2026 - Finnegan Tui"
 cover: "pictures/finnegan-tui/01.jpg"

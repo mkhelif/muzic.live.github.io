@@ -1,6 +1,6 @@
 ---
 date: 2026-01-17T20:00:00+02:00
-festivalId: "bac195ab-b344-47b2-b633-bd369ea98cf7"
+festival: "bac195ab-b344-47b2-b633-bd369ea98cf7"
 locationId: "bc9e9b9b-ceea-4234-bd2b-0c863b000213"
 title: "Lez'Arts Murailles 2026 - Meuhstache, The Dungbeetle Conspiracy, Lofofora, SpaceBrain"
 cover: "pictures/lofofora/02.jpg"

@@ -1,6 +1,6 @@
 ---
 date: 2026-07-08 20:30:00+02:00
-festivalId: "1e091511-4a09-491d-92c7-50510b8f3911"
+festival: "1e091511-4a09-491d-92c7-50510b8f3911"
 locationId: "bc4a67d5-e5cc-4bea-aac4-c9ed2482daeb"
 artists:
   - "eab246c9-a222-46f4-849d-9749573eb912"

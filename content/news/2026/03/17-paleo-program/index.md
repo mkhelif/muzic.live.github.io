@@ -1,6 +1,6 @@
 ---
 date: 2026-03-17T10:00:00+02:00
-festivalId: "58957937-9b74-411e-9a93-45e0ac47a67e"
+festival: "58957937-9b74-411e-9a93-45e0ac47a67e"
 title: "Paléo 2026 : The Cure, Gorillaz, Katy Perry, Orelsan et Lorde en têtes d'affiche d'une 49e édition XXL"
 cover: "cover.jpg"
 hero: "hero.jpg"

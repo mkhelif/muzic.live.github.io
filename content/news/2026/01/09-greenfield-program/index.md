@@ -1,6 +1,6 @@
 ---
 date: 2026-01-09T10:00:00+02:00
-festivalId: "ed47a838-c652-4756-83d9-3d0940f9cd15"
+festival: "ed47a838-c652-4756-83d9-3d0940f9cd15"
 title: "Greenfield Festival 2026 : le rock et le metal s'emparent d'Interlaken"
 cover: "cover.jpg"
 hero: "hero.jpg"

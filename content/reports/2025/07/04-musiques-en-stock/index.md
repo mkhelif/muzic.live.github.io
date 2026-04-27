@@ -1,6 +1,6 @@
 ---
 date: 2025-07-04T19:00:00+02:00
-festivalId: "92ee72eb-532a-4ccd-bf2c-3233f055ca4b"
+festival: "92ee72eb-532a-4ccd-bf2c-3233f055ca4b"
 locationId: "830edf51-8e24-4f4c-ac2c-408e20ecb99a"
 title: "Musiques en Stock 2025 - Jour 2 - Crazy Jess, Ménades, Kid Kapichi, Bloc Party"
 cover: "pictures/bloc-party/09.jpg"

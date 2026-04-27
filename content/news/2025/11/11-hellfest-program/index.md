@@ -1,6 +1,6 @@
 ---
 date: 2025-11-11T08:30:00+02:00
-festivalId: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
+festival: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
 title: "Hellfest 2026 : Une programmation monumentale avec 183 groupes et des têtes d'affiche explosives"
 cover: "cover.jpg"
 hero: "hero.jpg"

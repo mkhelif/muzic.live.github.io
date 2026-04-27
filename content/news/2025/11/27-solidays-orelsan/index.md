@@ -1,6 +1,6 @@
 ---
 date: 2025-11-27T10:00:00+01:00
-festivalId: "781241de-9bc3-42cf-86ae-f4cb401dc8d5"
+festival: "781241de-9bc3-42cf-86ae-f4cb401dc8d5"
 title: "Solidays 2026 ouvre le bal avec Orelsan : le closing du dimanche sera normand"
 cover: "cover.jpg"
 artists:

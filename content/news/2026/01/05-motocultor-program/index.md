@@ -1,6 +1,6 @@
 ---
 date: 2026-01-05T10:00:00+02:00
-festivalId: "9a6fffd4-43b0-4097-9556-14f69b24b419"
+festival: "9a6fffd4-43b0-4097-9556-14f69b24b419"
 title: "Motocultor 2026 : première salve d'annonces pour le festival breton"
 cover: "cover.jpg"
 hero: "hero.jpg"

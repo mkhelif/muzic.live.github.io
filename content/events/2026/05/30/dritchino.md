@@ -1,6 +1,6 @@
 ---
 date: 2026-05-30T16:00:00+02:00
-festivalId: "f7a9c15f-5ef4-4746-b33c-f9ea59a416b2"
+festival: "f7a9c15f-5ef4-4746-b33c-f9ea59a416b2"
 locationId: "972af622-301e-4fc6-8d78-f045a3204b55"
 artists:
   - "d1501f89-c4d6-4c5b-b39c-a1ca7b5e5219"
