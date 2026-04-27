@@ -1,6 +1,10 @@
 ---
 id: "75d59ff6-7ac5-4f03-8094-bc455cdc9d6a"
 title: "Bigflo & Oli"
+aliases:
+  - "Bigflo et Oli"
+  - "BigFlo et Oli"
+  - "BigFlo & Oli"
 cover: "cover.jpg"
 socials:
   facebook: "bigfloetoli"
