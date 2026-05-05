@@ -16,65 +16,91 @@ artists:
   - "c1ee1791-6f40-4d6a-9ebc-1ef6691f2968"
 ---
 
+Pour sa troisième édition, La Sainte Rock a planté son chapiteau électrifié au 6MIC, à l'ombre symbolique de la
+Sainte-Victoire, et a rappelé d'emblée pourquoi le festival s'est imposé en quelques années comme le rendez-vous
+incontournable du rock dans le Sud. Deux scènes, douze artistes sur deux jours, et cette promesse simple qu'aucune autre
+programmation aixoise ne tient avec autant de constance : du rock, du vrai, dans toutes ses déclinaisons. Le premier
+soir s'est ouvert avec une affiche dense, six groupes qui se sont relayés en alternance entre la Salle Club et la Grande
+Salle, et un public clairement venu en découdre. Tour d'horizon d'une soirée qui a posé la barre haut pour la suite.
 
+## Wicked Elephant Revival — l'ouverture qui met le ton
 
 {{< carousel pictures="pictures/wicked-elephant-revival" alt="Wicked Elephant Revival" author="mkhelif.photo" >}}
+
+Mission délicate que celle d'ouvrir un festival, surtout quand le public se compte encore et qu'il faut convaincre les
+premiers arrivés que la soirée vaut le déplacement. Wicked Elephant Revival a relevé le défi avec une assurance
+désarmante. Le quintet — basse, guitare, batterie, claviers et chant — a déroulé un set bâti autour d'un groove
+généreux, jamais démonstratif, parfaitement calibré pour faire monter la température sans la cramer trop tôt. L'énergie
+déployée d'entrée donnait le ton de la soirée : pas de complaisance, pas de remplissage, juste une formation qui prend
+la scène pour ce qu'elle est, un terrain de jeu sans filet. Le rythme était posé, le festival pouvait commencer.
+
+## Datcha Mandala — le power trio bordelais sort les crocs
+
 {{< carousel pictures="pictures/datcha-mandala" alt="Datcha Mandala" author="mkhelif.photo" >}}
+
+Premier concert de l'année pour les Bordelais, et pourtant aucun signe d'hésitation. Datcha Mandala est arrivé avec la
+confiance qu'on accumule sur des centaines de scènes, et a balancé sans préambule un rock psyché lourdement teinté de
+blues qui a immédiatement embarqué la salle. Les morceaux récents, notamment ceux issus de leur album *Coda*, ont occupé
+une place centrale du set, mais c'est la sensation physique qui a marqué : cette basse grasse, profonde, qui prend
+littéralement aux tripes et impose une pulsation à laquelle il est impossible de résister. Le bassiste growl par
+moments, ajoutant une couche d'agressivité bienvenue, et le chanteur-guitariste rappelle dans son timbre et dans sa
+posture le frontman de Ko Ko Mo — même intensité, même façon de tenir la scène à bout de bras. Pour un premier concert
+de la saison, on a vu rarement aussi rodé. La grosse claque de l'apéritif.
+
+## Loons — le rock brut, sans fard
+
 {{< carousel pictures="pictures/loons" alt="Loons" author="mkhelif.photo" >}}
+
+Direction Montpellier avec Loons, autre power trio de la soirée, mais d'une tout autre nature. Là où Datcha Mandala
+ronronne dans le psyché-blues, Loons attaque frontalement, dans une esthétique de rock brut, dynamique, presque sans
+filet. Le groupe défend son premier album, *Life Is*, et on sent dans la livraison cette urgence propre aux jeunes
+formations qui n'ont pas encore tout à fait stabilisé leurs repères scéniques. Quelques imperfections ici et là,
+peut-être imputables à la jeunesse du projet ou à la difficulté de défendre un set entier devant une salle de festival,
+mais rien qui n'entame le plaisir global. Au contraire : ces aspérités donnent au concert une vérité que les groupes
+trop polis ont parfois perdue. À suivre de près, parce que la matière est là, indéniable.
+
+## SUN — la déflagration attendue
+
 {{< carousel pictures="pictures/sun-brutal-pop" alt="Sun Brutal Pop" author="mkhelif.photo" >}}
+
+Quand SUN entre en scène, il n'y a plus de doute possible. Le growl de SUN s'impose dès les premières secondes comme une
+signature impossible à confondre. Les rythmiques sont entraînantes, fédératrices, taillées pour les festivals, et la
+setlist enchaîne les morceaux qui font lever les bras avec une efficacité redoutable. *I'm a Survivor* a soulevé la
+salle, mais c'est l'imagerie scénique qui a achevé de transformer le concert en moment de bascule : ce ventilateur calé
+devant SUN pour faire voler ses cheveux en pleine envolée, le mosh pit qui s'organise au milieu de la fosse, et surtout
+cette macarena improvisée au cœur du chaos, comme un clin d'œil absurde et jubilatoire à toute la mythologie sérieuse du
+rock. SUN ne joue pas un concert, SUN organise une fête, et l'écart de niveau était palpable.
+
+## Catchy Peril — le rock qui fait danser
+
 {{< carousel pictures="pictures/catchy-peril" alt="Catchy Peril" author="mkhelif.photo" >}}
+
+Changement d'ambiance avec Catchy Peril, formation à quatre — clavier, batterie, guitare, basse — qui mise tout sur le
+mouvement. Le set s'est révélé profondément dansant, exubérant dans le bon sens du terme, traversé de rythmes empruntés
+au funk et clins d'œil électro qui élargissent considérablement le champ rock traditionnel. Difficile de rester
+immobile : on se surprend à hocher la tête, taper du pied, et progressivement à céder au sourire de circonstance
+qu'imposent ces compositions taillées pour faire bouger les corps. Le chanteur a fini par descendre dans le public pour
+boucler son set au milieu de la fosse, geste rituel devenu cliché quand il est mal fait, mais ici parfaitement intégré à
+la mise en scène, et accueilli avec la chaleur qu'il méritait.
+
+## Cachemire — la communion en clôture
+
 {{< carousel pictures="pictures/cachemire" alt="Cachemire" author="mkhelif.photo" >}}
 
+Et puis Cachemire, pour conclure la soirée et rappeler ce que le rock français sait faire quand il s'autorise à viser
+haut. Le concert a débuté par une entrée complètement ratée — l'un de ces moments d'ouverture qui auraient pu plomber la
+dynamique — mais le groupe a immédiatement transformé l'incident en complicité avec la salle, désamorçant l'incident
+d'un trait d'humour qui a probablement scellé l'affection du public pour le reste du set. Cachemire, c'est cinq
+musiciens — trois guitares, une basse, une batterie, si l'on s'en tient au comptage de scène — et une énergie de dingue
+qui n'a pas faibli une seconde. Le public a repris en chœur les refrains, le chanteur est lui aussi descendu se mêler à
+la foule, dans un geste qui a clos la soirée sur cette image rare d'un groupe entièrement absorbé par son public, et
+réciproquement. La parfaite tête d'affiche pour boucler une journée de cette densité.
 
+## Le bilan d'un premier soir
 
-
-
-### Wicked Elephant Revival
-Un bon groove
-Basse, guitare, drums, claviers et chanteur
-Une énergie parfait pour ouvrir le festival
-
-### Datcha Mandala
-Power trio bien energique
-Leurs derniers morceaux, album Coda, entre autres
-Ça bouge
-1er concert de l'année
-Bordelais
-Rock psyché teinté de blues
-Une basse bien grasse qui prend au trippe
-Le bassiste growl
-Le chanteur/guitariste a le même style que le chanteur de Ko Ko Mo
-
-### Loons
-Power trio
-Rock brut
-C'est dynamique
-Montpellieriens
-Premier album "Life Is"
-Quelques imperfections (jeunesse ?)
-
-### SUN
-Growl si reconnaissable
-Rythmes entraînants
-Bassem (basse et clavier, https://www.instagram.com/bassemrocks), Boris (drums)
-I'm a survivor
-Ventilateur pour ses cheveux
-Mosh pit avec macarena au milieu
-
-##### Catchy Peril
-Clavier, batterie, guitare, basse
-Très dansant
-Rock exubérant
-Mélange de rythme funk, électro
-On se prend a hocher de la téte, taper du pied
-Chanteur descend dans le public
-
-#### Cachemire
-Rock français
-Très bon
-Une entrée complètement ratée, prise avec humour
-Une énergie de dingue
-3 guitares, une basse et une batterie?
-Le public reprend en entonnant le refrain
-Cercle de l'amour
-Descend dans le public
+Six groupes, deux scènes, et pas une seule baisse de régime sur l'ensemble de la soirée : La Sainte Rock confirme sa
+capacité à programmer une affiche cohérente, où chaque formation apporte sa nuance sans jamais cannibaliser les autres.
+Du groove inaugural de Wicked Elephant Revival au cercle de l'amour final de Cachemire, en passant par les claques
+successives de Datcha Mandala, Loons, SUN et Catchy Peril, le festival a tenu la promesse de son ADN — du rock, du vrai,
+sous toutes ses coutures. La Sainte Rock peut désormais affronter sereinement sa deuxième journée. La barre est haute,
+mais la maison sait visiblement ce qu'elle fait.
