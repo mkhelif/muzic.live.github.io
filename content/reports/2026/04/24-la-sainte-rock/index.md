@@ -1,10 +1,9 @@
 ---
-draft: true
 date: 2026-04-24T18:00:00+02:00
 festival: "7d93d181-be1d-485b-ab16-7f0af3010fc0"
 locationId: "6637ab77-8328-485b-9711-942be86fd6d7"
 title: "La Sainte Rock 2026 - Wicked Elephant Revival, Datcha Mandala, Loons, Sun Brutal Pop, Catchy Peril, Cachemire"
-cover: "pictures/???/01.jpg"
+cover: "pictures/cachemire/19.jpg"
 author: "mkhelif"
 rank: 10
 artists:
