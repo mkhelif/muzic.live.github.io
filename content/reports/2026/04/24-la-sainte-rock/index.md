@@ -41,10 +41,10 @@ Premier concert de l'année pour les Bordelais, et pourtant aucun signe d'hésit
 confiance qu'on accumule sur des centaines de scènes, et a balancé sans préambule un rock psyché lourdement teinté de
 blues qui a immédiatement embarqué la salle. Les morceaux récents, notamment ceux issus de leur album *Coda*, ont occupé
 une place centrale du set, mais c'est la sensation physique qui a marqué : cette basse grasse, profonde, qui prend
-littéralement aux tripes et impose une pulsation à laquelle il est impossible de résister. Le bassiste growl par
-moments, ajoutant une couche d'agressivité bienvenue, et le chanteur-guitariste rappelle dans son timbre et dans sa
-posture le frontman de Ko Ko Mo — même intensité, même façon de tenir la scène à bout de bras. Pour un premier concert
-de la saison, on a vu rarement aussi rodé. La grosse claque de l'apéritif.
+littéralement aux tripes et impose une pulsation à laquelle il est impossible de résister. Les voix se durcissent
+parfois jusqu’à frôler le scream, ajoutant une couche d'agressivité bienvenue, et le chanteur-guitariste déploie une
+présence scénique très seventies, entre blues-rock incandescent et énergie garage. Pour un premier concert de la saison,
+on a vu rarement aussi rodé. La grosse claque de l'apéritif.
 
 ## Loons — le rock brut, sans fard
 
@@ -62,13 +62,13 @@ trop polis ont parfois perdue. À suivre de près, parce que la matière est là
 
 {{< carousel pictures="pictures/sun-brutal-pop" alt="Sun Brutal Pop" author="mkhelif.photo" >}}
 
-Quand SUN entre en scène, il n'y a plus de doute possible. Le growl de SUN s'impose dès les premières secondes comme une
-signature impossible à confondre. Les rythmiques sont entraînantes, fédératrices, taillées pour les festivals, et la
-setlist enchaîne les morceaux qui font lever les bras avec une efficacité redoutable. *I'm a Survivor* a soulevé la
-salle, mais c'est l'imagerie scénique qui a achevé de transformer le concert en moment de bascule : ce ventilateur calé
-devant SUN pour faire voler ses cheveux en pleine envolée, le mosh pit qui s'organise au milieu de la fosse, et surtout
-cette macarena improvisée au cœur du chaos, comme un clin d'œil absurde et jubilatoire à toute la mythologie sérieuse du
-rock. SUN ne joue pas un concert, SUN organise une fête, et l'écart de niveau était palpable.
+Quand SUN entre en scène, il n'y a plus de doute possible. Le growl de Karoline Rose s'impose dès les premières secondes
+comme une signature impossible à confondre. Les rythmiques sont entraînantes, fédératrices, taillées pour les festivals,
+et la setlist enchaîne les morceaux qui font lever les bras avec une efficacité redoutable. *I'm a Survivor* a soulevé
+la salle, mais c'est l'imagerie scénique qui a achevé de transformer le concert en moment de bascule : ce ventilateur
+calé devant SUN pour faire voler ses cheveux en pleine envolée, le mosh pit qui s'organise au milieu de la fosse, et
+surtout cette macarena improvisée au cœur du chaos, comme un clin d'œil absurde et jubilatoire à toute la mythologie
+sérieuse du rock. SUN ne joue pas un concert, SUN organise une fête, et l'écart de niveau était palpable.
 
 ## Catchy Peril — le rock qui fait danser
 
