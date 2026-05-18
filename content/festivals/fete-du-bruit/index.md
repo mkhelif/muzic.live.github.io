@@ -50,9 +50,9 @@ chaleureuse qui règnent sur le site de Kerboulard.
 
 ## Une même structure, deux ADN
 
-Derrière les deux festivals, une équipe dirigée par Joël Bernard (direction et programmation), Carol Consola (
-partenariats), Arthur Bernard (programmation, production, billetterie) et Baptiste Beauchamp (communication et presse) —
-une structure à taille humaine qui gère deux événements majeurs à quelques semaines d'intervalle.
+Derrière les deux festivals, une équipe dirigée par Joël Bernard (direction et programmation), Carol Consola
+(partenariats), Arthur Bernard (programmation, production, billetterie) et Baptiste Beauchamp (communication et presse)
+— une structure à taille humaine qui gère deux événements majeurs à quelques semaines d'intervalle.
 
 Les deux éditions partagent un socle commun : l'éclectisme comme boussole, l'accessibilité comme priorité, et la
 conviction qu'un bon festival doit être capable de faire cohabiter un rappeur et un groupe de punk irlandais, un DJ de
