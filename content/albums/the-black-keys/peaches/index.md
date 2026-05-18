@@ -1,7 +1,6 @@
 ---
-draft: true
 id: "616265f5-41b8-412c-9e18-43c1fb5be40f"
-date: 2026-06-01T00:00:00+02:00
+date: 2026-05-01T00:00:00+02:00
 title: "Peaches!"
 subtitle: "10 titres, 44:51"
 author: "mkhelif"
