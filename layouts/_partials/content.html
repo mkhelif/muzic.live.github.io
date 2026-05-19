@@ -5,11 +5,13 @@
     {{ $content = (replace $content (printf "'%s " .LinkTitle) (printf "'<a href='%s'>%s</a> " .RelPermalink .LinkTitle)) | safeHTML }}
     {{ $content = (replace $content (printf "'%s," .LinkTitle) (printf "'<a href='%s'>%s</a>," .RelPermalink .LinkTitle)) | safeHTML }}
     {{ $content = (replace $content (printf " %s," .LinkTitle) (printf " <a href='%s'>%s</a>," .RelPermalink .LinkTitle)) | safeHTML }}
+    {{ $content = (replace $content (printf ">%s<" .LinkTitle) (printf "><a href='%s'>%s</a><" .RelPermalink .LinkTitle)) | safeHTML }}
     {{ range .Params.aliases }}
         {{ $content = (replace $content (printf " %s " .) (printf " <a href='%s'>%s</a> " $page.RelPermalink .)) | safeHTML }}
         {{ $content = (replace $content (printf "'%s " .) (printf "'<a href='%s'>%s</a> " $page.RelPermalink .)) | safeHTML }}
         {{ $content = (replace $content (printf "'%s," .) (printf "'<a href='%s'>%s</a>," $page.RelPermalink .)) | safeHTML }}
         {{ $content = (replace $content (printf " %s," .) (printf " <a href='%s'>%s</a>," $page.RelPermalink .)) | safeHTML }}
+        {{ $content = (replace $content (printf ">%s<" .) (printf "><a href='%s'>%s</a><" $page.RelPermalink .)) | safeHTML }}
     {{ end }}
 {{ end }}
 {{ $content }}
