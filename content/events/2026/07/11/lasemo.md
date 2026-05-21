@@ -1,0 +1,19 @@
+---
+date: 2026-07-11T17:00:00+02:00
+festival: "63dadee1-c56a-4d05-b8d4-eb8ed2aca864"
+locationId: "7399f8a5-7592-4f2d-94f2-8a5c1001ca49"
+artists:
+  - "5a2fc0d2-bd3b-4fca-bc29-ae627149fcec"
+  - "83b7f94f-c89e-49a1-80bc-8aac57c3cd19"
+  - "a67ac70d-7fcc-4665-9cc6-b63faa8e286d"
+  - "a8dafe59-199e-4985-881e-ab080f52fc94"
+  - "732c13eb-b45f-4164-8399-862b31e3e254"
+  - "0ea8520b-371e-4eda-b1ed-243e366d24a1"
+  - "cff0282c-9275-4063-a94c-af79e0dc979d"
+  - "689b739f-21c1-4612-b889-8dfc141a8af2"
+  - "9965e844-61eb-4794-abb5-c33b22aa8232"
+  - "bbe61e4b-39e2-483b-b4fd-521b9a725f68"
+  - "5d1894e9-a934-4586-9a85-669c48917fd4"
+  - "86ad3bfd-064b-4e5a-91b5-65839e348a75"
+  - "191a9b54-b98a-46c2-b58d-5aa48586e5ad"
+---
