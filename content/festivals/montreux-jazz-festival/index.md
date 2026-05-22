@@ -4,6 +4,8 @@ title: "Montreux Jazz Festival"
 cover: "cover.jpg"
 socials:
   email: "info@mjf.ch"
+  email2: "presse@mjf.ch"
+  phone: "+41219664439"
   facebook: "montreuxjazzfestival"
   instagram: "montreuxjazzfestival"
   linkedin: "company/montreux-jazz-festival"
