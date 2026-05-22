@@ -1,8 +1,7 @@
 ---
 date: 2026-04-01T10:00:00+02:00
 festival: "1e091511-4a09-491d-92c7-50510b8f3911"
-title: 'Montreux Jazz Festival 2026 : de RAYE à Nick Cave, une programmation magistrale
-  pour la 60e édition'
+title: "Montreux Jazz Festival 2026 : de RAYE à Nick Cave, une programmation magistrale pour la 60e édition"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:
@@ -101,9 +100,9 @@ confirmé son envergure, ce troisième acte promet un concert sur mesure, avec p
 Au Lab, le même soir, Eddy de Pretto ouvrira les hostilités avec *Lonely Club*, une création mêlant rap, musique et
 danse contemporaine en collaboration avec la chorégraphe Maud Le Pladec.
 
-> « C'est une année particulière pour le Montreux Jazz qui réintègre le Centre des congrès pour sa 60e édition
-> anniversaire. »
-> — **Mathieu Jaton**, directeur du festival
+> C'est une année particulière pour le Montreux Jazz qui réintègre le Centre des congrès pour sa 60e édition
+> anniversaire.
+{caption="Mathieu Jaton (directeur du festival)"}
 
 ## Du rock au jazz : les légendes répondent présent
 
