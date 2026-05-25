@@ -1,7 +1,7 @@
 ---
 id: "3b1317dd-c5b4-4153-a59d-3639b5ddc7c4"
 title: "Louise Chen"
-cover: ""
+cover: "cover.jpg"
 todo:
   - Add cover
   - Add socials

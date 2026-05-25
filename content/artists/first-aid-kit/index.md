@@ -1,7 +1,7 @@
 ---
 id: "38646682-0e2a-4174-a303-7b7c7229222a"
 title: "First Aid Kit"
-cover: ""
+cover: "cover.jpg"
 todo:
   - Add cover
   - Add socials

@@ -1,7 +1,7 @@
 ---
 id: "fbb36a17-f883-4a9e-b707-b5bff4b5093b"
 title: "PHLP"
-cover: ""
+cover: "cover.jpg"
 todo:
   - Add cover
   - Add socials
