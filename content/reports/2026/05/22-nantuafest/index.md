@@ -23,6 +23,8 @@ afrolove.
 
 ## Jude — La batteuse qui tape du pied droit
 
+{{< carousel pictures="pictures/jude" alt="Jude" author="mkhelif.photo" >}}
+
 La lauréate du Tremplin Électro 2026, Jude, ouvre les festivités sur la grande scène. La fosse est encore vide — ou
 presque. Les premiers arrivants colonisent les bords, les plus prudents restent en retrait, café en main. Qu'importe :
 derrière les platines, la DJ lyonnaise ne fait pas semblant. Les beats tombent avec précision, le hardgroove pulse dans
@@ -32,6 +34,8 @@ l'intégrer dans ses machines. Ça tape du bien, comme il se doit. Un début de 
 mais les lauréats de tremplin savent qu'on les regarde de haut. La suite leur appartient.
 
 ## Danitsa — La soul qui réchauffe
+
+{{< carousel pictures="pictures/danitsa" alt="Danitsa" author="mkhelif.photo" >}}
 
 La fosse commence à se remplir. Danitsa arrive sur scène accompagnée de Gaspard Summer et d'un second musicien — une
 configuration live qui transforme immédiatement l'expérience. Fini la console, place aux instruments, aux corps, au son
@@ -50,6 +54,8 @@ sonore — un vrai set de maintien qui garde la chaleur, entretient l'élan, emp
 buvettes. Au top, sans détour possible.
 
 ## Maureen — La Queen entre... bien tard
+
+{{< carousel pictures="pictures/maureen" alt="Maureen" author="mkhelif.photo" >}}
 
 Beaucoup plus de monde. La plaine des sports s'est remplie, les rangs se resserrent, l'air change de densité. Le DJ de
 Maureen prend la scène en avance pour chauffer la salle — longue entrée, travail de montée en pression soigné, danseurs
