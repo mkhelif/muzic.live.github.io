@@ -7,7 +7,7 @@ author: "mkhelif"
 cover: "cover.jpg"
 rank: 8.5
 artists:
-  - "e502e74f-fc40-4820-8f43-5d5583f1cb71"
+  - "7efd460b-9eb3-42ed-aa54-2a538ac96902"
 label: "a6f42668-4fe0-4a8b-90cc-eadd68cc5f19"
 socials:
   amazon: "B0GGFC4MQP"
