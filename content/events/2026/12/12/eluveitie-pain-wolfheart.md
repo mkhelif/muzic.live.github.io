@@ -5,4 +5,6 @@ artists:
   - "4f5e5c06-5b45-4193-bd40-8d2e54bafff5"
   - "c57b040b-0111-44f2-b69a-c2714d9f775c"
   - "9d34e64c-8785-44aa-bf58-9f26320dbd9e"
+tickets:
+  web: "https://www.petzi.ch/fr/events/62495-docks-eluveitie-ch-anv-rising-europe-pt-iii-special-guest-pain-se-wolfheart-fi/"
 ---
