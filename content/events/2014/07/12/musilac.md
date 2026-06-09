@@ -1,0 +1,17 @@
+---
+date: 2014-07-12 18:00:00+02:00
+festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
+locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+artists:
+  - "a36a28af-137f-4f22-8023-6e51e3c41839"
+  - "b37d344a-5921-4c16-9b35-2530c8d9c08e"
+  - "cdaf82f9-1fa5-4c01-a559-bdea18eebd3e"
+  - "5240360b-90c6-4499-894a-1f636b5f9bb8"
+  - "b3db97de-5a9e-4ded-8f20-97d72a40552f"
+  - "287d2e54-cdff-4581-9a86-149398faaff7"
+  - "c20597e9-8e1a-400e-b52f-481c2f4a13c2"
+  - "83b7f94f-c89e-49a1-80bc-8aac57c3cd19"
+  - "a7296f83-bc4b-4149-b0c8-117c01e2cef3"
+  - "6a208ece-2d9e-4943-ba48-cf1750df656e"
+  - "9d5f0745-ae4e-4ed5-863a-682b25acb33c"
+---

@@ -1,0 +1,16 @@
+---
+date: 2009-07-10 18:00:00+02:00
+festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
+locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+artists:
+  - "6baa2aba-6ba9-4aec-9f74-d53e3706fff5"
+  - "5dc36885-1b36-466c-a5e9-7db0acd17159"
+  - "6dbb9165-a8bc-4d03-a223-64219a413a32"
+  - "6a12d4a8-6aa7-4d7e-afdf-cdc98bb264dd"
+  - "2fb62763-d65b-480e-ba0a-4a63115b5b17"
+  - "304ca130-d41e-4405-a3a0-c70de00f20b4"
+  - "e7994690-8b57-4f6e-85ad-6cca94d7c7f7"
+  - "b5ae509d-87be-427e-93c1-e15d33338a36"
+  - "2f4ff7a0-0938-4423-a22d-1a294b28e2d1"
+  - "1504bc41-a182-4f91-b77b-cb935adf6d85"
+---

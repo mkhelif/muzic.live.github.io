@@ -1,0 +1,16 @@
+---
+date: 2009-07-11 18:00:00+02:00
+festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
+locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+artists:
+  - "878c9e8e-5fa0-40a5-9c75-1c050e52ac9a"
+  - "d631a100-ff22-4e3a-843f-1c76a58db5f7"
+  - "9c25bc03-25b1-4cb0-89ed-28a15a965e46"
+  - "790cc6ea-a87c-47af-a2cd-c4774e3ba9c6"
+  - "3c50b718-b8e1-4bce-9cd4-cbbdd6a30e95"
+  - "e8d6a01c-a853-4e87-86b3-a51c5fc550e7"
+  - "65654368-fbef-452d-867e-092e42191146"
+  - "8fbd6bce-51ec-4fc3-a62a-1d82079f4abe"
+  - "48b69e4e-6fff-4205-b0ee-5b908662b154"
+  - "3448a323-74a8-4031-9e75-a78078975abc"
+---

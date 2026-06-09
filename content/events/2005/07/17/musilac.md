@@ -1,0 +1,13 @@
+---
+date: 2005-07-17 18:00:00+02:00
+festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
+locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+artists:
+  - "1388e767-c9b1-40fe-84ca-e644dc2463f4"
+  - "5f6a9468-94a0-4728-b8b4-441419f77436"
+  - "58f4d3ff-a053-481a-9f23-64f9a15cf14b"
+  - "f11bcd22-3555-49ee-bd8e-55e1d28cc94c"
+  - "221b5eff-1dea-45d5-86b0-fd6b3d5d293a"
+  - "b6cbb2ba-92dc-4b74-9e19-4183a09a405c"
+  - "62bd98e3-a65b-45c3-94c9-c646be6f3d2d"
+---

@@ -1,0 +1,17 @@
+---
+date: 2011-07-16 18:00:00+02:00
+festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
+locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+artists:
+  - "4a239c69-b1dd-469e-b62a-dbaa266d1a3a"
+  - "33c04cbf-0ed8-4b5d-89ff-89b80c314419"
+  - "8dc9c0b9-f6a7-42cd-85ab-7eec2b94810c"
+  - "db34e79a-dd70-451f-966b-9a930f7b9dbf"
+  - "2fb62763-d65b-480e-ba0a-4a63115b5b17"
+  - "0eaae0c6-39b6-44c1-b826-456b1c4b9804"
+  - "29f7e5e1-9fab-4850-a985-79f588b81a5f"
+  - "4f7db108-d174-49ab-abda-7e6177ff4517"
+  - "4fd6e4f9-7871-4ff9-bd71-c83e692649df"
+  - "efb7cf99-104c-4d75-aba2-5ddfa0e84e17"
+  - "5128e504-7f94-4678-b2a3-1f821484411a"
+---

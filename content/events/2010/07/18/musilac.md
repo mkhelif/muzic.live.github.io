@@ -1,0 +1,16 @@
+---
+date: 2010-07-18 18:00:00+02:00
+festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
+locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+artists:
+  - "55000f45-aea0-44ac-905d-a3ee53bff822"
+  - "c4948e25-0365-4d1a-bbcd-f4965c2d0efa"
+  - "3d3b859a-5b84-4a05-91ed-5729ced021f2"
+  - "ea949edc-900d-49b9-bf92-fc51c8bf0ad8"
+  - "45bf702f-7635-4094-bf2a-a7235122e581"
+  - "8717a78f-dff6-491a-816d-b5dc46d9b7d0"
+  - "5f6a9468-94a0-4728-b8b4-441419f77436"
+  - "3149d0f3-c04c-45f3-a293-aa0ca81bcc6a"
+  - "e72b00e7-aa3e-4c13-ae97-dc43266ebbdd"
+  - "f174bd8b-bc4b-4cdb-9745-03e955935083"
+---

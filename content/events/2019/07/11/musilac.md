@@ -1,0 +1,18 @@
+---
+date: 2019-07-11 18:00:00+02:00
+festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
+locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+artists:
+  - "8c7ebbbb-083b-482a-b579-1841c6992ab8"
+  - "6e6febdd-dd7a-45f2-8220-3c1ec817a95c"
+  - "3a6f10e8-245a-49d1-8371-40ea8338c32b"
+  - "82eda476-9e56-4b30-88ce-13cc428009fe"
+  - "ef6ea3da-b0e4-4a2d-a2ef-fa84a3f1b79e"
+  - "994a6e07-7671-47bf-a0e0-776204b30966"
+  - "f10fc494-d29f-4fb0-b039-451979e6c775"
+  - "13adb55b-01ae-4f8a-bfc8-f98a8352205b"
+  - "0de94199-9f4d-4991-9d61-50e2edc49a69"
+  - "d3502f26-65f4-4f38-b098-935dccba9fdd"
+  - "408ec437-b75c-47d8-9dd6-78011ac7c011"
+  - "2932d8ea-f2fe-462b-a7ae-facadb1c515f"
+---

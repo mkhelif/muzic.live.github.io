@@ -1,0 +1,16 @@
+---
+date: 2018-07-13 18:00:00+02:00
+festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
+locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+artists:
+  - "f45f9e3c-aa42-436a-897d-28d964223827"
+  - "0962cacd-c15c-4a93-a1de-f8d52ec6e345"
+  - "57f09e74-7d33-49ec-b653-f0a2c7da1187"
+  - "0fe118bc-9ba7-40b5-8485-30a5c0c18f33"
+  - "a1c0a46d-eeb5-4d9e-b0ee-2c726bceba8b"
+  - "65264593-8d5c-461b-8253-7f3a97924a6c"
+  - "fa7d9df2-a86d-4d4c-9021-1b4c730c6de3"
+  - "3c73672f-8be9-4a35-881e-8f643dc26630"
+  - "55f62ae6-f2aa-4e82-ac11-76ec9948edee"
+  - "84423f84-1b3f-4269-9d0b-212edc08fb53"
+---

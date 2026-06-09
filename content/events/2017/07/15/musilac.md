@@ -1,0 +1,18 @@
+---
+date: 2017-07-15 18:00:00+02:00
+festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
+locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+artists:
+  - "42d7838b-2577-4cee-bd9d-5bf943e1ee00"
+  - "7e872a11-e3c6-40f0-b08b-416b25b8d660"
+  - "72e381dd-5b44-4b55-b356-a9160fb733df"
+  - "5dd210b1-82af-4f46-a233-a5e65037afb0"
+  - "29d1793b-f98f-4cb1-800e-cb2b47cc6cb5"
+  - "da1e740d-aa60-4ce7-aa0b-9b63d1b0cbcf"
+  - "fa5b54c1-1344-4265-aae4-999b249a09ae"
+  - "b9ddba90-fef0-4607-894e-662559bba16a"
+  - "2fb62763-d65b-480e-ba0a-4a63115b5b17"
+  - "0f7a578e-1431-43dc-9c97-c8734d94ae8d"
+  - "6c0bcce4-db7d-410c-8d07-58fc629921f4"
+  - "33c04cbf-0ed8-4b5d-89ff-89b80c314419"
+---

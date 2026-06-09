@@ -1,0 +1,14 @@
+---
+date: 2006-07-08 18:00:00+02:00
+festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
+locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+artists:
+  - "5189343c-3d4d-4e17-9549-70a5359609d0"
+  - "b245bcb7-5faa-4fc9-9f52-af5a835789a5"
+  - "e8c8022d-e0bb-4d26-b1c9-78276addf116"
+  - "ba46eeef-6294-452b-abe1-ac9a03e2e89d"
+  - "3508ce13-515c-46d8-81d1-b132f72afba8"
+  - "68a6f4b8-b526-4ed9-89bc-3fc25c8e3e14"
+  - "0e3b37f1-4f3f-40fd-93a1-adbeb5809f1d"
+  - "a72b07b5-d734-4591-9e47-79c0a237bc3c"
+---

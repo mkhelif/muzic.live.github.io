@@ -1,0 +1,18 @@
+---
+date: 2017-07-13 18:00:00+02:00
+festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
+locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+artists:
+  - "43063cd0-7ac9-4484-be0a-41127b9f3c10"
+  - "4bd2acd6-7c61-4801-8045-f8ae6772a1c4"
+  - "fd5ff504-807f-479e-9787-0abab6a51416"
+  - "b5fa3f1c-ded0-4a32-9193-9c2fd9862e48"
+  - "395d4b4d-c468-4a1d-a95d-edda05f8d691"
+  - "e3b8ec96-5f3a-4534-a711-99ccd0f90061"
+  - "af59e553-2dd0-42b8-93a6-68e70e3dc683"
+  - "dbc6baeb-ebd4-4f75-95d4-33530555516b"
+  - "badb53d0-a3d1-4a37-81ca-c0c97653cfa4"
+  - "e202aa2b-69cf-461e-b7bb-22a756e7cf66"
+  - "3d3b859a-5b84-4a05-91ed-5729ced021f2"
+  - "176ecf98-81d7-45f6-ad8b-24bbcf614938"
+---
