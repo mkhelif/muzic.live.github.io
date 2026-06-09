@@ -23,7 +23,7 @@ concerts de l'autre. Une configuration qui n'a néanmoins pas empêché le publi
 riche en contrastes.
 
 
-{{< carousel pictures="pictures/flaur" alt="Flaur" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/flaur" alt="Flaur" author="mkhelif" >}}
 
 C'est Flaur qui a ouvert cette deuxième journée avec une pop aérienne et mélancolique aux accents folk,
 particulièrement lorsque l'artiste s'emparait de sa guitare. Si la fosse n'affichait pas encore complet, le public,
@@ -32,7 +32,7 @@ délicatesse. Le titre "Hold Down" a particulièrement fait mouche, invitant les
 quelques pas de danse sous le soleil déclinant de Métabief.
 
 
-{{< carousel pictures="pictures/yuston-xiii" alt="Yuston XIII" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/yuston-xiii" alt="Yuston XIII" author="mkhelif" >}}
 
 La prestation de Yuston XIII restera sans doute comme l'une des plus singulières de cette édition. Avec une
 formation atypique mêlant deux taiko (tambours japonais), trois violons et une contrebasse, le rappeur à la voix
@@ -42,7 +42,7 @@ textes, portés par une instrumentation live qui fait la part belle aux instrume
 public progressivement conquis par cette alchimie sonore unique.
 
 
-{{< carousel pictures="pictures/mystically" alt="Mystically" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/mystically" alt="Mystically" author="mkhelif" >}}
 
 L'ambiance s'est considérablement réchauffée avec l'arrivée sur scène de Mystically. Leur fusion reggae-RnB, servie
 par un quatuor piano-guitare-batterie-basse parfaitement rodé, a rapidement transformé la fosse en dancefloor géant. Le
@@ -50,7 +50,7 @@ duo vocal, débordant de charisme, a déployé un arsenal de mélodies envoûtan
 transe. Un moment de communion musicale qui a permis au festival de basculer définitivement dans une atmosphère festive.
 
 
-{{< carousel pictures="pictures/mc-solaar" alt="MC Solaar" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/mc-solaar" alt="MC Solaar" author="mkhelif" >}}
 
 L'apparition de MC Solaar était indiscutablement l'un des temps forts de cette journée, et le "Claude MC" n'a pas
 déçu. Devant une fosse archi-comble, le pionnier du rap français a déroulé son flow inimitable, alternant avec maestria
@@ -60,7 +60,7 @@ d'intermédiaire avec la foule. Les morceaux se sont enchaînés sans temps mort
 dix minutes avant l'horaire prévu, laissant le public à la fois comblé et légèrement sur sa faim.
 
 
-{{< carousel pictures="pictures/zed-yun-pavarotti" alt="Zed Yun Pavarotti" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/zed-yun-pavarotti" alt="Zed Yun Pavarotti" author="mkhelif" >}}
 
 Changement radical d'atmosphère avec l'arrivée de Zed Yun Pavarotti, qui a fait son entrée sur scène une cigarette
 et une bière à la main, incarnation d'une certaine attitude rock'n'roll. Accompagné de deux guitaristes, un bassiste et
@@ -70,7 +70,7 @@ chez certains spectateurs. La bouteille de champagne débouchée sur scène a co
 ses longueurs, a trouvé son public.
 
 
-{{< carousel pictures="pictures/vladimir-cauchemar" alt="Vladimir Cauchemar" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/vladimir-cauchemar" alt="Vladimir Cauchemar" author="mkhelif" >}}
 
 La température est montée de plusieurs degrés avec l'arrivée de Vladimir Cauchemar. Fidèle à son image, le
 producteur masqué a transformé le festival en véritable rave party à ciel ouvert. Dans un déluge pyrotechnique
@@ -81,7 +81,7 @@ drop. Un niveau sonore à la limite du raisonnable a achevé de plonger Métabie
 cataclysmique.
 
 
-{{< carousel pictures="pictures/manudigital" alt="Manudigital" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/manudigital" alt="Manudigital" author="mkhelif" >}}
 
 Pour conclure cette deuxième journée, Manudigital a proposé une synthèse réussie entre EDM et reggae. Accompagné
 d'un chanteur ragga qui a apporté une dimension vocale bienvenue à ses compositions, le producteur a offert un final

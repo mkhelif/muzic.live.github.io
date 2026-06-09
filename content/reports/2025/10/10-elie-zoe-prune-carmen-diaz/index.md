@@ -21,7 +21,7 @@ transformer le concert traditionnel en expérience immersive, du plus confidenti
 
 #### Prune Carmen Diaz : la révélation tardive magnétique
 
-{{< carousel pictures="pictures/prune-carmen-diaz" alt="Prune Carmen Diaz" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/prune-carmen-diaz" alt="Prune Carmen Diaz" author="mkhelif" >}}
 
 La Chaux-de-Fonnière confirme immédiatement cette "présence scénique magnétique" annoncée avec une formation épurée -
 clavier, basse, batterie et voix - qui transforme l'espace en salon intimiste. Sa découverte tardive de la musique, loin
@@ -43,7 +43,7 @@ décrète pas, elle se construit patiemment, loin des projecteurs, jusqu'à ce m
 
 #### Elie Zoé : l'expérience transcendante du changement
 
-{{< carousel pictures="pictures/elie-zoe" alt="Elie Zoé" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/elie-zoe" alt="Elie Zoé" author="mkhelif" >}}
 
 Formation réduite à sa plus simple expression : Fred Burki à la batterie et aux claviers, elie zoé à la guitare, aux
 claviers et à la voix. Cette économie de moyens cache une richesse sonore qui transforme immédiatement le concert en

@@ -9,7 +9,7 @@ artists:
   - "98e37a4e-4214-47bc-be3d-efbbe640b933"
 ---
 
-{{< carousel pictures="pictures/haevn" alt="Haevn" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/haevn" alt="Haevn" author="mkhelif" >}}
 
 Les Docks ont accueilli Haevn, le duo néerlandais porté par Marijn van der Meer et Jorrit Kleijnen, pour une performance
 aussi envoûtante que poétique.

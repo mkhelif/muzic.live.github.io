@@ -16,7 +16,7 @@ tout aussi envoûtants.
 Une soirée qui a oscillé entre la violence brute d’off:circuit et la mélancolie euphorisante d’Oscar and the Wolf.
 
 
-{{< carousel pictures="pictures/off-circuit" alt="off:circuit" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/off-circuit" alt="off:circuit" author="mkhelif" >}}
 
 off:circuit a ouvert le bal avec une performance aussi implacable que leur musique.
 
@@ -32,7 +32,7 @@ Les textures industrielles et les mélodies mélancoliques ont créé une ambian
 Dommage que les lumières aient été si timides – on aurait aimé voir autant que ressentir cette énergie brute.
 
 
-{{< carousel pictures="pictures/oscar-and-the-wolf" alt="Oscar and the Wolf" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/oscar-and-the-wolf" alt="Oscar and the Wolf" author="mkhelif" >}}
 
 Après l’assaut d’off:circuit, Oscar and the Wolf a pris le relais avec une performance tout en contrastes.
 

@@ -18,7 +18,7 @@ alternative : de la pop-rock traditionnelle aux expérimentations linguistiques,
 artistiques assumées.
 
 
-{{< carousel pictures="pictures/swab" alt="Swab" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/swab" alt="Swab" author="mkhelif" >}}
 
 Les Nyonnais de Swab ouvrent cette seconde soirée avec une démonstration de maîtrise pop-rock qui honore leurs
 références anglo-saxones sans jamais tomber dans la copie servile.
@@ -33,7 +33,7 @@ Dans l'acoustique particulière du hangar de Gilly, cette synthèse entre classi
 parfaite, prouvant que l'excellence technique peut transcender les frontières géographiques et générationnelles.
 
 
-{{< carousel pictures="pictures/nerlov" alt="Nerlov" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/nerlov" alt="Nerlov" author="mkhelif" >}}
 
 Nerlov débarque avec cette sincérité abrupte annoncée, transformant le fatalisme en matériau esthétique. Sa "plume
 plongée dans la bile" révèle effectivement cette beauté particulière qui naît du refus de plaire, approche artistique
@@ -50,7 +50,7 @@ contemporain en art véritable, prouvant que la mélancolie peut être révoluti
 esthétiques.
 
 
-{{< carousel pictures="pictures/fabulous-sheep" alt="Fabulous Sheeep" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/fabulous-sheep" alt="Fabulous Sheeep" author="mkhelif" >}}
 
 Unis depuis quinze années, les Fabulous Sheep reviennent pour leur second passage au Poprock avec cette insistance qui
 révèle leur attachement au festival. Leur "rock tendu et nerveux" porte effectivement ce "désenchantement d'une jeunesse
@@ -66,7 +66,7 @@ rare dans un genre souvent prisonnier de ses clichés juvéniles. Leur retour in
 qui ont trouvé dans ce festival l'écrin parfait pour leur esthétique exigeante.
 
 
-{{< carousel pictures="pictures/stuck-in-the-sound" alt="Stuck in the Sound" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/stuck-in-the-sound" alt="Stuck in the Sound" author="mkhelif" >}}
 
 Têtes d'affiche de cette seconde soirée, les parisiens justifient leur statut avec "16 Dreams a Minute", double album
 qui incarne parfaitement cette "affaire de rupture, à l'image de notre époque".

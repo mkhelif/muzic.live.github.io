@@ -21,7 +21,7 @@ Le public, en nombre, profite d'une programmation riche et variée qui va du blu
 folk australienne.
 
 
-{{< carousel pictures="pictures/heritage" alt="Héritage" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/heritage" alt="Héritage" author="mkhelif" >}}
 
 Le groupe Héritage ouvre cette journée avec un groove impeccable, fruit d'une alchimie parfaite entre les générations.
 
@@ -34,7 +34,7 @@ Leur set, tout en nuances, est une introduction parfaite à cette journée, mett
 entre générations.
 
 
-{{< carousel pictures="pictures/leanwolf" alt="LeanWolf" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/leanwolf" alt="LeanWolf" author="mkhelif" >}}
 
 Le jeune prodige LeanWolf, originaire de Montpellier, monte ensuite sur scène sous une chaleur écrasante.
 
@@ -44,7 +44,7 @@ LeanWolf livre une performance impressionnante et termine son set par un gros co
 rapidement de la scène sous les acclamations du public.
 
 
-{{< carousel pictures="pictures/xavier-rudd" alt="Xavier Rudd" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/xavier-rudd" alt="Xavier Rudd" author="mkhelif" >}}
 
 Xavier Rudd transporte littéralement le public dans un autre monde.
 
@@ -61,7 +61,7 @@ Ses bras tatoués, son drapeau aborigène, et son mélange de folk, reggae et mu
 l'attachement de Rudd à ses racines et à la nature.
 
 
-{{< carousel pictures="pictures/rodrigo-y-gabriela" alt="Rodrigo y Gabriela" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/rodrigo-y-gabriela" alt="Rodrigo y Gabriela" author="mkhelif" >}}
 
 Le duo mexicain Rodrigo y Gabriela prend ensuite possession de la scène avec une énergie débridée.
 
@@ -75,7 +75,7 @@ Leurs solos endiablés et leur complémentarité parfaite captivent le public du
 performance un des moments les plus mémorables de la journée.
 
 
-{{< carousel pictures="pictures/francis-cabrel" alt="Francis Cabrel" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/francis-cabrel" alt="Francis Cabrel" author="mkhelif" >}}
 
 Francis Cabrel, véritable icône de la chanson française, offre un moment de pure nostalgie.
 
@@ -92,7 +92,7 @@ déclenchées par le public en leur honneur.
 Pas de grande surprise mais un set maitrisé et qui a tout pour plaire au public.
 
 
-{{< carousel pictures="pictures/nino-baliardo" alt="Nino Baliardo" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/nino-baliardo" alt="Nino Baliardo" author="mkhelif" >}}
 
 Pour clôturer cette journée, Nino Baliardo, fondateur des Gipsy Kings, transforme la fosse en une véritable piste de
 danse avec ses rythmes endiablés de rumba catalane et de flamenco.

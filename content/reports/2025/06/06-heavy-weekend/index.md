@@ -17,7 +17,7 @@ Le premier jour du Heavy Weekend a transformé le Zénith Open Air de Nancy en c
 allant du hard rock classique aux pyrotechnies power metal, en passant par l'indétrônable énergie de la NWOBHM.
 
 
-{{< carousel pictures="pictures/adrian-vandenberg" alt="Adrian Vandenberg" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/adrian-vandenberg" alt="Adrian Vandenberg" author="mkhelif" >}}
 
 Le guitar hero néerlandais Adrian Vandenberg a ouvert le bal avec sa tournée My Whitesnake Years, plongeant le public
 dans l'âge d'or du hard rock.
@@ -31,7 +31,7 @@ grâce intacte, soutenu par le chanteur Mats Levén, dont la voix rappelait étr
 Point fort : le solo de Here I Go Again, où la guitare a littéralement "mis le feu aux poudres" (jets de flammes inclus)
 
 
-{{< carousel pictures="pictures/battle-beast" alt="Battle Beast" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/battle-beast" alt="Battle Beast" author="mkhelif" >}}
 
 Les Finlandais de Battle Beast ont enchaîné avec un spectacle visuel et sonore époustouflant.
 
@@ -45,7 +45,7 @@ Deux titres inédits (Last Goodbye, Steelbound) ont offert un avant-goût de leu
 2025.
 
 
-{{< carousel pictures="pictures/saxon" alt="Saxon" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/saxon" alt="Saxon" author="mkhelif" >}}
 
 Les vétérans de Saxon ont prouvé pourquoi ils restent des piliers du metal.
 
@@ -55,7 +55,7 @@ récents (Hell, Fire and Damnation).
 Leur set a été une machine de guerre implacable, sans fioritures, rappelant que le metal se vit d'abord sur scène.
 
 
-{{< carousel pictures="pictures/powerwolf" alt="Powerwolf" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/powerwolf" alt="Powerwolf" author="mkhelif" >}}
 
 Clôture en apothéose avec Powerwolf, maîtres des shows pyrotechniques.
 

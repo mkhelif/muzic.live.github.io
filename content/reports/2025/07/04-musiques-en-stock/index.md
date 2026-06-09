@@ -19,7 +19,7 @@ punk, rock brut et électro-post-punk.
 Entre montagnes et moshpits, Scionzier a vibré jusqu’au bout de la nuit.
 
 
-{{< carousel pictures="pictures/crazy-jesse" alt="Crazy Jesse" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/crazy-jesse" alt="Crazy Jesse" author="mkhelif" >}}
 
 Ouverture émouvante avec Crazy Jesse, trio originaire de Scionzier, qui a offert une performance puissante et sincère.
 
@@ -31,7 +31,7 @@ Somewhere.
 Un set simple et authentique qui a réussi à électriser la foule.
 
 
-{{< carousel pictures="pictures/menades" alt="Ménades" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/menades" alt="Ménades" author="mkhelif" >}}
 
 Les Ménades ont ensuite déchaîné leur punk rock survolté, entre shoegaze et psyché déjantée.
 
@@ -43,7 +43,7 @@ le reste du groupe reprenait en chœur, déclenchant un mini-pogo.
 Entre Viagra Boys et Amyl & The Sniffers, les Ménades ont prouvé qu’ils/elles sont la révélation punk de l’année.
 
 
-{{< carousel pictures="pictures/kid-kapichi" alt="Kid Kapichi" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/kid-kapichi" alt="Kid Kapichi" author="mkhelif" >}}
 
 Les Britanniques de Kid Kapichi ont enchaîné avec un punk rock furieux et engagé.
 
@@ -56,7 +56,7 @@ Les pogos ont éclaté, et le public a repris en chœur leurs refrains revendica
 Un set cathartique, comme une thérapie collective contre la morosité ambiante.
 
 
-{{< carousel pictures="pictures/bloc-party" alt="Bloc Party" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/bloc-party" alt="Bloc Party" author="mkhelif" >}}
 
 Clôture en apothéose avec Bloc Party, venu célébrer les 20 ans de Silent Alarm.
 

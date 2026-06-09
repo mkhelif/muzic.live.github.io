@@ -18,7 +18,7 @@ par une même intensité.
 
 ## Eckhart : la machine humaine
 
-{{< carousel pictures="pictures/eckhart" alt="Eckhart" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/eckhart" alt="Eckhart" author="mkhelif" >}}
 
 Quand les deux membres d'Eckhart prennent place sur scène — un batteur et un chanteur —, on ne sait pas encore très bien
 à quoi s'attendre. Une voix traitée par des effets qui la déforment, la tordent, la rendent méconnaissable, et un
@@ -36,7 +36,7 @@ meubler l'attente.
 
 ## Last Train : l'incendie
 
-{{< carousel pictures="pictures/last-train" alt="Last Train" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/last-train" alt="Last Train" author="mkhelif" >}}
 
 Et puis Last Train arrive. Et tout explose.
 

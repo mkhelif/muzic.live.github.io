@@ -20,7 +20,7 @@ avoir été dessinée pour accueillir exactement ce type de musique. Pas de scè
 spectaculaire — juste un homme, sa guitare, sa voix, et l'acoustique naturelle d'un lieu de recueillement. On ne
 pouvait rêver meilleure scène pour Finnegan Tui.
 
-{{< carousel pictures="pictures/finnegan-tui" alt="Finnegan Tui" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/finnegan-tui" alt="Finnegan Tui" author="mkhelif" >}}
 
 Dès les premières notes, le Néo-Zélandais installe un silence particulier, celui qui ne s'impose pas mais qui s'offre.
 Sa voix, profonde et vibrante, emplit la nef avec une évidence désarmante. On le sent à fleur d'émotions, presque

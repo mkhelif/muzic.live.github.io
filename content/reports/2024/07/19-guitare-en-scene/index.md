@@ -21,7 +21,7 @@ Entre découvertes prometteuses et légendes établies, cette soirée a su capti
 le rock sous toutes ses formes.
 
 
-{{< carousel pictures="pictures/seven-ages" alt="Seven Ages" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/seven-ages" alt="Seven Ages" author="mkhelif" >}}
 
 Le quatuor Seven Ages a ouvert le bal avec un set qui, bien que prometteur sur le papier, a peiné à véritablement
 captiver la foule.
@@ -36,7 +36,7 @@ entrevoir une évolution vers des compositions plus travaillées.
 Cependant, il faudra attendre leur prochain EP pour voir si Seven Ages parvient à concrétiser cette promesse.
 
 
-{{< carousel pictures="pictures/larkin-poe" alt="Larkin Poe" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/larkin-poe" alt="Larkin Poe" author="mkhelif" >}}
 
 Les sœurs Rebecca et Megan Lovell, alias Larkin Poe, ont littéralement enflammé la scène avec leur blues rock viscéral
 et intense.
@@ -52,7 +52,7 @@ qui ont mis en évidence leur incroyable maîtrise.
 Larkin Poe a livré une performance captivante et envoutante.
 
 
-{{< carousel pictures="pictures/chris-isaak" alt="Chris Isaak" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/chris-isaak" alt="Chris Isaak" author="mkhelif" >}}
 
 Chris Isaak, véritable showman, a su conquérir le public avec une performance mêlant romantisme et rock’n’roll.
 
@@ -65,7 +65,7 @@ Il a aussi repris "Someone in Love" d’Elvis, ajoutant une touche de nostalgie 
 Son charisme naturel et sa voix chaude, qui n’a pas bougé avec les années, ont fait de son passage un moment mémorable.
 
 
-{{< carousel pictures="pictures/rival-sons" alt="Rival Sons" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/rival-sons" alt="Rival Sons" author="mkhelif" >}}
 
 Rival Sons a apporté une vague d’énergie pure sur scène tout en délivrant une performance d’une musicalité incroyable.
 
@@ -81,7 +81,7 @@ pour le live, capable de retranscrire en direct toute la force de leurs albums.
 Leur dernier concert en France pour cette tournée a été un triomphe.
 
 
-{{< carousel pictures="pictures/ko-ko-mo" alt="Ko Ko Mo" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/ko-ko-mo" alt="Ko Ko Mo" author="mkhelif" >}}
 
 Ko Ko Mo clôture la soirée avec un set survolté, démontrant une énergie brute qui a littéralement pris d'assaut la
 scène.

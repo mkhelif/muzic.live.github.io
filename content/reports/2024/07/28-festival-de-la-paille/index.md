@@ -21,7 +21,7 @@ diversifié et légèrement moins jeune que les soirées précédentes. Sous un 
 cette ultime soirée à guichets fermés a parachevé avec succès cette édition 2024.
 
 
-{{< carousel pictures="pictures/alfred-massaï" alt="Alfred Massaï" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/alfred-massaï" alt="Alfred Massaï" author="mkhelif" >}}
 
 C'est Alfred Massaï qui a eu l'honneur d'ouvrir cette dernière journée avec une proposition musicale délicate et
 raffinée. Accompagné de deux musiciens particulièrement polyvalents alternant entre piano, cuivres (trompette et
@@ -30,7 +30,7 @@ offert une palette sonore variée qui a captivé les premiers festivaliers, inst
 et intimiste. Un démarrage en douceur, comme pour mieux préparer le public aux émotions à venir.
 
 
-{{< carousel pictures="pictures/mentissa" alt="Mentissa" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/mentissa" alt="Mentissa" author="mkhelif" >}}
 
 La révélation de The Voice, Mentissa, a ensuite pris possession de la scène avec une présence scénique rayonnante.
 Visiblement heureuse d'être présente au festival, elle a tissé un lien authentique avec le public à travers ses
@@ -42,7 +42,7 @@ plusieurs reprises dont un "Rehab" d'Amy Winehouse particulièrement applaudi. U
 toucher un large public, au-delà des clivages générationnels.
 
 
-{{< carousel pictures="pictures/voyou" alt="Voyou" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/voyou" alt="Voyou" author="mkhelif" >}}
 
 Dans la continuité de cette soirée placée sous le signe de la variété française, Voyou a déployé sa pop aux textes
 ciselés, rappelant par moments l'univers de Philippe Katerine. Accompagné d'une formation complète (basse, piano,
@@ -51,7 +51,7 @@ paraître quelque peu redondants, le public, conquis d'avance, a savouré cette 
 s'inscrivait parfaitement dans la tonalité générale de cette dernière journée.
 
 
-{{< carousel pictures="pictures/pierre-de-maere" alt="Pierre de Maere" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/pierre-de-maere" alt="Pierre de Maere" author="mkhelif" >}}
 
 L'apparition de Pierre de Maere sur scène a considérablement fait monter la température du festival. Avec un show
 parfaitement rodé qui ne laissait rien au hasard (y compris les conditions photo, limitées à 5 clichés validés),
@@ -63,7 +63,7 @@ jour je marierai un ange", entonné à l'unisson par le public (et particulière
 scène), a constitué le point culminant d'un set aussi théâtral qu'efficace.
 
 
-{{< carousel pictures="pictures/johnny-mafia" alt="Johnny Mafia" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/johnny-mafia" alt="Johnny Mafia" author="mkhelif" >}}
 
 Véritable OVNI dans cette programmation variété française, le groupe punk rock Johnny Mafia, originaire de la ville
 voisine de Sens, a apporté une salutaire bouffée d'énergie brute. Avec des morceaux rappelant l'univers d'Offspring, le
@@ -73,7 +73,7 @@ déferlante sonore. Un choix de programmation audacieux qui a néanmoins permis 
 dernière journée.
 
 
-{{< carousel pictures="pictures/naaman" alt="Naaman" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/naaman" alt="Naaman" author="mkhelif" >}}
 
 Pour sa dernière date de tournée, Naaman a offert un set reggae particulièrement attendu par un public
 intergénérationnel. Alternant moments d'énergie collective et séquences plus intimistes, notamment lors d'un passage

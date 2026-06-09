@@ -20,7 +20,7 @@ nombreuses familles.
 La programmation riche et variée promet une clôture mémorable pour ce festival.
 
 
-{{< carousel pictures="pictures/kolinga" alt="Kolinga" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/kolinga" alt="Kolinga" author="mkhelif" >}}
 
 Kolinga ouvre la journée avec une performance vibrante.
 
@@ -35,7 +35,7 @@ Les échanges complices entre les musiciens et les moments d'humour ajoutent une
 performance.
 
 
-{{< carousel pictures="pictures/ladaniva" alt="Ladaniva" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/ladaniva" alt="Ladaniva" author="mkhelif" >}}
 
 Ladaniva enchaîne avec une prestation ensorcelante.
 
@@ -51,7 +51,7 @@ Les solos de trompette et saxophone, sont particulièrement puissants et captiva
 Une superbe découverte !
 
 
-{{< carousel pictures="pictures/keziah-jones" alt="Keziah Jones" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/keziah-jones" alt="Keziah Jones" author="mkhelif" >}}
 
 Keziah Jones, malgré quelques problèmes techniques initiaux, parvient rapidement à captiver la foule avec son rythme et
 son groove incomparables.
@@ -63,7 +63,7 @@ Passablement agacé par les différents problèmes techniques, il part de la sc�
 musiciens sont toujours en train de jouer laissant le public sans voix.
 
 
-{{< carousel pictures="pictures/faada-freddy" alt="Faada Freddy" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/faada-freddy" alt="Faada Freddy" author="mkhelif" >}}
 
 Faada Freddy apporte une ambiance beaucoup plus détendue et joyeuse.
 
@@ -77,7 +77,7 @@ tout au long de son set.
 Une incroyable performance pour ce showman !
 
 
-{{< carousel pictures="pictures/flavia-coelho" alt="Flavia Coelho" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/flavia-coelho" alt="Flavia Coelho" author="mkhelif" >}}
 
 Flavia Coelho clôt la journée avec une performance explosive.
 

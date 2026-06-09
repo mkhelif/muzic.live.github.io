@@ -20,7 +20,7 @@ Sur scène, des artistes légendaires côtoient de jeunes prodiges, offrant au p
 énergie brute et communion musicale.
 
 
-{{< carousel pictures="pictures/toby-lee" alt="Toby Lee" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/toby-lee" alt="Toby Lee" author="mkhelif" >}}
 
 Le jeune prodige Toby Lee, tout juste âgé de 19 ans, enflamme la scène dès les premières notes.
 
@@ -37,7 +37,7 @@ placés en lui.
 Un nom à retenir !
 
 
-{{< carousel pictures="pictures/dave-stewart" alt="Dave Stewart" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/dave-stewart" alt="Dave Stewart" author="mkhelif" >}}
 
 Dave Stewart, icône des années 80 avec Eurythmics, monte sur scène avec un groupe exclusivement féminin.
 
@@ -58,7 +58,7 @@ Dave Stewart clôture ainsi son set avec une performance mémorable, prouvant qu
 vibrer les cœurs des générations actuelles.
 
 
-{{< carousel pictures="pictures/marcus-miller" alt="Marcus Miller" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/marcus-miller" alt="Marcus Miller" author="mkhelif" >}}
 
 Marcus Miller, parrain de cette édition, débute son concert avec un jam session d’une fluidité incroyable.
 
@@ -82,7 +82,7 @@ Le public, captivé, réagit avec des applaudissements nourris à chaque passage
 C'est un moment de grâce musicale, une démonstration de l'art de l’improvisation à son plus haut niveau.
 
 
-{{< carousel pictures="pictures/nile-rodgers" alt="Nile Rodgers" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/nile-rodgers" alt="Nile Rodgers" author="mkhelif" >}}
 
 La soirée prend un tournant encore plus festif avec l’arrivée de Nile Rodgers, légende vivante du funk et maître des
 hits intemporels.

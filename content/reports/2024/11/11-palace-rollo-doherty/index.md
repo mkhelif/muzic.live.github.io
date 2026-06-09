@@ -15,7 +15,7 @@ britannique Palace, précédé par la première partie assurée par Rollo Dohert
 public nombreux et attentif dans la salle lausannoise.
 
 
-{{< carousel pictures="pictures/rollo-doherty" alt="Rollo Doherty" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/rollo-doherty" alt="Rollo Doherty" author="mkhelif" >}}
 
 C'est dans une ambiance feutrée que **Rollo Doherty** a ouvert la soirée. Seul sur scène avec sa guitare, le musicien
 britannique a proposé une folk planante et intimiste. Sa présence discrète, presque effacée, a créé un cocon sonore
@@ -27,7 +27,7 @@ qu'une première partie peut être bien plus qu'un simple passage obligé. Une b
 la scène folk britannique actuelle.
 
 
-{{< carousel pictures="pictures/palace" alt="Palace" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/palace" alt="Palace" author="mkhelif" >}}
 
 Dès leur entrée sur scène, **Palace** a immédiatement imposé son univers musical singulier. Le groupe londonien a
 déroulé un set généreux, alternant avec habileté entre compositions planantes, passages pop mélodiques et explosions

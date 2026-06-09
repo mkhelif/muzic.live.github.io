@@ -19,7 +19,7 @@ artiste qui refuse les facilités esthétiques pour explorer tous les territoire
 Accompagnée d'Ace G aux claviers et beatbox, et de John Mavro à la guitare, Saya Gray construit une architecture sonore
 qui alterne entre moments collectifs et passages en solo.
 
-{{< carousel pictures="pictures/saya-gray" alt="Saya Gray" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/saya-gray" alt="Saya Gray" author="mkhelif" >}}
 
 #### La maîtrise vocale et instrumentale
 

@@ -15,7 +15,7 @@ complémentaires : Le Phar et ASH. Cette soirée intimiste a offert un voyage mu
 plus grand plaisir d'un public conquis.
 
 
-{{< carousel pictures="pictures/lephar" alt="LePhar" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/lephar" alt="LePhar" author="mkhelif" >}}
 
 C'est l'artiste zurichois Le Phar qui a ouvert les festivités avec son électro sophistiquée. Installé derrière son
 clavier, il a navigué avec aisance entre passages pianistiques et productions EDM entraînantes. Sa présence décontractée
@@ -28,7 +28,7 @@ Le public, progressivement plus nombreux, s'est laissé porter par cette musique
 helvétique.
 
 
-{{< carousel pictures="pictures/ash" alt="ASH" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/ash" alt="ASH" author="mkhelif" >}}
 
 Le moment fort de la soirée est arrivé avec la prestation d'ASH, artiste originaire du Caire et désormais basé à
 Montréal. Dès les premières notes, la salle a été transportée dans un univers musical fascinant, fusionnant avec brio

@@ -18,7 +18,7 @@ débridé et légendes vivantes de la guitare. Un final en apothéose pour cette
 festival.
 
 
-{{< carousel pictures="pictures/younger-spirit" alt="Younger Spirit" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/younger-spirit" alt="Younger Spirit" author="mkhelif" >}}
 
 Le power trio Younger Spirit a ouvert la soirée avec un set énergique qui a immédiatement captivé. Leur fusion de blues
 et de rock 70's, inspirée par Stevie Ray Vaughan et John Mayer, a démontré une maturité impressionnante pour de si
@@ -26,7 +26,7 @@ jeunes musiciens. La symbiose entre les trois membres était palpable, créant c
 groupes de blues. Une belle découverte qui promet pour l'avenir.
 
 
-{{< carousel pictures="pictures/nik-west" alt="Nik West" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/nik-west" alt="Nik West" author="mkhelif" >}}
 
 Quelle explosion d'énergie avec Nik West ! La bassiste, vêtue d'une combinaison panthère rouge et d'épaulettes dorées, a
 enflammé la scène avec son funk débridé. Son jeu imparable, sa voix puissante et son énergie communicative ont
@@ -34,7 +34,7 @@ transformé le public en une mer dansante. Le quintet (batterie, clavier, guitar
 le souffle, prouvant pourquoi Nik West est considérée comme la reine des bassistes.
 
 
-{{< carousel pictures="pictures/santana" alt="Santana" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/santana" alt="Santana" author="mkhelif" >}}
 
 Carlos Santana, à 76 ans, a montré pourquoi il reste une légende vivante. Malgré une apparente fatigue (et son éternel
 chewing-gum), son jeu de guitare conserve cette magie unique qui fusionne blues, rock et rythmes latinos. Entouré de
@@ -42,7 +42,7 @@ neuf musiciens (deux batteries, percussions, claviers, cuivres et chœurs), le m
 enchanteur.
 
 
-{{< carousel pictures="pictures/orianthi" alt="Orianthi" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/orianthi" alt="Orianthi" author="mkhelif" >}}
 
 La guitariste australienne a clôturé le festival en beauté. Avec sa technique étourdissante et son groove implacable,
 Orianthi a démontré pourquoi elle a joué avec les plus grands (de Michael Jackson à Alice Cooper). Son trio (basse et

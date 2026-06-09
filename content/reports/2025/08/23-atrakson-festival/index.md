@@ -31,7 +31,7 @@ que les niveaux d'accomplissement varient considérablement.
 
 ## Bruno Obéron : la transmission familiale comme moteur
 
-{{< carousel pictures="pictures/bruno-oberon" alt="Bruno Obéron" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/bruno-oberon" alt="Bruno Obéron" author="mkhelif" >}}
 
 L'histoire touchante d'un père poussé par son fils à réaliser ses rêves musicaux ouvre cette seconde journée sur une
 note d'humanité rare.
@@ -47,7 +47,7 @@ notoriété médiatique.
 
 ## Fonkiture : la jeunesse funk sans complexe
 
-{{< carousel pictures="pictures/fonkiture" alt="Fonkiture" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/fonkiture" alt="Fonkiture" author="mkhelif" >}}
 
 Le jeune quatuor - Simon au clavier, Maximin à la basse, Baptiste à la batterie, Raphaëlle au chant - débarque avec un
 funk bien dansant et assument pleinement leur approche décomplexée du genre.
@@ -63,7 +63,7 @@ approche rafraîchissante dans un paysage parfois trop sérieux.
 
 ## Cinza : l'authenticité hip-hop instrumentée
 
-{{< carousel pictures="pictures/cinza" alt="Cinza" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/cinza" alt="Cinza" author="mkhelif" >}}
 
 Le rappeur, sans autotune, accompagné de basse et batterie propose une approche organique du hip-hop qui tranche avec
 les productions digitales saturées du genre.
@@ -78,7 +78,7 @@ Cinza rappelle ainsi que le rap français peut retrouver ses racines live sans p
 
 ## Gliz : l'innovation instrumentale parfois monotone
 
-{{< carousel pictures="pictures/gliz" alt="Gliz" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/gliz" alt="Gliz" author="mkhelif" >}}
 
 Formation atypique avec tuba/clavier, batterie et chant/guitare : Gliz propose un blues rock teinté de pop psyché porté
 par une innovation instrumentale remarquable. Le tubiste, pianiste, illustre parfaitement cette recherche d'hybridation
@@ -93,7 +93,7 @@ plénitude artistique.
 
 ## Marraine Coque : la puissance rock théâtralisée
 
-{{< carousel pictures="pictures/marraine-coque" alt="Marraine Coque" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/marraine-coque" alt="Marraine Coque" author="mkhelif" >}}
 
 Power trio augmenté de clavier/chant, Marraine Coque théâtralise immédiatement leur rock avec une scénographie soignée :
 tous habillés de blanc, seule la chanteuse porte une jupe rouge, masques blancs pour la première chanson.
@@ -111,7 +111,7 @@ proposer une expérience visuelle totale.
 
 ## Charlie Winston : une légende en tournée
 
-{{< carousel pictures="pictures/charlie-winston" alt="Charlie Winston" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/charlie-winston" alt="Charlie Winston" author="mkhelif" >}}
 
 La tête d'affiche internationale arrive avec son groupe au complet mais une voix fatiguée qui trahit l'épuisement des
 tournées mondiales.
@@ -138,7 +138,7 @@ scénique, transformant ce qui aurait pu être déception en moment d'humanité 
 
 ## 2097: l'énergie brute
 
-{{< carousel pictures="pictures/2097" alt="2097" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/2097" alt="2097" author="mkhelif" >}}
 
 ## Conclusion
 

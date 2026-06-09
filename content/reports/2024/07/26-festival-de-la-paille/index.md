@@ -23,7 +23,7 @@ au public de s'installer confortablement dans la pente pour profiter des concert
 qui jalonnent le site, le festival offre une ambiance conviviale et chaleureuse qui fait sa renommée.
 
 
-{{< carousel pictures="pictures/fat-jeff" alt="Fat Jeff" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/fat-jeff" alt="Fat Jeff" author="mkhelif" >}}
 
 C'est Fat Jeff qui a ouvert les festivités avec son blues rock trash. Seul en scène, armé de sa guitare, d'une
 grosse caisse et d'un tambourin actionnés au pied, ce one-man band inspiré par Seasick Steve a livré une prestation
@@ -32,7 +32,7 @@ cette flûte fabriquée à partir d'enjoliveurs), Fat Jeff dégage une sincérit
 musique, il déroule des rythmes entraînants, même si une certaine monotonie s'installe au fil de la prestation.
 
 
-{{< carousel pictures="pictures/ko-ko-mo" alt="Ko Ko Mo" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/ko-ko-mo" alt="Ko Ko Mo" author="mkhelif" >}}
 
 Le duo nantais Ko Ko Mo a pris la relève devant un public déjà bien présent pour ce début de festival. Moins déjanté
 que lors de leur passage à Guitare en Scène, le groupe a néanmoins livré une performance solide, puissante et maîtrisée.
@@ -40,7 +40,7 @@ Leur rock énergique a parfaitement lancé la soirée, même si l'on a parfois e
 y a un an, anecdotes comprises.
 
 
-{{< carousel pictures="pictures/seriously-serious" alt="Seriously Serious" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/seriously-serious" alt="Seriously Serious" author="mkhelif" >}}
 
 La surprise est venue de Seriously Serious, groupe suisse qui a débarqué en uniforme - chemises, pantalons et
 cravates blanches - pour délivrer un power rock sixties particulièrement efficace. Leur énergie communicative sur scène,
@@ -50,7 +50,7 @@ gâteau : le groupe s'est montré particulièrement accessible en fin de concert
 fans.
 
 
-{{< carousel pictures="pictures/matmatah" alt="Matmatah" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/matmatah" alt="Matmatah" author="mkhelif" >}}
 
 L'un des moments forts de cette première journée fut incontestablement le passage de Matmatah, clairement le groupe
 le plus attendu par le public. Avec un show parfaitement rodé et une voix impeccable, le groupe breton a enchaîné ses
@@ -61,7 +61,7 @@ notamment le biniou) fait toujours mouche, et le solo de batterie a impressionn�
 Moutons" a déchaîné un public déjà conquis.
 
 
-{{< carousel pictures="pictures/lofofora" alt="Lofofora" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/lofofora" alt="Lofofora" author="mkhelif" >}}
 
 Plus attendu que prévu, Lofofora a apporté sa dose de metal français à la Mass Hysteria, créant une ambiance
 survoltée. Avec des textes recherchés portés par des riffs puissants, le groupe a transformé la fosse en un immense pogo
@@ -69,7 +69,7 @@ quasi-permanent. Le titre "Machette", extrait de leur nouvel album "Cœur de Cib
 particulièrement marqué les esprits, tout comme "Justice Pour Tous" qui a conclu leur set en apothéose.
 
 
-{{< carousel pictures="pictures/asian-dub-foundation" alt="Asian Dub Foundation" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/asian-dub-foundation" alt="Asian Dub Foundation" author="mkhelif" >}}
 
 Pour clôturer cette première soirée, Asian Dub Foundation a déployé une énergie bien supérieure à celle montrée
 récemment au Vercors Music Festival - la météo clémente de Métabief y étant sans doute pour quelque chose. Le groupe a

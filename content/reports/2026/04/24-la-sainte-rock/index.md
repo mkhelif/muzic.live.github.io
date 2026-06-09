@@ -24,7 +24,7 @@ Salle, et un public clairement venu en découdre. Tour d'horizon d'une soirée q
 
 ## Wicked Elephant Revival — l'ouverture qui met le ton
 
-{{< carousel pictures="pictures/wicked-elephant-revival" alt="Wicked Elephant Revival" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/wicked-elephant-revival" alt="Wicked Elephant Revival" author="mkhelif" >}}
 
 Mission délicate que celle d'ouvrir un festival, surtout quand le public se compte encore et qu'il faut convaincre les
 premiers arrivés que la soirée vaut le déplacement. Wicked Elephant Revival a relevé le défi avec une assurance
@@ -35,7 +35,7 @@ la scène pour ce qu'elle est, un terrain de jeu sans filet. Le rythme était po
 
 ## Datcha Mandala — le power trio bordelais sort les crocs
 
-{{< carousel pictures="pictures/datcha-mandala" alt="Datcha Mandala" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/datcha-mandala" alt="Datcha Mandala" author="mkhelif" >}}
 
 Premier concert de l'année pour les Bordelais, et pourtant aucun signe d'hésitation. Datcha Mandala est arrivé avec la
 confiance qu'on accumule sur des centaines de scènes, et a balancé sans préambule un rock psyché lourdement teinté de
@@ -48,7 +48,7 @@ on a vu rarement aussi rodé. La grosse claque de l'apéritif.
 
 ## Loons — le rock brut, sans fard
 
-{{< carousel pictures="pictures/loons" alt="Loons" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/loons" alt="Loons" author="mkhelif" >}}
 
 Direction Montpellier avec Loons, autre power trio de la soirée, mais d'une tout autre nature. Là où Datcha Mandala
 ronronne dans le psyché-blues, Loons attaque frontalement, dans une esthétique de rock brut, dynamique, presque sans
@@ -60,7 +60,7 @@ trop polis ont parfois perdue. À suivre de près, parce que la matière est là
 
 ## SUN — la déflagration attendue
 
-{{< carousel pictures="pictures/sun-brutal-pop" alt="Sun Brutal Pop" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/sun-brutal-pop" alt="Sun Brutal Pop" author="mkhelif" >}}
 
 Quand SUN entre en scène, il n'y a plus de doute possible. Le growl de Karoline Rose s'impose dès les premières secondes
 comme une signature impossible à confondre. Les rythmiques sont entraînantes, fédératrices, taillées pour les festivals,
@@ -72,7 +72,7 @@ sérieuse du rock. SUN ne joue pas un concert, SUN organise une fête, et l'éca
 
 ## Catchy Peril — le rock qui fait danser
 
-{{< carousel pictures="pictures/catchy-peril" alt="Catchy Peril" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/catchy-peril" alt="Catchy Peril" author="mkhelif" >}}
 
 Changement d'ambiance avec Catchy Peril, formation à quatre — clavier, batterie, guitare, basse — qui mise tout sur le
 mouvement. Le set s'est révélé profondément dansant, exubérant dans le bon sens du terme, traversé de rythmes empruntés
@@ -84,7 +84,7 @@ la mise en scène, et accueilli avec la chaleur qu'il méritait.
 
 ## Cachemire — la communion en clôture
 
-{{< carousel pictures="pictures/cachemire" alt="Cachemire" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/cachemire" alt="Cachemire" author="mkhelif" >}}
 
 Et puis Cachemire, pour conclure la soirée et rappeler ce que le rock français sait faire quand il s'autorise à viser
 haut. Le concert a débuté par une entrée complètement ratée — l'un de ces moments d'ouverture qui auraient pu plomber la

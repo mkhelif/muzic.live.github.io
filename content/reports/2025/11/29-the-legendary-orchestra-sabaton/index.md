@@ -29,7 +29,7 @@ Pagans »… Les hymnes du groupe prennent une dimension nouvelle, portés par d
 refrains jusqu'à des proportions cathédraliques, tandis qu'un jeu de lumières absolument sublime transforme la scène en
 tableau vivant.
 
-{{< carousel pictures="pictures/the-legendary-orchestra" alt="The Legendary Orchestra" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/the-legendary-orchestra" alt="The Legendary Orchestra" author="mkhelif" >}}
 
 Le public lyonnais, conquis dès les premières notes, reprend les refrains à pleins poumons. Cette première partie ne
 cherche pas à voler la vedette, mais elle installe avec brio le ton de la soirée : ce soir, on écrit l'Histoire.
@@ -51,7 +51,7 @@ permettant aux musiciens de traverser l'arène et de se rapprocher du public. Qu
 apparaissent enfin, cachés sous des capes, escortés par des templiers en armure. L'entrée est théâtrale, grandiose,
 parfaitement chorégraphiée.
 
-{{< carousel pictures="pictures/sabaton" alt="Sabaton" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/sabaton" alt="Sabaton" author="mkhelif" >}}
 
 Ce qui suit est un déluge de sensations. Les flammes jaillissent des deux côtés de la scène, des coups de canon
 résonnent à faire trembler les murs, des dragons crachent du feu au-dessus du groupe, les explosions ponctuent les

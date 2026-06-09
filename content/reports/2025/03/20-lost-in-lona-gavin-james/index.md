@@ -14,7 +14,7 @@ Les Docks de Lausanne ont vibré au rythme des mélodies pop-folk de Gavin James
 Lost in Lona. Une soirée où l’émotion et l’authenticité ont pris le devant de la scène.
 
 
-{{< carousel pictures="pictures/lost-in-lona" alt="Lost in Lona" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/lost-in-lona" alt="Lost in Lona" author="mkhelif" >}}
 
 Le duo zurichois Lidia et Konstantin a ouvert la soirée avec une sobriété touchante.
 
@@ -31,7 +31,7 @@ Les voix entrelacées, les textes porteurs d’espoir et les mélodies pures ont
 Un moment salvateur, comme une respiration avant l’embrasement.
 
 
-{{< carousel pictures="pictures/gavin-james" alt="Gavin James" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/gavin-james" alt="Gavin James" author="mkhelif" >}}
 
 Puis est monté sur scène Gavin James, l’Irlandais au timbre d’or, et la magie a opéré dès les premières notes.
 

@@ -18,7 +18,7 @@ pop-rock et légendes du prog metal et de la guitare. Une soirée où la techniq
 moments magiques.
 
 
-{{< carousel pictures="pictures/saults" alt="Saults" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/saults" alt="Saults" author="mkhelif" >}}
 
 La soirée a commencé en trombe avec Saults, le duo fraternel français qui a insufflé une énergie communicative avec son
 pop-rock groovy. Leur set a immédiatement captivé grâce à une formation complète (saxo, trompette, guitare, batterie,
@@ -26,7 +26,7 @@ basse et clavier) et des harmonies vocales impeccables. Si la basse souffrait pa
 pourquoi ce groupe est considéré comme la révélation pop-rock française du moment.
 
 
-{{< carousel pictures="pictures/dream-theater" alt="Dream Theater" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/dream-theater" alt="Dream Theater" author="mkhelif" >}}
 
 Les maîtres du metal progressif, Dream Theater, ont offert une performance magistrale. Avec le retour de Mike Portnoy à
 la batterie, le groupe a retrouvé sa configuration classique pour un set tiré de leur nouvel album "Parasomnia". Le
@@ -44,7 +44,7 @@ sembler long et répétitif vers la fin, les moments de pure magie (comme leur r
 fans. Dommage que les autres musiciens n'aient pas été plus mis en avant.
 
 
-{{< carousel pictures="pictures/matteo-mancuso" alt="Matteo Mancuso" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/matteo-mancuso" alt="Matteo Mancuso" author="mkhelif" >}}
 
 Le jeune prodige italien a clôturé la soirée avec une démonstration de maîtrise technique époustouflante. Accompagné
 simplement d'une basse et d'une batterie, Mancuso a montré pourquoi il est considéré comme la révélation guitariste de

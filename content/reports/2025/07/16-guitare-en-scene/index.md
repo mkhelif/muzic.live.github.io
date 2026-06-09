@@ -19,7 +19,7 @@ Le festival Guitare en Scène a ouvert sa 15ème édition avec une programmation
 légendes new wave, offrant une première soirée riche en émotions musicales.
 
 
-{{< carousel pictures="pictures/rosaly" alt="Rosaly" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/rosaly" alt="Rosaly" author="mkhelif" >}}
 
 Le jeune quintette français Rosaly a magistralement lancé la soirée avec son rock progressif émotionnel.
 
@@ -33,14 +33,14 @@ Le public, visiblement conquis, a réservé un accueil chaleureux à cette rév�
 française.
 
 
-{{< carousel pictures="pictures/jango-janice" alt="Jango Janice" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/jango-janice" alt="Jango Janice" author="mkhelif" >}}
 
 En entracte, Jango Janice prend contrôle de la scène "Quartier Libre" du festival avec un groove jazz bien amené.
 
 Le public se rassemble en nombre autour de la scène. Bonne ambiance, bonne musique, voix sublime, que demander de plus.
 
 
-{{< carousel pictures="pictures/eagle-eye-cherry" alt="Eagle-Eye Cherry" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/eagle-eye-cherry" alt="Eagle-Eye Cherry" author="mkhelif" >}}
 
 L'atmosphère s'est apaisée avec l'arrivée d'Eagle-Eye Cherry.
 
@@ -50,7 +50,7 @@ Tonight") et perles moins connues.
 Le moment magique est venu lorsque tout le public a repris en chœur son hit légendaire, créant une communion parfaite.
 
 
-{{< carousel pictures="pictures/simple-minds" alt="Simple Minds" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/simple-minds" alt="Simple Minds" author="mkhelif" >}}
 
 C'est finalement avec la légende écossaise Simple Minds que la soirée a atteint son apogée.
 
@@ -66,7 +66,7 @@ site en une arène euphorique.
 La batteuse et guitariste ont particulièrement impressionné par leur vitalité scénique.
 
 
-{{< carousel pictures="pictures/dynamite-shakers" alt="Dynamite Shakers" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/dynamite-shakers" alt="Dynamite Shakers" author="mkhelif" >}}
 
 Les Vendéens de Dynamite Shakers ont ensuite enflammé la scène avec leur rock garage survolté.
 

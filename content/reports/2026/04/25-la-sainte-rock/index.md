@@ -22,7 +22,7 @@ phénomène new-yorkais.
 
 ## The Bundies — Le stoner aixois ouvre le bal
 
-{{< carousel pictures="pictures/the-bundies" alt="The Bundies" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/the-bundies" alt="The Bundies" author="mkhelif" >}}
 
 C'est la maison qui reçoit. Ces quatre vieux potes issus d'horizons musicaux différents, ayant partagé de nombreuses
 scènes par le passé, retrouvent leur territoire et leur public au 6MIC. Basse/chant pour Jérémy Begoin, deux guitares —
@@ -37,7 +37,7 @@ Tremplin The Band 2024 rappellent à ceux qui l'auraient oublié pourquoi ils on
 
 ## La Flemme — Marseille prend feu
 
-{{< carousel pictures="pictures/la-flemme" alt="La Flemme" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/la-flemme" alt="La Flemme" author="mkhelif" >}}
 
 Il suffit de les voir entrer sur scène pour comprendre que quelque chose va se passer. Ne vous fiez pas à leur nom : La
 Flemme, c'est quatre Marseillais déchaînés, un son garage pop sous tension, et une énergie qui retourne tout sur son
@@ -56,7 +56,7 @@ fulgurante — et ce soir, on comprend pourquoi.
 
 ## The Elephant Green — La texture avant tout
 
-{{< carousel pictures="pictures/the-elephant-green" alt="The Elephant Green" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/the-elephant-green" alt="The Elephant Green" author="mkhelif" >}}
 
 Trois guitares — dont une folk acoustique — basse et batterie. The Elephant Green construit un mur sonore plus
 atmosphérique, plus texturé. Le groupe prend son temps, installe ses paysages, cultive une profondeur que les formations
@@ -65,7 +65,7 @@ régime qui permet à la salle de se repositionner avant ce qui arrive.
 
 ## The Last Internationale — L'incendie
 
-{{< carousel pictures="pictures/the-last-internationale" alt="The Last Internationale" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/the-last-internationale" alt="The Last Internationale" author="mkhelif" >}}
 
 Il y a des concerts qui vous marquent pour des années. Celui de The Last Internationale ce soir au 6MIC est de ceux-là.
 
@@ -92,7 +92,7 @@ Je repars avec le vinyle, je n'avais pas le choix !
 
 ## Le Bleu — L'ingrat passage
 
-{{< carousel pictures="pictures/le-bleu" alt="Le Bleu" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/le-bleu" alt="Le Bleu" author="mkhelif" >}}
 
 Il faut être honnête : passer après The Last Internationale, ce soir-là, c'était une position impossible. Le Bleu —
 guitare, basse, batterie, chanteur — joue bien, joue juste, joue avec sérieux. Mais l'énergie n'est pas la même, et ça
@@ -102,7 +102,7 @@ soirs, l'ordre de passage est cruel.
 
 ## Deportivo — Le retour du fils prodigue
 
-{{< carousel pictures="pictures/deportivo" alt="Deportivo" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/deportivo" alt="Deportivo" author="mkhelif" >}}
 
 La soirée se referme sur une histoire de famille. En 2022, l'idée d'un come-back s'était matérialisée au travers d'une
 date à La Cigale de Paris. L'engouement était là. Le public, fait majoritairement d'ex-adolescents, avait répondu

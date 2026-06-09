@@ -18,7 +18,7 @@ d'affiche légendaire, et une programmation qui faisait la part belle à la scè
 
 ## Meuhstache
 
-{{< carousel pictures="pictures/meuhstache" alt="Meuhstache" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/meuhstache" alt="Meuhstache" author="mkhelif" >}}
 
 Meuhstache ouvre les hostilités. Premier passage du trio sur la scène du PTR, et déjà une présence qui s'impose. Deux
 guitares électriques, une batterie, et un chant habité : la formule est épurée, l'impact frontal. Le witchy stoner du
@@ -28,7 +28,7 @@ parfait.
 
 ## The Dungbeetle Conspiracy
 
-{{< carousel pictures="pictures/the-dungbeetle-conspiracy" alt="The Dungbeetle Conspiracy" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/the-dungbeetle-conspiracy" alt="The Dungbeetle Conspiracy" author="mkhelif" >}}
 
 The Dungbeetle Conspiracy prend le relais pour célébrer la sortie de son premier album éponyme. Quatre musiciens sur
 scène, basse-guitares-batterie, le dispositif classique du rock qui tache. Et ça fonctionne. Le quatuor genevois déroule
@@ -37,7 +37,7 @@ revendiquées se confirment sans jamais tomber dans le pastiche. Pas mal du tout
 
 ## Lofofora
 
-{{< carousel pictures="pictures/lofofora" alt="Lofofora" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/lofofora" alt="Lofofora" author="mkhelif" >}}
 
 Trente-cinq ans de carrière, et toujours cette capacité à mettre le feu. L'entrée en matière donne le ton : une
 bande-son hilarante qui détend l'atmosphère avant l'orage. Parce qu'ensuite, c'est le déluge. Le son est massif, les
@@ -49,7 +49,7 @@ grand Lofofora, fidèle à sa légende.
 
 ## SpaceBrain
 
-{{< carousel pictures="pictures/spacebrain" alt="SpaceBrain" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/spacebrain" alt="SpaceBrain" author="mkhelif" >}}
 
 Spacebrain hérite de la place la moins enviable : clôturer après un tel ouragan. Mission ingrate s'il en est, et la
 salle qui se vide progressivement en témoigne. Pourtant, le trio genevois assure avec conviction, déployant son heavy

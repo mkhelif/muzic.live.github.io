@@ -1,9 +1,8 @@
-<p class="small text-center text-muted mt-2 mb-4 d-print-none">
-    <small>&copy; Photos /
-        {{ if eq . "mkhelif.photo" }}
-            <a href="https://instagram.com/mkhelif.photo">Marwan Khelif</a>
-        {{ else if eq . "GES_luc.naville" }}
-            <a href="https://www.instagram.com/navilleluc">Luc Naville (GES)</a>
+{{- $author := . }}
+{{- with resources.Get "authors.json" | transform.Unmarshal -}}
+    <p class="small text-center text-muted mt-2 mb-4 d-print-none">
+        {{ with index . $author }}
+            <small>&copy; Photos / <a href="{{ .link }}" target="_blank">{{ .name }}</a></small>
         {{ end }}
-    </small>
-</p>
+    </p>
+{{- end -}}

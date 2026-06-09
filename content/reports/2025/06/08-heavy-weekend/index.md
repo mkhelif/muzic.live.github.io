@@ -19,7 +19,7 @@ enchaînées performances explosives et énergie pure.
 Une clôture à la hauteur de ce festival devenu incontournable.
 
 
-{{< carousel pictures="pictures/nothing-more" alt="Nothing More" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/nothing-more" alt="Nothing More" author="mkhelif" >}}
 
 Les texans de Nothing More ont ouvert les hostilités avec une énergie folle.
 
@@ -31,7 +31,7 @@ nominations aux Grammy Awards.
 Leur metal alternatif, à la fois technique et viscéral, a parfaitement préparé le terrain pour la suite.
 
 
-{{< carousel pictures="pictures/rise-of-the-northstar" alt="Rise Of The NorthStar" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/rise-of-the-northstar" alt="Rise Of The NorthStar" author="mkhelif" >}}
 
 Les Français de Rise of the Northstar ont ensuite pris possession de la scène avec leur mélange unique de metalcore et
 de rap.
@@ -45,7 +45,7 @@ Une performance qui confirme leur statut de phénomène underground.
 Les spectateurs (record d'affluence du weekend) ont transformé le site en une mer de crowdsurfers.
 
 
-{{< carousel pictures="pictures/mass-hysteria" alt="Mass Hysteria" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/mass-hysteria" alt="Mass Hysteria" author="mkhelif" >}}
 
 Avec Mass Hysteria, c'est un quart de siècle d'histoire du metal français qui a déferlé sur Nancy.
 

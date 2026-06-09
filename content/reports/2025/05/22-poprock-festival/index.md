@@ -24,7 +24,7 @@ L'exercice est ambitieux : démontrer que le rock, sous toutes ses formes, conse
 d'électrochoc émotionnel.
 
 
-{{< carousel pictures="pictures/showcave" alt="Showcave" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/showcave" alt="Showcave" author="mkhelif" >}}
 
 Le trio de Showcave ouvre les hostilités avec cette énergie débordante annoncée, mélangeant pop, punk et rock dans un
 chaos contrôlé qui fonctionne mieux qu'on ne l'attendait. Leur approche du brouillage de genres, loin d'être un
@@ -39,7 +39,7 @@ que l'éclectisme peut être une force créatrice plutôt qu'une faiblesse ident
 Dans le hangar intimiste de Gilly, cette approche décomplexée du métissage musical trouve son terrain de jeu idéal.
 
 
-{{< carousel pictures="pictures/madam" alt="MADAM" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/madam" alt="MADAM" author="mkhelif" >}}
 
 Les trois sauvages de Toulouse et Tarbes débarquent avec leur "rock sans filtre", formule marketing qui cache une
 réalité sonore implacable. Leurs riffs armés et leur chant puissant transforment effectivement le hangar en chambre de
@@ -53,7 +53,7 @@ Dans un paysage rock français souvent policé, MADAM rappelle que la fureur res
 pourvu qu'elle soit servie par une technique irréprochable.
 
 
-{{< carousel pictures="pictures/hey-satan" alt="Hey Satan" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/hey-satan" alt="Hey Satan" author="mkhelif" >}}
 
 Hey Satan, le power trio de Sion, fort de ses deux albums remarqués et de sa soixantaine de scènes conquises, opère sa
 mue avec cette nouvelle formation enrichie d'une basse supplémentaire. Cette évolution - une guitare en moins mais une
@@ -68,7 +68,7 @@ l'acoustique particulière du hangar vigneron un écrin parfait.
 artistique peut cohabiter avec l'énergie primitive.
 
 
-{{< carousel pictures="pictures/soen" alt="SOEN" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/soen" alt="SOEN" author="mkhelif" >}}
 
 Coup de cœur avoué du programmateur, le groupe de Martin Lopez et Joel Ekelof justifie pleinement cette distinction avec
 une démonstration de metal progressif qui élève immédiatement le niveau esthétique de la soirée.

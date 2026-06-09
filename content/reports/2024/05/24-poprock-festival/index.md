@@ -19,7 +19,7 @@ Il y à beaucoup plus de monde que la veille, surement le genre musical plus acc
 gens, et notamment plus de famille.
 
 
-{{< carousel pictures="pictures/tendinista" alt="Tendinista" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/tendinista" alt="Tendinista" author="mkhelif" >}}
 
 Tendinista ouvre les festivités, leur rock psychédélique, teinté de pop a créé un groove envoûtant qui a rapidement
 réchauffé l’atmosphère.
@@ -32,7 +32,7 @@ univers.
 Une ouverture parfaite pour lancer la soirée sur une note mélodique et immersive.
 
 
-{{< carousel pictures="pictures/the-clive" alt="The Clive" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/the-clive" alt="The Clive" author="mkhelif" >}}
 
 Le groupe biennois The Clive a ensuite pris le relais, injectant une dose massive d'énergie rock.
 
@@ -47,7 +47,7 @@ transformant la scène en une véritable fête endiablée.
 Une performance mémorable qui a su repousser les limites et captiver les fans, anciens comme nouveaux.
 
 
-{{< carousel pictures="pictures/storm-orchestra" alt="Storm Orchestra" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/storm-orchestra" alt="Storm Orchestra" author="mkhelif" >}}
 
 La scène a ensuite été secouée par Storm Orchestra, dont le rock moderne, soutenu par des riffs puissants et des
 refrains accrocheurs, a immédiatement capté l'attention.
@@ -60,7 +60,7 @@ Suspect » qui a fait vibrer la foule.
 Storm Orchestra a prouvé une fois de plus pourquoi ils sont en pleine ascension sur la scène rock actuelle.
 
 
-{{< carousel pictures="pictures/charlie-winston" alt="Charlie Winston" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/charlie-winston" alt="Charlie Winston" author="mkhelif" >}}
 
 La soirée s’est conclue de manière magistrale avec Charlie Winston, dont le set solo a été un véritable moment de grâce.
 

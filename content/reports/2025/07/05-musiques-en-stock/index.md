@@ -17,7 +17,7 @@ Le dernier jour du festival Musiques en Stock à Scionzier a offert une travers�
 hymnes rock planétaires, avec une programmation savamment dosée entre découvertes et légendes vivantes.
 
 
-{{< carousel pictures="pictures/nott" alt="Nótt" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/nott" alt="Nótt" author="mkhelif" >}}
 
 Le duo chambérien Nótt a ouvert cette dernière soirée avec son indie folk-rock minimaliste et poignant.
 
@@ -29,7 +29,7 @@ vulnérabilité assumée ont marqué les esprits.
 Un pari audacieux pour ce duo qui "tape fort quand ça bouillonne à l'intérieur".
 
 
-{{< carousel pictures="pictures/soft-loft" alt="Soft Loft" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/soft-loft" alt="Soft Loft" author="mkhelif" >}}
 
 Avec son indie pop mélancolique qualifiée d'« indie-quelque chose », le collectif suisse Soft Loft a ensorcelé le
 public.
@@ -42,7 +42,7 @@ idéal.
 Un moment de pure alchimie, où chaque note semblait "rafraîchir les choses brisées".
 
 
-{{< carousel pictures="pictures/the-royston-club" alt="The Royston Club" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/the-royston-club" alt="The Royston Club" author="mkhelif" >}}
 
 Les Gallois de The Royston Club ont enflammé la soirée avec leur rock énergique aux refrains hymniques.
 
@@ -54,7 +54,7 @@ dans les mines du Pays de Galles.
 Un groupe qui confirme son statut de valeur montante de la scène britannique.
 
 
-{{< carousel pictures="pictures/franz-ferdinand" alt="Franz Ferdinand" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/franz-ferdinand" alt="Franz Ferdinand" author="mkhelif" >}}
 
 Clôture magistrale avec Franz Ferdinand, qui a transformé le festival Musiques en Stock en piste de danse géante.
 

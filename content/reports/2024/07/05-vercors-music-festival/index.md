@@ -25,7 +25,7 @@ Entre les concerts, pendant les changements de scène, c’est le duo de DJs loc
 l'ambiance depuis le bar avec des mixes variés en fonction de l’ambiance de chaque soirée.
 
 
-{{< carousel pictures="pictures/clea-vincent" alt="Cléa Vincent" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/clea-vincent" alt="Cléa Vincent" author="mkhelif" >}}
 
 La soirée débute avec Cléa Vincent, qui, malgré un public encore clairsemé, réussi à captiver l'audience avec ses
 mélodies pop électro et ses textes inspirés.
@@ -35,7 +35,7 @@ et bossa nova.
 Sa gaieté est communicative et son talent indéniable, une belle entrée en matière pour le festival.
 
 
-{{< carousel pictures="pictures/h-burns" alt="H-Burns" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/h-burns" alt="H-Burns" author="mkhelif" >}}
 
 La scène accueille ensuite H-Burns, alias Renaud Brustlein, qui livre une prestation intense et émotive.
 
@@ -45,7 +45,7 @@ Le show est maitrisé à la perfection, et le groupe, originaire de la région, 
 festivaliers.
 
 
-{{< carousel pictures="pictures/pambele" alt="Pambelé" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/pambele" alt="Pambelé" author="mkhelif" >}}
 
 Entre ensuite en scène le collectif Pambelé.
 
@@ -57,7 +57,7 @@ Le groupe alterne habilement les musiques aux rythmes brésiliens et les mélodi
 pluie.
 
 
-{{< carousel pictures="pictures/les-wampas" alt="Les Wampas" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/les-wampas" alt="Les Wampas" author="mkhelif" >}}
 
 La soirée se conclue avec les inénarrables Wampas.
 

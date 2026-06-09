@@ -21,7 +21,7 @@ autant d'intensité.
 
 ## Laura Laffon — Le dancefloor s'éveille
 
-{{< carousel pictures="pictures/laura-laffon" alt="Laura Laffon" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/laura-laffon" alt="Laura Laffon" author="mkhelif" >}}
 
 Grâce à sa culture musicale variée, elle explore aisément différents styles et s'impose par ses mix créatifs et ses sets
 dynamiques, toujours en connexion avec son public. Ce soir, la DJ perpignanaise ouvre les festivités sur la grande scène
@@ -35,7 +35,7 @@ passé dix ans à lire des salles dans les Pyrénées-Orientales. Le public rép
 
 ## Juste Shani — La flow et la chair
 
-{{< carousel pictures="pictures/juste-shani" alt="Juste Shani" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/juste-shani" alt="Juste Shani" author="mkhelif" >}}
 
 La rappeuse essonnaise arrive avec un dispositif live complet — walkman, claviériste, guitariste — et ça change tout.
 Dans la ligue des rappeuses, Juste Shani est le talent brut sur lequel miser. Qu'elle chante ou qu'elle kicke, toujours
@@ -49,7 +49,7 @@ Shani ne cherche pas à dominer l'espace : elle l'habite. Vrai.
 
 ## Danakil — La nuit où le reggae a pleuré debout
 
-{{< carousel pictures="pictures/danakil" alt="Danakil" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/danakil" alt="Danakil" author="mkhelif" >}}
 
 Il y a des groupes qu'on n'a plus besoin de présenter, et d'autres qu'on n'a jamais vraiment fini de découvrir. Danakil
 appartient aux deux catégories à la fois. Vingt ans de scène, une discographie qui tient la route d'un album à l'autre,
@@ -67,7 +67,7 @@ décroché.
 
 ## Josman — Le volcan et ses zones d'ombre
 
-{{< carousel pictures="pictures/josman" alt="Josman" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/josman" alt="Josman" author="mkhelif" >}}
 
 La scène est habillée pour lui : un décor de lave éclairée, des flammes, quelque chose qui évoque un volcan en éruption.
 La mise en scène est impressionnante, la production soignée. L'intensité underground est là, la connexion avec le public
@@ -82,5 +82,5 @@ même temps. Ce soir, les deux coexistent.
 
 ## Petit Biscuit — Absent de cette chronique
 
-Encore une fois, la fatigue a eu le dernier mot. Petit Biscuit n'a pas eu notre chroniqueur.
+Encore une fois, la fatigue a eu le dernier mot. Je n'aurai finalement pas tenu jusqu'à Petit Biscuit.
 

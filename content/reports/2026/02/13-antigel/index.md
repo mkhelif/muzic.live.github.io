@@ -19,7 +19,7 @@ de l'auditoire, pour que la seconde puisse y planter ses crocs.
 
 ## Hinako Omori : l'art de la suspension
 
-{{< carousel pictures="pictures/hinako-omori" alt="Hinako Omori" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/hinako-omori" alt="Hinako Omori" author="mkhelif" >}}
 
 L'artiste japonaise basée à Londres s'installe sans cérémonie. Pas de grand geste, pas de posture. Juste une présence
 discrète derrière ses synthétiseurs, et une voix murmurante qui s'infiltre dans la salle comme un courant d'air tiède.
@@ -35,7 +35,7 @@ Car ce qui va suivre exige d'être reçu à cœur ouvert.
 
 ## Anna von Hausswolff : cathédrale de chair et de souffle
 
-{{< carousel pictures="pictures/anna-von-hausswolff" alt="Anna von Hausswolff" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/anna-von-hausswolff" alt="Anna von Hausswolff" author="mkhelif" >}}
 
 Puis la lumière baisse. Le saxophone solo d'Otis Sandsjö s'élève dans l'obscurité — un souffle rauque, presque
 chamanique, qui plante immédiatement le décor. Pas de bavardage, pas de transition polie : on bascule. L'intro installe

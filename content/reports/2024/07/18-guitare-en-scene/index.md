@@ -20,7 +20,7 @@ La première soirée du festival Guitare en Scène a accueilli une foule impatie
 Avec une jauge maximale de 5000 personnes, l’atmosphère était électrique dès les premières notes.
 
 
-{{< carousel pictures="pictures/paddang" alt="Paddang" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/paddang" alt="Paddang" author="mkhelif" >}}
 
 La soirée s’ouvre avec Paddang, groupe toulousain, lauréat du tremplin du festival.
 
@@ -32,7 +32,7 @@ répondre à l'urgence de vivre face à un monde en plein tumulte.
 Paddang, c’est l’essence même du garage-punk, une explosion d’énergie qui réveille les esprits.
 
 
-{{< carousel pictures="pictures/seasick-steve" alt="Seasick Steve" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/seasick-steve" alt="Seasick Steve" author="mkhelif" >}}
 
 Seasick Steve, vétéran des scènes du monde entier, prend ensuite place.
 
@@ -48,7 +48,7 @@ voyage musical intense.
 Sa musique, authentique et rugueuse, fait résonner l’esprit de la route et du sud des États-Unis.
 
 
-{{< carousel pictures="pictures/status-quo" alt="Status Quo" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/status-quo" alt="Status Quo" author="mkhelif" >}}
 
 Sur la grande scène, Status Quo attire la foule.
 
@@ -63,7 +63,7 @@ Le groupe, véritable monument du rock, prouve une fois de plus qu’il sait com
 aisance et un savoir-faire inégalés.
 
 
-{{< carousel pictures="pictures/axel-zimmerman" alt="Axel Zimmerman" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/axel-zimmerman" alt="Axel Zimmerman" author="mkhelif" >}}
 
 Entre deux décharges de rock, une parenthèse plus douce est offerte par Alex Zimmerman, qui investit l’espace chill du
 festival.
@@ -74,7 +74,7 @@ Sa musique, empreinte de sensibilité, offre un moment de répit aux festivalier
 grands noms du rock.
 
 
-{{< carousel pictures="pictures/john-fogerty" alt="John Fogerty" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/john-fogerty" alt="John Fogerty" author="mkhelif" >}}
 
 John Fogerty, légende vivante du rock, entre en scène sur une vidéo racontant ses débuts dans la musique.
 
@@ -91,7 +91,7 @@ Malgré quelques signes de fatigue, Fogerty reste un géant du rock, offrant une
 d’émotion.
 
 
-{{< carousel pictures="pictures/the-inspector-cluzo" alt="The Inspector Cluzo" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/the-inspector-cluzo" alt="The Inspector Cluzo" author="mkhelif" >}}
 
 La soirée se termine en apothéose avec The Inspector Cluzo, qui déploie une énergie phénoménale sur scène.
 

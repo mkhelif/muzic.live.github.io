@@ -18,7 +18,7 @@ Le Vercors Music Festival démarre pour sa deuxième journée sur une météo ca
 éclectique prometteuse.
 
 
-{{< carousel pictures="pictures/sarah-lenka" alt="Sarah Lenka" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/sarah-lenka" alt="Sarah Lenka" author="mkhelif" >}}
 
 Sarah Lenka ouvre cette journée avec une prestation qui, dès les premières notes, captive les spectateurs.
 
@@ -34,7 +34,7 @@ Elle réussi à transmettre une émotion brute et sincère, et les échanges sur
 connexion avec le public, créant une atmosphère intime et chaleureuse.
 
 
-{{< carousel pictures="pictures/el-gato-negro" alt="El Gato Negro" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/el-gato-negro" alt="El Gato Negro" author="mkhelif" >}}
 
 El Gato Negro prend le relais avec un set énergique et vibrant.
 
@@ -48,7 +48,7 @@ La prestation de Salif Diarra du Burkina Faso ajoute une dimension supplémentai
 festive et dynamique.
 
 
-{{< carousel pictures="pictures/massilia-sound-system" alt="Massilia Sound System" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/massilia-sound-system" alt="Massilia Sound System" author="mkhelif" >}}
 
 C’est ensuite aux marseillais de Massilia Sound System de monter sur scène.
 
@@ -67,7 +67,7 @@ autant.
 Leur set doit être interrompu car il pleut à torrent et ils ne pourront malheureusement pas terminer.
 
 
-{{< carousel pictures="pictures/danakil" alt="Danakil" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/danakil" alt="Danakil" author="mkhelif" >}}
 
 Danakil, malgré la pluie persistante, apporte une touche de chaleur et de positivité.
 
@@ -81,7 +81,7 @@ Les dix musiciens sur scène créent une harmonie qui enveloppe le public, même
 Les nouvelles chansons sont bien accueillies, et les classiques sont repris en chœur par tous.
 
 
-{{< carousel pictures="pictures/asian-dub-foundation" alt="Asian Dub Foundation" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/asian-dub-foundation" alt="Asian Dub Foundation" author="mkhelif" >}}
 
 La soirée se termine en apothéose avec Asian Dub Foundation.
 

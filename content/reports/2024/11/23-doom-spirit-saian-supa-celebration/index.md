@@ -16,7 +16,7 @@ première partie, le public a pu découvrir le duo lausannois Doom Spirit, pour 
 générations.
 
 
-{{< carousel pictures="pictures/doom-spirit" alt="Doom Spirit" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/doom-spirit" alt="Doom Spirit" author="mkhelif" >}}
 
 C'est au duo local Doom Spirit qu'est revenu l'honneur d'ouvrir la soirée. Représentants d'un hip-hop à l'ancienne
 directement inspiré des années 90, les deux rappeurs lausannois ont déployé un flow tranchant sur des instrumentales
@@ -31,7 +31,7 @@ L'authenticité de leur démarche artistique était palpable, notamment lorsqu'i
 projet "Sixfeetunda" mérite une écoute attentive pour les amateurs du genre.
 
 
-{{< carousel pictures="pictures/saian-supa-celebration" alt="Saïan Supa Celebration" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/saian-supa-celebration" alt="Saïan Supa Celebration" author="mkhelif" >}}
 
 L'arrivée sur scène des Saïan Supa Celebration a été marquée par un moment émouvant : la lecture d'un texte
 expliquant les raisons de l'arrêt du groupe original. Une introduction qui a immédiatement créé un lien fort avec un

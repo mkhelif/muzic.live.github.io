@@ -23,7 +23,7 @@ L'exercice ultime : conclure un festival par une leçon de persévérance artist
 universel.
 
 
-{{< carousel pictures="pictures/climax" alt="Climax" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/climax" alt="Climax" author="mkhelif" >}}
 
 Arrivé en retard pour le concert de Simone Ringer, j'entrevois juste les deux derniers morceaux du set de Climax.
 Cette longévité exceptionnelle, vingt ans à balancer avec ferveur et ironie leur rock sauvage et décalé, témoigne d'une
@@ -37,7 +37,7 @@ joyeuse et bordélique, profonde et déjantée aurait parfaitement incarné cett
 l'éclectisme en force créatrice.
 
 
-{{< carousel pictures="pictures/raw" alt="RAW" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/raw" alt="RAW" author="mkhelif" >}}
 
 Coup de cœur avoué du programmateur, Raphaël Alexandre Weber justifie pleinement cette distinction avec une
 démonstration de rock introspectif qui transforme l'intimité du hangar en confessionnal sonore. Son pseudonyme, brut,
@@ -53,7 +53,7 @@ Cette capacité à transformer la vulnérabilité en force créatrice révèle u
 difficile de l'authenticité sans complaisance.
 
 
-{{< carousel pictures="pictures/eagle-eye-cherry" alt="Eagle-Eye Cherry" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/eagle-eye-cherry" alt="Eagle-Eye Cherry" author="mkhelif" >}}
 
 Tête d'affiche de cette soirée finale, le fils de Don Cherry transforme son retour en Suisse en événement historique.
 "Back on Track", son sixième album studio sorti en 2023, confirme cette appréciation renouvelée des concerts née des

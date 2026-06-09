@@ -21,7 +21,7 @@ collectif, la jeunesse et la maturité, la simplicité nue et l'étoffe d'un gro
 
 ## Macie Stewart : l'art du dépouillement
 
-{{< carousel pictures="pictures/macie-stewart" alt="Macie Stewart" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/macie-stewart" alt="Macie Stewart" author="mkhelif" >}}
 
 Macie Stewart ouvre la soirée dans un dénuement radical. Seule sur scène avec sa guitare acoustique et sa voix, elle
 impose d'emblée un silence attentif dans la salle. Pas d'effets, pas de fioritures : juste une artiste et ses chansons.
@@ -37,7 +37,7 @@ d'une première partie réussie.
 
 ## Jeff Tweedy : la sérénité d'un maître folk
 
-{{< carousel pictures="pictures/jeff-tweedy" alt="Jeff Tweedy" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/jeff-tweedy" alt="Jeff Tweedy" author="mkhelif" >}}
 
 Quand Jeff Tweedy monte sur scène, accompagné d'une formation complète — guitare rythmique, clavier, violon, basse et
 batterie —, le contraste avec l'économie de moyens de Stewart est saisissant. Mais Tweedy n'est pas homme à en imposer

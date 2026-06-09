@@ -28,7 +28,7 @@ au plus spectaculaire.
 
 ## Follo : l'ouverture électronique planante
 
-{{< carousel pictures="pictures/follo" alt="Follo" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/follo" alt="Follo" author="mkhelif" >}}
 
 Le DJ ouvre cette première journée avec un live set électro house qui oscille entre planant et bass house, créant ces "
 rythmes envoûtants et dansants" nécessaires pour réveiller un public encore clairsemé. Cette configuration en début
@@ -40,7 +40,7 @@ cool" remplit parfaitement sa fonction : préparer le terrain pour les formation
 
 ## The Harbingerz : la résilience reggae-dub
 
-{{< carousel pictures="pictures/the-harbingerz" alt="The Harbingerz" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/the-harbingerz" alt="The Harbingerz" author="mkhelif" >}}
 
 Formation atypique avec batterie, deux basses, clavier et lyrics, The Harbingerz confirment que le reggae-dub peut
 transcender les configurations traditionnelles. Leur présence sur scène "malgré blessure au genou" témoigne d'une
@@ -53,7 +53,7 @@ physique et artistique peuvent devenir force scénique.
 
 ## Lou Beurier : l'énergie brute contre la finesse
 
-{{< carousel pictures="pictures/lou-beurier" alt="Lou Beurier" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/lou-beurier" alt="Lou Beurier" author="mkhelif" >}}
 
 Accompagnée de Charline et Adam aux guitares, Jules à la batterie, Lou Beurier à la basse présente les chansons de son
 premier album "L'heure idéale" (sortie prévue le 13 novembre) aux côtés de reprises stratégiques : "Starlight" de
@@ -68,7 +68,7 @@ construction qui privilégie la sincérité sur le vernis technique.
 
 ## Mad in Ska : la fraternité militante jurassienne
 
-{{< carousel pictures="pictures/mad-in-ska" alt="Mad in Ska" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/mad-in-ska" alt="Mad in Ska" author="mkhelif" >}}
 
 Formation pléthorique avec deux trompettes, saxophone, trombone, guitare, basse, chanteur, clavier et batterie : Mad in
 Ska incarne parfaitement le "ska made in Jura" avec cette impression d'être "avec une bande de potes". Leurs musiciens "
@@ -81,7 +81,7 @@ concert en célébration collective où l'engagement politique ne tue jamais la 
 
 ## Cotton Blood : le blues rock écorché
 
-{{< carousel pictures="pictures/cotton-blood" alt="Cotton Blood" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/cotton-blood" alt="Cotton Blood" author="mkhelif" >}}
 
 Le trio débarque avec un "blues rock assez énervé" porté par une "voix vraiment blues, écorchée" et "une basse bien
 appuyée". Cette approche brutale du blues, loin des sophistications habituelles du genre, révèle des musiciens qui
@@ -92,7 +92,7 @@ tout une musique de viscères, affaire d'intensité plutôt que de sophisticatio
 
 ## Marcel et son Orchestre : le burlesque engagé jusqu'à l'excès
 
-{{< carousel pictures="pictures/marcel-et-son-orchestre" alt="Marcel et son Orchestre" author="mkhelif.photo" >}}
+{{< carousel pictures="pictures/marcel-et-son-orchestre" alt="Marcel et son Orchestre" author="mkhelif" >}}
 
 Formation complète avec trompette, saxophone, clavier, batterie, basse, guitare et vocals : Marcel et son Orchestre
 clôture cette première journée avec un spectacle burlesque aux "rythmes hyper dansants". Leur approche du grotesque
