@@ -11,6 +11,10 @@ artists:
   - "5c962b05-0937-4731-8c1c-2221d1f255c8"
 socials:
   web: "https://dominum.bandcamp.com/album/night-is-calling"
+todo:
+  - Update subtitle
+  - Update rank
+  - Update socials
 ---
 
 Il y a des groupes qui font du metal, et il y a des groupes qui montent un spectacle de foire hanté avec des guitares.

@@ -16,6 +16,11 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+todo:
+  - Write report
+  - Update subtitle
+  - Update rank
+  - Update socials
 ---
 
 TODO
