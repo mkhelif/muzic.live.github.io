@@ -2,7 +2,7 @@
 date: 2026-06-05T17:30:00+02:00
 festival: "278a6614-85e9-4fb7-a0a6-bb408fcb3739"
 locationId: "73e73a54-9f04-4d46-ab08-824a19a88e54"
-title: "Heavy Weekend 2026 - Jour 1 - Dominum, Avantasia, Savatage, Sabaton"
+title: "Heavy Weekend 2026 - Jour 1 - DOMINUM, Avantasia, Savatage, Sabaton"
 cover: "pictures/sabaton/09.jpg"
 author: "mkhelif"
 rank: 10
@@ -19,11 +19,11 @@ machines du metal européen, en passant par deux légendes du heavy. Quatre grou
 ton est donné.
 
 
-## Dominum
+## DOMINUM
 
-{{< carousel pictures="pictures/dominum" alt="Dominum" author="mkhelif" >}}
+{{< carousel pictures="pictures/dominum" alt="DOMINUM" author="mkhelif" >}}
 
-C'est **Dominum** qui ouvre le bal, et le pari est gagné : là où bien des festivals peinent à remplir leur fosse pour le
+C'est **DOMINUM** qui ouvre le bal, et le pari est gagné : là où bien des festivals peinent à remplir leur fosse pour le
 premier groupe, celle-ci est déjà pleine. Les Allemands déroulent leur power metal théâtral — bassiste, guitariste et
 batteur grimés en morts-vivants, flammes à l'appui — avec une efficacité réjouissante. Du metal accessible, immédiat,
 premier degré et fier de l'être : exactement ce qu'on attend d'une mise en bouche. La troupe de Dr. Dead lance
