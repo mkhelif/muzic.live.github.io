@@ -50,7 +50,7 @@ artists:
   - "63a79335-6099-47c3-8ccf-78a91a33586f"
   - "c09d0d5e-3918-4c11-ae2c-c026c07868bb"
   - "14bfc179-ba8f-47d2-831c-872813affbf8"
-  - "3368a141-b4af-4988-9ec5-61d9eb050c67"
+  - "db1049f5-9152-4c51-87c4-8cadc3a68efa"
   - "45f82fc3-f12f-4d7d-9c70-8f20ce2abeb2"
   - "47de7a82-d10d-4bbb-b715-a021216d581f"
   - "218b5e82-5840-4fe2-bfaa-bbcb1c69e56d"

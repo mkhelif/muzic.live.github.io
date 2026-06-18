@@ -5,7 +5,6 @@ cover: "cover.jpg"
 socials:
   facebook: ""
 todo:
-  - Add picture
   - Add socials
   - Add description
 ---
