@@ -5,5 +5,7 @@ cover: ""
 todo:
   - Add cover
   - Add socials
-  - Add description
 ---
+
+Anan est un artiste musical dont les informations biographiques détaillées restent peu documentées dans les sources
+publiques disponibles. Son travail est présent sur les principales plateformes de streaming.
