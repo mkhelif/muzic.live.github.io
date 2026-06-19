@@ -4,8 +4,8 @@ title: "Absolutely"
 cover: "cover.jpg"
 socials:
   facebook: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 ---
+
+Absolutely est un projet musical dont les détails biographiques restent peu documentés dans les sources
+disponibles. La formation est référencée sur les plateformes de streaming principales, où ses productions
+sont accessibles aux auditeurs curieux.

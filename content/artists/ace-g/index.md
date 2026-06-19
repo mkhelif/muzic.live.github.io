@@ -5,3 +5,6 @@ cover: "cover.jpg"
 socials:
   instagram: "ace_g__"
 ---
+
+Ace G est un artiste musical actif sur les réseaux sociaux et les plateformes de streaming. Sa musique
+est disponible sur les principales plateformes de streaming.
