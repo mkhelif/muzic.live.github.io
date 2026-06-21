@@ -64,8 +64,8 @@ son est puissant, parfaitement équilibré, et chaque morceau déclenche une nou
 
 Le point culminant reste sans doute cette impressionnante succession de slams : pendant plusieurs morceaux, des dizaines
 de festivaliers traversent simultanément la foule, au point que les agents de sécurité peinent à suivre le rythme. Comme
-si cela ne suffisait pas, un immense ballon représentant un visage décharné fait son apparition au-dessus de la scène,
-ajoutant une touche spectaculaire à un concert déjà incandescent.
+si cela ne suffisait pas, un immense ballon représentant le monstre de la pochette de l'album fait son apparition
+au-dessus de la scène, ajoutant une touche spectaculaire à un concert déjà incandescent.
 
 En gardant ses classiques pour la fin, **Trivium** achève de chauffer un public désormais prêt à exploser.
 
