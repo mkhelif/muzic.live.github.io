@@ -6,7 +6,7 @@
         <title>{{ .Site.Title }}</title>
         <link>{{ .Permalink }}</link>
         <description>{{ .Site.Title }}</description>
-        <language>{{ site.Language.LanguageCode }}</language>
+        <language>{{ site.Language.Locale }}</language>
         <managingEditor>hello@muzic.live (Muzic.Live)</managingEditor>
         <webMaster>hello@muzic.live (Muzic.Live)</webMaster>
         <copyright>Muzic.Live</copyright>
