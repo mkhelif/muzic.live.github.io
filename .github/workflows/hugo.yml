@@ -9,6 +9,7 @@ on:
   # Runs daily at 02:00
   schedule:
     - cron: "0 2 * * *"
+      timezone: "Europe/Paris"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
