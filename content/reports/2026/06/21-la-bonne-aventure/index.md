@@ -1,24 +1,28 @@
 ---
-date: 2026-06-21T14:00:00+02:00
+date: 2026-06-20T14:00:00+02:00
 festival: "73887e4b-18c8-457e-bc25-76d9b6b0446f"
 locationId: "34fd93f5-cb0c-4e6c-b2ad-03ee59befdf1"
-title: "La Bonne Aventure 2026 - Jour 3 - Pambelé, Pomme, Bekar, Perceval"
+title: "La Bonne Aventure 2026 - Jour 2 - Pambelé, Pomme, Bekar, Perceval"
 cover: "pictures/perceval/13.jpg"
 author: "kdeleplace"
 rank: 10
 artists:
-  - "30239c09-880b-4355-a74b-3009ab0f27bd"
-  - "1d1d5856-ac52-4a79-9a23-034e93a4be17"
-  - "ef46fe31-e4f2-4990-8756-4673f23ff8a3"
-  - "e656e2ef-2938-4d71-b01c-ede9c71adf72"
-  - "ce8552c1-2ae5-4705-968d-ef11b1922760"
-  - "1af8b291-a23f-4aa2-a438-6e1a14c824c0"
-  - "c6a3424d-ab0c-4f1e-a18e-3d84339da4b9"
-  - "f07f7b0e-2c8e-4fa9-96b4-2ff5b0f15921"
-  - "4a70ac2e-98cc-4373-84a3-127915030a5f"
-  - "f71f4f31-e3ba-4b31-8728-afba07c14905"
-  - "1ee1e1b1-f1d6-4b91-b11d-87acdf5b9167"
-  - "75df4267-d6bd-48e8-9069-a2e5ff6cbb01"
+  - "1e747794-65bf-438b-a470-370b79c248bb"
+  - "6eecc727-03d0-44f0-9327-731c743f4e2e"
+  - "f3bfa42c-fb01-4f3a-a508-209ccf77fd75"
+  - "25c9cdb3-3d7a-4110-818b-539eca6d05a6"
+  - "1b90ab15-5509-43a4-9594-340419a1185e"
+  - "555360f9-f060-4542-965f-2c85a292139f"
+  - "d1d20015-0098-4475-b771-edd1fd077292"
+  - "3e64b6ad-426d-4101-b382-a89d99fa8eea"
+  - "ee55e51d-ba98-4bfb-83a6-7037a5f950c8"
+  - "da08a7a4-fcda-4755-bdb7-da8536ba9fb5"
+  - "9efc2107-dbd5-459b-8d06-8e4ff18ab858"
+  - "d9a05d8c-90ad-46c1-8a8e-61327803c863"
+  - "76ec1edb-7cb0-4ce1-abdc-df101d13c410"
+  - "851c82d2-0879-4884-861a-f209dd295627"
+  - "0af1f4d5-1354-45e7-bb15-e1e45fc18099"
+  - "f7b7e5db-43ac-45ea-9ff8-bc2a16482391"
 ---
 
 Du vendredi 19 au dimanche 21, Dunkerque a vécu au rythme de La Bonne Aventure, festival gratuit porté par l’association
