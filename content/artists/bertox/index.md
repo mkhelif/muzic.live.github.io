@@ -4,8 +4,8 @@ title: "Bertox"
 cover: "cover.jpg"
 socials:
   facebook: ""
-todo:
-  - Add picture
-  - Verify and add socials
-  - Add detailed description
 ---
+
+Bertox est un artiste de musique électronique présent sur les plateformes de streaming et de mix en ligne. Son
+activité, documentée sur SoundCloud, Mixcloud et Discogs, s'inscrit dans le champ de la musique électronique de
+club. Les informations biographiques détaillées restent peu disponibles publiquement.
