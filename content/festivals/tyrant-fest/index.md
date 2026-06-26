@@ -36,5 +36,3 @@ Le Tyrant Fest, c'est la preuve qu'un festival spécialisé peut devenir culte. 
 a fédéré une communauté fidèle autour d'une programmation pointue, de têtes d'affiche prestigieuses et d'une ambiance
 unique. Installé désormais à L'Aéronef, il aborde sa deuxième décennie avec l'ambition intacte de faire résonner, chaque
 automne, les musiques les plus extrêmes.
-
-{{< carousel pictures="pictures" alt="Tyrant Fest" reverse="true" >}}
