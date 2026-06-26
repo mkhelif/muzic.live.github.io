@@ -1,6 +1,7 @@
 ---
 date: 2025-09-16T14:30:00+02:00
 title: "SOEN explore les frontières de l'humanité avec Reliance"
+category: "album"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:

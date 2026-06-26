@@ -1,9 +1,10 @@
 ---
 date: 2026-04-01T10:00:00+02:00
-festival: "1e091511-4a09-491d-92c7-50510b8f3911"
 title: "Montreux Jazz Festival 2026 : de RAYE à Nick Cave, une programmation magistrale pour la 60e édition"
+category: "festival"
 cover: "cover.jpg"
 hero: "hero.jpg"
+festival: "1e091511-4a09-491d-92c7-50510b8f3911"
 artists:
   - "84497f6b-27d2-4db8-8577-e043406e7db9"
   - "a32488b7-3bac-4cd4-b091-e40932e3d85c"

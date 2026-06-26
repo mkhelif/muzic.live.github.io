@@ -1,6 +1,7 @@
 ---
 date: 2026-04-08T14:00:00+02:00
 title: "Nine Inch Nails x Boys Noize : l'album collaboratif \"Nine Inch Noize\" arrive le 17 avril"
+category: "album"
 cover: "cover.jpg"
 artists:
   - "93941635-085e-474e-a4d4-de7b0db62487"

@@ -1,6 +1,7 @@
 ---
 date: 2025-10-18T12:00:00+02:00
 title: "Nothing More revisite \"We're In This Together\" de Nine Inch Nails : onze ans de gestation pour un hommage cathartique"
+category: "metal"
 cover: "cover.jpg"
 artists:
   - "21153c85-31ee-49db-8602-4f2512eca983"

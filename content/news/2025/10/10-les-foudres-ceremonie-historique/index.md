@@ -1,6 +1,7 @@
 ---
 date: 2025-10-10T09:45:00+02:00
 festival: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
+category: "event"
 locationId: "34e0610f-b590-459c-9161-966d820ca3e9"
 title: "Les Foudres : Le metal français célèbre sa première cérémonie historique"
 cover: "cover.jpg"

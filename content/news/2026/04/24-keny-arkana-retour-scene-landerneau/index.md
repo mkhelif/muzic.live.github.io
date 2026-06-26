@@ -1,8 +1,9 @@
 ---
 date: 2026-04-24T14:00:00+02:00
-festival: "7c3db4f6-8d32-4af1-9199-1e4d147e22af"
 title: "Keny Arkana : son grand retour sur scène à la Fête du Bruit Landerneau"
+category: "festival"
 cover: "cover.jpg"
+festival: "7c3db4f6-8d32-4af1-9199-1e4d147e22af"
 artists:
   - "2673a00b-94ae-4191-9b76-5b8ed2b44b74"
 ---

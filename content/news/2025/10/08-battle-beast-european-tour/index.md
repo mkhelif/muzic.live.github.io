@@ -1,6 +1,7 @@
 ---
 date: 2025-10-11T14:30:00+02:00
 title: "Battle Beast : la tournée européenne sur le point de commencer"
+category: "tour"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:

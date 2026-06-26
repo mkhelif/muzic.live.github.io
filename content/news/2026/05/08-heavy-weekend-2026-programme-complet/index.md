@@ -1,8 +1,9 @@
 ---
 date: 2026-05-08T10:00:00+02:00
-festival: "278a6614-85e9-4fb7-a0a6-bb408fcb3739"
 title: "Heavy Weekend 2026 : Gojira, Electric Callboy et Trivium en têtes d'affiche à Lyon"
+category: "festival"
 cover: "cover.jpg"
+festival: "278a6614-85e9-4fb7-a0a6-bb408fcb3739"
 artists:
   - "e9cf3934-7712-4cfe-98e2-99dfe4d51de6"
   - "74dd96c3-2ca5-4548-b0b0-6d9718ecb76a"

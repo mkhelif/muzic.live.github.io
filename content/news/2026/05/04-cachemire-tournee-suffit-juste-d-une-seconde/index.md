@@ -1,6 +1,7 @@
 ---
 date: 2026-05-04T10:00:00+02:00
 title: "Cachemire en tournée : \"Suffit juste d'une seconde\" prend la route"
+category: "tour"
 cover: "cover.jpg"
 artists:
   - "c1ee1791-6f40-4d6a-9ebc-1ef6691f2968"

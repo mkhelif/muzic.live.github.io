@@ -1,6 +1,7 @@
 ---
 date: 2025-09-30T10:00:00+02:00
 title: Soft Loft s'apprête à conquérir l'Europe avec la tournée \"Modern Roses\""
+category: "tour"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:

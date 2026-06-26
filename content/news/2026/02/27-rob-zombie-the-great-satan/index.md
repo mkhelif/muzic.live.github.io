@@ -1,6 +1,7 @@
 ---
 date: 2026-02-27T10:00:00+01:00
 title: "Rob Zombie : \"The Great Satan\", un retour incendiaire aux racines Hellbilly"
+category: "album"
 cover: "cover.jpg"
 artists:
   - "a1504ced-de9d-417a-ad84-4d17f15008f5"

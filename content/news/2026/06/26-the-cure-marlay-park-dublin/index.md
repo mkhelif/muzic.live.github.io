@@ -1,6 +1,7 @@
 ---
 date: 2026-06-26T20:00:00+01:00
 title: "The Cure à Dublin : une nuit à Marlay Park et un nouvel album dans les tiroirs"
+category: "concert"
 cover: "cover.jpg"
 artists:
   - "6ea006ab-c5af-4b67-b801-2379d013495b"

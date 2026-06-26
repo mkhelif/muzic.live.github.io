@@ -1,6 +1,7 @@
 ---
 date: 2026-03-06T14:00:00+01:00
 title: "Megadeth : les dates du Farewell Tour dévoilées, de l'Amérique du Sud à l'Europe"
+category: "tour"
 cover: "cover.jpg"
 artists:
   - "c09d0d5e-3918-4c11-ae2c-c026c07868bb"

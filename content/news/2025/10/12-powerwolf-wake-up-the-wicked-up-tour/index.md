@@ -1,6 +1,7 @@
 ---
 date: 2025-10-12T17:30:00+02:00
 title: "Powerwolf annonce le \"Wake Up The Wicked Tour 2026\" : une messe de heavy metal à travers l'Europe"
+category: "tour"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:

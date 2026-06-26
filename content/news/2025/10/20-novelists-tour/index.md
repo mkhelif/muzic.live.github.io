@@ -1,6 +1,7 @@
 ---
 date: 2025-10-20T10:00:00+02:00
 title: "Novelists annonce le \"Coda Tour 2026\" : 7 concerts en France pour célébrer son nouvel album"
+category: "tour"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:

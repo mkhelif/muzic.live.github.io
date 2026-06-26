@@ -1,6 +1,7 @@
 ---
 date: 2025-08-02T14:30:00+02:00
 title: "Sabaton : retour en force avec un nouvel album"
+category: "album"
 cover: "cover.jpg"
 hero: "hero.jpg"
 artists:

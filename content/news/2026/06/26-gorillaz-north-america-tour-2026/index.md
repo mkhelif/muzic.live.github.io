@@ -1,6 +1,7 @@
 ---
 date: 2026-06-26T10:00:00+02:00
 title: "Gorillaz annoncent une tournée nord-américaine de 22 dates cet automne avec Little Simz et Deltron 3030"
+category: "tour"
 cover: "cover.jpg"
 artists:
   - "fea25d25-20e4-4847-b9a8-90f4e319e569"

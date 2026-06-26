@@ -1,9 +1,9 @@
 ---
 date: 2026-03-12T10:00:00+02:00
-festival: "13e59726-a669-48a1-93ad-d52d04e4f44f"
-title: 'Guitare en Scène 2026 : cinq nouveaux noms pour compléter une affiche déjà
-  éblouissante'
+title: "Guitare en Scène 2026 : cinq nouveaux noms pour compléter une affiche déjà éblouissante"
+category: "festival"
 cover: "cover.jpg"
+festival: "13e59726-a669-48a1-93ad-d52d04e4f44f"
 artists:
   - "62ef5fde-be61-43c1-8f65-ae931f5f16c7"
   - "d10e8b72-f8e5-40f6-92f7-a8f8d6f7a90b"

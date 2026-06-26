@@ -1,7 +1,8 @@
 ---
 date: 2025-10-13T11:00:00+02:00
-festival: "13e59726-a669-48a1-93ad-d52d04e4f44f"
 title: "Guitare en Scène 2026 : Le Tremplin ouvre ses portes aux talents émergents"
+category: "festival"
+festival: "13e59726-a669-48a1-93ad-d52d04e4f44f"
 cover: "cover.jpg"
 hero: "hero.jpg"
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2026-01-30T10:00:00+02:00
 title: "Nightwish : l'expérience orchestrale Yesterwynde arrive à Helsinki"
+category: "concert"
 cover: "cover.jpg"
 artists:
   - "342c20ce-7676-46c2-ad34-7bcf8ffa63ec"

@@ -1,6 +1,7 @@
 ---
 date: 2026-03-13T10:00:00+01:00
 title: "Lamb of God : \"Into Oblivion\" pulvérise les charts et lance une tournée nord-américaine"
+category: "album"
 cover: "cover.jpg"
 artists:
   - "7efd460b-9eb3-42ed-aa54-2a538ac96902"

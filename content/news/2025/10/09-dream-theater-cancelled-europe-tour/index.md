@@ -1,6 +1,7 @@
 ---
 date: 2025-10-09T10:30:00+02:00
 title: "Dream Theater annule sa tournée européenne 2026 : \"Parfois les plans changent\""
+category: "tour"
 cover: "cover.jpg"
 artists:
   - "d224b882-ac24-47f6-9adb-80e8dedc4ee9"

@@ -1,6 +1,7 @@
 ---
 date: 2026-02-11T10:00:00+02:00
 title: "Le metal français s'exporte : cinq groupes hexagonaux à suivre en 2026"
+category: "metal"
 cover: "cover.jpg"
 artists:
   - "61adbeb6-1210-4a8c-949f-8b2bcfd2d222"
