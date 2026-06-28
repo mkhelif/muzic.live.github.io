@@ -1,0 +1,9 @@
+.input-group {
+    border: 1px solid $input-border-color;
+    border-radius: $input-border-radius;
+}
+
+.input-group-text {
+    font-size: 0.75em;
+    padding: $input-group-addon-padding-y 0 $input-group-addon-padding-y $input-group-addon-padding-x;
+}

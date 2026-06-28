@@ -1,29 +1,37 @@
 <div class="bg-primary text-dark p-2 p-sm-4 mt-5 small">
-    <div class="container d-flex justify-content-evenly">
-        <div class="mx-2 mx-sm-5">
-            <a href="/">
-                <img class="d-block d-sm-none" src="/logo.png" width="80px" alt="{{ .Site.Title }}" />
-                <img class="d-none d-sm-block" src="/logo.png" width="96px" alt="{{ .Site.Title }}" />
-            </a>
-        </div>
+    <div class="d-flex flex-column flex-md-row justify-content-between mx-3 mt-2 mt-sm-0">
+        <div>
+            <a href="/" class="text-dark fs-2 fw-bolder">{{ .Site.Title }}</a>
 
-        <div class="flex-grow-1 d-none d-sm-block"></div>
-
-        <div class="mt-4 mx-2 mx-sm-5">
-            <h6 class="fw-semibold">À propos</h6>
-            <p class="mb-1"><a class="text-dark" href="/recruitment">Nous rejoindre</a></p>
-            <p class="mb-1"><a class="text-dark" href="/legal/conditions-of-use">Conditions d'utilisation</a></p>
-        </div>
-
-        <div class="mt-4 mx-2 mx-sm-5">
-            <h6 class="fw-semibold">
-                <a class="text-dark" href="/contact">Nous contacter</a>
-            </h6>
-            <p class="fs-3">
-                <a class="text-dark" target="_blank" rel="noopener noreferrer" href="https://instagram.com/muzic.live_"><i class="fab fa-instagram"></i></a>
-                <a class="text-dark" target="_blank" rel="noopener noreferrer" href="/feed.xml"><i class="fa fa-rss-square"></i></a>
-                <a class="text-dark" target="_blank" rel="noopener noreferrer" href="mailto:hello@muzic.live"><i class="fa fa-envelope"></i></a>
+            <p>
+                Actus, concerts, albums, photos : le webzine qui raconte les musiques vivantes au plus près de la scène.
             </p>
+        </div>
+
+        <div class="my-3 d-flex flex-row flex-wrap justify-content-between">
+            <div class="ms-0 ms-sm-5 me-3">
+                <h6 class="font-monospace text-uppercase small">Rubriques</h6>
+                <p class="mb-1"><a class="text-dark" href="/reports">Chroniques</a></p>
+                <p class="mb-1"><a class="text-dark" href="/artists">Artistes</a></p>
+                <p class="mb-1"><a class="text-dark" href="/albums">Albums</a></p>
+                <p class="mb-1"><a class="text-dark" href="/festivals">Festivals</a></p>
+            </div>
+
+            <div class="ms-0 ms-sm-5 me-3">
+                <h6 class="font-monospace text-uppercase small">Le webzine</h6>
+                <p class="mb-1"><a class="text-dark" href="/contact">Nous contacter</a></p>
+                <p class="mb-1"><a class="text-dark" href="/legal/conditions-of-use">Conditions d'utilisation</a></p>
+                <p class="mb-1"><a class="text-dark" href="/recruitment">Nous rejoindre</a></p>
+            </div>
+
+            <div class="ms-0 ms-sm-5">
+                <h6 class="font-monospace text-uppercase small">Suivez-nous</h6>
+                <p class="fs-5">
+                    <a class="text-dark" target="_blank" rel="noopener noreferrer" href="https://instagram.com/muzic.live_"><i class="fab fa-instagram"></i></a>
+                    <a class="text-dark" target="_blank" rel="noopener noreferrer" href="/feed.xml"><i class="fa fa-rss-square"></i></a>
+                    <a class="text-dark" target="_blank" rel="noopener noreferrer" href="mailto:hello@muzic.live"><i class="fa fa-envelope"></i></a>
+                </p>
+            </div>
         </div>
     </div>
 </div>

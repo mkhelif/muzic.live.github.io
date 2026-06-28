@@ -1,78 +1,116 @@
 {{ define "main" }}
-    {{- $highlights := slice -}}
-    <div class="w-100 d-none d-md-block" data-pagefind-ignore="all">
-        <div id="carousel-recent-news" class="glide">
-            <div class="glide__track" data-glide-el="track">
-                <ul class="glide__slides align-items-center">
-                    {{ range (where (where site.RegularPages "Section" "news") "Params.hero" "ne" nil).Limit 6 }}
-                        {{ $highlights = $highlights | append .RelPermalink }}
-                        <li class="glide__slide text-center mh-100 mw-100">
-                            <a href="{{ .RelPermalink }}">
-                                <img src="{{ urls.JoinPath .Path .Params.hero | absURL | safeURL }}" alt="{{ .Title }}" width="100%" style="max-width: 1200px">
-                            </a>
-                        </li>
-                    {{ end }}
-                </ul>
-            </div>
+    {{- $news := where site.RegularPages "Section" "news" -}}
+    {{- $newsLast := index $news 0 -}}
+    {{- $newsRecent := $news | first 3 | after 1 -}}
+    {{- $newsRemaining := $news | first 11 | after 3 -}}
+    {{- $reports := (where site.RegularPages "Section" "reports") | first 5 -}}
+    {{- $albums := (where site.RegularPages "Section" "albums") | first 5 -}}
 
-            <div class="glide__arrows" data-glide-el="controls">
-                <button class="glide__arrow glide__arrow--left" data-glide-dir="<">
-                    <i class="fa fa-caret-left"></i>
-                </button>
-                <button class="glide__arrow glide__arrow--right" data-glide-dir=">">
-                    <i class="fa fa-caret-right"></i>
-                </button>
-            </div>
-        </div>
-
-        <script type="text/javascript">
-            new Glide('#carousel-recent-news', {
-                type: 'carousel',
-                autoplay: 3000,
-                hoverpause: false,
-                focusAt: 'center',
-                perView: 2,
-                breakpoints: {
-                    1400: { perView: 1 }
-                }
-            }).mount();
-        </script>
-    </div>
-
-    <div class="container mt-4" data-pagefind-ignore="all">
-        <!-- Other news -->
-        <div class="row">
-            {{ $count := 0 }}
-            {{ range $index, $page := (where site.RegularPages "Section" "news") }}
-                {{ if eq $count 16 }}
-                    {{ break }}
-                {{ end }}
-
-                {{ $visibility := "" }}
-                {{ if in $highlights $page.RelPermalink }}
-                    {{ $visibility = "d-block d-md-none" }}
-                {{ else }}
-                    {{ $count = add $count 1 }}
-                {{ end }}
-                <div class="col-12 col-sm-6 col-md-3 news-card mb-4 {{ $visibility }}">
-                    <a href="{{ .RelPermalink }}" class="d-block position-relative">
-                        <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .Title }}" width="100%" class="news-image rounded-1 mw-100">
-
-                        <h5 class="news-title">{{ .Title }}</h5>
-                    </a>
+    <div class="container-xxl py-3" data-pagefind-ignore="all">
+        <!-- Highlights -->
+        {{ with $newsLast }}
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="rounded overflow-hidden position-relative" style="height:clamp(320px,42vw,470px);">
+                        {{ partial "news/hero.html" (dict "context" . "primary" true) }}
+                    </div>
                 </div>
-            {{ end }}
-        </div>
-        <div class="row">
-            <div class="text-center">
-                <a class="btn btn-primary" href="/news">Voir plus</a>
-            </div>
-        </div>
 
-        <!-- Last live reports -->
-        <div class="row mt-4">
-            <div class="col-12 col-lg-8">{{ partial "reports/latest.html" . }}</div>
-            <div class="col-12 col-lg-4">{{ partial "albums/latest.html" . }}</div>
-        </div>
+                <div class="col-lg-4">
+                    {{ range $index, $new := $newsRecent }}
+                        <div class="rounded overflow-hidden position-relative {{ cond (eq $index 0) "mb-3" "" }}" style="height:clamp(160px,21vw,235px);">
+                            {{ partial "news/hero.html" (dict "context" . "primary" false) }}
+                        </div>
+                    {{ end }}
+                </div>
+            </div>
+        {{ end }}
+
+        <!-- Actualités -->
+        <section class="mt-3">
+            <div class="d-flex justify-content-between align-items-end border-bottom border-primary border-2 pb-3 mb-4">
+                {{ partial "titles/h2.html" "Actualités" }}
+                <a href="/news" class="text-primary text-decoration-none text-uppercase font-monospace small">Tout voir →</a>
+            </div>
+            <div class="row row-cols-2 row-cols-md-4 g-4">
+                {{ range $newsRemaining }}
+                    <div class="col">
+                        <a href="{{ .RelPermalink }}" class="d-block text-reset text-decoration-none">
+                            <div class="rounded overflow-hidden bg-dark">
+                                <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .LinkTitle }}" class="object-fit-cover w-100 h-100" />
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center mt-2 small">
+                                {{ partial "news/category.html" .Params.category }}
+                                <small class="text-secondary fw-lighter">{{ partial "format/datetime.html" (dict "date" .Date) }}</small>
+                            </div>
+                            <p class="mt-1 small fw-light">{{ .LinkTitle }}</p>
+                        </a>
+                    </div>
+                {{ end }}
+            </div>
+        </section>
+
+        <!-- Chroniques de concerts + Albums -->
+        <section class="row mt-5">
+            <div class="col-lg-8">
+                <div class="d-flex justify-content-between align-items-end border-bottom border-primary border-2 pb-3 mb-2">
+                    {{ partial "titles/h4.html" "Chroniques de concerts" }}
+                    <a href="/reports" class="text-primary text-decoration-none text-uppercase font-monospace small">Tout voir →</a>
+                </div>
+
+                {{ range $reports }}
+                    <a href="{{ .RelPermalink }}" class="d-flex py-3 border-bottom border-light border-opacity-25 text-reset">
+                        <div class="ratio flex-shrink-0 rounded overflow-hidden bg-dark me-3" style="width:250px;--bs-aspect-ratio:62%;">
+                            {{ $cover := .Resources.Get .Params.cover }}
+                            <img src="{{ with $cover }}{{ .Permalink }}{{ else }}/cover-empty.jpg{{ end }}" alt="{{ .LinkTitle }}" class="object-fit-cover w-100 h-100" />
+                        </div>
+                        <div>
+                            <div class="d-flex align-items-center text-secondary font-monospace small">
+                                <small>{{ with .Params.locationId }}{{ partial "locations/label.html" . }} · {{ end }}{{ partial "format/datetime.html" (dict "date" .Date) }}</small>
+                                {{ with .Params.rank }}
+                                    <small class="ms-3 badge bg-primary text-dark border border-primary border-opacity-50">
+                                        <small><i class="fa fa-star small"></i></small>
+                                        {{ printf "%.1f" (div . 2.0) }}
+                                    </small>
+                                {{ end }}
+                            </div>
+                            <h6 class="pt-1 mt-0 mb-1">{{ .LinkTitle }}</h6>
+                            <p class="mt-1 small text-secondary fw-light">{{ .Summary | plainify | truncate 150 }}</p>
+                            <p class="small text-secondary mb-0"></p>
+                        </div>
+                    </a>
+                {{ end }}
+            </div>
+
+            <div class="col-lg-4">
+                <div class="d-flex justify-content-between align-items-end border-bottom border-primary border-2 pb-3 mb-2">
+                    {{ partial "titles/h4.html" "Albums" }}
+                    <a href="/albums" class="text-primary text-decoration-none text-uppercase font-monospace small">Tout voir →</a>
+                </div>
+                {{ range $albums }}
+                    <a href="{{ .RelPermalink }}" class="d-flex gap-3 py-3 border-bottom border-light border-opacity-25 text-reset">
+                        <div class="flex-shrink-0 rounded overflow-hidden bg-dark" style="width:80px;height:80px;">
+                            {{ $cover := .Resources.Get .Params.cover }}
+                            <img src="{{ with $cover }}{{ .Permalink }}{{ else }}/cover-empty.jpg{{ end }}" alt="{{ .LinkTitle }}" class="w-100 h-100 object-fit-cover" />
+                        </div>
+                        <div>
+                            {{ with .Params.artists }}<span class="text-primary text-uppercase d-block" style="font-family:'Space Mono',monospace;font-size:.65rem;letter-spacing:.1em;">{{ partial "artists/name.html" (index . 0) }}</span>{{ end }}
+                            <h6 class="pt-1 mt-0 mb-1">{{ .LinkTitle }}</h6>
+                            <small class="text-dark-emphasis font-monospace">
+                                <small>{{ partial "format/datetime.html" (dict "date" .Date) }}</small>
+                                {{ with .Params.rank }}
+                                    <span class="text-dark-emphasis">·</span>
+                                    <small>
+                                        <small><i class="fa fa-star small"></i></small>
+                                        {{ printf "%.1f" (div . 2.0) }}
+                                    </small>
+                                {{ end }}
+                            </small>
+                        </div>
+                    </a>
+                {{ end }}
+            </div>
+        </section>
+
     </div>
 {{ end }}

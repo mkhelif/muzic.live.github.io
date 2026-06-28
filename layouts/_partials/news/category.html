@@ -1,0 +1,9 @@
+<small class="text-primary text-uppercase font-monospace">
+    {{ if eq . "album" }}Album
+    {{ else if eq . "concert" }}Concert
+    {{ else if eq . "event" }}Actu
+    {{ else if eq . "festival" }}Festival
+    {{ else if eq . "metal" }}Metal
+    {{ else if eq . "tour" }}Tournée
+    {{ end }}
+</small>

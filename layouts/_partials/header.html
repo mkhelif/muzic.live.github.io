@@ -1,13 +1,16 @@
+<!-- Ticker
+<div class="d-flex justify-content-between border-bottom border-secondary-subtle py-1 mb-2 font-monospace small text-uppercase">
+    <small>{{ now | time.Format ":date_full" }} · Le webzine des musiques vivantes</small>
+    <small class="text-primary">● En direct</small>
+</div>-->
+
 <nav class="navbar navbar-dark navbar-expand-lg container">
-    <div class="d-flex align-items-center w-100">
+    <div class="d-flex align-items-center justify-content-between w-100">
+        <!-- Brand -->
         <a class="navbar-brand" href="/">
             <img class="d-block d-sm-none" src="/logo.png" alt="{{ site.Title }}" width="50px" />
-            <img class="d-none d-sm-block" src="/logo-text.png" alt="{{ site.Title }}" />
+            <img class="d-none d-sm-block" src="/logo-text.png" alt="{{ site.Title }}" width="200px" />
         </a>
-
-        <div class="w-100 me-3 z-3">
-            <input class="form-control form-control-sm border-primary" id="search-input" type="search" placeholder="Rechercher" aria-label="Rechercher" />
-        </div>
 
         <!-- TODO style toggler -->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu" aria-controls="menu" aria-expanded="false" aria-label="Afficher menu">
@@ -15,24 +18,32 @@
         </button>
 
         <!-- Menu -->
-        <div class="collapse navbar-collapse" id="menu">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link {{ cond (hasPrefix .Path "/reports") "active" "" }}" {{ cond (hasPrefix .Path "/reports") "aria-current=\"page\"" "" }} href="/reports">Chroniques</a>
+        <div class="collapse navbar-collapse justify-content-center" id="menu">
+            <ul class="navbar-nav font-monospace text-uppercase small">
+                {{ $active := false }}
+                <li class="nav-item small">
+                    {{ $active = (hasPrefix .Path "/reports") }}
+                    <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/reports">Chroniques</a>
                 </li>
-                <!--<li class="nav-item">
-                    <a class="nav-link {{ cond (hasPrefix .Path "/interviews") "active" "" }}" {{ cond (hasPrefix .Path "/interviews") "aria-current=\"page\"" "" }} href="/interviews">Interviews</a>
-                </li>-->
-                <li class="nav-item">
-                    <a class="nav-link {{ cond (hasPrefix .Path "/artists") "active" "" }}" {{ cond (hasPrefix .Path "/artists") "aria-current=\"page\"" "" }} href="/artists">Artistes</a>
+                <li class="nav-item small">
+                    {{ $active = (hasPrefix .Path "/artists") }}
+                    <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/artists">Artistes</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link {{ cond (hasPrefix .Path "/festivals") "active" "" }}" {{ cond (hasPrefix .Path "/festivals") "aria-current=\"page\"" "" }} href="/festivals">Festivals</a>
+                <li class="nav-item small">
+                    {{ $active = (hasPrefix .Path "/festivals") }}
+                    <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/festivals">Festivals</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link {{ cond (hasPrefix .Path "/albums") "active" "" }}" {{ cond (hasPrefix .Path "/albums") "aria-current=\"page\"" "" }} href="/albums">Albums</a>
+                <li class="nav-item small">
+                    {{ $active = (hasPrefix .Path "/albums") }}
+                    <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/albums">Albums</a>
                 </li>
             </ul>
+        </div>
+
+        <!-- Search -->
+        <div class="input-group z-3" style="width: 300px">
+            <span class="input-group-text border-0"><i class="fa fa-magnifying-glass"></i></span>
+            <input class="form-control border-0" id="search-input" type="search" placeholder="Rechercher un artiste, festival, salle..." aria-label="Rechercher" />
         </div>
     </div>
 </nav>

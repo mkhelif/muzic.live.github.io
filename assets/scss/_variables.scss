@@ -5,8 +5,8 @@ $success: #eafcb5;
 //$info:          $cyan !default;
 //$warning:       $yellow !default;
 $danger: #cc4455;
-$light: #fafafa;
-$dark: #000000;
+$light: #bdbdb4;
+$dark: #0b0b0b;
 
 $body-bg: $dark;
 $body-color: $light;
@@ -20,9 +20,11 @@ $font-path: "/fonts/fontawesome-7.0.1";
 $font-family-base: 'Noto Sans', sans-serif;
 $font-weight-base: 200;
 
-$headings-font-family: 'Londrina Solid', sans-serif;
-$headings-font-weight: 300;
+$headings-font-family: 'Noto Sans', sans-serif;
+$headings-font-weight: 600;
 $headings-margin-top: 1em;
+
+$font-family-mono: 'Space Mono', monospace;
 
 // Links
 $link-decoration: none;
@@ -32,13 +34,15 @@ $zindex-modal-backdrop: 1050;
 $zindex-modal:          1055;
 
 // Navbar
-$navbar-padding-y: 2.5rem;
+$navbar-padding-y: 1.5rem;
 
 $navbar-dark-active-color: $primary;
 $navbar-dark-color: $primary-muted;
 $navbar-dark-hover-color: $primary;
 
 $navbar-toggler-focus-width: 0;
+
+$nav-link-color: $light;
 
 // Buttons
 $btn-border-radius: 2px;
@@ -63,3 +67,18 @@ $pagination-disabled-color: $light;
 // Mark
 $mark-bg: $primary;
 $mark-color: $dark;
+
+// Forms
+$input-bg: #161616;
+$input-color: #8a8a8a;
+$input-font-size: 0.8rem;
+
+$input-border-radius: 20px;
+$input-border-color: #FFFFFF1A;
+
+$input-focus-box-shadow: none;
+
+$input-active-border-color: #FFFFFF1A;
+
+$input-group-addon-bg: #161616;
+$input-group-addon-border-color: #FFFFFF1A;
