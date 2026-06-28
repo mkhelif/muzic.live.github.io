@@ -60,9 +60,8 @@
 
                 {{ range $reports }}
                     <a href="{{ .RelPermalink }}" class="d-flex py-3 border-bottom border-light border-opacity-25 text-reset">
-                        <div class="ratio flex-shrink-0 rounded overflow-hidden bg-dark me-3" style="width:250px;--bs-aspect-ratio:62%;">
-                            {{ $cover := .Resources.Get .Params.cover }}
-                            <img src="{{ with $cover }}{{ .Permalink }}{{ else }}/cover-empty.jpg{{ end }}" alt="{{ .LinkTitle }}" class="object-fit-cover w-100 h-100" />
+                        <div class="rounded overflow-hidden bg-dark me-3">
+                            <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .LinkTitle }}" class="object-fit-cover w-100 h-100" />
                         </div>
                         <div>
                             <div class="d-flex align-items-center text-secondary font-monospace small">

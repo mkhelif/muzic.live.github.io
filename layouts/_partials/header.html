@@ -7,43 +7,56 @@
 <nav class="navbar navbar-dark navbar-expand-lg container">
     <div class="d-flex align-items-center justify-content-between w-100">
         <!-- Brand -->
-        <a class="navbar-brand" href="/">
+        <a class="navbar-brand ms-3 ms-sm-0" href="/">
             <img class="d-block d-sm-none" src="/logo.png" alt="{{ site.Title }}" width="50px" />
             <img class="d-none d-sm-block" src="/logo-text.png" alt="{{ site.Title }}" width="200px" />
         </a>
 
-        <!-- TODO style toggler -->
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu" aria-controls="menu" aria-expanded="false" aria-label="Afficher menu">
-            <i class="fa fa-bars"></i>
-        </button>
-
         <!-- Menu -->
-        <div class="collapse navbar-collapse justify-content-center" id="menu">
-            <ul class="navbar-nav font-monospace text-uppercase small">
-                {{ $active := false }}
-                <li class="nav-item small">
-                    {{ $active = (hasPrefix .Path "/reports") }}
-                    <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/reports">Chroniques</a>
-                </li>
-                <li class="nav-item small">
-                    {{ $active = (hasPrefix .Path "/artists") }}
-                    <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/artists">Artistes</a>
-                </li>
-                <li class="nav-item small">
-                    {{ $active = (hasPrefix .Path "/festivals") }}
-                    <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/festivals">Festivals</a>
-                </li>
-                <li class="nav-item small">
-                    {{ $active = (hasPrefix .Path "/albums") }}
-                    <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/albums">Albums</a>
-                </li>
-            </ul>
-        </div>
+        <ul class="navbar-nav font-monospace text-uppercase small d-none d-sm-flex">
+            {{ $active := false }}
+            <li class="nav-item small">
+                {{ $active = (hasPrefix .Path "/reports") }}
+                <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/reports">Chroniques</a>
+            </li>
+            <li class="nav-item small">
+                {{ $active = (hasPrefix .Path "/artists") }}
+                <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/artists">Artistes</a>
+            </li>
+            <li class="nav-item small">
+                {{ $active = (hasPrefix .Path "/festivals") }}
+                <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/festivals">Festivals</a>
+            </li>
+            <li class="nav-item small">
+                {{ $active = (hasPrefix .Path "/albums") }}
+                <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/albums">Albums</a>
+            </li>
+        </ul>
 
         <!-- Search -->
-        <div class="input-group z-3" style="width: 300px">
+        <div class="input-group z-3 me-3 me-sm-0" style="width: 300px">
             <span class="input-group-text border-0"><i class="fa fa-magnifying-glass"></i></span>
             <input class="form-control border-0" id="search-input" type="search" placeholder="Rechercher un artiste, festival, salle..." aria-label="Rechercher" />
         </div>
     </div>
+
+    <ul class="navbar-nav font-monospace text-uppercase small d-flex d-sm-none flex-row justify-content-between w-100 mx-4 mt-2">
+        {{ $active := false }}
+        <li class="nav-item small">
+            {{ $active = (hasPrefix .Path "/reports") }}
+            <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/reports">Chroniques</a>
+        </li>
+        <li class="nav-item small">
+            {{ $active = (hasPrefix .Path "/artists") }}
+            <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/artists">Artistes</a>
+        </li>
+        <li class="nav-item small">
+            {{ $active = (hasPrefix .Path "/festivals") }}
+            <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/festivals">Festivals</a>
+        </li>
+        <li class="nav-item small">
+            {{ $active = (hasPrefix .Path "/albums") }}
+            <a class="nav-link {{ cond $active "active" "" }}" {{ cond $active "aria-current=\"page\"" "" }} href="/albums">Albums</a>
+        </li>
+    </ul>
 </nav>
