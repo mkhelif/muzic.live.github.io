@@ -4,8 +4,9 @@ title: "Arabella"
 cover: "cover.jpg"
 socials:
   facebook: ""
-todo:
-  - Add picture
-  - Verify and add socials
-  - Add detailed description
 ---
+
+Arabella est un projet musical dont les informations disponibles restent limitées. Plusieurs artistes portent ce nom
+dans différentes scènes musicales, et sans détail supplémentaire sur l'origine ou le pays de cet Arabella précis, il est
+difficile d'établir une biographie détaillée. Cette fiche sera mise à jour dès que des informations fiables seront
+disponibles.

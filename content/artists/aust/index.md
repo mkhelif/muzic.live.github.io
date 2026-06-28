@@ -4,8 +4,7 @@ title: "Aust"
 cover: "cover.jpg"
 socials:
   facebook: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 ---
+
+Aust est un artiste ou groupe musical dont les informations disponibles publiquement restent limitées. Cette fiche sera
+mise à jour dès que des sources fiables permettront d'établir une biographie plus complète.
