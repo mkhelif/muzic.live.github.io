@@ -14,6 +14,7 @@
                 {{ $orientation := cond (gt .Width .Height) "landscape" "portrait" }}
                 <li class="glide__slide text-center">
                     <img src="{{ .Permalink }}" alt="{{ $.Params.alt }}"
+                         loading="lazy" decoding="async"
                          style="max-width: 680px; max-height: 512px;"
                          {{ if gt .Width .Height }}
                             width="100%"

@@ -1,0 +1,143 @@
+{{- /* Structured data (schema.org JSON-LD). One block per page type. */ -}}
+
+{{- /* ---- Cover image (absolute URL) ---- */ -}}
+{{- $img := "" -}}
+{{- with .Params.cover }}{{ with ($.Resources.Get .) }}{{ $img = .Permalink }}{{ end }}{{ end -}}
+{{- if not $img }}{{ with site.Params.images }}{{ $img = (index . 0 | absURL) }}{{ end }}{{ end -}}
+
+{{- /* ---- Build sameAs[] from a page's socials ---- */ -}}
+{{- $sameAs := slice -}}
+{{- with .Params.socials -}}
+    {{- with .web }}{{ $sameAs = $sameAs | append . }}{{ end -}}
+    {{- with .facebook }}{{ $sameAs = $sameAs | append (printf "https://www.facebook.com/%s" .) }}{{ end -}}
+    {{- with .instagram }}{{ $sameAs = $sameAs | append (printf "https://www.instagram.com/%s" .) }}{{ end -}}
+    {{- with .x }}{{ $sameAs = $sameAs | append (printf "https://x.com/%s" .) }}{{ end -}}
+    {{- with .tiktok }}{{ $sameAs = $sameAs | append (printf "https://www.tiktok.com/%s" .) }}{{ end -}}
+    {{- with .threads }}{{ $sameAs = $sameAs | append (printf "https://www.threads.net/%s" .) }}{{ end -}}
+    {{- with .youtube }}{{ $sameAs = $sameAs | append (printf "https://www.youtube.com/%s" .) }}{{ end -}}
+    {{- with .bandcamp }}{{ $sameAs = $sameAs | append (printf "https://%s.bandcamp.com" .) }}{{ end -}}
+    {{- with .soundcloud }}{{ $sameAs = $sameAs | append (printf "https://soundcloud.com/%s" .) }}{{ end -}}
+    {{- with .spotify }}{{ $sameAs = $sameAs | append (printf "https://open.spotify.com/artist/%s" .) }}{{ end -}}
+{{- end -}}
+
+{{- /* =========================== HOME =========================== */ -}}
+{{- if .IsHome -}}
+    {{- $data := dict
+        "@context" "https://schema.org"
+        "@type" "WebSite"
+        "name" site.Title
+        "url" site.BaseURL
+        "description" site.Params.description
+        "inLanguage" "fr-FR"
+        "publisher" (dict
+            "@type" "Organization"
+            "name" site.Title
+            "url" site.BaseURL
+            "logo" (dict "@type" "ImageObject" "url" (index site.Params.images 0 | absURL))
+        )
+    -}}
+    <script type="application/ld+json">{{ $data | jsonify (dict "indent" "  ") | safeJS }}</script>
+
+{{- /* =========================== ALBUM =========================== */ -}}
+{{- else if eq .Section "albums" -}}
+    {{- $artist := dict -}}
+    {{- with .Params.artists -}}
+        {{- range where (where site.RegularPages "Section" "artists") ".Params.id" (index . 0) -}}
+            {{- $artist = dict "@type" "MusicGroup" "name" .Title "url" .Permalink -}}
+        {{- end -}}
+    {{- end -}}
+    {{- $data := dict
+        "@context" "https://schema.org"
+        "@type" "MusicAlbum"
+        "name" .Title
+        "url" .Permalink
+        "image" $img
+        "datePublished" (.Date.Format "2006-01-02")
+    -}}
+    {{- with $artist }}{{ if .name }}{{ $data = merge $data (dict "byArtist" .) }}{{ end }}{{ end -}}
+    {{- with .Params.rank -}}
+        {{- $data = merge $data (dict "review" (dict
+            "@type" "Review"
+            "reviewRating" (dict "@type" "Rating" "ratingValue" (printf "%.1f" (div . 2.0)) "bestRating" "5" "worstRating" "0")
+            "author" (dict "@type" "Organization" "name" site.Title)
+        )) -}}
+    {{- end -}}
+    <script type="application/ld+json">{{ $data | jsonify (dict "indent" "  ") | safeJS }}</script>
+
+{{- /* =========================== ARTIST =========================== */ -}}
+{{- else if eq .Section "artists" -}}
+    {{- $data := dict
+        "@context" "https://schema.org"
+        "@type" "MusicGroup"
+        "name" .Title
+        "url" .Permalink
+        "image" $img
+        "description" (.Summary | plainify | truncate 200)
+    -}}
+    {{- if gt (len $sameAs) 0 }}{{ $data = merge $data (dict "sameAs" $sameAs) }}{{ end -}}
+    <script type="application/ld+json">{{ $data | jsonify (dict "indent" "  ") | safeJS }}</script>
+
+{{- /* =========================== FESTIVAL =========================== */ -}}
+{{- else if eq .Section "festivals" -}}
+    {{- $data := dict
+        "@context" "https://schema.org"
+        "@type" "Organization"
+        "name" .Title
+        "url" .Permalink
+        "image" $img
+        "description" (.Summary | plainify | truncate 200)
+    -}}
+    {{- if gt (len $sameAs) 0 }}{{ $data = merge $data (dict "sameAs" $sameAs) }}{{ end -}}
+    <script type="application/ld+json">{{ $data | jsonify (dict "indent" "  ") | safeJS }}</script>
+
+{{- /* =========================== LOCATION (venue) =========================== */ -}}
+{{- else if eq .Section "locations" -}}
+    {{- $data := dict
+        "@context" "https://schema.org"
+        "@type" "MusicVenue"
+        "name" .Title
+        "url" .Permalink
+        "image" $img
+    -}}
+    {{- with .Params.address }}{{ $data = merge $data (dict "address" .) }}{{ end -}}
+    {{- with .Params.coordinates -}}
+        {{- $data = merge $data (dict "geo" (dict "@type" "GeoCoordinates" "latitude" .latitude "longitude" .longitude)) -}}
+    {{- end -}}
+    {{- if gt (len $sameAs) 0 }}{{ $data = merge $data (dict "sameAs" $sameAs) }}{{ end -}}
+    <script type="application/ld+json">{{ $data | jsonify (dict "indent" "  ") | safeJS }}</script>
+
+{{- /* =========================== REPORT / NEWS (article) =========================== */ -}}
+{{- else if or (eq .Section "reports") (eq .Section "news") -}}
+    {{- $type := cond (eq .Section "news") "NewsArticle" "Article" -}}
+    {{- $data := dict
+        "@context" "https://schema.org"
+        "@type" $type
+        "headline" .Title
+        "url" .Permalink
+        "image" $img
+        "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+        "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+        "inLanguage" "fr-FR"
+        "publisher" (dict
+            "@type" "Organization"
+            "name" site.Title
+            "logo" (dict "@type" "ImageObject" "url" (index site.Params.images 0 | absURL))
+        )
+    -}}
+    {{- with .Params.author }}{{ $data = merge $data (dict "author" (dict "@type" "Person" "name" .)) }}{{ end -}}
+    {{- with .Description }}{{ $data = merge $data (dict "description" .) }}{{ else }}{{ with $.Summary }}{{ $data = merge $data (dict "description" (. | plainify | truncate 200)) }}{{ end }}{{ end -}}
+    <script type="application/ld+json">{{ $data | jsonify (dict "indent" "  ") | safeJS }}</script>
+{{- end -}}
+
+{{- /* =========================== BREADCRUMB (internal pages) =========================== */ -}}
+{{- if .IsPage -}}
+    {{- $items := slice (dict "@type" "ListItem" "position" 1 "name" "Accueil" "item" site.BaseURL) -}}
+    {{- with .CurrentSection -}}
+        {{- if ne .RelPermalink $.RelPermalink -}}
+            {{- $items = $items | append (dict "@type" "ListItem" "position" (add (len $items) 1) "name" .Title "item" .Permalink) -}}
+        {{- end -}}
+    {{- end -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" (add (len $items) 1) "name" .Title "item" .Permalink) -}}
+    {{- $crumb := dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items -}}
+    <script type="application/ld+json">{{ $crumb | jsonify (dict "indent" "  ") | safeJS }}</script>
+{{- end -}}

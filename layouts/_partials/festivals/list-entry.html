@@ -3,9 +3,9 @@
         <a href="{{ .festival.RelPermalink }}" class="h-100">
             {{ $cover := .festival.Resources.Get .festival.Params.cover }}
             {{ if $cover }}
-                <img src="{{ $cover.Permalink }}" width="100%" class="rounded-1" />
+                <img src="{{ $cover.Permalink }}" alt="{{ .festival.LinkTitle }}" loading="lazy" decoding="async" width="100%" class="rounded-1" />
             {{ else }}
-                <img src="/cover-empty.jpg" width="100%" class="rounded-1" />
+                <img src="/cover-empty.jpg" alt="{{ .festival.LinkTitle }}" loading="lazy" decoding="async" width="100%" class="rounded-1" />
             {{ end }}
         </a>
     </div>

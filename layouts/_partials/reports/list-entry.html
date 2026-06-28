@@ -3,9 +3,9 @@
         <a href="{{ .report.RelPermalink }}" class="h-100">
             {{ $cover := .report.Resources.Get .report.Params.cover }}
             {{ if $cover }}
-                <img src="{{ $cover.Permalink }}" width="100%" class="rounded-1" />
+                <img src="{{ $cover.Permalink }}" alt="{{ .report.LinkTitle }}" loading="lazy" decoding="async" width="100%" class="rounded-1" />
             {{ else }}
-                <img src="/cover-empty.jpg" width="100%" class="rounded-1" />
+                <img src="/cover-empty.jpg" alt="{{ .report.LinkTitle }}" loading="lazy" decoding="async" width="100%" class="rounded-1" />
             {{ end }}
         </a>
     </div>

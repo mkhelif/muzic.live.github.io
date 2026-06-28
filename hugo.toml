@@ -1,9 +1,15 @@
 # Site
 title = 'Muzic.Live'
-baseURL = '/'
+baseURL = 'https://muzic.live/'
 languageCode = 'fr-fr'
 defaultContentLanguage = 'fr'
 removePathAccents = true
+enableRobotsTXT = true
+
+[params]
+  description = "Muzic.Live, le webzine des musiques actuelles : actualités, chroniques de concerts, critiques d'albums, festivals et artistes."
+  images = ['logo-text.png']
+  twitter = ''
 
 # Categories
 [taxonomies]

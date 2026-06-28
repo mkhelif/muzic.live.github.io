@@ -1,19 +1,67 @@
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{{/* ---- Derived SEO values ---- */}}
+{{- $title := cond .IsHome (printf "%s — Webzine des musiques actuelles" site.Title) (printf "%s | %s" .Title site.Title) -}}
+{{- $desc := "" -}}
+{{- with .Description }}{{ $desc = . }}
+{{- else }}{{ with .Summary }}{{ $desc = (. | plainify | truncate 160) }}{{ else }}{{ $desc = site.Params.description }}{{ end }}
+{{- end -}}
+{{- $ogType := cond .IsPage "article" "website" -}}
+{{- $ogImage := "" -}}
+{{- with .Params.cover }}{{ with ($.Resources.Get .) }}{{ $ogImage = .Permalink }}{{ end }}{{ end -}}
+{{- if not $ogImage }}{{ with site.Params.images }}{{ $ogImage = (index . 0 | absURL) }}{{ end }}{{ end -}}
+
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $desc }}">
+<link rel="canonical" href="{{ .Permalink }}">
+{{- $noindex := or (eq .Kind "taxonomy") (eq .Kind "term") -}}
+{{- if not .IsPage }}{{ with .Paginator }}{{ if gt .PageNumber 1 }}{{ $noindex = true }}{{ end }}{{ end }}{{ end -}}
+<meta name="robots" content="{{ cond $noindex "noindex,follow" "index,follow" }}">
+
+{{/* ---- Open Graph ---- */}}
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:type" content="{{ $ogType }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+{{ with $ogImage }}<meta property="og:image" content="{{ . }}">{{ end }}
+{{ if .IsPage }}<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+
+{{/* ---- Twitter Card ---- */}}
+<meta name="twitter:card" content="{{ cond (ne $ogImage "") "summary_large_image" "summary" }}">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+{{ with $ogImage }}<meta name="twitter:image" content="{{ . }}">{{ end }}
+{{ with site.Params.twitter }}<meta name="twitter:site" content="@{{ . }}">{{ end }}
+
+{{/* ---- Icons & theme ---- */}}
 <link rel="icon" type="image/png" href="/favicon.png">
+<link rel="apple-touch-icon" href="/favicon.png">
+<meta name="theme-color" content="#0b0b0b">
+
 {{ with .OutputFormats.Get "rss" }}
-    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink }}" title="{{ site.Title }}">
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ site.Title }}">
 {{ end }}
 
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" site.Title .Title }}{{ end }}</title>
+{{/* ---- Structured data (JSON-LD) ---- */}}
+{{ partial "seo/schema.html" . }}
 
-<!-- Third-parties -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-      crossorigin=""/>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-        crossorigin=""></script>
+{{/* ---- Fonts: preconnect for faster Google Fonts ---- */}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+{{/* ---- Leaflet only on pages that show a map ---- */}}
+{{ if or (eq .Section "locations") .Params.coordinates }}
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin=""></script>
+{{ end }}
 
 <!-- Resources -->
 {{ partialCached "styles.html" . }}
