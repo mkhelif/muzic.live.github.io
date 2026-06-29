@@ -32,7 +32,10 @@
         <section class="mt-3">
             <div class="d-flex justify-content-between align-items-end border-bottom border-primary border-2 pb-3 mb-4">
                 {{ partial "titles/h2.html" "Actualités" }}
-                <a href="/news" class="text-primary text-decoration-none text-uppercase font-monospace small">Tout voir →</a>
+                <a href="/news" class="text-primary text-decoration-none text-uppercase font-monospace small">
+                    Tout voir
+                    <i class="fa fa-arrow-right"></i>
+                </a>
             </div>
             <div class="row row-cols-2 row-cols-md-4 g-4">
                 {{ range $newsRemaining }}
@@ -57,7 +60,10 @@
             <div class="col-lg-8">
                 <div class="d-flex justify-content-between align-items-end border-bottom border-primary border-2 pb-3 mb-2">
                     {{ partial "titles/h4.html" "Chroniques de concerts" }}
-                    <a href="/reports" class="text-primary text-decoration-none text-uppercase font-monospace small">Tout voir →</a>
+                    <a href="/reports" class="text-primary text-decoration-none text-uppercase font-monospace small">
+                        Tout voir
+                        <i class="fa fa-arrow-right"></i>
+                    </a>
                 </div>
 
                 {{ range $index, $report := $reports }}
@@ -89,7 +95,10 @@
             <div class="col-lg-4">
                 <div class="d-flex justify-content-between align-items-end border-bottom border-primary border-2 pb-3 mb-2">
                     {{ partial "titles/h4.html" "Albums" }}
-                    <a href="/albums" class="text-primary text-decoration-none text-uppercase font-monospace small">Tout voir →</a>
+                    <a href="/albums" class="text-primary text-decoration-none text-uppercase font-monospace small">
+                        Tout voir
+                        <i class="fa fa-arrow-right"></i>
+                    </a>
                 </div>
                 {{ range $index, $album := $albums }}
                     <div class="row py-3 {{ cond (eq (add $index 1) (len $albums)) "" "border-bottom border-light border-opacity-25" }}">
