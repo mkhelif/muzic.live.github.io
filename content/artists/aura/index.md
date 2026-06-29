@@ -13,5 +13,4 @@ approche contrastée : trois titres instrumentaux pour deux avec voix, créant u
 explosive.
 
 AURA s'inscrit dans la tradition des groupes français de post-metal qui privilégient la texture et l'atmosphère autant
-que la puissance brute. Les informations disponibles sur ce groupe restent limitées ; cette fiche sera enrichie dès que
-de nouvelles sources seront accessibles.
+que la puissance brute.
