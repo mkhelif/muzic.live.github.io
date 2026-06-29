@@ -4,20 +4,32 @@
 {{/* ---- Derived SEO values ---- */}}
 {{- $title := cond .IsHome (printf "%s — Webzine des musiques actuelles" site.Title) (printf "%s | %s" .Title site.Title) -}}
 {{- $desc := "" -}}
-{{- with .Description }}{{ $desc = . }}
-{{- else }}{{ with .Summary }}{{ $desc = (. | plainify | truncate 160) }}{{ else }}{{ $desc = site.Params.description }}{{ end }}
+{{- with .Description -}}
+    {{- $desc = . -}}
+{{- else -}}
+    {{- with .Summary -}}
+        {{- $desc = (. | plainify | truncate 160) -}}
+    {{- else -}}
+        {{- $desc = site.Params.description -}}
+    {{- end -}}
 {{- end -}}
 {{- $ogType := cond .IsPage "article" "website" -}}
 {{- $ogImage := "" -}}
-{{- with .Params.cover }}{{ with ($.Resources.Get .) }}{{ $ogImage = .Permalink }}{{ end }}{{ end -}}
-{{- if not $ogImage }}{{ with site.Params.images }}{{ $ogImage = (index . 0 | absURL) }}{{ end }}{{ end -}}
+{{- with .Params.cover -}}
+    {{- with ($.Resources.Get .) -}}
+        {{- $ogImage = .Permalink -}}
+    {{- end -}}
+{{- end -}}
+{{- if not $ogImage -}}
+    {{- with site.Params.images -}}
+        {{- $ogImage = (index . 0 | absURL) -}}
+    {{- end -}}
+{{- end -}}
 
 <title>{{ $title }}</title>
 <meta name="description" content="{{ $desc }}">
 <link rel="canonical" href="{{ .Permalink }}">
-{{- $noindex := or (eq .Kind "taxonomy") (eq .Kind "term") -}}
-{{- if not .IsPage }}{{ with .Paginator }}{{ if gt .PageNumber 1 }}{{ $noindex = true }}{{ end }}{{ end }}{{ end -}}
-<meta name="robots" content="{{ cond $noindex "noindex,follow" "index,follow" }}">
+<meta name="robots" content="index,follow">
 
 {{/* ---- Open Graph ---- */}}
 <meta property="og:site_name" content="{{ site.Title }}">
@@ -26,9 +38,13 @@
 <meta property="og:title" content="{{ $title }}">
 <meta property="og:description" content="{{ $desc }}">
 <meta property="og:url" content="{{ .Permalink }}">
-{{ with $ogImage }}<meta property="og:image" content="{{ . }}">{{ end }}
-{{ if .IsPage }}<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+{{ with $ogImage -}}
+    <meta property="og:image" content="{{ . }}">
+{{- end -}}
+{{ if .IsPage -}}
+    <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+    <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+{{- end }}
 
 {{/* ---- Twitter Card ---- */}}
 <meta name="twitter:card" content="{{ cond (ne $ogImage "") "summary_large_image" "summary" }}">
