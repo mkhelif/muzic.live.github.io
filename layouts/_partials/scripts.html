@@ -10,7 +10,7 @@
     </script>
 {{ end }}
 
-{{ $scripts := slice "js/utilities.js" "js/search.js" "js/bootstrap-5.3.8/collapse.js" "js/fontawesome-7.0.1/all.min.js" "js/glide-3.7.1/glide.min.js" }}
+{{ $scripts := slice "js/utilities.js" "js/search.js" "js/gallery.js" "js/bootstrap-5.3.8/collapse.js" "js/fontawesome-7.0.1/all.min.js" }}
 {{ range $scripts }}
     {{ $script := . }}
     {{ with resources.Get $script }}

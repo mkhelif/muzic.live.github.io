@@ -1,55 +1,23 @@
-{{ $id := delimit (shuffle (seq 1 9)) "" }}
+{{- $id := delimit (shuffle (seq 1 9)) "" -}}
+{{- $pictures := .Page.Resources.Match (path.Join .Params.pictures "*") -}}
+{{- if eq .Params.reverse "true" -}}
+    {{- $pictures = sort $pictures "Name" "desc" -}}
+{{- else -}}
+    {{- $pictures = sort $pictures "Name" "asc" -}}
+{{- end -}}
 
-{{ $pictures := .Page.Resources.Match (path.Join .Params.pictures "*") }}
-{{ if eq .Params.reverse "true" }}
-    {{ $pictures = sort $pictures "Name" "desc" }}
-{{ else }}
-    {{ $pictures = sort $pictures "Name" "asc" }}
-{{ end }}
-
-<div id="carousel-{{ $id }}" class="glide mt-4 d-print-none">
-    <div class="glide__track" data-glide-el="track">
-        <ul class="glide__slides align-items-center">
-            {{ range $pictures }}
-                {{ $orientation := cond (gt .Width .Height) "landscape" "portrait" }}
-                <li class="glide__slide text-center">
-                    <img src="{{ .Permalink }}" alt="{{ $.Params.alt }}"
-                         loading="lazy" decoding="async"
-                         style="max-width: 680px; max-height: 512px;"
-                         {{ if gt .Width .Height }}
-                            width="100%"
-                         {{ else }}
-                            height="100%"
-                         {{ end }}
-                    >
-                </li>
-            {{ end }}
-        </ul>
-    </div>
-
-    <div class="glide__arrows" data-glide-el="controls">
-        <button class="glide__arrow glide__arrow--left" data-glide-dir="<">
-            <i class="fa fa-caret-left"></i>
-        </button>
-        <button class="glide__arrow glide__arrow--right" data-glide-dir=">">
-            <i class="fa fa-caret-right"></i>
-        </button>
-    </div>
-
-    <div class="glide__bullets" data-glide-el="controls[nav]">
-        {{ range seq (len $pictures) }}
-            <button class="glide__bullet" data-glide-dir="={{ . }}"></button>
-        {{ end }}
-    </div>
+<div id="gallery-{{ $id }}" class="gallery d-print-none">
+    {{- range $pictures -}}
+        {{- $thumb := .Resize "480x q80" -}}
+        <a href="{{ .Permalink }}" aria-label="{{ $.Params.alt }}">
+            <img src="{{ $thumb.Permalink }}"
+                 alt="{{ $.Params.alt }}"
+                 width="{{ $thumb.Width }}" height="{{ $thumb.Height }}"
+                 loading="lazy" decoding="async">
+        </a>
+    {{- end -}}
 </div>
-{{ with .Params.author }}
-    {{ partial "copyright.html" . }}
-{{ end }}
 
-<script type="text/javascript">
-    new Glide('#carousel-{{ $id }}', {
-        type: 'carousel',
-        focusAt: 'center',
-        perView: 1,
-    }).mount();
-</script>
+{{- with .Params.author -}}
+    {{ partial "copyright.html" . }}
+{{- end -}}

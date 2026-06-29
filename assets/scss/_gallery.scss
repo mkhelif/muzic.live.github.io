@@ -1,0 +1,127 @@
+// Masonry-style photo grid: preserves each image's aspect ratio so that
+// portrait and landscape shots sit side by side without cropping.
+.gallery {
+    column-width: 240px;
+    column-gap: 0.5rem;
+    margin-top: 1.5rem;
+
+    a {
+        display: block;
+        margin-bottom: 0.5rem;
+        break-inside: avoid;
+        line-height: 0;
+        overflow: hidden;
+        border-radius: 4px;
+        cursor: zoom-in;
+        background-color: #161616;
+
+        img {
+            width: 100%;
+            height: auto;
+            transition: transform 200ms ease, opacity 200ms ease;
+        }
+
+        &:hover img,
+        &:focus img {
+            transform: scale(1.04);
+            opacity: 0.85;
+        }
+    }
+}
+
+// Prevent background scroll while the lightbox is open.
+body.gallery-lock {
+    overflow: hidden;
+}
+
+// Fullscreen overlay shown when a thumbnail is clicked.
+.gallery-lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 2000;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 2rem;
+    background-color: rgba(0, 0, 0, 0.92);
+
+    &.is-open {
+        display: flex;
+    }
+
+    &__figure {
+        margin: 0;
+        max-width: 100%;
+        max-height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    &__img {
+        max-width: 88vw;
+        max-height: 84vh;
+        width: auto;
+        height: auto;
+        object-fit: contain;
+        border-radius: 4px;
+    }
+
+    &__caption {
+        color: $light;
+        font-family: $font-family-mono;
+        font-size: 0.8rem;
+        margin-top: 0.75rem;
+    }
+
+    &__close {
+        position: absolute;
+        top: 0.75rem;
+        right: 1.25rem;
+        background: none;
+        border: none;
+        color: $primary;
+        font-size: 2.25rem;
+        line-height: 1;
+        cursor: pointer;
+    }
+
+    &__nav {
+        flex: 0 0 auto;
+        background: none;
+        border: none;
+        color: $primary;
+        font-size: 2.5rem;
+        line-height: 1;
+        padding: 0 1rem;
+        cursor: pointer;
+        transition: color 150ms ease;
+
+        &:hover {
+            color: $primary-emphasis;
+        }
+    }
+
+    // Hide navigation when a gallery holds a single image.
+    &.is-single &__nav {
+        display: none;
+    }
+
+    @media (max-width: 576px) {
+        padding: 1rem;
+
+        .gallery-lightbox__nav {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            padding: 0 0.5rem;
+        }
+        .gallery-lightbox__prev {
+            left: 0.25rem;
+        }
+        .gallery-lightbox__next {
+            right: 0.25rem;
+        }
+    }
+}
