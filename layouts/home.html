@@ -102,12 +102,14 @@
                 </div>
                 {{ range $index, $album := $albums }}
                     <div class="row py-3 {{ cond (eq (add $index 1) (len $albums)) "" "border-bottom border-light border-opacity-25" }}">
-                        <div class="col-3 rounded overflow-hidden bg-dark">
-                            <a href="{{ .RelPermalink }}">
-                                <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="object-fit-cover w-100 h-100" />
-                            </a>
+                        <div class="col-4">
+                            <div class="rounded overflow-hidden bg-dark">
+                                <a href="{{ .RelPermalink }}">
+                                    <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="object-fit-cover w-100 h-100" />
+                                </a>
+                            </div>
                         </div>
-                        <div class="col-9">
+                        <div class="col-8">
                             {{ with .Params.artists }}<small class="text-primary font-monospace text-uppercase d-block">{{ partial "artists/name.html" (index . 0) }}</small>{{ end }}
                             <h6 class="pt-1 mt-0 mb-1">{{ .LinkTitle }}</h6>
                             <small class="text-dark-emphasis font-monospace">
