@@ -3,7 +3,13 @@
         {{- range .Ancestors.Reverse -}}
             <li class="breadcrumb-item">
                 <a class="text-secondary" href="{{ .RelPermalink }}">
-                    {{- if .IsHome }}Accueil{{ else }}{{ .LinkTitle }}{{ end -}}
+                    {{- if .IsHome }}
+                        Accueil
+                    {{ else if eq .LinkTitle "Venues" }}
+                        Salles
+                    {{ else }}
+                        {{ .LinkTitle }}
+                    {{ end -}}
                 </a>
             </li>
         {{- end -}}

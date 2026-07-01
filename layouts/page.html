@@ -15,7 +15,7 @@
             {{ partial "albums/content.html" . }}
         {{ else }}
             <div class="container" data-pagefind-ignore="all">
-                <div class="mb-3">{{ partial "titles/h1.html" .Title }}</div>
+                {{ partial "titles/h1.html" (dict "title" .Title) }}
                 {{ partial "content.html" . }}
             </div>
         {{ end }}

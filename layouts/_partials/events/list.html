@@ -1,10 +1,5 @@
-<div data-pagefind-ignore="all">
-    <div id="events" class="mt-5 mb-3 d-flex justify-content-between align-items-center">
-        {{ partial "titles/h2.html" (dict "title" "Concerts à venir") }}
-        <a href="{{ .context.Path }}/calendar.ics" class="text-primary">
-            <i class="fa fa-2xs fa-calendar"></i>
-        </a>
-    </div>
+<div id="events" data-pagefind-ignore="all">
+    {{ partial "titles/h3.html" (dict "title" "Concerts à venir" "link" (printf "%s/calendar.ics" .context.Path) "linkText" " " "linkIcon" "fa-calendar") }}
     <table class="table table-sm table-borderless">
         <thead>
             <tr>

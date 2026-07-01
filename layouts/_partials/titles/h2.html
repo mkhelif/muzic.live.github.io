@@ -5,10 +5,8 @@
     </h2>
     {{ if .link }}
         <a class="text-uppercase text-primary small fw-bolder" href="{{ .link }}">
-            Tout voir
-            <i class="fa fa-xs fa-chevron-right"></i>
+            {{ default "Tout voir" .linkText }}
+            <i class="fa {{ default "fa-chevron-right fa-xs" .linkIcon }}"></i>
         </a>
-    {{ else }}
-        {{ .title }}
     {{ end }}
 </div>
