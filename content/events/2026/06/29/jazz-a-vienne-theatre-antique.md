@@ -1,0 +1,9 @@
+---
+date: 2026-06-29T20:30:00+02:00
+festival: "1ae29a09-cf4b-4902-9e06-dea5ba97be1b"
+locationId: "7ba21a97-c910-4ff6-b613-93f61ebf3987"
+artists:
+  - "f1d76637-b515-4fb7-9444-799323785229"
+  - "a5575cb6-25a4-4556-a3bf-1848fa57980e"
+  - "cd42d792-ce0b-4d80-b98d-2279e46bcd54"
+---
