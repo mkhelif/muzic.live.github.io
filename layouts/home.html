@@ -68,12 +68,12 @@
 
                 {{ range $index, $report := $reports }}
                     <div class="row py-3 {{ cond (eq (add $index 1) (len $reports)) "" "border-bottom border-light border-opacity-25" }}">
-                        <div class="col-3 rounded overflow-hidden bg-dark">
+                        <div class="col-12 col-sm-3 rounded overflow-hidden bg-dark">
                             <a href="{{ .RelPermalink }}">
-                                <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="object-fit-cover w-100 h-100" />
+                                <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="object-fit-cover w-100 h-100 rounded" />
                             </a>
                         </div>
-                        <div class="col-9">
+                        <div class="col-12 col-sm-9">
                             <div class="d-flex align-items-center text-secondary font-monospace small">
                                 <a class="text-reset" href="{{ .RelPermalink }}">
                                     <small>{{ with .Params.locationId }}{{ partial "locations/label.html" . }} · {{ end }}{{ partial "format/datetime.html" (dict "date" .Date) }}</small>
