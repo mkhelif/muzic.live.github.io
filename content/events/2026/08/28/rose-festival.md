@@ -1,0 +1,16 @@
+---
+date: 2026-08-28 17:00:00+02:00
+festival: "f7cb1cb9-790b-4188-9132-a6ffa8177de3"
+locationId: "ccc564e8-0ce0-4d0a-b7a8-ac1ebf0f889e"
+artists:
+  - "4cf0169a-d47f-4c5f-b3f2-ec4b03f9d8fb"
+  - "35385180-47f7-4908-901c-c25b55fbbc9f"
+  - "4791832b-ef82-4de6-9a0c-0a780b879fba"
+  - "f890a214-787f-41f9-a623-7a6cf42550cb"
+  - "da08a7a4-fcda-4755-bdb7-da8536ba9fb5"
+  - "17926f1b-db6c-479d-9043-4c453121ad69"
+  - "273fb493-da91-4853-9fb7-e49b11a17635"
+  - "657d6704-b527-4c7a-89a7-19c1abc7a91c"
+  - "dc5f5082-e796-4fab-bd00-13f64f12d1a3"
+  - "26640054-6625-463a-ad15-63b2ca9e9c39"
+---
