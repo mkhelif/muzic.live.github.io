@@ -1,19 +1,26 @@
 {
     "cyven": {
         "name": "Caroline Yven",
-        "link": "https://www.instagram.com/carolineyven_vp"
+        "link": "https://www.instagram.com/carolineyven_vp",
+        "email": "yven.caroline@gmail.com",
+        "phone": "+33770271502"
     },
     "fcodron": {
         "name": "Flora Codron",
-        "link": "https://www.instagram.com/floraphotographie"
+        "link": "https://www.instagram.com/floraphotographie",
+        "email": "floraphotographie.pro@gmail.com"
     },
     "kdeleplace": {
         "name": "Killian Deleplace",
-        "link": "https://instagram.com/polaomaxx"
+        "link": "https://instagram.com/polaomaxx",
+        "email": "killiandeleplace59@gmail.com",
+        "phone": "+33602321165"
     },
     "mkhelif": {
         "name": "Marwan Khelif",
-        "link": "https://instagram.com/mkhelif.photo"
+        "link": "https://instagram.com/mkhelif.photo",
+        "email": "mkhelif.photo@gmail.com",
+        "phone": "+33629937295"
     },
 
     "GES_luc.naville": {

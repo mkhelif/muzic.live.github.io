@@ -4,8 +4,7 @@ title: "DJ Schnake"
 cover: "cover.jpg"
 socials:
   facebook: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 ---
+
+DJ Schnake, de son vrai prénom Carolyne, est une DJ française tombée amoureuse des sonorités eurodance et trance il y a
+quelques années seulement, avant de se lancer dans le mix.
