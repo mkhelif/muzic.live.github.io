@@ -1,12 +1,4 @@
-{{- /* Page heading in the homepage style. Context: either a plain string,
-       or a dict {title, link} where link is optional (may be empty). */ -}}
-{{- $title := . -}}
-{{- $link := "" -}}
-{{- if reflect.IsMap . -}}
-    {{- $title = .title -}}
-    {{- $link = .link -}}
-{{- end -}}
 <h1 class="d-flex align-items-center gap-3 text-white text-uppercase mb-0">
     <span class="d-inline-block bg-primary flex-shrink-0" style="width:18px; height:18px;"></span>
-    {{ if $link }}<a class="text-reset text-decoration-none" href="{{ $link }}">{{ $title }}</a>{{ else }}{{ $title }}{{ end }}
+    {{ . }}
 </h1>
