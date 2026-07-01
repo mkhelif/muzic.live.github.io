@@ -3,8 +3,8 @@
     {{- $newsLast := index $news 0 -}}
     {{- $newsRecent := $news | first 3 | after 1 -}}
     {{- $newsRemaining := $news | first 11 | after 3 -}}
-    {{- $reports := (where site.RegularPages "Section" "reports") | first 5 -}}
-    {{- $albums := (where site.RegularPages "Section" "albums") | first 5 -}}
+    {{- $reports := (where site.RegularPages "Section" "reports") | first 10 -}}
+    {{- $albums := (where site.RegularPages "Section" "albums") | first 10 -}}
 
     <div class="container-xxl py-3" data-pagefind-ignore="all">
         <h1 class="visually-hidden">{{ site.Title }} — actualités, chroniques de concerts, critiques d'albums, festivals et artistes</h1>
