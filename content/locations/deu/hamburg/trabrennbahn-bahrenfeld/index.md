@@ -2,7 +2,6 @@
 id: "e7b63756-ca19-462b-bd39-32568c9649c6"
 locationId: "6aca9188-5556-471d-a336-1b221e609736"
 title: "Trabrennbahn Bahrenfeld"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 53.573805

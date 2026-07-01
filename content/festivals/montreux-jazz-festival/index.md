@@ -1,7 +1,6 @@
 ---
 id: "1e091511-4a09-491d-92c7-50510b8f3911"
 title: "Montreux Jazz Festival"
-cover: "cover.jpg"
 socials:
   email: "info@mjf.ch"
   email2: "presse@mjf.ch"

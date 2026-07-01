@@ -4,7 +4,6 @@ date: 2025-02-21T00:00:00+02:00
 title: "SAYA"
 subtitle: "10 titres, 39:08"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 8
 artists:
   - "35074d96-f001-461c-8c28-60eaa0abacc5"

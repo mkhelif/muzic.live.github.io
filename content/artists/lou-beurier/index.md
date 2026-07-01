@@ -1,7 +1,6 @@
 ---
 id: "66c7e393-9f42-4d9a-817c-d198b837be21"
 title: "Lou Beurier"
-cover: "cover.jpg"
 socials:
   facebook: "LouBeurierMusic"
   instagram: "lou_beurier_music"

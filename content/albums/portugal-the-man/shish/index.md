@@ -4,7 +4,6 @@ date: 2025-12-12T00:00:00+02:00
 title: "SHISH"
 subtitle: "10 titres, 41:49"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 8
 artists:
   - "447f0a27-2b10-4c9c-b0f2-f9e6d7c8ee90"

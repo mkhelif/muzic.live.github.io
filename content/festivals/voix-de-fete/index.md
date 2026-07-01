@@ -1,7 +1,6 @@
 ---
 id: "118f2f74-697b-4f76-b43c-f8db9f6b7026"
 title: "Voix de Fête"
-cover: "cover.jpg"
 socials:
   facebook: "FESTIVALVOIXDEFETE"
   instagram: "festivalvoixdefete"

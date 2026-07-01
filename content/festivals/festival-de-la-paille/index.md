@@ -1,7 +1,6 @@
 ---
 id: "f72beec7-0c2e-4628-8732-28fe546b2169"
 title: "Festival de la Paille"
-cover: "cover.jpg"
 socials:
   facebook: "FestivalPaille"
   instagram: "festivalpaille"

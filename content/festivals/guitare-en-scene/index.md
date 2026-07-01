@@ -1,7 +1,6 @@
 ---
 id: "13e59726-a669-48a1-93ad-d52d04e4f44f"
 title: "Guitare en Scène"
-cover: "cover.jpg"
 socials:
   facebook: "festivalguitareenscene"
   instagram: "festivalguitareenscene"

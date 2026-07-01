@@ -1,7 +1,6 @@
 ---
 id: "9cb4682e-90fb-4e11-abbf-ca2a0bfd3563"
 title: "Zed Yun Pavarotti"
-cover: "cover.jpg"
 socials:
   facebook: "ZEDYUNPAVA"
   instagram: "zedyunpavarotti"

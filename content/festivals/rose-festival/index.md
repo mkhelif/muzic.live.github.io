@@ -1,7 +1,6 @@
 ---
 id: "f7cb1cb9-790b-4188-9132-a6ffa8177de3"
 title: "Rose Festival"
-cover: "cover.jpg"
 socials:
   facebook: "rose.festival31"
   instagram: "rose.festival"

@@ -1,7 +1,6 @@
 ---
 id: "38646682-0e2a-4174-a303-7b7c7229222a"
 title: "First Aid Kit"
-cover: "cover.jpg"
 ---
 
 First Aid Kit est un duo folk suédois formé par les sœurs Johanna et Klara Söderberg, nées respectivement

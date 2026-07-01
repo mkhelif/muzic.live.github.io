@@ -1,7 +1,6 @@
 ---
 id: "6ec75b43-3ae7-47fd-9c24-208fe3d05adc"
 title: "Sens Unik"
-cover: "cover.jpg"
 socials:
   facebook: "sensunikhiphop"
   youtube: "channel/UC-Cnlcx0QTD5WO9C8Z_suVQ"

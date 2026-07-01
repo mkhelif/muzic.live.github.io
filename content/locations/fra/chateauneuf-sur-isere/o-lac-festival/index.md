@@ -2,7 +2,6 @@
 id: "35f1062d-aa70-48db-9ed3-624014cce229"
 locationId: "7843e280-41c5-4414-b26d-b6aa59442d40"
 title: "Ō Lac Festival"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 45.014839

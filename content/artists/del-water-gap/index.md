@@ -1,7 +1,6 @@
 ---
 id: "7a23ed80-7b16-43fe-9c36-912b82ffd78a"
 title: "Del Water Gap"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

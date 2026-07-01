@@ -2,8 +2,6 @@
 date: 2025-12-02T10:00:00+02:00
 title: "Evanescence 2026 : une tournée mondiale monumentale portée par un line-up 100% féminin"
 category: "tour"
-cover: "cover.jpg"
-hero: "hero.jpg"
 artists:
   - "2f398845-d660-4bd3-bf54-4e81cfcd706f"
   - "f31a6c9a-fc2d-4159-9136-831e7b4be142"

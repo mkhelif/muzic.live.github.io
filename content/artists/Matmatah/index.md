@@ -1,7 +1,6 @@
 ---
 id: "9b4ea8b0-519d-41e1-9cf4-3bffc23913da"
 title: "Matmatah"
-cover: "cover.jpg"
 socials:
   facebook: "Matmatah.official"
   instagram: "matmatahofficiel"

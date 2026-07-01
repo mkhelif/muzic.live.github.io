@@ -1,7 +1,6 @@
 ---
 id: "74dd96c3-2ca5-4548-b0b0-6d9718ecb76a"
 title: "Electric Callboy"
-cover: "cover.jpg"
 socials:
   facebook: "electriccallboy"
   instagram: "electriccallboy"

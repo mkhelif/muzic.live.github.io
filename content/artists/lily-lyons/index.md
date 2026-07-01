@@ -1,7 +1,6 @@
 ---
 id: "97a1010e-8518-4fd3-bb90-6391bcd8139f"
 title: "Lily Lyons"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

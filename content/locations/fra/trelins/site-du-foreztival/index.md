@@ -2,7 +2,6 @@
 id: "0322c4ec-0da1-4d60-b112-e329ae7fb11b"
 locationId: "2a1a4560-a063-4fe7-81ac-97c20c409725"
 title: "Site du Foreztival"
-cover: "cover.jpg"
 address: "42130 Trelins"
 coordinates:
   latitude: 45.7

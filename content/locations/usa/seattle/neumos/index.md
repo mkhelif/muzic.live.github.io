@@ -2,7 +2,6 @@
 id: "62ceee87-d6d1-4d81-b967-b6ab1f44190a"
 locationId: "2cfbf966-50fc-4735-bd77-670e8d4ba5cb"
 title: "Neumos"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 47.613954

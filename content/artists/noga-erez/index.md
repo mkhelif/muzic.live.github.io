@@ -1,7 +1,6 @@
 ---
 id: "397ec926-80f8-45ec-b08d-5f4bb7833c88"
 title: "Noga Erez"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

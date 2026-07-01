@@ -2,7 +2,6 @@
 id: "6036dd44-d601-44ff-bf5e-85df7331dc27"
 locationId: "a018767a-af23-4c57-9ae9-4d10887dd806"
 title: "Le Radiant"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 45.796995

@@ -1,7 +1,6 @@
 ---
 id: "1f396abc-2cfc-4378-ae4a-0561ac48bc61"
 title: "Rock The Lakes"
-cover: "cover.jpg"
 socials:
   facebook: "rockthelakesfestival"
   instagram: "rockthelakesfestival"

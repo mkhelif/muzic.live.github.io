@@ -1,7 +1,6 @@
 ---
 id: "d996ca19-d866-4177-9978-09f96291696c"
 title: "Johnny Mafia"
-cover: "cover.jpg"
 socials:
   facebook: "johnnymafiagroupe"
   instagram: "johnnymafiasens"

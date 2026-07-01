@@ -1,7 +1,6 @@
 ---
 id: "3a6f10e8-245a-49d1-8371-40ea8338c32b"
 title: "MNNQNS"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

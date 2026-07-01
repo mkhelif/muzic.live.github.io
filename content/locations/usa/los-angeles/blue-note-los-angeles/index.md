@@ -2,7 +2,6 @@
 id: "e223c34d-39bc-4f71-b5ca-b04b7c73188d"
 locationId: "26c5ebdd-95f2-482b-9f48-4b9d01debdf4"
 title: "Blue Note Los Angeles"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 34.053691

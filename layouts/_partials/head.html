@@ -15,7 +15,7 @@
 {{- end -}}
 {{- $ogType := cond .IsPage "article" "website" -}}
 {{- $ogImage := "" -}}
-{{- with .Params.cover -}}
+{{- with (.Params.cover | default "cover.jpg") -}}
     {{- with ($.Resources.Get .) -}}
         {{- $ogImage = .Permalink -}}
     {{- end -}}

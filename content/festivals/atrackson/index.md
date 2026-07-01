@@ -1,7 +1,6 @@
 ---
 id: "1a3b686c-c763-4bfd-aba9-e19957f88765"
 title: "Atrack'Son"
-cover: "cover.jpg"
 socials:
   facebook: "latrackson"
   instagram: "latrackson"

@@ -2,7 +2,6 @@
 date: 2026-02-04T14:00:00+01:00
 title: "Slipknot : l'album fantôme \"Look Outside Your Window\" enfin confirmé pour le Record Store Day"
 category: "album"
-cover: "cover.jpg"
 artists:
   - "3100a2b0-8068-4fbe-8498-6f2721c90427"
 albums:

@@ -1,7 +1,6 @@
 ---
 id: "bb0a1043-d8af-44fb-bca5-2778d6ab0437"
 title: "Rodrigo y Gabriela"
-cover: "cover.jpg"
 socials:
   facebook: "rodgab"
   instagram: "rodrigoygabriela"

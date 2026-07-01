@@ -1,7 +1,6 @@
 ---
 id: "ecf7b324-25da-4539-b45a-ac3f2e11c4c8"
 title: "Deki Alem"
-cover: "cover.jpg"
 socials:
   instagram: "dekialem"
 ---

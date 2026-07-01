@@ -1,7 +1,6 @@
 ---
 id: "dc9d1242-c9e2-4520-8300-fc668415aae7"
 title: "Béjart Ballet Lausanne"
-cover: "cover.jpg"
 socials:
   instagram: "bejartballetlausanne"
   web: "https://www.bejart.ch/"

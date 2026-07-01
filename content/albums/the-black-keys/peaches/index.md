@@ -4,7 +4,6 @@ date: 2026-05-01T00:00:00+02:00
 title: "Peaches!"
 subtitle: "10 titres, 44:51"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 9
 artists:
   - "d405b24b-376e-439b-8ec9-157d73b4af89"

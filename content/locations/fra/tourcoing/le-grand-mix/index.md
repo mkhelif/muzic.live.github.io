@@ -2,7 +2,6 @@
 id: "0c6fd7ed-87c3-4556-850e-08d3fc9f5408"
 locationId: "6e84decd-4d48-413b-a6bf-177720503283"
 title: "Le Grand Mix"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 50.724889

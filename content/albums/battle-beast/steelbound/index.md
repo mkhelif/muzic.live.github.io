@@ -4,7 +4,6 @@ date: 2025-10-17T00:00:00+02:00
 title: "Steelbound"
 subtitle: "10 titres, 37:06"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 7
 artists:
   - "3a93ff68-f045-4dc2-b55d-aacae431b76e"

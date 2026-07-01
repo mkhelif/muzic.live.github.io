@@ -2,7 +2,6 @@
 date: 2025-07-31T14:30:00+02:00
 title: "Tobias Forge de Ghost : \Les gens redécouvrent ce que c'est que d'assister à un concert\" - Le futur des shows sera sans téléphone"
 category: "concert"
-cover: "cover.jpg"
 artists:
   - "c3b8c08a-b88d-4cd1-9b6c-194f2d341996"
 albums:

@@ -2,7 +2,6 @@
 id: "2959a292-e943-4bbf-8b48-b0b334dd2dd7"
 locationId: "2da24c2c-9a95-4fac-a1f6-c59e535c2330"
 title: "Foufounes Electriques"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 45.510993

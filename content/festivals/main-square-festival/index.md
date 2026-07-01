@@ -1,7 +1,6 @@
 ---
 id: "a37f93d3-4f74-4702-950a-d050c08df832"
 title: "Main Square Festival"
-cover: "cover.jpg"
 socials:
   facebook: "mainsquarefestival"
   instagram: "mainsquarefestival"

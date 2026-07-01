@@ -1,7 +1,6 @@
 ---
 id: "8c0e20a1-717a-465c-a09d-baeacebca72f"
 title: "Kolinga"
-cover: "cover.jpg"
 socials:
   facebook: "kolingamusic"
   instagram: "kolingamusic"

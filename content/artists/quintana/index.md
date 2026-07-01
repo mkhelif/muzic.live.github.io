@@ -1,7 +1,6 @@
 ---
 id: "a36a28af-137f-4f22-8023-6e51e3c41839"
 title: "Quintana"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

@@ -1,7 +1,6 @@
 ---
 id: "b4d4e7c2-db8c-4db7-b9f8-664441a33cb8"
 title: "The Royston Club"
-cover: "cover.jpg"
 socials:
   facebook: "theroystonclub"
   instagram: "theroystonclub_"

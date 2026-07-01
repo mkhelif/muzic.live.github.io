@@ -1,7 +1,6 @@
 ---
 id: "d224b882-ac24-47f6-9adb-80e8dedc4ee9"
 title: "Dream Theater"
-cover: "cover.jpg"
 socials:
   facebook: "dreamtheater"
   instagram: "dreamtheaterofficial"

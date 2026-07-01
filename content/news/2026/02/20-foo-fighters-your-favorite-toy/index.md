@@ -2,7 +2,6 @@
 date: 2026-02-20T10:00:00+01:00
 title: "Foo Fighters : nouveau single, nouvel album \"Your Favorite Toy\" et tournée mondiale avec Queens of the Stone Age"
 category: "album"
-cover: "cover.jpg"
 artists:
   - "7ac67624-1f61-4dd5-9059-bb419074f9fd"
   - "0e10f68d-165c-471d-815b-f3db35e446ed"

@@ -2,7 +2,6 @@
 id: "6d9b2e51-4aed-4c54-814f-d3c23e845618"
 locationId: "53f02ac4-ab34-482b-915d-d13be3e6413e"
 title: "Uptown Theater"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 39.060924

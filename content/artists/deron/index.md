@@ -1,7 +1,6 @@
 ---
 id: "81e573b3-93fc-4333-8a9b-899876bede9d"
 title: "DERON"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

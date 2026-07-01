@@ -1,7 +1,6 @@
 ---
 id: "fbfb1f1a-8b4a-4b11-b3e9-2e9f7ffc697a"
 title: "Linlin"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

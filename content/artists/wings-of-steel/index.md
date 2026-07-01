@@ -1,7 +1,6 @@
 ---
 id: "075a2e4e-4568-4662-b71e-2088706b76d7"
 title: "Wings of Steel"
-cover: "cover.jpg"
 socials:
   facebook: "OfficialWingsofSteel"
   instagram: "wingsofsteelband"

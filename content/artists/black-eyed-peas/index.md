@@ -1,7 +1,6 @@
 ---
 id: "2f089a14-49af-4646-939f-fc439eeb767a"
 title: "Black Eyed Peas"
-cover: "cover.jpg"
 socials:
   instagram: "bep"
   web: "https://www.blackeyedpeas.com/"

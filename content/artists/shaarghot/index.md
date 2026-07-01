@@ -1,7 +1,6 @@
 ---
 id: "bdf4adfc-cc48-46ed-84e4-bab931b7ddef"
 title: "Shaârghot"
-cover: "cover.jpg"
 socials:
   facebook: "shaarghot"
   instagram: "shaarghot_official"

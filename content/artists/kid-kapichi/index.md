@@ -1,7 +1,6 @@
 ---
 id: "3ff8bd16-2687-4ea0-895d-da89855e8eb9"
 title: "Kid Kapichi"
-cover: "cover.jpg"
 socials:
   facebook: "KidKapichi"
   instagram: "kidkapichi"

@@ -1,7 +1,6 @@
 ---
 id: "5f8dc2cf-1f0d-4cce-acbc-6452e99cd924"
 title: "Five Finger Death Punch"
-cover: "cover.jpg"
 socials:
   facebook: "fivefingerdeathpunch"
   instagram: "5fdp"

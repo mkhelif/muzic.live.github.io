@@ -4,7 +4,6 @@ date: 2025-10-17T00:00:00+02:00
 title: "Legends"
 subtitle: "11 titres, 45:43"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 6
 artists:
   - "477cfe7f-0349-4843-ae01-f8e7000dd261"

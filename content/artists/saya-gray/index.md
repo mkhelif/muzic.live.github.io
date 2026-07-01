@@ -1,7 +1,6 @@
 ---
 id: "35074d96-f001-461c-8c28-60eaa0abacc5"
 title: "Saya Gray"
-cover: "cover.jpg"
 socials:
   instagram: "sayagray"
   bandcamp: "sayagray"

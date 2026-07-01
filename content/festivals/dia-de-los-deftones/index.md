@@ -1,7 +1,6 @@
 ---
 id: "d63bda79-ccdc-4481-afd5-d9eb7973a3bd"
 title: "Dia De Los Deftones"
-cover: "cover.jpg"
 socials:
   facebook: ""
   instagram: "diadelosdeftones"

@@ -1,7 +1,6 @@
 ---
 id: "43dde4ab-4757-4283-90ce-408d050bc4bc"
 title: "Seriously Serious"
-cover: "cover.jpg"
 socials:
   facebook: "seriously.serious.official"
   instagram: "seriously_serious_official"

@@ -2,7 +2,6 @@
 date: 2026-07-01T12:00:00+02:00
 title: "Deftones dévoilent la programmation 2026 de Dia De Los Deftones : AFI, Converge et The Neighbourhood au rendez-vous"
 category: "festival"
-cover: "cover.jpg"
 festival: "d63bda79-ccdc-4481-afd5-d9eb7973a3bd"
 artists:
   - "0e67deef-962b-488a-a4c1-3cd509f507b7"

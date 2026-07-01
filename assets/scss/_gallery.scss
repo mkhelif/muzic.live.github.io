@@ -75,6 +75,21 @@ body.gallery-lock {
         margin-top: 0.75rem;
     }
 
+    &__credit {
+        color: $light;
+        font-size: 0.75rem;
+        margin-top: 0.25rem;
+        opacity: 0.75;
+
+        &:empty {
+            display: none;
+        }
+
+        a {
+            color: $primary;
+        }
+    }
+
     &__close {
         position: absolute;
         top: 0.75rem;

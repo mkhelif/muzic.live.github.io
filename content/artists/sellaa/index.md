@@ -1,7 +1,6 @@
 ---
 id: "fe333470-be94-41aa-9c5c-07f6f3879dc8"
 title: "Sellaa"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

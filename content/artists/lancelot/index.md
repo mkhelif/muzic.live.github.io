@@ -1,7 +1,6 @@
 ---
 id: "ddbe96ab-1422-4cf1-b592-35c2a38582bb"
 title: "Lancelot"
-cover: "cover.jpg"
 socials:
   instagram: "lancelot"
 ---

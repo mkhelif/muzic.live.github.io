@@ -2,8 +2,6 @@
 date: 2025-10-06T14:30:00+02:00
 title: "Powerwolf immortalise leur show le plus spectaculaire avec Wildlive"
 category: "album"
-cover: "cover.jpg"
-hero: "hero.jpg"
 artists:
   - "844af41a-c503-4748-9c8e-8f09de6065c2"
 albums:

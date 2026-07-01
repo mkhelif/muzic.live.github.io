@@ -1,7 +1,6 @@
 ---
 id: "5a2fc0d2-bd3b-4fca-bc29-ae627149fcec"
 title: "Nile Rodgers"
-cover: "cover.jpg"
 socials:
   facebook: "NileRodgersOfficial"
   instagram: "nilerodgers"

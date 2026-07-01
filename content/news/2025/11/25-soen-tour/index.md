@@ -2,7 +2,6 @@
 date: 2025-11-25T10:00:00+02:00
 title: "SOEN en 2026 : L'odyssée scandinave d'un géant du prog metal moderne"
 category: "tour"
-cover: "cover.jpg"
 artists:
   - "7f854bed-ca88-4c33-9be8-2d4f6c4d1b22"
 ---

@@ -2,7 +2,6 @@
 id: "3c97e20b-ef7c-4720-8676-adc15f913b2d"
 locationId: "2985f112-84dd-4f26-9285-2b88102317d8"
 title: "Td Garden"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 42.366299

@@ -1,7 +1,6 @@
 ---
 id: "4ee20c2d-7724-49ed-9b89-d8ced6f119ee"
 title: "Asian Dub Foundation"
-cover: "cover.jpg"
 socials:
   facebook: "asiandubfoundation"
   instagram: "asian_dub_foundation"

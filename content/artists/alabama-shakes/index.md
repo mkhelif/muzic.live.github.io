@@ -1,7 +1,6 @@
 ---
 id: "de5f2824-1f2f-4251-93a9-1ac54043491a"
 title: "Alabama Shakes"
-cover: "cover.jpg"
 socials:
   facebook: "theAlabamaShakes"
   instagram: "alabama_shakes"

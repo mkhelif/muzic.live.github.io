@@ -2,7 +2,6 @@
 id: "8beb08c7-a57b-447b-a8c5-379a86f5f5f9"
 locationId: "235b8364-83be-45fa-8857-193fd0e4d821"
 title: "Riverside Municipal Auditorium"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 33.982084

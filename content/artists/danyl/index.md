@@ -1,7 +1,6 @@
 ---
 id: "366172ee-a0e5-4db9-909a-782bbbda2ff2"
 title: "Danyl"
-cover: "cover.jpg"
 socials:
   instagram: "danyl"
 ---

@@ -1,7 +1,6 @@
 ---
 id: "644afdcf-a9b9-40dc-807c-1183aebe2c1c"
 title: "Nova Rock"
-cover: "cover.jpg"
 socials:
   facebook: "novarock"
   instagram: "novarockfestival"

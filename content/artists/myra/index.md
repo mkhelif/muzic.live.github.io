@@ -1,7 +1,6 @@
 ---
 id: "4faee371-604a-44e9-a014-0d7418dc5dde"
 title: "Myra"
-cover: "cover.jpg"
 socials:
   instagram: "smartkidmyra"
 ---

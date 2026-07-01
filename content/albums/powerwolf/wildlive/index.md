@@ -4,7 +4,6 @@ date: 2026-02-13T00:00:00+02:00
 title: "Wildlive (Live at Olympiahalle)"
 subtitle: "20 titres, 1:29:41"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 10
 artists:
   - "844af41a-c503-4748-9c8e-8f09de6065c2"

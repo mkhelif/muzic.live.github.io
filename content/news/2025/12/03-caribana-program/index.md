@@ -2,8 +2,6 @@
 date: 2025-12-03T10:00:00+02:00
 title: "Caribana 2026 : pop, rap et French Touch sur les rives du Léman"
 category: "festival"
-cover: "cover.jpg"
-hero: "hero.jpg"
 festival: "e7f2421e-bfb5-44d3-adef-686998921e73"
 artists:
   - "b2380604-a253-49d9-97be-25fd8ae1dfb9"

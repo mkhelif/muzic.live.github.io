@@ -2,7 +2,6 @@
 date: 2026-05-12T11:00:00+02:00
 title: "Gogol Bordello et Dropkick Murphys : deux légendes du punk mondial à Landerneau"
 category: "festival"
-cover: "cover.jpg"
 festival: "7c3db4f6-8d32-4af1-9199-1e4d147e22af"
 artists:
   - "1edb82b9-9d91-456d-971d-3de0a3b52826"

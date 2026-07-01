@@ -4,7 +4,6 @@ date: 2026-02-06T00:00:00+01:00
 title: "In Verses"
 subtitle: "10 titres, 01:03:17"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 9
 artists:
   - "e502e74f-fc40-4820-8f43-5d5583f1cb71"

@@ -1,7 +1,6 @@
 ---
 id: "efc4b136-61e7-40f2-8bcd-27240ab1c9ec"
 title: "Bloc Party"
-cover: "cover.jpg"
 socials:
   facebook: "blocpartyofficial"
   instagram: "thisisblocparty"

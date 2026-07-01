@@ -1,7 +1,6 @@
 ---
 id: "49db20de-c1ca-44cd-8a49-f79e18111e2b"
 title: "Urne"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

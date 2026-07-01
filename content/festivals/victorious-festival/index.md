@@ -1,7 +1,6 @@
 ---
 id: "889e3cda-f87f-44b6-a841-9b7d679dead6"
 title: "Victorious Festival"
-cover: "cover.jpg"
 socials:
   facebook: "VictoriousFestival"
   instagram: "victoriousfestival"

@@ -1,7 +1,6 @@
 ---
 id: "7507579e-bf09-461e-9e78-ddf54a9d8e50"
 title: "El Gato Negro"
-cover: "cover.jpg"
 socials:
   facebook: "elgatonegrotropical"
   instagram: "elgatonegrotropical"

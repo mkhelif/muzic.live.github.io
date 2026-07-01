@@ -1,7 +1,6 @@
 ---
 id: "ffd346db-8f25-42e7-9110-714aa509af2e"
 title: "Coup Dur"
-cover: "cover.jpg"
 ---
 
 Coup Dur est un trio de rock formé à la fin de l'année 2025, dont les membres sont répartis entre Bruxelles,

@@ -2,7 +2,6 @@
 id: "05721291-6219-40ad-b905-55eac2778cb0"
 locationId: "3d1342c8-4ab2-4561-a823-065c21339aae"
 title: "Doornroosje"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 51.844242

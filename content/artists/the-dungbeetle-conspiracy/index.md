@@ -1,7 +1,6 @@
 ---
 id: "f5599093-ec6a-4849-8241-e486095fffbe"
 title: "The Dungbeetle Conspiracy"
-cover: "cover.jpg"
 socials:
   facebook: "dungbeetleconspiracy"
   instagram: "the_dungbeetle_conspiracy"

@@ -1,0 +1,6 @@
+{{- with . -}}
+    <span class="ms-3 badge bg-primary text-dark border border-primary border-opacity-50">
+        <small><i class="fa fa-star small"></i></small>
+        {{ printf "%.1f" (float .) }}
+    </span>
+{{- end -}}

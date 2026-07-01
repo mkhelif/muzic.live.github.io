@@ -1,7 +1,6 @@
 ---
 id: "9366b889-d0c8-4b44-b388-6519b8ca600b"
 title: "AutoThune"
-cover: "cover.jpg"
 socials:
   facebook: "AutoThune"
   instagram: "autothune"

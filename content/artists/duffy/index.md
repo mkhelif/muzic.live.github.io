@@ -1,7 +1,6 @@
 ---
 id: "ba4b7236-00bf-433f-8f18-1d7e51b3c6a1"
 title: "Duffy"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

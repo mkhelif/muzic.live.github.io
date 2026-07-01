@@ -1,7 +1,6 @@
 ---
 id: "4fec5d54-529f-4f7b-9261-f7b2804263c3"
 title: "Zara Larsson"
-cover: "cover.jpg"
 socials:
   facebook: "ZaraLarsson"
   instagram: "zaralarsson"

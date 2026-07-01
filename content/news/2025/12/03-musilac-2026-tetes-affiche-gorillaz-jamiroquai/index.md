@@ -2,7 +2,6 @@
 date: 2025-12-03T10:00:00+01:00
 title: "Musilac 2026 : Gorillaz, Jamiroquai, Orelsan et Bigflo & Oli complètent un plateau stellaire"
 category: "festival"
-cover: "cover.jpg"
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
 artists:
   - "fea25d25-20e4-4847-b9a8-90f4e319e569"

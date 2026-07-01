@@ -1,7 +1,6 @@
 ---
 id: "f98dd26e-240a-4a42-9640-70007ff7b1f0"
 title: "Sean Paul"
-cover: "cover.jpg"
 socials:
   facebook: "seanpaul"
   instagram: "duttypaul"

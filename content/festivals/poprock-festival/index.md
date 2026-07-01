@@ -1,7 +1,6 @@
 ---
 id: "5ca0550d-1ec2-4fd9-b225-e447b038ec5a"
 title: "Poprock Festival"
-cover: "cover.jpg"
 socials:
   facebook: "poprockfestivalgilly"
   instagram: "poprockgilly"

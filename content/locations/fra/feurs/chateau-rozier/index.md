@@ -2,7 +2,6 @@
 id: "5930aebd-c02a-4937-9433-5583faa38d65"
 locationId: "84b8ba35-7e53-4baf-ab07-7b6ed01ca7cc"
 title: "Château Rozier"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 45.745773

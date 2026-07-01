@@ -1,7 +1,6 @@
 ---
 id: "b9ddba90-fef0-4607-894e-662559bba16a"
 title: "Justice"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

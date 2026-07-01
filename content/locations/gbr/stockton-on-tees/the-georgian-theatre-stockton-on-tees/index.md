@@ -2,7 +2,6 @@
 id: "05f6e11e-676b-4909-84ec-a36668b045ba"
 locationId: "65926827-c428-4b3b-9174-ddbdad627f0b"
 title: "The Georgian Theatre, Stockton-On-Tees"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 54.56452

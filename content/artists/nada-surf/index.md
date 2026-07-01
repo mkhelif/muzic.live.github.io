@@ -1,7 +1,6 @@
 ---
 id: "35f3c146-0d9b-44d8-bb73-31342b2e6bee"
 title: "Nada Surf"
-cover: "cover.jpg"
 socials:
   facebook: "NadaSurf"
   instagram: "nadasurf_official"

@@ -1,7 +1,6 @@
 ---
 id: "a7a545d6-c2d2-45b0-bb72-74f8dd78e14f"
 title: "Ava Mind"
-cover: "cover.jpg"
 ---
 
 Ava Mind, de son vrai nom connue par son pseudonyme AVAMind, est née le 1er mars 1992 à Toulouse. Personnalité

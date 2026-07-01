@@ -3,7 +3,7 @@
 // full-size image. Clicking opens an overlay with prev/next navigation,
 // scoped to the gallery that was clicked.
 (function () {
-    let overlay, imgEl, captionEl, items = [], idx = 0;
+    let overlay, imgEl, captionEl, creditEl, items = [], idx = 0;
 
     function build() {
         overlay = document.createElement('div');
@@ -14,12 +14,14 @@
             '<figure class="gallery-lightbox__figure">' +
                 '<img class="gallery-lightbox__img" alt="">' +
                 '<figcaption class="gallery-lightbox__caption"></figcaption>' +
+                '<div class="gallery-lightbox__credit"></div>' +
             '</figure>' +
             '<button class="gallery-lightbox__nav gallery-lightbox__next" type="button" aria-label="Image suivante"><i class="fa fa-caret-right"></i></button>';
         document.body.appendChild(overlay);
 
         imgEl = overlay.querySelector('.gallery-lightbox__img');
         captionEl = overlay.querySelector('.gallery-lightbox__caption');
+        creditEl = overlay.querySelector('.gallery-lightbox__credit');
 
         overlay.querySelector('.gallery-lightbox__close').addEventListener('click', close);
         overlay.querySelector('.gallery-lightbox__prev').addEventListener('click', (e) => { e.stopPropagation(); show(idx - 1); });
@@ -51,11 +53,19 @@
         captionEl.textContent = (idx + 1) + ' / ' + items.length;
     }
 
-    function open(list, start) {
+    function open(list, start, credit) {
         if (!overlay) {
             build();
         }
         items = list;
+        if (credit && credit.name) {
+            const safeName = credit.name.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+            creditEl.innerHTML = credit.url
+                ? '&copy; Photos / <a href="' + encodeURI(credit.url) + '" target="_blank" rel="noreferrer noopener">' + safeName + '</a>'
+                : '&copy; Photos / ' + safeName;
+        } else {
+            creditEl.innerHTML = '';
+        }
         overlay.classList.toggle('is-single', items.length <= 1);
         show(start);
         overlay.classList.add('is-open');
@@ -83,6 +93,7 @@
                 alt: im ? im.alt : ''
             };
         });
-        open(list, links.indexOf(link));
+        const credit = { name: gallery.dataset.creditName, url: gallery.dataset.creditUrl };
+        open(list, links.indexOf(link), credit);
     });
 })();

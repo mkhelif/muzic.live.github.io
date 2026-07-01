@@ -1,7 +1,6 @@
 ---
 id: "14246391-a81b-46e6-a578-36203a9579f1"
 title: "Kichta"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

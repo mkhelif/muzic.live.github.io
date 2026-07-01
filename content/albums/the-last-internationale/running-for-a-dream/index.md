@@ -4,7 +4,6 @@ date: 2023-03-31T00:00:00+02:00
 title: "Running for a Dream"
 subtitle: "10 titres"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 10
 artists:
   - "00088127-4a81-46e0-b85f-626ee390e3bc"

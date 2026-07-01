@@ -1,7 +1,6 @@
 ---
 id: "3e64b6ad-426d-4101-b382-a89d99fa8eea"
 title: "Pambele"
-cover: "cover.jpg"
 socials:
   facebook: "PambeleColombia"
   instagram: "pambelemusic"

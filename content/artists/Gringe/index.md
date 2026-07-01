@@ -1,7 +1,6 @@
 ---
 id: "6e6febdd-dd7a-45f2-8220-3c1ec817a95c"
 title: "Gringe"
-cover: "cover.jpg"
 socials:
   facebook: "Gringeofficiel"
   instagram: "gringe"

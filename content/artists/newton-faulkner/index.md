@@ -1,7 +1,6 @@
 ---
 id: "a91f95e3-4bf1-4364-83ff-c3e97660125b"
 title: "Newton Faulkner"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

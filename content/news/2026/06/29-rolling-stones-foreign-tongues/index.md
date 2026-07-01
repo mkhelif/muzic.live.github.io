@@ -2,7 +2,6 @@
 date: 2026-06-29T12:00:00+02:00
 title: "The Rolling Stones dévoilent deux nouveaux extraits de « Foreign Tongues » — l'album sort le 10 juillet"
 category: "album"
-cover: "cover.jpg"
 artists:
   - "1e85dd80-e816-4be3-b0e7-96cbc003daab"
 albums:

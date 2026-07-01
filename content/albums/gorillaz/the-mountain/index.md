@@ -4,7 +4,6 @@ date: 2026-02-27T00:00:00+01:00
 title: "The Mountain"
 subtitle: "15 titres, 01:06:28"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 9
 artists:
   - "fea25d25-20e4-4847-b9a8-90f4e319e569"

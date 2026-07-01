@@ -1,7 +1,6 @@
 ---
 id: "c71a09f8-ee14-429c-b0a8-a0eb452a6866"
 title: "Joe Hisaishi"
-cover: "cover.jpg"
 socials:
   instagram: "joehisaishi_official"
 ---

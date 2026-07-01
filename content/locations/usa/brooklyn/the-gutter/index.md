@@ -2,7 +2,6 @@
 id: "c57a322c-7d1a-407f-af5a-6db974f8587e"
 locationId: "9efb1e17-f5c4-420b-be9b-c5f13c23665a"
 title: "The Gutter"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 40.722741

@@ -1,7 +1,6 @@
 ---
 id: "583715c3-660b-415b-9196-5b52b5fda6a6"
 title: "Niska"
-cover: "cover.jpg"
 socials:
   facebook: "NiskaOfficiel"
   instagram: "niska_officiel"

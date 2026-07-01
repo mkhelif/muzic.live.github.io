@@ -1,7 +1,6 @@
 ---
 id: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
 title: "Musilac"
-cover: "cover.jpg"
 socials:
   facebook: "musilac"
   instagram: "festival_musilac"

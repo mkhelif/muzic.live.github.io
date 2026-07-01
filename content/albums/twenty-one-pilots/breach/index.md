@@ -4,7 +4,6 @@ date: 2025-09-12T00:00:00+02:00
 title: "Breach"
 subtitle: "13 titres, 47:29"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 7
 artists:
   - "90536ee8-6bb3-41bf-a04b-9f514ef4b4a7"

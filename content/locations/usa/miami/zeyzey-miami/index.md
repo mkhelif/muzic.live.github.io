@@ -2,7 +2,6 @@
 id: "72f9b7c3-39bb-49c8-b819-ae29f51ba0af"
 locationId: "acbf4aba-6312-41e4-834d-604a954f0be6"
 title: "Zeyzey Miami"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 25.832808

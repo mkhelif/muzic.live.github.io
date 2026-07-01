@@ -1,7 +1,6 @@
 ---
 id: "a1c26486-0451-4806-af8d-50386d2d9a60"
 title: "Superbus"
-cover: "cover.jpg"
 socials:
   facebook: "superbusofficiel"
   instagram: "superbus__"

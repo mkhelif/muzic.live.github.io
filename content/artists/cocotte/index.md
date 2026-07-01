@@ -1,7 +1,6 @@
 ---
 id: "3160f323-d8c8-41a7-92b9-0194bc691a7f"
 title: "Cocotte"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

@@ -1,7 +1,6 @@
 ---
 id: "6e2fd44a-2158-4d64-aab6-aba8f31249d6"
 title: "Frank Black"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

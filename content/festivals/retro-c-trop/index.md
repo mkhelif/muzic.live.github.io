@@ -1,7 +1,6 @@
 ---
 id: "26e7f23b-ad12-409a-9e42-64ec6fd664f5"
 title: "Retro C Trop"
-cover: "cover.jpg"
 socials:
   facebook: "retroctrop"
   instagram: "retroctrop"

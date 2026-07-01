@@ -1,7 +1,6 @@
 ---
 id: "cab4c355-2aa0-47e4-8dd0-e5c0cd702be3"
 title: "Gregory Porter"
-cover: "cover.jpg"
 socials:
   facebook: "gregoryportermusic"
   instagram: "gregoryportermusic"

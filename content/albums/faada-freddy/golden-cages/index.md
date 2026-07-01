@@ -4,7 +4,6 @@ date: 2024-03-15T00:00:00+02:00
 title: "Golden Cages"
 subtitle: "12 titres, 38:39"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 10
 artists:
   - "3359f956-a55b-4b78-bf3e-a7c4d391ef9a"

@@ -2,7 +2,6 @@
 id: "9e23177a-0c2a-4152-826b-0fb3d8a04cb1"
 locationId: "bb73aeb1-8dc4-426d-b392-cb1aaee8b5fa"
 title: "Miramar Beach"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 30.382517

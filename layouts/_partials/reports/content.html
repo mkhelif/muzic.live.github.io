@@ -20,7 +20,9 @@
     <!-- Other reports -->
     <div data-pagefind-ignore="all" class="d-print-none">
         {{ with .Params.festival }}
-            <h4 class="mt-5 mb-4 p-3 bg-primary text-dark">Autres chroniques du festival {{ partial "festivals/name.html" . }}</h4>
+            {{ $festLink := "" }}{{ $festName := "" }}
+            {{ range where (where site.RegularPages "Section" "festivals") ".Params.id" . }}{{ $festLink = .RelPermalink }}{{ $festName = .LinkTitle }}{{ end }}
+            <div class="mt-5 mb-4">{{ partial "titles/h2.html" (dict "title" (printf "Autres chroniques du festival %s" $festName) "link" $festLink) }}</div>
             {{ $reports := where $.Site.RegularPages "Section" "reports" }}
             {{ $reports = where $reports ".Params.festival" . }}
             {{ $reports = where $reports ".Path" "ne" $.Path }}

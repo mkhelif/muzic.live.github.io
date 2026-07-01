@@ -1,7 +1,6 @@
 ---
 id: "62ef5fde-be61-43c1-8f65-ae931f5f16c7"
 title: "Fantastic Negrito"
-cover: "cover.jpg"
 socials:
   facebook: "fantasticnegrito"
   instagram: "fantasticnegrito"

@@ -1,7 +1,6 @@
 ---
 id: "d3a31d01-5abb-4f6a-b191-67943e6f9f13"
 title: "Starsailor"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

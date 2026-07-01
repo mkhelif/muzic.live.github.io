@@ -2,8 +2,6 @@
 date: 2026-02-23T16:00:00+01:00
 title: "Rush : la tournée \"Fifty Something\" prend forme avec 58 dates et un line-up complet"
 category: "tour"
-cover: "cover.jpg"
-hero: "hero.jpg"
 artists:
   - "772d13fa-8409-487c-8fee-3dd4f8ceb34c"
 ---

@@ -1,7 +1,6 @@
 ---
 id: "a9ce6260-715d-4642-b21f-d35e62a8bf4a"
 title: "Rival Sons"
-cover: "cover.jpg"
 socials:
   facebook: "rivalsons"
   instagram: "rivalsons"

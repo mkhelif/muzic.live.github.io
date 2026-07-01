@@ -4,7 +4,6 @@ date: 2025-02-27T00:00:00+02:00
 title: "Reptile"
 subtitle: "10 titres, 22:50"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 9
 artists:
   - "89414ad3-08cb-4f9f-b95f-95b1c3f1db6f"

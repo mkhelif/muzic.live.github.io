@@ -1,7 +1,7 @@
 <div class="pb-2 px-3 px-sm-0" data-pagefind-ignore="all">
     <div class="float-sm-start d-flex align-content-center me-sm-3 my-2 mx-auto mw-100" style="width: 350px">
         <a href="{{ .album.RelPermalink }}" class="h-100">
-            {{ $cover := .album.Resources.Get .album.Params.cover }}
+            {{ $cover := .album.Resources.Get (.album.Params.cover | default "cover.jpg") }}
             {{ if $cover }}
                 <img src="{{ $cover.Permalink }}" alt="{{ .album.LinkTitle }}" loading="lazy" decoding="async" width="100%" class="rounded-1" />
             {{ else }}

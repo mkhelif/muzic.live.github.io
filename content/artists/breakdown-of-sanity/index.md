@@ -1,7 +1,6 @@
 ---
 id: "68001391-7583-4059-8120-7c207d6932d5"
 title: "Breakdown of Sanity"
-cover: "cover.jpg"
 ---
 
 Breakdown of Sanity est un groupe de metalcore et deathcore suisse originaire de Berne, fondé en 2007 par

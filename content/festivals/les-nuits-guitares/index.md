@@ -1,7 +1,6 @@
 ---
 id: "1143b026-7afa-429e-bb84-5c3e71476750"
 title: "Les Nuits Guitares"
-cover: "cover.jpg"
 socials:
   email: "contact@allover-production.com"
   facebook: "lesnuitsguitares"

@@ -1,7 +1,6 @@
 ---
 id: "70ecd28b-2990-49bb-9c91-b88215039ef4"
 title: "Antigel"
-cover: "cover.jpg"
 socials:
   facebook: "festantigel"
   instagram: "antigelfestival"

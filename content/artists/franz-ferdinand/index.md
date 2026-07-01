@@ -1,7 +1,6 @@
 ---
 id: "1388e767-c9b1-40fe-84ca-e644dc2463f4"
 title: "Franz Ferdinand"
-cover: "cover.jpg"
 socials:
   facebook: "officialfranzferdinand"
   instagram: "franz_ferdinand"

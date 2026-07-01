@@ -2,7 +2,6 @@
 date: 2026-02-06T10:00:00+01:00
 title: "Karnivool : \"In Verses\", le retour triomphal après treize ans de silence"
 category: "album"
-cover: "cover.jpg"
 artists:
   - "e502e74f-fc40-4820-8f43-5d5583f1cb71"
 albums:

@@ -1,7 +1,6 @@
 ---
 id: "e6dfcff4-99fa-40d1-be11-b358ceb9fdc7"
 title: "YUNGBLUD"
-cover: "cover.jpg"
 socials:
   facebook: "yungblud"
   instagram: "yungblud"

@@ -2,7 +2,6 @@
 id: "afd27845-0f1e-4092-8660-04ff64647c1b"
 locationId: "a4c6eee2-e4fd-49e1-afff-31ac9a598382"
 title: "Salle Oesia"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 47.450843

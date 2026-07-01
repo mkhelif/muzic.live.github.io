@@ -2,8 +2,6 @@
 date: 2025-08-09T14:30:00+02:00
 title: "Steelbound : Battle Beast célèbre la résistance dans un nouvel album"
 category: "album"
-cover: "cover.jpg"
-hero: "hero.jpg"
 artists:
   - "3a93ff68-f045-4dc2-b55d-aacae431b76e"
 albums:

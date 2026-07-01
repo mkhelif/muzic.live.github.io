@@ -1,7 +1,6 @@
 ---
 id: "73887e4b-18c8-457e-bc25-76d9b6b0446f"
 title: "La Bonne Aventure"
-cover: "cover.jpg"
 socials:
   facebook: "labonneaventurefestival"
   instagram: "labonneaventurefestival"

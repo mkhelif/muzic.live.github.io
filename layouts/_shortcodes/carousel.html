@@ -6,7 +6,19 @@
     {{- $pictures = sort $pictures "Name" "asc" -}}
 {{- end -}}
 
-<div id="gallery-{{ $id }}" class="gallery d-print-none">
+{{- $creditName := "" -}}
+{{- $creditUrl := "" -}}
+{{- with .Params.author -}}
+    {{- $author := . -}}
+    {{- with resources.Get "authors.json" | transform.Unmarshal -}}
+        {{- with index . $author -}}
+            {{- $creditName = .name -}}
+            {{- $creditUrl = .link -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+<div id="gallery-{{ $id }}" class="gallery d-print-none"{{ with $creditName }} data-credit-name="{{ . }}"{{ end }}{{ with $creditUrl }} data-credit-url="{{ . }}"{{ end }}>
     {{- range $pictures -}}
         {{- $thumb := .Resize "480x q80" -}}
         <a href="{{ .Permalink }}" aria-label="{{ $.Params.alt }}">

@@ -4,7 +4,6 @@ date: 2017-05-19T00:00:00+02:00
 title: "Crooked Teeth"
 subtitle: "10 titres, 34:03"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 8
 artists:
   - "a154d4df-154b-400b-ae92-95c550c5d3cf"

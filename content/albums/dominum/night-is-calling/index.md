@@ -5,7 +5,6 @@ id: "781ab40c-8039-4f02-ad69-d54175526863"
 title: "Night is Calling"
 subtitle: "13 titres"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 7
 artists:
   - "5c962b05-0937-4731-8c1c-2221d1f255c8"

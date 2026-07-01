@@ -4,7 +4,6 @@ date: 2025-11-15T00:00:00+02:00
 title: "Nyctophilia"
 subtitle: "9 titres, 36:51"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 8
 artists:
   - "c518c1e2-b44a-4e2c-80dc-88c14e4e6fe3"

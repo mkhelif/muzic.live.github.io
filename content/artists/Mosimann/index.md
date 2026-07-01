@@ -1,7 +1,6 @@
 ---
 id: "1f2c99dc-cdcb-4c46-a937-9253b03e73e5"
 title: "Mosimann"
-cover: "cover.jpg"
 socials:
   facebook: "MosimannOfficial"
   instagram: "mosimann"

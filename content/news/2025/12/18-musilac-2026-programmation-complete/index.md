@@ -2,7 +2,6 @@
 date: 2025-12-18T10:00:00+01:00
 title: "Musilac 2026 : la programmation complète dévoilée avec Charlotte Cardin, Pomme et Feu! Chatterton"
 category: "festival"
-cover: "cover.jpg"
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
 artists:
   - "51669b3b-b74c-4c57-8a31-a59dc1fccae2"

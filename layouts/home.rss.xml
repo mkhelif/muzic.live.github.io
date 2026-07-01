@@ -19,7 +19,7 @@
             <guid>{{ .Permalink }}</guid>
             <link>{{ .Permalink }}</link>
             <title>{{ .Title | transform.XMLEscape | safeHTML }}</title>
-            {{- with .Resources.Get .Params.cover }}
+            {{- with .Resources.Get (.Params.cover | default "cover.jpg") }}
             <enclosure url="{{ .Permalink }}" length="{{ .Content | len }}" type="{{ .MediaType }}" />
             {{- end }}
             <pubDate>{{ .PublishDate.Format $dateFormat | safeHTML }}</pubDate>

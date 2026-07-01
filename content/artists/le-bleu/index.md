@@ -1,7 +1,6 @@
 ---
 id: "20ff63c3-9f26-4ea8-9e19-523b04d370b1"
 title: "Le Bleu"
-cover: "cover.jpg"
 socials:
   instagram: "lebleuencore"
   soundcloud: "user-818978861"

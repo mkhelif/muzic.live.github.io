@@ -1,7 +1,6 @@
 ---
 id: "2fa699c8-4989-4cdf-a0f7-0c6425a74195"
 title: "Cassius"
-cover: "cover.jpg"
 socials:
   instagram: "cassius"
 ---

@@ -1,7 +1,6 @@
 ---
 id: "8bf3e9b5-d5f6-4e78-ac81-9458f19ee376"
 title: "Dynamite Shakers"
-cover: "cover.jpg"
 socials:
   facebook: "dynamiteshakers"
   instagram: "dynashakers"

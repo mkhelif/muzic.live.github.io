@@ -1,7 +1,6 @@
 ---
 id: "bb2d1a60-9465-4724-9209-25e2d9e18b97"
 title: "Flaur"
-cover: "cover.jpg"
 socials:
   facebook: "FlaurMusic"
   instagram: "flaurmusic"

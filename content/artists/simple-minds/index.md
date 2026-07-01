@@ -1,7 +1,6 @@
 ---
 id: "520f6c28-131e-45ba-9661-37264678b9cf"
 title: "Simple Minds"
-cover: "cover.jpg"
 socials:
   facebook: "simpleminds"
   instagram: "simplemindsmusic"

@@ -2,7 +2,6 @@
 id: "fe8e0849-b157-4e81-859a-bb7c6ec3c3c8"
 locationId: "eac6fd4a-e1f4-492a-8340-aeb3b163e088"
 title: "Sala Capitol"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 42.876789

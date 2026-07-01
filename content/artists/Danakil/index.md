@@ -1,7 +1,6 @@
 ---
 id: "18d9ad69-9cb9-4880-a417-3d5bf70fc8e1"
 title: "Danakil"
-cover: "cover.jpg"
 socials:
   facebook: "danakil"
   instagram: "danakilofficiel"

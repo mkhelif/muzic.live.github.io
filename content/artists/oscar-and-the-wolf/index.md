@@ -1,7 +1,6 @@
 ---
 id: "84423f84-1b3f-4269-9d0b-212edc08fb53"
 title: "Oscar and the Wolf"
-cover: "cover.jpg"
 socials:
   facebook: "oscarandthewolf"
   instagram: "oscarandthewolf"

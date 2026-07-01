@@ -1,7 +1,6 @@
 ---
 id: "ed47a838-c652-4756-83d9-3d0940f9cd15"
 title: "Greenfield Festival"
-cover: "cover.jpg"
 socials:
   facebook: "greenfieldfestival.ch"
   instagram: "greenfieldfestival"

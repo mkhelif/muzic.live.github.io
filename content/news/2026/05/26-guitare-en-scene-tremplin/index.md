@@ -2,7 +2,6 @@
 date: 2026-05-26T09:00:00+02:00
 title: "Guitare en Scène 2026 : les quatre finalistes du Tremplin sont connus"
 category: "festival"
-cover: "cover.jpg"
 festival: "13e59726-a669-48a1-93ad-d52d04e4f44f"
 artists:
   - "54fc1850-3bc8-4665-bde2-5378ae85611b"

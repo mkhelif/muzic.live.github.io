@@ -1,7 +1,6 @@
 ---
 id: "7181d84a-c9ba-4739-9128-f6d38d0c71af"
 title: "Jamiroquai"
-cover: "cover.jpg"
 socials:
   facebook: "jamiroquai"
   instagram: "jamiroquaihq"

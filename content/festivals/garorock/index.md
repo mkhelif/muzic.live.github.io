@@ -1,7 +1,6 @@
 ---
 id: "c27870cd-6fc9-4abd-8dd9-fb43255f7bc7"
 title: "Garorock"
-cover: "cover.jpg"
 socials:
   facebook: "festival.garorock"
   instagram: "festivalgarorock"

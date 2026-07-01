@@ -1,7 +1,6 @@
 ---
 id: "36aa2101-60b2-433c-9b89-7127c6212c38"
 title: "Catchy Peril"
-cover: "cover.jpg"
 socials:
   facebook: "p/Catchy-Peril-61555198564591/"
   instagram: "catchy_peril"

@@ -1,7 +1,6 @@
 ---
 id: "072b9fe9-1868-4efb-92e2-c9dd36b7d2d6"
 title: "Caballero"
-cover: "cover.jpg"
 socials:
   facebook: "Caballerobxl"
   instagram: "caballerobxl"

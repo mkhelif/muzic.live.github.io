@@ -4,7 +4,6 @@ date: 2025-09-05T00:00:00+02:00
 title: "INERTIA"
 subtitle: "10 titres, 29:34"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 8
 artists:
   - "68618401-47a8-439b-8e62-ba14b080ff6a"

@@ -2,7 +2,6 @@
 id: "3c584d46-0178-4232-9f93-883cce10106c"
 locationId: "ddbd6c68-1550-453f-a892-b74907f3bb72"
 title: "Rock Café"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 50.082038

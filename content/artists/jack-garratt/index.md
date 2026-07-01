@@ -1,7 +1,6 @@
 ---
 id: "d6fee066-9655-473f-9364-1e4bcfafa932"
 title: "Jack Garratt"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

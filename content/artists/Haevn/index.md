@@ -1,7 +1,6 @@
 ---
 id: "98e37a4e-4214-47bc-be3d-efbbe640b933"
 title: "Haevn"
-cover: "cover.jpg"
 socials:
   facebook: "haevnmusic"
   instagram: "haevnmusic"

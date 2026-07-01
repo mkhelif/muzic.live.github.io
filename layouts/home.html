@@ -28,7 +28,7 @@
             </div>
         {{ end }}
 
-        <!-- Actualités -->
+        <!-- News -->
         <section class="mt-3">
             <div class="d-flex justify-content-between align-items-end border-bottom border-primary pb-3 mb-4 small">
                 {{ partial "titles/h2.html" "Actualités" }}
@@ -42,7 +42,7 @@
                     <div class="col">
                         <a href="{{ .RelPermalink }}" class="d-block text-reset text-decoration-none">
                             <div class="rounded overflow-hidden bg-dark">
-                                <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="object-fit-cover w-100 h-100" />
+                                <img src="{{ urls.JoinPath .Path (.Params.cover | default "cover.jpg") | absURL | safeURL }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="object-fit-cover w-100 h-100" />
                             </div>
                             <div class="d-flex justify-content-between align-items-center mt-2 small">
                                 {{ partial "news/category.html" .Params.category }}
@@ -55,34 +55,46 @@
             </div>
         </section>
 
+        <!-- Next festivals -->
+        {{- $festivals := slice -}}
+        {{- range (sort (where (where (where .Site.Pages "Section" "events") "Date" ">=" now) "Params.festival" "ne" nil) "Date" "asc") -}}
+            {{- $festivals = $festivals | append .Params.festival -}}
+        {{- end -}}
+        {{- $festivals = $festivals | uniq | first 4 -}}
+        {{ if $festivals }}
+            <section class="mt-5">
+                {{ partial "titles/h4.html" (dict "title" "Prochains festivals" "link" "/festivals") }}
+                <div class="row row-cols-1 row-cols-md-4 g-4 pt-3">
+                    {{ range where (where site.RegularPages "Section" "festivals") ".Params.id" "in" $festivals }}
+                        <div class="col">
+                            <a href="{{ .RelPermalink }}" class="d-block text-decoration-none rounded overflow-hidden position-relative" style="height:clamp(140px,18vw,200px);">
+                                <img src="{{ urls.JoinPath .Path (.Params.cover | default "cover.jpg") | absURL | safeURL }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover" />
+                                <div class="position-absolute bottom-0 start-0 w-100 p-3" style="background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.75) 100%)">
+                                    <h6 class="text-white mb-0">{{ .LinkTitle }}</h6>
+                                </div>
+                            </a>
+                        </div>
+                    {{ end }}
+                </div>
+            </section>
+        {{ end }}
+
         <!-- Chroniques de concerts + Albums -->
         <section class="row mt-5">
             <div class="col-lg-8">
-                <div class="d-flex justify-content-between align-items-end border-bottom border-primary pb-3 mb-2 small">
-                    {{ partial "titles/h4.html" "Chroniques de concerts" }}
-                    <a href="/reports" class="text-primary text-decoration-none text-uppercase font-monospace small">
-                        Tout voir
-                        <i class="fa fa-angle-right"></i>
-                    </a>
-                </div>
-
+                {{ partial "titles/h4.html" (dict "title" "Chroniques de concerts" "link" "/reports") }}
                 {{ range $index, $report := $reports }}
                     <div class="row py-3 {{ cond (eq (add $index 1) (len $reports)) "" "border-bottom border-light border-opacity-25" }}">
                         <div class="col-12 col-sm-3 rounded overflow-hidden bg-dark">
                             <a href="{{ .RelPermalink }}">
-                                <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="object-fit-cover w-100 h-100 rounded" />
+                                <img src="{{ urls.JoinPath .Path (.Params.cover | default "cover.jpg") | absURL | safeURL }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="object-fit-cover w-100 h-100 rounded" />
                             </a>
                         </div>
                         <div class="col-12 col-sm-9">
                             <div class="d-flex align-items-center text-secondary font-monospace small">
-                                <a class="text-reset" href="{{ .RelPermalink }}">
+                                <a class="text-reset d-flex align-items-center" href="{{ .RelPermalink }}">
                                     <small>{{ with .Params.locationId }}{{ partial "locations/label.html" . }} · {{ end }}{{ partial "format/datetime.html" (dict "date" .Date) }}</small>
-                                    {{ with .Params.rank }}
-                                    <small class="ms-3 badge bg-primary text-dark border border-primary border-opacity-50">
-                                        <small><i class="fa fa-star small"></i></small>
-                                        {{ printf "%.1f" (div . 2.0) }}
-                                    </small>
-                                    {{ end }}
+                                    {{ partial "home/rank.html" .Params.rank }}
                                 </a>
                             </div>
                             <h6 class="pt-1 mt-0 mb-1"><a class="text-reset" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h6>
@@ -93,40 +105,27 @@
             </div>
 
             <div class="col-lg-4">
-                <div class="d-flex justify-content-between align-items-end border-bottom border-primary pb-3 mb-2 small">
-                    {{ partial "titles/h4.html" "Albums" }}
-                    <a href="/albums" class="text-primary text-decoration-none text-uppercase font-monospace small">
-                        Tout voir
-                        <i class="fa fa-angle-right"></i>
-                    </a>
-                </div>
+                {{ partial "titles/h4.html" (dict "title" "Albums" "link" "/albums") }}
                 {{ range $index, $album := $albums }}
                     <div class="row py-3 {{ cond (eq (add $index 1) (len $albums)) "" "border-bottom border-light border-opacity-25" }}">
                         <div class="col-4">
                             <div class="rounded overflow-hidden bg-dark">
                                 <a href="{{ .RelPermalink }}">
-                                    <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="object-fit-cover w-100 h-100" />
+                                    <img src="{{ urls.JoinPath .Path (.Params.cover | default "cover.jpg") | absURL | safeURL }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="object-fit-cover w-100 h-100" />
                                 </a>
                             </div>
                         </div>
                         <div class="col-8">
                             {{ with .Params.artists }}<small class="text-primary font-monospace text-uppercase d-block">{{ partial "artists/name.html" (index . 0) }}</small>{{ end }}
                             <h6 class="pt-1 mt-0 mb-1">{{ .LinkTitle }}</h6>
-                            <small class="text-dark-emphasis font-monospace">
+                            <div class="d-flex align-items-center text-secondary font-monospace small">
                                 <small>{{ partial "format/datetime.html" (dict "date" .Date) }}</small>
-                                {{ with .Params.rank }}
-                                <span class="text-dark-emphasis">·</span>
-                                <small>
-                                    <small><i class="fa fa-star small"></i></small>
-                                    {{ printf "%.1f" (div . 2.0) }}
-                                </small>
-                                {{ end }}
-                            </small>
+                                {{ partial "home/rank.html" .Params.rank }}
+                            </div>
                         </div>
                     </div>
                 {{ end }}
             </div>
         </section>
-
     </div>
 {{ end }}

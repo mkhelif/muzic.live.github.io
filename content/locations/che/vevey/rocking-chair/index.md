@@ -2,7 +2,6 @@
 id: "fe38170e-a209-44a5-928a-ffa66dc2e6a4"
 locationId: "2ab326e4-3258-4e2d-bd24-473a6266439d"
 title: "Rocking Chair"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 46.472001

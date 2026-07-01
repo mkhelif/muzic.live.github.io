@@ -1,7 +1,6 @@
 ---
 id: "38b7820e-820c-4b35-898c-98d1a5cd5313"
 title: "Barns Courtney"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

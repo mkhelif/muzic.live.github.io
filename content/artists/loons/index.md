@@ -1,7 +1,6 @@
 ---
 id: "73fd9807-7cb6-43b9-bdcc-4e57d192f146"
 title: "Loons"
-cover: "cover.jpg"
 socials:
   facebook: "loonsmusic"
   instagram: "loonstheband"

@@ -1,7 +1,6 @@
 ---
 id: "8b1d3f9a-2e4c-4a6b-9f17-7c3d5e2a9b40"
 title: "Festival de Nîmes"
-cover: "cover.jpg"
 socials:
   facebook: "festivaldenimes"
   instagram: "festivalde.nimes"

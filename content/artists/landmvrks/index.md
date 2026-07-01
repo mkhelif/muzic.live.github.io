@@ -1,7 +1,6 @@
 ---
 id: "6904a478-cc3a-4be8-819e-3f81eca3adf2"
 title: "LANDMVRKS"
-cover: "cover.jpg"
 socials:
   facebook: "LANDMVRKS"
   instagram: "landmvrks"

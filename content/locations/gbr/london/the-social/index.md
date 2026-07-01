@@ -2,7 +2,6 @@
 id: "a48ddcf0-b910-4311-987a-51f67156bf66"
 locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "The Social"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 51.517319

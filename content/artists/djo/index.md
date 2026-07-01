@@ -1,7 +1,6 @@
 ---
 id: "c39c265e-2ecd-43bf-9201-ee3667d9f76b"
 title: "Djo"
-cover: "cover.jpg"
 socials:
   instagram: "djotime"
   tiktok: "@djo_time"

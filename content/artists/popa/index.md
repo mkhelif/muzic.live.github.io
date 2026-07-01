@@ -1,7 +1,6 @@
 ---
 id: "89845e37-2354-45e9-9950-c25a9940c50e"
 title: "Popa"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

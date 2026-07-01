@@ -2,7 +2,6 @@
 id: "a96150fd-cd15-4d68-8c73-31fff4f3ae29"
 locationId: "6254d67a-03a1-4068-9004-6e14751c3c5c"
 title: "Clisson"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 47.085942

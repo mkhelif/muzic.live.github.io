@@ -2,7 +2,6 @@
 id: "1431851f-21db-489e-bb6e-172e4674f44c"
 locationId: "27a61dc3-4d36-4db4-b8a5-3d5334189f56"
 title: "Den Atelier"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 48.377715

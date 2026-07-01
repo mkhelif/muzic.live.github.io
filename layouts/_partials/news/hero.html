@@ -1,6 +1,6 @@
 {{ with .context }}
     <a href="{{ .RelPermalink }}" class="d-block text-decoration-none">
-        <img src="{{ urls.JoinPath .Path .Params.cover | absURL | safeURL }}" alt="{{ .LinkTitle }}" {{ if $.primary }}fetchpriority="high"{{ else }}loading="lazy"{{ end }} decoding="async" class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover" />
+        <img src="{{ urls.JoinPath .Path (.Params.cover | default "cover.jpg") | absURL | safeURL }}" alt="{{ .LinkTitle }}" {{ if $.primary }}fetchpriority="high"{{ else }}loading="lazy"{{ end }} decoding="async" class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover" />
         <div class="position-absolute bottom-0 start-0 w-100 p-4" style="background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.75) 100%)">
             {{ partial "news/category-badge.html" .Params.category }}
             <h6 class="text-white {{ cond $.primary "" "small" }}">{{ .LinkTitle }}</h6>

@@ -1,5 +1,5 @@
 {{- $image := "" -}}
-{{- with .Params.cover -}}
+{{- with (.Params.cover | default "cover.jpg") -}}
     {{- with ($.Resources.Get .) -}}
         {{- $image = .Permalink -}}
     {{- end -}}

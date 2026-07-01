@@ -1,7 +1,6 @@
 ---
 id: "81c96688-6a19-4bc5-aa59-c3cb039fe6a0"
 title: "Marilyn Manson"
-cover: "cover.jpg"
 socials:
   instagram: "marilynmanson"
   web: "https://www.marilynmanson.com/"

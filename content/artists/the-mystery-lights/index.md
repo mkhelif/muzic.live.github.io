@@ -1,7 +1,6 @@
 ---
 id: "a60eee1a-fcdc-4325-8ed6-9c1c85faf649"
 title: "The Mystery Lights"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

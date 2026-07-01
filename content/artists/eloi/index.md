@@ -1,7 +1,6 @@
 ---
 id: "f5532e9f-2576-4890-887a-f26e41a82ad7"
 title: "Eloi"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

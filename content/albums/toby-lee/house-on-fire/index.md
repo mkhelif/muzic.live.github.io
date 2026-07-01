@@ -4,7 +4,6 @@ date: 2024-10-04T00:00:00+02:00
 title: "House on Fire"
 subtitle: "11 titres, 34:49"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 8
 artists:
   - "155c93a8-0b66-44f1-9322-88ca9e52a44d"

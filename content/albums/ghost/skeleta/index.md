@@ -4,7 +4,6 @@ date: 2025-04-25T00:00:00+02:00
 title: "Skeletá"
 subtitle: "10 titres, 46:49"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 6
 artists:
   - "c3b8c08a-b88d-4cd1-9b6c-194f2d341996"

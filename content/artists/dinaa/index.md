@@ -1,7 +1,6 @@
 ---
 id: "b5d0fe24-672a-4485-afc7-63028c4ca707"
 title: "Dinaa"
-cover: "cover.jpg"
 socials:
   instagram: "dinaa"
 ---

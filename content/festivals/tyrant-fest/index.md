@@ -1,7 +1,6 @@
 ---
 id: "139b9426-ab46-425e-84d4-35ba1c62598e"
 title: "Tyrant Fest"
-cover: "cover.jpg"
 socials:
   facebook: "tyrantfest"
   instagram: "tyrantfest"

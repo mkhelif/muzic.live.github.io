@@ -1,7 +1,6 @@
 ---
 id: "3ee1931d-1237-4b0b-9a9e-2a8c519484a0"
 title: "Tyla"
-cover: "cover.jpg"
 socials:
   facebook: "Tylasings"
   instagram: "tyla"

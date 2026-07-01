@@ -1,7 +1,6 @@
 ---
 id: "e7f2421e-bfb5-44d3-adef-686998921e73"
 title: "Caribana"
-cover: "cover.jpg"
 socials:
   facebook: "caribana.ch"
   instagram: "caribanafestival"

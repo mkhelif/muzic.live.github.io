@@ -1,7 +1,6 @@
 ---
 id: "0d148669-2fcc-4f12-ab6b-056efb435e05"
 title: "2097"
-cover: "cover.jpg"
 socials:
   facebook: "2097Band"
   instagram: "2097_band"

@@ -1,7 +1,6 @@
 ---
 id: "ff5c674f-4a00-4e3a-bbdc-d34824c50d58"
 title: "Saskia"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

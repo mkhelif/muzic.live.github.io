@@ -2,8 +2,6 @@
 date: 2025-10-15T10:00:00+02:00
 title: "Larkin Poe lance \"The Bloom UK-EU Tour 2025\" : Les sœurs Lovell déferlent sur l'Europe"
 category: "tour"
-cover: "cover.jpg"
-hero: "hero.jpg"
 artists:
   - "cc301983-a8ee-4bde-9063-b2e99eb3017f"
 ---

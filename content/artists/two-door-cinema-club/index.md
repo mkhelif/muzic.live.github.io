@@ -1,7 +1,6 @@
 ---
 id: "e202aa2b-69cf-461e-b7bb-22a756e7cf66"
 title: "Two Door Cinema Club"
-cover: "cover.jpg"
 socials:
   facebook: "twodoorcinemaclub"
   instagram: "twodoorcinemaclub"

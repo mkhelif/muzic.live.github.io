@@ -2,7 +2,6 @@
 id: "bd98ea43-06b8-4ba8-b464-088cb1511d64"
 locationId: "3b71a7b5-a9e5-41b7-a4d5-ee19fe2aa8d9"
 title: "Reva And David Logan Center For The Arts"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 41.875562

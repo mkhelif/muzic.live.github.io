@@ -1,7 +1,6 @@
 ---
 id: "a9b30707-6a10-48bb-9781-06f8fdae20f0"
 title: "Ladaniva"
-cover: "cover.jpg"
 socials:
   facebook: "ladanivayaman"
   instagram: "ladaniva.ladaniva"

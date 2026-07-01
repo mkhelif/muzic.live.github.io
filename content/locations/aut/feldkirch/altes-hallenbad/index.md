@@ -2,7 +2,6 @@
 id: "570a1cd1-4e7c-4daf-a737-3e133c1ad557"
 locationId: "f5d67c52-5c05-4a7d-a113-8005b12f1af8"
 title: "Altes Hallenbad"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 47.234532

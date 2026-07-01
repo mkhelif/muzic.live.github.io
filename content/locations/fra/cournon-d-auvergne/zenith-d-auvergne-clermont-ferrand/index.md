@@ -2,7 +2,6 @@
 id: "22823597-88ef-4cc7-91de-701eef0e586b"
 locationId: "0ebb907c-d5ba-41ef-8146-b734b69cff2e"
 title: "Zénith D'Auvergne - Clermont-Ferrand"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 45.74655

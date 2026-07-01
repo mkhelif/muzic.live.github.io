@@ -1,7 +1,6 @@
 ---
 id: "ed3ade56-591f-416c-95ec-1d968a41ae54"
 title: "Gildaa"
-cover: "cover.jpg"
 socials:
   instagram: "gildaa"
 ---

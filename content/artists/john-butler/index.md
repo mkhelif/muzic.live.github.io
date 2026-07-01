@@ -1,7 +1,6 @@
 ---
 id: "28ebf650-ab2c-44d0-9c20-db53fb7cdb12"
 title: "John Butler"
-cover: "cover.jpg"
 socials:
   facebook: "JohnButlerofficial"
   instagram: "johnbutler"

@@ -1,7 +1,6 @@
 ---
 id: "646a7c69-6cfb-417b-98df-52130d3658ce"
 title: "Teknotrokids"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

@@ -1,7 +1,6 @@
 ---
 id: "fbd9f71a-fcc9-4751-aa59-4da5d1f78cac"
 title: "Deltron 3030"
-cover: "cover.jpg"
 socials:
   facebook: "OfficialDELTRON"
   instagram: "officialdeltron"

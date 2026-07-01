@@ -1,7 +1,6 @@
 ---
 id: "148e6804-42c4-41aa-af25-33a693a8af13"
 title: "Angine de Poitrine"
-cover: "cover.jpg"
 socials:
   facebook: "angine.poitrine"
   instagram: "anginedepoitrine"

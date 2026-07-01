@@ -4,7 +4,6 @@ date: 2025-02-28T00:00:00+02:00
 title: "Sur leurs cendres"
 subtitle: "11 titres, 34:14"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 8
 artists:
   - "e7ae033b-46c3-473a-99b2-e1209f7e97a9"

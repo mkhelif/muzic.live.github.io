@@ -2,7 +2,6 @@
 date: 2026-02-09T10:00:00+01:00
 title: "Solidays 2026 lâche 23 nouveaux noms : Major Lazer de retour, Nina Kraviz, Helena et une collaboration rap/hardcore inédite"
 category: "festival"
-cover: "cover.jpg"
 festival: "781241de-9bc3-42cf-86ae-f4cb401dc8d5"
 artists:
   - "f240c44a-bc9a-443c-a075-f0f33652cb75"

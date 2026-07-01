@@ -2,7 +2,6 @@
 date: 2026-04-28T10:00:00+02:00
 title: "Nantuafest 2026 : The Avener, Tayc, Petit Biscuit et Danakil au programme du festival de l'Ain"
 category: "festival"
-cover: "cover.jpg"
 festival: "e33f81d6-e91b-41a7-9499-023c018e3cb5"
 artists:
   - "e178ab20-76de-4e0d-8997-d18bc5f54d86"

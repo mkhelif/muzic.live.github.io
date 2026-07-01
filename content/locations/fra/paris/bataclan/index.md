@@ -2,7 +2,6 @@
 id: "34e0610f-b590-459c-9161-966d820ca3e9"
 locationId: "81773251-a33d-407e-9c75-62b47dbd91d1"
 title: "Bataclan"
-cover: "cover.jpg"
 address: "50 Boulevard Voltaire, 75011 Paris, France"
 coordinates:
   latitude: 48.86316

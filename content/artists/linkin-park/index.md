@@ -1,7 +1,6 @@
 ---
 id: "0b8a7424-dba1-4f5a-8f0e-42ebd1dd9f3b"
 title: "Linkin Park"
-cover: "cover.jpg"
 socials:
   facebook: "linkinpark"
   instagram: "linkinpark"

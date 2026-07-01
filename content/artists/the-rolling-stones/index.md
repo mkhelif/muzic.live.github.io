@@ -1,7 +1,6 @@
 ---
 id: "1e85dd80-e816-4be3-b0e7-96cbc003daab"
 title: "The Rolling Stones"
-cover: "cover.jpg"
 socials:
   facebook: "therollingstones"
   instagram: "therollingstones"

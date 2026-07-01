@@ -4,7 +4,6 @@ date: 2026-03-13T00:00:00+01:00
 title: "Into Oblivion"
 subtitle: "10 titres, 39:22"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 8.5
 artists:
   - "7efd460b-9eb3-42ed-aa54-2a538ac96902"

@@ -4,7 +4,6 @@ date: 2025-06-20T00:00:00+02:00
 title: "III"
 subtitle: "9 titres, 42:13"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 10
 artists:
   - "badb53d0-a3d1-4a37-81ca-c0c97653cfa4"

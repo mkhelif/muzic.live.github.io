@@ -1,7 +1,6 @@
 ---
 id: "bd7132b0-91cb-4579-9052-e4ea607374d3"
 title: "Rollo Doherty"
-cover: "cover.jpg"
 socials:
   instagram: "rollodoherty"
   youtube: "channel/UCFQUAXTjBG-xooJ_dyJ8iww"

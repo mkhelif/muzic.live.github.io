@@ -1,7 +1,6 @@
 ---
 id: "8b6a48c3-3233-4eeb-9785-ff74ecf88ec8"
 title: "Rock im Park"
-cover: "cover.jpg"
 socials:
   email: "info@argo-konzerte.de"
   facebook: "RockimPark"

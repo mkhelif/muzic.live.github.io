@@ -1,7 +1,6 @@
 ---
 id: "e2bf5aea-cc16-4370-ba19-db3a6c15746f"
 title: "Ko Ko Mo"
-cover: "cover.jpg"
 socials:
   facebook: "thisiskokomo"
   instagram: "thisiskokomo"

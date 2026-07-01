@@ -1,7 +1,6 @@
 ---
 id: "9a356617-3c30-4619-872b-55d03e46659b"
 title: "47Ter"
-cover: "cover.jpg"
 socials:
   instagram: "47ter"
 ---

@@ -2,7 +2,6 @@
 id: "ffd258b0-1af3-41bd-a29f-c1d8acff9295"
 locationId: "f46a66b7-5b5e-4a9e-b01a-05dc7c251188"
 title: "Hersheypark Stadium"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 40.290449

@@ -4,7 +4,6 @@ date: 2026-01-16T00:00:00+02:00
 title: "Reliance"
 subtitle: "10 titres, 43:31"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 7.5
 artists:
   - "7f854bed-ca88-4c33-9be8-2d4f6c4d1b22"

@@ -2,7 +2,6 @@
 date: 2026-04-14T11:00:00+02:00
 title: "MIDI Festival 2026 : trois jours d'indie et d'électro sur le site archéologique d'Olbia"
 category: "festival"
-cover: "cover.jpg"
 festival: "be6984fe-f22d-4205-b006-870b774e3679"
 artists:
   - "c7a41b99-b3c6-4e6d-9a67-6bfa9d2f181c"

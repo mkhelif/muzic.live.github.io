@@ -1,7 +1,6 @@
 ---
 id: "65654368-fbef-452d-867e-092e42191146"
 title: "Les Wampas"
-cover: "cover.jpg"
 socials:
   facebook: "LesWampasVousAiment"
   instagram: "leswampasofficiel"

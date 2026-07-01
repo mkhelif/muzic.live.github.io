@@ -2,7 +2,6 @@
 id: "0a005130-3964-4c65-8951-28c0ac56cf88"
 locationId: "94547b3d-6565-4dbd-921a-950a0d99166b"
 title: "Opéra De Limoges"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 45.832213

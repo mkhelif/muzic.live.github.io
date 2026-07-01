@@ -2,7 +2,6 @@
 date: 2026-06-28T10:00:00+02:00
 title: "Foo Fighters rendent hommage aux Beatles à Liverpool avec une reprise de I Want You (She's So Heavy)"
 category: "concert"
-cover: "cover.jpg"
 artists:
   - "7ac67624-1f61-4dd5-9059-bb419074f9fd"
 ---

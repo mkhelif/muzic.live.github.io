@@ -5,7 +5,6 @@ date: 2026-09-04T00:00:00+02:00
 title: "Blood of Your Empire"
 subtitle: "XX titres, XX:XX"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: X
 artists:
   - "1a25c9c0-a208-4414-b44a-dda29feb84b1"

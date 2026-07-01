@@ -2,7 +2,6 @@
 id: "bb117690-3942-4e5c-8146-5fd239f658b1"
 locationId: "5e0816b9-7085-4d69-89f8-9562d89868d1"
 title: "The Phoenix Concert Theatre"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 43.653482

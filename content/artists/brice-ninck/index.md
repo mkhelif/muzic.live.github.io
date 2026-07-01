@@ -1,7 +1,6 @@
 ---
 id: "5324c5cd-6e70-433a-b5c6-f114cdf2aa9b"
 title: "Brice Ninck"
-cover: "cover.jpg"
 ---
 
 Brice Ninck est un auteur-compositeur-interprète et multi-instrumentiste bruxellois dont le projet solo

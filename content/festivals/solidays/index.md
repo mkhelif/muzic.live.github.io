@@ -1,7 +1,6 @@
 ---
 id: "781241de-9bc3-42cf-86ae-f4cb401dc8d5"
 title: "Solidays"
-cover: "cover.jpg"
 socials:
   facebook: "FestivalSolidays"
   instagram: "solidays"

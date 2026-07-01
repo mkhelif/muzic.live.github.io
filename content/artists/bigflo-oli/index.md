@@ -5,7 +5,6 @@ aliases:
   - "Bigflo et Oli"
   - "BigFlo et Oli"
   - "BigFlo & Oli"
-cover: "cover.jpg"
 socials:
   facebook: "bigfloetoli"
   instagram: "bigfloetoli"

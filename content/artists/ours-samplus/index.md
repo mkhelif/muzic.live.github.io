@@ -1,7 +1,6 @@
 ---
 id: "ebc8e73e-5fde-49cb-8198-4349c49f5501"
 title: "Ours Samplus"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

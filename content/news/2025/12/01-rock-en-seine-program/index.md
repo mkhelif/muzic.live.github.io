@@ -2,8 +2,6 @@
 date: 2025-12-01T10:00:00+02:00
 title: "Rock en Seine 2026 : le festival francilien sort l'artillerie lourde"
 category: "festival"
-cover: "cover.jpg"
-hero: "hero.jpg"
 festival: "7946e0a5-d2bd-4132-904b-de6190c36575"
 artists:
   - "8c43b7b4-ac01-45df-9548-e61be2f33cb4"

@@ -1,7 +1,6 @@
 ---
 id: "155c93a8-0b66-44f1-9322-88ca9e52a44d"
 title: "Toby Lee"
-cover: "cover.jpg"
 socials:
   facebook: "tobyleeguitar"
   instagram: "tobyleeguitar"

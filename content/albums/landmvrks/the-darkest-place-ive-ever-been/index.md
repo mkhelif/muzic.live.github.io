@@ -4,7 +4,6 @@ date: 2025-04-25T00:00:00+02:00
 title: "The Darkest Place I've Ever Been"
 subtitle: "11 titres, 38:12"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 9
 artists:
   - "6904a478-cc3a-4be8-819e-3f81eca3adf2"

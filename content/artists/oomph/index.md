@@ -1,7 +1,6 @@
 ---
 id: "82b0c1de-e5eb-4c15-bde7-b24e363a0d9d"
 title: "Oomph!"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

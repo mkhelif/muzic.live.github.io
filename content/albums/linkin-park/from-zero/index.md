@@ -4,7 +4,6 @@ date: 2024-11-15T00:00:00+02:00
 title: "From Zero"
 subtitle: "11 titres, 31:58"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 9
 artists:
   - "0b8a7424-dba1-4f5a-8f0e-42ebd1dd9f3b"

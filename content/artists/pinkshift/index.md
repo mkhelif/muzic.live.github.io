@@ -1,7 +1,6 @@
 ---
 id: "d3a047d5-7760-484d-a9ac-5738da7a55dc"
 title: "Pinkshift"
-cover: "cover.jpg"
 socials:
   facebook: "pinkshiftmd"
   instagram: "pinkshiftmd"

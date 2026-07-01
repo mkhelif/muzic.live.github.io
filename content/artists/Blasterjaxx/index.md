@@ -1,7 +1,6 @@
 ---
 id: "fe47932b-4347-45a0-b608-6db188477042"
 title: "Blasterjaxx"
-cover: "cover.jpg"
 socials:
   facebook: "BlasterjaxxOfficial"
   instagram: "blasterjaxx"

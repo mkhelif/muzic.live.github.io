@@ -2,7 +2,6 @@
 id: "0c6834c1-bdac-4225-a972-94785bba2cc0"
 locationId: "e4738f3e-857e-4a85-9d0d-7d62ac8b464a"
 title: "The Annex"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 43.0748

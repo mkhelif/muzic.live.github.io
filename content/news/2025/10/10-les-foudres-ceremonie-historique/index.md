@@ -4,8 +4,6 @@ festival: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
 category: "event"
 locationId: "34e0610f-b590-459c-9161-966d820ca3e9"
 title: "Les Foudres : Le metal français célèbre sa première cérémonie historique"
-cover: "cover.jpg"
-hero: "hero.jpg"
 artists:
   - "9e16164e-b9e9-4a31-90d5-dccb54ef0ff0"
   - "e2651af1-fe25-4b76-8d7e-201bd6d8ce7a"

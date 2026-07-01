@@ -3,7 +3,6 @@ date: 2025-10-14T10:00:00+02:00
 title: "Musilac 2026 : Katy Perry, première tête d'affiche d'une édition qui s'annonce historique"
 category: "festival"
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-cover: "cover.jpg"
 artists:
   - "00036a87-7197-4df1-af39-4bb045b210f6"
 ---

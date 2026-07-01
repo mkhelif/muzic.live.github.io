@@ -2,7 +2,6 @@
 date: 2026-06-30T10:00:00+02:00
 title: "Metallica rend hommage aux Pogues à Dublin et aux Proclaimers à Glasgow — le M72 s'achève en apothéose celtique"
 category: "concert"
-cover: "cover.jpg"
 draft: true
 artists:
   - "f77406ca-9c5a-4a15-a923-45d1c84f46d0"

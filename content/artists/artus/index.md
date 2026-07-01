@@ -1,7 +1,6 @@
 ---
 id: "3ed12c03-0114-478d-852c-b281d62b7bf7"
 title: "Artus"
-cover: "cover.jpg"
 socials:
   instagram: "artusofficiel"
 ---

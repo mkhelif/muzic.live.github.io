@@ -1,7 +1,6 @@
 ---
 id: "418c882a-d0f4-4fa4-a1eb-defd71641e95"
 title: "Voyou"
-cover: "cover.jpg"
 socials:
   facebook: "voyoumusique"
   instagram: "voyovoyou"

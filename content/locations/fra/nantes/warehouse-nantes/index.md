@@ -2,7 +2,6 @@
 id: "3f02dbf7-4980-4fb0-b104-f953a1007df1"
 locationId: "417d9ff3-d17d-43d0-9f96-8409631b498d"
 title: "Warehouse Nantes"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 47.201231

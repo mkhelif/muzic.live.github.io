@@ -2,7 +2,6 @@
 date: 2026-03-25T10:00:00+02:00
 title: "Judas Priest en France en 2026 : cinq dates pour les Metal Gods, du Motocultor au Zénith de Paris"
 category: "tour"
-cover: "cover.jpg"
 artists:
   - "40743c55-1dd8-44b0-8ef8-aeeba35596e6"
 ---

@@ -2,7 +2,6 @@
 date: 2026-06-27T12:00:00+02:00
 title: "Evanescence de retour avec « Sanctuary » : un sixième album et une tournée mondiale qui ne fait pas dans la demi-mesure"
 category: "tour"
-cover: "cover.jpg"
 artists:
   - "2f398845-d660-4bd3-bf54-4e81ffcd706f"
   - "be3d7356-d6e0-489c-bf53-f5183686d92a"

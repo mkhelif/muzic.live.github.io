@@ -1,7 +1,6 @@
 ---
 id: "0c1ca2a9-dbb7-4e44-8ad8-404d3038c1a4"
 title: "SpaceBrain"
-cover: "cover.jpg"
 socials:
   facebook: "spacebraingva"
   instagram: "spacebrain_band"

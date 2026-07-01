@@ -1,7 +1,6 @@
 ---
 id: "b53ed623-a132-4f7e-b71b-5199a8ae9f3c"
 title: "Paul Weller"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

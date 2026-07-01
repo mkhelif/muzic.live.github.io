@@ -2,8 +2,6 @@
 date: 2025-07-31T14:30:00+02:00
 title: "Wings of Steel : \"Winds of Time\", un retour ambitieux aux racines du heavy metal"
 category: "album"
-cover: "cover.jpg"
-hero: "hero.jpg"
 artists:
   - "075a2e4e-4568-4662-b71e-2088706b76d7"
 ---

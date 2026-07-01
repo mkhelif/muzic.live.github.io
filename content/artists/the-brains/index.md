@@ -1,7 +1,6 @@
 ---
 id: "38c99a5e-6c1e-4a7e-b9cf-7aa4864e9cc2"
 title: "The Brains"
-cover: "cover.jpg"
 socials:
   facebook: "TheBrainsMTL"
   instagram: "thebrainsmtl"

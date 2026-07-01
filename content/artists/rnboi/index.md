@@ -1,7 +1,6 @@
 ---
 id: "a5415d00-b4ac-4d10-9a00-708acc90a041"
 title: "RnBoi"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

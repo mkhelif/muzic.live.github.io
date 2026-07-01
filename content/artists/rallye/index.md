@@ -1,7 +1,6 @@
 ---
 id: "898bbcdc-e560-4289-8932-893ffbab4e54"
 title: "Rallye"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

@@ -2,7 +2,6 @@
 date: 2026-01-08T10:00:00+02:00
 title: "Ghost : le Skeletour World Tour poursuit sa conquête en Amérique du Nord"
 category: "tour"
-cover: "cover.jpg"
 artists:
   - "c3b8c08a-b88d-4cd1-9b6c-194f2d341996"
 ---

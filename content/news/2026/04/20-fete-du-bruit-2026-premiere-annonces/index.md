@@ -2,7 +2,6 @@
 date: 2026-04-20T09:00:00+02:00
 title: "Fête du Bruit 2026 : DJ Snake à Landerneau, Bigflo & Oli sur les deux sites bretons"
 category: "festival"
-cover: "cover.jpg"
 festival: "7c3db4f6-8d32-4af1-9199-1e4d147e22af"
 artists:
   - "798f598b-dde1-4824-b532-6dad7c922859"

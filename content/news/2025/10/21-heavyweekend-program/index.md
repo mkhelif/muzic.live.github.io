@@ -3,8 +3,6 @@ date: 2025-10-21T10:00:00+02:00
 title: "Gojira confirmé au Heavy Weekend 2026 : l'unique concert français des champions du metal hexagonal"
 category: "festival"
 festival: "278a6614-85e9-4fb7-a0a6-bb408fcb3739"
-cover: "cover.jpg"
-hero: "hero.jpg"
 artists:
   - "477cfe7f-0349-4843-ae01-f8e7000dd261"
   - "e9cf3934-7712-4cfe-98e2-99dfe4d51de6"

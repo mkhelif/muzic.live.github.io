@@ -1,7 +1,6 @@
 ---
 id: "0b4e0c5a-a028-4470-80cf-e55a5fadb5a0"
 title: "Little Simz"
-cover: "cover.jpg"
 socials:
   facebook: "littlesimz"
   instagram: "littlesimz"

@@ -1,7 +1,6 @@
 ---
 id: "3149d0f3-c04c-45f3-a293-aa0ca81bcc6a"
 title: "Sarah Blasko"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

@@ -1,7 +1,6 @@
 ---
 id: "90536ee8-6bb3-41bf-a04b-9f514ef4b4a7"
 title: "Twenty One Pilots"
-cover: "cover.jpg"
 socials:
   facebook: "twentyonepilots"
   youtube: "@twentyonepilots"

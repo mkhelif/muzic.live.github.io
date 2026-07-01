@@ -2,7 +2,6 @@
 id: "e0c01d2d-a3f7-48e6-b743-42906c0aaddc"
 locationId: "24423496-442c-4db3-91d3-94e0c078ea21"
 title: "First Direct Arena"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 53.803415

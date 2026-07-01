@@ -1,4 +1,4 @@
-<h4 class="mb-4 p-3 bg-primary text-dark">Dernières chroniques de concerts</h4>
+<div class="mb-4">{{ partial "titles/h2.html" "Dernières chroniques de concerts" }}</div>
 {{ range $index, $report := (where site.RegularPages "Section" "reports").Limit 5 }}
     {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
 {{ end }}

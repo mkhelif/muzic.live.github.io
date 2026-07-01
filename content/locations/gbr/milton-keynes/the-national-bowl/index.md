@@ -2,7 +2,6 @@
 id: "83dd096e-32eb-4040-b4a9-8aaa0996d92b"
 locationId: "dc8251b4-13b8-4fd3-ad32-a4322934c0da"
 title: "The National Bowl"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 52.019135

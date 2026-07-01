@@ -1,7 +1,6 @@
 ---
 id: "c4b6056b-5ed1-4b0d-a0b9-8e3c89aa8a3a"
 title: "Jardin Sonore"
-cover: "cover.jpg"
 socials:
   facebook: "JardinSonoreFestival"
   instagram: "jardin_sonore"

@@ -1,7 +1,6 @@
 ---
 id: "f689b1ff-c5f4-413d-9f9b-c7d079a28294"
 title: "Two Faces"
-cover: "cover.jpg"
 socials:
   facebook: "wearetwofaces"
   instagram: "twofaces.music"

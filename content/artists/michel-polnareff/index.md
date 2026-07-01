@@ -1,7 +1,6 @@
 ---
 id: "1edfd1e2-f086-445d-ae0c-ab44359a5749"
 title: "Michel Polnareff"
-cover: "cover.jpg"
 socials:
   instagram: "michelpolnareff"
   x: "MICHELPOLNAREFF"

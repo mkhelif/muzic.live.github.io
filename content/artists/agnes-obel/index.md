@@ -1,7 +1,6 @@
 ---
 id: "a32488b7-3bac-4cd4-b091-e40932e3d85c"
 title: "Agnes Obel"
-cover: "cover.jpg"
 socials:
   facebook: "agnesobelofficial"
   instagram: "agnesobel"

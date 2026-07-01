@@ -4,7 +4,6 @@ date: 2025-11-14T00:00:00+02:00
 title: "Chapter 04 - Red Falcon Super Battle! New Paris War!!"
 subtitle: "13 titres, 38:16"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 10
 artists:
   - "ae36bfaa-cec8-4160-ba2e-0384322fefa5"

@@ -1,7 +1,6 @@
 ---
 id: "d6781765-a0c8-434a-afd9-d3b81c933060"
 title: "Cri de la Goutte"
-cover: "cover.jpg"
 socials:
   facebook: "lecridelagoutte"
   instagram: "cri_delagoutte"

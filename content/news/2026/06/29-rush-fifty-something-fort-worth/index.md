@@ -2,7 +2,6 @@
 date: 2026-06-29T10:00:00+02:00
 title: "Rush à Fort Worth : incident frontalier, excuses filmées et une tournée qui ne faiblit pas"
 category: "concert"
-cover: "cover.jpg"
 artists:
   - "772d13fa-8409-487c-8fee-3dd4f8ceb34c"
 ---

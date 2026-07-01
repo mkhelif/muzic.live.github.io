@@ -2,7 +2,6 @@
 date: 2026-06-26T10:00:00+02:00
 title: "Five Finger Death Punch annoncent leur dixième album Legacy et dévoilent De Oppresso Liber"
 category: "album"
-cover: "cover.jpg"
 artists:
   - "5f8dc2cf-1f0d-4cce-acbc-6452e99cd924"
 albums:

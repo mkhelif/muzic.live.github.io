@@ -2,7 +2,6 @@
 id: "85cdd3ad-fd92-4ef3-9141-61b4cbe978df"
 locationId: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
 title: "Club Cheek"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 51.507446

@@ -1,7 +1,6 @@
 ---
 id: "be6984fe-f22d-4205-b006-870b774e3679"
 title: "MIDI Festival"
-cover: "cover.jpg"
 socials:
   facebook: "midifestivalofficiel"
   instagram: "midi_festival"

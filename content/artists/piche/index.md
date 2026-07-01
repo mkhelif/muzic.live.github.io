@@ -1,7 +1,6 @@
 ---
 id: "65d9ebbc-ea9b-4470-84b9-526466b9624c"
 title: "Piche"
-cover: "cover.jpg"
 ---
 
 Piche, de son vrai nom Mike Pierre Gautier, est un artiste protéiforme originaire d'Arles, d'ascendance

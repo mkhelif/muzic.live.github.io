@@ -4,7 +4,6 @@ date: 2024-03-01T00:00:00+02:00
 title: "We've Been Here Before"
 subtitle: "13 titres, 46:05"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 10
 artists:
   - "b161bbf1-bb40-4b50-a9bf-96c289bbcbe5"

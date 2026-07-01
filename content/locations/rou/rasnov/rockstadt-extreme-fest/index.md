@@ -2,7 +2,6 @@
 id: "008067a4-9da2-42f2-bea6-caf54dbd64f9"
 locationId: "fd76ee18-64d0-4e0f-bd08-a7ed19d677c7"
 title: "Rockstadt Extreme Fest"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 45.588939

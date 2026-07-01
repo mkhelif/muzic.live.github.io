@@ -4,7 +4,6 @@ date: 2026-04-24T00:00:00+02:00
 title: "Your Favorite Toy"
 subtitle: "10 titres, 36:18"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 7.5
 artists:
   - "7ac67624-1f61-4dd5-9059-bb419074f9fd"

@@ -2,7 +2,6 @@
 id: "67527a55-ce49-4605-814b-4e8530e95428"
 locationId: "6e88a657-e868-42a2-96d7-7e3ea962126a"
 title: "Katalin"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 59.859867

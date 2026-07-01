@@ -1,7 +1,6 @@
 ---
 id: "d01e187a-8065-4b26-b7c6-b48859f35eaf"
 title: "Nik West"
-cover: "cover.jpg"
 socials:
   facebook: "nikwestbass"
   instagram: "nikwestbass"

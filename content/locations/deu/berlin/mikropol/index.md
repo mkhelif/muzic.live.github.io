@@ -2,7 +2,6 @@
 id: "c3ecc510-32cb-46dc-bfe2-5cd62ab31594"
 locationId: "be97bc43-409d-4967-94d0-a5832a2a2262"
 title: "Mikropol"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 52.517389

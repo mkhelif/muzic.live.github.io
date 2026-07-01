@@ -1,7 +1,6 @@
 ---
 id: "58957937-9b74-411e-9a93-45e0ac47a67e"
 title: "Paléo"
-cover: "cover.jpg"
 socials:
   facebook: "paleofestivalnyon"
   instagram: "paleofestival"

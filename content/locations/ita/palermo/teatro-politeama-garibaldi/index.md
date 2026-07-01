@@ -2,7 +2,6 @@
 id: "e1409fe4-06b2-46fa-bbd0-bd2f0d8bcfa2"
 locationId: "0cd260bb-47d8-4b9d-a6ae-eaba53dbf3cb"
 title: "Teatro Politeama Garibaldi"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 38.125195

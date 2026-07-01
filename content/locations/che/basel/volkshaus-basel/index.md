@@ -2,7 +2,6 @@
 id: "9680f4c8-b99b-451a-8273-8d1285f168d4"
 locationId: "5806a02d-ca23-4f15-8b1a-96c3c8bf4f63"
 title: "Volkshaus Basel"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 47.561086

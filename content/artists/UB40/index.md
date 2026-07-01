@@ -1,7 +1,6 @@
 ---
 id: "dcd1f68a-07ec-45b6-b0fb-b52b1743fbbc"
 title: "UB40"
-cover: "cover.jpg"
 socials:
   facebook: "ub40official"
   instagram: "ub40official"

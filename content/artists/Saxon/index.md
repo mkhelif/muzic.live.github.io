@@ -1,7 +1,6 @@
 ---
 id: "eb010946-1e91-40f8-bc5a-824c7ba83387"
 title: "Saxon"
-cover: "cover.jpg"
 socials:
   facebook: "SaxonOfficial"
   instagram: "saxon.official"

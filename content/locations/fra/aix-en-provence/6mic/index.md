@@ -2,7 +2,6 @@
 id: "6637ab77-8328-485b-9711-942be86fd6d7"
 locationId: "4d78196e-1d23-4ec9-b75e-cea9bf192288"
 title: "6MIC"
-cover: "cover.jpg"
 address: "160 rue Pascal Duverger, 13090 Aix-en-Provence, France"
 coordinates:
   latitude: 43.519293

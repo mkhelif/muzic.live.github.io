@@ -2,7 +2,6 @@
 id: "614255f3-574d-4f2e-a463-2e2230d2d569"
 locationId: "e0e11589-16b8-4ce9-a13f-bb46f1d39020"
 title: "Echo System"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 47.667475

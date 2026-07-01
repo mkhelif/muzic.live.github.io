@@ -1,7 +1,6 @@
 ---
 id: "fe42c870-494a-44c2-bc52-71bfc56cab4e"
 title: "Southside Festival"
-cover: "cover.jpg"
 socials:
   facebook: "southsidefestival"
   instagram: "southsidefestival"

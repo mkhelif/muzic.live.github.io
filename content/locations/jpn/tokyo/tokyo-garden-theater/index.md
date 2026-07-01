@@ -2,7 +2,6 @@
 id: "3cdf54e0-fd0a-498e-8f98-f0720c99bcdd"
 locationId: "7001d135-2636-4b33-91c1-e7a92c35f3d2"
 title: "Tokyo Garden Theater"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 35.6474

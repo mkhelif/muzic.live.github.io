@@ -2,7 +2,6 @@
 date: 2026-06-27T10:00:00+02:00
 title: "Muse – « The Wow! Signal » : le retour aux sources le plus convaincant depuis vingt ans"
 category: "album"
-cover: "cover.jpg"
 artists:
   - "5f7f169a-3ca9-4446-bdc0-086e81e30464"
 albums:

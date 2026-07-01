@@ -2,7 +2,6 @@
 date: 2026-07-01T10:00:00+02:00
 title: "AC/DC installe un PWR/UP Pop-Up dans chaque ville de sa tournée nord-américaine 2026"
 category: "tour"
-cover: "cover.jpg"
 artists:
   - "f54dc7d2-557a-4ed7-aabe-9921294ba5f2"
   - "8502b3f2-e118-4a1d-8580-cc48a8ea1efd"

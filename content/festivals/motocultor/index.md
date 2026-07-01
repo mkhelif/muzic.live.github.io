@@ -1,7 +1,6 @@
 ---
 id: "9a6fffd4-43b0-4097-9556-14f69b24b419"
 title: "Motocultor"
-cover: "cover.jpg"
 socials:
   facebook: "MOTOCULTOR.FESTIVAL.OpenAir"
   instagram: "motocultorfestival"

@@ -2,7 +2,6 @@
 id: "40c490c8-052b-4e7a-a06e-329f14bbaa57"
 locationId: "eb162c88-fa13-4882-9eb1-c569476f7316"
 title: "Le Plan"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 48.637312

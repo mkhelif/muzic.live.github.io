@@ -1,7 +1,6 @@
 ---
 id: "f7a9c15f-5ef4-4746-b33c-f9ea59a416b2"
 title: "Dritchino Open Air Festival"
-cover: "cover.jpg"
 socials:
   facebook: "dritchino"
   instagram: "dritchino"

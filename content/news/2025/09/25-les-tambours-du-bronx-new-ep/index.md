@@ -2,8 +2,6 @@
 date: 2025-09-04T14:30:00+02:00
 title: "Les Tambours du Bronx : \"The Wild Pack\", la déferlante industrielle française frappe à nouveau"
 category: "album"
-cover: "cover.jpg"
-hero: "hero.jpg"
 artists:
   - "a298e43a-882c-478c-959b-10a243cbd8b7"
 ---

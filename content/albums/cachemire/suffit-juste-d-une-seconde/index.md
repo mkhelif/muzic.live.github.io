@@ -4,7 +4,6 @@ date: 2025-10-10T00:00:00+02:00
 title: "Suffit juste d'une seconde"
 subtitle: "13 titres, 41:47"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 10
 artists:
   - "c1ee1791-6f40-4d6a-9ebc-1ef6691f2968"

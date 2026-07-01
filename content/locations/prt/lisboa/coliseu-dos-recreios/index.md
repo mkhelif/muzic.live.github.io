@@ -2,7 +2,6 @@
 id: "e1b6151b-b811-4f0b-ae50-ff4a4c92130e"
 locationId: "31f4c5f6-c97e-4f4f-be7f-35c4bb0fc9f2"
 title: "Coliseu dos Recreios"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 38.716647

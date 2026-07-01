@@ -2,7 +2,6 @@
 date: 2026-06-30T12:00:00+02:00
 title: "Kings of Leon inaugurent le State Fayre Festival à Chelmsford : « On se sent chez nous »"
 category: "festival"
-cover: "cover.jpg"
 artists:
   - "3e6aa6e4-90a7-4243-a2a0-9efb8051b534"
 ---

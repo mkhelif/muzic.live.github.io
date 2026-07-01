@@ -2,7 +2,6 @@
 id: "0b6fbd6f-27d3-4772-9e33-c9c6fe573d2e"
 locationId: "975c8590-67ce-4906-be5b-89b25cacf2c7"
 title: "Live Club"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 45.598988

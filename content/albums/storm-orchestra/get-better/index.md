@@ -4,7 +4,6 @@ date: 2025-04-11T00:00:00+02:00
 title: "Get Better"
 subtitle: "12 titres, 38:17"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 9
 artists:
   - "d7a3b9ed-e3df-4f4a-8e50-f58672118f64"

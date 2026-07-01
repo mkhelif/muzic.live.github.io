@@ -4,7 +4,6 @@ id: "9dc6d18e-a038-45a6-8f15-920aec26adec"
 date: 2026-07-10T00:00:00+02:00
 title: "Foreign Tongues"
 subtitle: "14 titres"
-cover: "cover.jpg"
 artists:
   - "1e85dd80-e816-4be3-b0e7-96cbc003daab"
 socials:

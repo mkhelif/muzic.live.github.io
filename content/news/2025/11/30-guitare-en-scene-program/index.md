@@ -2,8 +2,6 @@
 date: 2025-11-30T10:00:00+02:00
 title: "Guitare en Scène 2026 : une première annonce qui sent la poudre et le velours"
 category: "festival"
-cover: "cover.jpg"
-hero: "hero.jpg"
 festival: "13e59726-a669-48a1-93ad-d52d04e4f44f"
 artists:
   - "cab4c355-2aa0-47e4-8dd0-e5c0cd702be3"

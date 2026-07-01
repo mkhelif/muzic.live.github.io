@@ -2,7 +2,6 @@
 id: "cdd6aac4-72d4-47dc-a7e3-89c6779a9f63"
 locationId: "1ae3da38-3ea6-43ff-911d-3d020caaebaa"
 title: "House of Blues"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 36.09323

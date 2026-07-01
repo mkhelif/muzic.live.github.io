@@ -2,7 +2,6 @@
 date: 2026-03-20T10:00:00+01:00
 title: "Exodus : \"Goliath\" signe le retour de Rob Dukes et un nouveau chapitre chez Napalm Records"
 category: "album"
-cover: "cover.jpg"
 artists:
   - "03758e20-36b7-4684-8a59-97fcd6c2310a"
 ---

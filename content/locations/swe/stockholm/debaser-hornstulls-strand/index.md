@@ -2,7 +2,6 @@
 id: "d4546ce4-2dad-4c88-8ea0-25f875c4287c"
 locationId: "cf04546e-c226-46e3-b6d1-0dd25b746344"
 title: "Debaser Hornstulls Strand"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 59.325117

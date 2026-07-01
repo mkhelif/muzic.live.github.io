@@ -2,7 +2,6 @@
 id: "7b9d1105-a18f-461a-be9b-09c1846d9c5d"
 locationId: "3fdd68e3-4e7f-4218-82be-ce2a430f297e"
 title: "Casa Del Jazz"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 41.873388

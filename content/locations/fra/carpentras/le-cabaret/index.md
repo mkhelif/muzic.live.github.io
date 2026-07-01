@@ -2,7 +2,6 @@
 id: "7d4b4dc8-b55d-47fd-a859-e05e09796087"
 locationId: "3b7087d2-437b-4411-b7d0-fceffb5d798c"
 title: "Le Cabaret"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 44.053309

@@ -1,7 +1,6 @@
 ---
 id: "e62d8440-4b62-47b4-bf7f-01b645c9bfbd"
 title: "Vanden Plas"
-cover: "cover.jpg"
 socials:
   facebook: "VandenPlasOfficial"
   instagram: "vanden.plas.official"

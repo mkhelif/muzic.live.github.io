@@ -2,7 +2,6 @@
 id: "64b17c09-6bff-486a-8ae4-9c02436e34bc"
 locationId: "6542ba7f-ba35-4017-9c93-284f2d482d69"
 title: "National Stadium"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 53.330801

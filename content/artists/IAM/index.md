@@ -1,7 +1,6 @@
 ---
 id: "e4ef32b3-ef4d-4d7e-9925-bbcc3706671b"
 title: "IAM"
-cover: "cover.jpg"
 socials:
   facebook: "iamlegroupe"
   instagram: "iam.officiel"

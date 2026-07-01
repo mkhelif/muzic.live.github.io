@@ -1,7 +1,6 @@
 ---
 id: "ea35c70d-6f35-4cc9-9743-c952e19fe19a"
 title: "Beguiling Junior"
-cover: "cover.jpg"
 ---
 
 Beguiling Junior est un groupe britannique né de la rencontre entre la chanteuse et compositrice norvégo-américaine

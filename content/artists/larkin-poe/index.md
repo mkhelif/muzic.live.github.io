@@ -1,7 +1,6 @@
 ---
 id: "cc301983-a8ee-4bde-9063-b2e99eb3017f"
 title: "Larkin Poe"
-cover: "cover.jpg"
 socials:
   facebook: "larkinpoe"
   instagram: "larkinpoe"

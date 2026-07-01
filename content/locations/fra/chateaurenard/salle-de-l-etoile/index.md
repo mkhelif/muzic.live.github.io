@@ -2,7 +2,6 @@
 id: "8bcb3632-062b-43a7-a3f7-a605849e6d39"
 locationId: "3e6b8803-b9d9-4fde-835f-8b554985a756"
 title: "Salle De L'Etoile"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 43.884262

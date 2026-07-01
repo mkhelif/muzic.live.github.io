@@ -1,7 +1,6 @@
 ---
 id: "6926b512-4a18-4f3e-8441-56de06367c9f"
 title: "Angus & Julia Stone"
-cover: "cover.jpg"
 socials:
   facebook: "AngusAndJulia"
   instagram: "angusandjuliastone"

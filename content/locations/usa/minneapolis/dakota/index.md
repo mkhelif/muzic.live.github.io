@@ -2,7 +2,6 @@
 id: "1fe3cf7d-04cc-4917-856c-8ee3286fac9b"
 locationId: "f7fbeab9-5927-4845-8732-42ea88e3a20b"
 title: "Dakota"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 44.97376

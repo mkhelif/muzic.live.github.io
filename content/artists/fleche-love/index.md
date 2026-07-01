@@ -1,7 +1,6 @@
 ---
 id: "fc38d45c-c709-416b-98c2-ab1b149c72ad"
 title: "Flèche Love"
-cover: "cover.jpg"
 socials:
   facebook: "Flecheloveofficial"
   instagram: "flechelove"

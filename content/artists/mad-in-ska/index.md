@@ -1,7 +1,6 @@
 ---
 id: "eb7b5954-56ad-434d-b6d7-1bec4bf7483b"
 title: "Mad in Ska"
-cover: "cover.jpg"
 socials:
   facebook: "p/MAD-IN-SKA-100029087423540"
   instagram: "mad_in_ska"

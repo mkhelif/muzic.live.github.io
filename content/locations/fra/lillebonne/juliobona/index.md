@@ -2,7 +2,6 @@
 id: "59320652-fd1f-447f-836d-0d4279d8e36e"
 locationId: "9e076fd3-a64f-481c-bbf0-5125467c72ae"
 title: "Juliobona"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 49.517767

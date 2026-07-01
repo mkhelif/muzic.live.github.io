@@ -4,7 +4,6 @@ date: 2025-01-24T00:00:00+02:00
 title: "Bloom"
 subtitle: "11 titres, 42:09"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 9
 artists:
   - "cc301983-a8ee-4bde-9063-b2e99eb3017f"

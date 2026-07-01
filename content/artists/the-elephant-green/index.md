@@ -1,7 +1,6 @@
 ---
 id: "db31a702-5cee-4c52-a5e0-aad911775c19"
 title: "The Elephant Green"
-cover: "cover.jpg"
 socials:
   facebook: "p/The-Elephant-Green-61573551773577/"
   instagram: "the_elephant_green"

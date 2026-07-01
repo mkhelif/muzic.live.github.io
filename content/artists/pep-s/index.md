@@ -1,7 +1,6 @@
 ---
 id: "3910fc72-02ad-4e3e-96f0-a8281a7c30cc"
 title: "Pep's"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

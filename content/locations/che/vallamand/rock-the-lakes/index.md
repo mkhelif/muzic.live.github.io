@@ -2,7 +2,6 @@
 id: "73a8ba80-7d44-44d9-8a4a-487108dbde34"
 locationId: "484f0995-a75d-4c70-993d-1be939388400"
 title: "Rock The Lakes - Site Festival"
-cover: "cover.jpg"
 address: "Impasse des Champs Roux, 1586 Vallamand"
 coordinates:
   latitude: 46.926

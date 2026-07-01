@@ -4,7 +4,6 @@ date: 2024-04-12T00:00:00+02:00
 title: "Thanks for the Noise"
 subtitle: "12 titres, 35:32"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 10
 artists:
   - "bcd28ca5-451c-4701-a968-48086d087d28"

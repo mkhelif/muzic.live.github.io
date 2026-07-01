@@ -1,7 +1,6 @@
 ---
 id: "fd55ec3f-deac-4d90-a637-04cf1d0ffbe1"
 title: "Rock Your Brain Fest"
-cover: "cover.jpg"
 socials:
   facebook: "RockYourBrainFest"
   instagram: "rockyourbrainfest"

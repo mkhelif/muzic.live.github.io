@@ -1,7 +1,6 @@
 ---
 id: "de5dd543-22f9-4e1a-a53c-4aafc85b8c77"
 title: "Feldup"
-cover: "cover.jpg"
 socials:
   facebook: "feldupmusic"
   instagram: "feldup_official"

@@ -4,7 +4,6 @@ date: 2023-03-31T00:00:00+02:00
 title: "After the Embers"
 subtitle: "11 titres, 38:39"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 8
 artists:
   - "f689b1ff-c5f4-413d-9f9b-c7d079a28294"

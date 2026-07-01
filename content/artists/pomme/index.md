@@ -1,7 +1,6 @@
 ---
 id: "ee55e51d-ba98-4bfb-83a6-7037a5f950c8"
 title: "Pomme"
-cover: "cover.jpg"
 socials:
   instagram: "pommedeparis"
 ---

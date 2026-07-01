@@ -1,7 +1,6 @@
 ---
 id: "51669b3b-b74c-4c57-8a31-a59dc1fccae2"
 title: "Charlotte Cardin"
-cover: "cover.jpg"
 socials:
   facebook: "charlottecardinofficial"
   instagram: "charlottecardin"

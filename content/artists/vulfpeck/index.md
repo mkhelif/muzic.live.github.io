@@ -1,7 +1,6 @@
 ---
 id: "3a82a1d4-8fec-440e-91d7-993105c4c41a"
 title: "Vulfpeck"
-cover: "cover.jpg"
 socials:
   facebook: "vulfpeck"
   instagram: "vulfpeck"

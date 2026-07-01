@@ -4,7 +4,6 @@ date: 2024-06-28T00:00:00+02:00
 title: "Carnal"
 subtitle: "15 titres, 45:57"
 author: "mkhelif"
-cover: "cover.jpg"
 rank: 8
 artists:
   - "21153c85-31ee-49db-8602-4f2512eca983"

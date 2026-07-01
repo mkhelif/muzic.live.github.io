@@ -1,7 +1,6 @@
 ---
 id: "bdbcb7ce-0c0c-43d6-9448-9aeb97fabb6e"
 title: "Hellfest"
-cover: "cover.jpg"
 socials:
   facebook: "hellfest"
   instagram: "hellfestopenair"

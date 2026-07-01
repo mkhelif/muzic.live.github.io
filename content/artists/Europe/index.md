@@ -1,7 +1,6 @@
 ---
 id: "76e7d907-1601-4a5a-9a9a-c8cf678a03f6"
 title: "Europe"
-cover: "cover.jpg"
 socials:
   facebook: "europetheband"
   instagram: "officialeuropetheband"

@@ -2,7 +2,6 @@
 id: "2fc608c4-2c44-4148-ab45-eadb2ed4e7e5"
 locationId: "cabbb036-e352-4e40-96b4-70c74172929f"
 title: "Chabada"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 47.489463

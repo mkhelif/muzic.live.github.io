@@ -1,7 +1,6 @@
 ---
 id: "c026a1a5-199a-4176-9907-01f4d227044c"
 title: "KRAFTKLUB"
-cover: "cover.jpg"
 socials:
   facebook: "kraftklub"
   instagram: "kraftklub"

@@ -2,7 +2,6 @@
 id: "54bdb5ad-0f91-4ecf-983f-902f5adebee4"
 locationId: "47259ca4-38d9-4839-b1d6-b735a4eb0ca8"
 title: "Le Nouvel Atrium"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 47.368793

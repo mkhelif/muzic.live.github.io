@@ -2,7 +2,6 @@
 id: "a9ec602e-791a-4f53-8202-7c73808dc254"
 locationId: "7b41f274-df9b-43dc-ab20-34feddb38c10"
 title: "Macewan Hall"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 51.078567

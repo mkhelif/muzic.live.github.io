@@ -2,7 +2,6 @@
 id: "65171bfc-03d4-4426-a89f-c53f99233b27"
 locationId: "81d9c2fa-cf0f-44ab-9a91-15430624dc9b"
 title: "The Caves"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 55.948548

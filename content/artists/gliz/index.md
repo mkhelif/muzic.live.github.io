@@ -1,7 +1,6 @@
 ---
 id: "e0b2e729-1d43-45f6-a9ef-6fc7397750c5"
 title: "Gliz"
-cover: "cover.jpg"
 socials:
   facebook: "gliiizzz"
   instagram: "_gliz_"

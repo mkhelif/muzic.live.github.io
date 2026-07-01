@@ -1,7 +1,6 @@
 ---
 id: "78901e8e-0b49-48ff-8bae-3f52ae3c56fe"
 title: "Nino Baliardo"
-cover: "cover.jpg"
 socials:
   facebook: "nino.baliardo"
   instagram: "baliardonino"

@@ -1,4 +1,4 @@
-<h4 class="mb-4 p-3 bg-primary text-dark">Dernières critiques d'albums</h4>
+<div class="mb-4">{{ partial "titles/h2.html" "Dernières critiques d'albums" }}</div>
 {{ range $index, $album := (where site.RegularPages "Section" "albums").Limit 2 }}
     {{ partial "albums/list-entry.html" (dict "album" $album "index" $index) }}
 {{ end }}

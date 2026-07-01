@@ -2,7 +2,6 @@
 id: "89578adb-cc6e-489a-96b1-b01a4b564f72"
 locationId: "6542ba7f-ba35-4017-9c93-284f2d482d69"
 title: "Aviva Stadium"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 53.335225

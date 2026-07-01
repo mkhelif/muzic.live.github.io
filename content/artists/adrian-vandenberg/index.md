@@ -1,7 +1,6 @@
 ---
 id: "700ef4e7-e11c-4e5d-84f5-3b4aeb2347d6"
 title: "Adrian Vandenberg"
-cover: "cover.jpg"
 socials:
   instagram: "adrianvandenberg_official"
   x: "vandenbergband"

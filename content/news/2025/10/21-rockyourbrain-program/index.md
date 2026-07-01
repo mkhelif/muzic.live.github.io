@@ -2,8 +2,6 @@
 date: 2025-10-21T10:00:00+02:00
 title: "Rock Your Brain Fest #13 : Premiers noms annoncés pour l'édition 2026 aux Tanzmatten de Sélestat"
 category: "festival"
-cover: "cover.jpg"
-hero: "hero.jpg"
 festival: "fd55ec3f-deac-4d90-a637-04cf1d0ffbe1"
 artists:
   - "578b9f77-f480-47e8-ac0b-a67bc0b921fc"

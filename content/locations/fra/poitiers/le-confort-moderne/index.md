@@ -2,7 +2,6 @@
 id: "c07de12b-0636-4c99-8d54-3968f2295c98"
 locationId: "b2a8d387-9dd0-4342-9950-87cc42c84916"
 title: "Le Confort Moderne"
-cover: "cover.jpg"
 address: ""
 coordinates:
   latitude: 46.58026

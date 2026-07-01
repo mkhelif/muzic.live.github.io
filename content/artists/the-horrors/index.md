@@ -1,7 +1,6 @@
 ---
 id: "42d8b155-2e60-4fd8-b47b-42d80f116799"
 title: "The Horrors"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:

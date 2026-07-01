@@ -2,7 +2,6 @@
 id: "bd6c27c6-8573-4c91-900a-cb8b55d61f1a"
 locationId: "008365fb-5327-40ed-8f99-4ae147247be3"
 title: "Flugplatz Interlaken"
-cover: "cover.jpg"
 address: "Flugplatz, 3800 Interlaken"
 coordinates:
   latitude: 46.6766

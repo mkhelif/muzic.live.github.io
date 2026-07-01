@@ -2,7 +2,6 @@
 date: 2026-01-15T10:00:00+02:00
 title: "Metallica : la tournée M72 revient en Europe avec Gojira et Pantera"
 category: "tour"
-cover: "cover.jpg"
 artists:
   - "f77406ca-9c5a-4a15-a923-45d1c84f46d0"
   - "e9cf3934-7712-4cfe-98e2-99dfe4d51de6"

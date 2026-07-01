@@ -2,7 +2,6 @@
 date: 2026-05-15T09:00:00+02:00
 title: "Solidays 2026 : la programmation complète pour trois journées à l'Hippodrome de Longchamp"
 category: "festival"
-cover: "cover.jpg"
 festival: "781241de-9bc3-42cf-86ae-f4cb401dc8d5"
 artists:
   - "55f62ae6-f2aa-4e82-ac11-76ec9948edee"

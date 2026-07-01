@@ -1,7 +1,6 @@
 ---
 id: "05d01105-609d-4634-bea7-d0209808a121"
 title: "Charlie Winston"
-cover: "cover.jpg"
 socials:
   facebook: "charliewinstonoff"
   instagram: "charliewinston"

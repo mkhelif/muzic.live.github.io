@@ -1,7 +1,6 @@
 ---
 id: "d8c3c4b3-731f-4dc1-8966-90ace61e6bb2"
 title: "Chantal Goya"
-cover: "cover.jpg"
 ---
 
 Chantal de Guerre, connue sous le nom de Chantal Goya, est née le 10 juin 1942 à Saïgon, au Vietnam, où son père
