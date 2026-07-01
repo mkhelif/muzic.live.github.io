@@ -1,6 +1,6 @@
 ---
 date: 2026-05-29T16:30:00+02:00
-locationId: "41f85ab6-d0e5-4799-918b-f718a19abdff"
+venue: "41f85ab6-d0e5-4799-918b-f718a19abdff"
 artists:
   - "bfeaf5c8-9021-4ac8-9f03-73847b1141a8"
   - "1201f560-1f75-4990-a571-9ef927841a0c"

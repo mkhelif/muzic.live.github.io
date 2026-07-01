@@ -1,7 +1,7 @@
 ---
 date: 2004-07-02 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "6952ae26-f844-4003-a0e4-87feeeac8467"
   - "990666ed-e1a4-4401-b98b-acaf5e94874b"

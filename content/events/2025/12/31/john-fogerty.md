@@ -1,6 +1,6 @@
 ---
 date: 2025-12-31T19:00:00-08:00
-locationId: "992e1e07-e916-436a-90ea-f5d384da3b2d"
+venue: "992e1e07-e916-436a-90ea-f5d384da3b2d"
 artists:
   - "c0049171-e2f8-4956-b28a-afd8827857d6"
 ---

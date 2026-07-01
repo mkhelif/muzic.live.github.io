@@ -1,6 +1,6 @@
 ---
 date: 2026-07-18T17:00:00+02:00
-locationId: "946c6ac3-72c8-4f9a-89c3-fdc61f261f13"
+venue: "946c6ac3-72c8-4f9a-89c3-fdc61f261f13"
 artists:
   - "672c70e5-e066-4cb7-8622-feefe58f48ab"
   - "a66c823e-de2e-436b-8cd6-22f048d53455"

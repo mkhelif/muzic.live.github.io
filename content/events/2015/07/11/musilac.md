@@ -1,7 +1,7 @@
 ---
 date: 2015-07-11 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "725d06ef-bb4b-4cf6-bbfb-f20e98481e77"
   - "10b9969b-c93c-4664-82a3-100b8df38c5a"

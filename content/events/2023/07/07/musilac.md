@@ -1,7 +1,7 @@
 ---
 date: 2023-07-07 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "6a3b020a-790f-4438-8879-df2ba60c150c"
   - "f49db4e8-0a15-44f5-92e9-a9f32f0a1eea"

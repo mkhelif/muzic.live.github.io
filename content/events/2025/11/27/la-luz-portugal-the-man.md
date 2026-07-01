@@ -1,6 +1,6 @@
 ---
 date: 2025-11-27T19:00:00-05:00
-locationId: "340eec97-a23d-4d82-aab9-f9a62369ee84"
+venue: "340eec97-a23d-4d82-aab9-f9a62369ee84"
 artists:
   - "3804a6a6-4f46-4087-88f6-4656b3337241"
   - "447f0a27-2b10-4c9c-b0f2-f9e6d7c8ee90"

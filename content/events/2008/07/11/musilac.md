@@ -1,7 +1,7 @@
 ---
 date: 2008-07-11 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "7c838cd5-9331-460d-b6c2-184179c0bf03"
   - "83b7f94f-c89e-49a1-80bc-8aac57c3cd19"

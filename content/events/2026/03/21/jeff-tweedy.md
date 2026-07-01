@@ -1,6 +1,6 @@
 ---
 date: 2026-03-21T19:30:00-07:00
-locationId: "554eb466-4f0a-409f-8a98-8e1ca61d021f"
+venue: "554eb466-4f0a-409f-8a98-8e1ca61d021f"
 artists:
   - "416b5836-ca39-4a81-972e-a9a2130b6e02"
 ---

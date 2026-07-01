@@ -8,8 +8,8 @@
     <script type="application/ld+json">{{ partial "artists/json-ld.html" . | jsonify (dict "indent" "  ") | safeJS }}</script>
 {{- else if eq .Section "festivals" -}}
     <script type="application/ld+json">{{ partial "festivals/json-ld.html" . | jsonify (dict "indent" "  ") | safeJS }}</script>
-{{- else if eq .Section "locations" -}}
-    <script type="application/ld+json">{{ partial "locations/json-ld.html" . | jsonify (dict "indent" "  ") | safeJS }}</script>
+{{- else if eq .Section "venues" -}}
+    <script type="application/ld+json">{{ partial "venues/json-ld.html" . | jsonify (dict "indent" "  ") | safeJS }}</script>
 {{- else if eq .Section "events" -}}
     <script type="application/ld+json">{{ partial "events/json-ld.html" . | jsonify (dict "indent" "  ") | safeJS }}</script>
 {{- else if eq .Section "news" -}}

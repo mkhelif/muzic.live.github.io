@@ -1,7 +1,7 @@
 ---
 date: 2017-07-13 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "43063cd0-7ac9-4484-be0a-41127b9f3c10"
   - "4bd2acd6-7c61-4801-8045-f8ae6772a1c4"

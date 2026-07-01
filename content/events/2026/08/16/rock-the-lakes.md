@@ -1,7 +1,7 @@
 ---
 date: 2026-08-16T19:00:00+02:00
 festival: "1f396abc-2cfc-4378-ae4a-0561ac48bc61"
-locationId: "73a8ba80-7d44-44d9-8a4a-487108dbde34"
+venue: "73a8ba80-7d44-44d9-8a4a-487108dbde34"
 artists:
   - "844af41a-c503-4748-9c8e-8f09de6065c2"
   - "5b347b4d-07f6-4009-ba57-dd94f9808dab"

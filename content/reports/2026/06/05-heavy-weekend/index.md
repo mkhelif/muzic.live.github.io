@@ -1,7 +1,7 @@
 ---
 date: 2026-06-05T17:30:00+02:00
 festival: "278a6614-85e9-4fb7-a0a6-bb408fcb3739"
-locationId: "73e73a54-9f04-4d46-ab08-824a19a88e54"
+venue: "73e73a54-9f04-4d46-ab08-824a19a88e54"
 title: "Heavy Weekend 2026 - Jour 1 - DOMINUM, Avantasia, Savatage, Sabaton"
 cover: "pictures/sabaton/09.jpg"
 author: "mkhelif"

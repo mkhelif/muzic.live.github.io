@@ -1,7 +1,7 @@
 ---
 date: 2026-05-24T19:30:00+02:00
 festival: "e33f81d6-e91b-41a7-9499-023c018e3cb5"
-locationId: "8c6190a9-1066-4ef0-872c-af07eec3e09c"
+venue: "8c6190a9-1066-4ef0-872c-af07eec3e09c"
 title: "Nantuafest 2026 - Jour 3 - Anaïs MVA, Meryl, KeBlack, The Avener, Urumi"
 cover: "pictures/keblack/27.jpg"
 author: "mkhelif"

@@ -13,6 +13,7 @@
                 {{ partial "header.html" . }}
             </header>
             <main class="flex-grow-1" data-pagefind-body>
+                {{ if not .IsHome }}{{ partial "breadcrumb.html" . }}{{ end }}
                 {{ block "main" . }}{{ end }}
 
                 {{ partialCached "advertisements/seetickets.html" . }}

@@ -1,7 +1,7 @@
 ---
 date: 2024-07-07T18:30:00+02:00
 festival: "5d71e71e-c997-4a61-a8a2-4c75cb93f578"
-locationId: "429ce815-53da-4a16-833a-d29997086186"
+venue: "429ce815-53da-4a16-833a-d29997086186"
 title: "Vercors Music Festival 2024 - Jour 3 - Kolinga, Ladaniva, Keziah Jones, Faada Freddy, Flavia Coelho"
 cover: "pictures/faada-freddy/01.jpg"
 author: "mkhelif"

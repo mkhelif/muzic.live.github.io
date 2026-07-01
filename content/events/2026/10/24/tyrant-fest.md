@@ -1,7 +1,7 @@
 ---
 date: 2026-10-24T15:30:00+02:00
 festival: "139b9426-ab46-425e-84d4-35ba1c62598e"
-locationId: "aa236a7c-70f1-4972-bcdc-3c526815b775"
+venue: "aa236a7c-70f1-4972-bcdc-3c526815b775"
 artists:
   - "21072b20-529a-41af-9432-052a55ccadfb"
   - "e65f251a-acd8-4fd2-bb6a-f2a9590afa20"

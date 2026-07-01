@@ -1,7 +1,7 @@
 ---
 date: 2024-07-27T17:30:00+02:00
 festival: "f72beec7-0c2e-4628-8732-28fe546b2169"
-locationId: "c8281c1a-24ff-4029-a3ba-788175e6476c"
+venue: "c8281c1a-24ff-4029-a3ba-788175e6476c"
 title: "Festival de la Paille 2024 - Jour 2 - Flaur, Yuston XIII, Mystically, MC Solaar, Zed Yun Pavarotti, Vladimir Cauchemar, Manudigital"
 cover: "pictures/vladimir-cauchemar/02.jpg"
 author: "mkhelif"

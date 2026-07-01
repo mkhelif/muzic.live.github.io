@@ -16,7 +16,7 @@ enableRobotsTXT = true
   album = 'albums'
   artist = 'artists'
   festival = 'festivals'
-  location = 'locations'
+  venue = 'venues'
   event = 'events'
   new = 'news'
 

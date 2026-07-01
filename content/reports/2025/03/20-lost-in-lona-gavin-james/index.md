@@ -1,6 +1,6 @@
 ---
 date: 2025-03-20T20:00:00+02:00
-locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
+venue: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 title: "Lost in Lona, Gavin James"
 cover: "pictures/gavin-james/03.jpg"
 author: "mkhelif"

@@ -1,7 +1,7 @@
 ---
 date: 2024-07-28T17:30:00+02:00
 festival: "f72beec7-0c2e-4628-8732-28fe546b2169"
-locationId: "c8281c1a-24ff-4029-a3ba-788175e6476c"
+venue: "c8281c1a-24ff-4029-a3ba-788175e6476c"
 title: "Festival de la Paille 2024 - Jour 3 - Alfred Massaï, Mentissa, Voyou, Pierre de Maere, Johnny Mafia, Naaman, Sorg & Napoleon Maddox"
 cover: "pictures/naaman/04.jpg"
 author: "mkhelif"

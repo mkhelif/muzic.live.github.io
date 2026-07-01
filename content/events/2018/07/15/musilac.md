@@ -1,7 +1,7 @@
 ---
 date: 2018-07-15 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "5662d8f7-cb6d-45bf-b7b7-d688d8985ea9"
   - "7858c7d6-59c9-4ebf-bccc-9243bc1ad33b"

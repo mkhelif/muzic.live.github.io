@@ -1,6 +1,6 @@
 ---
 date: 2025-11-09T19:00:00+00:00
-locationId: "594f9503-0314-4369-874c-af1bbb7cd418"
+venue: "594f9503-0314-4369-874c-af1bbb7cd418"
 artists:
   - "da033b1a-0f74-41f9-ab9f-f0d59aaf2092"
   - "eb010946-1e91-40f8-bc5a-824c7ba83387"

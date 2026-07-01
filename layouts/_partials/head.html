@@ -70,7 +70,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 {{/* ---- Leaflet only on pages that show a map ---- */}}
-{{ if or (eq .Section "locations") .Params.coordinates }}
+{{ if or (eq .Section "venues") .Params.coordinates }}
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
           integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
           crossorigin=""/>

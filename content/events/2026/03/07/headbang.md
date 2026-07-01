@@ -1,7 +1,7 @@
 ---
 date: 2026-03-07 14:00:00+01:00
 festival: "2d17c372-0a94-4de1-a14f-1024e93c142b"
-locationId: "6637ab77-8328-485b-9711-942be86fd6d7"
+venue: "6637ab77-8328-485b-9711-942be86fd6d7"
 artists:
   - "ae36bfaa-cec8-4160-ba2e-0384322fefa5"
   - "d7039123-e101-4eaf-9dfa-1f9065ce3bfb"

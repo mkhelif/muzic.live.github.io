@@ -1,6 +1,6 @@
-{{- $locationId := . -}}
+{{- $venue := . -}}
 {{- range hugo.Sites -}}
-    {{- range where (where .Pages ".Section" "locations") ".Params.id" $locationId -}}
+    {{- range where (where .Pages ".Section" "venues") ".Params.id" $venue -}}
         {{- with .Params.coordinates -}}
             GEO:{{ .latitude }};{{ .longitude -}}
         {{- end -}}

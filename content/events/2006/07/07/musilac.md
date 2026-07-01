@@ -1,7 +1,7 @@
 ---
 date: 2006-07-07 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "6c0bcce4-db7d-410c-8d07-58fc629921f4"
   - "db34e79a-dd70-451f-966b-9a930f7b9dbf"

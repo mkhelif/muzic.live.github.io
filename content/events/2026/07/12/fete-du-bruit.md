@@ -1,7 +1,7 @@
 ---
 date: 2026-07-12T19:00:00+02:00
 festival: "7c3db4f6-8d32-4af1-9199-1e4d147e22af"
-locationId: "40eb9658-fc2d-4e75-aab4-0a345cd74c9e"
+venue: "40eb9658-fc2d-4e75-aab4-0a345cd74c9e"
 artists:
   - "71e3ec7c-bbe7-4466-af09-8eedd49e7a6a"
   - "b2dd3017-f4c6-4871-834b-7b7666ca1b83"

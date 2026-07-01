@@ -3,8 +3,8 @@ UID:{{ hash.XxHash .event.RelPermalink }}
 {{ partial "calendar/event-date.ics" .event }}
 SUMMARY:{{ partial "calendar/summary.ics" . }}
 DESCRIPTION:{{ partial "calendar/event-artists.ics" .event.Params.artists }}
-LOCATION:{{ replace (partial "calendar/location.ics" .event.Params.locationId) "," "\\," }}
-{{ partial "calendar/event-geo.ics" .event.Params.locationId }}
+LOCATION:{{ replace (partial "calendar/venue.ics" .event.Params.venue) "," "\\," }}
+{{ partial "calendar/event-geo.ics" .event.Params.venue }}
 BEGIN:VALARM
 TRIGGER:-P15D
 DESCRIPTION:{{ partial "calendar/summary.ics" . }}

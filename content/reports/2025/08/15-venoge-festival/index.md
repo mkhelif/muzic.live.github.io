@@ -1,7 +1,7 @@
 ---
 date: 2025-08-15T17:30:00+02:00
 festival: "161a1289-1511-4e78-ad12-12a82cc9eabc"
-locationId: "47382bea-bcce-4ade-b985-046a224676f5"
+venue: "47382bea-bcce-4ade-b985-046a224676f5"
 title: "Venoge Festival 2025 - Jour 3 - Vendredi sur Mer, Sens Unik, Bon Entendeur, Bigflo & Oli, Vladimir Cauchemar, Jason Derulo, DJ Bens"
 cover: "pictures/jason-derulo/11.jpg"
 author: "mkhelif"

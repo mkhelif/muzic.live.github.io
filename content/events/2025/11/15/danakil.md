@@ -1,6 +1,6 @@
 ---
 date: 2025-11-15T20:30:00+01:00
-locationId: "f33dec0d-6c3f-420e-9b0e-1bb032709fb8"
+venue: "f33dec0d-6c3f-420e-9b0e-1bb032709fb8"
 artists:
   - "18d9ad69-9cb9-4880-a417-3d5bf70fc8e1"
 ---

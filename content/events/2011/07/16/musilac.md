@@ -1,7 +1,7 @@
 ---
 date: 2011-07-16 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "4a239c69-b1dd-469e-b62a-dbaa266d1a3a"
   - "33c04cbf-0ed8-4b5d-89ff-89b80c314419"

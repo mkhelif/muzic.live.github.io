@@ -1,6 +1,6 @@
 ---
 date: 2026-11-25T20:00:00+01:00
-locationId: "590c418b-c80d-4cc6-a590-d166e1b03072"
+venue: "590c418b-c80d-4cc6-a590-d166e1b03072"
 artists:
   - "a67ac70d-7fcc-4665-9cc6-b63faa8e286d"
 ---

@@ -104,8 +104,8 @@ function createContentElement(data) {
     content.classList.add('small', 'text-body-tertiary');
 
     // Meta-data
-    if (data.meta.locations) {
-        content.innerText = data.meta.locations;
+    if (data.meta.venues) {
+        content.innerText = data.meta.venues;
     }
 
     if (data.meta.date) {

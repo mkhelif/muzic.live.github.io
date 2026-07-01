@@ -1,6 +1,6 @@
 ---
 date: 2026-04-23T19:00:00-07:00
-locationId: "829e45c9-0df4-4fb4-b149-51ebcf43d22b"
+venue: "829e45c9-0df4-4fb4-b149-51ebcf43d22b"
 artists:
   - "62ef5fde-be61-43c1-8f65-ae931f5f16c7"
 ---

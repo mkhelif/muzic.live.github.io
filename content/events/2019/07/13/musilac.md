@@ -1,7 +1,7 @@
 ---
 date: 2019-07-13 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "786377cf-b5ed-4dba-adae-13d33646afeb"
   - "3ec30b14-8fc4-44df-b990-e797350a7867"

@@ -1,7 +1,7 @@
 ---
 date: 2026-06-28T17:00:00+02:00
 festival: "3a59a291-9b32-45ca-830d-b9c7b68ddfb5"
-locationId: "8a01d0d1-d759-49d9-ae51-067386aa9d27"
+venue: "8a01d0d1-d759-49d9-ae51-067386aa9d27"
 artists:
   - "75d59ff6-7ac5-4f03-8094-bc455cdc9d6a"
   - "6e249aa8-54e7-4862-8627-444e3d7cb557"

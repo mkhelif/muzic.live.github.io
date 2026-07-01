@@ -1,7 +1,7 @@
 ---
 date: 2005-07-15 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "304ca130-d41e-4405-a3a0-c70de00f20b4"
   - "0150e169-bea6-4366-9be8-8d49bc66917a"

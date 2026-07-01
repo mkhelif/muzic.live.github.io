@@ -1,7 +1,7 @@
 ---
 date: 2002-07-06 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "8f412399-8a9f-4cbe-abe4-4273a3a33ce1"
   - "a1c26486-0451-4806-af8d-50386d2d9a60"

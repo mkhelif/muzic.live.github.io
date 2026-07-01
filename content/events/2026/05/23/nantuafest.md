@@ -1,7 +1,7 @@
 ---
 date: 2026-05-23 19:30:00+02:00
 festival: "e33f81d6-e91b-41a7-9499-023c018e3cb5"
-locationId: "8c6190a9-1066-4ef0-872c-af07eec3e09c"
+venue: "8c6190a9-1066-4ef0-872c-af07eec3e09c"
 artists:
   - "493cf028-4e28-4c36-ba64-a532d2d5cab1"
   - "c6a3424d-ab0c-4f1e-a18e-3d84339da4b9"

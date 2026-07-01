@@ -1,7 +1,7 @@
 ---
 date: 2013-07-12 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "f1c99842-0c28-4e46-99e2-c6373c491495"
   - "a77bb5d2-d4bf-4120-870f-7bee358a7555"

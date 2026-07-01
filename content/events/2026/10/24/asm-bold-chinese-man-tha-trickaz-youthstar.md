@@ -1,6 +1,6 @@
 ---
 date: 2026-10-24T20:00:00+02:00
-locationId: "f3f2b8bf-19a9-428d-8642-7abf9937bdda"
+venue: "f3f2b8bf-19a9-428d-8642-7abf9937bdda"
 artists:
   - "1a28d864-043b-4e7e-ad63-5fe618b1469d"
   - "138d2fd0-ad94-442a-9e2f-2f52e5482bd0"

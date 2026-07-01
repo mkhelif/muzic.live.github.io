@@ -1,7 +1,7 @@
 ---
 date: 2024-07-12 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "26a74e65-51fa-4ba8-a9cd-3e8f241c66a7"
   - "ea2c2c81-149d-47a9-a98a-839c275894e0"

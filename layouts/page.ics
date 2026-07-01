@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P3H
 CALSCALE:GREGORIAN
 {{ if eq .Section "artists" -}}
     {{- partial "artists/events.ics" . -}}
-{{- else if eq .Section "locations" -}}
-    {{- partial "locations/events.ics" . -}}
+{{- else if eq .Section "venues" -}}
+    {{- partial "venues/events.ics" . -}}
 {{- end -}}
 END:VCALENDAR{{- /**/ -}}

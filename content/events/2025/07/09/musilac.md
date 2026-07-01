@@ -1,7 +1,7 @@
 ---
 date: 2025-07-09 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "37a39c4a-bada-4d6a-8ca3-ad495589700a"
   - "57ed4fa6-7685-48f4-a515-d94fa8cff534"

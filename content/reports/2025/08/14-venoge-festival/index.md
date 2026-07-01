@@ -1,7 +1,7 @@
 ---
 date: 2025-08-14T17:30:00+02:00
 festival: "161a1289-1511-4e78-ad12-12a82cc9eabc"
-locationId: "47382bea-bcce-4ade-b985-046a224676f5"
+venue: "47382bea-bcce-4ade-b985-046a224676f5"
 title: "Venoge Festival 2025 - Jour 2 - Sugarhill Gang, Sheila, UB40, Murray Head, Sean Paul, Show Minuit 27 (Laroche Valmont, Léopold Nord et Vous, Helmut Fritz, Yannick, Plastic Bertrand)"
 cover: "pictures/sean-paul/07.jpg"
 author: "mkhelif"

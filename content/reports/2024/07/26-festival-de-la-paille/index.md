@@ -1,7 +1,7 @@
 ---
 date: 2024-07-26T17:30:00+02:00
 festival: "f72beec7-0c2e-4628-8732-28fe546b2169"
-locationId: "c8281c1a-24ff-4029-a3ba-788175e6476c"
+venue: "c8281c1a-24ff-4029-a3ba-788175e6476c"
 title: "Festival de la Paille 2024 - Jour 1 - Fat Jeff, Ko Ko Mo, Seriously Serious, Matmatah, Lofofora, Asian Dub Foundation, MTZx"
 cover: "pictures/asian-dub-foundation/03.jpg"
 author: "mkhelif"

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-15T23:55:00+02:00
-locationId: "c6fbd473-1fb6-4e28-a15c-1a52f401ddd0"
+venue: "c6fbd473-1fb6-4e28-a15c-1a52f401ddd0"
 artists:
   - "d75fa31a-578c-490b-a4ef-5741485a759a"
   - "76e7d907-1601-4a5a-9a9a-c8cf678a03f6"

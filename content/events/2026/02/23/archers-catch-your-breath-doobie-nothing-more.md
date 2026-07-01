@@ -1,6 +1,6 @@
 ---
 date: 2026-02-23T18:30:00-05:00
-locationId: "ed77b4a1-727a-4853-9987-bab0d9b29276"
+venue: "ed77b4a1-727a-4853-9987-bab0d9b29276"
 artists:
   - "c3d86f58-f951-4efb-a575-77a3daeaa8fc"
   - "628894cb-f021-427b-9eee-0e19542ae38b"

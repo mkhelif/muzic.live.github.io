@@ -1,7 +1,7 @@
 ---
 date: 2017-07-14 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "29bb9338-3c4d-4ebb-a66e-5b17b47b602b"
   - "58767d5c-701c-4005-8418-77d62b69c7fe"

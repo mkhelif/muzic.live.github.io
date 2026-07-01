@@ -1,7 +1,7 @@
 ---
 date: 2012-07-15 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "d94f9339-fff9-448e-801a-e440775a0882"
   - "9b4f9ddf-d36e-43d2-8f5b-e9dd0de66fc1"

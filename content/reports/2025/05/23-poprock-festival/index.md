@@ -1,7 +1,7 @@
 ---
 date: 2025-05-23T19:00:00+02:00
 festival: "5ca0550d-1ec2-4fd9-b225-e447b038ec5a"
-locationId: "555d590a-f1e0-4c09-8a76-d88a43af0d1a"
+venue: "555d590a-f1e0-4c09-8a76-d88a43af0d1a"
 title: "Poprock Festival 2025 - Jour 2 - Swab, Nerlov, Fabulous Sheep, Stuck in the Sound"
 cover: "pictures/stuck-in-the-sound/01.jpg"
 author: "mkhelif"

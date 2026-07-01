@@ -1,7 +1,7 @@
 ---
 date: 2016-07-08 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "ca44b750-e31c-4ab9-86cd-a3218a703d1f"
   - "240bb312-04f4-4039-b383-c609bd27d5ab"

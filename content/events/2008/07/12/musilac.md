@@ -1,7 +1,7 @@
 ---
 date: 2008-07-12 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "b2380604-a253-49d9-97be-25fd8ae1dfb9"
   - "adbea9b9-8be5-43e2-9dc5-aec169f0d38f"

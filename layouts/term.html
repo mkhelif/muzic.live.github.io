@@ -3,8 +3,8 @@
         {{ partial "artists/content.html" . }}
     {{ else if eq .Section "festivals" }}
         {{ partial "festivals/content.html" . }}
-    {{ else if eq .Section "locations" }}
-        {{ partial "locations/content.html" . }}
+    {{ else if eq .Section "venues" }}
+        {{ partial "venues/content.html" . }}
     {{ else }}
         <div class="container" data-pagefind-ignore="all">
             <div class="mb-4 p-3 border-bottom border-primary border-4">
@@ -16,7 +16,7 @@
             {{ .Content }}
 
             <!-- Pages -->
-            {{ $paginator := .Paginate (cond (in (slice "reports" "festivals" "locations") .Section) (where .Pages "Section" "eq" "reports").ByDate.Reverse .Pages.ByTitle) 10 }}
+            {{ $paginator := .Paginate (cond (in (slice "reports" "festivals" "venues") .Section) (where .Pages "Section" "eq" "reports").ByDate.Reverse .Pages.ByTitle) 10 }}
             {{ range $index, $report := $paginator.Pages }}
                 {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
             {{ end }}

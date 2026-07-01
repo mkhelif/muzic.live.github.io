@@ -1,6 +1,6 @@
 ---
 date: 2025-11-06T20:30:00+02:00
-locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
+venue: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 full: true
 artists:
   - "5e337cc9-550b-4dd3-bff9-c052250fc80b"

@@ -1,7 +1,7 @@
 ---
 date: 2025-03-30T20:00:00+02:00
 draft: true
-locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
+venue: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 title: "Eisbrecher, Heldsmachine"
 cover: "pictures/.jpg"
 author: "mkhelif"

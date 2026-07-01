@@ -1,7 +1,7 @@
 ---
 date: 2022-07-06 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "50e9b655-e3a0-4d28-adc7-e034d665655d"
   - "8e8a522f-a967-423d-be06-8536c8fc1f14"

@@ -24,10 +24,10 @@
 {{- end -}}
 
 {{- $location := dict -}}
-{{- with .Params.locationId -}}
-    {{- $locationId := . -}}
+{{- with .Params.venue -}}
+    {{- $venue := . -}}
     {{- range hugo.Sites -}}
-        {{- range where (where .Pages "Section" "locations") ".Params.id" $locationId -}}
+        {{- range where (where .Pages "Section" "venues") ".Params.id" $venue -}}
             {{- $location = dict "@type" "MusicVenue" "name" .Title "url" .Permalink -}}
             {{- with .Params.address }}{{ $location = merge $location (dict "address" .) }}{{ end -}}
             {{- with .Params.coordinates -}}

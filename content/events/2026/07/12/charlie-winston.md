@@ -1,6 +1,6 @@
 ---
 date: 2026-07-12T20:30:00+02:00
-locationId: "03e573e2-3c42-43df-9ff1-f0ab43165cc6"
+venue: "03e573e2-3c42-43df-9ff1-f0ab43165cc6"
 artists:
   - "05d01105-609d-4634-bea7-d0209808a121"
 ---

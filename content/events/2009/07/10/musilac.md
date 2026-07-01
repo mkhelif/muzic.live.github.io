@@ -1,7 +1,7 @@
 ---
 date: 2009-07-10 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "6baa2aba-6ba9-4aec-9f74-d53e3706fff5"
   - "5dc36885-1b36-466c-a5e9-7db0acd17159"

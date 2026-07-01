@@ -1,7 +1,7 @@
 ---
 date: 2016-07-07 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "188ea7e3-7a98-4409-a1d4-af78824c511f"
   - "7013f6e6-1de2-4445-8cfd-406d5dca1b33"

@@ -1,7 +1,7 @@
 ---
 date: 2019-07-11 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "8c7ebbbb-083b-482a-b579-1841c6992ab8"
   - "6e6febdd-dd7a-45f2-8220-3c1ec817a95c"

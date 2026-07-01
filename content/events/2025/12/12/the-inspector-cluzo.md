@@ -1,6 +1,6 @@
 ---
 date: 2025-12-12T20:00:00+00:00
-locationId: "18f668c2-f93b-4458-be38-26b2eae781d7"
+venue: "18f668c2-f93b-4458-be38-26b2eae781d7"
 artists:
   - "e7519b44-fd6a-4eb6-9ae1-88b12d266419"
 ---

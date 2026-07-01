@@ -1,7 +1,7 @@
 ---
 date: 2016-07-09 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "ddfc3b61-7c0f-4722-a46e-f690c38f8f49"
   - "f79d68ec-9e0e-4a26-b7c8-a2e1f79e604b"

@@ -1,7 +1,7 @@
 ---
 date: 2003-07-05 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "f7b28fa7-f937-4e96-b28b-989b3849506c"
   - "5d90dd65-b0b8-48e2-9d73-fb6501a4eb17"

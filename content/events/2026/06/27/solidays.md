@@ -1,7 +1,7 @@
 ---
 date: 2026-06-27 13:00:00+02:00
 festival: "781241de-9bc3-42cf-86ae-f4cb401dc8d5"
-locationId: "9951de68-9989-41d2-9077-d4c4ef739a7e"
+venue: "9951de68-9989-41d2-9077-d4c4ef739a7e"
 artists:
   - "75d59ff6-7ac5-4f03-8094-bc455cdc9d6a"
   - "f240c44a-bc9a-443c-a075-f0f33652cb75"

@@ -1,6 +1,6 @@
 ---
 date: 2025-10-29T20:30:00+02:00
-locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
+venue: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 title: "Ace G, John Mavro, Saya Gray"
 cover: "pictures/saya-gray/10.jpg"
 author: "mkhelif"

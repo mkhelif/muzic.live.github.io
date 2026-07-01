@@ -87,7 +87,7 @@
                         <div class="col-12 col-sm-9">
                             <div class="d-flex align-items-center text-secondary font-monospace small">
                                 <a class="text-reset d-flex align-items-center" href="{{ .RelPermalink }}">
-                                    <small>{{ with .Params.locationId }}{{ partial "locations/label.html" . }} · {{ end }}{{ partial "format/datetime.html" (dict "date" .Date) }}</small>
+                                    <small>{{ with .Params.venue }}{{ partial "venues/label.html" . }} · {{ end }}{{ partial "format/datetime.html" (dict "date" .Date) }}</small>
                                     {{ partial "home/rank.html" .Params.rank }}
                                 </a>
                             </div>

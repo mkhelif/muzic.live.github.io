@@ -1,7 +1,7 @@
 ---
 date: 2024-07-20T17:30:00+02:00
 festival: "13e59726-a669-48a1-93ad-d52d04e4f44f"
-locationId: "598fe61c-2dca-4f48-99c6-0155689c665f"
+venue: "598fe61c-2dca-4f48-99c6-0155689c665f"
 title: "Guitare en Scène 2024 - Jour 3 - LeanWolf, Xavier Rudd, Rodrigo y Gabriela, Francis Cabrel, Nino Baliardo"
 cover: "pictures/rodrigo-y-gabriela/03.jpg"
 author: "mkhelif"

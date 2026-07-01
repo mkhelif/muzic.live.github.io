@@ -1,7 +1,7 @@
 ---
 date: 2014-07-11 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "7a0ebf50-c049-4b0f-bdbe-37b6839ca97a"
   - "5a6a8f1b-ec53-4feb-9c00-37c38c13d612"

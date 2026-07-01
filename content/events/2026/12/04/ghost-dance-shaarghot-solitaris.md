@@ -1,6 +1,6 @@
 ---
 date: 2026-12-04T20:30:00+01:00
-locationId: "492fcd12-c510-463a-9048-f878205543c9"
+venue: "492fcd12-c510-463a-9048-f878205543c9"
 artists:
   - "a7557e9d-89d4-40b0-9285-e51128f90b34"
   - "bdf4adfc-cc48-46ed-84e4-bab931b7ddef"

@@ -1,6 +1,6 @@
 ---
 date: 2026-01-17T19:30:00+01:00
-locationId: "7acb72fe-c7ce-4552-b40f-f0d8603c0228"
+venue: "7acb72fe-c7ce-4552-b40f-f0d8603c0228"
 artists:
   - "e7a5711b-914c-4317-9d77-6af95cbc1a7b"
   - "74dd96c3-2ca5-4548-b0b0-6d9718ecb76a"

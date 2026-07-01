@@ -1,7 +1,7 @@
 ---
 draft: true
 date: 2025-10-10T20:30:00+02:00
-locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
+venue: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 title: "Prune Carmen Diaz, Elie Zoé"
 cover: "pictures/elie-zoe/04.jpg"
 author: "mkhelif"

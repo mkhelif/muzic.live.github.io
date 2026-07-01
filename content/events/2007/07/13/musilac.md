@@ -1,7 +1,7 @@
 ---
 date: 2007-07-13 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "5f7f169a-3ca9-4446-bdc0-086e81e30464"
   - "cf6ec746-d282-413e-a814-86ef9df1cd05"

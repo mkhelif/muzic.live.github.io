@@ -1,6 +1,6 @@
 ---
 date: 2026-08-18T19:30:00-06:00
-locationId: "3dc8638a-eb9e-4963-979a-b62d5c097bee"
+venue: "3dc8638a-eb9e-4963-979a-b62d5c097bee"
 artists:
   - "5f7f169a-3ca9-4446-bdc0-086e81e30464"
   - "447f0a27-2b10-4c9c-b0f2-f9e6d7c8ee90"

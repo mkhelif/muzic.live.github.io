@@ -9,8 +9,8 @@
         </span>
         <small class="text-nowrap">
             {{ $locations := slice }}
-            {{ with .Params.locationId }}
-                {{ partial "locations/link.html" . }}
+            {{ with .Params.venue }}
+                {{ partial "venues/link.html" . }}
             {{ end }}
             {{ partial "format/date.html" .Date }}
         </small>

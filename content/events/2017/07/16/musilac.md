@@ -1,7 +1,7 @@
 ---
 date: 2017-07-16 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "dcf27394-8a78-4444-95c5-ad2d250ba2af"
   - "51143371-bf02-4ea2-9ee5-b2000f5c616d"

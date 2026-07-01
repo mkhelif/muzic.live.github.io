@@ -1,7 +1,7 @@
 ---
 date: 2018-07-12 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "7480d1ea-67f6-496e-a420-0f62207fe898"
   - "55a0013c-220f-40b5-adff-0f3e5d618bab"

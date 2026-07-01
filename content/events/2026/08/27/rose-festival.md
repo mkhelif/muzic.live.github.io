@@ -1,7 +1,7 @@
 ---
 date: 2026-08-27 17:00:00+02:00
 festival: "f7cb1cb9-790b-4188-9132-a6ffa8177de3"
-locationId: "ccc564e8-0ce0-4d0a-b7a8-ac1ebf0f889e"
+venue: "ccc564e8-0ce0-4d0a-b7a8-ac1ebf0f889e"
 artists:
   - "d3502f26-65f4-4f38-b098-935dccba9fdd"
   - "51669b3b-b74c-4c57-8a31-a59dc1fccae2"

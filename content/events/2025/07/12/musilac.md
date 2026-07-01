@@ -1,7 +1,7 @@
 ---
 date: 2025-07-12 18:00:00+02:00
 festival: "949c5ec4-b6a6-497c-9962-5d64a8183f28"
-locationId: "7d6737f2-81fb-4927-acd3-307a88188fb5"
+venue: "7d6737f2-81fb-4927-acd3-307a88188fb5"
 artists:
   - "03cb0bec-b3c4-48c1-a2a9-8b810233e773"
   - "cee41b31-c8de-438b-b547-340d96608f8a"

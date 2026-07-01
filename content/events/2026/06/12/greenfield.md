@@ -1,7 +1,7 @@
 ---
 date: 2026-06-12T13:30:00+02:00
 festival: "ed47a838-c652-4756-83d9-3d0940f9cd15"
-locationId: "bd6c27c6-8573-4c91-900a-cb8b55d61f1a"
+venue: "bd6c27c6-8573-4c91-900a-cb8b55d61f1a"
 artists:
   - "ee8b695f-b273-4d57-ae7e-7d379d7a8d65"
   - "cde65231-f812-4eed-ac15-192ed7048c91"

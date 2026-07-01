@@ -1,6 +1,6 @@
 ---
 date: 2026-02-13T20:30:00+01:00
-locationId: "47059d57-d3f8-4ddd-853c-60e5c6b75abf"
+venue: "47059d57-d3f8-4ddd-853c-60e5c6b75abf"
 artists:
   - "58767d5c-701c-4005-8418-77d62b69c7fe"
 ---
