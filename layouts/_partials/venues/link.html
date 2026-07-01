@@ -1,0 +1,12 @@
+{{ $venue := . }}
+{{ range hugo.Sites }}
+    {{ range (where (where .Pages "Section" "venues") ".Params.id" $venue) }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{- with .Params.venue -}}
+            , {{ partial "venues/link.html" . -}}
+        {{ end }}
+        {{- range .Params.venues -}}
+            , {{ . -}}
+        {{ end }}
+    {{ end }}
+{{ end }}

@@ -1,0 +1,9 @@
+---
+id: "716028ef-4f8b-4929-9a50-968c8a01f7d0"
+venue: "92985719-d2b0-43fd-8d84-88d921a14fcd"
+title: "Argeles Sur Mer"
+coordinates:
+  latitude: 42.5461
+  longitude: 3.0239
+  zoom: 12
+---

@@ -1,0 +1,20 @@
+---
+id: "d027113a-cc75-4c7a-b855-2763faca7485"
+venue: "df6e82a7-b69c-4783-8479-e49f45976852"
+title: "Razzmatazz 1"
+address: ""
+coordinates:
+  latitude: 41.38258
+  longitude: 2.177073
+  zoom: 17
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

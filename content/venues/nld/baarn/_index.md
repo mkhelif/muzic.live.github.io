@@ -1,0 +1,9 @@
+---
+id: "24592ca5-23e4-4e32-858a-dc3457cbff62"
+venue: "8b516140-4a72-4cf8-9b80-860de726092c"
+title: "Baarn"
+coordinates:
+  latitude: 52.2117
+  longitude: 5.2881
+  zoom: 12
+---

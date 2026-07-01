@@ -1,0 +1,9 @@
+---
+id: "bf772559-03c6-4403-971f-bf99bbb1c8b8"
+venue: "00313794-9258-43ff-aa54-1cca8b78f7f9"
+title: "Gent"
+coordinates:
+  latitude: 51.0543
+  longitude: 3.7174
+  zoom: 12
+---

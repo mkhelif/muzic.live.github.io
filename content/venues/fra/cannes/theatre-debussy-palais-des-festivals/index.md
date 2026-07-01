@@ -1,0 +1,20 @@
+---
+id: "46e7d997-72a7-4782-ab6a-d7c4bb0792a8"
+venue: "cb8d4478-b69e-47a5-8228-82bc1e8e6909"
+title: "Théâtre Debussy - Palais Des Festivals"
+address: ""
+coordinates:
+  latitude: 43.55152
+  longitude: 7.013442
+  zoom: 17
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

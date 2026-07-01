@@ -1,0 +1,20 @@
+---
+id: "8d852b17-9746-418d-a1ab-5170ae5d4fa1"
+venue: "21ebb584-4a11-43c3-a7e1-9dc1f424880f"
+title: "Salle Claire Delage"
+address: ""
+coordinates:
+  latitude: 45.500102
+  longitude: 5.143933
+  zoom: 17
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

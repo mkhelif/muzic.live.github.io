@@ -1,0 +1,9 @@
+---
+id: "2d5f06e7-523c-483a-9e45-ff5464aaa2dc"
+venue: "4db540b1-b5b7-49ef-a05a-1402d5eb4c87"
+title: "Worthing"
+coordinates:
+  latitude: 50.8148
+  longitude: -0.3714
+  zoom: 12
+---

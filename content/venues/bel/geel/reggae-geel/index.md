@@ -1,0 +1,20 @@
+---
+id: "dfe6aa2b-8d7c-4a8b-bd59-66a0d19085f5"
+venue: "68fac67b-5e58-4513-a2b0-48dbcedd98a9"
+title: "Reggae Geel"
+address: ""
+coordinates:
+  latitude: 51.161083
+  longitude: 4.990319
+  zoom: 17
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

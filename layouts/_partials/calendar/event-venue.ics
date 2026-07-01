@@ -1,0 +1,6 @@
+{{- $venue := . -}}
+{{- range hugo.Sites -}}
+    {{- range where (where .Pages ".Section" "venues") ".Params.id" $venue -}}
+        {{- .LinkTitle -}}
+    {{- end -}}
+{{- end -}}

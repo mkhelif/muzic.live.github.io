@@ -1,0 +1,20 @@
+---
+id: "888099b3-db31-4fe3-a544-a0674a1f21b0"
+venue: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
+title: "Electric Brixton"
+address: ""
+coordinates:
+  latitude: 51.460225
+  longitude: -0.116815
+  zoom: 17
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

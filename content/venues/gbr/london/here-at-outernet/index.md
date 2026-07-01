@@ -1,0 +1,20 @@
+---
+id: "c08c4bff-6469-4556-a075-0a704115f1d1"
+venue: "606a2471-cffc-4da6-bf1c-fb0c270c0504"
+title: "Here At Outernet"
+address: ""
+coordinates:
+  latitude: 51.507446
+  longitude: -0.127765
+  zoom: 17
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

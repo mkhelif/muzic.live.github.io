@@ -1,0 +1,9 @@
+---
+id: "6e84decd-4d48-413b-a6bf-177720503283"
+venue: "92985719-d2b0-43fd-8d84-88d921a14fcd"
+title: "Tourcoing"
+coordinates:
+  latitude: 50.7239
+  longitude: 3.1611
+  zoom: 12
+---

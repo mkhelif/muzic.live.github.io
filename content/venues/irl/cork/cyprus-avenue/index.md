@@ -1,0 +1,20 @@
+---
+id: "03533724-3867-4c1f-af0f-cbd6cfd5d3a9"
+venue: "66205adb-51ff-4355-bdb5-472f9a6b21a0"
+title: "Cyprus Avenue"
+address: ""
+coordinates:
+  latitude: 51.898343
+  longitude: -8.469812
+  zoom: 17
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

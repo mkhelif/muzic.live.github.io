@@ -1,0 +1,9 @@
+---
+id: "2e23e3db-bfbd-45e9-a0ea-e127d5b3be92"
+venue: "92985719-d2b0-43fd-8d84-88d921a14fcd"
+title: "Cormeilles En Parisis"
+coordinates:
+  latitude: 48.9722
+  longitude: 2.2017
+  zoom: 12
+---

@@ -1,0 +1,20 @@
+---
+id: "0c6b6c0e-e09c-4bff-b5f4-633fe952557e"
+venue: "1c1e17aa-ae14-4a0e-8d1b-798f0e471006"
+title: "Klub Stodoła"
+address: ""
+coordinates:
+  latitude: 52.211574
+  longitude: 21.01002
+  zoom: 17
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

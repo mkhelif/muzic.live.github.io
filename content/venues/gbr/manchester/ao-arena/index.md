@@ -1,0 +1,20 @@
+---
+id: "14b52954-c0e0-4781-ba09-70d081c01b37"
+venue: "0c8747fd-4b89-4805-a0a3-f361d9a7a48c"
+title: "Ao Arena"
+address: ""
+coordinates:
+  latitude: 53.488087
+  longitude: -2.244172
+  zoom: 17
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

@@ -1,0 +1,20 @@
+---
+id: "433e19a8-6018-489e-bc44-2b77e16cba58"
+venue: "08fa8edf-d4a6-460e-a1f6-04c4d3c3287b"
+title: "Le Botanique"
+address: ""
+coordinates:
+  latitude: 50.854927
+  longitude: 4.365203
+  zoom: 17
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

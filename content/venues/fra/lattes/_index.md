@@ -1,0 +1,9 @@
+---
+id: "0f818c9c-5610-4fe9-a924-b670e21d4f0f"
+venue: "92985719-d2b0-43fd-8d84-88d921a14fcd"
+title: "Lattes"
+coordinates:
+  latitude: 43.5672
+  longitude: 3.9008
+  zoom: 12
+---

@@ -1,0 +1,9 @@
+---
+id: "f46a66b7-5b5e-4a9e-b01a-05dc7c251188"
+venue: "1f7e4fbc-69b9-48df-b8d1-7d9f445bda7f"
+title: "Hershey"
+coordinates:
+  latitude: 40.2857
+  longitude: -76.6505
+  zoom: 12
+---

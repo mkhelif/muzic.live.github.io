@@ -1,0 +1,20 @@
+---
+id: "e6f0dece-4956-48b9-9cc2-64107df55f3e"
+venue: "06b75f78-4a60-4e47-8013-c7902d446814"
+title: "Matmut Stadium Gerland"
+address: ""
+coordinates:
+  latitude: 45.723776
+  longitude: 4.832252
+  zoom: 17
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

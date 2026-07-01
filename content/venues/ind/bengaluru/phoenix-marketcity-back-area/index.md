@@ -1,0 +1,20 @@
+---
+id: "8ce0f51b-3a16-47b2-b93e-2f7170f9cc3f"
+venue: "fb05cb21-9256-4496-a94a-55ca93ebb445"
+title: "Phoenix Marketcity Back Area"
+address: ""
+coordinates:
+  latitude: 12.976794
+  longitude: 77.590082
+  zoom: 17
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

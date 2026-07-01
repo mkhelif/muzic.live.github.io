@@ -1,0 +1,9 @@
+---
+id: "c49e9297-8688-439f-a041-9c795cb81b9b"
+venue: "b778efb2-ed79-4c5b-b6e7-61909339b284"
+title: "Rubigen"
+coordinates:
+  latitude: 46.8917
+  longitude: 7.55
+  zoom: 14
+---

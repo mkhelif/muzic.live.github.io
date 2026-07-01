@@ -1,0 +1,20 @@
+---
+id: "a01fe634-5b29-45c1-8ed8-04409475ef3a"
+venue: "9f19e969-5378-4cc0-b7fe-01babdadc4f0"
+title: "Theatre De La Mer-Jean Vilar"
+address: ""
+coordinates:
+  latitude: 43.401443
+  longitude: 3.695977
+  zoom: 17
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

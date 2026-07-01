@@ -1,0 +1,20 @@
+---
+id: "fcd113b9-590d-428e-9912-398f20f0340b"
+venue: "acbf4aba-6312-41e4-834d-604a954f0be6"
+title: "Kaseya Center"
+address: ""
+coordinates:
+  latitude: 25.78136
+  longitude: -80.187944
+  zoom: 17
+socials:
+  facebook: ""
+  instagram: ""
+  web: ""
+todo:
+  - Add detailed description
+  - Verify social networks
+  - Verify address
+  - Add logo cover
+---
+

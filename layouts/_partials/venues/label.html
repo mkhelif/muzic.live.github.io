@@ -1,0 +1,14 @@
+{{ if . }}
+    {{ $venue := . }}
+    {{ range hugo.Sites }}
+        {{ range (where (where .Pages "Section" "venues") ".Params.id" $venue) }}
+            {{ .LinkTitle -}}
+            {{- with .Params.venue -}}
+                , {{ partial "venues/label.html" . -}}
+            {{ end }}
+            {{- range .Params.venues -}}
+                , {{ . -}}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+{{ end }}

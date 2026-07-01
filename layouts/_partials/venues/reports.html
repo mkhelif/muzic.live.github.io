@@ -1,0 +1,16 @@
+{{/* Fetch all nested locations (5 levels deep) */}}
+{{ $locations := slice .Params.id }}
+{{ range (seq 5)}}
+    {{ range hugo.Sites }}
+        {{ range where (where .Pages "Section" "venues") ".Params.venue" "in" $locations }}
+            {{ $locations = $locations | append .Params.id }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{/* --- Reports --- */}}
+{{ $reports := where .Site.Pages "Section" "reports" }}
+{{ $reports = where $reports ".Params.venue" "in" $locations }}
+{{ $reports = $reports.ByDate.Reverse }}
+{{ partial "reports/list.html" (dict "context" . "reports" ($reports.Limit 5) "title" "Dernières chroniques de concerts") }}
+

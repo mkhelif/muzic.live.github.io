@@ -1,0 +1,9 @@
+---
+id: "60adb012-ed24-47a6-80e3-9302a537166e"
+venue: "c86f29be-ed5f-4e8e-9aab-b64d9f0e6658"
+title: "Innsbruck"
+coordinates:
+  latitude: 47.2692
+  longitude: 11.4041
+  zoom: 12
+---
