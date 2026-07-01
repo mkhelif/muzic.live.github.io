@@ -1,0 +1,7 @@
+{{- if .Params.socials.amazon -}}
+    {{- if eq .Section "artists" -}}
+        https://music.amazon.com/artists/{{ .Params.socials.amazon }}
+    {{- else if eq .Section "albums" -}}
+        https://music.amazon.com/albums/{{ .Params.socials.amazon }}
+    {{- end -}}
+{{- end -}}

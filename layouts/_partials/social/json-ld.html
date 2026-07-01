@@ -1,0 +1,29 @@
+{{- $links := slice -}}
+{{- range slice
+    "web"
+    "facebook"
+    "instagram"
+    "tiktok"
+    "x"
+    "bluesky"
+    "threads"
+    "youtube"
+    "bandcamp"
+    "bandsintown"
+    "soundcloud"
+    "songkick"
+    "mixcloud"
+    "myspace"
+    "tidal"
+    "spotify"
+    "deezer"
+    "apple"
+    "amazon"
+    "qobuz"
+    "whatsapp"
+-}}
+    {{- with trim (partial (printf "social/%s.txt" .) $) " \n\t" -}}
+        {{- $links = $links | append . -}}
+    {{- end -}}
+{{- end -}}
+{{- return $links -}}

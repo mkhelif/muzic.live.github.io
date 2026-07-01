@@ -1,0 +1,7 @@
+{{- if .Params.socials.deezer -}}
+    {{- if eq .Section "artists" -}}
+        https://www.deezer.com/artist/{{ .Params.socials.deezer }}
+    {{- else if eq .Section "albums" -}}
+        https://www.deezer.com/album/{{ .Params.socials.deezer }}
+    {{- end -}}
+{{- end -}}

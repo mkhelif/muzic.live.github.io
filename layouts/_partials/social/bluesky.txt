@@ -1,0 +1,3 @@
+{{- with .Params.socials.bluesky -}}
+    https://bsky.app/profile/{{ . }}.bsky.social
+{{- end -}}

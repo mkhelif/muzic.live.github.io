@@ -1,0 +1,7 @@
+{{- $image := "" -}}
+{{- with .Params.cover -}}
+    {{- with ($.Resources.Get .) -}}
+        {{- $image = .Permalink -}}
+    {{- end -}}
+{{- end -}}
+{{- return $image -}}

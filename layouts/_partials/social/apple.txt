@@ -1,0 +1,7 @@
+{{- if .Params.socials.apple -}}
+    {{- if eq .Section "artists" -}}
+        https://music.apple.com/artist/{{ .Params.socials.apple }}
+    {{- else if eq .Section "albums" -}}
+        https://music.apple.com/album/{{ .Params.socials.apple }}
+    {{- end -}}
+{{- end -}}

@@ -1,0 +1,45 @@
+{{- /* --- Cover --- */ -}}
+{{- $cover := partial "seo/image.html" . -}}
+
+{{- /* --- Artists --- */ -}}
+{{- $artist := dict -}}
+{{- with .Params.artists -}}
+    {{- range where (where site.RegularPages "Section" "artists") ".Params.id" (index . 0) -}}
+        {{- $artist = dict
+            "@type" "MusicGroup"
+            "name" .Title
+            "url" .Permalink
+        -}}
+    {{- end -}}
+{{- end -}}
+
+{{- /* --- Rank --- */ -}}
+{{- $rank := dict -}}
+{{- with .Params.rank -}}
+    {{- $rank = dict
+        "@type" "Review"
+        "reviewRating" (dict
+            "@type" "Rating"
+            "ratingValue" (printf "%v" .)
+            "bestRating" "10"
+            "worstRating" "0"
+        )
+        "author" (dict
+            "@type" "Organization"
+            "name" site.Title
+        )
+    -}}
+{{- end -}}
+
+{{- /* --- Album --- */ -}}
+{{- $data := dict
+    "@context" "https://schema.org"
+    "@type" "MusicAlbum"
+    "name" .Title
+    "url" .Permalink
+    "datePublished" (.Date.Format "2006-01-02")
+-}}
+{{- with $cover }}{{ $data = merge $data (dict "image" .) }}{{ end -}}
+{{- with $artist }}{{ if .name }}{{ $data = merge $data (dict "byArtist" .) }}{{ end }}{{ end -}}
+{{- with $rank }}{{ if .reviewRating }}{{ $data = merge $data (dict "review" .) }}{{ end }}{{ end -}}
+{{- return $data -}}

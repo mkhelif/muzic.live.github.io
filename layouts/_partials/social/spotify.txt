@@ -1,0 +1,7 @@
+{{- if .Params.socials.spotify -}}
+    {{- if eq .Section "artists" -}}
+        https://open.spotify.com/artist/{{ .Params.socials.spotify }}
+    {{- else if eq .Section "albums" -}}
+        https://open.spotify.com/album/{{ .Params.socials.spotify }}
+    {{- end -}}
+{{- end -}}

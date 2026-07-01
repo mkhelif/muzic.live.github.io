@@ -1,0 +1,36 @@
+{{- $items := slice (dict
+    "@type" "ListItem"
+    "position" 1
+    "name" "Accueil"
+    "item" site.BaseURL
+) -}}
+{{- $currentName := .Title -}}
+{{- if and (not $currentName) (eq .Section "events") -}}
+    {{- $artistNames := slice -}}
+    {{- range .Params.artists -}}
+        {{- $artistId := . -}}
+        {{- range where (where site.RegularPages "Section" "artists") ".Params.id" $artistId -}}
+            {{- $artistNames = $artistNames | append .Title -}}
+        {{- end -}}
+    {{- end -}}
+    {{- if gt (len $artistNames) 0 }}{{ $currentName = delimit $artistNames ", " }}{{ end -}}
+    {{- $festivalId := "" -}}
+    {{- with .Params.festivalId }}{{ $festivalId = . }}{{ else }}{{ with .Params.festival }}{{ $festivalId = . }}{{ end }}{{ end -}}
+    {{- with $festivalId -}}
+        {{- range where (where site.RegularPages "Section" "festivals") ".Params.id" . -}}
+            {{- $currentName = printf "%s : %s" .Title $currentName -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+{{- if not $currentName }}{{ $currentName = .RelPermalink }}{{ end -}}
+{{- with site.GetPage .Section -}}
+    {{- if and (ne .RelPermalink $.RelPermalink) (ne .Permalink site.BaseURL) -}}
+        {{- $sectionItem := .Permalink -}}
+        {{- if not $sectionItem }}{{ $sectionItem = printf "%s%s/" site.BaseURL $.Section }}{{ end -}}
+        {{- $sectionName := .Title -}}
+        {{- if not $sectionName }}{{ $sectionName = $.Section | humanize }}{{ end -}}
+        {{- $items = $items | append (dict "@type" "ListItem" "position" (add (len $items) 1) "name" $sectionName "item" $sectionItem) -}}
+    {{- end -}}
+{{- end -}}
+{{- $items = $items | append (dict "@type" "ListItem" "position" (add (len $items) 1) "name" $currentName "item" .Permalink) -}}
+{{- return (dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items) -}}

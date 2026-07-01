@@ -1,0 +1,19 @@
+{{- $image := partial "seo/image.html" . -}}
+{{- $data := dict
+    "@context" "https://schema.org"
+    "@type" "Article"
+    "headline" .Title
+    "url" .Permalink
+    "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+    "inLanguage" "fr-FR"
+    "publisher" (dict
+        "@type" "Organization"
+        "name" site.Title
+        "logo" (dict "@type" "ImageObject" "url" (index site.Params.images 0 | absURL))
+    )
+-}}
+{{- with $image }}{{ $data = merge $data (dict "image" .) }}{{ end -}}
+{{- with .Params.author }}{{ $data = merge $data (dict "author" (dict "@type" "Person" "name" .)) }}{{ end -}}
+{{- with .Description }}{{ $data = merge $data (dict "description" .) }}{{ else }}{{ with $.Summary }}{{ $data = merge $data (dict "description" (. | plainify | truncate 200)) }}{{ end }}{{ end -}}
+{{- return $data -}}

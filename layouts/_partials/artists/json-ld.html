@@ -1,0 +1,11 @@
+{{- $image := partial "seo/image.html" . -}}
+{{- $data := dict
+    "@context" "https://schema.org"
+    "@type" "MusicGroup"
+    "name" .Title
+    "url" .Permalink
+    "description" (.Summary | plainify | truncate 200)
+    "sameAs" (partial "social/json-ld.html" .)
+-}}
+{{- with $image }}{{ $data = merge $data (dict "image" .) }}{{ end -}}
+{{- return $data -}}

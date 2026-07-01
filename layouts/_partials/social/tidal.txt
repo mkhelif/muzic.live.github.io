@@ -1,0 +1,7 @@
+{{- if .Params.socials.tidal -}}
+    {{- if eq .Section "artists" -}}
+        https://tidal.com/artist/{{ .Params.socials.tidal }}
+    {{- else if eq .Section "albums" -}}
+        https://tidal.com/album/{{ .Params.socials.tidal }}
+    {{- end -}}
+{{- end -}}

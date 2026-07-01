@@ -1,0 +1,69 @@
+{{- $image := partial "seo/image.html" . -}}
+
+{{- $artistNames := slice -}}
+{{- $performers := slice -}}
+{{- range .Params.artists -}}
+    {{- $artistId := . -}}
+    {{- range where (where site.RegularPages "Section" "artists") ".Params.id" $artistId -}}
+        {{- $artistNames = $artistNames | append .Title -}}
+        {{- $performers = $performers | append (dict "@type" "MusicGroup" "name" .Title "url" .Permalink) -}}
+    {{- end -}}
+{{- end -}}
+
+{{- $eventName := .Title -}}
+{{- if gt (len $artistNames) 0 }}{{ $eventName = delimit $artistNames ", " }}{{ end -}}
+
+{{- $organizer := dict -}}
+{{- $festivalId := "" -}}
+{{- with .Params.festivalId }}{{ $festivalId = . }}{{ else }}{{ with .Params.festival }}{{ $festivalId = . }}{{ end }}{{ end -}}
+{{- with $festivalId -}}
+    {{- range where (where site.RegularPages "Section" "festivals") ".Params.id" . -}}
+        {{- $eventName = printf "%s : %s" .Title $eventName -}}
+        {{- $organizer = dict "@type" "Organization" "name" .Title "url" .Permalink -}}
+    {{- end -}}
+{{- end -}}
+
+{{- $location := dict -}}
+{{- with .Params.locationId -}}
+    {{- $locationId := . -}}
+    {{- range hugo.Sites -}}
+        {{- range where (where .Pages "Section" "locations") ".Params.id" $locationId -}}
+            {{- $location = dict "@type" "MusicVenue" "name" .Title "url" .Permalink -}}
+            {{- with .Params.address }}{{ $location = merge $location (dict "address" .) }}{{ end -}}
+            {{- with .Params.coordinates -}}
+                {{- $location = merge $location (dict "geo" (dict "@type" "GeoCoordinates" "latitude" .latitude "longitude" .longitude)) -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- $eventStatus := "https://schema.org/EventScheduled" -}}
+{{- if .Params.cancelled }}{{ $eventStatus = "https://schema.org/EventCancelled" }}{{ end -}}
+
+{{- $description := "" -}}
+{{- with .Summary }}{{ $description = . | plainify | truncate 200 }}{{ end -}}
+{{- if not $description }}{{ $description = printf "Concert de %s." $eventName }}{{ end -}}
+
+{{- $data := dict
+    "@context" "https://schema.org"
+    "@type" "MusicEvent"
+    "name" $eventName
+    "url" .Permalink
+    "description" $description
+    "startDate" (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "eventStatus" $eventStatus
+    "eventAttendanceMode" "https://schema.org/OfflineEventAttendanceMode"
+    "inLanguage" "fr-FR"
+-}}
+{{- with $image }}{{ $data = merge $data (dict "image" .) }}{{ end -}}
+{{- if gt (len $performers) 0 }}{{ $data = merge $data (dict "performer" $performers) }}{{ end -}}
+{{- if gt (len $location) 0 }}{{ $data = merge $data (dict "location" $location) }}{{ end -}}
+{{- if gt (len $organizer) 0 }}{{ $data = merge $data (dict "organizer" $organizer) }}{{ end -}}
+{{- with .Params.tickets -}}
+    {{- $ticketUrl := trim (partial "events/tickets.html" .) " \n\t" -}}
+    {{- with $ticketUrl -}}
+        {{- $availability := cond $.Params.full "https://schema.org/SoldOut" "https://schema.org/InStock" -}}
+        {{- $data = merge $data (dict "offers" (dict "@type" "Offer" "url" . "availability" $availability)) -}}
+    {{- end -}}
+{{- end -}}
+{{- return $data -}}

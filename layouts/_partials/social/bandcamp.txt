@@ -1,0 +1,3 @@
+{{- with .Params.socials.bandcamp -}}
+    https://{{ . }}.bandcamp.com/
+{{- end -}}

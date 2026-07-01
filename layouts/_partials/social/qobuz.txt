@@ -1,0 +1,8 @@
+{{- if .Params.socials.qobuz -}}
+    {{- if eq .Section "artists" -}}
+        https://www.qobuz.com/artist/{{ .Params.socials.qobuz }}
+    {{- else if eq .Section "albums" -}}
+        {{- $qobuzSlug := split (substr .Path 8) "/" -}}{{/* "/albums/" */}}
+        https://www.qobuz.com/album/{{ index $qobuzSlug 1 }}-{{ index $qobuzSlug 0 }}/{{ .Params.socials.qobuz }}
+    {{- end -}}
+{{- end -}}
