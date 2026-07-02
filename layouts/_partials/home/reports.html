@@ -1,0 +1,22 @@
+{{- $reports := (where site.RegularPages "Section" "reports") | first 10 -}}
+
+{{ partial "titles/h3.html" (dict "title" "Dernières chroniques de concerts" "link" "/reports") }}
+{{ range $index, $report := $reports }}
+    <div class="row py-3 {{ cond (eq (add $index 1) (len $reports)) "" "border-bottom border-light border-opacity-25" }}">
+        <div class="col-12 col-sm-3 rounded overflow-hidden bg-dark">
+            <a href="{{ .RelPermalink }}">
+                <img src="{{ urls.JoinPath .Path (default "cover.jpg" .Params.cover) | absURL | safeURL }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="object-fit-cover w-100 h-100 rounded" />
+            </a>
+        </div>
+        <div class="col-12 col-sm-9">
+            <div class="d-flex align-items-center text-secondary font-monospace small">
+                <a class="text-reset d-flex align-items-center" href="{{ .RelPermalink }}">
+                    <small>{{ with .Params.venue }}{{ partial "venues/label.html" . }} · {{ end }}{{ partial "format/datetime.html" (dict "date" .Date) }}</small>
+                    {{ partial "home/rank.html" .Params.rank }}
+                </a>
+            </div>
+            <h6 class="pt-1 mt-0 mb-1"><a class="text-reset" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h6>
+            <p class="mt-1 small text-secondary fw-light"><a class="text-reset" href="{{ .RelPermalink }}">{{ .Summary | plainify | truncate 150 }}</a></p>
+        </div>
+    </div>
+{{ end }}

@@ -1,0 +1,22 @@
+{{- $festivals := slice -}}
+{{- range (sort (where (where (where .Site.Pages "Section" "events") "Date" ">=" now) "Params.festival" "ne" nil) "Date" "asc") -}}
+    {{- $festivals = $festivals | append .Params.festival -}}
+{{- end -}}
+{{- $festivals = $festivals | uniq | first 4 -}}
+{{ if $festivals }}
+    <section class="mt-5">
+        {{ partial "titles/h3.html" (dict "title" "Prochains festivals" "link" "/festivals") }}
+        <div class="row row-cols-1 row-cols-md-4 g-4 pt-3">
+            {{ range where (where site.RegularPages "Section" "festivals") ".Params.id" "in" $festivals }}
+            <div class="col">
+                <a href="{{ .RelPermalink }}" class="d-block text-decoration-none rounded overflow-hidden position-relative" style="height:clamp(140px,18vw,200px);">
+                    <img src="{{ urls.JoinPath .Path (default "cover.jpg" .Params.cover) | absURL | safeURL }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover" />
+                    <div class="position-absolute bottom-0 start-0 w-100 p-3" style="background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.75) 100%)">
+                        <h6 class="text-white mb-0">{{ .LinkTitle }}</h6>
+                    </div>
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+{{ end }}

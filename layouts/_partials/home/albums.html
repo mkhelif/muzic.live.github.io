@@ -1,0 +1,22 @@
+{{- $albums := (where site.RegularPages "Section" "albums") | first 10 -}}
+
+{{ partial "titles/h3.html" (dict "title" "Albums" "link" "/albums") }}
+{{ range $index, $album := $albums }}
+    <div class="row py-3 {{ cond (eq (add $index 1) (len $albums)) "" "border-bottom border-light border-opacity-25" }}">
+        <div class="col-4">
+            <div class="rounded overflow-hidden bg-dark">
+                <a href="{{ .RelPermalink }}">
+                    <img src="{{ urls.JoinPath .Path (default "cover.jpg" .Params.cover) | absURL | safeURL }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="object-fit-cover w-100 h-100" />
+                </a>
+            </div>
+        </div>
+        <div class="col-8">
+            {{ with .Params.artists }}<small class="text-primary font-monospace text-uppercase d-block">{{ partial "artists/name.html" (index . 0) }}</small>{{ end }}
+            <h6 class="pt-1 mt-0 mb-1">{{ .LinkTitle }}</h6>
+            <div class="d-flex align-items-center text-secondary font-monospace small">
+                <small>{{ partial "format/datetime.html" (dict "date" .Date) }}</small>
+                {{ partial "home/rank.html" .Params.rank }}
+            </div>
+        </div>
+    </div>
+{{ end }}
