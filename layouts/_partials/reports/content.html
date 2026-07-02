@@ -1,10 +1,7 @@
 {{ partial "cover.html" . }}
 
 <div class="container">
-    <p>
-        {{ with $.Params.festival }}{{ partial "festivals/badge.html" . }}{{ end }}
-        {{ range $.Params.artists }}{{ partial "artists/badge.html" . }}{{ end }}
-    </p>
+    {{ partial "reports/badges.html" . }}
 
     <div class="d-flex flex-row justify-content-between mb-5">
         {{ partial "venues/pagefind.html" .Params.venue }}
@@ -17,27 +14,7 @@
 
     {{ partial "content.html" . }}
 
-    <!-- Other reports -->
-    <div data-pagefind-ignore="all" class="d-print-none">
-        {{ with .Params.festival }}
-            {{ $festLink := "" }}
-            {{ $festName := "" }}
-            {{ range where (where site.RegularPages "Section" "festivals") ".Params.id" . }}
-                {{ $festLink = .RelPermalink }}
-                {{ $festName = .LinkTitle }}
-            {{ end }}
-            <div class="mt-5 mb-4">{{ partial "titles/h3.html" (dict "title" (printf "Autres chroniques du festival %s" $festName) "link" $festLink) }}</div>
-            {{ $reports := where $.Site.RegularPages "Section" "reports" }}
-            {{ $reports = where $reports ".Params.festival" . }}
-            {{ $reports = where $reports ".Path" "ne" $.Path }}
-            {{ range $index, $report := $reports }}
-                {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
-            {{ end }}
-            {{ if eq $reports.Len 0 }}
-                <p class="small text-muted text-center">Aucune chronique de concert</p>
-            {{ end }}
-        {{ end }}
-    </div>
+    {{ partial "reports/others.html" . }}
 
     {{ partialCached "comments.html" . }}
 </div>

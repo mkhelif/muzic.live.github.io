@@ -1,0 +1,7 @@
+<p class="d-flex align-items-center small border-bottom border-1 border-light border-opacity-25 pb-3">
+    <small class="text-uppercase font-monospace me-3 text-body opacity-50">Tags</small>
+    {{- with .Params.festival -}}{{- partial "festivals/badge.html" . -}}{{- end -}}
+    {{- range .Params.artists -}}{{- partial "artists/badge.html" . -}}{{- end -}}
+    {{- with .Params.album -}}{{- partial "albums/badge.html" . -}}{{- end -}}
+    {{- with .Params.venue -}}{{- partial "venues/badge.html" . -}}{{- end -}}
+</p>

@@ -1,0 +1,5 @@
+{{- range where (where site.RegularPages "Section" .section) ".Params.id" .id -}}
+    <a class="badge border border-light border-opacity-25 rounded-pill me-2 px-3 py-2 text-uppercase font-monospace fw-normal small text-body" href="{{ .RelPermalink }}" data-pagefind-ignore>
+        {{ .LinkTitle }}
+    </a>
+{{- end -}}

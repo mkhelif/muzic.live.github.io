@@ -1,21 +1,23 @@
 {{ partial "cover.html" . }}
 
 <div class="container">
-    <div class="d-flex flex-row justify-content-between mb-5">
-        <span>
-            {{ with $.Params.festival }}{{ partial "festivals/badge.html" . }}{{ end }}
-            {{ range $.Params.albums }}{{ partial "albums/badge.html" . }}{{ end }}
-            {{ range $.Params.artists }}{{ partial "artists/badge.html" . }}{{ end }}
-        </span>
-        <small class="text-nowrap">
-            {{ $locations := slice }}
-            {{ with .Params.venue }}
-                {{ partial "venues/link.html" . }}
-            {{ end }}
+    <div class="d-flex flex-row justify-content-end mb-5">
+        <small class="text-nowrap text-secondary font-monospace">
+            {{ with .Params.venue }}{{ partial "venues/link.html" . }} · {{ end }}
             {{ partial "format/date.html" .Date }}
         </small>
     </div>
 
     {{ partial "content.html" . }}
+
+    {{ if or .Params.festival .Params.albums .Params.artists }}
+        <div class="d-flex flex-wrap pt-4 mt-5 border-top border-secondary border-opacity-25">
+            Tags :
+            {{ with .Params.festival }}{{ partial "festivals/badge.html" . }}{{ end }}
+            {{ range .Params.albums }}{{ partial "albums/badge.html" . }}{{ end }}
+            {{ range .Params.artists }}{{ partial "artists/badge.html" . }}{{ end }}
+        </div>
+    {{ end }}
+
     {{ partialCached "comments.html" . }}
 </div>
