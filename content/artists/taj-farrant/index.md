@@ -18,7 +18,7 @@ fait pleurer Nuno Bettencourt d'admiration et décroché un contrat d'endorsemen
 droit de conduire. Le 14 juillet 2026, c'est sur la Scène Village de Guitare en Scène qu'il posera ses amplis. Autant
 prévenir : le choc risque d'être violent.
 
-## Long Jetty, Nouvelle-Galles du Sud : là où tout commence
+###### Long Jetty, Nouvelle-Galles du Sud : là où tout commence
 
 Taj Farrant naît le 21 mai 2009 à Long Jetty, petite ville côtière de la Central Coast en Nouvelle-Galles du Sud, en
 Australie. Son prénom n'est pas un hommage au bluesman américain Taj Mahal, mais au champion de surf australien Taj
@@ -29,7 +29,7 @@ Son père, Brandin Farrant, est batteur. Sa mère, Cassie, assure la logistique 
 basculer dans l'extraordinaire. Sa sœur cadette, Jazel, deviendra elle aussi musicienne — elle joue de la batterie et
 assure régulièrement la première partie des concerts de son frère.
 
-## Le déclic : AC/DC et l'apparition d'Angus Young
+###### Le déclic : AC/DC et l'apparition d'Angus Young
 
 L'histoire de Taj Farrant commence réellement un soir de 2015 ou 2016, lors d'un concert d'AC/DC. Le petit Taj — six ans
 et demi — est perché sur les épaules de son père dans la foule. Quand Angus Young surgit sur scène et attaque les
@@ -45,7 +45,7 @@ La progression est fulgurante. À sept ans, Taj s'attaque au solo de *Comfortabl
 jouer les yeux bandés pour une vidéo YouTube qui accumulera des millions de vues. Sa reprise de *Tennessee Whiskey* de
 Chris Stapleton dépassera les onze millions de vues sur la plateforme. Le monde commence à regarder.
 
-## L'ascension : d'Australia's Got Talent au plateau d'Ellen
+###### L'ascension : d'Australia's Got Talent au plateau d'Ellen
 
 En 2019, à neuf ans, Taj Farrant participe à *Australia's Got Talent*, où il se hisse jusqu'en demi-finale avec une
 interprétation de *Purple Rain* de Prince. La même année, il traverse le Pacifique pour apparaître sur *The Ellen
@@ -66,7 +66,7 @@ programme australien en enseignement à domicile, tandis que la famille partage 
 États-Unis — avant de s'installer définitivement outre-Atlantique, la scène américaine étant devenue le cœur de la
 carrière de Taj.
 
-## Jammer avec les légendes
+###### Jammer avec les légendes
 
 Ce qui distingue Taj Farrant de la longue liste des « enfants prodiges de YouTube », c'est la validation par les pairs —
 et pas n'importe lesquels. En 2020, lors d'un événement au House of Blues de Las Vegas, Carlos Santana l'invite sur
@@ -84,7 +84,7 @@ Après avoir regardé une douzaine de fois une vidéo live du solo de *Mumma Rai
 un message enflammé sur les réseaux, décrivant Taj comme la réincarnation de Stevie Ray Vaughan et d'Eddie Van Halen
 réunis en un seul corps. Le mot « dangerous » revient. Le mot « inspiring » aussi. L'adoubement est total.
 
-## *Chapter One* : le premier album
+###### *Chapter One* : le premier album
 
 Le 28 août 2024, Taj Farrant sort enfin son premier album, *Chapter One*, sur le label familial T & J Records. Onze
 titres, 42 minutes, et une maturité qui défie l'âge inscrit sur sa carte d'identité. L'album atteint la première place
@@ -99,7 +99,7 @@ Nuno — révèlent un songwriter en pleine maturation, capable de mêler puissa
 reprises : *Ain't No Sunshine* de Bill Withers et *Tightrope* de Stevie Ray Vaughan, deux hommages qui ancrent
 clairement la filiation musicale revendiquée.
 
-## La tournée qui ne s'arrête plus
+###### La tournée qui ne s'arrête plus
 
 Depuis la sortie de *Chapter One*, Taj enchaîne les dates aux États-Unis à un rythme effréné, accompagné du groupe
 Nathan Bryce & Loaded Dice. Les salles se remplissent, les tickets se vendent souvent en avance. La tournée se double
@@ -110,7 +110,7 @@ Et parce qu'il n'est pas du genre à garder la lumière pour lui seul, Taj invit
 monter sur scène avec lui et son groupe, reproduisant le geste que Santana et Orianthi avaient eu envers lui quelques
 années plus tôt.
 
-## Influences et style : bien plus qu'un prodige
+###### Influences et style : bien plus qu'un prodige
 
 Le piège, avec un artiste aussi jeune, serait de le réduire à un phénomène de foire. Mais Taj Farrant échappe à cette
 facilité par la profondeur de son jeu et par une culture musicale qui, à 17 ans, impressionne déjà les vétérans. Ses
@@ -125,7 +125,7 @@ lucidité remarquable pour son âge : il ne veut pas être reconnu « pour ce qu
 être un bon artiste ». La nuance est essentielle — et c'est précisément ce qui le distingue de la cohorte des
 guitaristes viraux qui fleurissent et fanent sur les réseaux.
 
-## L'affaire de famille
+###### L'affaire de famille
 
 On ne peut pas raconter l'histoire de Taj sans parler des Farrant au pluriel. Brandin, le père-batteur devenu professeur
 de guitare par amour, filme chaque session de pratique depuis le début — d'abord pour analyser la progression de son
@@ -135,7 +135,7 @@ s'appelle T & J Records — Taj et Jazel. Sur le tour bus américain, il y a des
 prévus pour visiter les chutes du Niagara. C'est une aventure familiale totale, et Taj le reconnaît avec une simplicité
 désarmante : ses parents ont fait en sorte que sa vie reste « normale », même quand rien ne l'est.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 À 17 ans, Taj Farrant a déjà une carrière que bien des musiciens de 40 ans lui envieraient : un album classé numéro un,
 des collaborations avec les plus grands, l'adoubement de Nuno Bettencourt, des festivals majeurs sur trois continents,

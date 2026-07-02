@@ -13,7 +13,7 @@ américaine. Figure méconnue mais précieuse de la scène alternative indépend
 Halo a connu une résurrection dans les années 2000 qui a permis à une nouvelle génération de découvrir leur
 univers sonore hors du temps.
 
-##### Formation et premières années
+###### Formation et premières années
 
 Le groupe est fondé par la chanteuse et guitariste Catherine Cooper, le guitariste Adam Cooper et la bassiste
 Lynn Anderson. Pour compléter leur formation, le trio s'équipe d'une boîte à rythmes Alesis SR-16, qu'ils
@@ -27,7 +27,7 @@ Radleys, Bailter Space et Stereophonics comptent parmi les groupes avec lesquels
 présence au CMJ Music Marathon et au South by Southwest les expose à un public plus large et contribue à
 construire leur réputation dans les cercles indie américains.
 
-##### Discographie et son
+###### Discographie et son
 
 Avant l'enregistrement de leur premier single officiel, le groupe publie deux cassettes démo — *Slug* et
 *Halo* — qui circulent dans le réseau underground et posent les bases de leur esthétique. Un batteur humain,
@@ -40,7 +40,7 @@ du mix plutôt que de le traverser, et une production qui valorise la texture et
 mélodie. Les influences de My Bloody Valentine, Slowdive ou Lush sont perceptibles, mais le groupe développe
 une voix propre, plus directement mélodique et accessible que certains de ses homologues britanniques.
 
-##### Dissolution et renaissance
+###### Dissolution et renaissance
 
 Comme de nombreux groupes de leur génération, Alison's Halo se dissout à la fin des années 1990, victime
 de l'évolution des modes musicales et des aléas de la vie. Adam et Catherine Cooper s'installent à Chicago

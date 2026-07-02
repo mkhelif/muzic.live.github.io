@@ -14,7 +14,7 @@ en 2012, qu'ils commencent à se faire connaître en faisant la manche devant un
 pour un groupe qui deviendra l'une des formations folk les plus appréciées de la scène acoustique australienne et
 européenne.
 
-##### Folk acoustique et influences
+###### Folk acoustique et influences
 
 La musique d'Amistat évoque les harmonies vocales soyeuses de Simon & Garfunkel et un registre folk acoustique
 contemporain proche de Ben Howard, Kings of Convenience et Kodaline. Depuis leurs premiers pas à Melbourne, Josef

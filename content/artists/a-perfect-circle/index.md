@@ -18,14 +18,14 @@ Tool assure la première partie de Fishbone. Quelques années plus tard, Keenan 
 ses démos, et c'est en entendant ces compositions que le chanteur accepte de rejoindre le projet. A Perfect Circle naît
 ainsi d'une longue amitié et d'une confiance mutuelle rare dans le milieu musical.
 
-##### Une discographie majeure
+###### Une discographie majeure
 
 Le groupe sort son album de débuts *Mer de Noms* en 2000, un succès immédiat qui entre directement à la première place
 des charts américains. *Thirteenth Step* (2003) approfondit un univers musical plus sombre et complexe, suivi de
 *Emotive* (2004), album de reprises aux arrangements profondément personnels. Après une longue pause, le groupe revient
 avec *Eat the Elephant* (2018), puis de nouveau avec de nouvelles productions en 2024.
 
-##### Style et héritage
+###### Style et héritage
 
 La musique d'A Perfect Circle se distingue par ses textures sonores denses, ses dynamiques contrastées — entre douceur
 murmurée et puissance explosive — et des textes qui explorent la douleur, la politique, la spiritualité et les

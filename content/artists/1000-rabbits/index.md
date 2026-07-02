@@ -13,7 +13,7 @@ Le groupe est composé de cinq musiciens : River (chant), Laura (violon), Liv (s
 batterie). Cette formation atypique, qui intègre le violon et le synthétiseur aux côtés des instruments rock
 traditionnels, confère à leur musique une texture organique et surprenante.
 
-##### Ascension londonienne
+###### Ascension londonienne
 
 Devenus des habitués du Windmill à Brixton — salle légendaire de la scène indépendante londonienne — 1000 Rabbits s'y
 forgent une réputation de groupe live puissant et énigmatique, capable d'alterner entre moments d'une grande douceur et
@@ -24,7 +24,7 @@ Signés sur le label Young, ils publient leurs albums *Are We Friends Yet?*, *Vi
 affinant davantage leur identité musicale singulière, à la frontière du rock expérimental et de la chanson pop
 narrative.
 
-##### Un son entre deux mondes
+###### Un son entre deux mondes
 
 La musique de 1000 Rabbits puise dans une large palette d'influences, des atmosphères côtières de leur ville natale aux
 bruits de la capitale britannique. Leurs compositions allient des structures harmoniques sophistiquées à des

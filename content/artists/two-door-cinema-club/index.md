@@ -22,7 +22,7 @@ Composé d'Alex Trimble (chant, guitare rythmique, synthés), Sam Halliday (guit
 synthés), le groupe s'est imposé sans batteur permanent, s'appuyant sur des boîtes à rythmes et des percussions
 programmées pour façonner son identité sonore.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Leur premier album "Tourist History" (2010) devient instantanément culte grâce à des titres comme "Something Good Can
 Work", "Undercover Martyn" et "What You Know", remportant le Choice Music Prize irlandais.
@@ -33,7 +33,7 @@ britanniques et consolidant leur public international.
 Après une pause, le groupe opère un virage plus pop et funk avec "Gameshow" (2016), puis explore des territoires
 électroniques audacieux sur "False Alarm" (2019) avant de revenir à une pop solaire avec "Keep On Smiling" (2022).
 
-##### Style et influences
+###### Style et influences
 
 Le son de Two Door Cinema Club repose sur des guitares scintillantes, des riffs anguleux et des mélodies vocales
 immédiatement accrocheuses, fusionnant indie rock, post-punk dansant et pop électronique.
@@ -44,7 +44,7 @@ reconnaissable entre mille, marquée par la voix claire et haut perchée d'Alex 
 Leurs compositions privilégient l'énergie, la concision et l'efficacité mélodique, ce qui en a fait des habitués des
 grandes scènes de festivals à travers le monde.
 
-##### Actualité
+###### Actualité
 
 Two Door Cinema Club poursuit une carrière régulière entre albums studio et tournées internationales, restant l'une
 des formations les plus emblématiques de la génération indie rock des années 2010.

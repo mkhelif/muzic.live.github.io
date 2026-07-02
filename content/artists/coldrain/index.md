@@ -12,7 +12,7 @@ formation identique depuis sa création, sans aucun changement de line-up. Autre
 japonais, coldrain chante intégralement en anglais, une décision artistique qui leur a ouvert les portes
 d'un marché international difficile d'accès pour les groupes nippons.
 
-##### Des débuts japonais vers une audience mondiale
+###### Des débuts japonais vers une audience mondiale
 
 Environ un an après leur formation, coldrain signe un contrat avec le label japonais VAP et publie leur
 premier maxi single, *Fiction*, le 5 novembre 2008. Les deux premiers albums du groupe, *Final Destination*
@@ -25,7 +25,7 @@ mondiale marque l'entrée officielle de coldrain sur la scène internationale, e
 bien plus large. Les albums suivants — *Vena* (2015), *Fateless* (2017), *The Side Effects* (2019) et
 *Nonnegative* (2022) — confirment cette trajectoire ascendante.
 
-##### Chanteur bilingue, musique universelle
+###### Chanteur bilingue, musique universelle
 
 La fluidité d'Hayakawa entre l'anglais et le japonais n'est pas un accident : né d'un père japonais et d'une
 mère américaine, il grandit en maîtrisant parfaitement les deux langues. Ce bilinguisme naturel éclaire le
@@ -34,7 +34,7 @@ personnelle. Sa voix, capable d'alterner puissance et finesse, est l'un des atou
 mêle chant mélodique et screams avec une aisance technique qui le place parmi les meilleurs chanteurs de
 sa génération dans le genre metalcore.
 
-##### L'anime comme tremplin
+###### L'anime comme tremplin
 
 En 2019, coldrain connaît une exposition inattendue : leur morceau *MAYDAY*, en collaboration avec Ryo
 Kinoshita du groupe Crystal Lake, est sélectionné comme générique d'ouverture de la série d'animation
@@ -42,7 +42,7 @@ Kinoshita du groupe Crystal Lake, est sélectionné comme générique d'ouvertur
 des amateurs de manga, propulse le groupe devant un public nouveau et confirme leur capacité à toucher
 des auditeurs en dehors des cercles habituels du metal.
 
-##### Un son entre metal et rock alternatif
+###### Un son entre metal et rock alternatif
 
 Musicalement, coldrain se situe à l'intersection du metalcore, du post-hardcore et du rock alternatif. Leur
 son est caractérisé par des guitares doubles efficaces, une section rythmique solide, des refrains

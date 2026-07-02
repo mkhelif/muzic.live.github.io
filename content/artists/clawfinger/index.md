@@ -10,7 +10,7 @@ bousculer et pour faire réfléchir, avec des textes qui s'attaquent frontalemen
 aux injustices sociales et à la bêtise ordinaire. Leur carrière s'étend sur plusieurs décennies, entre
 succès international, dissolution et retour aux affaires.
 
-##### La formation dans un couloir d'hôpital
+###### La formation dans un couloir d'hôpital
 
 La genèse de Clawfinger est savoureuse : le chanteur Zak Tell et le claviériste Jocke Skog se rencontrent
 à la mi-1989 alors qu'ils travaillent tous les deux à l'hôpital de Rosenlund, à Stockholm. La suite découle
@@ -19,7 +19,7 @@ eux aussi employés du même établissement, les rejoignent en 1990. La section 
 les frères André et Morten Skaug en 1992. Cette formation — dont les membres sont répartis entre la Suède
 et la Norvège — donne au groupe une double identité scandinave qui transparaît dans son son.
 
-##### Le succès fulgurant de Deaf Dumb Blind
+###### Le succès fulgurant de Deaf Dumb Blind
 
 En avril 1993, Clawfinger publie son album de début, *Deaf Dumb Blind*, et l'accueil est immédiat et
 massif. L'album s'écoule à plus de 600 000 exemplaires à travers le monde et reçoit un accueil enthousiaste
@@ -33,7 +33,7 @@ le rap et le chant, toujours avec une intensité maximale. Ce mélange, qu'ils a
 aggro-music », leur vaut d'être cités comme l'un des groupes fondateurs du rap metal européen aux côtés
 de formations américaines comme Rage Against the Machine ou Biohazard.
 
-##### Une longue carrière, de hauts en bas
+###### Une longue carrière, de hauts en bas
 
 *Use Your Brain* (1995), *Clawfinger* (1997), *A Whole Lot of Nothing* (2001), *Zeros & Heroes* (2003),
 *Hate Yourself with Style* (2005) et *Life Will Kill You* (2007) constituent une discographie de huit

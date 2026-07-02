@@ -19,7 +19,7 @@ composite — une affiche qui mélange rap introspectif, électro planante et re
 apparente, plus de surprises. Et une soirée qui trouvera son point d'orgue dans un hommage qu'on n'attendait pas avec
 autant d'intensité.
 
-## Laura Laffon — Le dancefloor s'éveille
+###### Laura Laffon — Le dancefloor s'éveille
 
 {{< carousel pictures="pictures/laura-laffon" alt="Laura Laffon" author="mkhelif" >}}
 
@@ -33,7 +33,7 @@ des montées soignées, une interaction constante avec le public. Laura Laffon n
 personnel — elle est là pour mettre en route la machine, et elle s'en acquitte avec le professionnalisme d'une DJ qui a
 passé dix ans à lire des salles dans les Pyrénées-Orientales. Le public répond. Doucement, mais il répond.
 
-## Juste Shani — La flow et la chair
+###### Juste Shani — La flow et la chair
 
 {{< carousel pictures="pictures/juste-shani" alt="Juste Shani" author="mkhelif" >}}
 
@@ -47,7 +47,7 @@ technique irréprochable, le flow dense et clair de ses années open mic. Sur *T
 dans la fosse pour faire danser les gens — le geste est simple, direct, généreux. Quand elle entre sur scène, Juste
 Shani ne cherche pas à dominer l'espace : elle l'habite. Vrai.
 
-## Danakil — La nuit où le reggae a pleuré debout
+###### Danakil — La nuit où le reggae a pleuré debout
 
 {{< carousel pictures="pictures/danakil" alt="Danakil" author="mkhelif" >}}
 
@@ -65,7 +65,7 @@ exactement ce qu'il fallait.
 Gabty rejoint le groupe en cours de set. La scène se resserre, l'énergie monte d'un cran. Le public, lui, n'a jamais
 décroché.
 
-## Josman — Le volcan et ses zones d'ombre
+###### Josman — Le volcan et ses zones d'ombre
 
 {{< carousel pictures="pictures/josman" alt="Josman" author="mkhelif" >}}
 
@@ -80,7 +80,7 @@ provocation frontale — mais une façon de parler des femmes qui contraste avec
 incarnait avec une tout autre ambition. La dissonance est réelle. On peut apprécier le flow et regretter les mots en
 même temps. Ce soir, les deux coexistent.
 
-## Petit Biscuit — Absent de cette chronique
+###### Petit Biscuit — Absent de cette chronique
 
 Encore une fois, la fatigue a eu le dernier mot. Je n'aurai finalement pas tenu jusqu'à Petit Biscuit.
 

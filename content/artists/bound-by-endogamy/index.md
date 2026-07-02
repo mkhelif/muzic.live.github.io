@@ -14,7 +14,7 @@ romands, une histoire commune de salles occupées et de concerts improvisés, av
 énergie collective dans un projet à deux. Le nom Bound by Endogamy — littéralement "liés par l'endogamie"
 — suggère une clôture volontaire, un univers qui se nourrit de lui-même avec une cohérence implacable.
 
-##### Un son physique et radical
+###### Un son physique et radical
 
 Sur scène, le dispositif est minimaliste mais d'une efficacité redoutable : Shlomo assure la batterie et
 les synthétiseurs tranchants, tandis que Kleio délivre un chant dont la puissance évoque, selon la presse,
@@ -28,7 +28,7 @@ chaque arrangement y est épuré jusqu'à l'os, minimal mais chargé d'une inten
 ignorer. La musique de Bound by Endogamy est directe, physique, conçue pour être ressentie autant
 qu'écoutée.
 
-##### Un pont entre le dancefloor et la rue
+###### Un pont entre le dancefloor et la rue
 
 Ce qui rend Bound by Endogamy singulier dans le paysage de la musique underground européenne, c'est la
 capacité du duo à habiter simultanément deux territoires : celui du dancefloor suintant de sueur et celui

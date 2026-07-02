@@ -27,7 +27,7 @@ improbables, la mort de membres fondateurs et des centaines de millions d'albums
 toujours sur scène, toujours bruyant. Littéralement : le Guinness Book les a classés « groupe le plus fort du monde » en
 1975. Le titre n'a jamais été officiellement retiré.
 
-## 1968 : Roundabout, Hertford et les débuts psychédéliques
+###### 1968 : Roundabout, Hertford et les débuts psychédéliques
 
 L'histoire commence en 1968 à Hertford, en Angleterre. L'ancien batteur des Searchers, Chris Curtis, contacte l'homme
 d'affaires Tony Edwards avec l'idée d'un « super-groupe » rotatif qu'il veut appeler **Roundabout** — un manège musical
@@ -41,7 +41,7 @@ portées par Lord — organiste de formation qui rêve de fusionner Bach et le r
 *Shades of Deep Purple* (1968), *The Book of Taliesyn* (1969) et *Deep Purple* (1969). Aux États-Unis, une reprise de
 *Hush* de Joe South atteint le top 5. Mais au Royaume-Uni, le succès se fait attendre.
 
-## Le Mark II : la naissance du monstre
+###### Le Mark II : la naissance du monstre
 
 En 1969, Evans et Simper sont remerciés. Leurs remplaçants changent tout : **Ian Gillan** au chant et **Roger Glover** à
 la basse, recrutés depuis le groupe pop Episode Six, forment avec Blackmore, Lord et Paice le **Mark II** — le line-up
@@ -61,7 +61,7 @@ albums live de l'histoire du rock — la référence absolue de ce que Deep Purp
 Mais les tensions internes sont féroces. En 1973, Gillan puis Glover quittent le groupe. Le Mark II a duré quatre ans.
 Il a inventé un son.
 
-## Les Marks III et IV : Coverdale, Hughes, Bolin et la fin
+###### Les Marks III et IV : Coverdale, Hughes, Bolin et la fin
 
 **David Coverdale** (futur fondateur de Whitesnake) et **Glenn Hughes** (ex-Trapeze) remplacent respectivement Gillan et
 Glover. Le **Mark III** enregistre **Burn** et **Stormbringer** (1974) — deux albums solides qui incorporent des
@@ -71,7 +71,7 @@ Son remplaçant, le guitariste américain **Tommy Bolin**, forme avec les quatre
 **Come Taste the Band** (1975), puis la dissolution en juillet 1976. Cinq mois plus tard, Bolin meurt d'une overdose. Il
 avait 25 ans.
 
-## 1984 : la réunion du Mark II
+###### 1984 : la réunion du Mark II
 
 Huit ans de silence. Puis, en avril 1984, l'impensable : le Mark II se reforme — Gillan, Blackmore, Glover, Lord, Paice.
 L'album **Perfect Strangers** (1984) est un succès commercial massif. **The House of Blue Light** (1987) suit, mais les
@@ -79,7 +79,7 @@ tensions entre Gillan et Blackmore — deux ego colossaux dans le même groupe �
 Joe Lynn Turner (ex-Rainbow) le remplace pour un album, **Slaves and Masters** (1990). Turner est renvoyé en 1992.
 Gillan revient. Blackmore repart en 1993, définitivement cette fois.
 
-## Steve Morse, Don Airey et les vingt ans de stabilité
+###### Steve Morse, Don Airey et les vingt ans de stabilité
 
 La suite est plus stable qu'on ne l'attendait. **Joe Satriani** assure l'intérim à la guitare, puis **Steve Morse**
 (ex-Dixie Dregs, ex-Kansas) prend le poste en 1994 et le gardera vingt-huit ans. Le **Mark VII** (Paice, Lord, Gillan,
@@ -91,7 +91,7 @@ Le **Mark VIII** (Paice, Gillan, Glover, Morse, Airey) durera vingt ans et six a
 (2013), **inFinite** (2017) et **Whoosh!** (2020) — tous produits par Bob Ezrin (Pink Floyd, KISS, Alice Cooper) et tous
 entrés au sommet des charts européens.
 
-## 2022–2026 : Simon McBride et le renouveau
+###### 2022–2026 : Simon McBride et le renouveau
 
 En 2022, Steve Morse quitte le groupe pour raisons personnelles. Son remplaçant, le guitariste nord-irlandais **Simon
 McBride**, insuffle une énergie nouvelle. L'album **=1** (2024) — titre symbolisant l'idée que tout se simplifie en une
@@ -102,7 +102,7 @@ Le **Mark IX** actuel — **Ian Gillan** (chant), **Roger Glover** (basse), **Ia
 (claviers), **Simon McBride** (guitare) — continue de remplir les arenas à travers le monde. Gillan a 80 ans. Paice
 aussi. Et ils jouent toujours comme si le casino de Montreux venait de prendre feu.
 
-## Formation actuelle (Mark IX)
+###### Formation actuelle (Mark IX)
 
 - Ian Gillan — chant
 - Roger Glover — basse
@@ -110,7 +110,7 @@ aussi. Et ils jouent toujours comme si le casino de Montreux venait de prendre f
 - Don Airey — claviers
 - Simon McBride — guitare
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Deep Purple n'est pas un groupe de rock. C'est une institution — un organisme vivant qui mue, se déchire, se reconstitue
 et continue d'avancer depuis plus d'un demi-siècle. Avec Led Zeppelin et Black Sabbath, ils forment la trinité

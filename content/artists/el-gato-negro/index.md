@@ -21,7 +21,7 @@ sonore, développant un style unique qui puise dans différentes cultures musica
 Leurs débuts révèlent des musiciens passionnés par la diversité culturelle et désireux de créer des ponts entre les
 traditions musicales du monde et les innovations contemporaines, créant un univers sonore riche et métissé.
 
-##### Carrière musicale
+###### Carrière musicale
 
 El Gato Negro développe sa notoriété grâce à des compositions originales qui mélangent habilement influences latines,
 électroniques et alternatives, créant des atmosphères uniques qui transportent l'auditeur dans un voyage musical
@@ -33,7 +33,7 @@ traditions musicales tout en les réinterprétant avec une modernité assumée.
 Leurs morceaux révèlent une approche créative qui refuse les catégorisations traditionnelles et explore de nouveaux
 territoires sonores avec une curiosité artistique constante.
 
-##### Style et influences
+###### Style et influences
 
 Le style d'El Gato Negro se caractérise par un mélange d'éléments latinos, de sonorités alternatives et d'influences
 world music qui créent un univers sonore personnel et reconnaissable.
@@ -44,7 +44,7 @@ contemporaines.
 Leurs influences puisent dans les musiques latines, les courants alternatifs européens et les traditions folkloriques
 mondiales, créant un son qui célèbre la diversité culturelle tout en maintenant une cohérence artistique remarquable.
 
-##### Actualité
+###### Actualité
 
 El Gato Negro continue d'explorer les possibilités créatives offertes par le métissage musical, représentant cette
 nouvelle génération d'artistes qui transcendent les frontières culturelles.

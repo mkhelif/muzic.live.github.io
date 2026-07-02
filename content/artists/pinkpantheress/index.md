@@ -19,7 +19,7 @@ de la pop contemporaine en fusionnant des genres typiquement britanniques — dr
 avec des mélodies pop irrésistibles et des samples nostalgiques des années 1990 et 2000, le tout condensé dans des
 morceaux d'une brièveté radicale qui dépassent rarement les deux minutes.
 
-## Origines et formation
+###### Origines et formation
 
 Victoria Walker grandit dans le Kent, dans une famille d'origine kényane (sa mère est Luo, originaire de Kisumu) et
 anglaise (son père est professeur de statistiques). Sa famille compte plusieurs joueurs d'échecs — sa tante est la
@@ -32,7 +32,7 @@ Elle commence le piano enfant et, à 12 ans, chante *Stand by Me* de Ben E. King
 à écrire et produire ses propres morceaux. Elle s'inscrit en études de cinéma à l'University of the Arts London, où elle
 enregistre ses premières chansons allongée dans sa chambre universitaire, avec un micro cassé, tard le soir.
 
-## L'explosion TikTok (2021)
+###### L'explosion TikTok (2021)
 
 En 2021, PinkPantheress commence à publier de courts extraits de ses productions sur TikTok et SoundCloud. Le format —
 des morceaux courts, accrocheurs, construits autour de samples reconnaissables et de beats drum and bass — correspond
@@ -46,7 +46,7 @@ fois daté et contemporain, une sorte de collage sonore qui réinvente la nostal
 BBC Sound of 2022, qui distingue chaque année l'artiste le plus prometteur du Royaume-Uni — un palmarès qui a
 précédemment révélé Adele, Sam Smith et Billie Eilish.
 
-## *Boy's a Liar* et *Heaven Knows* (2022–2023)
+###### *Boy's a Liar* et *Heaven Knows* (2022–2023)
 
 En 2022, elle publie le single *Boy's a Liar*, qui atteint la deuxième place des charts britanniques. En février 2023,
 un remix avec la rappeuse américaine Ice Spice — *Boy's a Liar Pt. 2* — explose à l'international et culmine à la
@@ -58,7 +58,7 @@ travers l'Europe et l'Amérique du Nord, confirme son statut de phénomène live
 l'année par Billboard Women in Music et assure les premières parties de la tournée mondiale *Guts World Tour* d'Olivia
 Rodrigo, avant d'annuler ses dernières dates pour raisons de santé.
 
-## *Fancy That* et la consécration (2025)
+###### *Fancy That* et la consécration (2025)
 
 En 2025, PinkPantheress revient en force avec sa deuxième mixtape, *Fancy That*, sortie le 9 mai. Le projet, qu'elle
 décrit comme son travail le plus cohérent, explore le UK garage et la jungle dans un registre plus mature et délibéré,
@@ -78,7 +78,7 @@ Zara Larsson* devient son premier numéro un au Billboard Global 200 et son deux
 En février 2026, elle est nommée British Producer of the Year aux Brit Awards, devenant la plus jeune personne et la
 première femme à recevoir cette distinction dans l'histoire de la cérémonie.
 
-## L'artiste productrice
+###### L'artiste productrice
 
 Ce qui distingue fondamentalement PinkPantheress de ses contemporaines, c'est qu'elle est sa propre productrice. Dès ses
 débuts sur GarageBand dans sa chambre universitaire, elle a conçu, arrangé et produit l'essentiel de sa musique. Son
@@ -86,7 +86,7 @@ approche du sampling est créative et narrative : elle ne se contente pas de cit
 intègre dans des constructions sonores originales qui racontent une histoire. Cette maîtrise technique, rare chez une
 artiste de son âge, lui a valu une reconnaissance à part dans l'industrie musicale.
 
-## Un rapport singulier à la musique
+###### Un rapport singulier à la musique
 
 PinkPantheress entretient un rapport à la musique qui ne manque pas de susciter le débat. Elle a déclaré ne pas écouter
 les albums en entier et défend la brièveté de ses morceaux comme un choix esthétique assumé. Ces prises de position,
@@ -98,7 +98,7 @@ elle est atteinte d'acouphènes et a déclaré être sourde à 80 % de l'oreille
 l'exposition prolongée à la musique amplifiée. En juillet 2025, elle reçoit un doctorat honorifique en musique de
 l'Université du Kent.
 
-## L'esthétique PinkPantheress
+###### L'esthétique PinkPantheress
 
 L'univers visuel de PinkPantheress est indissociable de sa musique. Ses clips, souvent lo-fi et baignés d'une esthétique
 Y2K (années 2000), évoquent un internet d'avant les réseaux sociaux — palettes de couleurs rétro, narrations oniriques,

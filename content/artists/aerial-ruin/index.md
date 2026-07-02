@@ -12,7 +12,7 @@ traditionnelle et l'atmosphère des cercles les plus contemplatifs du metal doom
 respecté dans les milieux de la musique underground, il est également connu pour ses collaborations étroites
 avec le groupe de doom métal Bell Witch.
 
-##### Un musicien aux racines metal
+###### Un musicien aux racines metal
 
 Avant d'explorer les territoires apaisés et obscurs du folk acoustique, Erik Moggridge a forgé ses premières
 armes dans la scène metal de la Bay Area, en Californie. Il est l'un des membres fondateurs d'Epidemic, groupe
@@ -24,7 +24,7 @@ Plus tard, Moggridge fonde Old Grandad aux côtés de Will Carroll — qui rejoi
 Max Barnett, ancien bassiste de Hammers of Misfortune. Ce groupe constitue une sorte de transition entre le
 metal lourd de ses débuts et l'exploration plus personnelle qu'il entreprendra sous le nom d'Aerial Ruin.
 
-##### La naissance d'Aerial Ruin
+###### La naissance d'Aerial Ruin
 
 Aerial Ruin prend forme dans les premières années du XXIe siècle, mais son premier album longue durée,
 *Valleys of the Earth*, n'est publié qu'en 2011. Cette lente maturation reflète bien la nature du projet :
@@ -37,7 +37,7 @@ d'émotion confère aux chansons une qualité hypnotique, entre la complainte fo
 incantations méditatives. Les paroles explorent des thèmes de perte, de contemplation, d'errance spirituelle,
 avec une profondeur et une pudeur qui évitent tout sentimentalisme facile.
 
-##### Collaborations et liens avec Bell Witch
+###### Collaborations et liens avec Bell Witch
 
 La relation entre Aerial Ruin et Bell Witch est l'une des collaborations les plus fructueuses et les plus
 organiques de la scène doom expérimentale. Depuis les débuts du duo de Seattle, Erik Moggridge a participé
@@ -51,7 +51,7 @@ co-signé Bell Witch / Aerial Ruin, qui réunit pleinement les deux entités dan
 représente une synthèse exceptionnelle des esthétiques des deux projets, fusion de doom massif et de folk
 crépusculaire.
 
-##### Une discographie discrète mais exigeante
+###### Une discographie discrète mais exigeante
 
 Au fil des années, Erik Moggridge a publié plusieurs albums et enregistrements sous le nom d'Aerial Ruin,
 tous caractérisés par la même cohérence esthétique et la même exigence artistique. *Nameless Sun* et les

@@ -16,7 +16,7 @@ du groupe est directement inspiré d'un spot de surf indonésien, témoignant d'
 aventureuse qui imprègne leur musique. La formation réunit Thomas Boquel à la guitare, au chant et aux
 synthétiseurs, Guirec Petton à la basse et au chant, et Rémi Fournier à la batterie et au chant.
 
-##### Fuzz, saturation et paysages psychédéliques
+###### Fuzz, saturation et paysages psychédéliques
 
 Paddang aime les sons saturés, les rythmes sauvages et les atmosphères hypnotiques : leur musique brasse le
 stoner rock, le psychédélisme, le post-punk garage et les textures fuzz pour créer des structures qui envoûtent

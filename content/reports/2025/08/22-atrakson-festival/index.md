@@ -26,7 +26,7 @@ cette journée d'ouverture promet de révéler toutes les tensions esthétiques 
 formatage commercial. L'exercice est audacieux : transformer la diversité en cohérence narrative, du plus confidentiel
 au plus spectaculaire.
 
-## Follo : l'ouverture électronique planante
+###### Follo : l'ouverture électronique planante
 
 {{< carousel pictures="pictures/follo" alt="Follo" author="mkhelif" >}}
 
@@ -38,7 +38,7 @@ les bases rythmiques d'une journée qui s'annonce éclectique. Son approche de l
 révèle une maîtrise des codes actuels du genre sans pour autant révolutionner le format. Ce set d'ouverture "vraiment
 cool" remplit parfaitement sa fonction : préparer le terrain pour les formations live qui suivront.
 
-## The Harbingerz : la résilience reggae-dub
+###### The Harbingerz : la résilience reggae-dub
 
 {{< carousel pictures="pictures/the-harbingerz" alt="The Harbingerz" author="mkhelif" >}}
 
@@ -51,7 +51,7 @@ plutôt qu'une configuration guitare-basse traditionnelle crée une assise harmo
 caractéristique du dub moderne qui privilégie les fréquences basses. Leur performance démontre que la résilience
 physique et artistique peuvent devenir force scénique.
 
-## Lou Beurier : l'énergie brute contre la finesse
+###### Lou Beurier : l'énergie brute contre la finesse
 
 {{< carousel pictures="pictures/lou-beurier" alt="Lou Beurier" author="mkhelif" >}}
 
@@ -66,7 +66,7 @@ audible en fin de concert révèle une artiste qui se donne sans compter, privil
 maîtrisée. Cette approche frontale du rock français, si elle manque encore de sophistication, témoigne d'une artiste en
 construction qui privilégie la sincérité sur le vernis technique.
 
-## Mad in Ska : la fraternité militante jurassienne
+###### Mad in Ska : la fraternité militante jurassienne
 
 {{< carousel pictures="pictures/mad-in-ska" alt="Mad in Ska" author="mkhelif" >}}
 
@@ -79,7 +79,7 @@ Pulpul de Ska-P sur "Hijos de la Revolución" confirme leur inscription dans la 
 celle qui considère que la fête peut être vecteur de messages contestataires. Cette formation généreuse transforme le
 concert en célébration collective où l'engagement politique ne tue jamais la joie de jouer.
 
-## Cotton Blood : le blues rock écorché
+###### Cotton Blood : le blues rock écorché
 
 {{< carousel pictures="pictures/cotton-blood" alt="Cotton Blood" author="mkhelif" >}}
 
@@ -90,7 +90,7 @@ une époque où l'auto-tune lisse toutes les aspérités vocales. La basse parti
 rythmique massive qui ancre solidement les envolées blues-rock. Cotton Blood rappelle ainsi que le blues reste avant
 tout une musique de viscères, affaire d'intensité plutôt que de sophistication académique.
 
-## Marcel et son Orchestre : le burlesque engagé jusqu'à l'excès
+###### Marcel et son Orchestre : le burlesque engagé jusqu'à l'excès
 
 {{< carousel pictures="pictures/marcel-et-son-orchestre" alt="Marcel et son Orchestre" author="mkhelif" >}}
 
@@ -104,7 +104,7 @@ longueur excessive témoigne d'une difficulté à calibrer la durée idéale d'u
 endurance. Marcel et son Orchestre prouvent néanmoins que l'engagement politique peut emprunter mille formes, y compris
 les plus grotesques, pourvu qu'elles servent une vision cohérente.
 
-## Conclusion : l'éclectisme comme identité festivalière
+###### Conclusion : l'éclectisme comme identité festivalière
 
 Avec la fatigue, je pars avant la fin des concerts. Cette première journée de l'Atrack'Son révèle toute l'ambition d'un
 festival qui refuse le formatage esthétique au profit de la diversité musicale. De l'électro planante au burlesque

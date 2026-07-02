@@ -18,14 +18,14 @@ Son nom de scène, « Umbree », est tiré du mot « umbrella » (parapluie) : f
 comme outil de méditation, elle intègre parfois des sons de gouttes d'eau dans ses productions, faisant du concept
 aquatique une signature sonore et visuelle cohérente.
 
-##### Un univers entre Tech House et Techno
+###### Un univers entre Tech House et Techno
 
 Le spectre musical d'Umbree couvre plusieurs sous-genres de la musique électronique — Bass House, Tech House, Techno,
 House mélodique et Progressive House — témoignant d'une curiosité artistique qui refuse de se laisser enfermer dans une
 case. Inspirée par Avicii, elle développe des sets aux dynamiques variées, capables de tenir une piste de danse tout en
 ménageant des moments plus atmosphériques et introspectifs.
 
-##### Scène et rayonnement
+###### Scène et rayonnement
 
 À seulement 25 ans, Umbree a déjà foulé les scènes de festivals majeurs comme Les Plages Électroniques, L'Électrobeach,
 le Delta Festival, Warehouse et La Clairière. Elle a notamment partagé l'affiche avec Vladimir Cauchemar lors de cinq

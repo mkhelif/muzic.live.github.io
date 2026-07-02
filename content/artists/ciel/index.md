@@ -14,7 +14,7 @@ l'accent sur les artistes féminines. En 2015, elle développe "Work in Progress
 prolongement de son émission de radio, exclusivement dédié à la musique d'artistes s'identifiant comme femmes, pour
 lutter contre les line-up exclusivement masculins et améliorer la sécurité des espaces de performance.
 
-##### De la radio aux plus grandes salles
+###### De la radio aux plus grandes salles
 
 Depuis sa première soirée organisée en 2015 et la sortie de son premier EP "Electrical Encounters" sur Peach Discs deux
 ans plus tard, Ciel s'est imposée comme l'une des artistes les plus inventives et travailleuses de la musique
@@ -24,7 +24,7 @@ Sélectrice aventureuse capable de tisser ensemble des styles disparates, elle s
 emblématiques comme le Fabric, le Robert Johnson, le De School, le Hot Mass, le Smartbar, le Berghain Panorama Bar et le
 Nowadays, ainsi que dans des festivals comme Draaimolen, Dimensions, Movement Detroit et MUTEK.
 
-##### Une voix engagée
+###### Une voix engagée
 
 Ciel est également connue pour son travail de plaidoyer en faveur des femmes dans la scène électronique torontoise.
 Investie et fidèle à ses principes, elle soutient et met en avant les causes et les collègues auxquels elle croit, en

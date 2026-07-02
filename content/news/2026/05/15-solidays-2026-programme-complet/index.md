@@ -19,7 +19,7 @@ artists:
 l'Hippodrome de Paris-Longchamp, vingt-deux artistes répartis sur trois jours et plusieurs scènes composent une
 affiche qui, une fois n'est pas coutume, réussit à être cohérente sans jamais être prévisible.
 
-#### Vendredi 26 juin : électronique et rap, les deux piliers de l'ouverture
+###### Vendredi 26 juin : électronique et rap, les deux piliers de l'ouverture
 
 La première journée pose les bases avec un plateau résolument tourné vers les nuits qui durent. **I Hate Models**,
 figure solitaire et radicale de la techno parisienne, viendra décliner son univers sombre et immersif devant le public
@@ -32,7 +32,7 @@ La soirée accueillera également **GIMS**, **Guy2Bezbar**, **Sam Sauvage**, **N
 nouvelles scènes électroniques et rap : **Nico Moreno**, **Tshegue**, **Todiefor**, **Ino Casablanca**, **2L** et
 **Helena** pour une ouverture qui donne immédiatement le ton.
 
-#### Samedi 27 juin : la nuit de toutes les danses
+###### Samedi 27 juin : la nuit de toutes les danses
 
 Le plateau du samedi est le plus hétéroclite des trois — et le plus ambitieux. **Major Lazer** ramène sa fête mondiale
 en France, avec la promesse d'un set qui n'épargne personne. **Nina Kraviz** prendra ensuite possession des platines
@@ -41,7 +41,7 @@ d'habiter le français : l'un par la précision clinique, l'autre par l'explorat
 la grande scène, assureront la cohésion d'un plateau qui accueille également **Amelie Lens**, **Roüge**, **Zara
 Larsson**, **Alessi Rose**, **Suzane**, **La Rvfleuze**, **Eve La Marka**, **Asdek** et **Ava Mind**.
 
-#### Dimanche 28 juin : Orelsan ferme le bal
+###### Dimanche 28 juin : Orelsan ferme le bal
 
 La clôture est confiée à **Orelsan**, dont le retour sur scène constitue l'événement de l'été. Le rappeur caennais
 retrouve les grandes scènes après quatre ans d'absence pour un set qui promet d'être à la hauteur de l'attente.

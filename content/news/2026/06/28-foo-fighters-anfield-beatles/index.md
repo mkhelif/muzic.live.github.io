@@ -12,7 +12,7 @@ groupe a glissé dans sa setlist une reprise de *I Want You (She's So Heavy)*, l
 hypnotiques de l'album *Abbey Road*. Un hommage spontané qui a électrisé les 50 000 spectateurs du stade mythique
 d'Anfield.
 
-## Deux nuits à Anfield
+###### Deux nuits à Anfield
 
 Les Foo Fighters s'inscrivent actuellement dans leur tournée européenne *Take Cover*, en soutien à leur nouvel album
 *Your Favorite Toy* sorti en avril. Deux nuits dans le temple du football liverpudlien — le 25 et le 27 juin — pour
@@ -24,7 +24,7 @@ chansons et du banter, ce cocktail simple et imparable que Grohl maîtrise depui
 
 La seconde nuit a poussé le bouchon plus loin encore.
 
-## L'hommage aux Fab Four
+###### L'hommage aux Fab Four
 
 Choisir *I Want You (She's So Heavy)* n'est pas anodin. Ce titre de sept minutes et demie, avec son ostinato de guitare
 et son silence brutal en guise de conclusion, est l'un des morceaux les plus audacieux des Beatles — pas le plus évident
@@ -35,7 +35,7 @@ Glastonbury pour jouer *I Saw Her Standing There* et *Band On The Run*. Le leade
 McCartney avait donné à sa fille sa toute première leçon de piano. Liverpool, Anfield, les Beatles : les étoiles
 s'alignaient pour que quelque chose de spécial se produise.
 
-## Un concert en deux temps
+###### Un concert en deux temps
 
 Le reste du set balayait l'intégralité de la discographie du groupe avec une précision clinique. *All My Life* ouvrait
 les hostilités, *The Pretender* et *Learn to Fly* assuraient les coups de poing collectifs attendus, avant une séquence
@@ -45,7 +45,7 @@ La soirée a également réservé une parenthèse d'anthologie : un fan déguis�
 lui a laissé le temps de chanter quelques mesures devant la foule avant de le reconduire dans la fosse avec un
 lapidaire « Dégage de ma scène » livré avec le sourire de quelqu'un qui sait exactement ce qu'il fait.
 
-## La route continue
+###### La route continue
 
 Cet été, les Foo Fighters poursuivront leur présence festivalière avec des passages à Mad Cool et NOS Alive, avant de
 reprendre la route en compagnie de supports aussi variés que Royel Otis, IDLES et Fat Dog. *Your Favorite Toy* continue

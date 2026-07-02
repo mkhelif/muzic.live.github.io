@@ -9,7 +9,7 @@ accessible, mêlant reggae moderne, influences hip-hop et textes engagés chant�
 huit millions de vues sur YouTube et une présence croissante dans les festivals reggae et world music
 en France, Cozik & Faya Pyd s'imposent comme une référence de la scène reggae hexagonale contemporaine.
 
-##### Deux artistes, une vision commune
+###### Deux artistes, une vision commune
 
 Cozik est le visage vocal du duo : sa voix chaleureuse et sa façon de raconter des histoires simples avec
 une sincérité directe lui ont valu une base de fans fidèles et une réputation de performer attachant sur
@@ -18,7 +18,7 @@ directeur artistique de leurs projets communs, il assure l'identité visuelle et
 leur œuvre. Cette répartition naturelle des rôles — le chanteur devant, le producteur derrière — leur
 a permis de construire une œuvre cohérente sur le plan artistique.
 
-##### Un reggae ancré dans le présent
+###### Un reggae ancré dans le présent
 
 Musicalement, Cozik & Faya Pyd proposent un reggae moderne qui ne se cantonne pas à imiter les classiques
 jamaïcains. Leur son intègre des éléments de hip-hop, de musique urbaine et d'électronique contemporaine,
@@ -31,7 +31,7 @@ particulière : des mélodies accrocheuses portées par des paroles qui vont dro
 soignée qui laisse respirer la musique. *Raggamuffin Boy*, extrait de l'album *Bouteille à la Mer*, a
 confirmé en 2026 leur capacité à capter l'air du temps reggae tout en restant profondément personnels.
 
-##### Bouteille à la Mer et l'essor solo
+###### Bouteille à la Mer et l'essor solo
 
 L'album *Bouteille à la Mer*, premier projet solo de Cozik produit intégralement par Faya Pyd, rassemble
 quinze titres et constitue une étape importante dans leur trajectoire. Sorti au printemps 2026, il synthétise

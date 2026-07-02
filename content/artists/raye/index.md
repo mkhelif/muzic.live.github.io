@@ -21,7 +21,7 @@ plus grands à celui de l'artiste la plus récompensée de l'histoire des Brit A
 marqué par un combat public contre son ancien label et une renaissance artistique spectaculaire, en fait l'une des
 figures les plus marquantes de la musique britannique contemporaine.
 
-## Une enfance musicale
+###### Une enfance musicale
 
 Rachel Keen grandit à Croydon, dans une famille profondément musicale. Son père, Paul Keen, Anglais du Yorkshire, est
 directeur musical dans une église pentecôtiste. Sa mère, d'origine ghanéenne et suisse, chante dans la chorale de la
@@ -34,7 +34,7 @@ Winehouse et Jessie J. Elle y étudie la musique et la danse pendant deux ans av
 sentant créativement bridée. Dès l'adolescence, elle passe ses week-ends en studio à écrire des chansons.
 Multi-instrumentiste, elle maîtrise le piano, le violoncelle et la flûte.
 
-## Les années Polydor : écrire pour les autres
+###### Les années Polydor : écrire pour les autres
 
 En novembre 2014, à 17 ans, RAYE publie de façon indépendante son premier EP, *Welcome to the Winter*, sur SoundCloud.
 Le titre *Hotbox* est remarqué par Olly Alexander de Years & Years, qui le transmet à son label, Polydor Records. RAYE
@@ -47,7 +47,7 @@ Minogue et David Guetta. En tant qu'artiste interprète, elle enchaîne les coll
 avec Regard (2020), *Bed* avec Joel Corry et David Guetta (2021). Mais son propre album, celui qu'elle rêve de publier,
 ne voit jamais le jour. Polydor repousse indéfiniment sa sortie.
 
-## La rupture publique
+###### La rupture publique
 
 En juin 2021, après sept ans de frustration, RAYE prend une décision radicale : elle publie un message sur les réseaux
 sociaux dénonçant le refus de son label de sortir son album. Le geste, d'une franchise inédite dans l'industrie,
@@ -56,7 +56,7 @@ elle est libérée de son contrat avec Polydor. Elle signe ensuite avec Human Re
 le contrôle de ses enregistrements. Ce moment charnière deviendra le symbole d'un combat plus large pour les droits des
 artistes face à l'industrie musicale.
 
-## *My 21st Century Blues* : la renaissance (2023)
+###### *My 21st Century Blues* : la renaissance (2023)
 
 Libre, RAYE peut enfin réaliser son rêve. Son premier album studio, *My 21st Century Blues*, sort en février 2023. Le
 disque est un acte de bravoure : sur des productions mêlant pop, R&B, soul, jazz et dance, elle aborde avec une
@@ -75,7 +75,7 @@ sa propre tournée mondiale de 130 dates, dont un concert au Royal Albert Hall a
 et d'une chorale gospel — un moment qui sera qualifié par la presse de performance d'une artiste aussi talentueuse
 qu'Adele et Amy Winehouse.
 
-## La consécration : les Brit Awards 2024
+###### La consécration : les Brit Awards 2024
 
 Le 2 mars 2024, RAYE entre dans l'histoire des Brit Awards. Nommée dans un nombre record de sept catégories — du jamais
 vu pour un seul artiste —, elle remporte six prix en une soirée : Artiste de l'année, Album de l'année (*My 21st Century
@@ -83,7 +83,7 @@ Blues*), Chanson de l'année (*Escapism*), Meilleur nouvel artiste, Auteure-comp
 recevoir ce prix) et Artiste R&B. Ce record historique surpasse les précédents détenus par Adele, Harry Styles et Blur.
 Sur scène, elle interprète *Ice Cream Man*, *Prada* et *Escapism* dans une performance qui marque les esprits.
 
-## 2024–2025 : l'ascension continue
+###### 2024–2025 : l'ascension continue
 
 En avril 2024, RAYE est invitée musicale de *Saturday Night Live*, où elle interprète *Escapism* et *Worth It*, et
 dévoile un titre inédit qui deviendra *Genesis*. En mai, elle assure son premier headlining de festival à BBC Radio 1's
@@ -97,7 +97,7 @@ premières catégories. Elle interprète *Oscar Winning Tears* lors de la céré
 reçoit le prix non compétitif Harry Belafonte Best Song for Social Change, récompensant son rôle dans la dénonciation
 des violences sexuelles.
 
-## *This Music May Contain Hope* (2026)
+###### *This Music May Contain Hope* (2026)
 
 En septembre 2025, RAYE publie *Where Is My Husband!*, premier single de son deuxième album. Le titre devient son
 deuxième numéro un au Royaume-Uni et atteint le top 5 dans plusieurs pays. Il est certifié platine en janvier 2026.
@@ -111,7 +111,7 @@ Pour accompagner l'album, RAYE lance la tournée *This Tour May Contain New Musi
 l'Amérique du Nord, de janvier à mai 2026. Elle est également annoncée en première partie de Bruno Mars pour sa tournée
 américaine *The Romantic Tour*, d'août à octobre 2026.
 
-## RAYE et Montreux : une histoire de famille
+###### RAYE et Montreux : une histoire de famille
 
 Le lien entre RAYE et le Montreux Jazz Festival est profondément personnel. En juillet 2024, elle se produit pour la
 première fois au festival lors de la 58e édition, sur la Scène du Lac. La soirée est d'autant plus émouvante que son
@@ -132,7 +132,7 @@ Ce troisième passage consécutif fait de RAYE l'une des artistes les plus étro
 années — un hommage vivant à ses racines suisses et à sa conviction que Montreux est un lieu à part dans le monde de la
 musique.
 
-## Récompenses
+###### Récompenses
 
 Sept Brit Awards (dont le record de six en une soirée en 2024), quatre Global Awards, deux Ivor Novello Awards, deux MTV
 Europe Music Awards, un MTV Video Music Award, le prix Harry Belafonte Best Song for Social Change aux Grammy Awards

@@ -15,7 +15,7 @@ et engagement artistique. C'est dans ces espaces que Braises de Velours affine s
 une approche des platines qui lui est propre : intuitive, physique, attentive aux émotions collectives
 d'un public qu'elle sait lire avec une sensibilité rare.
 
-##### Une musique entre rythmes et ésotérisme
+###### Une musique entre rythmes et ésotérisme
 
 Son univers musical puise à la source de la bass music et des sonorités latines, métissant influences de
 sa Caraïbe d'origine et esthétiques électroniques contemporaines. La caractéristique de ses sets réside
@@ -27,7 +27,7 @@ au contraire son propre territoire, là où les frontières entre genres s'effac
 émotionnelle. Chaque set est une proposition unique, modelée par les corps présents, l'acoustique du lieu
 et l'énergie du moment.
 
-##### Une présence croissante
+###### Une présence croissante
 
 Les invitations se multiplient, dans des festivals et des clubs à travers la Suisse et au-delà, témoignant
 d'une reconnaissance qui dépasse le simple cercle local. Sur SoundCloud, ses mixes trouvent un écho

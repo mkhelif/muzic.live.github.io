@@ -200,7 +200,7 @@ la communauté metal mondiale.
 ![Programme Hellfest](program.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
-#### Quatre têtes d'affiche pour quatre univers
+###### Quatre têtes d'affiche pour quatre univers
 
 L'organisation du Hellfest a frappé fort avec une programmation qui incarne "à la fois la montée d'une nouvelle
 génération et le retour d'icônes légendaires". Les quatre têtes d'affiche illustrent parfaitement cette diversité :
@@ -226,7 +226,7 @@ Les icônes californiennes du punk rock clôtureront le festival avec une journ�
 Après plus de 40 ans de carrière, The Offspring continue de délivrer l'énergie et les hymnes qui ont fait leur légende,
 de "Come Out and Play" à "Self Esteem".
 
-#### 85 groupes en première au Hellfest
+###### 85 groupes en première au Hellfest
 
 Parmi les 183 formations programmées, 85 se produiront pour la toute première fois sur les scènes du festival - un
 record dans l'histoire du Hellfest. Cette statistique témoigne de la volonté de l'organisation de "célébrer l'énergie et
@@ -247,7 +247,7 @@ une classification qui illustre la richesse de l'affiche :
 
 **Les reformations attendues :** Acid Bath, The Dillinger Escape Plan
 
-#### Une programmation foisonnante sur six scènes
+###### Une programmation foisonnante sur six scènes
 
 Au-delà des têtes d'affiche, la programmation complète impressionne par sa diversité et sa qualité. Voici quelques-uns
 des noms confirmés qui feront vibrer les six scènes du festival :
@@ -269,7 +269,7 @@ Gehenna, Borknagar
 
 **Groupes français :** Ultra Vomit, Igorrr, BlackRain, Fange, Alta Rossa, BRUIT ≤, Bloodstain
 
-#### Une programmation qui célèbre les femmes du metal
+###### Une programmation qui célèbre les femmes du metal
 
 L'édition 2026 met particulièrement en avant la présence féminine dans le metal, avec plus de 42 musiciennes
 programmées. Le vendredi sera notamment marqué par une journée spéciale "Women in Metal" sur la Mainstage 2, avec Within
@@ -278,7 +278,7 @@ Temptation, Heilung, Epica, Spiritbox, Kittie, Future Palace, Amira Elfeky, Char
 Cette initiative témoigne de l'évolution du Hellfest et de la scène metal en général, qui reconnaît enfin pleinement la
 contribution des femmes à tous les niveaux du genre.
 
-#### Des reformations exceptionnelles
+###### Des reformations exceptionnelles
 
 Deux reformations majeures marquent l'édition 2026 :
 
@@ -290,7 +290,7 @@ reformation était attendue depuis des années par les fans de metal extrême et
 en 2017. Leur performance promet d'être chaotique, technique et absolument mémorable, à l'image de leur réputation
 scénique légendaire.
 
-#### Une édition record qui s'annonce sold-out
+###### Une édition record qui s'annonce sold-out
 
 Les pass 4 jours se sont écoulés en quelques minutes lors de leur mise en vente le 8 juillet 2025, avant même l'annonce
 de la programmation. Cette vente record témoigne de la confiance que les festivaliers accordent au Hellfest et de son
@@ -300,7 +300,7 @@ Une plateforme officielle de revente est disponible sur tickets.hellfest.fr pour
 lors de la première vente. Les billets à la journée seront mis en vente au cours du premier trimestre 2026, date exacte
 à annoncer.
 
-#### Un festival qui continue de grandir
+###### Un festival qui continue de grandir
 
 Depuis son lancement en 2006 avec 20 000 participants, le Hellfest n'a cessé de croître. L'édition 2025 a accueilli
 environ 280 000 spectateurs sur les quatre jours, confirmant son statut de plus grand festival metal français et l'un
@@ -311,14 +311,14 @@ extérieures. Les décors, très élaborés, plongent les festivaliers dans un a
 la nuit. La Hell City Square, au cœur du festival, offre une promenade parmi les stands partenaires, une galerie
 d'exposants et un immense marché metal avec des décors dignes des plus grands films de science-fiction.
 
-#### Un anniversaire en vue pour 2027
+###### Un anniversaire en vue pour 2027
 
 L'organisation du Hellfest a tenu à préciser un point important : "2026 marque le 20ème anniversaire du tout premier
 Hellfest, mais c'est en 2027 que nous célébrerons la 20ème édition (et vous savez que nous aimons les beaux
 anniversaires...)." Cette distinction laisse présager une édition 2027 encore plus exceptionnelle pour célébrer ce jalon
 historique.
 
-#### Le rayonnement international du festival
+###### Le rayonnement international du festival
 
 Le Hellfest a été précédemment headliné par les plus grands noms du metal mondial : Metallica, Kiss, Guns N' Roses,
 Slipknot, Black Sabbath, Judas Priest, Slayer, Motörhead, Aerosmith, Rammstein, Faith No More, Foo Fighters, Deftones,
@@ -328,7 +328,7 @@ La programmation comprend généralement 90% de groupes internationaux et attire
 confirmant son statut de festival européen majeur. Des festivaliers viennent de toute l'Europe et même du monde entier
 pour assister à cet événement unique.
 
-#### Informations pratiques
+###### Informations pratiques
 
 **Dates :** 18-21 juin 2026
 
@@ -342,7 +342,7 @@ pour assister à cet événement unique.
 
 Pour plus d'informations et pour consulter la programmation complète jour par jour, rendez-vous sur hellfest.fr.
 
-#### Une playlist officielle sur Qobuz
+###### Une playlist officielle sur Qobuz
 
 Pour patienter jusqu'en juin 2026, le Hellfest a mis en ligne une playlist officielle sur Qobuz reprenant les titres les
 plus emblématiques des 183 groupes programmés. Un excellent moyen de découvrir ou redécouvrir les artistes qui feront

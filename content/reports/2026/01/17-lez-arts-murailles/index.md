@@ -16,7 +16,7 @@ artists:
 Pour sa troisième édition, le festival Lez'Arts Murailles avait vu les choses en grand : un double vernissage, une tête
 d'affiche légendaire, et une programmation qui faisait la part belle à la scène genevoise.
 
-## Meuhstache
+###### Meuhstache
 
 {{< carousel pictures="pictures/meuhstache" alt="Meuhstache" author="mkhelif" >}}
 
@@ -26,7 +26,7 @@ groupe prend tout son sens en live, quelque part entre rituel païen et déflagr
 brute, celle d'un groupe qui n'a pas besoin d'artifices pour captiver. Le vernissage de Nyctophilia trouve ici son écrin
 parfait.
 
-## The Dungbeetle Conspiracy
+###### The Dungbeetle Conspiracy
 
 {{< carousel pictures="pictures/the-dungbeetle-conspiracy" alt="The Dungbeetle Conspiracy" author="mkhelif" >}}
 
@@ -35,7 +35,7 @@ scène, basse-guitares-batterie, le dispositif classique du rock qui tache. Et �
 un set solide, porté par des guitares tranchantes et une section rythmique qui ne lâche rien. Les influences grunge
 revendiquées se confirment sans jamais tomber dans le pastiche. Pas mal du tout, effectivement. Bien plus que ça, même.
 
-## Lofofora
+###### Lofofora
 
 {{< carousel pictures="pictures/lofofora" alt="Lofofora" author="mkhelif" >}}
 
@@ -47,7 +47,7 @@ mis ses convictions en actes. Entre les morceaux, les interludes engagés rappel
 musique du discours. Le groupe prend aussi le temps de remercier chaleureusement le public genevois venu en nombre. Du
 grand Lofofora, fidèle à sa légende.
 
-## SpaceBrain
+###### SpaceBrain
 
 {{< carousel pictures="pictures/spacebrain" alt="SpaceBrain" author="mkhelif" >}}
 

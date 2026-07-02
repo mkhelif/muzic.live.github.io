@@ -22,7 +22,7 @@ crades qu'un instrument à cordes ait jamais produites. C'est le premier groupe 
 leur album qu'on ne sait littéralement pas comment reproduire. Voilà ce qu'est Nova Twins en une phrase — un duo qui a
 réinventé ce que peut sonner une basse, et avec elle, ce que peut être le rock britannique en 2026.
 
-## Une amitié d'enfance devenue duo
+###### Une amitié d'enfance devenue duo
 
 Nova Twins est un duo de rock britannique formé à Londres en 2014, composé de la chanteuse-guitariste Amy Love et de la
 bassiste Georgia South. Love et South sont amies proches depuis l'enfance et ont joué dans des groupes souvent
@@ -34,7 +34,7 @@ sans batteur, avec deux chansons jouées en boucle dans leur premier open mic. I
 mars 2014, avant d'opter plus tard la même année pour Nova Twins, sortant leur premier titre, *Bassline Bitch*, en avril
 2015.
 
-## Un son taillé pour percer les murs
+###### Un son taillé pour percer les murs
 
 Ce qui distingue Nova Twins de toute la scène rock contemporaine, c'est cette obsession pour le son de la basse comme
 instrument central, presque tyrannique. Vers la fin de leur premier album, en écrivant *Vortex*, c'est un moment
@@ -47,7 +47,7 @@ simplement bluesy, mais frontal et indompté. Quand une pédale glitch, le duo n
 fait partie intégrante du son. Le résultat ? Un genre hybride qui emprunte au punk, au grime, au nu metal et au rap
 rock, porté par une énergie scénique électrique.
 
-## De *Who Are the Girls?* à *Parasites & Butterflies*
+###### De *Who Are the Girls?* à *Parasites & Butterflies*
 
 En 2017, Nova Twins assure la première partie de Prophets of Rage, gagnant le soutien de Tom Morello, qui déclare qu'ils
 sont « le meilleur groupe que vous n'avez jamais entendu ». Leur premier album, *Who Are the Girls?*, sort en février
@@ -66,7 +66,7 @@ contrairement à l'idée reçue selon laquelle les femmes n'écrivent pas leur p
 dualiste comme son titre l'indique, tourne autour du yin et du yang — une confrontation avec ses propres facettes, qu'on
 observe comme depuis l'enfer en regardant le paradis.
 
-## Une voix pour l'inclusivité du rock
+###### Une voix pour l'inclusivité du rock
 
 Nova Twins ne s'est jamais contenté d'être un groupe — il s'est imposé comme un acteur du changement dans une scène rock
 qui peine encore à se diversifier. En 2021, le duo écrit une lettre ouverte aux MOBO Awards réclamant l'introduction d'
@@ -77,7 +77,7 @@ En 2023, Nova Twins lance une bourse avec l'école de musique internationale ICM
 scolarité d'un étudiant en licence de musicianship créative pendant trois ans. Une façon concrète de rendre à la scène
 ce qu'elles n'ont pas toujours eu facilement elles-mêmes.
 
-## Sur scène, aux côtés des géants
+###### Sur scène, aux côtés des géants
 
 Au fil du temps, le duo a accumulé une liste impressionnante de fans prestigieux — d'Elton John à Rage Against the
 Machine — et s'est mesuré à des poids lourds de l'industrie comme Bring Me the Horizon, Muse et Foo Fighters. En 2025,
@@ -88,7 +88,7 @@ Leur image scénique fait également partie intégrante de leur identité. Passi
 groupe, Amy Love et Georgia South customisent elles-mêmes une partie de leurs tenues — des looks aussi flamboyants que
 leur musique.
 
-## Ce que Nova Twins représente
+###### Ce que Nova Twins représente
 
 Il est difficile d'imaginer une tapisserie du rock contemporain sans Nova Twins brodé dedans. Love et South ont dû se
 battre dans l'industrie pour se faire entendre. Leurs chansons sont féroces : elles sifflent comme des fils électriques

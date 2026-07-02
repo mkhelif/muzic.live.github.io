@@ -12,7 +12,7 @@ vers le sud. C'est à Toulouse qu'ils retrouvent Teddy Chrétien (batterie), aut
 qui apporte ses influences metal au projet. Le bassiste Robin Fleutiaux complète la formation fin 2017,
 et le groupe enregistre rapidement un premier EP éponyme.
 
-##### Le son de Damantra
+###### Le son de Damantra
 
 L'identité musicale de Damantra repose sur une tension féconde entre le blues des années 1970, le
 metal progressif et le rock des années 1990. On pense à Led Zeppelin pour la puissance et le groove, à
@@ -20,7 +20,7 @@ Rage Against the Machine pour les moments les plus frontaux, à une certaine tra
 qui n'a jamais renoncé à la sueur de la scène. La voix de Mélanie Kneisky est le fil conducteur de
 tout : chaude, puissante, capable de passer de la caresse à l'orage.
 
-##### Discographie et évolution
+###### Discographie et évolution
 
 Après l'EP éponyme de 2018, Damantra sort l'album *Broken* en 2019, puis l'EP *Jekyll And Hyde* en 2020,
 période marquée par un changement de batteur. Le groupe revient en 2023 avec l'EP *Comet*, qui accentue

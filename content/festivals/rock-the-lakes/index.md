@@ -15,7 +15,7 @@ The Lakes. En quatre ans, ce pari jugé un peu fou est devenu l'un des événeme
 le plus grand festival de rock et de metal de Suisse romande. Une réussite bâtie à la main, édition après édition, avec
 la rigueur d'un entrepreneur et la passion d'un fan de metal de longue date.
 
-## Daniel Botteron : un bâtisseur de festivals
+###### Daniel Botteron : un bâtisseur de festivals
 
 Le festival Rock The Lakes n'aurait jamais vu le jour sans un grand pique-nique familial. Celui que Daniel Botteron,
 patron de l'événement, avait organisé il y a quelques années sur le terrain de l'agriculteur retraité Otto Lauper, dont
@@ -31,7 +31,7 @@ un projet — fait le reste.
 À la commune de Vallamand, ça a un peu toussé quand il a annoncé son projet, reconnaît-il. Mais on lui a donné un accord
 de principe assez rapidement. La suite lui donnera raison.
 
-## Une croissance fulgurante, édition après édition
+###### Une croissance fulgurante, édition après édition
 
 **2022 — Vallamand, la naissance** : La première édition se joue du 19 au 21 août 2022 dans un champ à la vue imprenable
 sur le lac de Morat. La programmation fait la part belle au rock et au metal avec quelques grands noms de la scène
@@ -57,7 +57,7 @@ l'ensemble de l'événement, certains venus de l'étranger, confirmant son ample
 de 2022 à Vallamand qui avait accueilli 5 000 personnes. Pas moins de 37 groupes défilent sur scène, parmi lesquels
 Heilung, Dimmu Borgir, Eluveitie, Mastodon, While She Sleeps, Feuerschwanz, August Burns Red et Beyond The Black.
 
-## Un concept pensé différemment
+###### Un concept pensé différemment
 
 Ce qui distingue Rock The Lakes de la concurrence, c'est une série de choix techniques et logistiques assumés. La
 spécificité du festival, c'est deux scènes mais une seule fosse : une double scène de 800 m², pas deux scènes accolées
@@ -74,7 +74,7 @@ lac. La carte postale est complétée par les Alpes suisses en arrière-plan.
 sont devenues le théâtre de la légendaire Rock The Lakes Cruise. La compagnie LNM, partenaire du festival, met en mer
 deux navires pour une soirée metal unique sur les flots.
 
-## 2026 : la cinquième édition, une ambition européenne
+###### 2026 : la cinquième édition, une ambition européenne
 
 Du 14 au 16 août 2026, Rock The Lakes déroule sa cinquième édition à Cudrefin. Arch Enemy, In Flames et Powerwolf
 figurent parmi les mastodontes de la scène rock et metal à l'affiche. Autour de ces têtes d'affiche, le festival

@@ -16,7 +16,7 @@ chance dans l'industrie musicale. Ses débuts sont semés d'embûches — plusie
 tournent le dos — mais il s'impose d'abord comme compositeur et co-fondateur du collectif de production
 The Smeezingtons.
 
-##### L'ascension vers la gloire
+###### L'ascension vers la gloire
 
 Sa percée en tant qu'interprète arrive avec "Nothin' on You" (2009), une collaboration avec le rappeur
 B.o.B qui atteint la première place des charts américains. Cette visibilité ouvre la voie à son premier
@@ -29,7 +29,7 @@ expressivité et d'une précision redoutables. 24K Magic (2016) marque l'apogée
 du funk et de la pop rétro-futuriste, remportant le Grammy Award de l'Album de l'Année et six autres
 statuettes lors de la même soirée, une performance qui souligne l'ampleur de sa domination.
 
-##### Silk Sonic et collaborations
+###### Silk Sonic et collaborations
 
 En 2021, Bruno Mars forme avec le chanteur Anderson .Paak le duo Silk Sonic, dont l'album An Evening with
 Silk Sonic propose une immersion dans la soul et le R&B des années 1970 avec un luxe et un soin du détail
@@ -41,7 +41,7 @@ signe d'essoufflement. Par ailleurs, ses collaborations en tant que compositeur 
 et de nombreux autres artistes — ont contribué à façonner le paysage de la pop mondiale depuis les années
 2010.
 
-##### Un showman hors du commun
+###### Un showman hors du commun
 
 Ce qui rend Bruno Mars unique, au-delà de ses qualités vocales et de composition, c'est sa capacité à
 habiter la scène avec une générosité et une maîtrise qui rappellent les grands entertainers d'antan. Ses

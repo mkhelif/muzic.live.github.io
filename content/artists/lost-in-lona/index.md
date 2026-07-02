@@ -14,9 +14,9 @@ Lost in Lona est un duo formé par la rencontre artistique de deux musiciens ori
 principales métropoles culturelles suisses. Cette double origine géographique reflète peut-être la dualité qui habite
 leur musique : à la fois douce et rugueuse, intime et expansive, fragile et résiliente.
 
-#### Scared Like a Mother and Her Gun : des débuts remarqués (Novembre 2024)
+###### Scared Like a Mother and Her Gun : des débuts remarqués (Novembre 2024)
 
-##### Une entrée en scène discrète mais puissante
+###### Une entrée en scène discrète mais puissante
 
 En novembre 2024, Lost in Lona fait ses débuts avec l'album Scared Like a Mother and Her Gun, un titre énigmatique qui
 évoque déjà la complexité émotionnelle au cœur de leur univers. Le duo choisit une approche discrète mais puissante
@@ -26,15 +26,15 @@ visibilité immédiate.
 Malgré cette discrétion apparente, l'album parvient rapidement à se tailler une place dans le paysage musical
 helvétique, attirant l'attention des amateurs de musique indie folk et alternative par sa sincérité désarmante.
 
-##### Le Titre : Une Métaphore Troublante
+###### Le Titre : Une Métaphore Troublante
 
 Le titre Scared Like a Mother and Her Gun pose d'emblée une image forte et dérangeante : celle d'une mère armée, prise
 entre la peur et le besoin de protection. Cette juxtaposition de la figure maternelle – symbole de douceur et de soin –
 avec la violence potentielle d'une arme à feu résume parfaitement les paradoxes que le duo explore dans sa musique.
 
-#### L'Identité Sonore
+###### L'Identité Sonore
 
-##### Une palette contrastée
+###### Une palette contrastée
 
 Le son de Lost in Lona repose sur un équilibre délicat entre deux éléments apparemment contradictoires :
 - Des voix douces et planantes (soft, soaring vocals) qui évoquent la fragilité, l'intimité et la vulnérabilité
@@ -44,7 +44,7 @@ Le son de Lost in Lona repose sur un équilibre délicat entre deux éléments a
 Cette combinaison crée une esthétique sonore singulière où la beauté éthérée des mélodies vocales se heurte à la
 rugosité instrumentale, comme si la douceur cherchait constamment à s'extraire de la rudesse du monde.
 
-##### Les influences : une généalogie de l'indie folk intimiste
+###### Les influences : une généalogie de l'indie folk intimiste
 
 Lost in Lona s'inscrit dans une lignée d'artistes qui ont redéfini la folk et l'indie rock contemporain en y insufflant
 une profondeur émotionnelle et une honnêteté crue :
@@ -57,9 +57,9 @@ une profondeur émotionnelle et une honnêteté crue :
 Ces références témoignent d'une sensibilité artistique tournée vers l'intimisme, le minimalisme et la 
 sincérité, loin des artifices de production ou des effets de mode.
 
-#### Les territoires émotionnels
+###### Les territoires émotionnels
 
-##### Des paysages intérieurs explorés
+###### Des paysages intérieurs explorés
 
 Lost in Lona navigue dans les paysages émotionnels qui définissent l'expérience humaine dans ce qu'elle a de plus
 universel et de plus personnel :
@@ -73,7 +73,7 @@ elle est constat, acceptation, parfois même beauté.
 l'espoir et à la réinvention. Leurs chansons parlent de ces moments charnières où l'on ferme un chapitre pour en ouvrir
 un autre, avec toute l'ambivalence que cela suppose.
 
-#### Une philosophie artistique : l'honnêteté avant tout
+###### Une philosophie artistique : l'honnêteté avant tout
 
 Ce qui définit fondamentalement Lost in Lona, c'est leur engagement envers trois principes essentiels :
 
@@ -87,13 +87,13 @@ Ce qui définit fondamentalement Lost in Lona, c'est leur engagement envers troi
   renoncer à la poésie, Lost in Lona opte pour une clarté qui rend leurs histoires accessibles et profondément humaines.
   Leurs chansons racontent des histoires que chacun peut reconnaître dans sa propre vie.
 
-##### L'annonce d'une évolution
+###### L'annonce d'une évolution
 
 Le prochain album, dont la sortie est prévue pour novembre 2025, s'annonce comme une exploration encore plus
 profonde (even deeper dive) de l'essence même du groupe. Un an après leur premier album, Lost in Lona semble prêt à
 pousser plus loin leur démarche artistique.
 
-##### La promesse : retour aux fondamentaux
+###### La promesse : retour aux fondamentaux
 
 Plutôt que de chercher à élargir leur palette sonore ou à se complexifier, le duo promet de revenir à ce qui les définit
 vraiment : simplicité, honnêteté et narration sans fard. Cette fidélité à leurs principes fondateurs, loin d'être
@@ -103,7 +103,7 @@ Le choix de sortir ce deuxième album exactement un an après le premier (novemb
 suggérant peut-être une approche cyclique de la création, en phase avec les saisons et les transformations qu'elles
 apportent.
 
-##### Un renouveau de la scène indie helvétique
+###### Un renouveau de la scène indie helvétique
 
 Lost in Lona s'inscrit dans un renouveau de la scène indie et folk suisse, souvent éclipsée par les scènes britannique
 et américaine. Le duo prouve qu'il est possible de créer une musique ancrée dans la sensibilité suisse tout en
@@ -112,14 +112,14 @@ dialoguant avec les courants internationaux.
 Leur approche bilingue (évoluant entre Bâle et Zurich, entre cultures alémaniques différentes) et leur ouverture aux
 influences anglo-saxonnes créent un pont culturel intéressant, typique de la Suisse contemporaine.
 
-##### Une alternative à la saturation sonore
+###### Une alternative à la saturation sonore
 
 Dans un paysage musical souvent saturé de productions maximales et de sons agressifs, Lost in Lona propose une 
 alternative contemplative. Leur musique invite à ralentir, à écouter vraiment, à ressentir pleinement. C'est une
 musique pour les moments de solitude choisie, pour les trajets nocturnes, pour ces instants où l'on a besoin de se
 reconnecter avec soi-même.
 
-#### La force de la vulnérabilité
+###### La force de la vulnérabilité
 
 Lost in Lona incarne cette nouvelle génération d'artistes pour qui la vulnérabilité est une force, non une
 faiblesse. En refusant de se protéger derrière des couches de production ou des textes hermétiques, le duo crée une

@@ -27,7 +27,7 @@ réussite, récits de rue et moments d'introspection, définit une nouvelle esth
 progressivement du rap hardcore des générations précédentes pour embrasser une approche plus mélodique et
 internationale.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Les débuts de Niska dans le rap remontent au milieu des années 2010, où il se fait connaître dans les circuits
 underground de la région parisienne. Membre du collectif Réseaux, il affine son style et développe une identité
@@ -53,7 +53,7 @@ de ce qui fait le succès de Niska : des productions trap modernes, des mélodie
 aussi bien à la rue qu'à un public mainstream. Ses collaborations avec des artistes comme Booba, Ninho et Maître Gims
 témoignent de son statut d'artiste incontournable capable de dialoguer avec différentes générations de rappeurs.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Niska se caractérise par un mélange unique de trap américaine, d'influences africaines et caribéennes, et de
 sensibilité française. Ses productions privilégient les 808 profonds, les hi-hats rapides et les mélodies souvent
@@ -76,7 +76,7 @@ auprès d'un public mainstream, démontrant qu'un rap moderne et accessible pouv
 commercial tout en conservant une certaine crédibilité de rue. Sa gestuelle et ses expressions sont devenues partie
 intégrante de la culture populaire française, témoignant de son impact qui dépasse largement le cadre musical.
 
-##### Actualité
+###### Actualité
 
 Niska continue aujourd'hui de dominer les plateformes de streaming et de se produire dans les plus grandes salles et
 festivals français et francophones. Ses concerts, véritables célébrations où le public reprend en chœur chaque morceau,

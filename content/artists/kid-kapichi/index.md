@@ -21,7 +21,7 @@ rapidement un style qui mélange punk traditionnel, rock alternatif et influence
 Leurs débuts révèlent une formation qui refuse les compromis commerciaux pour privilégier l'authenticité et l'engagement
 social.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Kid Kapichi se fait connaître grâce à des compositions rock directes et engagées qui révèlent leur capacité à porter des
 messages sociaux à travers une musique énergique et accessible.
@@ -31,7 +31,7 @@ de contestation sociale contemporaine.
 
 Leurs morceaux révèlent une énergie brute et une sincérité qui résonnent avec les préoccupations de leur génération.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Kid Kapichi puise dans le punk-rock traditionnel, le rock alternatif et les influences indie contemporaines,
 créant un son énergique qui porte des messages sociaux forts.
@@ -41,7 +41,7 @@ Le groupe excelle dans l'art de créer des morceaux directs et efficaces, mêlan
 Leurs compositions révèlent une approche du rock qui privilégie l'engagement et l'authenticité sur la sophistication
 technique.
 
-##### Actualité
+###### Actualité
 
 Kid Kapichi continue de représenter cette facette engagée et énergique du rock britannique contemporain, maintenant leur
 approche directe et sociale du genre.

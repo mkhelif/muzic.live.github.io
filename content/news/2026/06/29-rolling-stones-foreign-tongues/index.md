@@ -14,7 +14,7 @@ Tongues*, leur vingt-cinquième album studio attendu pour le 10 juillet via Capi
 le 5 mai lors d'un événement de lancement discret tenu dans un entrepôt de Brooklyn. La mécanique promotionnelle s'est
 mise en route, mais Mick Jagger, 82 ans au moment de la sortie, n'a pas changé de méthode : on fait parler la musique.
 
-## Ce que disent les nouveaux singles
+###### Ce que disent les nouveaux singles
 
 « Jealous Lover » ne trompe pas sur ses intentions : c'est une âme funky, tendue, héritière directe d'« Emotional
 Rescue ». Jagger y congédie une amante jalouse avec cette flatterie particulière qu'il réserve aux au-revoirs — la
@@ -27,7 +27,7 @@ solo de guitare bluesy qui rappelle pourquoi sa discrétion habituelle rend ses 
 Robert Smith, le chanteur de The Cure, apparaît aux synthétiseurs, donnant au titre une couleur crépusculaire qu'on
 n'attendait pas. L'alliance improbable tient parfaitement.
 
-## Un album pensé pour les grandes scènes
+###### Un album pensé pour les grandes scènes
 
 *Foreign Tongues* a été produit, comme *Hackney Diamonds*, par Andrew Watt — ingénieur, producteur et, selon ses propres
 termes, « le plus grand fan des Stones au monde ». L'objectif affiché était de livrer des chansons capables de se
@@ -45,7 +45,7 @@ d'un titre en 2021 — « Hit Me in the Head », décrit par la critique comme u
 nerveuse. Sa présence sur l'album n'est pas un gimmick de marketing mais un rappel que Watts était, jusqu'au bout, le
 gardien du swing des Stones.
 
-## Après *Hackney Diamonds* : la confirmation d'une renaissance
+###### Après *Hackney Diamonds* : la confirmation d'une renaissance
 
 En 2023, *Hackney Diamonds* avait constitué une surprise de taille : non pas parce que les Stones « revenaient » — ils
 n'étaient jamais vraiment partis — mais parce que l'album était bon. Vraiment bon. Un Grammy plus tard, la question

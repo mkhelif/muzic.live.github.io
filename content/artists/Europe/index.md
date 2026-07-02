@@ -19,7 +19,7 @@ classique influencée par Deep Purple et Rainbow, développant progressivement l
 suédoise se distingue rapidement sur la scène locale par leur énergie scénique et leur capacité à créer des mélodies
 accrocheuses, posant les bases d'une carrière internationale exceptionnelle.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Le succès planétaire d'Europe explose avec l'album "The Final Countdown" (1986), porté par le hit éponyme qui devient
 l'un des hymnes rock les plus reconnaissables de tous les temps. Cette réussite propulse le groupe au sommet des charts
@@ -28,7 +28,7 @@ constante, de leurs racines hard rock vers des sonorités plus sophistiquées, p
 récent. Albums après albums, Europe prouve sa capacité à renouveler son approche tout en conservant cette signature
 mélodique qui fait leur force depuis plus de quatre décennies.
 
-##### Style et influences
+###### Style et influences
 
 Le style d'Europe combine hard rock traditionnel, influences de rock progressif et sensibilité pop, créant un son
 immédiatement reconnaissable qui a défini une époque. Joey Tempest possède une voix puissante et expressive, capable de
@@ -37,7 +37,7 @@ privilégient les mélodies mémorables et les refrains anthémiques, soutenus p
 et les nappes de claviers caractéristiques de Mic Michaeli. Cette alchimie musicale influence toute une génération de
 groupes rock européens et nordiques.
 
-##### Actualité
+###### Actualité
 
 Europe continue de tourner et d'enregistrer avec une régularité remarquable, prouvant que leur créativité reste intacte
 après plus de quarante ans de carrière. Le groupe maintient un niveau d'exigence constant, sortant régulièrement des

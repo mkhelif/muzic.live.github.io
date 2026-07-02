@@ -20,7 +20,7 @@ entier qui se déploie — mélodies, basses, accords et percussions simultaném
 rock, le flamenco, le delta blues et la guitare classique. Bienvenue dans l'univers du fingerstyle, et dans celui,
 singulier, d'un guitariste suisse qui a pris le temps de vivre avant de trouver sa voix.
 
-## Trente ans de route, un walkman et une Strat volée au paternel
+###### Trente ans de route, un walkman et une Strat volée au paternel
 
 L'histoire musicale de Florian Desbaillet ne commence pas par un conservatoire ni par un concours de jeunes talents.
 Elle commence par un walkman reçu à Noël, à sept ans, et par les cassettes que son père, mélomane averti, lui enregistre
@@ -38,7 +38,7 @@ prédominance dans le rock et le hard rock. Il enseigne aussi la guitare, activi
 revenus et qu'il mène depuis plus de quinze ans avec un plaisir intact. Pendant plus de vingt ans, ce sont les sous-sols
 humides des locaux de répétition qui constituent son habitat naturel.
 
-## La révélation fingerstyle : Jon Gomm et la guitare-orchestre
+###### La révélation fingerstyle : Jon Gomm et la guitare-orchestre
 
 Tout bascule en 2014, le jour où Florian tombe par hasard sur une vidéo YouTube de Jon Gomm — ce guitariste britannique
 au jeu hallucinant qui transforme une simple acoustique en machine à émotions en tapant, grattant, accordant et
@@ -61,7 +61,7 @@ Dawes, Stuart Ryan. Il découvre une communauté internationale soudée, accessi
 dit-il, où les pointures partagent sans compter. Ce sont autant les rencontres avec les autres participants de ces
 stages que l'enseignement des maîtres qui le motivent à franchir le pas et à se lancer dans son propre projet solo.
 
-## *Monomania* : le premier EP et la mise à nu
+###### *Monomania* : le premier EP et la mise à nu
 
 En 2020, Florian lance un financement participatif sur la plateforme suisse wemakeit pour produire son premier EP,
 *Monomania*. La campagne dépasse son objectif de 127 %, preuve que la communauté qui s'est formée autour de lui croit au
@@ -85,7 +85,7 @@ son smartphone, y revient des semaines ou des mois plus tard, et construit patie
 quelle ligne de basse, quelle structure. Le fingerstyle exige que tout coexiste sous dix doigts — c'est un puzzle
 tridimensionnel où la nécessité musicale dicte les techniques à employer.
 
-## Sur scène : du MIGS à Pierre Bensusan
+###### Sur scène : du MIGS à Pierre Bensusan
 
 Depuis la sortie de *Monomania*, Florian Desbaillet a construit une carrière scénique patiente et cohérente,
 principalement en Suisse romande mais avec des incursions croissantes à l'international. Il se produit régulièrement
@@ -107,7 +107,7 @@ En 2025 également, le luthier suisse Wolfensberger annonce avec fierté que Flo
 guitare PA Wolfensberger — un instrument artisanal d'exception, taillé pour le fingerstyle, qui témoigne de la
 reconnaissance du luthier envers le talent du guitariste.
 
-## Influences : de Jeff Beck au delta blues en passant par le shred
+###### Influences : de Jeff Beck au delta blues en passant par le shred
 
 Si l'on ne devait retenir qu'un seul nom dans le panthéon personnel de Florian Desbaillet, ce serait Jeff Beck. Le
 guitariste britannique, disparu en 2023, est pour lui « une véritable énigme » dont le jeu incarne « la grâce à l'état
@@ -122,7 +122,7 @@ lui-même : la technique doit servir un propos musical, jamais être un simple p
 pensé comme un voyage, avec ses tensions, ses résolutions, ses silences — et c'est dans ces silences que se joue souvent
 l'essentiel.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Florian Desbaillet n'est pas un prodige juvénile ni une star des réseaux sociaux. C'est un artisan du son, un musicien
 qui a pris le temps de traverser trente ans de scènes, de groupes et de sous-sols avant de trouver, dans le fingerstyle,

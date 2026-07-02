@@ -8,7 +8,7 @@ exercait comme producteur de caoutchouc. À l'âge de quatre ans, elle rejoint l
 dans les Vosges, à Remiremont. Chanteuse, actrice et icône de la chanson pour enfants, elle a connu plusieurs vies
 artistiques, chacune marquée par une authenticité et une longévité remarquables.
 
-##### La yé-yé et le cinéma
+###### La yé-yé et le cinéma
 
 Au milieu des années 1960, Chantal Goya débute comme mannequin dans le magazine Mademoiselle Âge Tendre, où elle
 est rebaptisée de son pseudonyme en référence au peintre Francisco Goya, dont on lui trouve une ressemblance.
@@ -19,7 +19,7 @@ En 1965, le réalisateur Jean-Luc Godard la remarque et lui confie le rôle prin
 culture populaire française des années 1960, aux côtés d'une génération de jeunes artistes qui recomposaient le
 paysage culturel du pays.
 
-##### La reconversion vers l'enfance
+###### La reconversion vers l'enfance
 
 À partir de 1975, Chantal Goya opère un virage radical qui va transformer sa carrière : elle se consacre
 entièrement à la chanson et au spectacle pour enfants. Ses albums et ses tournées construits autour de l'univers
@@ -27,7 +27,7 @@ des rêves, du voyage et des personnages imaginaires — dont le célèbre Pandi
 phénoménal. Plus de 40 millions de disques vendus en font l'une des artistes pour enfants les plus populaires de
 toute l'histoire de la chanson française.
 
-##### Cinq décennies d'amour partagé
+###### Cinq décennies d'amour partagé
 
 Sa popularité traverse les générations : les enfants qui l'ont découverte dans les années 1970 l'ont fait partager
 à leurs propres enfants, perpétuant une affection intergénérationnelle rare. En 2026, à 83 ans, Chantal Goya

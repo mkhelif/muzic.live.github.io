@@ -19,7 +19,7 @@ machines du metal européen, en passant par deux légendes du heavy. Quatre grou
 ton est donné.
 
 
-## DOMINUM
+###### DOMINUM
 
 {{< carousel pictures="pictures/dominum" alt="DOMINUM" author="mkhelif" >}}
 
@@ -30,7 +30,7 @@ premier degré et fier de l'être : exactement ce qu'on attend d'une mise en bou
 parfaitement le week-end.
 
 
-## Avantasia
+###### Avantasia
 
 {{< carousel pictures="pictures/avantasia" alt="Avantasia" author="mkhelif" >}}
 
@@ -41,7 +41,7 @@ mélodique. Le défilé de solistes transforme le set en revue de gala — un fo
 scène.
 
 
-## Savatage
+###### Savatage
 
 {{< carousel pictures="pictures/savatage" alt="Savatage" author="mkhelif" >}}
 
@@ -51,7 +51,7 @@ sur scène n'a rien d'anodin, et le concert est tout simplement **exceptionnel**
 projecteurs nancéiens. On regrette juste que leur set ne dure qu'une heure.
 
 
-## Sabaton
+###### Sabaton
 
 {{< carousel pictures="pictures/sabaton" alt="Sabaton" author="mkhelif" >}}
 

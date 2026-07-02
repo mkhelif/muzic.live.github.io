@@ -8,14 +8,14 @@ socials:
   web: "https://lasainterockfestival.fr/"
 ---
 
-## Quand le rock plante ses amplis au pied de la Sainte-Victoire
+###### Quand le rock plante ses amplis au pied de la Sainte-Victoire
 
 Né d'un rêve et d'une montagne, La Sainte Rock Festival est la preuve vivante que le rock indépendant français n'a pas
 dit son dernier mot. Porté par l'association Wild & Civilized, ce festival 100 % rock a vu le jour en 2024 au pied de la
 montagne Sainte-Victoire, dans les Bouches-du-Rhône, avec une ambition simple : offrir à la scène rock, stoner et grunge
 un écrin à la hauteur de son énergie — loin des programmations fourre-tout et des concessions au mainstream.
 
-## Genèse : un sommelier, une montagne, et six guitares
+###### Genèse : un sommelier, une montagne, et six guitares
 
 L'histoire commence avec Virgile Zibolt, sommelier aixois et amoureux du rock, qui nourrit depuis longtemps l'envie de
 croiser ses deux passions : la bonne bouffe et la musique brute. Dans un paysage culturel aixois plutôt tourné vers la
@@ -27,7 +27,7 @@ basculer le projet du fantasme à la réalité. La mairie met à disposition la 
 correction pour adolescents réhabilitée en salle des fêtes, nichée au pied de la Sainte-Victoire. Le cadre est
 bucolique, chargé d'histoire, et parfaitement décalé pour un festival rock — c'est-à-dire idéal.
 
-## L'ADN du festival
+###### L'ADN du festival
 
 **Rock, rock, rock.** Pas de concession, pas de diversification forcée. La Sainte Rock revendique une programmation
 100 % rock dans toutes ses déclinaisons : indé, garage, psyché, stoner, grunge, punk-rock, blues rock. C'est à la fois
@@ -44,7 +44,7 @@ dimension solidaire n'est pas un ajout marketing mais un pilier du projet depuis
 la montagne Sainte-Victoire comme totem, Aix-en-Provence comme point d'ancrage, la scène locale mise à l'honneur à
 chaque édition.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 La Sainte Rock, c'est l'histoire d'un festival qui fait exactement ce que son nom promet : du rock, au pied d'une
 montagne sacrée, sans détour ni faux-semblant. En trois éditions, le festival est passé d'une journée dans une ferme à

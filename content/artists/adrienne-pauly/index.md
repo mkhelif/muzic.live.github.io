@@ -16,7 +16,7 @@ de Claude Chabrol *Bellamy* (2009). Mais c'est en 2002 qu'une rencontre fortuite
 en elle la passion de la musique. Elle se met au piano, compose ses premiers titres et ressent l'urgence de s'exprimer
 autrement.
 
-##### Un premier album entre folk et humour grinçant
+###### Un premier album entre folk et humour grinçant
 
 Son premier concert à la House of Live à Paris en 2004 marque ses débuts scéniques, et son premier album éponyme sort le
 16 octobre 2006. Il lui vaut d'être nommée aux Victoires de la musique en 2007 dans les catégories « Album révélation »
@@ -27,7 +27,7 @@ Sa musique, teintée de pop-rock à la française, mêle une écriture ciselée,
 arrangements guitare-piano épurés. Sa voix singulière, entre murmure et éclat, renforce l'impression d'assister à des
 confessions intimes mises en musique.
 
-##### Une artiste au long cours
+###### Une artiste au long cours
 
 Après un silence discographique, elle revient en 2018 avec *À vos amours*, enregistré en collaboration avec Gaby Concato
 et Norman Langolff. Puis en 2024, elle publie un troisième album, *Et comment tu trouves que j'me trouve*, accompagné

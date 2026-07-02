@@ -11,14 +11,14 @@ Matt Hayward. Amis depuis leurs années lycée pour Marsden et Hayward, ils fond
 Richardson. Après une période sous le nom de Fleeing New York puis Skulls, le groupe adopte définitivement le nom
 Band of Skulls en novembre 2008.
 
-##### Un rock de guitares généreux et direct
+###### Un rock de guitares généreux et direct
 
 Le son de Band of Skulls se distingue par sa générosité : des riffs accrocheurs, des harmonies vocales puissantes —
 Richardson et Marsden partageant le micro avec un naturel confondant — et une production qui mise sur l'énergie brute
 plutôt que la sophistication. Leur musique emprunte autant au blues rock et au grunge qu'au garage, dans un équilibre
 qui évoque leurs influences communes : Jack White, The White Stripes, Led Zeppelin.
 
-##### Une discographie solide
+###### Une discographie solide
 
 Leur album debut, Baby Darling Doll Face Honey (2009), s'impose rapidement comme un incontournable du rock
 britannique indépendant de l'époque. Sweet Sour (2012), enregistré aux Rockfield Studios au Pays de Galles avec le
@@ -29,7 +29,7 @@ exigeante.
 En 2025, le groupe publie Cold Fame, un coffret rétrospectif réunissant leurs trois premiers albums, des faces B et
 raretés, accompagné d'un livre illustré — un hommage à une période créative particulièrement fertile.
 
-##### Une formation en évolution
+###### Une formation en évolution
 
 Matt Hayward quitte le groupe en 2017, suivi d'Emma Richardson en 2022. Russell Marsden poursuit alors Band of Skulls
 en formation élargie, incluant de nouveaux musiciens pour les concerts. Le single Born in Amazement paraît en avril

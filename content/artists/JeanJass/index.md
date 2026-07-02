@@ -17,7 +17,7 @@ jouer avec les rythmes de façon innovante.
 Il développe son style en s'inspirant des différentes époques du hip-hop, du boom bap des années 90 aux sonorités plus
 contemporaines, créant progressivement une identité artistique personnelle qui enrichit la diversité du rap francophone.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière de JeanJass prend une dimension particulière avec sa collaboration avec Caballero au sein du collectif
 Double Hélice.
@@ -29,7 +29,7 @@ créative.
 Le rappeur belge développe un catalogue qui témoigne de sa maîtrise parfaite de la langue française et de ses
 subtilités, démontrant que l'excellence du rap francophone dépasse les frontières nationales.
 
-##### Style et influences
+###### Style et influences
 
 Le flow de JeanJass se caractérise par une fluidité remarquable et une capacité à créer des patterns originaux qui
 marquent l'auditeur et renouvellent l'approche rythmique du rap.
@@ -40,7 +40,7 @@ démontrent une culture générale impressionnante et une créativité débordan
 Ses multiples influences lui permettent de créer un style personnel qui transcende les modes et les époques, établissant
 de nouveaux standards d'excellence dans le rap francophone.
 
-##### Actualité
+###### Actualité
 
 JeanJass continue de développer sa carrière artistique, maintenant sa réputation d'innovateur et de technicien
 exceptionnel du rap francophone.

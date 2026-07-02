@@ -12,7 +12,7 @@ l'installation d'un **PWR/UP Pop-Up** dans chacune des dix-sept villes de sa tou
 s'élancera le 11 juillet à Charlotte pour s'achever le 29 septembre à Philadelphie. Une manière, pour le groupe
 australien, de prolonger l'expérience du concert bien au-delà des trois heures passées sous les projecteurs.
 
-## Un rituel de deux jours par ville
+###### Un rituel de deux jours par ville
 
 Le principe est simple et généreux : gratuit et ouvert à tous, sans billet de concert nécessaire, chaque Pop-Up
 s'installe pour deux jours — la veille du concert et le soir même — dans un lieu emblématique de la ville étape,
@@ -25,7 +25,7 @@ menus thématiques, décors reproduisant une scène avec une réplique de la gui
 Pop-Up est pensé comme un sas d'excitation avant le concert. Certaines étapes accueilleront même des groupes locaux
 de School of Rock ou des animations avec les radios partenaires du coin.
 
-## Un tirage au sort et une guitare signée
+###### Un tirage au sort et une guitare signée
 
 Chaque ville organisera un « PWR/UP Fan Preview », événement d'avant-ouverture réservé à la presse, aux partenaires et
 à cent fans tirés au sort parmi les inscrits sur pwruptour.acdc.com, qui recevront un cadeau exclusif. Tout au long de
@@ -34,7 +34,7 @@ et — pour les étapes américaines — un flipper à l'effigie du groupe conç
 l'opération : une guitare répliquée qui voyagera d'un Pop-Up à l'autre avant d'être signée par Angus Young à
 Philadelphie et offerte à un fan tiré au sort parmi les participants présents physiquement.
 
-## La dernière ligne droite d'une tournée historique
+###### La dernière ligne droite d'une tournée historique
 
 Lancé en 2023 à l'occasion du festival Power Trip en Californie, le Power Up Tour — du nom de l'album numéro un dans
 21 pays sorti en 2020 — a depuis rempli des dizaines de stades sur quatre continents. Son ultime segment nord-américain

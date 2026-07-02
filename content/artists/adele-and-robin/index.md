@@ -15,7 +15,7 @@ découvrent rapidement qu'ils partagent une passion pour la chanson française t
 sans l'avoir encore jamais pratiqué ensemble. De cette affinité naît une envie de créer, de jouer et d'écrire à deux
 voix.
 
-##### Une écriture en mouvement
+###### Une écriture en mouvement
 
 Leur premier EP, *YAM*, est né d'un road trip à travers l'Europe en 2020. Le titre fait référence au Youth African Art
 Market de Berlin, une expérience qui marque les artistes et nourrit leur inspiration. Cinq titres délicats, aux
@@ -25,7 +25,7 @@ poétiques, harmonies chantantes, légèreté teintée de mélancolie douce.
 Leur single « Je te vois partout » s'impose comme un exemple parfait de leur alchimie : pop entraînante, paroles
 directes, production lumineuse qui évoque les grandes heures de la variété française sans jamais s'y enfermer.
 
-##### Une variété nouvelle génération
+###### Une variété nouvelle génération
 
 Avec leur deuxième EP, *Changer, pleurer, rire*, Adèle & Robin franchit une nouvelle étape. Les sonorités se font plus
 modernes, les messages plus affirmés, sans perdre cette douceur et cette sincérité qui font leur charme. Le duo confirme

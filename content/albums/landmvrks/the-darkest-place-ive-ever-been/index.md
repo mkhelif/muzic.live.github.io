@@ -21,7 +21,7 @@ compétences indiscutables et une musique d'une variété rare. Après des album
 et Lost In The Waves (2021), The Darkest Place I've Ever Been, sorti le 25 avril 2025 via Arising Empire, représente la
 plus haute synthèse de l'expression du groupe. Et c'est un chef-d'œuvre.
 
-#### L'enfer selon Dante, version metalcore
+###### L'enfer selon Dante, version metalcore
 
 Onze titres, trente-huit minutes de descente cathartique dans l'abîme du malaise humain. The Darkest Place I've Ever
 Been est un album-concept qui explore la spirale descendante menant à notre moi intérieur, là où résident souvent les
@@ -29,7 +29,7 @@ causes profondes de cette condition. La structure même de la tracklist évoque 
 déclaration d'intentions claire, puis on traverse "Sulfur" pour rencontrer "The Great Unknown" avant de terminer par "
 Deep Inferno", "Requiem" et "Funeral". Choix évocateur, narratif, brillant.
 
-#### Florent Salfati, le caméléon vocal
+###### Florent Salfati, le caméléon vocal
 
 Le travail de Florent Salfati sur cet album est probablement l'un de ses plus brillants. Ce type fait littéralement
 tout - du rap aux gutturaux - de manière terrifiante d'efficacité. Sur "Sulfur" et "Deep Inferno", il déploie une
@@ -45,7 +45,7 @@ Les comparaisons avec feu Chester Bennington de Linkin Park ne sont pas usurpée
 particulièrement dans les moments plus doux, et "The Great Unknown" sonne comme un hymne nu-metal straight-ahead qui
 aurait pu sortir des jours glorieux de Hybrid Theory - chant à la Bennington inclus, sans blague.
 
-#### "La Valse Du Temps" : le sommet émotionnel
+###### "La Valse Du Temps" : le sommet émotionnel
 
 Si on devait pointer un seul titre qui résume le génie de LANDMVRKS, ce serait "La Valse Du Temps". L'inclusion
 surprenante d'un piano capte immédiatement l'attention. Salfati chante de manière obsédante en français sur la mélodie
@@ -61,7 +61,7 @@ between the future and the past / but the present never quite felt right" - sont
 C'est là que littéralement toutes les compétences du groupe se mélangent dans un morceau anthémique mais féroce. Le
 moment définitif de l'album, celui qu'on repassera en boucle.
 
-#### Les collaborations qui élèvent
+###### Les collaborations qui élèvent
 
 "A Line In The Dust" featuring Mat Welsh de While She Sleeps (probablement numéro un dans beaucoup de rotations heavy
 récentes) illustre la capacité de LANDMVRKS à s'entourer stratégiquement. Le featuring enrichit sans éclipser, ajoutant
@@ -72,7 +72,7 @@ le générique.
 naturellement incorporés dans les morceaux. C'est ici que LANDMVRKS se distingue : cette fusion hip-hop/metal qu'ils
 pratiquent depuis le début atteint une fluidité jamais égalée.
 
-#### Une production impeccable
+###### Une production impeccable
 
 La qualité de production sur The Darkest Place I've Ever Been est de premier ordre. Chaque instrument respire, les
 détails musicaux se révèlent à chaque écoute répétée. Les breakdowns sonnent comme de bons breakdowns metalcore
@@ -83,7 +83,7 @@ solides et convaincantes. LANDMVRKS a mûri, resserré son approche, tout en gar
 dans la scène nu-metalcore. L'ambiance idéale pour cet album ? Chiller au skatepark avec les potes, le soleil tapant
 au-dessus. C'est toujours très lourd, mais ça parvient à coller à ce cadre aussi.
 
-#### Le swagger français
+###### Le swagger français
 
 LANDMVRKS possède un swagger unique grâce à la delivery rap de Flo, simplement infectieuse. Le groupe fait partie de
 cette sous-section du nu-metalcore qui aborde les mélodies avec plus de luminosité que d'autres groupes de la scène. Là
@@ -94,7 +94,7 @@ et énergie positive contagieuse.
 conceptuelle. "Funeral" en particulier - à peine trois minutes - fonctionne comme une épitaphe brutale mais nécessaire,
 un dernier souffle avant le silence.
 
-#### Un album qui définit le genre
+###### Un album qui définit le genre
 
 Ce n'est pas une exagération de dire que The Darkest Place I've Ever Been est un "genre defining record". Cet album est
 sur le point d'établir le standard pour le metalcore à venir de la même manière qu'Architects l'a fait à son époque.
@@ -105,7 +105,7 @@ moment, mais jamais brisés. Ils ont créé ce diamant à partir de la pression,
 rafraîchissante et innovante d'un son saturé. Vous aviez perdu foi dans le metalcore ? Ce groupe pourrait bien vous y
 faire croire à nouveau.
 
-#### Les limites du confort metalcore
+###### Les limites du confort metalcore
 
 Soyons honnêtes : certains passages plongent dans le son metalcore moderne générique. Si vous appréciez "A Line In The
 Dust", notez que Guilt Trip fait ce style mieux. Sur les étirements plus mélancoliques, des groupes comme Spiritbox
@@ -116,7 +116,7 @@ Mais ces moments plus faibles sont largement compensés par les sommets atteints
 récentes lackluster d'Architects et Void of Vision qui ont mis le metalcore moderne sous surveillance, LANDMVRKS prouve
 que le genre a encore son mot à dire.
 
-#### Verdict : La révolution française du metal continue
+###### Verdict : La révolution française du metal continue
 
 La scène metal française connaît une révolution. Gojira, ten56., Resolve, Novelists, Rise of the Northstar - autant de
 contributeurs clés à ce succès continu. Mais personne n'y contribue plus que LANDMVRKS de Marseille.

@@ -1,4 +1,4 @@
-{{ $cover := .Resources.Get (.Params.cover | default "cover.jpg") }}
+{{ $cover := .Resources.Get (default "cover.jpg" .Params.cover) }}
 {{ if $cover }}
     <div class="cover position-relative d-flex flex-column align-content-end mb-4">
         <img src="{{ $cover.Permalink | safeURL }}"

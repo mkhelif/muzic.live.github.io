@@ -8,7 +8,7 @@ socials:
   youtube: "@nantuafest4235"
 ---
 
-##### Un cadre naturel exceptionnel
+###### Un cadre naturel exceptionnel
 
 Le Nantuafest s'épanouit dans l'un des écrins naturels les plus spectaculaires de France, au bord du lac et entouré par
 les montagnes à Nantua, dans l'Ain. Cette implantation géographique exceptionnelle offre aux festivaliers une expérience
@@ -17,7 +17,7 @@ massif jurassien, crée une atmosphère particulière qui distingue immédiateme
 traditionnels. Cette symbiose entre nature et culture transforme chaque concert en moment privilégié, où les artistes et
 le public évoluent dans un décor de carte postale qui magnifie chaque performance musicale.
 
-##### Une jeune histoire en construction
+###### Une jeune histoire en construction
 
 Le Nantua Fest un festival de sport et musique qui connaîtra sa quatrième édition les 6, 7 et 8 Juin 2025, témoignant
 d'une progression constante depuis ses débuts. Cette jeune histoire s'inscrit dans une démarche volontariste visant à
@@ -26,7 +26,7 @@ public et développer une identité forte qui attire chaque année davantage de 
 progressivement imposé comme un rendez-vous incontournable du calendrier festivalier régional, prouvant qu'innovation et
 authenticité peuvent parfaitement cohabiter dans l'industrie musicale contemporaine.
 
-##### Une programmation éclectique et ambitieuse
+###### Une programmation éclectique et ambitieuse
 
 La programmation du Nantuafest illustre parfaitement l'ambition artistique de l'événement, avec Dub Inc, Jok'air, Gazo
 et Soolking figurant parmi les têtes d'affiche de l'édition 2025. Cette sélection révèle une volonté claire de proposer
@@ -35,7 +35,7 @@ découverte et confirmation. La diversité stylistique proposée témoigne d'une
 enfermement dans un genre unique, privilégiant la qualité artistique et la diversité des influences. Cette philosophie
 permet au festival de toucher un public large tout en maintenant une cohérence artistique remarquable.
 
-##### Un concept novateur : sport et musique
+###### Un concept novateur : sport et musique
 
 Le Nantuafest se distingue par son approche originale qui combine sport et musique, créant un événement hybride unique
 dans le paysage festivalier français. Cette dimension sportive enrichit l'expérience festivalière en proposant des
@@ -44,7 +44,7 @@ transforme le festival en véritable événement multidisciplinaire, où les fes
 activités sportives dans un cadre idyllique. Cette originalité conceptuelle contribue largement à l'identité unique du
 Nantuafest et à son positionnement distinctif sur le marché festivalier régional.
 
-##### Une montée en puissance remarquable
+###### Une montée en puissance remarquable
 
 Avec 11K Followers sur Instagram et 6,148 likes sur Facebook, le Nantuafest témoigne d'une popularité croissante qui
 confirme sa trajectoire ascendante. Cette reconnaissance numérique reflète l'engouement grandissant du public pour cet
@@ -53,7 +53,7 @@ capacité à toucher un public jeune et connecté, essentiel pour assurer la pé
 positive sur les réseaux sociaux contribue significativement à la notoriété grandissante du festival et à son
 rayonnement au-delà des frontières régionales.
 
-##### Un projet de territoire ambitieux
+###### Un projet de territoire ambitieux
 
 Le Nantuafest s'inscrit dans une démarche territoriale volontariste qui vise à promouvoir la musique dans un cadre
 naturel exceptionnel tout en contribuant au développement économique et culturel de la région. Cette dimension
@@ -63,7 +63,7 @@ méconnue, révélant les atouts naturels et culturels de l'Ain à un public nat
 culturel et développement territorial illustre parfaitement la capacité des festivals à devenir de véritables
 catalyseurs de dynamisme local.
 
-##### Perspectives d'avenir prometteuses
+###### Perspectives d'avenir prometteuses
 
 Avec sa programmation 2025 déjà annoncée et l'édition 2026 fixée aux 22 · 23 · 24 mai 2026, le Nantuafest démontre sa
 capacité de projection et sa volonté de s'inscrire durablement dans le paysage festivalier français. Cette visibilité à

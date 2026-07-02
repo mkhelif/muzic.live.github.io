@@ -36,7 +36,7 @@ of Rock, prouvant que ses talents ne se limitent pas à la guitare mais s'étend
 premières expériences professionnelles, vécues alors qu'il est encore enfant, forgent sa confiance scénique et sa
 capacité à gérer la pression des performances live devant des audiences exigeantes.
 
-#### Carrière musicale
+###### Carrière musicale
 
 La reconnaissance professionnelle arrive rapidement quand Toby Lee devient artiste Gibson à l'âge de dix ans, honneur
 exceptionnel qui témoigne de la reconnaissance de son talent par l'industrie musicale. Cette association avec l'une des
@@ -70,7 +70,7 @@ de Young Blues Artist of the Year, reconnaissance sans précédent qui confirme 
 Ses tournées intensives, dépassant les 110 shows en 2024, démontrent une éthique de travail exceptionnelle et une
 passion pour la performance live qui dépasse largement les simples considérations commerciales.
 
-#### Style et influences
+###### Style et influences
 
 Toby Lee est décrit comme "the real deal - un guitariste époustouflant avec une voix assortie", synthèse parfaite de son
 talent multidimensionnel. Son jeu guitaristique puise profondément dans les traditions du blues britannique et
@@ -99,7 +99,7 @@ fonctionnent aussi bien en contexte blues traditionnel qu'en environnement rock 
 stylistique, rare chez un artiste aussi jeune, suggère un avenir où Toby Lee pourra explorer de nombreux territoires
 musicaux tout en conservant son identité blues-rock fondamentale.
 
-#### Actualité
+###### Actualité
 
 À seulement dix-neuf ans en 2024, Toby Lee a déjà accompli plus que la plupart des musiciens en une carrière entière.
 Ses 350 millions de vues sur YouTube témoignent d'une popularité globale exceptionnelle qui transcende largement les

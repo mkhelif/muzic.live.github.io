@@ -11,7 +11,7 @@ alors adolescents, aux côtés du chanteur Wojciech « Sauron » Wąsowicz et du
 Rygiel. Formés dès l'enfance à la précision et à la vitesse, les deux frères fondent un groupe dont
 la technique instrumentale stupéfie rapidement la scène metal internationale.
 
-##### Une ascension foudroyante
+###### Une ascension foudroyante
 
 Après deux démos (*Cemeterial Gardens*, 1997 ; *The Eye of Horus*, 1998), Decapitated signe chez
 Wicked World (filiale d'Earache Records) et publie *Winds of Creation* (2000) à moins de seize ans de
@@ -19,7 +19,7 @@ moyenne d'âge. Le disque fait l'effet d'une bombe : le death metal technique po
 légende. *Nihility* (2002) et *The Negation* (2004) confirment une trajectoire sans faille, asseyant
 la réputation du groupe comme l'une des formations les plus redoutables du death metal mondial.
 
-##### Deuil et renaissance
+###### Deuil et renaissance
 
 En novembre 2007, un accident de bus en Russie tue Vitek, dix-neuf ans, et blesse grièvement les autres
 membres. Vogg met le groupe entre parenthèses, avant de le reformer en 2009 avec une nouvelle

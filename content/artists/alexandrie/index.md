@@ -11,7 +11,7 @@ Antoine Passard officiait comme batteur au sein du groupe Bigger, mais c'est der
 ses logiciels de composition qu'il a trouvé sa vraie voix — cinq années de travail solitaire à explorer
 les possibilités du synthétiseur et du studio maison, qui ont abouti à un premier EP intitulé *Loin*.
 
-##### Une électro-pop au parfum de vacances
+###### Une électro-pop au parfum de vacances
 
 La musique d'Alexandrie évoque d'emblée le soleil, la légèreté et l'insouciance des fins d'été. Synthés
 chaleureux, rythmiques aérées et chant en français déposé avec douceur : le duo revendique l'héritage

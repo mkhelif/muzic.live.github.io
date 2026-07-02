@@ -9,21 +9,21 @@ cadet » en langue Twi. Son histoire est l'une des plus singulières et des plus
 contemporaine : celle d'un artiste dont la musique a été ignorée pendant vingt-cinq ans avant de devenir un phénomène de
 culte mondial.
 
-##### Une vie entre Kumasi et Toronto
+###### Une vie entre Kumasi et Toronto
 
 Forcé de quitter le Ghana en 1985 en raison des coups d'État militaires et de l'instabilité politique, Ata Kak
 s'installe au Canada, à Toronto. Son entrée dans la musique tient du hasard : rencontré par hasard à la poste, il ment
 en déclarant savoir jouer de la batterie, rejoint un groupe de covers et apprend sur le tas. À Toronto, il intègre
 Marijata, un groupe ghanéen de highlife-reggae, découvrant un genre avec lequel il n'avait jusque-là aucune familiarité.
 
-##### Obaa Sima, l'album qui dormait
+###### Obaa Sima, l'album qui dormait
 
 En 1994, toujours à Toronto, Ata Kak enregistre dans son propre studio l'album *Obaa Sima* (qui signifie « bonne femme »
 ou « femme distinguée » en Twi). C'est un objet sonore inclassable : highlife électronique, electro-funk, hip-hop, raps
 improvisés en Twi — il avait essayé de rapper en anglais, mais son flow ne s'y prêtait pas. Le résultat, pressé à
 seulement 50 exemplaires, ne se vend qu'à trois copies. L'album sombre dans l'oubli.
 
-##### La redécouverte et la gloire inattendue
+###### La redécouverte et la gloire inattendue
 
 Des années plus tard, Brian Shimkovitz, fondateur du blog et label *Awesome Tapes From Africa*, achète une cassette
 d'*Obaa Sima* sur un marché au Ghana. Subjugué, il publie l'album en ligne en 2012. La musique se diffuse viralement :

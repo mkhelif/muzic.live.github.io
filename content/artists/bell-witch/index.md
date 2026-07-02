@@ -12,7 +12,7 @@ guitare — et par une approche compositionnelle qui tend vers l'épique et le m
 pouvant atteindre des durées extraordinaires. Bell Witch est aujourd'hui considéré comme l'un des groupes les
 plus importants et les plus originaux de la scène doom moderne.
 
-##### Une formation hors normes
+###### Une formation hors normes
 
 Bell Witch est fondé par le bassiste et chanteur Dylan Desmond et le batteur Adrian Guerra, tous deux anciens
 membres d'un groupe de stoner instrumental appelé Lethe. Le choix de se passer de guitare électrique est
@@ -25,7 +25,7 @@ décuple l'impact émotionnel de la musique. Les lignes de basse de Desmond sont
 tandis que la batterie de Guerra crée des structures rythmiques complexes et hypnotiques. Ensemble, ils
 explorent un doom funèbre, contemplatif, chargé d'une tristesse profonde et digne.
 
-##### Une trajectoire marquée par la perte
+###### Une trajectoire marquée par la perte
 
 La carrière de Bell Witch est indissociable du deuil. Les premiers albums du groupe — *Longing* (2012) et
 *Four Phantoms* (2015) — établissent leur réputation dans la scène doom underground, mais c'est un événement
@@ -41,7 +41,7 @@ place Bell Witch au premier rang des groupes de metal extrême de leur générat
 Moggridge d'Aerial Ruin, qui apporte sa voix spectrale dans la seconde moitié de l'œuvre, ajoute encore
 à la dimension cathartique de l'album.
 
-##### Collaboration et continuité
+###### Collaboration et continuité
 
 La relation avec Aerial Ruin s'officialise avec *Stygian Bough Volume I* (2020), album co-signé par les deux
 entités. Cette collaboration est le prolongement naturel d'une amitié artistique et d'une communauté de

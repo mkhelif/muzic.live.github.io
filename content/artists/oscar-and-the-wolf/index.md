@@ -28,7 +28,7 @@ Le succès du projet, particulièrement marqué en Belgique et aux Pays-Bas mais
 internationale, témoigne de l'appétit du public pour une pop électronique qui refuse la facilité, privilégiant la
 profondeur émotionnelle et la sophistication sonore sur les formules éprouvées de la pop commerciale standardisée.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Les débuts d'Oscar and the Wolf remontent à 2010 lorsque Max Colombie commence à composer et produire des morceaux dans
 sa chambre, expérimentant avec des synthétiseurs et des boîtes à rythmes pour créer l'atmosphère qu'il recherche. Les
@@ -54,7 +54,7 @@ producteurs internationaux apportent une dimension supplémentaire aux productio
 sonore reconnaissable du projet. Les tournées qui suivent chaque sortie d'album voient Oscar and the Wolf se produire
 dans des festivals majeurs européens, élargissant constamment son audience.
 
-##### Style et influences
+###### Style et influences
 
 Le style d'Oscar and the Wolf puise dans un large spectre de la musique électronique contemporaine, avec des influences
 manifestes de la synthpop des années 1980 réinterprétée à travers un prisme moderne. Les productions privilégient les
@@ -80,7 +80,7 @@ vision artistique exigeante, ouvrant la voie à d'autres artistes de la région.
 l'expression émotionnelle, fluide et non-conformiste, résonne particulièrement auprès d'une génération qui questionne
 les normes traditionnelles.
 
-##### Actualité
+###### Actualité
 
 Oscar and the Wolf poursuit aujourd'hui une carrière internationale en expansion, se produisant régulièrement dans les
 festivals européens et développant progressivement une audience au-delà du continent. Ses concerts, expériences

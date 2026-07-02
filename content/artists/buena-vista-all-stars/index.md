@@ -15,7 +15,7 @@ directement au cœur de La Havane. Avec 67 dates jouées à guichets fermés sur
 continents (Europe, Amériques, Asie et Moyen-Orient), l'orchestre a fait vivre cet héritage musical bien au-delà de
 Cuba.
 
-##### Una Noche en La Habana
+###### Una Noche en La Habana
 
 Leur dernier album, "Una Noche en La Habana", célèbre l'esprit intemporel de la musique cubaine à travers de nouveaux
 enregistrements studio et des prestations live électrisantes. On y retrouve des classiques incontournables comme "Chan

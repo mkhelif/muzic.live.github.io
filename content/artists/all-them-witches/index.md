@@ -13,7 +13,7 @@ emprunté au livre All of Them Witches qui apparaît dans le film Rosemary's Bab
 univers ancré dans l'atmosphère et l'occulte. La formation réunit le chanteur et multi-instrumentiste Charles
 Michael Parks Jr., le guitariste Ben McLeod et le claviériste Allan Van Cleave.
 
-##### Une musique qui brûle lentement
+###### Une musique qui brûle lentement
 
 All Them Witches puisent dans le blues électrique des profondeurs — Junior Kimbrough, Blue Cheer, Black Sabbath —
 pour construire un rock psychédélique et stoner, hypnotique et organique. Leurs compositions refusent la rapidité et
@@ -25,7 +25,7 @@ Leur premier album, Our Mother Electricity (2012), autoproduit, est un coup de f
 dans une cabane de montagne du Tennessee que le groupe enregistre Dying Surfer Meets His Maker (2015), qui marque
 leur arrivée chez New West Records et reste l'un de leurs albums les plus acclamés.
 
-##### Une discographie cohérente
+###### Une discographie cohérente
 
 Sleeping Through the War (2017), ATW (2018) et Nothing as the Ideal (2020) confirment qu'All Them Witches est un
 groupe en perpétuelle exploration, capable de surprendre à chaque disque sans jamais trahir son identité. En 2026,

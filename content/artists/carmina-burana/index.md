@@ -10,7 +10,7 @@ XXe siècle. Composée par le musicien allemand Carl Orff entre 1935 et 1936 et 
 cette cantate scénique s'appuie sur vingt-quatre poèmes tirés d'une collection médiévale du même nom, découverte au
 monastère de Benediktbeuern en Bavière.
 
-##### Une cantate née des poèmes du Moyen Âge
+###### Une cantate née des poèmes du Moyen Âge
 
 Son titre complet — Carmina Burana : Cantiones profanae cantoribus et choris cantandae comitantibus instrumentis
 atque imaginibus magicis, soit « Chants de Beuern : chants profanes pour chanteurs et chœurs, à interpréter avec
@@ -22,7 +22,7 @@ L'œuvre s'ouvre et se ferme sur le chœur « O Fortuna », un morceau d'une pui
 grandes vagues orchestrales et chorales en ont fait l'une des pages musicales les plus reconnaissables au monde, en
 dehors même des salles de concert.
 
-##### Un langage musical radicalement nouveau
+###### Un langage musical radicalement nouveau
 
 Carl Orff rompt avec la complexité harmonique de ses contemporains comme Bartók ou Stravinsky pour revenir à une
 musique de l'essentiel : rythme martelé, mélodie directe, chant syllabique proche du langage parlé. Cette

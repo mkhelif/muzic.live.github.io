@@ -14,7 +14,7 @@ beats, à chasser des samples et à affûter ses mixs dans l'ombre des cours. À
 club, souvent accompagné de son père. À 15 ans, il signe son premier titre sur Kaleidoscope Records, une signature qui
 ouvre la voie à de nombreuses collaborations sur des labels variés.
 
-##### Une ascension foudroyante
+###### Une ascension foudroyante
 
 À 16 ans, il abandonne tout projet d'études supérieures pour se consacrer pleinement à la musique. Signé par l'agence
 TELETECH, il entame des tournées internationales et joue dans des clubs phares comme l'OST à Berlin ou le Blackstone

@@ -10,7 +10,7 @@ la chanteuse et guitariste Celia Marie. Ce geste aussi simple qu'audacieux provo
 groupe se forme autour d'elle, réunissant Valentine Morell (guitare lead), Elise Roy (basse), Thomas Lacaze
 (guitare rythmique) et Titouan (batterie).
 
-##### Une naissance romanesque
+###### Une naissance romanesque
 
 L'histoire de Chéri Chéri tient du roman : une musicienne plante une affiche dans la rue, cinq inconnus se
 retrouvent, et naît un groupe qui revendique haut et fort l'esprit du rock'n'roll classique sans nostalgie
@@ -21,7 +21,7 @@ Pour enregistrer leur premier EP, Chéri Chéri traverse la Manche et pose ses v
 avec Gordon Raphael, producteur historique des Strokes. Ce choix dit beaucoup de leurs ambitions et de leurs
 références : un rock direct, rythmique, habité, qui n'a pas peur de la mélodie ni de la puissance.
 
-##### Rock parisien aux accents universels
+###### Rock parisien aux accents universels
 
 Le groupe se produit régulièrement à Paris — aux Disquaires et dans d'autres salles emblématiques de la scène
 indie — et commence à tourner au-delà des frontières françaises. Leur son évoque les grandes formations rock

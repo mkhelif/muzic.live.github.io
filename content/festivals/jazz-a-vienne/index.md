@@ -19,7 +19,7 @@ de Lyon, transforme son **théâtre antique romain** en l'une des plus prestigie
 unique, une programmation exigeante et une ferveur populaire qui, depuis plus de quarante ans, font de ce rendez-vous
 un moment à part dans l'été musical français.
 
-## Un rêve né dans les pierres romaines
+###### Un rêve né dans les pierres romaines
 
 En 1980, ils sont cinq à imaginer faire résonner des notes bleues dans le théâtre antique de Vienne : **Jean-Paul
 Boutellier**, âme du projet, entouré de Jean Gueffier, Pierre Domeyne, Jean-Pierre Vignola et de l'Américain **George
@@ -27,7 +27,7 @@ Wein**, légendaire fondateur du festival de Newport. La première édition se t
 bonne : le mariage entre l'acoustique et la majesté du monument — construit entre 40 et 50 après J.-C., l'un des plus
 grands théâtres de la Gaule romaine — et la musique afro-américaine fait immédiatement mouche.
 
-## Le Théâtre antique, écrin légendaire
+###### Le Théâtre antique, écrin légendaire
 
 Avec sa capacité d'environ **7 500 places**, le théâtre antique est devenu le symbole du festival. Chaque soir des deux
 premières semaines de juillet, il accueille les grands concerts sous les étoiles, dans une atmosphère que tous les
@@ -35,7 +35,7 @@ musiciens décrivent comme incomparable. Les plus grands noms du jazz s'y sont s
 Sonny Rollins, Stan Getz, Lionel Hampton, Michel Petrucciani** et tant d'autres ont gravé leur nom dans la longue
 histoire du lieu, faisant de la scène viennoise un passage quasi obligé pour la fine fleur du jazz mondial.
 
-## Bien plus qu'une programmation de prestige
+###### Bien plus qu'une programmation de prestige
 
 Si le théâtre antique en est le cœur, Jazz à Vienne, c'est aussi tout un écosystème. Autour des concerts payants
 gravitent de nombreuses **scènes gratuites** — au Jardin de Cybèle, en ville, sur les places — qui font vivre le
@@ -44,7 +44,7 @@ près d'un millier d'artistes qui se produisent sur l'ensemble des scènes, deva
 festival cultive aussi une ouverture assumée : soul, funk, blues, musiques du monde et jeunes talents y côtoient le
 jazz dans toutes ses déclinaisons.
 
-## Une institution vivante
+###### Une institution vivante
 
 Porté par un ancrage territorial fort et un public fidèle, transmis de génération en génération, Jazz à Vienne s'est
 imposé comme l'un des plus importants festivals de jazz d'Europe et un acteur majeur de la vie culturelle de la région.

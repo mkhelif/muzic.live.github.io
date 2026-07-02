@@ -21,7 +21,7 @@ presse spécialisée pour décrire Juste Shani — et elle ne vieillit pas. Parc
 qui rend cette rappeuse de l'Essonne si difficile à ignorer : elle ne rentre dans aucune case, et c'est précisément ce
 qui fait sa force.
 
-## Wissous, l'Essonne, les livres et le ballon
+###### Wissous, l'Essonne, les livres et le ballon
 
 Née à Wissous dans l'Essonne, d'origine congolaise et sénégalaise, Juste Shani écrit ses premiers textes dès l'enfance,
 passionnée de lecture et d'écriture. Elle s'inspire d'abord des chansons américaines R'n'B de l'époque avant de
@@ -36,7 +36,7 @@ explore la danse hip hop, le chant, le football — à l'ACP 15, club parisien �
 Mic. Pendant trois ans, Juste Shani mène la vie d'Hannah Montana — directrice acquisition dans une entreprise le jour,
 rappeuse en construction la nuit. Jusqu'à ce que la balance finisse par pencher irréversiblement d'un seul côté.
 
-## Le déclic : *Sélection Féminine*
+###### Le déclic : *Sélection Féminine*
 
 En 2019, pour le Mondial féminin, Juste Shani sort *Sélection Féminine*, un titre de motivation à destination des
 Bleues, à la sauce afro-trap. Le morceau circule, parle, convainc. C'est le déclic : elle s'impose ensuite avec *Dimelo*
@@ -45,7 +45,7 @@ comme l'une des nouvelles rappeuses émergentes.
 *Dimelo*, sorti en 2021, est le titre qui installe son nom durablement. Elle le défend aux Solidays, au Lollapalooza et
 sur d'autres festivals de l'hexagone. Le titre dépasse les 100 000 streams en quelques semaines. La machine est lancée.
 
-## Une accumulation de victoires méritées
+###### Une accumulation de victoires méritées
 
 En 2021, Juste Shani assure la première partie d'IAM à l'Olympia, soutenue par RIFFX by Crédit Mutuel. En 2022, elle est
 lauréate Rappeuses en Liberté, dispositif d'accompagnement dédié aux rappeuses, puis gagnante de la tournée RADAR —
@@ -57,7 +57,7 @@ Ce palmarès n'est pas décoratif. Chaque victoire correspond à une étape conc
 réseau, une nouvelle légitimité arrachée dans un milieu qui n'offre pas grand-chose aux femmes qui débarquent sans
 maison de disques ni coup de pouce de l'industrie.
 
-## Un son qui refuse les cases
+###### Un son qui refuse les cases
 
 Musicalement, Shani ne se laisse enfermer dans aucun carcan : toplines chantées, flows serrés, beats trap, touches afro.
 Elle jongle, hybride, casse les codes. C'est ce mélange qui fait sa singularité.
@@ -67,7 +67,7 @@ B américain, qui réinventent les codes et imposent leur jeu sur la scène mond
 d'importation — elle est profondément française, profondément de son époque, profondément personnelle dans ce qu'elle
 raconte.
 
-## *Nuits Blanches* et *Diamant Noir* : la maturité en deux actes
+###### *Nuits Blanches* et *Diamant Noir* : la maturité en deux actes
 
 **Nuits Blanches** (EP, avril 2024) — Une immersion dans un monde de quêtes et d'énergies, une voix douce qui chante du
 rap dur et raconte de belles histoires. Exploration des insomnies modernes, des amours contrariés, de la solitude
@@ -85,7 +85,7 @@ l'angoisse de l'instant manqué en hymne générationnel. Là où le FOMO étouf
 Shani le transforme en confession et en résistance. Le titre lui vaut une reconnaissance accrue, notamment après qu'un
 extrait de freestyle partagé par Booba sur X relance l'attention médiatique autour de son nom.
 
-## Sur scène : l'espace habité
+###### Sur scène : l'espace habité
 
 Quand elle entre sur scène, Juste Shani ne cherche pas à dominer l'espace : elle l'habite. Son flow, grave et limpide,
 vient se poser sur la musique comme une évidence. Elle rappe sans forcer, sans posture, mais avec une intensité
@@ -95,7 +95,7 @@ Sur scène, son énergie et son magnétisme naturel ont conquis le public en pre
 Solidays 2022, au Lollapalooza 2022, aux Ardentes 2023, à la Fête de l'Huma 2023. Une trajectoire qui trace une ligne
 claire : celle d'une artiste qui grandit concert après concert, sans raccourci.
 
-## Ce qu'elle dit du rap, de l'industrie et d'elle-même
+###### Ce qu'elle dit du rap, de l'industrie et d'elle-même
 
 Consciencieuse et douée d'un véritable sens des affaires, Juste Shani confie après quelques mésaventures avec des labels
 concernant la propriété intellectuelle : « Je suis limite contente que cela me soit arrivée. Aujourd'hui, les maisons de

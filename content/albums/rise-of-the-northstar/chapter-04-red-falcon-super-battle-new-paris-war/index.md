@@ -21,7 +21,7 @@ du 17ème, Vitia (chant), Eva-B (guitare lead), Air One (guitare), Yoru (basse) 
 04: Red Falcon Super Battle! Neo Paris War!!, sorti le 14 novembre 2025 via leur propre label Kuromaku Corp. Et une
 fois de plus, ils défient toutes les perceptions et attentes.
 
-#### L'ère du Mecha Falcon
+###### L'ère du Mecha Falcon
 
 "Avec ce quatrième album, on a essayé de surprendre notre public tout en restant fidèle à notre ADN, en apportant
 quelque chose de nouveau sans crucifier l'ancien. L'ère de Shogun No Shi est terminée, bienvenue au super Mecha Falcon,
@@ -33,7 +33,7 @@ modernisant son approche. Du titre d'album impossible à prononcer à l'esthéti
 doit beaucoup aux franchises anime modernes comme Neon Genesis Evangelion et Demon Slayer. Pourtant, la musicalité reste
 essentiellement Madball et Sick Of It All.
 
-#### Une intro qui plante le décor
+###### Une intro qui plante le décor
 
 "Turbo-Intro" démarre avec un sample assez calme - le calme avant la tempête. Puis "Payback" prend la tête avec des
 riffs modernes et groovy, et l'assaut vocal au phrasé toujours ancré dans le rap de Vitia qui n'hésite pas à s'entourer
@@ -44,7 +44,7 @@ fera sûrement des ravages en live, notamment sur sa mosh part simple mais déva
 peu plus aériens mais accessibles. C'est ce morceau qui a largement dépassé le million de streams, posant les bases pour
 les highlights de l'album.
 
-#### "Falcon" : le banger ultra-rapide
+###### "Falcon" : le banger ultra-rapide
 
 Le single "Falcon" semble être le genre de banger qu'un ado de 15 ans pourrait écrire avec le bénéfice d'un gros budget
 et de décennies d'expérience accumulée. À son meilleur blockhead, c'est brillant. Ultra-rapide, énergique, infectieux -
@@ -54,7 +54,7 @@ Rise Of The NorthStar parsème ses morceaux de langue française et des styles h
 reste le plus remarquable, c'est ce clash entre culture pop japonaise nerdy et hardcore new-yorkais obstiné. Cette
 formule aurait pu s'essouffler après 17 ans - elle ne fait que s'affiner.
 
-#### Les collaborations qui comptent
+###### Les collaborations qui comptent
 
 L'album présente deux invités, tous deux grands noms de la scène metal moderne. D'abord, LANDMVRKS featuring sur le
 stompy "Back 2 Basics", une infusion hardcore qui mélange old school et new school avec brio. C'est enregistré entre le
@@ -64,7 +64,7 @@ sur le titre). L'énergie française s'entrechoque dans une célébration de la 
 Plus tard, Aaron Matts de ten56. apparaît sur le bestial "Nemesis". Les deux invités font une différence et se sentent
 intégraux aux morceaux plutôt que simplement une partie. Les deux titres sont vraiment badass.
 
-#### Le son modernisé
+###### Le son modernisé
 
 "Cet album, comparé aux plus anciens, on l'a fait sonner vraiment moderne. Il y a plus de gamme, plus de hip hop/urbain.
 C'est un gros mix", explique Eva-B. Une chose incroyable : le groupe a changé quelques gars dans la formation il y a
@@ -74,7 +74,7 @@ beats sur cet album.
 Il y a aussi de vrais scratchs - rien qui vienne d'un ordinateur. C'est vraiment cool. Cette touche authentique hip-hop
 élève l'ensemble au-delà du simple metalcore avec quelques vocaux rap. C'est une fusion véritable, organique, assumée.
 
-#### La puissance de l'écriture d'Eva-B
+###### La puissance de l'écriture d'Eva-B
 
 Eva-B écrit la plupart des morceaux de Rise Of The NorthStar, donc l'arrivée des nouveaux membres n'a pas changé
 grand-chose structurellement. Mais Yoru a ajouté des beats, Phantom a apporté ses propres sentiments aux parties de
@@ -85,7 +85,7 @@ Cette philosophie transparaît : *Chapter 04* sonne comme un album fait par des 
 à comment les gens vont réagir - il y a des breakdowns et ce genre de trucs, ils savent comment les gens vont réagir,
 donc ils doivent faire les bons et les rendre pas trop génériques.
 
-#### La tracklist qui balance
+###### La tracklist qui balance
 
 "Pressure", "A.I.R. Max", "No Turning Back", "Desolation Hawk" - autant de titres qui prouvent que Rise Of The NorthStar
 sait exactement ce qu'il fait. Ce n'est pas révolutionnaire, surtout selon les standards du groupe. Mais c'est jouissif.
@@ -95,7 +95,7 @@ On tire un vrai plaisir de leur collection de riffs accrocheurs, beats cognants 
 Desolation Hawk" délivre ce bottom-end sismique qui clôture l'album avec la puissance nécessaire. Puis "75 Outro" offre
 un apaisement de 75 secondes qui ramène doucement à la réalité après quarante minutes d'assaut.
 
-#### La scène française en pleine forme
+###### La scène française en pleine forme
 
 La musique heavy française est en pleine charge en ce moment. Des jeunes loups comme LANDMVRKS et Novelists, aux
 tout-conquérants Gojira et Alcest, il n'y a jamais eu de meilleur moment pour les fans de headbanging avec flair
@@ -104,7 +104,7 @@ gaulois. Rise Of The NorthStar s'inscrit parfaitement dans ce mouvement tout en 
 Le groupe opère selon ses propres termes bizarres. Et il est d'autant plus intéressant pour cela. Pour tous leurs hauts
 et bas, ROTN reste un groupe qui défie, même si ce n'est pas leur sortie la plus expérimentale.
 
-#### Le bilan : plus de feu que de flou
+###### Le bilan : plus de feu que de flou
 
 Sur la balance, il y a beaucoup plus de feu que de flou sur *Chapter 04*. Du swagger français de "Back 2 Basics" au
 bottom-end sismique de "Desolation Hawk" en passant par l'apaisant "75 Outro", c'est un rappel que ROTN reste un groupe
@@ -115,7 +115,7 @@ apprécier des titres comme "Pressure", "A.I.R. Max", "No Turning Back" et "Deso
 prétendre qu'on entend quoi que ce soit de révolutionnaire. Mais on ne va pas non plus prétendre qu'on ne tire pas un
 kik de leur collection de riffs accrocheurs, beats cognants et vocaux in-your-face.
 
-#### Verdict : Rise Of The NorthStar s'émancipe
+###### Verdict : Rise Of The NorthStar s'émancipe
 
 Avec ce nouvel album, Rise Of The NorthStar s'émancipe, faisant de *Chapter 04: Red Falcon Super Battle! Neo Paris
 War!!* une façon d'assumer son statut d'électron libre entre Hardcore, Rap et Groove Metal, mais aussi une véritable

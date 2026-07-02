@@ -13,7 +13,7 @@ Amoureux du hip-hop, du rock et de la culture électronique, les membres de BIG 
 plus positive que ce qui est généralement proposé, en mélangeant plusieurs styles musicaux pour créer une fraîcheur qui
 leur est propre.
 
-##### Une place sur la scène des musiques métissées
+###### Une place sur la scène des musiques métissées
 
 Depuis 2015, le groupe s'est produit aux côtés de formations comme Deluxe, General Elektriks ou Stuck In The Sounds,
 s'imposant peu à peu comme l'un des représentants de la scène des musiques métissées et urbaines lyonnaise. Leur second

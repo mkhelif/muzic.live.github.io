@@ -23,7 +23,7 @@ Son parcours témoigne de la vitalité d'une tradition qui refuse de se fossilis
 chaque génération. Nino Baliardo représente cette nouvelle garde qui honore ses racines tout en regardant vers l'avenir,
 portant avec fierté un nom devenu synonyme d'excellence dans le monde de la guitare flamenca.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière de Nino Baliardo débute naturellement au sein de l'univers des Gipsy Kings, où il accompagne son père lors
 de concerts et d'enregistrements. Cette proximité avec l'un des groupes de rumba flamenca les plus célèbres au monde
@@ -45,7 +45,7 @@ Son parcours illustre parfaitement comment un musicien peut honorer un héritage
 construisant sa propre identité artistique, prouvant que la transmission ne signifie pas la simple répétition mais bien
 la continuation vivante d'une tradition en perpétuelle évolution.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Nino Baliardo s'ancre fermement dans la tradition de la rumba flamenca, ce genre hybride né dans les
 quartiers gitans de Catalogne qui fusionne les rythmes flamencos avec des influences de rumba cubaine et de musique
@@ -67,7 +67,7 @@ L'impact de Nino Baliardo s'inscrit dans la continuité du travail accompli par 
 flamenca à l'échelle mondiale. En perpétuant cette tradition avec talent et respect, il contribue à maintenir vivant un
 patrimoine musical précieux tout en démontrant sa capacité à évoluer avec son temps.
 
-##### Actualité
+###### Actualité
 
 Nino Baliardo poursuit aujourd'hui sa carrière en multipliant les projets et les collaborations, participant à des
 festivals de musique flamenca et de world music à travers le monde. Sa présence scénique demeure un témoignage vivant de

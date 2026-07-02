@@ -13,7 +13,7 @@ Son parcours artistique commence pendant la pandémie de COVID-19, période dura
 produire ses propres chansons. Ce cheminement l'a menée de Paris à la Côte d'Ivoire, en passant par l'Espagne, la
 Belgique et les États-Unis, un itinéraire qui nourrit sa musique d'influences culturelles multiples.
 
-##### Une trap digitale et contrastée
+###### Une trap digitale et contrastée
 
 En 2024, elle dévoile son premier EP, "Je pleure en dansant", un projet qui reflète parfaitement son univers fait
 d'émotions contrastées. Adés The Planet y affirme un style de trap digitale à la croisée des genres, porté par une

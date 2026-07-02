@@ -26,7 +26,7 @@ européens, une signature chez Mascot Records. Le virage professionnel qu'ils at
 Get Better arrive donc avec une pression considérable : confirmer que Storm Orchestra peut porter le flambeau du rock
 alternatif français à l'international. Spoiler : ils y arrivent.
 
-#### Une palette alt-rock maîtrisée
+###### Une palette alt-rock maîtrisée
 
 L'album s'ouvre sur "Bright Soul", fusion de synth-rock et de mélodies accrocheuses. Les couplets mid-tempo cèdent la
 place à des refrains énergiques - formule classique mais efficace. Le seul reproche : le solo instrumental vers la fin
@@ -36,14 +36,14 @@ Puis arrive "Drummer", le hit qui a tout changé. Impossible d'y échapper : ce 
 C'est du rock formaté pour les playlists Spotify ? Peut-être. Est-ce que ça fonctionne ? Absolument. Le trio maîtrise
 l'art du hook anthémique sans sombrer dans la facilité radiophonique.
 
-#### Les collaborations qui comptent
+###### Les collaborations qui comptent
 
 Storm Orchestra a invité deux poids lourds pour étoffer leur son : Chunk! No, Captain Chunk! sur "Crush The Mirrors" et
 JJ Wilde sur "Désolé". Ces featuring auraient pu sonner opportunistes - ils enrichissent au contraire la dimension
 internationale du disque. "Crush The Mirrors" injecte une dose de metalcore français dans la formule, tandis que "
 Désolé" (en français dans le texte) apporte une vulnérabilité bienvenue.
 
-#### L'art du contraste
+###### L'art du contraste
 
 Ce qui impressionne sur Get Better, c'est la capacité du trio à varier les atmosphères sans perdre en cohérence. 
 "Superplayer" s'appuie massivement sur les synthés, "Cut Loose, Somehow" déploie un rock rapide et nerveux. Ces ruptures
@@ -53,7 +53,7 @@ La seconde moitié de l'album adopte une structure récurrente : démarrage lent
 pourrait lasser, mais Storm Orchestra brise le pattern avant qu'il ne devienne prévisible. "This Game" attaque
 directement à haute vitesse avant de ralentir, "Get Back In Time" verse dans le grunge-rock assumé.
 
-#### "Trash The Room" : le statement final
+###### "Trash The Room" : le statement final
 
 La clôture de l'album mérite qu'on s'y attarde. "Trash The Room" ne dure qu'une minute dix-neuf - le morceau le plus
 court du disque. C'est aussi le plus lourd, une incursion hardcore qui surprend par sa brutalité. Le chant scandé "
@@ -63,7 +63,7 @@ case.
 Ce titre final subvertit toutes les attentes. Après onze morceaux d'alt-rock calibré, le groupe balance un uppercut qui
 rappelle qu'ils viennent de la scène underground parisienne, pas d'une usine à tubes aseptisés.
 
-#### Les limites techniques
+###### Les limites techniques
 
 Get Better n'est pas exempt de défauts. La production souffre parfois d'un mixage confus où les instruments noient les
 voix. Certains morceaux comme "Our Victory" sonnent formulaiques, écrasés par la qualité des titres adjacents. Mais ces
@@ -72,7 +72,7 @@ faiblesses restent mineures face à l'énergie globale.
 On sent que le trio s'amuse, qu'il vit pleinement ce moment d'explosion. Cette joie transpire dans chaque mesure,
 transformant les quelques approximations techniques en marques d'authenticité plutôt qu'en défauts rédhibitoires.
 
-#### Verdict : La confirmation tant attendue
+###### Verdict : La confirmation tant attendue
 
 Si "Drummer" était leur hit, Get Better est l'album qui les propulse au niveau supérieur. Storm Orchestra fait ce que
 peu de groupes français osent : assumer un rock alternatif moderne, tourné vers l'international, sans renier leurs

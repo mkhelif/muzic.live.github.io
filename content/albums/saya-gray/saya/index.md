@@ -25,7 +25,7 @@ espace raréfié et invite tout le monde à entrer.
 SAYA, sorti le 21 février 2025 via Dirty Hit, est son premier album complet. Trente-neuf minutes qui tracent une ligne
 définitive entre son passé musical et son avenir. Et c'est magnifique.
 
-#### Le voyage qui change tout
+###### Le voyage qui change tout
 
 SAYA est né "après la dissolution d'un enchevêtrement romantique troublé", selon les notes de pochette. À l'automne
 2023, Gray a réservé un vol pour le Japon, le pays natal de sa mère. Comme une protagoniste de film feel-good, elle
@@ -37,7 +37,7 @@ Mitchell, Gray a poncé et affiné les bords rugueux de ses précédents disques
 mélodique. Le résultat ? Un album profondément personnel qui combine des textures soniques folk, pop et avant-garde avec
 une nouvelle clarté émotionnelle.
 
-#### L'ouverture d'un cœur brisé
+###### L'ouverture d'un cœur brisé
 
 "..THUS IS WHY ( I DON'T SPRING 4 LOVE )" ouvre l'album avec une élégance hantée. Des blips électroniques pulsants avant
 que la voix de Gray ne se glisse. Elle pleure une liaison significative mais finalement décevante, sur des grosses
@@ -48,7 +48,7 @@ Sa capacité à utiliser les effets vocaux reste éternelle, injectant de l'âme
 vocales délicates. Cela devient évident sur "HOW LONG CAN YOU KEEP UP A LIE?", dont le refrain présente un falsetto
 éthéré associé à des glissements de steel guitar country vraiment lisses.
 
-#### "H.B.W." : le réveil du chagrin
+###### "H.B.W." : le réveil du chagrin
 
 "H.B.W." (acronyme de "heartbreak wake") livre l'une des aventures les plus audacieuses du disque, avec des résultats
 rafraîchissants. Le refrain démarre avec une basse battante et ronronnante, et des vocaux glissants de Gray rappelant

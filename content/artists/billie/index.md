@@ -11,7 +11,7 @@ les rues, elle apprend le violon avant de se tourner vers le chant, encouragée 
 perfectionne ensuite au conservatoire de Gand, où elle développe une approche singulière croisant jazz, pop et
 soul.
 
-##### La rencontre avec Netsky
+###### La rencontre avec Netsky
 
 Le tournant de sa carrière survient en 2012, lorsqu'elle prête sa voix à "Puppy", un titre instrumental du
 producteur de drum & bass britannique Netsky. Le morceau devient l'un des plus grands succès de l'artiste,

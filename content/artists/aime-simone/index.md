@@ -14,7 +14,7 @@ Son parcours est aussi singulier qu'inattendu. En 2013, le photographe Hedi Slim
 exclusif de Saint Laurent à Paris, puis à New York et Los Angeles. Ce passage par la mode forge en lui un sens aigu de
 l'image et de l'esthétique, qui se retrouvera plus tard dans ses clips et ses visuels d'artiste.
 
-##### Une révélation virale
+###### Une révélation virale
 
 Après deux ans passés à Vienne, il rencontre en 2017 la plasticienne américaine Sonja Fix, qui devient sa principale
 collaboratrice artistique. Ensemble, ils s'installent à Berlin, une ville dont la liberté créatrice nourrit profondément
@@ -25,7 +25,7 @@ Mais c'est en Ukraine que la révélation arrive : en 2020, son titre « In This
 sociaux ukrainiens, accumulant des millions d'écoutes et faisant de lui une figure inattendue outre-Carpates. Ce succès
 organique, loin des circuits habituels, illustre parfaitement l'étrangeté de son parcours.
 
-##### Reconnaissance française
+###### Reconnaissance française
 
 En 2021, « Shining Light » devient un hit en France, certifié platine, et propulse Aime Simone dans la sphère de la
 reconnaissance nationale. Son deuxième album, *Oh Glory*, sort en 2023 et lui vaut une nomination en tant que Révélation

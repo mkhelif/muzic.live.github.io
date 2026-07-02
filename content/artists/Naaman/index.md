@@ -20,7 +20,7 @@ aspects de sa création artistique.
 Cette approche complète lui permet de développer un son personnel qui mélange authenticité jamaïcaine et modernité
 française, créant une identité artistique unique sur la scène reggae francophone.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière de Naaman se développe progressivement grâce à ses productions de qualité et ses collaborations avec des
 figures du reggae international, prouvant sa reconnaissance au-delà des frontières hexagonales.
@@ -31,7 +31,7 @@ en respectant l'héritage jamaïcain.
 Ses albums rencontrent un succès critique et commercial notable, confirmant son statut de référence du reggae français
 moderne.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Naaman combine reggae traditionnel, dancehall contemporain et éléments de musiques urbaines, créant un son
 moderne et accessible qui séduit un public large.
@@ -42,7 +42,7 @@ jamaïcain, démontrant sa parfaite maîtrise des codes du genre.
 Ses productions se caractérisent par une qualité sonore irréprochable et des arrangements sophistiqués qui révèlent son
 expertise technique.
 
-##### Actualité
+###### Actualité
 
 Naaman continue de représenter cette nouvelle génération d'artistes reggae français qui ont su s'approprier le genre
 tout en lui apportant leur propre couleur.

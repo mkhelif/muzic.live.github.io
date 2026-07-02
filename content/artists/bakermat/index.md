@@ -10,7 +10,7 @@ aux Pays-Bas. Figure emblématique de la scène dance internationale, il a su co
 identité musicale immédiatement reconnaissable, à la confluence de la house music, de la soul, du jazz, de la
 funk et du gospel.
 
-##### Une vocation héritée et une formation inattendue
+###### Une vocation héritée et une formation inattendue
 
 Fils d'une mère chanteuse lyrique et d'un père féru de soul, de funk et de jazz, Fluttert baigne dans la musique
 dès l'enfance. C'est pourtant en étudiant la psychologie à l'Université d'Utrecht qu'il commence à s'exercer
@@ -19,7 +19,7 @@ au DJing, d'abord en amateur, puis avec une conviction grandissante. Ses premiè
 sample du discours « I Have a Dream » de Martin Luther King Jr., et se hisse dans les charts aux Pays-Bas, en
 Belgique, en France et au Royaume-Uni entre 2012 et 2013.
 
-##### Un live set hors du commun
+###### Un live set hors du commun
 
 Ce qui fait la singularité de Bakermat dans un univers où beaucoup se contentent de jouer des disques, c'est
 sa volonté de faire vivre sa musique sur scène. Dès 2014, il constitue le « Bakermat Live Band » — six
@@ -27,7 +27,7 @@ musiciens (saxophonistes, chanteurs, violonistes, percussionnistes) — qui rejo
 des performances d'une chaleur et d'une générosité rares dans la dance music. Cette formule hybride, qui fait
 la part belle à l'improvisation et à l'émotion live, est devenue sa marque de fabrique.
 
-##### Bakermat's Circus et indépendance artistique
+###### Bakermat's Circus et indépendance artistique
 
 En 2015, il crée sa propre plateforme événementielle, *Bakermat's Circus*, un concept de soirée qui pousse
 les artistes à se dépasser et invite le public à vivre une expérience musicale totale, mêlant son, ambiance et

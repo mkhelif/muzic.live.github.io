@@ -26,7 +26,7 @@ Il y a des festivals qui ressemblent à des retrouvailles entre amis. Le Cariban
 34ᵉ édition, qui se déroulera du 17 au 20 juin 2026 sur les rives du lac Léman, le festival de Crans-près-Céligny frappe
 fort avec une première salve d'annonces qui donne le ton : diversité, qualité, convivialité.
 
-## Jeudi 18 juin : MIKA et la pop en majesté
+###### Jeudi 18 juin : MIKA et la pop en majesté
 
 Le chanteur d'origine libanaise, habitué des grandes scènes, revient en Suisse avec sa nouvelle tournée Spinning Out
 Tour. MIKA sera la tête d'affiche de la soirée du jeudi 18 juin, où il présentera son prochain album, mêlant électro,
@@ -37,7 +37,7 @@ mêlant pop, hyperpop et chanson française. Louane complétera cette soirée av
 introspectif et novateur qui révèle une facette inédite de l'artiste. Après 11 ans dans l'industrie, elle se réinvente
 et expérimente plus que jamais.
 
-## Vendredi 19 juin : le rap français en force
+###### Vendredi 19 juin : le rap français en force
 
 La soirée du vendredi s'annonce résolument urbaine. Niska, l'un des hitmakers les plus influents du rap français de ces
 dix dernières années, sera la tête d'affiche. Le chef des « charos » continue de marquer la scène avec son style unique
@@ -55,7 +55,7 @@ Maureen, la reine du shatta martiniquais en pleine ascension, viendra également
 sortir son premier album *Queen* et enchaîne les collaborations de qualité, de Kalash à Naza. Genezio complète ce
 renfort urbain.
 
-## Samedi 20 juin : l'électro prend le pouvoir
+###### Samedi 20 juin : l'électro prend le pouvoir
 
 Les musiques électroniques seront à l'honneur le samedi 20 juin, lors d'une soirée qui promet d'être mémorable. Le
 producteur belge Lost Frequencies, reconnu pour son mélange de house envoûtante et d'influences folk, partagera
@@ -71,7 +71,7 @@ marqué l'électro mondiale avec des albums cultes comme *Super Discount* et son
 maître des performances live électroniques enflammera la Scène du Lac en revisitant ses classiques et en dévoilant ses
 nouvelles créations.
 
-## Un festival à taille humaine
+###### Un festival à taille humaine
 
 Lancé en 1990 par un groupe d'amis, le festival se tient chaque année au Port de Crans-près-Céligny, dans un cadre
 idyllique sur les rives du lac Léman. Depuis ses débuts, il est entièrement géré par des bénévoles, réunis au sein d'une
@@ -80,7 +80,7 @@ association à but non lucratif.
 En moyenne, sur quatre soirs, le festival attire une trentaine de milliers de personnes — une jauge volontairement
 maîtrisée qui préserve l'atmosphère intimiste et chaleureuse qui fait la réputation de l'événement.
 
-## Engagement durable et billetterie
+###### Engagement durable et billetterie
 
 Dans le cadre du label Swisstainable, pour chaque billet vendu, 1 franc sera alloué à la compensation des émissions de
 CO₂ via le programme MyClimate. Un engagement qui s'inscrit dans la démarche environnementale portée par le Caribana

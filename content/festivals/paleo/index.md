@@ -16,7 +16,7 @@ Suisse, élu **meilleur grand festival européen 2025** aux European Festival Aw
 musical. C'est un rituel, une institution, un morceau d'identité romande qui, depuis près d'un demi-siècle, prouve qu'on
 peut être immense et rester humain.
 
-## 1973–1976 : des concerts dans une Maison des Jeunes au First Folk Festival
+###### 1973–1976 : des concerts dans une Maison des Jeunes au First Folk Festival
 
 L'histoire du Paléo commence au début des années 1970, dans la Maison des Jeunes de Nyon. **Daniel Rossellat** a 19 ans.
 Mécanicien-électricien de formation, il travaille comme animateur socioculturel auprès d'adolescents en difficulté.
@@ -38,7 +38,7 @@ Le nom « Paléo » ? C'est celui d'un cheval de course mis au repos dans la cam
 attendront dix ans avant de révéler l'origine du nom — au début, « ça n'aurait pas eu l'air sérieux ». L'idée était
 surtout de ne pas induire de style musical dans la dénomination, pour rester ouvert à toutes les possibilités.
 
-## Colovray, les embouteillages et Joan Baez sous la pluie
+###### Colovray, les embouteillages et Joan Baez sous la pluie
 
 En 1977, le festival sort de la salle communale et s'installe en plein air, sur le site enchanteur de **Colovray**, au
 bord du lac Léman. Les années qui suivent voient le festival grandir à un rythme qui surprend ses propres organisateurs.
@@ -53,7 +53,7 @@ puis Paléo Nyon Festival en 1986.
 Mais le site de Colovray est menacé de vente par son propriétaire. Après des années d'incertitude et le refus de la
 commune de Vich d'accueillir la manifestation, le festival est contraint de déménager.
 
-## 1990 : la plaine de l'Asse et l'envol
+###### 1990 : la plaine de l'Asse et l'envol
 
 En 1990, le Paléo prend ses quartiers sur le site qui deviendra son écrin définitif : la **plaine de l'Asse**, au nord
 de Nyon. L'espace est plus grand, le potentiel immense. Le festival s'y installe et ne bougera plus. L'ouverture
@@ -69,7 +69,7 @@ Rosalía, The Cure… Le Paléo est devenu une étape incontournable du circuit 
 **Depuis l'an 2000**, le festival affiche systématiquement complet bien avant l'ouverture des portes — parfois en
 quelques heures, voire en quelques minutes (record de 2025 : 200 000 billets vendus en 13 minutes).
 
-## Un modèle unique : association, bénévoles et indépendance
+###### Un modèle unique : association, bénévoles et indépendance
 
 Ce qui rend le Paléo véritablement singulier dans le paysage festivalier européen, c'est son modèle. **Paléo Arts &
 Spectacles** est une **association culturelle à but non lucratif**, fondée en 1974. Le festival ne touche aucune
@@ -82,7 +82,7 @@ Daniel Rossellat résume la philosophie avec une formule paysanne : gestion prud
 inébranlable. Le budget annuel avoisine les **27 millions de francs suisses**, mais le festival reste accessible — les
 enfants de moins de 12 ans accompagnés entrent gratuitement.
 
-## Six jours, six nuits, huit scènes
+###### Six jours, six nuits, huit scènes
 
 Le Paléo, dans son format actuel, c'est **six jours et six nuits** de musique et de spectacles, fin juillet. Plus de
 **250 concerts et spectacles** répartis sur **huit scènes** aux identités distinctes. La **Grande Scène** accueille les
@@ -96,7 +96,7 @@ Danemark, Îles Féroé et même du Groenland). C'est cette ouverture sur le mon
 Perry et le black metal féministe norvégien sur la même affiche, qui fait du Paléo bien plus qu'une succession de
 concerts.
 
-## Daniel Rossellat : le paysan visionnaire
+###### Daniel Rossellat : le paysan visionnaire
 
 On ne peut pas raconter le Paléo sans parler de l'homme qui l'a créé et qui, à 73 ans, en reste le président. **Daniel
 Rossellat** — tour à tour mécanicien, animateur socioculturel, journaliste pigiste, loueur de pédalos, critique
@@ -110,7 +110,7 @@ Au-delà du festival, Rossellat a cofondé **JazzContreBand** (réseau transfron
 lac Léman), créé la **FCMA** (Fondation romande pour la chanson et les musiques actuelles) et dirigé les Events de
 l'Expo.02. L'écosystème qu'il a bâti dépasse largement les six jours de juillet.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Le Paléo n'est pas simplement un grand festival. C'est la preuve vivante qu'on peut partir de rien — quatre vingtenaires
 passionnés, une salle communale et zéro budget — et bâtir, en un demi-siècle, l'un des plus grands événements culturels

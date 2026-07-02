@@ -22,7 +22,7 @@ Chester Bennington en 1999, dont la voix puissante et émotionnelle devient l'â
 Leurs débuts voient le groupe affiner une approche unique qui mêle riffs de guitare lourds, samples électroniques,
 scratching DJ et rap, créant un style hybride sans précédent dans le rock mainstream.
 
-##### Carrière musicale
+###### Carrière musicale
 
 L'album "Hybrid Theory" (2000) explose littéralement, devenant l'un des albums les plus vendus du XXIe siècle avec des
 titres comme "In the End", "Crawling" et "One Step Closer" qui résonnent avec une génération en quête d'expression.
@@ -39,7 +39,7 @@ fans à travers le monde, laissant un héritage musical immense.
 En 2024, Linkin Park annonce son retour avec la chanteuse Emily Armstrong (Dead Sara) aux côtés de Mike Shinoda,
 marquant un nouveau chapitre dans l'histoire du groupe.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Linkin Park fusionne metal alternatif, nu metal, rap rock et électronique dans une approche qui brise les
 frontières entre les genres musicaux.
@@ -53,7 +53,7 @@ l'angoisse et les questionnements de la jeunesse moderne.
 Leurs thématiques explorent la douleur émotionnelle, la lutte intérieure, la solitude et la résilience, touchant des
 millions d'auditeurs qui trouvent dans leur musique un écho à leurs propres combats.
 
-##### Actualité
+###### Actualité
 
 Linkin Park poursuit son chemin avec une nouvelle formation, honorant l'héritage de Chester Bennington tout en explorant
 de nouvelles directions créatives.

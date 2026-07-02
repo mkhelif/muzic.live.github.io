@@ -10,21 +10,21 @@ Zamdane, de son vrai nom Ayoub Zaidane, est un rappeur et chanteur franco-maroca
 incarne une voix sincère et touchante, nourrie de deux cultures, de deux villes et d'un parcours
 migratoire qui fait la substance même de son œuvre.
 
-##### Marrakech et les premières influences
+###### Marrakech et les premières influences
 
 Enfant de Marrakech, Ayoub Zaidane grandit entouré du français grâce à son père, guide touristique
 polyglotte. Il développe très jeune une sensibilité aux grandes voix de la chanson : Charles Aznavour et
 Dalida font partie de ses premiers émois musicaux. Ce goût du lyrisme, de la mélodie et du texte habité
 marquera durablement sa façon d'aborder le rap.
 
-##### L'arrivée en France et Marseille
+###### L'arrivée en France et Marseille
 
 À dix-sept ans, en juillet 2015, il quitte le Maroc pour s'installer à Istres, près de Marseille, afin
 d'y étudier l'économie. C'est dans cette région qu'il découvre le rap — notamment à travers Nekfeu — et
 commence à se produire lors d'open mics dès octobre 2015. Marseille, ville de contrastes et de mélanges,
 devient son ancrage artistique.
 
-##### La révélation et la consécration
+###### La révélation et la consécration
 
 L'été 2017 marque le tournant de sa carrière avec le single Favaro, qui le révèle comme l'un des talents
 émergents les plus prometteurs du rap marseillais. Son premier album, Couleur de ma Peine (25 février

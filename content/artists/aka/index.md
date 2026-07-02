@@ -15,14 +15,14 @@ Sa carrière musicale débute au sein du collectif Entity, qu'il quitte en 2006 
 immédiatement au premier rang du rap local. En 2014, il signe un accord multi-albums avec Sony Music, consécration
 commerciale qui récompense une ascension impressionnante.
 
-##### Une discographie marquante
+###### Une discographie marquante
 
 AKA construit une discographie cohérente et ambitieuse : *Levels* (2014), *Be Careful What You Wish For* (2017, en
 collaboration avec Anatii), *Touch My Blood* (2018) et enfin *Mass Country* (2023), album posthume sorti après sa mort.
 Sa musique, ancrée dans le rap américain mais profondément marquée par les sonorités et les réalités sud-africaines, lui
 vaut une base de fans fidèles à travers tout le continent africain.
 
-##### Un héritage douloureux
+###### Un héritage douloureux
 
 Le 10 février 2023, AKA est assassiné par balles devant un nightclub à Durban, à l'âge de 35 ans. Sa mort plonge la
 communauté musicale sud-africaine dans le deuil et suscite une vague d'hommages qui témoignent de l'ampleur de son

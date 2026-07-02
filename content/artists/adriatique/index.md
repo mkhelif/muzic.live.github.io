@@ -17,14 +17,14 @@ profondes et décident de collaborer dès 2009. Leurs premières sorties arriven
 Deep In The Three », suivis de l'EP *Playground* — et suffisent à attirer l'attention de la scène underground
 européenne.
 
-##### L'école Diynamic et l'essor international
+###### L'école Diynamic et l'essor international
 
 La reconnaissance s'accélère en 2012 avec leur affiliation à Diynamic Music, le label fondé par Solomun, référence
 absolue de la deep house et du techno moderne. Cette association leur ouvre les portes des festivals et clubs les plus
 prestigieux d'Europe et du monde. En 2016, ils franchissent une nouvelle étape en fondant leur propre label, Siamese,
 qui devient à la fois un incubateur de nouveaux talents et le principal vecteur de leurs propres productions.
 
-##### Un style méditat if et hypnotique
+###### Un style méditat if et hypnotique
 
 La musique d'Adriatique se caractérise par des constructions longues et progressives, des grooves hypnotiques et des
 twists subtils qui déjouent les attentes de l'auditeur. Spécialisés en techno, deep house et minimal, ils signent des

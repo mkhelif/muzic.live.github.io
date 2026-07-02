@@ -10,7 +10,7 @@ initialement sous le nom d'Ahaziah par le chanteur Alex Koehler, les guitaristes
 Stafford, et le bassiste Austin Marticorena, le groupe adopte rapidement le nom de Chelsea Grin — une référence au
 Glasgow smile, méthode de torture tristement célèbre — pour mieux refléter la brutalité de leur musique.
 
-##### Des débuts marqués par l'extrême
+###### Des débuts marqués par l'extrême
 
 Leur premier EP auto-titré, diffusé sur Internet puis sorti en CD en juillet 2008, pose immédiatement les bases
 d'un son sans concession : guitares accordées très bas, voix saturées alternant growls gutturaux et cris stridents,
@@ -21,7 +21,7 @@ du deathcore américain.
 Death Shall Rise (2011) et My Damnation (2011) accentuent la trajectoire, tandis que le groupe tourne sans relâche
 et bâtit une base de fans dévoués, particulièrement dans les circuits underground du metal extrême nord-américain.
 
-##### Mutations et résistance
+###### Mutations et résistance
 
 La singularité de Chelsea Grin réside dans leur capacité à survivre à des changements de line-up radicaux. En 2013,
 le batteur Pablo Viveros intègre le groupe et y apporte également sa voix. En 2018, le chanteur fondateur Alex

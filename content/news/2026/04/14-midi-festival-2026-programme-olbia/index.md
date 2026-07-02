@@ -15,14 +15,14 @@ racine pour la première fois sur le **site archéologique d'Olbia**, à Hyères
 venus principalement du Royaume-Uni, de Scandinavie, de France et d'Italie transformeront ce lieu d'exception en scène
 de musique alternative.
 
-#### Un cadre unique dans le paysage festivalier français
+###### Un cadre unique dans le paysage festivalier français
 
 Olbia est l'une des rares cités grecques fondées sur le sol gaulois, au IVe siècle avant J.-C. Ses vestiges classés
 constituent un décor que peu de festivals peuvent s'offrir — un amphithéâtre naturel de colonnes, de mosaïques et de
 murs millénaires qui confèrent à chaque concert une gravité singulière. Le MIDI Festival, dont la vocation est de
 mettre en dialogue musique contemporaine et patrimoine, s'y installe comme une évidence.
 
-#### Le programme
+###### Le programme
 
 **Vendredi 24 juillet** : la soirée d'ouverture sera menée par **Ulrika Spacek**, quatuor londonien qui mêle post-punk
 et krautrock, accompagné du Danois **Elias Rønnenfelt** (ex-Iceage) pour un set en solo aussi fragile que magnétique.

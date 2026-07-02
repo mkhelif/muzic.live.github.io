@@ -20,7 +20,7 @@ camerounaises et les sonorités contemporaines pour créer un style personnel et
 Elle développe rapidement une identité artistique qui mélange racines africaines et influences européennes, créant un
 pont musical entre ses deux cultures d'appartenance.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Kolinga se fait connaître grâce à des albums qui témoignent de sa capacité à moderniser les musiques africaines tout en
 respectant leurs codes traditionnels.
@@ -31,7 +31,7 @@ ses talents de chanteuse et d'interprète.
 Ses performances scéniques confirment sa capacité à transmettre la joie et la spiritualité africaines à travers une
 musique riche et émotionnellement puissante.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Kolinga puise dans toute la richesse des musiques africaines, des polyrythmes traditionnels aux influences
 contemporaines, créant un son authentique teinté de modernité européenne.
@@ -42,7 +42,7 @@ scénique communicative.
 Ses influences révèlent une connaissance approfondie du patrimoine musical africain qu'elle réinterprète avec une
 sensibilité contemporaine.
 
-##### Actualité
+###### Actualité
 
 Kolinga continue de porter les couleurs des musiques africaines en Europe, maintenant vivantes ces traditions musicales
 riches et diversifiées.

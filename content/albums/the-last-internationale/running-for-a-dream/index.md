@@ -21,7 +21,7 @@ studio du duo new-yorkais The Last Internationale, appartient sans hésitation �
 Edgey Pires y livrent un manifeste rock incandescent, à la fois ancré dans la grande tradition du blues-rock
 américain et brûlant d'une urgence politique qui ne s'éteint jamais.
 
-##### Le retour d'un duo en état de grâce
+###### Le retour d'un duo en état de grâce
 
 Près de cinq ans après *Soul on Fire* (2018), le duo revient dans une forme renversante. Le souffle de la rage
 sociale, déjà au cœur de leur ADN depuis les débuts en 2008, n'a rien perdu de son intensité — au contraire, il s'est
@@ -33,7 +33,7 @@ Janis Joplin que Mavis Staples, sans jamais sonner comme un pastiche. Edgey Pire
 dans le granite — directs, économes, jamais démonstratifs. La rythmique cogne avec une précision quasi militaire,
 service total à la chanson.
 
-##### Le grain, la transe, la rage
+###### Le grain, la transe, la rage
 
 Le titre éponyme **"Running for a Dream"** est l'épine dorsale du disque : 4 minutes 17 d'élan rock soul, refrain
 qui s'élève comme un drapeau, riff qui s'imprime à la première écoute. C'est exactement ce que The Last
@@ -44,14 +44,14 @@ prière laïque. La production privilégie le grain analogique, les prises live,
 rappellent les grandes heures du Stax et de Muscle Shoals. Aucun morceau ne dépasse l'utile : chaque chanson est
 une déclaration, pas un exercice de style.
 
-##### Une politique de la chanson
+###### Une politique de la chanson
 
 Comme toujours chez The Last Internationale, le politique n'est pas un vernis — c'est la matrice. Les guerres, la
 condition ouvrière, les peuples premiers, les abus de pouvoir : les thèmes traversent l'album sans jamais sombrer
 dans le tract. Le duo a compris une chose que beaucoup de groupes "engagés" ratent : la chanson protestataire ne
 fonctionne que si elle est d'abord, viscéralement, une grande chanson. Ici, à chaque fois, c'est le cas.
 
-##### Verdict
+###### Verdict
 
 **Running for a Dream** est de ces albums rares qui n'ont pas une seconde de trop, pas un riff de trop, pas une note
 de complaisance. Dix titres, pas un faible. Le disque qui place définitivement The Last Internationale dans la

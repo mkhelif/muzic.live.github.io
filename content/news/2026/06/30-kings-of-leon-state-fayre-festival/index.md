@@ -11,7 +11,7 @@ Le 26 juin, à Hylands Park de Chelmsford, le tout premier State Fayre Festival 
 Tennessee en tête d'affiche — un choix qui n'avait rien d'arbitraire pour un événement qui mêle rock, americana, country
 et grillades de compétition dans la plus grande tradition de la fête foraine américaine transplantée en sol britannique.
 
-## Un festival pensé comme une immersion
+###### Un festival pensé comme une immersion
 
 Le concept du State Fayre est précis : proposer en Grande-Bretagne quelque chose qui n'existait pas encore sous cette
 forme — un festival de plein air dont la ligne éditoriale musicale (rock, americana, Americana, country-rock) dialogue
@@ -25,7 +25,7 @@ produit : Young ayant annulé l'intégralité de sa tournée britannique et euro
 a pris la tête d'affiche du samedi. Le réaménagement n'a pas entamé l'enthousiasme du public : à l'ouverture des
 portes, la jauge d'Hylands Park affichait complet.
 
-## « It feels like being home »
+###### « It feels like being home »
 
 Kings of Leon ont ouvert leur set par *Find Me* — ouverture sobre, presque intimiste pour une scène de festival — avant
 de dérouler une setlist de 23 titres qui a couvert l'essentiel de leur discographie. *The Bucket*, *On Call*, *Use
@@ -42,7 +42,7 @@ Le set a également glissé des raretés dans le programme : *Revelry*, *Manhatt
 *Back Down South*, *Pyro* — des titres qui satisfont les connaisseurs sans laisser les nouveaux venus sur le bord
 de la route.
 
-## Le State Fayre, un pari réussi pour sa première
+###### Le State Fayre, un pari réussi pour sa première
 
 La programmation du week-end a tenu ses promesses. La formule — artistes confirmés, cadre festivalier soigné, nourriture
 intégrée comme véritable axe de l'expérience et non comme service annexe — a fonctionné avec une cohérence peu
@@ -52,7 +52,7 @@ des grillades se mêlant aux premières notes des concerts, les pelouses prises 
 Les Black Crowes, en support sur la soirée d'ouverture, ont offert un set à la hauteur de leur réputation retrouvée
 depuis leur reformation. Leur rock blues sudiste a servi de mise en bouche idéale avant l'arrivée des Followill.
 
-## Kings of Leon sur la route
+###### Kings of Leon sur la route
 
 Pour le groupe, Chelmsford n'est qu'une étape dans un calendrier d'été chargé. Le 29 juin, ils jouaient déjà à Belfast
 (Ormeau Park), avant Limerick, Glasgow, Manchester, Leeds et Madrid — où ils figurent à l'affiche du Mad Cool Festival

@@ -14,7 +14,7 @@ classement US Hard Rock Albums, la troisième du US Rock Albums et le 21e rang d
 disque se classe au 2e rang du UK Rock & Metal, au 4e en Suède (Hard Rock), au 13e en Suisse, au 16e en Australie et
 en Finlande, et au 17e en Allemagne.
 
-#### Un album de la colère sociale
+###### Un album de la colère sociale
 
 Le chanteur Randy Blythe ne mâche pas ses mots sur la thématique du disque : « De manière générale, c'est un album sur
 l'effondrement en cours et rapide du contrat social, en particulier ici en Amérique. Des choses sont acceptables
@@ -24,20 +24,20 @@ ressentons plus le besoin de suivre une quelconque tendance ou attente. »
 Note personnelle du batteur Art Cruz : c'est le premier album qu'il enregistre sobre, une expérience qui a
 fondamentalement changé son approche du jeu.
 
-#### Quatre singles en artillerie lourde
+###### Quatre singles en artillerie lourde
 
 La campagne de lancement a été méthodique et dévastatrice. *Sepsis* a ouvert le bal le 2 octobre 2025, suivi de
 *Parasocial Christ* le 21 novembre. L'annonce officielle de l'album est tombée le 15 janvier 2026 avec le morceau-titre
 *Into Oblivion*, et le dernier single *Blunt Force Blues* a achevé de préparer le terrain le 27 février.
 
-#### La critique unanime
+###### La critique unanime
 
 Blabbermouth salue « le meilleur album depuis *VII: Sturm Und Drang* (2015) et une réaffirmation vigoureuse de leurs
 valeurs » (8.5/10). Kerrang! décrit un disque qui « bouillonne d'anxiété et de colère » (4/5). Metal Hammer parle d'un
 « coup de maillet à l'arrière du crâne » et du « meilleur album depuis *Resolution* (2012) » (4/5). Sputnikmusic va
 plus loin : « groovy comme l'enfer et brutal comme un camion de quatre tonnes qui vous percute à 160 km/h » (4.7/5).
 
-#### Une tournée nord-américaine en tête d'affiche
+###### Une tournée nord-américaine en tête d'affiche
 
 Lamb of God défend ce nouvel opus sur les routes avec une tournée nord-américaine du 17 mars au 26 avril. Du groove
 metal au vitriol, produit par le fidèle Josh Wilbur et enregistré entre Richmond (Virginie), le home studio de Mark

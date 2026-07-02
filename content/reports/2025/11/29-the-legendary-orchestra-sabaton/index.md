@@ -15,7 +15,7 @@ auparavant. Ce samedi 29 novembre, la LDLC Arena de Lyon a pu juger sur pièces 
 s'est déroulé ce soir-là dépasse le simple concert de power metal pour entrer dans la catégorie du spectacle total, un
 événement où pyrotechnie, théâtre et musique fusionnent en une expérience sensorielle hors normes.
 
-## The Legendary Orchestra : l'ouverture épique
+###### The Legendary Orchestra : l'ouverture épique
 
 À 20h, les lumières s'éteignent sur un décor de château fort médiéval. Trois silhouettes féminines prennent place : Noa
 Gruman au centre, chef de chœur et voix principale d'une puissance sidérante, flanquée sur les deux tours de la
@@ -35,7 +35,7 @@ Le public lyonnais, conquis dès les premières notes, reprend les refrains à p
 cherche pas à voler la vedette, mais elle installe avec brio le ton de la soirée : ce soir, on écrit l'Histoire.
 **Légendaire**, effectivement.
 
-## Sabaton : quand l'Histoire prend vie
+###### Sabaton : quand l'Histoire prend vie
 
 Entre les deux groupes, un concours d'empilage d'écocups se lance, atteignant des hauteurs improbables, ajoutant une
 touche de légèreté bienvenue à cette atmosphère épique.
@@ -76,7 +76,7 @@ Après 1h45 de show, le concert se clôt sur « Masters of the World », un choi
 tournée exceptionnelle. La LDLC Arena sort quasiment abasourdie, les oreilles bourdonnantes et les yeux encore éblouis
 par tant de pyrotechnie.
 
-## Verdict
+###### Verdict
 
 Avec ce « Legendary Tour », Sabaton franchit un cap décisif dans sa carrière. Ce n'est plus un concert, c'est un
 spectacle de grande envergure qui rivalise avec les plus grosses productions du genre. La fusion entre musique, théâtre,

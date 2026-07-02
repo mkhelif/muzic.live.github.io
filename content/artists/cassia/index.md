@@ -10,7 +10,7 @@ Ellis (voix, guitare), Lou Cotterill (basse) et Jacob Leff (batterie). Dans une 
 eux-mêmes comme morne et grise, ces trois musiciens ont trouvé dans la musique le moyen de créer quelque chose de
 lumineux, d'ouvert et de résolument positif.
 
-##### Une rencontre, un nom, un signe
+###### Une rencontre, un nom, un signe
 
 L'histoire du groupe commence dans un pub de Macclesfield, où Rob et Jacob se rencontrent en 2015 encore
 adolescents. Le groupe se cherchait déjà un nom avant même que Rob les rejoigne, mais lorsque celui-ci débarque à
@@ -21,7 +21,7 @@ Tout en conservant leurs emplois respectifs, les trois musiciens économisent po
 signent finalement avec Distiller Records en 2018. Ils posent alors leurs valises à Bath pour enregistrer leur
 premier album.
 
-##### Un son qui voyage loin de chez soi
+###### Un son qui voyage loin de chez soi
 
 La musique de Cassia est une curiosité sincère : indie pop solaire aux accents tropicaux, elle brassent les
 influences de Foals et Vampire Weekend avec les rythmes afrobeats de Fela Kuti et Ebo Taylor, et le folk américain

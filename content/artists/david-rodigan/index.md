@@ -11,7 +11,7 @@ Small interpréter « My Boy Lollipop » à la télévision. À quinze ans, il m
 d'école et des clubs de jeunesse, et commence une collection de disques jamaïcains qui ne s'arrêtera
 jamais.
 
-##### La voix du reggae à la radio britannique
+###### La voix du reggae à la radio britannique
 
 En 1978, Rodigan débute sa carrière d'animateur reggae à la BBC Radio London. Il passe l'année suivante
 à Capital Radio, où son émission « Roots Rockers » du samedi soir devient un rendez-vous culte pendant
@@ -20,7 +20,7 @@ programmation reggae hebdomadaire, puis Kiss 100 à partir de 1990. BBC Radio 1X
 comptent également parmi ses maisons. Partout, il apporte la même exigence : défendre la musique
 jamaïcaine avec une connaissance encyclopédique et une passion qui ne se déguise pas.
 
-##### Le champion des soundclashes
+###### Le champion des soundclashes
 
 Rodigan est aussi une légende des soundclashes, ces joutes musicales héritées de la culture sound
 system jamaïcaine où des DJ s'affrontent à coups d'exclusivités et de sélections. Son surnom « Ram Jam »

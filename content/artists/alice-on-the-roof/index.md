@@ -12,14 +12,14 @@ roof » en anglais. Formée au piano et au chant choral pendant plus de dix ans 
 Dutoit développe une solide sensibilité musicale avant de parfaire son anglais à Brookings, en Oregon, grâce à une
 bourse Rotary International.
 
-##### La révélation télévisée
+###### La révélation télévisée
 
 C'est lors de la troisième saison de The Voice Belgique qu'Alice on the Roof se fait connaître du grand public. Elle
 y atteint les demi-finales et, bien qu'éliminée à ce stade, son passage dans l'émission lui ouvre les portes de
 l'industrie musicale. Son premier single Easy come easy go, sorti en avril 2015, entre directement à la première
 place de l'Ultratop et y reste pendant trente-cinq semaines — un succès exceptionnel pour une artiste débutante.
 
-##### Une discographie entre deux langues
+###### Une discographie entre deux langues
 
 Alice on the Roof chante avec aisance aussi bien en anglais qu'en français. Ses albums — Higher, puis We begrijpen
 mekaar — confirment sa maîtrise du format pop. En 2018, le single Malade, co-écrit avec le chanteur-compositeur

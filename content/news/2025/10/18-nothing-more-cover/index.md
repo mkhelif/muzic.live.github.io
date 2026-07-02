@@ -11,7 +11,7 @@ l'emblématique morceau de Nine Inch Nails issu de l'album "The Fragile" sorti e
 particulièrement remarquable, c'est son histoire : le groupe a commencé à travailler sur cette reprise il y a onze ans,
 avant d'être détourné par la création de leur propre musique.
 
-#### Une chanson chargée de sens
+###### Une chanson chargée de sens
 
 Pour Nothing More, groupe trois fois nominé aux Grammy Awards, ce morceau a toujours revêtu une signification
 particulière. Jonny Hawkins, le frontman, décrit la chanson comme "une chanson d'amour entrant en collision avec un cri
@@ -25,7 +25,7 @@ favorites du groupe. Son interprétation du morceau a évolué avec le temps : "
 mais en plongeant plus profondément, mon interprétation s'est transformée pour devenir une relation avec mes démons
 personnels et mes traumatismes mentaux", confie-t-il.
 
-#### Un timing parfait après des années d'attente
+###### Un timing parfait après des années d'attente
 
 Vollelunga révèle qu'ils ont effectivement commencé à enregistrer le morceau il y a onze ans, et qu'il est resté en
 attente jusqu'à récemment. Initialement frustré de ne pas l'avoir sorti plus tôt, le guitariste estime aujourd'hui que
@@ -35,7 +35,7 @@ Cette patience forcée a finalement servi le projet. Le morceau trouve aujourd'h
 alors que Nothing More s'apprête à entamer une tournée européenne en tête d'affiche qui débutera le 7 novembre à
 Tampere, en Finlande.
 
-#### Une "belle catastrophe" réinterprétée
+###### Une "belle catastrophe" réinterprétée
 
 Vollelunga décrit le morceau original comme "une belle catastrophe", une qualification qui résume parfaitement
 l'esthétique sonore de Nine Inch Nails. La version de Nothing More semble conserver cette tension entre beauté et chaos,
@@ -45,7 +45,7 @@ Le morceau original apparaît sur "The Fragile", le double album de 1999 qui est
 ambitieuse de Trent Reznor. Cette chanson, qui mélange des éléments de rock industriel, des guitares distordues et une
 production complexe, a toujours été l'un des moments forts de cet album dense et émotionnellement chargé.
 
-#### Un single autonome après "CARNAL"
+###### Un single autonome après "CARNAL"
 
 Ce morceau autonome "We're In This Together" fait suite au dernier single/vidéo de Nothing More, "Existential Dread",
 qui marque la cinquième sortie de leur album 2024 "CARNAL". Cette reprise s'inscrit donc dans une période créativement
@@ -54,7 +54,7 @@ fertile pour le groupe, qui continue d'explorer différentes facettes de son exp
 L'album le plus récent de Nothing More est "CARNAL", sorti en 2024, et le groupe prévoit également de lancer une tournée
 américaine en tête d'affiche en janvier.
 
-#### Un hommage aux influences
+###### Un hommage aux influences
 
 Le choix de reprendre Nine Inch Nails n'est pas anodin pour Nothing More. Le groupe texan, composé de Jonny Hawkins (
 chant), Mark Vollelunga (guitare), Daniel Oliver (basse) et Ben Anderson (batterie), a toujours repoussé les frontières
@@ -64,7 +64,7 @@ Cette reprise témoigne du respect profond que Nothing More porte à Nine Inch N
 album qui a marqué toute une génération de musiciens rock. En choisissant de sortir cette version maintenant, après tant
 d'années, le groupe prouve que certaines chansons continuent de résonner et d'évoluer avec nous au fil du temps.
 
-#### Disponibilité
+###### Disponibilité
 
 La reprise de "We're In This Together" est sortie via Better Noise Music et est désormais disponible sur toutes les
 plateformes de streaming. Pour les fans de Nothing More comme pour ceux de Nine Inch Nails, cette version offre une

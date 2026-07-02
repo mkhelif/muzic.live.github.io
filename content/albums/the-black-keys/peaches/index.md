@@ -16,7 +16,7 @@ socials:
   qobuz: "gkphye0rw4wtb"
 ---
 
-## La pêche retrouvée
+###### La pêche retrouvée
 
 Il y a des albums qui naissent de la joie, d'autres du calcul, et quelques-uns — les plus honnêtes — de la douleur pure.
 *Peaches!* appartient à cette dernière catégorie. Lorsque le père de Dan Auerbach, Chuck, reçoit un diagnostic de cancer
@@ -29,7 +29,7 @@ chauffent. Et ce qui devait rester entre amis devient, presque malgré lui, le q
 les deux, il y a dix reprises, une vie entière de disques chéris, et deux types d'Akron, Ohio, qui ont toujours su que
 la réponse à tout était le blues.
 
-## Le retour aux sources, pour de vrai cette fois
+###### Le retour aux sources, pour de vrai cette fois
 
 Les fans de la première heure savaient que leurs gars étaient encore là quelque part. Ils pouvaient les entendre sur
 *Delta Kream* en 2021, et ils les entendront ici — sur cet autre album d'hommages, jammé vite et sans façon au Easy Eye
@@ -44,7 +44,7 @@ Les sessions ont été enregistrées en grande partie en live, avec un minimum d
 du guitariste Kenny Brown, du bassiste Eric Deaton et du multi-instrumentiste Jimbo Mathus — et les sessions produisent
 un album qui se sent libéré de toute attente, se délectant d'une musique qui est sa propre récompense.
 
-## Un disque de crate-diggers
+###### Un disque de crate-diggers
 
 Ces dix chansons sont des interprétations spontanées de morceaux de blues obscurs du XXe siècle, dont la plupart ont été
 découverts par Auerbach en cherchant des 45 tours à passer lors de leurs soirées vinyle baptisées « Record Hang ». C'est
@@ -66,7 +66,7 @@ La trouvaille absolue reste *Where There's Smoke, There's Fire* de Willie Griffi
 fouille de bacs transforme un shimmy fantomatique en quelque chose avec l'intensité hantée des conjurations roots de Bob
 Dylan dans les années 2000.
 
-## La question qui fâche
+###### La question qui fâche
 
 *Peaches!* est un excellent album. Mais Paste Magazine pose une question qu'on ne peut pas ignorer entièrement : plutôt
 que de démontrer le duo dans leur état naturel, à l'image des premiers disques comme *The Big Come Up* et
@@ -80,7 +80,7 @@ C'est le seul bémol d'un disque qui, pour le reste, convainc pleinement. On ne 
 mots ne peuvent pas atteindre, tentant de faire remonter toute cette émotion à travers des solos de guitare, des
 roulements de caisse claire et de la distorsion.
 
-## Verdict
+###### Verdict
 
 *Peaches!* est l'antithèse de ce que les Black Keys avaient livré ces dernières années. L'urgence et la catharsis de ces
 morceaux s'expliquent dans ce contexte douloureux, mais il y a autre chose ici : une connexion profonde avec la musique,

@@ -10,7 +10,7 @@ chanteur Nathanael Pulley et le guitariste Ben Koehler. Le trio propose un metal
 incorpore des éléments de post-hardcore, de musique alternative et de dark pop, créant un son aussi puissant
 qu'accrocheur.
 
-##### Un metalcore à double visage
+###### Un metalcore à double visage
 
 Ce qui distingue Archers dans un genre souvent monolithique, c'est leur capacité à faire coexister des passages
 d'une brutalité efficace — rythmiques martelées, riffs agressifs, breakdowns percutants — avec des mélodies
@@ -18,7 +18,7 @@ lumineuses et des refrains pop qui restent en tête. Le groupe puise dans l'hér
 intégrant une sensibilité pop-punk et une écriture émotionnelle qui élargit leur public au-delà des cercles
 metal stricts.
 
-##### Trajectoire et reconnaissance internationale
+###### Trajectoire et reconnaissance internationale
 
 Archers a rapidement attiré l'attention à l'échelle nationale avant de s'imposer en dehors des États-Unis.
 Le groupe a signé avec Fearless Records et publie des singles et EPs qui accumulent des millions d'écoutes.

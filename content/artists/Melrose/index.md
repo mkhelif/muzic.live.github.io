@@ -25,7 +25,7 @@ une capacité d'apprentissage impressionnante et une urgence créative qui carac
 débuts autodidactes forgent son approche authentique de la création musicale, privilégiant l'expression personnelle sur
 l'académisme.
 
-## Carrière musicale
+###### Carrière musicale
 
 Melrose se définit comme autrice, compositrice et interprète. Elle arrange ses morceaux, fait les instrumentations et
 crée les productions de ses chansons, révélant une artiste complète qui maîtrise tous les aspects de sa création
@@ -45,7 +45,7 @@ festival réputé pour sa programmation éclectique et sa capacité à révéler
 festivalière lui permet de toucher un public plus large et de confirmer ses qualités de performer live, démontrant que
 son talent ne se limite pas au studio mais s'épanouit pleinement sur scène.
 
-## Style et influences
+###### Style et influences
 
 L'univers musical de Melrose s'inscrit dans une pop française contemporaine raffinée, où la modernité des productions
 rencontre l'authenticité de l'écriture. Son approche artistique privilégie l'émotion sincère et l'accessibilité
@@ -69,7 +69,7 @@ moderne. Elle n'hésite pas à mélanger instruments acoustiques et éléments �
 contemporaines qui enrichissent ses mélodies sans les surcharger. Cette approche équilibrée de la production fait de ses
 morceaux des objets musicaux complets, aussi efficaces en streaming qu'en live.
 
-## Actualité
+###### Actualité
 
 Après le succès de son premier EP "Fille parfaite", Melrose confirme sa place parmi les artistes émergents les plus
 prometteurs de la scène pop française contemporaine. Sa participation au Nantuafest 2024 marque une étape importante

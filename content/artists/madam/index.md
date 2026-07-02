@@ -21,7 +21,7 @@ débuts modestes, presque comiques, contrastent avec la puissance sonore que le 
 Le groupe est formé à Toulouse en 2017, s'inscrivant dans la riche tradition rock de la Ville Rose tout en apportant une
 énergie nouvelle et résolument féminine.
 
-##### L'identité musicale : power rock sans compromis
+###### L'identité musicale : power rock sans compromis
 
 La musique de MADAM, elles la font "avec leurs putains de tripes". Ce qu'elles veulent, c'est que les gens sentent ça,
 et qu'ils voient le plaisir qu'elles ont à monter sur scène, à ressortir moites de sueur, la bouche pâteuse, avec une
@@ -45,7 +45,7 @@ et respect pour le riot grrrl movement.
 On peut les ranger entre Les Jolis et Les Calamités, deux autres représentants de la scène garage et rock français,
 témoignant de leur ancrage dans le paysage hexagonal.
 
-##### Le processus créatif : l'écriture collective
+###### Le processus créatif : l'écriture collective
 
 Les trois musiciennes se sont enfermées dans des studios et ont écrit leurs premiers morceaux ensemble. C'est un
 processus qu'elles n'ont jamais lâché depuis. Cette approche collaborative garantit que chaque morceau porte l'empreinte
@@ -54,13 +54,13 @@ des trois personnalités, créant une cohésion sonore organique.
 Cette méthode de travail reflète également une philosophie égalitaire : MADAM n'est pas le projet d'une leader avec des
 musiciennes d'accompagnement, mais bien un collectif où chaque voix compte.
 
-##### EP I (2018)
+###### EP I (2018)
 
 Le premier EP, sorti le 16 octobre 2018, comprend quatre titres : "YOUR SONG", "DAY", "SCARECROW" et "THE RIDE". Ce
 premier opus pose les bases de l'identité sonore de MADAM et leur permet de se faire connaître sur la scène rock
 toulousaine et au-delà.
 
-##### EP II (2022)
+###### EP II (2022)
 
 Le second EP, sorti le 18 mars 2022, contient cinq morceaux : "Witches", "Rodeo", "Mad", "Fire" et "Bye Bye Palace". Ce
 deuxième EP a impressionné le public et la critique, confirmant que MADAM n'était pas un feu de paille mais un groupe
@@ -69,7 +69,7 @@ capable de maintenir et d'élever son niveau d'exigence.
 L'EP a été enregistré par Lo'Spider au Swampland, masterisé par Alexis Bardinet chez Globe Audio, avec une distribution
 numérique assurée par Baco Distribution, témoignant d'une structure de production professionnelle.
 
-##### Thanks for the Noise (2024)
+###### Thanks for the Noise (2024)
 
 Le 12 avril 2024, MADAM sort son premier album Thanks for the Noise, comprenant 12 titres pour une durée de 35
 minutes. Ce premier long format marque une étape majeure dans la carrière du trio.
@@ -84,7 +84,7 @@ public, aux lieux qui les accueillent, à tous ceux qui leur permettent de faire
 France Inter, par la voix de Djubaka, décrit ainsi leur musique : "Elles ont cet amour du bruit, livrant un rock tendu,
 sans fioritures, efficace coûte que coûte".
 
-##### La scène avant tout
+###### La scène avant tout
 
 MADAM a fait des concerts aussi vite qu'elles ont pu, parce que faire des concerts, c'est ce qu'elles aiment. Au début,
 il n'y avait personne, puis au fur et à mesure, il y avait un peu moins personne. Cette autodérision témoigne de
@@ -108,7 +108,7 @@ Leur approche ne repose pas sur une revendication militante affichée mais sur l
 créent : puissante, viscérale, sans compromis. Cette stratégie de "laisser parler la musique" s'avère peut-être plus
 efficace qu'un discours théorique.
 
-##### L'ancrage régional et l'ambition nationale
+###### L'ancrage régional et l'ambition nationale
 
 Basées à Toulouse, MADAM participe au dynamisme de la scène rock occitane tout en nourrissant des ambitions qui
 dépassent largement le cadre régional. Leur inscription dans des réseaux de booking et de distribution nationaux
@@ -117,7 +117,7 @@ témoigne de cette volonté d'élargissement.
 La Ville Rose offre un terreau fertile pour le rock indépendant, avec ses nombreuses salles de concert et son public
 fidèle. MADAM s'inscrit dans cette tradition tout en apportant une énergie nouvelle.
 
-##### Conclusion
+###### Conclusion
 
 MADAM incarne ce paradoxe fécond du rock : la capacité à exprimer simultanément la rage et la joie, la violence sonore
 et le plaisir de jouer ensemble. Leur musique ne cherche pas à plaire à tout le monde mais à créer une expérience

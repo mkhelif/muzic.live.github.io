@@ -35,7 +35,7 @@ proximité des scènes et la vue sur la mer.
 
 {{< carousel pictures="pictures/festival" alt="La Bonne Aventure" author="kdeleplace" >}}
 
-### Une édition rythmée par 4 scènes
+###### Une édition rythmée par 4 scènes
 
 Le festival s’articule autour de quatre espaces complémentaires :
 
@@ -45,7 +45,7 @@ Le festival s’articule autour de quatre espaces complémentaires :
 - **L’Embarcadère** : dédiée aux musiques électroniques et aux formats plus ludiques tel que la boom électro pour les
   enfants ou le roller dancing
 
-### Un samedi entre douceur et intensité
+###### Un samedi entre douceur et intensité
 
 Sous un soleil généreux, la journée du samedi alterne entre balades sur la digue et moments forts devant les scènes. La
 Grande Scène accueille quatre univers très différents, illustrant la diversité de la programmation :

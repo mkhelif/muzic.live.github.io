@@ -14,7 +14,7 @@ Nés dans les caves et les salles de répétition de Manchester, Aerial Salad in
 génération qui préfère les salles de 200 personnes aux arenas, et les labels indépendants aux majors. Leur musique est
 franche, directe, sans fioritures, mais portée par une énergie communicative qui fait mouche en concert.
 
-##### Une discographie en progression
+###### Une discographie en progression
 
 Leur premier album, *Roach*, sort en 2017 et les installe immédiatement dans le panorama punk anglais. Brut, rapide,
 sans compromis, il établit les fondations d'un son reconnaissable : riffs tranchants, mélodies immédiates, textes
@@ -26,7 +26,7 @@ Avec *R.O.I.* (paru plus récemment), Aerial Salad explore de nouvelles directio
 identité sonore. Ce troisième album, qu'ils définissent eux-mêmes comme du « Madchester Punk », montre un groupe en
 pleine maîtrise de son art, capable de surprendre sans se renier.
 
-##### Un ancrage DIY
+###### Un ancrage DIY
 
 Ce qui distingue Aerial Salad, c'est leur rapport sincère à la scène punk DIY : enregistrements sans artifice, tournées
 dans des salles à taille humaine, relation directe avec leur public. Ils représentent ce que le punk britannique a de

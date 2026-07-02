@@ -122,7 +122,7 @@ festival nyonnais.
 ![Programme Paléo 2026](program.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
-## Six jours, cinq scènes, tous les genres
+###### Six jours, cinq scènes, tous les genres
 
 La force de Paléo, depuis 49 éditions, est de faire cohabiter des univers que tout oppose — et cette année ne déroge pas
 à la règle. Chaque soirée dessine son propre arc narratif, du rock introspectif à l'électro cataclysmique, de la chanson
@@ -164,7 +164,7 @@ Sinclar et Timmy Trumpet — trompettiste de formation classique devenu star EDM
 prendra ses quartiers avec THK, Xana Romeo et un solide contingent roots, tandis que l'Ensemble Vocal Utopie livrera une
 Carmina Burana en plein air pour qui voudra terminer le festival dans la solennité.
 
-## Le grand Nord s'invite sur l'Asse
+###### Le grand Nord s'invite sur l'Asse
 
 C'est l'un des marqueurs identitaires de Paléo : chaque année, le Village du Monde met à l'honneur une région du globe à
 travers sa musique et sa culture. Pour cette 49e édition, le festival explore les pays nordiques — Finlande, Norvège,
@@ -177,14 +177,14 @@ Steve'n'Seagulls (bluegrass finlandais sous stéroïdes), la programmation nordi
 d'écoute du public romand. SKÁLD, Hindarfjäll, Maustetytöt, Antti Paalanen, Teksti-TV 666 et Tarrak complètent un
 panorama qui va du rituel chamanique au punk scandinave.
 
-## Seize artistes suisses au rendez-vous
+###### Seize artistes suisses au rendez-vous
 
 La scène helvétique est loin de faire de la figuration. Seize artistes suisses sont répartis sur les différentes scènes
 du festival, avec en figures de proue The Young Gods (quarante ans de carrière), le DJ et producteur Mosimann, et la
 Lausannoise Marie Jay. Parmi les noms à retenir : Soft Loft (Zurich), Nonante, Max Baby, St Graal, Camille Doe, Estelle
 Zamme, Braises de Velours ou encore le projet Bound by Endogamy.
 
-## Une programmation au féminin affirmée
+###### Une programmation au féminin affirmée
 
 Difficile de ne pas remarquer la place occupée par les femmes dans cette édition 2026. Katy Perry, Lorde, Vanessa
 Paradis, Theodora, Amelie Lens, Keny Arkana, Helena, Solann, Miki, Suzane, Luiza, Adèle Castillon, Marguerite, Sylvie
@@ -192,7 +192,7 @@ Kreusch, Eivør, Sprints, Jen Cardini… La programmation dessine une cartograph
 de la pop de stade au rap engagé, de l'électro techno au rock indé, de la chanson française à la folk nordique — avec
 une profondeur qui dépasse largement le geste symbolique.
 
-## Infos pratiques
+###### Infos pratiques
 
 - **Dates :** du mardi 21 au dimanche 26 juillet 2026
 - **Lieu :** Plaine de l'Asse, Nyon (Suisse)

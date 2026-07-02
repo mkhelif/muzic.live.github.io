@@ -17,7 +17,7 @@ militante, un rendez-vous de génération, un acte citoyen déguisé en célébr
 ans, il rassemble plus de 200 000 festivaliers autour d'une conviction simple : la musique peut aider à vaincre le
 sida.
 
-##### Une idée née de l'urgence
+###### Une idée née de l'urgence
 
 À la fin des années 1990, l'épidémie de VIH/sida fait encore des ravages, particulièrement dans les pays du Sud où
 l'accès aux trithérapies reste quasiment inexistant. **Luc Barruet**, fondateur de **Solidarité Sida** en 1992,
@@ -30,7 +30,7 @@ risqué — un festival militant sur un site prestigieux, avec des têtes d'affi
 cause — mais il est gagné. Le public répond présent, et Solidays s'installe durablement dans le paysage festivalier
 français.
 
-##### Un modèle solidaire unique
+###### Un modèle solidaire unique
 
 Ce qui distingue Solidays, c'est son **modèle économique intégralement dédié à la solidarité**. L'intégralité des
 bénéfices est reversée à Solidarité Sida pour financer des programmes de prévention, de soins et de soutien aux
@@ -42,7 +42,7 @@ Le festival repose également sur l'engagement de milliers de bénévoles — su
 assurent chaque année son bon fonctionnement. Ce modèle associatif, combiné à une programmation de haut niveau, fait
 de Solidays un événement à part dans l'écosystème des grands festivals européens.
 
-##### Une programmation éclectique et engagée
+###### Une programmation éclectique et engagée
 
 Musicalement, Solidays revendique une ouverture totale : pop, rock, électro, hip-hop, reggae, chanson française,
 musiques du monde. Au fil des éditions, la scène principale a accueilli des artistes majeurs comme **Stromae, Indochine,
@@ -55,14 +55,14 @@ sensibilisent le public aux enjeux de santé publique, de droits humains, d'éco
 discriminations. Des espaces de prévention, des débats, des expositions et des conférences complètent la
 programmation musicale, faisant du festival un véritable forum citoyen.
 
-##### L'esprit Solidays
+###### L'esprit Solidays
 
 Ce qui frappe chez Solidays, c'est l'ambiance. Un public jeune, métissé, joyeux, venu autant pour la musique que
 pour le sens que donne le festival à ce rassemblement. Le ruban rouge, symbole de la lutte contre le sida, est omniprésent.
 Les discours, les hommages, les minutes de silence rappellent que derrière chaque billet vendu, il y a un acte de
 solidarité. Cette dimension transforme Solidays en expérience collective où la fête et l'engagement se confondent.
 
-##### Actualité et héritage
+###### Actualité et héritage
 
 Malgré l'annulation des éditions 2020 et 2021 en raison de la pandémie de COVID-19, Solidays a su rebondir et
 retrouver son public dès 2022. Le festival poursuit aujourd'hui sa mission avec la même détermination, à l'heure où

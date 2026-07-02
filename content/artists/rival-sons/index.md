@@ -23,7 +23,7 @@ Michael Miley, le groupe émerge avec une mission claire : ramener l'âme et l'a
 Leurs débuts voient quatre musiciens refuser les artifices modernes pour se concentrer sur l'essence même du rock : des
 riffs puissants, des mélodies viscérales et une production organique qui capture l'énergie brute du live.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Le groupe connaît rapidement une reconnaissance critique avec "Pressure and Time" (2011) et "Head Down" (2012),
 établissant leur réputation de groupe rock authentique dans un paysage musical dominé par l'électronique.
@@ -37,7 +37,7 @@ La collaboration avec le producteur légendaire Dave Cobb apporte une dimension 
 Rival Sons devient rapidement le groupe de prédilection des puristes du rock cherchant une alternative authentique au
 rock commercial formaté, accumulant une base de fans fidèles à travers le monde.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Rival Sons fusionne blues rock, hard rock des années 1970 et touches psychédéliques dans un son qui évoque
 Led Zeppelin, Free et Bad Company tout en restant distinctif.
@@ -51,7 +51,7 @@ Influencés par les légendes du rock blues et enregistrant sur matériel analog
 Leurs compositions mêlent hymnes rock puissants et ballades soul, explorant des thématiques spirituelles et
 existentielles avec une profondeur rare dans le rock moderne.
 
-##### Actualité
+###### Actualité
 
 Rival Sons continue de porter le flambeau du rock authentique, sortant régulièrement des albums acclamés et livrant des
 performances live électrisantes qui rappellent l'âge d'or du rock.

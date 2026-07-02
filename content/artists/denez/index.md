@@ -11,7 +11,7 @@ chant a cappella. À seize ans, il monte sur les scènes des festoù-noz pour in
 ces complaintes bretonnes à la mélodie austère et au texte souvent poignant — devant des publics qui
 dansent et ne l'écoutent pas forcément. Il n'en a cure : il chante.
 
-##### La rupture des Trans Musicales
+###### La rupture des Trans Musicales
 
 Devenu professeur de breton en 1988, il abandonne l'enseignement quelques années plus tard pour se
 consacrer entièrement au chant. En 1992, une invitation aux Trans Musicales de Rennes change tout :
@@ -20,7 +20,7 @@ est immédiat. La modernité et l'archaïsme se rencontrent, et personne n'en re
 premier album *Ar gouriz koar* (Auvidis/Silex, 1993), d'abord conçu comme un outil promotionnel pour
 les organisateurs de festivals, trouve son chemin jusqu'à 50 000 acheteurs.
 
-##### Le pionnier de la fusion électronique bretonne
+###### Le pionnier de la fusion électronique bretonne
 
 En 1993, sa femme l'entraîne à une rave party à Rennes et la révélation est immédiate : la musique
 électronique peut accompagner le kan ha diskan. Il explore cette intuition en 1995 dans le projet

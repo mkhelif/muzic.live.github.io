@@ -11,7 +11,7 @@ résolument anecdotique — et donc parfaitement à leur image : les deux jeunes
 voix par hasard à la fin d'un repas de famille, et l'évidence est immédiate. Il n'y a plus qu'une voix
 là où il en existait deux, et c'est le point de départ de tout.
 
-##### Deux cousines, soixante concerts
+###### Deux cousines, soixante concerts
 
 Dès leurs premiers concerts dans les bars et festivals de Bourgogne et d'Auvergne, Copycat s'impose par
 son énergie brute et la complémentarité de ses deux protagonistes. En février 2024, le duo est
@@ -20,7 +20,7 @@ leur ouvre des portes et des scènes plus larges. L'année 2024 se déroule sous
 soixante concerts en France et en Suisse, un apprentissage intensif de la vie sur les routes et du
 rapport au public.
 
-##### Une reconnaissance qui s'accélère
+###### Une reconnaissance qui s'accélère
 
 En février 2025, Copycat est retenu pour la scène des Inouïs du Printemps de Bourges, l'une des plus
 importantes vitrines du renouveau musical français. Le 15 avril 2025, elles entrent pour la première

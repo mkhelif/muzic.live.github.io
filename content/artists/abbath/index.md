@@ -12,7 +12,7 @@ et 2000. Après une séparation conflictuelle d'avec ce groupe historique en 201
 sous son propre nom, entouré de nouveaux complices, pour poursuivre son exploration du black metal arctique qui
 l'a rendu célèbre.
 
-##### Des origines immortelles
+###### Des origines immortelles
 
 La carrière musicale d'Abbath Doom Occulta commence bien avant la fondation du groupe éponyme. Bassiste à
 l'origine, il co-fonde Immortal dès 1990 à Bergen, groupe qui deviendra l'une des formations les plus
@@ -28,7 +28,7 @@ nouveau chapitre. Dès l'annonce de la formation de son groupe solo, l'intérêt
 immédiat : Abbath reste l'une des figures les plus charismatiques et les plus respectées du black metal mondial,
 avec son jeu de scène unique, sa voix grave et rauque, et son look inimitable.
 
-##### Une carrière solo à part entière
+###### Une carrière solo à part entière
 
 Le premier album éponyme, *Abbath*, paraît en janvier 2016 sur le label Season of Mist. Il regroupe autour
 d'Abbath le bassiste King ov Hell (connu pour ses travaux avec God Seed et Gorgoroth) ainsi que le batteur
@@ -47,7 +47,7 @@ Le troisième album, *Dread Reaver*, paraît en 2022 et poursuit dans la même v
 groupe. Les riffs sont plus mélodiques par endroits, le tempo varie davantage, et l'ensemble démontre qu'Abbath
 n'a pas dit son dernier mot dans le paysage du metal extrême contemporain.
 
-##### Un style entre héritage et modernité
+###### Un style entre héritage et modernité
 
 Musicalement, Abbath s'inscrit dans la continuité directe du black metal norvégien de la seconde vague, celui
 des années 1990 qui a défini un genre entier. Les guitares glaciales, les voix caverneuses, les rythmiques

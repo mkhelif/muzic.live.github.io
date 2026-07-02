@@ -12,7 +12,7 @@ socials:
   spotify: "6vgw0jwJkUnW2NR1rzsQU3"
 ---
 
-### Genèse et formation
+###### Genèse et formation
 
 ###### Les origines (2004)
 
@@ -23,43 +23,43 @@ référence au "Mont Wu Tang" dans leur mythologie fondatrice n'est pas anodine 
 spirituelle avec le Wu-Tang Clan, ces autres révolutionnaires du hip-hop qui ont fait de l'indépendance créative leur
 credo.
 
-##### Le noyau créatif
+###### Le noyau créatif
 
 Le collectif s'articule autour de DJ Marseille Zé Mateo, High Ku et du beatmaker SLY. Leo le Bug et Le Yan gravitent
 également autour du groupe, participant régulièrement à la composition. Cette structure fluide, proche du collectif
 jazz, permet une créativité débridée où chaque membre apporte sa sensibilité unique.
 
-##### L'écosystème live
+###### L'écosystème live
 
 Sur scène, le groupe s'enrichit fréquemment de Taiwan MC, Youthstar et ASM (duo composé de Green T et FP), transformant
 chaque performance en une expérience collective unique. Cette approche modulaire du live reflète la philosophie même du
 groupe : le groove comme langue universelle, le métissage comme principe créateur.
 
-### ADN musical : le syncrétisme radical
+###### ADN musical : le syncrétisme radical
 
-##### Les fondations trip-hop
+###### Les fondations trip-hop
 
 Chinese Man s'inscrit dans la tradition du trip hop français tout en étant influencé par le hip-hop, le funk, le dub, le
 reggae et le jazz. Leur son s'enracine dans l'héritage des pionniers britanniques (Massive Attack, Portishead) et
 américains (DJ Shadow), mais le transcende par une approche méditerranéenne unique – plus solaire, plus organique, plus
 festive.
 
-##### L'école de Bristol revisitée
+###### L'école de Bristol revisitée
 
 Le trip-hop atteint son apogée entre 1994 et 1995 avec des labels comme Ninja Tune et des artistes comme DJ Food, The
 Herbaliser. Chinese Man arrive une décennie plus tard, héritant de cette tradition tout en la réinventant. Là où Bristol
 proposait une mélancolie urbaine et pluvieuse, Marseille apporte la chaleur méditerranéenne et une énergie
 communicative.
 
-##### L'innovation permanente
+###### L'innovation permanente
 
 Le groupe cherche constamment à créer un nouveau style de trip-hop influencé par tous les nouveaux genres musicaux
 entendus en soirée, incorporant drum and bass, dubstep et même des éléments de trap. Cette perméabilité aux tendances
 contemporaines, loin d'être opportuniste, témoigne d'une volonté de maintenir le trip-hop vivant et pertinent.
 
-### Discographie : L'évolution d'un son
+###### Discographie : L'évolution d'un son
 
-##### Les albums studios majeurs
+###### Les albums studios majeurs
 
 **Racing With the Sun (2011)**
 Premier album studio majeur du groupe, *Racing With the Sun* établit leur signature sonore : beats massifs, samples
@@ -75,15 +75,15 @@ Modern Slave" et "The New Crown" confirment leur capacité à fusionner conscien
 Après six ans de silence, le retour avec un album-somme qui synthétise vingt ans d'exploration musicale. Un kaléidoscope
 sonore où cumbia colombienne, orchestrations symphoniques et hip-hop polyglotte coexistent dans une harmonie organique.
 
-##### Les projets parallèles
+###### Les projets parallèles
 
 Outre leurs albums studios, le groupe multiplie les projets collectifs : EPs, remixes, albums live, et la série The
 Groove Sessions. Ces dernières, véritables laboratoires collaboratifs, voient Chinese Man s'associer à d'autres
 collectifs comme Scratch Bandits Crew et Baja Frequencia.
 
-### Influences et héritage
+###### Influences et héritage
 
-##### Les pères spirituels
+###### Les pères spirituels
 
 L'ADN de Chinese Man porte les empreintes de :
 
@@ -92,7 +92,7 @@ L'ADN de Chinese Man porte les empreintes de :
 - **Ninja Tune** : Le label londonien comme modèle d'indépendance créative
 - **Wu-Tang Clan** : Pour l'esprit de clan, l'indépendance farouche et le kung-fu cinématographique
 
-##### L'école française
+###### L'école française
 
 Chinese Man s'inscrit dans une tradition française du hip-hop instrumental sophistiqué, aux côtés de :
 
@@ -100,7 +100,7 @@ Chinese Man s'inscrit dans une tradition française du hip-hop instrumental soph
 - Wax Tailor et ses collages narratifs
 - C2C et leur turntablism virtuose
 
-##### La spécificité méditerranéenne
+###### La spécificité méditerranéenne
 
 Ce qui distingue Chinese Man, c'est l'injection d'une sensibilité méditerranéenne dans le trip-hop :
 
@@ -109,9 +109,9 @@ Ce qui distingue Chinese Man, c'est l'injection d'une sensibilité méditerrané
 - Approche festive et communautaire du live
 - Multilinguisme naturel (français, anglais, espagnol, créole)
 
-### Chinese Man Records : l'indépendance comme philosophie
+###### Chinese Man Records : l'indépendance comme philosophie
 
-##### Le Label-Manifeste
+###### Le Label-Manifeste
 
 Chinese Man Records, fondé simultanément au groupe, rassemble producteurs, beatmakers, DJs, graphistes et vidéastes.
 Plus qu'un label, c'est une école de pensée "groovalistik" qui prône :
@@ -121,14 +121,14 @@ Plus qu'un label, c'est une école de pensée "groovalistik" qui prône :
 - La collaboration internationale
 - Le visual comme extension du sonore
 
-##### L'écosystème créatif
+###### L'écosystème créatif
 
 Le label devient rapidement un incubateur de talents, permettant l'émergence d'artistes partageant cette vision
 syncrétique du hip-hop. Cette structure favorise les collaborations croisées, créant une émulation créative permanente.
 
-### Style musical : l'art de la fusion
+###### Style musical : l'art de la fusion
 
-##### La science du sample
+###### La science du sample
 
 Chinese Man maîtrise l'art du digging (recherche de samples) avec une approche encyclopédique :
 
@@ -137,7 +137,7 @@ Chinese Man maîtrise l'art du digging (recherche de samples) avec une approche 
 - **World music** : Folklores réinterprétés, instruments traditionnels détournés
 - **Jazz & soul** : Breaks funky, cuivres vintage, voix soul oubliées
 
-##### L'architecture sonore
+###### L'architecture sonore
 
 Leur construction musicale suit des principes précis :
 
@@ -146,7 +146,7 @@ Leur construction musicale suit des principes précis :
 3. **Dynamique narrative** : Morceaux conçus comme des mini-films sonores
 4. **Contraste émotionnel** : Alternance tension/relâchement, mélancolie/euphorie
 
-##### Le live comme rituel
+###### Le live comme rituel
 
 Sur scène, Chinese Man transcende le simple DJ set :
 
@@ -155,9 +155,9 @@ Sur scène, Chinese Man transcende le simple DJ set :
 - **Interaction public** : Le groove comme communion collective
 - **Scénographie immersive** : Projections visuelles synchronisées, light design sophistiqué
 
-### Impact et rayonnement
+###### Impact et rayonnement
 
-##### L'international
+###### L'international
 
 Chinese Man a su s'imposer mondialement sans renier ses racines :
 
@@ -166,7 +166,7 @@ Chinese Man a su s'imposer mondialement sans renier ses racines :
 - Collaborations transcontinentales
 - Influence sur la nouvelle génération de producteurs trip-hop
 
-##### L'Héritage
+###### L'Héritage
 
 Le groupe a redéfini les codes du trip-hop pour le XXIe siècle :
 
@@ -175,7 +175,7 @@ Le groupe a redéfini les codes du trip-hop pour le XXIe siècle :
 - Bridge entre cultures musicales mondiales
 - Inspiration pour le renouveau du hip-hop instrumental français
 
-### Conclusion : les alchimistes du groove
+###### Conclusion : les alchimistes du groove
 
 Chinese Man incarne cette rare alchimie entre exigence artistique et générosité communicative. Vingt ans après leur
 formation, ils demeurent des explorateurs infatigables, transformant chaque album en voyage initiatique, chaque concert

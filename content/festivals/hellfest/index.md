@@ -34,7 +34,7 @@ projet et permettra son développement exponentiel. Le choix de maintenir Clisso
 médiévale pittoresque située près de Nantes, s'avère stratégique, créant une identité unique qui distinguera le Hellfest
 de tous les autres festivals européens.
 
-#### L'ascension fulgurante
+###### L'ascension fulgurante
 
 La première édition du Hellfest en juin 2006 (du 23 au 25) à Clisson remporte enfin le succès tant espéré avec 22 000
 visiteurs sur trois jours, permettant la reconduction de l'événement. Sur cette première affiche figurent près de 70
@@ -59,7 +59,7 @@ fait également l'un des plus grands festivals metal d'Europe et le plus importa
 accomplissement remarquable pour un événement né des cendres du Fury Fest. Le Hellfest démontre qu'avec passion,
 détermination et organisation rigoureuse, un projet local peut devenir un phénomène culturel d'envergure internationale.
 
-#### Architecture musicale et scénique
+###### Architecture musicale et scénique
 
 La programmation du Hellfest se caractérise par sa diversité exceptionnelle, couvrant un large spectre de la scène
 metal : du black metal à l'industriel, en passant par le death metal, le doom, le stoner, le sludge, le hardcore punk et
@@ -86,7 +86,7 @@ Metallica, programmation titanesque qui justifie pleinement la réputation mondi
 marque un accomplissement historique après 16 mois de travail intensif de l'organisation pour célébrer dignement la
 15ème année du Hellfest.
 
-#### Controverses et reconnaissance
+###### Controverses et reconnaissance
 
 Le parcours du Hellfest n'a pas été exempt de controverses, particulièrement entre 2007 et 2010, période marquée par des
 attaques virulentes de certains groupes religieux et conservateurs. En juin 2009, de nombreux groupes préoccupés par le
@@ -118,7 +118,7 @@ passant de subculture suspecte à phénomène culturel reconnu et valorisé. Cet
 plus large des rapports de pouvoir dans l'arène publique des confrontations médiatiques, où les conceptions hégémoniques
 cèdent progressivement face à une reconnaissance plus diverse de ce que signifie la culture française contemporaine.
 
-#### L'esprit unique du Hellfest
+###### L'esprit unique du Hellfest
 
 Ce qui frappe immédiatement lorsqu'on met les pieds au Hellfest, c'est l'ambiance extraordinairement conviviale qui
 règne sur le site. Malgré son nom évocateur et son logo en forme de cornes diaboliques, le festival n'est absolument pas
@@ -144,7 +144,7 @@ programmation finale, tant l'esprit du lieu transcende les simples consideration
 communautaire transforme chaque édition en célébration collective d'une culture partagée, en moment de retrouvailles
 annuelles où se tissent des amitiés durables et où se renforcent les liens d'une communauté soudée.
 
-#### Impact culturel et actualité
+###### Impact culturel et actualité
 
 Le Hellfest a révolutionné la perception du metal en France, transformant une musique longtemps marginalisée en
 phénomène culturel mainstream reconnu et valorisé. Aujourd'hui, le festival est une véritable institution, non seulement
@@ -189,7 +189,7 @@ dépassant largement son rôle initial de simple festival de musique. L'organisa
 constamment l'accessibilité pour les personnes en situation de handicap, garantissant que la passion pour le metal
 puisse être partagée par tous sans distinction.
 
-#### Héritage et perspectives
+###### Héritage et perspectives
 
 Près de vingt ans après sa création, le Hellfest a définitivement inscrit son nom parmi les festivals légendaires de
 l'histoire musicale européenne. Son parcours exemplaire, des modestes débuts du Fury Fest aux éditions gigantesques
@@ -228,7 +228,7 @@ permet aux talents français de se confronter aux meilleures productions mondial
 peut rivaliser avec n'importe quelle scène nationale. De nombreux groupes français considèrent leur passage au Hellfest
 comme un moment charnière de leur carrière, validation ultime de leur légitimité artistique.
 
-#### L'esprit Hellfest perdure
+###### L'esprit Hellfest perdure
 
 Ce qui distingue fondamentalement le Hellfest de tous les autres festivals, au-delà de sa programmation exceptionnelle
 et de son organisation irréprochable, c'est cet esprit unique qui règne sur le site durant ces quelques jours magiques

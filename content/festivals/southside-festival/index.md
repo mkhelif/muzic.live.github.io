@@ -15,7 +15,7 @@ Le Southside Festival est l'un des plus grands festivals de musique en plein air
 dizaines de milliers de passionnés de musique.
 
 
-#### Histoire et concept
+###### Histoire et concept
 
 Créé en 1999, le Southside Festival se déroule généralement à la fin du mois de juin dans le sud de l'Allemagne, à
 Neuhausen ob Eck, près du lac de Constance. Il s'agit du festival jumeau du Hurricane Festival qui se tient
@@ -24,7 +24,7 @@ alternent entre les deux sites pendant le week-end, créant ainsi une dynamique 
 allemande.
 
 
-#### Site et infrastructures
+###### Site et infrastructures
 
 Le festival prend place sur l'ancien aérodrome de Neuhausen ob Eck, transformé pendant quelques jours en une véritable
 ville éphémère. Le site comprend plusieurs scènes principales pour les têtes d'affiche ainsi que des scènes secondaires
@@ -34,7 +34,7 @@ culinaires, tandis que des zones de repos et d'animations permettent aux partici
 expérience festivalière.
 
 
-#### Programmation musicale
+###### Programmation musicale
 
 Le Southside Festival est reconnu pour sa programmation éclectique, couvrant principalement le rock indépendant et
 alternatif, la pop, l'électro, le punk, le métal et le hip-hop. Cette diversité musicale constitue l'une des forces
@@ -43,7 +43,7 @@ locaux en développement, offrant ainsi une vitrine représentative des tendance
 inclusive permet de satisfaire un large public tout en découvrant de nouveaux talents.
 
 
-#### Expérience festivalière
+###### Expérience festivalière
 
 Au-delà de la musique, le Southside propose une expérience immersive complète. Le site est souvent agrémenté
 d'installations artistiques originales qui enrichissent l'atmosphère du festival. Des activités interactives sont
@@ -52,7 +52,7 @@ conviviale et festive qui règne pendant ces quelques jours contribue à créer 
 fidélité d'une grande partie des participants qui reviennent année après année.
 
 
-#### Engagement environnemental et social
+###### Engagement environnemental et social
 
 Ces dernières années, le Southside Festival a considérablement renforcé ses initiatives en matière de développement
 durable. Des efforts importants sont déployés pour réduire l'empreinte écologique de l'événement, notamment à travers
@@ -61,7 +61,7 @@ des organisateurs, qui mettent en place des dispositifs adaptés aux personnes �
 mesures de prévention et de sécurité sont constamment améliorées pour garantir le bien-être de tous les participants.
 
 
-#### Informations pratiques
+###### Informations pratiques
 
 Le festival se déroule généralement sur trois jours complets, avec la possibilité d'arriver la veille pour s'installer
 confortablement sur les zones de camping. Différentes formules de billets sont proposées, incluant ou non l'accès au

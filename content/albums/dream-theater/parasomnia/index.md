@@ -26,7 +26,7 @@ Rudess (claviers) et Portnoy à la batterie.
 
 Le verdict ? Ils n'ont rien perdu. Mieux : ils reviennent avec une énergie renouvelée.
 
-#### Un concept onirique maîtrisé
+###### Un concept onirique maîtrisé
 
 Parasomnia s'articule autour des troubles du sommeil - ces expériences indésirables vécues pendant le repos. Huit
 morceaux, 71 minutes de metal progressif qui oscillent délibérément entre rêves doux et cauchemars. "Notre nom est
@@ -38,7 +38,7 @@ dans son exécution frénétique et ses ruptures de rythme. "A Broken Man" explo
 profondeur émotionnelle rare. Le concept permet au groupe d'alterner entre passages apaisants et déflagrations
 métalliques avec une cohérence narrative bienvenue.
 
-#### Une entrée fracassante
+###### Une entrée fracassante
 
 L'album s'ouvre sur "In the Arms of Morpheus", instrumental qui déploie dans ses premières minutes des guitares
 mélodiques et des roulements de batterie massifs évoquant Genesis version mid-70s, avant d'accélérer à vitesse metal.
@@ -49,7 +49,7 @@ plus tard, ils ont toujours ce qu'il faut pour mener la charge.
 À mi-parcours, les mélodies triomphantes familières reprennent le contrôle, mais le message est passé. La porte a été
 enfoncée, maintenant place à la démonstration.
 
-#### Le virtuosisme réinventé
+###### Le virtuosisme réinventé
 
 "Night Terror" (près de 10 minutes) représente presque parfaitement tout ce que Dream Theater incarne : riffs mémorables
 et accrocheurs, signatures rythmiques non-orthodoxes, transitions inattendues qui maintiennent l'attention sans jamais
@@ -62,7 +62,7 @@ complètement déchaîné. Le claviériste bénéficie de solos malades sur prat
 notable lors du solo de piano presque honky-tonk totalement inattendu sur l'épique finale de 19 minutes "The Shadow Man
 Incident". Ce moment surgit de nulle part et arrache instantanément un large sourire.
 
-#### La variété au service de l'émotion
+###### La variété au service de l'émotion
 
 Chaque morceau possède sa propre personnalité distincte. "Midnight Messiah" assume une vibe années 80 un peu kitsch mais
 absolument efficace - les paroles peuvent parfois pencher vers le superficiel ("Eyes open wide, but I can't see"), mais
@@ -73,7 +73,7 @@ L'album atteint un équilibre délicieusement satisfaisant : suffisamment lourd 
 mais toujours profondément ancré dans ces mélodies épiques et pensives et ces grooves jazzy stop-and-go que les fans
 hardcore espèrent.
 
-#### Les retrouvailles qui comptent
+###### Les retrouvailles qui comptent
 
 La pause de seize ans ne révèle pratiquement aucune toile d'araignée. La chimie entre Portnoy et ses anciens complices
 est intacte, comme s'ils ne s'étaient jamais quittés. C'est accessible, technique quand nécessaire mais jamais
@@ -85,7 +85,7 @@ sous quelque forme trouvera forcément quelque chose à aimer dans cet album. Si
 pour le jouer, ses doigts exploseraient probablement, mais ce n'est pas épuisant à écouter pour autant. Bien au
 contraire : c'est amusant, énergisant.
 
-#### Les petites imperfections
+###### Les petites imperfections
 
 Soyons honnêtes : quelques défauts subsistent. John Myung à la basse reste trop discret - on l'entend suivre et
 renforcer certains riffs, mais on aurait aimé le voir plus libéré, déchaîné comme par le passé. Le gars est un animal
@@ -96,7 +96,7 @@ contrôle respiratoire est excellent et qu'il atteint des notes massives impress
 crescendo de "The Shadow Man Incident". Pour les fans, c'est exactement ce qu'ils aiment. Pour les autres, ça reste un
 acquis taste.
 
-#### Verdict : La machine Dream Theater tourne à plein régime
+###### Verdict : La machine Dream Theater tourne à plein régime
 
 Parasomnia est plein de vigueur renouvelée, reflétant l'excitation palpable de leur fanbase dévouée. Dream Theater
 n'est jamais parti, mais paradoxalement, on a l'impression qu'ils sont de retour. Les attentes étaient astronomiques -

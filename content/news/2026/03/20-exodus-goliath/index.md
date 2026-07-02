@@ -11,7 +11,7 @@ Napalm Records. Le disque marque un double tournant pour le groupe : le retour d
 *Exhibit B: The Human Condition* en 2010 — et le premier album sur Napalm Records après plus de vingt ans chez Nuclear
 Blast.
 
-#### Un retour aux affaires
+###### Un retour aux affaires
 
 L'enregistrement de *Goliath* a été un processus plus long que prévu. Initialement planifiées pour 2024, les sessions
 ont été repoussées à début 2025 en raison d'une progression lente, avant d'être finalisées courant été 2025. Le mixage a
@@ -22,20 +22,20 @@ Le résultat est un disque de 54 minutes en dix titres qui ne fait aucune conces
 des riffs tranchants comme des rasoirs, Jack Gibson pose des lignes de basse menaçantes, et Tom Hunting martèle avec la
 précision qui a toujours fait sa réputation.
 
-#### Des collaborations inattendues
+###### Des collaborations inattendues
 
 La surprise du disque vient de ses invités. Peter Tägtgren, figure emblématique d'Hypocrisy et de PAIN, prête sa voix
 sur *The Changing Me*, un titre de plus de six minutes qui mêle mélodies sombres et brutalité. Plus inattendu encore, la
 violoniste Katie Jacoby apporte ses cordes sur le morceau-titre *Goliath*, ajoutant une dimension épique inhabituelle
 dans le répertoire d'Exodus.
 
-#### Un succès européen remarquable
+###### Un succès européen remarquable
 
 Les charts confirment la pertinence du retour : *Goliath* décroche le 2e rang en Norvège, le 3e au UK Rock & Metal, le
 4e en Autriche et en France (Rock & Metal), et le 9e en Allemagne. Des chiffres qui prouvent que la base de fans
 d'Exodus, loin de s'être érodée pendant les années Dukes, s'est peut-être même renforcée.
 
-#### Un calendrier de tournée digne du titre
+###### Un calendrier de tournée digne du titre
 
 Pour défendre *Goliath*, Exodus ne chômera pas : le groupe accompagnera Megadeth sur les dates canadiennes de leur
 tournée d'adieu, Kreator sur la tournée européenne « Krushers of the World », et Sepultura pour leur dernière tournée

@@ -18,7 +18,7 @@ influences résolument anglo-saxonnes — The Beatles, Prince, Oasis —, les de
 Ce déracinement volontaire va profondément marquer la couleur musicale du groupe, dont le son brasse pop, rock,
 funk et électro dans une production très imprégnée de la scène britannique contemporaine.
 
-##### Succès et reconnaissance
+###### Succès et reconnaissance
 
 Avec 1,5 million de streams et 35 millions de vues sur les réseaux sociaux, Saults ont su fédérer une
 communauté fidèle de plus de 250 000 abonnés. En 2024, le groupe franchit un cap supplémentaire en enregistrant

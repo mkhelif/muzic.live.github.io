@@ -15,7 +15,7 @@ Le groupe suédois Sabaton s'apprête à frapper un grand coup avec la sortie de
 pour le 17 octobre 2025. Fidèles à leur réputation de conteurs épiques de l'Histoire, les cinq musiciens franchissent
 cette fois-ci un nouveau cap en remontant bien plus loin dans le temps que leurs précédents opus.
 
-#### Un voyage dans l'Histoire ancienne
+###### Un voyage dans l'Histoire ancienne
 
 Avec "Legends", le groupe dépasse le champ de bataille de l'histoire militaire moderne pour voyager très loin dans le
 passé. À travers 11 morceaux puissants, Sabaton donne vie aux figures les plus légendaires de l'Histoire : Jeanne d'Arc,
@@ -23,7 +23,7 @@ Napoléon Bonaparte, Jules César et le légendaire sabreur Miyamoto Musashi. L'
 historiques marquants, incluant les Templiers durant les croisades, les invasions et conquêtes de Gengis Khan, et la
 traversée des Alpes par Hannibal.
 
-#### Une évolution naturelle pour le groupe
+###### Une évolution naturelle pour le groupe
 
 Joakim Brodén, leader emblématique du groupe, explique la genèse de cet album : "Les légendes ont toujours été tissées
 dans notre musique, et l'album 'Heroes' en est le parfait exemple ! Je suis incroyablement fier de 'Heroes' et de tout
@@ -35,14 +35,14 @@ regardons plus loin dans l'histoire que ces dernières années, en allant à des
 tant que passionné du Moyen Âge, des chevaliers et des légendes anciennes, c'était incroyable de finalement amener ces
 histoires dans l'univers de Sabaton."
 
-#### Tracklist et singles
+###### Tracklist et singles
 
 Le premier single "Templars" est sorti le 25 avril 2025, suivi de deux autres titres dévoilés en juillet : "The Duelist"
 et "Lightning at the Gates". Ces morceaux offrent un avant-goût de ce que le groupe décrit comme "une odyssée rock
 inoubliable qui traverse le temps et les frontières, avec des riffs de guitare envolés, des chœurs qui donnent la chair
 de poule et des refrains massifs".
 
-#### Une sortie événement
+###### Une sortie événement
 
 L'album sera disponible dans divers formats physiques et exclusivités incluant des CD, un digibook 2 CD et un earbook 2
 CD (tous deux incluant l'édition exclusive Storyteller), 11 éditions vinyle uniques au total (incluant une couleur

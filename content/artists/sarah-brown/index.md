@@ -28,7 +28,7 @@ grands, s'étend sur plus de trois décennies. Mais Sarah Brown est aussi, et de
 — une femme qui, après des années à prêter sa voix aux autres, a trouvé le courage de prendre le micro pour elle-même et
 de rendre hommage à celle qui a tout déclenché : **Mahalia Jackson**.
 
-## Aylesbury, l'église pentecôtiste et les grandes femmes noires
+###### Aylesbury, l'église pentecôtiste et les grandes femmes noires
 
 Sarah Brown grandit à **Aylesbury**, petite ville de marché au nord-ouest de Londres, dans une famille d'origine
 caribéenne. Enfant, elle écoute la collection de disques de ses parents — **Mahalia Jackson** et **Jim Reeves** en
@@ -49,7 +49,7 @@ avec un label majeur**, CBS Records. L'album *Sweet Inspiration* sort en 1985. L
 entier, joue devant la Reine à Londres et apparaît à la télévision. Sarah en est l'une des chanteuses principales
 pendant dix ans.
 
-## Stevie Wonder, la session et l'art de l'écoute
+###### Stevie Wonder, la session et l'art de l'écoute
 
 C'est au sein de la chorale que Sarah développe ce qu'elle considère comme sa compétence la plus précieuse : l'écoute.
 « La chose la plus importante que j'ai apprise de la chorale, c'est savoir écouter la voix avec laquelle on travaille et
@@ -62,7 +62,7 @@ leur album *Let Somebody Love You* (1996) engendre un single numéro un au Japon
 Red**, ce qui la conduit à auditionner pour la tournée de réunion de **Roxy Music** en 2001. « L'audition était
 absolument incroyable », se souvient-elle.
 
-## Roxy Music, Simple Minds, Duran Duran, Pink Floyd
+###### Roxy Music, Simple Minds, Duran Duran, Pink Floyd
 
 Ses performances sur scène avec Roxy Music attirent l'attention de **Simple Minds** et de **Duran Duran**. Avec le
 premier, l'histoire est savoureuse : il faudra trois messages téléphoniques de **Jim Kerr** avant que Sarah ne parvienne
@@ -75,7 +75,7 @@ groupe. Elle décrit le lien vocal qu'elle partage avec Jim Kerr comme quelque c
 juste comprendre la voix de Jim et le type de couleur dont il a besoin. Il est un chanteur incroyable, et il n'a pas
 besoin de grand-chose. Juste un peu de couleur ici et là. »
 
-## *I'm On My Way* : l'hommage à Mahalia Jackson
+###### *I'm On My Way* : l'hommage à Mahalia Jackson
 
 Après des décennies à mettre sa voix au service des autres, Sarah Brown a franchi le pas le plus courageux de sa
 carrière : prendre le micro pour elle-même. Son album **I'm On My Way** est un hommage à **Mahalia Jackson** — la femme
@@ -89,7 +89,7 @@ Abbey Road** avec les meilleurs musiciens, est inspiré par le jazz, le blues et
 style que j'essayais d'atteindre était influencé par le jazz primitif, le blues et les spirituals. Je n'allais y
 parvenir qu'avec les meilleurs musiciens — et c'est exactement ce que j'ai. »
 
-## La voix comme instrument de guérison
+###### La voix comme instrument de guérison
 
 Au-delà de la musique, Sarah Brown porte un projet profondément personnel : utiliser la voix comme **outil de guérison
 **. Forte de son expérience — le chant l'a aidée à traverser le divorce de ses parents, à trouver une assurance en
@@ -98,7 +98,7 @@ thérapeutique de la voix. « Je voudrais proposer des ateliers sur la façon do
 travers l'expression du son qui vibre dans cette partie de vous, je pense qu'on peut guérir n'importe quelle tristesse,
 n'importe quel problème. Ma voix m'a guérie. Et j'aimerais transmettre ça. »
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Sarah Brown est l'une de ces artistes essentielles dont le grand public ignore le nom — et pourtant, sa voix a
 accompagné certains des plus grands moments de la musique populaire des quarante dernières années. De la chorale

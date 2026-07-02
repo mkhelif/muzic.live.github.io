@@ -21,7 +21,7 @@ rapidement un style unique qui mélange virtuosité instrumentale et composition
 Leurs débuts révèlent une formation exceptionnellement talentueuse qui repousse les limites techniques du metal tout en
 conservant une accessibilité mélodique remarquable.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Dream Theater se fait connaître avec des albums comme "Images and Words" et "Metropolis Pt.
 
@@ -33,7 +33,7 @@ Le groupe développe un catalogue impressionnant qui témoigne de leur évolutio
 Leurs compositions, souvent conceptuelles, révèlent une ambition artistique rare dans le metal, mêlant technicité
 instrumentale époustouflante et profondeur émotionnelle.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Dream Theater combine metal progressif, rock symphonique et influences jazz-fusion, créant un son complexe
 et sophistiqué qui a défini les standards du metal progressif moderne.
@@ -44,7 +44,7 @@ moments mélodiques accessibles.
 Leurs influences puisent dans Rush, Yes, Pink Floyd et Metallica, créant une synthèse unique qui a inspiré toute une
 génération de groupes de metal progressif.
 
-##### Actualité
+###### Actualité
 
 Dream Theater continue de définir les standards du metal progressif mondial, maintenant leur statut de référence absolue
 du genre à travers des albums et des tournées qui repoussent constamment les limites artistiques et techniques.

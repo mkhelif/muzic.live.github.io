@@ -18,7 +18,7 @@ entre ses racines latino-américaines et les influences afro-américaines, créa
 le Santana Blues Band en 1966, qui deviendra rapidement Santana, posant les bases d'une révolution musicale qui marquera
 à jamais l'histoire du rock.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière de Santana explose lors du festival de Woodstock en 1969, où leur performance électrisante révèle au monde
 leur fusion révolutionnaire entre rock, latin et blues. Leur premier album "Santana" (1969) devient immédiatement un
@@ -27,7 +27,7 @@ d'innover, collaborant avec des artistes de tous horizons et explorant constamme
 album "Supernatural" (1999) prouve sa capacité à se réinventer et à toucher de nouvelles générations, remportant neuf
 Grammy Awards et confirmant son statut de légende vivante.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Santana révolutionne la musique populaire en fusionnant rock, latin, blues, jazz et musiques du monde dans
 une synthèse unique et immédiatement reconnaissable. La guitare de Carlos Santana possède un son distinctif, mélodique
@@ -35,7 +35,7 @@ et spirituel, capable de transcender toutes les barrières culturelles. Ses infl
 mexicaine, le blues de B.B. King, le jazz de John Coltrane et les musiques afro-cubaines, créant un langage musical
 universel. Cette approche ouvre la voie au world music et influence d'innombrables musiciens à travers le monde.
 
-##### Actualité
+###### Actualité
 
 Santana continue de tourner et d'enregistrer avec une énergie remarquable, maintenant sa réputation de guitariste et
 compositeur d'exception. Sa résidence à Las Vegas et ses tournées mondiales témoignent de sa popularité intacte auprès

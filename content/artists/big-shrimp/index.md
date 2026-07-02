@@ -10,7 +10,7 @@ Sage Cowen (guitare, chant), Max Perrotti (basse, chant), Daniel Cohen (claviers
 chant), le groupe s'inscrit dans la tradition américaine du jam band tout en y injectant une énergie funk et une
 curiosité musicale débridée.
 
-##### Un son en perpétuel mouvement
+###### Un son en perpétuel mouvement
 
 Avec un répertoire dépassant la centaine de compositions originales, Big Shrimp mise sur l'improvisation et la
 liberté scénique comme moteurs de leur musique. Leurs concerts, reconnus pour leur dynamisme et leurs prises de

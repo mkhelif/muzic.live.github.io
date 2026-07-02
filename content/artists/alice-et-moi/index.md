@@ -18,7 +18,7 @@ ce qui l'amène naturellement à développer ses talents artistiques dès son pl
 Sa passion pour l'écriture et la composition se manifeste très tôt, et elle commence à créer ses premières chansons à
 l'adolescence, puisant son inspiration dans les émotions et les expériences de sa génération.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Alice et Moi se fait connaître grâce à ses premiers singles qui révèlent immédiatement son potentiel artistique et sa
 personnalité musicale unique.
@@ -30,7 +30,7 @@ humaines avec une sincérité touchante.
 Ses compositions révèlent une maturité artistique précoce et une capacité à créer des mélodies mémorables qui marquent
 l'auditeur.
 
-##### Style et influences
+###### Style et influences
 
 Le style musical d'Alice et Moi s'inscrit dans la tradition de la chanson française contemporaine, tout en y apportant
 une modernité et une fraîcheur qui séduisent un public jeune.
@@ -41,7 +41,7 @@ une attention particulière portée à l'équilibre entre mélodie et paroles.
 Sa capacité à créer une intimité particulière avec l'auditeur témoigne d'un talent naturel pour la communication
 émotionnelle.
 
-##### Actualité
+###### Actualité
 
 Alice et Moi continue de développer sa carrière avec de nouveaux projets musicaux et des performances scéniques qui
 confirment son potentiel artistique.

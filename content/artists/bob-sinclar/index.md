@@ -15,7 +15,7 @@ membre de Daft Punk, donne naissance à l'un de ses premiers succès : Gym & Ton
 des samples non autorisés de cassettes de fitness de Jane Fonda. En 1994, il cofonde avec DJ Yellow le
 label Yellow Productions, qui devient l'un des foyers de la house music française.
 
-##### Naissance de Bob Sinclar
+###### Naissance de Bob Sinclar
 
 La transition vers le nom Bob Sinclar — emprunté à un personnage du film Le Magnifique (1973) —
 accompagne un changement de cap artistique vers la house music et la nu-disco. Son premier album Paradise
@@ -27,7 +27,7 @@ premier plan. Mais c'est en 2005 que la carrière de Bob Sinclar bascule défini
 mondiale avec "Love Generation", un hymne feel-good qui envahit les charts du monde entier et devient l'un
 des tubes de l'été les plus mémorables de la décennie.
 
-##### Des tubes en série
+###### Des tubes en série
 
 L'élan ne faiblit pas. L'année suivante, "World, Hold On (Children of the Sky)", en collaboration avec
 Steve Edwards, lui vaut une nomination aux Grammy Awards et confirme sa maîtrise du format single grand
@@ -39,7 +39,7 @@ longévité d'un artiste capable de se renouveler sans perdre son public. Tout a
 Sinclar collectionne les collaborations et les résidences dans les clubs les plus prestigieux du monde,
 d'Ibiza à Las Vegas.
 
-##### Un DJ citoyen du monde
+###### Un DJ citoyen du monde
 
 Derrière les paillettes et les palmiers qui ornent souvent son imagerie, Bob Sinclar cultive une vision
 positive et solaire de la musique électronique. Sa musique est un invitat­ion au voyage, à la fête et à

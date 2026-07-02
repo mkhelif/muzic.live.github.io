@@ -22,7 +22,7 @@ Birmingham.
 Composé de musiciens blancs et noirs, UB40 incarne dès ses débuts une vision multiculturelle du reggae, apportant leur
 propre sensibilité britannique à ce genre originaire de Jamaïque.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Le groupe connaît un succès immédiat au Royaume-Uni avec des albums comme "Signing Off" (1980) et "Present Arms" (1981),
 qui mêlent reggae engagé et conscience sociale.
@@ -37,7 +37,7 @@ groupes reggae les plus commercialement réussis de l'histoire.
 Le groupe traverse plusieurs configurations, avec des séparations et reformations, mais continue de représenter le
 reggae britannique à travers le monde.
 
-##### Style et influences
+###### Style et influences
 
 Le style d'UB40 se caractérise par un reggae mélodique et accessible, moins roots que leurs homologues jamaïcains, avec
 des arrangements soignés et une production léchée.
@@ -51,7 +51,7 @@ diluer l'esprit.
 Les cuivres généreux, les claviers atmosphériques et la voix reconnaissable d'Ali Campbell (jusqu'en 2008) définissent
 leur identité sonore qui a inspiré d'innombrables artistes.
 
-##### Actualité
+###### Actualité
 
 UB40 continue de tourner sous différentes formations, maintenant l'héritage du reggae britannique vivant pour de
 nouvelles générations de fans.

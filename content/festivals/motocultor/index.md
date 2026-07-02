@@ -20,7 +20,7 @@ metal, du heavy classique au black metal, du death brutal au rock alternatif, du
 restant fidèle à une philosophie qui n'a jamais changé : un festival à taille humaine, convivial, exigeant
 artistiquement et accessible. Le petit frère du Hellfest est devenu grand. Et il n'a pas perdu son âme en route.
 
-## Les origines : un groupe de reprises disco et un rêve de festival
+###### Les origines : un groupe de reprises disco et un rêve de festival
 
 Tout commence par un groupe de musique. En 2006, une bande d'amis du pays de Vannes fonde un groupe appelé
 **Motocultor** — un projet décalé qui fait des reprises disco de génériques de séries d'animation, le tout saupoudré de
@@ -32,7 +32,7 @@ de Saint-Nolff. L'idée germe : créer son propre festival en plein air dans le 
 en tête d'affiche. Le 25 août 2007, la **première édition** a lieu à **Saint-Avé**, dans la salle de sport Pierre Le
 Nouail. 200 personnes, sept groupes — dont The ARRS, Origin Hell et Arcania. Le Motocultor Festival est né.
 
-## De Saint-Avé à Saint-Nolff : les années de construction
+###### De Saint-Avé à Saint-Nolff : les années de construction
 
 La croissance est organique, patiente, parfois chaotique. En 2008, toujours à Saint-Avé, 350 spectateurs. En 2009, le
 festival prévu à Arradon est **annulé par la mairie** — l'imagerie du groupe Hanzel und Gretyl a effrayé les élus. Une
@@ -49,7 +49,7 @@ Les éditions suivantes confirment la montée en puissance : 20 000 spectateurs 
 Après deux annulations en 2020 et 2021 pour cause de Covid, l'édition 2022 — la dernière à Saint-Nolff — accueille **44
 000 personnes** sur quatre jours avec une quatrième scène.
 
-## Le déménagement à Carhaix : un crève-cœur et un renouveau
+###### Le déménagement à Carhaix : un crève-cœur et un renouveau
 
 En 2022, le couperet tombe : la mairie de Saint-Nolff refuse le format quatre jours sans donner de raison. L'incertitude
 sur les terrains de parking et l'impossibilité d'aménager le site rendent la situation intenable. Yann Le Baraillec
@@ -65,7 +65,7 @@ scènes. Le public breton passe de 39 % à 45 % — dans le Finistère, une pers
 à la fois un crève-cœur de quitter Saint-Nolff et en même temps une sorte de nouvelle chance, un renouveau », confie le
 fondateur. « Voir que la greffe prend, que le public suit, c'est fort. »
 
-## L'ADN : toutes les chapelles du metal, sans frontières ni concessions
+###### L'ADN : toutes les chapelles du metal, sans frontières ni concessions
 
 Ce qui fait la force du Motocultor dans le paysage festival metal français — dominé par le Hellfest — c'est sa capacité
 à réunir **toutes les familles du metal** sur un même week-end, sans se limiter à un seul courant esthétique. Heavy
@@ -83,7 +83,7 @@ L'ancrage breton est également revendiqué : chaque édition fait une place aux
 et depuis le déménagement à Carhaix, le festival intègre des éléments de culture bretonne — comme la collaboration entre
 Celkilt et le Bagad Ar Meilhoù Glaz de Quimper, ou la présence du chanteur breton Denez dans la programmation 2026.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Le Motocultor est le festival qui n'aurait jamais dû exister — et qui existe quand même, envers et contre tout. Annulé
 par une mairie effrayée par l'imagerie d'un groupe en 2009. Deux fois annulé par le Covid. Contraint de quitter sa ville

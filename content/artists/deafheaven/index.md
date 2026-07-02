@@ -11,7 +11,7 @@ recrutent rapidement de nouveaux membres avant de signer chez Deathwish Inc. et 
 album *Roads to Judah* en 2011. Le groupe popularise alors un style inédit — mélange de black metal,
 de shoegaze et de post-rock — que la presse anglophone baptise « blackgaze ».
 
-##### Sunbather, le disque qui change tout
+###### Sunbather, le disque qui change tout
 
 En 2013, *Sunbather* fait l'effet d'une déflagration. Encensé par des médias aussi divers que Pitchfork
 (qui le sacre album de l'année), les revues metal et la presse grand public, le disque prouve que le
@@ -20,7 +20,7 @@ noient les blast beats sous des nappes de shoegaze rose et or ; la voix de Clark
 de mort et murmure. *New Bermuda* (2015) et *Ordinary Corrupt Human Love* (2018) explorent d'autres
 facettes de cet équilibre fragile.
 
-##### Une évolution constante
+###### Une évolution constante
 
 *Infinite Granite* (2021) marque un virage spectaculaire vers le shoegaze pur, avec un chant clean omniprésent
 et une quasi-disparition du black metal. *Lonely People with Power* (2025) réintègre les éléments

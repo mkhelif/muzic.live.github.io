@@ -22,7 +22,7 @@ signe sans doute son œuvre la plus grave et la plus ambitieuse — un disque ha
 l'au-delà, que les deux créateurs ont écrit après avoir chacun perdu des proches durant la production. Le résultat est
 bouleversant.
 
-#### Une montagne entre l'Inde et le monde
+###### Une montagne entre l'Inde et le monde
 
 Enregistré entre l'Inde, Londres et ailleurs, **The Mountain** prend racine dans la **musique classique indienne** :
 le sitar d'**Anoushka Shankar**, la flûte d'**Ajay Prasanna**, le sarod des frères **Amaan et Ayaan Ali Bangash**
@@ -30,7 +30,7 @@ irriguent l'album d'un bout à l'autre, tissant un fil rouge envoûtant entre de
 en hindi, en espagnol et en yoruba. Loin du collage de tubes, Gorillaz signe ici un disque-paysage, d'une cohérence
 rare, où l'électronique et la pop dialoguent avec des traditions millénaires.
 
-#### Un dialogue avec les morts
+###### Un dialogue avec les morts
 
 C'est la grande idée, vertigineuse, de l'album : convoquer les disparus. La liste des invités ressemble à une procession
 de fantômes magnifiques — **Dennis Hopper**, **Bobby Womack**, **Tony Allen**, **Dave Jolicoeur** (De La Soul),
@@ -39,7 +39,7 @@ de fantômes magnifiques — **Dennis Hopper**, **Bobby Womack**, **Tony Allen**
 **Sparks**, **Bizarrap**, **Trueno**, **Yasiin Bey**, **Omar Souleyman**, **Asha Bhosle**, **Paul Simonon**, **Gruff
 Rhys**… Plus qu'un défilé de featurings, c'est une communauté d'âmes que Gorillaz rassemble au pied de sa montagne.
 
-#### Des sommets
+###### Des sommets
 
 Les singles balisent un parcours d'une richesse folle. **« The Happy Dictator »**, porté par les Sparks, déploie une
 ironie grinçante ; **« The God of Lying »** électrise l'album d'un sursaut rageur grâce à IDLES ; **« Damascus »** marie
@@ -48,7 +48,7 @@ la transe d'Omar Souleyman au phrasé de Yasiin Bey dans l'un des moments les pl
 l'effervescence sud-américaine de Bizarrap. Et puis il y a ces ballades spectrales — **« The Moon Cave »**,
 **« The Sweet Prince »**, **« The Sad God »** — où la voix d'Albarn, plus fragile que jamais, semble parler aux absents.
 
-#### Une œuvre de deuil et de beauté
+###### Une œuvre de deuil et de beauté
 
 Tout n'est pas d'un accès immédiat : **The Mountain** demande du temps, se mérite, refuse la facilité du single qui
 tue. Sa densité, sa gravité, son refus du tube fédérateur en feront sans doute le Gorillaz le moins « pop » de la
@@ -56,7 +56,7 @@ discographie. Mais c'est précisément là sa force : en transformant le deuil e
 atteignent une profondeur émotionnelle qu'on ne leur connaissait pas. Salué par une critique unanime, numéro un des
 charts britanniques — leur troisième —, l'album confirme que le projet virtuel n'a jamais été aussi humain.
 
-#### Verdict
+###### Verdict
 
 **The Mountain** n'est pas un disque de Gorillaz comme les autres : c'est leur requiem, leur sommet, peut-être leur
 chef-d'œuvre tardif. Ambitieux jusqu'au vertige, cohérent dans son éclectisme, traversé par la perte et sublimé par les

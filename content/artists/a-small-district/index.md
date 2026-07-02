@@ -14,7 +14,7 @@ Depuis leurs débuts, le groupe publie régulièrement des EPs et des singles qu
 constante. Parmi leurs sorties récentes figurent « The Thin Line » (2025) et « Glowing Ashes » (2024), qui confirment
 leur capacité à renouveler leur formule tout en restant fidèles à leur identité sonore.
 
-##### Un nu-metal contemporain
+###### Un nu-metal contemporain
 
 Le style d'A Small District s'inscrit dans la continuité du nu-metal — ce genre apparu dans les années 1990 qui fusionne
 metal, hip-hop, funk et rock alternatif — tout en l'ancrant dans une sensibilité contemporaine. Leurs compositions

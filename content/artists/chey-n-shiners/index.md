@@ -18,7 +18,7 @@ recréer l'authenticité et l'énergie brute des pionniers du genre.
 Leurs débuts révèlent une formation qui maîtrise parfaitement les codes du rock classique tout en y apportant une
 modernité et une fraîcheur qui séduisent un public jeune en quête d'authenticité rock.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Chey 'N' Shiners développe sa notoriété grâce à des compositions rock efficaces et des performances scéniques énergiques
 qui révèlent leur passion pour le genre.
@@ -29,7 +29,7 @@ et l'authenticité sur la sophistication technique.
 Leurs albums témoignent d'une évolution artistique constante et d'une volonté de maintenir vivant l'esprit du rock
 traditionnel dans un contexte musical contemporain.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Chey 'N' Shiners puise dans le rock garage, le blues-rock et les influences du rock traditionnel américain
 et britannique, créant un son authentique qui évoque les grands classiques du genre.
@@ -40,7 +40,7 @@ communicative qui enflamme les scènes de concert.
 Leurs influences révèlent un profond respect pour l'héritage du rock tout en cherchant à l'adapter aux sensibilités
 contemporaines.
 
-##### Actualité
+###### Actualité
 
 Chey 'N' Shiners continue de représenter cette facette authentique et énergique du rock français, maintenant vivante la
 tradition du genre tout en l'adaptant aux attentes du public contemporain.

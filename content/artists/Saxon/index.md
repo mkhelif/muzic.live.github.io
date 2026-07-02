@@ -28,7 +28,7 @@ Le groupe, mené par le chanteur charismatique Biff Byford, a vendu plus de 15 m
 influencé d'innombrables formations metal. Leur contribution à l'évolution du genre dépasse largement leur succès
 commercial, Saxon ayant participé activement à définir les codes esthétiques et sonores du heavy metal européen.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Saxon débute sa carrière discographique avec l'album éponyme "Saxon" en 1979, suivi rapidement par "Wheels of Steel" (
 1980) qui propulse le groupe sur le devant de la scène metal internationale. Ce dernier album, porté par des titres
@@ -54,7 +54,7 @@ puissance ni de sa capacité à composer des morceaux mémorables. Leur producti
 et "Hell, Fire and Damnation" (2024), confirme que Saxon demeure une force créative pertinente dans le paysage metal
 contemporain.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Saxon puise ses racines dans le hard rock des années 1970, avec des influences manifestes de Led Zeppelin,
 Deep Purple et Judas Priest. Leur approche du heavy metal privilégie la clarté des riffs, l'efficacité des structures et
@@ -79,7 +79,7 @@ thrash metal américain comme Metallica et Megadeth que la scène power metal eu
 accessibilité mélodique et puissance brute, a démontré qu'il était possible de créer du metal populaire sans sacrifier
 l'intégrité artistique.
 
-##### Actualité
+###### Actualité
 
 Saxon continue aujourd'hui de tourner intensivement à travers le monde, se produisant dans des festivals majeurs et des
 salles de concert avec une régularité impressionnante. Leur énergie scénique, loin de s'être émoussée avec le temps,

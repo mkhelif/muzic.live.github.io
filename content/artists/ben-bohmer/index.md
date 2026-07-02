@@ -10,7 +10,7 @@ techno européenne. Formé au piano et à la trompette dès l'enfance, il décou
 de seize ans avant de rejoindre Berlin, attirée par la liberté créatrice de la capitale allemande et de ses clubs
 légendaires.
 
-##### L'ascension via Anjunadeep
+###### L'ascension via Anjunadeep
 
 Sa rencontre décisive avec le producteur américain Lane 8 en 2017 ouvre les portes du label Anjunadeep, réputé
 pour sa house mélancolique et ses atmosphères profondes. Breathing (2019), son premier album, s'impose comme une
@@ -18,7 +18,7 @@ révélation : une musique émotionnellement chargée, aux arrangements soignés
 avec le décès de son mentor et professeur de piano Christoph Busse. Le disque cumule des millions d'écoutes et
 lui vaut une reconnaissance internationale immédiate.
 
-##### Une carrière en expansion
+###### Une carrière en expansion
 
 Begin Again (2021) confirme son talent pour les paysages sonores immersifs, alliant euphorie douce et tension
 intérieure. Sa notoriété se construit aussi grâce à des sets Cercle remarquables — notamment depuis l'Acropole

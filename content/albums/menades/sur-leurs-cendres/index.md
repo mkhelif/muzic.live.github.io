@@ -23,7 +23,7 @@ batterie) livrent enfin leur statement complet. Onze titres, quarante minutes de
 
 Sur leurs cendres tient toutes ses promesses : chaotique, libre, furieux, flamboyant, racé. C'est un album à dévorer.
 
-#### L'héritage riot grrrl réinventé
+###### L'héritage riot grrrl réinventé
 
 Dès "La Lune", morceau d'ouverture psychédélique, le ton est donné. Textures qui s'entremêlent, atmosphère entre psyché
 et thriller, groove frémissant. Eva Bottega ondule dans un chant en français plutôt délié avant que le groupe ne
@@ -38,7 +38,7 @@ mémorable pour sa mélodie et son tranchant. Un parfum riot grrrl s'échappe, t
 sera pas la dernière fois que Ménades se laissera prendre par cette émotion forte - "Une Balle de Plus" l'invoque à
 nouveau, violent, cathartique, éclatant. L'urgence du titre imite la rage libératrice de "Hammer", dans un nerf décisif.
 
-#### La danse avec les spectres
+###### La danse avec les spectres
 
 "Angels Drive Fast", riffeur, sème un rock venimeux que ses phases douces atténuent. Le morceau mélange mystère,
 angoisse et douleur, invoquant des formes spectrales sans résoudre entièrement l'énigme de leur identité. Cette capacité
@@ -49,7 +49,7 @@ aiguisé, le groupe assure ses arrières quelle que soit la langue usée. Les ch
 stylistique. C'est un morceau qui résume à merveille l'univers du groupe - autant dans ses paroles impertinentes que
 fortes, que dans son énergie audacieuse et brutale.
 
-#### Le sexy et le sombre
+###### Le sexy et le sombre
 
 "Lonesome Cowgirl Dance" - probablement le titre le plus marquant de l'album - mène carrément la danse. Post-punk proche
 du funky, le morceau convainc sans coup férir. Il y a quelque chose de sexy dans cette construction, un groove
@@ -60,7 +60,7 @@ Puis le groupe ose ralentir - un tout petit peu. "Smile" a beau avoir de belles 
 aura glaçante. Les motifs de synthé convoqués créent une atmosphère où la douceur apparente cache quelque chose de plus
 inquiétant. Comme le reste, ça fait son effet.
 
-#### La reine de la rue
+###### La reine de la rue
 
 "La Reine du Trottoir" résume l'univers du groupe à merveille. Appuyé, paré de fougue, c'est pour moi le morceau qui
 capture le mieux ce que Ménades a à dire. Les paroles aussi impertinentes que fortes, l'énergie audacieuse et brutale -
@@ -71,13 +71,13 @@ hexagonale.
 groupe se montre capable de plus que de la furie. Cette nuance prouve que Ménades a fait du chemin depuis ses débuts. Le
 quintette maîtrise désormais les contrastes, dépose sa marque avec assurance.
 
-#### Une conclusion à cœur ouvert
+###### Une conclusion à cœur ouvert
 
 "City Cries" propose le mélange de tout ça : émotionnel, vif, contrasté et toujours un peu furieux. Entre douceur et
 élan racé, c'est une conclusion presque crève-cœur qui parachève un ensemble qu'aucun creux ne vient entacher. Le
 morceau final ne fait que confirmer ce qu'on sait déjà : Ménades a quelque chose à dire, et ils savent comment le dire.
 
-#### Mystérieux en français, décapants en anglais
+###### Mystérieux en français, décapants en anglais
 
 Cette alternance linguistique fait partie de l'identité Ménades. Mystérieux en français, décapants en anglais - et
 inversement. Le groupe joue avec les codes, avec les attentes, avec les langues elles-mêmes. Eva Bottega déploie une
@@ -88,7 +88,7 @@ incandescente et nécessaire. Dans leurs influences, le groupe cite Amyl and The
 en accord avec l'énergie punk qui se dégage de leur musique. Mais Sur leurs cendres transcende ces références pour
 créer quelque chose de singulier.
 
-#### La production au service de l'urgence
+###### La production au service de l'urgence
 
 Le son capturé sur Sur leurs cendres est grand, presque funky dans sa section rythmique, porté par des guitares
 inquiètes et des vocalises puissantes. François Couac à la batterie et Ambre Tholance à la basse forment une base solide
@@ -99,7 +99,7 @@ La production ne lisse rien, ne polit pas les aspérités. Elle capture l'énerg
 réputation live du groupe. Quand on sait que leur concert de release party au Point Éphémère était sold-out et que
 personne n'en est sorti indemne, on comprend que cette urgence devait absolument transparaître sur disque.
 
-#### Le futur pilier du rock hexagonal
+###### Le futur pilier du rock hexagonal
 
 Fraîchement sélectionnés parmi les Inouïs du Printemps de Bourges 2025, avec une récente tournée américaine derrière eux
 et une ascension remarquable depuis leur EP Par Terre, Ménades s'impose de plus en plus comme un futur pilier de la
@@ -109,7 +109,7 @@ Le groupe est en train de tracer sa route, bien au-delà des cendres. Avec cet a
 Ménades se révèle comme un groupe à ne pas manquer sur la scène post-punk - française, européenne, mondiale. L'énergie
 rock'n'roll reste présente et viendra tout embraser sur son passage.
 
-#### Verdict : Ménades a allumé le feu
+###### Verdict : Ménades a allumé le feu
 
 Sur leurs cendres remplit le contrat avec brio. C'est un premier album qui sait où il va, assumé dans ses contrastes,
 fort dans ses convictions. Les bonnes phases se suivent dans un nerf décisif, les honneurs sont en vue. Nul besoin de

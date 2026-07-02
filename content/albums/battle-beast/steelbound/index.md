@@ -21,7 +21,7 @@ outrancier, son amour du fromage et des refrains contagieux. La seconde n'y trou
 concert metal, du bubblegum avec des guitares distordues. Steelbound, septième album sorti le 17 octobre 2025 via
 Nuclear Blast, force à choisir son camp. Les cyniques doivent passer leur chemin immédiatement.
 
-#### La formule Battle Beast perfectionnée
+###### La formule Battle Beast perfectionnée
 
 Trois ans après le remarqué Circus of Doom, le sextet d'Helsinki revient avec une proposition sans ambiguïté : quarante
 minutes de metal accessible infusé de pop, boosté aux synthés survoltés et porté par la voix puissante de Noora Louhimo.
@@ -32,7 +32,7 @@ C'est du metal d'entrée de gamme, et ce n'est pas péjoratif. Il existe un chem
 pour devenir les élitistes puants et opiniâtres que nous sommes aujourd'hui, et il ne s'agit généralement pas de sauter
 directement de Taylor Swift à Portal. Battle Beast occupe ce territoire intermédiaire avec une efficacité redoutable.
 
-#### L'évolution d'un Pokémon métallique
+###### L'évolution d'un Pokémon métallique
 
 Depuis leur album éponyme de 2011 qui saturait déjà le son d'europop, Battle Beast a affiné sa recette. Le départ en
 2015 du guitariste Anton Kabanen (parti fonder Beast in Black) aurait pu les couler - ils ont au contraire trouvé leur
@@ -45,7 +45,7 @@ l'Eurovision et heavy metal, créant une palette accessible à tout âge et disp
 mélange incendiaire de heavy metal et hard rock 80's, toujours boosté par les incontestables vocalises planantes de
 Noora.
 
-#### Les moments de grâce
+###### Les moments de grâce
 
 "Here We Are", l'un des singles préalablement sortis, fait cartonner Janne Björkroth aux claviers comme d'habitude,
 donnant à la chanson cette vibe dansante qui caractérise le groupe. On peut parler de "disco metal" sans rougir - et ce
@@ -61,7 +61,7 @@ Day" ou un doigt d'honneur à un certain politicien russe.
 tellement badass, grâce à la puissance vocale de Noora tandis que les guitares sonnent aussi électrifiées qu'elles
 peuvent l'être, soutenues par la basse tonitruante d'Eero Sipilä.
 
-#### La malédiction du trop calculé
+###### La malédiction du trop calculé
 
 Mais ce qui rend Battle Beast si digeste est aussi ce qui les entrave : l'écriture est trop sécurisée. Steelbound
 excelle quand il flirte avec la limite entre danger et inclinaisons pop, mais ces moments arrivent trop rarement. Sur la
@@ -73,7 +73,7 @@ comme si elle pouvait dérailler. Elle ne le fait pas, mais ce moment organique 
 radio-friendly, absolument futuriste et amusant, comme extrait d'un film d'aventure d'après-midi des années 80. C'est
 efficace, prévisible, sans surprise.
 
-#### L'album "best of" de titres inédits
+###### L'album "best of" de titres inédits
 
 Steelbound se présente presque comme un "greatest hits" alors que toutes les chansons sont nouvelles. La formule
 familière a trouvé un moyen d'augmenter encore le facteur charme. "Watch The Sky Fall" clôt l'album sur une note forte,

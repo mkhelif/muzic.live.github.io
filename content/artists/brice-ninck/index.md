@@ -12,7 +12,7 @@ que musicien accompagnateur, partageant son temps entre les scènes bruxelloises
 collabore notamment avec Noé Prescow, l'accompagnant sur plusieurs Zéniths, et accumule ainsi une
 expérience scénique précieuse qui forgera la solidité de sa présence live.
 
-##### Un projet solo entre mots et sons
+###### Un projet solo entre mots et sons
 
 Le projet solo de Brice Ninck naît d'une nécessité d'expression personnelle, d'un besoin de dire quelque
 chose qui ne trouverait pas sa place ailleurs. Dans ses compositions, textes soigneusement travaillés et
@@ -29,7 +29,7 @@ productions, créant un dialogue entre différentes ères musicales qui nourrit 
 Sa reconnaissance par le concours du F. dans le Texte, pour lequel il est finaliste, témoigne de la
 qualité de son écriture et de son attachement à la langue française comme matériau vivant et précieux.
 
-##### Une voix émergente de la scène belge
+###### Une voix émergente de la scène belge
 
 Brice Ninck s'inscrit dans une longue tradition de la chanson belge francophone, celle qui fait de
 l'écriture un art en soi, mais il le fait avec les outils d'aujourd'hui et une sensibilité résolument

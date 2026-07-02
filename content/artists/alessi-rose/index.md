@@ -11,7 +11,7 @@ octobre 2002 à Littleover, dans le Derbyshire. Attirée par la scène dès l'en
 très jeune et se passionne pour le théâtre musical —, elle commence à composer à l'âge de 13 ans et approfondit sa
 relation aux mots en étudiant la poésie à l'université de Londres.
 
-##### L'émergence via les réseaux sociaux
+###### L'émergence via les réseaux sociaux
 
 C'est sur TikTok qu'Alessi Rose commence à se faire un nom, en y publiant des reprises et des compositions
 originales qui lui attirent rapidement une large communauté d'abonnés. Son premier single officiel, say ur mine,

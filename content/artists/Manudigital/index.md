@@ -20,7 +20,7 @@ réinterprète avec une modernité et une fraîcheur qui renouvellent les codes 
 
 Son approche technique et créative lui permet rapidement de se faire remarquer sur la scène reggae européenne.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Manudigital développe une carrière de producteur reconnu internationalement, travaillant avec de nombreuses figures du
 reggae mondial et créant des riddims qui circulent dans toute la communauté reggae internationale.
@@ -30,7 +30,7 @@ reggae européennes et internationales.
 
 Il devient une référence incontournable pour les chanteurs reggae en quête de productions de qualité.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Manudigital mélange reggae traditionnel, sonorités digitales modernes et influences méditerranéennes, créant
 un son immédiatement reconnaissable qui séduit les amateurs du monde entier.
@@ -41,7 +41,7 @@ atmosphère à la fois dansante et contemplative.
 Il excelle dans l'art de la production, créant des riddims puissants et des arrangements sophistiqués qui servent de
 base à de nombreuses collaborations.
 
-##### Actualité
+###### Actualité
 
 Manudigital continue de représenter l'excellence de la production reggae française contemporaine, démontrant que la
 France peut contribuer significativement à l'évolution et au rayonnement de cette musique universelle née en Jamaïque.

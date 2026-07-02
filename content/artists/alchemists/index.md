@@ -11,7 +11,7 @@ que Northlane, Periphery, Architects et Meshuggah, les membres d'Alchemists cons
 courants djent et metalcore progressif, mêlant riffs lourds en accordage baissé, rythmiques complexes et mélodies
 lumineuses.
 
-##### Parcours et discographie
+###### Parcours et discographie
 
 Leur premier album, Chapter One: Love (2020), aborde sous différentes facettes la thématique de l'amour à travers
 des compositions intenses et une écriture introspective. Une réédition intitulée More Love paraît en 2022,

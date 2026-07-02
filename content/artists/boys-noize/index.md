@@ -15,7 +15,7 @@ et DJ Hell. C'est sous le nom Boys Noize qu'il s'affirme dès le milieu des ann�
 distinctif : électro percutant, techno acérée, textures industrielles mêlées à des structures dansantes
 implacables.
 
-##### Un label et une vision
+###### Un label et une vision
 
 En 2005, Ridha fonde Boysnoize Records, un label indépendant qui devient rapidement une référence
 incontournable de la musique électronique underground internationale. Le label sert de plateforme à sa
@@ -24,7 +24,7 @@ Mayday (2016) — ainsi qu'à une constellation d'artistes partageant son goût 
 compromis. En 2025, il lance Ones and Zeros, un nouveau label qui témoigne de son désir constant de
 renouvellement.
 
-##### Des collaborations tous azimuts
+###### Des collaborations tous azimuts
 
 La carrière de Boys Noize se distingue par une capacité à traverser les frontières stylistiques avec une
 facilité déconcertante. Avec Skrillex, il forme le duo Dog Blood, mêlant techno et bass music dans des
@@ -37,7 +37,7 @@ et sa co-écriture de "Rain on Me" pour Lady Gaga (Grammy Award), prouvent une p
 au-delà de la simple DJ culture. Rolling Stone le classe en 2012 parmi les dix DJs qui "règnent sur la
 Terre", consacrant un statut que des années de tournées mondiales et d'albums solides ont pleinement justifié.
 
-##### Une présence live électrisante
+###### Une présence live électrisante
 
 Sur scène, Boys Noize est reconnu pour des sets d'une intensité rare, capables de faire basculer n'importe
 quelle salle dans une transe collective. Sa musique, construite sur des structures architecturales précises

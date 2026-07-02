@@ -23,7 +23,7 @@ principal, bien qu'il n'ait que douze ans, alors que les autres membres en avaie
 Smith le persuade de prendre également le chant, alors même que Heafy doutait de sa propre voix. Vingt-cinq ans plus
 tard, Trivium compte dix albums studio, plus d'un million de disques vendus et une nomination aux Grammy Awards.
 
-## Orlando, fin des années 90 : la naissance
+###### Orlando, fin des années 90 : la naissance
 
 Le groupe se forme en 1999, choisissant le nom « Trivium » — un carrefour à trois voies en latin — pour décrire une
 musique combinant metalcore, death metal mélodique et thrash metal. Lors d'un concours de talents à son lycée, Lake
@@ -38,7 +38,7 @@ membres de longue date : Matt Heafy au chant et à la guitare depuis 1999, Corey
 Paolo Gregoletto à la basse depuis 2004. Le poste de batteur a en revanche changé de nombreuses fois, Alex Rüdinger
 devenant la plus récente recrue en octobre 2025.
 
-## Une discographie en perpétuelle mutation
+###### Une discographie en perpétuelle mutation
 
 Le premier album, *Ember to Inferno*, est l'unique disque publié via Lifeforce Records en 2003. En 2004, le groupe signe
 chez Roadrunner Records, où il reste depuis.
@@ -67,14 +67,14 @@ atmosphère sombre et cinématographique avant que le morceau n'explose dans une
 unanimement élogieux : AllMusic affirme que l'album se hisse parmi les meilleures œuvres du groupe, offrant un mélange
 classique de thrash mélodique, de metalcore et de tech death dans un son aussi immense qu'ambitieux et divers.
 
-## La reconnaissance institutionnelle
+###### La reconnaissance institutionnelle
 
 Le groupe reçoit une nomination aux Grammy Awards pour le titre *Betrayer*, dans la catégorie Meilleure Performance
 Metal lors de la 61e cérémonie en 2019 — battu de justesse par *Electric Messiah* de High on Fire. *The Sin and the
 Sentence* propulse le total de streams cumulés du groupe au-delà du quart de milliard, et Metal Hammer les qualifie tout
 simplement comme l'un des meilleurs groupes du metal moderne actuel.
 
-## L'éternel disciple de Metallica devenu son propre maître
+###### L'éternel disciple de Metallica devenu son propre maître
 
 Les influences de Matt Heafy vont de Metallica, Pantera, Megadeth, Slayer, Testament et Iron Maiden à Queen, The
 Beatles, Muse, Coldplay et Radiohead. Cette double culture — metal extrême d'un côté, songwriting pop ambitieux de
@@ -87,7 +87,7 @@ cours de guitare, fait ses échauffements vocaux et interprète des titres de Tr
 lance également Ibaraki, un projet solo influencé par le black metal et inspiré de la mythologie et du folklore
 japonais, qui réunit notamment Ihsahn d'Emperor, Nergal de Behemoth et Gerard Way de My Chemical Romance.
 
-## Vingt-cinq ans plus tard, toujours en mouvement
+###### Vingt-cinq ans plus tard, toujours en mouvement
 
 Le groupe a vendu plus d'un million d'albums dans le monde et s'est produit aux côtés de Metallica, Black Sabbath, Iron
 Maiden et de nombreux autres géants, sur les scènes principales du Download, du Bloodstock et du Knotfest. Une longévité

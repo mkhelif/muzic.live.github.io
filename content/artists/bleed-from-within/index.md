@@ -12,7 +12,7 @@ deux EPs : Eyes of the Forgotten (2006) et Welcome to the Plague Year (2007), en
 moyens. Cette autonomie de création, rare pour des musiciens si jeunes, annonce un état d'esprit qui ne les
 quittera jamais.
 
-##### Percée et reconnaissance
+###### Percée et reconnaissance
 
 La sortie de leur premier album Humanity en juillet 2009 sur Rising Records marque le début d'une ascension
 soutenue. La tournée Metal Hammer Razor Tour en 2010, en première partie de Sylosis et While She Sleeps,
@@ -25,7 +25,7 @@ son style, passant d'un deathcore brut à une approche plus mélodique, mêlant 
 mélodique et groove metal avec une maîtrise croissante. Cette évolution leur permet d'élargir leur audience
 sans jamais trahir leur esthétique fondatrice.
 
-##### Style et discographie
+###### Style et discographie
 
 Le son de Bleed From Within se caractérise par des riffs massifs, une double pédale omniprésente, des
 mélodies de guitare aériennes contrastant avec des passages devastateurs, et les performances vocales
@@ -38,7 +38,7 @@ Gowans à la guitare lead et Steven Jones à la guitare rythmique et au chant cl
 line-ups les plus solides du metalcore européen, capable de livrer des performances live d'une redoutable
 intensité et de composer des albums dont la cohérence artistique ne se dément pas.
 
-##### Scène et héritage
+###### Scène et héritage
 
 Véritables ambassadeurs du metal écossais, Bleed From Within incarne une éthique DIY et une persévérance
 exemplaires. Deux décennies d'activité intense, de tournées mondiales et d'albums soigneusement construits

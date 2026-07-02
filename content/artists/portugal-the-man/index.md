@@ -29,7 +29,7 @@ monacale — et sur une discographie d'une densité rare.
 
 ---
 
-## La machine à albums : une productivité hors norme
+###### La machine à albums : une productivité hors norme
 
 Entre 2006 et 2011, Portugal. The Man a sorti **sept albums studio** en autant d'années, une cadence qui tient davantage
 du XIXe siècle que de l'industrie musicale contemporaine. *Waiter: "You Vultures!"* (2006), *Church Mouth* (2007),
@@ -49,7 +49,7 @@ une voix qui n'essaie jamais de convaincre par la puissance, mais par la vulnér
 
 ---
 
-## L'esthétique visuelle : l'art comme déclaration d'intention
+###### L'esthétique visuelle : l'art comme déclaration d'intention
 
 Dès leurs débuts, Portugal. The Man a accordé autant d'importance à l'image qu'à la musique. Les pochettes de leurs
 albums — souvent conçues par Gourley lui-même, qui est également artiste visuel — forment un univers graphique cohérent,
@@ -62,7 +62,7 @@ sur scène, c'est comprendre qu'ils pensent leurs concerts comme des œuvres d'a
 
 ---
 
-## *Woodstock* (2017) : la percée grand public et ses ambivalences
+###### *Woodstock* (2017) : la percée grand public et ses ambivalences
 
 En 2017, après plusieurs années de transitions — de label, de lineup, de direction sonore — Portugal. The Man sort
 **Woodstock**, leur neuvième album studio, produit par John Hill et Mike D des Beastie Boys. L'album marque un tournant
@@ -87,7 +87,7 @@ d'écoute qui s'y attendaient peu.
 
 ---
 
-## L'engagement politique : une constante, pas une posture
+###### L'engagement politique : une constante, pas une posture
 
 Ce qui distingue Portugal. The Man dans le paysage indie rock américain, c'est la cohérence de leur engagement. Depuis
 leurs débuts, et bien avant que cela devienne une nécessité médiatique, le groupe a intégré des préoccupations sociales
@@ -103,7 +103,7 @@ légèreté dans leur façon d'être politiques qui paradoxalement les rend plus
 
 ---
 
-## La famille musicale et les collaborations
+###### La famille musicale et les collaborations
 
 Au fil de leur carrière, Portugal. The Man a entretenu des liens forts avec un écosystème d'artistes et de producteurs.
 Leur collaboration avec **Danger Mouse** sur *Evil Friends* (2013), album plus sombre et plus expérimental que ses
@@ -117,7 +117,7 @@ artistes de la scène indie la plus underground.
 
 ---
 
-## Une identité en perpétuel mouvement
+###### Une identité en perpétuel mouvement
 
 Ce qui fait l'originalité durable de Portugal. The Man, c'est précisément leur refus d'être une chose fixe. À une époque
 où les algorithmes poussent les artistes à se répéter — à devenir la version la plus efficacement commercialisable
@@ -131,7 +131,7 @@ résout rien — mais qu'elle peut tout de même nommer ce qui résiste à être
 
 ---
 
-## Héritage et présence
+###### Héritage et présence
 
 Près de vingt ans après leur formation, Portugal. The Man occupe une position rare dans le paysage musical :
 suffisamment connus pour remplir des grandes salles et figurer dans des playlists grand public, suffisamment intègres

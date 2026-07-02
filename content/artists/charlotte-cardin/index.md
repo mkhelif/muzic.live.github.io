@@ -26,7 +26,7 @@ mois. Le tout en naviguant entre l'anglais et le français avec une aisance qui 
 chose la plus naturelle du monde. Bienvenue dans l'univers de Charlotte Cardin — un univers où la fragilité et la
 puissance ne s'opposent jamais, mais se nourrissent l'une de l'autre.
 
-## Montréal, le mannequinat et la musique en sourdine
+###### Montréal, le mannequinat et la musique en sourdine
 
 Charlotte Cardin naît le 9 novembre 1994 à Montréal, dans le quartier de Mont-Royal. Son père est agent de brevet en
 biotechnologie, sa mère enseignante en épidémiologie — ensemble, ils créeront une société d'importation de vin. Sa sœur
@@ -37,7 +37,7 @@ aînée se dirigera vers le journalisme. Charlotte, elle, fait sa scolarité au 
 publicitaires pour Barilà — la carrière de modèle décolle. Mais la musique, tapie en elle depuis l'enfance, attend son
 heure. Le mannequinat lui apporte une chose essentielle : la liberté financière pour acheter ses premiers instruments.
 
-## La Voix, Garou et le premier éclat
+###### La Voix, Garou et le premier éclat
 
 En 2013, Charlotte Cardin tente sa chance dans **La Voix**, la version québécoise de The Voice, diffusée sur TVA. Elle
 intègre l'équipe de Marie-Mai et se hisse jusqu'en demi-finale (top 4). Elle ne gagne pas, mais elle a gagné
@@ -47,7 +47,7 @@ mots*, extrait de son album *Au milieu de ma vie*. En mars 2014, elle apparaît 
 apparition médiatique de l'autre côté de l'Atlantique. Dès l'année suivante, elle assure la première partie de Mika au
 Festival International de Jazz de Montréal.
 
-## Cult Nation, les EP et la construction d'une identité
+###### Cult Nation, les EP et la construction d'une identité
 
 En 2016, Charlotte signe avec **Cult Nation Records**, label indépendant montréalais spécialisé dans l'accompagnement
 des artistes émergents. La rencontre avec **Jason Brando**, fondateur du label et futur coproducteur de ses albums, est
@@ -59,7 +59,7 @@ Songwriting Prize. L'EP suivant, **Main Girl** (2017), confirme l'ascension : Ch
 l'histoire du SOCAN Songwriting Prize à être nommée la même année dans les catégories anglophone et francophone. Deux
 nominations aux Juno Awards 2018 suivent — Révélation de l'année et Auteur-compositeur de l'année.
 
-## *Phoenix* (2021) : le premier album, la consécration canadienne
+###### *Phoenix* (2021) : le premier album, la consécration canadienne
 
 Le 23 avril 2021, après des années de maturation, sort enfin **Phoenix** — vingt titres coécrits avec Jason Brando, un
 mélange de pop, R&B, jazz et électro qui revendique autant l'héritage des grandes vocalistes soul que la sophistication
@@ -73,7 +73,7 @@ la plus nommée avec six nominations et rafle **quatre prix** : Artiste de l'ann
 l'année et Single de l'année pour *Meaningless*. Au Québec, elle remporte le Félix de l'Album anglophone de l'année, du
 Concert de l'année et de l'Artiste s'étant le plus illustrée hors Québec.
 
-## *99 Nights* (2023) : l'ouverture internationale
+###### *99 Nights* (2023) : l'ouverture internationale
 
 Le 25 août 2023, **99 Nights** marque un tournant. Plus rock, plus introspectif, plus personnel que son prédécesseur,
 l'album est porté par les singles *Confetti*, *Anyone Who Loves Me* et *Next to You*. Il débute à la 9ème place du
@@ -84,7 +84,7 @@ Awards 2024, il remporte à nouveau l'**Album de l'année** et l'**Album pop de 
 La tournée **99 Nights Tour** traverse le Canada, les États-Unis et l'Europe, avec des concerts à guichets fermés. En
 décembre 2024, la 99ème représentation de la tournée a lieu au **Zénith de Paris** — sold out.
 
-## *Feel Good*, la Star Academy et l'explosion française
+###### *Feel Good*, la Star Academy et l'explosion française
 
 C'est fin 2024 que la trajectoire de Charlotte Cardin prend une dimension nouvelle en France. Son passage dans les
 primes de la **Star Academy** (décembre 2023, puis janvier 2025) la fait connaître d'un public beaucoup plus large. Le
@@ -95,7 +95,7 @@ rien qu'en France et frôle les 100 millions dans le monde. Le titre entre dans 
 En septembre 2025, elle chante lors de la **cérémonie du Ballon d'Or**. Billboard la sacre **Global Woman of the Year
 2025**. L'ascension n'est plus une promesse — c'est un fait accompli.
 
-## Aliocha Schneider, Paris et la double vie créative
+###### Aliocha Schneider, Paris et la double vie créative
 
 Depuis 2016, Charlotte Cardin partage la vie de l'acteur et chanteur franco-canadien **Aliocha Schneider**. Leur
 complicité artistique se traduit dans le duo **Ensemble** (2023), nommé aux Victoires de la musique 2025 — un titre
@@ -103,21 +103,21 @@ d'une intimité lumineuse où le folk introspectif de Schneider rencontre la pop
 **Paris** depuis plusieurs années, Charlotte navigue désormais entre les deux rives de l'Atlantique, écrivant et
 enregistrant entre Montréal et la capitale française.
 
-## Avril 2026 : l'Accor Arena
+###### Avril 2026 : l'Accor Arena
 
 En avril 2026, Charlotte Cardin franchira le cap ultime de la scène française en se produisant à l'Accor Arena de
 Paris — complet. Un an après le Zénith sold out, c'est la confirmation éclatante que la Montréalaise est devenue, en
 l'espace de quelques années, l'une des figures centrales de la pop francophone contemporaine. Sa tournée européenne 2026
 passera également par la Belgique et la Suisse.
 
-## Récompenses principales
+###### Récompenses principales
 
 **8 Juno Awards** (dont 2× Album de l'année, 2× Album pop de l'année, Artiste de l'année, Single de l'année) · **3 Félix
 Awards** (ADISQ) · **Billboard Global Woman of the Year 2025** · Nomination aux Victoires de la musique 2025 (duo
 *Ensemble* avec Aliocha Schneider) · Première artiste nommée simultanément en anglais et en français au SOCAN
 Songwriting Prize
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Charlotte Cardin est l'une de ces artistes qui rendent les frontières obsolètes — entre les langues, entre les genres,
 entre les continents. En une décennie, la Montréalaise est passée du mannequinat au statut de figure centrale de la pop

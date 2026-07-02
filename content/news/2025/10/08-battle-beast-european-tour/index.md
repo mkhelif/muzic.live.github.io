@@ -14,7 +14,7 @@ le 17 octobre via Nuclear Blast Records.
 ![Battle Beast tournée européenne](tour.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
-#### Un album puissant pour accompagner la route
+###### Un album puissant pour accompagner la route
 
 "Steelbound" représente un nouveau chapitre incandescent dans l'épopée du groupe finlandais. L'album, qui continue de
 raffiner le style inimitable de Battle Beast, délivre une collection de morceaux qui équilibrent puissance anthémique,
@@ -31,14 +31,14 @@ tant qu'adulte, j'ai connu la misogynie et le sexisme dans ma vie professionnell
 expériences, je suis devenue une personne qui se bat toujours contre l'injustice. 'Steelbound' est une chanson de
 pouvoir pour nous tous qui essayons de naviguer dans des situations de vie et des relations difficiles."
 
-#### Une affiche de poids pour accompagner les Finlandais
+###### Une affiche de poids pour accompagner les Finlandais
 
 La tournée ne sera pas un simple one-man show. Battle Beast s'entoure de deux groupes d'exception pour créer une soirée
 de domination mélodique metal. Dominum rejoindra la tournée en tant qu'invité spécial, tandis que Majestica, la force
 montante du power metal suédois, assurera les premières parties. Cette programmation tripartite promet des soirées
 mémorables pour tous les amateurs de power metal européen.
 
-#### Un parcours européen ambitieux
+###### Un parcours européen ambitieux
 
 La tournée maintiendra Battle Beast sur les routes jusqu'à la mi-décembre, traversant l'Europe de long en large. Après
 le coup d'envoi allemand à Hambourg, le groupe passera notamment par la France le 30 octobre au Transbordeur de
@@ -49,7 +49,7 @@ novembre à l'Ice Hall (la même salle où a été enregistré leur album live "
 Logomo, et Tampere le 21 novembre à la Nokia Arena. Ces concerts dans leur pays natal promettent d'être particulièrement
 intenses, le groupe jouant toujours avec une énergie décuplée devant son public local.
 
-#### Un groupe au sommet de sa forme
+###### Un groupe au sommet de sa forme
 
 Battle Beast est composé de Noora Louhimo au chant, Eero Sipilä à la basse, Joona Björkroth et Juuso Soinio aux
 guitares, Janne Björkroth aux claviers, et Pyry Vikki à la batterie. Cette formation stable et soudée a su développer
@@ -60,7 +60,7 @@ Louhimo révélée en novembre 2023, qui avait entraîné le report de leur tour
 pour sa voix puissante et sa présence scénique électrisante, est désormais complètement rétablie et prête à conquérir
 l'Europe avec une énergie renouvelée.
 
-#### Un spectacle à ne pas manquer
+###### Un spectacle à ne pas manquer
 
 Battle Beast est reconnu mondialement pour ses performances live explosives qui transforment chaque concert en une
 célébration épique du power metal. Leur show dystopique de type carnaval, capturé dans leur album live "Circus Of Doom -

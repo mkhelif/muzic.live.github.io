@@ -10,7 +10,7 @@ jazz. Saxophoniste ténor et flûtiste d'exception, il a construit au fil des d�
 profondes et les plus singulières du jazz américain, traversant les époques avec une curiosité musicale insatiable
 et une voix instrumentale immédiatement reconnaissable.
 
-##### Memphis, Los Angeles et les premières années
+###### Memphis, Los Angeles et les premières années
 
 Sa vocation musicale naît très tôt : il reçoit son premier saxophone à neuf ans et s'imprègne des émissions de
 radio de la fin des années 1940, où Charlie Parker, Coleman Hawkins, Lester Young, Billie Holiday et Duke Ellington
@@ -23,7 +23,7 @@ y côtoie Ornette Coleman, Eric Dolphy, Don Cherry, Scott La Faro, Bobby Hutcher
 rejoint le groupe de Chico Hamilton en tant que directeur musical, succédant à Eric Dolphy, puis intègre en 1964
 le sextet de Cannonball Adderley.
 
-##### Le quartet légendaire et Forest Flower
+###### Le quartet légendaire et Forest Flower
 
 C'est entre 1966 et 1968 que Charles Lloyd connaît sa plus grande exposition publique, à la tête d'un quartet
 mémorable réunissant le pianiste Keith Jarrett, le bassiste Cecil McBee (puis Ron McClure) et le batteur Jack
@@ -35,7 +35,7 @@ Après la séparation du quartet en 1968, il entre dans une période de semi-ret
 la scène jazz. C'est le pianiste français Michel Petrucciani qui contribue à le ramener à la musique au début des
 années 1980, entamant une collaboration profonde et renouant Lloyd avec son art.
 
-##### La renaissance et l'ère ECM
+###### La renaissance et l'ère ECM
 
 À partir de 1989, Charles Lloyd retrouve toute son intensité créatrice et entame une longue et fructueuse
 collaboration avec le label allemand ECM, connu pour la qualité de ses productions et son exigence artistique.

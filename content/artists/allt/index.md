@@ -12,7 +12,7 @@ le chanteur Robin Malmgren, les guitaristes Olle Nordström et Viktor Florman, l
 batteur Adam Björk — cinq musiciens qui se sont rencontrés au sein d'une chorale scolaire, avant que la pandémie de
 COVID-19 ne les pousse à transformer leur complicité en projet musical sérieux.
 
-##### Un univers sombre et cinématographique
+###### Un univers sombre et cinématographique
 
 Allt forge un son qui mêle les riffs downtuné et les rythmiques complexes du djent et du metalcore à des éléments
 de metal symphonique et orchestral. Leur univers thématique est ancré dans le dystopique et le cinématographique,

@@ -7,7 +7,7 @@ Dropkick Murphys est un groupe de punk celtique américain formé en 1996 à Qui
 des décennies l'un des ambassadeurs les plus populaires du croisement entre punk rock et traditions irlandaises. Le nom
 du groupe rend hommage au Dr John "Dropkick" Murphy et à son centre de désintoxication.
 
-##### Des débuts dans un sous-sol
+###### Des débuts dans un sous-sol
 
 Le groupe commence à répéter dans le sous-sol du salon de coiffure d'un ami, avant de tourner et d'enregistrer
 rapidement. Sa grande chance arrive lorsque les Mighty Mighty Bosstones le choisissent comme première partie de leur
@@ -15,14 +15,14 @@ tournée 1997 pour l'album "Let's Face It". Après plusieurs EP, dont le premier
 signe chez Hellcat Records et publie en 1998 son premier album complet, "Do or Die", produit par Lars Frederiksen de
 Rancid.
 
-##### Un changement de chanteur décisif
+###### Un changement de chanteur décisif
 
 Le chanteur Mike McColgan quitte le groupe en 1998 en pleine tournée américaine. Al Barr, ancien chanteur des Bruisers,
 est alors recruté après une audition immédiate et convaincante. Le 9 mars 1999 sort "The Gang's All Here", premier album
 avec Barr au micro, qui affirme un son plus hardcore et street punk, teinté d'une influence irlandaise encore plus
 marquée.
 
-##### La consécration avec "I'm Shipping Up to Boston"
+###### La consécration avec "I'm Shipping Up to Boston"
 
 L'album "Warrior's Code" (2005) contient le titre "I'm Shipping Up to Boston", repris dans le film de Martin Scorsese
 "Les Infiltrés" en 2006, qui devient leur plus grand succès populaire. Le groupe s'engage aussi durablement dans des

@@ -16,7 +16,7 @@ a été rempli — et largement dépassé. Devant une salle dont la moyenne d'â
 génération pour un rock vivant et sans filtre, la soirée a offert deux propositions radicalement différentes mais unies
 par une même intensité.
 
-## Eckhart : la machine humaine
+###### Eckhart : la machine humaine
 
 {{< carousel pictures="pictures/eckhart" alt="Eckhart" author="mkhelif" >}}
 
@@ -34,7 +34,7 @@ cette voix mutante, ils construisent un univers dense et abrasif qui, sous ses d
 chemin du corps. Le public, d'abord intrigué, finit par se laisser embarquer. Une première partie qui fait bien plus que
 meubler l'attente.
 
-## Last Train : l'incendie
+###### Last Train : l'incendie
 
 {{< carousel pictures="pictures/last-train" alt="Last Train" author="mkhelif" >}}
 
@@ -59,7 +59,7 @@ remontent le long des bras et serrent la gorge. Après l'ouragan, cette nudité 
 d'autant plus dévastatrice. C'est la marque des grands groupes de scène : savoir qu'il n'y a pas de catharsis sans
 vulnérabilité.
 
-## Le rock a de beaux jours devant lui
+###### Le rock a de beaux jours devant lui
 
 En regardant cette salle pleine de visages jeunes, extatiques, trempés de sueur, on mesure à quel point le diagnostic de
 mort du rock est prématuré. Last Train, après avoir écumé les plus grands festivals européens l'été dernier — Dour,

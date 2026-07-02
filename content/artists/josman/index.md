@@ -24,7 +24,7 @@ Cher. D'origines congolaise et angolaise, il découvre la culture hip-hop par l'
 écouter du R&B et du rap américain — une matrice qui irriguera toute son esthétique, à la croisée du rap, de la soul et
 des ambiances cotonneuses du son.
 
-##### Des freestyles à la reconnaissance
+###### Des freestyles à la reconnaissance
 
 S'il commence à rapper dès 2007, c'est en 2013 que Josman se révèle, en remportant le concours de freestyle **End of the
 Weak**. Sa participation au programme *MasterClasse* sur France 4 marque les esprits, jusqu'à impressionner Orelsan. Il
@@ -32,7 +32,7 @@ enchaîne alors les projets qui posent son univers : la mixtape *Échecs positif
 année, le clip de **« Dans le vide »** dépasse les 18 millions de vues sur YouTube et fait basculer sa carrière dans une
 autre dimension.
 
-##### Une signature artistique singulière
+###### Une signature artistique singulière
 
 Josman s'impose par un style immédiatement reconnaissable : un flow nonchalant, une écriture introspective et un sens
 aigu des atmosphères, où la mélancolie le dispute à l'énergie. Son premier album, **J.O.$** (14 septembre 2018), est

@@ -10,7 +10,7 @@ italienne. Chanteur et accordéoniste, il représente une figure originale dans 
 formé à la rue autant qu'aux conservatoires, il associe une virtuosité instrumentale rare à une voix populaire et
 chaleureuse qui touche immédiatement le grand public.
 
-##### Un musicien aux mille influences
+###### Un musicien aux mille influences
 
 L'accordéon, il le pratique depuis ses cinq ans — précocement et avec une obstination qui forge très vite un
 musicien accompli. Mais Claudio Capéo n'est pas un homme d'une seule couleur : adolescent, il intègre un groupe
@@ -22,7 +22,7 @@ artisanal à la musique.
 En 2008, il forme le groupe Claudio Capéo avec lequel il sort deux albums, sans parvenir encore à percer à
 l'échelle nationale. Il lui faut un autre chemin.
 
-##### The Voice et la révélation
+###### The Voice et la révélation
 
 En 2016, il décide de participer en solo à la cinquième saison de The Voice, rejoint l'équipe de Florent Pagny
 avant d'être éliminé lors des battles. Le passage à la télévision lui suffit pourtant pour être repéré : le
@@ -33,7 +33,7 @@ classement des albums français dès sa première semaine et obtient la certific
 cafard » devient un véritable phénomène radio, faisant de lui l'une des révélations les plus marquantes de cette
 année-là.
 
-##### La fidélité aux origines
+###### La fidélité aux origines
 
 Les albums suivants confirment cette trajectoire tout en l'approfondissant. E penso a te (début des années 2020)
 est un hommage sincère à ses origines italiennes, chanté en partie dans la langue de ses ancêtres. Rose des vents

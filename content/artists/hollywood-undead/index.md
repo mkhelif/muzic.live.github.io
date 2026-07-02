@@ -26,7 +26,7 @@ Hollywood Undead est un groupe américain de rap rock et de nu metal originaire 
 entre tous à ses **masques** — inspirés des protections de gardiens de hockey, chaque membre arborant le sien —, le groupe
 s'est imposé comme l'un des grands noms du crossover rap-metal des années 2000 et 2010.
 
-##### Des origines sur Internet
+###### Des origines sur Internet
 
 Le groupe naît de la rencontre de **J-Dog** (Jorel Decker) et **Deuce** (Aron Erlichman), qui empruntent leur nom à l'une
 de leurs chansons, *The Kids*. À l'image d'une génération biberonnée à MySpace, Hollywood Undead se fait d'abord connaître
@@ -35,7 +35,7 @@ masques, brouillant volontairement les identités au profit d'un collectif costu
 Tears** (George Ragan), **Charlie Scene** (Jordon Terrell), **Funny Man** (Dylan Alvarez) et, après le départ de Deuce en
 2010, le chanteur **Danny** (Daniel Murillo), qui apporte une dimension mélodique supplémentaire.
 
-##### De « Swan Songs » au statut de référence
+###### De « Swan Songs » au statut de référence
 
 Leur premier album, **Swan Songs** (2008), entre directement dans le Billboard 200 et pose la formule maison : un mélange
 détonant de rap, de refrains rock fédérateurs, d'électro et d'énergie festive, oscillant entre fête débridée (*Everywhere
@@ -43,7 +43,7 @@ I Go*, *Undead*) et introspection plus sombre. Le groupe enchaîne ensuite les a
 (2011), **Notes from the Underground** (2013), **Day of the Dead** (2015), **Five** (2017), le diptyque **New Empire Vol.
 1 & 2** (2020) et **Hotel Kalifornia** (2022) —, fidélisant une communauté de fans particulièrement dévouée.
 
-##### Une bête de scène
+###### Une bête de scène
 
 Sur scène, Hollywood Undead cultive le grand spectacle : masques, jeux de rôles entre les six voix, hymnes à reprendre en
 chœur et énergie de tous les instants. Habitué des plus grands festivals de rock et de metal du monde, le groupe distille

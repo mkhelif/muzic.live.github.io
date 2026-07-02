@@ -11,7 +11,7 @@ socials:
   phone: "+33489955161"
 ---
 
-## Le radar indie qui donne rendez-vous à Hyères depuis vingt ans
+###### Le radar indie qui donne rendez-vous à Hyères depuis vingt ans
 
 Il existe en France quelques festivals qui ont décidé, dès le premier jour, de ne pas jouer le jeu de la facilité. Le
 MIDI Festival est de ceux-là. Créé en 2005, le MIDI Festival est un événement estival axé sur les musiques actuelles et
@@ -21,7 +21,7 @@ nombreux talents se sont révélés au MIDI Festival avant d'être exposés plus
 
 Vingt et une éditions plus tard, le pari tient. Et dans le paysage festivalier français, c'est une performance rare.
 
-## Fred Landini et l'idée d'un festival différent
+###### Fred Landini et l'idée d'un festival différent
 
 Le fondateur du festival est Fred Landini. Au milieu des années 2000, Hyères n'est pas une ville que l'on associe
 spontanément à la scène indie internationale. C'est précisément ce paradoxe — un festival de l'underground pop ancré
@@ -34,7 +34,7 @@ comporte généralement des groupes émergents. La Villa Noailles, haut lieu du 
 du XXe siècle, donne immédiatement au festival un cadre singulier — entre patrimoine architectural et expérimentation
 sonore, l'alchimie est parfaite.
 
-## Un palmarès qui parle pour lui
+###### Un palmarès qui parle pour lui
 
 L'histoire du MIDI Festival, c'est aussi une liste de noms qu'on a vus sur cette scène avant de les voir partout
 ailleurs. En 2007, le public découvrait Animal Collective dans les jardins Nord de la Villa Noailles. En 2011, Wu Lyf et
@@ -47,7 +47,7 @@ New Road et Black MIDI avant que la presse spécialisée mondiale ne s'emballe. 
 Girl, Mary in the Junkyard, Lime Garden — des noms que les lecteurs de Pitchfork ou de The Wire se disputent. Ce
 palmarès n'est pas le fruit du hasard : c'est la signature d'un festival qui a un vrai point de vue.
 
-## Les sites : une géographie qui évolue
+###### Les sites : une géographie qui évolue
 
 Le MIDI Festival n'a jamais cessé de réinventer son rapport à l'espace. À partir de 2012, le festival délocalise
 certains concerts à l'Hippodrome de Hyères, qui est utilisé pour accueillir les différents festivals et concerts de
@@ -64,7 +64,7 @@ Ce déménagement offre aussi une ouverture sur la mer et une relation nouvelle 
 arrivent depuis Hyères en voiture ou en navette, traversent une péninsule baignée de lumière, et débouchent sur une
 scène qui donne sur les îles d'Or.
 
-## Des hauts, des bas et une obstination
+###### Des hauts, des bas et une obstination
 
 L'histoire du MIDI Festival n'est pas sans aspérités. En 2015, après avoir failli être annulé à cause d'une baisse des
 subventions de la ville, le festival annonce la tenue d'une édition en mode réduit, ne comprenant que des concerts à la
@@ -76,7 +76,7 @@ soirées prévues à l'Hippodrome pour un défaut de scènes menaçant la sécur
 Noailles et au cirque. Autant de crises traversées sans jamais renoncer à l'essentiel : la singularité d'une
 programmation que personne d'autre ne fait.
 
-## 2025 : vingt ans, et une jeunesse intacte
+###### 2025 : vingt ans, et une jeunesse intacte
 
 Du 18 au 20 juillet 2025, le MIDI Festival a célébré son vingtième anniversaire à Hyères. Trois soirées exceptionnelles
 à Olbia, où chaque concert a incarné l'esprit du festival. L'affiche du 20e anniversaire convoque des noms qui disent
@@ -88,7 +88,7 @@ d'un projet musical atypique et courageux. Le festival reste une des rares manif
 pendant aussi longtemps une programmation rigoureusement indie, sans jamais céder aux sirènes du grand public ou de la
 rentabilité facile.
 
-## 2026 : cap sur la 21e édition
+###### 2026 : cap sur la 21e édition
 
 La 21e édition du MIDI Festival se tiendra du 24 au 26 juillet 2026 sur le site archéologique d'Olbia à Hyères. La
 programmation confirmée réunit Ulrika Spacek, Elias Rønnenfelt, Marlon Magnée, Snuggle, The Man The Myth The Meatslab,
@@ -97,7 +97,7 @@ antiques. Des noms qui confirment la vocation internationale du festival et son 
 l'indie — celle qui prend des risques, qui programme des artistes encore confidentiels, qui préfère l'exigence à la
 facilité.
 
-## Un festival qui ressemble à son territoire
+###### Un festival qui ressemble à son territoire
 
 Il y a quelque chose de profondément juste dans l'idée d'un festival indie à Hyères. Une ville qui n'est pas Cannes, pas
 Saint-Tropez, pas Nice — une ville qui a ses propres codes, son propre rapport à la mer, sa propre histoire. Le MIDI

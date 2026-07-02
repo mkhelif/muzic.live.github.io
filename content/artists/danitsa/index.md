@@ -23,7 +23,7 @@ complexité en force, son nomadisme en matière première, et ses influences con
 décennie de carrière, Danitsa s'est imposée comme l'une des voix les plus singulières de la scène francophone — et l'une
 des plus inclassables.
 
-## Une enfance dans la musique, entre deux pays
+###### Une enfance dans la musique, entre deux pays
 
 Danitsa est née à Paris dans une famille où la musique a toujours tenu une place importante. Dès l'âge de 10 ans, elle
 pose sa voix sur des compositions de son père. Sous le nom de scène Skankytone, il lui transmet son amour pour la
@@ -40,7 +40,7 @@ En 2008, elle déménage à Genève, où elle rencontre le collectif Little Lion
 dubplates qui circulent rapidement. Elle affine peu à peu son style et sort une première mixtape, *Five Flags*, en 2013.
 La machine est en marche.
 
-## *EGO* : la révélation
+###### *EGO* : la révélation
 
 Après quelques mixtapes et EPs, elle sort son premier album *EGO* fin 2017, apportant un nouveau son à sa musique. Les
 chansons *Captain* et *Remember Me* deviennent des hit-singles en Suisse. L'album reçoit un grand soutien des radios
@@ -51,7 +51,7 @@ dans la presse — une comparaison qui la flatte, mais qu'elle juge excessive. C
 profondeur vocale, la maîtrise du phrasé, et cette capacité rare à faire tenir ensemble des mondes musicaux qui n'ont
 pas l'habitude de se côtoyer.
 
-## *SYCLE* : l'album du monde
+###### *SYCLE* : l'album du monde
 
 Durant les deux années qui précèdent son deuxième album, Danitsa voyage. Elle part aux États-Unis, à Tulum au Mexique, à
 Accra au Ghana. Cela lui permet de réfléchir à la manière de s'exporter, de travailler avec différents producteurs, et
@@ -69,7 +69,7 @@ construite sur la scène genevoise, c'est une reconnaissance majuscule.
 En mai 2022, Danitsa remporte pour la deuxième fois le Swiss Music Awards Best Act Romandie — une récompense qui valide
 une trajectoire, pas juste un moment.
 
-## Une année 2023 de toutes les consécrations
+###### Une année 2023 de toutes les consécrations
 
 Lauréate de deux Swiss Music Awards, du Red Bull SoundClash 2023 et nominée aux MTV European Music Awards, l'artiste
 franco-suisse aligne un parcours de vie hors norme.
@@ -83,13 +83,13 @@ La même année, elle affronte son ami Di-Meh dans une battle de sound clash à 
 chanteuse, qui avait souvent assisté à ces batailles sur la scène hip-hop ou celle du sound system reggae, sans jamais y
 prendre part.
 
-## Un troisième album en gestation
+###### Un troisième album en gestation
 
 Un troisième album est en préparation, sur lequel l'artiste très inspirée par Erykah Badu devrait à nouveau s'exprimer
 en anglais et en français. Elle l'annonce avec une conviction sereine : « Mon prochain album sera grandiose. » Avec
 Danitsa, la formule ne ressemble pas à de la vantardise — elle ressemble à un programme de travail.
 
-## Ce que Danitsa représente
+###### Ce que Danitsa représente
 
 Danitsa chante en anglais parce que c'est une langue qu'elle trouve très musicale, qui lui permet de placer des mots et
 des rimes avec plus de facilité. Ses voyages en Jamaïque lui ont encore plus donné envie de chanter en anglais. Mais le

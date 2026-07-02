@@ -16,7 +16,7 @@ Pain Of Truth et Split Chain en soutien.
 ![LANMVRKS tournée](tour.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
-#### Une année 2025 monumentale
+###### Une année 2025 monumentale
 
 Cette tournée de décembre représente l'apogée d'une année extraordinaire pour LANDMVRKS. Après une tournée australienne
 en mai, une série de dates estivales lors des plus grands festivals européens (Wacken Open Air, Summer Breeze Open Air,
@@ -27,7 +27,7 @@ Composé du chanteur Florent Salfati, du bassiste Rudy Purkart, des guitaristes 
 batteur Kévin D'Agostino, LANDMVRKS a connu une ascension fulgurante qui culmine avec cette tournée dans des arenas et
 grandes salles.
 
-#### Un plateau d'exception
+###### Un plateau d'exception
 
 Le choix d'Underoath comme invité spécial n'est pas anodin. Les pionniers du post-hardcore américain, formés à Tampa en
 Floride en 1997 et nommés aux Grammy Awards, apportent leur expérience de plus de 25 ans et leur réputation de
@@ -41,7 +41,7 @@ EP "motionblur" en juillet 2025 via Epitaph Records.
 Cette programmation quadruple garantit des soirées de plus de trois heures de metalcore, hardcore et post-hardcore sans
 compromis, où chaque groupe apportera sa propre énergie et son style distinct.
 
-## Les dates de la tournée
+###### Les dates de la tournée
 
 L'Allemagne représente le cœur de cette tournée avec six concerts au total, confirmant le statut de LANDMVRKS comme l'un
 des groupes metalcore les plus populaires outre-Rhin. La date du 18 décembre à l'Inselpark Arena de Hambourg marque un
@@ -52,7 +52,7 @@ moment particulièrement historique : il s'agit de la plus grande salle jamais j
 Un retour en France avant la conclusion de la tournée, permettant aux fans français de célébrer avec leur groupe
 national.
 
-#### "The Darkest Place I've Ever Been" : un album qui a changé la donne
+###### "The Darkest Place I've Ever Been" : un album qui a changé la donne
 
 Cette tournée célèbre avant tout le succès retentissant de "The Darkest Place I've Ever Been", sorti le 25 avril 2025
 via Arising Empire. L'album a propulsé LANDMVRKS vers de nouveaux sommets, leur permettant notamment de remporter les
@@ -68,7 +68,7 @@ Les singles "Self Made Black Hole" (featuring Resolve), "Creature" et "Death" on
 totalisant des millions d'écoutes sur les plateformes de streaming et consolidant la position du groupe comme fer de
 lance du metalcore français.
 
-#### Une tournée nord-américaine triomphale en préambule
+###### Une tournée nord-américaine triomphale en préambule
 
 Cette tournée européenne fait suite à une tournée nord-américaine headliner en septembre-octobre 2025, où LANDMVRKS
 était accompagné de Thornhill, Silly Goose et Resolve. Les retours ont été unanimement positifs, avec des salles
@@ -83,7 +83,7 @@ Cette tournée américaine a également permis au groupe de performer leurs coll
 Hole" avec Resolve et "Heretic" avec Novelists, créant des moments magiques qui seront sans doute reproduits lors de la
 tournée européenne.
 
-#### "La French touch" du metalcore
+###### "La French touch" du metalcore
 
 S'exprimant récemment dans les colonnes de Kerrang!, le bassiste Rudy Purkart a expliqué la recette du succès de
 LANDMVRKS : "Nous avons la French touch. La France n'est pas un pays facile pour devenir un groupe de metal
@@ -93,7 +93,7 @@ Cette "French touch" se manifeste dans la capacité du groupe à mêler agressiv
 énergie live dévastatrice. Formé en 2014 à Marseille, LANDMVRKS a su s'imposer sur une scène internationale dominée par
 les groupes anglo-saxons, prouvant que le metalcore français a toute sa place au sommet du genre.
 
-#### Informations pratiques
+###### Informations pratiques
 
 Les billets pour la tournée "The Darkest Place I've Ever Been" sont disponibles sur Eventim, Ticketmaster et les sites
 officiels des salles. Le presale exclusif Eventim a déjà commencé, avec le lancement de la vente générale fixé au 15 mai
@@ -103,7 +103,7 @@ Compte tenu de la popularité croissante de LANDMVRKS et de la présence d'Under
 affichent déjà "Low Availability" (faible disponibilité), notamment la date londonienne au Roundhouse. Il est fortement
 recommandé aux fans de sécuriser leurs places rapidement.
 
-#### Une tournée qui promet d'être historique
+###### Une tournée qui promet d'être historique
 
 Avec cette tournée de décembre 2025, LANDMVRKS franchit un nouveau palier dans leur carrière. Les salles choisies -
 notamment l'Inselpark Arena de Hambourg et le Zenith de Munich - témoignent de l'ambition du groupe et de sa capacité à

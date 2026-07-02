@@ -11,7 +11,7 @@ secrète sa vocation musicale, craignant le regard des autres dans son quartier 
 pourtant cette discrétion initiale qui a nourri une écriture sincère, ancrée dans l'expérience quotidienne
 et portée par une sensibilité pop et indie folk immédiatement touchante.
 
-##### De Dublin aux arènes mondiales
+###### De Dublin aux arènes mondiales
 
 Après une décennie à composer dans l'ombre, Aaron Rowe émerge grâce à ses premières sorties qui retiennent
 l'attention des professionnels de l'industrie musicale. Son single Hey Ma, suivi de Talking with You et Lose

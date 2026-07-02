@@ -10,7 +10,7 @@ La communauté rock mondiale est en deuil. Sam Rivers, bassiste et membre fondat
 est décédé samedi 18 octobre 2025 à l'âge de 48 ans. L'annonce a été faite par le groupe sur Instagram dans un message
 bouleversant qui a laissé les fans et l'industrie musicale sous le choc.
 
-#### "Notre frère, notre compagnon de groupe, notre battement de cœur"
+###### "Notre frère, notre compagnon de groupe, notre battement de cœur"
 
 Dans leur déclaration officielle, les membres de Limp Bizkit - Fred Durst (chant), John Otto (batterie), Wes Borland (
 guitare) et DJ Lethal (platines) - ont rendu un hommage déchirant à leur camarade disparu : "Aujourd'hui, nous avons
@@ -22,7 +22,7 @@ ne pourraient jamais être remplacés. Son talent était sans effort, sa présen
 
 Aucune cause officielle de décès n'a été communiquée par le groupe ou la famille de Rivers.
 
-#### Un pilier du nu-metal depuis 1994
+###### Un pilier du nu-metal depuis 1994
 
 Né à Jacksonville, en Floride, en 1977, Sam Rivers était l'un des trois membres fondateurs de Limp Bizkit, qu'il a formé
 en 1994 aux côtés de Fred Durst et du batteur John Otto. Rivers et Otto se connaissaient depuis leur enfance - ayant
@@ -39,7 +39,7 @@ Rollin' (Air Raid Vehicle)", "Take A Look Around", "My Way", "Nookie" et "Behind
 aux Grammy Awards, a vendu des millions d'albums à travers le monde, la majorité étant certifiés platine ou
 multi-platine.
 
-#### Un combat contre la maladie
+###### Un combat contre la maladie
 
 Rivers avait quitté temporairement Limp Bizkit en 2015 en raison de graves problèmes de santé. Il avait révélé par la
 suite qu'il avait développé une maladie du foie due à une consommation excessive d'alcool.
@@ -55,7 +55,7 @@ traitement, il a rejoint Limp Bizkit en 2018 et est resté avec le groupe jusqu'
 groupe a eu lieu au festival Machaca à Monterrey, au Mexique, le 30 novembre 2024. Le dernier concert européen de Limp
 Bizkit remonte au 24 août 2025 au Leeds Festival en Angleterre.
 
-#### "Une légende parmi les légendes"
+###### "Une légende parmi les légendes"
 
 Le groupe a conclu son hommage avec ces mots : "Il était un être humain unique en son genre. Une véritable légende parmi
 les légendes. Et son esprit vivra éternellement dans chaque groove, sur chaque scène, dans chaque souvenir. Nous
@@ -66,7 +66,7 @@ famille en ce moment. Offrez des fleurs à Sam et jouez les lignes de basse de S
 sous le choc. Repose en puissance mon frère ! Tu vivras à travers ta musique et les vies que tu as aidé à sauver avec ta
 musique, ton travail caritatif et tes amitiés. Nous avons le cœur brisé."
 
-#### Un avenir incertain pour Limp Bizkit
+###### Un avenir incertain pour Limp Bizkit
 
 Le groupe avait sorti un nouveau single, "Making Love to Morgan Wallen", le mois dernier, qui avait dominé plusieurs
 classements rock. Limp Bizkit devait entreprendre une tournée latino-américaine à partir de fin novembre en tête

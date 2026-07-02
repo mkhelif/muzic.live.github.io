@@ -22,7 +22,7 @@ programmation aixoise ne tient avec autant de constance : du rock, du vrai, dans
 soir s'est ouvert avec une affiche dense, six groupes qui se sont relayés en alternance entre la Salle Club et la Grande
 Salle, et un public clairement venu en découdre. Tour d'horizon d'une soirée qui a posé la barre haut pour la suite.
 
-## Wicked Elephant Revival — l'ouverture qui met le ton
+###### Wicked Elephant Revival — l'ouverture qui met le ton
 
 {{< carousel pictures="pictures/wicked-elephant-revival" alt="Wicked Elephant Revival" author="mkhelif" >}}
 
@@ -33,7 +33,7 @@ généreux, jamais démonstratif, parfaitement calibré pour faire monter la tem
 déployée d'entrée donnait le ton de la soirée : pas de complaisance, pas de remplissage, juste une formation qui prend
 la scène pour ce qu'elle est, un terrain de jeu sans filet. Le rythme était posé, le festival pouvait commencer.
 
-## Datcha Mandala — le power trio bordelais sort les crocs
+###### Datcha Mandala — le power trio bordelais sort les crocs
 
 {{< carousel pictures="pictures/datcha-mandala" alt="Datcha Mandala" author="mkhelif" >}}
 
@@ -46,7 +46,7 @@ parfois jusqu’à frôler le scream, ajoutant une couche d'agressivité bienven
 présence scénique très seventies, entre blues-rock incandescent et énergie garage. Pour un premier concert de la saison,
 on a vu rarement aussi rodé. La grosse claque de l'apéritif.
 
-## Loons — le rock brut, sans fard
+###### Loons — le rock brut, sans fard
 
 {{< carousel pictures="pictures/loons" alt="Loons" author="mkhelif" >}}
 
@@ -58,7 +58,7 @@ peut-être imputables à la jeunesse du projet ou à la difficulté de défendre
 mais rien qui n'entame le plaisir global. Au contraire : ces aspérités donnent au concert une vérité que les groupes
 trop polis ont parfois perdue. À suivre de près, parce que la matière est là, indéniable.
 
-## SUN — la déflagration attendue
+###### SUN — la déflagration attendue
 
 {{< carousel pictures="pictures/sun-brutal-pop" alt="Sun Brutal Pop" author="mkhelif" >}}
 
@@ -70,7 +70,7 @@ calé devant SUN pour faire voler ses cheveux en pleine envolée, le mosh pit qu
 surtout cette macarena improvisée au cœur du chaos, comme un clin d'œil absurde et jubilatoire à toute la mythologie
 sérieuse du rock. SUN ne joue pas un concert, SUN organise une fête, et l'écart de niveau était palpable.
 
-## Catchy Peril — le rock qui fait danser
+###### Catchy Peril — le rock qui fait danser
 
 {{< carousel pictures="pictures/catchy-peril" alt="Catchy Peril" author="mkhelif" >}}
 
@@ -82,7 +82,7 @@ qu'imposent ces compositions taillées pour faire bouger les corps. Le chanteur 
 boucler son set au milieu de la fosse, geste rituel devenu cliché quand il est mal fait, mais ici parfaitement intégré à
 la mise en scène, et accueilli avec la chaleur qu'il méritait.
 
-## Cachemire — la communion en clôture
+###### Cachemire — la communion en clôture
 
 {{< carousel pictures="pictures/cachemire" alt="Cachemire" author="mkhelif" >}}
 
@@ -95,7 +95,7 @@ qui n'a pas faibli une seconde. Le public a repris en chœur les refrains, le ch
 la foule, dans un geste qui a clos la soirée sur cette image rare d'un groupe entièrement absorbé par son public, et
 réciproquement. La parfaite tête d'affiche pour boucler une journée de cette densité.
 
-## Le bilan d'un premier soir
+###### Le bilan d'un premier soir
 
 Six groupes, deux scènes, et pas une seule baisse de régime sur l'ensemble de la soirée : La Sainte Rock confirme sa
 capacité à programmer une affiche cohérente, où chaque formation apporte sa nuance sans jamais cannibaliser les autres.

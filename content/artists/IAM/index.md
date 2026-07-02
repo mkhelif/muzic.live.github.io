@@ -15,7 +15,7 @@ influentes et respectées de l'histoire du hip-hop hexagonal. Combinant conscien
 technique, le collectif marseillais a redéfini les contours du rap francophone en y infusant une profondeur
 intellectuelle et une richesse culturelle sans précédent.
 
-#### Genèse et formation
+###### Genèse et formation
 
 IAM naît dans le bouillonnement culturel marseillais de la fin des années 80, lorsque Philippe Fragione (Akhenaton),
 Éric Mazel (Khéops), Pascal Perez (Imhotep), François Mendy (Kephren) et Geoffroy Mussard (Shurik'n) se rassemblent
@@ -26,7 +26,7 @@ Cette formation initiale sera complétée par Malek Brahimi (Freeman), consolida
 mais complémentaires. Cette diversité d'origines et d'influences constitue dès le départ une richesse essentielle qui
 nourrira l'univers unique du groupe.
 
-#### Un univers culturel riche et singulier
+###### Un univers culturel riche et singulier
 
 L'une des caractéristiques distinctives d'IAM réside dans la construction d'un univers référentiel extrêmement riche. Le
 groupe développe une fascination pour l'Égypte antique, la culture orientale et la mythologie, créant un imaginaire qui
@@ -37,7 +37,7 @@ Kheops...) mais imprègne profondément leurs textes, où références savantes 
 avec une élégance rare. Cette dimension culturelle élargit considérablement le champ d'expression du rap français,
 prouvant qu'il peut être un véhicule de transmission de connaissances et de réflexion.
 
-#### Évolution musicale et discographie marquante
+###### Évolution musicale et discographie marquante
 
 La carrière d'IAM est jalonnée d'albums qui ont profondément marqué l'histoire du hip-hop français. Après un premier
 album remarqué, "...de la planète Mars" (1991), le groupe publie "Ombre est lumière" (1993) qui confirme leur statut de
@@ -53,7 +53,7 @@ la longévité exceptionnelle du groupe et sa capacité à évoluer sans jamais 
 qualitative sur plus de trois décennies constitue une performance remarquable dans un genre musical souvent marqué par
 des carrières éphémères.
 
-#### Portée sociale et engagement
+###### Portée sociale et engagement
 
 Au-delà de leur dimension artistique, les textes d'IAM se distinguent par leur portée sociale et politique. Le groupe
 aborde frontalement les questions d'inégalités, de racisme, d'exclusion et d'identité, offrant une voix puissante aux
@@ -67,7 +67,7 @@ Le groupe a également ouvert la voie à une expression artistique ancrée dans 
 domination parisienne, valorisant la richesse culturelle marseillaise et ses connections avec les cultures du bassin
 méditerranéen.
 
-#### Influence et héritage
+###### Influence et héritage
 
 L'influence d'IAM sur le rap français est considérable et multidimensionnelle. Sur le plan stylistique, le groupe a
 établi de nouveaux standards d'excellence technique et lyrique, élevant le niveau d'exigence de toute la scène
@@ -81,7 +81,7 @@ Enfin, en tant que représentants d'une scène marseillaise fière de ses spéci
 décentralisation du rap français, ouvrant la voie à l'émergence de scènes régionales qui enrichissent aujourd'hui le
 paysage hip-hop hexagonal.
 
-#### Carrières solo et projets parallèles
+###### Carrières solo et projets parallèles
 
 Parallèlement à leur parcours collectif, les membres d'IAM ont développé des carrières solo significatives,
 particulièrement Akhenaton et Shurik'n dont les albums personnels comptent parmi les œuvres majeures du rap français.
@@ -91,7 +91,7 @@ permettant l'exploration de territoires complémentaires.
 Les collaborations avec d'autres artistes, notamment le légendaire projet avec le Wu-Tang Clan (La Cour des Grands),
 témoignent de l'ouverture d'esprit du groupe et de sa reconnaissance au-delà des frontières françaises.
 
-#### Actualité et pertinence contemporaine
+###### Actualité et pertinence contemporaine
 
 IAM continue aujourd'hui de représenter l'excellence du rap français, maintenant leur statut de légende vivante du
 hip-hop hexagonal à travers de nouveaux projets et des tournées qui rassemblent plusieurs générations d'auditeurs.

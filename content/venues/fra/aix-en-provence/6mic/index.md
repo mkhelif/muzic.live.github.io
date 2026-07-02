@@ -27,7 +27,7 @@ d'Aix-en-Provence un épicentre des musiques amplifiées, de l'émergence locale
 Inauguré le 9 janvier 2020, le 6MIC a eu la malchance d'ouvrir ses portes quelques semaines avant le premier
 confinement. Il a eu la ténacité de survivre. Et depuis, il n'a plus cessé de vibrer.
 
-## Le nom : sismique, comme les ondes qui partent d'ici
+###### Le nom : sismique, comme les ondes qui partent d'ici
 
 6MIC. Les ondes et vibrations sismiques symbolisent à la fois la volonté de **rayonnement sur le territoire** et l'idée
 d'un **projet en mouvement**. Le nom est une déclaration d'intention : cette salle ne se contente pas de programmer des
@@ -36,7 +36,7 @@ bien au-delà des Bouches-du-Rhône. Et le choix de la localisation — le **qua
 d'Aix-en-Provence, en bordure de l'autoroute A8 — dit quelque chose de cette ambition : le 6MIC n'est pas un club de
 centre-ville, c'est un équipement structurant, visible, accessible, conçu pour attirer un public métropolitain.
 
-## L'architecture : Ricciotti, le béton et la Sainte-Victoire
+###### L'architecture : Ricciotti, le béton et la Sainte-Victoire
 
 Le bâtiment est l'œuvre des architectes **Rudy Ricciotti** et **Jean-Michel Battesti**, en conception-réalisation avec
 le groupe Fayat. Ricciotti, prix Pritzker officieux du béton poétique, a voulu que le 6MIC ressemble à un « rocher
@@ -48,7 +48,7 @@ couvrir de mousse et de lichen, fondant progressivement le bâtiment dans le pay
 L'aspect volcanique, minéral, presque tellurique du lieu est saisissant — et parfaitement cohérent avec le nom :
 sismique, né de la terre, amplifié par la technologie.
 
-## Deux salles, cinq studios, une flexibilité totale
+###### Deux salles, cinq studios, une flexibilité totale
 
 Le 6MIC s'étend sur **5 550 m²** et accueille deux espaces de concert distincts, tous deux entièrement modulables.
 
@@ -71,7 +71,7 @@ Le 6MIC dispose également de **cinq studios de répétition et d'enregistrement
 studio de pré-production de **80 m²**, capable d'accueillir des formations importantes. Ces espaces sont accessibles à
 la location pour les musiciens amateurs comme professionnels.
 
-## La programmation : la scène de tous les styles
+###### La programmation : la scène de tous les styles
 
 Plus de **100 concerts par saison**, dans tous les registres des musiques actuelles : jazz, chanson française, hip-hop,
 pop, musiques du monde, metal, électro, rock, reggae. La philosophie est celle de l'éclectisme assumé — un reflet de la
@@ -79,7 +79,7 @@ diversité musicale contemporaine, sans hiérarchie de genres. Des artistes de r
 côtoient les découvertes et les émergences locales. Pour sa première saison (2020-2021), le 6MIC avait choisi **Worakls
 ** — le prodige électro marseillais — comme artiste associé.
 
-## MAGMA : l'émergence comme priorité
+###### MAGMA : l'émergence comme priorité
 
 Au-delà de la diffusion, le 6MIC fait de l'**émergence artistique** l'une de ses missions centrales à travers le
 programme **MAGMA**. Résidences d'artistes (17 par saison), accompagnement des groupes en développement, formations,
@@ -87,7 +87,7 @@ professionnalisation — le 6MIC n'est pas seulement un lieu où l'on joue, c'es
 culturelle en direction des publics — sensibilisation à la création, appropriation des outils, ateliers — complète le
 dispositif. Le 6MIC se veut un **lieu de vie** autant qu'une salle de concert.
 
-## Gouvernance et ancrage territorial
+###### Gouvernance et ancrage territorial
 
 Le 6MIC est un équipement public dont la gestion est confiée, par délégation de service public, à la **Société
 coopérative d'intérêt collectif (SCIC) IRIS**, composée de professionnels du secteur des musiques actuelles. Après avoir
@@ -96,7 +96,7 @@ compter du 1er janvier 2024, dans le cadre de la loi 3DS de 2022. L'ancrage loca
 restauration : bières locales d'Aquae Maltae, jus de fruits frais de Kookabarra, carte de restauration qui évolue selon
 les approvisionnements et les concerts.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Le 6MIC est l'un de ces équipements culturels qui changent la donne d'un territoire. Avant son ouverture,
 Aix-en-Provence — ville de festivals, de patrimoine et d'art lyrique — ne disposait pas d'une salle de musiques

@@ -15,7 +15,7 @@ musique de leur jeunesse dans une formation sans artifice. La formation se compl
 l'arrivée de Rachel Aspe au chant — une frontwoman française, ancienne puissance vocale du groupe metal
 Eths, repérée par Monteith via Instagram —, et de Nick Plews à la batterie.
 
-##### Un hardcore sans concessions
+###### Un hardcore sans concessions
 
 Le son de Cage Fight puise directement dans les grandes heures du hardcore métal américain et européen :
 Slayer, Terror, Hatebreed, Biohazard et Stampin' Ground sont cités comme influences directes. Leur musique
@@ -29,7 +29,7 @@ première partie de Sepultura et des Cro-Mags, puis en soutien à Napalm Death e
 les apparitions dans des festivals comme Summer Breeze et Bloodstock, établissent Cage Fight comme une
 force de premier plan dans le hardcore européen.
 
-##### Exuvia et la confirmation
+###### Exuvia et la confirmation
 
 Leur deuxième album, Exuvia, sort le 1er mai 2026 via Spinefarm Records, confirmant que Cage Fight n'est
 pas un coup d'éclat mais une proposition artistique sur la durée. La production s'enrichit, l'écriture

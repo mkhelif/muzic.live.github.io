@@ -35,7 +35,7 @@ Touch hexagonale, établissant dès le départ cette position d'entre-deux qui d
 capacité à synthétiser différentes traditions musicales sans jamais tomber dans la simple imitation témoigne d'une
 intelligence créative exceptionnelle.
 
-#### Carrière musicale
+###### Carrière musicale
 
 Two Faces construit progressivement sa réputation sur la scène alternative française grâce à des compositions qui
 révèlent immédiatement leur originalité et leur potentiel créatif. Le duo développe un répertoire qui témoigne de sa
@@ -64,7 +64,7 @@ carrière musicale exigeante dans le contexte contemporain, à condition de refu
 intégrité artistique absolue. Leur trajectoire inspire d'autres artistes indépendants conscients que qualité artistique
 et développement de carrière peuvent parfaitement coexister.
 
-#### Style et influences
+###### Style et influences
 
 Two Faces se définit comme deux frères d'âme dont l'univers sonore, à la frontière entre Brit Rock et French Touch, est
 marqué par une atmosphère cinématographique unique qui distingue immédiatement leur musique. Cette synthèse originale
@@ -95,7 +95,7 @@ textures riches et complexes, alternant passages intimistes et déferlements son
 dynamiques. Cette sophistication production distingue Two Faces des nombreux projets qui se contentent d'arrangements
 conventionnels, révélant des artistes soucieux de créer des œuvres musicales complètes et accomplies.
 
-#### Actualité
+###### Actualité
 
 Two Faces continue de développer son univers artistique unique, leur participation au Nantuafest 2024 marquant une étape
 importante dans leur reconnaissance sur la scène alternative française. Cette exposition festivalière confirme leur

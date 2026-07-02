@@ -16,7 +16,7 @@ tant que membre du supergroupe éphémère **Stardust**, avec Benjamin Diamond e
 Better with You », un hymne house instantané certifié platine en France et aux États-Unis, vendu à plus de trois
 millions d'exemplaires dans le monde.
 
-##### La French Touch incarnée
+###### La French Touch incarnée
 
 Le succès de Stardust propulse Alan Braxe dans le cercle restreint des producteurs les plus demandés. Il fonde son
 propre label, Vulture Music, et publie une série de singles house influents aux côtés du producteur Fred Falke — « Intro
@@ -28,7 +28,7 @@ fois sa signature : une basse ronde, des nappes synthétiques délicates, une co
 
 *The Upper Cuts* (2005) rassemble l'essentiel de ses singles et constitue un album de référence de la French Touch. En 2013, il explore de nouvelles directions avec l'EP downtempo *Moments in Time* en collaboration avec les Spimes.
 
-##### Un artiste en constante évolution
+###### Un artiste en constante évolution
 
 Loin de se reposer sur ses lauriers, Alan Braxe continue d'explorer : *The Ascent* (2019) et *Silence at Sea* (2021)
 témoignent d'un goût pour l'ambient et les soundscapes cinématographiques, tandis qu'en 2022, il collabore pour la

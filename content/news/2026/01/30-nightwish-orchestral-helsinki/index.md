@@ -11,7 +11,7 @@ guichets fermés à Tampere ayant attiré 6 000 spectateurs, l'expérience orche
 Musiikkitalo d'Helsinki le 21 mars 2026. Un événement unique qui réinterprète le dixième album du groupe finlandais dans
 un format entièrement symphonique.
 
-#### Une expérience orchestrale unique
+###### Une expérience orchestrale unique
 
 L'expérience *Yesterwynde* Orchestral voit les compositions du groupe réarrangées pour orchestre symphonique, chœur
 d'opéra et chœur d'enfants. L'Orchestre de Vantaa, le Chœur de l'Opéra de Tampere et un chœur d'enfants, sous la
@@ -21,7 +21,7 @@ Le Musiikkitalo d'Helsinki, l'une des salles de concert classique les plus répu
 pour cette relecture symphonique d'un album qui, en soixante-douze minutes, traverse des thématiques universelles avec
 une ambition musicale remarquable.
 
-#### *Yesterwynde* : le dixième album
+###### *Yesterwynde* : le dixième album
 
 Sorti en septembre 2024 sur Nuclear Blast, *Yesterwynde* est le dixième album studio de Nightwish et le troisième volet
 d'une trilogie thématique initiée avec *Endless Forms Most Beautiful*. Premier album sans le bassiste historique Marko
@@ -31,7 +31,7 @@ challengeant techniquement de leur discographie.
 Floor Jansen reste au sommet de son art vocal, délivrant des performances qui confirment son statut de l'une des plus
 grandes chanteuses du metal mondial.
 
-#### Un groupe en pause, pas en sommeil
+###### Un groupe en pause, pas en sommeil
 
 Nightwish est en hiatus depuis la fin de ses derniers concerts en juin 2023. Kai Hahto a indiqué que cette pause
 durerait deux ou trois ans, motivée par des raisons personnelles mais vitales pour le bien-être et l'avenir du groupe.

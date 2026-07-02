@@ -8,7 +8,7 @@ en 1990 et 1993 à Enskede, dans la banlieue de Stockholm. Depuis leur irruption
 internationale au tournant des années 2010, elles sont devenues l'une des formations folk les plus
 respectées et les plus aimées dans le monde.
 
-##### Une vocation précoce et familiale
+###### Une vocation précoce et familiale
 
 Leur père, Benkt Söderberg, est un ancien membre du groupe de rock suédois Lolita Pop, et leur mère
 enseigne — un foyer marqué par une forte sensibilité artistique. C'est à douze ans que Klara reçoit sa
@@ -17,7 +17,7 @@ après la découverte du film O Brother, Where Art Thou ? et de sa bande origina
 ensemble Down to the River to Pray et ne s'arrêteront plus. En 2007, elles publient leurs premières
 compositions sur MySpace avant d'envoyer une démo à la radio suédoise.
 
-##### La percée internationale
+###### La percée internationale
 
 En 2008, une reprise de Tiger Mountain Peasant Song des Fleet Foxes, mise en ligne sur YouTube, les
 révèle à une audience mondiale. La vidéo, filmée dans un champ enneigé, fait le tour des blogs musicaux
@@ -25,7 +25,7 @@ et ouvre à First Aid Kit les portes d'une reconnaissance internationale immédi
 The Big Black and the Blue (2010), confirme leur talent naturel pour l'harmonie vocale et l'écriture folk
 intimiste.
 
-##### Une discographie exemplaire
+###### Une discographie exemplaire
 
 The Lion's Roar (2012), produit par Mike Mogis, marque leur véritable ascension critique et commerciale.
 Stay Gold (2014), sorti chez Columbia Records, les impose définitivement comme des valeurs sûres du folk

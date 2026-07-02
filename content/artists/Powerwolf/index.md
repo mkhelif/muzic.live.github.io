@@ -22,7 +22,7 @@ concept visuel et musical cohérent qui les distingue immédiatement de la scèn
 Leurs débuts voient un groupe embrasser pleinement l'aspect théâtral du metal, créant des personnages scéniques et une
 mythologie qui devient indissociable de leur musique.
 
-##### Carrière musicale
+###### Carrière musicale
 
 L'album "Lupus Dei" (2007) établit leur formule gagnante, suivi de "Bible of the Beast" (2009) qui consolide leur base
 de fans en Europe, particulièrement en Allemagne où ils deviennent des véritables stars.
@@ -36,12 +36,12 @@ chaque performance une célébration théâtrale du metal.
 Le groupe accumule des certifications or et platine en Allemagne, remplit des arenas et devient une présence
 incontournable des grands festivals metal européens.
 
-##### Carrière musicale (suite)
+###### Carrière musicale (suite)
 
 "Call of the Wild" (2021) atteint la première place des charts allemands, confirmant leur statut de phénomène mainstream
 dans le metal européen.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Powerwolf mêle power metal mélodique, refrains anthémiques chantés en chœur et orgues d'église créant une
 atmosphère épique et sacrée.
@@ -55,7 +55,7 @@ Influencés par Judas Priest, Manowar et le power metal européen, ils ont cré�
 Leurs thématiques explorent la dualité entre le sacré et le profane, les loups-garous, les vampires et l'imagerie
 religieuse avec un second degré théâtral qui célèbre les excès glorieux du metal.
 
-##### Actualité
+###### Actualité
 
 Powerwolf continue de dominer la scène power metal européenne, livrant des albums réguliers et des tournées
 spectaculaires qui célèbrent la dimension théâtrale et épique du metal.

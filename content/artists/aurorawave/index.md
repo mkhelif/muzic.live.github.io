@@ -10,7 +10,7 @@ Aurora), ancien chanteur du groupe de reggae Iya Terra. Basé dans la région du
 développe un style original qu'ils ont eux-mêmes qualifié de « reggaecore » : une fusion entre l'intensité du rock lourd
 et les cadences rythmiques du reggae.
 
-##### Un son de fusion
+###### Un son de fusion
 
 La formation comprend Nathan Feinstein au chant et à la guitare, Ray Worrick à la basse, Tanner Arebalo à la batterie et
 Mike Mocerino à la guitare. Ensemble, ils créent une musique à la fois physiquement puissante et mélodiquement

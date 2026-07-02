@@ -18,7 +18,7 @@ festival de Saint-Julien-en-Genevois, prévu du 15 au 18 juillet 2026.
 **Quatre groupes, quatre soirs, quatre univers** — et une promesse : celle d'un festival qui continue de parier sur la
 relève autant que sur ses têtes d'affiche.
 
-## Les quatre finalistes
+###### Les quatre finalistes
 
 **Les Hommes Crabes** ouvriront les festivités le 15 juillet. Trois amis nantais, quinze ans d'amitié commune, un rock
 groove percussif taillé dans les années 90 — Red Hot Chili Peppers, Incubus, Foo Fighters des débuts. Leur premier album
@@ -38,7 +38,7 @@ surprend et ne lâche plus.
 rock alternatif qui oscille entre énergie brute et atmosphères planantes. Kings of Leon, Radiohead, Foals : les
 influences sont solides, et la présence scénique, intense.
 
-## Une scène Quartier Libre en bonus
+###### Une scène Quartier Libre en bonus
 
 Le jeudi 16 juillet, la scène Quartier Libre — installée au cœur de l'espace chill — accueillera **Quintana Dead Blues
 Experience** : Piero Quintana à la guitare, Adrien Schiavone à la batterie, et entre les deux un blues lourd et

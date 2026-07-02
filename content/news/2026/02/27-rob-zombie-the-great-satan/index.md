@@ -10,7 +10,7 @@ Rob Zombie lâche son huitième album solo, *The Great Satan*, ce 27 février vi
 38 minutes : le Monsieur Horreur du metal américain revient à l'essentiel avec un disque compact, direct et féroce qui
 renoue avec ses racines punk-metal.
 
-#### Le retour des fidèles
+###### Le retour des fidèles
 
 L'événement principal de *The Great Satan* réside dans ses retrouvailles. Pour la première fois depuis *The Sinister
 Urge* (2001), le guitariste Mike « Riggs » Riggs est de retour dans le giron de Zombie. Le bassiste Rob « Blasko »
@@ -21,7 +21,7 @@ n'avait pas entendue depuis longtemps chez Zombie.
 La production a été confiée à Zeuss, qui a assuré l'enregistrement, le mixage et le mastering, tandis que Zombie
 lui-même signe la direction artistique, le design et les illustrations — fidèle à son approche de créateur total.
 
-#### Un album qui « déchire absolument »
+###### Un album qui « déchire absolument »
 
 Les critiques sont au rendez-vous. AllMusic salue un album qui « déchire absolument » avec des « riffs déchiquetés » et
 les « vocaux les plus rageurs de Zombie depuis de nombreux albums » (4/5). Blabbermouth décrit « un disque de rock 'n'
@@ -29,7 +29,7 @@ roll recraché des profondeurs tourbillonnantes » (8.5/10). Classic Rock (4/5) 
 Le score Metacritic de 74/100 place *The Great Satan* parmi les albums les mieux accueillis de la discographie solo de
 Zombie.
 
-#### Trois singles en éclaireurs
+###### Trois singles en éclaireurs
 
 La campagne de sortie a été lancée dès octobre 2025 avec *Punks and Demons*, accompagné d'un clip réalisé par Zombie
 lui-même. *Heathen Days* a suivi en novembre, puis *(I'm a) Rock 'N' Roller* en janvier 2026 — trois morceaux qui

@@ -15,7 +15,7 @@ produire en live mais d'explorer et d'expérimenter le son dans un cadre studio.
 vidéos live tournées dans leur espace de travail toulousain font office de première prise de contact avec
 le public local.
 
-##### La recherche d'une identité sonore
+###### La recherche d'une identité sonore
 
 La formation traverse plusieurs changements de line-up avant de trouver son équilibre définitif en janvier
 2018 avec l'arrivée de Luc Blanchot au violoncelle. Clément Libes (basse et violon), Damien Gouzou
@@ -24,7 +24,7 @@ configuration à quatre voix — dont le violoncelle apporte une dimension class
 permet à BRUIT ≤ de trouver son langage propre : une musique orchestrale et électrique, conceptuelle et
 émotionnelle, construite comme autant de récits sans paroles.
 
-##### Un premier album acclamé
+###### Un premier album acclamé
 
 Leur premier album complet, The Machine is Burning and Now Everyone Knows it Could Happen Again, paraît
 en format numérique le 2 avril 2021, avant une sortie physique via Pelagic Records. L'accueil critique est
@@ -38,7 +38,7 @@ que le groupe ne consacre une partie importante de son énergie à accompagner M
 soutien en tournée mondiale — une collaboration inattendue entre deux esthétiques françaises qui s'avère
 profondément féconde pour les deux parties.
 
-##### Un art de l'espace et du silence
+###### Un art de l'espace et du silence
 
 Ce qui distingue BRUIT ≤, c'est leur gestion du temps musical : la capacité à habiter le silence, à laisser
 résonner une note avant que la vague suivante ne déferle, à construire des arcs narratifs longs et patients

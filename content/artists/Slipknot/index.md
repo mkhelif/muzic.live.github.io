@@ -19,7 +19,7 @@ par une approche révolutionnaire du metal qui refuse tous les codes établis du
 totalement inédit. Cette période formatrice forge l'identité unique de Slipknot, groupe qui redéfinira les standards du
 metal extrême moderne.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière de Slipknot explose avec leur premier album éponyme (1999), qui révolutionne immédiatement la scène metal
 mondiale par son agressivité et son originalité. "Iowa" (2001) confirme leur statut de leaders du nu-metal, tandis que "
@@ -28,7 +28,7 @@ des albums qui explorent différentes facettes de leur créativité, de l'expér
 les plus brutaux. Leur influence sur la scène metal contemporaine est incommensurable, inspirant d'innombrables
 formations et redéfinissant les possibilités expressives du genre.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Slipknot fusionne metal extrême, nu-metal et éléments expérimentaux dans une synthèse explosive et
 imprévisible. Leur formation à neuf membres permet une richesse sonore exceptionnelle, mêlant guitares saturées,
@@ -36,7 +36,7 @@ percussions tribales, samples électroniques et voix multiples. Corey Taylor exc
 mélodique au growl le plus extrême, incarnant parfaitement la dualité du groupe. Cette approche révolutionnaire du metal
 influence profondément la scène contemporaine, ouvrant de nouveaux horizons créatifs au genre.
 
-##### Actualité
+###### Actualité
 
 Slipknot continue de dominer la scène metal mondiale, leur participation au Heavy Weekend 2025 témoignant de leur
 popularité intacte après plus de vingt-cinq ans de carrière. Le groupe maintient son niveau d'exigence artistique et

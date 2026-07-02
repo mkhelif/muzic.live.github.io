@@ -22,7 +22,7 @@ teinté de psychédélisme. Un super nom tellement peu approprié tant ses membr
 pas la flemme. La Flemme a la flamme — et depuis que le groupe a surgi sur la scène française, ça ne s'est pas éteint
 une seule fois.
 
-## Une nuit trop longue, un groupe pour la vie
+###### Une nuit trop longue, un groupe pour la vie
 
 Stella Lopez (basse, chant), Jules Massa (guitare, chant), Charles Priem (batterie) et Ronie Marciano (guitare)
 officient déjà dans Tessina, Rahewl and the Kewl, Flathead, Technopolice, Avenoir et Tense of Fools lorsqu'ils décident
@@ -38,7 +38,7 @@ accueille en février 2024 pour remplacer le guitariste originel.
 De cette idée étrange surgit un groupe d'une aisance et d'un cool irrésistibles, balançant des compositions frénétiques
 avec une immédiateté sans chichis — le genre qui se loge dans même les mémoires musicales les plus sélectives.
 
-## Marseille comme état d'esprit
+###### Marseille comme état d'esprit
 
 Il y a dans La Flemme ce quelque chose qui les rattache à l'histoire de la musique made in La Plaine, tels Pogy & les
 Kefars ou Tommy & les Cougars avant eux. Il n'y a qu'à voir le CV de ses membres, toute et tous dans des groupes
@@ -51,7 +51,7 @@ les assauts sans complexe d'une jeune génération qui a redécouvert que le roc
 ça dont on a besoin. La Flemme est l'incarnation de ce mouvement — une formation qui n'a pas eu besoin de chercher son
 identité parce qu'elle l'a trouvée dans le mistral électrique de son propre quartier.
 
-## Un son à la croisée de plusieurs feux
+###### Un son à la croisée de plusieurs feux
 
 Un son à la croisée de Thee Oh Sees, Ottis Coeur et Ty Segall, avec cette touche méditerranéenne qui fait toute la
 différence. Les guitares de Jules et Ronie s'entrechoquent avec une urgence garage-punk héritée des scènes américaines,
@@ -65,7 +65,7 @@ Stella Lopez fait effet de contre-point à l'énergie ambiante avec une mélanco
 morceaux incarnés par Jules Massa sont plus francs du collier et vont à l'essentiel, et cette alternance entre urgences
 bruyantes et instants suspendus fait tout le sel de La Flemme.
 
-## De l'EP à *La Fête* : une ascension fulgurante
+###### De l'EP à *La Fête* : une ascension fulgurante
 
 En mars 2024 sort un premier EP de quatre titres très remarqués. Enregistré au Peyresc Studio, il circule rapidement
 dans les réseaux de la presse spécialisée et des programmateurs, et confirme que le pari des deux mois était non
@@ -85,7 +85,7 @@ construire des fondations salutaires et un univers aussi large que solide. Les s
 clippés respectivement par Lénaïc Lannoy et Jade Garnier (Pollen Sessions), confirmant une cohérence visuelle et
 artistique rare chez un groupe aussi jeune.
 
-## Une reconnaissance en temps record
+###### Une reconnaissance en temps record
 
 Le quatuor marseillais a déjà marqué les esprits : vainqueur du Inrocks Super Club, présent à l'Inrocks Festival 2025,
 deux apparitions dans l'émission Quotidien, et plus de 100 concerts à travers la France, la Belgique, la Suisse et le
@@ -95,7 +95,7 @@ Révélés par Les Inrocks, largement soutenus par les médias — Culturebox, F
 Folk — La Flemme s'impose comme la nouvelle sensation du rock français. Sur scène ? C'est électrique, poétique, et
 sauvage.
 
-## Ce que La Flemme dit de sa génération
+###### Ce que La Flemme dit de sa génération
 
 Il y a dans le premier album de La Flemme quelque chose qui dépasse la simple réussite musicale. *La Fête* dit quelque
 chose de vrai sur une génération tiraillée entre l'euphorie collective et l'introspection, entre l'envie de s'amuser et

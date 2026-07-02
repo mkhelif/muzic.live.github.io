@@ -20,14 +20,14 @@ sincérité. Baignée dans la musique dès l'enfance — dix ans de violon au co
 appris en autodidacte —, elle grandit en région parisienne dans une famille de deux parents enseignants et se destine
 d'abord à la médecine, mouvée par l'envie d'aider les autres.
 
-##### De TikTok à la scène
+###### De TikTok à la scène
 
 C'est en 2021, depuis sa chambre d'étudiante à Bruxelles, qu'elle commence à composer et à partager ses chansons sur
 TikTok, accompagnée de son piano ou de sa guitare. Ses titres **« Jalouse »** et **« Cruel »** rencontrent un succès
 fulgurant. En 2022, Louane lui propose d'assurer sa première partie au Festi'Veyle ; Anaïs signe ensuite chez les labels
 A+LSO et Sony, et publie en janvier 2023 son premier EP, **Métastases**, suivi à l'été 2024 d'un deuxième, **Remède**.
 
-##### Une écriture à fleur de peau
+###### Une écriture à fleur de peau
 
 Ce qui distingue Anaïs MVA, c'est la vulnérabilité assumée de son écriture. Sa pop, parfois mélancolique, n'élude aucun
 sujet difficile : **« XS »** aborde l'anorexie, **« 8h sonne »** la quête de sens des jeunes adultes, et **« J'aimerais

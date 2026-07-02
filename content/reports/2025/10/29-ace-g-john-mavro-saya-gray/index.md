@@ -21,7 +21,7 @@ qui alterne entre moments collectifs et passages en solo.
 
 {{< carousel pictures="pictures/saya-gray" alt="Saya Gray" author="mkhelif" >}}
 
-#### La maîtrise vocale et instrumentale
+###### La maîtrise vocale et instrumentale
 
 Sa voix saisissante confirme immédiatement toutes les attentes : capacité à naviguer entre douceur folk et puissance
 rock avec une aisance technique exceptionnelle. Cette maîtrise de voix témoigne d'un travail vocal  approfondi, rare
@@ -33,7 +33,7 @@ territoires sonores inaccessibles aux configurations traditionnelles. Ses sangle
 témoignent d'une attention aux détails visuels qui reflète parfaitement son approche musicale globale. Chaque élément,
 du plus technique au plus décoratif, doit servir une vision d'ensemble cohérente.
 
-#### Le mélange des styles comme identité artistique
+###### Le mélange des styles comme identité artistique
 
 Ses "paysages sonores intimes et vibrants qui mélangent les mondes du folk, du rock, de la pop et tout ce qui se trouve
 entre les deux" trouvent dans cette performance leur pleine expression. L'alternance maîtrisée entre morceaux plus
@@ -48,7 +48,7 @@ diversité sonore leur écrin parfait.
 Le voyage solitaire au Japon, matrice de cet album SAYA, transparaît dans cette approche méditative du rock où chaque
 composition devient exploration intérieure.
 
-#### L'intimité repensée comme manifeste scénique
+###### L'intimité repensée comme manifeste scénique
 
 Le moment où Saya Gray s'assoie pour un concert plus intimiste transforme le concert en expérience collective partagée.
 Cette approche trouve sa logique profonde dans la genèse même de l'album : comment un voyage solitaire peut-il devenir
@@ -56,7 +56,7 @@ communion collective ? En refusant la verticalité traditionnelle du concert pou
 Cette séquence assise contraste d'autant plus puissamment avec les moments de puissance rock debout, créant une
 dramaturgie émotionnelle parfaitement maîtrisée.
 
-#### L'avènement d'une artiste accomplie
+###### L'avènement d'une artiste accomplie
 
 Saya Gray confirme aux Docks tout le potentiel annoncé par ses influences prestigieuses et son parcours singulier. Sa
 capacité à digérer les Beatles, Led Zeppelin et Joni Mitchell pour créer une identité propre témoigne d'une maturité

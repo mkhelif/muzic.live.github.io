@@ -28,7 +28,7 @@ perfectionner leur art avant de percer commercialement. Cette éthique de travai
 indéniable pour créer des morceaux qui allient profondeur thématique et accessibilité mélodique, fait d'eux l'un des
 représentants les plus prometteurs du rock américain contemporain.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Les débuts de Nothing More remontent au début des années 2000, période durant laquelle le groupe affine son style en se
 produisant dans les clubs texans et en autoproduisant plusieurs EPs qui témoignent déjà de leur ambition artistique. Ces
@@ -54,7 +54,7 @@ virtuosité instrumentale, d'énergie brute et de créativité scénique qui lai
 L'album "Spirits" (2023) continue d'explorer de nouveaux territoires sonores tout en conservant l'essence de ce qui fait
 la force de Nothing More.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Nothing More défie les catégorisations simples, fusionnant des éléments de rock alternatif, de metal
 progressif, de hard rock et même d'électronique dans une synthèse unique. Leurs compositions se caractérisent par une
@@ -80,7 +80,7 @@ conventionnels, comme le fameux Scorpion Tail mais aussi diverses percussions cu
 constante de repousser les frontières sonores du rock. L'influence de Tool, Deftones et du metal progressif moderne est
 évidente, mais Nothing More a su créer une identité qui leur est propre, reconnaissable dès les premières notes.
 
-##### Actualité
+###### Actualité
 
 Nothing More continue aujourd'hui de tourner intensivement et de travailler sur de nouveaux matériaux, maintenant leur
 statut de force vive du rock américain contemporain. Leurs concerts demeurent des événements attendus où virtuosité

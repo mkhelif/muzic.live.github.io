@@ -19,7 +19,7 @@ Stockholm. Pop star depuis l'enfance, elle est devenue l'une des voix les plus p
 pop européenne, enchaînant les hits internationaux depuis plus d'une décennie. Féministe assumée, artiste indépendante
 depuis qu'elle a racheté son propre catalogue, elle incarne une pop à la fois festive, émotionnelle et engagée.
 
-## L'enfant prodige de *Talang*
+###### L'enfant prodige de *Talang*
 
 Zara Larsson sait qu'elle veut être chanteuse depuis l'âge de cinq ans. Elle grandit à Stockholm, élevée par des parents
 qu'elle décrit comme « très éduqués sur les questions sociales », et fréquente brièvement l'école du Royal Swedish
@@ -34,7 +34,7 @@ signer son premier contrat discographique avec TEN Music Group en 2012. Whitney 
 parmi ses inspirations les plus anciennes, mais c'est Beyoncé qui deviendra son modèle absolu — autant pour sa musique
 que pour son féminisme.
 
-## La conquête scandinave : *Uncover* et l'album *1*
+###### La conquête scandinave : *Uncover* et l'album *1*
 
 En janvier 2013, Larsson publie son premier EP, *Introducing*, dont le single *Uncover* atteint le numéro un en Suède et
 en Norvège. Le titre est certifié sextuple platine en Suède — un succès phénoménal pour une artiste de 15 ans. La même
@@ -45,7 +45,7 @@ Son premier album studio, *1*, sort en octobre 2014 et se classe directement num
 *Bad Boys*, *Carry You Home* et *Rooftop*. Le disque est certifié platine dans son pays natal. Larsson est déjà une star
 en Scandinavie, mais le reste du monde ne la connaît pas encore.
 
-## La percée mondiale : *Lush Life* et *So Good* (2015–2017)
+###### La percée mondiale : *Lush Life* et *So Good* (2015–2017)
 
 Tout change en juin 2015 avec la sortie de *Lush Life*. Ce titre dance-pop solaire, irrésistible hymne estival, se
 classe dans le top 5 de 18 pays et devient l'un des morceaux les plus joués de l'année en Europe. Le morceau est
@@ -61,7 +61,7 @@ numéro 7 au Royaume-Uni. Le disque s'écoule à plus d'un million d'exemplaires
 Bandit, *Symphony*, atteint le numéro un au Royaume-Uni et devient l'un de ses titres les plus emblématiques — un
 morceau qui connaîtra un regain viral spectaculaire des années plus tard.
 
-## L'indépendance : de *Poster Girl* à *Venus* (2021–2024)
+###### L'indépendance : de *Poster Girl* à *Venus* (2021–2024)
 
 Le troisième album, *Poster Girl* (2021), contient le hit *Ruin My Life* (2018) et se distingue par une pop plus
 affirmée et plus sombre. Mais c'est en coulisses que se joue le tournant le plus important de sa carrière : en juin
@@ -73,7 +73,7 @@ Son quatrième album, *Venus*, sort le 9 février 2024 via Epic Records et Somme
 singles dont *Can't Tame Her*, *End of Time* et *On My Love* (avec David Guetta), explore des thèmes plus personnels et
 matures. Larsson fait ses débuts d'actrice la même année dans *A Part of You*, un film Netflix aux côtés d'Edvin Ryding.
 
-## *Midnight Sun* et la renaissance (2025–2026)
+###### *Midnight Sun* et la renaissance (2025–2026)
 
 En 2025, Zara Larsson connaît une véritable renaissance. Son cinquième album studio, *Midnight Sun*, sort le 26
 septembre 2025 et reçoit un accueil critique unanime — 89/100 sur Metacritic, le meilleur score de sa carrière et l'un
@@ -96,7 +96,7 @@ dont les États-Unis, et se hisse au numéro un du Billboard Global 200.
 Larsson poursuit la promotion de *Midnight Sun* en 2026 avec la continuation de sa tournée mondiale, après avoir assuré
 les premières parties de Tate McRae sur la *Miss Possessive Tour* à travers l'Amérique du Nord durant l'été 2025.
 
-## Le style Zara Larsson
+###### Le style Zara Larsson
 
 La musique de Zara Larsson se situe au carrefour de la dance-pop, de l'electropop, du R&B contemporain et de la
 synthpop. Sa voix, d'une puissance et d'une clarté remarquables, est l'une des plus distinctives de la pop européenne —
@@ -109,7 +109,7 @@ En mars 2023, elle déclarait avec un aplomb caractéristique : « Je pense que 
 remporte un jour un Grammy, je ne me dirai pas "Oh mon Dieu, je n'arrive pas à y croire" — ce sera plutôt "Enfin, il
 était temps". »
 
-## Récompenses
+###### Récompenses
 
 Un Bambi Award, deux Electronic Dance Music Awards, quatre Grammis (les Grammy suédois), quatre MTV Europe Music Awards,
 huit Rockbjörnen. Nominations à quatre Brit Awards, deux MTV Video Music Awards, un Hollywood Music in Media Award et un

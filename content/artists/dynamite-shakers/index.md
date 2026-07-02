@@ -18,7 +18,7 @@ développant un style qui mélange influences rockabilly, rhythm'n'blues et rock
 Leurs débuts révèlent une formation qui privilégie l'authenticité et l'énergie brute sur la sophistication technique,
 créant un son direct et efficace qui enflamme immédiatement les scènes de concert.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Dynamite Shakers se fait connaître grâce à leurs performances scéniques explosives et leurs compositions rock directes
 qui rappellent l'âge d'or du rock'n'roll.
@@ -29,7 +29,7 @@ modernité qui séduit un public contemporain.
 Leurs morceaux révèlent une maîtrise parfaite des codes du rock traditionnel et une capacité remarquable à recréer
 l'énergie et l'esprit festif des pionniers du genre.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Dynamite Shakers puise dans le rock'n'roll des années 50, le rhythm'n'blues et le rockabilly, créant un son
 authentique qui évoque les grandes heures du rock traditionnel.
@@ -40,7 +40,7 @@ accrocheuses.
 Leurs influences révèlent une connaissance encyclopédique du rock traditionnel américain, qu'ils réinterprètent avec une
 passion et une énergie contagieuses.
 
-##### Actualité
+###### Actualité
 
 Dynamite Shakers continue de faire revivre l'esprit authentique du rock'n'roll traditionnel, maintenant vivante cette
 musique festive et libératrice qui a révolutionné la culture populaire.

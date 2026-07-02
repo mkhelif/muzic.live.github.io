@@ -28,7 +28,7 @@ plus grandes scènes internationales. Orianthi représente une nouvelle généra
 l'excellence instrumentale transcende le genre et que la passion pour la musique demeure le moteur fondamental de toute
 carrière durable.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Orianthi commence à jouer de la guitare dès l'âge de six ans, inspirée par son père musicien et rapidement captivée par
 les légendes du blues et du rock comme Jimi Hendrix, Eric Clapton et Carlos Santana. Sa progression fulgurante l'amène à
@@ -53,7 +53,7 @@ présence scénique et de toucher une audience rock plus traditionnelle. Ses alb
 2020) et "Rock Candy" (2022) avec le supergroupe RSO, dont elle partage la direction avec Richie Sambora, témoignent
 d'une évolution vers un rock plus mature et organique.
 
-##### Style et influences
+###### Style et influences
 
 Le style guitaristique d'Orianthi puise ses racines dans le blues-rock classique, avec des influences manifestes de Jimi
 Hendrix, Stevie Ray Vaughan et Carlos Santana. Son jeu se caractérise par un vibrato expressif, des bends émotionnels et
@@ -77,7 +77,7 @@ elle un modèle de réussite prouvant que l'excellence instrumentale ne connaît
 à normaliser la présence de femmes guitaristes dans le rock et le hard rock, ouvrant la voie à une nouvelle génération
 d'instrumentistes talentueuses.
 
-##### Actualité
+###### Actualité
 
 Orianthi poursuit aujourd'hui une carrière internationale active, alternant entre projets solo et collaborations
 diverses. Son implication dans RSO avec Richie Sambora témoigne de son statut de musicienne respectée capable de tenir

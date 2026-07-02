@@ -21,7 +21,7 @@ milliard de streams cumulés, quatre albums, trois disques d'or, quatorze single
 avril 2025, et une place désormais incontournable dans le paysage musical français. Tout ça en chantant dans deux
 langues à la fois, avec une désinvolture qui fait paraître l'exercice facile — alors qu'il ne l'est pas du tout.
 
-## Le 20ème, le walkman et les rappeurs américains
+###### Le 20ème, le walkman et les rappeurs américains
 
 Franglish naît le 2 août 1994 dans le 20ème arrondissement de Paris, dans une famille d'origine congolaise. Son enfance
 baigne dans deux cultures musicales qui vont façonner tout ce qu'il deviendra : d'un côté le rap et le R&B français, de
@@ -33,7 +33,7 @@ Il fait ses premiers pas au sein du **Brownie Dubz Gang**, un crew de son quarti
 deviendra son nom de scène : ses potes le surnomment « Mr. Franglish » parce que ses freestyles mélangent le français et
 l'anglais avec un naturel déconcertant. Le pseudonyme colle. Il ne le quittera plus.
 
-## Les mixtapes fondatrices (2013–2017)
+###### Les mixtapes fondatrices (2013–2017)
 
 En 2013, Franglish sort sa première mixtape, **The Franglish Prototype**, produite par Richie Beats. Le projet, qui
 réunit des featurings avec S.Pri Noir, Still Fresh, Alpha Wann et Monsieur NOV, connaît un succès d'estime dans le
@@ -46,7 +46,7 @@ capable d'alterner entre le rap pur et des mélodies plus chantées, entre la ru
 américaines, que Franglish présente en première partie de la tournée G20 Tour de **Dadju**. La connexion avec Dadju —
 et, par extension, avec tout l'écosystème musical qui gravite autour de la famille Djuna — va s'avérer déterminante.
 
-## Le maître des featurings
+###### Le maître des featurings
 
 Avant même d'avoir sorti un album, Franglish s'impose comme l'un des featuring les plus demandés du rap français. Sa
 capacité à se fondre dans n'importe quel univers musical, à poser un refrain entêtant sur n'importe quelle instru, en
@@ -59,7 +59,7 @@ au-delà.
 C'est son duo avec Vitaa qui le fait connaître du grand public — y compris de l'équipe de France de football, qui écoute
 l'artiste en boucle pendant la Coupe du monde 2018.
 
-## *Monsieur* (2019) : l'album de la maturité
+###### *Monsieur* (2019) : l'album de la maturité
 
 En avril 2019, après deux ans de travail, Franglish sort enfin son premier album, **Monsieur**. Vingt-et-un titres qui
 racontent un homme qui a grandi — c'est d'ailleurs le sens du titre. Dans *Petit diamant*, il chante pour sa fille d'un
@@ -70,7 +70,7 @@ AboudeBeing et Soolking.
 *Monsieur* se classe 16ème des charts français et sera certifié **disque d'or** — le premier d'une série. L'artiste qui
 était un nom de connaisseur devient une figure populaire.
 
-## L'ascension : *Vibe*, *Glish*, les Zéniths et Bercy
+###### L'ascension : *Vibe*, *Glish*, les Zéniths et Bercy
 
 La machine ne s'arrête plus. En 2020, la mixtape **Mood** (sept titres) maintient la pression avec *Biberon* (feat.
 Tiakola & Leto) et *My Salsa* (feat. Tory Lanez), tube international qui dépasse largement les frontières francophones.
@@ -90,7 +90,7 @@ les singles *Position* (n°4 en France) et *Si t'es pas là*. En avril 2025, il 
 **Prime Tour** — les 11 et 12 avril —, confirmant son statut de tête d'affiche capable de remplir la plus grande salle
 de Paris.
 
-## Au-delà de la musique : cinéma, mode et polyvalence
+###### Au-delà de la musique : cinéma, mode et polyvalence
 
 Franglish ne se limite pas au micro. En 2020, il fait ses débuts d'acteur dans la série **Or Noir**. En 2023, il défile
 comme mannequin et ambassadeur de la marque **Gunther** lors de la **Fashion Week de Paris**. Cette polyvalence n'est
@@ -98,7 +98,7 @@ pas un caprice de star : elle reflète un artiste qui pense sa carrière comme u
 mouvement et la présence scénique forment un ensemble cohérent. Sur scène, Franglish est un performer complet — danse,
 énergie, interaction avec le public — qui transforme chaque concert en fête collective.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Franglish est l'un de ces artistes qui incarnent la mutation profonde de la musique française contemporaine : un gamin
 du 20ème d'origine congolaise qui chante en deux langues, mélange l'afropop, le R&B et le rap avec une fluidité

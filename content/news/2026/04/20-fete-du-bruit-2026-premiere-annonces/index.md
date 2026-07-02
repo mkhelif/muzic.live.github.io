@@ -13,7 +13,7 @@ La **Fête du Bruit** a levé le voile sur sa première vague d'annonces pour l'
 festival breton à double implantation — **Saint-Nolff** (Morbihan, 10-12 juillet) et **Landerneau** (Finistère, 7-9
 août) — confirme plusieurs têtes d'affiche de poids qui devraient remplir les deux sites.
 
-#### DJ Snake s'offre Landerneau
+###### DJ Snake s'offre Landerneau
 
 La surprise vient d'abord de l'annonce de **DJ Snake** pour le vendredi 7 août aux Jardins de la Palud. Le producteur
 franco-algérien, qui a sculpté la pop mondiale des années 2010 avec *Turn Down for What*, *Lean On* et *Taki Taki*, ne
@@ -21,14 +21,14 @@ se produit que rarement dans des festivals à taille humaine. La Fête du Bruit 
 Bretagne promet un condensé de ses collaborations les plus emblématiques, dans un cadre qui contraste radicalement avec
 les arènes mondiales où il officie habituellement.
 
-#### Bigflo & Oli : les deux villes, un seul été
+###### Bigflo & Oli : les deux villes, un seul été
 
 Phénomène de longévité du rap français, le duo toulousain **Bigflo & Oli** sera présent sur les deux sites — à
 Saint-Nolff le samedi 11 juillet, puis à Landerneau le dimanche 9 août. Ce doublon breton inédit pour les frères
 Florian et Hakim Ordonez témoigne de leur capacité à traverser toutes les géographies et tous les publics, des arènes
 urbaines aux prairies bretonnes.
 
-#### Kungs complète le premier plateau
+###### Kungs complète le premier plateau
 
 Le DJ et producteur varois **Kungs** — révélé mondialement en 2016 avec *This Girl* — vient muscler le volet
 électronique du samedi 8 août à Landerneau. Après plusieurs années passées à raffiner son identité musicale vers une

@@ -12,7 +12,7 @@ Carvalho, rapidement rejoints par Pierrot Casanova, Nicolas Borne et le claviér
 genre qu'ils ont contribué à inventer — l'électro-orientale — ils fusionnent l'acid house et les musiques du monde
 arabe, berbère et du Moyen-Orient dans un son à la fois festif, dansant et profondément culturel.
 
-##### Naissance d'un collectif hors-norme
+###### Naissance d'un collectif hors-norme
 
 C'est lors de l'été 2012 que l'aventure Acid Arab prend véritablement son envol, lorsque Minisky et Carvalho sont
 invités au festival Pop in Djerba pour un DJ set à quatre mains. De cette rencontre naît une alchimie unique : celle
@@ -24,7 +24,7 @@ house, avec des instruments et des sonorités issues de la musique orientale et 
 puissante : Acid Arab crée une musique de dancefloor qui résonne aussi bien dans les clubs parisiens que dans les
 festivals du Maghreb.
 
-##### Discographie et collaborations
+###### Discographie et collaborations
 
 Acid Arab sort son premier album studio, Musique de France, en 2016 sur le label belge Crammed Discs, un titre
 délibérément provocateur qui invite à repenser la notion même d'identité musicale française. Trois ans plus tard,
@@ -36,7 +36,7 @@ La liste de leurs collaborateurs témoigne de leur ouverture au monde : artistes
 nigériens se croisent dans leur univers, faisant de chaque projet une célébration de la diversité musicale
 méditerranéenne et africaine.
 
-##### Une présence mondiale
+###### Une présence mondiale
 
 Entre 2015 et 2020, Acid Arab se produit plus de 260 fois dans une cinquantaine de pays sur quatre continents,
 devenant l'un des groupes français les plus exportés à l'international. Ils se distinguent notamment par leur fort

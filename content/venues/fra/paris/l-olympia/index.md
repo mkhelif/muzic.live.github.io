@@ -24,7 +24,7 @@ concert de sa vie. Jacques Brel y a fait ses adieux. Et chaque soir, encore aujo
 rouge de la façade s'allument pour annoncer un nouveau nom — parce qu'à l'Olympia, « faire l'Olympia » reste le graal
 absolu de tout artiste qui chante en français, et bien au-delà.
 
-## 1893 : des montagnes russes au premier music-hall de Paris
+###### 1893 : des montagnes russes au premier music-hall de Paris
 
 L'histoire commence par un coup de génie immobilier doublé d'une intuition de showman. En 1888, **Joseph Oller** —
 entrepreneur d'origine catalane, cofondateur du Moulin Rouge — décide d'entreposer ses manèges à sensation dans la cour
@@ -39,14 +39,14 @@ acrobates, des ventriloques, des jongleurs, des ballets, des revues et des opér
 Printemps** y triomphent entre 1911 et 1914. Puis la Première Guerre mondiale ferme les portes. À la réouverture, les
 étoiles de la chanson de l'entre-deux-guerres — **Fréhel**, **Marie Dubas**, **Lucienne Boyer** — prennent le relais.
 
-## Le virage cinéma et les années sombres
+###### Le virage cinéma et les années sombres
 
 En 1929, le music-hall cède la place au septième art. La salle est rebaptisée **Olympia – Théâtre Jacques Haïk**, du nom
 de son nouveau propriétaire, par ailleurs créateur du Grand Rex. Pendant près de vingt-cinq ans, l'Olympia fonctionne
 comme cinéma — y compris sous l'Occupation allemande puis lors de la Libération, où il sert de salle de spectacle
 gratuite pour les soldats alliés.
 
-## 1954 : Bruno Coquatrix et la résurrection
+###### 1954 : Bruno Coquatrix et la résurrection
 
 Tout bascule en 1954. **Bruno Coquatrix** — imprésario d'Édith Piaf, compositeur, saxophoniste de jazz, directeur de
 Bobino — reprend la direction de l'Olympia, qui se trouve alors dans un état lamentable. Il fait rénover la salle,
@@ -67,7 +67,7 @@ d'artistes inconnus en quelques heures. C'est là que **Dalida** est repérée e
 d'elle l'artiste solo la plus programmée de l'histoire de la salle — sept séries de concerts à guichets fermés entre
 1961 et 1981.
 
-## 1961 : Piaf sauve l'Olympia
+###### 1961 : Piaf sauve l'Olympia
 
 En 1961, la salle est au bord de la faillite. Coquatrix est désespéré. C'est alors qu'Édith Piaf — gravement malade,
 diminuée physiquement mais habitée comme jamais — vient à son secours. Elle tient l'affiche pendant trois mois
@@ -75,7 +75,7 @@ consécutifs, dont certains soirs offerts gratuitement à Coquatrix. Elle y cré
 Jacques Tati assure des animations à l'entrée et sur scène pour attirer le public. La salle est sauvée. L'épisode est
 devenu l'un des mythes fondateurs de l'Olympia — et de la chanson française.
 
-## Les Beatles, Brel, et l'ère rock
+###### Les Beatles, Brel, et l'ère rock
 
 En janvier 1964, les Beatles s'installent à l'Olympia pour dix-huit jours de concerts — deux à trois par jour. Ils
 logent au George V. C'est en rentrant à l'hôtel après leur premier jour qu'ils apprennent que *I Want to Hold Your Hand*
@@ -89,7 +89,7 @@ initialement prévu pour deux soirs qui s'étend à seize représentations. En 1
 musique celtique en France, ouvrant la voie à toute une génération. La même année, les **Grateful Dead** y jouent deux
 concerts lors de leur première tournée européenne, captés sur l'album *Europe '72*.
 
-## La mort de Coquatrix et la menace de destruction
+###### La mort de Coquatrix et la menace de destruction
 
 Le 1er avril 1979, Bruno Coquatrix meurt. La salle est rebaptisée **Olympia – Bruno Coquatrix** en son hommage (bien
 qu'il n'en ait jamais été propriétaire). Son neveu **Jean-Michel Boris** prend la direction et la conservera jusqu'en
@@ -103,7 +103,7 @@ mètres et six mètres plus bas que leur emplacement d'origine. Le dernier conce
 1997. Le nouvel Olympia ouvre en novembre de la même année — et c'est Gilbert Bécaud, celui-là même qui avait inauguré
 l'ère Coquatrix en 1954, qui est le premier à y chanter.
 
-## L'Olympia aujourd'hui
+###### L'Olympia aujourd'hui
 
 En août 2001, **Vivendi Universal** (devenu Vivendi en 2006) rachète la marque « Olympia » et l'ensemble de
 l'exploitation commerciale. Le bâtiment est détenu par la Société Foncière Lyonnaise. Depuis, l'Olympia est géré par la
@@ -119,7 +119,7 @@ La salle abrite également la **Salle de Billard**, classée monument historique
 céramiques du XIXème siècle, ouverte au public depuis 2019. C'est dans cette même pièce que Coquatrix et Barclay
 auditionnaient les artistes inconnus dans les années 1950 — et que Dalida fut découverte.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 « Faire l'Olympia » n'est pas une simple expression. C'est un rite de passage, un Graal, une consécration. Depuis 133
 ans, cette salle du boulevard des Capucines traverse les guerres, les crises, les mutations de l'industrie musicale et

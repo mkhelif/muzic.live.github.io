@@ -29,7 +29,7 @@ Son succès international témoigne de la résonance universelle de son message.
 Rudd touche les consciences par l'authenticité de sa démarche et la beauté envoûtante de sa musique, prouvant que l'art
 peut être à la fois un refuge spirituel et un catalyseur de changement social.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière de Xavier Rudd débute au début des années 2000 avec la sortie de son premier album éponyme, qui attire
 immédiatement l'attention par son originalité et sa profondeur. "To Let" (2002) et "Solace" (2004) confirment son talent
@@ -52,7 +52,7 @@ Ses albums plus récents, comme "Storm Boy" (2018) et "Jan Juc Moon" (2022), con
 sont chers tout en affinant son écriture et ses arrangements. Chaque disque témoigne d'une maturation artistique
 constante, où la maîtrise technique se met au service d'une expression toujours plus authentique et percutante.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Xavier Rudd se construit à l'intersection de multiples traditions musicales. Le reggae constitue l'une de
 ses influences majeures, apportant des rythmiques chaleu reuses et des grooves entraînants qui servent de fondation à
@@ -76,7 +76,7 @@ communautés engagées dans la justice sociale. Il a inspiré toute une généra
 pour défendre des causes qui dépassent le simple divertissement, démontrant que la musique peut être un vecteur puissant
 de transformation sociale.
 
-##### Actualité
+###### Actualité
 
 Xavier Rudd continue aujourd'hui de tourner intensivement à travers le monde, apportant son message de paix, de respect
 environnemental et de réconciliation culturelle sur les cinq continents. Ses concerts, véritables cérémonies musicales,

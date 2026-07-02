@@ -20,7 +20,7 @@ Ses débuts révèlent un artiste qui refuse les codes établis et développe un
 Il commence par se faire connaître dans les clubs parisiens underground, où son approche originale et sa personnalité
 atypique lui permettent de se créer rapidement une base de fans fidèles.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière de Vladimir Cauchemar se développe progressivement grâce à ses productions originales et ses performances DJ
 qui ne laissent personne indifférent.
@@ -31,7 +31,7 @@ qu'originales.
 Ses collaborations avec d'autres artistes de la scène électronique française démontrent sa capacité d'adaptation et son
 ouverture artistique, révélant un producteur curieux et créatif.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Vladimir Cauchemar se caractérise par des basses profondes, des rythmiques hypnotiques et des éléments
 sonores inattendus qui créent une atmosphère à la fois underground et accessible.
@@ -40,7 +40,7 @@ Il puise ses influences dans différents courants de la musique électronique, d
 passant par l'acid house et la minimal, créant un son personnel qui se distingue dans le paysage électronique français
 contemporain.
 
-##### Actualité
+###### Actualité
 
 Vladimir Cauchemar continue d'incarner cette nouvelle génération de producteurs français qui réinvente les codes de la
 musique électronique en y apportant une touche d'originalité et d'humour.

@@ -9,7 +9,7 @@ Anthrax est l'un des groupes fondateurs du thrash metal, formé le 18 juillet 19
 Scott Ian et le bassiste Dan Lilker. Aux côtés de Metallica, Megadeth et Slayer, Anthrax forme le légendaire
 « Big Four » du thrash metal, un mouvement musical qui allait révolutionner le heavy metal dans les années 1980.
 
-##### Origines et formation
+###### Origines et formation
 
 Le groupe connaît plusieurs changements de line-up dans ses premières années avant de se stabiliser autour de
 membres clés qui définiront son identité. L'arrivée du chanteur Joey Belladonna en 1984 est déterminante : sa
@@ -17,7 +17,7 @@ voix puissante et mélodique confère à Anthrax une personnalité vocale distin
 plus accessible que nombre de ses pairs. Scott Ian reste la colonne vertébrale du groupe depuis ses débuts,
 accompagné du batteur Charlie Benante (depuis 1983) et du bassiste Frank Bello (depuis 1984).
 
-##### Discographie et apogée
+###### Discographie et apogée
 
 Le troisième album *Among the Living* (1987) marque le sommet créatif d'Anthrax et reste considéré comme l'un
 des disques les plus importants du genre. Le groupe enchaîne avec *State of Euphoria* (1988) et *Persistence of
@@ -25,7 +25,7 @@ Time* (1990), ce dernier valant au groupe sa première nomination aux Grammy Awa
 (1993), enregistré avec le chanteur John Bush qui avait entre-temps remplacé Belladonna, atteint la septième
 place du Billboard 200, leur meilleur résultat commercial.
 
-##### Style et héritage
+###### Style et héritage
 
 Anthrax se distingue des autres membres du Big Four par une approche plus ludique et moins monolithique du
 thrash. Le groupe intègre des influences hip-hop pionnières — notamment à travers leur collaboration avec Public

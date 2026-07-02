@@ -15,14 +15,14 @@ funéraires siciliennes et la musique balkanique. Il quitte le lycée à 17 ans,
 puis s'inscrit brièvement à l'université du Nouveau-Mexique pour étudier le portugais et la photographie, avant de se
 consacrer entièrement à la musique.
 
-##### Naissance d'un son unique
+###### Naissance d'un son unique
 
 Condon enregistre seul, dans sa chambre, l'essentiel du matériel de "Gulag Orkestar", achevant l'album en studio avec
 Jeremy Barnes (Neutral Milk Hotel, A Hawk and a Hacksaw) et Heather Trost. Le résultat marie rock indépendant, folk
 balkanique et musique du monde, porté par la trompette à pistons rotatifs et le ukulélé de Condon, cet instrument acheté
 au départ comme accessoire de scène par dérision.
 
-##### Une carrière marquée par la fragilité et le renouveau
+###### Une carrière marquée par la fragilité et le renouveau
 
 En 2019, Zach Condon annule les dernières dates de la tournée internationale du groupe en raison d'une laryngite aiguë,
 un épisode loin d'être isolé dans son histoire de santé. Cette épreuve le pousse à s'isoler seul à Hadsel, une

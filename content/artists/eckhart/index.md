@@ -23,7 +23,7 @@ Fomies et impliqué dans le collectif Bleu Lagon Records — et d'Olivia Madhuri
 initialement un side project solitaire en une véritable machine de scène, capable de délivrer des performances à haute
 intensité.
 
-#### Identité musicale
+###### Identité musicale
 
 Eckhart se définit par le qualificatif auto-attribué de « mystical trash », une formule qui capture bien l'essence
 paradoxale du projet. La musique d'Eckhart est abrasive, à la fois dansante, rageuse et introspective, abordant par les
@@ -37,7 +37,7 @@ festival Nox Orae, qui les a programmés en août 2024, résumait leur univers c
 William S. Burroughs, Psychic TV, Death Grips et les Chemical Brothers — un carrefour d'influences qui dit beaucoup de
 la singularité du trio.
 
-#### Thématiques
+###### Thématiques
 
 Eckhart ne se contente pas de frapper fort musicalement : le projet porte un discours. Les textes de John Silvestre
 s'attaquent frontalement aux maux de l'ultra-modernité — l'aliénation par le divertissement, la société de consommation,
@@ -45,7 +45,7 @@ l'hyper-communication et la marchandisation des rapports humains. La perte de se
 la disparition du sacré dans un monde saturé d'écrans et de stimuli : autant de fils conducteurs qui traversent la
 discographie du groupe avec une urgence palpable.
 
-#### Discographie
+###### Discographie
 
 Les premiers pas d'Eckhart remontent à 2023 avec des singles autoproduits comme « Down The Sewer » (mars 2023), « He Who
 Shattered The Light / Ghosts Of Their Bedroom » (mai 2023) et « farewell » (décembre 2023), qui dessinent déjà les
@@ -63,7 +63,7 @@ En 2025, Eckhart contribue au titre « Cracked Egg » sur la compilation collabo
 opus du label veveysan, et multiplie les sorties : singles, remixes (dont une relecture de Dua Lipa) et des titres
 comme « Ain't It A Lonely Feeling » ou « Here's One ».
 
-#### Reconnaissance et scène
+###### Reconnaissance et scène
 
 Le parcours scénique d'Eckhart s'accélère rapidement. En août 2024, le duo (devenu trio) se produit au festival Nox Orae
 à La Tour-de-Peilz, partageant l'affiche avec des noms comme Ty Segall, Yves Tumor, Glass Beams et Los Bitchos — une
@@ -76,14 +76,14 @@ la scène helvétique et ouvre de nouvelles perspectives.
 En février 2026, le trio est programmé au festival Antigel à Genève, en première partie de Last Train à l'Alhambra — un
 rapprochement logique entre deux formations qui partagent une même énergie cathartique et une même intensité scénique.
 
-#### Perspectives
+###### Perspectives
 
 Eckhart dévoilera un troisième LP intitulé *He's Dancing, He Says He Will Never Die* en mai 2026. Un titre
 programmatique, à la fois mystique et provocateur, qui promet de prolonger la trajectoire ascendante d'un projet qui, en
 à peine trois ans d'existence, s'est imposé comme l'une des propositions les plus radicales et stimulantes de la scène
 alternative suisse romande.
 
-#### Ancrage local
+###### Ancrage local
 
 Eckhart s'inscrit pleinement dans l'écosystème musical de Vevey, ville dont la vitalité créative ne cesse de surprendre.
 Rattaché au label Bleu Lagon Records — collectif fondé en 2019 par une vingtaine de musiciens veveysans pour promouvoir

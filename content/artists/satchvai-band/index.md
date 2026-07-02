@@ -20,7 +20,7 @@ Le projet illustre parfaitement comment deux approches distinctes de l'instrumen
 mutuellement : la précision mélodique de Satriani rencontre l'exubérance sonore de Vai, créant une synergie unique qui
 repousse les frontières du rock instrumental moderne.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Joe Satriani et Steve Vai partagent une histoire commune remontant aux années 1970, lorsque le premier enseignait la
 guitare au second à Long Island. Cette relation maître-élève a évolué vers une fraternité artistique qui s'est
@@ -42,7 +42,7 @@ du monde entier. Chaque concert se transforme en une masterclass vivante, où la
 artistique la plus pure, rappelant aux spectateurs pourquoi ces deux musiciens demeurent des références absolues de leur
 instrument.
 
-##### Style et influences
+###### Style et influences
 
 Le SatchVai Band conjugue deux univers guitaristiques distincts mais complémentaires. Joe Satriani apporte sa signature
 mélodique reconnaissable, caractérisée par des phrases fluides et chantantes, une maîtrise du vibrato et une approche
@@ -63,7 +63,7 @@ Le duo s'inscrit dans la lignée des grands instrumentistes rock qui ont démont
 instrument d'expression à part entière, sans nécessiter de support vocal. Leur influence s'étend à des générations de
 guitaristes qui voient en eux des modèles de technique, de musicalité et de créativité.
 
-##### Actualité
+###### Actualité
 
 Le SatchVai Band continue de faire des apparitions occasionnelles lors de tournées spéciales ou d'événements
 particuliers, maintenant vivante la flamme du rock instrumental de haute volée. Ces concerts demeurent des moments

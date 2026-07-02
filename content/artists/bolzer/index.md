@@ -15,7 +15,7 @@ Le nom Bölzer est défini par ses créateurs comme "une force puissante, un cou
 d'énergie, une force de chaos, de vie et de mort." Cette définition illustre parfaitement l'esthétique
 du groupe : une puissance brute, imprévisible, qui semble surgir d'un espace rituel ancien.
 
-##### Un son impossible avec deux musiciens
+###### Un son impossible avec deux musiciens
 
 Ce qui rend Bölzer particulièrement fascinant, c'est leur capacité à générer un mur de son colossal avec
 seulement deux instruments. La guitare à dix cordes de KzR — accordée dans des zones spectrales extrêmes —
@@ -30,7 +30,7 @@ les plus prometteuses du genre. Leurs publications suivantes — l'EP Soma (2014
 Iron Bonehead Productions — confirment et approfondissent leur vision artistique, sans jamais chercher à
 l'adoucir pour plaire à un public plus large.
 
-##### Entre traditions et ruptures
+###### Entre traditions et ruptures
 
 Le style de Bölzer ne se laisse pas facilement catégoriser. Oscillant entre death metal caverneux et
 black metal atmosphérique, il incorpore des éléments de rituels primitifs, de mysticisme et d'une forme

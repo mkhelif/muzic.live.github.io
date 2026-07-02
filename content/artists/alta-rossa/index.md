@@ -15,7 +15,7 @@ atmosphériques qui créent un espace de tension permanente, une alternance entr
 les meilleures œuvres du genre. Alta Rossa ne cherche pas à divertir superficiellement : leur musique est conçue pour
 engloutir, pour peser, pour marquer.
 
-##### Une énergie cathartique
+###### Une énergie cathartique
 
 Sur scène, Alta Rossa transforme cette intensité en expérience presque rituelle. Leurs concerts, à la fois cathartiques
 et apocalyptiques, marquent durablement ceux qui y assistent. Le groupe a su s'imposer dans la scène metal underground

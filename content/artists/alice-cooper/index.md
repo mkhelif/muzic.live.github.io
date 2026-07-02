@@ -14,7 +14,7 @@ s'installe à Phoenix, en Arizona. Là-bas, il forme avec des camarades de lycé
 d'Earwigs et de Spiders, avant de devenir Alice Cooper en 1968 — un nom choisi pour son contraste saisissant avec
 l'image de personnages en noir au maquillage théâtral que le groupe s'était forgée.
 
-##### L'invention du shock rock
+###### L'invention du shock rock
 
 Ce que Furnier et ses comparses font avec ce nom et cette scénographie est totalement inédit. Une audition pour
 Frank Zappa aboutit à un contrat chez Straight Records. C'est à Détroit, où le groupe s'installe en 1970, que tout
@@ -26,7 +26,7 @@ En 1971, Love It to Death produit le premier vrai succès du groupe avec I'm Eig
 devient un hymne générationnel, suivi en 1973 par Billion Dollar Babies — l'album le plus commercialement réussi
 de la formation, numéro un des charts américains et britanniques.
 
-##### Solo et renaissance
+###### Solo et renaissance
 
 Après la dissolution du groupe original, Furnier devient lui-même Alice Cooper en tant qu'artiste solo. Welcome to
 My Nightmare (1975), conçu avec le producteur Bob Ezrin, est son premier album solo et un succès majeur. Sa carrière
@@ -34,7 +34,7 @@ sera émaillée de hauts et de bas, dont une période de dépendance à l'alcool
 décennie suivante le voit revenir au sommet avec Trash (1989), dont le single Poison devient l'un de ses plus grands
 succès commerciaux.
 
-##### Un héritage inégalé
+###### Un héritage inégalé
 
 Alice Cooper a été introduit au Rock and Roll Hall of Fame en 2011 avec les membres du groupe original. Son
 influence sur le heavy metal, le glam rock, le punk et le gothic rock est immense et souvent citée par des

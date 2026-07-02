@@ -30,7 +30,7 @@ musicale originale qui refuse les catégories établies. Nik West incarne une no
 les barrières de genre, tant musicales que sociales, s'affirmant comme une force créative majeure dans l'univers de la
 basse contemporaine.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière de Nik West connaît un tournant décisif lorsqu'elle attire l'attention de Prince, légende de la musique qui
 reconnaît immédiatement son talent exceptionnel. Cette rencontre marque le début d'une collaboration qui propulse la
@@ -54,7 +54,7 @@ inspirant des milliers de jeunes bassistes, en particulier des femmes, qui voien
 d'authenticité. Cette visibilité contribue à démocratiser l'image de la bassiste virtuose et à élargir les perspectives
 du rôle de cet instrument dans la musique contemporaine.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Nik West puise ses racines dans la tradition du funk et de la soul, avec une influence marquée des légendes
 de la basse comme Larry Graham, Bootsy Collins et Stanley Clarke. Son approche du slap bass, technique emblématique du
@@ -78,7 +78,7 @@ Elle a contribué à redéfinir l'image de la bassiste, prouvant qu'excellence t
 et authenticité artistique peuvent coexister harmonieusement. Son impact sur la représentation des femmes dans les
 instruments traditionnellement dominés par les hommes constitue également un apport culturel significatif.
 
-##### Actualité
+###### Actualité
 
 Nik West poursuit aujourd'hui une carrière internationale dynamique, enchaînant tournées, enregistrements et
 collaborations avec des artistes de divers horizons. Son engagement pour promouvoir la basse comme instrument de premier

@@ -21,7 +21,7 @@ influences new wave, indie rock et éléments électroniques.
 Leurs débuts révèlent une formation techniquement accomplie qui maîtrise parfaitement l'art de créer des mélodies
 accrocheuses portées par des rythmiques dansantes.
 
-#### Carrière musicale
+###### Carrière musicale
 
 Bloc Party se fait connaître avec leur album "Silent Alarm" qui devient rapidement un classique du rock indépendant
 britannique des années 2000.
@@ -32,7 +32,7 @@ Le groupe développe un catalogue qui témoigne de leur évolution constante et 
 Leurs compositions mêlent efficacité mélodique et sophistication instrumentale, créant un rock intelligent qui séduit
 aussi bien la critique que le public.
 
-#### Style et influences
+###### Style et influences
 
 Le style de Bloc Party combine post-punk revival, indie rock et influences électroniques, créant un son moderne qui
 évoque à la fois les pionniers de la new wave et les innovations du rock contemporain.
@@ -43,7 +43,7 @@ expressive de Kele Okereke.
 Leurs influences puisent dans Gang of Four, Wire et Talking Heads, mais aussi dans la musique électronique, créant un
 son hybride unique.
 
-#### Actualité
+###### Actualité
 
 Bloc Party continue d'évoluer et d'explorer de nouveaux territoires sonores, maintenant leur statut de référence du rock
 indépendant britannique.

@@ -11,7 +11,7 @@ longue famille de musiciens et d'artistes, son destin semblait d'abord se dessin
 un lanceur de javelot prometteur —, avant qu'une blessure au dos ne le détourne vers la musique, avec des
 conséquences qui allaient dépasser toutes les espérances.
 
-##### Le phénomène islandais
+###### Le phénomène islandais
 
 Installé à Reykjavik à seize ans pour poursuivre ses études musicales, Ásgeir compose avec son père Einar Georg
 Einarsson — poète né en 1940 qui signe la majorité de ses paroles — des chansons folk empreintes d'une mélancolie
@@ -20,7 +20,7 @@ silence de la mort »), qui devient l'album le plus rapidement vendu de l'histoi
 qu'un Islandais sur dix en possède un exemplaire. Il remporte le Prix de l'Album de l'Année aux Icelandic Music
 Awards 2012, propulsant ce fils de la campagne septentrionale au rang de star nationale.
 
-##### La conquête internationale
+###### La conquête internationale
 
 En 2013, une version anglaise de l'album, titrée *In the Silence*, est préparée pour le marché international.
 Le chanteur américain John Grant contribue à la traduction des textes et à la nouvelle production. Publiée en
@@ -28,7 +28,7 @@ Le chanteur américain John Grant contribue à la traduction des textes et à la
 scandinaves, confirmant qu'Ásgeir appartient à cette rareté : un artiste dont la musique touche
 universellement, par-delà les langues et les frontières.
 
-##### Un folk pop nordique et intemporel
+###### Un folk pop nordique et intemporel
 
 La musique d'Ásgeir est caractérisée par une folk pop épurée et atmosphérique, aux arrangements délicats où se
 mêlent guitare acoustique, nappes de synthétiseurs et percussions légères. Sa voix, haute et cristalline,

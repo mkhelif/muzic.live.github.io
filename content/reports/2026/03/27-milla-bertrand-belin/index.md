@@ -19,7 +19,7 @@ mars aux Docks de Lausanne, pour un concert affiché complet depuis des semaines
 qu'on espérait de lui — et un peu plus. Mais avant que le maître de cérémonie ne monte sur scène, c'est une jeune
 Valaisanne à la voix feutrée qui a ouvert le bal. Et quel bal.
 
-## Milla : la poésie avant le bruit
+###### Milla : la poésie avant le bruit
 
 Elle arrive seule, guitare en bandoulière, avec cette retenue qui n'est pas de la timidité mais de la réserve — celle
 des gens qui préfèrent que la musique parle à leur place. **Milla** — Milla Besson de son nom complet, 25 ans,
@@ -41,7 +41,7 @@ trace une ligne claire et délicate. Elle profite du moment pour évoquer son EP
 En une poignée de chansons, la Valaisanne a fait exactement ce qu'une grande première partie doit faire : ouvrir un
 espace émotionnel, préparer le terrain, donner envie de revenir — cette fois pour elle, en tête d'affiche.
 
-## Bertrand Belin : sept musiciens, un chant, un monde
+###### Bertrand Belin : sept musiciens, un chant, un monde
 
 Quand Bertrand Belin monte sur scène, la salle est **comble**. Pas une place libre. Le public lausannois est venu en
 masse, et l'énergie est palpable dès les premières secondes — cette attente particulière qui précède les artistes dont
@@ -64,7 +64,7 @@ l'alourdir.
 Bertrand prend sa guitare sur certaines chansons. Pas de bavardage dans la salle. Pas de téléphones levés (ou presque).
 Juste l'écoute. Ce genre de silence collectif que seuls les artistes qui comptent vraiment savent provoquer.
 
-## Le bilan d'une soirée parfaite
+###### Le bilan d'une soirée parfaite
 
 Il y a quelque chose de réconfortant à voir une salle sold out pour Bertrand Belin en 2026 — la preuve que la chanson
 française exigeante, celle qui refuse le compromis et l'efficacité facile, a encore un public large et fidèle. Et il y a

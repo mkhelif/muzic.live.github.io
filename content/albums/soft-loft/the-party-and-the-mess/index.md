@@ -17,7 +17,7 @@ C'est avec une délicatesse rare que le collectif suisse Soft Loft a dévoilé s
 Mess" le 22 mars 2024. Avec ses 12 morceaux pour 46 minutes d'écoute, cet opus inaugural marque l'arrivée fracassante
 d'une nouvelle voix dans le paysage indie folk international.
 
-#### Un refuge musical pour les âmes brisées
+###### Un refuge musical pour les âmes brisées
 
 Soft Loft est un collectif basé en Suisse, mené par la chanteuse et parolière Jorina Stamm, âgée de 25 ans. Dès le
 premier jour, leur mission a été de créer un espace où la vulnérabilité est comme l'oxygène et où se connecter à l'autre
@@ -28,7 +28,7 @@ sont embrassés et célébrés. Soft Loft est non-hiérarchique. Soft Loft est l
 et les rêves reviennent à la réalité. Le jugement est suspendu ici. Parce que la vulnérabilité est la porte d'entrée
 vers la connexion."
 
-#### Une formation collective et complice
+###### Une formation collective et complice
 
 La formation était initialement appelée Ellas. Trois musiciens se sont ensuite joints au projet : Lukas Kuprecht à la
 batterie, Simon Boss à la guitare et Marius Meier à la basse. Cette configuration leur permet d'explorer un riche
@@ -39,7 +39,7 @@ Le groupe se définit lui-même comme faisant de l'"Indie-something-something", 
 restrictives. Ils se sentent aussi bien chez eux en jouant dans des clubs intimistes bondés d'une foule en sueur et
 hurlante que sur de grandes scènes devant un océan déchaîné de spectateurs.
 
-#### Un album de la vulnérabilité assumée
+###### Un album de la vulnérabilité assumée
 
 Jorina Stamm traduit la mélancolie quotidienne en images linguistiques rapprochées, transformant ces instants en
 chansons qui deviennent de véritables espaces sûrs musicaux. Il y a quelque chose de magique dans la beauté sans fard de
@@ -49,19 +49,19 @@ Le son de Soft Loft est une riche fusion de soft pop, indie rock et éléments f
 mélancolique de la vie quotidienne. C'est là où la vulnérabilité brute rencontre la musique sincère, et où chaque
 morceau ressemble à une invitation dans le monde personnel de Stamm et du groupe.
 
-#### Des formats pour les collectionneurs
+###### Des formats pour les collectionneurs
 
 L'album est sorti en vinyle noir 12 pouces standard, ainsi qu'en édition spéciale limitée avec un vinyle coloré éco-mix
 accompagné d'un poster et en formats numériques. Cette attention portée aux formats physiques témoigne de l'importance
 que le groupe accorde à l'expérience d'écoute complète, au-delà du simple streaming.
 
-#### Une reconnaissance rapide
+###### Une reconnaissance rapide
 
 Malgré son statut de premier album, "The Party and the Mess" a rapidement attiré l'attention de la scène indie
 internationale. Le groupe a notamment joué au prestigieux Montreux Jazz Festival, démontrant ainsi que leur musique
 transcende les frontières du genre indie folk pour toucher un public plus large.
 
-#### Un avenir prometteur
+###### Un avenir prometteur
 
 Un an après la sortie de "The Party and the Mess", Soft Loft a confirmé son potentiel avec la sortie de l'EP "Modern
 Roses" en avril 2025. Ce nouveau projet de 6 titres poursuit l'exploration de l'affection et des petits gestes que nous
@@ -71,7 +71,7 @@ la solitude, le désir, la mauvaise communication, la prison du soi, quitter que
 Le premier single de cet EP, "Leave The Light On", sorti en janvier 2025, a été particulièrement bien accueilli,
 confirmant que le groupe n'était pas un coup d'éclat éphémère mais bien une force créative durable sur la scène indie.
 
-#### Un collectif qui redéfinit l'indie folk
+###### Un collectif qui redéfinit l'indie folk
 
 Avec "The Party and the Mess", Soft Loft prouve que l'indie folk n'est pas mort, mais qu'il peut encore surprendre et
 émouvoir quand il est porté par une vision sincère et une vulnérabilité assumée. En refusant le cynisme ambiant pour

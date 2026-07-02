@@ -20,13 +20,13 @@ Créé en région parisienne, le groupe mené par Vithia (chant) se fait connaî
 avec un mélange de hardcore / groove metal infusé à la culture japonaise. Cette identité si particulière fait de ROTNS
 un cas à part dans la scène metal française et internationale.
 
-#### Line-up actuel
+###### Line-up actuel
 
 Le groupe est actuellement composé du chanteur Vithia, du guitariste lead Eva-B, du guitariste rythmique Air One, du
 bassiste Yoru et du batteur Phantom, Vithia étant le seul membre original du groupe. Cette formation stable permet au
 groupe de développer une cohésion scénique redoutable et une identité sonore reconnaissable entre mille.
 
-#### Style musical
+###### Style musical
 
 Le style musical de Rise of the Northstar mélange le hardcore new-yorkais des années 90 avec du metal, des éléments
 hip-hop et la culture pop japonaise, un mélange que le groupe lui-même appelle "crossover". Leur musique est classée
@@ -37,14 +37,14 @@ Machine Head. Cette fusion unique crée un son percutant où les riffs tranchant
 breakdowns dévastateurs et des références constantes à la culture japonaise, particulièrement aux anime et aux jeux
 vidéo.
 
-#### Discographie
+###### Discographie
 
-##### EPs
+###### EPs
 
 - **Tokyo Assault** (2010) - Premier témoignage de l'univers ROTNS
 - **Demonstrating My Saiya Style** (2012) - Une référence directe à Dragon Ball Z qui deviendra un marqueur du groupe
 
-##### Albums studio
+###### Albums studio
 
 - **Welcame** (2014) - Leur premier album studio qui établit leur style unique entre hardcore et nu-metal, avec de
   nombreuses influences groove et crossover
@@ -60,7 +60,7 @@ vidéo.
 - **Chapter 4 : Red Falcon Super Battle! Neo Paris War!!** (14 novembre 2025) - Leur quatrième opus à venir, qui promet
   de continuer l'exploration de leur univers crossover unique.
 
-#### Univers et thématiques
+###### Univers et thématiques
 
 L'un des aspects les plus distinctifs de Rise of the Northstar est son immersion totale dans la culture pop japonaise.
 Les références aux anime, aux manga et aux jeux vidéo ne sont pas de simples ornements, mais font partie intégrante de
@@ -71,7 +71,7 @@ Les paroles du groupe oscillent entre l'agressivité du hardcore, les problémat
 assumées. Cette combinaison atypique leur permet de toucher un public très large, des amateurs de metal pur et dur aux
 fans de culture japonaise.
 
-#### Impact et reconnaissance
+###### Impact et reconnaissance
 
 Rise of the Northstar a réussi l'exploit de créer un créneau unique dans le paysage metal mondial. Leur approche sans
 compromis et leur énergie scénique légendaire leur ont permis de se faire un nom bien au-delà des frontières françaises.
@@ -81,7 +81,7 @@ Leur signature chez Nuclear Blast pour "The Legacy of Shi", puis chez Reigning P
 de la reconnaissance de l'industrie pour leur proposition artistique originale. Si un groupe devait se démarquer par son
 originalité, son univers et sa musique, c'est sans aucun doute Rise of the Northstar.
 
-#### L'avenir
+###### L'avenir
 
 Avec la sortie imminente de "Chapter 4 : Red Falcon Super Battle! Neo Paris War!!" en novembre 2025, Rise of the
 Northstar continue d'évoluer tout en restant fidèle à son ADN. Le groupe prouve qu'il est possible de mélanger les

@@ -18,7 +18,7 @@ socials:
 Bandcamp. C'est exactement ce que délivre Thanks for the Noise : 35 minutes de rock alternatif viscéral, sans filtre,
 sans compromis. Le genre d'album qui laisse des traces de sueur sur la platine.
 
-##### La genèse du bruit
+###### La genèse du bruit
 
 Au départ il n'y avait rien. Trois musiciennes qui ne se connaissaient pas, se sont enfermées dans des studios pour
 monter un groupe et écrire leurs premiers morceaux ensemble. Anaïs Belmonte (batterie), Marine Masachs (basse), Gabbie
@@ -33,7 +33,7 @@ pandémie. Le temps nécessaire pour préparer la suite.
 Thanks for the Noise, sorti le 12 avril 2024, c'est précisément ça : la célébration du retour du bruit après des mois
 de silence.
 
-##### L'héritage garage-punk assumé
+###### L'héritage garage-punk assumé
 
 MADAM puise son inspiration dans le répertoire de formations telles que les White Stripes, Franz Ferdinand, mais aussi
 Nirvana ou encore les Beatles. On pourrait ajouter Dead Weather, Rage Against The Machine pour l'intensité brute. Mais
@@ -44,7 +44,7 @@ un rock alternatif authentique.
 Djubaka de France Inter. C'est exactement ce que propose cet album : douze titres qui vont droit au but, sans se perdre
 en détours inutiles. Pas de graisse, que du muscle.
 
-##### Une énergie live capturée sur disque
+###### Une énergie live capturée sur disque
 
 Le défi de tout groupe forgé sur scène : comment transférer cette énergie brute sur un album studio ? MADAM y parvient
 magistralement. Chaque morceau sonne comme s'il était joué devant un Metronum complet (comme ce fut le cas lors de leur
@@ -55,7 +55,7 @@ Gabbie Burns manie sa guitare comme une arme, alternant riffs tranchants et napp
 dessine les fondations avec une précision chirurgicale, tandis qu'Anaïs Belmonte derrière ses fûts maintient une tension
 permanente, prête à exploser à tout moment. Le tout forme un bloc compact, un mur de son qui ne laisse aucun répit.
 
-##### La méthode MADAM
+###### La méthode MADAM
 
 Ce qui différencie MADAM de la masse des groupes rock français, c'est cette sincérité brutale. Pas de posture, pas de
 calcul marketing. "Ce qu'on veut, c'est que les gens sentent ça, et qu'ils voient le plaisir qu'on a à monter sur scène,
@@ -64,7 +64,7 @@ calcul marketing. "Ce qu'on veut, c'est que les gens sentent ça, et qu'ils voie
 Thanks for the Noise documente précisément ce cycle : crier, danser, rire, pleurer, tout donner jusqu'à perdre le
 souffle, l'équilibre, la raison. Voir le public en faire autant. C'est un album de communion, pas de contemplation.
 
-##### La montée en puissance
+###### La montée en puissance
 
 La notoriété du groupe ne cesse de grimper - elles ont fait complet à la Boule Noire, au Rex, à la Maroquinerie et au
 Metronum, et sont programmées à Rock en Seine et au MaMA 2024. Cette ascension n'a rien changé à leur approche : le
@@ -74,7 +74,7 @@ Les gens chantent désormais des paroles qu'elles-mêmes oublient parfois. Leur 
 Étrange sensation, disent-elles. Enivrant, surtout. Mais jamais MADAM ne s'éloigne de ce qui fait leur ADN :
 l'authenticité brute, la rage contrôlée, le bruit célébré comme un acte de vie.
 
-##### Verdict : Le rock français a trouvé ses héritières
+###### Verdict : Le rock français a trouvé ses héritières
 
 Dans un paysage rock hexagonal souvent frileux ou formaté, MADAM détonne par son absence totale de compromis.
 Thanks for the Noise n'est pas un album qui cherche à plaire - c'est un album qui existe par nécessité vitale. Chaque

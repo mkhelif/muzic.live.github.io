@@ -24,7 +24,7 @@ derrière eux. C'est, au minimum, leur meilleur album depuis *Resolution* en 201
 
 Voilà qui est dit. Et voilà pourquoi ça mérite qu'on s'y attarde.
 
-## Le contexte : trente ans de colère organisée
+###### Le contexte : trente ans de colère organisée
 
 Lamb of God n'avait pas l'intention de devenir un groupe de métal générationnel. Au milieu des années 90, c'était juste
 un autre groupe de Richmond jouant dans des sous-sols qui sentaient la bière renversée et l'existentialisme à vingt ans.
@@ -41,7 +41,7 @@ Blythe : l'album parle de la dégradation rapide et continue du contrat social, 
 acceptables aujourd'hui auraient horrifié les gens il y a vingt ans. C'est du Blythe pur — lucide, incandescent,
 refusant le silence confortable.
 
-## Un album conçu pour le live
+###### Un album conçu pour le live
 
 Il est de plus en plus évident que Lamb of God a écrit *Into Oblivion* pour la scène. Chaque morceau semble anticiper la
 fosse, les lumières stroboscopiques, la chaleur humaine d'une salle à l'article de la crise. Le titre éponyme ouvre sans
@@ -58,7 +58,7 @@ Puis il y a *Sepsis*. Un titre industriel, teinté de noise rock, où Blythe ado
 Black et Ministry, tout en restant indiscutablement Lamb of God. L'un des morceaux les plus surprenants de leur
 discographie récente.
 
-## L'espace entre les riffs
+###### L'espace entre les riffs
 
 Le vrai coup de force de l'album, c'est sa capacité à respirer sans perdre son intensité. *El Vacío* est l'entrée la
 plus sombre et la plus énigmatique de la discographie de Lamb of God, avec les voix claires de Randy — considérablement
@@ -73,14 +73,14 @@ La production de Josh Wilbur — collaborateur de longue date du groupe — joue
 l'ensemble. Elle est suffisamment brute pour évoquer les débuts sous le nom de Burn the Priest, tout en capturant avec
 justesse les moments mélodiques des morceaux plus ouverts.
 
-## Réserves
+###### Réserves
 
 Tout ne fonctionne pas parfaitement : la nouvelle identité visuelle du groupe — nouveau logo et pochette — peine à
 convaincre. Et *Bully*, qui dépasse les quatre minutes, est le titre le moins nécessaire de l'album. Certains
 détracteurs noteront aussi que Lamb of God reste fondamentalement dans ses propres frontières — que ce soit une vertu ou
 une limite dépend de ce qu'on attend du groupe en 2026.
 
-## Verdict
+###### Verdict
 
 *Into Oblivion* est l'album que les fans attendaient depuis *Wrath* (2009), et qu'ils avaient cessé d'espérer. Kerrang!
 le formule avec précision : ce n'est pas une réinvention, mais ce n'est pas non plus Lamb of God qui se répète.

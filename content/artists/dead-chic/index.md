@@ -11,7 +11,7 @@ Heymoonshaker. Rejoints par le batteur Rémi Ferbus et le claviériste Mathis Bo
 quatre musiciens forgent un son qui appartient autant au rock sudiste et à la soul qu'au cinéma
 d'aventure imaginaire.
 
-##### Morricone, Bad Seeds et la Motown
+###### Morricone, Bad Seeds et la Motown
 
 L'esthétique de Dead Chic est immédiatement identifiable : guitares réverbérées sur fond de grands
 espaces, voix puissante d'Andy Balcon qui évoque à la fois le gospel et le blues des villes, une
@@ -20,7 +20,7 @@ des déserts, des sommets, des épopées — et ces images ne sont pas des figur
 Dead Chic a effectivement quelque chose de cinématographique, de Morricone filtré par la Motown, de
 psychédélique ancré dans le corps.
 
-##### Un premier EP, puis l'album
+###### Un premier EP, puis l'album
 
 Le premier EP *The Venus Ballroom*, sorti le 24 mars 2023 sous le label Upton Park, pose les jalons d'un
 univers singulier qui ne ressemble à rien d'autre dans le rock français contemporain. L'album qui suit,

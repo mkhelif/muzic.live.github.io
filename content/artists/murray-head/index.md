@@ -27,7 +27,7 @@ une autre facette de son talent. Ses albums francophones, empreints de poésie e
 fidèle qui apprécie la profondeur de ses textes et la sincérité de son interprétation. Cette dualité linguistique et
 culturelle fait de lui un artiste unique, pont vivant entre deux traditions musicales majeures.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Les débuts artistiques de Murray Head se déroulent dans le Londres effervescent des années 1960, où il entame une
 carrière d'acteur tout en développant ses activités musicales. Sa participation à "Jesus Christ Superstar" en 1970
@@ -53,7 +53,7 @@ l'arrangement novateur mêlant rock et influences orientales, se classe dans les
 Paradoxalement, ce triomphe commercial ne détourne pas Murray Head de sa quête artistique plus confidentielle, et il
 continue à privilégier la création de disques intimistes en français.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Murray Head se caractérise par une approche sophistiquée de la pop-rock, mêlant influences folk
 britanniques, sensibilités jazz et poésie française. Sa voix, au timbre reconnaissable entre mille, possède une qualité
@@ -77,7 +77,7 @@ artistique et le refus des compromis commerciaux. Il a démontré qu'une carriè
 une vision personnelle, que le succès n'était pas nécessairement synonyme de visibilité médiatique constante, et qu'un
 artiste pouvait s'épanouir dans plusieurs cultures sans renier aucune.
 
-##### Actualité
+###### Actualité
 
 Murray Head continue aujourd'hui de se produire en concert, principalement en France où il bénéficie d'une base de fans
 fidèles qui apprécient la profondeur et l'authenticité de son répertoire. Ses performances, empreintes d'une élégance

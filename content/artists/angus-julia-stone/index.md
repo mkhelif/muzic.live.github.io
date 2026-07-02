@@ -22,7 +22,7 @@ folk-pop d'une élégance naturelle leur ont valu un public fidèle à travers l
 australiens), des ventes multi-platine et une place singulière dans le paysage musical indé : celle d'un duo fraternel
 dont la complicité et les tensions créatives nourrissent une œuvre d'une beauté désarmante.
 
-## Les enfants de Newport
+###### Les enfants de Newport
 
 Julia Stone naît le 13 avril 1984, Angus Stone le 27 avril 1986. Ils grandissent à Newport, sur les plages du nord de
 Sydney, dans une famille profondément musicale. Leurs parents, Kim et John Stone, sont tous deux musiciens folk. Le père
@@ -33,7 +33,7 @@ Catherine du saxophone et Angus du trombone, tandis que Kim chante et John est a
 Cette enfance musicale, entre océan et mélodies acoustiques, forge une sensibilité partagée : une tendresse pour les
 chansons simples, les harmonies vocales et les guitares vintage qui deviendra la signature du duo.
 
-## Londres, le salon de Fran Healy et les débuts (2006–2007)
+###### Londres, le salon de Fran Healy et les débuts (2006–2007)
 
 En 2006, à peine sortis du lycée de Barrenjoey, Angus et Julia s'installent à Londres avec l'ambition de percer dans la
 musique. Leur premier EP, *Chocolates & Cigarettes*, attire l'attention de Fran Healy, le chanteur du groupe écossais
@@ -46,7 +46,7 @@ certifié platine (70 000 exemplaires). Le single *Private Lawns* est nommé Sin
 enchaîne les tournées entre l'Australie et le Royaume-Uni, assurant les premières parties de Newton Faulkner et David
 Gray.
 
-## *Down the Way* et *Big Jet Plane* : la consécration (2010)
+###### *Down the Way* et *Big Jet Plane* : la consécration (2010)
 
 Après six mois de séparation — Angus en Australie, Julia à New York —, les deux se retrouvent pour enregistrer leur
 deuxième album dans des studios à Cornwall (Angleterre), Brooklyn (New York) et Coolangatta (Queensland). *Down the Way*
@@ -63,7 +63,7 @@ Aux ARIA Music Awards 2010, Angus & Julia Stone raflent cinq prix : Album de l'a
 pour *Down the Way*, Single de l'année pour *Big Jet Plane*, Producteur de l'année et Meilleure pochette. L'APRA leur
 décerne le prix de la Chanson de l'année et celui des Auteurs-compositeurs de l'année.
 
-## La séparation : deux carrières solo (2011–2013)
+###### La séparation : deux carrières solo (2011–2013)
 
 Au sommet de leur succès, quelque chose ne va plus. Les deux abandonnent le travail sur un troisième album commun et
 décident de se consacrer à leurs projets solos. Julia publie *The Memory Machine* (2010), un disque qu'elle décrit comme
@@ -76,7 +76,7 @@ Cette période de séparation, loin d'affaiblir le duo, nourrit la maturité ind
 Californie, en France, en Australie et en Inde ; Angus explore des sonorités plus expérimentales. Leurs retrouvailles
 n'en seront que plus marquantes.
 
-## Rick Rubin et les retrouvailles : *Angus & Julia Stone* (2014)
+###### Rick Rubin et les retrouvailles : *Angus & Julia Stone* (2014)
 
 C'est le légendaire producteur Rick Rubin qui provoque la réunion. En avril 2014, le duo entre dans les Shangri-La
 Studios de Rubin à Malibu pour enregistrer son troisième album. Julia tweete depuis le studio : « Au studio à Malibu. En
@@ -89,7 +89,7 @@ que dans le top 10 en France, en Allemagne et en Nouvelle-Zélande. La presse sa
 de guitare plus expérimentales et une intimité retrouvée. *The Guardian* le qualifie de « chef-d'œuvre à combustion
 lente ».
 
-## *Snow*, *Life Is Strange* et *Cape Forestier* (2017–2024)
+###### *Snow*, *Life Is Strange* et *Cape Forestier* (2017–2024)
 
 Leur quatrième album, *Snow* (2017), marque un virage : les textures électroniques, les beats pulsés et les
 synthétiseurs atmosphériques s'invitent dans la palette folk du duo, témoignant d'une volonté d'exploration. Le titre
@@ -108,7 +108,7 @@ d'ajouter : « En réécoutant nos vieux disques, il y a un charme à entendre �
 Le duo a entre-temps bâti un studio dans l'arrière-pays de la Nouvelle-Galles du Sud, ancrant leur processus créatif
 dans le paysage australien qui les a vus grandir.
 
-## Le son Angus & Julia Stone
+###### Le son Angus & Julia Stone
 
 La force du duo réside dans un paradoxe : deux voix très différentes — celle de Julia, claire, éthérée et légèrement
 voilée ; celle d'Angus, plus grave, terreuse et rêveuse — qui fusionnent en harmonies d'une douceur naturelle, comme si
@@ -124,7 +124,7 @@ Le duo se distingue aussi par son approche artisanale de l'enregistrement : salo
 guitares vintage, production souvent assurée par eux-mêmes. Cette authenticité, ce refus du spectaculaire au profit de
 l'intime, explique la longévité de leur lien avec un public qui les suit avec une fidélité remarquable.
 
-## Discographie
+###### Discographie
 
 *A Book Like This* (2007), certifié platine en Australie. *Down the Way* (2010), numéro un, triple platine, cinq ARIA
 Awards. *Angus & Julia Stone* (2014), produit par Rick Rubin, numéro un en Australie. *Snow* (2017). *Life Is Strange*

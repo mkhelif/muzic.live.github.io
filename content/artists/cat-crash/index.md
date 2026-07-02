@@ -9,7 +9,7 @@ Cat Crash est un groupe indie de New York composé de Cecil (voix, basse), Arun 
 (batterie). Avec une énergie brute et une écriture directe, ils taillent dans la pop punk et l'indie rock un son
 qui ne demande pas la permission — acéré, sincère, et résolument DIY.
 
-##### Une identité forgée dans le faire
+###### Une identité forgée dans le faire
 
 Le groupe commence à publier sa musique via Bandcamp, construisant patiemment une discographie artisanale qui
 capture l'essence de leur univers sans fard. Leur première démo, Cat Crash: Demo-Lition (2023), pose les bases
@@ -20,7 +20,7 @@ huit titres qui confirme leur capacité à marier des mélodies accrocheuses à 
 La même année, ils publient Welcome to Connecticut (2024), un EP de six versions autour du titre éponyme, jouant
 avec les formats et les arrangements pour explorer les multiples facettes d'une même chanson.
 
-##### Une pop punk de notre temps
+###### Une pop punk de notre temps
 
 Ce qui distingue Cat Crash, c'est leur façon de traiter des sujets intimes avec une franchise désarmante, dans
 un style qui rappelle la meilleure tradition du DIY américain tout en conservant une sensibilité résolument

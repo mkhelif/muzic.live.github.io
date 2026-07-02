@@ -24,7 +24,7 @@ alias Papa V Perpetua.
 
 Le problème ? Sous le maquillage théâtral et les costumes somptueux, il ne reste qu'un squelette vidé de sa substance.
 
-#### L'introspection comme stratégie marketing
+###### L'introspection comme stratégie marketing
 
 Ghost a toujours excellé dans l'art de transformer des préoccupations séculaires - pestes, empires, démons - en
 commentaires contemporains. En 2025, avec Trump de retour à la présidence et les relations internationales plus fragiles
@@ -34,7 +34,7 @@ que jamais, Skeletá semble tomber à pic. Sauf que cette pertinence apparente m
 aussi bien parler des maux du monde. La subtilité n'a jamais été la marque de fabrique de Ghost - ce qui fonctionnait
 sur Opus Eponymous en 2010, quand le groupe était encore excitant, sonne désormais comme du recyclage automatique.
 
-#### Les années 80 comme béquille stylistique
+###### Les années 80 comme béquille stylistique
 
 L'album s'ouvre sur "Peacefield" : chœurs célestes, montée vers une gloire arena-rock années 80 pendant cinq minutes et
 plus. Les synthés poignardants, les solos de guitare perçants, les voix stratosphériques - tout vient de l'ère des gros
@@ -46,7 +46,7 @@ The Evil One" chevauche une ligne de basse gluante, indéniable.
 
 C'est techniquement impeccable. C'est aussi terriblement creux.
 
-#### L'absence de mystique
+###### L'absence de mystique
 
 Comme le fait remarquer Slant Magazine, il y a peu ou pas de mystique dans ces histoires de crises spirituelles. Ghost
 n'a jamais vraiment été un groupe metal - du moins pas soniquement. La lourdeur a toujours été implicite plutôt
@@ -61,7 +61,7 @@ Mais contrairement aux albums Ghost précédents, où accessibilité et accrocha
 Skeletá n'est pas calibré pour élargir la base de fans. Il n'y a pas de tubes immédiats, pas d'entrées faciles. Pas
 de "Rats", pas de "Square Hammer", pas d'hymne instantané pour les fidèles.
 
-#### Le théâtre sombre d'une dissolution
+###### Le théâtre sombre d'une dissolution
 
 La vraie question : est-ce un choix artistique audacieux ou l'aveu d'impuissance créative ? Les cyniques accuseront
 Forge de complaisance - et ils n'auront pas complètement tort. Skeletá baigne dans sa propre sophistication morose,
@@ -74,7 +74,7 @@ Ghost a finalement dépassé leur portée.
 La vérité est plus prosaïque : comme le nouveau persona scénique de Forge, Skeletá n'est qu'une simple dilution de ce
 qui existait avant. Un squelette de ce que Ghost était il y a quinze ans.
 
-#### Les ballades power, encore et toujours
+###### Les ballades power, encore et toujours
 
 Les power ballades, déjà prévalentes sur Impera, restent un intérêt croissant pour Forge. Le closer "Excelsis" offre
 une ballade sobre où Forge médite sur la mortalité dans sa forme la plus élégante. C'est Ghost à leur plus direct et,
@@ -84,7 +84,7 @@ Mais cette douceur sonne comme une capitulation. Là où Opus Eponymous était u
 imperfections, là où les premiers albums conservaient une part de danger et d'imprévisibilité, Skeletá se contente
 d'être un album de hard rock années 80 bien produit par un groupe costumé.
 
-#### Verdict : La coquille vide d'un empire
+###### Verdict : La coquille vide d'un empire
 
 Skeletá est ultimement une entreprise vide. Forge peut rester engagé avec le matériel, mais fidèle à son nom, Ghost en
 tant que groupe n'est plus qu'une coquille du groupe de metal progressif qu'il était il y a quinze ans.

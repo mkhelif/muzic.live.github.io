@@ -14,7 +14,7 @@ hypnotiques du desert rock californien et les atmosphères planantes du psychéd
 incarne une vision du stoner rock à la fois énergétique et transcendantale, fruit d'une complicité musicale forgée sur
 plus d'une décennie et demie.
 
-## Des racines acoustiques aux riffs cosmiques
+###### Des racines acoustiques aux riffs cosmiques
 
 L'histoire de Spacebrain ne commence pas en 2020, mais bien des années auparavant sous une autre forme. Les trois
 membres du groupe — Freddy (guitare, chant), Sam (basse) et Jonas (batterie) — partagent la scène depuis une quinzaine
@@ -27,7 +27,7 @@ En 2018, Space Garden concrétisait son parcours avec un premier album financé 
 Studio de Serge Morattel à Genève, dans les locaux de l'association Lez'Arts Murailles. Cette expérience fondatrice
 allait poser les jalons de la suite.
 
-## 2020 : La mue électrique
+###### 2020 : La mue électrique
 
 Formé officiellement en 2020, Spacebrain représente le troisième projet commun du trio. Fort d'une centaine de concerts,
 de deux albums et de trois EP à son actif accumulés au fil de leurs explorations musicales passées, le groupe s'appuie
@@ -41,7 +41,7 @@ documente cette transition en réunissant les deux incarnations du groupe sur un
 Spacebrain ("Night Procession", "Crisis") côtoient deux titres de Space Garden ("The Crossing", "Red Leaf"), traçant le
 fil conducteur entre les deux univers.
 
-## Un stoner rock aux accents psychédéliques
+###### Un stoner rock aux accents psychédéliques
 
 Musicalement, Spacebrain s'inscrit dans la lignée du stoner rock tel que l'ont défini les pionniers du genre. Les
 influences du trio puisent dans le heavy psych, le rock psychédélique et le stoner metal, composant une palette sonore
@@ -52,7 +52,7 @@ Cette dualité — énergie brute et dimension transcendantale — constitue la 
 oscillent entre passages instrumentaux hypnotiques et déflagrations plus frontales, le tout porté par une section
 rythmique solide et des guitares généreusement saturées.
 
-## Ancrage local, ambitions cosmiques
+###### Ancrage local, ambitions cosmiques
 
 Spacebrain s'inscrit pleinement dans l'écosystème rock genevois, notamment au sein de l'association Lez'Arts Murailles
 qui leur fournit espaces de répétition et studio d'enregistrement. Cette structure, fondée en 2000, joue un rôle crucial
@@ -62,7 +62,7 @@ Le groupe se produit régulièrement sur les scènes de la région, notamment au
 alternative genevoise. En janvier 2026, Spacebrain partagera l'affiche du Lez'Arts Murailles Festival avec Meuhstache,
 The Dungbeetle Conspiracy et les vétérans parisiens de Lofofora, confirmant leur place dans le paysage rock régional.
 
-## Verdict
+###### Verdict
 
 Spacebrain incarne une certaine idée du rock underground helvétique : un groupe qui a pris le temps de mûrir,
 d'expérimenter, avant de trouver sa voie dans les méandres du stoner. Le trio ne cherche pas à réinventer le genre, mais

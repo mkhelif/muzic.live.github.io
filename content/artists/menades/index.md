@@ -31,7 +31,7 @@ vénère, comme le résume parfaitement leur bio officielle. Cette approche fron
 leur identité dans le paysage punk français, prouvant qu'une nouvelle génération de groupes peut réinventer le genre
 sans renier ses codes fondamentaux.
 
-#### Carrière musicale
+###### Carrière musicale
 
 Ménades s'élance avec un premier album éponyme inflammable sorti le 13 mars 2020, enregistré live par Kevin Heuzé au
 Tiki Studio à Pantin, mixé par Luc Rougy et masterisé par Emilie Daelemans au studio Ferber. Ce premier opus comprend
@@ -60,7 +60,7 @@ l'intégrité artistique. Leurs multiples tournées européennes et américaines
 prestigieux, confirment qu'une proposition musicale radicale mais cohérente peut trouver son public à l'échelle
 internationale.
 
-#### Style et influences
+###### Style et influences
 
 Ce quintet incandescent ravive la flamme rebelle du punk rock des années 90, tout en y injectant des touches de
 shoegaze, de psychédélisme, voire même de funk. Cette synthèse originale distingue Ménades des groupes punk
@@ -89,7 +89,7 @@ témoigne d'une intelligence artistique rare dans le milieu punk français souve
 prouve qu'on peut être radicalement engagé tout en conservant une distance critique et un sens de l'autodérision qui
 enrichit considérablement le propos.
 
-#### Actualité
+###### Actualité
 
 "Jouer sur scène c'est dans l'ADN du groupe", affirment Ménades, et cette déclaration résume parfaitement leur approche
 actuelle. Leurs corps et leur musique se confondent dans des performances live qui transforment chaque concert en

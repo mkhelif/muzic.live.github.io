@@ -13,7 +13,7 @@ Basée à Londres, elle développe un univers artistique qui marie sensibilité 
 une texture organique. Sa musique est régulièrement rapprochée de celle d'artistes comme Cate Le Bon ou Feist, avec qui
 elle partage un goût pour les arrangements sophistiqués et une certaine économie de moyens.
 
-##### Un nouveau chapitre en solo
+###### Un nouveau chapitre en solo
 
 Son album de débuts, "Move On With the Year", paraît en février 2026 sous le label Moshi Moshi. Ce disque marque sa
 réémergence en tant qu'artiste solo avec un son plus mature, fruit de son expérience accumulée au sein de plusieurs

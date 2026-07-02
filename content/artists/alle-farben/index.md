@@ -14,7 +14,7 @@ Son nom de scène, qui signifie « toutes les couleurs » en allemand, est inspi
 Hundertwasser, connu pour son usage vibrant de la couleur. Une référence qui annonce une musique elle aussi conçue comme
 une palette : diverse, joyeuse, et résolument festive.
 
-##### L'essor électronique
+###### L'essor électronique
 
 Sa percée arrive le 9 mai 2012 lors d'un set mémorable pour 30 000 personnes à l'ancien aéroport de Tempelhof à Berlin.
 Deux ans plus tard, son premier single majeur « She Moves » (feat. Graham Candy) est certifié or dans plusieurs pays et
@@ -25,7 +25,7 @@ l'électronique grand public aux teintes minimales typiquement berlinoises, tout
 redoutable. En Allemagne, il enchaîne les hits en top 10 et accumule 4 numéros 1. À l'échelle mondiale, il totalise plus
 de 2 milliards de streams, 32 certifications diamant, platine et or en Europe et en Asie.
 
-##### Un globe-trotter des platines
+###### Un globe-trotter des platines
 
 Jouant plus de 150 concerts par an en période normale, Alle Farben est un habitué des plus grands festivals du monde :
 Tomorrowland, Lollapalooza, Parookaville, Sziget. Sa signature chez Warner Music International le propulse dans la cour

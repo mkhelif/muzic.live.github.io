@@ -14,7 +14,7 @@ marge du rapport d'observation. Près de cinquante ans plus tard, Muse s'en empa
 album studio — et la coïncidence est plus juste qu'elle n'y paraît : *The Wow! Signal* est lui-même un événement
 inattendu, une irruption de quelque chose qu'on avait cessé de guetter.
 
-## L'inconnu comme carburant
+###### L'inconnu comme carburant
 
 Matt Bellamy a traversé une période difficile. Séparation, parentalité solitaire, tournée annulée. Les détails exacts
 n'ont pas été livrés — il ne les livrera peut-être jamais entièrement — mais l'album en porte la marque à chaque
@@ -26,7 +26,7 @@ s'était aventuré du côté des fictions politiques et des décors électroniqu
 *The Wow! Signal* opère un mouvement inverse : il plonge dans le terrain personnel, dans l'inquiétude existentielle
 brute, dans ce vertige face à l'inconnu qui avait nourri les meilleurs albums du trio de Teignmouth.
 
-## Retour aux orbites perdues
+###### Retour aux orbites perdues
 
 Le disque s'ouvre sur « The Dark Forest », qui ressemble immédiatement à un cousin de « Knights of Cydonia » — mêmes
 cordes cinématiques, même galop de guitare, même appel lancé à l'inconnu (« *launch a pulse out into the abyss,
@@ -40,7 +40,7 @@ l'ancienne, une cassure metal qui rappelle ce que le groupe peut faire quand il 
 aligne neuf minutes de rock existentiel qui n'ont pas à rougir de la comparaison avec « Citizen Erased » ou
 « Butterflies and Hurricanes ».
 
-## Production resserrée, son élargi
+###### Production resserrée, son élargi
 
 Pour la première fois de leur carrière, Muse s'est intégralement remis entre les mains d'un producteur extérieur.
 Dan Lancaster — ingénieur du son, claviériste live du groupe, et architecte du cyberpunk de *Nex Gen* de Bring Me
@@ -54,7 +54,7 @@ Mais ces faux pas sont mineurs face à l'ambition de l'ensemble, et notamment fa
 avec Ellie Goulding (née d'une rencontre de couloir à onze heures du soir dans un studio de Londres) qui marie
 l'electro-rock sombre à une urgence presque eurovisionesque. Inattendu, et efficace.
 
-## Un signal capté, une tournée en construction
+###### Un signal capté, une tournée en construction
 
 *The Wow! Signal* est sorti le 26 juin 2026 sur Warner/Helium-3. Dès le 2 juillet, Muse entame une série de dates
 nord-américaines en amphithéâtres — une formule volontairement plus sobre que leurs habituelles productions

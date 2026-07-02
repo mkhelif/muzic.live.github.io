@@ -11,7 +11,7 @@ elle grandit dans un environnement musical riche, bercée par la collection de d
 Gaye, Fela Kuti, Bob Marley, Aretha Franklin, Nina Simone, Miriam Makeba — une constellation d'influences qui forge son
 oreille et sa sensibilité artistique.
 
-##### La formation et le retour à Paris
+###### La formation et le retour à Paris
 
 À l'adolescence, Aṣa commence à jouer de la guitare et à composer ses propres morceaux. À 18 ans, elle fait le chemin
 inverse et retourne à Paris, la ville de sa naissance, pour y lancer sérieusement sa carrière musicale. C'est là que son
@@ -22,13 +22,13 @@ Fire on the Mountain », critique voilée de la situation politique et sociale d
 radiophonique à travers l'Europe. L'album tisse un mélange subtil de soul, pop, folk, jazz et reggae, soutenu par une
 voix d'une chaleur et d'une profondeur rares.
 
-##### Ascension internationale
+###### Ascension internationale
 
 *Beautiful Imperfection* (2010), co-produit avec le compositeur français Nicolas Mollard, amplifie son rayonnement. L'album devient disque de platine en 2011 et s'inscrit dans les charts européens et américains. *Bed of Stone* (2014) poursuit cette trajectoire avec une direction plus intimiste, avant qu'une longue pause ne s'installe.
 
 *Lucid* (2019) marque un retour attendu, plus introspectif et personnel. Puis vient *V* (février 2022), cinquième album studio, qui constitue une réinvention délibérée : Aṣa y plonge dans l'Afrobeats contemporain tout en conservant ses ancrages dans la soul et le folk, signalant une artiste capable de traverser les décennies sans jamais se figer.
 
-##### Une voix qui traverse les genres
+###### Une voix qui traverse les genres
 
 Ce qui distingue Aṣa dans le paysage musical international, c'est cette capacité à habiter plusieurs traditions à la
 fois sans jamais sembler déplacée dans aucune. Sa voix — grave, veloutée, chargée d'une mélancolie douce — est

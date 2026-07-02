@@ -19,7 +19,7 @@ mélange mélodies délicates et arrangements épurés.
 Il commence par se faire connaître dans les clubs parisiens, développant progressivement un style qui privilégie
 l'émotion et l'authenticité sur les effets de production, créant une musique intimiste et contemplative.
 
-##### Carrière musicale
+###### Carrière musicale
 
 H-Burns développe sa carrière grâce à des albums qui témoignent de sa capacité à créer des atmosphères uniques à travers
 des compositions dépouillées mais émotionnellement riches.
@@ -30,7 +30,7 @@ un talent pour l'écriture de chansons personnelles et universelles.
 Ses morceaux révèlent une maturité artistique constante et une recherche permanente d'authenticité dans l'expression
 musicale.
 
-##### Style et influences
+###### Style et influences
 
 Le style d'H-Burns se caractérise par des arrangements minimalistes, une voix fragile mais expressive et des mélodies
 qui privilégient l'émotion sur la complexité technique.
@@ -41,7 +41,7 @@ tradition de la chanson française.
 Ses influences révèlent une sensibilité artistique qui transcende les genres, créant une musique qui parle directement
 au cœur de l'auditeur.
 
-##### Actualité
+###### Actualité
 
 H-Burns continue de développer son univers artistique minimaliste, représentant cette facette intimiste et contemplative
 de la scène musicale française.

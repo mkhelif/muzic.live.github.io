@@ -25,7 +25,7 @@ single britannique le plus longtemps resté dans le top 10 UK de l'histoire, num
 Grammy du Song of the Year —, Lewis Capaldi a prouvé qu'on pouvait conquérir le monde avec une chanson d'amour sincère,
 une voix qui ne triche pas et un sens de l'humour qui désarme absolument tout le monde.
 
-## Glasgow, Whitburn et la scène à 4 ans
+###### Glasgow, Whitburn et la scène à 4 ans
 
 Lewis Marc Capaldi naît le 7 octobre 1996 à Glasgow, la plus grande ville d'Écosse. Il est le cadet de quatre enfants.
 Sa famille — d'origines écossaise, irlandaise et italienne — déménage à **Whitburn**, dans le West Lothian, quand il a
@@ -42,7 +42,7 @@ bien avant d'avoir l'âge légal. Le gamin écoute de tout : **Slipknot** et **A
 Détail familial notable : son cousin éloigné côté paternel n'est autre que l'acteur **Peter Capaldi** — le douzième
 Doctor Who —, qui apparaîtra plus tard dans le clip de *Someone You Loved*.
 
-## Bloom, Breach et l'ascension fulgurante
+###### Bloom, Breach et l'ascension fulgurante
 
 En 2017, Capaldi sort son premier EP, **Bloom**, porté par le single *Bruises* qui atteint le top 10 au Royaume-Uni et
 attire l'attention de l'industrie. Il enchaîne les premières parties prestigieuses — **Rag'n'Bone Man**, **Jake Bugg**,
@@ -60,7 +60,7 @@ plus de **4 milliards de streams sur Spotify**.
 Et pendant tout ce temps, Capaldi est le **premier artiste de l'histoire à annoncer et vendre une tournée complète dans
 des arenas avant même d'avoir sorti un premier album**.
 
-## *Divinely Uninspired to a Hellish Extent* (2019) : le raz-de-marée
+###### *Divinely Uninspired to a Hellish Extent* (2019) : le raz-de-marée
 
 Le 17 mai 2019, sort **Divinely Uninspired to a Hellish Extent** — un titre d'album aussi baroque que la musique est
 directe. Le résultat est un raz-de-marée : l'album passe **six semaines au sommet du UK Albums Chart**, devient
@@ -72,7 +72,7 @@ ballades dévastatrices.
 Capaldi remporte les **Brit Awards 2020** dans les catégories **Best New Artist** et **Song of the Year**. Le gamin de
 Whitburn qui se faufilait dans les pubs pour jouer de la guitare remplit désormais les plus grandes salles du monde.
 
-## Le Tourette, la pause et le documentaire Netflix
+###### Le Tourette, la pause et le documentaire Netflix
 
 Le succès a un prix. Capaldi commence à ressentir de l'anxiété, une pression croissante, des tics nerveux. En septembre
 2022, il révèle publiquement avoir été diagnostiqué avec le **syndrome de Gilles de la Tourette**. Pendant la pandémie
@@ -85,7 +85,7 @@ aux prises avec sa santé mentale, son Tourette, la pression de la célébrité 
 d'un deuxième album. Le film touche des millions de personnes et renforce paradoxalement l'amour que le public porte à
 Capaldi : sa vulnérabilité, loin de le fragiliser, le rend plus humain que jamais.
 
-## *Broken by Desire to Be Heavenly Sent* (2023)
+###### *Broken by Desire to Be Heavenly Sent* (2023)
 
 Le 19 mai 2023, **Broken by Desire to Be Heavenly Sent** sort — précédé de trois singles tous numéro un au Royaume-Uni :
 *Forget Me*, *Pointless* (coécrit avec Ed Sheeran) et *Wish You the Best*. L'album est l'**album le plus rapidement
@@ -97,7 +97,7 @@ en juin 2023, Capaldi perd sa voix sur scène — un moment douloureux capté en
 personnes. Il prend la décision courageuse de faire une **pause en 2024** pour se concentrer sur sa santé physique et
 mentale.
 
-## 2025 : le retour
+###### 2025 : le retour
 
 En juin 2025, Lewis Capaldi fait un retour fracassant avec **Survive**, un single qui débute à la **première place du UK
 Singles Chart** avec 68 500 unités — la plus grosse semaine d'ouverture de sa carrière. Il réapparaît comme artiste
@@ -108,14 +108,14 @@ Suivent les singles *Something in the Heavens*, une reprise de *Everytime* de Br
 nouvelles dates de tournée sont annoncées pour 2026, confirmant que la pause n'était qu'une parenthèse — nécessaire,
 salutaire, mais temporaire.
 
-## Récompenses principales
+###### Récompenses principales
 
 **2 Brit Awards** (Song of the Year 2020 pour *Someone You Loved*, Best New Artist 2020) · Nomination **Grammy — Song of
 the Year** (*Someone You Loved*) · Single britannique le plus longtemps en top 10 UK de l'histoire · Premier artiste
 solo écossais #1 aux USA depuis 1981 · 4B+ streams Spotify (*Someone You Loved*) · Premier artiste à vendre une tournée
 d'arenas avant la sortie d'un premier album · Documentaire Netflix *How I'm Feeling Now* (2023)
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Lewis Capaldi est un paradoxe vivant — un homme capable de vous faire pleurer avec *Someone You Loved* et de vous faire
 hurler de rire trente secondes plus tard avec une vanne sur les réseaux sociaux. Mais derrière l'humour et les ballades,

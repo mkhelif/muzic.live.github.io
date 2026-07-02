@@ -1,3 +1,1 @@
-<h{{ .Level }} id="{{ .Anchor }}" class="{{ with .Attributes.class }}{{ . }}{{ end }}">
-    {{- .Text -}}
-</h{{ .Level }}>
+{{ partial (printf "titles/h%d.html" .Level) (dict "title" .Text "id" .Anchor "class" .Attributes.class) }}

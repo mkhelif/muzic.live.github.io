@@ -20,7 +20,7 @@ blues-rock contemporain. Fini le temps où Rebecca et Megan jouaient les curiosi
 statut d'héritières légitimes de la tradition américaine, slide guitar en bandoulière et amplis Marshall à fond.
 
 
-##### L'art de la synthèse sudiste
+###### L'art de la synthèse sudiste
 
 Bloom s'ouvre sur "Mockingbird", déflagration sonore qui pose immédiatement les termes : riffs country-vibe accompagnés
 de guitares blues rock traditionnelles. La production de Tyler Bryant (qui co-signe également plusieurs compositions)
@@ -32,7 +32,7 @@ de Bonnie Raitt et l'urgence de Grace Potter. Megan, elle, fait de sa lap steel 
 sculptant des atmosphères tantôt nostalgiques, tantôt incandescentes.
 
 
-##### Le milieu triomphal
+###### Le milieu triomphal
 
 Si l'album démarre correctement avec ses trois premiers titres sans surprise, c'est au cœur du disque qu'explose son
 potentiel. "Bluephoria" s'ouvre sur un riff headbanger avec une structure call-and-response typiquement seventies. Cette
@@ -43,7 +43,7 @@ les motifs religieux pour donner une dimension grandiose au désir. Ce morceau r
 en 2025 : transcender le folklore pour toucher à l'universel.
 
 
-##### Une géographie sonore authentique
+###### Une géographie sonore authentique
 
 Bloom s'inscrit dans la lignée directe du Mississippi hill country blues, ces paysages sonores luxuriants qui ancrent
 l'auditeur dans les questionnements contemporains à travers les sons blues-soaked du delta. Les sœurs Lovell maîtrisent
@@ -54,7 +54,7 @@ Pearls" - témoigne d'une maturité artistique enfin aboutie. L'album se déploi
 découvrent leur vrai moi, et cette quête d'authenticité irrigue chaque composition.
 
 
-##### Les limites de l'exercice
+###### Les limites de l'exercice
 
 Le défaut principal de Bloom réside paradoxalement dans sa force : deux titres du milieu d'album surpassent largement
 les premier et dernier tiers. Cette inégalité de traitement nuit à la cohérence d'ensemble, même si elle produit des
@@ -65,7 +65,7 @@ on aurait aimé plus d'audaces, plus d'expérimentations. Les sœurs Lovell maî
 trop parfaitement.
 
 
-##### Verdict : L'accomplissement sans la révolution
+###### Verdict : L'accomplissement sans la révolution
 
 Bloom sonne comme l'aboutissement logique d'un parcours artistique cohérent. Le rock and roll coule dans les veines des
 sœurs, et cet album le prouve avec une évidence désarmante. Sans révolutionner le genre, Larkin Poe livre ici son disque

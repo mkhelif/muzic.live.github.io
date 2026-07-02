@@ -9,7 +9,7 @@ socials:
   youtube: "@Festivalpaille"
 ---
 
-##### Un ancrage géographique authentique
+###### Un ancrage géographique authentique
 
 Le Festival de la Paille est un festival de musique qui a lieu annuellement en Franche-Comté à Métabief (Doubs), dans
 l'écrin naturel exceptionnel du Haut-Doubs. Cette implantation montagnarde confère à l'événement une authenticité rare,
@@ -18,7 +18,7 @@ pistes de ski en hiver, se métamorphose chaque été en temple de la musique co
 contraste magnifiquement avec l'énergie des concerts. Cette localisation privilégiée permet aux festivaliers de
 découvrir une région méconnue tout en profitant d'une programmation musicale de qualité.
 
-##### Une programmation éclectique et ambitieuse
+###### Une programmation éclectique et ambitieuse
 
 La programmation couvre de nombreux genres musicaux : reggae, chanson, rock, electro, trip hop, pop, blues et folk,
 témoignant de la volonté des organisateurs d'offrir une palette musicale riche et diversifiée. Cette approche éclectique
@@ -27,7 +27,7 @@ stylistique proposée révèle une curation réfléchie qui refuse l'enfermement
 découverte et l'ouverture musicale. Cette philosophie de programmation transforme chaque édition en voyage musical, où
 les festivaliers peuvent passer d'un concert de reggae à une performance électronique sans rupture d'atmosphère.
 
-##### Une aventure associative exemplaire
+###### Une aventure associative exemplaire
 
 En l'an 2000, une graine plantée par une poignée de jeunes du Haut-Doubs donnera naissance à l'association « Le
 Collectif Organisation », illustrant parfaitement l'esprit pionnier qui anime ce projet depuis ses origines. Festival
@@ -36,7 +36,7 @@ territoires ruraux. Cette dimension bénévole confère à l'événement une aut
 créant une atmosphère familiale qui distingue le festival des grands rassemblements commerciaux. L'engagement des
 bénévoles locaux transforme chaque édition en projet collectif qui dépasse le simple cadre du divertissement musical.
 
-##### Un succès populaire confirmé
+###### Un succès populaire confirmé
 
 Avec une fréquentation de près de 25.000 festivaliers chaque année, il figure parmi les 100 festivals français les plus
 importants quant à la fréquentation, confirmant l'attractivité exceptionnelle de cet événement régional. Cette
@@ -45,7 +45,7 @@ rendez-vous annuel attendu par les amateurs de musique de toute la région. 33,1
 were here sur Facebook révèlent l'engagement d'une communauté fidèle qui contribue au rayonnement de l'événement. Cette
 popularité croissante positionne le Festival de la Paille comme un acteur majeur du paysage festivalier français.
 
-##### Une mutation nécessaire face aux défis
+###### Une mutation nécessaire face aux défis
 
 La 23ème édition du Festival de la Paille, à Métabief dans le Haut-Doubs, vient de s'achever, et ce sera probablement la
 dernière sous cette forme. Le collectif à la tête de l'organisation de ce festival de musiques actuelles, réfléchit à
@@ -55,7 +55,7 @@ forme mais toujours ensemble, témoignant de la détermination des organisateurs
 malgré les difficultés. Cette capacité d'adaptation révèle la maturité de l'organisation et sa volonté de faire perdurer
 l'aventure musicale.
 
-##### Un héritage culturel durable
+###### Un héritage culturel durable
 
 Le Festival de la Paille a marqué durablement le paysage culturel du Haut-Doubs, transformant cette région rurale en
 destination musicale reconnue. Au fil de ses 23 éditions, l'événement a contribué au développement économique et
@@ -64,7 +64,7 @@ transforme le festival en véritable projet de développement local, démontrant
 territoires ruraux. L'héritage du Festival de la Paille dépasse largement le cadre musical pour s'inscrire dans
 l'histoire culturelle de la Franche-Comté.
 
-##### Des perspectives d'avenir prometteuses
+###### Des perspectives d'avenir prometteuses
 
 Malgré les incertitudes liées à la transformation nécessaire de son modèle économique, le Festival de la Paille conserve
 toute sa légitimité et son potentiel d'avenir. La volonté affichée de maintenir l'événement "sous une autre forme"

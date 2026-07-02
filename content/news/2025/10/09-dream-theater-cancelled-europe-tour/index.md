@@ -11,7 +11,7 @@ européenne pour 2026 en soutien à leur dernier album "Parasomnia. L'annonce, f
 octobre 2025, a pris de court les fans européens qui attendaient avec impatience le retour du groupe, désormais réuni
 avec Mike Portnoy à la batterie.
 
-#### "Parfois les plans changent"
+###### "Parfois les plans changent"
 
 Dans un communiqué officiel publié sur leurs réseaux sociaux, le groupe a expliqué sa décision difficile : "ATTENTION à
 tous les fans européens et britanniques de Dream Theater : Nous savons que nous avions promis de revenir en 2026 avec
@@ -24,7 +24,7 @@ Cette décision intervient après quatre années consécutives de tournées dans
 manifestement pesé dans la balance. Le groupe a souligné qu'il s'agissait d'une décision difficile, mais nécessaire
 après une présence intensive sur le vieux continent.
 
-#### Une invitation à traverser l'Atlantique
+###### Une invitation à traverser l'Atlantique
 
 De manière quelque peu controversée, Dream Theater a suggéré aux fans européens déçus de traverser l'Atlantique pour
 assister aux dernières semaines de leur tournée américaine actuelle : "Nous sommes actuellement dans les 3 dernières
@@ -35,7 +35,7 @@ pas vous l'amener, nous voulions au moins vous prévenir pour que vous ayez l'op
 Cette suggestion, bien que pragmatique, a suscité des réactions mitigées parmi les fans européens, pour qui un voyage
 transatlantique représente un investissement financier conséquent et une difficulté logistique importante.
 
-#### Le show "An Evening With Dream Theater" : une expérience unique
+###### Le show "An Evening With Dream Theater" : une expérience unique
 
 La tournée américaine actuelle, baptisée "An Evening With Dream Theater", représente un événement exceptionnel pour les
 fans. Le groupe y performe l'intégralité de "Parasomnia", leur 16e album studio sorti le 7 février 2025, ainsi que la
@@ -46,7 +46,7 @@ Cette performance marathon de plusieurs heures met en valeur la virtuosité tech
 nouvel album et leur riche catalogue de 40 ans de carrière. La tournée américaine de 30 dates a débuté le 5 septembre à
 Reading, en Pennsylvanie, et se termine le 25 octobre à Long Island, New York.
 
-#### "Parasomnia" : un retour triomphal avec Portnoy
+###### "Parasomnia" : un retour triomphal avec Portnoy
 
 "Parasomnia" marque la première sortie de Dream Theater avec Mike Portnoy depuis "Black Clouds & Silver Linings" en
 2009. Cet album de huit titres pour 71 minutes, produit par le guitariste John Petrucci, enregistré par James "Jimmy T"
@@ -56,7 +56,7 @@ L'album fait suite à "A View From The Top Of The World" de 2021 et présente si
 clôturant avec l'épique "The Shadow Man Incident" qui culmine à près de 20 minutes. La pochette a une fois de plus été
 confiée au légendaire Hugh Syme, collaborateur de longue date du groupe.
 
-#### Mike Portnoy rassure les fans inquiets
+###### Mike Portnoy rassure les fans inquiets
 
 Suite à l'annonce de l'annulation, de nombreux fans ont exprimé leurs inquiétudes sur les réseaux sociaux, certains
 craignant des tensions internes au sein du groupe ou des problèmes de santé. Mike Portnoy a rapidement pris la parole
@@ -71,7 +71,7 @@ Portnoy a insisté sur le fait que tout va bien au sein du groupe : "Tout va à 
 le camp... rien dont il faut s'inquiéter.... honnêtement, l'année passée a été la plus grande et la meilleure tournée de
 Dream Theater jamais réalisée."
 
-#### Une tournée asiatique et australienne maintenue
+###### Une tournée asiatique et australienne maintenue
 
 Contrairement à l'Europe, Dream Theater maintiendra ses dates prévues en Asie et en Australie de janvier à mars 2026.
 Cette tournée leur permettra de présenter le show "Parasomnia" dans d'autres régions du monde où le groupe n'a pas
@@ -80,7 +80,7 @@ tourné aussi intensivement ces dernières années.
 Les dates incluent des concerts au Japon, en Corée du Sud, en Inde et en Australie, offrant aux fans de ces régions
 l'opportunité de découvrir le spectacle que les Européens devront attendre.
 
-#### Un retour promis pour 2027 ou 2028
+###### Un retour promis pour 2027 ou 2028
 
 Dans leur communiqué, Dream Theater a rassuré les fans européens sur leur retour futur : "Nous sommes impatients de
 revenir en Europe/Royaume-Uni lorsque nous commencerons notre prochain cycle de tournée en 2027 ou 2028 !"
@@ -89,7 +89,7 @@ Cette période de deux à trois ans sans tournée européenne marquera la plus l
 depuis de nombreuses années. Cependant, elle permettra au groupe de développer du nouveau matériel et de préparer un
 nouveau cycle d'album qui justifiera un retour triomphal.
 
-#### La tournée du 40e anniversaire : un succès historique
+###### La tournée du 40e anniversaire : un succès historique
 
 La tournée du 40e anniversaire de Dream Theater a été saluée comme l'une des plus importantes et des meilleures de l'
 histoire du groupe. La tournée a débuté de manière spectaculaire le 20 octobre 2024 à l'O2 Arena de Londres - marquant
@@ -99,7 +99,7 @@ La jambe nord-américaine du 40e anniversaire a débuté le 7 février à The Me
 mars à New York. Ces concerts ont reçu des critiques dithyrambiques, tant pour l'énergie renouvelée du groupe que pour
 la qualité technique des performances.
 
-#### Un album live pour immortaliser le moment
+###### Un album live pour immortaliser le moment
 
 Pour ceux qui n'auront pas la chance de voir le spectacle actuel en personne, Dream Theater sortira le 28 novembre 2025
 un nouvel album live intitulé "Quarantième: Live à Paris" via InsideOut Music/Sony Music. Cet enregistrement documente
@@ -110,7 +110,7 @@ classiques comme "Metropolis Pt. 1", "Panic Attack", "Octavarium" et "Pull Me Un
 Cet album live permettra aux fans de revivre la magie de la tournée et servira de consolation pour ceux qui ne pourront
 pas voir le groupe en 2026.
 
-#### Une décision logistique et économique
+###### Une décision logistique et économique
 
 Selon les observateurs de l'industrie musicale, la décision de Dream Theater reflète des réalités économiques et
 logistiques. Après quatre années consécutives de tournées européennes intensives (2022, 2023, deux étapes en 2024 et
@@ -121,7 +121,7 @@ La stratégie de "laisser respirer" le marché européen pendant deux ans pourra
 retour encore plus triomphal en 2027 ou 2028, lorsque les fans auront eu le temps d'assimiler "Parasomnia" et d'attendre
 avec impatience le prochain album du groupe.
 
-#### L'héritage de "Parasomnia"
+###### L'héritage de "Parasomnia"
 
 "Parasomnia" a été acclamé par la critique et a dominé plusieurs classements Billboard, se classant dans le Top 10 des
 charts Top Hard Rock Albums, Top Rock Albums et Independent Albums. L'album représente un nouveau chapitre glorieux pour
@@ -133,7 +133,7 @@ Dream And Day Unite" en 1989 à "Black Clouds & Silver Linings" en 2009), a ét�
 le monde du metal progressif. Son absence de 13 ans (il avait été remplacé par Mike Mangini) n'a fait qu'accroître
 l'anticipation pour cette réunion qui a finalement eu lieu en octobre 2023.
 
-### # Une année 2026 recentrée
+###### # Une année 2026 recentrée
 
 Bien que décevante pour les fans européens, cette annulation permet à Dream Theater de recentrer son énergie. Le groupe
 pourra se concentrer sur d'autres marchés, travailler sur du nouveau matériel et éviter l'épuisement qui pourrait

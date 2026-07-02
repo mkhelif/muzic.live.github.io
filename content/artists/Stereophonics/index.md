@@ -21,7 +21,7 @@ Jamie Morrison), le groupe émerge de la classe ouvrière galloise avec une auth
 Leurs débuts voient trois amis d'enfance transformer leur passion pour le rock en un projet ambitieux qui capture l'
 esprit et les luttes de leur communauté.
 
-##### Carrière musicale
+###### Carrière musicale
 
 L'album "Word Gets Around" (1997) lance leur carrière avec des titres comme "A Thousand Trees" et "Local Boy in the
 Photograph", établissant immédiatement Stereophonics comme voix authentique du rock britannique.
@@ -35,7 +35,7 @@ Writer", consolidant leur place parmi les plus grands groupes britanniques de le
 Le groupe maintient une présence constante pendant plus de vingt-cinq ans, enchaînant albums et tournées, accumulant
 huit albums numéro un au Royaume-Uni.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Stereophonics fusionne rock classique, brit-pop et influences américaines dans un son robuste et mélodique
 qui privilégie l'authenticité et l'émotion brute.
@@ -49,7 +49,7 @@ leur identité sonore immédiatement reconnaissable.
 Leurs textes explorent la vie quotidienne, les relations humaines et les observations sociales avec une honnêteté et une
 sensibilité qui résonnent avec leur public fidèle.
 
-##### Actualité
+###### Actualité
 
 Stereophonics continue de sortir des albums régulièrement et de remplir des salles à travers le Royaume-Uni et l'Europe,
 maintenant leur statut de groupe rock essentiel.

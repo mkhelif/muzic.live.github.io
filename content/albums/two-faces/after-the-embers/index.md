@@ -19,7 +19,7 @@ Il y a des albums qui tombent à pic. After the Embers, premier long format du d
 Da Silva, la trentaine, livrent ici un condensé d'électro-rock et de trip-rock qui place immédiatement Lyon sur la carte
 de l'indie rock actuel.
 
-#### Deux âmes-frères, une identité singulière
+###### Deux âmes-frères, une identité singulière
 
 Ben et PO se sont rencontrés au lycée, unis par leur amour des Arctic Monkeys et de la scène anglo-saxonne. Après avoir
 commencé par des reprises à la guitare - ironiquement le premier instrument qu'ils ont décidé d'exclure de Two Faces -
@@ -31,7 +31,7 @@ Le duo refuse d'être enfermé dans une case. Rock, électronique, indie, pop, b
 mélange tout ça avec une authenticité désarmante. Leur musique, influencée autant par Archive et Woodkid que par leur
 passé punk-rock, déploie une richesse texturale rare.
 
-#### Une production qui monte en intensité
+###### Une production qui monte en intensité
 
 L'album a été créé par sessions de résidence, les deux garçons s'enfermant dans une maison à la montagne pour écrire,
 échanger, composer. Cette méthode immersive transparaît dans la cohérence du disque. Dès "Unspeakable Things", l'aspect
@@ -42,7 +42,7 @@ After the Embers monte en intensité au fur et à mesure. "The Fire" et "Jet Str
 maîtrise - cette dernière incarnant la rage de vivre du duo, un cri d'apaisement plutôt que de violence. Two Faces sait
 raconter une histoire ô combien déchirante et somptueuse où chaque détail musical se dévoile à chaque écoute répétée.
 
-#### Une bascule narrative magistrale
+###### Une bascule narrative magistrale
 
 La structure de l'album repose sur une bascule cruciale entre les morceaux 5 et 6 - "After the Embers" et "The Fire".
 "On ne raconte plus la même chose si on interchange ces deux titres", expliquent-ils. L'idée totale : la perte de
@@ -53,7 +53,7 @@ d'une enfance perdue. "Young Chief" pose la question brutale : "Soit tu es un ga
 disent". Le duo confesse n'avoir pas vu la transition entre l'enfance et l'âge adulte, être "des enfants dans des corps
 d'adulte".
 
-#### Le clair-obscur comme signature
+###### Le clair-obscur comme signature
 
 "Ghost Inside" illustre parfaitement l'identité Two Faces : selon les auditeurs, ce morceau est soit joyeux et porteur
 d'espoir, soit ultra déprimant. Cette ambiguïté délibérée parcourt tout l'album. "Fearless" demande "Comment comptes-tu
@@ -64,14 +64,14 @@ prononcé dans la chanson. La réponse se trouve dans le titre lui-même.
 chose. Ce dernier titre est aussi un témoignage d'amour pour leur entourage, incarnant encore ce clair-obscur qui
 interagit dans tout ce qu'ils font.
 
-#### Une conclusion somptueuse
+###### Une conclusion somptueuse
 
 L'album culmine avec "Gasoline", somptueuse conclusion qui atteint les cieux. On n'avait rien entendu d'aussi vibrant
 depuis Otzeki, et le duo lyonnais réussit quelque peu cet exploit avec ce premier disque événement. Après le passage par
 le feu de "Jet Stream", après l'introspection de "Ghost Inside", "Gasoline" offre cette catharsis nécessaire, cette
 rédemption attendue.
 
-#### L'écriture comme exutoire générationnel
+###### L'écriture comme exutoire générationnel
 
 Two Faces compose en anglais par choix - "une façon de rendre hommage à la musique qui nous a élevés comme musiciens" -
 mais aussi par pragmatisme : toucher un public international. L'écriture, d'abord simple racontage de petites histoires,
@@ -83,14 +83,14 @@ chose et la question est alors de se demander ce qu'il se passe maintenant, apr�
 démarrer ? Y aura-t-il une accalmie ? Le duo avoue une "rage de vivre" qui les traverse, quelque chose d'enfermé, de
 bloqué, qui ne se libère vraiment que sur scène.
 
-#### Une identité visuelle cohérente
+###### Une identité visuelle cohérente
 
 Après deux EPs expérimentaux (le très garage Two Faces et le plus dispersé Release the Beast), le duo a trouvé son
 équilibre sonore et visuel. Auto-produits, réalisant eux-mêmes leurs clips désormais, Ben et PO contrôlent l'entièreté
 de leur projet. Leur musique très graphique appelle naturellement l'image - ils touchent à tous les arts, se mettent en
 scène, redeviennent "des enfants avec des caméras".
 
-#### Verdict : un premier album qui frappe fort
+###### Verdict : un premier album qui frappe fort
 
 After the Embers s'impose comme l'un des albums indie rock français les plus accomplis de 2023. Les spectres d'Archive
 et de Woodkid planent tout du long, pour notre plus grand plaisir. Two Faces entraîne l'auditeur dans leur univers

@@ -15,7 +15,7 @@ esthétique distincte, entre riffs fuzz vintage, mélodies solaires et atmosphè
 produit avec une fidélité aux techniques analogiques des sixties, les distingue immédiatement dans le paysage rock
 contemporain.
 
-##### Une discographie cohérente
+###### Une discographie cohérente
 
 Leur premier album éponyme, *Allah-Las* (2012), produit par Nick Waterhouse, s'impose immédiatement comme l'un des
 disques garage rock les plus raffinés de l'année. Ses guitares claires et ses rythmes chaloupés capturent l'essence
@@ -25,7 +25,7 @@ d'une Californie rêvée, lointaine et lumineuse.
 
 *LAHS* (2019) et *Zuma 85* (2023) marquent de nouvelles phases créatives pour le groupe, qui continue d'évoluer en explorant les marges de leur identité sonore, tout en restant profondément ancrés dans l'amour du groove et de la mélodie.
 
-##### L'héritage garage
+###### L'héritage garage
 
 Allah-Las incarnent parfaitement l'idéal du groupe de rock qui n'a jamais trahi sa vision originelle. Nés de l'obsession
 commune de quatre amis pour les raretés vinyliques des sixties, ils sont devenus l'un des groupes de référence du

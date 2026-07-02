@@ -11,7 +11,7 @@ Le groupe, composé habituellement d'une onzaine de musiciens, débute en repren
 d'Aretha Franklin avant de se tourner vers des compositions originales, portées par le charisme explosif du duo formé
 par Dyna et Lewis sur le devant de la scène.
 
-##### Un choix radical : rien que du live
+###### Un choix radical : rien que du live
 
 Dyna, Lewis & The Soul Caravan affiche une méthode de travail singulière : les morceaux sont volontairement enregistrés
 en configuration live, tous les musiciens jouant simultanément dans la même pièce, afin de capturer l'énergie collective

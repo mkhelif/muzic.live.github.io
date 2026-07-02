@@ -20,7 +20,7 @@ transcendants certains des meilleurs morceaux des cinq dernières années ». Le
 de « maîtresse de l'équilibre », soulignant sa capacité rare à servir la musique avec précision et finesse, alliant
 écoute profonde, prouesse technique et inventivité.
 
-## Une compositrice qui abolit les frontières
+###### Une compositrice qui abolit les frontières
 
 Le travail de composition de Macie Stewart se distingue par un refus constant des cloisonnements disciplinaires. En
 2021, elle compose aux côtés de Sima Cunningham une pièce pour le film *Half of Us* de la compagnie Hubbard Street
@@ -34,7 +34,7 @@ Conservatory de Chicago. Intégrée à la plus ancienne installation sonore en a
 de vingt minutes intitulée *The World Doubles in Size* a résonné dans la salle des fougères du conservatoire de
 septembre à novembre 2024.
 
-## Au cœur de la scène jazz et improvisée de Chicago
+###### Au cœur de la scène jazz et improvisée de Chicago
 
 Profondément enracinée dans la communauté jazz et improvisée de Chicago, Macie Stewart a tissé un réseau de
 collaborations aussi dense que varié. On la retrouve sur des disques aux côtés de Makaya McCraven (International
@@ -42,7 +42,7 @@ Anthem), de Resavoir, de Bex Burch et de l'Exploding Star Orchestra de Rob Mazur
 groupe d'avant-garde jazz de Ken Vandermark, et a cofondé le trio improvisé The Few (avec le guitariste Steve Marquette
 et le bassiste Charlie Kirchen), ainsi qu'un duo avec la violoncelliste et artiste sonore Lia Kohl.
 
-## Finom : dix ans d'avant-pop et d'art rock
+###### Finom : dix ans d'avant-pop et d'art rock
 
 En 2014, Macie Stewart et Sima Cunningham fondent Finom, un duo expérimental devenu au fil des années un véritable
 phénomène d'avant-pop et d'art rock. Quatre albums et de nombreuses tournées plus tard, le groupe continue de captiver
@@ -50,14 +50,14 @@ les publics locaux et internationaux par ses harmonies reconnaissables entre mil
 sonores singuliers. Leur dernier album, *Not God* (Joyful Noise Recordings, 2024), célèbre une décennie de création avec
 une intensité intacte.
 
-## Une collaboratrice incontournable
+###### Une collaboratrice incontournable
 
 La liste de ses collaborations donne le vertige : elle a tourné avec Japanese Breakfast, The Weather Station, Kevin
 Morby et Tweedy ; assuré les arrangements et parties de cordes pour SZA, Whitney, Mannequin Pussy, Tasha, V.V.
 Lightbody, Resavoir, Lala Lala et Kara Jackson. Chacune de ces expériences nourrit ce qu'elle décrit comme une
 « pollinisation croisée » essentielle entre ses différents projets et communautés créatives.
 
-## *Mouth Full of Glass* : l'affirmation d'une voix singulière
+###### *Mouth Full of Glass* : l'affirmation d'une voix singulière
 
 Portée par cette richesse d'expériences, Macie Stewart publie en 2021 son premier album solo, *Mouth Full of Glass*, sur
 le label Orindal Records (réédité sur Full Time Hobby en 2022). Enregistré, arrangé et produit seule pendant la

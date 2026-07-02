@@ -14,7 +14,7 @@ Le **Heavy Weekend** dévoile son programme complet pour l'édition 2026. Du 5 a
 festival consacré aux musiques lourdes aligne une affiche qui conjugue monuments du genre et phénomènes de la scène
 actuelle — soit trois soirées qui devraient s'imprimer dans les mémoires.
 
-#### Vendredi 5 juin : la nuit de l'acier épique
+###### Vendredi 5 juin : la nuit de l'acier épique
 
 **Sabaton**, les Suédois maîtres du metal épique inspiré par l'histoire militaire, ouvrent le bal avec leur puissance
 de frappe habituelle. Ils seront rejoints par **Savatage**, groupe culte de la scène heavy metal américaine dont le
@@ -22,7 +22,7 @@ retour récent a mis la planète metal en ébullition, et par les Allemands d'**
 variable de Tobias Sammet, accompagné d'une constellation d'invités. **Dominum** complète ce plateau d'ouverture
 placé sous le signe de la grandeur.
 
-#### Samedi 6 juin : la nuit de la brutalité
+###### Samedi 6 juin : la nuit de la brutalité
 
 La soirée centrale appartient à **Gojira**. Le quatuor périgourdin, unanimement considéré comme l'un des meilleurs
 groupes de metal en activité, revient en France avec le poids de *The Way of All Flesh* et de *Fortitude* dans les
@@ -30,7 +30,7 @@ cordes. À leurs côtés, **Trivium** (Floride) apportera ses riffs du millénai
 Max Cavalera — viendra incarner l'héritage brûlant de Sepultura. **Nova Twins** fermera le plateau sur une touche punk-metal
 aussi inattendue que bienvenue.
 
-#### Dimanche 7 juin : la nuit de l'excès
+###### Dimanche 7 juin : la nuit de l'excès
 
 **Electric Callboy** — les kings allemands de l'électro-metal festif — clôturent le festival avec leur énergie
 inépuisable et leur sens du spectacle. **Three Days Grace**, **Ice Nine Kills** et les Lyonnais de **Shaârghot**

@@ -14,7 +14,7 @@ EP "Modern Roses" sorti en avril 2025.
 ![Soft Loft tournée](tour.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
-#### Une tournée ambitieuse à travers le continent
+###### Une tournée ambitieuse à travers le continent
 
 La tournée "Modern Roses" promet d'être l'un des moments forts de l'automne indie européen. Soft Loft traversera
 plusieurs pays du continent, offrant à ses fans l'opportunité de découvrir en live les nouveaux morceaux de l'EP ainsi
@@ -28,7 +28,7 @@ parfait pour l'atmosphère délicate et émotionnelle que Soft Loft cherche à c
 allemande, véritable carrefour culturel européen, constituera une excellente rampe de lancement pour cette tournée qui
 s'annonce mémorable.
 
-#### L'EP "Modern Roses" comme fil conducteur
+###### L'EP "Modern Roses" comme fil conducteur
 
 Cette tournée prend tout son sens dans le prolongement de la sortie de l'EP "Modern Roses", un projet de 6 titres qui
 explore l'affection et les petits gestes que nous faisons pour réduire la distance entre nous. L'EP plonge également
@@ -39,7 +39,7 @@ Le premier single "Leave The Light On", sorti en janvier 2025, a particulièreme
 l'un des moments forts des concerts. Cette chanson incarne parfaitement la philosophie du groupe : transformer la
 mélancolie quotidienne en espaces sûrs musicaux où la vulnérabilité devient une force.
 
-#### Un concert qui promet une expérience immersive
+###### Un concert qui promet une expérience immersive
 
 Les concerts de Soft Loft sont bien plus que de simples performances musicales : ce sont de véritables expériences
 émotionnelles. Le groupe se définit comme faisant de l'"Indie-something-something" et se sent aussi bien dans les clubs
@@ -50,7 +50,7 @@ La formation complète comprendra Jorina Stamm au chant, accompagnée de Lukas K
 guitare et Marius Meier à la basse. Cette configuration leur permet d'explorer pleinement leur riche mélange de soft
 pop, indie rock et éléments folk, créant une atmosphère à la fois mélancolique et lumineuse.
 
-#### Une philosophie de la vulnérabilité
+###### Une philosophie de la vulnérabilité
 
 Comme le décrit le groupe : "Soft Loft est un refuge, une attitude, un mode de vie. C'est là où le brisé et l'imparfait
 sont embrassés et célébrés. Soft Loft est l'endroit où la réalité se transforme en rêves et les rêves reviennent à la
@@ -60,7 +60,7 @@ Cette philosophie se ressent particulièrement lors des concerts live, où le gr
 puisse se laisser aller émotionnellement. Les fans qui ont assisté à leurs précédents concerts, notamment au Montreux
 Jazz Festival, témoignent régulièrement de l'intensité émotionnelle et de la beauté brute de leurs performances.
 
-#### Des attentes élevées après un premier album remarqué
+###### Des attentes élevées après un premier album remarqué
 
 Le succès de "The Party and the Mess", sorti en mars 2024, a créé des attentes importantes pour cette tournée. L'album,
 avec ses 12 titres incluant "Safe Space", "Summer Sadness", "Bathroom Floor" et "Happy New Year", a été salué pour sa
@@ -70,7 +70,7 @@ contexte live, où ils prennent souvent une dimension encore plus puissante.
 Les morceaux comme "Joni", "Rose Colored" et le titre éponyme "The Party And The Mess" seront sans doute au programme,
 offrant un équilibre parfait entre mélancolie et espoir, introspection et célébration.
 
-#### Informations pratiques et billetterie
+###### Informations pratiques et billetterie
 
 Les billets pour la tournée "Modern Roses" sont d'ores et déjà disponibles sur les plateformes habituelles. Compte tenu
 de l'engouement autour du groupe et de la capacité souvent limitée des salles indie, il est fortement conseillé aux fans

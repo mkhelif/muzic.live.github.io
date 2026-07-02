@@ -10,14 +10,14 @@ groupe reflète les circonstances de sa création : les musiciens se sont retrou
 ensemble », ce qui a naturellement donné naissance au nom April Art. Le groupe émerge quelques mois après la dissolution
 de Scarlet Fire, précédent projet de certains de ses membres.
 
-##### Un son entre rock moderne et metal
+###### Un son entre rock moderne et metal
 
 Le style d'April Art se situe à la croisée du rock alternatif, du metalcore et du punk, avec des incursions dans le
 nu-metal et le crossover. Leur deuxième album *Pokerface* (2022) est notamment décrit par la critique comme une
 combinaison de métal moderne, d'électronique, d'éléments rap sporadiques et de metalcore percutant. Le groupe revendique
 des influences qui traversent les deux décennies de rock agressif des années 2000.
 
-##### Reconnaissance et live
+###### Reconnaissance et live
 
 En 2018, April Art remporte le Prix Hessois du Rock & Pop, distinction régionale qui récompense les talents émergents de
 l'État de Hesse. Le groupe se forge également une solide réputation sur scène : au printemps 2022, ils assurent la

@@ -20,7 +20,7 @@ la profondeur de son œuvre. Anton Newcombe (The Brian Jonestown Massacre) l'a q
 médias le comparent volontiers à Alain Bashung. Lui se contente de chanter, d'écrire et de poser sur le monde un regard
 que personne d'autre ne pose tout à fait de la même façon.
 
-## Quiberon, un père pêcheur et la musique cadienne
+###### Quiberon, un père pêcheur et la musique cadienne
 
 Bertrand Belin naît le 7 décembre 1970 à Auray, dans le Morbihan, et grandit à Quiberon — presqu'île battue par les
 vents, face à l'Atlantique. Son père est pêcheur, sa mère au foyer. Quatre frères et sœurs. Rien qui prédestine à la
@@ -33,14 +33,14 @@ tant que métier. En 1996, il rejoint le groupe anglais **Sons of the Desert** p
 *Greedy*, puis enregistre avec eux *Good Night Noises Everywhere* chez Universal Jazz. Belin est alors exclusivement
 guitariste — sa voix, il ne l'a pas encore trouvée. Ou plutôt, il ne l'a pas encore libérée.
 
-## La carrière solo : un premier album à 35 ans
+###### La carrière solo : un premier album à 35 ans
 
 Il faut attendre 2005 — Belin a 35 ans — pour que paraisse son premier album éponyme, **Bertrand Belin**, sur le label
 Sterne. L'accouchement a été long, mais le résultat est là : une voix grave, posée, magnétique, qui ne ressemble à rien
 de connu dans le paysage francophone. Deux ans plus tard, **La Perdue** (2007) confirme l'émergence d'un artiste hors
 norme, à mi-chemin entre la chanson d'auteur, le folk de chambre et l'art pop.
 
-## *Hypernuit* et la consécration critique
+###### *Hypernuit* et la consécration critique
 
 En 2010, **Hypernuit** — son troisième album, le premier sur le label Cinq7 — marque un tournant. L'album reçoit le
 **Grand Prix du disque de l'Académie Charles-Cros**, une distinction qui consacre Belin comme l'une des voix majeures de
@@ -53,7 +53,7 @@ Suivent **Parcs** (2013), **Cap Waller** (2015) — enregistré à Sheffield ave
 loin l'exploration sonore. La tournée de *Cap Waller* s'étend sur 140 dates, preuve que le public, même s'il n'est pas
 celui des stades, est fidèle et grandissant.
 
-## L'écrivain : cinq romans chez P.O.L
+###### L'écrivain : cinq romans chez P.O.L
 
 Ce qui distingue fondamentalement Bertrand Belin de la quasi-totalité de ses contemporains, c'est la littérature — non
 pas comme inspiration lointaine, mais comme pratique quotidienne. Parallèlement à ses albums, il a publié cinq romans
@@ -62,7 +62,7 @@ aux éditions **P.O.L**, l'une des maisons d'édition les plus exigeantes du pay
 taillée à l'os — chaque mot est pesé, chaque silence compte. Quand on écrit chez P.O.L et qu'on chante sur les scènes de
 l'Olympia, on occupe un territoire que très peu d'artistes peuvent revendiquer.
 
-## Le cinéma, le théâtre, l'opéra
+###### Le cinéma, le théâtre, l'opéra
 
 L'homme est partout sans jamais être dispersé. Il compose la musique de films — *Avec Marinette* de Blandine Lenoir
 (prix de la meilleure musique au Festival de Clermont-Ferrand), *Ma vie avec James Dean*, *ZouZou*, *Aurore*, *Autour de
@@ -76,7 +76,7 @@ Et quand il ne fait rien de tout cela, il écrit des textes pour d'autres : *Vag
 **, *Dimanche* pour **The Limiñanas** (sur l'album *Shadow People*), trois textes pour le projet **L'Épée** (The
 Limiñanas / Emmanuelle Seigner / Anton Newcombe), et un duo avec Emmanuelle Seigner sur *On dansait avec elle*.
 
-## *Tambour Vision*, *Watt* et le renouvellement permanent
+###### *Tambour Vision*, *Watt* et le renouvellement permanent
 
 En 2022, **Tambour Vision** poursuit la mue. L'album intègre davantage d'électronique, de synthétiseurs, de textures
 sonores nouvelles — sans jamais renoncer à ce qui fait l'essence de Belin : la voix au premier plan, le texte comme
@@ -92,7 +92,7 @@ d'un monde intérieur en perpétuelle expansion.
 La tournée qui accompagne *Watt* traverse la France et la Suisse avec un effectif de sept musiciens sur scène — la
 formation la plus ample de sa carrière, entre deux claviéristes, batterie, guitare, basse et piano.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Bertrand Belin est l'un de ces artistes rares qui refusent de choisir entre les disciplines — et qui, loin de se
 disperser, trouvent dans cette multiplicité la cohérence profonde de leur œuvre. Chanteur à la voix immédiatement

@@ -15,14 +15,14 @@ socials:
   qobuz: "pzr459d494rqc"
 ---
 
-##### L'épilogue nécessaire d'un duo qui refuse de mourir
+###### L'épilogue nécessaire d'un duo qui refuse de mourir
 
 Dix ans après avoir révolutionné l'alternative rock avec leur cocktail schizophrène de ukulélé et de 808, Tyler Joseph
 et Josh Dun reviennent avec Breach, un disque qui sonne comme un testament. Pas celui d'artistes fatigués, mais
 d'explorateurs assumant enfin leurs contradictions.
 
 
-##### L'héritage Blurryface enfin assumé
+###### L'héritage Blurryface enfin assumé
 
 Breach clôt officiellement la saga Blurryface entamée en 2015, ce personnage sombre qui hantait l'univers conceptuel
 du duo. Fini les métaphores alambiquées : Joseph pose ses démons sur la table avec une lucidité brutale. Sur "The
@@ -31,7 +31,7 @@ sait que le temps presse. La synthèse genre qu'opère ici TOP n'a rien d'un pas
 2025.
 
 
-##### Josh Dun sort de l'ombre
+###### Josh Dun sort de l'ombre
 
 Révélation majeure de l'album : Josh Dun prend partiellement le lead vocal pour la première fois sur "Drum Show". Sa
 voix, rugueuse et magnétique, transforme instantanément la dynamique du groupe. Twenty One Pilots n'est plus le projet
@@ -39,7 +39,7 @@ solo déguisé de Joseph - c'est enfin un vrai duo. Cette évolution était atte
 moment parfait.
 
 
-##### Une maturité sonore sans compromis
+###### Une maturité sonore sans compromis
 
 Décrit comme mélange d'alternative rock, pop rock, electro-pop et hip hop alternatif, Breach pousse plus loin
 l'hybridation stylistique qui fait leur signature. "Garbage" fusionne glitch et mélodie avec une aisance déconcertante,
@@ -52,14 +52,14 @@ chaque rupture rythmique sert le propos. L'influence de l'electro-pop moderne tr
 identité rock.
 
 
-##### Les limites du maximalisme
+###### Les limites du maximalisme
 
 Si Breach convainc par son ambition, il souffre parfois de ses excès. Cette approche "maximaliste pop-rock chaotique"
 que personne d'autre ne tenterait frôle parfois l'indigestion sonore. Certains morceaux auraient gagné en impact avec
 plus de retenue. L'album fonctionne mieux pris par fragments qu'écouté d'une traite.
 
 
-##### Verdict : Un au revoir qui ressemble à un renouveau
+###### Verdict : Un au revoir qui ressemble à un renouveau
 
 Breach n'est ni le chef-d'œuvre qu'espéraient les fans historiques, ni la révolution qu'attendaient les sceptiques.
 C'est simplement un disque honnête d'artistes qui ont grandi avec leur public sans renier leurs obsessions. Album de 

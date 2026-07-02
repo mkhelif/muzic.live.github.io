@@ -20,7 +20,7 @@ tant que musicien. Il portait d'ailleurs une perruque sur scène, en hommage à 
 
 ---
 
-## Les racines : Post Animal et les débuts
+###### Les racines : Post Animal et les débuts
 
 Avant Djo, il y a Post Animal. De 2014 à 2018, Keery a été co-fondateur, batteur, guitariste et chanteur de ce groupe de
 rock psychédélique basé à Chicago. Il a contribué à leurs premiers EPs avant de quitter la formation en raison de son
@@ -31,16 +31,16 @@ discrète. C'est donc après un vrai parcours de musicien de groupe qu'il entame
 
 ---
 
-## Discographie : trois albums, trois visages
+###### Discographie : trois albums, trois visages
 
-### *Twenty Twenty* (2019)
+###### *Twenty Twenty* (2019)
 
 Son premier album s'oriente vers une psychédélie pop inventive et sinueuse. NME salue en Keery « un musicien de très
 haut calibre qui flirte avec une psychédélie inventive et déformée qui tord doucement l'esprit et change constamment de
 forme autour de vous », le comparant à Tame Impala et Ariel Pink. L'album pose les bases d'un univers à la fois rêveur
 et expérimental, qui ne cherche pas la facilité.
 
-### *Decide* (2022)
+###### *Decide* (2022)
 
 Enregistré avec son complice de production Adam Thein pendant les confinements liés au Covid-19, puis capturé au Sound
 Factory de Los Angeles fin 2021, *Decide* marque une rupture esthétique nette. Exit le rock psychédélique : Keery plonge
@@ -61,7 +61,7 @@ morceau, porté par une vague TikTok, touche une corde profonde : il distille un
 de longue durée qui ont résonné massivement. Un cas d'école de la façon dont un algorithme peut exhumer un titre de l'
 oubli et en faire une anthologie de génération.
 
-### *The Crux* (2025) et *The Crux Deluxe* (2025)
+###### *The Crux* (2025) et *The Crux Deluxe* (2025)
 
 Co-produit avec Adam Thein aux légendaires Electric Lady Studios de New York, *The Crux* est structuré autour d'un
 concept : un hôtel dont les clients sont tous à un carrefour de leur vie. Rolling Stone lui attribue 3,5 étoiles et le
@@ -77,7 +77,7 @@ qui tient debout comme une œuvre propre ».
 
 ---
 
-## L'esthétique Djo
+###### L'esthétique Djo
 
 Musicalement, Djo navigue dans un espace où se croisent la psychédélie indie, la synth-pop vintage, le folk et la glam
 rock — les critiques ont par exemple comparé des passages de *The Crux Deluxe* à la glam rock de Marc Bolan (T. Rex),
@@ -89,7 +89,7 @@ renforce l'ampleur des arrangements studio.
 
 ---
 
-## L'homme et sa double vie
+###### L'homme et sa double vie
 
 Ce qui rend Djo particulièrement intrigant, c'est la façon dont Keery assume pleinement la dualité. Il a adopté le
 pseudonyme Djo pour séparer sa carrière musicale du personnage de Steve Harrington, mais il a fini par apprécier « la

@@ -10,7 +10,7 @@ les plus singuliers et captivants de la scène musicale contemporaine. Son parco
 inattendue entre la tradition populaire finlandaise, les textures électroniques et l'art vocal ancestral du chant
 diphonique, créant un univers sonore qui défie toutes les catégories.
 
-##### Une vocation née par hasard
+###### Une vocation née par hasard
 
 L'histoire de Paalanen avec l'accordéon commence de manière presque accidentelle : entré dans un magasin de
 musique avec l'intention d'acheter une guitare électrique, il tombe sous le charme d'un accordéon et ne
@@ -19,7 +19,7 @@ folklorique finlandaise jouée à l'accordéon diatonique — et se distingue ra
 il remporte quatre fois le championnat finlandais de pelimanni, et se classe deuxième aux championnats du monde
 de diatone en Autriche en 1999.
 
-##### Une formation académique et une ouverture mondiale
+###### Une formation académique et une ouverture mondiale
 
 Admis au Département de musique folk de l'Académie Sibelius d'Helsinki en 1997, Paalanen approfondit son art
 tout en développant un intérêt pour les musiques du monde. Influencé par des artistes comme Kiss, W.A.S.P. ou
@@ -27,7 +27,7 @@ AC/DC autant que par les traditions finlandaises, il forge un style hybride auda
 de musique électronique, de techno et de chant de gorge (khöömii). Installé à Kokkola, il se produit dans le
 monde entier avec cette combinaison unique d'accordéon, de samples électroniques et de sa voix diphonique.
 
-##### Discographie et reconnaissance
+###### Discographie et reconnaissance
 
 Paalanen a publié quatre albums solo : *Äärelä* (2007), *Breathbox* (2010), *Meluta* (2014) et *Rujo* (2019).
 *Meluta* a été nommé au Prix de Musique du Conseil Nordique 2016 et au Prix Teosto finlandais 2015. Les albums

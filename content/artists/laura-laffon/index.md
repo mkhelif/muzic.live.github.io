@@ -17,7 +17,7 @@ vient de Millas — un village des Pyrénées-Orientales que personne n'associe 
 peut-être là sa force la plus précieuse : construire une carrière sérieuse depuis un territoire qui n'offre aucune
 facilité, sans autre arme que la passion, la régularité et le travail.
 
-## Millas, 14 ans, les premières platines
+###### Millas, 14 ans, les premières platines
 
 Jeune DJ originaire de Perpignan dans le sud de la France, passionnée par la musique depuis son enfance, elle découvre
 l'univers électro et s'intéresse rapidement à l'univers des DJs. Influencée par Hardwell, Nicky Romero, Martin Garrix,
@@ -28,7 +28,7 @@ La décision d'aller se former sérieusement finit par s'imposer. Diplômée de 
 enchaîne depuis les performances dans des festivals, clubs et bars. L'école comme point de départ, la scène comme
 terrain de construction.
 
-## Dix ans sur les scènes du Sud
+###### Dix ans sur les scènes du Sud
 
 La trajectoire de Laura Laffon est celle d'une professionnelle qui a fait ses gammes là où elle vivait avant de
 s'exporter. DJ résidente du FunBreak Salou en 2017, elle joue depuis plus de huit ans dans plusieurs clubs des
@@ -43,7 +43,7 @@ La montée en puissance continue. Elle marque la scène aux Plages Électronique
 Moreno et Paul K, à La Cerise sur le Château à Céret avec Henri PFR et Quentin Mosimann, ou encore au Marina Club à
 Barcarès lors de la Pool Party officielle de l'EMF.
 
-## Un son généraliste, une connexion instinctive
+###### Un son généraliste, une connexion instinctive
 
 Grâce à sa culture musicale variée, elle explore aisément différents styles et s'impose par ses mix créatifs et ses sets
 dynamiques, toujours en connexion avec son public. Laura Laffon ne s'enferme pas dans un sous-genre : elle lit les
@@ -53,7 +53,7 @@ club sur la durée.
 DJ et productrice depuis plus de 10 ans, elle se produit régulièrement en clubs, bars et festivals en France et à
 l'international. Dix ans de scène — c'est une école que peu de formations académiques peuvent remplacer.
 
-## La Catalane qui passe les frontières
+###### La Catalane qui passe les frontières
 
 Laura Laffon est profondément ancrée dans son territoire — les Pyrénées-Orientales, la Catalogne française, cette région
 du Sud qui cultive ses propres codes festifs avec une intensité solaire. Mais son regard dépasse depuis longtemps les

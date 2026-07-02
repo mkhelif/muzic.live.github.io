@@ -21,7 +21,7 @@ fraîcheur nouvelle à une esthétique intemporelle.
 Leurs débuts voient un power trio créer un mur de son qui transcende les époques, puisant dans les racines du rock pour
 créer quelque chose de contemporain et explosif.
 
-##### Carrière musicale
+###### Carrière musicale
 
 L'album éponyme "Wolfmother" (2005) explose sur la scène internationale, porté par des titres comme "Woman", "Joker and
 the Thief" et "Mind's Eye", qui conquièrent les radios rock du monde entier.
@@ -35,7 +35,7 @@ présence active avec des albums comme "Cosmic Egg" (2009) et "Victorious" (2016
 Le groupe incarne ce revival du rock vintage qui a marqué les années 2000, apportant l'énergie du hard rock classique à
 une nouvelle génération d'auditeurs.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Wolfmother se caractérise par un hard rock psychédélique massif, fusionnant les influences de Led Zeppelin,
 Black Sabbath et Deep Purple dans un son moderne et puissant.
@@ -49,7 +49,7 @@ l'esprit du rock des années 1970 tout en le rendant accessible aux audiences co
 Les compositions mêlent épopées psychédéliques et hymnes rock imparables, créant un son qui célèbre l'héritage du rock
 classique sans jamais tomber dans la simple imitation.
 
-##### Actualité
+###### Actualité
 
 Wolfmother continue de tourner et d'enregistrer, maintenant vivant l'esprit du hard rock classique pour les nouvelles
 générations de fans de rock.

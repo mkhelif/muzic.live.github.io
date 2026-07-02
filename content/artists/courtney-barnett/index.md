@@ -12,7 +12,7 @@ carrière musicale. C'est là qu'elle découvre Darren Hanlon et Dan Kelly, deux
 australiens qui lui donnent l'envie d'écrire ses propres chansons — pendant un temps, elle finance ses
 débuts comme livreuse de pizza.
 
-##### L'art du flot de conscience
+###### L'art du flot de conscience
 
 Courtney Barnett est avant tout une parolière, et c'est à ce titre qu'elle s'est imposée comme l'une
 des voix les plus singulières de la décennie 2010. Sa technique est celle du flot de conscience :
@@ -22,7 +22,7 @@ indépendant australien et américain créent un univers immédiatement reconnai
 *I've Got a Friend Called Emily Ferris* (2012), puis la compilation *The Double EP: A Sea of Split Peas*
 (2013) lui valent une attention internationale rapide.
 
-##### Consécration et maturité
+###### Consécration et maturité
 
 Son premier album, *Sometimes I Sit and Think, and Sometimes I Just Sit* (2015), la propulse sur le
 devant de la scène mondiale : quatre récompenses aux ARIA Music Awards, des critiques enthousiastes des

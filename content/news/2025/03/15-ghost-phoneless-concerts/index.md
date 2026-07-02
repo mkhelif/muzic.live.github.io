@@ -16,7 +16,7 @@ derrière Ghost, affirme que les spectacles sans téléphone portable représent
 mis en place une politique stricte "phone-free" pour la tournée mondiale 2025 de Ghost, le chanteur suédois de 44 ans
 est convaincu que cette tendance deviendra la norme dans l'industrie musicale.
 
-#### "8 000 personnes sur 10 000 avec un téléphone : c'est profondément déconnecté"
+###### "8 000 personnes sur 10 000 avec un téléphone : c'est profondément déconnecté"
 
 S'exprimant dans plusieurs interviews récentes, Forge a expliqué sa décision radicale d'imposer une expérience sans
 téléphone pour l'intégralité de la tournée Skeletour 2025. "Si vous avez 10 000 personnes à un concert et que 8 000
@@ -33,7 +33,7 @@ Le résultat l'a bouleversé : "Nous avons tous été frappés par le fait que l
 n'avions jamais vu des gens comme ça. C'était comme il y a 10 ans quand on voyait les gens s'engager. Et j'ai des
 frissons quand j'y pense."
 
-#### Une expérience qui change tout, même pour les sceptiques
+###### Une expérience qui change tout, même pour les sceptiques
 
 Fait intéressant, même les plus jeunes générations - pourtant les plus attachées à leurs smartphones - ont été conquises
 par l'expérience. Forge révèle que sa propre fille de 16 ans était initialement très sceptique : "Ma fille de 16 ans
@@ -44,7 +44,7 @@ Pourtant, les résultats parlent d'eux-mêmes. Le public de Los Angeles est sort
 un excellent concert, mais aussi "une expérience bouleversante". Pour Forge, cela prouve que l'absence de téléphones
 permet aux spectateurs de véritablement ressentir le moment présent.
 
-#### Les souvenirs les plus puissants vivent dans la tête, pas sur un écran
+###### Les souvenirs les plus puissants vivent dans la tête, pas sur un écran
 
 Le chanteur adopte une position philosophique sur l'expérience du concert : "Je ne veux pas transformer ça en quelque
 chose d'âgiste où je vais dire aux jeunes de 14 ans que tout était mieux avant. Mais je jure que l'expérience des shows
@@ -58,7 +58,7 @@ approche : "Je crois vraiment que la partie plus jeune de notre public sortira e
 L.A. : 'Ce n'était pas seulement un super concert ; c'était aussi une expérience bouleversante.' Parce que je crois
 vraiment que vous allez le ressentir."
 
-#### Le système Yondr : comment ça marche ?
+###### Le système Yondr : comment ça marche ?
 
 Concrètement, la politique "phone-free" de Ghost repose sur l'utilisation des pochettes Yondr. À leur arrivée au
 concert, les spectateurs doivent placer leur téléphone (ainsi que leurs montres connectées et autres appareils de
@@ -69,7 +69,7 @@ des zones spécifiques à l'intérieur de la salle pour les urgences.
 Graham Dugoni, fondateur de Yondr, explique que ses pochettes ont été créées pour des "espaces sans téléphone" où "la
 créativité et la productivité pourraient s'épanouir en l'absence de technologie".
 
-#### Une tendance croissante dans l'industrie musicale
+###### Une tendance croissante dans l'industrie musicale
 
 Ghost n'est pas le premier artiste à adopter cette approche. Bob Dylan, Jack White, Placebo et Alicia Keys ont tous
 déployé les pochettes Yondr lors de leurs concerts. Du côté des comédiens, Dave Chappelle et Jerrod Carmichael utilisent
@@ -86,7 +86,7 @@ pour la première fois en 23 ans au Troubadour de Los Angeles en avril 2016, le 
 c'était merveilleux", a déclaré McKagan au New York Times. "C'était le sentiment old-school, où les gens dansaient et
 s'éclataient. C'était vraiment cool."
 
-#### Une décision controversée mais assumée
+###### Une décision controversée mais assumée
 
 La politique de Ghost a divisé les fans. Certains ont loué l'attention du public sans distractions technologiques.
 D'autres se sont plaints des longs temps d'attente pour entrer dans les salles. À l'Utilita Arena de Birmingham, en
@@ -97,7 +97,7 @@ téléphone.
 Avant le concert de Ghost à l'OVO Hydro Arena de Glasgow, en Écosse, la salle a averti que ceux qui seraient vus "en
 train d'enfreindre les règles" concernant l'utilisation de téléphones pendant la performance seraient "escortés dehors".
 
-#### "C'est un calcul" : liberté collective vs liberté individuelle
+###### "C'est un calcul" : liberté collective vs liberté individuelle
 
 Des experts en communication de l'Université Northeastern ont analysé ce phénomène. Selon eux, des artistes comme Ghost
 prennent une décision destinée à protéger la liberté collective - la capacité des masses à profiter de la musique live -
@@ -106,7 +106,7 @@ plutôt que la liberté individuelle de quelqu'un à utiliser sa propriété qua
 L'expérience sans téléphone implique probablement un personnel de sécurité accru, un coût qui devra être absorbé par les
 artistes ou répercuté sur les spectateurs. Mais pour Forge, le jeu en vaut clairement la chandelle.
 
-#### "Je ne dis pas que tous les réseaux sociaux sont mauvais"
+###### "Je ne dis pas que tous les réseaux sociaux sont mauvais"
 
 Forge tient néanmoins à nuancer son propos. Il reconnaît volontiers que les réseaux sociaux, notamment MySpace à
 l'époque, ont été essentiels au succès initial de Ghost. "Je ne dis pas que tous les réseaux sociaux sont mauvais. Je
@@ -118,7 +118,7 @@ Il admet même comprendre l'argument commercial : "Tout le monde dans le busines
 filment parce que nous voulons que les gens voient le show, et ça vendra plus de billets.' D'accord. Ai-je tort ? Ai-je
 raison ? Je ne sais pas. C'est comme ça que moi, et nous, nous sentons."
 
-#### Une tournée mondiale pour prouver le concept
+###### Une tournée mondiale pour prouver le concept
 
 La tournée Skeletour de Ghost a débuté le 15 avril 2025 à l'AO Arena de Manchester et se poursuivra jusqu'en septembre
 avec des dates en Europe et en Amérique du Nord. L'album "Skeletá", sixième opus du groupe, est sorti le 25 avril via
@@ -128,7 +128,7 @@ de Forge.
 Papa Perpetua participera également au concert d'adieu de Black Sabbath le 5 juillet au Villa Park de Birmingham, un
 événement historique pour deux légendes du metal.
 
-#### Vers un nouveau standard de l'industrie ?
+###### Vers un nouveau standard de l'industrie ?
 
 Avec des milliers de concerts "phone-free" prévus en 2025 et des retours majoritairement positifs du public une fois
 l'expérience vécue, Tobias Forge pourrait bien avoir raison : les concerts sans téléphone pourraient devenir la norme

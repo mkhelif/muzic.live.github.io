@@ -14,7 +14,7 @@ stage-festival Les Enfants du jazz de Barcelonnette, aux côtés du pianiste St�
 étudie au Conservatoire National Supérieur de Musique de Paris, au sein du département jazz dirigé par Riccardo Del Fra,
 et se perfectionne également auprès du batteur belge Dré Pallemaerts.
 
-##### Une discographie prolifique
+###### Une discographie prolifique
 
 Sa carrière est marquée par une discographie riche de huit albums et quatre EP. En mai 2017, elle crée le projet "Fables
 of Shwedagon" dans le cadre du festival Jazz sous les pommiers, en collaboration avec cinq musiciens birmans, une
@@ -25,7 +25,7 @@ Cette reconnaissance artistique se traduit par plusieurs distinctions majeures :
 son travail, et elle est nommée Chevalier des Arts et des Lettres en 2021, une consécration pour cette musicienne
 devenue l'une des voix les plus identifiables du jazz français contemporain.
 
-##### Un engagement pour la place des femmes dans le jazz
+###### Un engagement pour la place des femmes dans le jazz
 
 En 2024, elle crée "WIZZ", un projet de mentorat exclusivement féminin destiné à accompagner les femmes instrumentistes
 sur tous les aspects de leur carrière. Une initiative inédite en France, portée par la scène nationale Les Gémeaux et le

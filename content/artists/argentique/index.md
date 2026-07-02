@@ -10,7 +10,7 @@ Argentique est un trio d'électro-pop originaire de Lyon, composé de Philippine
 groupe développe un univers musical qui puise dans la pop électronique, le disco-funk et le trip-hop, tout en
 revendiquant l'influence des grands hits des années 2000.
 
-##### Un son entre grooves et mélancolie
+###### Un son entre grooves et mélancolie
 
 La musique d'Argentique se distingue par des arrangements soignés qui mêlent l'organique et l'électronique : des lignes
 de basse chaleureuses, des claviers texturés et la voix enveloppante de Philippine Boulet créent une atmosphère à la

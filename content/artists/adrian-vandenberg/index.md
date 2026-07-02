@@ -17,7 +17,7 @@ sérieux, Teaser, en 1978, puis fonde Vandenberg en 1981, groupe qui portera son
 connaître sur la scène rock européenne. Ces premières années formatrices forgent son identité musicale unique, mêlant
 virtuosité technique et sensibilité mélodique.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière d'Adrian Vandenberg explose véritablement avec la formation du groupe Vandenberg, qui rencontre un succès
 notable avec des albums comme "Vandenberg" (1982) et "Heading for a Storm" (1983). Son talent exceptionnel attire
@@ -26,7 +26,7 @@ carrière, participant à l'enregistrement de l'album légendaire "Slip of the T
 guitaristes les plus respectés de la scène hard rock internationale. Ses solos mémorables et sa présence scénique
 charismatique font de lui une figure incontournable du rock des années 80 et 90.
 
-##### Style et influences
+###### Style et influences
 
 Le style d'Adrian Vandenberg puise dans les racines du blues traditionnel, qu'il modernise avec une approche hard rock
 sophistiquée et mélodique. Influencé par des légendes comme Jimmy Page, Gary Moore et Ritchie Blackmore, il développe un
@@ -34,7 +34,7 @@ jeu guitaristique qui privilégie l'émotion sur la pure virtuosité technique. 
 solos expressifs, des bends expressifs et une capacité remarquable à créer des mélodies mémorables. Cette approche lui
 permet de transcender les genres, naviguant avec aisance entre hard rock, blues rock et metal mélodique.
 
-##### Actualité
+###### Actualité
 
 Adrian Vandenberg continue de créer et de tourner, maintenant vivante la flamme du rock classique à travers ses projets
 actuels. Il a reformé Vandenberg's MoonKings, projet qui lui permet d'explorer de nouveaux territoires créatifs tout en

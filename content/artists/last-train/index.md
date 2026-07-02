@@ -17,7 +17,7 @@ une énergie brute et une urgence scénique dévastatrice, ils se sont imposés 
 rock les plus excitants de la scène française — et bien au-delà. Dans un paysage hexagonal où le rock est régulièrement
 déclaré mort, Last Train fait figure de démenti cinglant, viscéral et jubilatoire.
 
-## Les origines
+###### Les origines
 
 L'histoire commence à Mulhouse, ville industrielle du Haut-Rhin que rien ne prédestinait particulièrement à enfanter un
 groupe de rock incandescent. Jean-Noël Scherrer (chant, guitare), Julien Peultier (guitare), Antoine Carré (basse) et
@@ -28,7 +28,7 @@ et le garage le plus sauvage.
 Le nom lui-même, *Last Train*, évoque l'idée du dernier wagon, du dernier souffle, de l'urgence de ceux qui n'ont plus
 rien à perdre. C'est précisément cette énergie du tout-ou-rien qui va devenir leur signature.
 
-## L'identité sonore
+###### L'identité sonore
 
 Last Train pratique un rock organique, puissant et sans artifice. Pas de synthétiseurs superflus, pas de production
 léchée jusqu'à l'aseptisation : ici, tout est amplis, cordes, peaux et sueur. Le son du groupe repose sur un équilibre
@@ -44,7 +44,7 @@ La voix de Jean-Noël Scherrer mérite une mention particulière. Rauque, tendue
 en elle une authenticité et une intensité émotionnelle qui transcendent la barrière de la langue — le groupe chante
 exclusivement en anglais, choix naturel pour un rock aussi viscéralement ancré dans la tradition anglo-saxonne.
 
-## La scène comme terrain de jeu
+###### La scène comme terrain de jeu
 
 Si Last Train a conquis son public, c'est d'abord et avant tout par la scène. C'est là que le groupe prend toute sa
 dimension, que l'énergie contenue dans les morceaux explose littéralement. Un concert de Last Train, c'est une
@@ -60,7 +60,7 @@ Cette réputation scénique leur a ouvert les portes des plus grands festivals f
 Belfort, Rock en Seine, le Hellfest, le Paléo Festival, les Vieilles Charrues, le Main Square Festival, Garorock, et
 bien d'autres. À chaque passage, le même constat : Last Train est un groupe de scène exceptionnel.
 
-## Le parcours et la reconnaissance
+###### Le parcours et la reconnaissance
 
 Le parcours de Last Train est celui d'un groupe qui a gravi les échelons à la force de ses concerts et de son
 authenticité. Partis de la scène locale alsacienne, ils se sont rapidement fait repérer par le circuit des festivals et
@@ -76,7 +76,7 @@ Last Train a également tourné hors de France, portant son énergie sur les sc�
 musique n'a rien de spécifiquement « français » — elle parle un langage universel, celui du rock joué avec conviction et
 sans filet de sécurité.
 
-## L'héritage et le positionnement
+###### L'héritage et le positionnement
 
 Dans le contexte français, Last Train occupe une place singulière. La France n'est pas historiquement un terreau fertile
 pour le rock — ou du moins, les groupes de rock français peinent souvent à s'affranchir de l'étiquette nationale pour
@@ -89,7 +89,7 @@ contente pas de recycler les recettes du blues-rock : ils les digèrent, les ré
 sensibilité, leur propre urgence. Le résultat est un son qui sonne à la fois familier et immédiatement identifiable — la
 marque des groupes qui ont trouvé leur voix propre.
 
-## Ce qui les rend essentiels
+###### Ce qui les rend essentiels
 
 Last Train, c'est la preuve vivante que le rock n'est pas mort, qu'il n'a pas besoin de béquilles conceptuelles ou de
 stratégies marketing pour toucher les gens. Il suffit de quatre musiciens habités, d'amplis poussés, d'une scène et d'un

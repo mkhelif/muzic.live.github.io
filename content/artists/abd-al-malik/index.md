@@ -11,7 +11,7 @@ années à Brazzaville, il grandit à Strasbourg dans le quartier du Neuhof, une
 ses convictions humanistes et son rapport à la langue française. Ce terreau — entre immigration, banlieue et
 aspiration à la beauté littéraire — est au cœur de tout son travail artistique.
 
-##### Un style inclassable entre rap, slam et jazz
+###### Un style inclassable entre rap, slam et jazz
 
 Ce qui distingue Abd al Malik des rappeurs de sa génération, c'est son refus de tout cloisonnement. Son premier
 album solo, Le Face à face des cœurs (2004), pose les jalons d'une démarche hybride. C'est avec Gibraltar (2006)
@@ -20,7 +20,7 @@ arrangements portés par Gérard Jouannest — pianiste de Jacques Brel — et M
 Brel. Ce compagnonnage symbolique avec l'héritage de Brel dit beaucoup d'un artiste qui revendique la grande
 chanson comme horizon esthétique autant que le rap comme vecteur d'émancipation.
 
-##### Une œuvre multiforme
+###### Une œuvre multiforme
 
 Dante (2008) et Château Rouge (2010) approfondissent la fusion de genres, avec des textes de plus en plus
 littéraires et une production de plus en plus ambitieuse. Au fil des albums, Abd al Malik développe également

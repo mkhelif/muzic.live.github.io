@@ -17,7 +17,7 @@ grâce au cinéma, découvrent qu'ils partagent une passion pour la musique, et 
 dépasse largement la somme de ce qu'ils étaient au départ. Ce n'est pas une histoire inédite. Mais c'est une belle
 histoire — et ce que Le Bleu en a fait mérite qu'on s'y attarde.
 
-## Deux amis, un banc de lycée, une passion commune
+###### Deux amis, un banc de lycée, une passion commune
 
 Le Bleu, c'est avant tout deux amis de lycée, Arthur et Hugo, qui se rencontrent en 2017 à Toulon, en section cinéma. Ce
 n'est pas la guitare ou la batterie qui les rapproche d'abord — c'est l'image, les films, la narration visuelle. Après
@@ -32,7 +32,7 @@ En août 2024, le groupe s'enrichit de deux nouveaux membres : Barny à la batte
 formation du duo originel en un quatuor à plein régime. Le Bleu n'est plus seulement une promesse à deux voix — c'est
 désormais un groupe de scène au sens plein du terme.
 
-## Un son entre deux rives
+###### Un son entre deux rives
 
 Le Bleu est un groupe de rock indépendant originaire de Toulon, inspiré par Fontaines D.C., Zed Yun Pavarotti ou Feu!
 Chatterton. Le groupe se distingue par un son mêlant poésie brute et puissance sonore, avec une énergie scénique unique,
@@ -48,7 +48,7 @@ bas de chez vous, c'est une prestation curieuse et spontanée qui vous est donn�
 qui aurait pu n'être qu'un catalogue d'emprunts — finit par former quelque chose de cohérent, une identité sonore
 reconnaissable.
 
-## De *Porte 11* aux premières grandes scènes
+###### De *Porte 11* aux premières grandes scènes
 
 Le duo sort en mai 2023 son tout premier EP *Porte 11*, composé de six titres mêlant influences rock et électro. Il
 mutualise simplement leurs affinités et leurs aptitudes. C'est de la musique spontanée, on s'est essayé à tout ce qui
@@ -69,7 +69,7 @@ Quelques mois plus tard, ils confirment leur ascension en montant sur la scène 
 Side Festival, en première partie de Brique Argent et Isaac Delusion. Le Bleu joue dans sa ville, devant ses gens, sur
 la plus grande scène de la région. C'est un moment de bascule.
 
-## Une reconnaissance institutionnelle qui s'accélère
+###### Une reconnaissance institutionnelle qui s'accélère
 
 En 2025, Le Bleu est lauréat du Quart2Tour — le tremplin régional qui sélectionne les artistes émergents de la zone
 PACA/Corse les plus prometteurs. Cette reconnaissance par les professionnels du secteur confirme ce que le public
@@ -83,7 +83,7 @@ vers la notoriété nationale.
 Le single *Pars sans moi*, leur sortie la plus récente, est désormais disponible sur toutes les plateformes — et annonce
 la suite d'un groupe qui a clairement décidé que la vitesse lui réussit.
 
-## Toulon, une ville qui produit
+###### Toulon, une ville qui produit
 
 Le Bleu n'est pas seul dans son aventure toulonnaise. La ville, souvent éclipsée par Marseille ou Nice dans les
 conversations sur la scène rock du Sud, produit depuis quelques années une génération de musiciens qui refusent la

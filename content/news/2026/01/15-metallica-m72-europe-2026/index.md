@@ -14,7 +14,7 @@ Le mastodonte ne s'arrête pas. Metallica annonce le retour de sa tournée M72 e
 de support qui fait rêver : Gojira, Pantera, Knocked Loose et Avatar. Trois ans après le lancement de cette tournée
 mondiale colossale, le groupe de James Hetfield et Lars Ulrich continue de dominer les stades du monde entier.
 
-#### Des chiffres vertigineux
+###### Des chiffres vertigineux
 
 La tournée M72, lancée en avril 2023 pour accompagner la sortie de *72 Seasons*, a déjà généré plus de 517 millions de
 dollars de recettes et attiré 4,23 millions de spectateurs sur 70 concerts. En 2024, le groupe a vendu 1,5 million de
@@ -27,7 +27,7 @@ dans chaque ville avec des setlists entièrement différentes — a été un suc
 ![Metallica M72 Europe 2026](tour.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
-#### Gojira en support : la consécration
+###### Gojira en support : la consécration
 
 Le choix de Gojira parmi les groupes supports confirme le statut du groupe français comme l'un des actes de metal les
 plus importants de la planète. Après leur Grammy Award et leur prestation aux Jeux Olympiques de Paris 2024, les frères
@@ -37,7 +37,7 @@ Pantera, la reformation du groupe texan légendaire avec Zakk Wylde à la guitar
 apportera sa brutalité groove metal au plateau. Knocked Loose et Avatar complètent une affiche éclectique qui couvre
 tout le spectre du metal moderne.
 
-#### Le M72 en quelques records
+###### Le M72 en quelques records
 
 Parmi les moments marquants : un concert record de 47 319 personnes au JMA Wireless Dome de Syracuse en avril 2025,
 battant un record vieux de 43 ans détenu par The Who, et une première au SoFi Stadium d'Inglewood devant près de 80 000

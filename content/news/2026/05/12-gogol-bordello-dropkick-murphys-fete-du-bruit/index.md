@@ -12,7 +12,7 @@ La **Fête du Bruit dans Landerneau** confirme deux noms qui font de la scène d
 incontournable de l'été 2026. **Gogol Bordello** et **Dropkick Murphys** seront tous deux au programme du dimanche
 9 août — deux groupes, deux histoires, mais un même rapport au concert comme acte collectif, viscéral et libérateur.
 
-#### Gogol Bordello : le chaos organisé de Eugene Hütz
+###### Gogol Bordello : le chaos organisé de Eugene Hütz
 
 Fondé à New York en 1999 par le chanteur ukrainien **Eugene Hütz**, Gogol Bordello est l'une des expériences live les
 plus déstabilisantes qui soit. Punk gypsy, cumbia, ska, musiques balkaniques, klezmer — le groupe ne respecte aucune
@@ -23,7 +23,7 @@ soudée qui les rend uniques.
 Leur passage à Landerneau, un dimanche soir d'août dans un jardin breton, a tout de l'improbable et du parfait. Gogol
 Bordello a ce don rare de faire danser n'importe quel endroit, n'importe quel public.
 
-#### Dropkick Murphys : 30 ans de punk celtique
+###### Dropkick Murphys : 30 ans de punk celtique
 
 Les Bostoniens des **Dropkick Murphys** fêtent en 2026 leurs trente ans d'existence — et ils n'ont visiblement aucune
 intention de ralentir. *Signed and Sealed in Blood* (2013), *11 Short Stories of Pain & Glory* (2017) et leur dernier

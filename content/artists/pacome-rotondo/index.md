@@ -19,7 +19,7 @@ guitare qui fait dire à la presse spécialisée qu'il se positionne déjà parm
 veines, parce qu'elle lui permet de dire des choses qu'aucun autre langage ne pourrait exprimer, et parce qu'il refuse —
 avec une détermination presque anachronique à son âge — de tricher avec le son, avec la scène, avec l'émotion.
 
-## Roanne, les vinyles du paternel et la guitare à dix ans
+###### Roanne, les vinyles du paternel et la guitare à dix ans
 
 L'histoire de Pacôme Rotondo commence à Roanne, dans la Loire, au début des années 2000. Pas de musiciens dans la
 famille, précise-t-il — et il y tient. Pas de « don » inné, pas de destin tracé d'avance. Juste un gamin qui tombe
@@ -32,14 +32,14 @@ Led Zeppelin, The Doors, Pink Floyd. Un panthéon des années 60 et 70 qui devie
 Pacôme le dit lui-même avec une lucidité désarmante : le don, ça n'existe pas en musique. C'est le travail, l'envie, les
 projets et le respect du groupe qui poussent à avancer. Cette philosophie, il la met en pratique dès l'adolescence.
 
-## The Black Spades : les premiers pas
+###### The Black Spades : les premiers pas
 
 En 2017, à peine quinze ans, Pacôme forme son premier trio, **The Black Spades**, qui navigue entre heavy metal et hard
 rock. Le groupe ne traîne pas : en 2018, il remporte le Tremplin Roanne Jeunes Talents, et dans la foulée enregistre un
 premier EP intitulé *Save Water... Drink Water*. Le gamin a du feu et l'envie de brûler les planches, mais il sait aussi
 qu'il lui faut une formation solide pour aller plus loin.
 
-## La Music Academy International de Nancy
+###### La Music Academy International de Nancy
 
 En septembre 2020, Pacôme quitte Roanne pour Nancy et intègre la **Music Academy International** (MAI), centre de
 formation professionnelle de référence dans les musiques actuelles, fondé en 1981 et partenaire du Berklee College of
@@ -52,7 +52,7 @@ De retour à Roanne, Pacôme a changé. Ou plutôt, il s'est trouvé. Fini le he
 blues-rock qu'il se tourne désormais, en power trio, sous son propre nom. Le format est celui de ses héros — Hendrix,
 Gallagher, Gary Moore — : guitare, basse, batterie, pas de filet.
 
-## *World of Confusion* (2023) : l'entrée par la grande porte
+###### *World of Confusion* (2023) : l'entrée par la grande porte
 
 En février 2022, le trio commence les sessions d'écriture. En mars 2023, direction le **studio Les Tontons Flingueurs**
 à Renaison, dans la Loire, où l'ingénieur du son Pascal Coquard les attend avec un arsenal de micros et de matériel
@@ -68,7 +68,7 @@ un Rory Gallagher », Blues Mag parle d'une « belle réussite qui lui permet d'
 du Rock Blues », Paris-Move évoque les cavalcades de Johnny Winter et de Gallagher. Le magazine Culturesco résume le
 sentiment général : Pacôme Rotondo serait anglais ou américain, on n'y verrait que du feu.
 
-## *Crimson Reverie* (2025) : la confirmation et l'ouverture
+###### *Crimson Reverie* (2025) : la confirmation et l'ouverture
 
 À l'automne 2024, le trio retourne aux Tontons Flingueurs pour enregistrer le deuxième album. Mais cette fois, la
 formation s'élargit : **Paul Gervreau** rejoint le groupe aux claviers, orgue et piano, ajoutant une dimension
@@ -91,7 +91,7 @@ psychédélique ». Music in Belgium prédit que l'album « trouvera une place d
 de guitares vintage ». Rockmeeting conclut que Pacôme se positionne désormais « parmi les meilleurs du genre dans
 l'Hexagone ».
 
-## Sur scène : possédé par les esprits de Hendrix et Gallagher
+###### Sur scène : possédé par les esprits de Hendrix et Gallagher
 
 En concert, Pacôme Rotondo est un animal de scène. Le trio (désormais quatuor avec l'ajout des claviers) joue avec une
 intensité qui ne faiblit pas, portée par la voix rauque et puissante du leader et par un jeu de guitare qui alterne
@@ -102,7 +102,7 @@ Depuis la sortie de *Crimson Reverie*, les dates s'enchaînent : Rock my Ferme F
 Blues Festival en Normandie, Paris Guitar Festival, et bientôt — confirmation éclatante — la Scène Quartier Libre de
 Guitare en Scène.
 
-## Un guitariste, quinze guitares et zéro concession
+###### Un guitariste, quinze guitares et zéro concession
 
 Pacôme possède une quinzaine d'instruments, chacun porteur d'une histoire et d'une couleur sonore : une Gibson
 acoustique des années 50, une Stratocaster pailletée, un dobro métallique, une Gibson Les Paul aux micros « zébra »
@@ -113,7 +113,7 @@ Et c'est peut-être là que réside le secret de Pacôme Rotondo : malgré une t
 il ne verse jamais dans l'esbroufe gratuite. Chaque solo sert le morceau, chaque riff porte une intention. La musique
 d'abord, l'ego ensuite. À 24 ans, c'est une maturité rare.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Pacôme Rotondo n'a pas 24 ans par hasard. Il a 24 ans et deux albums qui respirent la maturité de quelqu'un qui a passé
 sa vie à écouter, à travailler et à respecter une tradition musicale qu'il fait vivre avec une énergie qui n'appartient

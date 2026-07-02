@@ -23,7 +23,7 @@ soucieuse de préserver son intégrité créative.
 L'univers Mentissa s'épanouit dans cette diversité stylistique qui enrichit considérablement la scène française
 alternative.
 
-##### Parcours singulier
+###### Parcours singulier
 
 L'évolution artistique de Mentissa témoigne d'une recherche permanente qui refuse la facilité des formules éprouvées
 pour explorer continuellement de nouveaux territoires expressifs.
@@ -34,7 +34,7 @@ vocale qui la distingue immédiatement.
 Cette exigence créative établit sa réputation d'artiste authentique dans un milieu souvent dominé par les considérations
 commerciales.
 
-##### Richesse expressive multiple
+###### Richesse expressive multiple
 
 La musique de Mentissa fonctionne comme un kaléidoscope permanent, mêlant influences diverses dans des compositions
 d'une originalité constante qui surprennent et enchantent l'auditeur.
@@ -44,7 +44,7 @@ Son style vocal unique transcende les genres pour créer cette signature artisti
 Cette approche personnelle de la chanson française inspire d'autres artistes soucieux de développer leur propre langage
 musical.
 
-##### Indépendance créative
+###### Indépendance créative
 
 Mentissa incarne cette facette indépendante et créative de la scène française, prouvant qu'originalité et authenticité
 constituent les véritables fondements d'une carrière artistique durable.

@@ -22,7 +22,7 @@ au battement.
 Sur les deux premiers jours, la jauge n'a cessé de gonfler — 3 900 festivaliers le premier soir, 5 000 le deuxième — et
 cette dernière journée semble bien décidée à enfoncer le clou. La foule arrive, dense, jeune, prête.
 
-## Anaïs MVA
+###### Anaïs MVA
 
 {{< carousel pictures="pictures/anais-mva" alt="Anaïs MVA" author="mkhelif" >}}
 
@@ -32,14 +32,14 @@ et d'une batterie, elle empoigne par moments sa guitare et déroule des chansons
 et des tourments de l'adolescence. Cette sincérité à fleur de peau, cette pop introspective portée par une voix fragile,
 évoque une Adèle Castillon : on est moins dans le concert que dans la confidence, et la salle, conquise, retient son souffle.
 
-## Meryl
+###### Meryl
 
 Changement total d'atmosphère avec Meryl. La rappeuse martiniquaise impose son flow et son énergie, quitte à recourir
 au playback — un choix qui n'entame pas l'adhésion du public. Maligne, elle fait monter deux spectateurs sur scène pour
 reprendre le refrain avec elle, transformant le set en moment de communion et rappelant que, sur ce festival à taille
 humaine, la frontière entre la scène et la fosse est mince.
 
-## KeBlack
+###### KeBlack
 
 {{< carousel pictures="pictures/keblack" alt="KeBlack" author="mkhelif" >}}
 
@@ -49,7 +49,7 @@ par un vrai groupe — basse, guitare, batterie, piano — doublé d'un DJ, il a
 le meilleur pour la fin et enchaîne ses plus grands tubes, jusqu'à « Melrose Place », son duo avec Guy2Bezbar, qui fait
 chavirer la fosse. Set efficace, redoutablement carré, pensé pour la fête.
 
-## The Avener
+###### The Avener
 
 {{< carousel pictures="pictures/the-avener" alt="The Avener" author="mkhelif" >}}
 

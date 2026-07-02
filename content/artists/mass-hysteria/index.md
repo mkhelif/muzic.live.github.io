@@ -21,7 +21,7 @@ qui définiront l'avenir du genre.
 
 L'énergie Mass Hysteria catalyse toute cette effervescence créative qui caractérise cette décennie charnière.
 
-##### Domination scénique
+###### Domination scénique
 
 Le règne de Mass Hysteria s'étend sur plus de vingt ans de metal français, période durant laquelle ils s'imposent comme
 référence absolue du genre heavy hexagonal.
@@ -32,7 +32,7 @@ recherche sonore qui fait leur singularité.
 Les compositions révèlent une banda capable de conjuguer accessibilité mélodique et radicalité sonore, équilibre rare
 qui explique leur succès durable auprès du public français.
 
-##### Puissance sonore et innovation
+###### Puissance sonore et innovation
 
 L'arsenal musical de Mass Hysteria repose sur cette capacité unique à créer des hymnes metal qui marquent instantanément
 l'auditeur.
@@ -43,7 +43,7 @@ musiciens accomplis au service d'une vision collective cohérente.
 Cette approche du heavy metal influence profondément la scène française, établissant de nouveaux standards de qualité et
 d'efficacité.
 
-##### Règne continu
+###### Règne continu
 
 Mass Hysteria continue de dominer la scène metal française, incarnant cette excellence hexagonale qui rivalise avec les
 meilleures productions internationales.

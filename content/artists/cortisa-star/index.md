@@ -12,7 +12,7 @@ Elle commence à enregistrer de la musique fin 2022, peu après avoir quitté l'
 année, elle publie une vidéo se présentant, par plaisanterie, comme une "princesse du rap underground" alors qu'elle
 n'avait encore jamais rappé, et se met rapidement à sortir de vrais morceaux face au soutien reçu.
 
-##### Une percée virale
+###### Une percée virale
 
 Ses singles "Cortisa Crump" et "Fun" paraissent tous deux en février 2024, ce dernier devenant viral sur TikTok le même
 mois. "Fun" reste son titre le plus connu, cumulant plus de deux millions d'écoutes sur Spotify après avoir enflammé

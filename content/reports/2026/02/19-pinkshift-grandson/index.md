@@ -17,7 +17,7 @@ todo:
 Il y a des soirs où l'on vient chercher autre chose qu'un simple concert. Quelque chose de plus viscéral, de plus
 nécessaire. Ce soir-là, grandson avait promis la libération. Il a tenu parole.
 
-## Pinkshift – L'énergie brute de Baltimore
+###### Pinkshift – L'énergie brute de Baltimore
 
 Pour leur toute première date en Suisse, les membres de Pinkshift n'avaient visiblement pas l'intention de faire dans la
 retenue. Dès les premières mesures, le trio de Baltimore a imposé son énergie avec une assurance qui force le respect :
@@ -29,7 +29,7 @@ punk-pop-grunge qui fait leur signature. Le groupe sait captiver une salle, et c
 d'orgue de leur set : un *girls only moshpit* lancé depuis la scène, moment de communion joyeuse et combative qui a
 donné le ton de la soirée.
 
-## grandson – La catharsis en marche
+###### grandson – La catharsis en marche
 
 Puis grandson est rentré en scène. Et dès les premières secondes, l'évidence s'est imposée : on assistait à quelque
 chose de grand.

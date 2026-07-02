@@ -9,7 +9,7 @@ Ayọ — de son vrai nom Joy Olasunmibo Ogunmakin — est une chanteuse, compos
 germano-nigériane née le 14 septembre 1980 à Frechen, près de Cologne. Son nom de scène est la traduction yoruba de
 son prénom, Joy, soit « bonheur » dans la langue de ses origines paternelles.
 
-##### Des racines mêlées, une voix singulière
+###### Des racines mêlées, une voix singulière
 
 Élevée dans une famille aux influences diverses, Ayọ grandit au son des vinyles de son père : Pink Floyd, Fela Kuti,
 Donny Hathaway, Jimmy Cliff, Bob Marley. Dès l'âge de six ans, elle commence le violon, puis le piano, avant de
@@ -20,7 +20,7 @@ Son style mêle folk acoustique, reggae, soul et pop rétro dans un ensemble cha
 humain. Sa voix, à la fois douce et pénétrante, porte une émotion brute que le public français a particulièrement su
 reconnaître.
 
-##### Une carrière portée par la France
+###### Une carrière portée par la France
 
 C'est en France qu'Ayọ connaît ses plus grands succès. Son premier album Joyful, sorti en 2006, atteint le double
 platine en France, le platine en Allemagne et en Pologne, et l'or en Suisse, en Italie et en Grèce. Le titre Down on
@@ -31,7 +31,7 @@ Son deuxième album, Gravity at Last (2008), se hisse directement à la premièr
 la même année. Ayọ continue d'explorer de nouveaux territoires musicaux avec Billie-Eve — enregistré à New York avec
 Craig Ross (guitariste de Lenny Kravitz), Saul Williams et Matthieu Chedid — puis Ticket to the World (2013).
 
-##### Un héritage durable
+###### Un héritage durable
 
 Artiste discrète mais constante, Ayọ incarne une certaine idée de l'authenticité musicale : des chansons simples dans
 leur forme, mais riches en émotion. Ses textes, souvent teintés de mélancolie douce et d'espoir, continuent de toucher

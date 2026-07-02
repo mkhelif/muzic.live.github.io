@@ -10,7 +10,7 @@ bassiste Bernard Edwards. Derrière une apparence glamour et festive, le duo a r
 y introduisant une rigueur musicale héritée du jazz et une élégance formelle sans équivalent dans le genre,
 faisant de chaque production un modèle d'architecture sonore aussi bien qu'une invitation irrésistible à la danse.
 
-##### La naissance d'un empire disco
+###### La naissance d'un empire disco
 
 Nile Rodgers et Bernard Edwards sont tous deux musiciens de session chevronnés lorsqu'ils décident de créer leur
 propre groupe au milieu des années 1970. L'idée est simple en apparence : allier l'énergie des clubs new-yorkais
@@ -23,7 +23,7 @@ samplé par Grandmaster Flash pour « The Adventures of Grandmaster Flash on the
 pour « Another One Bites the Dust », impose CHIC comme l'une des formations les plus influentes de son époque, bien
 au-delà du seul disco.
 
-##### Producteurs d'une génération
+###### Producteurs d'une génération
 
 Rodgers et Edwards ne se contentent pas de leur propre succès : ils deviennent les producteurs les plus recherchés
 des années 1980, transformant en or tout ce qu'ils touchent. Nile Rodgers signe notamment Like a Virgin de Madonna
@@ -35,7 +35,7 @@ CHIC se sépare en 1983, alors que la vague disco reflue, avant de se reformer e
 Edwards décède brutalement d'une pneumonie à Tokyo, au lendemain d'un concert. Sa mort prive le groupe de l'un de
 ses piliers fondamentaux et de l'un des plus grands bassistes de l'histoire de la musique populaire.
 
-##### Nile Rodgers & CHIC : la perpétuation d'une légende
+###### Nile Rodgers & CHIC : la perpétuation d'une légende
 
 Nile Rodgers perpétue le nom et l'esprit de CHIC, continuant de tourner et d'enregistrer sous la bannière Nile
 Rodgers & CHIC. Intronisé au Rock and Roll Hall of Fame en 2017 avec CHIC, il demeure l'un des guitaristes et

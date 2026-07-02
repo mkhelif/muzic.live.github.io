@@ -19,7 +19,7 @@ sincérité des grands maîtres du genre tout en y apportant sa propre sensibili
 Il développe rapidement un style personnel qui mélange blues traditionnel et influences rock, créant un son à la fois
 respectueux de l'héritage et résolument contemporain.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière de Crazy Jesse se construit autour de sa capacité exceptionnelle à transmettre l'émotion blues à travers sa
 voix expressive et son jeu de guitare authentique.
@@ -30,7 +30,7 @@ au blues électrique moderne.
 Ses performances révèlent un musicien complet qui maîtrise parfaitement les subtilités du genre et sait créer une
 communion particulière avec son public à travers l'émotion brute de sa musique.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Crazy Jesse puise dans les différentes traditions du blues américain, du Mississippi Delta blues au Chicago
 blues électrique, créant un son authentique qui respecte l'héritage tout en conservant une personnalité propre.
@@ -40,7 +40,7 @@ Il excelle dans l'art de faire ressentir l'émotion blues, mêlant technique ins
 Ses influences révèlent une connaissance encyclopédique du genre et une capacité remarquable à s'approprier les
 différents styles blues.
 
-##### Actualité
+###### Actualité
 
 Crazy Jesse continue de porter la flamme du blues en France, représentant cette tradition musicale avec respect et
 passion.

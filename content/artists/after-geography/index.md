@@ -15,7 +15,7 @@ moments les plus intenses à une délicatesse folk dans ses instants les plus in
 production lumineuse et directe. On pense à Britpop sans que la comparaison soit jamais servile : After Geography a son
 propre regard, sa propre façon d'aborder la chanson.
 
-##### Un groupe de scène
+###### Un groupe de scène
 
 Après Geography s'est d'abord construit sur scène, défendant son répertoire dans les clubs et les salles de concert
 françaises avant d'élargir progressivement son audience. Leur présence sur des scènes comme le Périscope de Lyon ou la

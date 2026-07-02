@@ -13,7 +13,7 @@ multipliée par cent le temps d'un week-end. Le **Foreztival** y est devenu, en 
 rendez-vous incontournables de la région Auvergne-Rhône-Alpes : un festival associatif, éclectique et engagé, qui fait
 cohabiter têtes d'affiche nationales et découvertes sur fond de convivialité rurale.
 
-## Un festival né de la campagne forézienne
+###### Un festival né de la campagne forézienne
 
 Porté par une association de bénévoles profondément ancrée dans son territoire, le Foreztival cultive depuis ses débuts
 un modèle indépendant et à taille humaine. Loin des grandes métropoles, il a fait de son implantation villageoise une
@@ -21,14 +21,14 @@ force : un site à ciel ouvert entre monts et plaine, deux campings à quelques 
 reposant sur des centaines de bénévoles qui font vivre chaque édition. Cet ADN associatif s'accompagne d'un engagement
 affirmé en matière d'éco-responsabilité, de prévention et d'inclusivité.
 
-## Une programmation éclectique, entre rap, reggae et électro
+###### Une programmation éclectique, entre rap, reggae et électro
 
 D'année en année, le Foreztival déploie une affiche volontairement transversale, où le rap français côtoie le reggae,
 la chanson, l'électro et les musiques du monde. Réparties sur plusieurs scènes — la **Scène Monts** et la **Scène
 Plaine** en tête —, les programmations mêlent artistes confirmés, révélations et talents régionaux, dans un esprit de
 découverte qui a forgé la réputation du festival auprès d'un public fidèle et curieux.
 
-## L'édition 2026 : le cap des 20 ans
+###### L'édition 2026 : le cap des 20 ans
 
 Les **31 juillet, 1er et 2 août 2026**, le Foreztival fête sa **20e édition**. Une affiche anniversaire à la hauteur de
 l'événement, avec en têtes d'affiche **Josman** le vendredi, **Disiz** et **Alpha Blondy** le samedi, et un grand soir

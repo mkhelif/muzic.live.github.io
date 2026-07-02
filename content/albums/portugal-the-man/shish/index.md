@@ -29,7 +29,7 @@ ne plus chercher à plaire à personne. Le titre représente "la survie, la conn
 moments de danger et d'absurdité — motos cross, fumeurs, coups de feu et jeux vidéo. La phrase répétée 'we can be
 family' pousse contre l'isolement, cherchant quelque chose de solide." On ne pouvait pas être plus loin de la pop arena.
 
-## Une production en chambre, un son de cathédrale
+###### Une production en chambre, un son de cathédrale
 
 Plutôt que de s'entourer d'une armée de musiciens ou de faire appel à l'un des super-producteurs de ses albums
 précédents — comme Danger Mouse —, Gourley s'est barricadé dans son nouveau studio maison avec le jeune Kane Ritchotte.
@@ -42,7 +42,7 @@ d'une révélation qui n'ont pas besoin d'un grand effectif pour se manifester. 
 avec une liberté nouvelle — et lorsque ce n'est pas lui à la six-cordes, c'est Nick Reinhart qui assure des solos à
 couper le souffle.
 
-## Une géographie sonore
+###### Une géographie sonore
 
 L'album s'ouvre sur *Denali* — le nom amérindien du plus haut sommet des États-Unis, en Alaska. Le morceau se déroule
 comme un souffle glacé sur une vaste toundra sonore, chaque note dérivant comme un flocon de neige en révolte lente, la
@@ -67,7 +67,7 @@ Mercer des Shins figure aux crédits d'écriture, ce qui explique les quelques t
 L'album se referme sur *Father Gun*, qui rassemble tous les tics et particularités du groupe — peut-être même l'évier de
 cuisine — pour clore l'album avec une brillance chaotique.
 
-## Le groupe qui avait failli se perdre
+###### Le groupe qui avait failli se perdre
 
 Portugal. The Man a connu une traversée du désert. Après *Feel It Still*, le groupe semblait coincé entre une identité
 d'artistes alternatifs et la pression d'un succès mainstream inattendu. *SHISH* semble évoque le permafrost teutonique,
@@ -78,7 +78,7 @@ Ces dix chansons localisent exactement où Gourley se trouve en ce moment, et tr
 audacieuses d'indie rock artistique et osé. Il y a une franchise, presque une rudesse, dans la façon dont cet album
 existe : indépendant, enregistré à la maison, sans filet, sans major pour le lisser.
 
-## Verdict
+###### Verdict
 
 *SHISH* ne ressemble à rien d'autre dans la discographie de Portugal. The Man — et c'est précisément son mérite. C'est
 un album de contrastes tranchants, d'Alaska et de distorsion, de politique et de nostalgie, de punk et de folk

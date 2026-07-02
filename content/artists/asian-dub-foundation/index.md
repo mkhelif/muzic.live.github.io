@@ -22,7 +22,7 @@ rapidement un style unique qui mélange dub, jungle, breakbeat et influences asi
 Leurs débuts révèlent une formation radicalement innovante qui refuse les catégorisations traditionnelles et crée un son
 révolutionnaire.
 
-#### Carrière musicale
+###### Carrière musicale
 
 Asian Dub Foundation se fait connaître grâce à des albums comme "Facts and Fictions" et "R.A.F.I.", qui marquent
 durablement la scène électronique alternative britannique et internationale.
@@ -33,7 +33,7 @@ leur son tout en conservant leur identité militante.
 Leurs compositions mêlent efficacité dancefloor et messages politiques forts, créant une musique qui fait danser tout en
 faisant réfléchir.
 
-#### Style et influences
+###### Style et influences
 
 Le style d'Asian Dub Foundation combine dub jamaïcain, jungle britannique, breakbeat et influences musicales asiatiques,
 créant un son multiculturel unique qui reflète la diversité de la société britannique contemporaine.
@@ -44,7 +44,7 @@ samples percutants.
 Leurs textes abordent des thèmes politiques et sociaux avec une radicalité assumée, faisant du groupe un porte-voix des
 communautés marginalisées.
 
-#### Actualité
+###### Actualité
 
 Asian Dub Foundation continue de représenter cette facette engagée et multiculturelle de la musique électronique
 britannique, maintenant leur capacité d'innovation et leur engagement politique.

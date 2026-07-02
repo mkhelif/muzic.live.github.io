@@ -27,7 +27,7 @@ casquette iconique qu'il ne quitte jamais : Gregory Porter est un phénomène qu
 bien le public jazz que les amateurs de soul et de gospel, et remplit des salles de concert du monde entier avec la
 tranquille assurance de ceux qui savent que leur voix suffit.
 
-## Bakersfield, le gospel et Nat King Cole
+###### Bakersfield, le gospel et Nat King Cole
 
 Gregory Porter naît le 12 novembre 1971 à Sacramento, en Californie, et grandit à **Bakersfield** — cette ville du sud
 de la Central Valley où la poussière se mêle à la musique, entre country, gospel sudiste et rhythm and blues. Sa mère
@@ -40,7 +40,7 @@ la cuisine et la musique occupent le même espace central.
 Quand sa mère rentre du travail et l'écoute, elle s'exclame : « On dirait Nat King Cole ! » Le destin est en marche,
 même si personne ne le sait encore.
 
-## Du football au jazz : le virage de San Diego
+###### Du football au jazz : le virage de San Diego
 
 Le chemin de Porter vers la musique n'est pas direct. Athlète doué, il décroche une **bourse sportive** pour la **San
 Diego State University**, où il joue au football américain. Mais une blessure à l'épaule met fin à ses ambitions
@@ -54,7 +54,7 @@ cuisinier. Puis les petites salles de Brooklyn et Harlem — Sistah's Place, Sol
 connaître dans le milieu jazz local. Parallèlement, il intègre la distribution originale de la comédie musicale de
 Broadway **It Ain't Nothin' But the Blues**, ce qui lui offre une première visibilité scénique nationale.
 
-## *Water*, *Be Good* et les premières nominations aux Grammy
+###### *Water*, *Be Good* et les premières nominations aux Grammy
 
 En 2010, Porter sort son premier album, **Water**, sur le label Motéma Music. L'album est nommé au Grammy du **Best Jazz
 Vocal Album** — une reconnaissance immédiate qui confirme ce que les habitués des clubs new-yorkais savent déjà : cette
@@ -62,7 +62,7 @@ voix est exceptionnelle. En 2012, **Be Good** poursuit la lancée avec une deuxi
 pour **Best Traditional R&B Performance** pour le titre éponyme. La critique est unanime. NPR le désigne comme le futur
 grand chanteur de jazz américain.
 
-## *Liquid Spirit* (2013) : le phénomène mondial
+###### *Liquid Spirit* (2013) : le phénomène mondial
 
 Tout change en 2013. Porter signe chez **Blue Note Records** — le label légendaire de Miles Davis, John Coltrane,
 Thelonious Monk — et sort **Liquid Spirit**, produit par Brian Bacchus. L'album est un séisme : il se vend à **plus d'un
@@ -76,14 +76,14 @@ chez Porter, c'est cette capacité à être à la fois profondément ancré dans
 Hathaway, Bill Withers, Ray Charles — et radicalement contemporain dans sa façon de toucher un public qui ne se définit
 pas comme « amateur de jazz ».
 
-## *Take Me to the Alley* et le deuxième Grammy
+###### *Take Me to the Alley* et le deuxième Grammy
 
 En 2016, **Take Me to the Alley** enfonce le clou. L'album remporte le **deuxième Grammy Award** de Porter dans la
 catégorie Best Vocal Jazz Album et le consacre définitivement comme la voix jazz la plus soul de sa génération. Les
 critiques, les ventes, les salles sold out à travers le monde — tout confirme que Porter n'est pas un phénomène passager
 mais un artiste majeur, installé dans la durée.
 
-## Nat King Cole, *All Rise* et *Still Rising*
+###### Nat King Cole, *All Rise* et *Still Rising*
 
 En 2017, Porter rend hommage à l'homme qui a tout déclenché avec **Nat King Cole & Me** — un album de reprises
 profondément personnel, enregistré avec orchestre, qui atteint la première place du Billboard Jazz Chart et reçoit une
@@ -95,7 +95,7 @@ porte un message d'élévation collective. En 2021, **Still Rising** compile nou
 sélection de ses morceaux les plus aimés. En 2023, **Christmas Wish** — septième album studio — explore le répertoire de
 Noël avec la chaleur qu'on lui connaît.
 
-## La casquette, la cuisine et le podcast
+###### La casquette, la cuisine et le podcast
 
 On ne peut pas parler de Gregory Porter sans parler de **la casquette**. Ce couvre-chef iconique — une sorte de
 casquette deerstalker qui lui couvre les oreilles et les joues — est devenu sa signature visuelle, au point d'être
@@ -108,20 +108,20 @@ communauté locale, ses expériences de tournée à travers le monde et les trad
 mère qui nourrissait huit enfants avec amour et inventivité. En 2025, il a participé à la sixième saison de **The Masked
 Singer UK** sous le nom de « Dressed Crab », terminant deuxième.
 
-## 2025-2026 : le Edison Award et les tournées
+###### 2025-2026 : le Edison Award et les tournées
 
 En 2025, Gregory Porter reçoit le **Edison Jazz Lifetime Achievement Award** — une distinction qui consacre l'ensemble
 de sa carrière. Sa tournée **Love Is King Tour** traverse les États-Unis depuis décembre 2025 et se prolonge en 2026.
 L'été 2026 le ramènera en Europe et dans les festivals internationaux, notamment à **Guitare en Scène** à
 Saint-Julien-en-Genevois les 14-17 juillet 2026.
 
-## Récompenses principales
+###### Récompenses principales
 
 **2 Grammy Awards** (Best Jazz Vocal Album 2014, Best Vocal Jazz Album 2017) · **7 nominations Grammy** au total · *
 *Edison Jazz Lifetime Achievement Award** (2025) · #1 Billboard Jazz Chart (*Nat King Cole & Me*) · Plus d'un million
 d'albums vendus (*Liquid Spirit*)
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Gregory Porter est la preuve vivante que le jazz vocal n'a pas dit son dernier mot. Dans un paysage musical dominé par
 l'éphémère et l'algorithmique, il a construit une carrière monumentale sur les fondations les plus anciennes qui

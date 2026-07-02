@@ -23,7 +23,7 @@ avant d'apprendre seule la guitare, puis d'explorer d'autres instruments comme l
 C'est pendant ses années de classe préparatoire qu'une évidence s'impose : la musique n'est pas seulement une pratique,
 c'est une vocation totale.
 
-## Un nom de scène, une quête de soi
+###### Un nom de scène, une quête de soi
 
 Le pseudonyme « Vernis Rouge » n'est pas un hasard de plume. Petite sœur de deux grands frères, Manon a grandi dans un
 univers où la bagarre avait plus de place que les poupées, et où la féminité restait un territoire inexploré, presque
@@ -32,7 +32,7 @@ convenue. Le vernis rouge, clin d'œil à ses ongles toujours soigneusement laqu
 d'elle-même, une forme de cosmétique musicale autant qu'intime. Une féminité « toute relative », affirmée sans tapage,
 construite patiemment, loin des stéréotypes.
 
-## L'univers musical : entre chanson française et pop contemporaine
+###### L'univers musical : entre chanson française et pop contemporaine
 
 Vernis Rouge s'inscrit pleinement dans la nouvelle vague de la pop française — celle de Clara Luciani, Pomme, Angèle,
 Zaho de Sagazan — tout en portant l'héritage des grandes voix qui l'ont précédée. Son timbre, chaleureux et vibrant,
@@ -47,7 +47,7 @@ largement les canons d'un tube radio classique. En 2023, elle sort deux EP, *Fem
 concerts dans deux salles parisiennes emblématiques, le Café de la Danse et la Boule Noire — preuve d'une trajectoire
 déjà bien construite, loin des raccourcis médiatiques.
 
-## The Voice et la bascule virale
+###### The Voice et la bascule virale
 
 Au printemps 2024, tout bascule. C'est Bruno Berbères, directeur de casting de The Voice, qui la repère lors d'un
 casting pour les musiciens du métro et l'invite à participer à l'émission. Vernis Rouge accepte, non sans ambivalence :
@@ -64,7 +64,7 @@ Vernis Rouge vit cette exposition soudaine avec un sourire amusé mais une dista
 que j'aurais fait de ma propre initiative », confie-t-elle. Son projet artistique était déjà sur la bonne voie. The
 Voice n'est pas pour elle une fin en soi, mais une fenêtre — et elle choisit soigneusement ce qu'elle y montre.
 
-## Reconnaissance et ancrage libanais
+###### Reconnaissance et ancrage libanais
 
 Le succès de The Voice offre à Vernis Rouge quelque chose qu'elle chérit profondément : la possibilité de reconnecter
 avec le Liban. En août 2024, elle se produit aux Jardins du Mzaar à Kfardebian, dans le cadre du Mzaar Summer Festival —
@@ -76,7 +76,7 @@ Signée depuis chez Sony Music France, elle travaille actuellement à la sortie 
 confirmer ce que ses EPs avaient déjà laissé entrevoir : une artiste complète, exigeante, capable d'incarner à la fois
 l'héritage de la chanson française et les aspirations d'une génération qui cherche dans les mots une forme de vérité.
 
-## Une artiste pour aujourd'hui et pour demain
+###### Une artiste pour aujourd'hui et pour demain
 
 Ce qui distingue Vernis Rouge dans le paysage musical contemporain, c'est peut-être cette combinaison rare entre l'
 audace formelle et la profondeur des racines. Elle peut reprendre Aya Nakamura ou Jul avec autant d'aisance qu'elle

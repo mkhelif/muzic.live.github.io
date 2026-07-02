@@ -21,7 +21,7 @@ Carnal, huitième album studio sorti le 28 juin 2024 via Better Noise Records. Q
 hard rock alternatif musclé enrichi de philosophie introspective et d'hymnes massifs assumés. Et cette fois, tout
 s'aligne magistralement.
 
-#### L'aboutissement d'une longue marche
+###### L'aboutissement d'une longue marche
 
 L'histoire de Nothing More incarne la persévérance. Formés en 2003, ils ont passé la majeure partie des années 2000 à
 enregistrer des albums indépendants et à lutter pour se maintenir à flot. En 2009, sur leur troisième album, le batteur
@@ -34,7 +34,7 @@ existentielles. Cette fois, le groupe plonge dans les aspects plus sombres et pr
 titre sans ambiguïté. Et contrairement à son prédécesseur, Carnal trouve l'équilibre parfait entre introspection
 philosophique et puissance sonore brute.
 
-#### Les interludes d'Alan Watts : un fil narratif essentiel
+###### Les interludes d'Alan Watts : un fil narratif essentiel
 
 Quinze morceaux dont cinq interludes - "Carnal", "Head", "Heart", "Sight" et "Sound" - où résonne la voix du philosophe
 britannique Alan Watts, motif récurrent chez Nothing More. Ces moments de réflexion sur la vie, la conscience et
@@ -45,7 +45,7 @@ Nothing More a toujours fusionné la profondeur philosophique avec le hard rock 
 atteint sa forme la plus aboutie. Les méditations de Watts sur la nature animale de l'humanité, nos instincts
 primordiaux et notre place dans l'univers résonnent parfaitement avec la rage contrôlée des morceaux qui les entourent.
 
-#### Une déflagration sonore maîtrisée
+###### Une déflagration sonore maîtrisée
 
 "HOUSE DIVIDED" ouvre l'album comme un uppercut : riffs massifs, batterie tonnante de Ben Anderson, basse rugissante de
 Daniel Oliver, et la voix de Hawkins qui oscille entre mélodie accrocheuse et hurlement primal. Le guitariste Mark
@@ -61,7 +61,7 @@ déchirante, passant de murmures fragiles à des cris désespérés. Les paroles
 humanité - thématique centrale de Carnal. La section intermédiaire explose en un chaos contrôlé avant de retomber dans
 une résolution mélancolique.
 
-#### La dualité comme force créatrice
+###### La dualité comme force créatrice
 
 "TURN IT UP LIKE (Stand In The Fire)" incarne l'énergie pure. Riff d'introduction instantanément mémorable, beat
 implacable, refrain fait pour être hurlé en concert. Nothing More excelle dans ces morceaux qui marchent sur la ligne
@@ -76,7 +76,7 @@ patterns résonnent universellement, tandis que la musique crée cette claustrop
 dans le refrain. Anderson derrière les fûts livre une performance particulièrement impressionnante, alternant entre
 grooves lourds et fills complexes.
 
-#### Les expérimentations payantes
+###### Les expérimentations payantes
 
 "BREAK THE CYCLE" pousse l'expérimentation plus loin. Éléments électroniques, samples industriels, structure
 non-conventionnelle - Nothing More prouve qu'ils peuvent sortir de leur zone de confort sans perdre leur identité. Le
@@ -90,7 +90,7 @@ accrocheuses, profondeur lyrique, production impeccable. C'est Nothing More dist
 solo de Vollelunga est particulièrement mémorable, alliant technique et émotion sans tomber dans la masturbation
 instrumentale.
 
-#### Une production au service de la vision
+###### Une production au service de la vision
 
 Will Putney a capturé Nothing More dans toute leur puissance. Chaque instrument respire, la voix de Hawkins occupe
 l'espace parfait, les moments lourds écrasent sans devenir boueux, les passages délicats conservent leur intimité. Le
@@ -99,7 +99,7 @@ mastering permet à l'album d'exploser dans les enceintes sans fatigue auditive.
 Les arrangements révèlent de nouveaux détails à chaque écoute. Des couches de guitares subtiles, des effets
 électroniques discrets, des harmonies vocales cachées - Carnal récompense l'attention et la redécouverte répétée.
 
-#### La thématique qui unit
+###### La thématique qui unit
 
 Carnal explore notre nature animale, nos instincts primaires, cette part de nous qui reste sauvage malgré la
 civilisation. Hawkins et son groupe n'offrent pas de réponses faciles - ils posent des questions dérangeantes sur ce que
@@ -109,7 +109,7 @@ Cette honnêteté brutale distingue Nothing More de tant de groupes de rock alte
 message pour plaire. Carnal ne cherche pas à plaire - il cherche à être vrai. Et cette authenticité résonne
 puissamment.
 
-#### Verdict : Un album essentiel du rock moderne
+###### Verdict : Un album essentiel du rock moderne
 
 Carnal représente Nothing More à leur apogée créative. Vingt ans de persévérance, d'expérimentations, de succès et
 d'échecs ont mené à cet album qui capture parfaitement l'essence du groupe tout en repoussant leurs limites.

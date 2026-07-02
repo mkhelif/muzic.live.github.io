@@ -24,7 +24,7 @@ salles sold out aux États-Unis et en Europe avant même d'avoir sorti un premie
 et deux dates sold out à l'Aviva Stadium de Dublin cet été, Dermot Kennedy est devenu l'une des voix les plus puissantes
 et les plus authentiques de sa génération. Et il chante toujours comme s'il était seul dans la forêt derrière chez lui.
 
-## Rathcoole, la guitare à 10 ans et les open mics
+###### Rathcoole, la guitare à 10 ans et les open mics
 
 Dermot Joseph Kennedy naît le 13 décembre 1991 à Rathcoole, dans le comté de Dublin. Son enfance est celle d'un gamin
 irlandais ordinaire, passionné de football, qui découvre la guitare à 10 ans et commence à écrire des chansons à 14. Il
@@ -37,7 +37,7 @@ passera trois ans.
 Sa tante paternelle est **Mary Kennedy**, présentatrice emblématique de la télévision irlandaise sur RTÉ. Mais la
 célébrité familiale n'a rien à voir avec son parcours : Dermot Kennedy a tout construit depuis la rue — littéralement.
 
-## Le busking : dix ans de trottoirs avant les stades
+###### Le busking : dix ans de trottoirs avant les stades
 
 À 17 ans, Kennedy commence à **busker** — jouer dans la rue, guitare ouverte, en espérant que les passants s'arrêtent.
 Il ne s'arrêtera plus pendant une décennie. Dublin d'abord, puis Boston, New York, et d'autres villes où il pose sa
@@ -50,7 +50,7 @@ de Declan O'Rourke et Damien Dempsey, lui offrant une exposition cruciale. Kenne
 **Damien Rice**, **David Gray**, **Glen Hansard**, **Ray LaMontagne** et surtout **Bon Iver** (Justin Vernon), qu'il
 considère comme sa plus grande inspiration.
 
-## Spotify, Taylor Swift et l'explosion sans album
+###### Spotify, Taylor Swift et l'explosion sans album
 
 En 2015, Kennedy met en ligne sur Spotify une chanson intitulée *An Evening I Will Not Forget*. Il sent qu'il « touche
 enfin les gens ». La machine se met en marche. Les EP s'enchaînent — **Doves & Ravens** (2017), puis **Mike Dean
@@ -64,7 +64,7 @@ moindre album. En mars 2018, le *New York Times* le repère au festival **South 
 désigne comme l'un des artistes les plus marquants du festival : sa voix est décrite comme « granuleuse et mélancolique,
 capable de monter dans un râle hurlant ». **GQ** le compare à un Ed Sheeran « en plus sombre, plus mélancolique ».
 
-## *Without Fear* (2019) : le premier album, numéro un
+###### *Without Fear* (2019) : le premier album, numéro un
 
 Le 4 octobre 2019, après des années de maturation, sort enfin **Without Fear** — un album qui contient des chansons
 écrites jusqu'à huit ans plus tôt. Vingt titres dans l'édition augmentée. Les singles *Power Over Me*, *Outnumbered*,
@@ -80,7 +80,7 @@ En 2021, Kennedy enregistre une reprise de *Nothing Else Matters* de Metallica p
 Blacklist**, et contribue à **Songs for Australia** (organisé par Julia Stone) avec une reprise de *Resolution* de Matt
 Corby.
 
-## *Sonder* (2022) : l'ouverture et le doute
+###### *Sonder* (2022) : l'ouverture et le doute
 
 Le 18 novembre 2022, **Sonder** sort — un deuxième album plus pop, plus lumineux, avec des titres comme *Kiss Me* et
 *Better Days* (RTÉ Choice Music Prize 2022) qui divisent une partie des fans nostalgiques du folk brut des débuts.
@@ -91,7 +91,7 @@ Mais le doute s'installe. Sur la route, Kennedy s'interroge sur le sens de ce qu
 le public et se demande ce qui, dans leurs vies, les connecte si profondément à ses chansons. L'industrie, la tournée
 permanente, le brouillard — il a besoin de revenir à l'essentiel.
 
-## *The Weight of the Woods* (2026) : le retour aux racines
+###### *The Weight of the Woods* (2026) : le retour aux racines
 
 Le 3 avril 2026, **The Weight of the Woods** sort chez Island/Interscope Records. Quatorze titres, produits par **Gabe
 Simon** (Noah Kahan, Lana Del Rey), écrits et enregistrés entre un studio près de chez lui en Irlande rurale et
@@ -107,7 +107,7 @@ vivre ailleurs, mais je ne crois pas que je serais heureux nulle part d'autre. �
 Le titre de l'album est à prendre au sens propre : quand il mourra, dit-il, il voudrait devenir partie intégrante de ce
 paysage, « se dissoudre dans la forêt ».
 
-## 2026 : l'Aviva Stadium, l'Olympia, les arenas
+###### 2026 : l'Aviva Stadium, l'Olympia, les arenas
 
 La tournée **The Weight of the Woods** est la plus ambitieuse de sa carrière. En Europe et au Royaume-Uni (mai-juin
 2026), elle passe par Copenhague, Stockholm, Hambourg, Berlin, **Zurich** (Halle 622, 17 mai), **Paris** (L'Olympia, 18
@@ -120,12 +120,12 @@ Kennedy a partagé la scène ces dernières années avec Niall Horan, Noah Kahan
 ont publiquement salué son travail. Mais sur scène, il reste ce qu'il a toujours été : un type seul avec sa voix, qui
 chante comme si le monde dépendait de chaque mot.
 
-## Récompenses principales
+###### Récompenses principales
 
 Nomination aux **Brit Awards 2020** (Meilleur artiste international) · **RTÉ Choice Music Prize** 2022 (Chanson
 irlandaise de l'année pour *Better Days*) · Disque de platine dans 12 pays · 4 milliards de streams
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Dermot Kennedy est l'un de ces artistes rares qui parviennent à remplir des stades tout en donnant l'impression de
 chanter dans votre salon. Son parcours — du busking dans les rues de Dublin à l'Aviva Stadium, en passant par les

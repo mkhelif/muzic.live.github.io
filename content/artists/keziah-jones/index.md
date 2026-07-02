@@ -21,7 +21,7 @@ expérience européenne pour créer un style musical totalement original.
 Il développe une technique guitaristique particulière et une approche vocale distinctive qui le distinguent
 immédiatement dans le paysage musical mondial.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Keziah Jones se fait connaître grâce à des albums qui révèlent son style "Blufunk" unique, mélangeant influences
 africaines, blues et funk dans des compositions originales et captivantes.
@@ -32,7 +32,7 @@ un artiste cosmopolite au style immédiatement reconnaissable.
 Ses performances live confirment son statut de performer exceptionnel capable de captiver son public par son charisme et
 son originalité artistique.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Keziah Jones combine influences yoruba, blues américain et funk contemporain, créant le "Blufunk", un genre
 qu'il a lui-même inventé et défini.
@@ -43,7 +43,7 @@ personnel.
 Ses compositions révèlent une approche créative qui transcende les frontières culturelles et géographiques, créant une
 musique universelle qui célèbre la diversité.
 
-##### Actualité
+###### Actualité
 
 Keziah Jones continue d'explorer les possibilités créatives de son "Blufunk", représentant cette approche
 multiculturelle de la création musicale contemporaine.

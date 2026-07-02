@@ -16,7 +16,7 @@ vallées et évoquent immédiatement les paysages de montagne. Les Alphornbläse
 de groupes plus larges, en font un vecteur d'expression contemporain capable de surprendre bien au-delà de sa fonction
 traditionnelle.
 
-##### Des scènes inattendues
+###### Des scènes inattendues
 
 Certains groupes d'Alphornbläser ont su transporter cet instrument dans des contextes inattendus, dont les festivals de
 musique amplifiée, créant un contraste saisissant entre la rudesse ancestrale de leurs sons et l'énergie contemporaine

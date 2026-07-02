@@ -14,7 +14,7 @@ pop-rock français les plus en vue de la décennie 2010. Avec leurs singles accr
 communicative, Thérapie Taxi accumule une base de fans fidèles et enchaîne les premières parties et les festivals. Mais
 en 2021, après huit années d'aventure commune, le groupe se sépare, ouvrant la voie à un nouveau chapitre pour Adé.
 
-##### L'envol solo
+###### L'envol solo
 
 Loin de se laisser porter par l'inertie, Adé s'envole littéralement pour Nashville, Tennessee, afin d'enregistrer son
 premier album solo. Ce choix géographique n'est pas anodin : il témoigne d'un désir de renouer avec les racines de la
@@ -25,7 +25,7 @@ En avril 2022, elle publie son premier single solo « Tout savoir », suivi de l
 même année. Cet opus, enregistré entre Nashville et la côte Ouest américaine, révèle une artiste affranchie, capable de
 fondre influences country et pop moderne dans une couleur sonore ensoleillée et lumineuse.
 
-##### Évolution artistique
+###### Évolution artistique
 
 Son deuxième album, *INSIDE OUT MVMT*, paru le 15 novembre 2024, marque un virage plus rock et plus intense. Plus sombre
 et plus électrique que son prédécesseur, il dessine les contours d'une Adé en perpétuelle mutation, toujours à l'affût
@@ -34,7 +34,7 @@ de nouvelles émotions sonores. La chanteuse y explore des thèmes plus personne
 Elle a également collaboré avec Benjamin Biolay, Nolwenn Leroy et Louane, preuve de sa place désormais établie dans le
 paysage musical français contemporain.
 
-##### Une artiste en mouvement
+###### Une artiste en mouvement
 
 Adé représente une génération d'artistes françaises nées dans le sillage des grands noms de la chanson et du rock, qui
 n'hésitent pas à traverser les frontières musicales et géographiques pour forger leur identité propre. Sensible,

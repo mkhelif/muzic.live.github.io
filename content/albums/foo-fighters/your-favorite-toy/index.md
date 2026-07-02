@@ -30,7 +30,7 @@ leur discographie. Comment faire après ça ? *Your Favorite Toy* est le chapitr
 prédécesseur avait souvent un ton réflexif, ce nouvel album mise tout sur la catharsis — entrer dans une pièce, faire le
 plus de bruit possible, et laisser le chaos guider.
 
-## Nouvelle peau, vieille bête
+###### Nouvelle peau, vieille bête
 
 *Your Favorite Toy* est le premier album studio des Foo Fighters avec le batteur Ilan Rubin, anciennement de Nine Inch
 Nails. Grohl et Rubin ont enregistré les parties rythmiques en live, sans click track, les autres membres venant ensuite
@@ -41,7 +41,7 @@ Rubin réussit l'audition haut la main. Les meilleurs morceaux de l'album sont p
 percussion imposant donne le tempo à l'ensemble. Il ne cherche pas à imiter Hawkins — il apporte sa propre énergie, plus
 sèche, plus mécanique dans le bon sens du terme, héritière de ses années passées à battre pour Trent Reznor.
 
-## Titre par titre : le bon, le beau, le prévisible
+###### Titre par titre : le bon, le beau, le prévisible
 
 L'album s'ouvre sur *Caught in the Echo*, avec un riff façon punk-torpedo qui aurait pu venir d'un disque de Fugazi. *Of
 All People* enfonce le clou : le morceau évoque le single de 1995 *I'll Stick Around*, sa cible n'étant pas Courtney
@@ -60,7 +60,7 @@ Friend*, un morceau qui commence à la vitesse d'une power ballad avant de s'él
 Puis il y a les autres. *If Only You Knew* et *Unconditional* font du Foo Fighters en mode automatique — des titres
 midtempo en territoire connu, que le groupe a déjà livrés de nombreuses fois. On les reconnaît. On ne les retient pas.
 
-## Le problème Grohl
+###### Le problème Grohl
 
 Le vrai débat sur *Your Favorite Toy* ne porte pas sur la musique — il porte sur les paroles. La sincérité a toujours
 bien servi Grohl, mais elle tourne au sentimentalisme informe quand elle perd en précision. Sur *Spit Shine*, la section
@@ -71,7 +71,7 @@ musicale et la banalité lyrique est parfois saisissant.
 du rock" que Grohl s'est construite, et de la façon dont ces perceptions ont évolué depuis ses jours chez Nirvana. C'est
 le Grohl le plus vulnérable, le plus lucide, et du coup le plus intéressant.
 
-## Verdict : le retour qu'on attendait, pas tout à fait le chef-d'œuvre qu'on espérait
+###### Verdict : le retour qu'on attendait, pas tout à fait le chef-d'œuvre qu'on espérait
 
 Pitchfork l'a résumé ainsi : *Your Favorite Toy* est "l'album Foo Fighters le plus maigre et le plus méchant depuis 30
 ans", Grohl y reprenant une posture qu'il occupait à ses débuts. C'est une belle formule, et elle n'est pas fausse. NME

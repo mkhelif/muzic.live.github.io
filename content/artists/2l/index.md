@@ -15,13 +15,13 @@ Musicienne de formation, 2L pratique le violon depuis l'âge de sept ans, formé
 hauteur de ce qu'elle a à dire. Quelques années plus tard, elle se lance dans l'écriture avec une détermination rare
 pour son âge.
 
-##### Engagement et identité
+###### Engagement et identité
 
 Le rap de 2L est à la fois intime et politique. Portée par un boom-bap exigeant et une plume acérée, elle développe un
 univers musical anticapitaliste et féministe, ancré dans les réalités de son quartier parisien et dans les luttes de sa
 génération. Sa musique refuse le superficiel pour mieux interroger les structures sociales qui façonnent les destins.
 
-##### Reconnaissance précoce
+###### Reconnaissance précoce
 
 Sa trajectoire s'accélère avec sa participation à la fondation du collectif Le Secteur en 2020, puis avec une série de
 victoires remarquées : le tremplin RappeuZ (2023), une prestation acclamée au Demi Festival (2024) et le tremplin

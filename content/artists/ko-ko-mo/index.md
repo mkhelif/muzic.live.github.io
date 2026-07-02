@@ -28,7 +28,7 @@ pour une musique métissée et festive qui transcende les clivages culturels. Ko
 sonorités caribéennes et africaines dans l'Hexagone, ouvrant la voie à de nombreux artistes qui suivront cette voie du
 métissage musical.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Ko Ko Mo débute sa carrière au début des années 1980 dans l'effervescence culturelle parisienne, période où la capitale
 française devient un creuset de rencontres musicales internationales. Leur premier album éponyme, sorti en 1984, attire
@@ -52,7 +52,7 @@ Au fil des décennies, Ko Ko Mo a su préserver son identité tout en évoluant 
 des éléments de musique électronique et de production moderne à leur son organique. Cette capacité d'adaptation sans
 reniement définit leur longévité et leur pertinence continue dans un paysage musical en constante mutation.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Ko Ko Mo se construit sur une fondation caribéenne solide, avec des influences marquées du reggae jamaïcain,
 du zouk antillais et du calypso. Ces rythmes ensoleillés servent de base à des arrangements qui incorporent des éléments
@@ -76,7 +76,7 @@ présence de sonorités caribéennes et africaines dans la pop mainstream hexago
 métissée et festive pouvait rencontrer un succès populaire sans sacrifier son authenticité ni verser dans l'exotisme de
 pacotille.
 
-##### Actualité
+###### Actualité
 
 Ko Ko Mo continue aujourd'hui de se produire occasionnellement en concert, principalement lors de festivals d'été et d'
 événements célébrant la world music et les musiques du monde. Leurs performances demeurent des moments de célébration et

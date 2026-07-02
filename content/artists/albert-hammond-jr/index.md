@@ -16,7 +16,7 @@ redéfinit les contours du rock indépendant mondial et s'impose comme l'une des
 Hammond y développe son style de guitare caractéristique : net, mélodique, avec une économie de moyens qui n'est jamais
 paresse mais toujours précision.
 
-##### Une voix solo distincte
+###### Une voix solo distincte
 
 Sa carrière solo démarre en 2006 avec *Yours to Keep*, publié chez Rough Trade au Royaume-Uni et New Line Records en
 Amérique du Nord. L'album révèle un Hammond libéré des contraintes collectives, plus introspectif, nourri de pop des
@@ -26,7 +26,7 @@ années 1960 et de folk new-yorkais.
 
 *Francis Trouble* (2018) est peut-être son album le plus ambitieux et le plus personnel, dédié à un jumeau fantôme qu'il n'a jamais rencontré. Enfin, *Melodies on Hiatus* (2023) marque une nouvelle évolution, plus confessionnelle, touchant à ses influences hip-hop et interrogeant les fragments qui composent une vie.
 
-##### L'équilibre entre collectif et solo
+###### L'équilibre entre collectif et solo
 
 Toujours actif au sein des Strokes — dont la discographie continue de s'enrichir —, Albert Hammond Jr représente
 l'exemple réussi d'un musicien capable de nourrir un projet collectif tout en développant une vision artistique propre.

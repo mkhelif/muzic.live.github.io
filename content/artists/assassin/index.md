@@ -12,7 +12,7 @@ les pionniers du thrash metal germanique aux côtés de Destruction, Kreator et 
 et agressif dans la droite ligne des formations américaines de l'époque, tout en y apportant une brutalité toute
 teutonne.
 
-##### Les débuts et la scène thrash allemande
+###### Les débuts et la scène thrash allemande
 
 La formation originale réunit Robert Gonnella au chant, Dinko Vecic et Scholli aux guitares, Lulle à la basse et Danger
 (rebaptisé Psycho) à la batterie. Deux démos — *Holy Terror* (1985) et *The Saga of Nemesis* (1986) — leur permettent de
@@ -24,7 +24,7 @@ Pour *Interstellar Experience* (1988), la quasi-totalité des membres originaux 
 restant seuls à tenir le cap. La créativité du disque compense partiellement la crise interne du groupe, mais le vol de
 leurs équipements scéniques met un terme brutal à leurs activités : Assassin se dissout dans la foulée.
 
-##### La reformation et les années 2000
+###### La reformation et les années 2000
 
 Après plus d'une décennie de silence, Assassin se reforme en 2001-2002, galvanisé par la nostalgie de la vague thrash
 revival qui balaye alors la scène metal internationale. L'album *The Club* sort en 2005, suivi de *Breaking the Silence*

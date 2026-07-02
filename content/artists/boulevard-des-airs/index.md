@@ -15,7 +15,7 @@ Sylvain Duthu, Jean-Baptiste Labe, Laurent Garnier, Ernst Carree et Jérémie Pl
 configuration collective qui donne à Boulevard des Airs son énergie particulière — celle d'une bande
 d'amis qui font de la musique ensemble avec une complicité palpable et une générosité communicative.
 
-##### De Tarbes à Sony Music
+###### De Tarbes à Sony Music
 
 En juin 2011, la signature avec Sony Music officialise leur ascension. Le premier album Paris-Buenos Aires,
 publié en octobre 2011, s'ouvre sur le single "Cielo Ciego" et obtient la certification disque d'or,
@@ -28,7 +28,7 @@ obtient d'abord la certification disque d'or puis disque de platine, et leur vau
 critique unanime. L'album porte en lui une certaine mélancolie joyeuse, une façon de raconter les
 émotions ordinaires avec des mots simples et des mélodies qui restent.
 
-##### Victoires de la Musique et collaborations
+###### Victoires de la Musique et collaborations
 
 L'album Je me dis que toi aussi (2018) marque une nouvelle étape avec le duo "Allez reste" aux côtés de
 Vianney, une collaboration entre deux des artistes les plus attachants de la pop française de leur

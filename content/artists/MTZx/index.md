@@ -17,7 +17,7 @@ musicale française aux alentours de 2020. Son univers hybride mêle rap, dub re
 pour forger une identité sonore singulière, délibérément en marge des codes dominants du hip-hop commercial.
 Son énergie brute et son refus des conventions font de lui un ovni dans le paysage rap francophone.
 
-##### Un parcours discographique en accélération
+###### Un parcours discographique en accélération
 
 MTZx s'impose progressivement grâce à une série de sorties autonomes. Une collaboration avec l'artiste Ishiban
 sur le titre Casse les codes en 2022 lui offre une première exposition. Son premier album, Métamorphose, paraît

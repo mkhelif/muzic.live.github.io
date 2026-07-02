@@ -11,7 +11,7 @@ dancehall et hip-hop dans une synthèse parfaitement personnelle. Ses modèles :
 Vybz Kartel, et les grandes productions américaines qui lui enseignent l'art du groove et du placement
 vocal.
 
-##### Un nom forgé en Jamaïque
+###### Un nom forgé en Jamaïque
 
 En 2004, il fonde le Bandalero Sound System et commence à tourner en France aux côtés du DJ Atili et de
 la formation steppa Ondubground. En 2008 survient un moment décisif : le singjay jamaïcain Joseph Cotton
@@ -20,7 +20,7 @@ maîtrise et l'authenticité de l'artiste tourangeau. Les clips « Air France An
 et « It's a Shame », enregistrés au Lootayard Studio, franchissent le cap du million de vues et confirment
 l'intérêt international.
 
-##### Une discographie primée
+###### Une discographie primée
 
 Signé chez X-Ray Production en 2011, Biga*Ranx sort son premier album solo *On Time*, salué comme le
 meilleur disque ragga/dancehall de l'année en France. Il enchaîne avec *The World of Biga*Ranx* puis avec

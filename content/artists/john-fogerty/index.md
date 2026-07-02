@@ -17,7 +17,7 @@ leader charismatique du groupe Creedence Clearwater Revival avant de poursuivre 
 emblématique de la musique américaine, il incarne l'authenticité et la puissance d'un rock enraciné dans les traditions
 musicales des États-Unis.
 
-#### Origines et formation
+###### Origines et formation
 
 Né à Berkeley en Californie, John Fogerty développe très tôt une passion dévorante pour la musique en écoutant les
 pionniers du rock'n'roll, du blues et de la country. Cette immersion précoce dans ces styles fondateurs forge sa
@@ -28,7 +28,7 @@ Sa jeunesse californienne, loin des racines sudistes qui influencent pourtant pr
 capacité de Fogerty à absorber et transcender ses influences pour créer un son authentique et personnel. Cette alchimie
 unique entre héritage musical américain et sensibilité contemporaine constitue l'essence même de son génie créatif.
 
-#### Creedence Clearwater Revival : l'ascension fulgurante
+###### Creedence Clearwater Revival : l'ascension fulgurante
 
 C'est avec Creedence Clearwater Revival que John Fogerty écrit les premières pages de sa légende. En tant que chanteur
 principal, guitariste et principal compositeur du groupe, il définit une esthétique musicale immédiatement
@@ -40,7 +40,7 @@ contours du rock américain. Fogerty y démontre un talent rare pour créer des 
 profondes, conjuguant efficacité mélodique et substrat musical riche. Sa voix rocailleuse et puissante devient l'une des
 signatures vocales les plus reconnaissables du rock.
 
-#### Carrière solo : renaissance et confirmation
+###### Carrière solo : renaissance et confirmation
 
 Après la dissolution de CCR, John Fogerty traverse une période difficile marquée par des conflits juridiques avec son
 ancien label qui l'empêchent pendant plusieurs années d'interpréter son propre répertoire. Cette traversée du désert
@@ -55,7 +55,7 @@ Cette seconde partie de carrière, marquée par une reconnaissance critique et p
 définitivement Fogerty comme l'une des voix essentielles du rock américain, capable de transcender les générations et
 les modes passagères.
 
-#### Style et influences
+###### Style et influences
 
 Le style de John Fogerty se caractérise par une approche directe et sans artifice du rock américain. Sa voix
 immédiatement reconnaissable, puissante et légèrement éraillée, porte des mélodies d'une efficacité redoutable qui s'
@@ -73,7 +73,7 @@ Ses textes évoquent l'Amérique profonde, ses paysages, ses contradictions et s
 dimension sociale ou politique subtilement intégrée. Cette capacité à capturer l'essence américaine dans des chansons
 universelles constitue l'une des forces majeures de son œuvre.
 
-#### Héritage et influence
+###### Héritage et influence
 
 L'influence de John Fogerty sur la musique populaire est considérable. Son approche de l'écriture de chansons,
 privilégiant clarté mélodique et profondeur d'interprétation, a inspiré des générations d'artistes rock, country et
@@ -87,7 +87,7 @@ Les chansons qu'il a écrites, que ce soit pour Creedence Clearwater Revival ou 
 patrimoine musical mondial. Elles continuent de résonner auprès de nouvelles générations d'auditeurs, prouvant leur
 caractère véritablement intemporel.
 
-#### Actualité et reconnaissance contemporaine
+###### Actualité et reconnaissance contemporaine
 
 John Fogerty continue de tourner et d'enregistrer, maintenant son statut de légende vivante du rock américain. Ses
 performances scéniques, toujours énergiques et passionnées malgré les années qui passent, témoignent d'un engagement

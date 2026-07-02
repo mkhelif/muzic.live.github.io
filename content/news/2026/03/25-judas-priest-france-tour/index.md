@@ -14,14 +14,14 @@ Les amateurs de cuir clouté, de twin guitars et de cris surhumains peuvent marq
 du **Faithkeepers Tour 2026**, la tournée européenne qui prolonge le cycle de leur dix-neuvième album studio,
 *Invincible Shield*, sorti en mars 2024 et entré directement au 18ème rang du Billboard 200.
 
-## Les dates françaises
+###### Les dates françaises
 
 ![Dates françaises Judas Priest 2026](tour.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
 Achetez vos billets sur [See Tickets](https://www.seetickets.com/fr/tg/tour/judas-priest/20740?P5136B95888FF1B5).
 
-## Le Faithkeepers Tour : une tournée massive à travers l'Europe
+###### Le Faithkeepers Tour : une tournée massive à travers l'Europe
 
 Le passage français s'inscrit dans une tournée européenne d'envergure qui emmènera Judas Priest à travers l'Allemagne
 (Wacken Open Air, BOBfest, Reload Festival), la Pologne, la République tchèque, la Slovaquie, les Pays-Bas, le
@@ -29,7 +29,7 @@ Royaume-Uni (Bloodstock Open Air), l'Espagne et la Belgique (Forest National à 
 du Zénith de Paris). Le groupe avait déjà enchaîné 90 concerts en 2024 — un rythme qui le plaçait au quatrième rang des
 artistes rock les plus actifs de l'année.
 
-## Rob Halford, la voix qui refuse de s'éteindre
+###### Rob Halford, la voix qui refuse de s'éteindre
 
 Si cette tournée suscite autant d'attente, c'est aussi parce que chaque concert de Judas Priest porte désormais le poids
 de l'histoire — et de la résilience. **Rob Halford**, 75 ans en 2026, a traversé ces dernières années un combat contre
@@ -43,7 +43,7 @@ pris le relais du légendaire tandem Tipton/Downing), **Ian Hill** — seul memb
 du groupe depuis 1969 — et **Scott Travis** à la batterie. Glenn Tipton, atteint de la maladie de Parkinson, reste
 membre officiel du groupe et fait des apparitions ponctuelles sur scène lorsque sa santé le permet.
 
-## *Invincible Shield* et un vingtième album en préparation
+###### *Invincible Shield* et un vingtième album en préparation
 
 Le Faithkeepers Tour continue de porter *Invincible Shield*, accueilli très favorablement par la critique et les fans —
 des titres comme *Panic Attack*, *Crown of Horns* et *Trial by Fire* ayant rejoint les classiques dans les setlists.
@@ -51,7 +51,7 @@ Mais le groupe ne compte pas s'arrêter là : Ian Hill a confirmé dans une inte
 retourner en studio pour enregistrer ce qui serait leur **vingtième album**, Richie Faulkner ayant déjà accumulé un
 nombre conséquent d'idées en tournée.
 
-## Un passage par Carhaix avant les arenas
+###### Un passage par Carhaix avant les arenas
 
 Le choix du **Motocultor Festival** à Carhaix le 16 août — un mois avant les dates en salle — est un clin d'œil bienvenu
 à la scène festival française. Positionné comme l'un des rendez-vous metal incontournables de l'été breton, le
@@ -60,7 +60,7 @@ française de la tournée. Les quatre dates en salle qui suivent en septembre �
 permettront ensuite aux fans de vivre l'expérience Priest dans toute sa dimension scénique, avec la production complète
 du Faithkeepers Tour.
 
-## Plus de cinquante ans, et toujours debout
+###### Plus de cinquante ans, et toujours debout
 
 Fondé à Birmingham en 1969 — la même année que Black Sabbath, à quelques kilomètres de là —, Judas Priest a traversé
 plus d'un demi-siècle sans jamais cesser de tourner ni de se réinventer. Plus de 50 millions d'albums vendus, cinq

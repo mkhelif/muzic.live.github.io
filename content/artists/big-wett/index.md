@@ -13,7 +13,7 @@ Sa production, lascive et incisive, lui a valu le soutien de médias comme Dazed
 triple j, DORK, NME ou Diva. Elle a notamment collaboré avec Reggie Goodchild, membre de Confidence Man, et avec le DJ
 et producteur australien expatrié Strath.
 
-##### Une scène qui affiche complet
+###### Une scène qui affiche complet
 
 BIG WETT a rempli des salles de l'Australie jusqu'à Londres, portée par des EP comme "RISK IT". Sur scène comme sur
 disque, elle défend une approche sex-positive assumée, où le plaisir n'exclut jamais le consentement, la fixation de

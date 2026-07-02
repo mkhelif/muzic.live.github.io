@@ -21,7 +21,7 @@ répertoire d'une diversité vertigineuse — du punk au ambient en passant par 
 orchestrale — et un engagement radical pour les droits des animaux, Moby est l'un des artistes les plus singuliers et
 les plus inclassables de sa génération.
 
-## De Melville à Moby : une enfance atypique
+###### De Melville à Moby : une enfance atypique
 
 Le surnom « Moby » accompagne Richard Melville Hall depuis sa naissance. Il fait référence au roman *Moby Dick*, écrit
 par son arrière-arrière-arrière-grand-oncle Herman Melville. Son père, James Frederick Hall, professeur de chimie, meurt
@@ -36,7 +36,7 @@ brièvement par l'université, où il se partage entre la philosophie et l'alcoo
 christianisme — une foi qu'il revendiquera avec une constance surprenante dans un milieu où l'excès est la norme, tout
 en restant violemment critique envers les conservateurs religieux.
 
-## New York, le DJ et la percée : *Go* (1989–1993)
+###### New York, le DJ et la percée : *Go* (1989–1993)
 
 En 1989, Moby s'installe à New York et s'immerge dans la scène dance et rave naissante. Il devient DJ au Club Mars, puis
 producteur et remixeur prolifique. En 1991, son single *Go* — construit autour d'un sample du thème de *Twin Peaks* de
@@ -48,7 +48,7 @@ Good)*, *Feeling So Real* et *James Bond Theme (Moby Re-Version)*. Parallèlemen
 pseudonymes — Lopez, DJ Cake, Voodoo Child, Barracuda — pour pouvoir explorer des territoires sonores sans contrainte
 commerciale.
 
-## *Everything Is Wrong* : le manifeste (1995)
+###### *Everything Is Wrong* : le manifeste (1995)
 
 Son troisième album studio, *Everything Is Wrong* (1995), est un tournant. Enregistré et mixé par Moby seul dans son
 appartement de Mott Street, à Manhattan, avec du matériel bon marché, le disque est un tour de force stylistique qui
@@ -62,7 +62,7 @@ et persécutaient les gens pour leurs croyances. Tout est absolument, à 100 %, 
 essais sur l'état du monde et 67 statistiques sur la déforestation, l'industrie animale et l'environnement, font du
 disque autant un manifeste qu'un album.
 
-## Le détour punk : *Animal Rights* (1996)
+###### Le détour punk : *Animal Rights* (1996)
 
 Désenchanté par la dance music, Moby opère un virage radical avec *Animal Rights* (1996), un album de punk rock pur et
 dur, avec voix hurlée et riffs de guitare saturée. Le disque déroute son public et la critique, et manque de ruiner sa
@@ -70,7 +70,7 @@ carrière selon son manager. Mais entre-temps, Moby travaille en coulisses comme
 *1979*), Aerosmith (*Falling in Love*), Metallica (*Until It Sleeps*) et Soundgarden (*Dusty*), et produit un titre pour
 Ozzy Osbourne — un éclectisme qui dit tout de sa personnalité.
 
-## *Play* : le phénomène mondial (1999)
+###### *Play* : le phénomène mondial (1999)
 
 En 1999, Moby publie *Play*, son cinquième album studio. L'accueil initial est modeste, mais le disque va connaître
 l'une des trajectoires les plus extraordinaires de l'histoire de la musique. Face au refus des radios de diffuser ses
@@ -85,7 +85,7 @@ monde, est certifié platine dans 25 pays et vaut à Moby trois nominations aux 
 de blues et de gospel afro-américains à des productions électroniques luxuriantes, est une œuvre qui transcende les
 genres et les époques — aussi à l'aise dans un club que dans un salon de thé.
 
-## Après *Play* : l'exploration permanente (2002–2023)
+###### Après *Play* : l'exploration permanente (2002–2023)
 
 La suite de la carrière de Moby est une succession d'explorations. *18* (2002) prolonge la veine de *Play* et se vend à
 plus de quatre millions d'exemplaires, avec des certifications or et platine dans plus de trente pays. *Hotel* (2005)
@@ -102,7 +102,7 @@ poursuit cette démarche de réinvention.
 Son album le plus récent, *Always Centered at Night* (2024), est un projet collaboratif réunissant de nombreux chanteurs
 invités. Son nouvel album *Future Quiet*, qu'il présentera à Montreux, marque une nouvelle étape.
 
-## Le militant
+###### Le militant
 
 La musique n'est qu'une des facettes de Moby. Végane depuis 1987, militant radical pour les droits des animaux, il a
 fondé TeaNY, un café végane à Manhattan, puis Little Pine, un restaurant végane à Los Angeles, et a organisé le festival

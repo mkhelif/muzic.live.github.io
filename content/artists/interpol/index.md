@@ -9,7 +9,7 @@ Interpol est un groupe de rock américain formé à Manhattan, New York, en 1997
 post-punk des années 2000, ils ont contribué, aux côtés des Strokes et des Yeah Yeah Yeahs, à redonner
 ses lettres de noblesse à un rock urbain sombre et sophistiqué à l'orée du XXIe siècle.
 
-##### Les origines new-yorkaises
+###### Les origines new-yorkaises
 
 Le groupe se forme autour de deux étudiants de l'université de New York, Daniel Kessler et Greg Drudy,
 bientôt rejoints par le chanteur Paul Banks et le bassiste Carlos Dengler. Après le départ de Drudy en
@@ -18,7 +18,7 @@ par les héritiers du post-punk britannique — Joy Division en tête, mais auss
 —, ils développent un son caractéristique : basse staccato, guitares entrelacées, rythmiques lourdes et
 voix grave et froide de Paul Banks.
 
-##### Turn On the Bright Lights et la consécration critique
+###### Turn On the Bright Lights et la consécration critique
 
 En 2002 paraît Turn On the Bright Lights, premier album du groupe et l'une des œuvres les plus acclamées
 de la décennie. Pitchfork le nomme album de l'année ; la presse spécialisée internationale salue un disque
@@ -26,7 +26,7 @@ d'une cohérence et d'une tension émotionnelle rares. Antics (2004) confirme la
 avec une écriture plus directe, tandis qu'Our Love to Admire (2007), leur première production pour une
 major, les propulse dans les charts.
 
-##### Une carrière au long cours
+###### Une carrière au long cours
 
 Les décennies suivantes voient Interpol consolider leur place de piliers du rock indépendant américain
 avec les albums Interpol (2010), El Pintor (2014), Marauder (2018) et The Other Side of Make-Believe

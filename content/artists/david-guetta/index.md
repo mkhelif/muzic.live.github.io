@@ -9,7 +9,7 @@ commence tout juste à déferler sur l'Europe. Il devient rapidement l'un des pi
 en France, mêlant à ses sets une sensibilité commerciale qui lui permettra d'atteindre des publics
 bien au-delà des cercles initiés.
 
-##### L'architecte de la pop électronique mondiale
+###### L'architecte de la pop électronique mondiale
 
 Avec sa femme Cathy, il investit dans plusieurs clubs parisiens dont le Pink Paradise et le Folie's
 Pigalle, et contribue à faire de Paris une capitale de la nuit au tournant des années 2000. Son premier
@@ -18,7 +18,7 @@ album *Just a Little More Love* (2002) lance sa carrière discographique, suivi 
 dimension : « When Love Takes Over » (avec Kelly Rowland), « Sexy Bitch » (avec Akon) et « Memories »
 (avec Kid Cudi) deviennent des hymnes mondiaux.
 
-##### La machine à hits
+###### La machine à hits
 
 *Nothing but the Beat* (2011), qui réunit Sia, Usher et Nicki Minaj, et *Listen* (2014) confirment sa
 domination sur la pop électronique mondiale. Il est élu meilleur DJ du monde par le DJ Mag Top 100 en

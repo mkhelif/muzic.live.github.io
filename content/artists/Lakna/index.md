@@ -20,7 +20,7 @@ traditionnel pour créer une identité artistique authentique.
 Elle développe rapidement un style qui mélange flow technique et sensibilité personnelle, s'imposant progressivement
 comme une voix originale sur la scène rap française contemporaine.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière de Lakna se construit grâce à des compositions qui témoignent de sa capacité à aborder des thèmes variés
 avec intelligence et créativité.
@@ -31,7 +31,7 @@ plus large, révélant des talents de compositrice et d'interprète.
 Ses sorties révèlent une évolution artistique constante et une volonté de repousser les limites du rap féminin français,
 établissant sa réputation d'artiste exigeante.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Lakna se caractérise par un flow distinctif, des textes travaillés et une approche du rap qui mélange
 introspection personnelle et observations sociales.
@@ -42,7 +42,7 @@ maturité artistique remarquable.
 Ses influences puisent dans différents courants du rap français et international, créant un style personnel qui enrichit
 la diversité du hip-hop hexagonal contemporain.
 
-##### Actualité
+###### Actualité
 
 Lakna continue de développer son univers artistique unique, représentant cette nouvelle génération de rappeuses
 françaises qui renouvellent les codes du genre.

@@ -21,7 +21,7 @@ Olympiahalle)* n'est ni l'un ni l'autre. C'est une messe — au sens propre du t
 trajectoire d'un groupe qui, en vingt ans d'existence, a transformé le power metal en spectacle total. Et le résultat
 est, il faut bien le dire, impressionnant.
 
-## Le contexte : une Olympiahalle sold out, un groupe au zénith
+###### Le contexte : une Olympiahalle sold out, un groupe au zénith
 
 Le concert qui donne naissance à ce live a été enregistré le 25 octobre 2024 à l'Olympiahalle de Munich, lors de l'étape
 finale de la **Wolfsnächte Tour 2024** — la plus grosse tournée headliner de l'histoire de Powerwolf. Le groupe venait
@@ -31,7 +31,7 @@ quelque chose de spécial se produise.
 
 Et quelque chose de spécial se produit.
 
-## Le son : massif, précis, sans concession
+###### Le son : massif, précis, sans concession
 
 Premier constat dès les premières secondes : la **production de Joost van den Broek** est exemplaire. Le Néerlandais,
 qui a également enregistré, mixé et masterisé l'album dans ses Sandlane Recording Facilities, livre un son massif et
@@ -46,7 +46,7 @@ dans le cas de Powerwolf, dont l'identité repose précisément sur la démesure
 partie du spectacle. On n'est pas chez Motörhead. On est dans une cathédrale gothique en flammes, et chaque détail
 compte.
 
-## La setlist : vingt ans de carrière en vingt titres
+###### La setlist : vingt ans de carrière en vingt titres
 
 La force de *Wildlive* réside aussi dans l'intelligence de sa setlist. Vingt titres qui balayent l'intégralité de la
 carrière du groupe avec un sens de l'équilibre remarquable. L'ouverture par le *Monumental Mass Theme* plonge
@@ -69,7 +69,7 @@ Et puis il y a le final. Le triptyque *Sanctified With Dynamite* / *We Drink You
 un rouleau compresseur. Trois hymnes absolus enchaînés sans répit, le public en fusion, les flammes (réelles et
 métaphoriques) partout — c'est le genre de conclusion qui vous laisse vidé et euphorique en même temps.
 
-## Au-delà de l'audio : le spectacle total
+###### Au-delà de l'audio : le spectacle total
 
 Il faut le dire clairement : si l'écoute seule de *Wildlive* est déjà convaincante, c'est en version **Blu-ray/DVD** que
 l'expérience prend toute sa dimension. La scénographie de la Wolfsnächte Tour 2024 — la plus ambitieuse jamais déployée
@@ -83,14 +83,14 @@ public — souvent en allemand, ce qui ajoute une couleur locale assumée — os
 provocation bon enfant. Le groupe autour de lui est une mécanique parfaitement huilée, chaque membre occupant l'espace
 avec une discipline militaire au service du spectacle.
 
-## La version Deluxe : le bonus d'Oberhausen
+###### La version Deluxe : le bonus d'Oberhausen
 
 La version Deluxe de l'album (39 titres, 2h49) ajoute un concert complet enregistré à Oberhausen en 2022, offrant un
 point de comparaison intéressant avec la captation munichoise et un bonus substantiel pour les fans les plus investis.
 Les formats physiques — vinyle, Earbook, Mediabook, coffret — sont à la hauteur de l'objet : Napalm Records a soigné
 l'écrin autant que le contenu.
 
-## Le verdict
+###### Le verdict
 
 *Wildlive (Live at Olympiahalle)* n'est pas qu'un album live de plus dans une discographie déjà bien fournie. C'est le
 document définitif de ce que Powerwolf est devenu en 2024 : une machine de guerre théâtrale, une messe metal portée par

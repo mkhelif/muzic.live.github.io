@@ -24,7 +24,7 @@ une expertise dans l'art du mix et de la sélection musicale.
 Il commence par se faire connaître dans les clubs français, où sa technique irréprochable et sa capacité à créer des
 ambiances uniques lui permettent de se construire une réputation solide dans le milieu underground européen.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière de DJ Bens se développe grâce à ses performances dans des clubs prestigieux et des festivals électroniques,
 où il démontre sa maîtrise parfaite de l'art du djing.
@@ -36,7 +36,7 @@ unique.
 Ses productions originales révèlent également ses qualités de compositeur et sa compréhension fine des dynamiques de
 dancefloor.
 
-##### Style et influences
+###### Style et influences
 
 Le style de DJ Bens se caractérise par une approche éclectique de la musique électronique, mêlant influences house,
 techno, électro et breakbeat dans des sets cohérents et créatifs.
@@ -47,7 +47,7 @@ de véritables voyages musicaux.
 Ses influences puisent dans toute l'histoire de la musique électronique, des pionniers de la house aux innovations
 technologiques contemporaines, créant un style personnel qui transcende les catégories.
 
-##### Actualité
+###### Actualité
 
 DJ Bens continue de développer sa carrière de DJ et de producteur, maintenant sa réputation d'excellence technique et de
 créativité artistique.

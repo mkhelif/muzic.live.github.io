@@ -11,7 +11,7 @@ différentes : les chants congolais de son père, les séances de karaoké avec 
 de stand-up dont elle est avide. De cette multiplicité naît une artiste qui refuse de se laisser enfermer dans une
 case, tissant une pop francophone à la croisée du rap, de l'électro et de la variété.
 
-##### Un parcours forgé par l'adversité
+###### Un parcours forgé par l'adversité
 
 La vie de Camille Yembe est marquée par des ruptures précoces. Ses parents se séparent alors qu'elle a six ans ; son
 père retourne vivre à Kinshasa lorsqu'elle en a neuf. À seize ans, elle doit quitter le foyer familial. Ces
@@ -22,7 +22,7 @@ Passionnée d'éloquence et admiratrice du comédien Raymond Devos, elle dévelo
 précis et les images inattendues. Ses références sont aussi éclectiques que son histoire : Little Simz, Thom Yorke,
 Rahim Redcar et Charles Aznavour se côtoient dans son univers musical avec une cohérence surprenante.
 
-##### Une voix qui bouscule la pop francophone
+###### Une voix qui bouscule la pop francophone
 
 Après quelques EP remarqués dans les cercles bruxellois et au-delà, Camille Yembe sort son premier album
 « Jeune & Laide » en mai 2026, un disque de quinze titres qui confirme l'étendue de ses ambitions. Mélodieuse et

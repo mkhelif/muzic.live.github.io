@@ -17,7 +17,7 @@ Noise" de Jaar : lors d'un jour de repos, les deux hommes enregistrent ensemble 
 plusieurs heures, jusqu'à ce qu'un convertisseur bon marché fasse griller leurs enceintes, emplissant la pièce de fumée.
 Ce morceau deviendra plus tard "A1".
 
-##### De l'EP à Psychic
+###### De l'EP à Psychic
 
 Leur premier EP éponyme paraît le 17 novembre 2011 chez Clown & Sunset et reçoit un accueil critique favorable,
 notamment une note de 8.0 chez Pitchfork. Leur premier album, "Psychic", sort le 4 octobre 2013, enregistré entre
@@ -29,7 +29,7 @@ Esparza rejoint la formation, qui devient un trio avant la sortie de "Live at Sp
 enregistré dans leur espace de répétition à Los Angeles. Leur premier album studio en trio, "Nothing", sort en février
 2025.
 
-##### Une identité sonore hybride
+###### Une identité sonore hybride
 
 Darkside cultive depuis ses débuts un son hypnotique où l'électronique minimale de Jaar rencontre les guitares blues et
 psychédéliques de Harrington, dans des morceaux souvent longs et progressifs, pensés autant pour l'écoute attentive que

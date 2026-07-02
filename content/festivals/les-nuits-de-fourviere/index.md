@@ -17,7 +17,7 @@ monde entier continuent de monter sur ces mêmes scènes pour s'adresser à des 
 gradins de pierre, sous les étoiles. Ce paradoxe — l'ancien et le vivant, le figé et l'éphémère — est le cœur même des
 Nuits de Fourvière, l'un des festivals les plus singuliers de France.
 
-## Une naissance par accident, une vie par obstination
+###### Une naissance par accident, une vie par obstination
 
 Depuis le 29 juin 1946 et la redécouverte des théâtres antiques de Fourvière, il s'en est passé — et raconté — des
 histoires sur cette colline. Car c'est bien d'une redécouverte qu'il s'agit : ces théâtres, enfouis depuis la fin de
@@ -35,7 +35,7 @@ Patricia Kaas. Le festival affirme alors son ambition : être éclectique et int
 Aujourd'hui établissement public de la Métropole de Lyon, les Nuits de Fourvière célèbrent en 2026 leurs 80 ans — et
 n'ont pas pris une ride.
 
-## Le cadre : une scène de deux mille ans d'âge
+###### Le cadre : une scène de deux mille ans d'âge
 
 Le Grand Théâtre, joyau architectural romain de 4 500 places, accueille les grandes soirées sous les étoiles. L'Odéon,
 plus intime, permet des propositions plus sensibles. Ces deux espaces constituent le cœur du festival — mais seulement
@@ -47,7 +47,7 @@ et collèges deviennent à leur tour scènes et espaces de création. L'action c
 notamment à Bron, Vénissieux, Givors, Décines. Le festival n'est pas un événement qui se regarde de loin : il irrigue
 toute une ville.
 
-## Une programmation qui refuse les cases
+###### Une programmation qui refuse les cases
 
 C'est peut-être là la caractéristique la plus précieuse des Nuits de Fourvière : leur refus obstiné de se laisser
 réduire à une étiquette. Théâtre, musique, danse, opéra, cirque — les Nuits de Fourvière sont dévolues aux arts de la
@@ -59,7 +59,7 @@ Cette exigence produit des programmations qui mêlent sans complexe Benjamin Mil
 et Kool & The Gang, Massive Attack et une compagnie de cirque australienne. Chaque été, le festival présente près de 130
 représentations pour plus de 130 000 spectateurs.
 
-## 2026 : les 80 ans en grand
+###### 2026 : les 80 ans en grand
 
 Les Nuits de Fourvière 2026 auront lieu du 28 mai au 25 juillet. Le festival fête cette année ses 80 ans avec une
 programmation qui réunit plus de 110 représentations, dont 20 de théâtre et cabaret, 29 de cirque, 18 de danse et une
@@ -81,7 +81,7 @@ les étoiles*, et celle de 2025, *Symphonie pour 100 batteries* de Lucie Antunes
 Paris pendant le mois de juin. Un geste fort, qui dit l'ambition du festival : rayonner bien au-delà des frontières de
 la métropole.
 
-## Un festival pour tous, dans tous les sens du terme
+###### Un festival pour tous, dans tous les sens du terme
 
 Les Nuits de Fourvière ne sont pas un festival élitiste. Des dispositifs d'accessibilité complètes sont mis en place :
 séances relax pour les personnes avec un handicap psychique ou mental, audiodescription, chuchoteurs, boucle magnétique,
@@ -94,7 +94,7 @@ aux festivaliers pour rejoindre la colline — la montée du Gourguillon, la mon
 la montée Saint-Barthélemy depuis la gare Saint-Paul — chacun avec sa vue imprenable sur Lyon étendu en contrebas, ses
 lumières, ses quais de Saône. Monter vers Fourvière un soir de spectacle est déjà une expérience en soi.
 
-## Une utopie artistique qui dure
+###### Une utopie artistique qui dure
 
 Il y a un mot qui revient dans la bouche des équipes des Nuits de Fourvière pour décrire ce qu'ils font : « utopie ».
 Chaque été, artistes, public, partenaires et une équipe de passionnés font vivre cette utopie artistique, grande fête du

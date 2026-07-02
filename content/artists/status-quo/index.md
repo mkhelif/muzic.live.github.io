@@ -28,7 +28,7 @@ des tandems les plus iconiques de l'histoire du rock. Leur complicité scénique
 performances énergiques année après année ont fait de Status Quo un phénomène de constance dans un univers musical
 souvent éphémère.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Les débuts de Status Quo remontent à l'ère psychédélique de la fin des années 1960, période durant laquelle le groupe,
 alors appelé The Spectres puis Traffic Jam, explore des sonorités florales typiques de l'époque. Leur premier succès
@@ -53,7 +53,7 @@ témoigne de l'attachement profond que leur public porte à leur musique. Leur p
 au stade de Wembley demeure un moment légendaire de l'histoire du rock, où leur énergie brute a électrisé une audience
 mondiale de milliards de spectateurs.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Status Quo s'enracine dans le boogie rock et le rhythm and blues, avec des influences manifestes du rock 'n'
 roll des années 1950 et du blues électrique de Chicago. Leur approche repose sur une structure musicale apparemment
@@ -78,7 +78,7 @@ construire une carrière durable en restant fidèle à une vision musicale cohé
 Cette intégrité artistique, combinée à une éthique de travail exceptionnelle, a inspiré d'innombrables formations à
 poursuivre leur propre chemin musical avec détermination.
 
-##### Actualité
+###### Actualité
 
 Status Quo continue aujourd'hui de se produire sur scène, perpétuant une tradition de concerts énergiques qui défie les
 lois du temps. Malgré le décès de Rick Parfitt en 2016, Francis Rossi a choisi de maintenir le groupe actif, honorant

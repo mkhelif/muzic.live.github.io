@@ -23,7 +23,7 @@ improbables acrobaties de la mannequin star Bella Hadid lors de la collection pr
 découvrirent le shatta. Depuis, Maureen n'a plus besoin de présentation — mais elle mérite d'être connue pour bien plus
 qu'un moment viral.
 
-## Dillon, Fort-de-France : les racines
+###### Dillon, Fort-de-France : les racines
 
 Maureen Lucea est née le 27 janvier 1999. Elle grandit dans la cité Dillon de Fort-de-France en Martinique, dans une
 famille mélomane, ce qui la mène aux répétitions de sa mère à la chorale gospel. Danseuse dès l'âge de 5 ans, elle
@@ -36,7 +36,7 @@ de la Martinique, elle danse pour les artistes shatta en soirée, puis commence 
 Pas de grand plan de carrière, pas de stratégie marketing calculée — juste une femme qui sait ce qu'elle aime et finit
 par le faire.
 
-## Le shatta : un genre à part entière
+###### Le shatta : un genre à part entière
 
 Pour comprendre Maureen, il faut comprendre le shatta. Dérivé du ragga et du dancehall jamaïcains, le shatta mélange des
 lignes de basse profondes et des percussions minimalistes, laissant place à des textes qui décrivent la violence sociale
@@ -49,7 +49,7 @@ on fait ressortir les basses en atténuant la tonalité des mélodies et où l'o
 faire taper plus fort. Un genre qui voyage, qui contamine, qui donne envie de bouger — et que Maureen a contribué à
 exporter bien au-delà de la Martinique.
 
-## *Flex*, *Tic* et le monde
+###### *Flex*, *Tic* et le monde
 
 Son deuxième single *Flex*, sorti en 2019, la propulse sur le devant de la scène en Martinique, séduisant les médias et
 télévisions locaux. Les médias antillais la couronnent d'emblée représentante et ambassadrice du shatta. Sa carrière
@@ -61,7 +61,7 @@ Certifié disque d'or, *Tic* braque les projecteurs sur Maureen d'une manière q
 lendemain, le shatta martiniquais atterrit dans les soirées parisiennes, sur les playlists des DJ berlinois, dans les
 rédactions de mode internationales.
 
-## Des collaborations qui grandissent le propos
+###### Des collaborations qui grandissent le propos
 
 L'année suivante, sa collaboration avec Kalash sur le tube *Laptop* atteint des sommets, cumule des millions de vues et
 marque un tournant dans son parcours. Le titre est primé lors de la cérémonie Les Flammes comme meilleur titre caribéen
@@ -73,7 +73,7 @@ nouvel artiste international ». Puis vient le passage dans *Nouvelle École* �
 son apparition inattendue fait un effet considérable. En 2025, elle est la première artiste martiniquaise à se produire
 dans le prestigieux programme Colors Studios, où elle interprète son titre *Bend Your Back*.
 
-## *Queen* : le couronnement
+###### *Queen* : le couronnement
 
 La chanteuse de 26 ans publie le 24 octobre 2025 son premier album, le bien nommé *Queen*. Les sonorités antillaises
 contemporaines mêlent français, créole martiniquais et anglais. Elle passe d'un R&B langoureux à la surprenante *Lettre
@@ -88,7 +88,7 @@ tant que femme. »
 consentement et la légitimation des femmes dans un univers musical majoritairement phallocrate. Ce n'est pas de la
 provocation pour le spectacle — c'est une position, tenue avec cohérence depuis le début.
 
-## Sur scène : l'incendie
+###### Sur scène : l'incendie
 
 Pour une danseuse devenue chanteuse, se produire sur scène est une évidence. C'est là où elle excelle, en combinant
 gestuelle et prestation vocale. « Maureen sur scène, c'est un incendie », confie un de ses fans. Elle se produit aux

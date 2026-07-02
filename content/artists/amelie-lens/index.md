@@ -11,7 +11,7 @@ mannequin reconvertie en artiste musicale, elle est aujourd'hui l'une des figure
 techno mondiale, connue pour ses sets hypnotiques alliant basses profondes, rythmiques implacables et textures
 industrielles.
 
-##### La découverte de la techno
+###### La découverte de la techno
 
 Tout commence lors d'un set au Festival de Dour alors qu'elle n'a que 15 ans. Cette expérience transformatrice lui
 révèle la puissance du dancefloor et la magie de la musique électronique. Elle commence alors à mixer sous le
@@ -19,7 +19,7 @@ pseudonyme Renée, en parallèle de sa carrière dans le mannequinat, avant de c
 2014. Sa techno austère et minimaliste lui vaut d'être remarquée par le Labyrinth Club d'Hasselt, où elle devient
 DJ résidente — une position qui forge son identité artistique dans la durée.
 
-##### Une ascension fulgurante
+###### Une ascension fulgurante
 
 En février 2016, Amelie Lens sort son premier EP, Exhale, sur Lyase Recordings. En 2018, elle fonde son propre
 label, Lenske Records, plateforme dédiée à la promotion de nouveaux talents techno. Elle devient rapidement tête

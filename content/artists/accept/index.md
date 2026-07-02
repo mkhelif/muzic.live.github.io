@@ -16,14 +16,14 @@ Fondé autour du guitariste Wolf Hoffmann, du bassiste Peter Baltes et du chante
 développe dès ses débuts un son lourd, puissant et direct qui tranche avec la production léchée de l'époque. La voix
 rauque et reconnaissable entre toutes de Dirkschneider devient rapidement une signature mondiale du genre.
 
-##### L'album fondateur
+###### L'album fondateur
 
 C'est avec *Balls to the Wall* (1983), leur cinquième album studio, qu'Accept accède à une reconnaissance
 internationale. Le titre éponyme, hymne metal par excellence, devient leur chanson signature et l'un des morceaux les
 plus emblématiques du genre. L'album est le seul du groupe à recevoir la certification or aux États-Unis et au Canada,
 ancrant définitivement Accept dans le panthéon du heavy metal.
 
-##### Une influence considérable
+###### Une influence considérable
 
 L'influence d'Accept sur la scène metal mondiale est immense : des groupes aussi différents que Metallica, Megadeth,
 Guns N' Roses, Slayer, Pantera, Helloween ou encore Alice in Chains ont cité le groupe comme une référence majeure. Leur

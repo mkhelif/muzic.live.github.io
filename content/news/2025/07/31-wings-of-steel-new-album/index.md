@@ -14,7 +14,7 @@ octobre 2025. Basé à Los Angeles et fondé en 2019 par le chanteur Leo Unnerma
 incarne le renouveau du heavy metal traditionnel aux États-Unis, puisant directement dans les racines du genre des
 années 70 et 80.
 
-#### Un projet épique et ambitieux
+###### Un projet épique et ambitieux
 
 Le groupe décrit "Winds of Time" comme son projet le plus grand et le plus ambitieux à ce jour. L'album a été
 enregistré, écrit et produit en Californie entre septembre et novembre 2024 par le duo fondateur. La batterie a été
@@ -26,7 +26,7 @@ Le titre éponyme, qui sert également de premier single, est une pièce épique
 l'ambition du groupe. Cette composition hors norme illustre parfaitement l'approche grandiose que Wings of Steel
 souhaite apporter au heavy metal traditionnel.
 
-#### Une ascension fulgurante
+###### Une ascension fulgurante
 
 Depuis leur formation, Wings of Steel a rapidement gagné en crédibilité sur la scène metal internationale. Après leur
 premier EP éponyme en 2022 et leur premier album complet "Gates of Twilight" en 2023, le groupe a effectué sa première
@@ -37,7 +37,7 @@ Cette expérience de la scène européenne a manifestement marqué le groupe, qu
 comprenant Stefan Bailet à la guitare rythmique, Mathieu Trobec à la basse, et Marcel Binder à la batterie, aux côtés
 des membres fondateurs Leo Unnermark et Parker Halub.
 
-#### Trois singles pour préparer le terrain
+###### Trois singles pour préparer le terrain
 
 Pour préparer la sortie de "Winds of Time", le groupe a dévoilé trois singles. Le titre éponyme, sorti en juin 2025, a
 été suivi de deux autres morceaux, dont "Burning Sands", troisième et dernier single dévoilé en septembre. Ces morceaux
@@ -48,14 +48,14 @@ offrent un aperçu d'un album qui promet de combiner des voix puissantes et l'é
 Le groupe a d'ailleurs présenté ces nouveaux morceaux lors de leur "Flight Over Europe Tour '25", une tournée estivale
 qui les a menés dans neuf pays européens, consolidant ainsi leur présence sur le vieux continent.
 
-#### Une reconnaissance internationale
+###### Une reconnaissance internationale
 
 L'album sera publié chez High Roller Records, label allemand spécialisé dans le heavy metal traditionnel, ce qui
 témoigne de la reconnaissance du groupe au-delà des frontières américaines. Les précommandes sont déjà ouvertes, et les
 premiers retours critiques sont particulièrement élogieux, certains chroniqueurs attribuant déjà une note de 4,5/5 à
 l'album.
 
-#### Un avenir prometteur
+###### Un avenir prometteur
 
 Wings of Steel ne compte pas s'arrêter là. Début 2026, le groupe rejoindra Sabaton pour une tournée, une opportunité
 exceptionnelle qui leur permettra de se produire devant des milliers de fans de metal à travers l'Europe et de

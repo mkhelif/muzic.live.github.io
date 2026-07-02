@@ -24,7 +24,7 @@ d'un groupe qui n'a toujours pas dit ce qu'il avait à dire.
 
 *Crooked Teeth* est cet album. Et surprise : c'est peut-être leur meilleur depuis *Infest*.
 
-## La production comme pont entre deux époques
+###### La production comme pont entre deux époques
 
 Une grande partie du résultat tient à l'équipe de production : Nicholas "RAS" Furlong et Colin Brittain ont tous deux
 grandi en fans du groupe et les ont encouragés à saisir le passé tout en restant frais. Cette décision — confier les
@@ -37,7 +37,7 @@ chant dans son style vocal vigoureux, glisse un peu de l'un dans le titre épony
 franchement sur l'ouverture *Break the Fall*. Le résultat est exactement ce que Papa Roach fait de mieux : une énergie
 qui ne lâche pas, des refrains bâtis pour les stades, et une brutalité mesurée qui sait quand appuyer sur le frein.
 
-## Titre par titre : l'équilibre parfait
+###### Titre par titre : l'équilibre parfait
 
 *Break the Fall*, *Crooked Teeth* et *My Medication* forment un trio d'ouverture impeccable — des morceaux de metal
 percutants que les fans de longue date méritent et réclament. Le riff du titre éponyme attaque sans prévenir, Shaddix
@@ -57,7 +57,7 @@ la beauté de reconnaître le besoin de s'appuyer sur quelqu'un dans les moments
 derrière pour que ça fonctionne vraiment — une semi-ballade dotée d'un chorus en crescendo taillé pour les grandes
 scènes.
 
-## Les invités : le bon et le moins bon
+###### Les invités : le bon et le moins bon
 
 Deux collaborations marquent l'album. La première, *Periscope* avec Skylar Grey, est une ballade mid-tempo dans la
 seconde moitié de l'album. Grey, à la voix très polyvalente, complète parfaitement le morceau — elle et Shaddix se
@@ -70,7 +70,7 @@ contexte de l'album. L'histoire racontée — un père sur le point d'avoir un e
 avec Shaddix jouant l'ami responsable rongé par la culpabilité d'avoir conduit en état d'ivresse — est poignante sur le
 papier. L'exécution divise.
 
-## Le bilan de vingt ans de carrière
+###### Le bilan de vingt ans de carrière
 
 Il est évident que Papa Roach ne s'aventure pas trop loin des limites de ce qui les rendait si attrayants à la fois au
 début de leur carrière et ces dernières années — mais à presque un quart de siècle de carrière, quand tant de leurs
@@ -85,7 +85,7 @@ chacune de leurs incarnations jusqu'à ce point : les énormes crochets de hard 
 pouls électronique épaissi qui se répand sur l'album. Mais cette fois, le fantôme de leurs racines nu-metal est réapparu
 à travers la présence accrue du rap dans la livraison de Shaddix.
 
-## Verdict
+###### Verdict
 
 *Crooked Teeth* n'est pas un disque qui réinvente Papa Roach. C'est un disque qui les rappelle à leur meilleur —
 énergique, direct, honnête dans sa brutalité et dans ses ambitions pop. Dix titres d'adrénaline pure qui vous laissent à

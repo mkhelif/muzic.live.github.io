@@ -13,7 +13,7 @@ LeanWolf tire son nom d'une métaphore puissante : celle du loup efflanqué, aff
 caractérise son approche musicale. Cet animal totem reflète parfaitement l'énergie brute et la détermination farouche
 qui habitent ce jeune artiste français, dont la musique se nourrit d'une soif insatiable d'expression et d'authenticité.
 
-##### Un premier EP remarqué (2021)
+###### Un premier EP remarqué (2021)
 
 LeanWolf fait ses premières armes avec un EP autoproduit en 2021 qui ne passe pas inaperçu dans le milieu du blues
 électrique français. Dès cette première sortie, le musicien révèle une fluidité impressionnante à la guitare et un
@@ -26,7 +26,7 @@ Moore pour son lyrisme déchirant et sa maîtrise du vibrato.
 Mais loin de se contenter d'imiter ses maîtres, LeanWolf parvient déjà à apposer sa signature singulière : un
 toucher à la fois sauvage et racé, où la technique virtuose se met au service de l'émotion pure.
 
-##### Une évolution sonore ambitieuse
+###### Une évolution sonore ambitieuse
 
 Avec son album Limbo, enregistré au Mirador Sound Studio de Corconne, LeanWolf franchit un cap décisif dans sa
 carrière. Ce disque marque une rupture avec l'approche plus traditionnelle de son premier EP, au profit d'une vision
@@ -35,7 +35,7 @@ musicale plus globale et audacieuse.
 L'artiste y adopte une approche organique et live, privilégiant la spontanéité et l'authenticité de la prise de son
 plutôt que le perfectionnisme du studio. Cette démarche vise à capturer l'essence brute de son énergie scénique.
 
-##### L'ouverture esthétique
+###### L'ouverture esthétique
 
 Limbo se distingue par son refus des étiquettes restrictives. LeanWolf y multiplie les fissures dans le carcan blues
  pour explorer des territoires musicaux plus vastes : le rock (qui apporte puissance et dynamisme), le soul (qui
@@ -46,7 +46,7 @@ frontières du blues traditionnel, comme Marcus King ou le Tedeschi Trucks Band.
 LeanWolf convoque des espaces sonores vastes, des atmosphères cinématographiques qui évoquent les grands horizons
 américains.
 
-##### Une écriture exigeante
+###### Une écriture exigeante
 
 Au-delà de la prouesse instrumentale, Limbo révèle un compositeur d'une grande exigence. LeanWolf ne se contente
 pas de démonstrations techniques : il construit des chansons structurées, avec une véritable attention portée à
@@ -55,7 +55,7 @@ l'architecture musicale et à la narration émotionnelle.
 Son écriture met en lumière le spectre complet de ses émotions, des passages les plus introspectifs aux explosions
 cathartiques, créant un album d'une profondeur psychologique remarquable.
 
-##### La révélation vocale
+###### La révélation vocale
 
 L'une des surprises majeures de Limbo réside dans l'affirmation de LeanWolf comme chanteur d'une remarquable
 expressivité.
@@ -67,7 +67,7 @@ tout par son interprétation vocale.
 Cette évolution témoigne d'une maturité artistique : LeanWolf n'a plus rien à prouver techniquement et peut enfin se
 concentrer sur l'essentiel – toucher l'auditeur au cœur.
 
-##### Un Positionnement Unique
+###### Un Positionnement Unique
 
 Dans le paysage musical français contemporain, LeanWolf occupe une place singulière. Il incarne cette nouvelle
 génération de musiciens qui : maîtrisent parfaitement l'héritage du blues tout en refusant de s'y enfermer, placent

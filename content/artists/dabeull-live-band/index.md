@@ -10,7 +10,7 @@ s'est taillé une réputation unique dans le paysage musical français en faisan
 religion. C'est à la fin des années 1990, dans les bacs des disquaires parisiens, qu'il découvre le
 funk américain grâce à ses amis, une révélation qui orientera toute sa carrière.
 
-##### L'alchimiste du nu-funk
+###### L'alchimiste du nu-funk
 
 Sa méthode est celle d'un artisan : boîtes à rythmes vintage, synthétiseurs analogiques, samples
 soigneusement sélectionnés. Dabeull modernise le disco, le funk et le zouk sans les trahir, créant ce
@@ -19,7 +19,7 @@ contemporaine. Après ses premiers pas en ligne à partir de 2006, c'est sa renc
 producteur Cézaire qui lui ouvre les portes du label Roche Musique, pépinière du son french touch de
 nouvelle génération.
 
-##### Tubes et reconnaissance
+###### Tubes et reconnaissance
 
 Les titres « Don't Forget It », « Last Night » et « Day & Night » installent son style dans les
 playlists internationales. « You & I » dépasse les 25 millions d'écoutes sur Spotify. En janvier 2023,

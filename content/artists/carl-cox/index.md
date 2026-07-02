@@ -10,7 +10,7 @@ plus iconiques de la musique électronique mondiale. DJ, producteur et entrepren
 décennies l'essence même de la techno et de la house, portant ces musiques des sous-sols de Brighton jusqu'aux plus
 grandes scènes du monde.
 
-##### Les origines d'une vocation
+###### Les origines d'une vocation
 
 Dès l'adolescence, Carl Cox développe une passion dévorante pour la musique en mixant des cassettes dans sa chambre.
 À quinze ans, il commence à travailler comme DJ mobile, se frottant d'abord aux sonorités disco avant de découvrir la
@@ -22,7 +22,7 @@ une technique virtuose qui lui permet de superposer les pistes avec une précisi
 Sa présence lors des grandes raves de la fin des années 1980, notamment le Second Summer of Love, lui confère une
 aura légendaire.
 
-##### Un règne sans partage sur la techno mondiale
+###### Un règne sans partage sur la techno mondiale
 
 En 1991, son single « I Want You (Forever) » lui ouvre les portes du grand public, atteignant la troisième place des
 charts britanniques. Mais c'est sa série de mix CD, en particulier F.A.C.T. sorti en 1995, qui devient une référence
@@ -32,7 +32,7 @@ DJ Magazine le couronne numéro un de son classement des cent meilleurs DJs en 1
 influence totale sur la scène mondiale. Ses albums studio — At the End of the Cliche (1996) et Phuture 2000 (1999) —
 prolongent son exploration sonore au-delà des dancefloors.
 
-##### Ibiza, le label et l'empire
+###### Ibiza, le label et l'empire
 
 À partir de 2001, Carl Cox installe sa résidence mythique « Music is Revolution » au club Space à Ibiza, où il
 officiera seize saisons consécutives. Cette résidence devient l'une des plus célébrées de l'histoire de la nuit

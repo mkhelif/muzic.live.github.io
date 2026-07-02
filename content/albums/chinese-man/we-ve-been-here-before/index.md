@@ -21,7 +21,7 @@ Six ans de silence. Six ans pour que les Aixois de Chinese Man digèrent leur pr
 un ouroboros musical où la fin rejoint le commencement avec une maîtrise confondante.
 
 
-##### Architecture sonore : le grand écart maîtrisé
+###### Architecture sonore : le grand écart maîtrisé
 
 L'album s'ouvre sur *Salune*, collision sidérale entre orchestre symphonique et beats hip-hop massifs, sublimée par la
 voix de René Barjavel commentant Apollo 8. Coup de génie : transformer un document d'archive en manifeste poétique sur
@@ -33,7 +33,7 @@ réflexion acide sur la routine moderne. L'alliance entre la mélancolie andalou
 papier, évidente à l'écoute.
 
 
-##### Babel musicale : l'art du métissage radical
+###### Babel musicale : l'art du métissage radical
 
 *¡Que Sí!* propulse l'auditeur en pleine cumbia psychédélique – Chinese Man transforme ce folklore colombien en transe
 électronique contemporaine. Plus loin, *Trouble* convoque Stylo G pour une fusion reggae-didgeridoo qui pulvérise les
@@ -43,25 +43,25 @@ General Elektriks apporte sur *Cycle* une respiration éthérée bienvenue, flû
 havre de paix au cœur du chaos créatif. Cette alternance entre tension et relâchement structure l'album avec une
 intelligence dramaturgique rare dans le genre.
 
-##### Le hip-hop comme langue universelle
+###### Le hip-hop comme langue universelle
 
 *The Code* et *Sacre Bleu* rappellent les fondamentaux : Chinese Man reste viscéralement hip-hop. Mais quel hip-hop !
 Polyglotte, métissé, où ASM, Youthstar, KT Gorique et Miscellaneous transforment le cypher en assemblée constituante
 d'une nouvelle internationale musicale. Le flow devient vecteur d'unité dans la diversité – utopie réalisée.
 
-##### L'orchestration du vide
+###### L'orchestration du vide
 
 Les interludes instrumentaux – *Déjà Vu* façon Joe Hisaishi, *Where I Go* aux accents siroco, *No One Left* en
 apesanteur M83 – ne sont pas des respirations mais des propositions esthétiques autonomes. Chinese Man maîtrise l'art
 japonais du *ma*, cet espace-temps suspendu où le silence devient éloquent.
 
-##### Circularité cosmique
+###### Circularité cosmique
 
 *Lune* referme la boucle ouverte par *Salune*, handpan et erhu tissant une toile orientale sur fond orchestral. Barjavel
 revient conclure son homélie spatiale. Le message ? Nous sommes prisonniers de cycles, mais Chinese Man transforme cette
 répétition en spirale ascendante.
 
-##### Verdict : l'album-monde
+###### Verdict : l'album-monde
 
 We've Been Here Before transcende le simple comeback. C'est une cartographie sonore de notre époque mondialisée, où
 Marseille dialogue avec Dar es Salaam, où le classique européen fusionne avec le dub jamaïcain, où l'électronique

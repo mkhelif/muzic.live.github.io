@@ -21,7 +21,7 @@ de l'album *Theater Of Salvation* de son groupe Edguy. Son concept est de mettre
 opera avec un grand nombre d'invités. Vingt-cinq ans plus tard, Avantasia est devenu l'un des projets les plus ambitieux
 et les plus durables du metal européen — un opéra permanent, sans fin ni plafond.
 
-## Tobias Sammet : l'homme-orchestre de Fulda
+###### Tobias Sammet : l'homme-orchestre de Fulda
 
 Tobias Sammet est né le 21 novembre 1977 à Fulda, en Allemagne de l'Ouest. Il est le chanteur et principal compositeur
 du groupe de power metal Edguy, qu'il a fondé en 1992 avec des amis de lycée, sous l'influence musicale d'AC/DC, de
@@ -32,7 +32,7 @@ les univers narratifs, les architectures sonores, les histoires qui traversent l
 chercher, un par un, les voix du monde entier pour les habiter. Le projet est une extension de sa propre vision : plus
 grand qu'Edguy, plus complexe, plus ouvert.
 
-## La naissance d'un univers
+###### La naissance d'un univers
 
 Au printemps 1999, pendant la tournée *Theater of Salvation* d'Edguy, Tobias Sammet a l'idée de réaliser un
 album-concept de metal opera qui fait participer plusieurs musiciens. Après la fin de la tournée, il commence à
@@ -44,7 +44,7 @@ de son ambition : de la musique en avant, de la fantaisie en musique. À ce stad
 permanents : Sammet aux claviers et au chant, Henjo Richter à la guitare, Markus Grosskopf à la basse et Alex Holzwarth
 à la batterie. Tout le reste — les voix invitées, les solos, les orchestrations — est convoqué album par album.
 
-## Une discographie en deux temps
+###### Une discographie en deux temps
 
 **La première époque (2001-2002)** pose les fondations. En 2001, un single homonyme et un premier album studio, *The
 Metal Opera*, sont publiés. Le projet se met en pause après la sortie de *The Metal Opera Part II* en septembre 2002.
@@ -63,7 +63,7 @@ Tate, Candice Night (Blackmore's Night) et Mille Petrozza (Kreator) aux côtés 
 Moonflower Society*, neuvième album studio, sort le 21 octobre 2022 via Nuclear Blast, avec Floor Jansen (Nightwish),
 Michael Kiske (Helloween), Jørn Lande et Ralf Scheepers (Primal Fear) parmi les invités.
 
-## Les invités : l'annuaire du metal mondial
+###### Les invités : l'annuaire du metal mondial
 
 Ce qui distingue Avantasia de tous ses contemporains, c'est la qualité et la fidélité des voix invitées. Sammet ne
 recrute pas des guests pour leur nom — il compose pour eux, écrit des parties qui correspondent à leur timbre, à leur
@@ -76,7 +76,7 @@ Floor Jansen et Tarja Turunen (Nightwish), Sharon den Adel (Within Temptation), 
 Atkins (Pretty Maids), Tony Martin (Black Sabbath), Candice Night (Blackmore's Night). Des voix qui, dans d'autres
 contextes, ne partageraient jamais le même studio.
 
-## La scène : du studio aux stades
+###### La scène : du studio aux stades
 
 Lorsqu'Avantasia s'est vu proposer le programme du soir sur la scène principale du Wacken Open Air en 2008, Sammet a
 décidé de porter le projet sur scène — ce qui n'était pas prévu à l'origine. Depuis, les tournées Avantasia sont des
@@ -88,7 +88,7 @@ Plus tard, des artistes issus des Scorpions, de Rainbow, de Mr. Big, de Magnum e
 projet est devenu une institution — une scène permanente où les plus grandes voix du metal européen savent qu'elles sont
 les bienvenues.
 
-## Ce qu'Avantasia dit du metal
+###### Ce qu'Avantasia dit du metal
 
 Avantasia est la démonstration que le metal peut être grand — pas seulement en termes de volume ou de technique, mais en
 termes d'ambition narrative et émotionnelle. Chaque album est une invitation à un voyage : un monde avec ses

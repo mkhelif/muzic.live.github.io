@@ -10,7 +10,7 @@ compositeur et chanteur né le 12 mars 1979. Le groupe naît en 2003 dans un con
 Libertines — le groupe qu'il avait co-fondé avec Carl Barât en 1997 — cherche un espace pour continuer à créer et à
 se produire sur scène.
 
-##### Une naissance dans la tourmente
+###### Une naissance dans la tourmente
 
 L'histoire de Babyshambles est indissociable de celle de Pete Doherty, artiste génial et personnage romanesque autant
 que figure de la presse people britannique, dont la vie personnelle — addictions, arrestations, relation avec Kate Moss
@@ -21,7 +21,7 @@ La formation originelle réunit Patrick Walden à la guitare, Drew McConnell à 
 Leur premier single, Babyshambles, sort en avril 2004 sur High Society Records. Le son est brut, fiévreux,
 inégal — mais habité d'une énergie rare.
 
-##### Trois albums, une écriture singulière
+###### Trois albums, une écriture singulière
 
 Le premier album, Down in Albion (2005), est enregistré avec Mick Jones (The Clash) comme producteur. La voix de Kate
 Moss y apparaît en chœurs, alimentant encore la fascination médiatique autour du groupe. Le disque, malgré ses
@@ -31,7 +31,7 @@ Shotter's Nation (2007), produit par Stephen Street (The Smiths, Blur), est sans
 plus homogène, mieux produit, il contient des titres qui s'imposent parmi les meilleurs du rock britannique de
 l'époque. Sequel to the Prequel (2013) clôt provisoirement le chapitre Babyshambles avec une ambition retrouvée.
 
-##### Un retour annoncé
+###### Un retour annoncé
 
 En mars 2025, lors d'un concert solo à Watford, les membres du groupe se retrouvent sur scène, et Pete Doherty annonce
 à Newcastle le retour de Babyshambles. La mort du guitariste Patrick Walden, en juin 2025, laisse cependant une ombre

@@ -13,7 +13,7 @@ de l'image et de la narration visuelle. Sa musique explore des esthétiques somb
 l'ambient, de l'IDM, du dub, de la techno expérimentale et de la bass music. En 2026, son travail a été sélectionné pour
 le programme Éclats d'AURA, qui lui offre une résidence au LabLab.
 
-##### Elisalien, l'image en mouvement
+###### Elisalien, l'image en mouvement
 
 Elisalien est une VJ et créatrice vidéo basée à Lyon, spécialisée dans la performance visuelle live et la création
 d'images pour la musique et le spectacle vivant. Depuis 2017, elle mêle visuels génératifs, créations personnelles et

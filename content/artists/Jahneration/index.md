@@ -20,7 +20,7 @@ apportant une couleur française contemporaine.
 Leurs débuts révèlent une parfaite maîtrise des codes du reggae
 traditionnel et une volonté d'innovation qui les distingue immédiatement sur la scène reggae européenne.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Jahneration se fait connaître grâce à des titres comme "Boom Shakalak" et "More Love", qui rencontrent un succès notable
 sur les radios spécialisées et lors des festivals de reggae européens.
@@ -32,7 +32,7 @@ reggae.
 Leurs albums révèlent une maturité croissante et une maîtrise technique qui confirment leur statut de référence
 du reggae français contemporain.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Jahneration se caractérise par des rythmiques solides, des mélodies entêtantes et des arrangements soignés
 qui révèlent une parfaite maîtrise des codes du reggae.
@@ -44,7 +44,7 @@ qui respecte l'héritage jamaïcain.
 Leurs textes abordent les thèmes classiques du reggae - spiritualité, justice
 sociale, amour, unité - avec une sincérité et une conviction qui touchent un public large et diversifié.
 
-##### Actualité
+###### Actualité
 
 Jahneration continue de représenter l'excellence du reggae français contemporain, prouvant que ce genre musical peut
 s'épanouir au-delà de ses terres d'origine tout en conservant son authenticité et son message universel de paix et

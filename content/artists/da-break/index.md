@@ -19,7 +19,7 @@ hip-hop, créant un style hybride qui se distingue dans le paysage musical fran�
 Leurs débuts révèlent des producteurs maîtrisant parfaitement les codes de l'électronique moderne tout en y apportant
 une dimension urbaine qui enrichit leur proposition artistique.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Da Break développe sa notoriété grâce à des productions qui mélangent habilement électronique dansante et éléments
 urbains, créant des compositions qui séduisent aussi bien les amateurs de musique électronique que les passionnés de
@@ -31,7 +31,7 @@ sophistiquées.
 Leurs morceaux révèlent une approche créative qui refuse les catégorisations traditionnelles et explore de nouveaux
 territoires sonores.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Da Break se caractérise par un mélange d'éléments électroniques modernes, de rythmiques hip-hop et de
 sonorités urbaines contemporaines qui créent un univers sonore personnel et reconnaissable.
@@ -42,7 +42,7 @@ production.
 Leurs influences puisent dans l'électronique française, le hip-hop international et les courants urbains actuels, créant
 un son qui reflète la diversité de la scène musicale urbaine française.
 
-##### Actualité
+###### Actualité
 
 Da Break continue d'explorer les possibilités créatives offertes par le mélange des genres musicaux, représentant cette
 nouvelle génération de producteurs français qui refusent les frontières stylistiques.

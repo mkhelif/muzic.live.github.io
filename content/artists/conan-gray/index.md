@@ -13,7 +13,7 @@ qui traversera toute son œuvre : la nostalgie, la mélancolie des sentiments no
 des amitiés et des amours de jeunesse. Révélé par internet, adoubé par l'industrie, Conan Gray est devenu
 en quelques années l'une des figures les plus importantes de la pop alternative de sa génération.
 
-##### La naissance d'un artiste sur internet
+###### La naissance d'un artiste sur internet
 
 Avant les disques et les tournées mondiales, Conan Gray est d'abord un adolescent texan qui poste des vidéos
 sur YouTube : vlogs intimes, reprises de chansons, compositions personnelles enregistrées dans sa chambre.
@@ -27,7 +27,7 @@ Season*, un court recueil de bedroom-pop mélancolique qui capture parfaitement 
 Les chansons sont dépouillées mais efficaces, portées par une voix déjà singulière et des textes d'une
 maturité surprenante pour un artiste aussi jeune.
 
-##### Kid Krow et la consécration
+###### Kid Krow et la consécration
 
 En mars 2020, Conan Gray publie son premier album longue durée, *Kid Krow*, dans un contexte particulier :
 le monde entre en confinement, et ses chansons sur l'isolement, l'amour impossible et la quête d'identité
@@ -40,7 +40,7 @@ obtenant la certification platine à quatre reprises aux États-Unis.
 évoque la douleur de cœur — ce « super-mal » particulier que produisent les chagrins d'amour — et l'album
 débute dans le top dix dans plusieurs pays anglophones.
 
-##### L'évolution artistique : pop des années 80 et au-delà
+###### L'évolution artistique : pop des années 80 et au-delà
 
 Sur *Found Heaven* (2024), Conan Gray opère un virage stylistique marqué vers la synthpop et la pop
 new wave des années 1980. Les synthétiseurs remplacent en grande partie les guitares acoustiques, les

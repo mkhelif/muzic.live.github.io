@@ -24,7 +24,7 @@ Ce qui distingue Storm Orchestra d'emblée, c'est l'équilibre de ses forces. Fo
 motrice. Ce n'est pas le cas ici. C'est un véhicule à trois moteurs."* Une philosophie qui se reflète dans chaque aspect
 de leur travail — composition, production, scène.
 
-## Un son à la croisée des grands
+###### Un son à la croisée des grands
 
 Soniquement, Storm Orchestra se positionne dans la grande tradition du rock alternatif britannique, mais avec une
 ambition qui dépasse les frontières. Le groupe cite volontiers les **Arctic Monkeys** comme influence principale, mais
@@ -38,22 +38,22 @@ l'expérimentation : le groupe refuse de se laisser enfermer dans une case et pu
 musique orchestrale pour construire des compositions riches en relief.
 
 
-## Parcours : du DIY au label international
+###### Parcours : du DIY au label international
 
-### 2020 — L'EP fondateur
+###### 2020 — L'EP fondateur
 
 Dès la fin 2020, Storm Orchestra sort un EP éponyme qui va rapidement dépasser le million d'écoutes en ligne. Pour un
 groupe entièrement indépendant, sans machine promotionnelle derrière eux, c'est un signal fort : le public répond à ce
 rock taillé pour les grandes salles.
 
-### 2023 — *What A Time To Be Alive*
+###### 2023 — *What A Time To Be Alive*
 
 Produit par Alias Studio, leur premier album complet paraît en 2023 et cumule plus de **4 millions de streams**. Il
 aborde des thèmes sociétaux — l'amour, le réchauffement climatique, l'environnement — avec une sincérité qui résonne. La
 réception est unanime : Storm Orchestra n'est pas un groupe de plus, c'est une révélation. Spotify France les désigne
 **"Artist to Watch 2024"** ; ils intègrent également les listes de fins d'année de Deezer et Spotify.
 
-### 2024 — La signature et l'explosion
+###### 2024 — La signature et l'explosion
 
 L'année 2024 est celle du tournant. Le single **"Drummer"** devient leur titre phare, accumulant une présence massive
 sur les playlists editoriales d'Amazon Music, Deezer, Tidal et Spotify — dont *Top of The Rock: Best of 2024* et *Amazon
@@ -61,7 +61,7 @@ Best of 2024: Rock*. Dans la foulée, le label néerlandais **Mascot Records** �
 The Winery Dogs ou Clutch — signe le trio parisien. La consécration d'une trajectoire entièrement construite en
 indépendants.
 
-### 2025 — *Get Better*
+###### 2025 — *Get Better*
 
 Sorti en avril 2025, leur second album *Get Better* marque une maturité nouvelle. Là où *What A Time To Be Alive*
 regardait le monde, *Get Better* se penche sur l'intérieur — les émotions, les luttes personnelles, la résilience.
@@ -76,7 +76,7 @@ Les titres *"Bright Soul"*, *"Crush the Mirrors"*, *"Tear Me Down"*, *"We Will B
 Somehow"* dessinent un album à la fois viscéral et lumineux, ancré dans des tensions émotionnelles universelles.
 
 
-## Sur scène : un électrochoc
+###### Sur scène : un électrochoc
 
 Un concert de Storm Orchestra, c'est une expérience physique. Energie brute, connexion frontale avec le public,
 atmosphère immersive — chaque date est pensée comme un événement en soi. Le groupe a su bâtir sa réputation live avant
@@ -87,7 +87,7 @@ Le trio déploie sur scène une intensité qui rappelle pourquoi le rock est d'a
 hurlent, la batterie impulse, et la voix de Maxime Goudard cherche et trouve quelque chose d'urgent, de nécessaire.
 
 
-## En résumé
+###### En résumé
 
 Storm Orchestra, c'est un power trio parisien qui a construit son chemin à la force de ses compositions, sans compromis
 et sans intermédiaire, avant que l'industrie ne finisse par les rattraper. Dans un paysage musical français où le rock

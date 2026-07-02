@@ -11,7 +11,7 @@ conventions du genre : il ne cherche pas à séduire les puristes mais à créer
 nourri d'absurdisme, d'un sentiment d'inadéquation au monde et d'une curiosité insatiable pour les
 croisements entre jazz, hip-hop et musiques électroniques.
 
-##### Jazz pas content
+###### Jazz pas content
 
 Daoud a été récompensé en 2022 par le tremplin Jazz ConneXion, reconnaissance institutionnelle qui
 contraste avec son refus de se conformer aux codes du jazz traditionnel. Son premier album *Good Boy*
@@ -20,7 +20,7 @@ aigu de la mise en scène sonore qui rappelle que la musique peut être à la fo
 profondément drôle. Son deuxième album *OK* (août 2025, label ACT Music) confirme et amplifie cette
 vision, lui valant le Qobuzissime 2025.
 
-##### Scènes et tournées
+###### Scènes et tournées
 
 Depuis *Good Boy*, Daoud enchaîne des concerts à guichets fermés dans des salles aussi diverses que le
 Ronnie Scott's de Londres ou le Montreux Jazz Festival, et en France dans les clubs et festivals de jazz

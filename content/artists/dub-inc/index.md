@@ -9,7 +9,7 @@ Dub Inc est l'un des groupes reggae les plus importants de France, originaire de
 département de la Loire. Fondé en 1997 sous le nom de Dub Incorporation, le collectif adopte son nom
 actuel en 2006 et construit depuis lors une discographie riche et une réputation scénique exceptionnelle.
 
-##### Origines stéphanoises et formation
+###### Origines stéphanoises et formation
 
 Le projet voit le jour à Saint-Étienne en 1997, porté à l'origine par trois musiciens : Hakim
 « Bouchkour » Meridja et Aurélien « Komlan » Zohou au chant et aux percussions, ainsi que Grégory
@@ -17,7 +17,7 @@ Le projet voit le jour à Saint-Étienne en 1997, porté à l'origine par trois 
 avec l'arrivée de Frédéric Peyron et Idir Derdiche aux claviers, Moritz Von Korff à la basse, et Jérémie
 Gregeois à la guitare. Cette configuration donne à Dub Inc une présence live puissante et généreuse.
 
-##### Un reggae engagé et métissé
+###### Un reggae engagé et métissé
 
 La musique de Dub Inc puise dans le reggae roots, le dub, le ragga et la world music, avec des textes
 engagés abordant des thèmes sociaux, politiques et humains avec une franchise désarmante. Les deux
@@ -25,7 +25,7 @@ chanteurs, porteurs d'héritages culturels différents — algérien pour Bouchk
 incarnent parfaitement le métissage qui caractérise le son du groupe. Cette diversité n'est pas
 seulement musicale : elle est la matière même de leurs œuvres.
 
-##### Une discographie impressionnante
+###### Une discographie impressionnante
 
 Depuis leur premier album Diversité (2003), Dub Inc n'a cessé de construire une œuvre cohérente et
 ambitieuse. Afrikya (2008), Hors contrôle (2010) et Paradise (2013) sont parmi leurs disques les plus

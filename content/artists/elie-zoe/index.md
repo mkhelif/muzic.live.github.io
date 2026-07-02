@@ -17,7 +17,7 @@ réputation construite concert après concert, album après album, loin des voie
 Elie Zoé fait partie de ces rares artistes dont la musique et les mots parviennent à trouver un chemin direct vers les
 âmes. Un jeu de guitare terreux, une voix qui évolue sur le fil des émotions, une présence magnétique et profonde.
 
-## Origines et éveil musical
+###### Origines et éveil musical
 
 Ses parents, architectes formés à l'EPFL, ne sont pas musiciens. C'est après un concert d'Henri Dès, impressionné par sa
 présence sur scène, qu'Elie Zoé décide de se consacrer à la musique et commence la guitare à l'âge de 8 ans. Une
@@ -30,7 +30,7 @@ mathématiques et la physique, il commence des études en électronique à l'Éc
 Anna Aaron jusqu'en 2015. Cette période d'apprentissage scénique, passée dans l'ombre d'une autre artiste, forge les
 fondations d'une maîtrise live qui deviendra l'une de ses marques de fabrique.
 
-## Un son et une approche reconnaissables
+###### Un son et une approche reconnaissables
 
 Elie Zoé est un songwriter qui marque par son jeu de guitare rugueux et l'efficacité de ses mélodies. Sa voix est à la
 fois délicate et rugueuse — tantôt douce, tantôt affirmée. Elle a été comparée à celle de PJ Harvey ou Cat Power. C'est
@@ -43,7 +43,7 @@ soigneusement placés, confère à son travail une beauté radicale et minimalis
 Bien que francophone de naissance, c'est en anglais qu'il écrit, ce qui lui permet de saisir l'indéfinissable et
 d'exprimer des réponses émotionnelles aux questions rationnellement obsédantes du quotidien.
 
-## Un univers intellectuel et engagé
+###### Un univers intellectuel et engagé
 
 Au-delà de la musique, Elie Zoé nourrit son écriture de lectures transdisciplinaires exigeantes. Inspiré par des
 recherches en physique, sociologie, anthropologie et biologie, son travail réimagine la place de l'humanité au sein de
@@ -51,7 +51,7 @@ l'écosystème terrestre, promouvant la collaboration, l'entraide et un rapport 
 du monde cohérente et engagée qui traverse ses albums comme un fil rouge, sans jamais verser dans le militantisme
 facile.
 
-## Une trajectoire discographique cohérente
+###### Une trajectoire discographique cohérente
 
 Le projet prend forme grâce aux rencontres déterminantes avec le musicien-producteur Louis Jucker, le batteur Nicolas
 Pittet, et le label chaux-de-fonnier Humus Records. Dès le départ, une approche lo-fi, low-tech, DIY et ancrée dans une
@@ -70,7 +70,7 @@ prédilection : une guitare âgée de soixante ans, un amplificateur artisanal, 
 cassé. Les récompenses ne tardent pas : « Best Live Act » aux Swiss Live Talents 2022 et « Album of the Year 2022 »
 décerné par Indiesuisse.
 
-## Des scènes d'exception
+###### Des scènes d'exception
 
 Avec plus de 700 concerts à son actif, Elie Zoé s'est forgé une solide réputation de scène, reconnue notamment par le
 prix « Best Act Romandie » aux Swiss Music Awards 2019 et le Swiss Music Prize en 2020.
@@ -79,7 +79,7 @@ Les scènes prestigieuses se multiplient : l'Auditorium Stravinski lors du Montr
 l'affiche avec Nick Cave and the Bad Seeds, et un concert devant 20 000 personnes en ouverture de Muse à Berne. Des
 rendez-vous qui consacrent un artiste dont la force scénique va bien au-delà du cadre helvétique.
 
-## Transition et renaissance artistique
+###### Transition et renaissance artistique
 
 En octobre 2024, Elie Zoé franchit une étape décisive en rendant publique sa transition de genre. Pour des années, elie
 avait enfoui l'évidence de ne pas être une fille. Durant la tournée *Hello Future Me*, sa voix avait progressivement
@@ -95,7 +95,7 @@ d'un renouveau créatif. Son nouvel album, *Shifting Forms*, se positionne dans 
 précédents et est décrit par l'artiste comme son préféré : « Il m'a réappris à chanter. Ce n'est pas une rupture avec
 *Hello Future Me*, mais sa continuité. »
 
-## *Shifting Forms* : une nouvelle ère
+###### *Shifting Forms* : une nouvelle ère
 
 Le premier extrait du quatrième album, *change my name*, sorti le 28 mars 2025, est un manifeste en deux temps. Les
 guitares terreuses et la batterie brute se font l'écho d'une déclaration radicale sur le pouvoir des mots : leur
@@ -106,7 +106,7 @@ correspond pas : il reste un observateur.
 *Shifting Forms*, attendu à l'automne 2025, s'annonce comme l'album d'une transformation pleinement assumée — celle d'un
 artiste qui n'a jamais cessé de chercher, et qui a eu le courage de se trouver.
 
-## En résumé
+###### En résumé
 
 Elie Zoé est bien plus qu'un songwriter à guitare électrique. C'est une conscience artistique en mouvement permanent,
 nourrie par la science, la philosophie du vivant et une honnêteté émotionnelle rare. Des salles intimistes aux grands

@@ -16,7 +16,7 @@ moins de vingt ans l'un des rendez-vous estivaux les plus importants de l'Ouest 
 populiste, éclectique sans être dilué, ancré dans ses territoires sans jamais s'y enfermer : la Fête du Bruit est un
 modèle de ce que peut être un festival de musiques actuelles quand il est construit avec conviction.
 
-## Landerneau, 2009 : la naissance d'un son
+###### Landerneau, 2009 : la naissance d'un son
 
 Après de nombreux concerts à Landerneau, la création d'un festival en plein air devient le nouveau défi de l'association
 L'Art-Scène, avec le soutien de la ville. En 2009, la première Fête du Bruit se tient à Landerneau, avec Tryo, Bernard
@@ -33,7 +33,7 @@ The Offspring, Patti Smith, Macklemore, Iggy Pop, Garbage, Gossip, IAM, Orelsan,
 qui dit tout de la ligne éditoriale : pas de case unique, pas de genre imposé, juste une exigence de qualité et une
 curiosité sans limites.
 
-## Saint-Nolff, 2018 : la famille s'agrandit
+###### Saint-Nolff, 2018 : la famille s'agrandit
 
 La Fête du Bruit dans Saint-Nolff naît en 2018 sur le site de Kerboulard, à Saint-Nolff. Créée par Régie Scène pour
 célébrer les dix ans de la Fête du Bruit dans Landerneau, cette déclinaison morbihannaise conquiert le public breton dès
@@ -47,7 +47,7 @@ plus grands festivals de musique de Bretagne et un moteur du tourisme estival da
 Le festival a su fidéliser un public familial et intergénérationnel, attiré par la diversité musicale et l'ambiance
 chaleureuse qui règnent sur le site de Kerboulard.
 
-## Une même structure, deux ADN
+###### Une même structure, deux ADN
 
 Derrière les deux festivals, une équipe dirigée par Joël Bernard (direction et programmation), Carol Consola
 (partenariats), Arthur Bernard (programmation, production, billetterie) et Baptiste Beauchamp (communication et presse)
@@ -62,7 +62,7 @@ Un détail notable : le festival maintient sa philosophie d'égalité artistique
 même scène unique, créant une atmosphère particulière et conviviale. Une scène, pas deux. Le public ne choisit pas, ne
 rate rien, ne se divise pas : tout le monde est au même endroit, au même moment.
 
-## Un festival qui pense à tout le monde
+###### Un festival qui pense à tout le monde
 
 La Fête du Bruit ne se contente pas d'être un beau plateau. Elle pense l'expérience festivalière dans son ensemble. À
 Landerneau, une zone d'accueil spécifique pour les personnes à mobilité réduite est réservée, avec un couloir aux
@@ -74,7 +74,7 @@ centres-villes aux sites.
 territoire. Des food trucks bretons aux bières locales, la Fête du Bruit est aussi une fête du terroir — une façon de
 célébrer la Bretagne autant que la musique.
 
-## Ce que la Fête du Bruit représente
+###### Ce que la Fête du Bruit représente
 
 Aujourd'hui, après 15 ans de militantisme culturel au service de la musique, de la région et du public, la Fête du Bruit
 attire plus de 50 000 spectateurs chaque année. En cumulant les deux sites, c'est plus de 100 000 festivaliers qui

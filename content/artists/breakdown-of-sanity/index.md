@@ -13,7 +13,7 @@ Nerph) de rejoindre le projet en tant que chanteur, puis César Gonin à la bass
 la batterie en décembre, et enfin Christoph Gygax au second lead guitare en 2009, après le départ de
 Sandro Keusen.
 
-##### Une carrière construite à la force du poignet
+###### Une carrière construite à la force du poignet
 
 Leur premier album, The Last Sunset, sort début 2009, entièrement autoproduit et autofinancé par Stingel.
 Cet acte de totale indépendance définit l'ADN du groupe : travailler dans les limites de ses propres
@@ -26,7 +26,7 @@ Le groupe poursuit sa discographie avec des albums qui approfondissent leur prop
 breakdowns dévastateurs, mélodies de guitare aériennes, voix alternant growls gutturaux et chant clair —
 avant de marquer une pause en 2017, laissant leurs fans dans l'attente.
 
-##### Résurrection et renouveau
+###### Résurrection et renouveau
 
 Le retour débute en 2020 avec le single "Traces", suivi de "Black Smoke" (2021), "Collapse" (2023),
 "Echoes of the Void" (juillet 2024) et "Perfect Enemy" (décembre 2024) : une renaissance progressive,

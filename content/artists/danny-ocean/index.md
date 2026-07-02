@@ -12,7 +12,7 @@ les six suivantes. Trilingue (espagnol, français, anglais), formé à plusieurs
 il rentre à Caracas à l'adolescence et découvre la musique aux côtés de son père dans un studio
 d'enregistrement.
 
-##### Un tube né comme cadeau d'amour
+###### Un tube né comme cadeau d'amour
 
 Sa carrière professionnelle débute en 2009 avec la création d'une chaîne YouTube. Mais la bascule
 intervient en septembre 2016 : il publie « Me Rehúso », une ballade urbaine qu'il avait initialement
@@ -21,7 +21,7 @@ ses cendres en 2017 sous forme d'une version anglaise intitulée « Baby I Won't
 viral s'emballe, franchissant le milliard et demi de vues sur YouTube. Une trajectoire qui ressemble
 à un conte moderne.
 
-##### Un univers à part dans la pop latino
+###### Un univers à part dans la pop latino
 
 Avec son premier album *54+1* (2019), entièrement autoproduit et maîtrisé par Ricardo Sangiao, Danny
 Ocean démontre que sa musique ne se résume pas à un tube. Son son mêle reggaeton mélodique, pop urbaine,

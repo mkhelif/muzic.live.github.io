@@ -20,7 +20,7 @@ les sonorités contemporaines pour créer un style personnel et accessible.
 Elle développe rapidement une identité artistique qui mélange traditions brésiliennes et influences européennes, créant
 un pont musical entre ses deux cultures d'appartenance.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Flavia Coelho se fait connaître grâce à des albums qui témoignent de sa capacité à moderniser la musique brésilienne
 tout en respectant ses codes traditionnels.
@@ -31,7 +31,7 @@ ses talents de chanteuse et d'interprète.
 Ses performances scéniques confirment sa capacité à transmettre la joie de vivre brésilienne à travers une musique
 festive et émotionnellement riche, établissant sa réputation sur la scène world music européenne.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Flavia Coelho puise dans toute la richesse de la musique populaire brésilienne, de la bossa nova au samba en
 passant par la MPB contemporaine, créant un son authentique teinté de modernité européenne.
@@ -42,7 +42,7 @@ scénique communicative.
 Ses influences révèlent une connaissance approfondie du patrimoine musical brésilien qu'elle réinterprète avec une
 fraîcheur contemporaine.
 
-##### Actualité
+###### Actualité
 
 Flavia Coelho continue de porter les couleurs de la musique brésilienne en Europe, maintenant vivante cette tradition
 musicale riche et diversifiée.

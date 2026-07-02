@@ -13,7 +13,7 @@ Tottenham Hotspur Stadium le 20 juin en headliner historique, Primavera Sound, L
 annoncent une tournée nord-américaine de 22 dates qui traversera les États-Unis et le Canada de septembre à octobre
 2026. Little Simz et Deltron 3030 monteront sur scène à leurs côtés pour la quasi-totalité des concerts.
 
-#### *The Mountain* en arène
+###### *The Mountain* en arène
 
 L'album *The Mountain*, sorti le 20 mars 2026, est le neuvième disque de Gorillaz. Quinze chansons, des collaborations
 qui couvrent plusieurs continents, une production qui étire le spectre sonore du groupe entre pop baroque, électronique
@@ -25,7 +25,7 @@ Seattle (Climate Pledge Arena). Entre les deux, 22 dates dans des salles de la t
 York, 29 septembre), d'un United Center (Chicago, 8 octobre) ou d'un Kia Forum à Los Angeles (24 octobre). Le groupe
 s'accordera également une tête d'affiche au festival Shaky Knees à Atlanta le 20 septembre.
 
-#### Un plateau à la hauteur
+###### Un plateau à la hauteur
 
 Le choix de Little Simz comme première partie principale dit beaucoup. La rappeuse londonienne, Mercury Prize 2022 pour
 *Sometimes I Might Be Introvert*, est l'une des rares artistes capables de tenir debout face au gigantisme visuel d'un
@@ -37,7 +37,7 @@ l'ensemble des dates. Le projet, référence absolue du hip-hop conceptuel depui
 retrouve là un écrin à la mesure de son ambition narrative. Une présence qui souligne encore la dimension curatoriale de
 Gorillaz : le groupe ne choisit jamais ses invités au hasard.
 
-#### Les dates clés
+###### Les dates clés
 
 La côte Est ouvre le bal : Orlando et Miami en ouverture, Washington DC le 26 septembre, puis New York le 29. Le groupe
 remonte ensuite vers le Canada (Montréal le 3 octobre, Toronto le 4) avant de traverser le Midwest (Cleveland, Detroit,

@@ -10,7 +10,7 @@ et du multi-instrumentiste Olivier Coursier (claviers, guitare, batterie). Le no
 Artificial Animals Riding on Neverland, une formule poétique qui donne le ton d'un univers musical fondé sur
 l'onirisme, la douceur mélancolique et une pop sophistiquée aux teintes électroniques et indie.
 
-##### Une révélation cinématographique
+###### Une révélation cinématographique
 
 La rencontre entre Simon Buret et Olivier Coursier, intervenue en 2004 sur recommandation d'un ami commun,
 débouche sur un premier album éponyme, Artificial Animals Riding on Neverland, publié en 2007. Mais c'est
@@ -19,7 +19,7 @@ au grand public. Le titre U-Turn (Lilii), utilisé dans le film, devient un phé
 moment de grâce de la pop française du milieu des années 2000, associé pour beaucoup à cette période
 particulière d'un cinéma français à la fois populaire et sensible.
 
-##### Une pop entre fragilité et élégance
+###### Une pop entre fragilité et élégance
 
 Simon Buret apporte à AaRON une voix haut perchée et fragile, capable d'une expressivité remarquable, ainsi
 qu'un jeu de piano, violon et harmonica qui ancre le duo dans une tradition folk et chamber pop. Olivier

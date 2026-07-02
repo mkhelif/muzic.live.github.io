@@ -19,7 +19,7 @@ développant rapidement une complicité musicale évidente.
 Leurs débuts révèlent une approche minimaliste mais intense du rock, où l'énergie brute prime sur la sophistication
 technique, créant un son puissant et authentique qui rappelle les grands noms du rock des années 60 et 70.
 
-##### Carrière musicale
+###### Carrière musicale
 
 The Inspector Cluzo se fait connaître progressivement grâce à leurs performances scéniques remarquables et leurs
 compositions efficaces qui marquent immédiatement l'auditeur.
@@ -30,7 +30,7 @@ de batterie puissantes qui créent une dynamique live exceptionnelle.
 Leur réputation dépasse rapidement les frontières françaises, le duo tournant régulièrement en Europe et aux États-Unis,
 prouvant que le rock français peut rivaliser avec les meilleures productions anglo-saxonnes.
 
-##### Style et influences
+###### Style et influences
 
 Le style de The Inspector Cluzo puise dans le rock blues, le punk et le garage rock, créant un son dépouillé mais
 intense où chaque instrument compte.
@@ -41,7 +41,7 @@ sur la complexité technique.
 Leurs textes, principalement en anglais, abordent des thèmes universels du rock - liberté, rébellion, amour, route -
 avec une sincérité et une simplicité qui touchent directement l'auditeur.
 
-##### Actualité
+###### Actualité
 
 The Inspector Cluzo continue de représenter l'authenticité et la passion du rock indépendant français, démontrant
 qu'avec du talent et de la détermination, il est possible de percer sur la scène rock internationale.

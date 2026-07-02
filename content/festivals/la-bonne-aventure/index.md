@@ -17,7 +17,7 @@ ce festival sur le port de Dunkerque, chaque troisième week-end de juin. Trois 
 l'entrée gratuite. Pas de bracelet à plusieurs dizaines d'euros, pas de pass VIP, pas de logique de rentabilité imposée.
 La Bonne Aventure est un festival de la ville, pour la ville — et cela fait toute la différence.
 
-## Dunkerque et la Digue de Malo-les-Bains
+###### Dunkerque et la Digue de Malo-les-Bains
 
 Le site est l'un des secrets les mieux gardés du Nord de la France. La mythique digue de Malo-les-Bains, face à la mer
 du Nord, accueille chaque année le festival avec une générosité spatiale rare — un front de mer ouvert à tous les vents,
@@ -30,7 +30,7 @@ faire la fête et quelques pâtés de sable ensemble. Pendant 72 heures, le fest
 badauds, les touristes, les mélomanes et les familles qui passent par là de se retrouver pour une répétition générale
 des congés d'été.
 
-## Un festival gratuit — sans condition
+###### Un festival gratuit — sans condition
 
 L'entrée est libre et gratuite. Ce choix fondateur n'est pas un argument marketing — c'est une position politique et
 culturelle. Dans un paysage festivalier qui voit les tarifs exploser année après année, La Bonne Aventure rappelle que
@@ -41,7 +41,7 @@ Cette gratuité implique des choix difficiles, des équilibres financiers serré
 collectivités et les entreprises locales — et elle est maintenue depuis neuf éditions sans jamais avoir été remise en
 question.
 
-## Une programmation éclectique et sans œillères
+###### Une programmation éclectique et sans œillères
 
 La ligne artistique de La Bonne Aventure est à l'image de son public : curieuse, diverse, sans cloison stylistique.
 L'édition 2026 — qui se tient les 19, 20 et 21 juin — en est l'illustration parfaite. Gaëtan Roussel y côtoie Pomme,
@@ -52,7 +52,7 @@ sonorités latines à un programme qui embrasse aussi l'électro, la chanson et 
 La programmation s'étend aux Parcours Secrets, à un programme Kids Friendly pensé pour les familles, et à des espaces
 dédiés aux arts de la plage — parce qu'un festival sur la mer du Nord ne saurait se limiter aux seules scènes.
 
-## Les Parcours Secrets : l'aventure dans l'aventure
+###### Les Parcours Secrets : l'aventure dans l'aventure
 
 C'est l'ingrédient magique qui distingue La Bonne Aventure de la quasi-totalité des festivals français. Et si vous
 embarquiez pour une destination inconnue, pour assister au live d'un artiste dont le nom est tenu secret jusqu'au
@@ -61,7 +61,7 @@ l'expérience. En petits groupes, les festivaliers suivent un itinéraire mystè
 artiste dans un lieu insolite — cave, cour cachée, bâtiment inattendu. Ces sessions affichent complet depuis plusieurs
 éditions. La preuve que l'aventure attire davantage que la certitude.
 
-## Une attention sincère au bien-être de tous
+###### Une attention sincère au bien-être de tous
 
 La Bonne Aventure a intégré dans son ADN des dispositifs qui vont au-delà du simple accueil festivalier. Le programme
 Nuits Douces traite les questions de prévention avec sérieux. L'accessibilité pour les personnes en situation de

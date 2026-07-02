@@ -21,7 +21,7 @@ fusionne heavy metal classique, hard rock aux accents des années 80, synthés c
 d'énergie pop. Avec une durée de 38 minutes, l'album se veut un cri de ralliement pour les marginaux et une célébration
 de la force intérieure.
 
-#### Les singles et les thèmes de l'album
+###### Les singles et les thèmes de l'album
 
 Pour construire l'attente, Battle Beast a dévoilé plusieurs singles qui donnent un aperçu de la variété et de la
 puissance de l'album.
@@ -40,14 +40,14 @@ puissance de l'album.
 * Last Goodbye : pe premier single de l'album est un hommage à la force de l'esprit humain, inspiré par une
   rencontre avec une patiente courageuse dans un hôpital.
 
-#### La voix puissante de Noora Louhimo
+###### La voix puissante de Noora Louhimo
 
 La charismatique chanteuse Noora Louhimo est saluée par la critique comme l'une des vocalistes les plus sous-estimées de
 sa génération, passant avec une aisance déconcertante des cris puissants du power metal à un storytelling plus doux,
 rappelant parfois Ann Wilson de Heart. Son interprétation et son vécu personnel imprègnent profondément les thèmes de
 résistance et d'empowerment qui traversent Steelbound.
 
-#### Une tournée européenne d'envergure
+###### Une tournée européenne d'envergure
 
 Pour célébrer la sortie de l'album, Battle Beast s'élancera dans une tournée européenne massive dès le 17 octobre 2025,
 débutant par leur plus grand concert headliner en Allemagne à l'Inselpark Arena de Hambourg. La tournée s'étendra

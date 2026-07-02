@@ -9,7 +9,7 @@ contagieuse et un univers résolument festif. Puisant dans ses origines hispaniq
 sonore méditerranéenne et métissée, brassant reggaeton, flamenco, funk brésilien, bubbling, guaracha, bouyon et
 drum'n'bass avec une générosité communicative.
 
-##### Un univers entre Méditerranée et Caraïbes
+###### Un univers entre Méditerranée et Caraïbes
 
 Ce qui distingue Carlala des autres DJs de sa génération, c'est l'audace de ses mélanges : là où d'autres restent
 cantonnés à un genre, elle traverse les frontières musicales avec une aisance qui parle à des publics très variés.
@@ -21,7 +21,7 @@ statut de talent à suivre en participant à de nombreux festivals et événemen
 Festival Beauregard 2026 en Normandie, l'un des festivals incontournables de l'été français, ainsi que du Lovely
 Brive Festival.
 
-##### Une présence live électrisante
+###### Une présence live électrisante
 
 Sur scène, Carlala ne se contente pas de dérouler une sélection : elle crée un moment collectif, une communion
 dansante où la diversité de ses influences enrichit plutôt qu'elle ne brouille le propos. Sa capacité à lire la

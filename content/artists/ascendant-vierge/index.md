@@ -11,14 +11,14 @@ Casual Gabberz. Leur rencontre est le fruit d'un hasard créatif : en 2018, Paul
 journée le morceau « Oubliette » extrait de l'EP *Hyperstition* de Mathilde Fernandez, et l'alchimie est telle
 que les deux artistes décident immédiatement de prolonger la collaboration.
 
-##### Un nom, une astrologie, une identité
+###### Un nom, une astrologie, une identité
 
 Le nom du duo ne doit rien au hasard : il reflète les signes astrologiques de ses membres, Paul étant Vierge
 et Mathilde Fernandez — native des Gémeaux — ayant la Vierge pour signe ascendant. Cette attention au détail
 symbolique est cohérente avec l'univers soigné et conceptuel qu'ils construisent, à la croisée de la
 pop sombre, de la techno mélodique et d'une esthétique cyberpunk assumée.
 
-##### Un style inclassable entre techno et cyberpop
+###### Un style inclassable entre techno et cyberpop
 
 Paul Seul apporte la matière instrumentale — techno, trance, hardcore, breakbeat, drum and bass — tandis que
 Mathilde Fernandez y dépose une voix gothique pop, influencée par Mylène Farmer et David Bowie. Le résultat
@@ -27,7 +27,7 @@ hyperpop, tout en conservant une singularité qui résiste aux étiquettes. Leur
 clip réalisé par le collectif Golgotha, devient viral pendant les confinements en France et leur vaut des
 comparaisons avec l'électroclash de Sexy Sushi.
 
-##### Ascension et premier album
+###### Ascension et premier album
 
 Leur EP de débuts *Vierge* (octobre 2020), sept titres accueillis avec enthousiasme par la presse spécialisée,
 pose les bases d'une reconnaissance rapide. Le duo enchaine les festivals emblématiques — Nuits Sonores 2021,

@@ -20,7 +20,7 @@ traditionnelle —, le groupe s'est imposé comme l'un des phénomènes musicaux
 capable de remplir le Madison Square Garden à deux reprises grâce à la seule force de sa communauté en ligne et d'un
 funk millimétré, minimaliste et irrésistible.
 
-## Les membres
+###### Les membres
 
 Le groupe repose sur quatre musiciens fondateurs qui se sont rencontrés lors d'une session d'enregistrement au
 Duderstadt Center, un studio universitaire, pour le projet de fin d'études d'un ami.
@@ -55,7 +55,7 @@ tournées : le chanteur **Antwaun Stanley**, le saxophoniste et claviériste **J
 musiciens ont contribué aux enregistrements au fil des ans, parmi lesquels les légendes David T. Walker, Bernard Purdie,
 James Gadson et Blake Mills.
 
-## Le son Vulfpeck
+###### Le son Vulfpeck
 
 Le son de Vulfpeck est immédiatement reconnaissable : un funk minimaliste, sans fioritures, où chaque note compte.
 L'esthétique du groupe repose sur le concept de « low volume funk » — un funk joué à volume contenu, où la dynamique et
@@ -69,7 +69,7 @@ paroles, souvent portées par la voix de Katzman ou celle de Stanley. Des titres
 the Moment*, *Animal Spirits* et le redoutable *Dean Town* (un instrumental basse-claviers devenu culte) ont accumulé
 des centaines de millions de vues sur YouTube.
 
-## *Sleepify* : le coup de génie
+###### *Sleepify* : le coup de génie
 
 En mars 2014, Vulfpeck publie *Sleepify* sur Spotify : un album de dix pistes… entièrement silencieuses. Le groupe
 invite ses fans à écouter l'album en boucle pendant la nuit, générant ainsi des royalties grâce au système de
@@ -80,7 +80,7 @@ Tour* — une tournée entièrement gratuite pour les spectateurs, dans cinq vil
 parfaitement l'esprit du groupe : un mélange d'humour, d'intelligence et de générosité qui défie les conventions de
 l'industrie musicale.
 
-## Madison Square Garden : l'exploit
+###### Madison Square Garden : l'exploit
 
 Le 28 septembre 2019, Vulfpeck accomplit un exploit remarquable : le groupe remplit le Madison Square Garden de New
 York — 14 000 places — sans manager, sans label, sans aucune publicité payante. L'annonce de la mise en vente des
@@ -91,7 +91,7 @@ Stanley, Cory Wong, Joey Dosik et de nombreux invités (dont Chris Thile, Dave K
 sous forme d'album live et de film de concert. En septembre 2025, le groupe revient au MSG pour un deuxième concert à
 guichets fermés, cette fois avec une apparition du légendaire batteur Bernard Purdie.
 
-## Discographie
+###### Discographie
 
 La discographie du groupe reflète un rythme de production soutenu et une cohérence artistique rare :
 
@@ -102,7 +102,7 @@ top 10 du Billboard R&B, *Mr Finish Line* (2017), *Hill Climber* (2018), *The Jo
 (2020), *Schvitz* (2022) et *Clarity of Cal* (2025), enregistré live au UC Theatre de Berkeley. L'album live *MSG II*,
 capté lors du second concert au Madison Square Garden, est sorti en décembre 2025.
 
-## L'écosystème Vulf
+###### L'écosystème Vulf
 
 Vulfpeck n'est pas qu'un groupe : c'est un écosystème musical. Jack Stratton a également fondé **The Fearless Flyers**,
 un quartet instrumental réunissant Joe Dart, Cory Wong, le guitariste Mark Lettieri et le batteur Nate Smith. Ce projet
@@ -111,7 +111,7 @@ ouverture de Vulfpeck. Chaque membre du groupe mène par ailleurs des projets so
 en funk-jazz, Joey Dosik en soul, Woody Goss en jazz — créant un univers musical interconnecté que les fans explorent
 avec ferveur.
 
-## Un modèle unique
+###### Un modèle unique
 
 Ce qui rend Vulfpeck véritablement unique dans le paysage musical actuel, c'est leur modèle : entièrement indépendants,
 sans label ni manager, ils contrôlent chaque aspect de leur carrière — enregistrement, production, distribution,

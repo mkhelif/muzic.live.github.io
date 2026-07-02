@@ -13,7 +13,7 @@ groupes les plus célébrés du rap américain des années 2000, notamment grâc
 producteur Pharrell Williams et leur style d'écriture unique — lyrique, ambitieux et profondément ancré dans
 une imagerie de la rue.
 
-##### La découverte par Pharrell
+###### La découverte par Pharrell
 
 C'est Pharrell Williams, lui aussi originaire de Virginia Beach, qui repère le duo et les convainc de
 travailler ensemble. Williams, alors en pleine ascension avec The Neptunes — son duo de production avec
@@ -22,7 +22,7 @@ une esthétique sonore très particulière : des beats minimalistes et syncopés
 nerveuses, des synthés froids et métalliques. Ce son, déjà révolutionnaire dans la pop et le R&B des années
 2000, trouve une correspondance parfaite avec le flow acéré et les textes ciselés de Pusha T et No Malice.
 
-##### Lord Willin' : un début au sommet
+###### Lord Willin' : un début au sommet
 
 Avant de parvenir à leur premier album commercial, Clipse traverse plusieurs années difficiles. Un premier
 album enregistré pour Elektra Records, *Exclusive Audio Footage*, reste sur les étagères lorsque le label
@@ -35,7 +35,7 @@ et *Gangsta Lean* installent le duo comme une force majeure du rap américain. *
 avec son beat minimaliste construit sur une simple caisse claire et des effets de bouche, est souvent cité
 comme l'un des morceaux les plus influents du rap des années 2000.
 
-##### Hell Hath No Fury : l'album de référence
+###### Hell Hath No Fury : l'album de référence
 
 Après plusieurs années d'attente liées à des conflits avec leur label Star Trak/Jive Records, Clipse publie
 *Hell Hath No Fury* en novembre 2006. L'album est unanimement acclamé par la critique : XXL lui décerne

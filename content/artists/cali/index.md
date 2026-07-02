@@ -15,14 +15,14 @@ infirmière catalane, María Pilar Gonzalès. Leur fils Vincent, le père de Cal
 généalogie de résistants et de frontaliers nourrit profondément l'imaginaire de l'artiste, son sens de la
 solidarité et son goût pour les causes qui dépassent le simple intérêt personnel.
 
-##### Des débuts dans le rock
+###### Des débuts dans le rock
 
 Avant de se lancer en solo, Cali fonde et anime le groupe Tom Scarlett, actif de 1997 à 2001, qui publie
 un album éponyme en 1998. Il y est chanteur principal et guitariste, forgeant dans ce cadre collectif les
 bases de son écriture et de son rapport à la scène. La dissolution du groupe libère une énergie qui va
 trouver son exutoire dans un projet personnel d'une sincérité désarmante.
 
-##### La révélation et les succès
+###### La révélation et les succès
 
 C'est aux Francofolies de La Rochelle fin 2002 que le label Labels/EMI repère le phénomène et décide de
 signer l'artiste. Son premier album solo, L'amour parfait, produit par l'Américain Daniel Presley, sort
@@ -36,7 +36,7 @@ audience et son talent pour les grandes chansons populaires. L'espoir (2008) mar
 avec des collaborations comme le duo "Je ne te reconnais plus" avec Olivia Ruiz et le texte engagé "1000
 cœurs debout".
 
-##### Un artiste engagé et prolifique
+###### Un artiste engagé et prolifique
 
 Au fil de sa discographie — sept albums et plus, dont Les Choses Défendues (2016), réalisé par Edith
 Fambuena — Cali n'a jamais cessé de chercher, d'expérimenter et de prendre des risques. Son disque de

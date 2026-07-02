@@ -11,14 +11,14 @@ et marocaine, ayant grandi à La Courneuve, en Seine-Saint-Denis. Avant de se de
 une carrière de psychologue, mais sa passion pour le chant l'oriente vers une autre voie. C'est en 2004 que tout
 change.
 
-##### La révélation Nouvelle Star
+###### La révélation Nouvelle Star
 
 En 2004, Amel Bent participe à la deuxième saison de Nouvelle Star sur M6. Elle y finit à la troisième place, et
 cela malgré une jambe cassée qui la contraint à se produire assise sur un canapé pendant toute la compétition. Son
 premier single, Ma philosophie, co-écrit avec la rappeuse Diam's, entre directement à la première place des
 classements français, annonçant une carrière durable.
 
-##### Une discographie construite dans la durée
+###### Une discographie construite dans la durée
 
 Son premier album, Un jour d'été (2004), confirme que le succès télévisé n'est pas une parenthèse mais un vrai
 départ. À 20 ans (2007) et Où Je Vais (2009) lui permettent d'asseoir son style, mêlant énergie R'n'B, chaleur

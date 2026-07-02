@@ -15,14 +15,14 @@ Fondé à Manhattan par le guitariste Vincent « Vinnie Stigma » Capuccio, le g
 l'arrivée du chanteur Roger Miret en 1982. Ensemble, ce duo fondateur forge un son brutal, direct et résolument ancré
 dans la réalité urbaine de la ville — un son qui va définir le hardcore new-yorkais pour les décennies à venir.
 
-##### Un album fondateur
+###### Un album fondateur
 
 En 1984, Agnostic Front publie *Victim in Pain*, album devenu instantanément légendaire qui cristallise tout ce que le
 NYHC a de plus puissant et authentique. Produit avec une urgence et une énergie brutes, il propulse le groupe au premier
 rang d'une scène en pleine ébullition. Le groupe enrichit ensuite son arsenal en incorporant des éléments de thrash
 metal, élargissant son audience sans jamais renier son ADN.
 
-##### Héritage et longévité
+###### Héritage et longévité
 
 Agnostic Front incarne la continuité et la fidélité aux valeurs du hardcore : au fil de leur carrière de plus de quatre
 décennies, ils n'ont jamais cédé aux compromis commerciaux, restant un symbole d'intégrité pour des générations de fans.

@@ -28,7 +28,7 @@ ambiance rock et subversive. Près de 700 spectateurs ont eu la chance d'assiste
 Revnoir, Grandma's Ashes et Gravekvlt, avant que l'événement ne soit diffusé à 22h55 sur France 4, offrant ainsi une
 visibilité nationale inédite au genre.
 
-#### Un palmarès dominé par Landmvrks et Gojira
+###### Un palmarès dominé par Landmvrks et Gojira
 
 La soirée a couronné Landmvrks comme le grand gagnant de cette première édition. Le groupe marseillais a réalisé un
 doublé impressionnant en remportant le prix d'Artiste de l'année ainsi que celui de l'Album de l'année pour "The Darkest
@@ -41,7 +41,7 @@ guitariste Christian Andreu a également reçu la prestigieuse Foudre d'honneur,
 exceptionnelle à la scène metal". Ému, il a déclaré : "C'est émouvant d'être récompensé pour un événement comme ça",
 soulignant l'importance de "prendre des risques".
 
-#### Les autres lauréats de la soirée
+###### Les autres lauréats de la soirée
 
 Revnoir a été sacré Révélation de l'année, récompensant ainsi l'émergence d'un nouveau talent sur la scène metal
 française. Le Hellfest, géant incontournable qui a réuni environ 280 000 spectateurs à Clisson en juin dernier, a
@@ -50,7 +50,7 @@ logiquement remporté le prix de l'Événement de l'année, consolidant son stat
 Dans une démarche engagée, l'association More Women on Stage a reçu la Foudre de l'engagement sociétal et
 environnemental de l'année, soulignant l'importance de la diversité et de l'inclusion dans le milieu metal.
 
-#### Une cérémonie qui fait écho aux Flammes
+###### Une cérémonie qui fait écho aux Flammes
 
 Les Foudres s'inscrivent dans la lignée des Flammes, cérémonie dédiée au rap et aux musiques urbaines créée en 2023 en
 réaction au manque de représentativité du hip-hop aux Victoires de la Musique. Cette initiative témoigne d'une volonté
@@ -61,7 +61,7 @@ permettant ainsi aux fans de participer activement à la célébration de leur s
 préalablement établi une liste de pré-nominés parmi lesquels figuraient également Alcest, Sun, Houle, Mass Hysteria et
 Last Train.
 
-#### Une reconnaissance historique pour le metal français
+###### Une reconnaissance historique pour le metal français
 
 Comme l'a souligné Thomas VDB, maître de cérémonie : "Récompenser le metal, c'est mettre en lumière une scène d'une
 vitalité dingue." Cette première édition des Foudres représente effectivement un moment électrique pour un genre qui

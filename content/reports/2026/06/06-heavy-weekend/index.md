@@ -21,7 +21,7 @@ le groupe français le plus incontournable de la scène metal mondiale. Une mont
 qui ne connaîtra finalement aucun temps faible.
 
 
-## Nova Twins
+###### Nova Twins
 
 {{< carousel pictures="pictures/nova-twins" alt="Nova Twins" author="mkhelif" >}}
 
@@ -36,7 +36,7 @@ attitude résolument rock et une présence scénique communicative. Le public, d
 immédiatement présent. Une excellente entrée en matière qui lance idéalement cette deuxième journée.
 
 
-## Cavalera - *Chaos A.D.*
+###### Cavalera - *Chaos A.D.*
 
 {{< carousel pictures="pictures/cavalera-chaos-a-d" alt="Cavalera - Chaos A.D." author="mkhelif" >}}
 
@@ -52,7 +52,7 @@ ferveur par un public conquis.
 Plus de trente ans après sa sortie, **Chaos A.D.** n'a rien perdu de son impact.
 
 
-## Trivium
+###### Trivium
 
 {{< carousel pictures="pictures/trivium" alt="Trivium" author="mkhelif" >}}
 
@@ -70,7 +70,7 @@ au-dessus de la scène, ajoutant une touche spectaculaire à un concert déjà i
 En gardant ses classiques pour la fin, **Trivium** achève de chauffer un public désormais prêt à exploser.
 
 
-## Gojira
+###### Gojira
 
 Et puis vient enfin le moment que tout le monde attend.
 

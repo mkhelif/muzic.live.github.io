@@ -10,7 +10,7 @@ clubs de Melbourne aux scènes électroniques les plus exigeantes de France et d
 sur les dancefloors australiens, elle développe un style résolument ancré dans le croisement entre la Chunky House,
 l'UK Garage, les samples hip-hop et la Tech-House.
 
-##### Une trajectoire singulière
+###### Une trajectoire singulière
 
 C'est lors de son séjour à Melbourne que Camille Doe découvre véritablement l'art du mix, s'immergeant dans une scène
 clubbing ouverte et exigeante qui forge son sens du groove et sa maîtrise des transitions. De retour en France, elle
@@ -19,7 +19,7 @@ s'impose progressivement comme l'une des figures montantes d'un milieu électron
 En 2019, elle cofonde GOGO GREEN, un collectif dédié à la promotion d'une industrie musicale plus responsable et
 solidaire, affirmant dès ses débuts une vision de l'électronique ancrée dans des valeurs collectives.
 
-##### Reconnaissance internationale
+###### Reconnaissance internationale
 
 L'année 2024 marque un tournant décisif dans la carrière de Camille Doe : elle publie quatre titres sur le label
 Southern Fried Records de Fatboy Slim, devenant ainsi la première artiste française à signer un EP sur ce label

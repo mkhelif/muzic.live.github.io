@@ -12,7 +12,7 @@ scène death metal technique mondiale, porté par un niveau instrumental d'une e
 volonté constante de repousser les frontières de leur genre. Leur album *None So Vile* (1996) est
 universellement reconnu comme un jalon incontournable du death metal brutal.
 
-##### Des origines underground
+###### Des origines underground
 
 La formation initiale en 1988 rassemble le batteur Mike Atkin, le guitariste Steve Thibault et le chanteur
 Dan « Lord Worm » Greening. Après plusieurs années de démos circulant dans le réseau underground et une
@@ -21,7 +21,7 @@ du batteur Flo Mounier — qui deviendra l'une des figures les plus admirées de
 extrême — et de nouveaux membres. Le groupe se rebaptise Cryptopsy, terme issu du grec *kryptos* (caché)
 et *opsis* (vue), soit « vue cachée » ou « autopsy secrète ».
 
-##### None So Vile, une référence absolue
+###### None So Vile, une référence absolue
 
 *Blasphemy Made Flesh* (1994), leur album de début, attire l'attention des cercles death metal underground
 et leur vaut un contrat avec le label suédois Wrong Again Records. Mais c'est *None So Vile* (1996) qui
@@ -34,7 +34,7 @@ une énergie et une cohésion qui ont marqué des générations de musiciens de 
 leur palette, intégrant des éléments de jazz et de fusion dans un cadre toujours brutal. La discographie
 de Cryptopsy compte au total neuf albums studio, deux EP et un album live.
 
-##### Évolutions et permanence
+###### Évolutions et permanence
 
 La carrière de Cryptopsy n'est pas exempte de turbulences. Des changements de line-up, notamment au chant
 — Lord Worm est remplacé puis revient, puis cède sa place à d'autres — et une période controversée avec

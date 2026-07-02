@@ -12,7 +12,7 @@ répétition. Ce mode de création atypique a contribué à forger un son hybrid
 quelque part entre l'énergie brute du post-punk, les pulsations électroniques du dance-rock et la sensibilité
 mélodique de la pop alternative britannique.
 
-##### Naissance dans le confinement
+###### Naissance dans le confinement
 
 L'histoire d'Adult DVD commence en janvier 2021, quand Harry Hanson et Greg Lonsdale publient leur premier
 single, *FOMO*, sur Bandcamp. La chanson est suivie peu après par *Broken English*, leur premier titre disponible
@@ -25,7 +25,7 @@ synthés, Jake Williams aux claviers, Jonathan Newell à la batterie et George M
 configuration à six têtes donne au groupe une densité sonore et une capacité scénique qui le distingue des
 projets électroniques trop souvent cantonnés aux ordinateurs portables.
 
-##### Un son entre deux mondes
+###### Un son entre deux mondes
 
 Le son d'Adult DVD puise à des sources très précises. Les influences revendiquées — LCD Soundsystem, Soulwax,
 Daft Punk, mais aussi les groupes post-punk de la fin des années 1970 — se retrouvent dans un mélange assumé
@@ -40,7 +40,7 @@ comme un groupe « faisant de la dance-punk immense et euphorique », tandis que
 capacité à créer des live shows qui ressemblent davantage à des soirées de club qu'à des concerts rock
 traditionnels.
 
-##### La consécration
+###### La consécration
 
 L'année 2026 marque un tournant décisif dans la trajectoire d'Adult DVD : le groupe signe avec Fat Possum
 Records, label américain réputé pour son flair à repérer les talents alternatifs avant qu'ils n'explosent. Cette

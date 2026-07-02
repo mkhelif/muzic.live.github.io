@@ -9,7 +9,7 @@ Architects est un groupe de metalcore britannique originaire de Brighton, fondé
 Tom Searle. Initialement appelé Counting the Days, le groupe prend rapidement son nom définitif et s'impose comme l'une
 des formations les plus importantes de la scène metalcore britannique des deux décennies suivantes.
 
-##### Les débuts et l'émergence
+###### Les débuts et l'émergence
 
 Après quelques changements de lineup dans les premières années, le groupe trouve sa configuration vocale définitive en
 2007 avec l'arrivée de Sam Carter au chant, dont la voix puissante et polyvalente devient rapidement l'une des marques
@@ -21,7 +21,7 @@ Les années suivantes sont marquées par une évolution constante : *The Here an
 plus mélodique et post-hardcore, divisant momentanément leur fanbase, avant qu'*Daybreaker* (2012) ne ramène une
 intensité bienvenue, culminant à la 42e place des charts britanniques.
 
-##### Le tournant All Our Gods Have Abandoned Us
+###### Le tournant All Our Gods Have Abandoned Us
 
 L'album *Lost Forever // Lost Together* (2014) représente une montée en puissance considérable, atteignant le top 20
 britannique et s'invitant pour la première fois dans le Billboard 200 américain. Mais c'est *All Our Gods Have Abandoned
@@ -30,7 +30,7 @@ clé, succombe à un cancer de la peau après trois ans de lutte. Son décès la
 et l'album, enregistré en sachant que Tom était gravement malade, porte en lui une charge émotionnelle et lyrique
 exceptionnelle, explorant des thèmes existentiels avec une urgence rare.
 
-##### La consécration et les années récentes
+###### La consécration et les années récentes
 
 Loin de s'effondrer, Architects transcende le deuil et produit certains de leurs albums les plus ambitieux. *Holy Hell*
 (2018), hommage explicite à Tom Searle, renforce leur statut de piliers du metalcore. *For Those That Wish to Exist*

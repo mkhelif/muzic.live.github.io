@@ -22,7 +22,7 @@ Le projet naît de sa volonté d'expérimenter avec les sons électroniques mode
 mélodique héritée de son expérience en formation, créant ainsi un style unique qui se distingue dans le paysage
 électro-pop français.
 
-##### Carrière musicale
+###### Carrière musicale
 
 À travers Voyou, Christophe Musset développe un catalogue de compositions raffinées et méticuleusement arrangées, qui
 révèlent sa maîtrise technique et sa vision artistique mature.
@@ -34,7 +34,7 @@ Le projet reçoit un accueil critique favorable, notamment pour la qualité de s
 approche artistique, qui renouvelle les codes de la chanson française contemporaine en y intégrant des éléments
 électroniques sophistiqués.
 
-##### Style et influences
+###### Style et influences
 
 L'univers de Voyou se caractérise par une production léchée, des synthétiseurs vintages, des boîtes à rythmes
 analogiques et une approche mélodique qui rappelle parfois les grands noms de la French Touch tout en conservant une
@@ -46,7 +46,7 @@ parfaitement avec ses arrangements électroniques.
 Ses textes, en français, abordent des thèmes intimistes et contemporains avec une poésie moderne qui résonne avec
 l'époque actuelle et touche un public en quête d'authenticité.
 
-##### Actualité
+###### Actualité
 
 Voyou continue d'évoluer et d'explorer de nouveaux territoires sonores, représentant cette nouvelle génération
 d'artistes français qui réinvente la chanson populaire en y intégrant des éléments électroniques modernes.

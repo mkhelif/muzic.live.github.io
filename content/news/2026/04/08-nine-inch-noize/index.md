@@ -12,7 +12,7 @@ panneau d'affichage planté sur la route de Coachella, à Indio en Californie : 
 entre Nine Inch Nails et Boys Noize, sortira un album éponyme le 17 avril. Le disque sera catalogué « HALO 38 » dans
 la discographie officielle de Trent Reznor — un numéro qui dit tout sur le sérieux de l'entreprise.
 
-#### Une collaboration qui couvait depuis longtemps
+###### Une collaboration qui couvait depuis longtemps
 
 L'alliance n'est pas née de nulle part. Depuis 2024, les chemins de Reznor/Ross et Boys Noize n'ont cessé de se
 croiser : d'abord avec *Challengers (Mixed)*, l'album de remixes de la bande originale du film de Luca Guadagnino, puis
@@ -20,14 +20,14 @@ avec la bande originale de *Tron: Ares* (2025) sur laquelle Ridha a contribué, 
 Divergence* début 2026. Les concerts de la tournée « Peel It Back » (2025-2026) avaient également intégré un segment
 B-stage où les trois musiciens jouaient ensemble, laissant entrevoir ce qui se préparait.
 
-#### Coachella comme rampe de lancement
+###### Coachella comme rampe de lancement
 
 Le groupe a fait ses débuts live sur la scène Sahara de Coachella les 11 et 18 avril 2026, avec un set complet incluant
 une reprise de *Tainted Love* de Soft Cell. Le second concert, le lendemain de la sortie de l'album, fait office de
 soirée de lancement mondiale devant l'un des publics les plus connectés de la planète — un choix stratégique pour un
 projet qui brouille les frontières entre industrial rock et électro berlinoise.
 
-#### Un objet sonore inclassable
+###### Un objet sonore inclassable
 
 Avec la puissance de frappe industrielle de Nine Inch Nails et les architectures électroniques de Boys Noize, *Nine Inch
 Noize* s'annonce comme un album qui refuse les étiquettes. Reznor, dont le travail de compositeur pour le cinéma

@@ -21,7 +21,7 @@ développant un style rétro-romantique unique qui évoque l'âge d'or de la mus
 Il forme son groupe Silvertone au début des années 80 et commence à développer le son distinctif qui le caractérisera
 tout au long de sa carrière.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Chris Isaak connaît le succès international avec son hit "Wicked Game", une ballade mélancolique qui devient un
 classique instantané grâce à son clip vidéo iconique et à sa mélodie inoubliable.
@@ -31,7 +31,7 @@ Cette réussite le propulse sur la scène mondiale et confirme son talent unique
 Il développe ensuite un catalogue riche qui témoigne de sa capacité à maintenir une identité artistique forte tout en
 explorant différentes facettes de son style rétro-romantique, confirmant son statut d'artiste incontournable.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Chris Isaak se caractérise par des mélodies nostalgiques, une voix de crooner expressive et des arrangements
 qui évoquent l'âge d'or du rock'n'roll américain.
@@ -42,7 +42,7 @@ pop orchestrale.
 Son style guitare distinctif et sa présence scénique charismatique font de lui un performer accompli qui sait captiver
 son public par son charisme naturel et son talent indéniable.
 
-##### Actualité
+###### Actualité
 
 Chris Isaak continue de tourner et d'enregistrer, maintenant vivante son esthétique rétro-romantique qui transcende les
 modes et les époques.

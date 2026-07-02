@@ -19,7 +19,7 @@ figures majeures de la pop mondiale au cours de la dernière décennie. Artiste 
 parfaitement l'évolution d'une pop moderne qui fusionne R&B, dance et éléments urbains dans des productions léchées et
 accessibles.
 
-#### Origines et formation
+###### Origines et formation
 
 Né Jason Joel Desrouleaux de parents haïtiens à Miami, Jason Derulo manifeste très tôt des dispositions exceptionnelles
 pour les arts de la scène. Il étudie les arts du spectacle dès son plus jeune âge, développant simultanément ses talents
@@ -30,7 +30,7 @@ Avant de connaître le succès comme interprète, Derulo fait ses armes en tant 
 artistes, affinant sa compréhension des mécanismes qui font un tube efficace. Cette expérience dans l'ombre lui
 permettra d'aborder sa propre carrière avec une maturité et une maîtrise technique rares pour un jeune artiste.
 
-#### Ascension fulgurante
+###### Ascension fulgurante
 
 L'entrée de Jason Derulo sur la scène musicale internationale se fait de manière spectaculaire avec le single "Whatcha
 Say" en 2009, qui atteint rapidement la première place des charts américains. Ce succès inaugural n'est que le début d'
@@ -44,7 +44,7 @@ Cette succession de succès commerciaux témoigne d'une compréhension fine des 
 adaptabilité remarquable aux tendances changeantes de la pop contemporaine, sans jamais sacrifier sa signature
 artistique.
 
-#### Approche musicale et évolution stylistique
+###### Approche musicale et évolution stylistique
 
 Le style de Jason Derulo se caractérise par des productions soignées qui mettent en valeur sa voix polyvalente et
 expressive. Capable d'alterner passages chantés mélodieux et sections plus rythmiques, il navigue avec aisance entre
@@ -59,7 +59,7 @@ tendances du moment tout en maintenant les fondamentaux qui ont fait son succès
 rupture brutale, explique en grande partie sa longévité dans un univers musical réputé pour ses cycles rapides de
 popularité.
 
-#### Performance et présence scénique
+###### Performance et présence scénique
 
 L'un des atouts majeurs de Jason Derulo réside dans ses qualités d'interprète complet. Danseur exceptionnel, il propose
 des performances scéniques élaborées où la chorégraphie devient un élément expressif aussi important que la musique
@@ -72,7 +72,7 @@ Michael Jackson ou Usher, confirme son statut d'entertaineur global plutôt que 
 Cette maîtrise du spectacle vivant lui permet de transformer ses hits studio en moments d'une intensité redoublée sur
 scène, créant une connexion directe avec son public qui dépasse le cadre de la simple interprétation musicale.
 
-#### Présence médiatique et impact culturel
+###### Présence médiatique et impact culturel
 
 Au-delà de ses réalisations purement musicales, Jason Derulo a su développer une présence médiatique significative,
 notamment sur les plateformes sociales comme TikTok où il compte des millions d'abonnés. Cette capacité à embrasser les
@@ -82,7 +82,7 @@ Son influence dépasse le cadre strictement musical pour toucher à la mode, à 
 contemporaines. Cette polyvalence fait de lui un artiste pop au sens le plus complet du terme, dont l'impact se mesure
 autant en termes de succès commerciaux que d'influence culturelle.
 
-#### Actualité et perspectives
+###### Actualité et perspectives
 
 Jason Derulo continue d'évoluer dans le paysage musical contemporain, adaptant constamment son approche aux nouvelles
 tendances tout en maintenant les éléments distinctifs qui constituent son identité artistique. Sa capacité à se

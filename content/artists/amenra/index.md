@@ -14,7 +14,7 @@ le batteur Bjorn Lebon, le guitariste Lennart Bossu et la bassiste Amy Tung Barr
 metal, Amenra se définit comme un collectif artistique dont la musique constitue une pratique spirituelle et
 cathartique.
 
-##### Une musique comme rituel
+###### Une musique comme rituel
 
 Le son d'Amenra est ancré dans le doom metal, le post-rock et le hardcore, mais ce qui distingue la formation est
 l'intensité émotionnelle et la dimension presque liturgique de ses compositions. Les dynamiques sont extrêmes : le
@@ -23,7 +23,7 @@ les hurlements déchirants de Colin van Eeckhout côtoient des passages d'une fr
 souvent accompagnés d'installations visuelles et de projections, ont été décrits comme des « communions
 envoûtantes ».
 
-##### La série des Mass
+###### La série des Mass
 
 Amenra organise sa discographie autour d'une série d'albums intitulée Mass, numérotée en chiffres romains. Mass I
 paraît en 2003, suivi de Mass II (2004), Mass III (2007) et Mass IV (2008). Mass V (2012) et Mass VI (2017),

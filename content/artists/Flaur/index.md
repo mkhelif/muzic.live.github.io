@@ -15,7 +15,7 @@ Flaur représente l'une des voix les plus prometteuses et innovantes du paysage 
 la fois intimiste et expansif, cet artiste a su développer une signature musicale qui lui est propre, captivant un
 public grandissant à la recherche d'authenticité et d'émotions brutes.
 
-#### Origines et influences
+###### Origines et influences
 
 Né d'une passion pour la musique expérimentale et les sonorités alternatives, le projet Flaur s'est construit
 progressivement, nourri par un éventail d'influences allant de la folk éthérée aux structures plus électroniques. Cette
@@ -26,7 +26,7 @@ L'artiste puise son inspiration dans une sensibilité à fleur de peau, traduisa
 existentiels et les émotions complexes qui traversent notre époque. Chaque composition devient alors un espace
 d'expression où la vulnérabilité se transforme en force créative.
 
-#### Univers musical
+###### Univers musical
 
 L'univers de Flaur se caractérise par une approche minimaliste où chaque élément sonore est méticuleusement pensé. Les
 mélodies délicates s'entrelacent avec des textures atmosphériques, créant des paysages sonores immersifs qui invitent
@@ -40,7 +40,7 @@ La voix, centrale dans ce dispositif, se fait tour à tour fragile ou assurée, 
 avec intensité selon les nécessités narratives des morceaux. Cette plasticité vocale contribue grandement à l'identité
 reconnaissable de Flaur.
 
-#### Parcours et développement
+###### Parcours et développement
 
 Bien que relativement récent sur la scène musicale, le projet Flaur a rapidement attiré l'attention des amateurs de
 musique indépendante grâce à une démarche artistique cohérente et une présence scénique remarquable. Les premiers EP et
@@ -51,7 +51,7 @@ La progression de Flaur illustre parfaitement l'évolution d'une scène musicale
 structures traditionnelles de l'industrie, privilégiant l'authenticité et la connexion directe avec l'auditoire plutôt
 que les compromis artistiques.
 
-#### Dimension live et présence scénique
+###### Dimension live et présence scénique
 
 Sur scène, Flaur déploie une énergie particulière qui contraste parfois avec l'intimité des enregistrements studio. Les
 performances live deviennent des moments de communion où l'artiste réinvente ses compositions, les faisant évoluer au
@@ -60,7 +60,7 @@ gré des inspirations et des interactions avec le public.
 Cette dimension performative essentielle confirme la profondeur du projet artistique, capable de transcender le cadre
 fixe de l'enregistrement pour embrasser la nature éphémère et unique du concert.
 
-#### Perspectives et évolution
+###### Perspectives et évolution
 
 L'avenir de Flaur s'annonce prometteur, avec un potentiel créatif qui ne demande qu'à s'épanouir davantage. L'artiste
 semble déterminé à poursuivre son exploration sonore sans se laisser enfermer dans une formule, aussi réussie soit-elle.

@@ -26,7 +26,7 @@ grandes réussites pop.
 L'émergence de Mika coïncide avec cette renaissance de la pop mélodique, période où le public redécouvre les vertus de
 l'entertainment musical.
 
-##### Carrière internationale
+###### Carrière internationale
 
 Le succès planétaire de Mika repose sur cette capacité rare à créer des mélodies instantanément mémorables qui
 transcendent toutes les barrières culturelles et générationnelles.
@@ -37,7 +37,7 @@ charts mondiaux.
 Cette réussite commerciale s'accompagne d'une reconnaissance artistique qui confirme la qualité exceptionnelle de son
 travail créatif.
 
-##### Univers esthétique singulier
+###### Univers esthétique singulier
 
 La musique de Mika fonctionne comme un antidote permanent à la morosité, conjuguant mélodies euphorisantes et
 arrangements sophistiqués dans une pop de haute volée.
@@ -48,7 +48,7 @@ réconfort à des millions d'auditeurs.
 Cette philosophie artistique influence profondément la pop contemporaine, rappelant les vertus essentielles de la
 musique populaire.
 
-##### Impact durable
+###### Impact durable
 
 Mika continue d'incarner cette pop intelligente et joyeuse qui enrichit considérablement le paysage musical
 contemporain.

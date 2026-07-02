@@ -15,7 +15,7 @@ socials:
   tidal: "53305787"
 ---
 
-## Quand Marseille rêve en Britpop
+###### Quand Marseille rêve en Britpop
 
 Il y a des groupes qui naissent d'une évidence — une rencontre, une affinité immédiate, la certitude que deux voix et
 deux guitares ensemble vont produire quelque chose qui n'existait pas encore. The Elephant Green est de ceux-là. Né à
@@ -23,7 +23,7 @@ Marseille, ce quatuor rock possède une signature sonique faite de guitares éle
 et de performances vocales à haute tension. Un groupe qui n'existe que depuis peu, mais qui sonne déjà comme s'il avait
 des années de route derrière lui.
 
-## Une rencontre fortuite, une trilogie sacrée
+###### Une rencontre fortuite, une trilogie sacrée
 
 The Elephant Green, c'est la rencontre fortuite entre Thiago, musicien brésilien, et Lucas, guitariste ayant déjà sévi
 dans plusieurs groupes de la scène indie locale. Thiago aime la pop et la sainte trilogie Beatles-Oasis-Teenage Fanclub.
@@ -34,7 +34,7 @@ The Elephant Green a donc commencé avec Thiago Pedalino et Lucas Martinez, avan
 Reed et Simon Granier. Quatre personnalités, une vision commune : ramener le rock'n'roll à sa puissance mélodique
 originelle, sans sophistication inutile, sans ironie distante — juste la foi dans la chanson bien faite.
 
-## Un son qui traverse la Manche
+###### Un son qui traverse la Manche
 
 Les références du groupe disent tout de leur esthétique. The Elephant Green ramène le rock and roll à sa puissance et à
 sa mélodie. Ils canalisent le swagger d'Oasis, l'éclat pop des Beatles et l'énergie vibrante de Teenage Fanclub. Avec
@@ -51,7 +51,7 @@ Sur scène comme en studio, la dualité vocale entre Thiago et Lucas est l'une d
 parfois partagé à deux et des chœurs à l'unisson, les superbes compositions du groupe se succèdent à un rythme effréné,
 juste ralenti par des titres plus mid-tempo, archétypes mêmes de la ballade pop.
 
-## Une irruption remarquée sur la scène marseillaise
+###### Une irruption remarquée sur la scène marseillaise
 
 The Elephant Green débarque sur la scène marseillaise début 2025 avec une urgence qui surprend. Le groupe maintient une
 présence vibrante sur les réseaux sociaux, partageant de délicieuses reprises de titres iconiques d'artistes tout aussi
@@ -68,7 +68,7 @@ naturelle décontraction britpop.
 Même en approchant de la fin du morceau, l'énergie du groupe ne vacille pas une seule seconde — leur amour de leur
 musique brille d'une chaleur blanche du début à la fin.
 
-## *She Said* et l'album à venir
+###### *She Said* et l'album à venir
 
 La liste des titres qui composent le répertoire live du groupe s'étoffe rapidement. *Something Rising*, *She Said*, *I
 Believe*, *Good Enough* — autant de morceaux qui démontrent la maîtrise des dynamiques, la capacité à passer de
@@ -80,7 +80,7 @@ attendu, qui devrait cristalliser tout ce que leurs premières sorties ont laiss
 sensibilité pop des Beatles, l'énergie jangly de Teenage Fanclub — mis en bouteille, pressés sur vinyle, expédiés depuis
 Marseille.
 
-## Ce que Marseille produit de mieux
+###### Ce que Marseille produit de mieux
 
 The Elephant Green s'inscrit dans une vague plus large. La scène rock marseillaise fourmille depuis quelque temps et, à
 intervalles réguliers, voit débarquer sans crier gare un nouveau groupe qui vient enrichir et diversifier un panorama

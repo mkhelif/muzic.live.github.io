@@ -25,7 +25,7 @@ l'ancien d'Opeth, co-fondateur du groupe — pulse avec une précision organique
 comme l'un des meilleurs de sa génération. Et pourtant. *Reliance* provoque aussi une légère inquiétude : celle d'un
 groupe si bien installé dans sa propre formule qu'il ne semble plus chercher à en sortir.
 
-## Un septième album en territoire conquis
+###### Un septième album en territoire conquis
 
 SOEN s'est formé autour du départ de Martin Lopez d'Opeth et de la dissolution du groupe indie rock de Joel Ekelöf,
 Willowtree. Depuis, le combo multinational n'a cessé de cultiver sa voix propre tout en expurgeant ce qui distrayait de
@@ -37,7 +37,7 @@ guitare, Cody Lee Ford à la guitare, et Stefan Stenberg à la basse, de retour 
 quelques années. Dix titres, quarante-trois minutes, un seul mot par titre — une habitude du groupe depuis plusieurs
 albums, sorte de code stylistique qui reflète une économie de moyens revendiquée.
 
-## Tracklist : dix mots, dix mondes
+###### Tracklist : dix mots, dix mondes
 
 *Primal* ouvre l'album avec un riff qui accroche et de forts crochets vocaux. C'est percutant, efficace, bien
 construit — mais aussi dépouillé et légèrement prévisible. C'est le son SOEN dans toute sa définition : une lourdeur
@@ -56,7 +56,7 @@ plutôt que la puissance, et gagne.
 groupe. Avec ses guitares à la Pink Floyd et ses accompagnements profonds, il se distingue du reste de l'album, mais
 semble un peu déplacé dans cet ensemble calibré pour les arènes.
 
-## L'équation du confort
+###### L'équation du confort
 
 La vraie question posée par *Reliance* n'est pas celle de sa qualité — elle est indiscutable — mais celle de son
 ambition. Les fans des albums plus récents trouveront beaucoup à aimer dans *Reliance*, mais ceux qui aspirent à des
@@ -71,7 +71,7 @@ mais choisissent de ne pas déployer. Leur génie tient dans l'art de prendre un
 réduire à une colline sans en sacrifier la masse. C'est une belle définition. Mais parfois, on aimerait voir la
 montagne.
 
-## Verdict
+###### Verdict
 
 *Reliance* est ce qu'il est : un album de metal progressif impeccablement exécuté, porté par l'une des voix les plus
 remarquables du genre et une section rythmique en état de grâce. C'est un disque pour ceux qui aiment SOEN tel qu'il est

@@ -36,7 +36,7 @@ mythologie classique, créant un vocabulaire créatif d'une richesse exceptionne
 underground londonienne forgent un artiste complet, capable d'exceller autant en poésie qu'en musique, en théâtre qu'en
 littérature romanesque.
 
-#### Carrière musicale
+###### Carrière musicale
 
 La consécration critique arrive en 2012 quand Tempest présente "Brand New Ancients" au Battersea Arts Centre, pièce
 théâtrale spoken word qui reçoit des éloges unanimes et remporte le Herald Angel Award. En 2013, à seulement 26 ans, il
@@ -71,7 +71,7 @@ répéter pour explorer continuellement de nouveaux territoires créatifs. En 20
 ses expériences de chirurgie du haut du corps et de début de testostérone, ouvrant également sur ses luttes de santé
 mentale en tant que musicien en tournée, démontrant une vulnérabilité et une honnêteté rares dans l'industrie musicale.
 
-#### Style et influences
+###### Style et influences
 
 Les performances spoken word de Kae Tempest possèdent le mètre et l'artisanat de la poésie traditionnelle, l'agitation
 cinétique du hip-hop et l'intimité d'une conversation cœur à cœur chuchotée, synthèse unique qui définit son approche
@@ -106,7 +106,7 @@ progressivement avec batterie acoustique live, cuivres et guitares, pour finalem
 des artistes comme Lianne La Havas révèlent également sa capacité à se laisser guider par la mélodie plutôt que par les
 mots, élargissant continuellement sa palette créative.
 
-#### Actualité
+###### Actualité
 
 Avec "Know Yourself", single annonçant son cinquième album, Kae Tempest frappe très fort, développant un discours entre
 différentes variantes de sa personne – entre passé et présent – d'où ressort un concept pur et puissant : la

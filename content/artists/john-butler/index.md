@@ -29,7 +29,7 @@ Australie-Occidentale, l'une des carrières indépendantes les plus impressionna
 studio avec le John Butler Trio, trois numéros un consécutifs dans les charts australiens, un premier album solo en
 2025, et une philosophie qui n'a jamais changé : la musique d'abord, l'industrie ensuite.
 
-## De la Californie à Pinjarra : un enfant de nulle part
+###### De la Californie à Pinjarra : un enfant de nulle part
 
 John Charles Wiltshire-Butler naît le 1er avril 1975 à **Torrance**, en Californie, d'un père australien et d'une mère
 américaine. Ses origines sont un patchwork : australiennes, grecques, bulgares. En janvier 1986, à 11 ans, sa famille
@@ -41,7 +41,7 @@ Il commence à jouer de la guitare à **16 ans**. L'instrument devient immédiat
 aussi éclectiques que ses origines : **Black Sabbath**, **Fleetwood Mac**, **Jeff Lang**, du blues, du reggae, du folk,
 de la world music — un mélange qui ne correspond à aucune catégorie existante et qui finira par en créer une.
 
-## Le busking à Fremantle : la sueur et la folie sacrée
+###### Le busking à Fremantle : la sueur et la folie sacrée
 
 Après avoir abandonné les beaux-arts, Butler commence à **busker** — jouer dans la rue — dans les rues de **Fremantle**,
 le port bohème de Perth. Les témoins de l'époque parlent de « la sueur qui volait de son front » et de « la folie sacrée
@@ -51,7 +51,7 @@ et de vrai.
 
 La cassette circule. Les gens s'arrêtent. Le busker de Fremantle devient un phénomène local.
 
-## Le John Butler Trio : naissance et ascension
+###### Le John Butler Trio : naissance et ascension
 
 En 1998, Butler est rejoint par le bassiste **Gavin Shoesmith** et le batteur **Jason McGann**. Le **John Butler Trio**
 est né. Le premier album éponyme sort la même année sur Waterfront Records. Le son est un croisement unique de roots
@@ -63,7 +63,7 @@ devient un classique de la radio alternative Triple J (il sera voté 47ème dans
 australien). Le trio tourne aux États-Unis, ouvre pour **Dave Matthews Band** et **John Mayer**, joue à **Bonnaroo** et
 à **South by Southwest**.
 
-## Jarrah Records : l'indépendance comme philosophie
+###### Jarrah Records : l'indépendance comme philosophie
 
 En 2002, Butler cofonde **Jarrah Records** avec les Waifs (groupe folk d'Australie-Occidentale) et leur manager commun
 Phil Stevens. C'est un acte fondateur : plutôt que de signer avec une major, Butler choisit de maîtriser sa chaîne de
@@ -76,7 +76,7 @@ L'album atteint le statut or dès sa première semaine de vente et reste 57 sema
 parmi les 50 entertainers les plus riches d'Australie par le Business Review Weekly — on le surnomme « le hippie
 millionnaire ».
 
-## Trois numéros un et *Ocean*
+###### Trois numéros un et *Ocean*
 
 Les albums suivants confirment la trajectoire ascendante : **Grand National** (2007) débute numéro un et est élu album
 préféré des auditeurs de Triple J pour l'année. **April Uprising** (2010) fait de même. Trois numéros un consécutifs
@@ -88,7 +88,7 @@ morceau, en constante évolution d'un concert à l'autre, est devenu la carte de
 qui mêle fingerpicking, percussions sur le corps de la guitare, harmoniques et une montée en puissance qui tient du
 rituel chamanique.
 
-## *Flesh & Blood*, *Home* et les évolutions du Trio
+###### *Flesh & Blood*, *Home* et les évolutions du Trio
 
 En 2014, **Flesh & Blood** marque un virage plus introspectif. Butler explique avoir épuisé les chansons de
 protestation : « Je ne sais plus comment écrire une chanson de plus sur un connard cupide qui ruine la planète. Quand on
@@ -99,7 +99,7 @@ l'artiste indépendant le plus vendu de l'histoire du pays.
 Le line-up du Trio n'a cessé d'évoluer au fil des années — plus de dix musiciens se sont succédé à la basse et à la
 batterie — mais la constante est toujours restée Butler lui-même, sa guitare et sa vision.
 
-## L'engagement : The JB Seed et l'activisme
+###### L'engagement : The JB Seed et l'activisme
 
 Butler n'est pas seulement un musicien — c'est un activiste. Cofondateur de **The JB Seed**, un programme de bourses
 visant à améliorer la diversité artistique en Australie, il s'est engagé publiquement sur les questions
@@ -107,7 +107,7 @@ environnementales, les droits des peuples autochtones et la justice sociale. Il 
 Traditional Cultures** dans le Territoire du Nord, et réinterprété le catalogue du musicien aborigène **Kev Carmody**
 aux côtés de Paul Kelly, Missy Higgins et Bernard Fanning.
 
-## 2025 : *Prism*, le premier album solo
+###### 2025 : *Prism*, le premier album solo
 
 En 2025, Butler franchit une nouvelle étape avec **Prism** — son premier album solo à part entière, après avoir mis fin
 au moniker John Butler Trio. Produit entièrement en solo, l'album marque un nouveau chapitre créatif. Pour la tournée,
@@ -115,7 +115,7 @@ Butler s'entoure d'un groupe composé de **Michael Barker** (batteur historique 
 (percussions) et **Ian Peres** (basse) — un retour à la formation live qui confirme que, sous quelque nom que ce soit,
 la musique de John Butler reste un organisme vivant en perpétuelle évolution.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 John Butler est un artiste qui a toujours fait les choses dans l'ordre inverse de ce que l'industrie attend. Busker
 avant d'avoir un disque. Indépendant avant que ce soit à la mode. Numéro un sans major. Viral avant les réseaux sociaux.

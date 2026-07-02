@@ -15,7 +15,7 @@ folk épuré, jazz intimiste et soul introspective. Portée par une voix chaude 
 affirmée, elle s'est imposée comme l'une des figures les plus touchantes de la chanson française
 contemporaine.
 
-##### Un parcours atypique entre Paris et Londres
+###### Un parcours atypique entre Paris et Londres
 
 Sarah Lenka intègre les Beaux-Arts à dix-neuf ans avant de tout quitter pour s'installer à Londres, où
 elle suit une formation musicale intensive et chante dans divers groupes de trip-hop et de folk. Cinq
@@ -23,7 +23,7 @@ années passées dans la capitale britannique forgent son identité artistique, 
 Paris où elle rencontre le pianiste Florent Gac et le batteur David Grébil, avec qui elle forme son
 premier trio.
 
-##### Reconnaissance et premiers albums
+###### Reconnaissance et premiers albums
 
 En 2007, sa présence au Festival d'Enghien lui vaut le Prix SACEM de la meilleure artiste féminine,
 première marque de reconnaissance institutionnelle pour une artiste encore confidentielle. Elle signe
@@ -31,7 +31,7 @@ chez e-motive records et publie Am I Blue (2008), un premier album qui révèle 
 et sa capacité à mêler influences afro-américaines et tradition française. Quatre ans plus tard, Hush
 (2012) confirme la trajectoire d'une artiste qui préfère la densité à la facilité.
 
-##### Explorer les silences de l'histoire
+###### Explorer les silences de l'histoire
 
 Marquée par Billie Holiday et Bessie Smith autant que par ses propres origines judéo-algériennes, Sarah
 Lenka creuse un sillon profondément personnel. Son album Women's Legacy (2019), revisité sous la forme

@@ -17,7 +17,7 @@ univers en apparence antinomiques — l'apesanteur ambient de Hinako Omori et la
 Hausswolff — et pourtant, une continuité troublante. Comme si la première avait préparé le terrain, abaissé les défenses
 de l'auditoire, pour que la seconde puisse y planter ses crocs.
 
-## Hinako Omori : l'art de la suspension
+###### Hinako Omori : l'art de la suspension
 
 {{< carousel pictures="pictures/hinako-omori" alt="Hinako Omori" author="mkhelif" >}}
 
@@ -33,7 +33,7 @@ nerveuse du public d'avant-concert, se fige dans un silence attentif. Hinako Omo
 invite à l'écoute, elle ralentit le pouls de la salle. Et c'est précisément ce dont nous avions besoin sans le savoir.
 Car ce qui va suivre exige d'être reçu à cœur ouvert.
 
-## Anna von Hausswolff : cathédrale de chair et de souffle
+###### Anna von Hausswolff : cathédrale de chair et de souffle
 
 {{< carousel pictures="pictures/anna-von-hausswolff" alt="Anna von Hausswolff" author="mkhelif" >}}
 
@@ -66,7 +66,7 @@ l'outro se répondent comme les deux pans d'une même prière. Le cercle se refe
 
 Standing ovation. Le public de l'Alhambra, debout, rend les armes. Difficile de faire autrement.
 
-## L'écho du sacré
+###### L'écho du sacré
 
 Ce que cette soirée Antigel a offert dépasse le simple enchaînement de deux concerts. Hinako Omori et Anna von
 Hausswolff, chacune à sa manière, explorent les limites de l'écoute — l'une par la douceur immersive, l'autre par la

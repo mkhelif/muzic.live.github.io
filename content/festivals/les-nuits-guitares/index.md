@@ -15,7 +15,7 @@ soirées, ce jardin se transforme en l'un des plus beaux écrins de concert de l
 Guitares** — un festival fondé en 2000, qui a fait de Beaulieu-sur-Mer une destination musicale à part entière et qui,
 après plus de vingt éditions, continue de vibrer au rythme de la guitare sous toutes ses expressions.
 
-## Naissance : donner une identité musicale à Beaulieu
+###### Naissance : donner une identité musicale à Beaulieu
 
 Les Nuits Guitares voient le jour en **2000** avec une ambition claire : **donner à Beaulieu-sur-Mer une identité
 culturelle forte** en associant cette commune du littoral azuréen à l'instrument roi du rock et du blues — la guitare.
@@ -24,7 +24,7 @@ Grecque Kérylos, un rendez-vous annuel pour les amateurs de six-cordes du monde
 est gagné : les Nuits Guitares ont accueilli **35 000 spectateurs** de toutes générations et attirent chaque été un
 public fidèle venu de toute la Côte d'Azur et bien au-delà.
 
-## Le Jardin de l'Olivaie : un écrin unique
+###### Le Jardin de l'Olivaie : un écrin unique
 
 Le cœur et l'âme du festival, c'est le **Jardin de l'Olivaie** — un lieu dont la beauté suffit presque à justifier le
 déplacement, même sans musique. Cette véritable oliveraie de **6 000 m²**, perchée au-dessus du port de plaisance,
@@ -39,7 +39,7 @@ installée au cœur de l'oliveraie, accueille les artistes dans un rapport de pr
 singularité des Nuits Guitares. Juste à côté, la Villa Grecque Kérylos rappelle que ce coin de Riviera a toujours su
 marier la beauté du cadre et l'exigence culturelle.
 
-## La programmation : l'éclectisme comme credo
+###### La programmation : l'éclectisme comme credo
 
 Le maître-mot qui a toujours dominé la programmation des Nuits Guitares est l'**éclectisme**. Le festival s'est donné
 pour mission de montrer la guitare sous toutes ses expressions musicales — du blues au rock, du jazz à la world music,
@@ -52,7 +52,7 @@ Haynes** — une liste qui, à elle seule, dit le niveau d'exigence de la progra
 légendes confirmées et les découvertes, les virtuoses du manche et les songwriters à guitare acoustique, les headliners
 internationaux et les talents de la scène locale et régionale.
 
-## 2024 : les Nuits Guitares deviennent Beaulieu-la-Nuit
+###### 2024 : les Nuits Guitares deviennent Beaulieu-la-Nuit
 
 En 2024, le festival opère une mue symbolique : les Nuits Guitares deviennent **Beaulieu-la-Nuit** — un nom qui élargit
 le spectre au-delà de la seule guitare pour embrasser une programmation de musique contemporaine plus diverse, tout en
@@ -60,7 +60,7 @@ conservant l'esprit festif et la qualité artistique qui ont fait la réputation
 tenue du 2 au 4 août, a notamment accueilli le groupe néo-zélandais **Fat Freddy's Drop** en tête d'affiche, confirmant
 cette ouverture vers de nouveaux horizons sonores. L'édition 2025 n'a pas eu lieu.
 
-## 2026 : le retour sous le nom originel
+###### 2026 : le retour sous le nom originel
 
 En **2026**, le festival revient — et il revient sous son nom historique : **Les Nuits Guitares**. Trois soirées, les
 **3, 4 et 5 juillet 2026**, au Jardin de l'Olivaie. La programmation, récemment dévoilée, confirme la double fidélité du
@@ -70,7 +70,7 @@ musique 2026, premier album *Mesdames, Messieurs !*), **Kid Sophie** (ex-Hyphen 
 et new wave), **Billie** (dream pop / post-punk, EP *J'avance*), et des artistes de la scène locale émergente et
 confirmée.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Les Nuits Guitares sont un de ces festivals qui prouvent qu'on n'a pas besoin de 50 000 spectateurs et d'un budget
 pharaonique pour créer un rendez-vous musical qui compte. Ce qui fait la force de cet événement, c'est l'alchimie entre

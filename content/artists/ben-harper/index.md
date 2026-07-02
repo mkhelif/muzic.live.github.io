@@ -27,7 +27,7 @@ imposé comme l'un des songwriters américains les plus complets de sa générat
 qui mélange le blues, la soul, le folk, le reggae et le rock avec une aisance qui donne l'impression que ces musiques
 n'ont jamais été séparées.
 
-## Pomona, le Folk Music Center et Bob Marley à 9 ans
+###### Pomona, le Folk Music Center et Bob Marley à 9 ans
 
 Benjamin Charles Harper naît le 28 octobre 1969 à **Pomona**, en Californie, au cœur de l'Inland Empire. Son père,
 Leonard Harper, est un percussionniste afro-américain. Sa mère, Ellen Chase, est chanteuse, guitariste et juive. Le
@@ -46,7 +46,7 @@ lire la musique. Quand il découvre la **Weissenborn** — cette guitare hawaïe
 a trouvé sa voix : « J'ai commencé à jouer en lap-style, et ça m'a complètement libéré. J'ai enfin pu dire ce que 
 j'avais à dire. »
 
-## Taj Mahal, Virgin Records et l'entrée en scène
+###### Taj Mahal, Virgin Records et l'entrée en scène
 
 La rencontre avec **Taj Mahal** est le tournant. Le bluesman légendaire fait la sieste avant un concert à Claremont
 quand les notes de slide de Harper le réveillent : « Il y avait quelque chose dans ce son qu'on n'entend que très
@@ -60,7 +60,7 @@ Virgin Records, on lui conseille de ne pas jouer *Like a King* — sa chanson de
 les directeurs artistiques. Harper la joue en premier. C'est précisément celle que le patron du label préfère. Il signe
 un **contrat à vie** avec Virgin Records.
 
-## *Welcome to the Cruel World*, *Fight for Your Mind* et la conquête de l'Europe
+###### *Welcome to the Cruel World*, *Fight for Your Mind* et la conquête de l'Europe
 
 En 1994, **Welcome to the Cruel World** sort — un album acoustique à contre-courant total de l'ère grunge, porté par la
 voix enfumée de Harper, sa Weissenborn et des textes politiquement engagés (*Like a King*, *How Many Miles Must We
@@ -75,7 +75,7 @@ fidèle — s'impose comme un classique du rock alternatif et de la radio univer
 *Rolling Stone* France le sacre **Artiste de l'année 2003**. Les Trans Musicales de Rennes l'avaient déjà accueilli dès
 décembre 1993, lors de sa toute première montée sur une grande scène.
 
-## La décennie d'or : de *The Will to Live* à *Diamonds on the Inside*
+###### La décennie d'or : de *The Will to Live* à *Diamonds on the Inside*
 
 Les albums s'enchaînent avec une régularité et une diversité qui défient les catégories. **The Will to Live** (1997),
 **Burn to Shine** (1999), le double live **Live from Mars** (2001) — capté en concert et considéré comme l'un des
@@ -88,7 +88,7 @@ producteur J.P. Plunier, qui produira *Brushfire Fairytales* — le premier albu
 l'artiste d'ouverture de la tournée américaine de Harper en 2001. Une amitié et une filiation musicale qui durent encore
 aujourd'hui.
 
-## Les Blind Boys, Charlie Musselwhite et les Grammy
+###### Les Blind Boys, Charlie Musselwhite et les Grammy
 
 En 2004, **There Will Be a Light** — enregistré avec les **Blind Boys of Alabama** — remporte deux Grammy Awards : Best
 Pop Instrumental Performance et Best Traditional Soul Gospel Album. En 2006, le double album **Both Sides of the Gun**
@@ -100,7 +100,7 @@ En 2013, **Get Up!** — enregistré avec le légendaire harmoniciste de Chicago
 **Grammy du Best Blues Album**. La collaboration se prolongera avec **No Mercy in This Land** (2018), dont la
 chanson-titre est nommée **Song of the Year** aux Blues Music Awards 2019.
 
-## *Childhood Home*, Mavis Staples et les albums récents
+###### *Childhood Home*, Mavis Staples et les albums récents
 
 En 2014, **Childhood Home** réunit Ben et sa mère **Ellen Harper** — un album intimiste qui boucle une boucle familiale.
 En 2019, il écrit et produit l'intégralité de l'album **We Get By** de **Mavis Staples**. En 2020, **Winter Is for
@@ -112,13 +112,13 @@ ans. Harper lui rend un hommage bouleversant, le qualifiant de « génie musical
 ait connu ». L'album **Bloodline Maintenance** (2022) lui est dédié. En 2023, **Wide Open Light** — dix-septième album
 studio — revient à un format essentiellement acoustique, avec un seul titre comportant de la batterie.
 
-## Récompenses principales
+###### Récompenses principales
 
 **3 Grammy Awards** (Best Pop Instrumental Performance 2005, Best Traditional Soul Gospel Album 2005, Best Blues Album
 2014) · **7 nominations Grammy** · **Blues Music Award — Song of the Year** 2019 (*No Mercy in This Land*) · **Artiste
 de l'année** — Rolling Stone France (2003)
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Ben Harper est un artiste qu'on ne range nulle part — et c'est exactement pour ça qu'il est irremplaçable. Du blues au
 reggae, de la soul au folk, du rock au gospel, il traverse les genres avec la même aisance que sa Weissenborn traverse

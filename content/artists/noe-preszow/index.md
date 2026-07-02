@@ -20,7 +20,7 @@ Moldavie à la Grèce, et la question du déracinement, qu'il évoque notamment 
 profondément. C'est d'ailleurs ce bagage personnel qui donnera son titre à son deuxième album : *[prèchof]*, la
 transcription phonétique de son nom, une manière de revendiquer une identité longtemps tue.
 
-## L'éveil musical : du violon à la guitare
+###### L'éveil musical : du violon à la guitare
 
 Dès l'âge de 3 ans, Noé apprend le violon, puis découvre la guitare à 12 ans, instrument qui deviendra son alter ego —
 le prolongement de sa voix, de son corps. Adolescent, il utilise un petit magnéto à la maison pour enregistrer ses
@@ -30,7 +30,7 @@ Entre 17 et 22 ans, il accumule des centaines de maquettes qu'il distribue sous 
 de dire : qu'on le découvre ou non, il aura fait ce qu'il avait à faire. Cette pratique du "bricolage" en chambre, comme
 il la nomme lui-même, ne le quittera jamais vraiment, même après sa consécration.
 
-## Des influences entre France et rock
+###### Des influences entre France et rock
 
 Le paysage musical de Noé Preszow se construit à l'intersection de plusieurs mondes. Sa première révélation musicale
 arrive à 6 ans, avec Renaud, dont il dira : "Je suis né quand j'ai découvert Renaud." Il prend ensuite un second virage
@@ -41,7 +41,7 @@ cette musique l'a "animé et plus jamais quitté." À ces influences s'ajoutent,
 Punk, Barbara, mais aussi Nirvana et Indochine, qu'il écoutait beaucoup à l'adolescence. Cette alchimie singulière —
 chanson française classique, pop rock anglo-saxonne, engagement politique — définit tout l'ADN de son univers.
 
-## Les débuts et la révélation : *À nous* (2020)
+###### Les débuts et la révélation : *À nous* (2020)
 
 Il signe avec le label français Tôt ou Tard en 2019 et se produit en première partie de Vincent Delerm à la Cigale. Son
 premier single, *À nous*, sort le 10 mars 2020. Le timing est saisissant : écrit plusieurs années auparavant, les médias
@@ -56,13 +56,13 @@ Son premier EP *Ça ne saurait tarder*, composé de quatre titres, sort en septe
 s'danse", "Les armes que j'ai" et "Je te parle encore", il permet de découvrir tout l'univers d'un artiste dont
 l'écriture aborde l'entraide, la solidarité et l'espoir.
 
-## Premier album *À nous* (2021) : l'émergence confirmée
+###### Premier album *À nous* (2021) : l'émergence confirmée
 
 Après son premier album éponyme *À nous*, sorti en 2021, il est nominé aux Victoires de la Musique et entame une tournée
 d'ampleur nationale. Ce disque volontairement retenu, presque intime, ressemble à sa chambre : il chante un peu moins
 fort, met un peu moins de guitare, mais assume chaque texte, chaque mélodie, chaque arrangement.
 
-## Deuxième album *[prèchof]* (2024) : la libération
+###### Deuxième album *[prèchof]* (2024) : la libération
 
 Sorti le 16 février 2024, *[prèchof]* marque une rupture dans la trajectoire de Noé Preszow. Musicalement marqué par
 l'omniprésence des guitares et par des thématiques politiques, l'album aborde notamment la guerre en Ukraine dans "La
@@ -79,7 +79,7 @@ Le titre de l'album n'est pas anodin. Noé explique avoir voulu un mot qui ne so
 étrangère, ni un album éponyme au sens strict. Son nom phonétique, *[prèchof]*, est une manière de remettre les points
 sur les "i" — de se dévoiler enfin, après avoir gardé son histoire familiale pour lui sur le premier disque.
 
-## L'artiste engagé : solitaire et solidaire
+###### L'artiste engagé : solitaire et solidaire
 
 La formule de Camus — "solitaire et solidaire" — résume parfaitement la posture de Noé Preszow. Il se dit militant mais
 non enchaîné : il peut défendre des causes, aller en manifestation, et ressentir en même temps le besoin de passer du
@@ -89,7 +89,7 @@ Il se produit à plusieurs reprises lors de concerts en soutien au peuple palest
 La Louvière. C'est le sort réservé aux exilés, aux réfugiés, aux sans-papiers qui reste selon lui la cause pour laquelle
 il serait toujours prêt à descendre dans la rue.
 
-## Plume pour les autres
+###### Plume pour les autres
 
 Au-delà de sa propre carrière, Noé Preszow s'impose également comme auteur-compositeur pour d'autres artistes. En 2025,
 il contribue à l'album *Sains & Saufs* de Zaz en écrivant et/ou composant pas moins de six chansons. Il est aussi
@@ -97,7 +97,7 @@ co-auteur de nouvelles chansons d'Alice On The Roof et de Mentissa. En parallèl
 de poésie *Billet d'où* de Laurence Vielle, aux éditions Castor Astral — témoignage de son attachement sincère à la
 poésie comme art à part entière.
 
-## Sur scène et dans les salles
+###### Sur scène et dans les salles
 
 Sa deuxième tournée le conduit à travers la France — notamment à l'Olympia —, en Belgique au Cirque Royal, en Suisse et
 au Canada. Sa salle préférée au monde reste Forest National, emblème de la musique populaire bruxelloise. Pour lui, la

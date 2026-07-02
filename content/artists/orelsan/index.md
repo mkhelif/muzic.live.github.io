@@ -20,7 +20,7 @@ les Casseurs Flowters, un film, une série documentaire, des Victoires de la mus
 dans les plus grandes salles de France — et un cinquième album, *La Fuite en avant*, sorti en 2025, qui prouve que le
 Normand n'a pas fini de radiographier son époque.
 
-## Alençon, Caen, la Floride et les petits boulots
+###### Alençon, Caen, la Floride et les petits boulots
 
 Aurélien Cotentin naît le 1er août 1982 à Alençon, dans l'Orne, en Normandie. Son père est directeur de collège, sa mère
 institutrice. Rien ne le prédestine au rap. Enfant, il écoute du rock et du metal. C'est à 12 ans, par l'intermédiaire
@@ -41,7 +41,7 @@ inspirée d'une relation amoureuse ambiguë avec une Américaine, date de cette 
 passion pour les mangas, qu'il trouve son nom de scène : « Orel », diminutif d'Aurélien, auquel il accole le suffixe
 japonais « -san ».
 
-## Le web, Saint-Valentin et l'irruption
+###### Le web, Saint-Valentin et l'irruption
 
 Avant les radios et les labels, Orelsan est un produit du web première génération. En 2006, il publie sur YouTube un
 clip amateur, *Ramen*. En 2007, *Saint-Valentin* — parodie acide de la fête des amoureux — circule massivement sur
@@ -59,7 +59,7 @@ d'incitation à la violence envers les femmes. Orelsan sera condamné en premiè
 tribunal reconnaissant le caractère fictionnel du texte. L'épisode laissera des traces — mais aussi une certitude : le
 rap d'Orelsan ne fait pas dans la complaisance, et le confort n'est pas au programme.
 
-## La consécration : *Le Chant des sirènes* et les Victoires
+###### La consécration : *Le Chant des sirènes* et les Victoires
 
 Le 26 septembre 2011, **Le Chant des sirènes** marque un tournant. L'album réalise le meilleur démarrage de l'histoire
 du rap français à l'époque. Disque d'or en un mois, il sera certifié **double disque de platine**. Les singles —
@@ -67,7 +67,7 @@ du rap français à l'époque. Disque d'or en un mois, il sera certifié **doubl
 mûri, élargi sa palette, passé de l'ironie potache à l'observation sociale chirurgicale. En 2012, il remporte **deux
 Victoires de la musique** : Album rap de l'année et Révélation du public.
 
-## Casseurs Flowters : le retour du duo
+###### Casseurs Flowters : le retour du duo
 
 Entre 2013 et 2016, Orelsan se consacre aux Casseurs Flowters. L'album **Orelsan et Gringe sont les Casseurs Flowters
 ** (2013) — certifié **disque de platine** — est suivi du film **Comment c'est loin** (2015), coécrit et coréalisé avec
@@ -76,7 +76,7 @@ parallèle, le duo participe à **Bloqués**, programme court sur Canal+ imagin�
 Orelsan fait aussi du doublage pour l'anime *One Punch Man* et le film *Mutafukaz*. Le Normand est partout,
 touche-à-tout, mais jamais dispersé.
 
-## *La Fête est finie* et *Basique* : le phénomène
+###### *La Fête est finie* et *Basique* : le phénomène
 
 Le 20 septembre 2017, après six ans de silence solo, Orelsan lâche sur YouTube le clip de **Basique**. L'impact est
 immédiat et colossal. Le morceau — litanie hypnotique de vérités assénées sur un ton monocorde — devient un phénomène
@@ -84,7 +84,7 @@ culturel, repris, parodié, cité dans les salles de classe et les réseaux soci
 ** sort avec des featurings signés Nekfeu, Stromae, Dizzee Rascal, Ibeyi et Maître Gims. Disque d'or, puis platine, puis
 double platine. La tournée remplit les Zéniths et les Accor Arena.
 
-## *Civilisation* et *Montre jamais ça à personne*
+###### *Civilisation* et *Montre jamais ça à personne*
 
 En 2021, le retour est double. D'abord la série documentaire **Montre jamais ça à personne**, coréalisée avec son frère
 Clément Cotentin, qui retrace vingt ans de parcours à partir des vidéos amateurs que Clément a filmées depuis
@@ -97,7 +97,7 @@ dépression, et *Athéna*, hommage lumineux à sa compagne. Civilisation rafle *
 dont Album de l'année, une première pour un projet rap dans cette catégorie historiquement dominée par la chanson et la
 pop. La réédition *Civilisation perdue* suivra en 2022.
 
-## 2025 : *La Fuite en avant*, *Yoroï* et l'expansion créative
+###### 2025 : *La Fuite en avant*, *Yoroï* et l'expansion créative
 
 En 2025, Orelsan revient avec un nouveau cycle créatif qui confirme l'ampleur de son ambition. L'album **La Fuite en
 avant** sort précédé de trois singles : *Soleil levant* (avec SDM), *Encore une fois* (avec Yamê) et *Yoroï* (avec
@@ -109,7 +109,7 @@ L'Empire du milieu** en pirate à la Jack Sparrow.
 L'été 2026, il sera l'une des têtes d'affiche du **Paléo Festival** (24 juillet, avec un show exclusif autour de *Yoroï*
 et de *La Fuite en avant*) et continue de tourner à travers l'Europe.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Orelsan est l'un de ces artistes rares qui parviennent à être à la fois populaires et exigeants, drôles et profonds, de
 leur époque et en avance sur elle. Depuis le clip amateur de *Ramen* en 2006 jusqu'aux salles sold out de 2025, le

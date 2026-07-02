@@ -11,7 +11,7 @@ tournée estivale européenne. Dublin — ville qui a toujours réservé à The 
 se prépare à une soirée de plusieurs heures, dans la grande tradition des marathons live qui ont fait la légende du
 groupe.
 
-#### Une tournée qui ne ressemble à aucune autre
+###### Une tournée qui ne ressemble à aucune autre
 
 Depuis le début juin, The Cure enchaîne les festivals avec une régularité qui force le respect. Primavera Sound à
 Barcelone, Nova Rock en Autriche, l'Isle of Wight Festival, Blackweir Fields à Cardiff — le groupe ne chôme pas. Mais la
@@ -23,7 +23,7 @@ The Twilight Sad, Just Mustard et Stella and The Dreaming assurent la première 
 beaucoup sur l'attachement de Smith à la scène indie britannique et irlandaise contemporaine. Pas des noms au hasard,
 mais des groupes avec lesquels The Cure entretient des liens d'estime sincère.
 
-#### Un setlist qui voyage dans le temps
+###### Un setlist qui voyage dans le temps
 
 Pour ce leg européen, le groupe pioche dans l'ensemble de sa discographie avec une liberté qui ravit les fans de la
 première heure et désoriente agréablement les néophytes. *Lullaby*, *A Forest*, *Pictures of You*, *Lovesong*, *Friday
@@ -31,7 +31,7 @@ I'm In Love*, *From the Edge of the Deep Green Sea* — les classiques sont là,
 pas à l'envie de ressortir des raretés que les setlists habituels n'avaient pas accueillies depuis des années. C'est l'
 un des plaisirs de cette tournée : ne jamais savoir exactement ce qui va arriver.
 
-#### Ce qui se prépare dans l'ombre
+###### Ce qui se prépare dans l'ombre
 
 Au-delà des concerts, une information circule depuis plusieurs mois : The Cure ont enregistré 13 nouvelles chansons,
 compagnon annoncé de *Songs of a Lost World* (2024). Robert Smith avait évoqué un disque au caractère plus mélancolique

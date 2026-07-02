@@ -12,7 +12,7 @@ Hollywood —, le groupe prend sa forme définitive à Denver avec l'adjonction 
 années, d'autres musiciens rejoignent la formation, dont Pascal Humbert à la contrebasse, qui reste l'un des membres
 les plus durables aux côtés d'Edwards.
 
-##### Une musique entre terre et ciel
+###### Une musique entre terre et ciel
 
 Le son de 16 Horsepower est immédiatement reconnaissable : country des profondeurs rurales américaines frottée au
 post-punk et à une foi protestante ardente, presque fanatique. David Eugene Edwards chante et joue du banjo, de la
@@ -21,7 +21,7 @@ traditionnelles appalachiennes qu'aux décharges électriques du punk rock. Les 
 bibliques, de métaphores apocalyptiques et d'une spiritualité brûlante héritée de la tradition évangélique de la
 famille Edwards — son grand-père était prédicateur pentecôtiste dans le Colorado.
 
-##### Discographie et dissolution
+###### Discographie et dissolution
 
 Le groupe publie son premier EP éponyme en 1995 sur A&M Records, avant de passer chez Jetset Records pour ses
 albums studio. Sackcloth 'n' Ashes (1996), produit par la légende du post-punk Steve Albini, impose d'emblée la
@@ -30,7 +30,7 @@ Harvey —, est souvent considéré comme leur chef-d'œuvre, alliant profondeur
 South (2000) et Folklore (2002) confirment la singularité du groupe avant que la séparation n'intervienne en 2005,
 Edwards évoquant des différences « principalement politiques et spirituelles » entre les membres.
 
-##### Un héritage durable
+###### Un héritage durable
 
 Si 16 Horsepower n'a jamais atteint une renommée commerciale massive, leur influence sur le renouveau du gothic
 country et de l'americana sombre est considérable. Des artistes comme Nick Cave, Tom Waits ou les 16 Horsepower

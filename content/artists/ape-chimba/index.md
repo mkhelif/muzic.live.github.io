@@ -8,7 +8,7 @@ voyage sonore aux confins du monde. Son œuvre est profondément inspirée par l
 mysticisme du Moyen-Orient et de l'Inde, la passion du flamenco et une dimension urbaine organique, le tout
 porté par des fréquences analogiques chaleureuses.
 
-##### Un univers de sons et de mantras
+###### Un univers de sons et de mantras
 
 Ce qui distingue Ape Chimba des autres artistes de world music contemporaine, c'est sa capacité à tisser des
 mantras originaux, des compositions méditatives et des rythmes tribaux en une expérience sonore immersive et
@@ -16,7 +16,7 @@ spirituelle. Ses influences puisent dans la musique africaine traditionnelle, la
 chansons latines, le flamenco et la musique électronique mondiale, créant un langage musical transversal qui
 transcende les frontières géographiques et culturelles.
 
-##### Kwô et la scène des festivals
+###### Kwô et la scène des festivals
 
 Son album de débuts *Kwô*, sorti le 3 janvier 2020, marque son entrée officielle sur la scène internationale.
 Ape Chimba est devenu un habitué des festivals dédiés aux musiques du monde, spirituelles et alternatives,

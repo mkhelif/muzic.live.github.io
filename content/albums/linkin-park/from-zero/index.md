@@ -22,7 +22,7 @@ nostalgie. C'est un manifeste de réinvention qui fonctionne précisément parce
 que personne ici ne prétend le contraire.
 
 
-##### Emily Armstrong : l'évidence du renouveau
+###### Emily Armstrong : l'évidence du renouveau
 
 Les polémiques autour de son arrivée, Scientologie, présence au procès Masterson, ont parasité les débats. Passons. Ce
 qui compte, c'est ce qu'Armstrong apporte vocalement. Et sur From Zero, écrit spécifiquement pour elle et sa
@@ -35,7 +35,7 @@ nouvelle. La tension du morceau, portée par les vocaux soul de Mike Shinoda, ex
 Plus de 200 millions d'écoutes sur Spotify : le public a tranché !
 
 
-##### Une production ciselée pour une nouvelle ère
+###### Une production ciselée pour une nouvelle ère
 
 Shinoda signe ici sa meilleure production depuis A Thousand Suns. Fini le pop fade de One More Light, From Zero
 retrouve l'ADN nu-metal du groupe tout en l'actualisant. "Heavy Is the Crown" rappelle la précision brutale de "Faint",
@@ -47,7 +47,7 @@ frappes dominent le mix avec une présence physique qui manquait cruellement à 
 avec le stadium pop-rock à la Bring Me The Horizon moderne - et réussit brillamment.
 
 
-##### L'équilibre parfait entre tradition et audace
+###### L'équilibre parfait entre tradition et audace
 
 From Zero navigue intelligemment entre héritage et innovation. "IGYEIH" prouve que personne n'exécute ce style
 classique mieux que Linkin Park. "Stained" offre une mélodie vocale d'Armstrong absolument enivrante, l'un des moments
@@ -59,7 +59,7 @@ percutant. Mais dans un album de 31 minutes ultra-concentré, ces faiblesses rel
 Park n'a jamais été un groupe de fioritures - ils tapent, ils marquent, ils sortent.
 
 
-##### La chimie Shinoda-Armstrong : inattendue et efficace
+###### La chimie Shinoda-Armstrong : inattendue et efficace
 
 Là où beaucoup prédisaient le désastre, une alchimie surprenante opère. Shinoda semble revigoré, libéré même. Sur "Heavy
 Is the Crown", il rappe avec une énergie qu'on ne lui connaissait plus : "Waving that sword when the pen won't miss".
@@ -71,7 +71,7 @@ dépression. Son approche est plus frontale, moins vulnérable peut-être, mais 
 groupe ne cherche plus à exorciser des démons personnels, mais à canaliser une colère collective contemporaine.
 
 
-##### Un titre prophétique
+###### Un titre prophétique
 
 From Zero : retour aux sources, redémarrage complet. Le titre dit tout. Linkin Park aurait pu s'enliser dans l'hommage
 perpétuel ou créer un side-project anonyme. Ils ont choisi la voie la plus risquée : assumer la continuité tout en
@@ -82,7 +82,7 @@ construit un futur.
 d'être, aucune graisse, aucun remplissage. La concision est une force quand chaque seconde compte.
 
 
-##### Verdict : Linkin Park 2.0, ou comment réussir l'impossible
+###### Verdict : Linkin Park 2.0, ou comment réussir l'impossible
 
 From Zero réussit ce que peu de groupes accomplissent : se réinventer après une tragédie sans trahir leur essence.
 Emily Armstrong n'est pas un ersatz de Chester Bennington, elle est la preuve que Linkin Park peut exister sous une

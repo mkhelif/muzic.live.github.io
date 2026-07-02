@@ -12,7 +12,7 @@ conscient français, a confirmé sa présence sur la scène de la Fête du Bruit
 Une annonce qui a provoqué une véritable onde de choc parmi ses fans, habitués à de longs silences entre deux
 apparitions publiques.
 
-#### Des années de recul, un retour attendu
+###### Des années de recul, un retour attendu
 
 Keny Arkana n'est pas une artiste qui multiplie les concerts pour multiplier les concerts. Depuis *Désobéissance* (2020),
 son cinquième album, elle a fait le choix du retrait : quelques rares apparitions militantes, des interventions dans des
@@ -25,7 +25,7 @@ rassemblement populaire et d'ouverture, constitue le cadre idéal pour ce retour
 quelques semaines, l'artiste évoquait « l'envie de reprendre le fil d'un dialogue direct avec le public, loin des
 formats imposés ».
 
-#### Un set très attendu
+###### Un set très attendu
 
 Les fans spéculent sur une setlist qui embrasserait toute la trajectoire de Keny Arkana : depuis *L'Esquisse* (2006) et
 ses rimes tranchantes qui avaient sidéré le rap français, jusqu'aux textes plus introspectifs de *Désobéissance*. Son

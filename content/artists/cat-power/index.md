@@ -10,7 +10,7 @@ américaine née le 21 janvier 1972 à Atlanta, en Géorgie. Figure majeure du r
 alternative, elle est reconnue pour une œuvre marquée par la vulnérabilité, une voix d'une beauté troublante et
 une capacité à réinventer les formats musicaux avec une liberté totale.
 
-##### Les débuts entre Atlanta et New York
+###### Les débuts entre Atlanta et New York
 
 Élevée dans le sud des États-Unis, Chan Marshall grandit dans un environnement familial instable et trouve dans la
 musique un refuge et un moyen d'expression. Elle commence à se produire dans des groupes locaux d'Atlanta au début
@@ -22,7 +22,7 @@ Ses deux premiers albums, Dear Sir et Myra Lee (tous deux sortis en 1996 mais en
 en 1994), posent les bases d'une esthétique dépouillée et intense. Elle signe ensuite avec Matador Records, label
 incontournable de l'indie américain.
 
-##### Une discographie de l'intime
+###### Une discographie de l'intime
 
 Moon Pix (1998) est souvent cité comme son chef-d'œuvre : enregistré en Australie dans des circonstances
 tourmentées, l'album capte une fragilité et une beauté quasi incantatoires. The Covers Record (2000) révèle une
@@ -33,7 +33,7 @@ album soul enregistré à Memphis avec des musiciens de légende. Jukebox (2008)
 (2012), disque plus électronique et ambitieux — dixième position au Billboard 200 —, témoignent d'une artiste
 en constante évolution, qui ne s'interdit aucune direction.
 
-##### Une icône de la chanson américaine
+###### Une icône de la chanson américaine
 
 Malgré des luttes personnelles bien documentées avec l'alcoolisme et la dépression, Chan Marshall a maintenu une
 carrière d'une cohérence et d'une intégrité remarquables. En 2023, elle publie Cat Power Sings Dylan: The 1966

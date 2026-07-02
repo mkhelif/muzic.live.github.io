@@ -20,7 +20,7 @@ new wave et indie rock contemporain. Leurs débuts révèlent une formation tech
 parfaitement l'art de créer des mélodies accrocheuses portées par des rythmiques dansantes. Cette approche sophistiquée
 du rock indépendant leur permet de se distinguer rapidement sur la scène britannique en effervescence.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Franz Ferdinand connaît un succès immédiat avec leur premier album éponyme (2004) qui devient rapidement un classique du
 rock indépendant des années 2000. Le groupe se fait connaître mondialement avec des hits comme "Take Me Out" et "The
@@ -29,7 +29,7 @@ développent un catalogue qui témoigne de leur évolution constante et de leur 
 sonores tout en conservant leur identité rock caractéristique. Cette progression artistique confirme leur statut de
 références du rock indépendant européen.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Franz Ferdinand combine post-punk revival, art rock et indie rock contemporain, créant un son moderne qui
 évoque à la fois les pionniers de la new wave et les innovations du rock indépendant. Le groupe excelle dans l'art de
@@ -38,7 +38,7 @@ arrangements sophistiqués. Leurs influences puisent dans Gang of Four, Wire et 
 de danse, créant un son hybride unique qui modernise l'héritage post-punk avec intelligence et créativité. Cette
 synthèse originale influence profondément la scène rock européenne contemporaine.
 
-##### Actualité
+###### Actualité
 
 Franz Ferdinand continue d'évoluer et d'explorer de nouveaux territoires sonores, maintenant leur statut de référence du
 rock indépendant britannique après plus de vingt ans de carrière. Le groupe reste influent sur la scène rock européenne

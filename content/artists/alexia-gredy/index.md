@@ -15,7 +15,7 @@ des artistes reconnus tels qu'Aline, Baxter Dury et Geoff Barrow de Portishead, 
 soutenir. Cet EP de cinq titres et deux remixes, dont le lumineux single « Paradis », établit immédiatement son style :
 des textes fins, des mélodies accessibles et une voix qui donne envie de se pencher en avant pour ne rien manquer.
 
-##### Un premier album attendu
+###### Un premier album attendu
 
 Son premier album complet, *Hors Saison*, confirme les promesses entrevues sur l'EP. L'album propose une pop française
 de qualité, entre introspection et légèreté, avec des arrangements qui savent rester sobres pour laisser la place à

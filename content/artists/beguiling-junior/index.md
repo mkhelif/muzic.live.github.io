@@ -7,7 +7,7 @@ Beguiling Junior est un groupe britannique né de la rencontre entre la chanteus
 Okay Kaya (Kaya Wilkins) et des membres du groupe de rock anglais YAK. Ce projet collaboratif, révélé en 2025,
 se présente comme un croisement entre le rock classique et une certaine modernité désenchantée.
 
-##### Entre humour et existentialisme
+###### Entre humour et existentialisme
 
 Le son de Beguiling Junior navigue entre indie rock et post-punk, avec une esthétique résolument brute. Les textes,
 signés par Kaya Wilkins, se distinguent par leur ton singulier : un humour sardonique mêlé d'une légèreté

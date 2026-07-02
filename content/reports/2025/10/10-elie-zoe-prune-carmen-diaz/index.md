@@ -19,7 +19,7 @@ vocale assumée, cette programmation interroge les nouvelles formes d'expression
 devient-elle force scénique ? Quelle place pour l'expérimentation dans un contexte live ? Cette soirée promet de
 transformer le concert traditionnel en expérience immersive, du plus confidentiel au plus transcendant.
 
-#### Prune Carmen Diaz : la révélation tardive magnétique
+###### Prune Carmen Diaz : la révélation tardive magnétique
 
 {{< carousel pictures="pictures/prune-carmen-diaz" alt="Prune Carmen Diaz" author="mkhelif" >}}
 
@@ -41,7 +41,7 @@ loin des épanchements complaisants de l'indie confessionnel. Prune Carmen Diaz 
 décrète pas, elle se construit patiemment, loin des projecteurs, jusqu'à ce moment magnétique où elle s'impose avec
 évidence.
 
-#### Elie Zoé : l'expérience transcendante du changement
+###### Elie Zoé : l'expérience transcendante du changement
 
 {{< carousel pictures="pictures/elie-zoe" alt="Elie Zoé" author="mkhelif" >}}
 

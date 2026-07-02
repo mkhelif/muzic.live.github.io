@@ -12,7 +12,7 @@ Dawa Hifi est un sound system et un fabricant de riddims basé à Dijon, en Fran
 de vingt ans depuis sa base près de Bourges, réputé aussi bien pour ses sorties originales que pour la puissance de son
 système de sonorisation.
 
-##### Vingt ans de collaboration
+###### Vingt ans de collaboration
 
 Le projet "Red Light" naît en avril 2024 pour célébrer les vingt ans du label ODG Prod, marquant l'union entre Roots
 Raid et Dawa Hifi en clin d'œil à leur premier collectif commun, Orange Dub. Au printemps 2026, les deux formations

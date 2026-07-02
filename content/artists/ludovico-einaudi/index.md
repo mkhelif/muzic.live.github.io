@@ -10,7 +10,7 @@ Ludovico Einaudi est un pianiste et compositeur italien né le 23 novembre 1955 
 de la République italienne Luigi Einaudi et fils de l'éditeur Giulio Einaudi, il est l'un des compositeurs contemporains
 les plus écoutés au monde.
 
-##### Du conservatoire au minimalisme mélodique
+###### Du conservatoire au minimalisme mélodique
 
 Formé au Conservatoire Verdi de Milan, où il obtient son diplôme de composition en 1982, Einaudi étudie un temps auprès
 de Luciano Berio avant de s'éloigner de l'avant-garde pour développer un langage personnel : un minimalisme lumineux et
@@ -18,7 +18,7 @@ de Luciano Berio avant de s'éloigner de l'avant-garde pour développer un langa
 *Nightbook*, *In a Time Lapse*, *Seven Days Walking* — touchent un public immense, bien au-delà des amateurs de musique
 classique.
 
-##### Le compositeur des images
+###### Le compositeur des images
 
 Einaudi a signé de nombreuses musiques de films et de séries, dont *Intouchables*, *This Is England* ou *Nomadland*. Ses
 concerts, d'une intensité contemplative, transforment chaque salle en espace de recueillement — une expérience que

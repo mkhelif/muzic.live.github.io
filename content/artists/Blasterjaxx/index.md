@@ -22,7 +22,7 @@ des grands festivals électroniques.
 Le duo développe rapidement un style bigroom house caractéristique, conçu spécifiquement pour enflammer les
 dancefloors des plus grands événements électroniques de la planète.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Blasterjaxx se fait connaître avec des titres comme "Mystica", "Faith" et "Heartbreak", qui grimpent rapidement
 les charts électroniques internationaux et deviennent des hymnes incontournables des festivals d'été.
@@ -33,7 +33,7 @@ de la scène EDM mondiale.
 Le duo excelle également dans l'art du remix, réinterprétant des hits pop et d'autres productions électroniques
 avec leur style unique et reconnaissable.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Blasterjaxx combine éléments de progressive house, d'electro house et de bigroom, créant des tracks
 spécifiquement conçues pour les grands festivals et les clubs les plus prestigieux.
@@ -44,7 +44,7 @@ instantanément les dancefloors du monde entier.
 Ils représentent parfaitement l'esthétique de l'EDM moderne, privilégiant l'impact émotionnel et l'efficacité
 dancefloor.
 
-##### Actualité
+###### Actualité
 
 Blasterjaxx continue de représenter cette génération de producteurs qui ont su adapter la musique électronique aux
 nouvelles attentes du public festival.

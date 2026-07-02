@@ -11,7 +11,7 @@ en Californie, par les cousins Rob Cavestany (guitare lead), Dennis Pepa (basse,
 L'arrivée en 1984 de Mark Osegueda au chant — un cousin éloigné qui faisait alors office de roadie —
 complète la formation qui gravera son nom dans l'histoire du thrash.
 
-##### Les prodiges de la Bay Area
+###### Les prodiges de la Bay Area
 
 En 1985, le groupe enregistre la démo *Kill as One*, produite par Kirk Hammett de Metallica — preuve
 que la scène de la Bay Area leur reconnaît déjà un statut à part. Signés chez Enigma Records, ils
@@ -21,7 +21,7 @@ incontournables du genre. *Act III* (1990), sorti sur Geffen Records, est plus a
 produit, preuve d'une ambition sans limites — avant que la dissolution forcée de 1991, provoquée par
 le grave accident de voiture d'Andy Galeon en tournée, ne mette un frein brutal à leur élan.
 
-##### Une reformation remarquable
+###### Une reformation remarquable
 
 Reformé en 2001, Death Angel signe chez Nuclear Blast et publie *The Art of Dying* (2004), début d'une
 seconde vie discographique qui compte six albums supplémentaires, dont *Humanicide* (2019), dont le

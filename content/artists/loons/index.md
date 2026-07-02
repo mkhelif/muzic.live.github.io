@@ -15,7 +15,7 @@ socials:
   tidal: "5121610"
 ---
 
-## Le miracle post-hardcore venu du Sud
+###### Le miracle post-hardcore venu du Sud
 
 Il y a des groupes qui sonnent comme s'ils avaient été cryogénisés à Seattle en 1994 pour être décongélés aujourd'hui à
 Montpellier. Confronté au post-hardcore de Loons, on se demande d'où ils sortent, ce qu'ils mangent au petit-déjeuner,
@@ -25,7 +25,7 @@ scène américaine des années 90 — et le paradoxe devient total quand on appr
 
 C'est là tout le prodige Loons.
 
-## Trois amis, un lycée, une pandémie
+###### Trois amis, un lycée, une pandémie
 
 L'aventure collective démarre en 2020. Elio Richardeau (chant, guitare), Axel Sirodeau (batterie) et Antoine Bay (chant,
 basse) se sont liés connaissance sur les bancs d'un lycée pour, au final, ne plus se quitter d'une semelle. La période
@@ -36,7 +36,7 @@ Le trio est montpelliérain jusqu'au bout des riffs. Il grandit dans une ville q
 intense avec le rock alternatif, et cette filiation géographique compte dans leur trajectoire — les premières scènes,
 les premiers contacts avec un public local qui apprend à les connaître, la communauté indie régionale qui les adopte.
 
-## Un son d'une autre époque, ancré dans le présent
+###### Un son d'une autre époque, ancré dans le présent
 
 Les références de Loons disent tout de leur esthétique : le trio se réclame du noise de Sonic Youth, du métal de
 Deftones et du shoegaze de My Bloody Valentine. À ces piliers s'ajoutent Quicksand, Jawbox et les débuts de Deftones.
@@ -51,7 +51,7 @@ Une des forces du groupe réside dans la complémentarité vocale entre Elio et 
 duo vocal, avec les deux chanteurs partageant la volonté de fusionner leurs voix en un seul chant unifié. La dualité
 donne à leur musique toute son essence — l'efficacité contre la douceur, l'introspection contre la lourdeur.
 
-## Discographie : de *Cold Flames* à *Life Is*
+###### Discographie : de *Cold Flames* à *Life Is*
 
 **Cold Flames** (EP, mai 2022) — cinq titres — *Cold Flames*, *Wings*, *Blizzard*, *Blue* et *Bliss* — enregistrés et
 mixés par Lo Spider, puis masterisés par Jim Diamond. Avec une moyenne d'âge de 21 ans, le groupe ne sonne pas comme de
@@ -72,7 +72,7 @@ dernier accord.
 La pochette est réalisée par le chanteur et guitariste Elio Richardeau avec Tanguy Agobian — signe d'un groupe qui
 contrôle son image autant que sa musique, d'une cohésion artistique qui dépasse les seules compositions.
 
-## La scène comme terrain de jeu
+###### La scène comme terrain de jeu
 
 Loons n'est pas un groupe de studio. Tout dans leur façon de jouer — l'urgence, l'énergie brute, la communion entre les
 membres — renvoie à la scène. Lors de leur release party au Rockstore de Montpellier, tout le répertoire de *Life Is* y
@@ -83,7 +83,7 @@ En mai 2026, le groupe joue au Supersonic à Paris en tête d'affiche, confirman
 nationale. On les retrouve également à La Sainte Rock à Aix-en-Provence, aux côtés de Dätcha Mandala, Cachemire et
 d'autres — une reconnaissance par les pairs autant que par les programmateurs.
 
-## La relève, c'est eux
+###### La relève, c'est eux
 
 Il y a une phrase qui circule dans les chroniques consacrées à Loons, et qui en dit long : selon les dires des membres
 eux-mêmes, seuls les « darons » venaient les voir en concert sous prétexte que ça leur rappelait leur jeunesse. La

@@ -11,7 +11,7 @@ est le chanteur principal et l'un des fondateurs. Mais derrière cette identité
 2008 une carrière solo discrète et exigeante qui révèle les facettes les plus personnelles et expérimentales de son
 univers musical.
 
-##### Hot Chip et ses débuts
+###### Hot Chip et ses débuts
 
 C'est à l'école secondaire Elliot de Putney, à Londres, qu'Alexis Taylor forme Hot Chip avec Joe Goddard. Les deux
 amis développent leur projet tout au long de leurs études, avec différentes formations, avant de percer
@@ -19,7 +19,7 @@ commercialement dans les années 2000 avec un electro-pop dansant et émotionnel
 internationale durable. Taylor a poursuivi ses études d'anglais à Jesus College, Cambridge (1999-2002), nourrissant
 une sensibilité littéraire qui transparaît dans ses textes.
 
-##### Une carrière solo expérimentale
+###### Une carrière solo expérimentale
 
 En 2008, Taylor publie Rubbed Out, un premier album solo fondé sur une guitare lo-fi improvisée dans la veine de
 Pavement. L'EP Nayim From the Halfway Line paraît sur Domino en 2012, suivi d'Await Barbarians (2014), album plus

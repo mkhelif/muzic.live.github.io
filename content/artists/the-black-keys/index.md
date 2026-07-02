@@ -26,7 +26,7 @@ et qui finissent par devenir l'un des duos rock les plus importants de leur gén
 improbable que linéaire : vingt-cinq ans de travail obstiné, un son immuable, et une fidélité aux racines qui force le
 respect.
 
-## Deux enfants du même bus scolaire
+###### Deux enfants du même bus scolaire
 
 Dan Auerbach (né le 14 mai 1979) et Patrick Carney (né le 15 avril 1980) se sont rencontrés vers l'âge de neuf ans, mais
 n'étaient pas proches initialement. Auerbach était plus extraverti, capitaine de l'équipe de football du lycée, tandis
@@ -49,7 +49,7 @@ messages délirants sur les répondeurs en réclamant des crayons ou du Coca Lig
 genre « Si vous ne m'apportez pas ces choses, vous êtes une touche noire. » La phrase est restée comme une blague
 interne pour désigner quelque chose de tordu ou de peu fiable. En 2001, c'est le seul nom qu'ils ont jamais envisagé.
 
-## Les années de formation : la cave comme studio
+###### Les années de formation : la cave comme studio
 
 *The Big Come Up* sort en 2002 sur le label indépendant Alive. Malgré des ventes modestes, il attire l'attention des
 critiques et leur vaut un contrat avec Fat Possum Records. En quelques jours après leur signature, le groupe boucle son
@@ -67,7 +67,7 @@ fondations d'un son immédiatement identifiable : un blues rock brut qui s'abreu
 Kimbrough, R.L. Burnside, Howlin' Wolf, Robert Johnson — et l'infuse d'une énergie garage-punk qui le propulse vers une
 nouvelle génération.
 
-## L'ascension : *Attack & Release*, *Brothers*, le monde
+###### L'ascension : *Attack & Release*, *Brothers*, le monde
 
 *Attack & Release* (2008) est le premier album produit avec Danger Mouse — une collaboration qui marque un tournant dans
 leur trajectoire. Le son s'élargit, les arrangements se sophistiquent, sans que l'âme du groupe ne se perde. Le disque
@@ -83,7 +83,7 @@ d'Enregistrement.
 Auerbach lui-même considère *Brothers* comme son album préféré. Ce qui n'empêche pas la suite d'être encore plus
 massive.
 
-## *El Camino* : la bombe glam
+###### *El Camino* : la bombe glam
 
 Après le succès de *Brothers*, les Black Keys opèrent une réinvention sonique sur *El Camino* (2011), co-produit avec
 Danger Mouse, fusionnant soul du Sud, glam rock, guitare surf et groove funk en une pop classique irrésistiblement
@@ -99,7 +99,7 @@ Entre *Brothers* et *El Camino*, les deux albums se vendent à plus de trois mil
 sept Grammy Awards au total. En l'espace de dix-neuf mois, deux voisins d'Akron sont devenus l'un des groupes les plus
 importants de la planète.
 
-## Une discographie en mouvement permanent
+###### Une discographie en mouvement permanent
 
 *Turn Blue* (2014) est leur premier album numéro un aux États-Unis, au Canada et en Australie. Plus sombre, plus
 psychédélique, il confirme leur capacité à se renouveler sans perdre leur identité.
@@ -112,7 +112,7 @@ suivi de *No Rain, No Flowers* (août 2025), avant que *Peaches!* n'arrive en ma
 un nouveau recueil de reprises blues enregistré dans l'urgence et l'émotion, après le diagnostic de cancer de Chuck
 Auerbach, père de Dan.
 
-## Akron comme état d'esprit
+###### Akron comme état d'esprit
 
 Akron, Ohio — la ville qui les a fabriqués — reste une présence constante dans leur musique et leur façon d'être.
 Auerbach la décrit comme « un endroit étrange, avec tous ces fantômes du passé qui rôdent à chaque coin de rue, ces

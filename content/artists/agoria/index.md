@@ -17,14 +17,14 @@ internationales aux côtés de références comme Jeff Mills, Carl Cox, Kevin Sa
 album, *Blossom*, sort en 2003 et affirme d'emblée une approche personnelle de la techno et de la house, mêlant
 atmosphères cinématographiques et compositions aux influences riches.
 
-##### Architecte de la scène électronique française
+###### Architecte de la scène électronique française
 
 Au-delà de ses propres productions, Agoria est l'un des artisans les plus importants du développement de la culture
 électronique en France. En 2002, il cofonde avec Vincent Carry le festival lyonnais Nuits Sonores, qui devient l'un des
 rendez-vous majeurs de la musique électronique en Europe. En 2006, il cocrée le label InFiné Music, qui accompagne des
 artistes aussi singuliers que Rone, Catastrophe ou Murcof.
 
-##### Un son atmosphérique et personnel
+###### Un son atmosphérique et personnel
 
 Producteur prolifique, Agoria est notamment l'auteur du single « Scala », qui cumule plus de 5 millions d'écoutes sur
 Spotify, et de la bande originale du film *Go Fast*. À travers quatre albums et des releases sur les labels les plus

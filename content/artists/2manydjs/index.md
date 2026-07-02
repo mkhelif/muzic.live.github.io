@@ -16,14 +16,14 @@ projet parallèle. En 1999, les frères Dewaele lancent une émission de radio s
 et adoptent progressivement le nom 2manydjs pour leurs sets caractérisés par un style de mashup sophistiqué et
 décomplexé.
 
-##### La référence du mashup
+###### La référence du mashup
 
 La consécration arrive en 2002 avec la compilation *As Heard on Radio Soulwax Pt. 2*, un objet musical sans précédent
 qui superpose des centaines d'extraits issus des genres les plus disparates — punk, house, hip-hop, new wave — avec un
 talent et une audace qui révolutionnent la conception du DJ set. Le New York Times la nomme meilleur album populaire de
 l'année 2002. L'album se vendra à plus d'un demi-million d'exemplaires dans le monde.
 
-##### Reconnaissance internationale
+###### Reconnaissance internationale
 
 En 2005, 2manydjs reçoit le MTV Europe Music Award du meilleur DJ, récompensant une décennie de travail acharné à
 repousser les frontières du genre. Le duo continue d'alterner entre les projets Soulwax et 2manydjs, démontrant une

@@ -14,7 +14,7 @@ premières chansons. C'est lors d'un voyage en Europe que naissent les textes qu
 pièces intimistes, enregistrées dans le studio de son père, qui capturent quelque chose d'essentiel dans la
 tradition de la musique folk américaine.
 
-##### Les débuts : The Pirate's Gospel
+###### Les débuts : The Pirate's Gospel
 
 Son catalogue embryonnaire prend forme avec The Pirate's Gospel, auto-édité en 2004 sous le titre Forest Parade puis
 réédité par Holocene Music en 2006. Cet album révèle une artiste d'une maturité surprenante, dont les mélodies
@@ -23,7 +23,7 @@ contemporains comme Joanna Newsom — avec qui Alela partage d'ailleurs les orig
 En octobre 2006, un pressage limité en vinyle 10 pouces, Songs Whistled Through White Teeth, la fait connaître
 davantage au Royaume-Uni.
 
-##### Une musique ancrée dans la contemplation
+###### Une musique ancrée dans la contemplation
 
 To Be Still (2009) et About Farewell (2013) prolongent cette démarche musicale fondée sur le dépouillement et la
 sincérité. Les textes d'Alela Diane explorent des thèmes universels : la famille, la nature, le passage du temps,

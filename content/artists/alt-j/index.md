@@ -16,7 +16,7 @@ signer chez Infectious Music en décembre 2011. La ville universitaire, son atmo
 semble avoir imprimé sa marque sur une musique qui n'a rien de superficiel : chaque disque d'Alt-J est un objet
 construit avec soin, regorgeant de détails et de références qui récompensent les écoutes répétées.
 
-##### Un début foudroyant
+###### Un début foudroyant
 
 Leur premier album, *An Awesome Wave*, sort en mai 2012 en Europe et remporte la même année le Mercury Prize, la plus
 prestigieuse récompense musicale britannique. Le disque, avec ses harmonies vocales décalées, ses rythmes syncopés et
@@ -24,7 +24,7 @@ ses atmosphères cinématographiques, est une révélation qui établit immédia
 
 *This Is All Yours* (2014) entre directement à la première place des charts britanniques et confirme leur place au sommet de l'indie rock mondial. Troisième album, *Relaxer* (2017), plus sombre et plus expérimental, déroute quelques fans mais fascine les critiques par son audace. *The Dream* (2022) clôt pour l'instant leur discographie officielle avec une œuvre plus intime et narrative.
 
-##### Un son unique
+###### Un son unique
 
 Ce qui distingue fondamentalement Alt-J, c'est leur capacité à construire des chansons qui semblent simples en surface
 mais révèlent à chaque écoute de nouvelles couches de complexité. La voix de Newman, ses harmoniques inhabituelles,

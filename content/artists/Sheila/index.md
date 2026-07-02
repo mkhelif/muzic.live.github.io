@@ -27,7 +27,7 @@ Au-delà des chiffres, Sheila incarne un phénomène culturel qui dépasse large
 l'évolution de la place de la femme dans la société française, passant de la jeune fille sage et romantique des années
 1960 à la femme libérée et glamour des années disco, puis à l'artiste mature et respectée des décennies suivantes.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière de Sheila débute en 1962 avec le single "L'école est finie", chanson qui capture parfaitement l'esprit de la
 jeunesse française des Trente Glorieuses. Le succès est immédiat et considérable, propulsant cette adolescente encore
@@ -51,7 +51,7 @@ française et pop internationale. Des albums comme "Little Darlin'" (1980) et "T
 dans le paysage musical français. Sa capacité à remplir l'Olympia et le Palais des Sports à plusieurs reprises témoigne
 de l'attachement durable de son public, qui traverse les générations.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Sheila a évolué constamment au fil des décennies, reflétant les transformations de la musique populaire tout
 en conservant une identité reconnaissable. Ses débuts yéyé s'inspirent du rock 'n' roll américain filtré à travers une
@@ -74,7 +74,7 @@ carrière pouvait se construire sur la durée en évoluant constamment, que le s
 avec la crédibilité artistique, et qu'une femme pouvait contrôler son image et sa destinée professionnelle dans une
 industrie souvent dominée par les hommes.
 
-##### Actualité
+###### Actualité
 
 Sheila continue aujourd'hui de se produire occasionnellement, ses concerts-événements attirant des foules nostalgiques
 comme de nouvelles générations découvrant son répertoire impressionnant. Sa présence sur scène, toujours énergique et

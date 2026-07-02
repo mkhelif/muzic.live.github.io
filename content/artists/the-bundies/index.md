@@ -18,7 +18,7 @@ Leur devise résume tout en une ligne : « Pas de bla-bla, matte la vidéo, éco
 à perdre en postures, en discours ou en effets de manche. Ce groupe de stoner rock d'Aix-en-Provence existe pour une
 seule raison : faire du bruit, et le faire bien.
 
-## Quatre vieux potes, une idée simple
+###### Quatre vieux potes, une idée simple
 
 Quatre vieux potes issus d'horizons musicaux différents et ayant partagé de nombreuses scènes par le passé décident de
 faire pour la première fois de la musique ensemble. Du plaisir et du rock'n'roll restent les maîtres mots de cette
@@ -30,7 +30,7 @@ Christian Lagarde à la guitare, et Sébastien Vanni à la batterie et aux chœu
 solide, des voix qui se croisent — la formule classique du stoner rock, mais avec l'expérience accumulée de musiciens
 qui ont déjà usé leurs semelles sur beaucoup de scènes de la région.
 
-## Un son comme un mur
+###### Un son comme un mur
 
 Le stoner rock est une musique de conviction. Il ne tolère ni la demi-mesure ni le compromis — il demande à ses
 praticiens de s'y engager entièrement, riff après riff, avec une densité sonore qui laisse peu de place à l'hésitation.
@@ -41,7 +41,7 @@ Les influences coulent de source : le desert rock de Kyuss et Queens of the Ston
 l'héritage du heavy blues de Black Sabbath — tout ce qui fait que le stoner rock, quand il est bien fait, sonne comme
 quelque chose qui vient du sol et monte vers les étoiles.
 
-## Un EP autoproduit, une promesse tenue
+###### Un EP autoproduit, une promesse tenue
 
 En 2022, The Bundies sortent leur premier EP en autoproduction — quatre titres : *Be Water*, *Vivons*, *Under Fire* et
 *Fail*. L'EP a été enregistré par Richard Coloma, mixé par Erik Becard au Liv'Addict Studio et masterisé par Remy
@@ -51,7 +51,7 @@ La décision de tout faire eux-mêmes — de l'enregistrement à la sortie, en p
 avec leur approche générale : directe, sans intermédiaire, sans fioritures. Ce qui sort de cette session sonne
 exactement comme The Bundies veulent sonner.
 
-## La scène : leur terrain naturel
+###### La scène : leur terrain naturel
 
 Depuis leur création, The Bundies enchaînent les dates avec la régularité d'un groupe qui a faim. Les concerts
 s'accumulent rapidement : le Beers & Balls à Fréjus avec Black Beer et Boyz Boyz Boyz, le Fo-Fu Fest à Rognes, le Just n
@@ -67,7 +67,7 @@ Metal Fest complète l'été, aux côtés d'Argues, StoneHorns, Parallel Minds e
 En 2026, le groupe figure à l'affiche de La Sainte Rock au 6MIC d'Aix-en-Provence — la scène locale mise à l'honneur aux
 côtés de La Flemme, Elephant Green et Le Bleu — confirmant leur place parmi les références du rock régional.
 
-## L'authenticité comme seul programme
+###### L'authenticité comme seul programme
 
 En studio comme sur scène, leur alchimie est palpable, offrant des performances intenses et sincères. Leur approche
 décontractée et leur énergie communicative font d'eux un groupe à part, où l'authenticité prime sur les artifices.

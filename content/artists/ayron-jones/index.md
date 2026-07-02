@@ -9,7 +9,7 @@ Ayron Jones est un guitariste, chanteur et compositeur américain né le 23 aoû
 Seattle, Washington. Issu d'une enfance difficile — placé en famille d'accueil à l'âge de quatre ans alors que ses
 deux parents luttaient contre l'addiction — il trouve dans la guitare à la fois un refuge et une vocation.
 
-##### La naissance d'un son : Seattle dans le sang
+###### La naissance d'un son : Seattle dans le sang
 
 Jones se forge un style profondément ancré dans l'héritage de Seattle : le rock blues de Jimi Hendrix, la puissance
 grunge de Kurt Cobain, l'âme soul de Michael Jackson — une alchimie qu'il résume lui-même avec une formule frappante :
@@ -21,7 +21,7 @@ Cream, le Jimi Hendrix Experience, Stevie Ray Vaughan and Double Trouble et Prin
 debut Dream sort en octobre 2013, co-produit par le rappeur et producteur Sir Mix-a-Lot, qui les avait découverts dans
 un bar de Seattle en 2012.
 
-##### La consécration avec Child of the State
+###### La consécration avec Child of the State
 
 Après un EP indépendant (Audio Paint Job, 2017) qui confirme son potentiel, Ayron Jones signe avec Big Machine/John
 Varvatos Records et sort le single Take Me Away en 2020. L'année suivante, Mercy — un hymne à résonance sociale —
@@ -32,7 +32,7 @@ virtuose et de songwriter sincère.
 Son album suivant, Chronicles of the Kid, dont est extrait Blood in the Water (2023), continue d'explorer son histoire
 personnelle et les thèmes de résilience, d'identité et d'appartenance.
 
-##### Un guitariste de sa génération
+###### Un guitariste de sa génération
 
 Ayron Jones représente une génération de musiciens qui héritent du rock classique tout en l'ouvrant à de nouveaux
 publics. Sa présence scénique électrique, son jeu de guitare expressif et ses textes personnels font de lui l'une des

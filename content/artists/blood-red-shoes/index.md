@@ -13,7 +13,7 @@ formations à effectif complet peinent à égaler. En vingt ans de carrière et 
 s'est imposé comme l'un des combos indie-rock les plus cohérents et les plus attachants de la scène
 britannique contemporaine.
 
-##### Des cendres de deux groupes, un duo
+###### Des cendres de deux groupes, un duo
 
 L'histoire de Blood Red Shoes commence dans les décombres de deux projets précédents. Steven Ansell officiant
 dans Cat on Form, et Laura-Mary Carter dans Lady Muck, les deux musiciens se retrouvent sans formation et
@@ -27,7 +27,7 @@ volontairement assumée qui devient leur identité. Le duo n'a jamais cherché �
 l'absence de basse est compensée par le jeu de guitare de Carter, qui occupe les fréquences basses avec une
 dextérité remarquable.
 
-##### Une discographie sans temps mort
+###### Une discographie sans temps mort
 
 Blood Red Shoes publie son premier album, *Box of Secrets*, en 2008, et pose immédiatement les jalons de
 leur son : riffs incisifs, mélodies immédiates, une production rugueuse qui préserve l'énergie du live.
@@ -43,7 +43,7 @@ sans compromis.
 élargie et des textes plus personnels. *Ghosts on Tape* (2022) poursuit dans cette direction, confirmant
 la maturité artistique d'un duo qui n'a jamais cessé d'évoluer tout en restant fidèle à ses racines.
 
-##### Sur scène et dans la durée
+###### Sur scène et dans la durée
 
 Blood Red Shoes est avant tout un groupe de scène. Leur réputation live précède souvent leurs disques, et
 c'est en concert que leur musique prend toute sa dimension. La complicité entre Carter et Ansell — musicale

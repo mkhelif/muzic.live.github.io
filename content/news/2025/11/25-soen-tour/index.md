@@ -14,7 +14,7 @@ sillon avec une constance remarquable, album après album, tournée après tourn
 ![SOEN tournée](tour.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
-## Des fjords aux plaines européennes
+###### Des fjords aux plaines européennes
 
 La tournée débutera fin janvier avec le très prisé 70000 Tons of Metal, cette croisière métal légendaire au départ de
 Miami où SOEN partagera l'affiche avec le gratin de la scène internationale. Mais c'est sur le sol scandinave que le
@@ -25,14 +25,14 @@ tournée se poursuivra vers Trondheim le 28 février au Havet Djupet, puis direc
 parcours nordique qui résonne comme un retour aux sources pour ce groupe profondément ancré dans l'ADN musical
 scandinave.
 
-## Un été de festivals
+###### Un été de festivals
 
 L'été 2026 verra SOEN multiplier les apparitions festivalières. Le Metalfest Open Air de Pilsen en République Tchèque
 (5-7 juin), l'Alcatraz Metal Festival de Kortrijk en Belgique (6-9 août), le Summer Breeze de Dinkelsbühl en Allemagne
 (12-15 août), et le Motocultor de Carhaix — ce dernier offrant aux fans français une opportunité précieuse de voir le
 groupe sur leurs terres.
 
-## L'héritage *Memorial*
+###### L'héritage *Memorial*
 
 Cette tournée s'inscrit dans la continuité du cycle *Memorial*, sixième album studio paru en 2023 qui a confirmé la
 maturité artistique du groupe. Avec cet opus, SOEN s'est imposé comme une composante essentielle du prog metal moderne,
@@ -42,7 +42,7 @@ Sur scène, le quintet délivre généralement un set d'environ 1h15 mêlant les
 "Antagonist" aux morceaux plus récents. Une setlist qui traverse l'intégralité de leur discographie avec un équilibre
 savant entre puissance et mélancolie, entre complexité rythmique et mélodie accessible.
 
-## Pourquoi il faut y être
+###### Pourquoi il faut y être
 
 Les retours des concerts récents sont unanimes : SOEN possède une présence scénique exceptionnelle, chaque membre étant
 un véritable maître de son instrument. Joel Ekelöf, dont le timbre évoque parfois celui de Maynard James Keenan, se

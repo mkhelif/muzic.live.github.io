@@ -14,21 +14,21 @@ annoncent *Your Favorite Toy*, leur douzième album studio, prévu le 24 avril v
 disque de dix titres qui marque un tournant dans l'histoire du groupe avec l'arrivée du batteur Ilan Rubin derrière les
 fûts.
 
-#### Le single qui a tout débloqué
+###### Le single qui a tout débloqué
 
 Dave Grohl ne tarit pas d'éloges sur le morceau-titre : « *Your Favorite Toy* a vraiment été la clé qui a déverrouillé
 le ton et la direction énergétique du nouvel album. C'était la mèche du baril de poudre de chansons que nous avons fini
 par enregistrer. Ça sonne neuf. » Le titre rejoint *Asking For A Friend*, dévoilé en amont, parmi les avant-goûts d'un
 album qui promet de renouer avec l'urgence et l'énergie brute.
 
-#### Un album fait maison
+###### Un album fait maison
 
 L'album a été enregistré chez les membres du groupe et coproduit par les Foo Fighters avec Oliver Roman, qui a également
 assuré l'ingénierie du son. Le mixage a été confié à Mark « Spike » Stent. Le line-up comprend Dave Grohl, Nate Mendel,
 Chris Shiflett, Pat Smear, Rami Jaffee et le nouveau venu Ilan Rubin, dont le jeu de batterie apporte une dynamique
 inédite à l'ensemble.
 
-#### La tournée « Take Cover » : stades et têtes d'affiche
+###### La tournée « Take Cover » : stades et têtes d'affiche
 
 La sortie de l'album sera accompagnée par la tournée mondiale « Take Cover », un événement à la mesure du groupe. Le
 périple européen s'annonce particulièrement alléchant avec des dates à Oslo, Stockholm, Varsovie, Munich, Paris,

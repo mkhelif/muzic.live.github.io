@@ -22,7 +22,7 @@ tournée entièrement portée par des artistes féminines, reflet des collaborat
 ![Evanescence tournée](tour.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
-## Une armada de talents féminins
+###### Une armada de talents féminins
 
 Le groupe traversera l'Amérique du Nord de juin à août, accompagné de Spiritbox et Nova Twins. Le package changera pour
 le Royaume-Uni en septembre, avec Poppy et K. Flay, avant de poursuivre sur le continent européen.
@@ -35,7 +35,7 @@ moment de cette tournée.
 K. Flay, qui figure sur le dernier single d'Evanescence « Fight Like a Girl », assurera les premières parties au
 Royaume-Uni ainsi que lors du concert de clôture au Red Rocks.
 
-## Les dates nord-américaines : de la Floride au Michigan
+###### Les dates nord-américaines : de la Floride au Michigan
 
 La portion nord-américaine débute le 11 juin à West Palm Beach, en Floride, et se poursuit à travers les États-Unis et
 le Canada jusqu'au concert du 2 août près de Detroit.
@@ -47,7 +47,7 @@ programmés à travers 11 pays.
 Le groupe participera également aux deux éditions du festival Sick New World, à Las Vegas le 25 avril et à Fort Worth,
 Texas, le 24 octobre.
 
-## L'Europe en ligne de mire
+###### L'Europe en ligne de mire
 
 La tournée automnale européenne débute à Leeds le 8 septembre avant de passer par Manchester, Birmingham et Londres à
 l'O2 Arena, puis de traverser la Belgique, la France, l'Allemagne, les Pays-Bas, l'Italie, la Suisse, l'Espagne et le
@@ -65,7 +65,7 @@ octobre clôturera l'ensemble de la tournée.
 
 Il s'agira de la première tournée complète du groupe au Royaume-Uni et en Europe depuis le World's Collide Tour de 2022.
 
-## Un nouvel album à l'horizon
+###### Un nouvel album à l'horizon
 
 Dans l'annonce de la tournée, le groupe laisse entendre qu'un nouvel album sera publié avant les concerts : « Nous avons
 hâte de partager les scènes avec ces artistes incroyables (et un album de nouvelle musique à jouer, bientôt !) »
@@ -78,7 +78,7 @@ travaillé. »
 Le single le plus récent du groupe, « Afterlife », issu de la série Netflix Devil May Cry, a rencontré un grand succès
 avec plus de 20 millions de streams et plus de 10 millions de vues sur YouTube en quelques semaines seulement.
 
-## L'héritage *Fallen*, 22 ans plus tard
+###### L'héritage *Fallen*, 22 ans plus tard
 
 En 2003, alors que les charts rock étaient dominés par des groupes masculins de nu-metal et post-grunge, un jeune groupe
 mené par une femme, originaire de l'Arkansas, s'est démarqué en proposant quelque chose d'entièrement nouveau. Avec
@@ -92,7 +92,7 @@ Le line-up actuel comprend Amy Lee (voix, claviers), Tim McCord (guitare/basse),
 (guitares) et Emma Anzai (basse, chœurs). Leur plus grand concert en tête d'affiche à ce jour a eu lieu à l'Allianz
 Parque de São Paulo, attirant 40 000 fans.
 
-## Un engagement solidaire
+###### Un engagement solidaire
 
 Evanescence s'est associé à PLUS1 pour que 1 $/1 £/1 € de chaque billet vendu soutienne des organisations fournissant
 une aide humanitaire et des secours médicaux aux communautés dans le besoin à travers le monde.

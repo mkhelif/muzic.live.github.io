@@ -7,7 +7,7 @@ socials:
   web: "https://musiquesenstock.fr/"
 ---
 
-##### Un festival intimiste dans un cadre idyllique
+###### Un festival intimiste dans un cadre idyllique
 
 Le Festival Musiques de Stock s'épanouit dans la région annécienne, offrant un cadre intimiste et authentique qui
 contraste avec les grands rassemblements musicaux commerciaux. Cette manifestation culturelle se distingue par sa
@@ -17,7 +17,7 @@ ses paysages alpins, contribue à créer une expérience musicale unique où la 
 artistiques. Cette philosophie d'organisation privilégie la qualité sur la quantité, offrant aux festivaliers une
 expérience musicale authentique loin de l'agitation des grands festivals commerciaux.
 
-##### Une programmation éclectique et exigeante
+###### Une programmation éclectique et exigeante
 
 Le Festival Musiques de Stock se caractérise par une programmation soigneusement sélectionnée qui privilégie la
 diversité stylistique et l'excellence artistique. Cette approche curatorielle refuse l'enfermement dans un genre unique,
@@ -27,7 +27,7 @@ un niveau d'exigence constant dans la sélection des artistes. La programmation 
 talents émergents tout en proposant des têtes d'affiche reconnues, créant un équilibre parfait entre découverte et
 confirmation artistique.
 
-##### Un engagement territorial fort
+###### Un engagement territorial fort
 
 Musiques de Stock s'inscrit dans une démarche de développement culturel territorial, contribuant activement au
 rayonnement artistique de la région annécienne. Ce positionnement territorial se traduit par un ancrage local fort, avec
@@ -36,7 +36,7 @@ l'événement. Le festival devient ainsi un véritable catalyseur culturel qui d
 attirant un public extérieur curieux de découvrir les richesses culturelles de la région. Cette dimension territoriale
 transforme l'événement en projet collectif qui dépasse le simple cadre du divertissement musical.
 
-##### Une organisation à dimension humaine
+###### Une organisation à dimension humaine
 
 La force du Festival Musiques de Stock réside dans son organisation à taille humaine qui privilégie la qualité de
 l'accueil et l'attention portée aux détails. Cette approche artisanale se traduit par une atmosphère conviviale où
@@ -45,7 +45,7 @@ cultive cette proximité avec le public et les artistes, créant un climat de co
 festival des événements purement commerciaux. Cette philosophie organisationnelle garantit une expérience authentique
 qui fidélise le public et attire des artistes en quête de conditions de représentation respectueuses de leur art.
 
-##### Un laboratoire de découvertes musicales
+###### Un laboratoire de découvertes musicales
 
 Musiques de Stock fonctionne comme un véritable laboratoire de découvertes musicales, offrant une plateforme privilégiée
 aux artistes en devenir tout en proposant au public des rencontres artistiques inattendues. Cette dimension de
@@ -55,7 +55,7 @@ programmer des artistes encore confidentiels mais porteurs d'un potentiel artist
 programmation audacieuse contribue au rayonnement du festival auprès des professionnels de la musique et des amateurs
 éclairés.
 
-##### Des Perspectives d'Avenir Durables
+###### Des Perspectives d'Avenir Durables
 
 Le Festival Musiques de Stock s'inscrit dans une démarche de développement durable qui concilie ambition artistique et
 respect de l'environnement. Cette approche responsable se traduit par des choix organisationnels qui minimisent l'impact
@@ -64,7 +64,7 @@ la pérennité sur l'expansion quantitative, garantissant la stabilité de l'év
 valeurs fondatrices au fil des éditions. Cette vision à long terme assure l'avenir du festival en tant qu'événement
 culturel de référence dans le paysage musical régional et national.
 
-##### Un Modèle d'Excellence Culturelle
+###### Un Modèle d'Excellence Culturelle
 
 Musiques de Stock incarne un modèle alternatif de festival qui prouve qu'excellence artistique et dimension humaine
 peuvent parfaitement cohabiter dans l'industrie musicale contemporaine. Cette réussite inspire d'autres organisateurs

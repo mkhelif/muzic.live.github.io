@@ -22,7 +22,7 @@ Simple Minds évolue rapidement vers un son plus atmosphérique et ambitieux.
 Leurs débuts voient le groupe explorer des territoires post-punk et new wave influencés par Kraftwerk, Brian Eno et
 David Bowie, développant progressivement leur identité sonore grandiose.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Les albums "New Gold Dream (81–82–83–84)" (1982) et "Sparkle in the Rain" (1984) établissent Simple Minds comme force
 majeure du rock alternatif européen, avec des morceaux épiques et atmosphériques.
@@ -36,7 +36,7 @@ et d'une présence dominante sur MTV.
 Le groupe traverse les décennies en évoluant constamment, explorant l'électronique, le rock et maintenant une carrière
 active jusqu'à aujourd'hui.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Simple Minds se caractérise par des arrangements grandioses, des synthétiseurs atmosphériques et la voix
 distinctive de Jim Kerr qui porte des mélodies épiques.
@@ -50,7 +50,7 @@ paysages sonores vastes et immersifs.
 Les thématiques explorent l'espoir, la quête identitaire et les grandes questions existentielles, portées par des
 productions ambitieuses qui visent l'universel.
 
-##### Actualité
+###### Actualité
 
 Simple Minds continue de tourner et d'enregistrer de nouveaux albums, maintenant leur pertinence et leur passion
 créative après plus de quarante ans de carrière.

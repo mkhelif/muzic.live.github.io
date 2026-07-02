@@ -13,7 +13,7 @@ Passionné de reggae, de dancehall et de sonorités afro-caribéennes, il constr
 inspiré par les réalités sociales, la spiritualité et les vibrations positives. À travers ses textes, il cherche à
 transmettre des messages de conscience, d'espoir et d'unité.
 
-##### Une percée internationale
+###### Une percée internationale
 
 Sa collaboration avec le label légendaire Little Lion Sound lui permet d'accéder à une reconnaissance internationale
 grâce au titre "Wyfl Riddim", classé numéro un à Kingston, en Jamaïque, faisant résonner sa voix au cœur du reggae

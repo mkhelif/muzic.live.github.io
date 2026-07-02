@@ -15,7 +15,7 @@ directeur musical. Sous sa direction, le big band interprète des pièces marqua
 tels que Stan Kenton, Glenn Miller, Bill Holman, Benny Goodman, Duke Ellington, Woody Herman, Phil Collins ou Miles
 Davis.
 
-##### Un projet de résidence artistique
+###### Un projet de résidence artistique
 
 En 2020, le Clasijazz Big Band développe le projet "Clasijazz Big Band Pro", réunissant dix-sept des meilleurs musiciens
 de jazz du pays en résidence artistique pendant six mois, à vivre, répéter, se former et se produire sans interruption

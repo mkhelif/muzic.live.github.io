@@ -23,7 +23,7 @@ l'on puisse dire, c'est que la programmation s'annonce redoutable.
 ![Programme Motocultor 2026](program.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
-#### Opeth et Carcass en têtes d'affiche
+###### Opeth et Carcass en têtes d'affiche
 
 Le festival confirme deux têtes d'affiche de poids. Opeth, les maîtres suédois du metal progressif, viendront célébrer
 leurs trente ans de carrière sur la grande scène bretonne. Mikael Åkerfeldt et ses compères promettent un set
@@ -34,7 +34,7 @@ Carcass, les pionniers du grindcore et du death metal mélodique originaires de 
 d'affiche. Le groupe de Jeff Walker, toujours aussi tranchant après plus de trente-cinq ans de carrière, apportera son
 mélange unique de brutalité chirurgicale et de mélodies acérées.
 
-#### La scène française à l'honneur
+###### La scène française à l'honneur
 
 Le Motocultor confirme sa tradition de mise en avant des groupes français avec une sélection impressionnante. Igorrr, le
 projet inclassable de Gautier Serre qui fusionne metal, musique baroque et breakcore, sera de la partie. Alcest, le
@@ -45,7 +45,7 @@ hexagonale de premier plan.
 Déluge, formation bordelaise dont le post-black metal atmosphérique a conquis la critique, fera également le déplacement
 en Bretagne.
 
-#### Une programmation extrême et exigeante
+###### Une programmation extrême et exigeante
 
 Le Motocultor a toujours revendiqué une identité plus extrême que ses concurrents français. Cette édition 2026 ne déroge
 pas à la règle avec la présence de Cult Of Luna, les Suédois dont le post-metal monumental est devenu une référence du
@@ -54,7 +54,7 @@ genre, et de Gaerea, le groupe portugais masqué dont le black metal atmosphéri
 Misþyrming, formation islandaise de black metal dont la réputation ne cesse de grandir, représentera la scène extrême
 nordique sur les planches carhaisiennes.
 
-#### Un festival en pleine croissance
+###### Un festival en pleine croissance
 
 Depuis son déménagement à Carhaix, le Motocultor a considérablement grandi, passant de huit mille à quinze mille
 festivaliers par jour tout en conservant l'atmosphère conviviale et l'exigence musicale qui font sa réputation. Le

@@ -12,7 +12,7 @@ Don Diablo — avant de développer leur propre voix, fondée sur des production
 la mélodie accessible. Belges dans l'âme, ils héritent d'une scène nationale riche en talents électroniques
 et s'en nourrissent tout en cherchant à s'en distinguer.
 
-##### Du studio à la grande scène
+###### Du studio à la grande scène
 
 Après des débuts construits pas à pas, Calumny franchit un cap décisif en 2024 avec le lancement de leur
 propre émission sur Fun Radio, une vitrine qui leur permet de toucher un public bien au-delà des frontières
@@ -25,7 +25,7 @@ en Belgique et en France, et bénéficie d'une rotation majeure sur les principa
 Des remixes officiels pour des artistes établis — dont "Take It Easy On Me" de Bob Sinclar et "Halo" de
 Mosimann — renforcent leur crédibilité dans l'industrie et leur visibilité auprès d'un public plus large.
 
-##### Une présence scénique affirmée
+###### Une présence scénique affirmée
 
 Après une tournée de 35 dates, Calumny a prouvé que leur proposition fonctionnait tout aussi bien sur
 scène qu'en studio. Leur identité visuelle forte et leur énergie communicative sur les platines en font

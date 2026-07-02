@@ -21,7 +21,7 @@ le groupe de thrash metal Tierra Ácida avant de se réorienter vers la guitare 
 Leurs débuts voient deux musiciens transformer leur passion pour le metal en une approche révolutionnaire de la guitare
 flamenco, créant un pont inattendu entre ces deux univers apparemment opposés.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Après avoir déménagé en Irlande au début des années 2000 et joué dans les rues de Dublin, le duo sort "Rodrigo y
 Gabriela" (2006), qui devient un succès surprise, atteignant la première place des charts irlandais.
@@ -35,7 +35,7 @@ de "Stairway to Heaven" démontrent leur capacité à réinventer des classiques
 Le duo accumule les albums acclamés comme "11:11" (2009) et "Mettavolution" (2019), maintenant une présence constante
 sur la scène de la guitare virtuose mondiale.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Rodrigo y Gabriela fusionne technique flamenco, rapidité et agressivité du metal, et rythmes latins dans un
 son acoustique qui défie les catégorisations.
@@ -49,7 +49,7 @@ racines metal et l'héritage de la guitare flamenca.
 Leur virtuosité technique stupéfiante, leur synchronisation parfaite et leur énergie scénique explosive font de chaque
 performance un spectacle mémorable qui transcende les barrières linguistiques et culturelles.
 
-##### Actualité
+###### Actualité
 
 Rodrigo y Gabriela continue de repousser les limites de la guitare acoustique, explorant de nouveaux territoires sonores
 tout en maintenant leur style distinctif.

@@ -27,7 +27,7 @@ Le succès phénoménal de leur premier single, qui s'est vendu à plus de 14 mi
 démontré le potentiel commercial du rap et encouragé d'innombrables artistes à poursuivre cette voie. Sans le Sugarhill
 Gang, l'histoire de la musique des quarante dernières années aurait pris un cours radicalement différent.
 
-##### Carrière musicale
+###### Carrière musicale
 
 L'histoire du Sugarhill Gang commence lorsque Sylvia Robinson, propriétaire du label Sugar Hill Records et elle-même
 artiste accomplie, assiste à une soirée dans le Bronx et découvre le phénomène du rap en direct. Visionnaire, elle
@@ -52,7 +52,7 @@ hip-hop diminue progressivement face à l'émergence d'une nouvelle génération
 sophistiqués. Néanmoins, leur statut de pionniers demeure incontesté, et "Rapper's Delight" continue d'être samplé,
 repris et célébré comme l'acte fondateur du hip-hop commercial.
 
-##### Style et influences
+###### Style et influences
 
 Le style du Sugarhill Gang s'enracine dans la tradition des toasts et des dozens, jeux verbaux de la culture
 afro-américaine consistant à échanger des rimes et des vantardises. Leur approche du rap privilégie le fun, la fête et
@@ -76,7 +76,7 @@ ouvert la porte à un genre entier, démontrant que le rap pouvait être commerc
 plus tard, alors que le hip-hop domine les charts mondiaux, l'impact de ces pionniers résonne toujours, chaque nouveau
 morceau de rap étant en quelque sorte un héritier de "Rapper's Delight".
 
-##### Actualité
+###### Actualité
 
 Le Sugarhill Gang continue aujourd'hui de se produire lors d'événements célébrant l'histoire du hip-hop et de la musique
 des années 1970-1980. Leurs performances, véritables leçons d'histoire vivante, rappellent aux nouvelles générations les

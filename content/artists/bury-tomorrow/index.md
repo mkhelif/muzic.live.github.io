@@ -16,7 +16,7 @@ et Tom Prendergast. Leur premier album Portraits, publié via Basick Records en 
 fondations d'un son qui deviendra leur signature : un metalcore mêlant passages atmosphériques apaisants
 et soudaines explosions de chugs et de breakdowns.
 
-##### Persévérance et ascension
+###### Persévérance et ascension
 
 Les débuts du groupe sont marqués par des difficultés financières considérables — à un moment, ils n'ont
 pas les moyens de se rendre en studio enregistrer l'album qu'ils venaient de composer. Mais leur opiniâtreté
@@ -29,7 +29,7 @@ Daniel Winter-Bates — frère de Davyd — prend le rôle de chanteur lead, fai
 un son plus mature et davantage maîtrisé. Cette configuration, complétée par le guitariste Ed Hartwell,
 constitue le noyau dur du groupe tel qu'on le connaît aujourd'hui.
 
-##### Une discographie au long cours
+###### Une discographie au long cours
 
 Bury Tomorrow a publié huit albums studio, dont le dernier en date, Will You Haunt Me, with That Same
 Patience, paru le 16 mai 2025. Chaque album témoigne d'une évolution progressive : les arrangements
@@ -38,7 +38,7 @@ Leur son navigue habilement entre l'agressivité des passages les plus lourds et
 mélancolique portée par des guitares atmosphériques et le chant clair de Tom Prendergast en contrepoint
 aux growls de Daniel Winter-Bates.
 
-##### Une présence live incontournable
+###### Une présence live incontournable
 
 Sur scène, Bury Tomorrow développe une générosité et une intensité qui leur ont valu une base de fans
 fidèles à travers le Royaume-Uni et l'Europe. Habitués des plus grands festivals metal britanniques, ils

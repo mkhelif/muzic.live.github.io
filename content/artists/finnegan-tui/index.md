@@ -17,7 +17,7 @@ Parfois rehaussée de touches d'électronica, sa musique se distingue surtout pa
 des paroles sensibles, il se livre avec intimité, évoquant ses voyages intérieurs et son lien à la nature. Un projet
 profondément personnel, mais capable de toucher chacun·e.
 
-## L'enfant du bus et des dunes
+###### L'enfant du bus et des dunes
 
 L'histoire de Finnegan Tui Bognuda commence à Tauhoa, une localité rurale de la péninsule nord de la Nouvelle-Zélande,
 dans un décor aussi improbable que fondateur : un bus aménagé, au milieu de nulle part. C'est là, sur les routes
@@ -32,7 +32,7 @@ Entre sept et douze ans, son univers musical tient dans un lecteur CD brinquebal
 dévotion : *Levelling the Land* des Levellers et une compilation de Mozart. Le folk rugueux d'un côté, la pureté
 classique de l'autre — une dualité qui, rétrospectivement, dessine déjà les contours de son identité sonore à venir.
 
-## Du Devon à la Guildhall : la traversée
+###### Du Devon à la Guildhall : la traversée
 
 Au début de son adolescence, la famille quitte la Nouvelle-Zélande pour le Devon, en Angleterre. Le choc culturel est
 immense : les dunes sauvages et la liberté océanique cèdent la place à une réalité adolescente britannique très
@@ -43,7 +43,7 @@ de Channel 4, et expose des œuvres sonores au Tate Modern et au Barbican. Trois
 audacieux de quitter l'institution pour se consacrer entièrement à son projet artistique personnel. Un saut dans le
 vide, guidé par l'intuition que sa musique doit naître d'un espace plus intime que les salles de cours.
 
-## Une esthétique entre terre et électrons
+###### Une esthétique entre terre et électrons
 
 Le son de Finnegan Tui est souvent décrit sous l'étiquette "folktronica" — une fusion de folk acoustique organique et de
 textures électroniques atmosphériques. Mais le réduire à cette classification serait passer à côté de l'essentiel. Sa
@@ -61,7 +61,7 @@ architectures sonores plus ambitieuses, avec nappes de synthétiseurs, cordes et
 influences revendiquées, on retrouve aussi Amon Tobin, Rival Consoles, James Blake, Son Lux et Kula Shaker — un spectre
 qui dit beaucoup de l'amplitude de sa curiosité musicale.
 
-## Discographie : du Zephyr aux Lost Tales
+###### Discographie : du Zephyr aux Lost Tales
 
 **Once I'm Gone** (single, juin 2021) marque ses débuts discographiques officiels. Produit par Matt Lawrence (lauréat
 d'un Grammy), avec le design sonore de Niv Adiri (oscarisé) et l'ingénierie de Dom Morley (également lauréat d'un
@@ -87,7 +87,7 @@ En août 2025 paraît l'EP **Lost Tales, Vol. 1**, cinq titres (*Riven*, *The Li
 *Denna*) qui confirment la maturité du projet : 13 minutes d'une folk alternative ciselée, entre fragilité et puissance
 contenue.
 
-## Sur scène : la communion
+###### Sur scène : la communion
 
 C'est en concert que Finnegan Tui prend toute sa dimension. Son premier concert en tête d'affiche, dans un ancien lieu
 de culte celtique devenu petite église au cœur de Londres (St. Pancras Old Church), est resté gravé dans sa mémoire
@@ -100,7 +100,7 @@ premières parties pour RY X et Elder Island, des passages au Secret Garden Part
 Nouvelle Prague. Des salles comme le Lark à Berlin, La Boule Noire à Paris, l'Omeara et l'EartH à Londres jalonnent son
 itinéraire. Il a également assuré la première partie de Cosmo Sheldrake et d'Ajimal.
 
-## Reconnaissance et rayonnement
+###### Reconnaissance et rayonnement
 
 Avec plus de 7,7 millions de streams, des passages sur BBC Radio 6 et BBC Introducing South West, et une couverture
 presse dans The Guardian, CLASH, Wonderland, Rolling Stone India, Notion et Earmilk, Finnegan Tui a construit en
@@ -111,7 +111,7 @@ et composé pour le Museum of London.
 Parmi ses ambitions, il cite des collaborations rêvées avec alt-J, Bon Iver, Fink et Son Lux — des artistes dont
 l'exigence et la profondeur résonnent avec sa propre démarche.
 
-## L'essentiel
+###### L'essentiel
 
 Finnegan Tui est un artiste dont le parcours — du bus néo-zélandais aux scènes européennes, du Kalahari aux Highlands —
 n'est pas un simple décor biographique, mais la matière même de sa musique. Chaque morceau porte en lui la trace d'un

@@ -15,7 +15,7 @@ une formation en composition musicale à la British and Irish Modern Institute o
 internationale forge en elle une sensibilité multiculturelle rare, une curiosité artistique insatiable et
 une capacité à tisser des liens entre des esthétiques musicales très diverses.
 
-##### Un projet entre douceur et électricité
+###### Un projet entre douceur et électricité
 
 L'univers de Bleue se construit à l'intersection de deux pôles en apparence contradictoires : les
 explosions électro-pop et la douceur acoustique. Influencée par des artistes comme Billie Eilish, Zaho de
@@ -26,7 +26,7 @@ Après quelques singles qui dessinent les contours de son identité artistique, 
 communauté d'auditeurs fidèles, dépassant les 200 000 auditeurs mensuels sur les plateformes de streaming,
 un chiffre remarquable pour une artiste si jeune encore en train de définir les contours de son projet.
 
-##### Un avenir prometteur
+###### Un avenir prometteur
 
 À vingt ans, Bleue n'en est qu'aux premières pages de son histoire musicale. Son passage dans The Voice
 n'est qu'un point de départ, une rampe de lancement vers une carrière qu'elle souhaite construire avec

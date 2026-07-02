@@ -26,7 +26,7 @@ est d'ailleurs insolite de constater que Matmata est un village troglodyte du su
 Étoiles. Ce choix de nom évoque déjà un ailleurs, un exotisme qui contraste avec l'ancrage breton du groupe, créant une
 tension créative entre le local et l'universel.
 
-## L'identité musicale : le mariage du rock et des racines bretonnes
+###### L'identité musicale : le mariage du rock et des racines bretonnes
 
 La musique de Matmatah est un mélange de rock classique de la fin des années 60 et du début des années 70, enrichi de
 sonorités bretonnes qui feront leur signature distinctive. Le groupe fusionne rock, musique traditionnelle bretonne,
@@ -84,7 +84,7 @@ multipliant les influences et les expérimentations sonores.
 Le groupe sort La Cerise en 2007, dernier album avant la séparation. Ce disque marque la fin d'un premier cycle pour
 Matmatah, après plus d'une décennie d'existence intense.
 
-##### La Séparation (2008) : la fin d'une époque
+###### La Séparation (2008) : la fin d'une époque
 
 Annoncé dès la fin 2007, les quatre Brestois décident de mettre un terme à la belle aventure après la tournée qui les
 conduira jusqu'à l'été 2008. Malgré les succès, le groupe annonce sa séparation en 2008.
@@ -93,7 +93,7 @@ Cette décision, prise au sommet de leur notoriété, témoigne d'une intégrit�
 plutôt que de poursuivre par simple routine ou pour des raisons commerciales. Cette séparation marque la fin d'une ère
 du rock français et laisse de nombreux fans orphelins de leur énergie scénique légendaire.
 
-##### La Reformation (2016) : le retour triomphal
+###### La Reformation (2016) : le retour triomphal
 
 Après une séparation en 2008 et une reformation fin 2016, le groupe brestois publie son nouvel album Plates Coutures en
 2017. Ce retour, huit ans après la séparation, ravit les fans qui n'espéraient plus revoir le groupe sur scène.
@@ -105,7 +105,7 @@ reste une valeur sûre du rock français, capable d'attirer les foules bien au-d
 Les sessions de l'album suivant sont marquées par le remplacement d'Emmanuel Baroux par le jeune guitariste Léopold
 Riou, apportant un sang neuf au groupe tout en préservant son identité musicale.
 
-##### "Miscellanées Bissextiles" (2023) : le double album expérimental
+###### "Miscellanées Bissextiles" (2023) : le double album expérimental
 
 Cinq ans après le succès de Plates Coutures et de la tournée colossale qui s'en est suivie, Matmatah revient avec un
 sixième album hors normes. C'est le premier double album du groupe, qui revient au rock celtique qu'ils avaient exploré
@@ -125,7 +125,7 @@ l'aboutissement de près de 30 ans d'existence, un album-somme qui réconcilie t
 Quatre ans après cette tournée sold out, Matmatah reprend la route dès mars 2023, prouvant que l'appétit scénique du
 groupe reste intact et que le lien avec le public demeure aussi fort qu'aux premiers jours.
 
-##### Pionniers du rock celtique français
+###### Pionniers du rock celtique français
 
 Matmatah est l'un des groupes les plus marquants des années 2000. Pendant 13 ans, Matmatah va déchaîner les foules sur
 toutes les scènes de France et d'Europe. Groupe précurseur et déterminant de l'avènement du Rock Celtique en France.
@@ -141,7 +141,7 @@ territorial comme force plutôt que comme limitation.
 Le groupe a également démontré qu'il était possible de faire du rock en français sans complexe, à une époque où
 l'anglais dominait encore largement le genre.
 
-##### Le style scénique : l'énergie brute
+###### Le style scénique : l'énergie brute
 
 Matmatah s'est forgé une réputation de groupe redoutable en concert. Leur énergie scénique, leur capacité à enflammer
 les foules et à créer une communion avec le public font partie intégrante de leur légende. Les concerts de Matmatah sont
@@ -153,7 +153,7 @@ de la profondeur du lien tissé avec leur public. Matmatah n'est pas qu'un group
 générationnelle, un marqueur identitaire pour tous ceux qui ont grandi avec "La Ouache" ou découvert le groupe lors de
 leurs premières années.
 
-##### Une légende du rock français
+###### Une légende du rock français
 
 Matmatah incarne une réussite rare dans le paysage musical français : celle d'un groupe qui a su imposer son identité
 unique, fusionnant rock et traditions bretonnes, sans jamais sacrifier l'authenticité à la facilité commerciale. De

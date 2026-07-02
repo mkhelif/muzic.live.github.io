@@ -9,7 +9,7 @@ As A New Revolt est un duo français fondé en 2015 à Grenoble, composé de Man
 et Julien Lhuillier (batterie). Le groupe développe un son qui mêle la brutalité du punk hardcore à un flow hip-hop
 incisif, le tout porté par une énergie scénique engagée et viscérale.
 
-##### Punk hardcore et hip-hop
+###### Punk hardcore et hip-hop
 
 La particularité d'As A New Revolt tient dans cette synthèse entre deux traditions musicales que tout semble opposer :
 la rage directe du hardcore et la narration rythmée du rap. Les deux membres construisent des compositions où les

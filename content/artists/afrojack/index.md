@@ -15,7 +15,7 @@ musicale qui lui permet de naviguer aisément entre l'électro, la progressive h
 pseudonyme, « Afrojack », est né de la combinaison de son ancienne coiffure afro et du terme « jack », un style de danse
 emblématique de la house music.
 
-##### Ascension mondiale
+###### Ascension mondiale
 
 La percée internationale d'Afrojack survient en 2010 avec le single « Take Over Control » en collaboration avec Eva
 Simons, certifié platine aux États-Unis et numéro un dans plusieurs pays européens. Ce titre lui ouvre les portes des
@@ -25,7 +25,7 @@ En 2007, il fonde le label Wall Recordings, qui lui permet de développer sa vis
 nouveaux talents. Son album de débuts, *Forget the World*, sort en 2014 et confirme sa capacité à produire des morceaux
 à la fois fédérateurs et artistiquement cohérents.
 
-##### Une présence constante au sommet
+###### Une présence constante au sommet
 
 Afrojack figure régulièrement dans le top 10 du classement mondial DJ Mag Top 100, témoignant de sa longévité et de sa
 capacité à rester pertinent dans un univers musical en perpétuel renouvellement. Ses collaborations avec des artistes

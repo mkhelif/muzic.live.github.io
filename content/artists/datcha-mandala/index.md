@@ -25,7 +25,7 @@ par les groupes de rock anglo-saxons, Dätcha Mandala compte depuis 2009 plus de
 et outre-Atlantique, avec des passages à New York et Montréal. Une trajectoire qui dit tout de ce que le groupe est
 fondamentalement : une machine de scène, construite pour le live, taillée pour l'endurance.
 
-## Origines : entre datcha et mandala
+###### Origines : entre datcha et mandala
 
 Le groupe naît à Mérignac, dans la banlieue bordelaise, à la fin des années 2000. L'aventure musicale commence au lycée,
 quand trois amis partagent la même passion pour le rock anglo-saxon. Le groupe de lycée s'appelait Honky Tonk, un nom
@@ -39,7 +39,7 @@ aux claviers ; du « Révérend » Jérémy Saigne à la guitare, au chant, aux 
 « Loup » Mallet à la batterie, aux percussions, aux claviers et aux chœurs. Trois musiciens polyvalents dont le son, en
 live comme en studio, dépasse largement ce qu'un simple effectif de trois personnes laisse supposer.
 
-## Un son entre les âges
+###### Un son entre les âges
 
 Dätcha Mandala est un groupe de heavy blues psychédélique. Mais cette étiquette ne suffit pas à rendre compte de leur
 spectre. Leur musique est une harmonie à trouver entre les gros riffs hard rock, une batterie plus aérienne et un rendu
@@ -48,7 +48,7 @@ Robert Plant semble souffler dans la voix de Nicolas Sauvey — mais jamais le g
 haute tension, des thèmes politiques et philosophiques, une voix à la Robert Plant et une énergie débordante
 caractérisent parfaitement la musique de Dätcha Mandala.
 
-## Discographie : une progression album par album
+###### Discographie : une progression album par album
 
 La discographie du groupe témoigne d'une maturation constante, chaque disque marquant une étape dans l'affirmation de
 leur identité.
@@ -81,7 +81,7 @@ Angeles, studio fréquenté par Deep Purple, Pink Floyd et Iggy Pop.
 En décembre 2025, le groupe sort *Outtakes* chez Golden Robot Records, un double single inédit issu des mêmes sessions
 d'enregistrement que *Koda*. Le groupe est depuis entré en studio pour préparer son quatrième album.
 
-## Une scène de référence
+###### Une scène de référence
 
 Si la discographie de Dätcha Mandala est solide, c'est la scène qui forge leur réputation. Du Stade de France en
 première partie des Insus à la scène de la Valley du Hellfest, le trio est réputé pour ses concerts à l'énergie
@@ -92,7 +92,7 @@ Royaume-Uni. En festival, le groupe a joué au Hellfest, à Beauregard et à La 
 Plus récemment, le groupe a également participé au Resurrection Fest en Espagne, confirmant une présence internationale
 qui dépasse largement les frontières hexagonales.
 
-## Un groupe incontournable de la scène indépendante française
+###### Un groupe incontournable de la scène indépendante française
 
 Dätcha Mandala figure aujourd'hui au rang des groupes incontournables de la scène rock indépendante nationale et
 internationale. Ce statut, ils l'ont construit sans passer par les circuits mainstream, sans compromis artistique,

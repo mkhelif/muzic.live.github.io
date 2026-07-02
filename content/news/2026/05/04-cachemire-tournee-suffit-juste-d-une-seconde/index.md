@@ -11,7 +11,7 @@ française du printemps-été 2026. L'album, sorti le 10 octobre 2025, a été l
 musicale : treize titres, quarante et une minutes, une pop française lumineuse et mélancolique à la fois, qui avait
 immédiatement conquis critiques et public.
 
-#### Une musique faite pour la scène
+###### Une musique faite pour la scène
 
 Cachemire a toujours été un groupe de concerts avant d'être un groupe de disques. Leurs performances live, connues pour
 leur générosité et leur précision, ont construit leur réputation bien avant que les plateformes ne s'intéressent à eux.
@@ -22,7 +22,7 @@ une tout autre dimension hors des enceintes.
 Sur scène, le trio sera renforcé par deux musiciens additionnels — guitare et claviers — pour restituer la richesse
 harmonique d'un disque que certains ont déjà comparé aux meilleures pages de Phoenix ou d'Air.
 
-#### Les dates
+###### Les dates
 
 La tournée couvre une vingtaine de villes françaises entre mai et juillet, avec des passages dans les grandes salles
 (Bataclan à Paris le 19 juin, Transbordeur à Lyon le 27 juin) et plusieurs festivals de l'été. Les premières dates

@@ -7,14 +7,14 @@ Black Willows est un groupe de doom stoner originaire de Lausanne, en Suisse, fo
 musique lourde helvétique — fertile et souvent sous-estimé — ils incarnent une approche chamanique et profondément
 rituelle du rock psychédélique pesant, héritière de Black Sabbath et de Kyuss.
 
-##### Un son de granit et de brume
+###### Un son de granit et de brume
 
 La musique de Black Willows repose sur des riffs de guitare massifs et répétitifs, une section rythmique qui avance
 comme une coulée de lave, et une atmosphère générale de transe mélancolique. Leurs compositions empruntent aux
 traditions du stoner rock américain tout en y intégrant des nuances blues et des touches occultes qui évoquent les
 plaines brumeuses du Plateau suisse autant que les déserts de Californie.
 
-##### Discographie
+###### Discographie
 
 Après les albums Haze et Samsara, le groupe sort Shemurah en 2021 — un disque qui consolide leur identité sonore
 et confirme leur statut dans la scène heavy underground européenne. Le titre, emprunté à un concept hébreu lié à

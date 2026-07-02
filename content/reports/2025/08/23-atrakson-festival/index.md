@@ -29,7 +29,7 @@ artistiques.
 L'exercice demeure périlleux : maintenir une cohérence narrative quand les univers esthétiques divergent radicalement et
 que les niveaux d'accomplissement varient considérablement.
 
-## Bruno Obéron : la transmission familiale comme moteur
+###### Bruno Obéron : la transmission familiale comme moteur
 
 {{< carousel pictures="pictures/bruno-oberon" alt="Bruno Obéron" author="mkhelif" >}}
 
@@ -45,7 +45,7 @@ conformisme social.
 Sa présence en ouverture de festival témoigne d'une programmation qui valorise l'authenticité des parcours sur la
 notoriété médiatique.
 
-## Fonkiture : la jeunesse funk sans complexe
+###### Fonkiture : la jeunesse funk sans complexe
 
 {{< carousel pictures="pictures/fonkiture" alt="Fonkiture" author="mkhelif" >}}
 
@@ -61,7 +61,7 @@ compositionnelle encore limitée.
 Fonkiture incarne cette jeunesse musicale qui privilégie l'immédiateté du plaisir sur la sophistication intellectuelle,
 approche rafraîchissante dans un paysage parfois trop sérieux.
 
-## Cinza : l'authenticité hip-hop instrumentée
+###### Cinza : l'authenticité hip-hop instrumentée
 
 {{< carousel pictures="pictures/cinza" alt="Cinza" author="mkhelif" >}}
 
@@ -76,7 +76,7 @@ de sincérité.
 
 Cinza rappelle ainsi que le rap français peut retrouver ses racines live sans pour autant renier sa contemporanéité.
 
-## Gliz : l'innovation instrumentale parfois monotone
+###### Gliz : l'innovation instrumentale parfois monotone
 
 {{< carousel pictures="pictures/gliz" alt="Gliz" author="mkhelif" >}}
 
@@ -91,7 +91,7 @@ technique ne compense pas entièrement un manque de variété compositionnelle q
 Gliz démontre ainsi que l'innovation instrumentale doit s'accompagner d'une richesse mélodique pour atteindre la
 plénitude artistique.
 
-## Marraine Coque : la puissance rock théâtralisée
+###### Marraine Coque : la puissance rock théâtralisée
 
 {{< carousel pictures="pictures/marraine-coque" alt="Marraine Coque" author="mkhelif" >}}
 
@@ -109,7 +109,7 @@ contemporain nécessite une dimension spectaculaire pour transcender le simple c
 Marraine Coque incarne ainsi cette génération de formations rock françaises qui refusent le minimalisme scénique pour
 proposer une expérience visuelle totale.
 
-## Charlie Winston : une légende en tournée
+###### Charlie Winston : une légende en tournée
 
 {{< carousel pictures="pictures/charlie-winston" alt="Charlie Winston" author="mkhelif" >}}
 
@@ -136,11 +136,11 @@ happening physique qui compense la fatigue vocale par l'intensité de la présen
 Charlie Winston prouve ainsi qu'une légende internationale peut transcender ses limitations physiques par la générosité
 scénique, transformant ce qui aurait pu être déception en moment d'humanité partagée.
 
-## 2097: l'énergie brute
+###### 2097: l'énergie brute
 
 {{< carousel pictures="pictures/2097" alt="2097" author="mkhelif" >}}
 
-## Conclusion
+###### Conclusion
 
 Je partirais avant la fin des concerts (ratant ainsi Mégaphone, Grunk et Cat Anderson !).
 

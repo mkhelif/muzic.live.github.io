@@ -12,7 +12,7 @@ Cinq ans après *The Bitter Truth*, Evanescence revient avec *Sanctuary*, sixiè
 l'Europe jusqu'en août — il est devenu évident que le groupe d'Amy Lee ne comptait pas rentrer discrètement par la
 petite porte.
 
-## Un album ancré dans un son plus lourd
+###### Un album ancré dans un son plus lourd
 
 *Sanctuary* a été co-produit par Jordan Fish, Nick Raskulinecz et Zakk Cervini — un triumvirat qui dit beaucoup sur les
 ambitions du projet. Jordan Fish est connu pour son travail sur les albums récents de Bring Me The Horizon, où il a
@@ -30,7 +30,7 @@ jeu *Devil May Cry*, et « Who Will You Follow », dévoilé en avril 2026. Le p
 vers un son plus électriquement chargé. Le second a confirmé que le groupe avait trouvé un équilibre entre grandeur
 cinématique et vélocité moderne.
 
-## Une tournée à plateaux soignés
+###### Une tournée à plateaux soignés
 
 La tournée mondiale *Sanctuary* a démarré le 11 juin aux États-Unis. Les dates nord-américaines accueillent Spiritbox
 en première partie — un choix qui fait sens : le groupe canadien, porté par la voix extraordinaire de Courtney LaPlante,
@@ -45,7 +45,7 @@ calibrée pour chauffer une salle avant qu'Amy Lee en prenne la pleine possessio
 L'ensemble du parcours européen court jusqu'en août, avec plusieurs passages dans des festivals et des salles de
 jauge variable, du club à l'arène couverte.
 
-## Le retour d'une certaine grandeur
+###### Le retour d'une certaine grandeur
 
 Il y a quelque chose de particulier dans la trajectoire d'Evanescence. Le groupe a émergé en 2003 avec *Fallen* — un
 album à 17 millions d'exemplaires vendus, un Grammy, une génération entière de fans formatés à cette alchimie de rock

@@ -10,7 +10,7 @@ progressive de ses membres : Thibaud et Niels se connaissent depuis leur ville d
 un magasin de musique parisien et Tristan à l'école de musique. Cette formation par affinités successives donne
 naissance à un groupe soudé, dont l'énergie scénique est rapidement remarquée.
 
-##### Un metalcore direct et technique
+###### Un metalcore direct et technique
 
 Le son d'Ashen s'ancre dans le metalcore contemporain, combinant riffs de guitare denses, rythmiques percutantes et
 lignes vocales qui alternent entre chant clair et screaming. Le groupe s'inscrit dans la lignée des formations

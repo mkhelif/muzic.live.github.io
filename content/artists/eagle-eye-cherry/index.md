@@ -18,7 +18,7 @@ créer un style personnel et reconnaissable.
 Il grandit dans un environnement musical riche qui façonne sa vision artistique, développant une approche moderne de la
 chanson populaire qui mélange authenticité émotionnelle et accessibilité commerciale.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Eagle-Eye Cherry connaît le succès international avec son hit "Save Tonight", une ballade rock-folk qui devient un
 classique instantané grâce à sa mélodie inoubliable et son clip vidéo marquant.
@@ -28,7 +28,7 @@ Cette réussite le propulse sur la scène mondiale et confirme son talent pour c
 Il développe ensuite un catalogue qui témoigne de sa capacité à maintenir une identité artistique forte tout en
 explorant différentes facettes de son style folk-rock, confirmant son statut d'artiste accompli.
 
-##### Style et influences
+###### Style et influences
 
 Le style d'Eagle-Eye Cherry se caractérise par des mélodies mélancoliques, une voix expressive et des arrangements qui
 mélangent influences folk, rock alternatif et soul.
@@ -39,7 +39,7 @@ universels.
 Ses influences puisent dans le folk américain, le rock alternatif des années 90 et l'héritage musical familial jazz,
 créant un son hybride qui transcende les catégories traditionnelles.
 
-##### Actualité
+###### Actualité
 
 Eagle-Eye Cherry continue de créer et de tourner, maintenant son style folk-rock distinctif qui a séduit plusieurs
 générations d'auditeurs.

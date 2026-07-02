@@ -21,7 +21,7 @@ l'électronique ambient pour créer un univers sonore personnel et émotionnel.
 Le projet naît de la volonté de créer une musique introspective qui explore les thèmes de l'amour, de la perte et de la
 reconstruction personnelle avec une sensibilité contemporaine.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Broken Back se fait connaître grâce à des compositions qui mélangent mélodies touchantes et arrangements sophistiqués,
 révélant un talent pour créer des atmosphères émotionnelles profondes.
@@ -32,7 +32,7 @@ approche tout en conservant son identité mélancolique.
 Ses morceaux révèlent une maturité compositionnelle remarquable et une sensibilité artistique qui touche un public en
 quête d'authenticité émotionnelle.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Broken Back se caractérise par des mélodies mélancoliques, des arrangements délicats et une production
 soignée qui met en valeur la dimension émotionnelle des compositions.
@@ -43,7 +43,7 @@ Le projet excelle dans l'art de créer des atmosphères intimistes, mêlant inst
 Les influences puisent dans l'indie-rock moderne, la folk contemporaine et l'ambient électronique, créant un son qui
 évoque à la fois la fragilité et la force de l'émotion humaine.
 
-##### Actualité
+###### Actualité
 
 Broken Back continue de développer son univers artistique unique, représentant cette facette introspective et
 émotionnelle de la scène musicale française contemporaine.

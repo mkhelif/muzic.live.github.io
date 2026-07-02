@@ -17,7 +17,7 @@ mêlant découvertes artistiques et têtes d'affiche dans un environnement arbor
 diversifié par son atmosphère décontractée. En neuf éditions, le pari est tenu — et la réputation du festival dépasse
 largement les frontières des Bouches-du-Rhône.
 
-## Village 42 et l'ambition provençale
+###### Village 42 et l'ambition provençale
 
 Derrière le Jardin Sonore, l'association Village 42 — structure locale qui a décidé qu'une ville comme Vitrolles, avec
 son Domaine de Fontblanche et sa position géographique idéale, pouvait devenir un terrain d'exception pour la musique
@@ -28,7 +28,7 @@ Le festival propose une programmation exclusive, avec des artistes que l'on verr
 une ligne directrice revendiquée par ses organisateurs depuis le début. Le Jardin Sonore ne cherche pas à copier ce qui
 se fait ailleurs. Il programme ce qui n'est pas encore passé par Marseille ou Aix, et ça fait toute la différence.
 
-## Un palmarès qui impressionne
+###### Un palmarès qui impressionne
 
 En quelques années, le Jardin Sonore a réussi à attirer des noms qui n'ont rien à faire dans un festival de taille
 intermédiaire — si ce n'est que les organisateurs ont su les convaincre. Les éditions passées ont accueilli des artistes
@@ -43,7 +43,7 @@ trois soirées suivantes. En 2025, Sex Pistols ft. Frank Carter, Viagra Boys, Te
 la même logique : des têtes d'affiche de poids, des artistes émergents prometteurs, et une diversité stylistique qui
 assume ses contradictions.
 
-## Le Domaine de Fontblanche : un cadre hors norme
+###### Le Domaine de Fontblanche : un cadre hors norme
 
 Le site est l'un des atouts majeurs du festival. Le Festival se déroule dans l'écrin verdoyant du Domaine de Fontblanche
 à Vitrolles, offrant une expérience musicale unique. Des pelouses, des pins, un espace généreux qui permet de circuler
@@ -56,7 +56,7 @@ Grand Vitrolles toutes les quinze minutes en soirée, un accès PMR soigné, une
 des activités pour les enfants — le Jardin Sonore a compris que l'expérience festivalière ne commence pas à l'entrée de
 la scène.
 
-## 2026 : la 9e édition, plus intime, toujours exigeante
+###### 2026 : la 9e édition, plus intime, toujours exigeante
 
 La 9e édition du Jardin Sonore Festival aura lieu les 10 et 11 juillet 2026 à Vitrolles au Domaine de Fontblanche. Deux
 soirées cette année — un format plus resserré que les quatre nuits de 2024, mais une ambition artistique intacte.
@@ -70,7 +70,7 @@ Le samedi 11 juillet, Ben Mazué, Angus & Julia Stone, Justeniels, Lilly Wood & 
 acoustique, plus mélancolique, qui confirme la capacité du festival à changer complètement de registre d'un soir à
 l'autre.
 
-## Ce que le Jardin Sonore représente pour la région
+###### Ce que le Jardin Sonore représente pour la région
 
 Dans le paysage festivalier provençal, le Jardin Sonore occupe une place à part. Ni le gigantisme de certains festivals
 nationaux, ni l'entre-soi de la scène locale — quelque chose entre les deux, un festival à échelle humaine qui programme

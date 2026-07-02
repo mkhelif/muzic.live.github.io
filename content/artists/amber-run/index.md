@@ -6,13 +6,13 @@ socials:
 ---
 Originaires de Nottingham, Amber Run sont l'un des groupes indie rock britanniques les plus touchants de leur génération. Portés par des mélodies sincères, des paroles introspectives et une production soignée, ils ont su trouver un public fidèle et international sans jamais renoncer à leur authenticité.
 
-##### Naissance à l'université
+###### Naissance à l'université
 
 Amber Run se forme en 2012 sur les bancs de l'Université de Nottingham, où trois étudiants — Joshua Keogh (chant, guitare), Tom Sperring (guitare) et Henry Wyeth (claviers) — découvrent leur passion commune pour la musique. Le groupe commence modestement sous le nom d'Amber avant de changer pour Amber Run afin d'éviter toute confusion avec d'autres artistes portant ce prénom.
 
 Leurs premières démos circulent rapidement sur internet et attirent l'attention de maisons de disques. Signés sur PIAS/Virgin Records, ils publient en 2015 leur premier album *5AM*, produit par Mike Crossey — l'homme derrière des disques d'Arctic Monkeys, The 1975 et Foals. L'album entre dans le top 40 des charts britanniques et s'impose comme une déclaration de principes : une indie pop émotionnellement honnête, construite sur des harmonies vocales délicates et des arrangements qui oscillent entre folk acoustique et électro organique.
 
-##### Une écriture ancrée dans l'intime
+###### Une écriture ancrée dans l'intime
 
 Ce qui distingue Amber Run de la masse des groupes indie britanniques, c'est la profondeur émotionnelle de leur écriture. Joshua Keogh n'hésite pas à explorer des thèmes difficiles : la dépression, l'anxiété, les relations complexes, la quête d'identité. Ce langage direct et vulnérable résonne profondément avec un public jeune, qui retrouve dans les chansons du groupe un miroir de ses propres luttes intérieures.
 

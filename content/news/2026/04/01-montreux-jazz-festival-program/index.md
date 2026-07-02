@@ -87,7 +87,7 @@ annoncés en juin.
 ![Programme Montreux Jazz Festival 2026](program.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
-## RAYE en majesté pour ouvrir le bal
+###### RAYE en majesté pour ouvrir le bal
 
 C'est RAYE qui aura l'honneur d'inaugurer cette 60e édition le 3 juillet, dans le cadre d'une soirée d'ouverture
 spéciale co-créée avec Audemars Piguet. Pour l'occasion, l'Auditorium Stravinski sera reconfiguré dans une disposition
@@ -103,7 +103,7 @@ danse contemporaine en collaboration avec la chorégraphe Maud Le Pladec.
 > anniversaire.
 {caption="Mathieu Jaton (directeur du festival)"}
 
-## Du rock au jazz : les légendes répondent présent
+###### Du rock au jazz : les légendes répondent présent
 
 L'affiche réunit une constellation de noms qui incarnent à eux seuls l'histoire du festival. Sting, qui montera sur la
 scène du Stravinski pour la huitième fois le 4 juillet, sera accompagné de la chanteuse portugaise Maro. Le 5 juillet,
@@ -117,7 +117,7 @@ première édition en 1967, effectue un retour chargé de symboles à 88 ans. Ma
 réunissant des musiciens du projet *We Want Miles!*, tandis que Billy Cobham et Gregory Porter complètent cette section
 placée sous le signe de l'héritage.
 
-## Pop, R&B et hip-hop : la nouvelle garde en force
+###### Pop, R&B et hip-hop : la nouvelle garde en force
 
 Montreux 2026, c'est aussi une vitrine de la pop mondiale. PinkPantheress investira le Stravinski le 6 juillet, suivie
 le lendemain par Conan Gray. Le 8, la Sud-Africaine Tyla — phénomène planétaire de l'afropop — fera ses débuts

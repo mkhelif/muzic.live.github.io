@@ -15,7 +15,7 @@ scène et une énergie live qui se retrouvera plus tard dans ses spectacles pour
 Télé*, sort en 1999, suivi de *Sur place ou à emporter* (2003) et *L'Année du Singe* (2004), qui l'inscrivent dans le
 paysage de la chanson française adulte sans lui offrir encore sa visibilité nationale.
 
-##### Le virage « Enfantillages »
+###### Le virage « Enfantillages »
 
 Tout bascule en 2008 avec *Enfantillages*, album pensé pour les enfants et les grandes personnes qui en ont gardé l'âme.
 Le disque, qui rassemble une galerie de personnages et de situations délirantes mises en musique avec humour et
@@ -24,7 +24,7 @@ où les adultes et les enfants partagent le même niveau d'émerveillement.
 
 *Enfantillages 2* (2012) et *Enfantillages 3* (2017) prolongent l'aventure, chaque volume réunissant des artistes invités de renom. La franchise « Enfantillages » devient une institution de la chanson française pour les jeunes publics, avec des spectacles vivants qui font salle comble dans les plus grandes salles du pays.
 
-##### Le métal entre en scène
+###### Le métal entre en scène
 
 En 2024, Aldebert franchit un pas inattendu avec *Helldebert — Enfantillages 666*, une version metal de l'univers
 Enfantillages réalisée avec une brochette de musiciens légendaires : Max Cavalera, Igor Cavalera, Yarol Poupaud, Johan

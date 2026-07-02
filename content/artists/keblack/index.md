@@ -20,7 +20,7 @@ KeBlack, de son vrai nom **Cédric Matéta Nkomi**, est un chanteur et rappeur f
 années 2010, il a imposé un son chaleureux et dansant, à la croisée du rap mélodique, de la pop urbaine et des sonorités
 afro.
 
-##### De YouTube à la révélation
+###### De YouTube à la révélation
 
 Passionné de musique dès l'âge de quinze ans, influencé par son grand frère rappeur et le groupe MGS de son quartier,
 KeBlack commence par se filmer au téléphone et poster ses vidéos sur YouTube, où elles rassemblent rapidement des
@@ -28,7 +28,7 @@ centaines de milliers de vues. Son premier succès arrive en 2014 avec **« Tout
 titre de John Legend. Repéré par Youssoupha, il signe sur le label **Bomayé Musik** et explose pendant l'Euro 2016
 lorsque les footballeurs Paul Pogba et Patrice Evra dansent sur son titre *J'ai déconné*.
 
-##### « Bazardée » et la consécration
+###### « Bazardée » et la consécration
 
 En janvier 2017 paraît son premier album, **Premier étage**, fort de dix-huit titres et de featurings avec Black M,
 Niska et d'autres. Porté par le tube **« Bazardée »** — certifié single de diamant et cumulant plus de 180 millions de

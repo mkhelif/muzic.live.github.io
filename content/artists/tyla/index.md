@@ -20,7 +20,7 @@ Afrique, portée par un son qu'elle a elle-même baptisé « popiano » — une 
 l'amapiano, ce genre de house music né dans les townships sud-africains. Double lauréate du Grammy Award, elle est la
 plus jeune artiste africaine de l'histoire à avoir remporté cette récompense.
 
-## Une enfance sud-africaine
+###### Une enfance sud-africaine
 
 Tyla grandit dans l'East Rand de Johannesburg, dans un foyer baigné de musique. Ses parents passent Aaliyah, Boyz II
 Men, Michael Jackson, Mi Casa et Rihanna pendant qu'elle fait ses corvées. Elle danse avec ses sœurs dès son plus jeune
@@ -37,7 +37,7 @@ gens dans ma famille ont voulu devenir musiciens et ça n'a pas fonctionné », 
 pas ça pour moi, et c'était évidemment par amour. J'ai dû prendre la décision : "Maman, papa, je suis vraiment désolée,
 mais je vais tenter ma chance." »
 
-## Les débuts : *Getting Late* et la genèse du « popiano »
+###### Les débuts : *Getting Late* et la genèse du « popiano »
 
 En 2019, Tyla publie son premier single, *Getting Late*, featuring le producteur Kooldrink. Ce morceau bondissant, qui
 fusionne la brillance pop avec les basses profondes et les log drums de l'amapiano, trace déjà les contours de son
@@ -54,7 +54,7 @@ de deep house et de kwaito — lui-même héritier de l'énergie post-apartheid 
 ses lignes de basse très puissantes et percussives et à ses log drums — des tambours en bois au son chaud, recréés
 électroniquement. Tout le monde adore ce son en Afrique du Sud. »
 
-## *Water* : le phénomène mondial (2023)
+###### *Water* : le phénomène mondial (2023)
 
 Le 28 juillet 2023, Tyla publie *Water*, le single qui change tout. Le morceau, porté par des mélodies amapiano
 irrésistibles et une production pop-R&B léchée, explose sur TikTok grâce au « Water Challenge » — un défi de danse
@@ -72,7 +72,7 @@ Sa performance de *Water* sur le plateau du *Tonight Show Starring Jimmy Fallon*
 télévisuelle américaine. Beyoncé lui envoie des fleurs. Barack Obama ajoute l'un de ses titres à sa playlist
 personnelle. Cardi B la met en avant sur Instagram.
 
-## Le Grammy historique et l'album *Tyla* (2024)
+###### Le Grammy historique et l'album *Tyla* (2024)
 
 En février 2024, aux 66e Grammy Awards, Tyla remporte le tout premier Grammy Award for Best African Music Performance,
 une catégorie nouvellement créée pour reconnaître l'importance croissante de la musique africaine sur la scène mondiale.
@@ -91,7 +91,7 @@ les nominations aux Brit Awards et aux Ivor Novello. Elle se produit au défilé
 Jeux Olympiques de Paris à la Fondation Louis Vuitton, au Summer Sonic Festival au Japon, et multiplie les apparitions
 dans l'univers de la mode — Dolce & Gabbana, Chanel, Jean Paul Gaultier, Balmain au Met Gala.
 
-## 2025–2026 : la confirmation
+###### 2025–2026 : la confirmation
 
 En février 2026, aux 68e Grammy Awards, Tyla remporte un deuxième Grammy Award for Best African Music Performance pour
 *Push 2 Start*, devenant la première artiste à remporter cette catégorie à deux reprises. Elle annonce à cette occasion
@@ -106,7 +106,7 @@ Parmi ses autres récompenses récentes : le prix Impact aux Billboard Women in 
 aux Metro FM Music Awards, et l'animation des Kids' Choice Awards 2025. Son EP *We Wanna Party* (2025) et le single
 *Chanel* ont poursuivi sa série de succès commerciaux.
 
-## Le son Tyla
+###### Le son Tyla
 
 Ce qui distingue fondamentalement Tyla dans le paysage musical mondial, c'est sa capacité à transformer un genre local —
 l'amapiano — en un langage pop universel, sans jamais en diluer l'essence. Ses productions conservent les log drums
@@ -121,7 +121,7 @@ phénomène viral. Chaque performance de Tyla est un spectacle physique autant q
 Ses influences déclarées — Michael Jackson, Rihanna, Beyoncé, Britney Spears, Whitney Houston, Aaliyah, Drake, Wizkid,
 Freshlyground et Cassie — dessinent la carte d'un univers musical qui ne reconnaît aucune frontière géographique.
 
-## À Montreux
+###### À Montreux
 
 Tyla se produira à l'Auditorium Stravinski le 8 juillet 2026, précédée par Sasha Keable. C'est sa première apparition au
 Montreux Jazz Festival — elle avait dû annuler sa venue prévue en 2024 en raison d'une blessure. Le directeur du
@@ -130,7 +130,7 @@ illustre parfaitement la vocation du festival à accueillir les artistes qui red
 populaire — et la promesse de cette jeune femme de Johannesburg qui n'a jamais cessé de croire qu'une pop star pouvait
 naître en Afrique.
 
-## Récompenses
+###### Récompenses
 
 Deux Grammy Awards (Best African Music Performance 2024 et 2026), deux MTV Video Music Awards, deux BET Awards, trois
 MTV Europe Music Awards, le Billboard Global Force Award, le prix Impact Billboard Women in Music 2025. Nominations aux

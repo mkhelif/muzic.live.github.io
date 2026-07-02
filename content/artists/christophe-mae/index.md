@@ -8,7 +8,7 @@ compositeur et interprète, il incarne depuis la fin des années 2000 une certai
 aux mélodies directes, aux textes accessibles et à une sincérité émotionnelle qui lui a valu une popularité massive
 et durable auprès du grand public.
 
-##### Un musicien né de l'adversité
+###### Un musicien né de l'adversité
 
 Son rapport à la musique naît d'une contrainte : immobilisé à seize ans par une polyarthrite chronique, il commence
 à jouer de la guitare et de l'harmonica pour occuper ce temps forcé loin de la scène. C'est à cette période qu'il
@@ -20,7 +20,7 @@ Avant de s'imposer en solo, Christophe Maé se fait un nom dans le monde de la c
 interprète le rôle de Monsieur, frère du roi Louis XIV, dans le spectacle Le Roi Soleil. Cette expérience lui
 vaut le NRJ Music Award de la révélation de l'année 2006 et lui ouvre les portes d'une visibilité nationale.
 
-##### Le succès fulgurant de Mon paradis
+###### Le succès fulgurant de Mon paradis
 
 En mars 2007, son premier album solo, Mon paradis, déferle sur les ondes françaises. Porté par des singles comme
 « On s'attache », « Ça fait mal » et « Belle demoiselle », il se vend à 1,6 million d'exemplaires et est certifié
@@ -32,7 +32,7 @@ relation avec le public dépasse l'effet de mode. On trace la route (2010), Je v
 platine dès la sortie du second single) et les albums suivants prolongent une carrière sans fausse note, construite
 sur la constance et l'authenticité plutôt que sur la rupture.
 
-##### Une popularité qui dure
+###### Une popularité qui dure
 
 Au fil des années, Christophe Maé s'est imposé comme une figure incontournable des radios généralistes et des
 grandes salles. Son registre — pop lumineuse, textes sur l'amour, la famille et le temps qui passe, arrangements

@@ -19,7 +19,7 @@ démarquer dans un paysage rap français très concurrentiel.
 Il développe rapidement un style personnel qui mélange flow technique et conscience sociale, s'inscrivant dans la
 tradition du rap français intelligent tout en y apportant une couleur contemporaine.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière de Carbonne se construit progressivement grâce à des sorties qui révèlent sa capacité à aborder des thèmes
 variés avec profondeur et intelligence.
@@ -30,7 +30,7 @@ sociale et personnelle.
 Ses compositions révèlent une maîtrise croissante de l'écriture rap et une capacité à créer des morceaux qui marquent l'
 auditeur par leur sincérité et leur pertinence.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Carbonne se caractérise par des textes fouillés, un flow maîtrisé et une approche consciente du rap qui
 privilégie le fond sur la forme.
@@ -41,7 +41,7 @@ genre.
 Ses influences puisent dans le rap français conscient, le hip-hop américain golden age et les courants de pensée
 contemporains, créant un rap engagé qui résonne avec les préoccupations actuelles.
 
-##### Actualité
+###### Actualité
 
 Carbonne continue de développer son approche du rap conscient français, représentant cette facette réflexive et engagée
 du hip-hop hexagonal.

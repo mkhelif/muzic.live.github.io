@@ -18,7 +18,7 @@ Pays de Gex et de la frontière suisse, ce festival mêle musique, sport et natu
 cœur du Parc Naturel Régional du Haut-Jura. Et depuis sa première édition en 2021, il ne cesse de grandir — sans jamais
 renoncer à ce qui fait son identité : la convivialité, l'accessibilité et le respect du territoire qui l'accueille.
 
-## L'origine : un rêve de 2006, concrétisé quinze ans plus tard
+###### L'origine : un rêve de 2006, concrétisé quinze ans plus tard
 
 L'idée d'un festival à Menthières remonte à **2006**. Mais faute de moyens, le projet reste dans les cartons. Il faut
 attendre **2018** pour qu'un premier échange formel réunisse les représentants de six associations de la **vallée de la
@@ -33,7 +33,7 @@ le jour — dans un format réduit : un soir de concert, une jauge de 1 000 pers
 Le nom ? Un jeu de mots affectueux sur le **Crêt de la Goutte**, le sommet qui surplombe la station de Menthières. Le
 Crêt est devenu le Cri — et le cri, depuis, ne s'est plus tu.
 
-## De 1 000 à 5 000 spectateurs en trois ans
+###### De 1 000 à 5 000 spectateurs en trois ans
 
 La croissance est aussi rapide que maîtrisée. En **2022**, première « vraie édition » telle que les fondateurs l'avaient
 imaginée : deux soirées de concerts, une journée d'activités, plus de 4 000 spectateurs. Complet. En **2023**, le
@@ -42,7 +42,7 @@ festival rassemble 5 000 personnes et l'association déménage son local de Giro
 propre identité. Le Cri de la Goutte est identifié par plusieurs médias nationaux dans le **top 10 des festivals les
 plus éco-responsables** de France. La reconnaissance dépasse désormais largement les frontières de la vallée.
 
-## Le concept : trois axes, un week-end
+###### Le concept : trois axes, un week-end
 
 Ce qui distingue le Cri de la Goutte dans le paysage festivalier, c'est cette articulation singulière autour de trois
 piliers.
@@ -65,7 +65,7 @@ promotion des savoir-faire locaux et d'accessibilité tarifaire. Marché artisan
 territoire, sensibilisation à la faune et à la flore : le festival prend au sérieux sa responsabilité envers
 l'environnement qui l'accueille.
 
-## Six associations, une armée de bénévoles
+###### Six associations, une armée de bénévoles
 
 Le Cri de la Goutte est porté par un **consortium de six associations** de la vallée de la Valserine. Ce modèle
 collectif — rare dans le paysage festivalier — donne au festival sa force et sa singularité. Chaque association apporte
@@ -78,7 +78,7 @@ Le festival est accessible à tous : gratuit pour les enfants de moins de 12 ans
 affiché est de maintenir une politique tarifaire juste et adaptée au plus grand nombre — dans un secteur où les prix des
 festivals ne cessent d'augmenter, c'est un engagement qui mérite d'être souligné.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Le Cri de la Goutte est la preuve qu'un festival peut naître d'en bas — d'un territoire, de ses habitants, de leurs
 associations — et grandir sans se dénaturer. En cinq éditions, ce rendez-vous jurassien est passé de 1 000 spectateurs

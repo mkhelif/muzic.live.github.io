@@ -9,7 +9,7 @@ guerre du Congo, pour s'installer en Belgique. Il grandit à Kraainem, banlieue 
 avant de s'installer dans le quartier congolais de Matonge à Ixelles, quartier dont le brassage culturel
 nourrira profondément son écriture.
 
-##### L'émergence via Booba
+###### L'émergence via Booba
 
 Damso commence à rapper en 2006 dans des cercles underground et fonde le collectif OPG avec son ami
 d'enfance Dolfa. Sa percée nationale survient en 2015 : sa chanson « Poseidon » figure sur la mixtape
@@ -19,7 +19,7 @@ Universal Music. Le premier album, *Batterie Faible* (2016), est certifié plati
 certifié disque de diamant dix-huit mois après sa sortie, qui le hisse au rang des grands du rap
 francophone.
 
-##### Un style à nul autre pareil
+###### Un style à nul autre pareil
 
 Ce qui distingue Damso de ses pairs, c'est une plume littéraire qui ne ressemble à aucune autre dans
 le rap français. Jeux de mots alambiqués, références philosophiques, introspection sans pudeur : ses

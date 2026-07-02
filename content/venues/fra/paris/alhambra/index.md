@@ -29,7 +29,7 @@ rebaptisé en hommage au music-hall légendaire qui se trouvait à trois cents m
 la réincarnation d'un fantôme — et comme tous les fantômes qui ont du goût, il a choisi un très bel endroit pour
 revenir.
 
-## L'Alhambra originel : 1866-1967, un siècle de spectacle parisien
+###### L'Alhambra originel : 1866-1967, un siècle de spectacle parisien
 
 L'histoire commence en 1866, au 50 rue de Malte, dans le 11ème arrondissement. Cette année-là, le **Cirque-Impérial** y
 est inauguré — un colosse de 5 000 places, le plus grand cirque d'Europe, où l'on présente des spectacles équestres et
@@ -50,7 +50,7 @@ En 1967, le bâtiment est démoli. En 1968, **Maurice Chevalier** entonne lors d
 l'Alhambra » qui sonne comme un adieu au music-hall parisien tout entier. Christophe, dans *Señorita* en 1974, chantera
 la disparition d'une époque : « On a fermé l'Alhambra ».
 
-## Le ciné-théâtre oublié des cheminots
+###### Le ciné-théâtre oublié des cheminots
 
 C'est ici que le hasard entre en jeu. À quelques centaines de mètres de l'ancien Alhambra, au 21 rue Yves-Toudic, se
 cache un autre lieu — un ciné-théâtre construit en 1933 par l'architecte **Hoppe** pour l'**Association Fraternelle des
@@ -60,7 +60,7 @@ géométriques 1925, scène encadrée de piliers en stuc et surmontée d'un bas-
 ciné-théâtre ne fut que rarement ouvert, utilisé pendant de longues années comme remise par un brocanteur, puis comme
 siège de l'ANPE-Spectacles.
 
-## Jean-Claude Auclair et la résurrection
+###### Jean-Claude Auclair et la résurrection
 
 En **2005**, **Jean-Claude Auclair** — producteur et diffuseur de spectacles, l'homme qui avait déjà réhabilité
 L'Européen place Clichy en 1988 — découvre par hasard ce théâtre oublié et tombe amoureux du lieu. Il le rachète et décide
@@ -80,7 +80,7 @@ l'impact visuel a été rendu discret grâce à un travail soigné sur la géom�
 
 L'Alhambra rouvre ses portes en **avril 2008**.
 
-## La salle aujourd'hui : la scène de toutes les musiques
+###### La salle aujourd'hui : la scène de toutes les musiques
 
 L'Alhambra version XXIe siècle est un **complexe événementiel entièrement modulable**. Selon la configuration — concert,
 spectacle, conférence, cocktail dînatoire —, la salle accueille de **600 à 800 spectateurs** assis ou debout, répartis
@@ -96,7 +96,7 @@ intimiste sans jamais sacrifier le son.
 Sa position géographique — entre le canal Saint-Martin et la place de la République, à quelques mètres de la station
 **Jacques-Bonsergent** et à 350 mètres de **République** — en fait l'une des salles parisiennes les plus accessibles.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 L'Alhambra est un lieu de mémoire et de renouveau. Mémoire d'un music-hall légendaire qui a vu passer Ella Fitzgerald,
 Duke Ellington, Henri Salvador et le jeune Johnny Hallyday. Renouveau grâce à la vision obstinée d'un producteur qui a

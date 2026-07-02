@@ -15,21 +15,21 @@ Le **Nantuafest** dévoile son programme complet pour l'édition 2026, et la plu
 l'ambition d'un festival qui refuse de se laisser enfermer dans un genre. Du 22 au 24 mai dans le bassin de Nantua,
 quinze artistes se succèderont à partir de 19h30 pour trois soirées qui promettent chacune leur propre couleur.
 
-#### Vendredi 22 mai : de Jude à Hypaton
+###### Vendredi 22 mai : de Jude à Hypaton
 
 La soirée d'ouverture pose d'emblée une palette large. **Tayc**, l'un des artistes R&B francophones les plus constants
 de sa génération, en sera la tête d'affiche, flanqué de **Danitsa**, révélation soul dont la voix a bouleversé les
 scènes de tremplin l'an dernier. **Hypaton** viendra apporter sa touche électronique, tandis que **Maureen** et
 **Jude** compléteront un plateau d'ouverture pensé pour faire la fête tout en prenant des risques.
 
-#### Samedi 23 mai : Danakil et Josman en force
+###### Samedi 23 mai : Danakil et Josman en force
 
 Le samedi appartient au reggae roots et au rap. **Danakil**, le collectif lyonnais qui tient le flambeau d'un reggae
 exigeant depuis vingt ans, sera rejoint par **Josman**, rappeur aux textes ciselés, et **Petit Biscuit**, dont
 l'électronique organique crée un pont inattendu avec les basses profondes du roots. **Laura Laffon** et
 **Juste Shani** ouvriraient la soirée.
 
-#### Dimanche 24 mai : The Avener en clôture
+###### Dimanche 24 mai : The Avener en clôture
 
 La clôture revient à **The Avener**, le producteur niçois Tristan Casara, architecte d'une électronique mélancolique
 et sophistiquée qui s'est imposée bien au-delà des frontières hexagonales. Aux côtés de **Keblack**, **Meryl** et

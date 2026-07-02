@@ -21,7 +21,7 @@ authenticité.
 Leurs débuts voient un groupe naviguer entre pop rock accessible et sensibilité indie, créant des chansons qui résonnent
 avec honnêteté et intelligence.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Le hit "Popular" (1996) de leur premier album "High/Low" propulse le groupe sur MTV et les radios alternatives, devenant
 un phénomène culturel qui ironise sur les codes de popularité lycéenne.
@@ -35,7 +35,7 @@ accompli, accumulant une discographie cohérente de rock intelligent et émotion
 Le groupe développe une base de fans fidèles, particulièrement en Europe où ils sont considérés comme des héros du rock
 alternatif, maintenant une carrière constante pendant plus de trente ans.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Nada Surf se caractérise par un rock alternatif mélodique qui mêle power pop, influences post-punk et
 sensibilité indie dans des chansons ciselées et émotionnellement directes.
@@ -49,7 +49,7 @@ substance sur le spectacle.
 Leurs textes explorent les relations, la quête de sens et les petits moments qui définissent nos vies avec une honnêteté
 poétique qui résonne profondément avec leur public fidèle.
 
-##### Actualité
+###### Actualité
 
 Nada Surf continue de sortir des albums régulièrement et de tourner à travers le monde, maintenant leur intégrité
 artistique et leur connexion authentique avec leurs fans.

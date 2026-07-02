@@ -22,7 +22,7 @@ et se demande s'il y a quelqu'un. Avec **The Wow! Signal**, dixième album studi
 « Wow! »** capté en 1977 par un radiotélescope, le disque explore le mystère cosmique et la possibilité d'un contact avec
 quelque chose de plus grand que nous. Et, surprise : c'est leur album le plus vital depuis des années.
 
-#### Un retour aux sources galactiques
+###### Un retour aux sources galactiques
 
 Après quelques disques en demi-teinte, Muse renoue ici avec ce qui fait sa marque de fabrique : le grand frisson
 science-fiction, les refrains stratosphériques et l'art du grandiose assumé. Dès **« The Dark Forest »**, l'album pose
@@ -30,7 +30,7 @@ son décor — vertige spatial, tension sourde, montée orchestrale — et ne l�
 nouveau démesuré, parfois kitsch, mais porté par une conviction et un plaisir de jouer qu'on n'avait plus entendus chez
 eux depuis longtemps.
 
-#### Une nouveauté de taille : un co-auteur
+###### Une nouveauté de taille : un co-auteur
 
 Le changement le plus notable n'est pas qu'esthétique. Pour la première fois de leur carrière, Muse a ouvert sa
 forteresse créative : **Dan Lancaster** intervient à la production, au mixage et surtout à l'**écriture** sur la plupart
@@ -38,7 +38,7 @@ des titres — une grande première pour un groupe qui avait toujours tout verro
 Korff, les trois Anglais en tirent un son plus ramassé, plus direct, débarrassé d'une partie de la grandiloquence
 parfois pesante de leurs dernières productions. La discipline d'écriture fait des merveilles.
 
-#### Les sommets
+###### Les sommets
 
 Les singles balisent un parcours d'une belle efficacité. **« Be With You »**, lancé dès mars, renoue avec la pop-rock
 céleste des grandes heures ; **« Cryogen »** durcit le ton avec un riff glacial ; **« Unravelling »** joue la carte de
@@ -47,14 +47,14 @@ la chanteuse britannique épouse les nappes synthétiques du groupe dans un mome
 **« Nightshift Superstar »** et **« Hexagons »** rappellent que Muse reste un groupe de stade dans l'âme, tandis que
 **« Space Debris »** referme l'album sur une note flottante, comme un message lancé dans le vide en quête d'une réponse.
 
-#### Quelques scories
+###### Quelques scories
 
 Tout n'est pas parfait. À vouloir embrasser tout le spectre — du tube fédérateur au morceau plus introspectif — l'album
 manque parfois d'un fil émotionnel unique, et certains titres de milieu de parcours peinent à marquer durablement. Le
 groupe n'évite pas non plus totalement ses tics : l'emphase guette toujours, et l'on sait que la frontière entre le
 sublime et l'excessif a toujours été ténue chez Muse. Mais ces réserves pèsent peu face au plaisir retrouvé.
 
-#### Verdict
+###### Verdict
 
 **The Wow! Signal** est l'album qu'on n'attendait plus : un Muse rajeuni, recentré, qui s'amuse de nouveau avec son
 imaginaire spatial et signe son meilleur disque depuis une décennie. En s'ouvrant enfin à une écriture partagée et en

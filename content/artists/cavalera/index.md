@@ -23,7 +23,7 @@ autre voie s'est révélée possible : faire de la musique agressive d'une mani�
 Trente-deux ans plus tard, les deux frères qui ont écrit ce disque le rejouent ensemble, intégralement, sous un nom qui
 dit tout de leur histoire commune : Cavalera.
 
-## Sepultura : la genèse brésilienne
+###### Sepultura : la genèse brésilienne
 
 Sepultura a été fondé en 1983 par les frères Max et Igor Cavalera, avec Wagner Lamounier et Jairo Guedes Braga. Paulo
 Xisto Pinto Jr. les rejoint quelques mois plus tard, et en 1987, avec le départ de Jairo et l'arrivée du guitariste
@@ -34,7 +34,7 @@ metal grâce à des enregistrements studio dynamiques et des performances live d
 certifiées disque d'or aux États-Unis avec plus de cinq cent mille exemplaires vendus. Ces deux albums sont devenus des
 piliers absolus du metal des années 90 — des références citées par des générations entières de groupes qui ont suivi.
 
-## *Chaos A.D.* : la révolution du groove
+###### *Chaos A.D.* : la révolution du groove
 
 *Chaos A.D.* est sorti en septembre 1993 via Roadrunner Records. L'album marque un tournant dans le son de Sepultura,
 passant du thrash metal pur à un style davantage axé sur le groove, intégrant des éléments hardcore, industriels et des
@@ -54,7 +54,7 @@ commande spécifique, donnant naissance à l'image d'un sac mortuaire avec de l'
 Max Cavalera raconte que l'album s'ouvre sur le battement de cœur de son fils Zyon. Un détail intime qui en dit long sur
 ce que ce disque représente pour son auteur — bien plus qu'une simple sortie discographique.
 
-## Cavalera : les frères réunis
+###### Cavalera : les frères réunis
 
 Après des décennies de trajectoires séparées et parallèles — Max Cavalera ayant fondé Soulfly et Cavalera Conspiracy
 après son départ tumultueux de Sepultura en 1996 — les deux frères se retrouvent régulièrement depuis plusieurs années
@@ -70,7 +70,7 @@ La tournée démarre le 18 septembre 2025 au festival Louder Than Life à Louisv
 majeur en première partie de Slayer le 20 septembre à Hershey, en Pennsylvanie. Le line-up de Cavalera réunit désormais,
 aux côtés des deux frères, le bassiste Igor Amadeus Cavalera et le guitariste Travis Stone.
 
-## Une tournée qui rassemble les générations
+###### Une tournée qui rassemble les générations
 
 Le retour scénique de *Chaos A.D.* prend une dimension presque sacrée pour la communauté metal. Le concert s'ouvre sur
 une vidéo dans laquelle d'autres musiciens témoignent de l'influence de Max et Igor, certains qualifiant *Chaos A.D.* du
@@ -81,7 +81,7 @@ portant ce rythme tribal si caractéristique.
 Chaque concert où Max et Igor Cavalera montent sur scène ensemble promet une soirée d'exception. Ces deux légendes du
 monde du metal ont traversé certaines des formations les plus dures et les plus influentes des trente dernières années.
 
-## Ce que Cavalera représente
+###### Ce que Cavalera représente
 
 Voir les frères Cavalera rejouer *Chaos A.D.* en intégralité n'est pas un simple exercice nostalgique — c'est la
 célébration d'un moment fondateur, par les deux hommes qui l'ont créé, plus de trois décennies après. Max Cavalera

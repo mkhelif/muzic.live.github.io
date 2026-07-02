@@ -19,7 +19,7 @@ une approche personnelle du hip-hop français.
 Il grandit en Normandie et développe sa passion pour le rap en même temps que son amitié artistique avec Orelsan, créant
 ensemble une dynamique créative qui marquera durablement la scène rap française contemporaine.
 
-##### Carrière musicale
+###### Carrière musicale
 
 La carrière de Gringe se développe à travers ses collaborations avec Orelsan au sein des Casseurs Flowters, mais aussi
 par ses projets solo qui révèlent sa personnalité artistique unique.
@@ -30,7 +30,7 @@ générale et de sa créativité débordante.
 Ses compositions révèlent un artiste complet qui maîtrise autant l'écriture que la réalisation, confirmant son statut
 d'artiste polyvalent de la scène française contemporaine.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Gringe se caractérise par un flow maîtrisé, des textes intelligents et une approche du rap qui privilégie la
 créativité sur les conventions du genre.
@@ -41,7 +41,7 @@ et engagement.
 Ses influences puisent dans le rap français, la culture populaire et les références cinématographiques, créant un style
 éclectique qui enrichit la diversité du hip-hop hexagonal.
 
-##### Actualité
+###### Actualité
 
 Gringe continue de développer ses projets artistiques multiples, représentant cette génération d'artistes français qui
 refusent de se limiter à une seule discipline.

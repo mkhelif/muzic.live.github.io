@@ -20,7 +20,7 @@ internationale et les sonorités rétro-futuristes pour créer un style personne
 Elle développe très tôt une identité artistique forte, caractérisée par une voix expressive et une écriture ciselée qui
 aborde les thèmes de l'amour moderne et des relations contemporaines.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Cléa Vincent développe sa carrière en proposant des albums qui témoignent de sa capacité à renouveler la chanson
 française tout en respectant ses codes traditionnels.
@@ -31,7 +31,7 @@ modernes qui séduisent aussi bien les amateurs de pop que les passionnés de ch
 Elle se distingue par sa capacité à aborder des thèmes contemporains avec une élégance et une sophistication qui
 rappellent les grandes traditions de la chanson hexagonale.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Cléa Vincent se caractérise par des mélodies sophistiquées, des arrangements pop soignés et une voix
 expressive qui porte des textes ciselés avec précision.
@@ -42,7 +42,7 @@ chanson française.
 Ses influences puisent dans la pop française des années 80, les grandes figures de la chanson hexagonale et l'indie-pop
 internationale, créant un son qui modernise l'héritage français tout en conservant son élégance.
 
-##### Actualité
+###### Actualité
 
 Cléa Vincent continue de représenter cette nouvelle génération d'artistes français qui réinvente la chanson hexagonale
 avec modernité et sophistication.

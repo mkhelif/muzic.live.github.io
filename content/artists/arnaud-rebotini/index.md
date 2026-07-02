@@ -10,7 +10,7 @@ incontournable de la scène électronique hexagonale depuis les années 1990, il
 la croisée de l'électro, de la house, de l'electroclash et de la musique concrète, tout en embrassant les mondes du
 cinéma et de la performance live.
 
-##### Les débuts et Black Strobe
+###### Les débuts et Black Strobe
 
 C'est en 1996 qu'Arnaud Rebotini fonde Black Strobe avec Ivan Smagghe, projet qui deviendra l'un des représentants les
 plus singuliers de l'electroclash européen, fusionnant des influences rock brutes avec une esthétique électronique
@@ -22,7 +22,7 @@ expérimentale intitulé *Organique* en 2000 ; sous son propre nom, il publie *M
 Me Religion* (2011), deux albums qui illustrent son appétit pour les structures musicales complexes et les synthétiseurs
 analogiques.
 
-##### La reconnaissance par le cinéma
+###### La reconnaissance par le cinéma
 
 La carrière d'Arnaud Rebotini prend une dimension nouvelle en 2017 lorsqu'il compose la bande originale du film *120
 Battements par Minute* de Robin Campillo, récit des militants d'Act Up-Paris au début des années 1990. Le score, qui
@@ -33,7 +33,7 @@ compositeur auprès du grand public.
 En dehors du cinéma, il collabore avec Christian Zanési sur l'album *Frontières* (2016), qui mêle synthèse analogique et
 musique concrète dans une exploration des marges et des espaces entre les genres.
 
-##### Un musicien live et expérimental
+###### Un musicien live et expérimental
 
 Rebotini est aussi connu pour ses performances live intenses, où synthétiseurs modulaires et machines analogiques
 dialoguent en temps réel. Sa maîtrise technique et son sens du détail font de ses concerts des expériences à part

@@ -23,7 +23,7 @@ bien du piano que de la guitare, de la basse et de la batterie ; et Criss, le vi
 tragiquement succomber à un accident de la route en 1993, à l'âge de 30 ans seulement. Entre les deux frères et leur
 producteur Paul O'Neill, Savatage écrira l'une des pages les plus singulières du métal américain.
 
-## Des garages de Floride aux concept albums
+###### Des garages de Floride aux concept albums
 
 L'histoire du groupe commence en 1978, quand Jon Oliva et son frère Criss fondent un premier trio du nom de Metropolis.
 Le nom change rapidement pour Avatar, avec l'arrivée d'un nouveau batteur, Steve Wacholz. Le groupe jouera d'abord des
@@ -38,7 +38,7 @@ Sous la pression du label, Savatage enregistre en 1986 *Fight For The Rock*, un 
 satisfait ni le groupe ni la critique. C'est aussi à cette période qu'arrive le bassiste Johnny Lee Middleton, qui
 restera un membre permanent.
 
-## L'âge d'or : de *Hall Of The Mountain King* à *Edge Of Thorns*
+###### L'âge d'or : de *Hall Of The Mountain King* à *Edge Of Thorns*
 
 Le vrai Savatage émerge avec *Hall Of The Mountain King* (1987) — album charnière, premier d'un trio de choc qui va
 emporter le groupe jusqu'au palier du culte. Puis *Gutter Ballet* (1990), qui prend des allures plus prog, avec
@@ -51,7 +51,7 @@ majeure du metal progressif.
 configuration que sort le disque. Ce que personne ne sait encore, c'est que ce sera le dernier témoignage du génie de
 Criss Oliva.
 
-## La tragédie : le 17 octobre 1993
+###### La tragédie : le 17 octobre 1993
 
 Le 17 octobre 1993, Criss Oliva est tué dans un accident de la route — son véhicule violemment percuté par un chauffard
 alcoolisé conduisant sans permis, déjà condamné à plusieurs reprises pour conduite en état d'ivresse. Il avait 30 ans.
@@ -62,7 +62,7 @@ Les hommages de la communauté metal sont immédiats et durables. Overkill lui d
 album de 1994. Vicious Rumors et Testament dédient leurs albums respectifs à sa mémoire. Un concert hommage est organisé
 le 23 novembre 1993 avec les membres survivants de Savatage.
 
-## Après Criss : les concept albums et la naissance du Trans-Siberian Orchestra
+###### Après Criss : les concept albums et la naissance du Trans-Siberian Orchestra
 
 La formation passera à deux guitaristes avec l'arrivée de Chris Caffery, puis d'Al Pitrelli (ex-Alice Cooper). Jeff
 Plate devient le nouveau batteur. *Handful of Rain* (1994), *Dead Winter Dead* (1995) et *The Wake of Magellan* (1997)
@@ -79,7 +79,7 @@ chant, et qui rencontrera un plus grand succès commercial.
 principal, et par les solos enregistrés par Al Pitrelli avant son départ pour rejoindre Megadeth. Puis le silence. Près
 de deux décennies sans tournée.
 
-## Le retour : Wacken 2015 et la résurrection de 2025-2026
+###### Le retour : Wacken 2015 et la résurrection de 2025-2026
 
 Leur performance électrisante au Wacken Open Air 2015, devant 80 000 fans, a marqué un retour triomphal et confirmé à la
 fois le statut légendaire de Savatage et l'indéfectible dévotion de leur public. Pour ce concert exceptionnel, Jon Oliva
@@ -97,7 +97,7 @@ festivals européens. Elle comprend notamment un concert à l'amphithéâtre his
 aux côtés d'un orchestre pour une soirée mémorable. Armored Saint, Vision Divine et Nevermore les rejoignent sur
 certaines dates.
 
-## Ce que Savatage représente
+###### Ce que Savatage représente
 
 Savatage est largement considéré comme l'un des groupes les plus influents du metal progressif. Au cours de leur
 carrière, le groupe a sorti onze albums fondateurs et joué des centaines de concerts dans le monde entier. Avec leur

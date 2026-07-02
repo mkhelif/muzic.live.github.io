@@ -16,7 +16,7 @@ Cancer. La genèse est foudroyante : le premier EP, Breeding Death, est écrit e
 moins d'un an après la formation du groupe, établissant d'emblée la signature sonore de Bloodbath —
 riffs lourdement accordés, growls caverneux, tempos implacables.
 
-##### Un line-up d'exception en mutation constante
+###### Un line-up d'exception en mutation constante
 
 L'histoire de Bloodbath est intimement liée aux va-et-vient de ses membres illustres. En 2004, Åkerfeldt
 quitte le groupe pour se concentrer sur Opeth, laissant place à Peter Tägtgren (Hypocrisy) pour l'album
@@ -25,7 +25,7 @@ nouveau guitariste. Puis, en 2014, une nouvelle page s'ouvre avec l'arrivée de 
 groupe de doom gothique Paradise Lost, apportant une couleur vocale différente mais tout aussi
 convaincante à l'édifice death metal du groupe.
 
-##### Un son au service de la brutalité
+###### Un son au service de la brutalité
 
 Le style de Bloodbath n'a jamais dévié de sa ligne directrice : riffs d'une lourdeur punitive, rythmiques
 martelantes, thématiques volontairement extrêmes oscillant entre gore, occultisme et blasphème. Le groupe
@@ -38,7 +38,7 @@ albums comme Resurrection Through Carnage (2002), Nightmares Made Flesh (2004) o
 Drawn (2018) avec Nick Holmes au chant sont autant de jalons d'une œuvre cohérente et résolument hostile
 à tout compromis commercial.
 
-##### Un héritage indélébile
+###### Un héritage indélébile
 
 Dans un paysage metal saturé d'innovations et de fusions de genres, Bloodbath incarne une résistance
 noble : celle du purisme assumé, de la fidélité aux racines et du refus de la concession. Composé de

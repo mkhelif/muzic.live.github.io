@@ -12,7 +12,7 @@ dès les années 2010 — il mène en parallèle une carrière solo particulièr
 territoires musicaux variés tout en maintenant un style rythmique et une énergie immédiatement
 reconnaissables.
 
-##### Les débuts dans le jazz de Minneapolis
+###### Les débuts dans le jazz de Minneapolis
 
 La carrière de Cory Wong commence dans les clubs de jazz de la région de Minneapolis-Saint Paul, à la fin
 des années 2000. Il publie deux disques avec des ensembles jazz — *Even Uneven* (2008) et *Quartet/Quintet*
@@ -25,7 +25,7 @@ Mambo's Combo à Minneapolis, aux côtés de Michael Bland et Sonny T., tous deu
 de Prince. Cette immersion dans l'héritage funk de la ville sera décisive dans la construction de son
 identité musicale.
 
-##### La rencontre avec Vulfpeck
+###### La rencontre avec Vulfpeck
 
 La même année 2013, Cory Wong fait la connaissance des membres de Vulfpeck, le projet basé à Ann Arbor
 (Michigan) autour du bassiste Joe Dart et du claviériste Jack Stratton. Une jam session informelle est
@@ -34,7 +34,7 @@ Wong est un collaborateur régulier et central de Vulfpeck, apparaissant sur cha
 participant à leurs tournées. Son jeu de guitare — rythmique implacable, jeu en accords funk percussifs,
 touches de solo mélodique — est l'un des piliers sonores du groupe.
 
-##### Une carrière solo prolifique
+###### Une carrière solo prolifique
 
 En parallèle de Vulfpeck, Cory Wong développe une carrière solo impressionnante par son volume et sa
 diversité. Son premier album éponyme, *Cory Wong and The Green Screen Band* (2017), est suivi par *The

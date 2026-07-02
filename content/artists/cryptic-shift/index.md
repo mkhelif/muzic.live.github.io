@@ -12,7 +12,7 @@ tard. Depuis lors, Cryptic Shift s'est imposé comme l'une des propositions les 
 singulières de la scène death metal britannique contemporaine, fusionnant technique instrumentale poussée,
 imaginaire science-fiction et une appétence pour les structures musicales les plus imprévisibles.
 
-##### Une formation en mutation
+###### Une formation en mutation
 
 Le line-up originel de Cryptic Shift rassemble le guitariste Xander Bradley, le batteur Ryan Sheperson,
 le chanteur Rob Castle et le bassiste Hokumu Blitzkreig. Leur première démo, *Old Chapel Demos*, paraît
@@ -21,7 +21,7 @@ le chant en plus de la guitare, et Henry Parker rejoint comme guitariste supplé
 transformation précoce n'est pas rare dans les groupes de metal extrême, mais chez Cryptic Shift, il s'avère
 productif : la nouvelle configuration développe un son plus personnel et une cohésion artistique renforcée.
 
-##### Visitations from Enceladus
+###### Visitations from Enceladus
 
 Le premier album longue durée de Cryptic Shift, *Visitations from Enceladus*, paraît le 4 mai 2020 sur
 Blood Harvest Records. Le titre lui-même — Encelade est une lune de Saturne connue pour ses geysers d'eau
@@ -35,7 +35,7 @@ viennent s'ajouter des éléments de thrash, de jazz, de doom, de rock psychéd�
 noise music, le tout assemblé en compositions longues et sinueuses qui défient les structures conventionnelles.
 Dom Lawson du magazine Metal Hammer les décrit comme un « phenomenal technological astrodeath ».
 
-##### Metal Blade et la maturité
+###### Metal Blade et la maturité
 
 Après le départ du guitariste Joe Bradley et son remplacement par Joss Farrington, le groupe signe avec
 Metal Blade Records — l'un des labels de metal les plus respectés au monde — pour la sortie de leur second

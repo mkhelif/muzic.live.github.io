@@ -11,7 +11,7 @@ des propositions les plus excitantes de la nouvelle scène francophone, mêlant 
 engagés en français et une énergie de scène dévastatrice. En à peine deux ans d'existence, Bonne Nuit a déjà
 accumulé plus de deux cents concerts et conquis des salles et des festivals à travers toute la France.
 
-##### Une naissance fulgurante
+###### Une naissance fulgurante
 
 La singularité de Bonne Nuit tient autant à son son qu'à la vitesse avec laquelle le groupe s'est taillé
 une place dans le paysage musical français. Dès leurs premières sorties, le duo attire l'attention par un
@@ -24,7 +24,7 @@ La qualité de leur live est rapidement reconnue : après seulement un an et plu
 ils affichent complet à La Boule Noire à Paris pour une date en janvier 2025. Cette salle, incontournable
 de la scène alternative parisienne, représente un cap symbolique important pour un groupe aussi jeune.
 
-##### Récompenses et reconnaissance
+###### Récompenses et reconnaissance
 
 Bonne Nuit ne s'est pas contenté de convaincre les publics : plusieurs institutions culturelles ont
 également reconnu leur potentiel. Le groupe a été nommé révélation de l'année au festival Panoramas et a
@@ -32,7 +32,7 @@ reçu des prix décernés par le Château Éphémère, la Ville de Paris, le CRO
 de récompenses qui dit la diversité des milieux qui les soutiennent, du réseau institutionnel aux scènes
 alternatives.
 
-##### Festivals et perspectives
+###### Festivals et perspectives
 
 L'été 2025 voit Bonne Nuit monter sur les grandes scènes françaises : les Vieilles Charrues, la Nuit de
 l'Erdre, Art Rock, Europavox et les Pluies de Juillet comptent parmi leurs rendez-vous estivaux. Ces

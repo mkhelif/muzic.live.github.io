@@ -11,7 +11,7 @@ des Français les plus influents dans l'histoire de la musique de danse. Plus de
 témoignent d'une carrière hors du commun, marquée par un mélange unique de rigueur musicale et de sens infaillible
 du dancefloor.
 
-##### De la batterie au studio
+###### De la batterie au studio
 
 C'est sa mère qui, pour ses douze ans, lui offre sa première batterie — un cadeau décisif pour canaliser l'énergie
 d'un enfant passionné. Influencé par le rhythm and blues d'Otis Redding, Marc Cerrone se forme rapidement et, en
@@ -22,7 +22,7 @@ C'est Eddie Barclay qui lui permet de signer son premier contrat et de produire 
 novembre 1972. Mais c'est en 1976, lorsqu'il autoproduit son premier album Love in C minor — enregistré aux
 studios Trident de Londres — que Cerrone révèle toute la singularité de sa vision musicale.
 
-##### Supernature et le sommet du disco
+###### Supernature et le sommet du disco
 
 Avec le deuxième album Supernature (1977), Cerrone franchit un palier et entre dans la légende. Le titre éponyme,
 avec ses orchestrations somptueuses, ses boucles hypnotiques et sa durée hors normes pour l'époque, devient l'un
@@ -34,7 +34,7 @@ horlogère — fait de chaque album une construction minutieuse autant qu'une in
 collabore avec de nombreux artistes internationaux et produit des créations pour des noms comme Alicia Keys ou
 Patrick Hernandez.
 
-##### Un héritage reconnu
+###### Un héritage reconnu
 
 Nommé Chevalier de la Légion d'honneur le 14 juillet 2019, Marc Cerrone voit sa stature symbolique confirmée par
 l'un des honneurs les plus prestigieux de la République française. En 2024, lors de la cérémonie d'ouverture des

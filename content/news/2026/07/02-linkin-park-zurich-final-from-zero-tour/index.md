@@ -13,7 +13,7 @@ chaos, puis dans l'apothéose. Le 30 juin, au Letzigrund de Zurich, le groupe ca
 du **From Zero World Tour**, dernière étape d'une tournée entamée en 2024 pour accompagner le retour du groupe et
 l'arrivée d'Emily Armstrong au chant, deux ans après la mort de Chester Bennington.
 
-## Une pause forcée, un retour fracassant
+###### Une pause forcée, un retour fracassant
 
 Le concert suivait son cours normal — *The Emptiness Machine*, *Somewhere I Belong*, *The Catalyst* — jusqu'à ce
 qu'un orage éclate sur Zurich au beau milieu de *Waiting for the End*. Le groupe a dû interrompre le show pendant
@@ -26,7 +26,7 @@ dans son scratch d'introduction avant l'arrivée sur scène du duo de hip-hop **
 featurings qui résument assez bien la personnalité de cette tournée : un groupe qui revient dix ans après avoir
 tout connu, et qui choisit d'inviter du sang neuf plutôt que de se contenter de rejouer ses classiques à l'identique.
 
-## Un adieu à l'ère From Zero
+###### Un adieu à l'ère From Zero
 
 Le set, découpé en quatre actes séparés par des interludes enregistrés, a traversé l'intégralité de la discographie
 du groupe : *Hybrid Theory*, *Meteora*, *A Thousand Suns*, *Minutes to Midnight*, jusqu'au récent *From Zero*.
@@ -40,7 +40,7 @@ Sur l'intro du même titre, Mike Shinoda a pris le temps de remercier l'équipe 
 partie et le public, évoquant une soirée « particulièrement émotionnelle » pour un groupe qui, quatre ans après la
 disparition de Chester Bennington, referme ici un chapitre entier de son histoire — celui du retour.
 
-## Trois ans de tournée, un bilan chargé
+###### Trois ans de tournée, un bilan chargé
 
 Lancé en 2024 dans la foulée de l'album *From Zero* et de l'annonce d'Emily Armstrong comme nouvelle voix du groupe
 aux côtés de Mike Shinoda, le From Zero World Tour aura traversé l'Amérique du Nord, l'Asie et l'Europe, où le

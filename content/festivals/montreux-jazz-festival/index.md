@@ -21,7 +21,7 @@ hip-hop, électro, musiques du monde — tout en conservant l'esprit d'exigence 
 légende. Deuxième plus grand festival de jazz annuel au monde après celui de Montréal, il accueille chaque année plus de
 250 000 visiteurs.
 
-## Les origines : l'audace de Claude Nobs
+###### Les origines : l'audace de Claude Nobs
 
 L'histoire du Montreux Jazz Festival est indissociable de celle de son fondateur, Claude Nobs (1936–2013). Né à
 Territet, près de Montreux, ce passionné de musique travaille d'abord comme cuisinier avant de rejoindre l'Office du
@@ -35,7 +35,7 @@ jours, est consacrée exclusivement au jazz. Parmi les artistes de cette éditio
 Charles Lloyd — qui, à 88 ans, sera de retour pour la 60e édition en 2026, bouclant ainsi un cercle symbolique de près
 de six décennies.
 
-## 1971 : Smoke on the Water, le mythe fondateur
+###### 1971 : Smoke on the Water, le mythe fondateur
 
 Le 4 décembre 1971, un événement tragique grave à jamais Montreux dans l'histoire du rock. Pendant un concert de Frank
 Zappa au Casino de Montreux, un spectateur tire une fusée de détresse qui met le feu au bâtiment. Le Casino est
@@ -45,7 +45,7 @@ scène depuis l'autre rive du lac. La fumée se propageant sur les eaux du Léma
 des riffs de guitare les plus célèbres de l'histoire du rock et, paradoxalement, l'un des hymnes du Montreux Jazz
 Festival.
 
-## L'ouverture musicale : bien plus que du jazz
+###### L'ouverture musicale : bien plus que du jazz
 
 Si le jazz et le blues sont aux sources de la manifestation, Claude Nobs a très tôt voulu élargir les horizons. Dès la
 fin des années 1960, il intègre des influences soul et afro-américaines, puis des artistes rock et pop. Cette ouverture
@@ -59,7 +59,7 @@ Dans les années 1990, Quincy Jones co-produit le festival (1991–1993), et Mil
 festival poursuit sa mue en accueillant la musique électronique, le hip-hop et les musiques latines. En 1999, il
 franchit la barre des 220 000 visiteurs, un record à l'époque.
 
-## Les lieux : un cadre exceptionnel
+###### Les lieux : un cadre exceptionnel
 
 Le Montreux Jazz Festival se déroule dans un cadre naturel spectaculaire, entre le lac Léman et les Alpes. Après avoir
 débuté au Casino de Montreux, le festival a migré vers le Centre des Congrès (Montreux Music & Convention Centre, ou
@@ -78,7 +78,7 @@ Au-delà de ces salles payantes, le festival s'étend le long des quais et dans 
 scènes gratuites qui proposent environ 500 concerts. C'est cette offre gratuite qui constitue l'essentiel de la
 fréquentation et qui fait de Montreux un événement populaire autant qu'un rendez-vous pour mélomanes avertis.
 
-## L'après-Nobs : Mathieu Jaton aux commandes
+###### L'après-Nobs : Mathieu Jaton aux commandes
 
 Le 10 janvier 2013, Claude Nobs décède à l'âge de 76 ans des suites d'un accident de ski de fond près de son domicile de
 Caux-sur-Montreux. Sa disparition suscite une vague d'émotion mondiale. C'est Mathieu Jaton, qui travaillait aux côtés
@@ -92,7 +92,7 @@ Centre des Congrès pour rénovation a contraint le festival à inventer deux é
 Lac et des configurations inédites. Le pari a été réussi : l'édition 2025 a rassemblé plus de 250 000 visiteurs, avec un
 taux de remplissage moyen de 92 % sur les scènes payantes.
 
-## Les archives : un patrimoine classé par l'UNESCO
+###### Les archives : un patrimoine classé par l'UNESCO
 
 L'un des héritages les plus précieux de Claude Nobs est sa volonté d'enregistrer systématiquement chaque concert, dès
 les débuts du festival, avec les technologies audiovisuelles les plus avancées de chaque époque. Pionnier, il
@@ -105,14 +105,14 @@ de Nobs, qui assure la conservation et la mise en valeur de ces archives, en par
 polytechnique fédérale de Lausanne) et avec le soutien d'Audemars Piguet. En 2017, des performances emblématiques de
 Deep Purple et de Miles Davis enregistrées à Montreux ont même été stockées sur ADN synthétique, une première mondiale.
 
-## L'affiche 2026 : les visages du poster
+###### L'affiche 2026 : les visages du poster
 
 Chaque année, l'affiche du Montreux Jazz Festival est une œuvre d'art originale confiée à un créateur différent. Pour la
 60e édition, c'est le couturier valaisan Kévin Germanier — qui a habillé Björk, Beyoncé et Lady Gaga, et signé les
 costumes des cérémonies des Jeux olympiques de Paris 2024 ainsi que de l'Eurovision 2025 à Bâle — qui est devenu le
 premier créateur de mode à réaliser l'affiche officielle du festival.
 
-## La 60e édition : 2026
+###### La 60e édition : 2026
 
 Pour son 60e anniversaire, le Montreux Jazz Festival réintègre son Centre des Congrès entièrement rénové, du 3 au 18
 juillet 2026. La programmation réunit des artistes de 22 pays, avec plus de 40 concerts en exclusivité suisse, plus de
@@ -121,7 +121,7 @@ air. Parmi les têtes d'affiche : RAYE en ouverture, Sting, Nick Cave & The Bad 
 Roots, PinkPantheress, Tyla, Lewis Capaldi, Zara Larsson, Moby, Van Morrison et James Taylor en clôture. Côté jazz,
 Charles Lloyd et Marcus Miller assurent la continuité avec l'histoire du festival.
 
-## Montreux Jazz dans le monde
+###### Montreux Jazz dans le monde
 
 Le festival a essaimé au-delà de la Suisse avec des déclinaisons internationales. Un Montreux Jazz Festival a notamment
 été inauguré à Abou Dhabi, dans le cadre du Louvre, avec une scène en bord de mer. Des expériences ont également été

@@ -14,7 +14,7 @@ Sept ans après sa création, le festival maison de Deftones a trouvé son rythm
 a dévoilé le 23 juin la programmation complète de la septième édition de **Dia De Los Deftones**, qui se tiendra le
 7 novembre au Petco Park de San Diego — et l'affiche, une nouvelle fois, ne joue pas la carte de la facilité.
 
-## Une affiche qui traverse les générations du rock alternatif
+###### Une affiche qui traverse les générations du rock alternatif
 
 Autour de Deftones en tête de bill, le festival réunit **AFI**, **The Neighbourhood** et **Converge** — soit trois
 décennies d'esthétiques différentes du rock et du metal alternatif réunies sur une même journée. Jehnny Beth,
@@ -27,13 +27,13 @@ avaient déjà accueilli Turnstile, Megan Thee Stallion, Knocked Loose, Gojira e
 de la seule volonté d'un groupe peut, avec le temps, devenir un rendez-vous où se croisent des publics qui, ailleurs,
 ne se mélangent jamais.
 
-## Petco Park, terrain conquis
+###### Petco Park, terrain conquis
 
 Comme les éditions précédentes, le festival investit le Petco Park, stade des Padres de San Diego, ville qui a vu
 grandir Deftones et qui reste, pour le groupe de Chino Moreno, un point d'ancrage symbolique fort. Les billets sont
 en vente depuis le 26 juin via Ticketmaster.
 
-## Une année 2026 chargée pour Deftones
+###### Une année 2026 chargée pour Deftones
 
 Avant de recevoir leurs invités à domicile, Deftones ne comptent pas rester inactifs. Le groupe entamera une tournée
 européenne et britannique en août, avant de faire escale au Sick New World Festival de Fort Worth, au Texas, le

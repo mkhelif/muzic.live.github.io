@@ -11,7 +11,7 @@ socials:
 banlieue de Sydney ont connu une ascension fulgurante qui en a fait l'un des groupes australiens les plus écoutés de
 leur génération.
 
-##### Des débuts entre YouTube et One Direction
+###### Des débuts entre YouTube et One Direction
 
 La genèse de 5SOS est étroitement liée à internet : le groupe commence par poster des reprises de chansons pop punk
 sur YouTube dès 2011, accumulant rapidement des dizaines de milliers d'abonnés. C'est en 2012 que le groupe d'Ashton
@@ -19,7 +19,7 @@ Irwin — alors le membre le plus âgé — rejoint la formation, stabilisant l'
 One Direction les invite à assurer leurs premières parties lors du Take Me Home Tour en 2013, les exposant à un public
 de plusieurs millions de fans à travers le monde.
 
-##### Une discographie en constante évolution
+###### Une discographie en constante évolution
 
 Leur album éponyme (2014) débute à la première place des charts dans de nombreux pays, porté par le single She Looks
 So Perfect. Sounds Good Feels Good (2015) confirme leur popularité tout en assumant pleinement les codes du pop punk
@@ -27,7 +27,7 @@ mâtiné de hard rock. Youngblood (2018) marque un virage vers une pop plus éle
 5SOS5 (2022) approfondissent cette direction, explorant la production contemporaine et les sons synthétiques. En 2025,
 Everyone's a Star! témoigne d'une maturité artistique consolidée.
 
-##### Un impact global
+###### Un impact global
 
 Avec plus de 10 millions d'albums vendus, plus de 2 millions de billets de concerts écoulés dans le monde et plus de
 7 milliards de streams, 5 Seconds of Summer s'imposent comme l'un des actes musicaux australiens les plus performants

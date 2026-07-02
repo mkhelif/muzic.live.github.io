@@ -13,7 +13,7 @@ individuelle de chaque membre qui dépasse largement les standards de leur époq
 ils sont considérés comme des pionniers du « technical thrash metal », sous-genre qui influence encore
 profondément de nombreuses formations contemporaines.
 
-##### Des roadies de Celtic Frost à la scène mondiale
+###### Des roadies de Celtic Frost à la scène mondiale
 
 L'histoire de Coroner est indissociable de celle de Celtic Frost, l'autre grande formation metal de Zurich.
 Les membres fondateurs de Coroner ont débuté comme techniciens de route pour Celtic Frost, une expérience
@@ -25,7 +25,7 @@ Le trio classique qui va construire la légende de Coroner comprend Ron Broder (
 et au chant, Tommy Vetterli (alias Tommy T. Baron) à la guitare, et Marky Edelmann (alias Marquis Marky)
 à la batterie. Cette configuration reste inchangée jusqu'à la dissolution du groupe.
 
-##### Une discographie de référence
+###### Une discographie de référence
 
 Coroner publie cinq albums studio qui constituent l'essentiel de leur œuvre et tracent une évolution
 remarquable. *R.I.P.* (1987), leur premier album, est déjà d'une complexité notable pour le thrash de
@@ -41,7 +41,7 @@ spirale dans laquelle tout converge et de laquelle on ressort changé.
 vers l'avant-garde et l'expérimental, avec des influences industrielles et des structures encore plus
 déstabilisantes. Le groupe se sépare en 1996.
 
-##### Le retour et la renaissance
+###### Le retour et la renaissance
 
 En 2010, Coroner annonce sa résurrection et retrouve progressivement la scène live. Le groupe participe à
 de nombreux festivals metal à travers l'Europe et rappelle à plusieurs générations de fans l'importance

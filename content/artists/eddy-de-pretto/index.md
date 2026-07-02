@@ -20,7 +20,7 @@ créer un style unique qui aborde des thèmes sociétaux avec une sincérité re
 Il grandit dans la banlieue de Créteil et développe très tôt une conscience sociale aiguë qui nourrira plus tard ses
 compositions engagées et percutantes.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Eddy de Pretto se fait connaître avec son album "Cure" qui marque immédiatement la scène française par son originalité
 et sa force d'évocation.
@@ -31,7 +31,7 @@ créant une musique qui fait réfléchir tout en émouvant profondément.
 Ses compositions révèlent une maturité artistique précoce et une vision sociale qui résonne avec les préoccupations de
 sa génération, établissant rapidement sa réputation d'artiste engagé et authentique.
 
-##### Style et influences
+###### Style et influences
 
 Le style d'Eddy de Pretto se caractérise par un mélange original de chanson française, de rap conscient et de pop
 alternative, créé un son moderne qui porte des textes d'une rare intelligence.
@@ -42,7 +42,7 @@ générationnels avec une profondeur et une sincérité exceptionnelles.
 Ses influences puisent dans la chanson française engagée, le rap conscient et la pop internationale, créant un style
 hybride qui renouvelle les codes de la chanson hexagonale.
 
-##### Actualité
+###### Actualité
 
 Eddy de Pretto continue de représenter cette nouvelle génération d'artistes français qui renouvelle la chanson engagée
 avec modernité et intelligence.

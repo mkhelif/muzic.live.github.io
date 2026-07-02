@@ -16,7 +16,7 @@ album studio "Bloom", sorti le 24 janvier 2025.
 ![Larkin Poe tournée](tour.jpg)
 {.mx-auto .d-block .mb-5 .mw-100}
 
-#### Un album au sommet des charts
+###### Un album au sommet des charts
 
 "Bloom" s'est immédiatement imposé comme un nouveau jalon dans la carrière de Larkin Poe. L'album a rapidement grimpé
 dans le Top 10 des charts Americana, passant quatre semaines dans le Top 5. Le single "Easy Love Pt. 1" a également
@@ -29,7 +29,7 @@ Contemporary Blues Album". Produit et co-écrit principalement par Megan, Rebecc
 Poe s'aventurer plus loin dans leur voyage musical évolutif avec une collection de chansons qui résonnent d'
 introspection, d'authenticité et d'une connexion profonde à leurs racines dans la musique américaine.
 
-#### Une tournée européenne ambitieuse
+###### Une tournée européenne ambitieuse
 
 Saluées comme l'un des groupes les plus travailleurs de la scène actuelle, Larkin Poe parcourra l'Europe et le
 Royaume-Uni jusqu'à fin novembre avec des concerts dans de prestigieuses salles. La tournée traverse 12 pays avec des
@@ -39,7 +39,7 @@ Portugal, en Espagne et en Belgique.
 Son Little, artiste multi-instrumentiste reconnu, accompagnera le duo en tant qu'invité spécial sur toutes les dates de
 la tournée, promettant des soirées riches en émotions et en découvertes musicales.
 
-#### "Bloom" : une célébration triomphante de l'authenticité
+###### "Bloom" : une célébration triomphante de l'authenticité
 
 Rebecca Lovell explique la philosophie de l'album : "'Bloom' parle de se trouver soi-même au milieu du bruit du monde,
 d'embrasser de tout cœur les défauts et les idiosyncrasies qui nous rendent réels. D'une manière ou d'une autre,
@@ -55,7 +55,7 @@ partenariat musical. Déjà saluées pour la sincérité de leur composition, le
 en lumière leur don pour la narration, plongeant profondément dans des récits personnels avec des thèmes universels
 d'acceptation de soi et d'individualité, sur fond d'influences blues et rock contemporaines.
 
-#### Une édition deluxe pour prolonger l'expérience
+###### Une édition deluxe pour prolonger l'expérience
 
 Pour célébrer le succès de "Bloom", Larkin Poe a sorti le 10 octobre une édition deluxe de l'album comprenant "An
 Acoustic Companion Volume II", qui propose cinq versions acoustiques dépouillées de chansons du LP acclamé par la
@@ -70,7 +70,7 @@ Le morceau focus de cette édition deluxe est "You Are The River", favori du gro
 Quand nous avons décidé de réinterpréter 'You Are The River' pour l'Acoustic Companion Vol II, nous voulions faire de
 notre mieux pour laisser transparaître la tendresse et la vulnérabilité de la chanson."
 
-#### Une reconnaissance critique unanime
+###### Une reconnaissance critique unanime
 
 "Bloom" a reçu les éloges critiques de médias prestigieux comme Rolling Stone, SPIN, Billboard, Forbes, Uncut, Guitar
 World, Nashville Scene, No Depression, NPR, CLASH, Premier Guitar, Relix et Classic Rock. Le duo a marqué la sortie de
@@ -80,7 +80,7 @@ En mars 2025, Larkin Poe a été nommée ambassadrice américaine de la campagne
 duo apparaître sur un panneau d'affichage à Times Square à New York. Cette reconnaissance témoigne de l'impact croissant
 du duo sur la scène musicale internationale.
 
-#### Des musiciennes acclamées
+###### Des musiciennes acclamées
 
 Originaires de Géorgie et aujourd'hui basées à Nashville, Rebecca et Megan Lovell sont des multi-instrumentistes
 accomplis. Rebecca est particulièrement reconnue pour sa maîtrise de la guitare slide, tandis que Megan brille au lap
@@ -91,7 +91,7 @@ Le groupe a été nommé dans la catégorie "Duo/Group of the Year" aux 24èmes 
 Nashville. L'année dernière, le duo avait remporté les prestigieux honneurs "Duo/Group of the Year", ainsi que leur
 premier Grammy Award pour "Best Contemporary Blues Album" pour "Blood Harmony".
 
-#### Un avenir radieux
+###### Un avenir radieux
 
 Au-delà de cette tournée européenne, Larkin Poe a un calendrier chargé pour les mois à venir. Le duo est prévu pour des
 apparitions en tête d'affiche lors de plusieurs événements et festivals, notamment le Guitar Camp USA de Tommy Emmanuel

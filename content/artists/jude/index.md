@@ -13,7 +13,7 @@ obsessionnel. Jude, elle, vient d'un endroit plus physique et plus rare : la bat
 la techno, cette Lyonnaise porte dans ses sets une relation au rythme qui n'est pas celle d'une musicienne électronique
 ordinaire. Quand on a passé des années à frapper des peaux avec les mains, on ne construit pas un mix de la même façon.
 
-## Raw, Hardgroove, Hard Techno : une esthétique de la rudesse
+###### Raw, Hardgroove, Hard Techno : une esthétique de la rudesse
 
 Le territoire de Jude est balisé avec clarté. Raw techno, hardgroove, hard techno — trois étiquettes qui pointent dans
 la même direction : une techno dure, percussive, sans concession au confort de l'auditeur. Le hardgroove est un
@@ -27,21 +27,21 @@ rhythm and authenticity to every set, letting my personality drive the sound"*, 
 un monde où beaucoup de DJ construisent leur identité sur l'image, c'est une déclaration sobre et directe, cohérente
 avec le son qu'elle défend.
 
-## Lyon comme terrain
+###### Lyon comme terrain
 
 Lyon n'est pas Berlin. Mais la capitale des Gaules entretient depuis des années une scène électronique sérieuse, entre
 clubs installés et collectifs émergents qui travaillent à faire exister une culture underground durable loin des
 circuits parisiens. Jude en est l'une des représentantes émergentes — une artiste qui construit sa trajectoire dans une
 ville qui sait apprécier la techno bien faite.
 
-## Les premières productions
+###### Les premières productions
 
 Deux sorties publiées sur SoundCloud dessinent les contours d'un début de discographie : *La cueva de Lola.wav* (
 décembre 2024) et *Groove Machine #01 — Hardgroove / Raw Techno Mix* (décembre 2025), un mix d'une heure trente qui
 constitue la carte de visite la plus complète de son univers sonore à ce jour. Un format long, pensé pour l'immersion —
 celui d'une DJ qui a des choses à dire et prend le temps de les dire.
 
-## Une trajectoire à suivre
+###### Une trajectoire à suivre
 
 Jude est en début de parcours. Peu de dates publiques, peu d'interviews, peu de traces numériques — le profil d'une
 artiste qui construit d'abord son son, avant de construire sa communication. Dans la scène techno, c'est souvent le

@@ -11,7 +11,7 @@ musiciens se retrouvent autour d'une vision partagée : un son froid, lourd et s
 à l'intersection du black metal et du sludge, deux genres qui partagent une même fascination pour la
 noirceur et la lenteur oppressante.
 
-##### Un univers sombre et assumé
+###### Un univers sombre et assumé
 
 Deliverance publie son premier EP *Doomsday, Please* en 2013, suivi de trois albums qui précisent et
 approfondissent leur esthétique : *CHRST* (2017), *Holocaust 26:1-46* (2020) et *Neon Chaos in a
@@ -20,7 +20,7 @@ maintenant une cohérence thématique — effondrement, nihilisme, apocalypse �
 simple exercice de style. La production est volontairement abrasive, les guitares traînent comme du
 plomb, et la voix de Pierre Duneau oscille entre growl et cri sans jamais chercher la facilité.
 
-##### Hellfest et légitimité nationale
+###### Hellfest et légitimité nationale
 
 L'année 2022 constitue un tournant symbolique : Deliverance est affiché au Hellfest, la plus grande
 scène metal d'Europe, confirmant leur statut dans l'underground français. Groupe exigeant, peu

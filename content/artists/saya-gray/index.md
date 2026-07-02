@@ -20,14 +20,14 @@ Ses débuts musicaux se font dans un groupe de maison d'une église pentecôtist
 ans, elle est recrutée pour des concerts dans des clubs, des festivals de jazz et des scènes ouvertes aux côtés de
 musiciens adultes.
 
-#### Parcours professionnel
+###### Parcours professionnel
 
 Avant de se lancer en solo, Saya Gray s'est fait connaître comme :
 
 - **Bassiste en tournée** pour Daniel Caesar (lauréat d'un Grammy Award)
 - **Directrice musicale** pour Willow Smith
 
-#### Style musical
+###### Style musical
 
 Saya Gray est reconnue pour son approche non-conformiste et son son unique qui mélange les genres avec une originalité
 audacieuse. Sa musique est décrite comme illimitée, envoûtante, intime et exaltante.
@@ -37,7 +37,7 @@ audacieuse. Sa musique est décrite comme illimitée, envoûtante, intime et exa
 **Instrument de prédilection** : La basse BN5, qu'elle décrit comme la basse la plus polyvalente qu'elle ait jamais
 jouée
 
-#### Identité artistique
+###### Identité artistique
 
 Saya Gray décrit son projet 19 Masters comme "une bataille pour la préservation de soi et une ode à l'expérience
 humaine", explorant les doubles sens et l'influence subconsciente du langage, notamment sur la toxicité de l'industrie

@@ -13,7 +13,7 @@ Le groupe joue un post-punk ravageur aux sonorités parfois extravagantes et ins
 électroniques dans des compositions énergiques. Plus récemment, en s'essayant à l'hybridation du punk et de l'électro,
 les cinq musiciens inaugurent avec assurance leur premier album, annoncé pour octobre 2026.
 
-##### Une reconnaissance rapide
+###### Une reconnaissance rapide
 
 Leur premier EP, "All Good Things Ends", paraît en février et leur vaut d'intégrer la sélection NME 100 de 2025. Chest a
 déjà assuré la première partie de formations étrangères prestigieuses comme DITZ, Knives ou Heavy Lungs, et s'est

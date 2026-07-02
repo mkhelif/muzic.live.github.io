@@ -25,7 +25,7 @@ octobre), même si Orelsan précise bien que ce n'est pas une bande originale.
 Le titre ? Une fuite en avant. Celle d'un homme qui court, qui avance, qui ne peut s'arrêter sous peine de s'effondrer.
 Et c'est exactement ce que documente cet album : la course perpétuelle d'une star aux prises avec ses propres démons.
 
-#### Le pacte faustien de la célébrité
+###### Le pacte faustien de la célébrité
 
 Dix-sept vrais morceaux, sans interludes ni respiration. Orelsan n'a pas fait les choses à moitié. "Le Pacte" ouvre
 l'album comme une déclaration d'intentions sans concession sur les désillusions de la notoriété. Le rappeur caennais y
@@ -37,7 +37,7 @@ accompagnent son statut d'artiste, ses interrogations familiales, ses angoisses 
 acides et un flow énervé qui évoquent l'ambiance de Suicide Social, sommet de misanthropie sur son troisième album Le
 Chant des Sirènes (2011).
 
-#### La petite voix et SAMA : dialogues avec les ténèbres
+###### La petite voix et SAMA : dialogues avec les ténèbres
 
 Orelsan a toujours brouillé les pistes. Se remettre en question, se flageller, interroger ses choix a toujours fait
 partie de ses talents. Sur La Fuite en Avant, il pousse ces interrogations à l'extrême en s'inventant une "Petite Voix".
@@ -48,7 +48,7 @@ Ces dédoublements ne sont pas que des artifices narratifs. Ils incarnent la sch
 entre le personnage médiatique et l'homme privé. Orelsan utilise le cadre d'un mec célèbre et en fait de la fiction - ou
 peut-être transforme-t-il sa vie en fiction pour mieux la supporter.
 
-#### Les fantômes de la paternité
+###### Les fantômes de la paternité
 
 Au-delà des considérations artistiques, Orelsan aborde des sujets plus personnels. La paternité - qu'il a révélée
 publiquement il y a quelques semaines, précisant être père depuis deux ans - traverse l'album comme une angoisse sourde.
@@ -58,7 +58,7 @@ Dans "Dans quelques mois", il exprime avec franchise troublante ses appréhensio
 sein de leur foyer. Cette authenticité décomplexée caractérise toute son œuvre - le rappeur n'a jamais eu peur de
 montrer ses failles, ses doutes, ses contradictions.
 
-#### Les collaborations qui élargissent l'horizon
+###### Les collaborations qui élargissent l'horizon
 
 Orelsan a promis "des invités cools", et il tient parole. La tracklist révèle une ambition multiculturelle rare dans le
 rap français. Lilas Ikuta du duo japonais Yoasobi (alias Ikura) sur "Plus rien" apporte une touche pop internationale.
@@ -70,7 +70,7 @@ d'un "feat de ses rêves", l'aboutissement d'une fascination de longue date. Que
 français dans cette peinture sonore finale ? Cette collaboration symbolise l'ambition d'Orelsan : briser les frontières
 entre rap, pop, électro, même K-pop, pour toucher un public élargi sans renier son identité.
 
-#### La production au service de l'introspection
+###### La production au service de l'introspection
 
 Orchestré une nouvelle fois par son fidèle collaborateur Skread, avec l'aide de Phazz et Eddie Purple, La Fuite en Avant
 bénéficie d'une production soignée, moderne, qui laisse respirer les textes. Les beats alternent entre moments planants
@@ -81,7 +81,7 @@ Un interlude dépeint avec ironie l'absurdité des dérives numériques - théma
 réflexion d'Orelsan sur la célébrité à l'ère des réseaux sociaux. Le rappeur évoque ce sentiment qu'il n'y a plus de
 demi-mesure : tu es un génie ou tu es nul. Cette polarisation toxique du jugement public traverse tout l'album.
 
-#### Le lien avec Yoroï : expérience immersive
+###### Le lien avec Yoroï : expérience immersive
 
 Même si ce n'est pas une bande originale, La Fuite en Avant partage avec Yoroï un liant thématique et esthétique. Quatre
 morceaux de l'album apparaissent dans le film, mais peuvent exister indépendamment. Ceux qui ont vu le film auront
@@ -93,7 +93,7 @@ femme enceinte. Sur place, il trouve une armure fantastique qui réveille des d�
 d'amour aux univers ayant accompagné Orelsan toute sa vie (manga, jeux vidéo, culture japonaise), Yoroï est aussi une
 méditation sur la paternité - thème central de La Fuite en Avant.
 
-#### Un album-miroir impitoyable
+###### Un album-miroir impitoyable
 
 La célébrité, les addictions a priori passées, les tentations, les amis qu'on perd de vue - il y a tout ça dans le
 nouvel album d'Orelsan. C'est un album-miroir qui renvoie à l'artiste son propre reflet, sans complaisance ni
@@ -104,7 +104,7 @@ Le titre La Fuite en Avant évoque un mouvement perpétuel, une course où l'arr
 précisément ce que vit Orelsan depuis des années : enchaîner les projets, les tournées, les albums, pour ne pas
 s'effondrer sous le poids de ses propres questionnements.
 
-#### Verdict : La maturité sans concession
+###### Verdict : La maturité sans concession
 
 La Fuite en Avant confirme qu'Orelsan reste toujours son meilleur rôle quand il rappe - parfois dans l'excès, mais
 toujours honnête dans son immense succès comme dans ses failles. C'est un album de maturité qui refuse les facilités,

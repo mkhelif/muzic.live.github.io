@@ -10,7 +10,7 @@ Sean Booth et Rob Brown. Fondateurs incontestés de ce qu'on appellera l'IDM (In
 représentent depuis plus de trente-cinq ans l'un des projets les plus exigeants, prolifiques et radicalement
 intègres de la musique électronique mondiale.
 
-##### Des origines dans le hip-hop et le graffiti
+###### Des origines dans le hip-hop et le graffiti
 
 Booth et Brown se rencontrent à Rochdale à la fin des années 1980 autour d'une passion commune pour le hip-hop
 naissant, l'electro, la culture b-boy et le graffiti. Ce bagage underground imprègne durablement leur approche
@@ -19,7 +19,7 @@ musicale, y compris lorsqu'ils s'éloignent de toute référence dansante. En 19
 fondatrice *Artificial Intelligence* (1992). C'est le début d'une longue et exclusive relation avec ce label
 de Sheffield.
 
-##### Une discographie d'une cohérence radicale
+###### Une discographie d'une cohérence radicale
 
 Dès *Incunabula* (1993) et *Amber* (1994), Autechre impose un son immédiatement reconnaissable : des rythmes
 syncopés d'une précision chirurgicale, des textures électroniques en perpétuelle mutation, une abstraction
@@ -29,7 +29,7 @@ de sembler exister simultanément dans plusieurs mesures. Le duo publie réguli�
 albums, EPs, sessions live entières — tout au long des décennies suivantes, chaque opus étant une nouvelle
 expérience des limites du son organisé.
 
-##### Une influence considérable et discrète
+###### Une influence considérable et discrète
 
 Autechre n'a jamais cherché la visibilité grand public, préférant entretenir un dialogue permanent avec des
 auditeurs curieux et patients. Pourtant, leur influence sur la musique électronique expérimentale, le club

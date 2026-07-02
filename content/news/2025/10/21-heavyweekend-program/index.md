@@ -14,7 +14,7 @@ samedi 6 juin 2026 au Nancy Open-Air, pour ce qui constituera l'unique concert d
 annonce a immédiatement enflammé la communauté metal française, qui attendait avec impatience de pouvoir voir ses héros
 nationaux sur le sol hexagonal.
 
-#### Un show unique et symbolique
+###### Un show unique et symbolique
 
 Comme l'a souligné l'organisation du festival, cette date revêt une importance particulière : "En 2026, Gojira
 accompagnera Metallica en première partie sur plusieurs grandes dates européennes, mais réservera une halte unique et
@@ -25,7 +25,7 @@ assurera les premières parties dans les stades du continent de mai à juillet 2
 stratégique de s'arrêter à Nancy pour offrir à ses fans français une performance complète en tête d'affiche, plutôt
 qu'un simple set de première partie.
 
-#### Un moment d'exception attendu
+###### Un moment d'exception attendu
 
 Le festival promet "un moment d'exception attendu par des milliers de fans, prêt à unir toutes les franges du metal
 hexagonal autour d'un show monumental". Cette formulation n'est pas anodine : Gojira transcende désormais les clivages
@@ -37,7 +37,7 @@ conscience écologique forte et une intégrité artistique rare. Leur performanc
 d'ouverture des Jeux Olympiques de Paris 2024, marquée par une version incendiaire de "Ça ira", a propulsé le groupe
 dans une autre dimension, jusqu'à remporter leur premier Grammy Award pour "Best Metal Performance" en 2025.
 
-#### Une affiche explosive sur trois jours
+###### Une affiche explosive sur trois jours
 
 Le Heavy Weekend 2026 se déroulera du 5 au 7 juin au Nancy Open-Air (Zénith du Grand Nancy), avec trois têtes d'affiche
 exceptionnelles représentant trois univers distincts du metal :
@@ -57,7 +57,7 @@ modernes, ils dynamitent les codes du metal avec leur mélange explosif de riffs
 énergie ultra communicative. Leurs prestations au Hellfest 2023 et 2025 ont marqué les esprits par une atmosphère de
 fête, d'amour et de tolérance.
 
-#### Une troisième édition qui confirme l'importance du festival
+###### Une troisième édition qui confirme l'importance du festival
 
 Après deux éditions extrêmement réussies en 2024 (Scorpions, Deep Purple, Megadeth, Judas Priest, Alice Cooper) et
 2025 (Slipknot, Powerwolf, Dream Theater, Mass Hysteria, Rise of the Northstar), le Heavy Weekend s'impose désormais
@@ -67,7 +67,7 @@ Le festival mise sur une formule unique : trois jours, trois univers metal bien 
 Grand Nancy), et des têtes d'affiche internationales de premier plan. Cette approche permet une expérience concentrée et
 intense, où chaque soirée possède sa propre identité tout en s'inscrivant dans une cohérence globale.
 
-#### Informations pratiques
+###### Informations pratiques
 
 Les pass 3 jours sont d'ores et déjà disponibles sur www.heavyweekend.live et www.nancyopenair.com. Les billets à la
 journée seront mis en vente ultérieurement, permettant aux fans de choisir leur(s) soirée(s) en fonction de leurs

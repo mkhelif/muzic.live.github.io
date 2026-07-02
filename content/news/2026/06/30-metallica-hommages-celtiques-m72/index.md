@@ -13,7 +13,7 @@ de lui offrir un moment qui lui appartient. En tournant dans les îles britanniq
 James Hetfield a offert deux de ces instants — l'un à Dublin, l'autre à Glasgow — qui resteront dans les mémoires
 bien au-delà des refrains habituels.
 
-## Dublin : « Dirty Old Town » dans l'Aviva Stadium
+###### Dublin : « Dirty Old Town » dans l'Aviva Stadium
 
 Le 21 juin, lors de la deuxième de leurs deux nuits à l'Aviva Stadium de Dublin, Kirk Hammett et Robert Trujillo ont
 glissé dans leur section habituelle — le « Kirk and Rob Doodle », intermède en duo guitare-basse devenu un rituel de
@@ -31,7 +31,7 @@ l'équilibre près du bord de scène pendant *Seek & Destroy*, chuté, et repris
 Il avait ensuite raconté l'incident sur Instagram avec un lapidaire « Slip & Destroy ». Le ton du groupe face à
 l'imprévu — pragmatisme, autodérision — dit beaucoup sur trente ans de scène.
 
-## Glasgow : Nazareth et les Proclaimers à Hampden Park
+###### Glasgow : Nazareth et les Proclaimers à Hampden Park
 
 Le 25 juin, à Hampden Park, le duo Hammett-Trujillo a doublé la mise. Devant 52 000 spectateurs écossais, ils ont
 d'abord interprété *Hair of the Dog* de Nazareth — groupe de Dunfermline, donc presque voisin — avant de lancer
@@ -43,7 +43,7 @@ Ce n'est pas la première fois que Metallica capte l'humeur d'une foule à ce po
 des deux dates — Dublin puis Glasgow, deux capitales à l'identité musicale forte et revendiquée — a donné à cet
 épisode du M72 une cohérence géographique et émotionnelle peu commune.
 
-## Cardiff et le geste discret
+###### Cardiff et le geste discret
 
 Le 28 juin à Cardiff, Metallica a ajouté une note moins spectaculaire mais peut-être plus significative. Après leur
 concert sold out au Principality Stadium, le groupe a fait don de 20 000 livres sterling à la banque alimentaire de
@@ -51,13 +51,13 @@ la ville, dont les étagères avaient été signalées comme « presque vides »
 Aucune conférence de presse, aucun communiqué officiel : l'information a filtré via le compte des bénévoles de
 l'organisation, qui ont remercié le groupe sobrement.
 
-## *Reload (Remastered)* : la mémoire remise en circulation
+###### *Reload (Remastered)* : la mémoire remise en circulation
 
 En marge de cette dernière ligne droite européenne, Metallica a publié le 26 juin *Reload (Remastered)*, réédition
 augmentée de leur album de 1997. L'édition contient des démos inédites, des maquettes de travail et des enregistrements
 live d'époque — une façon d'ouvrir les archives à un moment où le groupe s'apprête à solder une tournée de trois ans.
 
-## La fin d'un cycle
+###### La fin d'un cycle
 
 Il reste à Metallica deux concerts londoniens, les 3 et 5 juillet au London Stadium, pour clore le M72 World Tour
 en Europe. Lancée en avril 2023 avec *72 Seasons* pour toile de fond, cette tournée aura traversé 70 concerts, 4,23

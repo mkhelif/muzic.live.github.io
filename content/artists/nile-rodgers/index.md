@@ -23,7 +23,7 @@ la musique.
 Ses débuts voient un musicien affûter un style de guitare rythmique funk distinctif, caractérisé par des accords secs et
 percussifs qui deviendront la signature sonore d'innombrables hits.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Avec Chic, Nile Rodgers crée des anthèmes disco immortels comme "Le Freak" et "Good Times", qui non seulement dominent
 les charts mais posent les fondations musicales du hip-hop naissant (le bassline de "Good Times" devient la base de "
@@ -39,7 +39,7 @@ l'un des musiciens les plus présents dans l'histoire des charts.
 Nile Rodgers accumule les Grammy Awards, est intronisé au Rock and Roll Hall of Fame avec Chic en 2017, et continue
 d'être sollicité par les plus grands artistes contemporains.
 
-##### Style et influences
+###### Style et influences
 
 Le style guitare de Nile Rodgers, qu'il nomme lui-même le "chucking" style, se caractérise par des accords funk serrés
 et rythmiques joués sur une Fender Stratocaster, créant une texture sonore immédiatement reconnaissable.
@@ -53,7 +53,7 @@ créant des productions qui sont à la fois populaires et artistiquement accompl
 Les arrangements de Nile Rodgers mêlent sophistication orchestrale, grooves imparables et sensibilité pop, définissant
 le son de plusieurs décennies de musique.
 
-##### Actualité
+###### Actualité
 
 Nile Rodgers continue de tourner avec Chic, livrant des performances énergiques qui célèbrent son incroyable catalogue
 de hits.

@@ -22,7 +22,7 @@ Dès leurs premiers pas, les musiciens développent un style énergique qui mél
 new wave, créant une identité sonore qui se distingue rapidement dans le paysage musical français et révèle un potentiel
 commercial évident.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Superbus connaît le succès commercial et critique avec des albums qui marquent durablement la scène rock française des
 années 2000 et 2010.
@@ -33,7 +33,7 @@ qui ont touché toute une génération d'auditeurs français et défini le son d
 Leurs albums révèlent une évolution constante, explorant différentes facettes du rock moderne tout en conservant leur
 identité musicale reconnaissable et leur capacité à créer des mélodies immédiatement mémorables qui traversent le temps.
 
-##### Style et influences
+###### Style et influences
 
 Le style caractéristique de Superbus repose sur des riffs de guitare percutants, des mélodies accrocheuses et la voix
 distinctive de Jennifer Ayache, capable de passer de la douceur à la puissance en quelques notes.
@@ -44,7 +44,7 @@ son moderne qui reste accessible au grand public.
 Jennifer Ayache se distingue également par ses qualités d'auteure, abordant des thèmes universels comme l'amour, la
 liberté, la rébellion et les questionnements de la jeunesse avec une sincérité touchante qui résonne avec leur public.
 
-##### Actualité
+###### Actualité
 
 Superbus continue de tourner et d'enregistrer, prouvant sa longévité dans un paysage musical en constante évolution.
 

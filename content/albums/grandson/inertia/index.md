@@ -26,7 +26,7 @@ cette vulnérabilité individuelle pour s'en prendre, plus fort que jamais, aux 
 sources. Ceux qui ont été séduits par le snarl électrique de *Blood // Water* ou la furie politique de *Death of an
 Optimist* retrouveront ici l'artiste qu'ils avaient suivi à la base.
 
-## La décision qui change tout : les instruments live
+###### La décision qui change tout : les instruments live
 
 La grande rupture formelle d'*INERTIA*, c'est celle-ci : c'est le premier album de grandson enregistré exclusivement
 avec des instruments live — batterie, guitares, voix. Produit par Mike Crossey, qui a travaillé notamment avec The
@@ -38,7 +38,7 @@ lignée de rebelles musicaux armés d'une guitare et d'un ampli. Exit les couche
 qui avaient parfois dilué l'urgence de ses premières sorties. *INERTIA* est un disque qui transpire, qui serre les
 poings, qui prend l'auditeur à la gorge.
 
-## Un cri de ralliement politique
+###### Un cri de ralliement politique
 
 Le disque de dix titres est une réponse directe à la déliquescence politique, au marasme économique et au désarroi
 social de l'Amérique contemporaine. Grandson ne s'est jamais caché de ses convictions, mais *INERTIA* radicalise le
@@ -63,7 +63,7 @@ La seule collaboration de l'album arrive avec les punks anglais Bob Vylan sur *W
 de canaliser la colère en la rendant transatlantique — les deux formations partagent un message de solidarité populaire
 face à l'establishment.
 
-## Les limites de l'entreprise
+###### Les limites de l'entreprise
 
 La franchise s'impose : *INERTIA* n'est pas sans failles. Une partie des paroles ressemble à un enchaînement de
 mots-clés du moment — ChatGPT, néolibéralisme, conformité — qui donnent parfois l'impression d'un op-ed du New York
@@ -73,7 +73,7 @@ la complexité et de la subtilité qui caractérisent les grands disques de rock
 L'album conserve néanmoins une énergie rock politique qui promet un spectacle live explosif. Ces chansons ont été faites
 pour être criées dans une fosse.
 
-## Verdict
+###### Verdict
 
 *INERTIA* est un disque imparfait mais nécessaire. Grandson n'a pas seulement changé de register sonore — il a retrouvé
 une conviction et une urgence qu'on sentait s'essouffler sur certaines productions récentes. En abandonnant les filets

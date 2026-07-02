@@ -17,14 +17,14 @@ commence à enregistrer des notes vocales sur son téléphone, un exutoire brut 
 lui suggèrent de partager sur SoundCloud. Ce geste fondateur marque le début d'une aventure musicale qui s'accélère
 rapidement.
 
-##### Un rap mélodique et introspectif
+###### Un rap mélodique et introspectif
 
 a6el développe un rap mélodique aux sonorités contemporaines, dans lequel les textes puisent volontiers dans les
 souvenirs d'enfance, les contradictions identitaires et les émotions du quotidien. Sa signature artistique réside dans
 ce contraste entre des thèmes sombres ou fragiles et des productions aux couleurs sonores plus lumineuses, créant une
 tension émotionnelle qui touche juste.
 
-##### Reconnaissance et consécration
+###### Reconnaissance et consécration
 
 Sa montée en puissance est rapide et méritée : il est sacré Révélation romande de l'année aux Tataki Awards 2025,
 récompense phare de la scène musicale suisse romande. Il se produit notamment au Montreux Jazz Festival et intègre la

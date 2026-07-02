@@ -22,7 +22,7 @@ Leurs débuts révèlent une formation multiculturelle qui refuse les catégoris
 son métissé qui reflète la diversité de la société française contemporaine et l'esprit d'ouverture de la scène
 lyonnaise.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Da Cruz se fait connaître grâce à des albums qui marquent durablement la scène reggae-hip-hop française, développant un
 répertoire qui témoigne de leur capacité à créer des ponts entre différentes cultures musicales.
@@ -33,7 +33,7 @@ rassembleuse, créant une musique engagée mais accessible.
 Leurs compositions révèlent une maîtrise parfaite des codes du reggae et du hip-hop, qu'ils fusionnent avec une
 créativité remarquable pour créer un son unique sur la scène française.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Da Cruz se caractérise par un mélange harmonieux de reggae, hip-hop et influences world music qui crée un
 univers sonore chaleureux et festif.
@@ -44,7 +44,7 @@ conscients qui abordent l'unité, la tolérance et la justice sociale.
 Leurs influences puisent dans le reggae jamaïcain, le hip-hop français, les musiques africaines et méditerranéennes,
 créant un son métissé qui célèbre la diversité culturelle.
 
-##### Actualité
+###### Actualité
 
 Da Cruz continue de représenter cette facette multiculturelle et positive du reggae français, maintenant leur message
 d'unité et de tolérance à travers une musique festive et engagée.

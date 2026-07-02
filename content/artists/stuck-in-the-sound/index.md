@@ -22,7 +22,7 @@ sonner aussi puissant et international que ses homologues anglo-saxons.
 Dès leurs premiers EP, Stuck in the Sound affiche une ambition claire : des refrains massifs, des guitares qui mordent,
 une énergie live dévastatrice. Pas de chichis, juste du rock qui déchire.
 
-##### Carrière musicale
+###### Carrière musicale
 
 "Nevermind the Living Dead" (2006) pose les bases, mais c'est "Shoegazing Kids" (2008) qui fait exploser le compteur. "
 Toy Boy" devient un tube alternatif, le clip totalise des millions de vues, et le groupe envahit les festivals
@@ -37,7 +37,7 @@ moderne : production internationale, compositions affûtées, refrains imparable
 Le groupe tourne sans relâche, accumule les premières parties prestigieuses (Muse, Placebo) et conquiert l'Europe
 festival après festival, prouvant que le rock français peut rivaliser à armes égales.
 
-##### Style et influences
+###### Style et influences
 
 Stuck in the Sound pratique un rock alternatif nerveux et mélodique qui emprunte à la fois au post-grunge américain, à
 l'indie britannique et au dynamisme du rock français moderne.
@@ -51,7 +51,7 @@ en célébrant les fondamentaux du rock : puissance, mélodie, énergie brute.
 Leurs compositions privilégient l'impact immédiat sans sacrifier la profondeur, chaque morceau étant pensé comme une
 petite bombe destinée à exploser sur scène et dans les oreilles.
 
-##### Actualité
+###### Actualité
 
 Stuck in the Sound continue d'incarner le meilleur du rock alternatif français, sortant régulièrement des albums qui
 maintiennent leur niveau d'exigence élevé.

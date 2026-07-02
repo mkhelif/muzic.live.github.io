@@ -17,14 +17,14 @@ devenant le plus jeune lauréat et le premier Canadien à décrocher ce titre. C
 exceptionnel pour le scratch et le mixing, disciplines dans lesquelles il excelle avec une précision et une créativité
 hors du commun.
 
-##### Le collaborateur de Kanye West
+###### Le collaborateur de Kanye West
 
 En 2004, une rencontre à Londres avec Kanye West change le cours de sa carrière : A-Trak devient son DJ attitré en
 tournée jusqu'en 2008, et collabore aux albums iconiques *Late Registration* et *Graduation*. C'est lui qui introduit
 West à Daft Punk et à leur titre « Harder, Better, Faster, Stronger », sample fondateur du hit « Stronger ». Cette
 proximité avec l'élite du hip-hop mondial lui ouvre des portes considérables.
 
-##### Fool's Gold et l'influence durable
+###### Fool's Gold et l'influence durable
 
 En 2007, A-Trak cofonde Fool's Gold Records, label indépendant qui devient rapidement l'un des plus influents de sa
 décennie, contribuant à lancer les carrières de Kid Cudi, Danny Brown et Flosstradamus. Il forme également le duo Duck

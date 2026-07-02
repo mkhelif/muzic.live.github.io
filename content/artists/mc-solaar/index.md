@@ -20,7 +20,7 @@ une dimension poétique et intellectuelle inédite dans le genre.
 Pionnier du rap français, il développe une approche littéraire du hip-hop qui élève considérablement le niveau
 d'exigence artistique et culturel du rap hexagonal, ouvrant la voie à une nouvelle génération de rappeurs conscients.
 
-##### Carrière musicale
+###### Carrière musicale
 
 MC Solaar marque l'histoire du rap français avec des albums devenus des classiques incontournables comme "Qui sème le
 vent récolte le tempo" et "Prose Combat".
@@ -31,7 +31,7 @@ peut être à la fois populaire et exigeant.
 Sa carrière témoigne d'une constante recherche d'excellence et d'innovation, influençant durablement toute la scène rap
 francophone et inspirant des générations entières de rappeurs.
 
-##### Style et influences
+###### Style et influences
 
 Le style de MC Solaar se caractérise par des textes d'une richesse exceptionnelle, truffés de références culturelles, de
 jeux de mots sophistiqués et de métaphores complexes qui demandent souvent plusieurs écoutes pour en saisir toute la
@@ -42,7 +42,7 @@ créant un univers textuel unique qui transcende les codes traditionnels du rap.
 
 Sa maîtrise parfaite de la langue française fait de lui un véritable poète du hip-hop.
 
-##### Actualité
+###### Actualité
 
 MC Solaar continue de créer et de se produire sur scène, maintenant vivant l'héritage d'un rap français intelligent et
 créatif.

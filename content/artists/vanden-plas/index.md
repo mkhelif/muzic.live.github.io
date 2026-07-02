@@ -26,7 +26,7 @@ Leur fidélité au label Frontiers Records et leur base de fans dévouée à tra
 qualité constante de leur production. Vanden Plas incarne une certaine idée du metal prog qui refuse les compromis
 commerciaux tout en créant des œuvres accessibles et profondément touchantes.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Les débuts de Vanden Plas remontent à la seconde moitié des années 1980, période durant laquelle le groupe affine son
 style en se produisant dans les clubs allemands. Leur premier album "Colour Temple" (1994) attire immédiatement
@@ -50,7 +50,7 @@ d'une ampleur narrative et musicale exceptionnelle, rivalisant avec les meilleur
 suivantes, "The Seraphic Clockwork" (2010), "Chronicles of the Immortals: Netherworld" (2014) et "The Ghost Xperiment" (
 2020), maintiennent ce niveau d'exigence artistique, chaque album apportant de nouvelles couleurs à leur palette sonore.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Vanden Plas puise dans les racines du metal progressif établi par des groupes comme Dream Theater,
 Queensrÿche et Fates Warning, tout en y ajoutant une sensibilité européenne qui rappelle les grands noms du prog rock
@@ -76,7 +76,7 @@ précis et inventif, participe pleinement à la narration musicale plutôt que d
 L'influence de Vanden Plas sur la scène metal progressif européenne s'avère notable, le groupe ayant démontré qu'il
 était possible de créer un metal progressif émotionnellement engageant sans sacrifier la complexité technique.
 
-##### Actualité
+###### Actualité
 
 Vanden Plas continue aujourd'hui de composer, enregistrer et se produire régulièrement, maintenant vivante la flamme du
 metal progressif de haute qualité. Leurs concerts, souvent dans des festivals spécialisés et des salles intimistes,

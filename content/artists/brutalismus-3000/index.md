@@ -16,7 +16,7 @@ alentours de 2012, tandis que Victoria chantait dans des chorales scolaires et j
 rencontrent en 2018 — par Tinder, à 2 heures du matin dans un bar du quartier de Neukölln — et commencent
 à collaborer dès 2019.
 
-##### Un son qui prend aux tripes
+###### Un son qui prend aux tripes
 
 La musique de Brutalismus 3000 ne se laisse pas apprivoiser facilement. Rythmes coupants, basses agressives,
 textes provocateurs en anglais, en allemand et en slovaque (Victoria maîtrise les trois langues), le tout
@@ -30,7 +30,7 @@ avant que leur album Ultrakunst (2023) ne les propulse dans une autre dimension.
 revitaliser les conventions de la musique électronique tout en assumant leur héritage de dancefloor le plus
 primitif.
 
-##### Une reconnaissance internationale
+###### Une reconnaissance internationale
 
 Un article du magazine Rolling Stone en juillet 2023 décrit le duo comme en train de "mettre la techno sur
 la tête", soulignant leur capacité à produire des tracks "brutaux et indigestes" qui électrisent pourtant

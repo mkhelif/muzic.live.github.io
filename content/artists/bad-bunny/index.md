@@ -23,7 +23,7 @@ devenu l'artiste latin le plus écouté de l'histoire, le premier à avoir été
 **quatre années consécutives**, et le premier dont un album entièrement en espagnol a remporté le **Grammy du meilleur
 album de l'année** (*DeBÍ TiRAR MáS FOToS*, 2025).
 
-#### L'ascension d'un outsider
+###### L'ascension d'un outsider
 
 Tout commence en 2016 avec *Soy Peor*, une bombe de Latin trap qui circule d'abord dans des cercles restreints avant
 d'exploser sur les ondes. Le jeune rappeur adopte une esthétique délibérément dérangeante : ongles vernis, vêtements
@@ -35,7 +35,7 @@ Balvin, *Callaita* en solo — et chaque sortie redéfinit les frontières du re
 *X 100PRE* (2018) pose les bases d'une discographie qui refusera systématiquement de se laisser enfermer dans un seul
 genre.
 
-#### Une œuvre en mouvement permanent
+###### Une œuvre en mouvement permanent
 
 *YHLQMDLG* (2020) — acronyme de "Yo Hago Lo Que Me Da La Gana", je fais ce qui me plaît — est peut-être l'album qui
 cristallise le mieux son rapport à la musique : libre, instinctif, ancré dans les sonorités de la rue portoricaine
@@ -49,7 +49,7 @@ aux Grammy pour l'album de l'année et considéré par beaucoup comme l'un des m
 *DeBÍ TiRAR MáS FOToS* (2025) referme une boucle : enregistré à Puerto Rico, en hommage à l'île et à ses habitants,
 cet album plus intime et plus politique lui vaut enfin la reconnaissance suprême de l'académie américaine.
 
-#### Un phénomène total
+###### Un phénomène total
 
 Bad Bunny n'est pas seulement un musicien : il est une force culturelle. Amateur de catch (il a participé à des matches
 de la WWE), acteur (*Bullet Train*, *Cassandro*), icône de mode en collaboration avec Adidas — son influence déborde

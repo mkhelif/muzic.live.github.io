@@ -11,7 +11,7 @@ Madness qui le conduisent à la basse à l'âge de douze ans. C'est en étudiant
 au Goldsmiths College de Londres qu'il bascule vers la musique électronique, subjugué par le skweee
 scandinave et ses textures de synthétiseur cristallines.
 
-##### PC Music et la révolution hyperpop
+###### PC Music et la révolution hyperpop
 
 En 2013, le producteur A.G. Cook fonde le label et collectif PC Music, dont Danny L Harle devient l'un
 des premiers membres. Son premier morceau phare, « Broken Flowers », publié sur PC Music la même année,
@@ -20,7 +20,7 @@ appellera bientôt l'hyperpop. Sa curiosité pour le vertige synthétique, la su
 la manipulation du kitsch en fait l'un des architectes d'une révolution sonore qui influencera une
 génération entière de producteurs.
 
-##### Le producteur derrière les grandes voix
+###### Le producteur derrière les grandes voix
 
 Parallèlement à sa carrière solo, Danny L Harle s'impose comme l'un des producteurs les plus recherchés
 de sa génération. Il co-produit les albums *Pang* (2019) et *Desire, I Want to Turn Into You* (2023) de

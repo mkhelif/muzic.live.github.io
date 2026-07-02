@@ -21,7 +21,7 @@ musicien Étienne Bianchi. Bien plus qu'un simple groupe de musique, Shaârghot 
 total, à la croisée du métal extrême, de l'électronique industrielle et d'une narration visuelle d'une
 ambition cinématographique rare dans le paysage musical hexagonal.
 
-##### Genèse d'un univers dystopique
+###### Genèse d'un univers dystopique
 
 C'est en s'associant à Jeremy Le Guen, alias « Svarga », qu'Étienne Bianchi donne naissance à Shaârghot
 en 2011. Le projet est alors pensé comme un objet purement phonographique, mêlant metal industriel,
@@ -30,7 +30,7 @@ monteur vidéo — dépasse rapidement les limites du disque. À partir de 2015,
 scène avec une mise en espace spectaculaire : décors imposants, costumes élaborés, maquillages extrêmes,
 effets pyrotechniques et performances visuelles construisent un show unique.
 
-##### Un monde de fiction cohérent
+###### Un monde de fiction cohérent
 
 L'œuvre de Shaârghot se déroule dans un univers de science-fiction post-apocalyptique rigoureusement
 construit. L'humanité y survit dans de gigantesques cités-ruches, isolées au cœur de terres ravagées par
@@ -38,7 +38,7 @@ les radiations d'une troisième guerre mondiale. Dans la Cité-Ruche du Great Ey
 contrôle tous les aspects de l'existence humaine. Cette dystopie cyberpunk, développée à travers clips et
 concerts, confère à chaque sortie musicale une dimension narrative particulière.
 
-##### Expansion et reconnaissance
+###### Expansion et reconnaissance
 
 De deux membres à l'origine, Shaârghot s'étend à huit artistes sur scène en 2022, une croissance qui
 reflète l'ambition croissante de leurs productions live. Le groupe s'est imposé sur la scène metal

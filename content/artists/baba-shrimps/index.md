@@ -10,13 +10,13 @@ plus d'une décennie. Composé d'Adrian Kübler (chant et guitare), Moritz Vonto
 (claviers), le trio s'est imposé comme l'une des formations les plus polyvalentes et attachantes de la scène suisse
 indépendante.
 
-##### Un son entre lumière et mélancolie
+###### Un son entre lumière et mélancolie
 
 Le style de Baba Shrimps oscille entre hymnes énergiques et ballades introspectives, avec une production soignée qui
 emprunte au folk, au pop-rock et à l'indie britannique. Leur son lumineux et mélodique leur a permis de toucher un
 public large, bien au-delà des frontières helvétiques.
 
-##### Une ascension sur les charts suisses
+###### Une ascension sur les charts suisses
 
 Après leur premier album officiel Neon (2014), le groupe s'impose avec Road to Rome (2017), qui atteint la sixième
 place du classement suisse des albums — une belle reconnaissance pour un groupe indépendant. Cette dynamique se
@@ -27,7 +27,7 @@ En 2024, le groupe sort l'EP Best Days, cinq titres qui annoncent une nouvelle d
 leur album Between Midnight, enregistré partiellement en Toscane et produit par Thomas Fessler. Ce disque prolonge
 leur exploration d'un son plus organique et atmosphérique.
 
-##### Une scène vivace
+###### Une scène vivace
 
 Baba Shrimps est avant tout un groupe de concerts, connus pour leurs performances chaleureuses et leur capacité à
 créer un lien fort avec leur public. Représentants d'une scène pop-rock suisse qui ne demande qu'à être davantage

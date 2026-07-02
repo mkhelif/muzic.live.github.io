@@ -16,7 +16,7 @@ collines verdoyantes et ciel franc-montagnard. L'initiative est portée par **Se
 bénévoles passionnés qui, sans l'appui d'aucune société de production professionnelle, ont bâti en quelques éditions
 un rendez-vous incontournable du paysage festivalier romand.
 
-#### Des débuts prometteurs
+###### Des débuts prometteurs
 
 Le Dritchino est présenté à la presse le 10 février 2023 comme le nouveau-né des festivals jurassiens. La première
 édition se tient les 26 et 27 mai 2023, avec un budget de 350 000 CHF et l'objectif ambitieux d'attirer entre 8 000
@@ -24,7 +24,7 @@ et 10 000 spectateurs. Le pari est tenu : environ 8 500 personnes répondent à 
 mêlant Tryo, Claudio Capéo, Matmatah et Junior Tshaka. L'alchimie entre la programmation populaire et le cadre
 champêtre fonctionne immédiatement — le Dritchino a trouvé sa formule.
 
-#### Une croissance maîtrisée
+###### Une croissance maîtrisée
 
 L'édition 2024 confirme l'élan avec 12 500 festivaliers, un parking doublé et un bar triplé en longueur pour absorber
 l'affluence. L'affiche monte d'un cran avec IAM, Louane, Superbus, 47Ter et L.E.J, tout en veillant à corriger un
@@ -38,7 +38,7 @@ met en lumière des talents régionaux comme Alyss, Deep Shelters ou D-Fender. L
 dont plus de la moitié est consacrée aux cachets artistiques — un poste que l'organisateur Serge Surgand note avoir
 « complètement explosé » face à la concurrence du marché festivalier.
 
-#### Philosophie et identité
+###### Philosophie et identité
 
 Le Dritchino revendique une identité résolument familiale et populaire, à rebours des festivals spécialisés dans un
 genre unique. La programmation mélange volontairement pop francophone, rock, rap, reggae et musiques du monde, avec
@@ -52,7 +52,7 @@ accessible et convivial, loin des mastodontes festivaliers impersonnels. Le syst
 bracelets Strap'nPay, rechargeables par Twint ou carte bancaire, témoigne en revanche d'une organisation moderne et
 professionnelle malgré la structure entièrement bénévole.
 
-#### Un festival qui ne veut pas devenir trop grand
+###### Un festival qui ne veut pas devenir trop grand
 
 Les organisateurs l'affirment : le Dritchino ne cherche pas la croissance à tout prix. La fosse a été agrandie à
 plus de 5 000 places pour l'édition 2025 et le site légèrement étendu pour le confort, mais l'objectif reste de

@@ -9,7 +9,7 @@ Arch Enemy est un groupe suédois de melodic death metal fondé en 1995 par le g
 membre de Carcass, en compagnie du chanteur Johan Liiva. Depuis ses débuts, le groupe s'est imposé comme l'une
 des formations les plus influentes et les plus férocement mélodiques du metal extrême mondial.
 
-##### Une naissance entre deux légendes
+###### Une naissance entre deux légendes
 
 Michael Amott quitte Carcass après l'album *Heartwork* avec en tête le projet d'un groupe qui combinerait
 la brutalité du death metal avec des mélodies élaborées dignes du heavy metal classique. Ce mariage des
@@ -18,7 +18,7 @@ battante, mais aussi des lignes de guitare solo d'une fluidité et d'une express
 albums — *Black Earth* (1996), *Stigmata* (1998) et *Burning Bridges* (1999) — établissent solidement leurs
 bases dans la scène metal internationale.
 
-##### L'arrivée d'Angela Gossow et la consécration
+###### L'arrivée d'Angela Gossow et la consécration
 
 En 2000, Johan Liiva est remplacé par Angela Gossow, chanteuse allemande qui révolutionne l'image du groupe.
 Sa voix gutturale puissante et sa présence scénique imposante propulsent Arch Enemy dans une nouvelle dimension.
@@ -28,7 +28,7 @@ ancienne chanteuse de The Agonist, prend le relais avec une énergie renouvelée
 jusqu'à l'album *Deceivers* (2022). En 2026, Lauren Hart, ex-Once Human, rejoint le groupe, marquant un nouveau
 tournant dans l'histoire toujours mouvementée du groupe.
 
-##### Un style inimitable
+###### Un style inimitable
 
 La force d'Arch Enemy réside dans la tension permanente entre mélodie et agression. La guitare de Michael Amott
 — rejointe de longue date par son frère Christopher — dessine des mélodies envoûtantes sur fond de rythmiques

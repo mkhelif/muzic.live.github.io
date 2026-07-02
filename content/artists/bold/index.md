@@ -15,7 +15,7 @@ concentre exclusivement sur le chant. Un premier EP, Join The Fight, paraît en 
 New Beginning. C'est sous le nom BOLD que le groupe atteint sa pleine maturité artistique et son influence
 maximale.
 
-##### Le son d'une génération
+###### Le son d'une génération
 
 Aux côtés de Youth of Today, Gorilla Biscuits et Side by Side, BOLD incarne le renouveau du youth crew
 hardcore au milieu des années 1980 : un hardcore punk ancré dans des valeurs d'unité, de sobriété (le
@@ -27,7 +27,7 @@ Le style de BOLD est caractéristique du youth crew : tempos mid-tempo et rapide
 grooving, chœurs collectifs ("gang vocals"), textes positifs et engagés. Un son à la fois simple et puissant
 qui capture l'essence du hardcore new-yorkais tout en l'imprégnant d'un élan juvénile communicatif.
 
-##### Dissolution et résurrection
+###### Dissolution et résurrection
 
 En 1989, les membres partent faire leurs études et le groupe se dissout. Le mythe BOLD grandit pendant
 les années suivantes, au fil des rééditions et de l'influence croissante que le groupe exerce sur les

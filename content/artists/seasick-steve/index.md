@@ -20,7 +20,7 @@ sincérité et d'une authenticité rares dans le paysage musical contemporain.
 
 Ses débuts tardifs sur la scène musicale professionnelle révèlent un artiste accompli qui a vécu ce qu'il chante.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Seasick Steve connaît une reconnaissance tardive mais méritée, ses performances télévisées révélant au grand public son
 talent exceptionnel et sa personnalité attachante.
@@ -31,7 +31,7 @@ et expressive.
 Il développe un répertoire qui puise dans ses expériences de vie réelles, créant des chansons qui touchent directement
 l'âme de l'auditeur par leur sincérité et leur émotion brute.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Seasick Steve puise dans les racines les plus profondes du blues américain, du delta blues au blues
 électrique, en passant par le folk et le country.
@@ -41,7 +41,7 @@ maison, comme sa célèbre guitare à trois cordes qui devient sa signature arti
 
 Sa musique créée une atmosphère unique qui transporte l'auditeur dans l'Amérique profonde et authentique.
 
-##### Actualité
+###### Actualité
 
 Seasick Steve continue de représenter l'authenticité absolue dans un monde musical souvent formaté, prouvant que la
 sincérité et le talent peuvent triompher de tous les artifices.

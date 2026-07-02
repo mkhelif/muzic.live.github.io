@@ -11,7 +11,7 @@ Au pied de la Sainte-Victoire, **Aix-en-Provence** se dote enfin d'un grand rend
 exclusivement consacrée aux musiques actuelles, pour deux jours de metal sous toutes ses formes : quatorze groupes, deux
 scènes et plus de 4 000 festivaliers attendus.
 
-## Un nouveau rendez-vous pour le metal du Sud
+###### Un nouveau rendez-vous pour le metal du Sud
 
 Longtemps, la scène metal du sud-est de la France a manqué d'un festival indoor d'envergure. Le Headbang Festival entend
 combler ce vide en s'appuyant sur un écrin idéal : le 6MIC et ses deux salles modulables, qui permettent de faire jouer
@@ -19,7 +19,7 @@ les groupes **en décalé** d'une scène à l'autre, afin que le public ne manqu
 amateurs de musiques lourdes, l'événement se veut un point de ralliement pour celles et ceux qui défendent le metal avec
 conviction et ouverture.
 
-## Une programmation extrême et éclectique
+###### Une programmation extrême et éclectique
 
 Fidèle à l'idée que le metal est une galaxie de sous-genres plutôt qu'un bloc monolithique, l'affiche 2026 balaie un
 large spectre. La première soirée, le **samedi 7 mars**, réunit le hardcore survitaminé de **Rise of the Northstar**, le
@@ -28,7 +28,7 @@ Sorcerer). La seconde, le **dimanche 8 mars**, monte encore en intensité et en 
 et survoltée de **Carpenter Brut**, l'univers post-apocalyptique et industriel de **Shaârghot**, le post-black
 atmosphérique de **Harakiri for the Sky**, aux côtés de Verdun, Doodseskader, Fange et Yarostan.
 
-## Le 6MIC, un écrin à la hauteur
+###### Le 6MIC, un écrin à la hauteur
 
 Installer un festival metal dans l'architecture minérale signée Rudy Ricciotti n'a rien d'anodin : avec sa grande salle
 et sa salle club entièrement modulables, son système son de dernière génération et une jauge cumulée parmi les plus

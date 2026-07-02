@@ -22,7 +22,7 @@ fragilité et la force, le désespoir et l'espoir entremêlés dans des arrangem
 Palace refuse les artifices : guitares cristallines, batterie minimaliste, voix fragile mais déterminée. Leur approche
 privilégie l'émotion brute, la sincérité absolue, l'authenticité avant tout.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Les premiers EP "Lost in the Night" (2014) et "Chase the Light" (2015) établissent immédiatement Palace comme une des
 voix les plus prometteuses de l'indie britannique contemporain.
@@ -37,7 +37,7 @@ fragilité émotionnelle qui fait leur signature. L'album révèle un groupe qui
 "Shoals" (2022) les voit atteindre une nouvelle profondeur artistique, mêlant influences folk, électronique et rock
 atmosphérique dans un ensemble cohérent qui confirme leur statut de groupe essentiel.
 
-##### Style et influences
+###### Style et influences
 
 Palace pratique un indie rock atmosphérique qui évoque Bon Iver, The National et Alt-J, tout en développant une identité
 sonore distinctement personnelle.
@@ -51,7 +51,7 @@ entre terre et ciel, entre introspection et catharsis.
 Leurs compositions construisent lentement des atmosphères envoûtantes qui explosent en moments de pure émotion, créant
 une dynamique addictive qui capture l'essence même de la condition humaine moderne.
 
-##### Actualité
+###### Actualité
 
 Palace continue de cultiver leur approche artistique exigeante, refusant les compromis commerciaux au profit d'une
 intégrité créative totale.

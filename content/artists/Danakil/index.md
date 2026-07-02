@@ -20,7 +20,7 @@ transmettre les valeurs originelles du reggae tout en développant une identité
 Leurs débuts révèlent une formation profondément imprégnée de la philosophie rastafari et désireuse de faire du reggae
 un vecteur de conscience sociale et spirituelle en France.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Danakil se fait connaître grâce à des albums comme "Micro Climat" et "Entre les lignes" qui établissent rapidement leur
 réputation sur la scène reggae française et européenne.
@@ -31,7 +31,7 @@ aborder des thèmes variés tout en conservant leur message spirituel.
 Leurs compositions mêlent reggae traditionnel et sonorités modernes, créant une musique accessible qui touche un large
 public tout en conservant l'authenticité et la profondeur du genre.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Danakil puise dans les différentes traditions du reggae jamaïcain, du roots au dub en passant par le reggae
 digital, créant un son authentique qui respecte l'héritage tout en l'adaptant aux sensibilités françaises.
@@ -42,7 +42,7 @@ mélodies profondes.
 Leurs textes abordent la spiritualité, la conscience sociale, l'amour et l'unité avec une sincérité qui touche
 directement l'âme de l'auditeur.
 
-##### Actualité
+###### Actualité
 
 Danakil continue de porter les valeurs authentiques du reggae en France, représentant cette dimension spirituelle et
 consciente du genre avec respect et passion.

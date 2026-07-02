@@ -10,7 +10,7 @@ festivals belges et français grâce à un concept aussi simple qu'efficace : tr
 — signés Beyoncé, Billie Eilish, Imagine Dragons, Britney Spears ou encore des classiques de la pop
 contemporaine — en pièces acoustiques teintées d'esprit country et d'ambiance saloon.
 
-##### Une identité visuelle et musicale forte
+###### Une identité visuelle et musicale forte
 
 Les six membres de Crocodile Dundish se présentent en costumes verts, une tenue à la fois cohérente et
 décalée qui dit tout de l'esprit du groupe : sérieux musicalement, mais jamais sans autodérision. Leur
@@ -23,7 +23,7 @@ produit un effet de décalage comique et musical qui fonctionne à coup sûr. Le
 l'arrangement acoustique avec suffisamment de soin pour que l'exercice ne soit jamais une simple parodie,
 mais bien une interprétation à part entière.
 
-##### Sur les scènes belges et françaises
+###### Sur les scènes belges et françaises
 
 Crocodile Dundish est une présence régulière sur la scène des festivals en Belgique et dans le nord de la
 France. Leur passage au festival LaSemo, suivi de plusieurs dates en France à l'été 2025, illustre leur

@@ -14,7 +14,7 @@ sous le pseudonyme Neige. Initialement conçu comme un groupe de black metal atm
 post-rock, donnant naissance à ce que l'on appellera plus tard le « blackgaze ». À travers ses albums, Neige explore
 un univers poétique et personnel, celui d'un monde de l'enfance perdu, fait de lumière, de brume et de mélancolie.
 
-##### Origines d'un univers intérieur
+###### Origines d'un univers intérieur
 
 Neige commence à composer sous le nom Alcest dès la fin des années 1990, avec une démo Tristesse Hivernale enregistrée
 en 1999. Les premières années sont celles d'un projet presque entièrement solitaire, influencé par les légendes du
@@ -27,7 +27,7 @@ L'EP Le Secret, paru en 2005, marque un tournant décisif : le black metal s'eff
 ouverte, portée par des ambiances shoegaze, des mélodies vaporeuses et des textes en français évoquant des visions
 oniriques que Neige décrit comme des souvenirs d'un monde spirituel.
 
-##### Une discographie qui trace un chemin unique
+###### Une discographie qui trace un chemin unique
 
 Le premier album studio, Souvenirs d'un autre monde (2007), confirme la singularité d'Alcest. Entièrement dépourvu
 des vocaux agressifs du black metal, il propose une pop shoegaze d'une délicatesse presque irréelle, accueillie avec
@@ -40,7 +40,7 @@ Kodama (2016), inspiré du film Princesse Mononoké de Miyazaki, renoue avec une
 Instinct (2019) marque un retour assumé aux racines metal du projet, avec une énergie brute rarement atteinte depuis
 ses débuts. En 2024, Les Chants de l'Aurore propose une nouvelle synthèse, lumineuse et apaisée.
 
-##### Un son qui définit un genre
+###### Un son qui définit un genre
 
 Ce qui distingue Alcest des autres formations de post-metal, c'est l'absence de cynisme dans la démarche de Neige.
 Sa musique ne cherche pas à impressionner ou à provoquer, mais à communiquer une expérience intérieure profonde. Les

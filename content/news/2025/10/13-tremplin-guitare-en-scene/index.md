@@ -12,7 +12,7 @@ les inscriptions pour son Tremplin 2026. Du 13 octobre au 13 décembre 2025 à m
 tous horizons peuvent déposer leur candidature pour tenter de fouler la prestigieuse Scène Village du festival qui se
 tiendra du 15 au 18 juillet 2026 à Saint-Julien-en-Genevois.
 
-#### Bien plus qu'un simple concours
+###### Bien plus qu'un simple concours
 
 Le Tremplin Guitare en Scène se distingue des concours traditionnels par son approche immersive et formatrice. Comme le
 souligne l'organisation : "Le Tremplin, c'est bien plus qu'un concours : c'est une aventure scénique qui te fait jouer
@@ -24,7 +24,7 @@ Pour les finalistes, la récompense est de taille : l'opportunité de jouer sur 
 Scène, devant plus de 5 000 festivaliers. Une exposition exceptionnelle qui peut véritablement lancer une carrière
 musicale.
 
-#### Une ouverture à tous les styles et tous les niveaux
+###### Une ouverture à tous les styles et tous les niveaux
 
 L'un des points forts du Tremplin GES est son accessibilité. La compétition est ouverte à tous les styles musicaux, sans
 limite d'âge. Que vous soyez un musicien solo ou en groupe, débutant ou déjà rodé sur scène, l'essentiel est d'avoir "la
@@ -35,7 +35,7 @@ accueilli des artistes aussi variés que Scorpions, Deep Purple, Robert Cray, Be
 Sting. Du hard rock au blues, en passant par le funk et la folk, toutes les déclinaisons de la musique guitare y
 trouvent leur place.
 
-#### Comment participer ?
+###### Comment participer ?
 
 Le processus de candidature est simple mais exige un dossier complet et professionnel. Les candidats doivent préparer :
 
@@ -52,7 +52,7 @@ suivante : www.guitare-en-scene.com/tremplin-ges-cest-quoi-guitare-en-scene-1412
 à déposer leur dossier. Les places étant limitées, il est fortement recommandé de soumettre sa candidature dès
 l'ouverture des inscriptions pour maximiser ses chances d'être auditionné.
 
-#### Un tremplin au service des talents émergents
+###### Un tremplin au service des talents émergents
 
 Depuis sa création, le festival Guitare en Scène s'est donné pour mission de faire vibrer les talents émergents. Le
 Tremplin s'inscrit dans cette philosophie en offrant une véritable plateforme de visibilité aux artistes en devenir.
@@ -63,7 +63,7 @@ Les éditions précédentes du Tremplin ont permis à de nombreux artistes de se
 carrière. Certains lauréats ont ensuite tourné sur les grandes scènes régionales et nationales, preuve de l'efficacité
 de ce dispositif de détection et de promotion des talents.
 
-#### Un festival à taille humaine mais à l'ambition internationale
+###### Un festival à taille humaine mais à l'ambition internationale
 
 Guitare en Scène se définit comme "le plus grand des petits festivals". Avec une jauge volontairement limitée à 5 000
 places par soir, le festival privilégie la qualité de l'expérience et la proximité avec les artistes. Situé à
@@ -74,7 +74,7 @@ Cette édition 2026 s'annonce une fois de plus exceptionnelle, avec une programm
 prochains mois. Le Tremplin permettra d'ajouter une touche locale et émergente à une affiche qui comptera certainement
 quelques têtes d'affiche internationales.
 
-#### Ne manquez pas cette opportunité unique
+###### Ne manquez pas cette opportunité unique
 
 Que vous soyez un groupe de rock énergique, un bluesman solitaire, un duo folk intimiste ou un guitar-hero en devenir,
 le Tremplin Guitare en Scène 2026 est fait pour vous. L'opportunité de jouer devant des milliers de spectateurs dans le

@@ -22,7 +22,7 @@ Elle émerge en 2017 avec une approche singulière de la chanson française : vo
 Vendredi sur Mer cultive une esthétique rétro-futuriste où la pop française des années 60-70 rencontre l'électronique
 contemporaine, créant une atmosphère hors du temps qui séduit immédiatement la nouvelle génération.
 
-##### Carrière musicale
+###### Carrière musicale
 
 Le single "Écoute chérie" (2017) ouvre les portes d'un univers onirique où la mélancolie se pare de synthés vintage.
 L'EP "Marée haute" confirme son talent pour créer des ambiances envoûtantes qui captivent sans effort.
@@ -37,7 +37,7 @@ tout en préservant cette fragilité enivrante qui fait son identité.
 Le succès vient naturellement, porté par une génération qui reconnaît dans sa musique un écho à ses propres
 questionnements : l'amour, la solitude moderne, la quête d'authenticité dans un monde digital.
 
-##### Style et influences
+###### Style et influences
 
 La musique de Vendredi sur Mer flotte dans un espace indéfini entre rêve et réalité, mélangeant synthétiseurs rétro,
 nappes électroniques enveloppantes et arrangements orchestraux délicats.
@@ -51,7 +51,7 @@ qui sonne à la fois familier et totalement novateur.
 Ses textes explorent l'intime avec une poésie décalée, des images surréalistes et une sensibilité qui transforme le
 quotidien en matière onirique, créant un univers immédiatement reconnaissable.
 
-##### Actualité
+###### Actualité
 
 Vendredi sur Mer continue de développer son univers musical avec une cohérence artistique rare, chaque sortie
 approfondissant sa vision poétique et sonore.

@@ -16,7 +16,7 @@ de leur carrière avec la sortie de Wildlive (Live at Olympiahalle), prévue pou
 Cette publication multi-formats promet de capturer toute la magie, l'énergie et le génie théâtral du groupe lors de leur
 plus grande tournée en tête d'affiche à ce jour.
 
-#### Un concert historique capturé pour l'éternité
+###### Un concert historique capturé pour l'éternité
 
 L'album live a été enregistré lors du concert à guichets fermés du 25 octobre 2024 à l'Olympiahalle de Munich, l'ultime
 étape de la tournée Wolfsnächte Tour 2024. Ce show époustouflant marquait l'apogée d'une tournée européenne qui a vu le
@@ -29,7 +29,7 @@ fermés à l'Olympiahalle de Munich - pour préserver ne serait-ce qu'une partie
 
 {{< youtube videoId="tm00RGLyD3w" >}}
 
-#### Un spectacle visuel et sonore sans précédent
+###### Un spectacle visuel et sonore sans précédent
 
 Les concerts de Powerwolf sont réputés pour être bien plus que de simples performances musicales : ce sont de véritables
 spectacles théâtraux. Colonnes de feu de plusieurs mètres de haut, effets lumineux éblouissants, mise en scène gothique
@@ -41,7 +41,7 @@ pour restituer au mieux l'atmosphère électrique de cette soirée munichoise. L
 ce concert légendaire, des hymnes incontournables aux nouveaux titres qui ont enflammé les foules lors du Wolfsnächte
 Tour.
 
-#### Une sortie multi-formats pour tous les fans
+###### Une sortie multi-formats pour tous les fans
 
 Conscient de la diversité de son public, Powerwolf proposera Wildlive (Live at Olympiahalle) dans une gamme
 impressionnante de formats. L'album sera disponible en DVD et Blu-ray pour une expérience visuelle optimale, ainsi que
@@ -53,7 +53,7 @@ accessible ce moment d'exception au plus grand nombre. Les collectionneurs et le
 parmi les différentes éditions physiques, tandis que les formats numériques garantiront une diffusion mondiale
 instantanée.
 
-#### Un témoignage de leur domination
+###### Un témoignage de leur domination
 
 Avec Wildlive, Powerwolf consolide son statut de leader incontesté du power metal européen. Le groupe, qui enchaîne les
 succès en tête des charts allemands depuis plusieurs albums, prouve une fois de plus sa capacité à transcender le simple
@@ -64,7 +64,7 @@ Wicked Tour 2026, une tournée européenne massive qui promet de repousser encor
 Wildlive servira sans aucun doute de tremplin parfait pour cette nouvelle aventure, rappelant aux fans - nouveaux comme
 anciens - pourquoi Powerwolf règne en maître sur les scènes européennes.
 
-#### En attendant le 6 mars 2026
+###### En attendant le 6 mars 2026
 
 Les précommandes de Wildlive (Live at Olympiahalle) sont d'ores et déjà ouvertes sur les plateformes habituelles et le
 site officiel du groupe. Pour ceux qui n'ont pas eu la chance d'assister à la Wolfsnächte Tour 2024, cet album

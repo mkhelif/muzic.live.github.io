@@ -10,7 +10,7 @@ des études en beaux-arts à l'Université de New York (diplôme obtenu en 2021)
 l'industrie audiovisuelle, d'abord comme assistante de production chez Warner Bros., puis comme scénariste
 pour la sitcom *The Really Loud House* diffusée sur Nickelodeon de 2022 à 2024.
 
-##### Co-autrice d'un tube mondial
+###### Co-autrice d'un tube mondial
 
 Parallèlement à cette carrière de scénariste, Hobert cultive sa passion pour la musique aux côtés de Gracie
 Abrams, son amie d'enfance. Elle co-écrit plusieurs titres de l'album *The Secret of Us* de Gracie Abrams
@@ -18,7 +18,7 @@ Abrams, son amie d'enfance. Elle co-écrit plusieurs titres de l'album *The Secr
 et s'impose comme l'un des tubes pop les plus marquants de l'année. Cette collaboration lui ouvre les portes
 d'une reconnaissance en tant que compositrice de talent.
 
-##### Ses débuts en solo
+###### Ses débuts en solo
 
 En 2025, Audrey Hobert franchit le pas en se lançant en tant qu'artiste à part entière. Elle publie le single
 « Sue Me » en mai, puis « Bowling Alley » en juin, avant de sortir son premier album *Who's the Clown?* en

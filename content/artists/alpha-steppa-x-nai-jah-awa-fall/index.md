@@ -13,7 +13,7 @@ Christine Woodbridge et le claviériste John Sprosen. Grandi dans un environneme
 norme, il a fondé en 2010 le label Steppas Records, dédié à une musique de sound system consciente, enracinée dans le
 roots tout en explorant les sonorités plus récentes du dubstep.
 
-##### Nai-Jah, la voix franco-nigériane
+###### Nai-Jah, la voix franco-nigériane
 
 Né Mahakwe Wadike, Nai-Jah est un artiste reggae charismatique d'origine franco-nigériane qui a grandi à Lagos. Ses
 textes abordent des sujets sociaux et politiques comme les inégalités de classe et la corruption. Depuis 2011, il se
@@ -21,7 +21,7 @@ produit avec le Kwenu Band, une formation qui marie le reggae aux rythmes nigér
 instrument de basse, teintant leur son d'influences jazz et blues venues de la Nouvelle-Orléans. Il a publié trois
 albums, dont "Democrazy" en 2024.
 
-##### Awa Fall, une voix italo-sénégalaise engagée
+###### Awa Fall, une voix italo-sénégalaise engagée
 
 Née en 1996 à Bergame, en Italie, d'un père sénégalais et d'une mère italienne, Awa Fall incarne un pont vivant entre
 l'Afrique de l'Ouest et l'Europe. Révélée en 2016 avec "Inna Dis Ya Iwa", elle s'est imposée comme l'une des voix les

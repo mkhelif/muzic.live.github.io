@@ -15,7 +15,7 @@ l'envoient étudier l'anglais à Monrovia, au Liberia, avant qu'il ne poursuive 
 College puis à Columbia University, où il découvre le mouvement rasta et les concerts d'artistes jamaïcains comme
 Burning Spear.
 
-##### Une carrière au service de l'engagement
+###### Une carrière au service de l'engagement
 
 Beaucoup de ses chansons sont motivées par des enjeux politiques et sociaux, chantées principalement en dioula, en
 français et en anglais, mais aussi parfois en arabe, en hébreu ou en patois jamaïcain. Cette diversité linguistique
@@ -29,7 +29,7 @@ Blondy son premier disque d'or à Paris.
 En 2002, il célèbre vingt ans de carrière avec la sortie de l'album "Merci", qui réunit notamment Ophélie Winter et le
 Saïan Supa Crew, et qui lui vaut une nomination aux Grammy Awards dans la catégorie meilleur album reggae en 2003.
 
-##### Un ambassadeur de la paix
+###### Un ambassadeur de la paix
 
 Sa musique aborde la politique, la paix, la spiritualité et la justice sociale, dénonçant la corruption et la guerre
 tout en appelant sans cesse à l'unité des peuples. En 2005, il est nommé Ambassadeur des Nations Unies pour la paix en

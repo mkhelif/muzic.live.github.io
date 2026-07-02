@@ -20,7 +20,7 @@ Il développe progressivement un style personnel qui puise dans différentes inf
 expérimentale aux musiques urbaines, créant un univers artistique unique qui se distingue dans le paysage musical
 français actuel.
 
-#### Carrière musicale
+###### Carrière musicale
 
 La carrière d'Alfred Massaï se construit progressivement grâce à ses compositions originales qui révèlent une vision
 artistique mature et une maîtrise technique croissante.
@@ -31,7 +31,7 @@ sonores immersives.
 Ses productions se caractérisent par une recherche constante d'innovation et une volonté d'explorer les possibilités
 offertes par les nouvelles technologies musicales, révélant un artiste en perpétuelle évolution créative.
 
-#### Style et influences
+###### Style et influences
 
 Le style d'Alfred Massaï se caractérise par un mélange d'éléments électroniques modernes, d'influences urbaines et de
 sonorités expérimentales qui créent un univers sonore personnel et reconnaissable.
@@ -42,7 +42,7 @@ sophistiquées.
 Ses influences puisent dans l'électronique française, les musiques urbaines internationales et les courants
 expérimentaux, créant un son qui reflète la diversité de la scène musicale contemporaine.
 
-#### Actualité
+###### Actualité
 
 Alfred Massaï continue de développer son univers artistique unique, représentant cette nouvelle génération de musiciens
 français qui explorent les frontières entre les genres musicaux.

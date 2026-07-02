@@ -9,7 +9,7 @@ socials:
   youtube: "@vercorsmusicfestival9416"
 ---
 
-##### Un écrin naturel exceptionnel
+###### Un écrin naturel exceptionnel
 
 Le Vercors Music Festival s'épanouit depuis une décennie au cœur du massif du Vercors, dans la charmante station
 d'Autrans en Isère. Ce cadre montagnard exceptionnel offre un contraste saisissant avec les festivals urbains
@@ -20,7 +20,7 @@ une intimité rare qui distingue immédiatement cet événement des grands rasse
 géographique privilégiée permet aux artistes et au public de vivre une communion exceptionnelle avec la nature,
 enrichissant l'expérience musicale d'une dimension contemplative unique.
 
-##### Une programmation éclectique et exigeante
+###### Une programmation éclectique et exigeante
 
 La 10ème édition du Vercors Music Festival s'est tenue du 5 au 7 juillet 2024, proposant une programmation d'une
 richesse remarquable qui témoigne de l'ambition artistique de l'événement. Le festival propose une programmation à la
@@ -30,7 +30,7 @@ de Massilia Sound System, Sarah Lenka et El Gato Negro le samedi, et enfin Kezia
 et Flavia Coelho le dimanche. Cette variété stylistique permet au festival de toucher un public large tout en maintenant
 un niveau d'exigence artistique constant, créant un événement musical véritablement inclusif.
 
-##### L'engagement du réseau Spedidam
+###### L'engagement du réseau Spedidam
 
 Le Réseau Spedidam présente le Vercors Music Festival, apportant sa légitimité et son expertise dans la promotion des
 artistes français et francophones. Cette collaboration garantit une programmation de qualité qui met en avant la
@@ -40,7 +40,7 @@ importante aux artistes programmés. Cette partenariat institutionnel confère a
 artistique qui attire autant les professionnels du secteur que les mélomanes avertis, consolidant sa réputation
 d'événement musical de référence.
 
-##### Un événement communautaire et engagé
+###### Un événement communautaire et engagé
 
 Le Vercors Music Festival se distingue par son approche communautaire et responsable, impliquant activement les
 bénévoles locaux et s'engageant dans des démarches de développement durable. Cette philosophie s'inscrit parfaitement
@@ -49,7 +49,7 @@ fondamentales. Le festival développe également des actions de valorisation du 
 touristique et culturel de la région. Cette dimension engagée transforme l'événement en véritable projet de territoire,
 dépassant le simple cadre du divertissement musical pour devenir un catalyseur de développement local durable.
 
-##### Accessibilité et inclusion
+###### Accessibilité et inclusion
 
 Le festival porte une attention particulière à l'accessibilité, développant des dispositifs spécifiques pour l'accueil
 des publics en situation de handicap. Cette préoccupation témoigne de la volonté des organisateurs de faire du Vercors
@@ -59,7 +59,7 @@ familiaux, révèlent également cette volonté de démocratiser l'accès à une
 approche sociale du festival contribue à créer une atmosphère particulière, où la diversité des publics enrichit
 l'expérience collective.
 
-##### Perspectives et rayonnement
+###### Perspectives et rayonnement
 
 Avec sa dixième édition célébrée en 2024, le Vercors Music Festival a désormais atteint une maturité qui lui permet
 d'envisager l'avenir avec sérénité. Le Vercors Music Festival 2025 se déroulera en juillet 2025 à Autrans, confirmant la

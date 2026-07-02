@@ -6,19 +6,19 @@ socials:
 ---
 Alune Wade est l'une des figures les plus singulières du jazz et des musiques du monde contemporains. Bassiste d'exception, compositeur et chanteur, cet artiste sénégalais établi à Paris a consacré sa carrière à tisser des ponts entre les traditions musicales africaines et les formes les plus sophistiquées du jazz international, imposant sa vision d'une musique universelle et profondément humaine.
 
-##### Une enfance baignée de musique
+###### Une enfance baignée de musique
 
 Né en 1978 à Dakar, au Sénégal, Alune Wade grandit dans un environnement où la musique est omniprésente. Son père dirige un orchestre symphonique local, et le jeune Alune absorbe dès ses premières années une multiplicité d'influences : musiques traditionnelles sénégalaises, jazz, musique classique. Dès l'âge de six ans, il manifeste un talent naturel pour la musique, et c'est à treize ans qu'il choisit la basse comme instrument de prédilection.
 
 Un an à peine après avoir commencé, il est repéré par Ismaël Lo, l'une des plus grandes voix de la musique africaine. Il part en tournée mondiale avec lui, une expérience fondatrice qui lui ouvre les yeux sur l'universalité du langage musical et lui forge une rigueur scénique remarquable pour son jeune âge.
 
-##### La basse, vecteur de dialogue entre les cultures
+###### La basse, vecteur de dialogue entre les cultures
 
 La basse pour Alune Wade n'est pas qu'un instrument rythmique : c'est un vecteur expressif complet, capable de porter une mélodie, de raconter une histoire, d'incarner une émotion. Sa technique, influencée par les grands maîtres du jazz comme Marcus Miller et Jaco Pastorius, se double d'une sensibilité africaine profondément ancrée dans les polyrythmies et les modes harmoniques du continent.
 
 Installé à Paris, Wade se fait rapidement remarquer par les plus grands musiciens. Il collabore avec Joe Zawinul, le légendaire fondateur de Weather Report, figure tutélaire du jazz fusion ; avec Marcus Miller, qui devient l'une de ses influences majeures ; avec Oumou Sangaré, la diva malienne ; avec Bobby McFerrin, pour des sessions d'improvisation vocale. Ces rencontres façonnent un musicien complet, aussi à l'aise dans les clubs de jazz parisiens que sur les scènes des plus grands festivals internationaux.
 
-##### Une discographie entre Dakar et le monde
+###### Une discographie entre Dakar et le monde
 
 L'œuvre solo d'Alune Wade se distingue par sa cohérence thématique et sa richesse sonore. Son premier album, *Mbolo* (2006) — « unité » en wolof —, combine ses racines dans les rythmes africains avec des influences contemporaines de jazz. La voix de Wade, chaude et profonde, y est déjà pleinement affirmée.
 

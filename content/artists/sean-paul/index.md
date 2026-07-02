@@ -23,7 +23,7 @@ musicale marquée par le reggae et le dancehall qui imprègnent les rues de King
 Ses débuts dans les années 1990 le voient évoluer dans la scène dancehall locale, où il affine son flow distinctif et
 son style énergique qui deviendront sa signature.
 
-##### Carrière musicale
+###### Carrière musicale
 
 L'explosion internationale arrive en 2002 avec l'album "Dutty Rock", porté par les hits planétaires "Get Busy", "Gimme
 the Light" et "Like Glue", qui dominent les charts mondiaux et installent Sean Paul comme l'ambassadeur du dancehall
@@ -38,7 +38,7 @@ duos internationaux qui ont également inclus Sia, Dua Lipa et Clean Bandit au f
 Sean Paul accumule les récompenses, dont un Grammy Award en 2004 pour "Dutty Rock", et maintient une présence constante
 dans les charts internationaux pendant plus de deux décennies.
 
-##### Style et influences
+###### Style et influences
 
 Le style de Sean Paul se caractérise par un flow rapide et saccadé, typique du dancehall, livré dans un patois jamaïcain
 authentique qui préserve l'essence de ses racines caribéennes.
@@ -52,7 +52,7 @@ conquis les pistes de danse du monde entier.
 La voix distinctive de Sean Paul et son énergie communicative ont défini le son du dancehall international et influencé
 toute une génération d'artistes cherchant à fusionner musiques caribéennes et pop mondiale.
 
-##### Actualité
+###### Actualité
 
 Sean Paul continue de sortir des albums régulièrement, collaborant avec des artistes de tous horizons et maintenant sa
 pertinence dans un paysage musical en constante évolution.

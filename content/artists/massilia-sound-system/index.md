@@ -24,7 +24,7 @@ parle à toutes les communautés.
 L'émergence de Massilia coïncide avec cette ouverture multiculturelle des années 90, époque où la France découvre la
 richesse de sa diversité.
 
-##### Trajectoire militante
+###### Trajectoire militante
 
 L'aventure Massilia Sound System traverse les décennies sans dévier de cette ligne artistique qui privilégie l'
 authenticité sur la rentabilité commerciale immédiate.
@@ -35,7 +35,7 @@ célèbre la diversité culturelle française.
 Cette constance dans les valeurs distingue le groupe dans un paysage musical souvent dominé par les considérations
 mercantiles.
 
-##### Métissage créatif exceptionnel
+###### Métissage créatif exceptionnel
 
 La musique de Massilia Sound System fonctionne comme un laboratoire permanent de fusion culturelle, mêlant traditions
 provençales et innovations urbaines contemporaines dans une alchimie unique.
@@ -46,7 +46,7 @@ l'expression des cultures régionales.
 Cette philosophie artistique inspire toute une génération de musiciens français conscients de la richesse créative du
 multiculturalisme.
 
-##### Héritage populaire vivant
+###### Héritage populaire vivant
 
 Massilia Sound System demeure cette référence incontournable de la musique populaire française métissée, incarnant
 parfaitement la diversité créative de l'Hexagone.

@@ -33,7 +33,7 @@ artistique exigeante, créant une alchimie collective rare dans le milieu du met
 pose les bases d'une carrière qui sera marquée par une constance artistique remarquable et un refus constant des
 compromis commerciaux, établissant SOEN comme une force créative majeure de la scène metal progressive européenne.
 
-#### Carrière musicale
+###### Carrière musicale
 
 SOEN se taille rapidement une identité unique avec son album de début "Cognitive" (2012), qui établit immédiatement le
 groupe comme une présence formidable sur la scène metal progressive internationale. Cet opus inaugural révèle une
@@ -73,7 +73,7 @@ avec la profondeur émotionnelle développée au fil des albums, créant ce qui 
 plus accomplie. Cette consécration critique confirme que SOEN a atteint ce statut rare de groupe capable d'allier succès
 critique et intégrité artistique absolue.
 
-#### Style et influences
+###### Style et influences
 
 Le son de SOEN est complexe mais profondément humain, tissé ensemble par des rythmes intriqués, des mélodies nuancées et
 une profondeur lyrique qui exige l'introspection de l'auditeur. Cette complexité n'est jamais gratuite mais sert
@@ -112,7 +112,7 @@ immédiatement dans la mémoire de l'auditeur, tandis que Stefan Stenberg à la 
 ancrent les compositions les plus aériennes. Cette alchimie instrumentale collective crée le son SOEN, immédiatement
 reconnaissable et impossible à confondre avec d'autres formations du genre.
 
-#### Actualité
+###### Actualité
 
 C'est dans la performance live que SOEN captive véritablement, leurs concerts devenant d'intenses rituels où la musique
 devient catharsis émotionnelle collective. Les audiences ne se contentent pas d'écouter passivement mais vivent une

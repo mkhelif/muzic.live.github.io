@@ -15,7 +15,7 @@ partageaient une passion commune pour la musique expérimentale et les sonorité
 nommé Orange avant de se lancer sous le nom d'Air en 1995, publiant leurs premières productions sur des labels
 indépendants français.
 
-##### Essor international
+###### Essor international
 
 C'est avec l'album *Moon Safari* (1998) que le duo conquiert le monde entier. Publié sur le label Source/Virgin, ce
 disque aux atmosphères lunaires, porté par la voix de Beth Hirsch et par le single « Sexy Boy », atteint la première
@@ -26,7 +26,7 @@ En 2000, Sofia Coppola leur confie la bande originale de son film *The Virgin Su
 leur image de compositeurs atmosphériques hors pair. La BO de ce film, tout en nappes mélancoliques et en silences
 habités, reste l'une des plus belles œuvres du duo.
 
-##### Une discographie cohérente
+###### Une discographie cohérente
 
 *10 000 Hz Legend* (2001) marque un tournant plus expérimental et robotique, divisé par la critique mais adoré des
 inconditionnels. *Talkie Walkie* (2004) renoue avec la douceur envoûtante de leurs débuts et est salué comme l'un de
@@ -37,7 +37,7 @@ En 2012, pour le 130e anniversaire de la première projection cinématographique
 Voyage dans la Lune*, une fantaisie musicale accompagnant la version colorisée du film de Méliès de 1902. *Music for
 Museum* (2014) clôt leur discographie commune à ce jour, chaque membre se consacrant ensuite à des projets solos.
 
-##### Style et héritage
+###### Style et héritage
 
 Le style d'Air est caractérisé par une utilisation sophistiquée des synthétiseurs analogiques vintage, des arrangements
 de cordes delicats, des voix éthérées et une production impeccable. Ils ont influencé une génération entière de

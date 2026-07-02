@@ -15,7 +15,7 @@ Formé en 2018, le quatuor rassemble Dani, Gustav, Paul et Zachi — quatre amis
 de formations orchestrales et ont fréquenté ensemble le lycée St. Benno. C'est cette origine commune, ancrée dans la
 culture du quartier, qui donne au groupe sa cohérence artistique et son identité visuelle forte.
 
-##### Débuts et reconnaissance
+###### Débuts et reconnaissance
 
 Le groupe se fait remarquer dès l'automne 2019 avec la sortie de leur premier EP *Skyr*, avant de livrer en 2020 leur
 album de débuts *Morgensonne*, qui pose les jalons d'un rap introspectif, mélodique et profondément ancré dans la
@@ -25,7 +25,7 @@ C'est le single « Durstlöscher » qui propulse 01099 sur le devant de la scèn
 plusieurs semaines dans les charts, obtient la certification or et cumule désormais plus de 40 millions de streams sur
 Spotify, faisant de lui l'un des hits rap les plus marquants de sa génération en Allemagne.
 
-##### Style et univers
+###### Style et univers
 
 01099 développe un univers musical situé à la croisée du rap mélodique et de la pop sensible, avec des textes qui
 oscillent entre nostalgie, joie de vivre et observation sociale. Leur son, soigné mais jamais prétentieux, reflète la

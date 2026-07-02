@@ -16,14 +16,14 @@ Né de la fusion de deux formations locales — Golgotha, avec le chanteur Dax R
 guitariste Sammy Pierre Duet et le bassiste Audie Pitre — Acid Bath développe un son qui mêle sludge, doom, death metal
 et blues sudiste dans une atmosphère psychédélique et viscérale unique en son genre.
 
-##### Une discographie courte mais marquante
+###### Une discographie courte mais marquante
 
 En six ans d'existence, le groupe ne publie que deux albums studio sur le label Rotten Records. *When the Kite String
 Pops* (1994), dont la pochette reproduit une œuvre du tueur en série John Wayne Gacy, pose les bases d'un metal aussi
 sombre que poétique. *Paegan Terrorism Tactics* (1996), orné d'une œuvre de Jack Kevorkian, confirme leur appétit pour
 les symboles macabres et leur maîtrise d'un metal intense et atmosphérique.
 
-##### Fin tragique et résurrection
+###### Fin tragique et résurrection
 
 Le 23 janvier 1997, le bassiste Audie Pitre et ses parents sont tués par un conducteur ivre. Acid Bath se sépare peu
 après, laissant derrière eux une discographie inachevée mais impérissable. Près de trois décennies plus tard, en 2025,

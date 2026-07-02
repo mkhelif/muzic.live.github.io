@@ -14,7 +14,7 @@ Imaginez trois jours de musique les pieds dans le sable, avec pour toile de fond
 silhouettes de l'île de Wight à l'horizon. Bienvenue au **Victorious Festival**, l'événement qui a transformé le front
 de mer de Southsea, à Portsmouth, en l'un des rendez-vous musicaux les plus singuliers d'Europe.
 
-## Des docks historiques à la plage : une ascension fulgurante
+###### Des docks historiques à la plage : une ascension fulgurante
 
 L'histoire du Victorious commence modestement en juin 2012, sous le nom de **Victorious Vintage Festival**. Fondé par
 Andy Marsh, James Ralls et Ben Miles, ce premier rendez-vous prend place dans le Portsmouth Historic Dockyard — à
@@ -38,7 +38,7 @@ fondatrice locale aux commandes opérationnelles.
 Le résultat de cette croissance ? Une capacité quotidienne passée de 35 000 spectateurs en 2012 à **près de 80 000 en
 2024**, et un impact économique estimé à plus de 24 millions de livres sterling pour la ville de Portsmouth.
 
-## Un site sans équivalent
+###### Un site sans équivalent
 
 Ce qui distingue immédiatement le Victorious de la plupart des festivals britanniques, c'est son **implantation urbaine
 en bord de mer**. Pas de champs boueux du Somerset ou de collines du Derbyshire ici : le festival se déploie sur
@@ -61,13 +61,13 @@ L'accès est facilité par la proximité de la gare de Portsmouth Harbour, de l'
 Wight, et de liaisons National Express. Le festival se revendique « green » : aucun parking sur site, avec de nombreuses
 alternatives de transport doux.
 
-## Programmation : du rock indé aux légendes de la dance
+###### Programmation : du rock indé aux légendes de la dance
 
 Le Victorious a su construire une identité musicale éclectique, avec un socle solide dans le **rock indé et alternatif
 britannique**, complété par des incursions dans la dance, le hip-hop, la soul et la pop. La programmation mêle
 habilement légendes confirmées et talents émergents.
 
-## Bien plus que de la musique
+###### Bien plus que de la musique
 
 Le Victorious ne se limite pas aux concerts. Le festival a développé au fil des ans une offre qui en fait un événement
 véritablement **familial et pluridisciplinaire** :
@@ -79,7 +79,7 @@ véritablement **familial et pluridisciplinaire** :
 - **Artistes de rue et animations** — performances dans chaque recoin du site.
 - **Road to Victorious** — un tremplin pour artistes émergents locaux.
 
-## Engagement communautaire
+###### Engagement communautaire
 
 Le Victorious s'est doté d'un bras caritatif, **Victorious in the Community**, dont l'objectif est de redistribuer une
 partie des retombées du festival à la communauté de Portsmouth. Une portion des recettes de billetterie est reversée au
@@ -89,7 +89,7 @@ D-Day Story Museum. Le Portsmouth City Council a autorisé la tenue du festival 
 En 2024, le festival a remporté le prix de **Major Festival of the Year** aux UK Live Awards, et en 2025 celui de **Live
 Music Event of the Year** aux Access Awards, confirmant sa reconnaissance à l'échelle nationale.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Le Victorious Festival est une anomalie heureuse dans le paysage festivalier britannique : un événement de très grande
 envergure ancré dans un cadre urbain et balnéaire, à la programmation ambitieuse et éclectique, qui a su préserver son

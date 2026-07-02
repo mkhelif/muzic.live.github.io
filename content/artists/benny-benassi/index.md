@@ -10,7 +10,7 @@ de Reggio Emilia. Aux côtés de son cousin Alessandro "Alle" Benassi avec qui i
 l'une des figures tutélaires de l'electro house et l'un des artistes de musique électronique les plus influents du
 début des années 2000.
 
-##### "Satisfaction" et l'invention de l'electro house
+###### "Satisfaction" et l'invention de l'electro house
 
 Lancé en Italie en juin 2002 comme premier single de l'album Hypnotica, "Satisfaction" devient un phénomène mondial.
 La chanson, construite autour de voix synthétiques générées par le logiciel MacinTalk et d'une ligne de basse
@@ -18,7 +18,7 @@ implacable, définit les codes d'un genre nouveau : l'electro house. Hypnotica (
 Breakers Award et s'impose comme une œuvre pionnière, qui influence des générations entières de producteurs de
 musique dance.
 
-##### Carrière et récompenses
+###### Carrière et récompenses
 
 Benny Benassi accumule les distinctions : en février 2008, son remix de "Bring the Noise" remporte le Grammy Award
 du meilleur remix dance. Il collabore avec des artistes aussi différents que Public Enemy, Skrillex ou T-Pain, et

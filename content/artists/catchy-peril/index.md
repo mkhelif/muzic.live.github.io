@@ -18,7 +18,7 @@ Peril. Le jeu de mots du nom dit déjà tout de l'état d'esprit du groupe : un 
 avec le sourire, une musique qu'on attrape avant de réaliser qu'on ne pourra plus s'en défaire. Catchy Peril est un
 groupe de Marseille, et Marseille n'a pas fini de nous surprendre.
 
-## Naissance d'une bête
+###### Naissance d'une bête
 
 Le projet rock hybride marseillais débarque sur les scènes à l'automne 2023, sans prévenir et sans complexes. Benjamin
 Delair, leader déterminé et inspiré, vient de dissoudre son précédent projet psyché punk Bachir Al Acid — déjà bien
@@ -31,7 +31,7 @@ guitare et au chant, Louise Baudu (1003, Time Structure) aux claviers et aux ch�
 à la basse, et Kevin Plasse (Sandcastle) à la batterie. Quatre musiciens aguerris, aux histoires distinctes, qui
 convergent vers quelque chose de plus grand que la somme de leurs parcours.
 
-## Un son de collision
+###### Un son de collision
 
 Si les influences de Kevin Plasse à la batterie sont plutôt shoegaze et grunge, Louise Baudu aux claviers puise dans
 l'électro punk et l'acid techno, au-delà d'un parcours romantique. À la basse, Paul Blanes est très porté sur le jazz et
@@ -46,7 +46,7 @@ particules qui se réunissent et au titre *Atomic* de Blondie. Benjamin nuance :
 j'ai envie d'écrire 'pop de merde' dans la description ! C'est subjectif. On est un groupe de rock, on fait plutôt des
 chansons, et ça se danse, globalement. »
 
-## *Disco Sucks* : le coup d'envoi
+###### *Disco Sucks* : le coup d'envoi
 
 En novembre 2024, Catchy Peril sort son premier EP *Disco Sucks* — mélodiquement bluffant, bouillonnant d'une énergie
 difficile à contenir, faisant se percuter sans complexe les genres — punk, disco, pop — pour un résultat des plus
@@ -56,7 +56,7 @@ nerveuses, et cet espace disco qui surgit comme un corps étranger bienvenu dans
 Le single *Dancing* ouvre les hostilités avec une évidence déconcertante : des changements de rythme, un refrain glam
 avec des chœurs masculins, un esprit DIY assumé dans le clip — prometteur, original, incontestablement Catchy Peril.
 
-## *Catchy* : le premier album, uppercut annoncé
+###### *Catchy* : le premier album, uppercut annoncé
 
 Mars 2026. Le groupe déboule avec son premier album éponyme, huit titres enregistrés au Cooltrain Studio avec Martin
 Baudu et mixés par Olivier Cancellieri et Nicolas Cesar. Cet album se présente comme un instantané brut et rodé en
@@ -77,7 +77,7 @@ les épaisseurs de l'oubli : sur fond de claviers déglingués, une avalanche so
 cavalcade démesurée. En bonus sur CD et vinyle, *Et Puis Rien* est chanté en français — un pied-de-nez malicieux, une
 fenêtre entrouverte sur une autre direction possible.
 
-## La scène comme raison d'être
+###### La scène comme raison d'être
 
 Sur scène, Catchy Peril combine exubérance, morceaux redoutables d'efficacité qui feraient danser les morts et, surtout,
 une intensité dans la performance la rendant imprévisible — et pour cette raison, essentielle à vivre.
@@ -87,7 +87,7 @@ La tournée s'étend progressivement à Marseille, Aix-en-Provence, Nice, Lodèv
 reste. Le groupe entre en contrat d'accompagnement avec un label local, Beside, tout en continuant de maîtriser sa
 trajectoire de façon indépendante.
 
-## Un groupe qui a une raison d'exister
+###### Un groupe qui a une raison d'exister
 
 Il y a dans Catchy Peril quelque chose qui dépasse la simple addition de riffs efficaces et de refrains qui restent dans
 la tête. Benjamin gère la direction artistique, les locaux de répétition, les résidences, les dates — en échange, c'est

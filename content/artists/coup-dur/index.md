@@ -9,7 +9,7 @@ et de César Laloux à la batterie. En peu de temps, Coup Dur s'est signalé sur
 par un son aussi direct que percutant, quelque part entre l'insolence des girl bands des années 1960 et le
 primitivisme lo-fi du soft punk de la fin des années 1970 et du début des années 1980.
 
-##### Un son délibérément brut
+###### Un son délibérément brut
 
 La philosophie musicale de Coup Dur est celle du dépouillement assumé. Les chansons sont courtes, chantées
 en français, et cultivent une forme de primitivisme revendiqué — non pas par manque de moyens, mais par
@@ -22,7 +22,7 @@ Cette approche évoque la tradition du lo-fi punk français et belge, des groupe
 en revendiquant aussi l'influence des groupes féminins ou mixtes des sixties, qui savaient faire tenir
 une chanson en deux minutes chrono avec un riff et un refrain inoubliable.
 
-##### Présence scénique et reconnaissance
+###### Présence scénique et reconnaissance
 
 Dès leurs premières apparitions, Coup Dur attire l'attention des programmateurs et de la presse musicale.
 Leur concert au Supersonic à Paris aux côtés de Hallan et Monks, ainsi que leurs dates à Nantes et dans

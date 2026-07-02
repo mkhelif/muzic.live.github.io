@@ -22,7 +22,7 @@ années 2000. Jérôme Coudanne au chant et à la guitare, Richard Magnac à la 
 membres de Deportivo se sont rencontrés à l'âge de sept ans et ont depuis partagé leur passion pour la musique et le
 football.
 
-## Une naissance dans les starting-blocks
+###### Une naissance dans les starting-blocks
 
 La naissance de Deportivo est presque naturelle, née d'une envie partagée de faire de la scène — envie née de la
 prestation scénique époustouflante de deux étoiles du rock français : les Wampas et Noir Désir. Les trois amis se
@@ -35,7 +35,7 @@ et sportives — car ses synonymes sont « association sportive » ou « sportin
 l'ensemble des noms de clubs de football. Un clin d'œil à Manu Chao aussi, qui n'est pas sans importance dans leur
 galaxie d'influences.
 
-## *Parmi Eux* : le coup de tonnerre
+###### *Parmi Eux* : le coup de tonnerre
 
 À l'été 2003, le groupe joue devant l'ensemble des représentants des plus grosses maisons de disques et tourneurs
 français. Les propositions de contrats affluent. Le groupe choisit de signer avec Barclay. En 2003, il sort le maxi *La
@@ -54,7 +54,7 @@ Teyssot-Gay de Noir Désir déclare dans Rolling Stone être « sensible à la m
 dans Rock & Folk en 2008 avoir « apprécié le premier album de Deportivo ». Gaëtan Roussel les loue lors de l'émission
 Taratata en avril 2008. Miossec leur dédicace *Les Bières…* lors de ses concerts.
 
-## Une discographie en dents de scie
+###### Une discographie en dents de scie
 
 **Deportivo** (2007) — Produit par Gordon Raphaël — le producteur des Strokes — et Yann Madec, le deuxième album
 homonyme marque une progression indéniable. Les fans répondent présent et cette fois Deportivo accroche une brillante
@@ -79,7 +79,7 @@ notamment sur le très radio-friendly *(L)égo*.
 Reptile tangue, il s'éparpille parfois, mais il avance tout en étant cabossé et résolument humain. Il refuse le « retour
 aux sources » qui sent la naphtaline. Il choisit la mue. Une mue qui gratte, qui démange, mais qui dit la vérité.
 
-## Le retour du fils prodigue
+###### Le retour du fils prodigue
 
 Après sept ans de pause, Deportivo surprend son monde en remontant sur scène le 14 octobre 2022 à La Cigale de Paris —
 date affichant complet depuis des mois. Le concert, loin d'être un rendez-vous pour nostalgiques, s'avère être une
@@ -91,7 +91,7 @@ Le groupe joue le 4 mai 2024 au Trianon pour célébrer, jour pour jour, les 20 
 tournée de festivals. S'enchaînent ensuite un sold-out à l'Olympia en mars 2025, puis une série de dates estivales. De
 toute évidence, Deportivo n'est plus seulement de retour, mais bel et bien là pour rester.
 
-## Un line-up renouvelé, une âme intacte
+###### Un line-up renouvelé, une âme intacte
 
 Lors du retour en 2022, le line-up inclut Jérôme Coudanne au chant et à la guitare, Julien Bonnet à la batterie, Clément
 Fonio à la basse — remplaçant Richard Magnac —, Cédric Le Roux à la guitare, et Alexandre Maillard aux claviers. Cinq

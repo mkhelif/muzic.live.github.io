@@ -19,7 +19,7 @@ connue pour ses vidéos de mode et de style, c'est par la musique qu'elle conqui
 à une reprise touchante de « Gaffe aux autres » de Ben Mazué en 2021, qui révèle une voix singulière et une sensibilité
 à fleur de peau.
 
-##### Une artiste indépendante
+###### Une artiste indépendante
 
 Styleto choisit d'abord la voie de l'indépendance totale : elle sort son premier album le 26 août 2022 sans passer par
 une major, suivie de deux nouveaux titres inédits, « Se casser » et « Trop bonnes ». Cette liberté artistique lui permet
@@ -28,7 +28,7 @@ de développer un univers cohérent, mêlant ballades élégantes et touches de 
 En juin 2023, elle franchit une nouvelle étape en signant chez Columbia Records, qui lui ouvre les portes d'une
 visibilité nationale accrue tout en lui permettant de conserver l'authenticité qui a fait son succès.
 
-##### Style et influences
+###### Style et influences
 
 La musique de Styleto s'inscrit pleinement dans la tradition de la chanson française contemporaine, avec des textes
 soignés qui parlent d'émotions vraies, de relations humaines et de questionnements intérieurs. Sa voix, décrite comme «

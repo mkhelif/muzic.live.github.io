@@ -29,7 +29,7 @@ rempli des salles dans toute l'Europe et prouvé qu'on pouvait construire une ca
 sans jamais quitter le territoire du folk-rock indépendant et de la chanson à guitare. Sans compromis, sans artifice,
 sans se perdre en route.
 
-## Bishopbriggs, Travis et la guitare du père
+###### Bishopbriggs, Travis et la guitare du père
 
 Amy Elizabeth Macdonald naît le 25 août 1987 à **Bishopbriggs**, dans l'East Dunbartonshire, à quelques kilomètres de
 Glasgow. Son enfance est celle d'une gamine ordinaire de la ceinture centrale écossaise — jusqu'au jour où, à 12 ans,
@@ -44,7 +44,7 @@ chose de la singularité de son univers : **Travis** bien sûr, mais aussi **The
 Weller**, **Arctic Monkeys**, **The Vaccines** et, de manière plus inattendue, **Rammstein**. Du folk teinté d'indie
 rock, porté par une énergie qui doit autant au stade qu'au pub.
 
-## *This Is the Life* (2007) : le raz-de-marée à 19 ans
+###### *This Is the Life* (2007) : le raz-de-marée à 19 ans
 
 Elle signe avec **Vertigo Records** (le label des Killers et de Razorlight) et sort son premier single, *Poison Prince*,
 en mai 2007. Puis, le 30 juillet 2007, paraît **This Is the Life** — l'album, produit par **Pete Wilkinson**. Dix
@@ -56,7 +56,7 @@ place** au Royaume-Uni, au Danemark, aux Pays-Bas et en Suisse. **Trois millions
 Amy Macdonald a 19 ans et elle vient de signer l'un des plus gros débuts européens de la décennie. Le single *Mr. Rock &
 Roll* confirme l'élan. En 2008, les États-Unis suivent — avec un succès plus modeste mais une notoriété grandissante.
 
-## La constance européenne : cinq albums en dix-huit ans
+###### La constance européenne : cinq albums en dix-huit ans
 
 Là où beaucoup d'artistes de sa génération auraient été broyés par le poids d'un tel premier album, Macdonald choisit la
 voie de la constance. Chaque album qui suit est un pas en avant — parfois discret, jamais raté, toujours ancré dans le
@@ -77,7 +77,7 @@ en Suisse**. Le single *Dream On* connaît un beau succès dans les charts europ
 **The Human Demands** (2020) — écrit pendant la pandémie, après un retour chez ses parents à Whitburn — explore des
 thèmes plus matures et introspectifs. Le single *The Hudson* atteint le top 15 en Écosse.
 
-## *Is This What You've Been Waiting For?* (2025) : le sixième album
+###### *Is This What You've Been Waiting For?* (2025) : le sixième album
 
 En avril 2025, Amy Macdonald revient avec le single principal de son sixième album, **Is This What You've Been Waiting
 For?**, sorti le 11 juillet 2025. L'album débute **numéro un en Écosse** et **numéro huit au UK**, tout en atteignant le
@@ -85,7 +85,7 @@ top 10 en Australie, en Allemagne et en Suède. La tournée européenne qui l'ac
 ce que les chiffres de ventes disent depuis près de vingt ans : Amy Macdonald est une valeur sûre du circuit live
 européen, une artiste que le public revient voir album après album, avec une fidélité qui ne se dément pas.
 
-## L'Écosse, le football et les Ferrari
+###### L'Écosse, le football et les Ferrari
 
 Amy Macdonald ne fait pas dans la tiédeur quand il s'agit de son pays. Fervente **partisane de l'indépendance écossaise
 **, elle a écrit *Leap of Faith* (sur l'album *Under Stars*) au sujet du référendum de 2014. Elle chante régulièrement
@@ -100,7 +100,7 @@ folk-pop et qui en dit long sur une personnalité qui refuse les cases.
 Elle soutient également la **recherche sur la maladie d'Alzheimer**, reversant une partie des recettes de son single de
 Noël *This Christmas Day* à la recherche britannique.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Amy Macdonald est la preuve qu'on peut bâtir une carrière internationale de près de vingt ans sur les fondations les
 plus simples : une guitare acoustique, une voix de contralto puissante et des chansons qui disent vrai. Dans un paysage

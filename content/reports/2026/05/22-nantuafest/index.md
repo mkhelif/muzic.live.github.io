@@ -21,7 +21,7 @@ urbaine et grand air. Pour cette cinquième édition, la première soirée joue 
 caribéennes — une affiche qui assume sa cohérence et sa fluidité, de l'ouverture électro jusqu'à la tête d'affiche
 afrolove.
 
-## Jude — La batteuse qui tape du pied droit
+###### Jude — La batteuse qui tape du pied droit
 
 {{< carousel pictures="pictures/jude" alt="Jude" author="mkhelif" >}}
 
@@ -33,7 +33,7 @@ construire un rythme. Ancienne batteuse reconvertie à la techno, Jude a intégr
 l'intégrer dans ses machines. Ça tape du bien, comme il se doit. Un début de soirée qui méritait un public plus fourni —
 mais les lauréats de tremplin savent qu'on les regarde de haut. La suite leur appartient.
 
-## Danitsa — La soul qui réchauffe
+###### Danitsa — La soul qui réchauffe
 
 {{< carousel pictures="pictures/danitsa" alt="Danitsa" author="mkhelif" >}}
 
@@ -47,13 +47,13 @@ interpelle. Puis, au détour d'un titre, elle fait monter deux femmes depuis la 
 est généreux, sincère, et la salle le lui rend. Ce « couteau suisse de la musique » prouve ce soir qu'elle sait aussi
 être couteau de poche — intime, directe, efficace.
 
-## DJ Skred — Le ciment entre les briques
+###### DJ Skred — Le ciment entre les briques
 
 Entre chaque plateau, DJ Skred assure la transition avec une autorité tranquille. Pas un bouche-trou, pas un fond
 sonore — un vrai set de maintien qui garde la chaleur, entretient l'élan, empêche la foule de se disperser vers les
 buvettes. Au top, sans détour possible.
 
-## Maureen — La Queen entre... bien tard
+###### Maureen — La Queen entre... bien tard
 
 {{< carousel pictures="pictures/maureen" alt="Maureen" author="mkhelif" >}}
 
@@ -69,7 +69,7 @@ Maureen est une grande performeuse — sa danse, sa présence, son énergie sont
 de festival en plein air, sous les étoiles du Bugey, on aurait aimé entendre sa voix plus souvent plutôt que le
 playback. Le show plaît, le public est conquis, au final, c'est le principal.
 
-## Tayc — L'afrolove en grande cérémonie
+###### Tayc — L'afrolove en grande cérémonie
 
 Julien Bouadjie, dit Tayc, né à Marseille de parents camerounais, a développé un style qu'il a baptisé l'« Afrolove »,
 fusion de R&B, afrobeat, soul et zouk. Sur scène ce soir, c'est toute cette vision qui se déploie — dans les grandes
@@ -85,6 +85,6 @@ devenus anthologies — et le public chante, mot pour mot, mesure après mesure.
 C'est la tête d'affiche dans toute sa dimension. Pas de question sur le playback ici — l'orchestre sonne, la voix porte,
 le groove est réel. Tayc fait le show qu'on attendait, et il le fait bien.
 
-## Hypaton — Absent de cette chronique
+###### Hypaton — Absent de cette chronique
 
 Les jambes ont dit non avant la fin, je ne reste pour Hypaton — la fatigue a été plus forte. On lui devra une revanche.

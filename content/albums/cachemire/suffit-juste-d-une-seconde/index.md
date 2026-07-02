@@ -16,7 +16,7 @@ sorti le 10 octobre 2025 chez Enrage Production, en fait partie. Cachemire y liv
 viscéral, urgent, poreux à la rage de l'époque, qui rappelle pourquoi la langue française reste l'une des plus belles
 machines à rock'n'roll du monde — quand on accepte de ne pas la mettre sous cloche.
 
-##### Une bombe en treize tableaux
+###### Une bombe en treize tableaux
 
 Treize titres, quarante et une minutes : pas un gramme de gras, pas un titre de remplissage. Cachemire opère ici
 une concentration rare. Chaque morceau est un état d'urgence, une saynète où la guitare cogne, où la voix mord, où
@@ -28,7 +28,7 @@ crache son humeur en majuscules sans demander la permission. La rythmique tape d
 comme un coup de gueule de comptoir, et le refrain — frontal — s'imprime en deux écoutes. C'est exactement le genre
 de chanson qu'on n'écrit plus en France : directe, salissante, sans calcul.
 
-##### L'art du tube qui ne s'excuse pas
+###### L'art du tube qui ne s'excuse pas
 
 **"PIED AU PLANCHER"** est le poumon de l'album, le titre déjà le plus écouté du disque, et on comprend vite
 pourquoi. C'est un de ces morceaux qui semblent avoir toujours existé — mélodie immédiate, énergie rock'n'roll
@@ -40,7 +40,7 @@ plume coup-de-poing — et des moments plus rugueux, plus garage, qui ancrent le
 concession. **"CES VOIX"** (3:36) en est un bel exemple : structure tendue, montée progressive, basse qui pulse,
 texte qui interroge sans démonstration.
 
-##### Une plume française qui n'a pas peur
+###### Une plume française qui n'a pas peur
 
 Ce qui frappe à l'écoute, c'est la qualité de l'écriture. Cachemire chante en français comme on parle vraiment :
 nerveux, imagé, parfois cru, jamais pédant. La langue n'est pas une contrainte, mais un outil affûté. On retrouve
@@ -51,7 +51,7 @@ L'album se referme sur **"Chanson pour sépultures"** (3:41), faux requiem qui f
 d'amour à ceux qui restent. C'est exactement la chute que le disque méritait : ni grandiloquente ni mièvre,
 simplement juste.
 
-##### Verdict
+###### Verdict
 
 **Suffit juste d'une seconde** est l'un de ces albums français qui réconcilient avec l'idée que le rock hexagonal
 peut encore être grand sans cesser d'être populaire. Cachemire signe un disque qui sonne mieux à chaque écoute, où

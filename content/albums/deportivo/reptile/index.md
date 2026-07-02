@@ -22,7 +22,7 @@ entièrement financé par les fans — sans label, sans concession, sans calcul.
 rock français nerveux, taillé dans le vif, qui rappelle pourquoi le groupe de Bois-d'Arcy reste l'un des
 patrimoines les plus précieux du rock indé hexagonal.
 
-##### Un disque court, ramassé, à l'os
+###### Un disque court, ramassé, à l'os
 
 Dix titres, 22 minutes 50 : *Reptile* est un EP allongé plus qu'un album-fleuve, et c'est très bien ainsi. Aucun
 morceau ne dépasse 2:36. Cette concentration extrême est la grande réussite formelle du disque : chaque chanson
@@ -33,7 +33,7 @@ L'album s'ouvre sur **"Reptile"** (2:04), titre éponyme qui pose immédiatement
 batterie sèche, voix de Jérôme Coudanne qui mord les mots. C'est du Déportivo pur jus — cette manière unique
 d'allier urgence punk et mélodie pop qui les distingue depuis *Penalty* (2003).
 
-##### Le cœur du disque : trois fulgurances
+###### Le cœur du disque : trois fulgurances
 
 Si l'album entier tient son cap, trois titres sortent du lot. **"Révolution Benco"** (2:15) est l'un d'eux :
 brûlot pop-punk dont le refrain s'imprime à la première écoute, avec ce mélange de dérision et de gravité qui
@@ -48,7 +48,7 @@ de la chanson française si elle n'était pas habillée d'un riff garage. C'est 
 structure qui rappelle les meilleurs moments de *Pour une tonne* (2008). La rythmique pulse, la guitare cisaille,
 la voix se brise au bon moment. La chute parfaite pour un disque qui n'aura jamais trop tiré sur la corde.
 
-##### Une indépendance qui s'entend
+###### Une indépendance qui s'entend
 
 Le fait que **Reptile** ait été financé par les fans, sans label, n'est pas un détail — ça s'entend dans chaque
 choix. Pas de production calibrée pour la playlist, pas de single formaté, pas de feat opportuniste. Le groupe a
@@ -56,7 +56,7 @@ fait exactement le disque qu'il voulait faire, et cette liberté irrigue chaque 
 le grain, l'authenticité, parfois au détriment de la perfection sonore — et c'est exactement ce qu'on attend de
 Déportivo en 2025.
 
-##### Les limites de l'exercice
+###### Les limites de l'exercice
 
 Reste que cette concentration extrême a un prix. À 22 minutes, *Reptile* peut frustrer ceux qui attendaient un
 album plus ample, plus aventureux. Certains titres comme **"Rubikscube"** (2:05) ou **"Perdu !"** (2:00) passent
@@ -66,7 +66,7 @@ chanson plus longue, un développement, une prise de risque formelle.
 Le disque manque également d'un vrai morceau-fleuve, de cette pièce centrale qui aurait permis à Déportivo de
 montrer une autre facette. Sept ans d'absence justifiaient peut-être plus d'ambition formelle.
 
-##### Verdict
+###### Verdict
 
 Cela dit, **Reptile** reste une belle réussite. Un disque honnête, ramassé, qui dit beaucoup en peu de temps et
 qui prouve que Déportivo n'a rien perdu de ce qui faisait sa singularité : cette capacité unique à écrire des

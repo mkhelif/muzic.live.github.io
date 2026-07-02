@@ -17,14 +17,14 @@ Passionnée de musique, notamment de guitare et de chant qu'elle exerce depuis s
 cette génération d'artistes autodidactes qui ont grandi avec les réseaux sociaux et les plateformes de streaming, mais
 qui n'en cultivent pas moins une approche authentique et personnelle de la création musicale.
 
-##### N'oubliez pas les paroles (2020)
+###### N'oubliez pas les paroles (2020)
 
 Le 30 décembre 2020, alors qu'elle n'avait que 14 ans, Lou Beurier se distingue lors de l'émission "N'oubliez pas les
 paroles" dans une édition spéciale. Cette première exposition médiatique, bien qu'elle ne soit pas un concours de chant
 à proprement parler, permet au jeune public de découvrir sa présence scénique et sa connaissance approfondie du
 répertoire musical.
 
-##### The Voice - Saison 13 (2024)
+###### The Voice - Saison 13 (2024)
 
 En 2024, Lou Beurier participe à la saison 13 de The Voice sur TF1, devenant l'une des plus jeunes candidates de cette
 édition. Cette participation représente un tournant majeur dans sa jeune carrière. L'aventure s'avère exigeante : sur 60
@@ -34,7 +34,7 @@ processus et du niveau d'excellence requis.
 L'expérience de The Voice constitue pour Lou ce qu'elle décrit elle-même comme jouer dans la cour des grands, une
 confrontation avec les standards professionnels les plus élevés du métier.
 
-##### L'identité musicale
+###### L'identité musicale
 
 Lou Beurier développe un style musical situé entre pop-rock et blues, un positionnement qui lui permet d'explorer une
 large palette émotionnelle. Cette fusion de genres reflète ses influences diverses et sa volonté de ne pas s'enfermer
@@ -52,7 +52,7 @@ Cette approche autobiographique et empathique de l'écriture place Lou dans la t
 auteurs-compositeurs-interprètes français, où le texte et la mélodie sont au service d'une narration émotionnelle
 authentique.
 
-##### Les productions discographiques
+###### Les productions discographiques
 
 Son premier album intitulé "L'Heure Idéale" est disponible sur toutes les plateformes de streaming. Ce premier opus
 marque l'aboutissement de plusieurs années de travail et de maturation artistique. Le titre même, "L'Heure Idéale",
@@ -73,7 +73,7 @@ lien constant avec son public.
 Lou Beurier sort le single "Miroir", une chanson qui semble explorer les thèmes de l'introspection et de l'identité, en
 phase avec les questionnements d'une artiste en construction.
 
-##### "Cordes aux Voix" - Grenoble (2021)
+###### "Cordes aux Voix" - Grenoble (2021)
 
 Le 10 octobre 2021, Lou Beurier remporte le concours "Cordes aux Voix" à Grenoble dans la catégorie "auteur compositeur
 interprète". Cette victoire valide son statut d'artiste complète, capable non seulement d'interpréter mais aussi de
@@ -82,7 +82,7 @@ créer son propre univers musical.
 Ce type de reconnaissance par ses pairs et par des jurys professionnels constitue une étape importante dans la
 légitimation de son talent et de son approche artistique.
 
-##### La dimension scénique
+###### La dimension scénique
 
 Lou a rejoint un groupe de jeunes musiciens bisontins, âgés de 17 à 22 ans, avec lequel elle prépare ses futures
 prestations scéniques. Cette collaboration avec d'autres musiciens de sa génération et de sa région témoigne d'une
@@ -94,7 +94,7 @@ stratégie qui vise à construire une base de fans solide à travers des concert
 Lou Beurier s'est produite au Château de Joux, un monument historique prestigieux de la région, prouvant sa capacité à
 investir des lieux patrimoniaux et à toucher différents publics.
 
-##### Une artiste ancrée dans son territoire
+###### Une artiste ancrée dans son territoire
 
 Lou Beurier reste profondément attachée à ses racines franc-comtoises. Originaire du village de Doubs, puis décrite
 comme Pontissalienne, elle incarne cette nouvelle génération d'artistes qui refusent l'exode systématique vers Paris et
@@ -107,7 +107,7 @@ La collaboration avec des musiciens bisontins montre qu'il existe en Franche-Com
 dynamique, capable de produire des talents de niveau national. Lou Beurier en devient l'une des ambassadrices les plus
 visibles.
 
-##### Une étoile montante de la scène française
+###### Une étoile montante de la scène française
 
 Lou Beurier représente ce que la nouvelle scène pop-rock française a de meilleur à offrir : une artiste complète qui
 maîtrise tous les aspects de son art (écriture, composition, interprétation, présence scénique), ancrée dans un

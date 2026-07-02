@@ -19,7 +19,7 @@ issus de la même scène, liés par des collaborations étroites — Macie Stewa
 Override* — mais porteurs de propositions bien distinctes. Une soirée en forme de dialogue entre l'intime et le
 collectif, la jeunesse et la maturité, la simplicité nue et l'étoffe d'un groupe rodé.
 
-## Macie Stewart : l'art du dépouillement
+###### Macie Stewart : l'art du dépouillement
 
 {{< carousel pictures="pictures/macie-stewart" alt="Macie Stewart" author="mkhelif" >}}
 
@@ -35,7 +35,7 @@ duo étoffe le son sans jamais rompre l'équilibre. Les harmonies vocales s'imbr
 texture là où d'autres auraient empilé les couches. On quitte ce set avec l'envie d'en entendre davantage — la marque
 d'une première partie réussie.
 
-## Jeff Tweedy : la sérénité d'un maître folk
+###### Jeff Tweedy : la sérénité d'un maître folk
 
 {{< carousel pictures="pictures/jeff-tweedy" alt="Jeff Tweedy" author="mkhelif" >}}
 
@@ -57,7 +57,7 @@ reconnaissance d'un songwriter qui, près de quarante ans après ses débuts ave
 chose d'essentiel. *Twilight Override* a été décrit par Tweedy lui-même comme une tentative de « submerger l'obscurité
 par la créativité ». Ce soir, à Genève, la lumière l'a incontestablement emporté.
 
-## L'axe Chicago-Genève
+###### L'axe Chicago-Genève
 
 En programmant cette soirée, Antigel confirmait son flair pour les associations qui font sens. Macie Stewart et Jeff
 Tweedy ne partagent pas seulement une ville : ils partagent un studio — le Loft de Chicago où *Twilight Override* a été

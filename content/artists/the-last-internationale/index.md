@@ -22,7 +22,7 @@ la politique. Nous sommes un groupe qui n'a jamais eu peur de mélanger les deux
 Jouer la sécurité ne produit que de la musique sans âme qui n'inspire personne. Ces mots d'Edgey Pires résument en
 quelques phrases vingt ans d'un parcours singulier, exigeant, et absolument inoubliable sur scène.
 
-## Une rencontre, un mouvement
+###### Une rencontre, un mouvement
 
 L'histoire originelle est classique : deux enfants de New York — Delila Paz, bassiste et claviériste dotée d'une voix
 soul et blues aux proportions vertigineuses, et Edgey Pires, étudiant en sciences politiques et guitariste au style âpre
@@ -38,7 +38,7 @@ Le nom est dérivé de L'Internationale. Nous avons senti que ce nom corresponda
 sentiment d'urgence à ce que nous cherchons à accomplir avec notre musique. Ils voulaient sonner comme un mouvement, pas
 comme un groupe. Mission accomplie.
 
-## Des influences qui traversent l'histoire
+###### Des influences qui traversent l'histoire
 
 Les références de The Last Internationale dessinent la carte d'une Amérique musicale et politique souvent oubliée. Pires
 cite Howlin' Wolf, Bob Dylan, Pete Seeger, Buffy Sainte-Marie et Woody Guthrie parmi leurs influences musicales. Le
@@ -51,7 +51,7 @@ et ouvre la gorge. Tom Morello (Rage Against the Machine) a dit d'eux : « The L
 de la prochaine vague de rockers rebelles. Ils sont bruts et vrais, et mélangent les sensibilités rock de l'East Village
 avec la puissance du Cuirassé Potemkine. »
 
-## Une traversée du désert et une renaissance
+###### Une traversée du désert et une renaissance
 
 Le chemin vers la reconnaissance n'a pas été linéaire. Après des années sur la scène indépendante, le groupe signe chez
 Epic Records pour leur premier album. *We Will Reign* sort le 19 août 2014, produit par Brendan O'Brien — crédité sur
@@ -70,7 +70,7 @@ Cette période sombre produit deux collections live, *This Bootleg Kills... Vol.
 Stars Vol. II* (2017), puis *TLI Unplugged* (2017) — des enregistrements bruts, dépouillés, qui capturent l'essence d'un
 duo qui n'a jamais eu besoin de rien d'autre que d'un micro et d'une guitare pour tenir une salle en haleine.
 
-## Discographie : de la rage à la grâce
+###### Discographie : de la rage à la grâce
 
 **New York, I Do Mind Dying** (EP, 2013) — Un blues rock électrifié, fait principalement de reprises — Lead Belly,
 Elmore James et Leroy Carr, Buffy Sainte-Marie — excepté le titre personnel *Black Cat* d'Edgey Pires. Un manifeste en
@@ -94,7 +94,7 @@ le plus essentiel.
 comme *1984*, *Hoka Hey!* et *Ghettoway Driver*. Un album qui maintient le cap de l'engagement tout en élargissant la
 palette sonore, avec des influences qui vont du folk à la soul en passant par le garage rock.
 
-## La scène : leur véritable territoire
+###### La scène : leur véritable territoire
 
 En live, The Last Internationale est une boule d'énergie explosive avec des voix soul parfaites de Delila et un chaos
 rock'n'roll au bout des doigts d'Edgey — un homme qui arrache littéralement les cordes de sa guitare soir après soir.
@@ -110,7 +110,7 @@ Edgey Pires, guitariste en colère qui lève souvent le poing avant d'entraîner
 fait s'asseoir les gens en cercle autour d'elle. Elle les fait monter sur scène. Elle chante a cappella, sans micro, et
 la salle retient son souffle.
 
-## Un message qui dépasse la musique
+###### Un message qui dépasse la musique
 
 Le groupe est très politique, avec des chansons sur la situation des Premières Nations aux États-Unis, la guerre, la
 pauvreté de la classe ouvrière et l'abus de pouvoir. Un fil d'espoir traverse leurs paroles révolutionnaires. Mais The

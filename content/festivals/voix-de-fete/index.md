@@ -17,7 +17,7 @@ festival, c'est **Voix de Fête** — le plus important rendez-vous de musiques 
 affiche les têtes d'affiche et les découvertes, le rap et la chanson d'auteur, l'électro-pop et les musiques du monde,
 le texte ciselé et le groove qui fait trembler les murs.
 
-## L'origine : Roland Le Blévennec, le Chat Noir et un pari un peu fou
+###### L'origine : Roland Le Blévennec, le Chat Noir et un pari un peu fou
 
 L'histoire de Voix de Fête est indissociable de celle de **Roland Le Blévennec**, personnage haut en couleur de la scène
 culturelle genevoise. Né en Bretagne en 1950 — l'année, aime-t-il rappeler, où la première guitare électrique fut
@@ -36,7 +36,7 @@ Le pari est simple et ambitieux à la fois : mobiliser le public autour d'un pro
 d'affiche, pas de marketing agressif — juste la conviction que la chanson francophone contemporaine est assez riche,
 assez vivante, assez diverse pour remplir des salles si on prend la peine de la programmer avec exigence et curiosité.
 
-## Vingt-huit ans plus tard : un festival devenu incontournable
+###### Vingt-huit ans plus tard : un festival devenu incontournable
 
 Le pari a été tenu — et au-delà. Ce qui n'était qu'un modeste festival de chanson à Carouge est devenu, en vingt-huit
 éditions, le rendez-vous incontournable de la scène musicale francophone en Suisse. Le budget a été multiplié par dix,
@@ -50,7 +50,7 @@ honorifique de la Ville de Carouge, en reconnaissance de décennies de rayonneme
 retraite, reste une figure tutélaire — lors de la 20ème édition en 2018, il avait présenté un spectacle seul en scène
 devant une salle comble au Théâtre Pitoëff, retraçant un quart de siècle d'anecdotes truculentes.
 
-## L'ADN du festival : le texte, la découverte, la diversité
+###### L'ADN du festival : le texte, la découverte, la diversité
 
 Ce qui distingue Voix de Fête dans le paysage festivalier, c'est d'abord une conviction fondatrice : à l'heure où les
 langues se mélangent, s'usent et parfois disparaissent, le parti pris de s'exprimer artistiquement en français est un
@@ -65,7 +65,7 @@ Vald, Oxmo Puccino, Vincent Delerm, Deluxe, Jérémy Frérot — mais aussi, à 
 qui, quelques années plus tard, se retrouvent sur les plus grandes scènes francophones. C'est cette capacité à détecter
 les talents avant tout le monde qui fait la réputation du festival dans le milieu professionnel.
 
-## La Lentille et French mon amour : pépinière de talents
+###### La Lentille et French mon amour : pépinière de talents
 
 Voix de Fête ne se contente pas de programmer des artistes : il les accompagne. Deux dispositifs incarnent cette
 mission.
@@ -81,7 +81,7 @@ Ces deux plateformes font de Voix de Fête bien plus qu'un simple festival : c'e
 accompagnement, un lieu où les carrières commencent et où les rencontres entre artistes, programmateurs et public
 peuvent changer des trajectoires.
 
-## Bars en Fête : le OFF qui fait vibrer les comptoirs
+###### Bars en Fête : le OFF qui fait vibrer les comptoirs
 
 Depuis 2008, le festival s'accompagne de **Bars en Fête**, son volet OFF. Le principe est irrésistible : pendant toute
 la durée du festival (et même quelques jours avant), des concerts gratuits sont organisés dans une quinzaine de bars
@@ -90,7 +90,7 @@ francophone. C'est souvent dans ces soirées de bar, au plus près du public, qu
 inattendues et les plus mémorables du festival. En 2026, Bars en Fête fête sa **18ème édition** et continue d'élargir
 son réseau de lieux partenaires.
 
-## Un festival à taille humaine, convivial et accessible
+###### Un festival à taille humaine, convivial et accessible
 
 Avec environ 13 000 festivaliers par édition (dont près de 5 000 sur les concerts gratuits), Voix de Fête cultive ce que
 les grandes machines festivalières ont souvent perdu : la proximité. On y croise les artistes au bar, on discute avec
@@ -104,7 +104,7 @@ Découvertes) permettent de composer son parcours selon ses affinités, à trave
 Le prix des billets reste accessible. Et l'ambiance — ceux qui y sont allés le savent — est celle d'une fête entre amis
 qui dure une semaine.
 
-## Ce qu'il faut retenir
+###### Ce qu'il faut retenir
 
 Voix de Fête n'est pas simplement un festival de musique : c'est un acte de foi dans la chanson francophone. Depuis
 1999, depuis le Chat Noir de Carouge jusqu'aux douze scènes de l'édition 2026, depuis le pari un peu fou de Roland Le

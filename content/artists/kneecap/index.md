@@ -9,7 +9,7 @@ rappe en irlandais et en anglais, faisant de la langue gaélique un acte politiq
 Fondé en 2017, Kneecap est devenu en quelques années l'un des groupes les plus provocateurs, les plus
 attachants et les plus discutés du rap mondial.
 
-##### Belfast, la langue irlandaise et l'héritage des Troubles
+###### Belfast, la langue irlandaise et l'héritage des Troubles
 
 Les trois membres de Kneecap appartiennent à la génération des « ceasefire babies » — celle qui est née et
 a grandi après l'Accord du Vendredi saint de 1998, qui a mis fin aux décennies de violence en Irlande du
@@ -18,14 +18,14 @@ marginalisée sous la domination britannique. Rapper en irlandais, pour eux, n'e
 folklorique : c'est un acte de résistance culturelle, une manière de revendiquer une identité et de
 maintenir vivante une langue que l'histoire a tenté d'étouffer.
 
-##### Un rap sans compromis
+###### Un rap sans compromis
 
 Dès leur premier single C.E.A.R.T.A. (2017) — cearta signifiant « droits » en irlandais —, Kneecap
 affiche la couleur : un rap cru, drôle, subversif, ancré dans le quotidien de la jeunesse ouvrière de
 Belfast. Leur mixtape 3CAG (2018) confirme la formule : textes provocateurs sur la culture de rue, le
 républicanisme irlandais et les droits linguistiques, portés par une énergie live dévastatrice.
 
-##### Fine Art, le film et la reconnaissance mondiale
+###### Fine Art, le film et la reconnaissance mondiale
 
 En 2024, deux événements propulsent Kneecap sur la scène mondiale. Leur premier album studio Fine Art
 reçoit un accueil critique enthousiaste, tandis que leur film biographique éponyme — premier long métrage

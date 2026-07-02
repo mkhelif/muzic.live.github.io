@@ -24,7 +24,7 @@ enthousiasmante du public, qui reconnaît immédiatement sa capacité unique à 
 chanson
 française avec une émotion saisissante.
 
-##### Carrière musicale
+###### Carrière musicale
 
 L'ascension de Pierre de Maere s'est faite progressivement, mais sûrement, d'abord par ses reprises mémorables de Michel
 Sardou,
@@ -39,7 +39,7 @@ L'artiste belge ne se contente pas d'être un simple interprète et développe �
 démontrant une
 maturité artistique qui dépasse largement son âge et révèle un véritable potentiel créatif.
 
-##### Style et influences
+###### Style et influences
 
 Le style vocal unique de Pierre de Maere se caractérise par une tessiture grave qui lui permet d'aborder des répertoires
 variés avec une maturité surprenante. Il mélange influences soul, pop contemporaine et chanson française traditionnelle,
@@ -47,7 +47,7 @@ créant un univers musical personnel qui respecte l'héritage des grands maître
 sensibilité. Sa voix puissante et expressive devient sa signature artistique, capable de transmettre une large gamme
 d'émotions et de créer une intimité particulière avec l'auditeur qui transcende les générations.
 
-##### Actualité
+###### Actualité
 
 Pierre de Maere a su capitaliser sur son succès numérique pour développer une carrière scénique prometteuse, proposant
 des concerts où sa présence charismatique et sa voix exceptionnelle créent une atmosphère émotionnelle unique. Son

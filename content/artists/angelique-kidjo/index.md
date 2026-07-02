@@ -12,21 +12,21 @@ directrice de théâtre —, elle monte sur scène pour la première fois à l'�
 Sa trajectoire musicale, qui s'étend sur plus de quarante ans, en fait l'une des artistes africaines les plus
 primées et les plus reconnues de l'histoire contemporaine.
 
-##### Une musique sans frontières
+###### Une musique sans frontières
 
 Ce qui distingue Angélique Kidjo de ses contemporains, c'est son refus radical des catégories. Sa musique est un
 carrefour vivant où se croisent les chants traditionnels du Bénin, l'afrobeat, la samba brésilienne, le funk de
 James Brown, les rythmes latins de Santana, la soul gospel américaine et le makossa camerounais. Cette synthèse
 reflète une conviction profonde que la musique africaine est la racine commune de toutes ces traditions.
 
-##### De Cotonou à Paris et au monde
+###### De Cotonou à Paris et au monde
 
 À 20 ans, elle est déjà professionnelle. Elle s'installe à Paris en 1983 et enregistre son premier album, Pretty,
 en 1988. Logozo (1991) la fait connaître en Europe et en Amérique, Fifa (1995) confirme sa stature internationale.
 La liste de ses collaborations témoigne de son statut de passeuse entre les cultures : Carlos Santana, Peter Gabriel,
 Alicia Keys ou encore Bono comptent parmi ses partenaires musicaux.
 
-##### Reconnaissances et engagements
+###### Reconnaissances et engagements
 
 Angélique Kidjo a remporté cinq Grammy Awards, un record mondial pour la catégorie Best Global Music Album, ce qui
 l'inscrit au Guinness World Records. Eve (2014), hommage aux femmes africaines chanté en langues du Bénin, et

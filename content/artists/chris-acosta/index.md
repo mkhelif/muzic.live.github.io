@@ -10,7 +10,7 @@ sa maîtrise technique de la percussion. Découvert à l'âge de seize ans, il s
 les cercles musicaux de New York et d'Amérique latine, se produisant dans des salles combles à travers la Colombie,
 Porto Rico, la République dominicaine, le Brésil, le Guatemala, le Chili et l'Équateur.
 
-##### Un percussionniste de scène
+###### Un percussionniste de scène
 
 Ce qui distingue Chris Acosta des autres percussionnistes de sa génération, c'est avant tout sa capacité à
 transformer chaque prestation en spectacle visuel autant que sonore. Reconnu comme l'un des percussionnistes les
@@ -20,7 +20,7 @@ prestigieux, dans des clubs renommés, à des événements privés et à des soi
 Il est couronné « Best of Westchester » pendant huit années consécutives, une récompense locale qui témoigne de la
 constance et de l'excellence de ses prestations auprès du public nord-américain.
 
-##### L'innovation au service de la scène
+###### L'innovation au service de la scène
 
 Sa démarche artistique ne se limite pas à l'interprétation : en collaboration avec la marque DRUMLITE, Chris Acosta
 développe un kit de percussion personnalisé de sept pièces équipé de lumières LED, transformant son jeu en

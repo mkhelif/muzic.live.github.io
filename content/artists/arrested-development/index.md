@@ -13,7 +13,7 @@ noire américaine du Sud. Ce positionnement artistique audacieux leur vaut une r
 commerciale exceptionnelle, ainsi que des distinctions qui restent parmi les plus marquantes de l'histoire
 du genre.
 
-##### Une vision afrocentrique du hip-hop
+###### Une vision afrocentrique du hip-hop
 
 Fondé après qu'un concert de Public Enemy ait ébranclé Speech dans ses convictions artistiques, Arrested
 Development se construit autour d'une idée forte : faire du hip-hop qui célèbre la culture, la spiritualité
@@ -27,7 +27,7 @@ Ce collectif aux contours délibérément communautaires illustre la philosophie
 seulement un produit commercial, mais un acte collectif et politique, un prolongement de la lutte pour la
 dignité et la justice.
 
-##### 3 Years, 5 Months & 2 Days in the Life Of...
+###### 3 Years, 5 Months & 2 Days in the Life Of...
 
 Publié en 1992 sur le label Chrysalis Records, leur album de début porte un titre qui évoque le temps mis
 par le groupe pour décrocher un contrat discographique — une durée qui dit tout des difficultés rencontrées
@@ -45,7 +45,7 @@ Best New Artist — une première pour un groupe de hip-hop — et Best Rap Perf
 distinctions consacrent non seulement le talent du groupe, mais reconnaissent aussi la légitimité d'une
 vision alternative du rap au sein même des instances les plus institutionnelles de l'industrie musicale.
 
-##### La suite et la résurrection
+###### La suite et la résurrection
 
 Le succès phénoménal de leur premier album place la barre très haut pour la suite. *Zingalamaduni* (1994),
 leur deuxième album, déçoit commercialement malgré ses qualités artistiques. Le titre swahili signifie
