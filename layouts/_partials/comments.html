@@ -1,5 +1,5 @@
 <!-- Comments -->
 <div data-pagefind-ignore="all" class="d-print-none">
-    <h4 class="mt-5 p-3 bg-primary text-dark">Commentaires</h4>
+    {{ partial "titles/h3.html" (dict "title" "Commentaires") }}
     {{ partialCached "disqus.html" . }}
 </div>
