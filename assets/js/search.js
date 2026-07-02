@@ -4,6 +4,15 @@ const OPTIONS = {
     excerptLength: 150
 };
 
+// Lowercase + strip diacritics so "josman" matches "Josman" and "medine" matches "Médine".
+function normalizeText(value) {
+    return (value || '')
+        .normalize('NFD')
+        .replace(/[̀-ͯ]/g, '')
+        .toLowerCase()
+        .trim();
+}
+
 window.addEventListener('DOMContentLoaded', () => loading.then(pagefind => {
     // Elements
     const searchInput = document.getElementById('search-input');
@@ -40,27 +49,49 @@ window.addEventListener('DOMContentLoaded', () => loading.then(pagefind => {
         }
     }
 
-    function addResult(result) {
+    function addResult(data) {
         const element = document.createElement('div');
-        element.id = result.id;
+        element.id = data.url;
         element.classList.add('pb-2', 'px-3', 'px-sm-0');
-        result.data().then(data => {
-            element.appendChild(createCoverElement(data.meta.image, data.meta.image_alt, data.url));
-            element.appendChild(createTitleElement(data.meta.title, data.url));
-            element.appendChild(createContentElement(data));
-        });
+        element.appendChild(createCoverElement(data.meta.image, data.meta.image_alt, data.url));
+        element.appendChild(createTitleElement(data.meta.title, data.url));
+        element.appendChild(createContentElement(data));
         searchResults.appendChild(element);
     }
 
-    function showResults(search) {
-        // Update results
-        clearResults();
-        search.results.forEach(addResult);
+    // Rank a result by how well the query matches its title:
+    // 3 = exact title, 2 = title starts with the term, 1 = title contains it, 0 = body only.
+    function titleScore(title, term) {
+        const normalized = normalizeText(title);
+        if (!normalized || !term) return 0;
+        if (normalized === term) return 3;
+        if (normalized.startsWith(term)) return 2;
+        if (normalized.includes(term)) return 1;
+        return 0;
+    }
 
-        // Show results
-        searchResultsContainer.classList.remove('d-none');
-        searchResultsContainer.classList.add('d-block');
-        document.body.style.overflowY = 'hidden';
+    function showResults(search) {
+        const term = normalizeText(searchInput.value || '');
+
+        // Load every result's data, then order title matches first while keeping
+        // Pagefind's relevance order as a tie-breaker.
+        Promise.all(search.results.map((result, index) => result.data().then(data => ({ data, index }))))
+            .then(items => {
+                items.sort((a, b) => {
+                    const diff = titleScore(b.data.meta.title, term) - titleScore(a.data.meta.title, term);
+                    return diff !== 0 ? diff : a.index - b.index;
+                });
+
+                // Update results
+                clearResults();
+                items.forEach(item => addResult(item.data));
+
+                // Show results
+                searchResultsContainer.classList.remove('d-none');
+                searchResultsContainer.classList.add('d-block');
+                document.body.style.overflowY = 'hidden';
+            })
+            .catch(hideResults);
     }
 
     function hideResults() {
