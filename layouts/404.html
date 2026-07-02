@@ -1,9 +1,67 @@
 {{ define "main" }}
+    <section class="container-xxl">
+        <div class="d-flex justify-content-center align-items-center pt-5">
+            <!-- Message -->
+            <div>
+                <div class="text-primary text-uppercase">Erreur 404 · Piste introuvable</div>
 
-    <div class="d-flex flex-column h-100 mb-5 pb-5 justify-content-center align-items-center">
-        <img src="/404.svg" width="256px" />
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" role="img" aria-label="404 — Vinyle No Signal" class="w-100 mb-4">
+                    <defs>
+                        <filter id="discShadow" x="-50%" y="-50%" width="200%" height="200%">
+                            <feDropShadow dx="0" dy="26" stdDeviation="28" flood-color="#000000" flood-opacity="0.5"/>
+                        </filter>
+                    </defs>
+                    <text x="260" y="200" text-anchor="middle" dominant-baseline="central" transform="rotate(-8 260 200)" font-family="'Londrina Solid', sans-serif" font-weight="900" font-size="330" fill="#c5f853" fill-opacity="0.05">404</text>
+                    <g transform="translate(125,55)" filter="url(#discShadow)">
+                        <circle cx="135" cy="135" r="135" fill="#000000"/>
+                        <circle cx="135" cy="135" r="134.5" fill="none" stroke="#141414" />
+                        <circle cx="135" cy="135" r="128" fill="none" stroke="#000000" stroke-width="14"/>
+                        <circle cx="135" cy="135" r="121" fill="none" stroke="#141414" />
+                        <circle cx="135" cy="135" r="105" fill="#000000"/>
+                        <g fill="none" stroke="#141414" stroke-width="1.4">
+                            <circle cx="135" cy="135" r="100"/>
+                            <circle cx="135" cy="135" r="94"/>
+                            <circle cx="135" cy="135" r="88"/>
+                            <circle cx="135" cy="135" r="82"/>
+                            <circle cx="135" cy="135" r="76"/>
+                            <circle cx="135" cy="135" r="70"/>
+                            <circle cx="135" cy="135" r="64"/>
+                            <circle cx="135" cy="135" r="58"/>
+                            <circle cx="135" cy="135" r="52"/>
+                        </g>
+                        <circle cx="135" cy="135" r="48" fill="#c5f853"/>
+                        <text x="135" y="120" text-anchor="middle" font-family="'Space Mono', monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#0b0b0b">NO</text>
+                        <text x="135" y="160" text-anchor="middle" font-family="'Space Mono', monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#0b0b0b">SIGNAL</text>
+                        <circle cx="135" cy="135" r="7" fill="#0b0b0b"/>
+                    </g>
+                </svg>
 
-        <h2 class="mt-5 text-primary">Page non trouvée</h2>
-        <p>Malheureusement la page que vous cherchiez n'existe pas ou n'est plus disponible</p>
-    </div>
+                <h2 class="text-white text-center">Cette page a quitté la scène.</h2>
+                <p class="mb-5 fw-light text-center">
+                    Le lien est peut-être cassé, ou l'article a été déplacé lors du soundcheck. Reprenons depuis le début du set.
+                </p>
+                <div class="mb-5 text-center">
+                    <a href="/" class="text-uppercase px-4 py-3 bg-primary text-dark text-monospace fw-bolder small">
+                        <i class="fa fa-xs fa-chevron-left me-1"></i>
+                        Retour à l'accueil
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Recent news -->
+        {{ $news := where site.RegularPages "Section" "news" | first 3 }}
+        {{ if $news }}
+            {{ partial "titles/h3.html" (dict "title" "Dernières actualités" "link" "/news") }}
+            <div class="row row-cols-1 row-cols-md-3">
+                {{ range $index, $new := $news }}
+                    <div>
+                        <div class="rounded overflow-hidden position-relative {{ cond (eq $index 0) "mb-3" "" }}" style="height:clamp(160px,21vw,235px);">
+                            {{ partial "news/hero.html" (dict "context" . "primary" false) }}
+                        </div>
+                    </div>
+                {{ end }}
+            </div>
+        {{ end }}
+    </section>
 {{ end }}
