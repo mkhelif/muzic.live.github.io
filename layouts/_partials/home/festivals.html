@@ -6,7 +6,7 @@
 {{ if $festivals }}
     <section class="mt-5">
         {{ partial "titles/h3.html" (dict "title" "Prochains festivals" "link" "/festivals") }}
-        <div class="row row-cols-1 row-cols-md-4 g-4 pt-3">
+        <div class="row row-cols-1 row-cols-md-4 g-4">
             {{ range where (where site.RegularPages "Section" "festivals") ".Params.id" "in" $festivals }}
             <div class="col">
                 <a href="{{ .RelPermalink }}" class="d-block text-decoration-none rounded overflow-hidden position-relative" style="height:clamp(140px,18vw,200px);">

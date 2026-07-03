@@ -1,0 +1,7 @@
+<small class="badge rounded-0 bg-primary text-dark text-uppercase font-monospace mb-3">
+    {{ if eq . "bass" }}Basse
+    {{ else if eq . "drums" }}Batterie
+    {{ else if eq . "guitar" }}Guitare
+    {{ else if eq . "sing" }}Chanteur
+    {{ end }}
+</small>

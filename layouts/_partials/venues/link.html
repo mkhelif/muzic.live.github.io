@@ -1,4 +1,4 @@
-{{ with partial "venues/lookup.html" . }}
+{{ with (partial "venues/lookup.html" .) }}
     <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
     {{- with .Params.venue -}}
         , {{ partial "venues/link.html" . -}}

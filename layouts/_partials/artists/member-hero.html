@@ -1,0 +1,15 @@
+{{- with partial "artists/lookup.html" .id -}}
+    <a href="{{ .RelPermalink }}" class="d-block text-decoration-none">
+        {{ $cover := .Resources.Get "cover.jpg" }}
+        {{ if $cover }}
+            {{ $cover = $cover.Permalink }}
+        {{ else }}
+            {{ $cover = "/cover-empty.jpg" }}
+        {{ end }}
+        <img src="{{ $cover }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover"/>
+        <div class="position-absolute bottom-0 start-0 w-100 p-4" style="background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.75) 100%)">
+            {{ partial "artists/member-role.html" $.member.role }}
+            <h6 class="text-white small">{{ .LinkTitle }}</h6>
+        </div>
+    </a>
+{{- end -}}

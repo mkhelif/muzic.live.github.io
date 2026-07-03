@@ -1,6 +1,24 @@
 ---
 id: "74dd96c3-2ca5-4548-b0b0-6d9718ecb76a"
 title: "Electric Callboy"
+members:
+  "95886930-44f4-4e01-84c0-da595a2b568d":
+    role: "sing"
+    periods:
+      - start: 2010
+  "fbbb8959-1551-4daa-bfd6-d8024e79550f":
+    role: "sing"
+    periods:
+      - start: 2010
+        end: 2020-02-12
+  "885d9e45-705c-4db8-a76f-8aa26ba4546f":
+    role: "sing"
+    periods:
+      - start: 2020-06-04
+  "00529317-cba0-4885-951c-90d4f2547a92":
+    role: "drums"
+    periods:
+      - start: 2025-05-14
 socials:
   facebook: "electriccallboy"
   instagram: "electriccallboy"
@@ -75,13 +93,6 @@ qui les amène notamment à la LDLC Arena de Décines-Charpieu en janvier 2026. 
 lui-même comme taillé pour le live. En avril 2026, un nouveau single intitulé *Hypercharged* — co-écrit avec le jeu
 vidéo Brawl Stars — confirme que les frontières entre music, gaming et culture pop n'existent tout simplement pas pour
 eux.
-
-###### Un line-up renouvelé, une énergie intacte
-
-Le groupe réunit aujourd'hui Kevin Ratajczak (chant, claviers, programmation), Nico Sallach (chant), Daniel « Danskimo »
-Haniß (guitare), Pascal Schillo (guitare) et Daniel Klossek (basse). À la batterie, David Friedrich — présent depuis les
-origines — a annoncé son départ en avril 2025 après treize ans au sein du groupe. Frank Zummo, ancien batteur de Sum 41,
-assure désormais les tournées.
 
 ###### Ce que Electric Callboy dit de son époque
 
