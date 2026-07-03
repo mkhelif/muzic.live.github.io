@@ -4,8 +4,7 @@ title: "Lamb of God : \"Into Oblivion\" pulvérise les charts et lance une tourn
 category: "album"
 artists:
   - "7efd460b-9eb3-42ed-aa54-2a538ac96902"
-albums:
-  - "745e8da5-8d44-4a54-9871-ead6875766b4"
+album: "745e8da5-8d44-4a54-9871-ead6875766b4"
 ---
 
 Le douzième album de Lamb of God ne fait pas dans la demi-mesure. *Into Oblivion*, sorti ce 13 mars via Century Media et

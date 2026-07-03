@@ -4,8 +4,7 @@ title: "Powerwolf immortalise leur show le plus spectaculaire avec Wildlive"
 category: "album"
 artists:
   - "844af41a-c503-4748-9c8e-8f09de6065c2"
-albums:
-  - "0b3572f2-f71f-4989-b666-3a2034b8c1b4"
+album: "0b3572f2-f71f-4989-b666-3a2034b8c1b4"
 ---
 
 ![Wildlive](cover.jpg)

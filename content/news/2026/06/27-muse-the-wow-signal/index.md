@@ -4,8 +4,7 @@ title: "Muse – « The Wow! Signal » : le retour aux sources le plus convainca
 category: "album"
 artists:
   - "5f7f169a-3ca9-4446-bdc0-086e81e30464"
-albums:
-  - "d85c7489-2db1-4d84-837e-1a8ad73b7d8e"
+album: "d85c7489-2db1-4d84-837e-1a8ad73b7d8e"
 ---
 
 Le signal est parti le 15 août 1977 depuis un radiotélescope de l'Ohio State University. Soixante-dix-neuf secondes

@@ -4,8 +4,7 @@ title: "Slipknot : l'album fantôme \"Look Outside Your Window\" enfin confirmé
 category: "album"
 artists:
   - "3100a2b0-8068-4fbe-8498-6f2721c90427"
-albums:
-  - "c1f87b5a-ce82-4d36-8f1b-222296e4bb3a"
+album: "c1f87b5a-ce82-4d36-8f1b-222296e4bb3a"
 ---
 
 Dix-huit ans après son enregistrement, l'un des plus grands mystères de la scène metal verra enfin le jour. *Look

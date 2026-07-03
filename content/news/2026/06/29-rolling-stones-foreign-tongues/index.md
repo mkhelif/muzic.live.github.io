@@ -4,8 +4,7 @@ title: "The Rolling Stones dévoilent deux nouveaux extraits de « Foreign Tongu
 category: "album"
 artists:
   - "1e85dd80-e816-4be3-b0e7-96cbc003daab"
-albums:
-  - "9dc6d18e-a038-45a6-8f15-920aec26adec"
+album: "9dc6d18e-a038-45a6-8f15-920aec26adec"
 ---
 
 Le compte à rebours est lancé. Le 26 juin, les Rolling Stones ont mis en ligne deux nouveaux titres issus de *Foreign

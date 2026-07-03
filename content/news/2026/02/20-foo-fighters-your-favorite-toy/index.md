@@ -5,8 +5,7 @@ category: "album"
 artists:
   - "7ac67624-1f61-4dd5-9059-bb419074f9fd"
   - "0e10f68d-165c-471d-815b-f3db35e446ed"
-albums:
-  - "745e8da5-8d44-4a54-9871-ead6875766b4"
+album: "745e8da5-8d44-4a54-9871-ead6875766b4"
 ---
 
 Les Foo Fighters ne ralentissent jamais. Trois ans après l'intense *But Here We Are* (2023), Dave Grohl et sa bande

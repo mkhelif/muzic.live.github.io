@@ -4,8 +4,7 @@ title: "Five Finger Death Punch annoncent leur dixième album Legacy et dévoile
 category: "album"
 artists:
   - "5f8dc2cf-1f0d-4cce-acbc-6452e99cd924"
-albums:
-  - "06c53225-46b3-4e16-8c96-f0b45f7cb6b7"
+album: "06c53225-46b3-4e16-8c96-f0b45f7cb6b7"
 ---
 
 Vingt ans de carrière. Dix albums studio. Un groupe qui refuse obstinément de ralentir. Five Finger Death Punch ont officialisé le 26 juin la sortie de *Legacy*, leur dixième opus studio, accompagnée d'un deuxième single intitulé "De Oppresso Liber". Le disque paraîtra en numérique le 31 juillet, les formats physiques — CD, vinyle, cassette — suivront le 18 septembre via Better Noise Music.

@@ -4,8 +4,7 @@ title: "SOEN explore les frontières de l'humanité avec Reliance"
 category: "album"
 artists:
   - "7f854bed-ca88-4c33-9be8-2d4f6c4d1b22"
-albums:
-  - "e612538d-a7e8-4487-a634-d8eeb10126a5"
+album: "e612538d-a7e8-4487-a634-d8eeb10126a5"
 ---
 
 ![Reliance](album.jpg)

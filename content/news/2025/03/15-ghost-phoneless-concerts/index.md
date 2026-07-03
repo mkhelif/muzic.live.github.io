@@ -4,8 +4,7 @@ title: "Tobias Forge de Ghost : \Les gens redécouvrent ce que c'est que d'assis
 category: "concert"
 artists:
   - "c3b8c08a-b88d-4cd1-9b6c-194f2d341996"
-albums:
-  - "575fb2f5-d591-4d22-a598-ea27a4533522"
+album: "575fb2f5-d591-4d22-a598-ea27a4533522"
 ---
 
 Le mastermind suédois prédit que les concerts sans portable deviendront la norme après l'expérience révélatrice de sa

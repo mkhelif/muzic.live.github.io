@@ -4,8 +4,7 @@ title: "Rise Of The NorthStar : retour en force avec un nouvel album"
 category: "album"
 artists:
   - "ae36bfaa-cec8-4160-ba2e-0384322fefa5"
-albums:
-  - "616b52d1-519b-4109-817a-908e34d63769"
+album: "616b52d1-519b-4109-817a-908e34d63769"
 ---
 
 ![Chapter 04 - Red Falcon Super Battle! New Paris War!!](album.jpg)

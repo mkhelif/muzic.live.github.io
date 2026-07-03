@@ -4,8 +4,7 @@ title: "Karnivool : \"In Verses\", le retour triomphal après treize ans de sile
 category: "album"
 artists:
   - "e502e74f-fc40-4820-8f43-5d5583f1cb71"
-albums:
-  - "630f5e47-a611-4b40-b5f4-2aabb1b503a2"
+album: "630f5e47-a611-4b40-b5f4-2aabb1b503a2"
 ---
 
 Treize ans. C'est le temps qu'il aura fallu attendre depuis *Asymmetry* (2013) pour que Karnivool daigne enfin revenir
