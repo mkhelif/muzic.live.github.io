@@ -17,7 +17,6 @@ enableRobotsTXT = true
   artist = 'artists'
   festival = 'festivals'
   venue = 'venues'
-  event = 'events'
   new = 'news'
 
 # Services
