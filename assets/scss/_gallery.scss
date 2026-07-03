@@ -1,31 +1,46 @@
 // Masonry-style photo grid: preserves each image's aspect ratio so that
 // portrait and landscape shots sit side by side without cropping.
 .gallery {
-    column-width: 240px;
-    column-gap: 0.5rem;
     margin-top: 1.5rem;
+    column-width: auto;
 
-    a {
-        display: block;
-        margin-bottom: 0.5rem;
-        break-inside: avoid;
-        line-height: 0;
-        overflow: hidden;
-        border-radius: 4px;
-        cursor: zoom-in;
-        background-color: #161616;
+    column-count: 3;
+    column-gap: 0.35rem;
 
-        img {
-            width: 100%;
-            height: auto;
-            transition: transform 200ms ease, opacity 200ms ease;
-        }
+    @media (min-width: 768px) {
+        column-count: 3;
+        column-gap: 0.35rem;
+    }
+    @media (min-width: 992px) {
+        column-gap: 0.5rem;
+        column-count: 5;
+    }
+    @media (min-width: 1200px) {
+        column-gap: 0.5rem;
+        column-count: 5;
+    }
+}
 
-        &:hover img,
-        &:focus img {
-            transform: scale(1.04);
-            opacity: 0.85;
-        }
+.gallery a {
+    display: block;
+    margin-bottom: 0.5rem;
+    break-inside: avoid;
+    line-height: 0;
+    overflow: hidden;
+    border-radius: 4px;
+    cursor: zoom-in;
+    background-color: #161616;
+
+    img {
+        width: 100%;
+        height: auto;
+        transition: transform 200ms ease, opacity 200ms ease;
+    }
+
+    &:hover img,
+    &:focus img {
+        transform: scale(1.10);
+        opacity: 0.75;
     }
 }
 
@@ -37,19 +52,23 @@ body.gallery-lock {
 // Fullscreen overlay shown when a thumbnail is clicked.
 .gallery-lightbox {
     position: fixed;
-    inset: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     z-index: 2000;
     display: none;
     align-items: center;
     justify-content: center;
-    gap: 0.5rem;
-    padding: 2rem;
     background-color: rgba(0, 0, 0, 0.92);
+    box-sizing: border-box;
 
     &.is-open {
         display: flex;
     }
+}
 
+.gallery-lightbox {
     &__figure {
         margin: 0;
         max-width: 100%;
@@ -124,19 +143,43 @@ body.gallery-lock {
     }
 
     @media (max-width: 576px) {
-        padding: 1rem;
+        padding: 0.75rem;
+
+        .gallery-lightbox__img {
+            max-width: 92vw;
+            max-height: 74vh;
+            max-height: 74dvh;
+        }
+
+        // Circular, tappable controls that float over the image edges.
+        .gallery-lightbox__nav,
+        .gallery-lightbox__close {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 44px;
+            height: 44px;
+            padding: 0;
+            border-radius: 50%;
+            background-color: rgba(0, 0, 0, 0.55);
+            font-size: 1.6rem;
+            z-index: 3;
+        }
 
         .gallery-lightbox__nav {
             position: absolute;
             top: 50%;
             transform: translateY(-50%);
-            padding: 0 0.5rem;
         }
         .gallery-lightbox__prev {
-            left: 0.25rem;
+            left: 0.5rem;
         }
         .gallery-lightbox__next {
-            right: 0.25rem;
+            right: 0.5rem;
+        }
+        .gallery-lightbox__close {
+            top: 0.5rem;
+            right: 0.5rem;
         }
     }
 }
