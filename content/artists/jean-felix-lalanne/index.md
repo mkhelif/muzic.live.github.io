@@ -1,0 +1,7 @@
+---
+id: "0446cc7e-d405-42ca-8006-edf575894b12"
+title: "Jean-Félix Lalanne"
+cover: "cover.jpg"
+socials:
+  facebook: ""
+---
