@@ -12,6 +12,7 @@ socials:
   instagram: "theatre_de_beausobre"
   youtube: "@Beausobre"
   web: "https://beausobre.ch/"
+  email: "presse@beausobre.ch"
   phone: "+41218041565"
 ---
 
