@@ -1,5 +1,5 @@
 {{- with .Params.members -}}
-    <div id="members" class="mt-5 mb-4" data-pagefind-ignore="all">{{ partial "titles/h3.html" (dict "title" "Membres") }}</div>
+    <div id="members" class="my-4" data-pagefind-ignore="all">{{ partial "titles/h3.html" (dict "title" "Membres") }}</div>
     <div class="row row-cols-2 row-cols-md-5">
         {{- range $id, $member := . -}}
             {{/* Current members */}}

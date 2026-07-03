@@ -2,8 +2,5 @@
     <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
     {{- with .Params.venue -}}
         , {{ partial "venues/link.html" . -}}
-    {{ end }}
-    {{- range .Params.venues -}}
-        , {{ . -}}
-    {{ end }}
+    {{- end -}}
 {{ end }}

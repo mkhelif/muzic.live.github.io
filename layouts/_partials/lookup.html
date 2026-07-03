@@ -1,5 +1,7 @@
 {{- $cache := newScratch -}}
-{{- range where site.RegularPages "Section" "in" (slice "artists" "venues" "festivals" "albums") -}}
-    {{- $cache.SetInMap .Section .Params.id . -}}
+{{- range where site.AllPages "Section" "in" (slice "artists" "venues" "festivals" "albums") -}}
+    {{- if .Params.Id -}}
+        {{- $cache.SetInMap .Section .Params.id . -}}
+    {{- end -}}
 {{- end -}}
 {{- return $cache -}}
