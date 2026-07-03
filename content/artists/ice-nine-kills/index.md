@@ -17,5 +17,94 @@ socials:
   tidal: "4216917"
 todo:
   - Add picture
-  - Add description
 ---
+
+Ice Nine Kills est un groupe de heavy metal américain originaire de Boston, Massachusetts, dont la musique est
+principalement décrite comme du metalcore à thème horrifique, mais incorpore de nombreux autres styles musicaux. Leur
+nom, choisi dès les origines, dit déjà tout de leur rapport à la culture : il est dérivé de la substance fictive
+ice-nine issue du roman *Cat's Cradle* de Kurt Vonnegut, publié en 1963. Un groupe de metal qui commence par une
+référence à la littérature absurdiste — la couleur est posée.
+
+## Boston, l'an 2000 : deux amis de lycée et un concert de Goldfinger
+
+Spencer Charnas et Jeremy Schwartz se rencontrent au Tower School de Marblehead, Massachusetts. Le groupe se forme après
+qu'ils ont assisté à un concert de Goldfinger au Worcester Palladium à l'automne 2000, à la suite duquel les deux
+décident de fonder leur propre groupe et d'écrire leurs propres compositions.
+
+À l'origine, c'était un groupe de ska punk appelé Ice Nine, avant d'adopter un style metalcore en 2010. Charnas est
+actuellement le seul membre fondateur encore actif dans le groupe. La trajectoire des premières années est celle d'une
+formation qui se construit dans l'ombre, sans raccourci : le groupe a tourné sous le nom Ice Nine et s'est promu de
+manière DIY pendant près d'une décennie avant de décrocher un contrat avec Fearless Records.
+
+## La métamorphose metalcore
+
+En 2009, le co-fondateur Jeremy Schwartz quitte le groupe, laissant Charnas seul aux commandes. La rencontre avec
+d'anciens membres du groupe post-hardcore Remember Tomorrow provoque une évolution radicale du son — plus sombre, plus
+dense, résolument metalcore. Ferret Music signe le groupe en 2009 et *Safe Is Just a Shadow* sort en 2010 : le premier
+album de la nouvelle incarnation.
+
+*The Predator Becomes the Prey* (2014) et *Every Trick in the Book* (2015) consolident la base de fans et propulsent le
+groupe dans le Top 200 américain. Avec *Every Trick in the Book*, un premier concept se déploie : chaque titre est
+inspiré d'un livre classique de la littérature — *Hamlet*, *Dracula*, *Roméo et Juliette* — et mis en images avec des
+clips ambitieux. L'ambition cinématographique est déjà là.
+
+## *The Silver Scream* : l'œuvre fondatrice
+
+2018. Ice Nine Kills sort *The Silver Scream* et tout change. L'album est une déclaration d'amour au cinéma d'horreur —
+chaque titre rend hommage à un film culte du genre : *Halloween*, *A Nightmare on Elm Street*, *The Shining*,
+*Scream*, *Psycho*, *Jaws*, *IT*, *Child's Play*. Spencer Charnas, obsédé par les films d'horreur depuis l'
+enfance, ne peut s'empêcher de réciter ses répliques préférées à chaque re-visionnage de *Friday the 13th* et *A
+Nightmare on Elm Street*.
+
+Les clips du *Silver Scream* racontent également une histoire originale qui construit la mythologie d'Ice Nine Kills. La
+structure est celle de séances de thérapie — une idée inspirée par *Les Sopranos* — dans lesquelles un Spencer Charnas
+fictif, présumé psychopathe, raconte à son psychiatre des rêves violents qui pourraient être des confessions de meurtre.
+Andrew Justin Smith et le réalisateur Daniel Hourihan ont développé l'histoire globale. Le processus pour *The Silver
+Scream* et *Welcome to Horrorwood* ressemblait beaucoup à l'écriture d'une série télévisée.
+
+L'album débute à la 29e place du Billboard 200 — leur meilleur classement à ce stade.
+
+## *Welcome to Horrorwood* : la suite cinématographique
+
+*The Silver Scream 2: Welcome to Horrorwood* (2021) reprend et étend l'univers narratif avec une ambition encore plus
+grande. Slasher, possession démoniaque, momies, loup-garous — le catalogue des horreurs s'élargit, les productions
+visuelles s'intensifient. L'album entre dans le top 20 du Billboard 200, leur meilleure performance commerciale à ce
+jour. Le comédien Bill Moseley du film *The Devil's Rejects* prend le rôle de principal antagoniste dans l'univers
+fictionnel du groupe.
+
+La même année, le groupe sort un live album acoustique enregistré à l'Overlook Hotel — référence directe à *The
+Shining* — confirmant que leur univers ne s'arrête jamais à la musique.
+
+## Le show comme prolongement de l'œuvre
+
+Spencer Charnas cite Rob Zombie et la Family Values Tour de la fin des années 90 parmi ses premières influences
+scéniques. Mais ce ne sont pas uniquement les concerts rock qui l'ont marqué : « J'ai toujours été très intéressé par le
+théâtre musical, et voir *Les Misérables* et *Le Fantôme de l'Opéra* quand j'étais enfant — bien que ce ne soit pas du
+rock ou du metal, la mise en scène et ce niveau de production m'ont époustouflé. »
+
+Le résultat sur scène est spectaculaire : acteurs en costume reconstituant des scènes de slashers, décors de série B,
+lumières stroboscopiques, effets de brume — aller voir un concert d'Ice Nine Kills, c'est un peu comme regarder un film
+ou assister à une représentation théâtrale, avec un soundtrack qui fracasse les enceintes. Le groupe a été banni par
+Disney pour ses visuels violents — ce à quoi le groupe a répondu en lançant une ligne de merchandising inspirée de
+l'esthétique Disney, réinterprétée en mode horreur.
+
+## Metallica, Alissa White-Gluz et la reconnaissance par les pairs
+
+Charnas souligne à quel point il est significatif de jouer avec des groupes qui les ont inspirés : « C'est tellement
+cool de jouer avec des groupes que nous idolâtrions et qui nous ont inspirés. » La tournée mondiale avec Metallica —
+l'un des groupes les plus écoutés au monde — leur a ouvert des foules que peu de groupes de metalcore ont jamais
+connues.
+
+Le line-up actuel réunit Spencer Charnas (chant, guitare), Ricky Armellino (guitare, chant), Joe Occhiuti (basse, chant,
+claviers), Dan Sugarman (guitare) et Mike Cortada (batterie) — une formation rodée, capable de tenir aussi bien un stade
+qu'une salle de 2 000 personnes avec la même intensité.
+
+## Ce que Ice Nine Kills représente
+
+Dans un paysage metalcore parfois engoncé dans ses propres codes, Ice Nine Kills a trouvé quelque chose de rare : une
+identité totale, cohérente de la première note au dernier frame de clip. Leur amour du cinéma d'horreur n'est pas un
+gimmick marketing — c'est une obsession sincère de Spencer Charnas traduite en œuvre artistique complète, où la musique,
+le visuel, le narratif et le spectacle forment un tout indissociable.
+
+En 2025, Jeff Mezydlo de Yardbarker a inclus le groupe dans sa liste des « plus grands groupes de metal formés dans les
+années 2000 ». Une reconnaissance tardive, mais méritée.
