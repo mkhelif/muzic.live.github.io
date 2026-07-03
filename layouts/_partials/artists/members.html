@@ -1,13 +1,12 @@
 {{- with .Params.members -}}
     <div id="members" class="my-4" data-pagefind-ignore="all">{{ partial "titles/h3.html" (dict "title" "Membres") }}</div>
     <div class="row row-cols-2 row-cols-md-5">
-        {{- range $id, $member := . -}}
+        {{- range $index, $member := . -}}
             {{/* Current members */}}
-            {{- if eq (index $member.periods 0).end nil -}}
+            {{- if eq (index .periods 0).end nil -}}
                 <div class="col">
-                    {{/* cond (eq $index 0) "mb-3" "" */}}
-                    <div class="rounded overflow-hidden position-relative" style="height:clamp(160px,21vw,235px);">
-                        {{- partial "artists/member-hero.html" (dict "id" $id "member" $member) -}}
+                    <div class="rounded overflow-hidden position-relative {{ cond (eq $index 0) "mb-3" "" }}" style="height:clamp(160px,21vw,235px);">
+                        {{- partial "artists/member-hero.html" . -}}
                     </div>
                 </div>
             {{- end -}}

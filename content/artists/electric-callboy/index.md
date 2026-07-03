@@ -2,20 +2,20 @@
 id: "74dd96c3-2ca5-4548-b0b0-6d9718ecb76a"
 title: "Electric Callboy"
 members:
-  "95886930-44f4-4e01-84c0-da595a2b568d":
+  - id: "95886930-44f4-4e01-84c0-da595a2b568d"
     role: "sing"
     periods:
       - start: 2010
-  "fbbb8959-1551-4daa-bfd6-d8024e79550f":
+  - id: "fbbb8959-1551-4daa-bfd6-d8024e79550f"
     role: "sing"
     periods:
       - start: 2010
         end: 2020-02-12
-  "885d9e45-705c-4db8-a76f-8aa26ba4546f":
+  - id: "885d9e45-705c-4db8-a76f-8aa26ba4546f"
     role: "sing"
     periods:
       - start: 2020-06-04
-  "00529317-cba0-4885-951c-90d4f2547a92":
+  - id: "00529317-cba0-4885-951c-90d4f2547a92"
     role: "drums"
     periods:
       - start: 2025-05-14
