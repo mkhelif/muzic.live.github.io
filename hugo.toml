@@ -1,7 +1,7 @@
 # Site
 title = 'Muzic.Live'
 baseURL = 'https://muzic.live/'
-languageCode = 'fr-fr'
+locale = 'fr-fr'
 defaultContentLanguage = 'fr'
 removePathAccents = true
 enableRobotsTXT = true
