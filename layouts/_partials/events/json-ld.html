@@ -3,8 +3,7 @@
 {{- $artistNames := slice -}}
 {{- $performers := slice -}}
 {{- range .Params.artists -}}
-    {{- $artistId := . -}}
-    {{- range where (where site.RegularPages "Section" "artists") ".Params.id" $artistId -}}
+    {{- with partial "artists/lookup.html" . -}}
         {{- $artistNames = $artistNames | append .Title -}}
         {{- $performers = $performers | append (dict "@type" "MusicGroup" "name" .Title "url" .Permalink) -}}
     {{- end -}}
@@ -17,7 +16,7 @@
 {{- $festivalId := "" -}}
 {{- with .Params.festivalId }}{{ $festivalId = . }}{{ else }}{{ with .Params.festival }}{{ $festivalId = . }}{{ end }}{{ end -}}
 {{- with $festivalId -}}
-    {{- range where (where site.RegularPages "Section" "festivals") ".Params.id" . -}}
+    {{- with partial "festivals/lookup.html" . -}}
         {{- $eventName = printf "%s : %s" .Title $eventName -}}
         {{- $organizer = dict "@type" "Organization" "name" .Title "url" .Permalink -}}
     {{- end -}}
@@ -25,14 +24,11 @@
 
 {{- $location := dict -}}
 {{- with .Params.venue -}}
-    {{- $venue := . -}}
-    {{- range hugo.Sites -}}
-        {{- range where (where .Pages "Section" "venues") ".Params.id" $venue -}}
-            {{- $location = dict "@type" "MusicVenue" "name" .Title "url" .Permalink -}}
-            {{- with .Params.address }}{{ $location = merge $location (dict "address" .) }}{{ end -}}
-            {{- with .Params.coordinates -}}
-                {{- $location = merge $location (dict "geo" (dict "@type" "GeoCoordinates" "latitude" .latitude "longitude" .longitude)) -}}
-            {{- end -}}
+    {{- with partial "venues/lookup.html" . -}}
+        {{- $location = dict "@type" "MusicVenue" "name" .Title "url" .Permalink -}}
+        {{- with .Params.address }}{{ $location = merge $location (dict "address" .) }}{{ end -}}
+        {{- with .Params.coordinates -}}
+            {{- $location = merge $location (dict "geo" (dict "@type" "GeoCoordinates" "latitude" .latitude "longitude" .longitude)) -}}
         {{- end -}}
     {{- end -}}
 {{- end -}}

@@ -1,4 +1,3 @@
-{{- $id := . -}}
-{{- range where (where site.RegularPages "Section" "festivals") ".Params.id" $id -}}
+{{- with partial "festivals/lookup.html" . -}}
     <a href="{{ .RelPermalink }}">{{ .LinkTitle | safeHTML }}</a>
 {{- end -}}

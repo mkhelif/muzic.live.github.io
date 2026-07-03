@@ -1,0 +1,2 @@
+{{- /* Given an artist id (as context), returns the artist page (or nil). O(1). */ -}}
+{{- return (index ((partialCached "lookup.html" .).Get "artists") .) -}}

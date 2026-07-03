@@ -1,8 +1,5 @@
-{{- $venue := . -}}
-{{- range hugo.Sites -}}
-    {{- range where (where .Pages ".Section" "venues") ".Params.id" $venue -}}
-        {{- with .Params.coordinates -}}
-            GEO:{{ .latitude }};{{ .longitude -}}
-        {{- end -}}
+{{- with partial "venues/lookup.html" . -}}
+    {{- with .Params.coordinates -}}
+        GEO:{{ .latitude }};{{ .longitude -}}
     {{- end -}}
 {{- end -}}

@@ -1,14 +1,8 @@
 <div data-pagefind-ignore="all" class="d-print-none">
-    {{ with .Params.festival }}
-        {{ $festLink := "" }}
-        {{ $festName := "" }}
-        {{ range where (where site.RegularPages "Section" "festivals") ".Params.id" . }}
-            {{ $festLink = .RelPermalink }}
-            {{ $festName = .LinkTitle }}
-        {{ end }}
-        <div class="mt-5 mb-4">{{ partial "titles/h3.html" (dict "title" (printf "Autres chroniques du festival %s" $festName) "link" $festLink) }}</div>
+    {{- with partial "festivals/lookup.html" .Params.festival -}}
+        <div class="mt-5 mb-4">{{ partial "titles/h3.html" (dict "title" (printf "Autres chroniques du festival %s" .LinkTitle) "link" .RelPermalink) }}</div>
         {{ $reports := where $.Site.RegularPages "Section" "reports" }}
-        {{ $reports = where $reports ".Params.festival" . }}
+        {{ $reports = where $reports ".Params.festival" .Params.id }}
         {{ $reports = where $reports ".Path" "ne" $.Path }}
         {{ range $index, $report := $reports }}
             {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
@@ -16,5 +10,5 @@
         {{ if eq $reports.Len 0 }}
             <p class="small text-muted text-center">Aucune chronique de concert</p>
         {{ end }}
-    {{ end }}
+    {{- end -}}
 </div>
