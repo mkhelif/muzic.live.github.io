@@ -1,12 +1,14 @@
-<div id="news" class="mt-5 mb-4">{{ partial "titles/h3.html" (dict "title" "Actualités") }}</div>
-<div class="row row-cols-1 row-cols-md-4" data-pagefind-ignore="all">
-    {{ range $index, $new := .news }}
-        <div>
-            <div class="rounded overflow-hidden position-relative {{ cond (eq $index 0) "mb-3" "" }}" style="height:clamp(160px,21vw,235px);">
-                {{ partial "news/hero.html" (dict "context" . "primary" false) }}
+<div id="news" class="mt-5 mb-4">
+    {{ partial "titles/h3.html" (dict "title" "Actualités") }}
+    <div class="row row-cols-1 row-cols-md-4" data-pagefind-ignore="all">
+        {{ range $index, $new := .news }}
+            <div>
+                <div class="rounded overflow-hidden position-relative {{ cond (eq $index 0) "mb-3" "" }}" style="height:clamp(160px,21vw,235px);">
+                    {{ partial "news/hero.html" (dict "context" . "primary" false) }}
+                </div>
             </div>
-        </div>
-    {{ end }}
+        {{ end }}
+    </div>
 
     {{ if eq .news.Len 0 }}
         <p class="small text-muted text-center">Aucune actualité récente</p>
