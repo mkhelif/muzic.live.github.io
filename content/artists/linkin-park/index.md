@@ -1,6 +1,41 @@
 ---
 id: "0b8a7424-dba1-4f5a-8f0e-42ebd1dd9f3b"
 title: "Linkin Park"
+members:
+  - id: "18be376b-1dac-4211-961a-6004d9f728a3"
+    role: sing
+    periods:
+      - start: 1996
+  - id: "f291c1f4-bcbb-40be-8c11-efeac4f143f4"
+    role: guitar
+    periods:
+      - start: 1996
+  - id: "2894848d-8bc1-4a0f-98a8-6e41105bd44a"
+    role: dj
+    periods:
+      - start: 1996
+  - id: "bbe38514-8d11-40f1-bfec-c9382c0748e3"
+    role: bass
+    periods:
+      - start: 1996
+  - id: "752075d7-7eb2-4537-9d79-4a021de397ff"
+    role: drums
+    periods:
+      - start: 1996
+        end: 2017
+  - id: "d9daa655-cab5-41b7-8b25-3fb4844dd17e"
+    role: sing
+    periods:
+      - start: 1999
+        end: 2017
+  - id: "8c0bd75d-1cd5-4f9f-bfab-1eaf23b25261"
+    role: sing
+    periods:
+      - start: 2024
+  - id: "0d00ab93-c45c-423e-a477-2fc7d7decb3d"
+    role: drums
+    periods:
+      - start: 2024
 socials:
   facebook: "linkinpark"
   instagram: "linkinpark"

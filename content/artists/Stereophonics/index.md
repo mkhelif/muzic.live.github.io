@@ -1,6 +1,33 @@
 ---
 id: "070c10f4-5ab0-4a03-82d0-3e840033832c"
 title: "Stereophonics"
+members:
+  - id: "ed5cef95-426d-4d86-8a37-ff8675b8cb8c"
+    role: sing
+    periods:
+      - start: 1992
+  - id: "2e5cd39b-170f-4afd-a283-fe0bddb1576f"
+    role: bass
+    periods:
+      - start: 1992
+  - id: "f259ada5-c07b-46b4-9d88-58cce930499b"
+    role: drums
+    periods:
+      - start: 1992
+        end: 2003
+  - id: "7f3adaaa-ad36-4031-9e31-95fd82f0cdfb"
+    role: drums
+    periods:
+      - start: 2004
+        end: 2012
+  - id: "d8a8aa6e-7d51-4307-af5e-cff9287da994"
+    role: drums
+    periods:
+      - start: 2013
+  - id: "660c4078-76c4-4610-9363-eef1084ada6d"
+    role: guitar
+    periods:
+      - start: 2007
 socials:
   facebook: "stereophonics"
   instagram: "stereophonicsofficial"

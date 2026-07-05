@@ -1,6 +1,44 @@
 ---
 id: "76e7d907-1601-4a5a-9a9a-c8cf678a03f6"
 title: "Europe"
+members:
+  - id: "3adeb532-5927-4b33-bde8-99c414eda90a"
+    role: sing
+    periods:
+      - start: 1979
+  - id: "245587aa-0987-4d8a-8fa9-9b7cf1ac74df"
+    role: guitar
+    periods:
+      - start: 1979
+        end: 1986
+      - start: 2003
+  - id: "6349167c-aa90-4886-8de8-e0401fcf6f72"
+    role: bass
+    periods:
+      - start: 1979
+        end: 1981
+  - id: "619071a1-f49e-48bc-a9b9-0e7beff22ec7"
+    role: drums
+    periods:
+      - start: 1979
+        end: 1985
+  - id: "490a5b13-7757-4090-ba15-9ebe7ac1cd6a"
+    role: bass
+    periods:
+      - start: 1982
+  - id: "e121bccb-6c8a-4e54-8125-5353d959ac07"
+    role: keys
+    periods:
+      - start: 1985
+  - id: "eea2f9d5-e3ec-4224-944d-e38a010ec11f"
+    role: drums
+    periods:
+      - start: 1985
+  - id: "6d49e571-fe66-4968-985c-fe3c6800695a"
+    role: guitar
+    periods:
+      - start: 1986
+        end: 1992
 socials:
   facebook: "europetheband"
   instagram: "officialeuropetheband"

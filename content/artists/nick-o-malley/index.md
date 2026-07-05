@@ -1,0 +1,18 @@
+---
+id: "9b724803-7890-475c-b8c3-b347a45439d0"
+title: "Nick O'Malley"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+---

@@ -1,0 +1,18 @@
+---
+id: "2e5cd39b-170f-4afd-a283-fe0bddb1576f"
+title: "Richard Jones"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+---

@@ -1,0 +1,26 @@
+{{- $id := .Params.id -}}
+{{- $artists := where site.RegularPages "Section" "artists" -}}
+{{- $bands := where $artists "Params.members" "ne" nil -}}
+
+{{/* TODO partialCached lookup */}}
+{{- $memberOf := slice -}}
+{{- range $band := $bands -}}
+    {{- range $band.Params.members -}}
+        {{- if eq $id .id -}}
+            {{- $memberOf = $memberOf | append (merge . (dict "id" $band.Params.id)) -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- if ne ($memberOf | len) 0 -}}
+    <div id="members" class="my-4" data-pagefind-ignore="all">{{ partial "titles/h3.html" (dict "title" "Membre des groupes") }}</div>
+    <div class="row row-cols-1 row-cols-md-4">
+    {{- range $index, $membership := $memberOf -}}
+        <div class="col">
+            <div class="rounded overflow-hidden position-relative {{ cond (eq $index 0) "mb-3" "" }}" style="height:clamp(160px,21vw,235px);">
+                {{- partial "artists/member-hero.html" . -}}
+            </div>
+        </div>
+    {{- end -}}
+    </div>
+{{- end -}}

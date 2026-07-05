@@ -3,22 +3,40 @@ id: "74dd96c3-2ca5-4548-b0b0-6d9718ecb76a"
 title: "Electric Callboy"
 members:
   - id: "95886930-44f4-4e01-84c0-da595a2b568d"
-    role: "sing"
+    role: sing
     periods:
       - start: 2010
-  - id: "fbbb8959-1551-4daa-bfd6-d8024e79550f"
-    role: "sing"
-    periods:
-      - start: 2010
-        end: 2020-02-12
   - id: "885d9e45-705c-4db8-a76f-8aa26ba4546f"
-    role: "sing"
+    role: sing
     periods:
-      - start: 2020-06-04
-  - id: "00529317-cba0-4885-951c-90d4f2547a92"
-    role: "drums"
+      - start: 2020
+  - id: "fbbb8959-1551-4daa-bfd6-d8024e79550f"
+    role: sing
     periods:
-      - start: 2025-05-14
+      - start: 2010
+        end: 2020
+  - id: "e0f8a325-9142-4174-8c03-738b75d833ea"
+    role: drums
+    periods:
+      - start: 2012
+        end: 2025
+  - id: "23c64ea2-31ba-476d-bce6-236376aff9d4"
+    role: guitar
+    periods:
+      - start: 2010
+  - id: "2a90e99f-a2db-496c-a6a2-eda9dbb2da3e"
+    role: guitar
+    periods:
+      - start: 2010
+  - id: "3caa6552-3d52-4b9e-b59d-b6c9eee2192a"
+    role: bass
+    periods:
+      - start: 2010
+  - id: "0096e3a1-faf7-4a52-9899-186261b3ec1d"
+    role: drums
+    periods:
+      - start: 2010
+        end: 2012
 socials:
   facebook: "electriccallboy"
   instagram: "electriccallboy"

@@ -1,7 +1,6 @@
 ---
 id: "28751a11-3723-4f83-b214-11d1514da977"
 title: "Les Créatives"
-cover: "cover.jpg"
 socials:
   facebook: "festivallescreatives"
   instagram: "festivallescreatives"

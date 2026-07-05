@@ -1,0 +1,18 @@
+---
+id: "2f5ccc98-9688-464a-ac8b-076363c76e2b"
+title: "Phil Curty"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+---

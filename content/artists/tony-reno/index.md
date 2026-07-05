@@ -1,0 +1,18 @@
+---
+id: "619071a1-f49e-48bc-a9b9-0e7beff22ec7"
+title: "Tony Reno"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+---

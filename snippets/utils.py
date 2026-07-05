@@ -53,7 +53,6 @@ def get_or_create_artist(name):
 ---
 id: "{artist_id}"
 title: "{name}"
-cover: "cover.jpg"
 socials:
   facebook: ""
 todo:
