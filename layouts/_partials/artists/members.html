@@ -1,6 +1,6 @@
 {{- with .Params.members -}}
-    <div id="members" class="my-4" data-pagefind-ignore="all">{{ partial "titles/h3.html" (dict "title" "Membres") }}</div>
-    <div class="row row-cols-2 row-cols-md-5">
+    <div id="members-current" class="my-4" data-pagefind-ignore="all">{{ partial "titles/h3.html" (dict "title" "Membres") }}</div>
+    <div class="row row-cols-2 row-cols-md-5 g-4">
         {{- range $index, $member := . -}}
             {{/* Current members */}}
             {{- if eq (index .periods 0).end nil -}}
@@ -9,6 +9,20 @@
                         {{- partial "artists/member-hero.html" . -}}
                     </div>
                 </div>
+            {{- end -}}
+        {{- end -}}
+    </div>
+
+    {{/* Former members */}}
+    <div id="members-former" class="my-4" data-pagefind-ignore="all">{{ partial "titles/h3.html" (dict "title" "Anciens membres") }}</div>
+        <div class="row row-cols-2 row-cols-md-5 g-4">
+            {{- range $index, $member := . -}}
+                {{- if ne (index .periods 0).end nil -}}
+                <div class="col">
+                    <div class="rounded overflow-hidden position-relative {{ cond (eq $index 0) "mb-3" "" }}" style="height:clamp(160px,21vw,235px);">
+                    {{- partial "artists/member-hero.html" . -}}
+                </div>
+            </div>
             {{- end -}}
         {{- end -}}
     </div>
