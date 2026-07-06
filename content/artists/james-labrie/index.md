@@ -1,0 +1,18 @@
+---
+id: "28f82cc6-d7b3-47a9-b64c-999d98858ae4"
+title: "James LaBrie"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+---

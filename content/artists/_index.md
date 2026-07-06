@@ -1,4 +1,4 @@
 ---
-title: "Fiches d'artistes"
+title: "Artistes"
 ---
 

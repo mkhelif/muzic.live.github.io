@@ -6,5 +6,9 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
-  - Add detailed description
 ---
+
+Public House est un groupe de rock garage, aux riffs incisifs et à l'énergie live revendiquée, qui évolue notamment sur
+la scène des salles de musiques actuelles du nord de la France. Peu d'informations biographiques précises circulent à
+son sujet en dehors de ses passages remarqués en première partie, à l'image de sa présence aux côtés du groupe
+néo-zélandais The Datsuns et du trio lillois V.Love à L'Aéronef de Lille.

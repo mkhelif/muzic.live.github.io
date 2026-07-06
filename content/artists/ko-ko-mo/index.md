@@ -1,6 +1,21 @@
 ---
 id: "e2bf5aea-cc16-4370-ba19-db3a6c15746f"
 title: "Ko Ko Mo"
+members:
+  - id: "ee4532e6-21e8-435d-b011-bc0c4e0e53b9"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2012
+        end: 2025
+  - id: "87088aa7-6dfd-4e2d-bdb1-60353236f83c"
+    roles:
+      - drums
+      - sing
+    periods:
+      - start: 2012
+        end: 2025
 socials:
   facebook: "thisiskokomo"
   instagram: "thisiskokomo"

@@ -1,6 +1,64 @@
 ---
 id: "d224b882-ac24-47f6-9adb-80e8dedc4ee9"
 title: "Dream Theater"
+members:
+  - id: "b421852b-584e-4cd7-8127-85474c1b1abb"
+    roles:
+      - guitar
+    periods:
+      - start: 1985
+  - id: "6bed4706-4f13-4f1c-b830-63bfe4a6e68a"
+    roles:
+      - bass
+    periods:
+      - start: 1985
+  - id: "bd22d49f-5c77-4e7c-8ead-0a499c3afc24"
+    roles:
+      - drums
+    periods:
+      - start: 2023
+      - start: 1985
+        end: 2010
+  - id: "305f809a-bbfd-4404-931b-e3e4373a94b1"
+    roles:
+      - sing
+    periods:
+      - start: 1985
+        end: 1986
+  - id: "0356d8dd-7e50-4ef0-a9bf-96ca577a0c2f"
+    roles:
+      - sing
+    periods:
+      - start: 1987
+        end: 1989
+  - id: "28f82cc6-d7b3-47a9-b64c-999d98858ae4"
+    roles:
+      - sing
+    periods:
+      - start: 1991
+  - id: "43c36760-2a2a-446b-a52f-e954c8437e50"
+    roles:
+      - keys
+    periods:
+      - start: 1985
+        end: 1994
+  - id: "a70bae4c-b070-4f2f-9330-1e84a3799a2c"
+    roles:
+      - keys
+    periods:
+      - start: 1995
+        end: 1999
+  - id: "54538121-c88e-4b48-b71e-920b93a05281"
+    roles:
+      - keys
+    periods:
+      - start: 1999
+  - id: "d3e433f4-fba8-4995-aa65-fc0d28440454"
+    roles:
+      - drums
+    periods:
+      - start: 2010
+        end: 2023
 socials:
   facebook: "dreamtheater"
   instagram: "dreamtheaterofficial"

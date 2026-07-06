@@ -1,0 +1,12 @@
+{{- $cache := newScratch -}}
+{{- range $band := where site.RegularPages "Section" "artists" -}}
+    {{- range $band.Params.members -}}
+        {{- $memberOf := merge . (dict "id" $band.Params.id) -}}
+        {{- if not (in $cache .id) -}}
+            {{- $cache.Add .id (slice $memberOf) -}}
+        {{- else -}}
+            {{- $cache.SetInMap .id (merge ($cache.Get .id) (slice $memberOf)) -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+{{- return $cache -}}

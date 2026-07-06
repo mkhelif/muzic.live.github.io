@@ -1,5 +1,12 @@
-{{/* --- Reports ---  */}}
-{{ $reports := where .Site.RegularPages "Section" "reports" }}
-{{ $reports = where $reports ".Params.artists" "intersect" (slice .Params.id) }}
-{{ $reports = $reports.ByDate.Reverse }}
-{{ partial "reports/list.html" (dict "context" . "reports" $reports) }}
+{{/* --- Reports --- */}}
+{{- $id := .Params.id -}}
+{{- $artistIds := slice $id -}}
+{{- if $id -}}
+    {{- range (partialCached "artists/member-of-lookup.html" .).Get $id -}}
+        {{- $artistIds = $artistIds | append .id -}}
+    {{- end -}}
+{{- end -}}
+{{- $reports := where .Site.RegularPages "Section" "reports" -}}
+{{- $reports = where $reports ".Params.artists" "intersect" $artistIds -}}
+{{- $reports = $reports.ByDate.Reverse -}}
+{{- partial "reports/list.html" (dict "context" . "reports" $reports) -}}

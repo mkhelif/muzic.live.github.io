@@ -1,6 +1,34 @@
 ---
 id: "e9cf3934-7712-4cfe-98e2-99dfe4d51de6"
 title: "Gojira"
+members:
+  - id: "eadc286d-03ef-475f-bf49-a2cafaeecfa9"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 1996
+  - id: "a7f18a91-26cc-43fd-9775-8d2dcb88ce82"
+    roles:
+      - drums
+    periods:
+      - start: 1996
+  - id: "f36cea9a-0ef8-4372-9e75-7f5686ac5565"
+    roles:
+      - guitar
+    periods:
+      - start: 1996
+  - id: "16be242d-c936-4909-ad05-814f306456c1"
+    roles:
+      - bass
+    periods:
+      - start: 1998
+  - id: "8c0e39cd-0a8c-4de4-8760-713315bb52ca"
+    roles:
+      - bass
+    periods:
+      - start: 1996
+        end: 1998
 socials:
   facebook: "gojiramusic"
   instagram: "gojiraofficial"

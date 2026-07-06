@@ -27,6 +27,83 @@ members:
       - drums
     periods:
       - start: 2024
+  - id: "d85d9023-bc87-4846-bcda-3bf6099ff067"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2002
+        end: 2009
+  - id: "c8bea7f0-f6de-464e-b0a4-db3f099a344a"
+    roles:
+      - bass
+    periods:
+      - start: 2002
+        end: 2007
+  - id: "d3f15c6d-253a-47cf-ab62-7a2ea0dfcbc0"
+    roles:
+      - bass
+    periods:
+      - start: 2007
+        end: 2008
+  - id: "84767d0b-14c9-43f4-ac75-f1cc0d38d446"
+    roles:
+      - bass
+    periods:
+      - start: 2008
+        end: 2009
+  - id: "3bf2bcae-c6fb-4c83-9535-e840876e4370"
+    roles:
+      - sing
+    periods:
+      - start: 2009
+        end: 2009
+  - id: "e1085ea9-c35a-4b89-9982-8b65a37cd442"
+    roles:
+      - bass
+    periods:
+      - start: 2009
+        end: 2011
+  - id: "b8a8f235-0d2e-4595-82eb-4513c17f07b9"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2011
+        end: 2013
+  - id: "3e3858aa-f181-4bbf-9436-6499cafa0d68"
+    roles:
+      - drums
+    periods:
+      - start: 2006
+        end: 2008
+  - id: "2a40c13e-d706-45e7-aa69-9e2174f29b5a"
+    roles:
+      - drums
+    periods:
+      - start: 2009
+        end: 2018
+  - id: "30ea63e3-97ed-402a-a9a1-87dfbfab65d3"
+    roles:
+      - guitar
+      - bass
+    periods:
+      - start: 2009
+        end: 2019
+  - id: "00927220-cbe5-41f2-a53a-b21d4e046044"
+    roles:
+      - sing
+      - guitar
+      - keys
+    periods:
+      - start: 2009
+        end: 2018
+  - id: "cfb37a73-8660-49e5-9590-89a3afe9365d"
+    roles:
+      - drums
+    periods:
+      - start: 2018
+        end: 2024
 socials:
   facebook: "IceNineKills"
   instagram: "iceninekills"

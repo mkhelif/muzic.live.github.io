@@ -1,6 +1,56 @@
 ---
 id: "4ee20c2d-7724-49ed-9b89-d8ced6f119ee"
 title: "Asian Dub Foundation"
+members:
+  - id: "b48e59d6-d46f-4c5e-8878-a19f532523f0"
+    roles:
+      - bass
+    periods:
+      - start: 2012
+      - start: 1993
+        end: 2006
+  - id: "85e485c6-ae95-4fdf-b22a-d426e57cd806"
+    roles:
+      - other
+    periods:
+      - start: 1993
+  - id: "fc2cdbfb-c24f-4750-97f7-e25ba1b4b171"
+    roles:
+      - guitar
+    periods:
+      - start: 1994
+  - id: "a36e9e0f-55a9-4bca-8e31-210fa8a2c9be"
+    roles:
+      - sing
+    periods:
+      - start: 1993
+        end: 2000
+  - id: "d0522160-e901-42aa-8cf0-cd4c76c1d324"
+    roles:
+      - sing
+    periods:
+      - start: 2005
+  - id: "80822621-61cd-4907-9bed-a8221efa4ab1"
+    roles:
+      - bass
+    periods:
+      - start: 2006
+        end: 2012
+  - id: "197451d8-b917-4d0b-85f2-c4bd8f75b67a"
+    roles:
+      - other
+    periods:
+      - start: 2010
+  - id: "3b536411-4c2d-4e6f-baa8-feeda783597e"
+    roles:
+      - drums
+    periods:
+      - start: 2015
+  - id: "cec0db71-6a16-473e-8c4d-f7875497f67f"
+    roles:
+      - sing
+    periods:
+      - start: 2000
 socials:
   facebook: "asiandubfoundation"
   instagram: "asian_dub_foundation"

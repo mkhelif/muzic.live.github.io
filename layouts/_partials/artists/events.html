@@ -1,6 +1,13 @@
 {{/* --- Events ---  */}}
+{{- $id := .Params.id -}}
+{{- $artistIds := slice $id -}}
+{{- if $id -}}
+    {{- range (partialCached "artists/member-of-lookup.html" .).Get $id -}}
+        {{- $artistIds = $artistIds | append .id -}}
+    {{- end -}}
+{{- end -}}
 {{ $events := where .Site.RegularPages "Section" "events" }}
-{{ $events = where $events ".Params.artists" "intersect" (slice .Params.id) }}
+{{ $events = where $events ".Params.artists" "intersect" $artistIds }}
 {{ $events = where $events ".Date" "ge" (now.AddDate 0 0 -3) }}
 {{ $events = $events.ByDate }}
 {{ partial "events/list.html" (dict "context" . "events" $events) }}
