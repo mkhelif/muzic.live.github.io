@@ -11,13 +11,7 @@
             {{- partial "artists/member-roles.html" $.roles -}}
             <h6 class="text-white small mt-1">
                 {{- .LinkTitle -}}
-                {{- if $.periods -}}
-                    <small class="ms-1 text-body">
-                        ({{- with (index $.periods 0) -}}
-                            {{- .start }}{{- if .end }} - {{- .end -}}{{- end -}}
-                        {{- end -}})
-                    </small>
-                {{- end -}}
+                {{- partial "artists/member-periods.html" $.periods -}}
             </h6>
         </div>
     </a>

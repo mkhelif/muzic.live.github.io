@@ -1,4 +1,4 @@
-{{- $albums := (where site.RegularPages "Section" "albums") | first 10 -}}
+{{- $albums := (where (where site.RegularPages "Section" "albums") "Params.rank" "ne" nil) | first 10 -}}
 
 {{ partial "titles/h3.html" (dict "title" "Albums" "link" "/albums") }}
 {{ range $index, $album := $albums }}

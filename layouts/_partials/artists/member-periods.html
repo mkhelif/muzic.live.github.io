@@ -1,0 +1,7 @@
+{{- if . -}}
+    <small class="ms-1 text-body">
+        ({{- with (index . 0) -}}
+            {{- .start }}{{- if .end }} - {{- .end -}}{{- end -}}
+        {{- end -}})
+    </small>
+{{- end -}}

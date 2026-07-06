@@ -1,21 +1,22 @@
 <div id="events" data-pagefind-ignore="all">
-    {{ partial "titles/h3.html" (dict "title" "Concerts à venir" "link" (printf "%s/calendar.ics" .context.Path) "linkText" " " "linkIcon" "fa-calendar") }}
-    <table class="table table-sm table-borderless">
-        <thead>
-            <tr>
-                <th></th>
-                <th width="100%"></th>
-                <th></th>
-            </tr>
-        </thead>
+    {{- partial "titles/h3.html" (dict "title" "Concerts à venir" "link" (printf "%s/calendar.ics" .context.Path) "linkText" " " "linkIcon" "fa-calendar") -}}
+    {{- if gt .events.Len 0 -}}
+        <table class="table table-sm table-borderless">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th width="100%"></th>
+                    <th></th>
+                </tr>
+            </thead>
 
-        <tbody>
-            {{ range $index, $event := .events }}
-                {{ partial "events/list-entry.html" (dict "event" $event "index" $index) }}
-            {{ end }}
-        </tbody>
-    </table>
-    {{ if eq .events.Len 0 }}
+            <tbody>
+                {{ range $index, $event := .events }}
+                    {{ partial "events/list-entry.html" (dict "event" $event "index" $index) }}
+                {{ end }}
+            </tbody>
+        </table>
+    {{- else -}}
         <p class="small text-muted text-center">Aucun concert annoncé</p>
-    {{ end }}
+    {{- end -}}
 </div>
