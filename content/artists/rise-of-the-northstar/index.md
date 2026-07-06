@@ -1,6 +1,74 @@
 ---
 id: "ae36bfaa-cec8-4160-ba2e-0384322fefa5"
 title: "Rise Of The NorthStar"
+members:
+  - id: "3f624ae5-c87c-445c-83cb-364dff2d7633"
+    roles:
+      - sing
+    periods:
+      - start: 2008
+  - id: "c17d992d-2150-495b-9c00-c23ac8fcceb2"
+    roles:
+      - guitar
+    periods:
+      - start: 2010
+  - id: "31a4ce31-3df1-4304-bc4b-df2b6ae9b362"
+    roles:
+      - guitar
+    periods:
+      - start: 2011
+  - id: "de24b14b-800c-444d-8896-088e78bad1b0"
+    roles:
+      - bass
+    periods:
+      - start: 2022
+  - id: "454400b3-17f1-4e2b-9200-af6a35b6fb5c"
+    roles:
+      - drums
+    periods:
+      - start: 2022
+  - id: "14def78d-34b1-4730-822d-e56ce587b0ca"
+    roles:
+      - guitar
+    periods:
+      - start: 2008
+        end: 2010
+  - id: "d3ec54d5-7123-450b-a287-c8ef4ec8a1e1"
+    roles:
+      - drums
+    periods:
+      - start: 2008
+        end: 2010
+  - id: "5022f93c-9c6d-48c8-b649-ba83ab78d6d6"
+    roles:
+      - guitar
+    periods:
+      - start: 2008
+        end: 2011
+  - id: "6262960c-9b16-43cc-bd45-9f4898f4af15"
+    roles:
+      - bass
+    periods:
+      - start: 2008
+        end: 2013
+  - id: "80fe99c5-fd85-4f99-95ba-ac1babb4c112"
+    roles:
+      - drums
+    periods:
+      - start: 2010
+        end: 2018
+  - id: "257f3b20-f256-48d6-aa59-ec5bb66f895a"
+    roles:
+      - bass
+    periods:
+      - start: 2013
+        end: 2022
+  - id: "552dc63c-16cc-46e7-8a2b-c6cae4c707f2"
+    roles:
+      - drums
+    periods:
+      - start: 2018
+        end: 2022
 socials:
   facebook: "rotnsofficial"
   instagram: "rotnsofficial"

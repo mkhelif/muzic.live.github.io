@@ -1,6 +1,72 @@
 ---
 id: "21153c85-31ee-49db-8602-4f2512eca983"
 title: "Nothing More"
+members:
+  - id: "df1a4609-ae66-4d13-a149-96222649cae9"
+    roles:
+      - sing
+      - drums
+    periods:
+      - start: 2003
+  - id: "2d61732a-3fd7-4eac-b483-ab369fe8c149"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2003
+  - id: "1d05398e-49f6-4773-be47-e5da350fb1db"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2004
+  - id: "c725537b-4cb7-4124-8922-1e8b9936d821"
+    roles:
+      - drums
+    periods:
+      - start: 2015
+  - id: "f4c6a2a9-c45d-4c71-ab2c-4aeb7b237ae9"
+    roles:
+      - sing
+    periods:
+      - start: 2003
+        end: 2004
+  - id: "ed4f134b-6d7c-41e5-bc2a-61d06845b7e8"
+    roles:
+      - guitar
+    periods:
+      - start: 2003
+        end: 2008
+  - id: "1e6b334a-c979-4cdf-8c98-ec928870f7cb"
+    roles:
+      - bass
+    periods:
+      - start: 2003
+        end: 2004
+  - id: "1e182c58-c4dc-4f16-aa2a-f36879a72c18"
+    roles:
+      - sing
+    periods:
+      - start: 2005
+        end: 2006
+  - id: "b454aca4-9618-4a49-b066-dfae2d8ee8ea"
+    roles:
+      - sing
+    periods:
+      - start: 2006
+        end: 2007
+  - id: "6c3d89c0-2b11-41fe-be4e-e9ddfb4299e7"
+    roles:
+      - drums
+    periods:
+      - start: 2009
+        end: 2011
+  - id: "ac75e209-4a40-4a5d-89e3-4bbf64deab56"
+    roles:
+      - drums
+    periods:
+      - start: 2011
+        end: 2015
 socials:
   facebook: "nothingmore"
   instagram: "nothingmoremusic"

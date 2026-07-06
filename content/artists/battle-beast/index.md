@@ -1,6 +1,59 @@
 ---
 id: "3a93ff68-f045-4dc2-b55d-aacae431b76e"
 title: "Battle Beast"
+members:
+  - id: "8de91037-83d6-4302-a914-222b7f681910"
+    roles:
+      - guitar
+    periods:
+      - start: 2008
+  - id: "97994306-8e7b-4bd5-ae87-02006b2538ab"
+    roles:
+      - drums
+    periods:
+      - start: 2008
+  - id: "7febf9bc-3f63-4912-833b-673510fb6af2"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2008
+  - id: "23b313e3-26e1-46cf-855e-7a21f702782c"
+    roles:
+      - keys
+      - sing
+    periods:
+      - start: 2008
+  - id: "09dc32f6-4d2e-4ebd-a45f-d85fa2eece1b"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2015
+  - id: "399599e4-a2f5-4c6b-9f1f-535929ac597d"
+    roles:
+      - sing
+    periods:
+      - start: 2025
+  - id: "94e25e95-e263-4f7f-9c25-3d877109e46f"
+    roles:
+      - sing
+    periods:
+      - start: 2008
+        end: 2012
+  - id: "7a185133-3672-412d-8a15-28049fcf6861"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2008
+        end: 2015
+  - id: "e507fd17-b9b1-4579-89ae-03347c1285e8"
+    roles:
+      - sing
+    periods:
+      - start: 2012
+        end: 2025
 socials:
   facebook: "battlebeastofficial"
   instagram: "battlebeastband"

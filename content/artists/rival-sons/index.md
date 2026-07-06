@@ -1,6 +1,38 @@
 ---
 id: "a9ce6260-715d-4642-b21f-d35e62a8bf4a"
 title: "Rival Sons"
+members:
+  - id: "bfe43743-7bdb-41d9-a9d7-430783b9dae8"
+    roles:
+      - sing
+      - guitar
+      - other
+    periods:
+      - start: 2009
+  - id: "99d2113a-233f-4356-ae1b-ce74b8d34fc8"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2009
+  - id: "aef1e246-24ce-4576-879d-49ca44c6df9e"
+    roles:
+      - drums
+      - sing
+    periods:
+      - start: 2009
+  - id: "587fece7-0d37-4f65-aaa3-c2379df17e76"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2013
+  - id: "27ec3317-a4bd-4797-bed1-b0a05ec6a749"
+    roles:
+      - bass
+    periods:
+      - start: 2009
+        end: 2013
 socials:
   facebook: "rivalsons"
   instagram: "rivalsons"

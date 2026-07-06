@@ -11,7 +11,7 @@ members:
         end: 2006
   - id: "85e485c6-ae95-4fdf-b22a-d426e57cd806"
     roles:
-      - other
+      - dj
     periods:
       - start: 1993
   - id: "fc2cdbfb-c24f-4750-97f7-e25ba1b4b171"
@@ -38,7 +38,7 @@ members:
         end: 2012
   - id: "197451d8-b917-4d0b-85f2-c4bd8f75b67a"
     roles:
-      - other
+      - flute
     periods:
       - start: 2010
   - id: "3b536411-4c2d-4e6f-baa8-feeda783597e"

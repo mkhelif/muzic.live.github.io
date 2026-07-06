@@ -1,0 +1,7 @@
+---
+id: "97994306-8e7b-4bd5-ae87-02006b2538ab"
+title: "Pyry Vikki"
+cover: "cover.jpg"
+socials:
+  facebook: ""
+---

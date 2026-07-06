@@ -1,6 +1,53 @@
 ---
 id: "1388e767-c9b1-40fe-84ca-e644dc2463f4"
 title: "Franz Ferdinand"
+members:
+  - id: "7b0806bf-df51-4b3e-8e32-71ec84463c58"
+    roles:
+      - sing
+      - guitar
+      - keys
+    periods:
+      - start: 2002
+  - id: "e5836662-941c-4e7b-b688-b7f410fd043e"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2002
+  - id: "bd3caa09-5367-4bfc-9e6e-ec428631582d"
+    roles:
+      - keys
+      - guitar
+      - sing
+    periods:
+      - start: 2017
+  - id: "8df5c2fa-1734-43f8-80dd-2b5f67fe316c"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2017
+  - id: "5c170dcd-f2b0-4011-8397-1e731f112ad6"
+    roles:
+      - drums
+    periods:
+      - start: 2021
+  - id: "d74eaf21-cb59-4961-89b9-218316ac671e"
+    roles:
+      - drums
+      - sing
+    periods:
+      - start: 2002
+        end: 2021
+  - id: "7ade741c-87ce-4a44-a1ae-138c9f1be42d"
+    roles:
+      - guitar
+      - keys
+      - sing
+    periods:
+      - start: 2002
+        end: 2016
 socials:
   facebook: "officialfranzferdinand"
   instagram: "franz_ferdinand"
