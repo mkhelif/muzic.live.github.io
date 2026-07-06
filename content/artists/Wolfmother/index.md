@@ -3,25 +3,30 @@ id: "3b787e45-2a7c-49ac-87b9-ba7f9f636a42"
 title: "Wolfmother"
 members:
   - id: "da5cc585-c151-47bf-8807-10fe901df32b"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 2004
   - id: "1cd55baa-96e2-4b4b-9234-e352a30f62ba"
-    role: bass
+    roles:
+      - bass
     periods:
       - start: 2004
         end: 2008
   - id: "a27b1199-5b02-4895-9970-ac2b2c5f30c6"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 2004
         end: 2008
   - id: "e5550e8c-ae49-4a7d-9a06-f5ef84fe3fd5"
-    role: bass
+    roles:
+      - bass
     periods:
       - start: 2023
   - id: "99e75f3a-a04e-412f-b90c-e475c3d3ccf1"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 2024
 socials:

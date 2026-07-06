@@ -1,6 +1,40 @@
 ---
 id: "477cfe7f-0349-4843-ae01-f8e7000dd261"
 title: "Sabaton"
+members:
+  - id: "f4ac5e41-4bc8-4425-9938-e127336edc1c"
+    roles:
+      - sing
+    periods:
+      - start: 1999
+  - id: "2be430a3-81cf-452d-9582-0d3b1b74bee4"
+    roles:
+      - bass
+    periods:
+      - start: 1999
+  - id: "9c70f300-1c35-4b2e-8633-31c8d9728361"
+    roles:
+      - guitar
+    periods:
+      - start: 2012
+  - id: "2f5cfb9e-df00-4098-b72d-b2eb2f8147d5"
+    roles:
+      - drums
+    periods:
+      - start: 2013
+  - id: "4c4d3929-c4a0-4cb2-ad1c-022f6deaaba8"
+    roles:
+      - guitar
+    periods:
+      - start: 2024
+      - start: 2012
+        end: 2016
+  - id: "63289c64-f357-418c-960d-32c5b001e00a"
+    roles:
+      - guitar
+    periods:
+      - start: 2016
+        end: 2024
 socials:
   facebook: "sabaton"
   instagram: "sabatonofficial"

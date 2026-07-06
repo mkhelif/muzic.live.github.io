@@ -1,0 +1,18 @@
+{{- $mapping := dict
+  "bass" "Bass"
+  "dance" "Dance"
+  "dj" "DJ"
+  "drums" "Batterie"
+  "guitar" "Guitare"
+  "keys" "Clavier"
+  "percussion" "Percussions"
+  "sing" "Chanteur"
+  "other" ""
+-}}
+{{- range . -}}
+    {{- if index $mapping . -}}
+        <small class="badge rounded-0 bg-primary text-dark text-uppercase font-monospace mb-1">
+            <small>{{ index $mapping . }}</small>
+        </small>
+    {{ end -}}
+{{- end -}}

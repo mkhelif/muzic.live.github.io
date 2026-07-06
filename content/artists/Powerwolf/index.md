@@ -3,23 +3,28 @@ id: "844af41a-c503-4748-9c8e-8f09de6065c2"
 title: "Powerwolf"
 members:
   - id: "d3d777e7-b3e2-4278-abe6-0a3bff446024"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 2003
   - id: "10162977-468b-43fa-8131-78b91a484c78"
-    role: bass
+    roles:
+      - bass
     periods:
       - start: 2003
   - id: "21b3a678-d01d-458d-a6aa-f27e5a09e356"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 2003
   - id: "7b806ccc-5acd-488e-a435-ea4e2830d19d"
-    role: keys
+    roles:
+      - keys
     periods:
       - start: 2003
   - id: "81f9675a-d798-4643-a9a2-6b3fedd69855"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 2011
 socials:

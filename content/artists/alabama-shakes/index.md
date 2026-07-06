@@ -3,25 +3,29 @@ id: "de5f2824-1f2f-4251-93a9-1ac54043491a"
 title: "Alabama Shakes"
 members:
   - id: "6873c2a7-2626-42e6-bd9a-ea7b795638d6"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 2009
         end: 2018
       - start: 2024
   - id: "53b6606e-1067-4377-89c8-c2b25f0607fa"
-    role: bass
+    roles:
+      - bass
     periods:
       - start: 2009
         end: 2018
       - start: 2024
   - id: "4308853e-99dd-4d16-820c-c9e062e1b345"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 2009
         end: 2018
       - start: 2024
   - id: "57b0ef4e-4eaa-467e-b007-9973e6074be2"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 2009
         end: 2018

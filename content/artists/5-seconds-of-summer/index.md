@@ -3,19 +3,23 @@ id: "46b3a13f-a6e2-4fd8-a776-afb7511d8e0a"
 title: "5 Seconds of Summer"
 members:
   - id: "25866c2f-8947-4188-9f38-7974a9c98c48"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 2011
   - id: "e1131ffe-865e-42f6-9a78-77c86f31bac7"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 2011
   - id: "37b092e2-8905-4342-ab59-5257f1e8fb3e"
-    role: bass
+    roles:
+      - bass
     periods:
       - start: 2011
   - id: "f5a282ea-89c9-4f23-b841-375f2be24c3f"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 2011
 socials:

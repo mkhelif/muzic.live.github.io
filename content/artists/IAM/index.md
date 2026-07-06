@@ -3,27 +3,33 @@ id: "e4ef32b3-ef4d-4d7e-9925-bbcc3706671b"
 title: "IAM"
 members:
   - id: "a3bbf5d1-b058-4eda-98ad-1aaaf4a5d6c6"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 1989
   - id: "cf63c750-25bf-4ca6-b9e4-d17fb0185811"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 1989
   - id: "20f72dd9-b2bb-47eb-99a9-3d6f7dafde3f"
-    role: other
+    roles:
+      - other
     periods:
       - start: 1989
   - id: "6e0e87ae-e37b-4c35-88b3-bcfa0a2c4d1f"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 1989
   - id: "155f3ec8-88f3-498d-874f-ad2a8a0b5dcb"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 1989
   - id: "238174c6-1d5f-4bda-82b6-8145ea6d3f91"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 1989
         end: 2008

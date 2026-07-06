@@ -8,8 +8,8 @@
         {{- end -}}
         <img src="{{ $cover }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async" class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover"/>
         <div class="position-absolute bottom-0 start-0 w-100 p-4" style="background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.75) 100%)">
-            {{- partial "artists/member-role.html" $.role -}}
-            <h6 class="text-white small">
+            {{- partial "artists/member-roles.html" $.roles -}}
+            <h6 class="text-white small mt-1">
                 {{- .LinkTitle -}}
                 {{- if $.periods -}}
                     <small class="ms-1 text-body">

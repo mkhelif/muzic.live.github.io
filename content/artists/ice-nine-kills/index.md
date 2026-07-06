@@ -1,6 +1,32 @@
 ---
 id: "e32a183f-ccf7-479e-bd87-283f8b704500"
 title: "Ice Nine Kills"
+members:
+  - id: "23b5d95a-dd6b-4871-a5f9-c627c8de1ea9"
+    roles:
+      - sing
+    periods:
+      - start: 2000
+  - id: "c9d3b3cb-c9e7-4d44-a6a6-3357b063068c"
+    roles:
+      - guitar
+    periods:
+      - start: 2018
+  - id: "e5c09e7b-57fd-4906-8db6-abc36c3058ff"
+    roles:
+      - bass
+    periods:
+      - start: 2019
+  - id: "e2541e12-85d3-4466-aeea-84be6301cd0b"
+    roles:
+      - guitar
+    periods:
+      - start: 2019
+  - id: "ba1790f3-38da-4eb8-8778-557909663951"
+    roles:
+      - drums
+    periods:
+      - start: 2024
 socials:
   facebook: "IceNineKills"
   instagram: "iceninekills"

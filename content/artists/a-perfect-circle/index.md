@@ -3,48 +3,58 @@ id: "d0f8e6cf-407f-4c7f-8bfa-262e69963b42"
 title: "A Perfect Circle"
 members:
   - id: "e45e4879-4cf5-404a-98af-f857ca1106c2"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 1999
   - id: "6f1c1d20-ce8b-4352-8b23-04dd7fd969af"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 1999
   - id: "4bbb4943-1c70-44d6-9089-65a6e8ca795e"
-    role: bass
+    roles:
+      - bass
     periods:
       - start: 1999
         end: 2002
   - id: "54385061-89f3-4b39-b0f7-32cd47c3de14"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 1999
         end: 2003
   - id: "718f90b3-ac7e-472c-8fe2-c111882d7010"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 1999
         end: 1999
   - id: "125bf3d5-489e-49f5-a116-71509a72d9a2"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 1999
   - id: "2590bdc4-710a-43db-966c-4fd626bdcdff"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 2003
         end: 2003
   - id: "d1847e54-e435-43a3-bcf9-c3b32636f023"
-    role: bass
+    roles:
+      - bass
     periods:
       - start: 2003
         end: 2004
   - id: "9d4280b2-e4b9-47e1-a8e6-b95b673bb3ab"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 2003
   - id: "f92cf199-bcd9-4e7c-bc0d-2cb5a7058f57"
-    role: bass
+    roles:
+      - bass
     periods:
       - start: 2010
 socials:

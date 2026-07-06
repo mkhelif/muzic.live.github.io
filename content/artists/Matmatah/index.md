@@ -3,28 +3,34 @@ id: "9b4ea8b0-519d-41e1-9cf4-3bffc23913da"
 title: "Matmatah"
 members:
   - id: "02473b8f-dbf5-4e85-b838-d7d00d2d05b0"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 1995
   - id: "d8f18f24-f9a5-4523-adde-9665d284c2bb"
-    role: bass
+    roles:
+      - bass
     periods:
       - start: 1995
   - id: "939197d7-f3f1-4362-81c9-1bfc70a08e44"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 1995
   - id: "90fca7bb-dd34-400e-a70e-8e2150dc1581"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 1995
         end: 2001
   - id: "bc01b659-72ff-4005-80f9-65055bc9698f"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 2002
   - id: "8daa34c1-f08e-4bf0-94ba-a040d27deb44"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 2015
 socials:

@@ -1,0 +1,18 @@
+---
+id: "d510f377-fdf6-42d6-9ecd-3aeb15b23055"
+title: "Nick Steinhardt"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+---

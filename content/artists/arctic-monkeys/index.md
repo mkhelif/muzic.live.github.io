@@ -3,24 +3,29 @@ id: "a557b022-4fac-4030-9301-96d3bf323e4f"
 title: "Arctic Monkeys"
 members:
   - id: "832edb6f-d036-4bb3-9960-b67605a9eb5c"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 2002
   - id: "b691e22f-99e5-43e0-98a4-dfde44ba3bbd"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 2002
   - id: "7a7ca75d-3b90-4b1b-be45-bbb4027e391a"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 2002
   - id: "f1fc518e-7e81-431c-91f1-a37afe4bab38"
-    role: bass
+    roles:
+      - bass
     periods:
       - start: 2002
         end: 2006
   - id: "9b724803-7890-475c-b8c3-b347a45439d0"
-    role: bass
+    roles:
+      - bass
     periods:
       - start: 2006
 socials:

@@ -1,6 +1,34 @@
 ---
 id: "0c37f31b-10ff-44e8-9205-f7d5ff9de427"
 title: "Three Days Grace"
+members:
+  - id: "b7d355d7-ef99-4e08-b090-d7c86465edb1"
+    roles:
+      - sing
+    periods:
+      - start: 2024
+      - start: 1997
+        end: 2013
+  - id: "7860605f-39c1-4e2c-b6a9-6fde28174053"
+    roles:
+      - drums
+    periods:
+      - start: 1997
+  - id: "10e6ae7f-107e-4158-88f0-fa17c86612d2"
+    roles:
+      - bass
+    periods:
+      - start: 1997
+  - id: "a45cc051-4263-48fa-a431-7063c09d9950"
+    roles:
+      - guitar
+    periods:
+      - start: 2003
+  - id: "e4fbff4d-4b6d-429c-9705-cb5e57b0111b"
+    roles:
+      - sing
+    periods:
+      - start: 2013
 socials:
   facebook: "threedaysgrace"
   instagram: "threedaysgraceofficial"

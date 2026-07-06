@@ -3,49 +3,59 @@ id: "a4ea37f1-9973-40f2-8438-1d38fb4c83d0"
 title: "Lofofora"
 members:
   - id: "99768b87-e721-4d59-821d-5700f47a8a2e"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 1989
   - id: "2f5ccc98-9688-464a-ac8b-076363c76e2b"
-    role: bass
+    roles:
+      - bass
     periods:
       - start: 1989
   - id: "7f4f8ecb-d7a0-4f07-99ab-fdc55512d69a"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 1989
         end: 1989
   - id: "4c4e0c4a-fcd9-4219-8981-9199d5dd8cba"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 1989
         end: 1992
   - id: "8883fd9f-cc39-48df-9430-f58b6e1c2fc2"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 1990
         end: 1994
   - id: "1e4632de-66a6-4c4e-8952-cbd52df32dfe"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 1992
         end: 2001
   - id: "c4e3f1d1-3264-4404-b604-31aed38b6a37"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 1995
         end: 2001
   - id: "dd48a87b-2c33-48c6-b407-d43898a6bc73"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 2001
   - id: "118019ba-70d9-4d1d-8586-18d64bde34d6"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 2001
         end: 2009
   - id: "04595060-1a38-426e-adcb-5af4bb348ef9"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 2009
 socials:

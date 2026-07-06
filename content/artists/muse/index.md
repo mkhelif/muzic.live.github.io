@@ -3,15 +3,18 @@ id: "5f7f169a-3ca9-4446-bdc0-086e81e30464"
 title: "Muse"
 members:
   - id: "c595bc09-6f4a-4a71-a4d4-9fb897a1c198"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 1994
   - id: "6fc1c62f-4787-4db0-b496-877b63d950a6"
-    role: bass
+    roles:
+      - bass
     periods:
       - start: 1994
   - id: "1ef5a18c-5191-4f75-8119-c44bc6f773e5"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 1994
 socials:

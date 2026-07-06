@@ -1,6 +1,27 @@
 ---
 id: "79ce59ce-44db-43be-babe-67a55f1735b6"
 title: "Alter Bridge"
+members:
+  - id: "bf7f6406-a9e0-4b56-8e22-df834347ee3a"
+    roles:
+      - sing
+    periods:
+      - start: 2004
+  - id: "65d37575-e6b5-4f91-aa42-0a75b818daef"
+    roles:
+      - guitar
+    periods:
+      - start: 2004
+  - id: "1d933d20-9bce-42a5-a0cc-bc8dc40137e3"
+    roles:
+      - bass
+    periods:
+      - start: 2004
+  - id: "4e0ed0c5-3861-4f2b-bc5c-77daed9f4a20"
+    roles:
+      - drums
+    periods:
+      - start: 2004
 socials:
   facebook: ""
 ---

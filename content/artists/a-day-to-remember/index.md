@@ -1,6 +1,45 @@
 ---
 id: "0ba9abe4-92d3-45de-bc02-eca18f1572a3"
 title: "A Day to Remember"
+members:
+  - id: "84fd8bb2-d0de-46ea-b518-5f1b66989475"
+    roles:
+      - sing
+    periods:
+      - start: 2003
+  - id: "73838583-0fb9-4e8f-a9b4-97574030545d"
+    roles:
+      - guitar
+    periods:
+      - start: 2003
+  - id: "1cd022d9-eb4e-42da-9249-7b1c4b4d7cb6"
+    roles:
+      - guitar
+    periods:
+      - start: 2003
+        end: 2009
+  - id: "60b63379-0625-4b8c-a9fa-40fb99ada821"
+    roles:
+      - guitar
+    periods:
+      - start: 2009
+  - id: "4d659a99-00a3-4a74-9983-a98070eac7d0"
+    roles:
+      - drums
+    periods:
+      - start: 2003
+        end: 2006
+  - id: "03bf3a85-e21a-42b9-8cc6-36ab96c9a345"
+    roles:
+      - drums
+    periods:
+      - start: 2006
+  - id: "7e1328b6-8920-4d80-a6e4-0bce612a2c42"
+    roles:
+      - bass
+    periods:
+      - start: 2003
+        end: 2021
 socials:
   facebook: ""
 ---

@@ -3,48 +3,58 @@ id: "dcd1f68a-07ec-45b6-b0fb-b52b1743fbbc"
 title: "UB40"
 members:
   - id: "4ed90639-a41b-44f5-a3c8-b50683a6187b"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 1979
         end: 2008
   - id: "fe6cb017-32a5-4ab1-a987-92cb0284f79a"
-    role: guitar
+    roles:
+      - guitar
     periods:
       - start: 1979
   - id: "e85271c4-0a79-4f02-922e-94068d939580"
-    role: other
+    roles:
+      - other
     periods:
       - start: 1979
         end: 2021
   - id: "ce424291-28d4-487a-83e4-b96687a52f1f"
-    role: bass
+    roles:
+      - bass
     periods:
       - start: 1979
   - id: "dd642d46-b03e-4ad7-841c-87ceb8be6823"
-    role: drums
+    roles:
+      - drums
     periods:
       - start: 1979
   - id: "b002073c-e0f1-4bda-9fc6-ebbaf269e42e"
-    role: other
+    roles:
+      - other
     periods:
       - start: 1979
   - id: "a5d7524c-c3f9-4f6d-b2c1-1fe500d15bb4"
-    role: keys
+    roles:
+      - keys
     periods:
       - start: 1979
         end: 2008
   - id: "9e73fe64-1ee4-4404-b570-a8d5f6626e81"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 1979
         end: 2013
   - id: "16c16b30-3ba3-46e0-814e-3e77b1365837"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 2008
         end: 2021
   - id: "08d8d165-d253-4850-83a7-ce2efdd1c5ae"
-    role: sing
+    roles:
+      - sing
     periods:
       - start: 2021
 socials:
