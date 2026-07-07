@@ -1,5 +1,5 @@
 {{ define "main" }}
-    <div>
+    <div data-pagefind-filter="section:{{ .Section }}">
         <!-- Content -->
         {{ if eq .Section "news" }}
             {{ partial "news/content.html" . }}
