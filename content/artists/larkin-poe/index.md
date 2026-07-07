@@ -1,6 +1,18 @@
 ---
 id: "cc301983-a8ee-4bde-9063-b2e99eb3017f"
 title: "Larkin Poe"
+members:
+  - id: "a7f472e7-5c3d-4b8f-8bfb-fdf4a29039bd"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2010
+  - id: "67ff6799-3fa1-43d3-8f7d-a925ae5af454"
+    roles:
+      - guitar
+    periods:
+      - start: 2010
 socials:
   facebook: "larkinpoe"
   instagram: "larkinpoe"

@@ -1,6 +1,28 @@
 ---
 id: "badb53d0-a3d1-4a37-81ca-c0c97653cfa4"
 title: "Last Train"
+members:
+  - id: "22c1d777-103e-4fc3-92e0-a3da00d9caaa"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2007
+  - id: "7c6190de-42d5-45e8-ac43-0e95c41f4f09"
+    roles:
+      - guitar
+    periods:
+      - start: 2007
+  - id: "c0e74dc8-b4ec-4f69-830e-4c6d1ea06c76"
+    roles:
+      - bass
+    periods:
+      - start: 2007
+  - id: "ded02b92-cc45-47dd-9c9f-f039bd5c7f9c"
+    roles:
+      - drums
+    periods:
+      - start: 2007
 socials:
   facebook: "lasttrainofficial"
   instagram: "lasttrainband"

@@ -1,6 +1,27 @@
 ---
 id: "5c962b05-0937-4731-8c1c-2221d1f255c8"
 title: "DOMINUM"
+members:
+  - id: "7ca2e2de-0b6e-4c84-bfb9-7541d090f52f"
+    roles:
+      - sing
+    periods:
+      - start: 2022
+  - id: "7513d4d8-bdf2-4370-8717-5b20d0f294ad"
+    roles:
+      - guitar
+    periods:
+      - start: 2022
+  - id: "e9e530dd-7402-4d91-bfe7-c6ddba4a94db"
+    roles:
+      - bass
+    periods:
+      - start: 2022
+  - id: "6551af14-0040-4746-a7d0-13f3a3da7f8d"
+    roles:
+      - drums
+    periods:
+      - start: 2022
 socials:
   facebook: "realdominum"
   instagram: "realdominum"

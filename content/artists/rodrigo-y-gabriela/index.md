@@ -1,6 +1,17 @@
 ---
 id: "bb0a1043-d8af-44fb-bca5-2778d6ab0437"
 title: "Rodrigo y Gabriela"
+members:
+  - id: "4340d0a2-4116-4bd3-9ccb-738e812b0a56"
+    roles:
+      - guitar
+    periods:
+      - start: 2000
+  - id: "c87231cb-f1b3-4024-a144-499759adbecf"
+    roles:
+      - guitar
+    periods:
+      - start: 2000
 socials:
   facebook: "rodgab"
   instagram: "rodrigoygabriela"
