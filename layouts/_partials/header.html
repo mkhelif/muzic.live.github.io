@@ -34,10 +34,12 @@
         </ul>
 
         <!-- Search -->
-        <div id="search-bar" class="input-group me-3 me-sm-0 flex-grow-1 flex-sm-grow-0">
-            <small class="input-group-text border-0 text-primary"><i class="fa fa-magnifying-glass small"></i></small>
-            <input class="form-control border-0" id="search-input" type="search" placeholder="Rechercher un artiste, festival, salle..." aria-label="Rechercher" />
-        </div>
+        <button id="search-open" type="button"
+                class="btn btn-dark border border-light border-opacity-25 rounded-pill d-inline-flex align-items-center gap-2 me-3 me-sm-0 flex-grow-1 flex-sm-grow-0"
+                aria-label="Rechercher" aria-haspopup="dialog">
+            <i class="fa fa-xs fa-magnifying-glass text-primary"></i>
+            <small><span class="text-white-50 fw-light small">Rechercher un artiste, festival, salle&hellip;</span></small>
+        </button>
     </div>
 
     <ul class="navbar-nav font-monospace text-uppercase small d-flex d-sm-none flex-row justify-content-between w-100 mx-4 mt-2">

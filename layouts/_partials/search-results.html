@@ -1,9 +1,25 @@
-<div id="search-results-container" class="d-none position-fixed w-100 h-100 start-0 top-0 z-2" data-pagefind-ignore="all">
-    <div id="search-results" class="d-flex flex-column container">
+<div id="search-blackbox" class="d-none position-fixed top-0 start-0 w-100 h-100 z-3" data-pagefind-ignore="all" aria-hidden="true">
+    <div class="position-absolute top-0 start-0 w-100 h-100 bg-black opacity-75" data-search-close></div>
 
+    <div id="search-modal" class="position-relative mx-auto mt-5 bg-dark border border-primary border-opacity-25 rounded-3 shadow-lg overflow-hidden d-flex flex-column" role="dialog" aria-modal="true" aria-label="Recherche">
+        <div class="d-flex align-items-center p-3 border-bottom border-secondary border-opacity-50">
+            <i class="fa fa-magnifying-glass text-primary fs-6 mx-1" aria-hidden="true"></i>
+            <input id="search-input" type="search"
+                   class="form-control bg-transparent border-0 text-light shadow-none"
+                   style="caret-color:var(--bs-primary);"
+                   autocomplete="off" autocapitalize="off" spellcheck="false"
+                   placeholder="Rechercher un artiste, un album, un festival&hellip;" aria-label="Rechercher" />
+            <button type="button" class="btn btn-sm btn-outline-secondary font-monospace" data-search-close aria-label="Fermer">ESC</button>
+        </div>
+
+        <div id="search-results" class="flex-grow-1 overflow-y-auto p-3" role="listbox" aria-label="Résultats"></div>
+
+        <div class="d-flex align-items-center justify-content-end p-3 border-top border-1 border-primary border-opacity-25 small">
+            <small class="text-white-50 font-monospace">
+                <span><i class="fa fa-up-down text-primary"></i> naviguer</span>
+                <span><span class="fa fa-arrow-turn-down fa-rotate-90 text-primary"></span> ouvrir</span>
+                <span><span class="text-primary">esc</span> fermer</span>
+            </small>
+        </div>
     </div>
-
-    <a id="search-results-close" class="fs-1 position-fixed top-0 end-0 text-dark bg-primary m-5 px-1 rounded-1">
-        <i class="fa fa-fw fa-xmark"></i>
-    </a>
 </div>

@@ -1,8 +1,20 @@
 const loading = import("/pagefind/pagefind.js");
 
 const OPTIONS = {
-    excerptLength: 150
+    excerptLength: 30
 };
+
+// Categories in display order, with their label and thumbnail shape.
+const CATEGORIES = {
+    'artists': 'Artistes',
+    'albums': 'Albums',
+    'festivals': 'Festivals',
+    'reports': 'Chroniques',
+    'news': 'Actualités',
+    'venues': 'Salles',
+};
+
+const MAX_PER_GROUP = 6;
 
 // Lowercase + strip diacritics so "josman" matches "Josman" and "medine" matches "Médine".
 function normalizeText(value) {
@@ -14,49 +26,120 @@ function normalizeText(value) {
 }
 
 window.addEventListener('DOMContentLoaded', () => loading.then(pagefind => {
-    // Elements
-    const searchInput = document.getElementById('search-input');
-    const searchResultsContainer = document.getElementById('search-results-container');
-    const searchResultsClose = document.getElementById('search-results-close');
-    const searchResults = document.getElementById('search-results');
+    const modal = document.getElementById('search-blackbox');
+    const trigger = document.getElementById('search-open');
+    const input = document.getElementById('search-input');
+    const results = document.getElementById('search-results');
 
-    // Position elements
-    const position = searchInput.getBoundingClientRect();
-    searchResults.style = `margin-top: ${position.top + position.height}px !important`;
+    let activeIndex = -1;   // index of the highlighted result in `rows`
+    let rows = [];          // flat list of rendered result <a> elements
 
-    // Bind events
-    searchResults.addEventListener('click', e => e.stopPropagation());
-    searchResultsContainer.addEventListener('click', hideResults);
-    searchResultsClose.addEventListener('click', hideResults);
+    /**
+     * Open / close
+     */
+    function openModal() {
+        modal.classList.remove('d-none');
+        modal.setAttribute('aria-hidden', 'false');
+        document.body.style.overflow = 'hidden';
+        input.focus();
+        input.select();
+    }
 
-    searchInput.addEventListener('keyup', () => {
-        const term = (searchInput.value || '').trim();
+    function closeModal() {
+        modal.classList.add('d-none');
+        modal.setAttribute('aria-hidden', 'true');
+        document.body.style.overflow = '';
+    }
+
+    function isOpen() {
+        return !modal.classList.contains('d-none');
+    }
+
+    if (trigger) {
+        trigger.addEventListener('click', openModal);
+    }
+
+    modal.querySelectorAll('[data-search-close]').forEach(el => {
+        el.addEventListener('click', closeModal);
+    });
+
+    /**
+     * Keystrokes and events
+     */
+    document.addEventListener('keydown', e => {
+        const typing = /^(input|textarea|select)$/i.test((e.target.tagName || '')) || e.target.isContentEditable;
+        if (!isOpen()) {
+            if ((e.key === '/' || ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k')) && !typing) {
+                e.preventDefault();
+                openModal();
+            }
+            return;
+        }
+
+        if (e.key === 'Escape') {
+            e.preventDefault();
+            closeModal();
+        } else if (e.key === 'ArrowDown') {
+            e.preventDefault();
+            move(1);
+        } else if (e.key === 'ArrowUp') {
+            e.preventDefault();
+            move(-1);
+        } else if (e.key === 'Enter') {
+            const target = rows[activeIndex] || rows[0];
+            if (target) {
+                e.preventDefault();
+                window.location.href = target.href;
+            }
+        }
+    });
+
+    /**
+     * Search
+     */
+    input.addEventListener('input', () => {
+        const term = (input.value || '').trim();
         if (term === '') {
-            hideResults();
+            renderEmpty();
         } else {
             debounce(() => {
                 pagefind.search(term, OPTIONS)
                     .then(showResults)
-                    .catch(hideResults);
-            }, 300)();
+                    .catch((e) => {
+                        console.log(e);
+                        renderMessage('Une erreur est survenue.');
+                    });
+            }, 200)();
         }
     });
 
-    // Results handling
-    function clearResults() {
-        while (searchResults.firstChild) {
-            searchResults.removeChild(searchResults.lastChild);
-        }
-    }
+    function showResults(search) {
+        const term = normalizeText(input.value || '');
 
-    function addResult(data) {
-        const element = document.createElement('div');
-        element.id = data.url;
-        element.classList.add('pb-2', 'px-3', 'px-sm-0');
-        element.appendChild(createCoverElement(data.meta.image, data.meta.image_alt, data.url));
-        element.appendChild(createTitleElement(data.meta.title, data.url));
-        element.appendChild(createContentElement(data));
-        searchResults.appendChild(element);
+        Promise.all(search.results.map((result, index) => result.data().then(data => ({ data, index }))))
+            .then(items => {
+                // Bucket every result by its category filter.
+                const buckets = {};
+                Object.keys(CATEGORIES).forEach(key => (buckets[key] = []));
+
+                items.forEach(item => {
+                    const category = (item.data.filters && item.data.filters.section && item.data.filters.section[0]) || '';
+                    if (buckets[category]) {
+                        buckets[category].push(item);
+                    }
+                });
+
+                // Title matches float to the top of each bucket; Pagefind order breaks ties.
+                Object.keys(buckets).forEach(key => {
+                    buckets[key].sort((a, b) => {
+                        const diff = titleScore(b.data.meta.title, term) - titleScore(a.data.meta.title, term);
+                        return diff !== 0 ? diff : a.index - b.index;
+                    });
+                });
+
+                render(buckets);
+            })
+            .catch(() => renderMessage('Une erreur est survenue.'));
     }
 
     // Rank a result by how well the query matches its title:
@@ -70,135 +153,133 @@ window.addEventListener('DOMContentLoaded', () => loading.then(pagefind => {
         return 0;
     }
 
-    function showResults(search) {
-        const term = normalizeText(searchInput.value || '');
-
-        // Load every result's data, then order title matches first while keeping
-        // Pagefind's relevance order as a tie-breaker.
-        Promise.all(search.results.map((result, index) => result.data().then(data => ({ data, index }))))
-            .then(items => {
-                items.sort((a, b) => {
-                    const diff = titleScore(b.data.meta.title, term) - titleScore(a.data.meta.title, term);
-                    return diff !== 0 ? diff : a.index - b.index;
-                });
-
-                // Update results
-                clearResults();
-                items.forEach(item => addResult(item.data));
-
-                // Show results
-                searchResultsContainer.classList.remove('d-none');
-                searchResultsContainer.classList.add('d-block');
-                document.body.style.overflowY = 'hidden';
-            })
-            .catch(hideResults);
+    // --- Rendering ----------------------------------------------------------
+    function clear() {
+        while (results.firstChild) results.removeChild(results.lastChild);
+        rows = [];
+        activeIndex = -1;
     }
 
-    function hideResults() {
-        searchResultsContainer.classList.remove('d-block');
-        searchResultsContainer.classList.add('d-none');
-        document.body.style.overflowY = '';
-    }
-}));
-
-function createCoverElement(src, alt, url) {
-    const image = document.createElement('img');
-    image.src = src;
-    image.alt = alt;
-    image.setAttribute('width', '100%');
-    image.classList.add('rounded-1');
-
-    const link = document.createElement('a');
-    link.href = url;
-    link.classList.add('h-100');
-    link.appendChild(image);
-
-    const cover = document.createElement('div');
-    cover.style.width = '250px';
-    cover.classList.add('float-sm-start', 'd-flex', 'align-content-center', 'me-sm-3', 'my-2', 'mx-auto');
-    cover.appendChild(link);
-    return cover;
-}
-
-function createTitleElement(value, src) {
-    const link = document.createElement('a');
-    link.href = src;
-    link.innerText = value;
-
-    const title = document.createElement('h3');
-    title.appendChild(link);
-    return title;
-}
-
-function createContentElement(data) {
-    const content = document.createElement('div');
-    content.classList.add('small', 'text-body-tertiary');
-
-    // Meta-data
-    if (data.meta.venues) {
-        content.innerText = data.meta.venues;
+    function renderEmpty() {
+        renderMessage('Tapez pour rechercher un artiste, un album, un festival, une salle, une chronique…');
     }
 
-    if (data.meta.date) {
-        if (content.innerText) {
-            content.innerText += ', ';
-        }
-        content.appendChild(createDateElement(data.meta.date));
+    function renderMessage(message) {
+        clear();
+        const p = document.createElement('p');
+        p.className = 'text-center text-secondary small';
+        p.textContent = message;
+        results.appendChild(p);
     }
 
-    const rank = createRankElement(data.meta.rank);
-    if (rank) {
-        content.appendChild(rank);
-    }
+    function render(buckets) {
+        clear();
 
-    // Content
-    const excerpt = document.createElement('div');
-    excerpt.classList.add('pt-1', 'text-muted', 'text-justify', 'text-sm-start');
-    excerpt.innerText = data.content.substring(0, Math.min(data.content.length, 1000)).trim() + '…';
-    content.appendChild(excerpt);
-
-    // Read more
-    const link = document.createElement('a');
-    link.href = data.url;
-    link.innerText = 'Lire la suite';
-
-    const more = document.createElement('p');
-    more.classList.add('text-end');
-    more.style.clear = 'both';
-    more.appendChild(link);
-    content.appendChild(more);
-
-    return content;
-}
-
-function createRankElement(value) {
-    if (isNaN(value)) {
-        return null;
-    }
-
-    const rank = document.createElement('span');
-    rank.classList.add('ms-2', 'text-primary');
-
-    value = Number(value);
-    for (let i = 0 ; i < 5 ; i++) {
-        const icon = document.createElement('i');
-        if (value > i) {
-            if (value < i + 1) {
-                icon.classList.add('fa', 'fa-star-half-stroke');
-            } else {
-                icon.classList.add('fa', 'fa-star');
+        let total = 0;
+        Object.entries(CATEGORIES).forEach(([key, label]) => {
+            const items = (buckets[key] || []).slice(0, MAX_PER_GROUP);
+            if (items.length === 0) {
+                return;
             }
-        } else {
-            icon.classList.add('far', 'fa-star');
-        }
-        rank.appendChild(icon);
-    }
-    return rank;
-}
 
-function createDateElement(value) {
-    const date = document.createElement('time');
-    date.classList.add('text-body');
-    date.innerText = value;
-    return date;
-}
+            results.appendChild(createCategoryLabel(label));
+
+            items.forEach(item => {
+                const row = createRow(item.data);
+                results.appendChild(row);
+                rows.push(row);
+                total++;
+            });
+        });
+
+        if (total === 0) {
+            renderMessage('Aucun résultat.');
+            return;
+        }
+
+        setActive(0);
+    }
+
+    function createCategoryLabel(category) {
+        const label = document.createElement('div');
+        label.className = 'small text-primary font-monospace text-uppercase mt-2';
+        label.textContent = category;
+        return label;
+    }
+
+    function createRow(data) {
+        const link = document.createElement('a');
+        link.className = 'd-flex align-items-center gap-3 p-2 rounded text-decoration-none';
+        link.href = data.url;
+        link.setAttribute('role', 'option');
+
+        // Thumbnail
+        const thumb = document.createElement('div');
+        thumb.className = 'overflow-hidden flex-shrink-0 bg-secondary bg-opacity-25 rounded-1';
+        thumb.style.width = '42px';
+        thumb.style.height = '42px';
+        if (data.meta.image) {
+            const img = document.createElement('img');
+            img.src = data.meta.image;
+            img.alt = data.meta.image_alt || data.meta.title || '';
+            img.loading = 'lazy';
+            img.decoding = 'async';
+            img.className = 'w-100 h-100 object-fit-cover';
+            thumb.appendChild(img);
+        }
+        link.appendChild(thumb);
+
+        // Title + meta
+        const body = document.createElement('div');
+        body.className = 'd-flex flex-column flex-grow-1';
+        body.style.minWidth = '0';
+
+        const title = document.createElement('span');
+        title.className = 'text-light text-truncate';
+        title.textContent = data.meta.title || data.url;
+        body.appendChild(title);
+        link.appendChild(body);
+
+        link.addEventListener('mousemove', () => setActive(rows.indexOf(link)));
+        return link;
+    }
+
+    // --- Keyboard highlight -------------------------------------------------
+    function setActive(index) {
+        if (rows.length === 0) {
+            return;
+        }
+        if (activeIndex >= 0 && rows[activeIndex]) {
+            toggleActive(rows[activeIndex], false);
+        }
+        activeIndex = Math.max(0, Math.min(index, rows.length - 1));
+        const row = rows[activeIndex];
+        toggleActive(row, true);
+        row.scrollIntoView({ block: 'nearest' });
+    }
+
+    function toggleActive(row, on) {
+        row.classList.toggle('bg-primary', on);
+        row.classList.toggle('bg-opacity-10', on);
+        const enter = row.querySelector('[data-enter]');
+        if (enter) {
+            enter.classList.toggle('invisible', !on);
+        }
+    }
+
+    function move(delta) {
+        if (rows.length === 0) {
+            return;
+        }
+        let next = activeIndex + delta;
+        if (next < 0) {
+            next = rows.length - 1;
+        }
+        if (next > rows.length - 1) {
+            next = 0;
+        }
+        setActive(next);
+    }
+
+    renderEmpty();
+}));
