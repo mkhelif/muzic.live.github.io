@@ -1,7 +1,6 @@
 ---
 id: "1e182c58-c4dc-4f16-aa2a-f36879a72c18"
 title: "Travis Cox"
-cover: "cover.jpg"
 socials:
   facebook: ""
 ---

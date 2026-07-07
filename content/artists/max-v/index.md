@@ -1,7 +1,6 @@
 ---
 id: "d3ec54d5-7123-450b-a287-c8ef4ec8a1e1"
 title: "Max V."
-cover: "cover.jpg"
 socials:
   facebook: ""
 ---

@@ -1,7 +1,9 @@
 ---
 id: "bfe43743-7bdb-41d9-a9d7-430783b9dae8"
 title: "Jay Buchanan"
-cover: "cover.jpg"
 socials:
-  facebook: ""
+  facebook: "jaybuchananrivalsons"
+  instagram: "jaythebirdthatsings"
+  threads: "@jaythebirdthatsings"
+  spotify: "4yxxlbLkkrnChV7826Cxv7"
 ---
