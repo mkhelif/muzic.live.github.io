@@ -102,14 +102,12 @@ window.addEventListener('DOMContentLoaded', () => loading.then(pagefind => {
         if (term === '') {
             renderEmpty();
         } else {
-            debounce(() => {
-                pagefind.search(term, OPTIONS)
-                    .then(showResults)
-                    .catch((e) => {
-                        console.log(e);
-                        renderMessage('Une erreur est survenue.');
-                    });
-            }, 200)();
+            pagefind.debouncedSearch(term, OPTIONS)
+                .then(showResults)
+                .catch((e) => {
+                    console.log(e);
+                    renderMessage('Une erreur est survenue.');
+                });
         }
     });
 
