@@ -4,12 +4,18 @@ title: "System of a Down"
 socials:
   facebook: "systemofadown"
   instagram: "systemofadown"
-  x: "System_Of_A_Down"
+  tiktok: "@systemofadown"
+  x: "systemofadown"
+  threads: "@systemofadown"
   youtube: "systemofadown"
   web: "https://systemofadown.com"
-  spotify: ""
+  amazon: "B0025NYZ9W"
+  apple: "462715"
+  deezer: "458"
+  qobuz: "121231"
+  spotify: "5eAWCfyUhZtHHtBdNk56l1"
+  tidal: "721"
 todo:
-  - Verify social networks
   - Add logo cover
 ---
 
