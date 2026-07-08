@@ -1,6 +1,39 @@
 ---
 id: "447f0a27-2b10-4c9c-b0f2-f9e6d7c8ee90"
 title: "Portugal. the Man"
+members:
+  - id: "ed9aa5ad-7c0a-4d32-bbf2-a2df3025561a"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2004
+  - id: "757311b5-410b-40bd-a080-56768c642031"
+    roles:
+      - bass
+    periods:
+      - start: 2004
+  - id: "0966f8ed-beff-431e-aab3-4c5ca749ab33"
+    roles:
+      - guitar
+    periods:
+      - start: 2015
+  - id: "ae4ffb54-08ad-4937-b499-e9bbe3accafc"
+    roles:
+      - keys
+    periods:
+      - start: 2012
+      - start: 2007
+        end: 2007
+  - id: "b4a1ae45-171e-4524-a1ca-4d2edd21a129"
+    roles:
+      - drums
+    periods:
+      - start: 2016
+      - start: 2009
+        end: 2011
+      - start: 2005
+        end: 2008
 socials:
   facebook: "portugaltheman"
   instagram: "portugaltheman"

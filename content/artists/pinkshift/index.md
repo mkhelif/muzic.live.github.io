@@ -1,6 +1,28 @@
 ---
 id: "d3a047d5-7760-484d-a9ac-5738da7a55dc"
 title: "Pinkshift"
+members:
+  - id: "668b0b60-e4c5-46c1-8193-3cfaaaaea45c"
+    roles:
+      - sing
+    periods:
+      - start: 2019
+  - id: "43fd6d11-3f1a-45a9-96a0-aebe1b8e32f9"
+    roles:
+      - guitar
+    periods:
+      - start: 2019
+  - id: "3c7109be-2c9a-4b41-8971-2c97e584d3cf"
+    roles:
+      - drums
+    periods:
+      - start: 2019
+  - id: "3c7cfd29-2902-43ad-9903-9450819d2a64"
+    roles:
+      - bass
+    periods:
+      - start: 2019
+        end: 2021
 socials:
   facebook: "pinkshiftmd"
   instagram: "pinkshiftmd"

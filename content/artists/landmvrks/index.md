@@ -1,6 +1,44 @@
 ---
 id: "6904a478-cc3a-4be8-819e-3f81eca3adf2"
 title: "LANDMVRKS"
+members:
+  - id: "01c12748-506c-4cc3-a035-1b5ab7556906"
+    roles:
+      - sing
+    periods:
+      - start: 2014
+  - id: "f0cb4060-ae36-4efa-a214-c8323bc0d639"
+    roles:
+      - guitar
+    periods:
+      - start: 2014
+  - id: "dbe81600-5b18-4187-bad5-329f7a6f3ce5"
+    roles:
+      - bass
+    periods:
+      - start: 2014
+  - id: "836339ca-f6dc-47a5-9f70-75923f110c2f"
+    roles:
+      - guitar
+    periods:
+      - start: 2017
+  - id: "b1888d00-6d04-4fb5-9b31-f7a449962675"
+    roles:
+      - drums
+    periods:
+      - start: 2019
+  - id: "4a39a45c-de54-4dd1-b6d7-89f69dbd08e8"
+    roles:
+      - drums
+    periods:
+      - start: 2014
+        end: 2019
+  - id: "db81300f-b25c-49a5-a15d-cdda3afd8720"
+    roles:
+      - guitar
+    periods:
+      - start: 2014
+        end: 2017
 socials:
   facebook: "LANDMVRKS"
   instagram: "landmvrks"
