@@ -1,29 +1,39 @@
 {{- with .Params.members -}}
-    <div id="members-current" class="my-4" data-pagefind-ignore="all">{{ partial "titles/h3.html" (dict "title" "Membres") }}</div>
-    <div class="row row-cols-2 row-cols-md-5 g-4">
-        {{- range $index, $member := . -}}
-            {{/* Current members */}}
-            {{- if eq (index .periods 0).end nil -}}
+    {{- $currentMembers := slice -}}
+    {{- $formerMembers := slice -}}
+    {{- range . -}}
+        {{- if eq (index .periods 0).end nil -}}
+            {{ $currentMembers = $currentMembers | append . }}
+        {{- else -}}
+            {{ $formerMembers = $formerMembers | append . }}
+        {{- end -}}
+    {{- end -}}
+
+    {{/* Current members */}}
+    {{- if gt ($currentMembers | len) 0 -}}
+        <div id="members-current" class="my-4" data-pagefind-ignore="all">{{ partial "titles/h3.html" (dict "title" "Membres") }}</div>
+        <div class="row row-cols-2 row-cols-md-5 g-4">
+            {{- range $index, $member := $currentMembers -}}
                 <div class="col">
                     <div class="rounded overflow-hidden position-relative {{ cond (eq $index 0) "mb-3" "" }}" style="height:clamp(160px,21vw,235px);">
                         {{- partial "artists/member-hero.html" . -}}
                     </div>
                 </div>
             {{- end -}}
-        {{- end -}}
-    </div>
+        </div>
+    {{- end -}}
 
     {{/* Former members */}}
-    <div id="members-former" class="my-4" data-pagefind-ignore="all">{{ partial "titles/h3.html" (dict "title" "Anciens membres") }}</div>
+    {{- if gt ($formerMembers | len) 0 -}}
+        <div id="members-former" class="my-4" data-pagefind-ignore="all">{{ partial "titles/h3.html" (dict "title" "Anciens membres") }}</div>
         <div class="row row-cols-2 row-cols-md-5 g-4">
-            {{- range $index, $member := . -}}
-                {{- if ne (index .periods 0).end nil -}}
+            {{- range $index, $member := $formerMembers -}}
                 <div class="col">
                     <div class="rounded overflow-hidden position-relative {{ cond (eq $index 0) "mb-3" "" }}" style="height:clamp(160px,21vw,235px);">
-                    {{- partial "artists/member-hero.html" . -}}
+                        {{- partial "artists/member-hero.html" . -}}
+                    </div>
                 </div>
-            </div>
             {{- end -}}
-        {{- end -}}
-    </div>
+        </div>
+    {{- end -}}
 {{- end -}}
