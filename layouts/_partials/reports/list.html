@@ -1,9 +1,8 @@
-<div data-pagefind-ignore="all">
-    <div id="reports" class="mt-5 mb-4">{{ partial "titles/h3.html" (dict "title" (default "Chroniques de concerts" .title)) }}</div>
-    {{ range $index, $report := .reports }}
-        {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
-    {{ end }}
-    {{ if eq .reports.Len 0 }}
-        <p class="small text-muted text-center">Aucune chronique de concert</p>
-    {{ end }}
-</div>
+{{- if gt .reports.Len 0 -}}
+    <div data-pagefind-ignore="all">
+        <div id="reports" class="mt-5 mb-4">{{ partial "titles/h3.html" (dict "title" (default "Chroniques de concerts" .title)) }}</div>
+        {{- range $index, $report := .reports -}}
+            {{- partial "reports/list-entry.html" (dict "report" $report "index" $index) -}}
+        {{- end -}}
+    </div>
+{{- end -}}

@@ -1,6 +1,6 @@
-<div id="events" data-pagefind-ignore="all">
-    {{- partial "titles/h3.html" (dict "title" "Concerts à venir" "link" (printf "%s/calendar.ics" .context.Path) "linkText" " " "linkIcon" "fa-calendar") -}}
-    {{- if gt .events.Len 0 -}}
+{{- if gt .events.Len 0 -}}
+    <div id="events" data-pagefind-ignore="all">
+        {{- partial "titles/h3.html" (dict "title" "Concerts à venir" "link" (printf "%s/calendar.ics" .context.Path) "linkText" " " "linkIcon" "fa-calendar") -}}
         <table class="table table-sm table-borderless">
             <thead>
                 <tr>
@@ -11,12 +11,10 @@
             </thead>
 
             <tbody>
-                {{ range $index, $event := .events }}
-                    {{ partial "events/list-entry.html" (dict "event" $event "index" $index) }}
-                {{ end }}
+                {{- range $index, $event := .events -}}
+                    {{- partial "events/list-entry.html" (dict "event" $event "index" $index) -}}
+                {{- end -}}
             </tbody>
         </table>
-    {{- else -}}
-        <p class="small text-muted text-center">Aucun concert annoncé</p>
-    {{- end -}}
-</div>
+    </div>
+{{- end -}}
