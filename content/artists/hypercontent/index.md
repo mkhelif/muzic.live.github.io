@@ -4,5 +4,19 @@ title: "HYPERCONTENT!"
 todo:
   - Add cover
   - Add socials
-  - Add description
 ---
+
+HYPERCONTENT! est un collectif franco-chilio-belge basé à Bruxelles, qui brouille les frontières entre jazz,
+électronique et musique de danse. Porté par une énergie brute et un amour affirmé du groove, le groupe est mené par deux
+batteurs, Raphaël Aurand et Elie Gouleme, qui donnent au projet sa signature rythmique double.
+
+###### Sept musiciens pour un dancefloor vivant
+
+Sur scène, HYPERCONTENT! réunit sept musiciens qui mêlent les rythmes percutants de la house, des textures électroniques
+et la chaleur du funk et du groove, avec l'ambition assumée de brouiller la frontière entre la scène et le dancefloor.
+
+###### Révélé par LaSemo
+
+Le collectif s'est fait connaître en remportant le tremplin Graines de Scène du festival LaSemo, une victoire qui lui
+vaut d'être réinvité pour l'édition 2026, où il doit transformer sa scène en un véritable dancefloor à ciel ouvert le 10
+juillet 2026, dans le parc d'Enghien, en Belgique.
