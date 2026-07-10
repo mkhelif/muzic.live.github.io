@@ -1,6 +1,48 @@
 ---
 id: "71c41ef9-ba66-4f94-bb93-ed93fc1d188e"
 title: "Brothers of Metal"
+members:
+  - id: "b86c69e9-bdb4-444b-9826-52a0b36b64cc"
+    roles:
+      - sing
+    periods:
+      - start: 2013
+  - id: "01517423-f96e-4a0e-a535-a7b5f936c449"
+    roles:
+      - sing
+    periods:
+      - start: 2012
+  - id: "6d22dae4-21c0-4f96-8ca1-91692856ab5d"
+    roles:
+      - sing
+    periods:
+      - start: 2012
+  - id: "2dff4975-e2c8-46ab-88a2-22080af6ffbf"
+    roles:
+      - guitar
+    periods:
+      - start: 2012
+  - id: "3ac972db-5ae3-472d-95a0-de4c4e88ebca"
+    roles:
+      - guitar
+    periods:
+      - start: 2012
+  - id: "a8b9e38f-28ae-432d-9bcd-696c9574b6b8"
+    roles:
+      - bass
+    periods:
+      - start: 2012
+  - id: "93b73dcf-c9db-41fb-bd22-444af5c9696c"
+    roles:
+      - drums
+    periods:
+      - start: 2012
+  - id: "a4debcb4-8a9f-400d-b20d-70d1f533c1e2"
+    roles:
+      - guitar
+    periods:
+      - start: 2012
+        end: 2023
 socials:
   facebook: "brothersofmetalofficial"
   instagram: "brothersofmetalofficial"

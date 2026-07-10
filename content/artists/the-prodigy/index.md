@@ -1,6 +1,30 @@
 ---
 id: "d631a100-ff22-4e3a-843f-1c76a58db5f7"
 title: "The Prodigy"
+members:
+  - id: "93110461-ca37-4869-8b15-e749e2d3efd9"
+    roles:
+      - keys
+    periods:
+      - start: 1990
+  - id: "6ba3959a-f1c7-4969-bb8a-bddf765ab9e0"
+    roles:
+      - sing
+    periods:
+      - start: 1990
+        end: 2019
+  - id: "1043ccaa-6e1c-4764-85ba-5613e82b5c40"
+    roles:
+      - sing
+    periods:
+      - start: 1990
+  - id: "3c2d0a6a-4de7-4f86-b0b6-b6a30674c259"
+    roles:
+      - keys
+      - other
+    periods:
+      - start: 1990
+        end: 2000
 socials:
   facebook: "theprodigyofficial"
   instagram: "theprodigyofficial"

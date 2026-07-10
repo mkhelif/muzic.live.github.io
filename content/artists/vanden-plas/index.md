@@ -1,6 +1,32 @@
 ---
 id: "e62d8440-4b62-47b4-bf7f-01b645c9bfbd"
 title: "Vanden Plas"
+members:
+  - id: "04b7ae8d-9e23-4e31-b24f-ed9de97829f5"
+    roles:
+      - sing
+    periods:
+      - start: 1986
+  - id: "2147388f-d23b-4ceb-81a0-58494383163e"
+    roles:
+      - guitar
+    periods:
+      - start: 1986
+  - id: "fd6b9f88-d5b6-41a3-95bf-7dcb40da13fd"
+    roles:
+      - keys
+    periods:
+      - start: 1986
+  - id: "7bdacd86-02f5-4422-82d8-507edcdd68ac"
+    roles:
+      - bass
+    periods:
+      - start: 1986
+  - id: "d8ef395a-4555-4097-a6bf-b269d7399f78"
+    roles:
+      - drums
+    periods:
+      - start: 1986
 socials:
   facebook: "VandenPlasOfficial"
   instagram: "vanden.plas.official"

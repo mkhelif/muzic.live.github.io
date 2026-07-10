@@ -1,6 +1,27 @@
 ---
 id: "ea68800d-6e59-4f8b-9191-3a73226f7ee2"
 title: "Thousand Below"
+members:
+  - id: "e86af5bb-d007-4ecd-b926-0733fdf6f5c9"
+    roles:
+      - sing
+    periods:
+      - start: 2016
+  - id: "7f73ac3f-3884-4cea-9dbc-01ca03763819"
+    roles:
+      - guitar
+    periods:
+      - start: 2016
+  - id: "9987b66a-63f3-4820-8b8d-68dae71ea7fc"
+    roles:
+      - bass
+    periods:
+      - start: 2016
+  - id: "f20c6395-c06c-4cac-b341-a1e57f67cc10"
+    roles:
+      - drums
+    periods:
+      - start: 2019
 socials:
   facebook: ""
 todo:

@@ -1,6 +1,39 @@
 ---
 id: "98e37a4e-4214-47bc-be3d-efbbe640b933"
 title: "Haevn"
+members:
+  - id: "8eacb314-25db-472a-9b44-eb474e3db929"
+    roles:
+      - guitar
+    periods:
+      - start: 2018
+  - id: "22a4285e-6e9d-4d3d-9bcd-ea2ad5523159"
+    roles:
+      - bass
+    periods:
+      - start: 2017
+  - id: "9c7614fa-06a3-416a-8838-aa0bd0e13840"
+    roles:
+      - guitar
+    periods:
+      - start: 2015
+        end: 2018
+  - id: "1f5f17ee-05da-412c-867e-dd15b029d29d"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2015
+  - id: "84a79fb9-af7c-4863-83df-45910f77be43"
+    roles:
+      - keys
+    periods:
+      - start: 2015
+  - id: "a16e4ce5-205b-46ad-a7fb-6397ff527950"
+    roles:
+      - drums
+    periods:
+      - start: 2015
 socials:
   facebook: "haevnmusic"
   instagram: "haevnmusic"

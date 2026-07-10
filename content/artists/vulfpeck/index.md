@@ -1,6 +1,30 @@
 ---
 id: "3a82a1d4-8fec-440e-91d7-993105c4c41a"
 title: "Vulfpeck"
+members:
+  - id: "9e60e51f-f4be-4393-8018-0f39245c1ffd"
+    roles:
+      - drums
+      - keys
+      - guitar
+    periods:
+      - start: 2011
+  - id: "db48d51a-c0fa-4c91-8055-9df559f38772"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2011
+  - id: "c98295a8-0ab4-4b7c-adb5-1edf7b7b30e2"
+    roles:
+      - keys
+    periods:
+      - start: 2011
+  - id: "53ddb3bb-4298-481f-b727-f295247b0176"
+    roles:
+      - bass
+    periods:
+      - start: 2011
 socials:
   facebook: "vulfpeck"
   instagram: "vulfpeck"

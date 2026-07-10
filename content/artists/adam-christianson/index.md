@@ -1,0 +1,10 @@
+---
+id: "5d1a9972-f10c-4d02-9102-0160071ab536"
+title: "Adam Christianson"
+socials:
+  facebook: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

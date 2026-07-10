@@ -1,6 +1,107 @@
 ---
 id: "3c73672f-8be9-4a35-881e-8f643dc26630"
 title: "Deep Purple"
+members:
+  - id: "2612f6a9-7d01-42d9-9f5e-550f12c8b5ff"
+    roles:
+      - drums
+    periods:
+      - start: 1984
+      - start: 1968
+        end: 1976
+  - id: "f731fb35-7233-4334-857c-77c2fa521e5d"
+    roles:
+      - bass
+      - keys
+      - sing
+    periods:
+      - start: 1984
+      - start: 1969
+        end: 1973
+  - id: "7c49a135-771d-4f95-9dcc-db77d2d52a36"
+    roles:
+      - sing
+    periods:
+      - start: 1992
+      - start: 1984
+        end: 1989
+      - start: 1969
+        end: 1973
+  - id: "284186f2-9723-491e-b9a8-d85d0bbe0b1e"
+    roles:
+      - keys
+    periods:
+      - start: 2002
+  - id: "7a216fc6-8a9d-497f-896e-756522bd2be8"
+    roles:
+      - guitar
+    periods:
+      - start: 2022
+  - id: "bf967dfa-9afd-4cfe-b78d-efaebd82edd9"
+    roles:
+      - keys
+    periods:
+      - start: 1984
+        end: 2002
+      - start: 1968
+        end: 1976
+  - id: "e8e15d5d-74bc-4213-9593-19f69259fc06"
+    roles:
+      - guitar
+    periods:
+      - start: 1984
+        end: 1993
+      - start: 1968
+        end: 1975
+  - id: "316c2dcd-1dcb-4e10-b183-71e33398654c"
+    roles:
+      - sing
+    periods:
+      - start: 1968
+        end: 1969
+  - id: "78724e8e-649b-4772-bc99-3055b80c78df"
+    roles:
+      - bass
+    periods:
+      - start: 1968
+        end: 1969
+  - id: "967cebae-4f76-4604-8ce2-9317cd7f17c1"
+    roles:
+      - sing
+    periods:
+      - start: 1973
+        end: 1976
+  - id: "57fee2de-173a-4a8f-9879-e399d21a786f"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 1973
+        end: 1976
+  - id: "05b76f66-2aeb-4854-86cc-a960d61c76c8"
+    roles:
+      - guitar
+    periods:
+      - start: 1975
+        end: 1976
+  - id: "4cd7ee5b-245a-40c0-881b-4d12dd3c20b8"
+    roles:
+      - sing
+    periods:
+      - start: 1989
+        end: 1992
+  - id: "f2456d41-ce8e-4ca5-95fd-3f0ad99e6c81"
+    roles:
+      - guitar
+    periods:
+      - start: 1993
+        end: 1994
+  - id: "e3eebd52-74e7-4dad-9fa8-79afb4c5bfe4"
+    roles:
+      - guitar
+    periods:
+      - start: 1994
+        end: 2022
 socials:
   facebook: "officialdeeppurple"
   instagram: "deeppurple_official"

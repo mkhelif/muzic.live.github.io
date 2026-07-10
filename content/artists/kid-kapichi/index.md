@@ -1,6 +1,30 @@
 ---
 id: "3ff8bd16-2687-4ea0-895d-da89855e8eb9"
 title: "Kid Kapichi"
+members:
+  - id: "4e7c0582-760e-43ee-a93f-dd1c0cd082ad"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2013
+  - id: "34fa97bd-0479-4a15-8b6f-8d19763c2dc6"
+    roles:
+      - bass
+    periods:
+      - start: 2013
+  - id: "149bff1b-cc31-4139-aed9-dc769807e9d7"
+    roles:
+      - guitar
+    periods:
+      - start: 2013
+        end: 2025
+  - id: "d68ab756-1ef8-4850-a6b3-070d122d5d82"
+    roles:
+      - drums
+    periods:
+      - start: 2013
+        end: 2025
 socials:
   facebook: "KidKapichi"
   instagram: "kidkapichi"

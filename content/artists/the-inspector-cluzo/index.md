@@ -1,6 +1,18 @@
 ---
 id: "e7519b44-fd6a-4eb6-9ae1-88b12d266419"
 title: "The Inspector Cluzo"
+members:
+  - id: "6e5cc0fa-bec5-460e-bbc7-8772d7fe6570"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2007
+  - id: "503289ae-6b4e-46dc-8153-53b7ee9e3305"
+    roles:
+      - drums
+    periods:
+      - start: 2007
 socials:
   facebook: "ticluzo"
   instagram: "theinspectorcluzo"

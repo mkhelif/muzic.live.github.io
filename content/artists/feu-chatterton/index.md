@@ -1,6 +1,34 @@
 ---
 id: "9fc197c8-2c95-4be4-97d2-db759eaef6ce"
 title: "Feu! Chatterton"
+members:
+  - id: "724a5c07-390d-4377-8703-16cc0f316757"
+    roles:
+      - sing
+    periods:
+      - start: 2011
+  - id: "0bfa1b16-bc5a-4a7b-b1cc-71634fa5d6df"
+    roles:
+      - bass
+    periods:
+      - start: 2011
+  - id: "f5bf3515-c659-40bd-91a1-55247ec28379"
+    roles:
+      - guitar
+      - keys
+    periods:
+      - start: 2011
+  - id: "a260fecc-0c49-479e-8eaa-1b41a158ea01"
+    roles:
+      - drums
+    periods:
+      - start: 2011
+  - id: "47b0b2de-fad0-4198-b25b-1ddc8cdf59c6"
+    roles:
+      - guitar
+      - keys
+    periods:
+      - start: 2011
 socials:
   facebook: ""
 ---

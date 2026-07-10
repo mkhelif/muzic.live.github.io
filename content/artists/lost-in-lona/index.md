@@ -1,6 +1,19 @@
 ---
 id: "34edfda5-5c66-4996-86a6-0858162d78cb"
 title: "Lost in Lona"
+members:
+  - id: "e91b55c0-7a1a-46fd-8508-b94d28dce676"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2022
+  - id: "9ffb3fbe-0bdd-4a5f-8a00-1a1a5196a6b9"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2022
 socials:
   instagram: "lost_in_lona"
   tiktok: "@lost.in.lona"

@@ -1,6 +1,25 @@
 ---
 id: "d7a3b9ed-e3df-4f4a-8e50-f58672118f64"
 title: "Storm Orchestra"
+members:
+  - id: "73671e55-2cbf-4116-ab07-69a53aeb7c06"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2019
+  - id: "06a68e04-63f3-4ec8-b335-b535c17d9d1a"
+    roles:
+      - bass
+      - keys
+      - sing
+    periods:
+      - start: 2019
+  - id: "8b920269-f0d8-46b2-b5ae-21c2d25cfc2a"
+    roles:
+      - drums
+    periods:
+      - start: 2019
 socials:
   facebook: "stormorchestra"
   instagram: "storm_orchestra"

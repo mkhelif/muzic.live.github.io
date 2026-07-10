@@ -1,6 +1,30 @@
 ---
 id: "90536ee8-6bb3-41bf-a04b-9f514ef4b4a7"
 title: "Twenty One Pilots"
+members:
+  - id: "51cf58ee-6126-44c2-b5d8-f3a44d36c9cc"
+    roles:
+      - sing
+      - keys
+    periods:
+      - start: 2009
+  - id: "bddb2c39-99fb-4f89-a2d8-ff3a4fb4eedf"
+    roles:
+      - drums
+    periods:
+      - start: 2011
+  - id: "4fa9734d-27ab-400f-8f47-85cfaffe0399"
+    roles:
+      - bass
+    periods:
+      - start: 2009
+        end: 2011
+  - id: "c9aa14cb-9e1a-430b-ae21-fa796b3f7f6d"
+    roles:
+      - drums
+    periods:
+      - start: 2009
+        end: 2011
 socials:
   facebook: "twentyonepilots"
   youtube: "@twentyonepilots"

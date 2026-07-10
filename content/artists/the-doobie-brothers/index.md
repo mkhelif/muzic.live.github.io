@@ -1,6 +1,104 @@
 ---
 id: "65cd3bf4-ca4e-442d-b731-5dc023597827"
 title: "The Doobie Brothers"
+members:
+  - id: "9027dcac-721e-47a3-b424-e0ea4e28fa98"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 1970
+  - id: "3626f513-74e6-4552-868c-603733bd1b1e"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 1987
+      - start: 1970
+        end: 1977
+  - id: "3146e488-6fdc-4199-86c0-4da39df19c14"
+    roles:
+      - sing
+      - keys
+    periods:
+      - start: 2019
+      - start: 1975
+        end: 1982
+  - id: "a1914f0d-85b9-47a8-bb56-64b6aaf845e4"
+    roles:
+      - guitar
+    periods:
+      - start: 1993
+      - start: 1979
+        end: 1982
+  - id: "92209c38-fc04-4574-86de-24e4a5088863"
+    roles:
+      - drums
+    periods:
+      - start: 1987
+        end: 1992
+      - start: 1970
+        end: 1979
+  - id: "d4cb1695-5f05-4465-946f-66de64fbe734"
+    roles:
+      - bass
+    periods:
+      - start: 1970
+        end: 1971
+  - id: "90fd075a-b3a9-4ae8-a297-205fd1a4bd47"
+    roles:
+      - bass
+    periods:
+      - start: 1987
+        end: 1992
+      - start: 1971
+        end: 1980
+  - id: "1b8f4c6a-7d98-4daa-999e-067061feffdc"
+    roles:
+      - drums
+    periods:
+      - start: 1987
+        end: 2012
+      - start: 1971
+        end: 1973
+  - id: "a843591d-90bb-48b9-8998-6873a00c25d7"
+    roles:
+      - drums
+    periods:
+      - start: 1987
+        end: 2005
+      - start: 1973
+        end: 1982
+  - id: "995857ff-f721-4f61-828a-76396a9c93ac"
+    roles:
+      - guitar
+    periods:
+      - start: 1974
+        end: 1979
+  - id: "a1d9d2be-2d07-4b3c-8046-660772f29d3f"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2010
+      - start: 1993
+        end: 1995
+  - id: "fb0b3ebd-acfb-4f46-9354-650276e7a430"
+    roles:
+      - other
+    periods:
+      - start: 1998
+  - id: "f0d7e1fc-ed63-45f4-8728-6a36b3786a33"
+    roles:
+      - drums
+    periods:
+      - start: 2005
+  - id: "1a84f30f-a9cc-4282-9acd-db983ecc23de"
+    roles:
+      - other
+      - sing
+    periods:
+      - start: 2018
 socials:
   facebook: ""
 ---

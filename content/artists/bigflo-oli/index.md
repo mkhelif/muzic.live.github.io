@@ -1,6 +1,17 @@
 ---
 id: "75d59ff6-7ac5-4f03-8094-bc455cdc9d6a"
 title: "Bigflo & Oli"
+members:
+  - id: "855e26ec-07cc-4963-a567-315ffa7ab96c"
+    roles:
+      - sing
+    periods:
+      - start: 2011
+  - id: "49cd6061-cca7-47f2-a464-4ca528a43e42"
+    roles:
+      - sing
+    periods:
+      - start: 2011
 aliases:
   - "Bigflo et Oli"
   - "BigFlo et Oli"

@@ -1,6 +1,75 @@
 ---
 id: "8b386859-0b16-4360-a012-16cf85585137"
 title: "Mass Hysteria"
+members:
+  - id: "a41ed91a-7095-4f38-853e-07346006ce95"
+    roles:
+      - bass
+    periods:
+      - start: 2017
+  - id: "28f90628-c538-49a8-8ba1-d8f102589e56"
+    roles:
+      - guitar
+    periods:
+      - start: 2014
+  - id: "15016887-cf51-4e39-9512-4e40de685a8b"
+    roles:
+      - guitar
+    periods:
+      - start: 1995
+  - id: "f641d551-9548-453c-b9e2-38752b1511b3"
+    roles:
+      - drums
+    periods:
+      - start: 1995
+  - id: "ab092c5b-06e7-4162-8958-b8de4c2f8c93"
+    roles:
+      - sing
+    periods:
+      - start: 1993
+  - id: "1eb3739d-ba89-49f7-ab9d-8cdbffd1e843"
+    roles:
+      - bass
+    periods:
+      - start: 2016
+        end: 2017
+  - id: "ff879634-96f4-4dcd-82f3-607cc143a7a5"
+    roles:
+      - bass
+    periods:
+      - start: 2012
+        end: 2016
+  - id: "5ca6dbc8-167e-4b6d-aac6-dd001a491520"
+    roles:
+      - guitar
+    periods:
+      - start: 2007
+        end: 2014
+  - id: "94e3cac6-e7ad-4523-8369-bb21d556f706"
+    roles:
+      - bass
+    periods:
+      - start: 1993
+        end: 2011
+  - id: "7aaa914b-670c-4f7b-9b32-a302bd43ae67"
+    roles:
+      - guitar
+      - keys
+    periods:
+      - start: 2000
+        end: 2007
+  - id: "b27e1b52-381a-4c63-9494-01f8faf5abdf"
+    roles:
+      - other
+    periods:
+      - start: 1995
+        end: 2000
+  - id: "4e7c1ac0-a239-4c01-9482-d24f50c66f40"
+    roles:
+      - guitar
+    periods:
+      - start: 1993
+        end: 1999
 socials:
   facebook: "masshysteriaofficiel"
   instagram: "masshysteria_official"

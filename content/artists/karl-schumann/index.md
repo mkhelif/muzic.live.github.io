@@ -1,7 +1,6 @@
 ---
 id: "4f314ca3-5a68-4b4a-bb0e-382927265b91"
 title: "Karl Schumann"
-cover: "cover.jpg"
 socials:
   facebook: ""
 ---

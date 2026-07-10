@@ -1,6 +1,19 @@
 ---
 id: "00088127-4a81-46e0-b85f-626ee390e3bc"
 title: "The Last Internationale"
+members:
+  - id: "a7879d25-79aa-49cb-882e-a18235f59322"
+    roles:
+      - sing
+      - bass
+      - keys
+    periods:
+      - start: 2008
+  - id: "a4a7a1ec-f4ce-4ad8-b15b-199953675912"
+    roles:
+      - guitar
+    periods:
+      - start: 2008
 socials:
   facebook: "thelastinternationale"
   instagram: "thelastinternationale"

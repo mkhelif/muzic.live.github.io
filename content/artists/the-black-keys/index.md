@@ -1,6 +1,18 @@
 ---
 id: "d405b24b-376e-439b-8ec9-157d73b4af89"
 title: "The Black Keys"
+members:
+  - id: "4d9a95c0-cef4-4bfd-8897-ef36243aed7e"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2001
+  - id: "4aae57b4-4fcc-43e3-b29f-7368e8e56f58"
+    roles:
+      - drums
+    periods:
+      - start: 2001
 socials:
   facebook: "TheBlackKeys"
   instagram: "theblackkeys"

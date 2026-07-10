@@ -1,6 +1,19 @@
 ---
 id: "a9b30707-6a10-48bb-9781-06f8fdae20f0"
 title: "Ladaniva"
+members:
+  - id: "964abf8c-d351-442e-abe5-f517ddbd8bed"
+    roles:
+      - sing
+    periods:
+      - start: 2019
+  - id: "aa44e2a5-31a6-4300-9e1d-f80020f8c485"
+    roles:
+      - guitar
+      - keys
+      - other
+    periods:
+      - start: 2019
 socials:
   facebook: "ladanivayaman"
   instagram: "ladaniva.ladaniva"

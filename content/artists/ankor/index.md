@@ -1,6 +1,82 @@
 ---
 id: "d88304bd-4591-4713-a9a2-4a3fb06b9df6"
 title: "Ankor"
+members:
+  - id: "00c1739b-ac94-4aaa-9169-2ecae5dbd998"
+    roles:
+      - guitar
+    periods:
+      - start: 2003
+  - id: "decf18f7-24f8-4c6d-9345-330a75e12886"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2020
+      - start: 2009
+        end: 2017
+  - id: "f43a512b-ac4e-4cb1-9ff7-7146b36614d5"
+    roles:
+      - guitar
+    periods:
+      - start: 2011
+  - id: "c1d3556a-ebfa-41ee-a71a-797f30faec55"
+    roles:
+      - sing
+    periods:
+      - start: 2014
+  - id: "f78c6808-0349-4917-b870-cc415901eb3b"
+    roles:
+      - drums
+    periods:
+      - start: 2022
+  - id: "5d7eae68-49d7-41cc-ab57-e7b1a587a8ff"
+    roles:
+      - drums
+      - keys
+      - sing
+    periods:
+      - start: 2016
+        end: 2022
+  - id: "f29c83dc-3916-4a46-b09c-647995c59338"
+    roles:
+      - drums
+      - other
+    periods:
+      - start: 2004
+        end: 2016
+  - id: "e59424de-d66f-47db-952a-8d5118201650"
+    roles:
+      - keys
+    periods:
+      - start: 2003
+        end: 2015
+  - id: "58c9219f-3e4c-4706-acb8-d00e833147a3"
+    roles:
+      - sing
+    periods:
+      - start: 2003
+        end: 2014
+  - id: "fc3f906b-2bc2-4e7d-94f3-56539bbc0638"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2008
+        end: 2009
+  - id: "2fe5182e-a47e-4fd3-a654-b35705bd9d14"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2004
+        end: 2008
+  - id: "03b2a62a-db85-4bcf-a023-054d6047c26e"
+    roles:
+      - guitar
+    periods:
+      - start: 2003
+        end: 2011
 socials:
   facebook: ""
 ---

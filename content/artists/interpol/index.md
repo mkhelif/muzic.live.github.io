@@ -1,6 +1,46 @@
 ---
 id: "04fdce89-15a5-4f41-a224-25e17cbdc442"
 title: "Interpol"
+members:
+  - id: "ecb5c895-a76f-4e2a-b39b-1ad82033dec7"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 1997
+  - id: "dd2213ab-e535-463a-a723-609459835250"
+    roles:
+      - guitar
+    periods:
+      - start: 1997
+  - id: "5b76abda-8d78-4865-9ccb-f22e33d8f2c4"
+    roles:
+      - bass
+      - keys
+    periods:
+      - start: 1997
+        end: 2010
+  - id: "9a844088-3929-4ac6-bd4b-379043b69abf"
+    roles:
+      - drums
+    periods:
+      - start: 1997
+        end: 2000
+  - id: "3924132f-ae82-4788-b001-2dc59a01127d"
+    roles:
+      - drums
+    periods:
+      - start: 2000
+  - id: "95b07e65-7229-400e-8611-f8df832e7579"
+    roles:
+      - keys
+    periods:
+      - start: 2026
+  - id: "7b091386-c9d8-40df-8c33-c77277b84b6b"
+    roles:
+      - bass
+    periods:
+      - start: 2026
 socials:
   facebook: ""
 ---

@@ -1,6 +1,28 @@
 ---
 id: "8bf3e9b5-d5f6-4e78-ac81-9458f19ee376"
 title: "Dynamite Shakers"
+members:
+  - id: "9989148d-ec8b-4689-8156-60806ff2de0c"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2019
+  - id: "3f08ec05-30cc-4079-bce1-6b65c495ca06"
+    roles:
+      - drums
+    periods:
+      - start: 2019
+  - id: "4424de4c-5a7e-41be-96c1-2246008e79d9"
+    roles:
+      - guitar
+    periods:
+      - start: 2020
+  - id: "984e62b7-e614-43b4-bff1-3a8031c05773"
+    roles:
+      - bass
+    periods:
+      - start: 2020
 socials:
   facebook: "dynamiteshakers"
   instagram: "dynashakers"

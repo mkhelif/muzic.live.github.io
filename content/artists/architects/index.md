@@ -1,6 +1,60 @@
 ---
 id: "11743457-87dc-4615-a083-2c34b37eeb40"
 title: "Architects"
+members:
+  - id: "c217cc81-42d7-4dab-9475-6d72e272ec8c"
+    roles:
+      - drums
+    periods:
+      - start: 2004
+  - id: "a3f735f5-6a0f-47fe-8d9f-2aedb475b280"
+    roles:
+      - bass
+    periods:
+      - start: 2011
+      - start: 2006
+        end: 2011
+  - id: "8b395a4e-ab68-49bd-b083-38f136ae30ce"
+    roles:
+      - sing
+    periods:
+      - start: 2007
+  - id: "5d1a9972-f10c-4d02-9102-0160071ab536"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2015
+  - id: "1f5af6b2-057c-41d7-9eae-60fef5012987"
+    roles:
+      - bass
+    periods:
+      - start: 2004
+        end: 2006
+  - id: "d9e75804-8667-4dfb-92ae-e67c4439bddd"
+    roles:
+      - sing
+    periods:
+      - start: 2004
+        end: 2007
+  - id: "0dd42c35-1ee3-4dbc-ab93-596c1156b7c5"
+    roles:
+      - guitar
+    periods:
+      - start: 2004
+        end: 2012
+  - id: "25bfca2b-7ca2-4737-8134-0b0b4352d5d8"
+    roles:
+      - guitar
+    periods:
+      - start: 2004
+        end: 2016
+  - id: "ce154e61-f419-4692-a809-58e3427c8d26"
+    roles:
+      - guitar
+    periods:
+      - start: 2017
+        end: 2023
 socials:
   facebook: ""
 ---

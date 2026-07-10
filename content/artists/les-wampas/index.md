@@ -1,6 +1,33 @@
 ---
 id: "65654368-fbef-452d-867e-092e42191146"
 title: "Les Wampas"
+members:
+  - id: "d3a670c2-9e8b-48e8-b21c-a403ceba8ee5"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 1983
+  - id: "f06a60d6-6bd1-4220-99db-544a45800384"
+    roles:
+      - drums
+    periods:
+      - start: 1985
+  - id: "58b28958-9afa-4e51-9fe2-cf8ce06a051e"
+    roles:
+      - bass
+    periods:
+      - start: 1994
+  - id: "9fcbbb62-07e1-44c7-8dd7-f768abdbfd0b"
+    roles:
+      - guitar
+    periods:
+      - start: 2005
+  - id: "dd91d858-5c5d-4202-86d9-e6438e9a64e5"
+    roles:
+      - guitar
+    periods:
+      - start: 2016
 socials:
   facebook: "LesWampasVousAiment"
   instagram: "leswampasofficiel"

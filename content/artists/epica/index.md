@@ -1,6 +1,62 @@
 ---
 id: "a5615ab9-5074-471b-a082-287ee2701753"
 title: "Epica"
+members:
+  - id: "c765e74c-76b2-4c35-962c-0ce674b7dcc6"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2002
+  - id: "ab78fa32-a8fc-4f32-b6e7-bde63f118326"
+    roles:
+      - sing
+    periods:
+      - start: 2002
+  - id: "143d0b21-4936-4339-b176-b23e5e37a139"
+    roles:
+      - keys
+    periods:
+      - start: 2002
+  - id: "593c0b0c-de0f-41b2-938c-1f1e87a41ec2"
+    roles:
+      - guitar
+    periods:
+      - start: 2009
+  - id: "95a3a95b-d758-47f6-989a-3a70f7eea06c"
+    roles:
+      - drums
+    periods:
+      - start: 2009
+  - id: "194bcd42-db82-43e1-a42a-5343196140a4"
+    roles:
+      - bass
+    periods:
+      - start: 2014
+  - id: "ccbd9ce5-154d-4ed3-94c6-8a5ea6c84f0d"
+    roles:
+      - bass
+    periods:
+      - start: 2002
+        end: 2014
+  - id: "cf8ba02e-018b-45d0-b445-6b9e853822a6"
+    roles:
+      - guitar
+    periods:
+      - start: 2002
+        end: 2009
+  - id: "211646dc-aa7f-4dd3-8ae1-55233c0c9ef4"
+    roles:
+      - drums
+    periods:
+      - start: 2002
+        end: 2009
+  - id: "ae7c93e1-a0ea-461e-af0c-5891a7d281d9"
+    roles:
+      - sing
+    periods:
+      - start: 2002
+        end: 2002
 socials:
   facebook: ""
 todo:

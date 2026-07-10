@@ -1,6 +1,17 @@
 ---
 id: "fe47932b-4347-45a0-b608-6db188477042"
 title: "Blasterjaxx"
+members:
+  - id: "56266b33-528d-4207-9d66-fca05581ebfe"
+    roles:
+      - other
+    periods:
+      - start: 2010
+  - id: "787d1488-f670-4138-8586-b166b8514b29"
+    roles:
+      - other
+    periods:
+      - start: 2010
 socials:
   facebook: "BlasterjaxxOfficial"
   instagram: "blasterjaxx"
