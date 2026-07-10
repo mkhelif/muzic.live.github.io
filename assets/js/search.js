@@ -232,10 +232,28 @@ window.addEventListener('DOMContentLoaded', () => loading.then(pagefind => {
         body.className = 'd-flex flex-column flex-grow-1';
         body.style.minWidth = '0';
 
-        const title = document.createElement('span');
-        title.className = 'text-light text-truncate';
-        title.textContent = data.meta.title || data.url;
+        const title = document.createElement('p');
+        title.className = 'text-light text-truncate mb-0';
+
+        const name = document.createElement('strong');
+        name.textContent = data.meta.title;
+        title.appendChild(name);
+
+        if (data.meta.subtitle) {
+            const subtitle = document.createElement('small');
+            subtitle.className = 'fw-lighter';
+            subtitle.textContent = ` - ${data.meta.subtitle}`;
+            title.appendChild(subtitle);
+        }
         body.appendChild(title);
+
+        if (data.meta.date) {
+            const meta = document.createElement('small');
+            meta.className = 'text-light fw-lighter opacity-50';
+            meta.textContent = data.meta.date;
+            body.appendChild(meta);
+        }
+
         link.appendChild(body);
 
         link.addEventListener('mousemove', () => setActive(rows.indexOf(link)));

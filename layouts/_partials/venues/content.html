@@ -1,5 +1,9 @@
 {{ partial "cover.html" . }}
 
+<div class="d-none" data-pagefind-meta="title" data-pagefind-weight="10">
+    {{- partial "venues/label.html" .Params.id -}}
+</div>
+
 <div class="container">
     {{ partial "venues/map.html" . }}
     {{ partial "content.html" . }}

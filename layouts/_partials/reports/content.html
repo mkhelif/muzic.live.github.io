@@ -1,10 +1,16 @@
 {{ partial "cover.html" . }}
 
+<div class="d-none" data-pagefind-meta="title" data-pagefind-weight="10">
+    {{- .Title -}}
+</div>
+<div class="d-none" data-pagefind-meta="subtitle" data-pagefind-weight="5">
+    {{- partial "venues/label.html" .Params.venue -}}
+</div>
+
 <div class="container">
     {{ partial "badges.html" . }}
 
     <div class="d-flex flex-row justify-content-between mb-5">
-        {{ partial "venues/pagefind.html" .Params.venue }}
         <span>
             {{ partial "venues/link.html" .Params.venue }}
             {{ partial "format/datetime.html" (dict "date" .Date) }}

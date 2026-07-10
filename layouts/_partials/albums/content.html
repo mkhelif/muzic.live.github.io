@@ -1,5 +1,15 @@
 {{ partial "cover.html" . }}
 
+<div class="d-none" data-pagefind-meta="title" data-pagefind-weight="10">
+    {{- .Title -}}
+</div>
+<div class="d-none" data-pagefind-meta="subtitle" data-pagefind-weight="5">
+    {{- range $index, $artist := $.Params.artists -}}
+        {{- if gt $index 0 }}, {{ end -}}
+        {{- partial "artists/name.html" . -}}
+    {{- end -}}
+</div>
+
 <div class="container">
     <div class="d-flex align-items-center border-bottom border-primary border-1 pb-4 mb-4">
         <p class="mb-0">{{ range $.Params.artists }}{{ partial "artists/badge.html" . }}{{ end }}</p>

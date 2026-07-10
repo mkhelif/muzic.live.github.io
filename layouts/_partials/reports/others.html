@@ -1,16 +1,15 @@
 {{- with .Params.festival -}}
     <div data-pagefind-ignore="all" class="d-print-none">
         {{- with partial "festivals/lookup.html" . -}}
-            <div class="mt-5 mb-4">{{ partial "titles/h3.html" (dict "title" (printf "Autres chroniques du festival %s" .LinkTitle) "link" .RelPermalink) }}</div>
-            {{ $reports := where $.Site.RegularPages "Section" "reports" }}
-            {{ $reports = where $reports ".Params.festival" .Params.id }}
-            {{ $reports = where $reports ".Path" "ne" $.Path }}
-            {{ range $index, $report := $reports }}
-                {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
-            {{ end }}
-            {{ if eq $reports.Len 0 }}
-                <p class="small text-muted text-center">Aucune chronique de concert</p>
-            {{ end }}
+            {{- $reports := where $.Site.RegularPages "Section" "reports" -}}
+            {{- $reports = where $reports ".Params.festival" .Params.id -}}
+            {{- $reports = where $reports ".Path" "ne" $.Path -}}
+            {{- if gt $reports.Len 0 -}}
+                <div class="mt-5 mb-4">{{ partial "titles/h3.html" (dict "title" (printf "Autres chroniques du festival %s" .LinkTitle) "link" .RelPermalink) }}</div>
+                {{- range $index, $report := $reports -}}
+                    {{- partial "reports/list-entry.html" (dict "report" $report "index" $index) -}}
+                {{- end -}}
+            {{- end -}}
         {{- end -}}
     </div>
 {{- end -}}
