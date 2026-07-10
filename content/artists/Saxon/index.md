@@ -1,6 +1,91 @@
 ---
 id: "eb010946-1e91-40f8-bc5a-824c7ba83387"
 title: "Saxon"
+members:
+  - id: "c94ad117-c6b3-40ae-acf3-7f6380a75a17"
+    roles:
+      - sing
+    periods:
+      - start: 1975
+  - id: "6ec2038f-5025-4de2-b44d-0f4f6765caa1"
+    roles:
+      - guitar
+    periods:
+      - start: 1975
+  - id: "72f3efda-5b21-44e7-9e0b-bad7e55ceda5"
+    roles:
+      - drums
+    periods:
+      - start: 2005
+      - start: 1988
+        end: 1999
+      - start: 1981
+        end: 1987
+  - id: "2402c67e-1251-4afd-bef6-06f77218ac6a"
+    roles:
+      - bass
+    periods:
+      - start: 1988
+  - id: "4504fc84-735b-4872-9467-8346f78d5fcb"
+    roles:
+      - guitar
+    periods:
+      - start: 1996
+  - id: "582f0dc0-e8c4-4762-8b6a-c49e85d4c058"
+    roles:
+      - guitar
+    periods:
+      - start: 2023
+      - start: 2022
+        end: 2022
+  - id: "74721ce4-f9e6-4185-b924-71fa62f73b5c"
+    roles:
+      - guitar
+    periods:
+      - start: 1970
+        end: 1996
+  - id: "441e6115-0ef1-4f14-8909-261cef67c00f"
+    roles:
+      - bass
+    periods:
+      - start: 1970
+        end: 1986
+  - id: "0baf1779-47f9-4921-8ea5-dbddcf7cfe00"
+    roles:
+      - drums
+    periods:
+      - start: 1975
+        end: 1977
+  - id: "4a79b6dc-5fb2-4931-9393-ea9541313c98"
+    roles:
+      - drums
+    periods:
+      - start: 1977
+        end: 1981
+  - id: "dd2a8171-32a6-4cbf-9ec4-90fe1df431d0"
+    roles:
+      - bass
+    periods:
+      - start: 1986
+        end: 1988
+  - id: "c01c7f92-7d5e-4e0d-8b11-52c54e7a9283"
+    roles:
+      - drums
+    periods:
+      - start: 1987
+        end: 1988
+  - id: "e248c86f-6b5b-48a8-b1e1-78d577940427"
+    roles:
+      - drums
+    periods:
+      - start: 1999
+        end: 2004
+  - id: "a45cba67-7040-460a-ba48-173db80bafcf"
+    roles:
+      - drums
+    periods:
+      - start: 2004
+        end: 2005
 socials:
   facebook: "SaxonOfficial"
   instagram: "saxon.official"

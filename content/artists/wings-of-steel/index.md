@@ -1,6 +1,32 @@
 ---
 id: "075a2e4e-4568-4662-b71e-2088706b76d7"
 title: "Wings of Steel"
+members:
+  - id: "8ad27da3-775d-4a99-bb2d-2423c2815cf1"
+    roles:
+      - sing
+    periods:
+      - start: 2019
+  - id: "c917b63d-511b-4016-8c30-fdcd43577cad"
+    roles:
+      - guitar
+    periods:
+      - start: 2019
+  - id: "86c324b2-b7e3-4a61-9e75-37467d4c4ed8"
+    roles:
+      - guitar
+    periods:
+      - start: 2019
+  - id: "76084f81-f39a-4cda-bac4-77ce8d499220"
+    roles:
+      - bass
+    periods:
+      - start: 2024
+  - id: "3776e91d-3fce-4432-86a8-0118d802b923"
+    roles:
+      - drums
+    periods:
+      - start: 2024
 socials:
   facebook: "OfficialWingsofSteel"
   instagram: "wingsofsteelband"

@@ -1,6 +1,53 @@
 ---
 id: "a1c26486-0451-4806-af8d-50386d2d9a60"
 title: "Superbus"
+members:
+  - id: "ea291fc0-cf13-45a6-a9f7-abf588d3a6de"
+    roles:
+      - sing
+      - guitar
+      - keys
+      - drums
+    periods:
+      - start: 1999
+  - id: "e327cf34-eedd-46b3-a127-6b01d794590d"
+    roles:
+      - guitar
+      - keys
+      - sing
+    periods:
+      - start: 2000
+  - id: "2b5f1db7-4846-4fcb-8de5-c78bce7612c1"
+    roles:
+      - guitar
+      - keys
+    periods:
+      - start: 1999
+  - id: "5fda3e9a-6f87-4bb6-965e-588de66808c8"
+    roles:
+      - bass
+      - keys
+    periods:
+      - start: 2000
+  - id: "02699fb1-0854-4e76-b170-e1d9fc1bd0fe"
+    roles:
+      - drums
+    periods:
+      - start: 2019
+      - start: 2006
+        end: 2015
+  - id: "d163ef00-11c3-4520-94e7-11f00bd11874"
+    roles:
+      - drums
+    periods:
+      - start: 2000
+        end: 2006
+  - id: "2b2bdbae-f963-4f0b-b4ab-fd20ceb86a16"
+    roles:
+      - drums
+    periods:
+      - start: 2000
+        end: 2000
 socials:
   facebook: "superbusofficiel"
   instagram: "superbus__"

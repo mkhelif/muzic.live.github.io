@@ -1,0 +1,7 @@
+---
+id: "5fda3e9a-6f87-4bb6-965e-588de66808c8"
+title: "François Even"
+cover: "cover.jpg"
+socials:
+  facebook: ""
+---

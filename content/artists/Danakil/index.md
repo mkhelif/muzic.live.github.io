@@ -1,6 +1,58 @@
 ---
 id: "18d9ad69-9cb9-4880-a417-3d5bf70fc8e1"
 title: "Danakil"
+members:
+  - id: "d3f3eab4-e52e-468c-b8e0-80d490547824"
+    roles:
+      - sing
+    periods:
+      - start: 2000
+  - id: "e5f49d15-5b66-4cbd-8ce9-5cf148a2f600"
+    roles:
+      - sing
+    periods:
+      - start: 2014
+  - id: "86bda5f0-fd2c-46ba-8a6d-b691010e8a63"
+    roles:
+      - other
+    periods:
+      - start: 2000
+  - id: "09e427c4-9158-46a0-bd55-2331b316f463"
+    roles:
+      - other
+    periods:
+      - start: 2000
+  - id: "f95182b3-dd85-4a1d-ad6e-165999ac525f"
+    roles:
+      - bass
+    periods:
+      - start: 2000
+  - id: "eba84966-bad1-4bbb-9e01-b056174d3518"
+    roles:
+      - guitar
+    periods:
+      - start: 2000
+  - id: "6c7e1140-31c5-4e5e-a431-1f4f030052e2"
+    roles:
+      - drums
+    periods:
+      - start: 2000
+  - id: "b9a0a67a-4788-411e-87db-555c1ccfe5c1"
+    roles:
+      - keys
+    periods:
+      - start: 2000
+  - id: "65d3dc21-d408-4ea6-9cc9-eff2b30948aa"
+    roles:
+      - keys
+    periods:
+      - start: 2000
+  - id: "543692ac-cf42-48ce-89ca-a750697819b4"
+    roles:
+      - sing
+      - other
+    periods:
+      - start: 2000
 socials:
   facebook: "danakil"
   instagram: "danakilofficiel"

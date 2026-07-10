@@ -1,6 +1,27 @@
 ---
 id: "628894cb-f021-427b-9eee-0e19542ae38b"
 title: "Catch Your Breath"
+members:
+  - id: "d5b1c31e-ae22-4847-a746-c31c6ffa2426"
+    roles:
+      - sing
+    periods:
+      - start: 2017
+  - id: "bf082014-0297-4a10-a0e5-1e5be6da930d"
+    roles:
+      - guitar
+    periods:
+      - start: 2017
+  - id: "5db0b2bd-4d0e-43d8-bac7-1e7daf84f671"
+    roles:
+      - bass
+    periods:
+      - start: 2017
+  - id: "addf576f-2c3e-4f01-8b34-c5568f0a19aa"
+    roles:
+      - drums
+    periods:
+      - start: 2017
 socials:
   facebook: ""
 ---

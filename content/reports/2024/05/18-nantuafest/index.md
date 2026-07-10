@@ -7,6 +7,7 @@ cover: "pictures/adele-castillon/01.jpg"
 author: "mkhelif"
 rank: 8
 artists:
+  - "68a74a1f-9b7d-47bb-a4f8-0486655db160"
   - "78a6fec2-6417-4eda-af4e-d651e0420094"
   - "58dbbe35-9c6e-4a60-a974-2e75e6d08df5"
   - "672c70e5-e066-4cb7-8622-feefe58f48ab"
