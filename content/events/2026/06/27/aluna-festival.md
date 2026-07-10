@@ -1,0 +1,16 @@
+---
+date: 2026-06-27T16:00:00+02:00
+festival: "0973c08d-46eb-41bf-84b4-be487dc4ff83"
+venue: "e1fe6148-afa8-481a-b25b-d2c161d78eac"
+artists:
+  - "32ed9272-b7a3-45ba-b4b4-43b803acc0d3"
+  - "81ca4361-af34-4f7a-8365-577393e2cf3e"
+  - "0acb8e69-eaf0-423a-8ac0-26fc12121856"
+  - "4791832b-ef82-4de6-9a0c-0a780b879fba"
+  - "3cf6f3e0-96fd-4569-a4f6-292c3ceb1ac6"
+  - "519bd9f8-f742-4c42-ad89-c00a690449dc"
+  - "17c5d094-c251-4593-a2b4-8e7fec9aafdf"
+  - "e8376acb-4569-451b-a1a4-0bc281581b33"
+  - "6245d233-373e-4483-8b47-90690880f91a"
+  - "54cc45f1-62ad-486d-a7c5-b8042c30eae7"
+---
