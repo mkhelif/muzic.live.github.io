@@ -49,8 +49,7 @@ le moment « fête costumée » du disque.
 
 Le titre-éponyme, en duo avec **Battle Beast**, est sans surprise le sommet de l'album. La rencontre de deux écoles du
 metal-pop survitaminé — l'horreur cabaret de DOMINUM et l'europop héroïque des Finlandais — donne exactement ce qu'on
-en espère : un hymne énorme, théâtral, fait pour être hurlé en chœur sous les projecteurs. Que les deux groupes
-partagent l'affiche de la même soirée au Nancy Open Air n'est sans doute pas un hasard, et ce featuring ressemble à une
+en espère : un hymne énorme, théâtral, fait pour être hurlé en chœur sous les projecteurs. Ce featuring ressemble à une
 poignée de main entre deux familles qui cultivent le même goût du refrain irrésistible.
 
 ###### Quand les morts posent le masque
