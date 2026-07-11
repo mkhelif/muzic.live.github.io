@@ -1,6 +1,27 @@
 ---
 id: "20ff63c3-9f26-4ea8-9e19-523b04d370b1"
 title: "Le Bleu"
+members:
+  - id: "1c5b4b99-4604-4981-bb39-a513a2bfefbf"
+    roles:
+      - sing
+    periods:
+      - start: 2021
+  - id: "accd572e-7b6e-41f4-9b0c-3911f004075b"
+    roles:
+      - guitar
+    periods:
+      - start: 2021
+  - id: "40aacc98-f702-4b17-a764-4630b0acba2c"
+    roles:
+      - drums
+    periods:
+      - start: 2024
+  - id: "2e514c25-e9a2-49c3-8f52-43d3aeab2e49"
+    roles:
+      - bass
+    periods:
+      - start: 2024
 socials:
   instagram: "lebleuencore"
   soundcloud: "user-818978861"

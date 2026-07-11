@@ -1,6 +1,19 @@
 ---
 id: "6926b512-4a18-4f3e-8441-56de06367c9f"
 title: "Angus & Julia Stone"
+members:
+  - id: "91639365-40a5-409d-b268-bb5696f9e2ef"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2006
+  - id: "2245576d-c1a1-4893-8e6f-89bd5d4d12b5"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2006
 socials:
   facebook: "AngusAndJulia"
   instagram: "angusandjuliastone"

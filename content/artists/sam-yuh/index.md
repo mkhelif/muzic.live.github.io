@@ -1,0 +1,6 @@
+---
+id: "73eb2d45-7a66-4484-8e41-d0fa7e6fa9ec"
+title: "Sam Yuh"
+socials:
+  facebook: ""
+---

@@ -1,6 +1,28 @@
 ---
 id: "96b1dc30-db5c-4a66-b4af-09d0132f0329"
 title: "Da Cruz"
+members:
+  - id: "b7ffd6fc-d176-472f-b455-ff0def154d63"
+    roles:
+      - sing
+    periods:
+      - start: 2005
+  - id: "22fd6623-a2dd-4bea-b62f-8b3fbe7da681"
+    roles:
+      - keys
+      - other
+    periods:
+      - start: 2005
+  - id: "4dacd422-eb45-45ad-a4ea-a9f43ca45f54"
+    roles:
+      - guitar
+    periods:
+      - start: 2005
+  - id: "d27c7960-8fe8-493d-aee3-8789772f7c23"
+    roles:
+      - drums
+    periods:
+      - start: 2005
 socials:
   facebook: "dacruzmusic"
   instagram: "dacruzmusic"

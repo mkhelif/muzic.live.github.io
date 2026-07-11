@@ -1,6 +1,39 @@
 ---
 id: "89414ad3-08cb-4f9f-b95f-95b1c3f1db6f"
 title: "Déportivo"
+members:
+  - id: "15efe6de-1fcf-455a-9d4d-0783b4edc6cd"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2002
+  - id: "160b5149-a04b-447f-acc4-258f7e6c74df"
+    roles:
+      - drums
+    periods:
+      - start: 2002
+  - id: "d84ee8a5-1b27-4fa2-9a11-28b567fb6a8c"
+    roles:
+      - bass
+    periods:
+      - start: 2002
+        end: 2015
+  - id: "13a78327-5cf9-435d-9c36-b78fcc3fc40c"
+    roles:
+      - bass
+    periods:
+      - start: 2022
+  - id: "3ea7db06-4d4d-4ad8-9cd6-3daa7081f54c"
+    roles:
+      - guitar
+    periods:
+      - start: 2022
+  - id: "bd4c8846-3d3d-450a-a64b-ae20f3c6aeff"
+    roles:
+      - keys
+    periods:
+      - start: 2022
 aliases:
   - "Deportivo"
 socials:

@@ -1,6 +1,39 @@
 ---
 id: "0d148669-2fcc-4f12-ab6b-056efb435e05"
 title: "2097"
+members:
+  - id: "88bf3253-01e3-45ff-80bc-735c981d73cc"
+    roles:
+      - sing
+    periods:
+      - start: 2017
+  - id: "cd6e5ad7-c1f2-4731-90b9-9c69f652c772"
+    roles:
+      - drums
+    periods:
+      - start: 2017
+  - id: "f43a23b6-bc04-4b74-b981-a61a281f1fc8"
+    roles:
+      - bass
+    periods:
+      - start: 2017
+  - id: "5d437fca-18f4-4c48-a8b1-948fa1fa6f7e"
+    roles:
+      - guitar
+    periods:
+      - start: 2023
+  - id: "d7cee7fd-dea3-4772-bdf1-aec75bf25ab6"
+    roles:
+      - guitar
+    periods:
+      - start: 2017
+        end: 2023
+  - id: "e5bfbce6-83c6-4423-9e15-ca0679faae07"
+    roles:
+      - guitar
+    periods:
+      - start: 2017
+        end: 2023
 socials:
   facebook: "2097Band"
   instagram: "2097_band"

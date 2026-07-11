@@ -1,5 +1,4 @@
 ---
-draft: true
 id: "f5afa7fe-ce0c-4176-892e-67314f82b4ed"
 title: "Download Festival"
 socials:

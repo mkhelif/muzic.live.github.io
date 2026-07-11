@@ -1,6 +1,17 @@
 ---
 id: "672c70e5-e066-4cb7-8622-feefe58f48ab"
 title: "Jahneration"
+members:
+  - id: "5809ebc4-2134-4eac-8171-39d57835717d"
+    roles:
+      - sing
+    periods:
+      - start: 2009
+  - id: "a40485af-74b5-47a3-bfb7-cb5b98c3ddd9"
+    roles:
+      - sing
+    periods:
+      - start: 2009
 socials:
   facebook: "jahnerationofficial"
   instagram: "jahneration"

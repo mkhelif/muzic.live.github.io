@@ -1,6 +1,46 @@
 ---
 id: "8502b3f2-e118-4a1d-8580-cc48a8ea1efd"
 title: "The Pretty Reckless"
+members:
+  - id: "b758a568-dda9-4f3b-9755-e47617ff76a7"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2009
+  - id: "053ce66d-62e3-4379-946b-0e5fbb135663"
+    roles:
+      - guitar
+    periods:
+      - start: 2010
+  - id: "dcfb7ac8-5b7d-4457-a24f-66fc0390bed5"
+    roles:
+      - bass
+    periods:
+      - start: 2010
+  - id: "9f0a49ff-e518-4417-b4cc-52331689d529"
+    roles:
+      - drums
+    periods:
+      - start: 2010
+  - id: "66ae5274-2a04-4da6-b6bd-8b00a540a0da"
+    roles:
+      - guitar
+    periods:
+      - start: 2009
+        end: 2010
+  - id: "604d5133-a5a8-47e1-b6ca-476eddce6311"
+    roles:
+      - bass
+    periods:
+      - start: 2009
+        end: 2010
+  - id: "580a8e92-30ec-4348-ac00-107d523fdbb7"
+    roles:
+      - drums
+    periods:
+      - start: 2009
+        end: 2010
 socials:
   facebook: ""
 todo:
