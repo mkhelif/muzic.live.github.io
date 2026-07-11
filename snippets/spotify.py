@@ -55,7 +55,7 @@ for country in pycountry.countries:
 COUNTRIES.setdefault("XK", {"name": _("Kosovo"), "code": "XKX"})
 
 
-LOCATIONS = {
+VENUES = {
     'House of Blues Las Vegas ': 'House of Blues',
     'Cournon D Auvergne': 'Cournon d\'Auvergne',
     'Paris 18': 'Paris'
@@ -135,8 +135,8 @@ def get_concert(concert_uri):
     country_code = content['data']['concert']['location']['country']
     concert_details["location"] = {
         'country': COUNTRIES.get(country_code, {"name": country_code, "code": country_code}),
-        'city': translate(content['data']['concert']['location']['city'].title(), LOCATIONS),
-        'name': translate(content['data']['concert']['location']['name'].title(), LOCATIONS),
+        'city': translate(content['data']['concert']['location']['city'].title(), VENUES),
+        'name': translate(content['data']['concert']['location']['name'].title(), VENUES),
     }
     concert_details["artists"] = []
     concert_details["festival"] = content['data']['concert']['festival']
@@ -210,7 +210,7 @@ todo:
 
 def get_or_create_location_country(country):
     country_id = None
-    directory = Path(f"./content/locations/{format_filename(country['code'])}")
+    directory = Path(f"./content/venues/{format_filename(country['code'])}")
     directory.mkdir(parents = True, exist_ok = True)
     file = directory.joinpath("_index.md")
 
@@ -230,7 +230,7 @@ title: "{country['name']}"
 
 def get_or_create_location_city(country, city):
     city_id = None
-    directory = Path(f"./content/locations/{format_filename(country['code'])}/{format_filename(city)}")
+    directory = Path(f"./content/venues/{format_filename(country['code'])}/{format_filename(city)}")
     directory.mkdir(parents = True, exist_ok = True)
     file = directory.joinpath("_index.md")
 
@@ -251,7 +251,7 @@ title: "{city}"
 
 def get_or_create_location(location):
     location_id = None
-    directory = Path(f"./content/locations/{format_filename(location['country']['code'])}/{format_filename(location['city'])}/{format_filename(location['name'])}")
+    directory = Path(f"./content/venues/{format_filename(location['country']['code'])}/{format_filename(location['city'])}/{format_filename(location['name'])}")
     directory.mkdir(parents = True, exist_ok = True)
     file = directory.joinpath("index.md")
 

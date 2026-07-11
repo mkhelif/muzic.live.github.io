@@ -1,15 +1,15 @@
-{{/* Fetch all nested locations (5 levels deep) */}}
-{{- $locations := slice .Params.id -}}
+{{/* Fetch all nested venues (5 levels deep) */}}
+{{- $venues := slice .Params.id -}}
 {{- range (seq 5) -}}
     {{- range hugo.Sites -}}
-        {{- range where (where .Pages "Section" "venues") ".Params.venue" "in" $locations -}}
-            {{- $locations = $locations | append .Params.id -}}
+        {{- range where (where .Pages "Section" "venues") ".Params.venue" "in" $venues -}}
+            {{- $venues = $venues | append .Params.id -}}
         {{- end -}}
     {{- end -}}
 {{- end -}}
 
 {{/* --- Events ---  */}}
 {{- $events := where .Site.RegularPages "Section" "events" -}}
-{{- $events = where $events ".Params.venue" "in" $locations -}}
+{{- $events = where $events ".Params.venue" "in" $venues -}}
 {{- $events = $events.ByDate -}}
 {{- partial "calendar/events.ics" (dict "page" . "events" $events) -}}

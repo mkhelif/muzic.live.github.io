@@ -1,6 +1,6 @@
 ---
 id: "9e354e1d-1888-4647-b8d9-9a2693718f1f"
-locationId: "8d44d6ce-9afb-4f3a-b88a-87715d4d9771"
+venue: "8d44d6ce-9afb-4f3a-b88a-87715d4d9771"
 title: "Théâtre de Beausobre"
 address: "Avenue de Vertou 2, 1110 Morges, Suisse"
 coordinates:

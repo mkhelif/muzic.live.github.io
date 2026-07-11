@@ -67,7 +67,7 @@ todo:
 
 def get_or_create_location_country(country):
     country_id = None
-    directory = Path(f"./content/locations/{format_filename(country['code'])}")
+    directory = Path(f"./content/venues/{format_filename(country['code'])}")
     directory.mkdir(parents = True, exist_ok = True)
     file = directory.joinpath("_index.md")
 
@@ -87,7 +87,7 @@ title: "{country['name']}"
 
 def get_or_create_location_city(country, city):
     city_id = None
-    directory = Path(f"./content/locations/{format_filename(country['code'])}/{format_filename(city)}")
+    directory = Path(f"./content/venues/{format_filename(country['code'])}/{format_filename(city)}")
     directory.mkdir(parents = True, exist_ok = True)
     file = directory.joinpath("_index.md")
 
@@ -108,7 +108,7 @@ title: "{city}"
 
 def get_or_create_location(location):
     location_id = None
-    directory = Path(f"./content/locations/{format_filename(location['country']['code'])}/{format_filename(location['city'])}/{format_filename(location['name'])}")
+    directory = Path(f"./content/venues/{format_filename(location['country']['code'])}/{format_filename(location['city'])}/{format_filename(location['name'])}")
     directory.mkdir(parents = True, exist_ok = True)
     file = directory.joinpath("index.md")
 
