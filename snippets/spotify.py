@@ -15,7 +15,7 @@ import uuid
 
 # Configure authentication token
 CLIENT_TOKEN=""
-ACCESS_TOKEN="Bearer "
+ACCESS_TOKEN=""
 
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:143.0) Gecko/20100101 Firefox/143.0",
@@ -49,6 +49,10 @@ for country in pycountry.countries:
         "name": _(country.name),
         "code": country.alpha_3,
     }
+
+# Kosovo uses the user-assigned code "XK", which is not an official ISO 3166-1
+# entry and therefore absent from pycountry.
+COUNTRIES.setdefault("XK", {"name": _("Kosovo"), "code": "XKX"})
 
 
 LOCATIONS = {
@@ -85,15 +89,23 @@ def get_artist_concerts(spotify_id):
     if not response.ok:
         raise Exception(f"Failed to fetch artist information ({response.status_code}): {response.content}")
 
-    # For each concert, load its details
+    # For each concert, load its details.
+    data = response.json().get('data') or {}
+    artist_union = data.get('artistUnion') or {}
+    goods = artist_union.get('goods') or {}
+    concerts = goods.get('concerts') or {}
+    concert_items = concerts.get('items') or []
+
     concerts_list = []
-    for concert_info in response.json()['data']['artistUnion']['goods']['concerts']['items']:
-        concert = get_concert(concert_info['data']['uri'])
+    for concert_info in concert_items:
+        concert = get_concert((concert_info.get('data') or {}).get('uri'))
         if concert is not None:
             concerts_list.append(concert)
     return concerts_list
 
 def get_concert(concert_uri):
+    if not concert_uri:
+        return None
     response = requests.post(
         'https://api-partner.spotify.com/pathfinder/v2/query',
         json = {
@@ -120,13 +132,15 @@ def get_concert(concert_uri):
     concert_details = {}
     concert_details["date"] = content['data']['concert']['startDateIsoString']
 
+    country_code = content['data']['concert']['location']['country']
     concert_details["location"] = {
-        'country': COUNTRIES[content['data']['concert']['location']['country']],
+        'country': COUNTRIES.get(country_code, {"name": country_code, "code": country_code}),
         'city': translate(content['data']['concert']['location']['city'].title(), LOCATIONS),
         'name': translate(content['data']['concert']['location']['name'].title(), LOCATIONS),
     }
     concert_details["artists"] = []
     concert_details["festival"] = content['data']['concert']['festival']
+    concert_details["title"] = content['data']['concert'].get('title')
 
     # Compute artists list
     if len(content['data']['concert']['artists']['items']) > 5:
@@ -288,9 +302,9 @@ if __name__ == '__main__':
 
                 # Compute event filename
                 filename = "-".join(format_filename(artist) for artist in concert['artists']) + ".md"
+
+                # Festivals are ignored
                 if concert['festival'] is True:
-                    location = concert['location']['country']['name'] + ', ' + concert['location']['city'] + ', ' + concert['location']['name']
-                    print(f"  - (festival) {date_format}: {', '.join(concert['artists'])} ({location})")
                     continue
 
                 # Compute location ID
