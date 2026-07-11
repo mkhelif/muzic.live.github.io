@@ -67,7 +67,7 @@ mkdir -p "${directory}" && cat > "${directory}/${filename}.md" <<EOF
 date: ${datetime}
 artists:
 ${artistsList}
-locationId: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
+venue: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 tickets:
   seetickets: "${seetickets}"
 ---

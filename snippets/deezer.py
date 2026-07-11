@@ -344,7 +344,7 @@ if __name__ == '__main__':
                     event.write_text(f"""\
 ---
 date: {date.isoformat()}
-locationId: "{location_id}"
+venue: "{location_id}"
 artists:
   - {artists_list}
 ---

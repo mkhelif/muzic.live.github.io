@@ -241,7 +241,7 @@ def get_or_create_location_city(country, city):
         file.write_text(f"""\
 ---
 id: "{city_id}"
-locationId: "{get_or_create_location_country(country)}"
+venue: "{get_or_create_location_country(country)}"
 title: "{city}"
 ---
 """)
@@ -262,7 +262,7 @@ def get_or_create_location(location):
         file.write_text(f"""\
 ---
 id: "{location_id}"
-locationId: "{get_or_create_location_city(location['country'], location['city'])}"
+venue: "{get_or_create_location_city(location['country'], location['city'])}"
 title: "{location['name']}"
 ---
 """)
@@ -318,7 +318,7 @@ if __name__ == '__main__':
                   event.write_text(f"""\
 ---
 date: {date.isoformat()}
-locationId: "{location_id}"
+venue: "{location_id}"
 artists:
   - {artists_list}
 ---
