@@ -1,0 +1,6 @@
+---
+date: 2027-01-20T19:30:00-05:00
+locationId: "16bc043e-b62b-4148-8790-1f95d5e7baf3"
+artists:
+  - "75d59ff6-7ac5-4f03-8094-bc455cdc9d6a"
+---

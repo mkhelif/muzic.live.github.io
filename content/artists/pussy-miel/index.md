@@ -1,0 +1,22 @@
+---
+id: "d9cb29a4-4871-4ca1-a038-0bfa74c5bb00"
+title: "Pussy Miel"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---
