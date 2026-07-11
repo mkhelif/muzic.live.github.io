@@ -1,6 +1,6 @@
 ---
 date: 2027-02-21T18:30:00+10:00
-locationId: "a7e3c79a-7ef6-4ff6-a124-0398947a09fe"
+venue: "a7e3c79a-7ef6-4ff6-a124-0398947a09fe"
 artists:
   - "520f6c28-131e-45ba-9661-37264678b9cf"
 ---

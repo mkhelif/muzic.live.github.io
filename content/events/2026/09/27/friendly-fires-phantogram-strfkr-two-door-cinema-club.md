@@ -1,6 +1,6 @@
 ---
 date: 2026-09-27T19:00:00-04:00
-locationId: "9f3fadcc-901f-442e-80c8-89aa0f4b926f"
+venue: "9f3fadcc-901f-442e-80c8-89aa0f4b926f"
 artists:
   - "04dcc37c-6ec5-43c7-8627-28069e5d1c21"
   - "bb624b8c-f1cf-44d2-a852-2888c0039247"

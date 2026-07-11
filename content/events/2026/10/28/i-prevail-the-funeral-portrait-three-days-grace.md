@@ -1,6 +1,6 @@
 ---
 date: 2026-10-28T19:00:00-05:00
-locationId: "f0c9d463-9759-4fd0-98fd-9dfd5f67c334"
+venue: "f0c9d463-9759-4fd0-98fd-9dfd5f67c334"
 artists:
   - "734ad2ca-0961-4acf-8e74-47c48fbea687"
   - "315b9cc0-8fc8-4600-a027-54fbdeff19c7"

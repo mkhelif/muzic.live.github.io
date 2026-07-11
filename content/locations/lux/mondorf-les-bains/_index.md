@@ -1,5 +1,0 @@
----
-id: "40016222-5f52-490c-a42f-6a71e18b45b9"
-locationId: "7a692493-3059-47ad-a501-0ce290b6d846"
-title: "Mondorf-Les-Bains"
----

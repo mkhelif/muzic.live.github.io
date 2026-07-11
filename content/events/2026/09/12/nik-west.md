@@ -1,6 +1,6 @@
 ---
 date: 2026-09-12T19:00:00+02:00
-locationId: "3ba99600-be00-432f-8997-21bad9e3c640"
+venue: "3ba99600-be00-432f-8997-21bad9e3c640"
 artists:
   - "d01e187a-8065-4b26-b7c6-b48859f35eaf"
 ---

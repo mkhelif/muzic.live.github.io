@@ -1,6 +1,6 @@
 ---
 date: 2027-03-19T20:30:00+01:00
-locationId: "450d3ca2-212b-4da9-9c75-824e0bc25c30"
+venue: "450d3ca2-212b-4da9-9c75-824e0bc25c30"
 artists:
   - "672c70e5-e066-4cb7-8622-feefe58f48ab"
 ---
