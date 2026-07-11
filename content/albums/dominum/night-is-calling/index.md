@@ -1,19 +1,20 @@
 ---
-draft: true
 date: 2026-07-03T00:00:00+02:00
 id: "781ab40c-8039-4f02-ad69-d54175526863"
 title: "Night is Calling"
-subtitle: "13 titres"
+subtitle: "13 titres, 45:49"
 author: "mkhelif"
-rank: 7
+rank: 8
 artists:
   - "5c962b05-0937-4731-8c1c-2221d1f255c8"
 socials:
+  amazon: "B0GWF9FJYR"
+  apple: "1891361521"
+  deezer: "956250761"
+  qobuz: "mlltisapf5h3g"
+  spotify: "6alnqRanGm5q9wwUvp9sJO"
+  tidal: "513852530"
   web: "https://dominum.bandcamp.com/album/night-is-calling"
-todo:
-  - Update subtitle
-  - Update rank
-  - Update socials
 ---
 
 Il y a des groupes qui font du metal, et il y a des groupes qui montent un spectacle de foire hanté avec des guitares.
