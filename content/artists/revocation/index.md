@@ -1,6 +1,20 @@
 ---
 id: "8fef7b6b-172d-43f6-b505-46dd17710e94"
 title: "Revocation"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

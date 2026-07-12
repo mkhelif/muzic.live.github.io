@@ -3,6 +3,18 @@ id: "a00e4024-5ab0-43e2-843f-5fb3b36fe90b"
 title: "Cryptic Shift"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Cryptic Shift est un groupe de death metal progressif et technique anglais originaire de Leeds, dans le West

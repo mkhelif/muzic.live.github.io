@@ -9,6 +9,13 @@ socials:
   web: "https://paddang.fr/"
   tidal: "18511303"
   spotify: "4dDpKAJfKQX4E7IG1hJExV"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Paddang est un trio de rock psychédélique et garage formé en 2020 au bord de la Garonne, à Toulouse. Le nom

@@ -3,6 +3,18 @@ id: "6aef574f-275d-4256-9187-30af133aff76"
 title: "Claudio Capéo"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Claudio Ruccolo, dit Claudio Capéo, est né le 10 janvier 1985 à Cernay, en Alsace, d'une famille d'origine

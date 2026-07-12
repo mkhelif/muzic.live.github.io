@@ -3,6 +3,18 @@ id: "c3110d6a-e930-404c-9e90-a37c94c4caae"
 title: "Agnostic Front"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

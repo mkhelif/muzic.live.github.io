@@ -3,6 +3,18 @@ id: "221b5eff-1dea-45d5-86b0-fd6b3d5d293a"
 title: "Mickey 3D"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

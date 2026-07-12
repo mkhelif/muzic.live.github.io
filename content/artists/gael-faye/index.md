@@ -3,6 +3,18 @@ id: "42f3d745-870f-4d37-9ca6-3462f7045f83"
 title: "Gaël Faye"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

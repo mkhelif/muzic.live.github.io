@@ -3,6 +3,18 @@ id: "d8ef395a-4555-4097-a6bf-b269d7399f78"
 title: "Andreas Lill"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add description/picture/socials
 ---

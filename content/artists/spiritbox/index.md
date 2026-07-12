@@ -3,6 +3,18 @@ id: "f31a6c9a-fc2d-4159-9136-831e7b4be142"
 title: "Spiritbox"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Spiritbox est un groupe de metal canadien formé en 2017 par la chanteuse Courtney LaPlante et le guitariste Mike

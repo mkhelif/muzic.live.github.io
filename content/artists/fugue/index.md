@@ -9,6 +9,12 @@ socials:
   web: "https://fugueofficial.fr/"
   tidal: "39472334"
   spotify: "2nX2bgbDjtGMOk7ACjnKAX"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Fugue est un groupe français de post-punk et coldwave issu des Hauts-de-France. La formation construit un univers

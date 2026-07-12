@@ -3,6 +3,18 @@ id: "b5d0fe24-672a-4485-afc7-63028c4ca707"
 title: "Dinaa"
 socials:
   instagram: "dinaa"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Dinaa est une chanteuse et autrice-compositrice-interprète française originaire de Toulouse. Elle commence à chanter et à

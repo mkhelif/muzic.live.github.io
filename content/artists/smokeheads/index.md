@@ -7,6 +7,14 @@ socials:
   web: "https://smokeheadsband.com/"
   tidal: "23541009"
   spotify: "2jeXoTd8EoZsBpl13g8F7A"
+  tiktok: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Smokeheads est un groupe de metal alternatif français dont le son repose sur une alchimie entre puissance

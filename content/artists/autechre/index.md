@@ -3,6 +3,18 @@ id: "9fcd4197-89a9-4815-a76b-15083826ad77"
 title: "Autechre"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Autechre est un duo britannique de musique électronique formé en 1987 à Rochdale, dans le Lancashire, par

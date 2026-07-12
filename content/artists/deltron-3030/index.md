@@ -9,6 +9,12 @@ socials:
   web: "https://deltron3030.com"
   spotify: "2efzHZrUGhawnSOTpyAHOQ"
   email: "delhierobooking@gmail.com"
+  tiktok: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 ---
 
 Deltron 3030 est un supergroupe de hip-hop conceptuel formé en 2000, réunissant le rappeur Del the Funky Homosapien, le

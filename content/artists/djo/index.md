@@ -8,6 +8,14 @@ socials:
   web: "https://www.djomusic.com/"
   tidal: "16373510"
   spotify: "5p9HO3XC5P3BLxJs5Mtrhm"
+  facebook: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Joseph David Keery est né le 24 avril 1992 à Newburyport, Massachusetts. Le grand public le connaît principalement sous

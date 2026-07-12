@@ -3,6 +3,18 @@ id: "b0e6dd2a-4ab2-45bb-87a8-09a8b5761fe7"
 title: "Triggerfinger"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

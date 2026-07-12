@@ -4,6 +4,17 @@ title: "Roberto Alagna"
 socials:
   instagram: "robertoalagnaofficiel"
   web: "https://www.robertoalagna.com/"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Roberto Alagna est un ténor français né le 7 juin 1963 à Clichy-sous-Bois, dans une famille d'immigrés siciliens. Figure

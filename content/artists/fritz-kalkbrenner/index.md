@@ -3,6 +3,18 @@ id: "176ecf98-81d7-45f6-ad8b-24bbcf614938"
 title: "Fritz Kalkbrenner"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

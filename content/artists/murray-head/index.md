@@ -8,6 +8,13 @@ socials:
   web: "https://www.murrayhead.online"
   tidal: "55703"
   spotify: "479Yp6DvyXoIaCssAxB4QR"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Murray Head incarne le profil de l'artiste transnational, britannique de naissance mais profondément lié à la France où

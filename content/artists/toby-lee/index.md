@@ -9,6 +9,12 @@ socials:
   web: "https://www.toby-lee.com/"
   tidal: "14699044"
   spotify: "059zYnVrxnkUTiNIrHHYyz"
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Toby Lee naît le 27 janvier 2005 en Grande-Bretagne et découvre la guitare à l'âge de huit ans, développant

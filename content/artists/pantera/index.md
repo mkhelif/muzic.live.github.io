@@ -3,6 +3,18 @@ id: "77818978-0701-4cc4-a0b9-445e1cf23ba7"
 title: "Pantera"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

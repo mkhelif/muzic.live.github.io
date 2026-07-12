@@ -3,6 +3,18 @@ id: "5e337cc9-550b-4dd3-bff9-c052250fc80b"
 title: "Wet Leg"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

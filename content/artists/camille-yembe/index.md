@@ -3,6 +3,18 @@ id: "f07f7b0e-2c8e-4fa9-96b4-2ff5b0f15921"
 title: "Camille Yembe"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Camille Yembe est une chanteuse et auteure-compositrice belgo-congolaise née en 1997 à Molenbeek-Saint-Jean, dans la

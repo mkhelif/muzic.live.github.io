@@ -4,6 +4,17 @@ title: "Fatoumata Diawara"
 socials:
   instagram: "fatoumatadiawaraofficial"
   web: "https://www.fatoumatadiawara.fr/"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Fatoumata Diawara est une chanteuse, guitariste et actrice malienne née en 1982 en Côte d'Ivoire. Élevée au Mali durant

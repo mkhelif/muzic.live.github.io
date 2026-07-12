@@ -1,6 +1,20 @@
 ---
 id: "69c1eb57-ffde-49cf-8560-cf6a2e6fd2b3"
 title: "Orchestra Baobab"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Orchestra Baobab est un groupe sénégalais fondé en 1970 comme formation résidente du Club Baobab à Dakar, plusieurs de

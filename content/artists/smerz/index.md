@@ -3,6 +3,18 @@ id: "b858f13b-d037-4660-a790-4775bcd6710b"
 title: "Smerz"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add detailed description
   - Verify social networks

@@ -1,6 +1,20 @@
 ---
 id: "afa7a042-1afa-46c1-a6e8-8f93d3addf92"
 title: "A Small District"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

@@ -3,6 +3,18 @@ id: "98a4b4ae-1015-4d20-91f9-36d14ea1f6f9"
 title: "Arnaud Rebotini joue 120 BPM"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Arnaud Rebotini joue 120 BPM est une performance live exceptionnelle dans laquelle le compositeur et musicien

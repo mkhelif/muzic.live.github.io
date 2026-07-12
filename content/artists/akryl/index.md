@@ -3,6 +3,18 @@ id: "fbae8ace-493a-46ce-b2bc-609f2071c851"
 title: "Akryl"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Akryl est une artiste suisse originaire de Saint-Gall (St. Gallen), qui développe une musique indie-pop aux textures

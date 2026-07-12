@@ -3,6 +3,18 @@ id: "366172ee-a0e5-4db9-909a-782bbbda2ff2"
 title: "Danyl"
 socials:
   instagram: "danyl"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Danyl, de son vrai nom **Danyl Boudali**, est un chanteur et rappeur franco-algérien né le 25 octobre 1998 à

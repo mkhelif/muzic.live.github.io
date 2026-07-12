@@ -6,6 +6,15 @@ socials:
   instagram: ""
   x: ""
   web: ""
+  tiktok: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

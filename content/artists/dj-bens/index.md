@@ -13,6 +13,11 @@ socials:
   web: "https://djbens.com/"
   tidal: "9869983"
   spotify: "6eOVzayMT2EKOMAawR01tV"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 DJ Bens est un DJ et producteur français qui émerge sur la scène électronique hexagonale avec une approche technique et

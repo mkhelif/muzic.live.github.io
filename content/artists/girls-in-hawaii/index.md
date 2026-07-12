@@ -3,6 +3,18 @@ id: "f81b2288-7d59-4d05-a8ee-e4237ad9a640"
 title: "Girls in Hawaii"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

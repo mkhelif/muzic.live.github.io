@@ -10,4 +10,10 @@ socials:
   web: "https://zedyunpavarotti.com/"
   tidal: "9486254"
   spotify: "2TM7WyJwjfD5wKyX9OtIWJ"
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

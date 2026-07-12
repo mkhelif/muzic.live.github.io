@@ -3,6 +3,18 @@ id: "bc7bf1d5-36ed-413f-b835-41da962d9afd"
 title: "Antoine Talon"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

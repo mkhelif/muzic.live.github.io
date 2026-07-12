@@ -3,6 +3,18 @@ id: "ff3ef466-ef43-40fe-98b4-aec482508d68"
 title: "Brutalismus 3000"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Brutalismus 3000 est un duo de musique électronique berlinois formé par Victoria Vassiliki Daldas et Theo

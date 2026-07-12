@@ -13,6 +13,8 @@ socials:
   deezer: "12033224"
   apple: "376564133"
   amazon: "B003Q57EZ0"
+  email: ""
+  qobuz: ""
 ---
 
 Il y a des voix qu'on reconnaît à la première seconde. Pas parce qu'elles sont parfaites — parce qu'elles sont vraies.

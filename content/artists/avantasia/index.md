@@ -13,6 +13,8 @@ socials:
   spotify: "1Ih0fEQQsy9EeAJbYEeQRa"
   tidal: "3554838"
   web: "https://avantasia.com/"
+  tiktok: ""
+  email: ""
 ---
 
 Rares sont les projets musicaux nés d'une intuition solitaire sur une route de tournée qui finissent par remplir le

@@ -35,6 +35,13 @@ socials:
   web: "https://wampas.com/"
   tidal: "36432"
   spotify: "2nsGWZA0LtO7istBNsyNTE"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Les Wampas surgissent de la scène punk française des années 80 tel un ouragan salvateur, incarnant cette rage juvénile

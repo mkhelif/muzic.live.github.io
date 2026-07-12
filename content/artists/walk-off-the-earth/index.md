@@ -1,6 +1,20 @@
 ---
 id: "3d9584a9-2382-4ff4-b08f-d55a6efdbd87"
 title: "Walk off the Earth"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 cover: ""
 ---
 

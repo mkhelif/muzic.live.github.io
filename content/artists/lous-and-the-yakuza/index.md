@@ -3,6 +3,18 @@ id: "79a0a058-27a4-4637-8261-cb65dfdb2f83"
 title: "Lous & The Yakuza"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

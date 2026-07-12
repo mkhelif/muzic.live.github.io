@@ -6,6 +6,15 @@ socials:
   instagram: "rosalyoff"
   youtube: "@rosalyoff"
   spotify: "6XFiV1c9brMjM587BdZ7dM"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 ---
 
 Rosaly est un groupe de rock progressif français formé en 2022, dont la musique cherche à concilier la

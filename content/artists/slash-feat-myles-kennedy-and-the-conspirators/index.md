@@ -3,6 +3,18 @@ id: "68795e74-4170-4472-b5d4-eb9dbd5a8241"
 title: "Slash feat Myles Kennedy & The Conspirators"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

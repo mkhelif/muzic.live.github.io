@@ -3,6 +3,18 @@ id: "e37bcf06-abf5-415e-9ef5-e73a8262094b"
 title: "Copycat"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Copycat est un duo indie rock/folk-punk français composé de deux cousines originaires de Nevers et de

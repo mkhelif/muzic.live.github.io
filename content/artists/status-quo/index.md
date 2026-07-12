@@ -9,6 +9,12 @@ socials:
   web: "https://www.statusquo.co.uk"
   tidal: "17400"
   spotify: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Status Quo représente l'une des institutions les plus durables et respectées du rock britannique, incarnant depuis plus

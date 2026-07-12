@@ -38,6 +38,12 @@ socials:
   web: "https://www.alabamashakes.com/"
   tidal: "4513089"
   spotify: "16GcWuvvybAoaHr0NqT8Eh"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 ###### Les origines : une rencontre dans l'Alabama profond

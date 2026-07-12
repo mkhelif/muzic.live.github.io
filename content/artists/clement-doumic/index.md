@@ -3,6 +3,18 @@ id: "f5bf3515-c659-40bd-91a1-55247ec28379"
 title: "Clément Doumic"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add description/picture/socials
 ---

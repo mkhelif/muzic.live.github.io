@@ -3,6 +3,18 @@ id: "53dba095-b505-492f-8071-caafa865ee0b"
 title: "Abbath"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Abbath est un groupe de black metal norvégien fondé en 2015 par Olve Eikemo, connu sous son pseudonyme de scène

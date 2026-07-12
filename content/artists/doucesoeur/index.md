@@ -3,6 +3,18 @@ id: "b9068bc7-7fb2-4906-af95-4c514a85d871"
 title: "Doucesoeur"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 DouceSœur est une DJ et artiste française installée à Marseille, dont l'univers musical puise dans ses origines

@@ -10,6 +10,11 @@ socials:
   web: "https://www.fantasticnegrito.com"
   tidal: "5788516"
   spotify: "5QXLMdpKeByOo5ypH9gT13"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 todo:
   - Add picture from concert
 ---

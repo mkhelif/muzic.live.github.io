@@ -8,6 +8,13 @@ socials:
   youtube: "@YoungerSpirit"
   tidal: "50276599"
   spotify: "3nDQLFEK4IcQf7beZahauv"
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Younger Spirit représente l'une des révélations les plus prometteuses de la scène rock alternative de ces dernières

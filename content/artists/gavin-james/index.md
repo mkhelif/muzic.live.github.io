@@ -10,6 +10,11 @@ socials:
   web: "https://gavinjamesmusic.com/"
   tidal: "5087386"
   spotify: "25tMQOrIU4LlUo6Sv8v5SE"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Gavin James est un chanteur-compositeur irlandais né à Dublin, qui émerge sur la scène musicale au début des années 2010

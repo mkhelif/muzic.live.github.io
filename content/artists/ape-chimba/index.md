@@ -1,6 +1,20 @@
 ---
 id: "5d425bce-356c-41c3-9d41-f3bc358a5bfa"
 title: "Ape Chimba"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Ape Chimba est un musicien, chanteur, compositeur et producteur multi-instrumentiste dont la musique constitue un

@@ -1,6 +1,20 @@
 ---
 id: "5bb45dc9-8a78-4278-ba4f-f8bce4f58ec5"
 title: "Angélique Kidjo"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

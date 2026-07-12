@@ -8,6 +8,13 @@ socials:
   web: "https://www.noepreszow.com"
   tidal: "13810946"
   spotify: "6CZhbpXpR3VJNQWFkwd2Ic"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Noé Preszow — que l'on prononce *Prèchof* — est né le 13 septembre 1994 à Bruxelles. Il est le fils d'une mère

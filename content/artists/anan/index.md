@@ -1,6 +1,20 @@
 ---
 id: "9800a1d7-e740-4957-8905-25993a91f173"
 title: "Anan"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 cover: ""
 todo:
   - Add cover

@@ -3,6 +3,18 @@ id: "e7a5711b-914c-4317-9d77-6af95cbc1a7b"
 title: "Bury Tomorrow"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Bury Tomorrow est un groupe de metalcore britannique formé en 2006 à Southampton, dans le Hampshire, qui

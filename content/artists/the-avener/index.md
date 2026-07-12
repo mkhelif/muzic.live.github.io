@@ -12,6 +12,9 @@ socials:
   spotify: "0e6qzpphJHtObTSwD75mi0"
   tidal: "5155918"
   web: "http://www.theavener.com/"
+  tiktok: ""
+  youtube: ""
+  email: ""
 ---
 
 The Avener, de son vrai nom **Tristan Casara**, est un DJ, producteur et musicien français né le 23 janvier 1987 à

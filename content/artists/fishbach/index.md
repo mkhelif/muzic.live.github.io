@@ -4,6 +4,17 @@ title: "Fishbach"
 socials:
   youtube: "@ffishbach"
   web: "https://florafishbach.fr/"
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Fishbach — qui se présente depuis 2025 sous son nom complet **Flora Fishbach** — est une autrice-compositrice-interprète

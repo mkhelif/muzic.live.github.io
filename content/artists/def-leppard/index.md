@@ -3,6 +3,18 @@ id: "ee857d5f-49c9-4fd2-84ea-fcb700f72fc4"
 title: "Def Leppard"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Def Leppard est un groupe de rock britannique formé à Sheffield en 1976, devenu l'une des formations les plus vendues de

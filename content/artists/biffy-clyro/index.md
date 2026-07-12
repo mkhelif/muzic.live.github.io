@@ -3,6 +3,18 @@ id: "36b7217a-51a8-40b2-8ca5-b5f1d3949678"
 title: "Biffy Clyro"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

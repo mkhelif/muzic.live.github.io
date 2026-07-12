@@ -22,6 +22,12 @@ socials:
   web: "https://www.ladaniva.com"
   tidal: "18660775"
   spotify: "6nt7tWnBx4NqnXKO6vEByU"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Ladaniva est un groupe français qui émerge sur la scène world music hexagonale avec une approche festive mêlant

@@ -12,6 +12,10 @@ socials:
   qobuz: "8289558"
   email: "richard.coloma13@gmail.com"
   phone: "+33603504634"
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
 ---
 
 Leur devise résume tout en une ligne : « Pas de bla-bla, matte la vidéo, écoute le son. » The Bundies n'ont pas de temps

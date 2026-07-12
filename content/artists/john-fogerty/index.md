@@ -10,6 +10,11 @@ socials:
   web: "https://www.johnfogerty.com"
   tidal: "32144"
   spotify: "5ujCegv1BRbEPTCwQqFk6t"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 John Fogerty est un chanteur-compositeur américain né en 1945, qui a profondément marqué l'histoire du rock en tant que

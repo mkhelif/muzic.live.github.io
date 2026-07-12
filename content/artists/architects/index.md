@@ -57,6 +57,18 @@ members:
         end: 2023
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Architects est un groupe de metalcore britannique originaire de Brighton, fondé en 2004 par les frères jumeaux Dan et

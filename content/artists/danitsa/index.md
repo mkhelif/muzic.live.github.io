@@ -14,6 +14,8 @@ socials:
   spotify: "0M1Kb2aco43kS4nb66HOn2"
   tidal: "5363869"
   email: "contact@danitsa.com"
+  x: ""
+  web: ""
 ---
 
 Née à Paris, installée à Genève, aux origines congolaises, tchadiennes, serbes, espagnoles et françaises — Danitsa est,

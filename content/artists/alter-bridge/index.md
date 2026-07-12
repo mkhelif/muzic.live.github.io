@@ -24,6 +24,18 @@ members:
       - start: 2004
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 Nés des cendres de Creed, Alter Bridge s'impose depuis plus de vingt ans comme l'un des groupes de rock les plus constants et les plus exigeants de leur génération. Mêlant puissance sonore, mélodies sophistiquées et une profondeur émotionnelle rare dans le hard rock contemporain, le quatuor d'Orlando a su construire une œuvre cohérente et ambitieuse, loin des modes éphémères.
 

@@ -9,4 +9,12 @@ socials:
   youtube: "@cottonblood812"
   tidal: "39630684"
   spotify: "7dBsT0CskzHJGu2PGENBSn"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

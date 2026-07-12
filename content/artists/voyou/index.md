@@ -10,6 +10,12 @@ socials:
   web: "https://voyoumusic.fr/"
   tidal: "4172530"
   spotify: "0EJdA6JT738oZGopzk8Usg"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Voyou est le projet solo électro-pop de Christophe Musset, ancien membre du groupe Les Bizarres, qui a décidé de se

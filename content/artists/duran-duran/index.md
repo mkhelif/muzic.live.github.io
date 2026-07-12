@@ -8,6 +8,13 @@ socials:
   youtube: ""
   web: "https://duranduran.com"
   spotify: ""
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 todo:
   - Verify social networks
   - Add logo cover

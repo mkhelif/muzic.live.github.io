@@ -3,6 +3,18 @@ id: "6bc38016-e859-4611-a64b-e71de720149e"
 title: "Dub Engine"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Dub Engine est un duo de dub live né à Bologne, en Italie, en 2009.

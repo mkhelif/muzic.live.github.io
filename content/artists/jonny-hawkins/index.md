@@ -8,4 +8,12 @@ socials:
   x: "Jonnyhawkins"
   threads: "@jonnyhawkins"
   spotify: "2cToF7GZou0LEixRBI9WVN"
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 ---

@@ -1,6 +1,20 @@
 ---
 id: "05bc994d-4d3b-45fd-a27c-834d2fef47d9"
 title: "Héritage"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Héritage est un groupe de blues-rock français né d'une histoire familiale aussi touchante qu'exceptionnelle : celle d'un

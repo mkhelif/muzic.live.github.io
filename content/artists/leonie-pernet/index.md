@@ -3,6 +3,18 @@ id: "6ffa4682-bd9d-4df7-a4df-4478fa4f1b76"
 title: "Léonie Pernet"
 socials:
   instagram: "leoniepernet"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Léonie Pernet est une autrice-compositrice, multi-instrumentiste et productrice française née le 13 janvier 1989 à

@@ -3,6 +3,18 @@ id: "c8a9939c-838a-40c2-8977-f4054f465b8c"
 title: "Les Fils de Teuhpu"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

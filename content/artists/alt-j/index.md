@@ -3,6 +3,18 @@ id: "ec49f83e-7a05-4589-87a0-852168248938"
 title: "Alt-J"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Alt-J (stylisé Δ) est un groupe de rock indépendant anglais formé en 2007 à l'Université de Leeds. Composé à l'origine

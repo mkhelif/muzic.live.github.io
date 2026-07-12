@@ -8,6 +8,13 @@ socials:
   youtube: "GI-DLEOfficial"
   web: "https://cubeent.smartstore.naver.com"
   spotify: ""
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 todo:
   - Verify social networks
   - Add logo cover

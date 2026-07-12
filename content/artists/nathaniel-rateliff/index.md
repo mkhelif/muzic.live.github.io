@@ -3,6 +3,18 @@ id: "b8cd1d0f-dbc0-4d61-a0f5-2595f122bd7d"
 title: "Nathaniel Rateliff"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

@@ -5,6 +5,16 @@ socials:
   facebook: "AutoThune"
   instagram: "autothune"
   youtube: "@autothunevraimentvraimento1869"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Dignes représentants de l’esprit du Nord d’où ils sont originaires à travers leurs accoutrements qui ne feraient pas

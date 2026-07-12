@@ -25,6 +25,8 @@ socials:
   spotify: "7I95CM75shzCjHuTzrepjM"
   tidal: "7878945"
   web: "https://novatwins.co.uk/"
+  x: ""
+  email: ""
 ---
 
 Il existe peu de groupes capables de faire dire à un magazine spécialisé qu'ils produisent des sons que personne ne sait

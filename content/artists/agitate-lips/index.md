@@ -3,6 +3,18 @@ id: "db9c594a-97e6-48e6-8f2a-fec06679c9b4"
 title: "Agitate Lips"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Agitate Lips est un groupe de rock indépendant au son introspectif et atmosphérique. Mêlant influences indie-pop et

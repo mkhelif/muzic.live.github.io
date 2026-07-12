@@ -3,6 +3,18 @@ id: "1e05aa9f-80fa-43b5-8f24-5dff057111b1"
 title: "Benedetto And Farina"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Benedetto & Farina est un duo de musique électronique dont le son se déploie à la croisée de la house profonde, de

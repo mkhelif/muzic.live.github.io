@@ -4,6 +4,17 @@ title: "The Rolling Stones"
 socials:
   facebook: "therollingstones"
   instagram: "therollingstones"
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
 ---

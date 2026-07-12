@@ -3,6 +3,18 @@ id: "3e6aa6e4-90a7-4243-a2a0-9efb8051b534"
 title: "Kings of Leon"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

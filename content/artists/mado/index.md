@@ -1,6 +1,20 @@
 ---
 id: "534071f2-73bc-4c62-8074-2fecc410a90d"
 title: "Mado"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

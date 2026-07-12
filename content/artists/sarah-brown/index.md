@@ -17,6 +17,8 @@ socials:
   spotify: "6qu4iot78uVk1bp65nuQvh"
   qobuz: "63665"
   email: "sarah@sarahbrownofficial.com"
+  tiktok: ""
+  x: ""
 ---
 
 Vous ne connaissez peut-être pas son nom. Mais vous avez entendu sa voix — sans le savoir. Sur le dernier album de

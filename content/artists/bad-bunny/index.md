@@ -12,6 +12,9 @@ socials:
   qobuz: "2739838"
   spotify: "4q3ewBCX7sLwd24euuV69X"
   tidal: "8027279"
+  tiktok: ""
+  web: ""
+  email: ""
 todo:
   - Add picture
 ---

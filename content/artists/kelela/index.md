@@ -3,6 +3,18 @@ id: "b7d00abe-f231-48b7-9f08-a2f9ab59987e"
 title: "Kelela"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add description/picture/socials
 ---

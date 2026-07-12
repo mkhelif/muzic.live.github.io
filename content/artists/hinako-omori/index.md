@@ -11,6 +11,12 @@ socials:
   email: "hello@hinakoomori.com"
   tidal: "10012128"
   spotify: "31vAiCz7AsxXsljIGKg4UB"
+  facebook: ""
+  tiktok: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Hinako Omori est une artiste japonaise basée à Londres, qui crée des environnements sonores immersifs mêlant

@@ -8,6 +8,14 @@ socials:
   youtube: "@menadesband"
   tidal: "9718687"
   spotify: "69KFMOLkskbZbQBXsTlizU"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Ménades émerge sur la scène punk parisienne avec une fureur et une détermination qui tranchent immédiatement avec la

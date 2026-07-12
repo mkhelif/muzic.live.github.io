@@ -3,6 +3,18 @@ id: "d36cc760-cb07-4332-85ff-cb428c034833"
 title: "Le Spectacle RAHMA"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Le Spectacle RAHMA est la tournée conçue par Zamdane autour de son troisième album studio Rahma, paru en

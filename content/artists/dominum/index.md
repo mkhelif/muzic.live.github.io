@@ -37,6 +37,8 @@ socials:
   spotify: "4Nm9FxM65RZa6EgFV2z8S9"
   tidal: "28002877"
   web: "https://www.dominumofficial.com/"
+  x: ""
+  email: ""
 ---
 
 DOMINUM est un groupe de power metal allemand formé en 2022 à Nuremberg, devenu en quelques années l'un des phénomènes

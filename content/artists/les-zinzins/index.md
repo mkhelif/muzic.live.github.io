@@ -3,6 +3,18 @@ id: "9873fc64-0907-4a5d-ba23-e8dfc11c8816"
 title: "Les Zinzins"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

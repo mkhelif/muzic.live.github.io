@@ -9,6 +9,13 @@ socials:
   soundcloud: "vladimircauchemarmusic"
   tidal: "9306980"
   spotify: "2V5xArcB3BGAHmwsK46tyU"
+  tiktok: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Vladimir Cauchemar est un DJ et producteur français qui émerge sur la scène électronique underground hexagonale avec une

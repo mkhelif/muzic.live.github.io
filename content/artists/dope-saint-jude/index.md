@@ -3,6 +3,18 @@ id: "64b23f6a-0ebc-4904-b4f3-6ff13e035d54"
 title: "Dope Saint Jude"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Catherine Saint Jude Pretorius, connue sous le nom de Dope Saint Jude, est une rappeuse, chanteuse, autrice et

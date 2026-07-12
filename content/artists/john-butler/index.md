@@ -15,6 +15,7 @@ socials:
   apple: "481119179"
   deezer: "345147"
   qobuz: "312115"
+  email: ""
 todo:
   - Add cover from concert
 ---

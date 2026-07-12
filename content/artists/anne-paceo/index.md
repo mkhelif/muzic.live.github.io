@@ -3,6 +3,18 @@ id: "a94b4022-917e-47b1-be61-7072cb21534f"
 title: "Anne Paceo"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Anne Paceo, née le 17 septembre 1984 à Niort, est une batteuse et compositrice française qui a su créer un style

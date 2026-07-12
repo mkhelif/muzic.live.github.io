@@ -4,5 +4,16 @@ title: "Grunk"
 socials:
   facebook: "GRUNK25"
   youtube: "@grunk4536"
+  instagram: ""
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 

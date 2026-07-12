@@ -11,6 +11,12 @@ socials:
   youtube: "JamesTaylor"
   web: "https://www.jamestaylor.com/"
   spotify: "0vn7UBvSQECKJm2817Yf1P"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 ---
 
 En 1971, **James Taylor** fait la couverture du magazine *Time*. Il a 23 ans. Le titre de l'article le désigne comme le

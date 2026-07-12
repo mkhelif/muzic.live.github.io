@@ -10,6 +10,11 @@ socials:
   web: "https://www.manudigital.fr"
   tidal: "4822452"
   spotify: "1EPdzkPNE9fwx1qhN4mUrH"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Manudigital est un producteur et musicien français spécialisé dans le reggae digital et le dub, basé à Marseille, qui

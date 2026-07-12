@@ -3,6 +3,18 @@ id: "65964aec-dc50-47e0-a3d3-5c7eff7e974d"
 title: "Weird Nightmare"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

@@ -10,6 +10,12 @@ socials:
   youtube: "@MrFranglishTV"
   tidal: "8082475"
   spotify: "4uJNQGa3L2frXDxwgouTIw"
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 todo:
   - Add cover from concert picture
 ---

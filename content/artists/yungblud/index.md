@@ -10,4 +10,9 @@ socials:
   web: "https://www.yungbludofficial.com/"
   tidal: "8605746"
   spotify: "6Ad91Jof8Niiw0lGLLi3NW"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

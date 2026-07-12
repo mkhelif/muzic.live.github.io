@@ -3,6 +3,18 @@ id: "a831f562-74aa-454e-9d22-99cd2c905013"
 title: "Esha Tewari"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Esha Tewari est une autrice-compositrice-interprète australienne née le 6 avril 2006, installée à Sydney, où elle

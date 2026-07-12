@@ -6,4 +6,13 @@ socials:
   web: "https://humus-records.com/artists/prune-carmen-diaz/"
   tidal: "7321259"
   spotify: "206NhPGzNln07Bp9moafgJ"
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

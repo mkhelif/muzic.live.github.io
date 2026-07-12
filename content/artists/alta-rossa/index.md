@@ -3,6 +3,18 @@ id: "5d0171ae-6b25-4d53-bcf6-5da2e1d7a461"
 title: "Alta Rossa"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Alta Rossa est un groupe de post-metal sludge formé en 2020 à Besançon, dans l'est de la France. Réunissant cinq

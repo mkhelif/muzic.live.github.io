@@ -10,6 +10,12 @@ socials:
   tidal: "12275500"
   spotify: "5fCUhLkUCx6wofe12FUqdn"
   email: "fdesbaillet@hotmail.com"
+  tiktok: ""
+  x: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 todo:
   - Add picture from concert
 ---

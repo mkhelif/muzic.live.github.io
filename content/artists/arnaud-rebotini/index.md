@@ -3,6 +3,18 @@ id: "ca44b750-e31c-4ab9-86cd-a3218a703d1f"
 title: "Arnaud Rebotini"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Arnaud Rebotini est un compositeur, producteur et musicien électronique français né le 12 avril 1970. Figure

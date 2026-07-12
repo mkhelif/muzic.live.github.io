@@ -16,6 +16,8 @@ socials:
   amazon: "B003KVWYRI"
   apple: "369610392"
   email: "contact@kmmltd.com"
+  tiktok: ""
+  qobuz: ""
 ---
 
 Agnes Obel est une auteure-compositrice-interprète, pianiste et productrice danoise née le 28 octobre 1980 à Gentofte,

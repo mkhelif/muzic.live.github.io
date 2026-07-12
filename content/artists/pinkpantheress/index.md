@@ -9,6 +9,12 @@ socials:
   web: "https://www.pantheress.pink/"
   tidal: "23409727"
   spotify: "78rUTD7y6Cy67W1RVzYs7t"
+  facebook: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 todo:
   - Add picture from concert
 ---

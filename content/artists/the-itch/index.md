@@ -1,6 +1,20 @@
 ---
 id: "4a6e8bb1-220f-4127-85fc-befb6b273230"
 title: "The Itch"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

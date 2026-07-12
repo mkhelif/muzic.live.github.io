@@ -3,6 +3,18 @@ id: "d19c9fce-8a08-4258-8d5a-fd01faac2ed4"
 title: "The Brand New Heavies"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

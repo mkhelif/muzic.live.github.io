@@ -3,6 +3,18 @@ id: "dcd54fc0-8758-40c3-906c-88a386360b7d"
 title: "Cate Le Bon"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Cate Le Bon, née Cate Timothy le 4 mars 1983, est une chanteuse, autrice-compositrice et productrice galloise. Née à

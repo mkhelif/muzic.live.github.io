@@ -11,6 +11,11 @@ socials:
   web: "https://www.jacobalon.scot/"
   tidal: "50118064"
   spotify: "6wef18QJfuh9f0C4v3TEVH"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Jacob Alon est un auteur-compositeur-interprète écossais originaire de Dalgety Bay, dans le Fife, qui s'est imposé en

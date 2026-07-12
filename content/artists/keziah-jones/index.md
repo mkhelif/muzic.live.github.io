@@ -10,6 +10,12 @@ socials:
   web: "https://keziah-jones.com/"
   tidal: "3510471"
   spotify: "7fkVKWnSaQNFwqrR62vsSo"
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Keziah Jones, de son vrai nom Olufemi Sanyaolu, est un chanteur-compositeur nigérian-britannique qui émerge sur la scène

@@ -8,6 +8,13 @@ socials:
   web: "https://www.mystically.net/"
   tidal: "17558331"
   spotify: "38Y1Q2c1EOdNAyvNyZjUeC"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 L'histoire de Mystically commence dans les coulisses d'un concert parisien, fin 2006. Adeline Aurokiom et Marie-Lou

@@ -1,6 +1,20 @@
 ---
 id: "fbbb8959-1551-4daa-bfd6-d8024e79550f"
 title: "Sebastian Biesler"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add bio
   - Add socials

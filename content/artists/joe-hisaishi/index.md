@@ -3,6 +3,18 @@ id: "c71a09f8-ee14-429c-b0a8-a0eb452a6866"
 title: "Joe Hisaishi"
 socials:
   instagram: "joehisaishi_official"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Joe Hisaishi, de son vrai nom **Mamoru Fujisawa**, est un compositeur, chef d'orchestre et pianiste japonais né le

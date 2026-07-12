@@ -3,6 +3,18 @@ id: "6e6beb86-2d3d-462d-a122-cd74a283b486"
 title: "DJ Schnake"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 DJ Schnake, de son vrai prénom Carolyne, est une DJ française tombée amoureuse des sonorités eurodance et trance il y a

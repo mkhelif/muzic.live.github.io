@@ -1,6 +1,20 @@
 ---
 id: "6eecc727-03d0-44f0-9327-731c743f4e2e"
 title: "Edgar Nevermoo"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 cover: ""
 todo:
   - Add cover

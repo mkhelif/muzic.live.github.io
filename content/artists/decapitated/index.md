@@ -3,6 +3,18 @@ id: "47e0e00b-36fd-45d5-9ab3-eea36ccb5990"
 title: "Decapitated"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Decapitated est un groupe de death metal technique polonais fondé en 1996 à Krosno, dans le sud de

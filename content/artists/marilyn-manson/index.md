@@ -4,6 +4,17 @@ title: "Marilyn Manson"
 socials:
   instagram: "marilynmanson"
   web: "https://www.marilynmanson.com/"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Marilyn Manson, de son vrai nom **Brian Hugh Warner**, est un chanteur et musicien américain né le 5 janvier 1969. Leader

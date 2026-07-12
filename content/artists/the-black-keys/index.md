@@ -26,6 +26,7 @@ socials:
   spotify: "7mnBLXK823vNxN3UWB7Gfz"
   tidal: "64643"
   qobuz: "40589"
+  email: ""
 todo:
   - Add picture
 ---

@@ -3,6 +3,18 @@ id: "294cb644-1031-4245-9251-4d732ed2c5ee"
 title: "Léon"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Léon, de son vrai nom Benoît Leclercq, est un artiste bruxellois polyvalent : multi-instrumentiste, producteur,

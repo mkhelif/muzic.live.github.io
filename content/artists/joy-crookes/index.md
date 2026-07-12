@@ -3,6 +3,18 @@ id: "9c43f234-9495-49f4-b162-0f79ddc2453e"
 title: "Joy Crookes"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Joy Elizabeth Akther Crookes, née le 9 octobre 1998 dans le quartier de Lambeth, au sud de Londres, est une chanteuse et

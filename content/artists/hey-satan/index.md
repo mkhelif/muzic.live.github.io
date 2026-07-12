@@ -7,6 +7,15 @@ socials:
   bandcamp: "heysatan"
   youtube: "@heysatan4486"
   spotify: "3c5q3zECMPEDEGZGggsh4v"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 ---
 
 

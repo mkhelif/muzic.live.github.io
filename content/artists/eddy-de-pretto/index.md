@@ -9,6 +9,12 @@ socials:
   web: "https://eddydepretto.com/"
   tidal: "7284774"
   spotify: "7rFugkk9ZvVB1zXHg8h0rj"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Eddy de Pretto est un chanteur français né en 1993, qui émerge sur la scène musicale hexagonale avec une approche

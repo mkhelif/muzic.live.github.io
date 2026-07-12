@@ -3,6 +3,18 @@ id: "b3a31b01-971b-4adf-8d0d-5df11b2053ab"
 title: "Danny Ocean"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Danny Ocean, de son vrai nom Daniel Alejandro Morales Reyes, est né le 5 mai 1992 à Caracas, Venezuela.

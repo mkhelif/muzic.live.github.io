@@ -3,6 +3,18 @@ id: "f96e6217-ef67-41b4-8501-28f89763e283"
 title: "Aura Noir"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Aura Noir est un groupe de black/thrash metal norvégien originaire d'Oslo, fondé en 1993 par Aggressor (Carl-Michael

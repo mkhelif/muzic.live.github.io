@@ -3,6 +3,18 @@ id: "8fe7cf87-95b0-4663-a441-9893d2e86cb5"
 title: "Billie"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Billie est une chanteuse belge originaire de Blankenberge, artiste de nu-pop signée sur News Records. Son parcours

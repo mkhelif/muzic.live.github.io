@@ -3,6 +3,18 @@ id: "17a95ab9-d79c-46bf-87ee-6b4d8e0bfe59"
 title: "Khruangbin"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

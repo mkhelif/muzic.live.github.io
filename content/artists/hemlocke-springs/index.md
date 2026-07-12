@@ -3,6 +3,18 @@ id: "0611bf62-2898-4399-9fbe-43c664ac5def"
 title: "Hemlocke Springs"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

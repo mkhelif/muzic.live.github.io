@@ -3,6 +3,18 @@ id: "0e67deef-962b-488a-a4c1-3cd509f507b7"
 title: "Deftones"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Deftones est un groupe de metal alternatif américain formé à Sacramento, en Californie, en 1988.

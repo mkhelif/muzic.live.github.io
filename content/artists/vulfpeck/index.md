@@ -34,6 +34,11 @@ socials:
   tidal: "5980686"
   spotify: "7pXu47GoqSYRajmBCjxdD6"
   email: "vulfpeckteam@teamwass.com"
+  tiktok: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 todo:
   - Add picture from concert
 ---

@@ -3,6 +3,18 @@ id: "7d9942e2-a882-47ee-9535-bb053d3ddbfe"
 title: "Clara Ysé"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

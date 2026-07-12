@@ -13,6 +13,10 @@ socials:
   qobuz: "4083956"
   spotify: "2jnIFUaoR1GSVdNxPLPOxE"
   tidal: "5121610"
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
 ---
 
 ###### Le miracle post-hardcore venu du Sud

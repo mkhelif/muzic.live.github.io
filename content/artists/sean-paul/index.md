@@ -12,6 +12,11 @@ socials:
   web: "https://allseanpaul.com/"
   tidal: "15406"
   spotify: "3Isy6kedDrgPYoTS1dazA9"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Sean Paul Ryan Francis Henriques, connu sous le nom de Sean Paul, est un artiste jamaïcain né le 9 janvier 1973 à

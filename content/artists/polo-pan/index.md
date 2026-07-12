@@ -1,6 +1,20 @@
 ---
 id: "fe0409c4-9e0c-4c6b-a8f6-e9ce5a218f82"
 title: "Polo & Pan"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Polo & Pan est un duo français composé de Paul Armand-Delille, alias Polocorp ou Polo, et d'Alexandre Grynszpan, alias

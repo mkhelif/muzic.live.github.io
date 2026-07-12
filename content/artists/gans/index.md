@@ -3,6 +3,18 @@ id: "c23b5587-0e74-4c28-8ce4-1f3fc81bddb5"
 title: "Gans"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 GANS est un duo punk-rock britannique originaire des Midlands de l'Ouest, formé à Birmingham fin 2023 par le batteur

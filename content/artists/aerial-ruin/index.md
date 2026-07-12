@@ -3,6 +3,18 @@ id: "5eb7c912-325a-46b7-ab58-a61401240c9e"
 title: "Aerial Ruin"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Aerial Ruin est le projet solo de folk sombre du guitariste et chanteur américain Erik Moggridge, basé à

@@ -3,6 +3,18 @@ id: "bf9df79c-ec5d-4e45-93c3-b6eb55d9ac0c"
 title: "Bianca Costa"
 socials:
   instagram: "biancacosta"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Bianca Costa est une chanteuse brésilienne née le 4 mars 1999 à Goiânia, active en France. Elle se fait remarquer à

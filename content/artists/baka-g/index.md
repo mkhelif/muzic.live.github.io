@@ -1,6 +1,20 @@
 ---
 id: "25c9cdb3-3d7a-4110-818b-539eca6d05a6"
 title: "Baka G"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 cover: ""
 ---
 

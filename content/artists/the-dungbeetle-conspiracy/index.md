@@ -10,6 +10,12 @@ socials:
   email: "dungbeetle.conspiracy@gmail.com"
   tidal: "66106109"
   spotify: "0ZyZ2AEgLUw3UjUoqGcpeK"
+  tiktok: ""
+  x: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Dans le paysage rock genevois, The Dungbeetle Conspiracy détonne par son ancrage assumé dans une époque que beaucoup

@@ -3,6 +3,18 @@ id: "f83148d2-0aa2-4ce6-a973-879235f72cb1"
 title: "Mon Rovîa"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

@@ -3,6 +3,18 @@ id: "10007495-290a-4374-bfe6-8bfadec3b2dc"
 title: "Rupert Keplinger"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

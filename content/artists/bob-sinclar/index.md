@@ -3,6 +3,18 @@ id: "ba41546b-9574-4d16-aff0-e2481e89faba"
 title: "Bob Sinclar"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Bob Sinclar est le nom d'artiste de Christophe Le Friant, DJ, producteur et remixeur français né le 10 mai

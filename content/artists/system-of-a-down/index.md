@@ -15,6 +15,7 @@ socials:
   qobuz: "121231"
   spotify: "5eAWCfyUhZtHHtBdNk56l1"
   tidal: "721"
+  email: ""
 todo:
   - Add logo cover
 ---

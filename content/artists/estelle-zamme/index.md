@@ -3,6 +3,18 @@ id: "d4332970-cf26-443b-b03e-93dd6068180c"
 title: "Estelle Zamme"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Estelle Zamme est un duo suisse de musique électronique actif depuis 2017, composé du musicien Étienne Bel, également

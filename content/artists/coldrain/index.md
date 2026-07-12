@@ -3,6 +3,18 @@ id: "732431c8-d60d-45b0-b033-c04fc828f83a"
 title: "coldrain"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Coldrain est un groupe de rock japonais originaire de Nagoya, fondé le 17 avril 2007. Composé du chanteur

@@ -6,6 +6,16 @@ socials:
   instagram: "thegreasylumberjacks"
   threads: "thegreasylumberjacks"
   youtube: "@greasylumberjacks"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 

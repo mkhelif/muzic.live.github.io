@@ -1,6 +1,20 @@
 ---
 id: "c51a2e99-66fa-4d21-9fb7-849a06d54ed2"
 title: "Allen Akino"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 cover: ""
 todo:
   - Add cover

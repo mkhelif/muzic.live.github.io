@@ -4,6 +4,17 @@ title: "Ludovico Einaudi"
 socials:
   instagram: "ludovicoeinaudi"
   web: "https://www.ludovicoeinaudi.com/"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Ludovico Einaudi est un pianiste et compositeur italien né le 23 novembre 1955 à Turin. Petit-fils de l'ancien président

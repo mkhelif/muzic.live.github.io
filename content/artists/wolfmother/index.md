@@ -38,6 +38,12 @@ socials:
   web: "https://www.wolfmother.com"
   tidal: "19379"
   spotify: "3yEnArbNHyTCwMRvD9SBy4"
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Wolfmother est un groupe australien formé en 2004 à Sydney par Andrew Stockdale (chant, guitare), qui a propulsé un

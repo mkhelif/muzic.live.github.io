@@ -14,6 +14,8 @@ socials:
   deezer: "5417036"
   apple: "784665014"
   email: "charlottemgmt@thecultnation.com"
+  amazon: ""
+  qobuz: ""
 todo:
   - Add picture from concert
 ---

@@ -3,6 +3,18 @@ id: "ab19882e-0959-4092-b6f7-d1a572c468ee"
 title: "Beatsteaks"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Les Beatsteaks sont un groupe de rock alternatif allemand originaire de Berlin, fondé en 1995. Formé par Peter

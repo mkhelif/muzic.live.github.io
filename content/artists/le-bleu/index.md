@@ -31,6 +31,12 @@ socials:
   spotify: "0J9AH1bf6gXuhhZY8Ysuz4"
   tidal: "3606243"
   email: "lebleuencore@gmail.com"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  qobuz: ""
 ---
 
 Il y a dans l'histoire de Le Bleu quelque chose qui ressemble à un roman de formation. Deux lycéens qui se rencontrent

@@ -10,6 +10,11 @@ socials:
   web: "https://www.oscarandthewolf.com"
   tidal: "4642437"
   spotify: "0dLWSYE7my9AbpQYNJ0ABV"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Oscar and the Wolf représente l'une des propositions les plus singulières de la scène électro-pop européenne

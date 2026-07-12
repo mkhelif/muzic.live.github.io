@@ -5,6 +5,16 @@ socials:
   instagram: "thelegendaryorchestra"
   tiktok: "@thelegendaryorchestra"
   web: "https://legendary-orchestra.com/"
+  facebook: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 ###### L'orchestration du metal au service de l'histoire

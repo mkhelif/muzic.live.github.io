@@ -3,6 +3,18 @@ id: "aeae2098-8fdd-459f-93d4-f3cc448389fd"
 title: "AURA"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 AURA est un groupe de metal français dont la musique se situe entre le post-metal atmosphérique et les sonorités sludge,

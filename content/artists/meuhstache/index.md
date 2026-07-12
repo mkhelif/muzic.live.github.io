@@ -8,6 +8,14 @@ socials:
   bandcamp: "meuhstache"
   web: "https://www.meuhstache.com/"
   email: "lets@meuhstache.com"
+  tiktok: ""
+  x: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Quelque part entre les forêts ancestrales et les vallées où résonnent encore des échos païens, Meuhstache trace depuis

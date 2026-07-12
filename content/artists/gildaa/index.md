@@ -3,6 +3,18 @@ id: "ed3ade56-591f-416c-95ec-1d968a41ae54"
 title: "Gildaa"
 socials:
   instagram: "gildaa"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Gildaa, de son vrai nom **Camille Constantin Da Silva**, est une artiste franco-brésilienne née en 1994 à Paris. Fille

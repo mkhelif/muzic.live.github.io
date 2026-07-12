@@ -1,6 +1,20 @@
 ---
 id: "71e3ec7c-bbe7-4466-af09-8eedd49e7a6a"
 title: "Afrojack"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

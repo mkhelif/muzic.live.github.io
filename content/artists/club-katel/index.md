@@ -3,6 +3,18 @@ id: "e9581355-fb4e-46b1-8118-d1a6d89918d6"
 title: "Club Katel"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Club Katel est un projet musical dont les informations publiques disponibles sont limitées. Il s'agit d'un

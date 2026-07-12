@@ -10,6 +10,11 @@ socials:
   web: "https://www.finnegantui.com/"
   tidal: "24762452"
   spotify: "5eTBCaRETnQ9fthJD0gfzp"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Avec sa folk organique, Finnegan Tui s'impose comme l'un des chanteurs guitare-voix les plus captivants du moment.

@@ -3,6 +3,18 @@ id: "ee55e51d-ba98-4bfb-83a6-7037a5f950c8"
 title: "Pomme"
 socials:
   instagram: "pommedeparis"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Pomme, de son vrai nom **Claire Pommet**, est une autrice-compositrice-interprète française née le 2 août 1996 à

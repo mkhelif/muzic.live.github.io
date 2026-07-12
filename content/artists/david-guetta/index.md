@@ -1,6 +1,20 @@
 ---
 id: "97684d40-fe74-4e9e-920d-1ea4f366a65c"
 title: "David Guetta"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Pierre David Guetta est né le 7 novembre 1967 à Paris. Autodidacte, il commence à mixer à treize ans

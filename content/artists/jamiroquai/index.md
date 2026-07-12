@@ -6,6 +6,15 @@ socials:
   instagram: "jamiroquaihq"
   youtube: "@Jamiroquai"
   web: "https://www.jamiroquai.com/"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Jamiroquai est un groupe britannique fondé en 1992 à Londres autour de son chanteur et leader **Jay Kay**, figure de

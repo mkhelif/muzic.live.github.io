@@ -47,6 +47,11 @@ socials:
   web: "https://www.sabaton.net/"
   tidal: "3616281"
   spotify: "3o2dn2O0FCVsWDFSh8qxgG"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Depuis plus de deux décennies, Sabaton s'est imposé comme l'un des groupes de heavy metal les plus respectés et les plus

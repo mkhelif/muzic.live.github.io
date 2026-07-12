@@ -1,6 +1,20 @@
 ---
 id: "d1526a9e-382b-4931-85c8-1fa6ada47e54"
 title: "Elwood Stray"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Elwood Stray est un groupe allemand de metalcore et post-hardcore originaire d'Essen, formé en 2016. Nourris depuis

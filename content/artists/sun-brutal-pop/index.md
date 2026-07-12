@@ -17,6 +17,8 @@ socials:
   qobuz: "43360"
   spotify: "5EjzvshGaeIYnjdttJF6ZQ"
   tidal: "45630277"
+  x: ""
+  web: ""
 ---
 
 Il existe une question que beaucoup se posent en découvrant SUN pour la première fois : comment peut-on aimer à la fois

@@ -9,6 +9,12 @@ socials:
   web: "https://mentissaofficiel.com/"
   tidal: "28860030"
   spotify: "0cb0p26TbAeBeekZHfxWlS"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Mentissa navigue dans l'univers musical français avec cette liberté créative totale qui caractérise les artistes

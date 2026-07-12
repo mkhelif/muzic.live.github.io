@@ -1,6 +1,20 @@
 ---
 id: "f9aa7bef-337e-4606-ab14-ea3302bf5fce"
 title: "PLK"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

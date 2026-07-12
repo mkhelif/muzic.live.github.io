@@ -3,6 +3,18 @@ id: "3c80898b-c311-455f-8ce3-157c6badb848"
 title: "CIEL"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Ciel, de son vrai nom Cindy Li, est une DJ, productrice et organisatrice canadienne basée à Toronto, en Ontario, connue

@@ -5,6 +5,16 @@ socials:
   facebook: "skelligeband"
   instagram: "skellige_band"
   youtube: "@skellige4529"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Skellige est un trio folk acoustique suisse fondé en 2022 par trois musiciens expérimentés. Le groupe puise

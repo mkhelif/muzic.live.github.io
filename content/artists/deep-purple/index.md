@@ -114,6 +114,9 @@ socials:
   deezer: "864"
   apple: "135532"
   amazon: "B000QJNHU0"
+  tiktok: ""
+  email: ""
+  qobuz: ""
 todo:
   - Add cover picture from concert
 ---

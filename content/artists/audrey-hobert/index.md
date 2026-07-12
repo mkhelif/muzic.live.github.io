@@ -3,6 +3,18 @@ id: "7356497b-e5c8-48e2-94e2-bf11468cf938"
 title: "Audrey Hobert"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Audrey Hobert est une autrice-compositrice-interprète américaine née le 19 février 1999 à New York. Après

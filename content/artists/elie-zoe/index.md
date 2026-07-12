@@ -7,6 +7,14 @@ socials:
   web: "https://eliezoe.com/"
   tidal: "49348544"
   spotify: "2t7zzvR3tKMctlLIUkTvjc"
+  tiktok: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Elie zoé, connu jusqu'en octobre 2024 sous le nom d'Emilie Zoé, est un chanteur et musicien suisse, né le 6 juillet 1991

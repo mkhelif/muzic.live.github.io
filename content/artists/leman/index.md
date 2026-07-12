@@ -3,6 +3,18 @@ id: "d77ce6f2-bc08-458b-a459-a2a3bff72ed7"
 title: "Léman"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Léman est un artiste français qui mêle l'énergie brute du rock à l'élégance de la pop, porté par des textes engagés et

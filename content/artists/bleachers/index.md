@@ -3,6 +3,18 @@ id: "7ad7a2b0-f6d9-4674-aea8-712a5c0e1b47"
 title: "Bleachers"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

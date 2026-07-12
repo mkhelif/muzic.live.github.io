@@ -3,6 +3,18 @@ id: "2bc6153d-8be7-4d55-ab49-ef9bd520f666"
 title: "Any Kind"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Any Kind est un groupe indie rock originaire de Brooklyn, New York, dont le son mêle l'intimité du bedroom pop à

@@ -3,6 +3,18 @@ id: "3a2ee53e-faec-460c-8398-7b39e33245b4"
 title: "Dvrk"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 DVRK est un groupe parisien de deathcore et nu metal formé en 2019, d'abord conçu comme un projet solo avant d'évoluer

@@ -9,6 +9,12 @@ socials:
   youtube: "@NiskaOfficiel91"
   tidal: "6101571"
   spotify: "7CUFPNi1TU8RowpnFRSsZV"
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Niska, de son vrai nom Georges Dinga Pinto, s'impose comme l'une des figures majeures du rap français contemporain,

@@ -9,6 +9,12 @@ socials:
   web: "https://santana.com/"
   tidal: "74"
   spotify: "6GI52t8N5F02MxU0g5U69P"
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Carlos Santana naît le 20 juillet 1947 à Autlán de Navarro, au Mexique, et grandit dans un environnement musical riche

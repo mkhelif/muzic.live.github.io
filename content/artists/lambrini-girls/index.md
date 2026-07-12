@@ -3,6 +3,18 @@ id: "584ad542-558e-441d-adc5-e5dde1e6a3ba"
 title: "Lambrini Girls"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Lambrini Girls est un groupe de punk rock anglais formé à Brighton, composé aujourd'hui de Phoebe Lunny et Selin

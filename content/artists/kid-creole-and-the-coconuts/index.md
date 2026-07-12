@@ -3,6 +3,18 @@ id: "b0943aeb-882b-4577-9e58-bfc01a8c5e79"
 title: "Kid Creole And The Coconuts"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

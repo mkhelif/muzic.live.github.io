@@ -4,5 +4,17 @@ title: "DJ Gil Von De"
 socials:
   instagram: "gilvonde.ch"
   soundcloud: "gil-von-de"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 

@@ -3,6 +3,18 @@ id: "3f7679d6-dd37-4d8e-97cb-70b7770c4a83"
 title: "Aime Simone"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Aime Simone est un artiste français né le 31 décembre 1993 à Paris, d'une famille aux origines norvégiennes. Chanteur,

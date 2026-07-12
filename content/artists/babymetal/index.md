@@ -3,6 +3,18 @@ id: "d5adce58-577c-4b5d-b766-722c8143259f"
 title: "BABYMETAL"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 BABYMETAL est un groupe de kawaii metal japonais fondé en 2010 à Tokyo, d'abord comme

@@ -4,6 +4,17 @@ title: "Aleksandra Kurzak"
 socials:
   instagram: "aleksandrakurzakofficial"
   web: "https://aleksandrakurzak.com/"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Aleksandra Kurzak est une soprano polonaise née le 7 août 1977 à Brzeg. Issue d'une famille de musiciens — sa mère est

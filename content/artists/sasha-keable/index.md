@@ -3,6 +3,18 @@ id: "eab246c9-a222-46f4-849d-9749573eb912"
 title: "Sasha Keable"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Sasha Keable, née le 27 février 1994, est une chanteuse et autrice-compositrice britannique élevée à Eltham, dans le sud

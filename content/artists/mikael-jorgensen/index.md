@@ -3,6 +3,18 @@ id: "a60cba84-566d-4a32-bf0e-1a40de0e2f1a"
 title: "Mikael Jorgensen"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

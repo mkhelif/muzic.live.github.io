@@ -24,6 +24,12 @@ socials:
   web: "https://www.ko-ko-mo.com/"
   tidal: "7541940"
   spotify: "37njHbDvYnaoRWbRwVTdaZ"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Ko Ko Mo incarne l'esprit festif et communicatif de la world music française, ce courant qui, depuis les années 1980,

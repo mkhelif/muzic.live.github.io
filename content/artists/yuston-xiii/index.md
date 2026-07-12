@@ -8,6 +8,13 @@ socials:
   youtube: "@YustonXIII"
   tidal: "29399491"
   spotify: "2ac0Lmf5nfZU6sq2t6MJLh"
+  facebook: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Yuston XIII est l'un des artistes francophones les plus singuliers de sa génération. Là où d'autres passent par les

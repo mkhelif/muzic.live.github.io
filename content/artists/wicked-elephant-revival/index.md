@@ -9,6 +9,14 @@ socials:
   tiktok: "@werthebandofficial"
   youtube: "@werthebandofficial"
   email: "wertheband@gmail.com"
+  x: ""
+  web: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 ###### Le classic rock azuréen ressuscite ses démons

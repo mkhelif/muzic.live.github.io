@@ -3,6 +3,18 @@ id: "695c6224-8223-4904-a8cf-bb8e74ea4736"
 title: "La Rvfleuze"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

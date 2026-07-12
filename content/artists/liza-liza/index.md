@@ -1,6 +1,20 @@
 ---
 id: "fe38f369-b8d1-40e9-97e3-5a14a040c27f"
 title: "Liza Liza"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

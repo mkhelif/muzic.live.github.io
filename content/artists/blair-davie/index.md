@@ -3,6 +3,18 @@ id: "a2da5538-cfa9-4d01-88f2-c28ad1356d23"
 title: "Blair Davie"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Blair Davie est un·e auteur·rice-compositeur·rice-interprète écossais·e originaire de Perth, dont la voix

@@ -3,6 +3,18 @@ id: "c3ee91c3-08ee-46e7-acf8-555f4278b42c"
 title: "Fanfarlo"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

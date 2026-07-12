@@ -43,5 +43,12 @@ socials:
   web: "https://www.palmier-rouge.com/pambele"
   tidal: "28280403"
   spotify: "5lmYAswXsgkaSbWEYRfEzL"
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 

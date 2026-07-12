@@ -3,6 +3,18 @@ id: "e8208465-f502-4c72-8cb9-677f80ebf5d5"
 title: "Banbz"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Banbz est un DJ et producteur de house et tech house originaire de Brest, en Bretagne.

@@ -3,6 +3,18 @@ id: "acd35d18-72f8-4ec2-8ebc-13154ac4599c"
 title: "The Getdown"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 The Getdown est un trio de jazz français réunissant Laurent Coulondre à l'orgue Hammond, Arnaud Dolmen à la batterie et

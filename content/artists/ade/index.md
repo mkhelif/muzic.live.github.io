@@ -3,6 +3,18 @@ id: "5aa7ae0e-32c6-41b0-96c4-5527446a1782"
 title: "Adé"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Adé, de son vrai nom Adélaïde Chabannes de Balsac, est une artiste française née le 20 avril 1995 à Paris. Chanteuse,

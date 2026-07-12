@@ -3,6 +3,18 @@ id: "36a5443d-21b4-4092-8016-2e2a19b85f4a"
 title: "Jon Batiste"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Jon Batiste est un musicien, compositeur, producteur et chef d'orchestre américain né le 11 novembre 1986 à Metairie, en

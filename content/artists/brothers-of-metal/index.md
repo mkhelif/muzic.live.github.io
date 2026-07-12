@@ -52,6 +52,13 @@ socials:
   web: "https://www.brothersofmetal.net/"
   tidal: "8070914"
   spotify: "0WPCPYm5IDNtQjuJOGNPcy"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Quelque part dans les forêts enneigées de Dalécarlie, au cœur de la Suède profonde, huit guerriers ont fait le serment

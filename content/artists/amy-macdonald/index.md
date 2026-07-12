@@ -14,6 +14,8 @@ socials:
   amazon: "B0025QFGMY"
   deezer: "15030"
   qobuz: "70802"
+  tiktok: ""
+  email: ""
 management: "97049768-d9c6-4bf6-ba4e-1ead47b41b83"
 todo:
   - Add picture from concert

@@ -78,6 +78,12 @@ socials:
   web: "https://www.rotnsofficial.com/"
   tidal: "4130561"
   spotify: "5vDfbSPkurKQxpVVXALJ4K"
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Rise of the Northstar (abrégé ROTNS) est un groupe de heavy metal français originaire de Paris, formé en 2008. Dès ses

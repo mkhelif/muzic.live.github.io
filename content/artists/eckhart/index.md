@@ -9,6 +9,14 @@ socials:
   email: "music.eckhart@gmail.com"
   tidal: "12054968"
   spotify: "7FkKMbiEzXwn6INp3fWWve"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  web: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Eckhart est un projet electro-punk suisse basé à Vevey, dans le canton de Vaud. Fondé en 2023 par le producteur et

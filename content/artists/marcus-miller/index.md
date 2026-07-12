@@ -10,6 +10,12 @@ socials:
   web: "https://www.marcusmiller.com"
   tidal: "3552389"
   spotify: "6fmq5mv6HnduZdlTOEYBC9"
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Marcus Miller transcende le simple statut de bassiste pour s'imposer comme architecte sonore de génie, révolutionnant

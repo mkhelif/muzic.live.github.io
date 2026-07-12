@@ -10,6 +10,12 @@ socials:
   web: "https://www.saultsmusic.com/"
   tidal: "15826925"
   spotify: "0v3GJQVtEdCbwnKpCUwOE8"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Saults est un groupe fondé par deux frères, Antoine et Greg Saults, originaires de Bordeaux. Animés par des

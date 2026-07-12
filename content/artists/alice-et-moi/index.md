@@ -9,6 +9,13 @@ socials:
   youtube: "@aliceetmoiofficiel"
   tidal: "9134481"
   spotify: "1NcCVE1FRpBSlN3LcAfhn3"
+  tiktok: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Alice et Moi, de son vrai nom Alice Vannoorenberghe, est une chanteuse française qui s'est révélée sur la scène musicale

@@ -3,6 +3,18 @@ id: "3ed12c03-0114-478d-852c-b281d62b7bf7"
 title: "Artus"
 socials:
   instagram: "artusofficiel"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Artus, de son vrai nom **Victor-Artus Solaro**, est un humoriste, acteur, scénariste et réalisateur français né le

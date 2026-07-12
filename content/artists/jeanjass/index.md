@@ -6,6 +6,15 @@ socials:
   x: "JeanJass"
   youtube: "channel/UCBVvd8QemU9L_gpV4Frf3VA"
   spotify: "11jTIrOwxFOLvhJIdb4FYo"
+  facebook: ""
+  tiktok: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 ---
 
 JeanJass est un rappeur belge membre du collectif Double Hélice, originaire de Belgique, qui apporte une couleur

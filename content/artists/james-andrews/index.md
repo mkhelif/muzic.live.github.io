@@ -3,6 +3,18 @@ id: "895d44f0-85c1-424d-89c4-664806538cd0"
 title: "James Andrews"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 James Andrews, né le 12 janvier 1969, est un trompettiste et chanteur américain originaire du quartier de Tremé, à La

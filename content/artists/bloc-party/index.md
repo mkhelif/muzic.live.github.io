@@ -49,6 +49,12 @@ socials:
   web: "https://www.blocparty.com"
   tidal: "15041"
   spotify: "3MM8mtgFzaEJsqbjZBSsHJ"
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Bloc Party est un groupe de rock britannique formé à Londres en 1999, qui émerge au début des années 2000 dans le

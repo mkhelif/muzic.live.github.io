@@ -1,6 +1,20 @@
 ---
 id: "ce8552c1-2ae5-4705-968d-ef11b1922760"
 title: "Sami Galbi"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 cover: ""
 todo:
   - Add cover

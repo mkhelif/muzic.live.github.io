@@ -3,6 +3,18 @@ id: "d04987fd-edbd-4020-8f9f-3db7fb61a46b"
 title: "Bab et les chats"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Bab et les chats est un duo français de rock jeune public fondé en 2014 par

@@ -3,6 +3,18 @@ id: "50abfe0f-32f8-4ac8-881b-8b1be04e5104"
 title: "Clipse"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Clipse est un duo de hip-hop américain originaire de Virginia Beach, en Virginie, formé en 1994 par les

@@ -3,6 +3,18 @@ id: "3a032431-6ffc-424e-aa40-22ba8f78f7d3"
 title: "Dub Inc"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Dub Inc est l'un des groupes reggae les plus importants de France, originaire de Saint-Étienne dans le

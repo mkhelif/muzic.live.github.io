@@ -3,6 +3,18 @@ id: "0cd6622d-6384-41df-a834-ca331dc6da5a"
 title: "Bertox"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Bertox est un artiste de musique électronique présent sur les plateformes de streaming et de mix en ligne. Son

@@ -7,4 +7,13 @@ socials:
   threads: "@showcave_band"
   youtube: "@showcave_band"
   spotify: "36G6hW5pAdoHcJav1ua15h"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 ---

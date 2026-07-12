@@ -3,6 +3,18 @@ id: "c076f2a8-84bd-485d-903c-388ebdbaf7a5"
 title: "Alan Braxe"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Alan Braxe, de son vrai nom Alain Quême, est l'un des architectes discrets mais essentiels de la French Touch, ce

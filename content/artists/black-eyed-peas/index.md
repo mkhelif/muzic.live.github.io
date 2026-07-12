@@ -4,6 +4,17 @@ title: "Black Eyed Peas"
 socials:
   instagram: "bep"
   web: "https://www.blackeyedpeas.com/"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Les Black Eyed Peas sont un groupe américain de hip-hop et de pop formé à Los Angeles en 1995 autour des rappeurs

@@ -3,6 +3,18 @@ id: "9a356617-3c30-4619-872b-55d03e46659b"
 title: "47Ter"
 socials:
   instagram: "47ter"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 47Ter est un groupe de hip-hop français formé à Bailly, dans les Yvelines, composé du trio **Pierre-Paul, Blaise et

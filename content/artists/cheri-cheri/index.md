@@ -3,6 +3,18 @@ id: "e379d384-28d7-4e4c-8be8-80cce3008b34"
 title: "Chéri Chéri"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Chéri Chéri est un groupe de rock franco-américain basé à Paris, né d'une annonce collée sur un poteau de rue par

@@ -54,6 +54,11 @@ socials:
   web: "https://www.linkinpark.com"
   tidal: "14123"
   spotify: "6XyY86QOPPrYVGvF9ch6wz"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Linkin Park est un groupe américain formé en 1996 à Los Angeles, qui a révolutionné le rock moderne en fusionnant metal

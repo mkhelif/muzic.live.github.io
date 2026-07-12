@@ -43,6 +43,7 @@ socials:
   qobuz: "148329"
   spotify: "2xiIXseIJcq3nG7C8fHeBj"
   tidal: "35937"
+  email: ""
 ---
 
 "Dès que je l'ai entendu chanter, je me suis dit : je veux être dans un groupe avec ce gars-là". Cette phrase de Neil

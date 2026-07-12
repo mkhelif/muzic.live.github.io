@@ -1,6 +1,20 @@
 ---
 id: "025d6963-ca65-4c83-bbc6-da8c8f4f55ce"
 title: "Amel Bent"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

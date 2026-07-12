@@ -1,6 +1,20 @@
 ---
 id: "f7d73281-7e5e-4ac4-b73b-1d4796eb722c"
 title: "CORY WONG"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 cover: ""
 ---
 

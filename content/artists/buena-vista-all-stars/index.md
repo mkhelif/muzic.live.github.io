@@ -3,6 +3,18 @@ id: "19f38e9a-de56-444f-b129-23775c0e4b44"
 title: "Buena Vista All Stars"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Buena Vista All Stars est un orchestre cubain dirigé par des membres originels du Buena Vista Social Club, le joueur de

@@ -3,6 +3,18 @@ id: "ea2b0fc2-8640-4796-9a4b-ef0e9872e8f1"
 title: "Emma Ollivary"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Emma Ollivary est une artiste électronique évoluant dans la scène montpelliéraine, où elle est notamment cofondatrice

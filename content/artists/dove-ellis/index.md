@@ -3,6 +3,18 @@ id: "b3f67da4-c370-46fe-9985-8459a9ebe944"
 title: "Dove Ellis"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Dove Ellis, de son vrai nom Thomas O'Donoghue, né en avril 2003 à Galway, est un musicien irlandais de folk indé

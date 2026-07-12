@@ -8,6 +8,14 @@ socials:
   youtube: "@styletoo"
   tidal: "32291021"
   spotify: "4vbZKiwmvbbW6onily9SJ5"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Styleto est une auteure-compositrice-interprète française née le 15 mars 1998 à Lyon sous le nom de Laure Gonnet.

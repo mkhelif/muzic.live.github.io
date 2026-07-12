@@ -3,6 +3,18 @@ id: "9d0b60d1-6bf0-4d16-b364-0ffef0301c47"
 title: "Henri PFR"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

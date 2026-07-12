@@ -3,6 +3,18 @@ id: "2f1c60a0-2e59-4e7c-b1be-6a141858c8eb"
 title: "Len Faki"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Levent Faki, connu sous le nom de scène Len Faki, est un producteur et DJ allemand de musique électronique, figure

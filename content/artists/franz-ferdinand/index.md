@@ -58,6 +58,11 @@ socials:
   web: "https://www.franzferdinand.com"
   tidal: "27439"
   spotify: "0XNa1vTidXlvJ2gHSsRi4A"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Franz Ferdinand naît en 2002 à Glasgow de la rencontre entre Alex Kapranos (chant, guitare) et Nick McCarthy (guitare),

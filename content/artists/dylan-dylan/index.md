@@ -3,6 +3,18 @@ id: "3f567212-a724-47e8-b04f-42e06d807e64"
 title: "Dylan Dylan"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Dylan Dylan est une DJ et productrice française qui s'est imposée comme l'une des étoiles montantes de la scène

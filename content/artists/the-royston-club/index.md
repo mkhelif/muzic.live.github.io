@@ -32,4 +32,9 @@ socials:
   web: "https://theroystonclub.com/"
   tidal: "15167798"
   spotify: "5N5jf98OOEf3uAIJpi1deD"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

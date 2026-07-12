@@ -14,6 +14,8 @@ socials:
   spotify: "5eATUoLTafitqpoDRpRbwR"
   tidal: "10718043"
   email: "mgmt.shani@gmail.com"
+  x: ""
+  web: ""
 ---
 
 Trop smart pour être rappeuse et trop street pour être mannequin. La formule circule depuis quelques années dans la

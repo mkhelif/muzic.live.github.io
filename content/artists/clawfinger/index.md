@@ -1,6 +1,20 @@
 ---
 id: "13236954-f328-4fda-b170-b95eb32fbcc9"
 title: "Clawfinger"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Clawfinger est un groupe suédois de rap metal formé à Stockholm en 1989, pionnier d'un genre qui allait

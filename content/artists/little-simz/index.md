@@ -7,6 +7,14 @@ socials:
   x: "LittleSimz"
   spotify: "3TnAR1MQOB2sh91zHadEBa"
   web: "https://www.littlesimz.com"
+  tiktok: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 ---
 
 Little Simz, de son vrai nom Simbiatu Ajikawo, est une rappeuse, actrice et musicienne britannique née en 1994 à

@@ -7,6 +7,15 @@ socials:
   youtube: "@spacebraingva"
   bandcamp: "spacebrainmusic"
   spotify: "2FSgVUYko6zGxtWBkZEY2S"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 ---
 
 Dans le paysage rock helvétique, Spacebrain trace depuis 2020 une trajectoire singulière, quelque part entre les grooves

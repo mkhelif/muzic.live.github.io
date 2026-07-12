@@ -9,6 +9,12 @@ socials:
   web: "https://www.orianthi.me"
   tidal: "3638303"
   spotify: "0yNy8fi1yBBq526E6mx4Zs"
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Orianthi Panagaris, connue simplement sous le nom d'Orianthi, s'est imposée comme l'une des guitaristes les plus

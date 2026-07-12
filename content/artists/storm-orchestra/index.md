@@ -30,6 +30,11 @@ socials:
   web: "https://stormorchestra.com/"
   tidal: "5936094"
   spotify: "5Zl04O5XJOu7kGrAosCPfR"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 L'histoire de Storm Orchestra commence par une rencontre. Maxime Goudard (chant, guitare) et Adrien Richard (basse,

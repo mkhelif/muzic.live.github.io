@@ -3,6 +3,18 @@ id: "ef9340bb-1b89-44d6-90be-8279f6cd5345"
 title: "Kiki Rockwell"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

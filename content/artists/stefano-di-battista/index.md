@@ -3,6 +3,18 @@ id: "f482e885-a594-4ddf-ba22-03506ef4b3a4"
 title: "Stefano Di Battista"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add detailed description
   - Verify social networks

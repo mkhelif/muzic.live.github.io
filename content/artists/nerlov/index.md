@@ -7,6 +7,14 @@ socials:
   youtube: "@NerlovNerlov"
   tidal: "8324666"
   spotify: "0JFtb1jFwdVNr8MycYK2BI"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Nerlov, de son vrai nom Florent Vincelot, est un auteur-compositeur-interprète français dont la musique navigue entre

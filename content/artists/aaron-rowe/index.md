@@ -3,6 +3,18 @@ id: "206e663e-4204-46c9-bdb2-45193b615d02"
 title: "Aaron Rowe"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Aaron Rowe est un auteur-compositeur-interprète irlandais originaire de Monkstown Farm, dans le quartier de

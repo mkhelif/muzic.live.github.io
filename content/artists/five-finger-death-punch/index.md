@@ -14,6 +14,7 @@ socials:
   qobuz: "202917"
   spotify: "5t28BP42x2axFnqOOMg3CM"
   tidal: "3565225"
+  email: ""
 todo:
   - Add picture
   - Review description

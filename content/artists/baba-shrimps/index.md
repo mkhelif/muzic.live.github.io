@@ -3,6 +3,18 @@ id: "8c269116-eb14-417c-904b-01a0d4ced017"
 title: "Baba Shrimps"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Baba Shrimps est un groupe de pop-rock suisse originaire de Zurich, fondé il y a

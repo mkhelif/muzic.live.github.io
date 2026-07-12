@@ -27,6 +27,8 @@ socials:
   tidal: "5469384"
   qobuz: "1699172"
   email: "thelastinternationale@gmail.com"
+  tiktok: ""
+  x: ""
 ---
 
 Il y a des groupes qui font de la musique. Il y a des groupes qui font de la musique et de la politique. Et puis il y a

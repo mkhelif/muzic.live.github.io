@@ -9,6 +9,14 @@ socials:
   youtube: "@umbree8810"
   tidal: "7284231"
   spotify: "2LbJZpMk21KtMBkCiHcJug"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Umbree est une DJ et productrice française originaire de Nice, figure montante de la scène électronique hexagonale dont

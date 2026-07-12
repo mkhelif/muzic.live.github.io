@@ -3,6 +3,18 @@ id: "a7557e9d-89d4-40b0-9285-e51128f90b34"
 title: "Ghost Dance"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Ghost Dance est un groupe britannique de rock gothique dont l'histoire s'étend sur quatre décennies,

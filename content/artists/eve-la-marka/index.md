@@ -1,6 +1,20 @@
 ---
 id: "1a0a0791-3184-42ef-ac08-251e40a1557d"
 title: "Eve La Marka"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Eve La Marka, aussi connue sous le nom de scène Big La Marka, est une rappeuse française installée à Paris, qui a

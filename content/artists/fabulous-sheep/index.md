@@ -36,4 +36,12 @@ socials:
   youtube: "@fabuloussheep"
   tidal: "7672411"
   spotify: "53PR6aQRtneL0Gf0ZhxWvh"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

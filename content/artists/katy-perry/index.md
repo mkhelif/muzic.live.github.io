@@ -3,6 +3,18 @@ id: "00036a87-7197-4df1-af39-4bb045b210f6"
 title: "Katy Perry"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Katy Perry, de son vrai nom Katheryn Elizabeth Hudson, est une chanteuse et autrice-compositrice américaine née le 25

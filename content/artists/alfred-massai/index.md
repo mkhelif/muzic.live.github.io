@@ -8,6 +8,13 @@ socials:
   web: "https://www.alfredmassai.fr/"
   tidal: "5569218"
   spotify: "7qkbyWDu60laun6X1BXnXI"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Alfred Massaï est un artiste français qui émerge sur la scène musicale hexagonale avec une approche originale mêlant

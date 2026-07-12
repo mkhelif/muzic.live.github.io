@@ -3,6 +3,18 @@ id: "52280f6f-a118-4fbb-b4ec-22ff870ac361"
 title: "Billy Allen + The Pollies"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Billy Allen + The Pollies est un groupe américain issu de Muscle Shoals, Alabama — la ville légendaire qui a vu

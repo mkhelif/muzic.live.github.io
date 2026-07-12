@@ -3,6 +3,18 @@ id: "a329f0d0-5d33-4454-a499-9792a7376ca7"
 title: "Chelsea Grin"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Chelsea Grin est un groupe de deathcore américain formé en mars 2007 à Salt Lake City, dans l'Utah. Fondé

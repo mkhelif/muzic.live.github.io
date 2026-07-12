@@ -3,6 +3,18 @@ id: "09f5c6f2-6d2e-4422-a2ad-1422d96879a7"
 title: "Dawa HiFi x Roots Raid"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Dawa Hi-Fi x Roots Raid réunit deux piliers du dub français, associés dans un projet commun qui fusionne leurs styles

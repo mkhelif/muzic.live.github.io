@@ -3,6 +3,18 @@ id: "37efd0bd-6ea1-439a-b4ee-fcf44adb46f2"
 title: "James Arthur"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

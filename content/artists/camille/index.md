@@ -3,6 +3,18 @@ id: "878c9e8e-5fa0-40a5-9c75-1c050e52ac9a"
 title: "Camille"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Camille Dalmais, connue sous le mononyme Camille, est une chanteuse, autrice-compositrice-interprète et actrice

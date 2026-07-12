@@ -10,6 +10,11 @@ socials:
   web: "https://www.zaralarssonofficial.com/"
   tidal: "4815108"
   spotify: "1Xylc3o4UrD53lo9CvFvVg"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 todo:
   - Add picture from concert
 ---

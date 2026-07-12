@@ -3,6 +3,18 @@ id: "e7798794-d971-47c3-85ad-a5230f745857"
 title: "Anaïs"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 Anaïs Croze est une chanteuse, auteure et compositrice française dont la trajectoire singulière — du groupe indépendant aux scènes nationales, du one-woman-show décalé au rock folk affiné — illustre une liberté artistique rare et une personnalité marquante dans le paysage de la chanson hexagonale.
 

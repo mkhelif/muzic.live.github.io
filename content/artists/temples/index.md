@@ -1,6 +1,20 @@
 ---
 id: "db1809ec-f8bf-437d-b4cb-3039c79241b6"
 title: "Temples"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

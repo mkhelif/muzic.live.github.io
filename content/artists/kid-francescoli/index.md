@@ -3,6 +3,18 @@ id: "9c0138cc-0659-4fe8-be83-68dea88109fb"
 title: "Kid Francescoli"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Kid Francescoli est le nom de scène du producteur et musicien marseillais Mathieu Hocine, figure majeure

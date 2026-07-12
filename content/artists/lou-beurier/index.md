@@ -7,6 +7,14 @@ socials:
   youtube: "@loubeuriermusic8427"
   tidal: "18205277"
   spotify: "6ADJVFQJoHsutvCufYkyG5"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Lou Beurier est une chanteuse, auteure et interprète originaire du Doubs en Franche-Comté, une région plus connue pour

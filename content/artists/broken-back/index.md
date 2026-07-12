@@ -10,6 +10,13 @@ socials:
   youtube: "@BrokenBackMusic"
   tidal: "5110762"
   spotify: "4nx8ehrFiCOmWgebUKshDV"
+  tiktok: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Broken Back est le projet solo de Jérôme Fagnet, musicien français qui émerge sur la scène indie-pop hexagonale avec une

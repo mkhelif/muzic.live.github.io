@@ -3,6 +3,18 @@ id: "57f3e669-a1b6-4054-b265-0ff2d248a150"
 title: "As A New Revolt"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 As A New Revolt est un duo français fondé en 2015 à Grenoble, composé de Manu Barrero (chant, claviers, programmation)

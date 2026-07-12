@@ -3,6 +3,18 @@ id: "937455ed-5c33-4132-83ee-1e2c18986598"
 title: "Dry Cleaning"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Dry Cleaning est un groupe de post-punk anglais formé dans le sud de Londres en 2017.

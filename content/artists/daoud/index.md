@@ -3,6 +3,18 @@ id: "0176d93d-8767-4244-96ba-d957271ec62b"
 title: "Daoud"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Daoud est un trompettiste et compositeur franco-marocain qui s'est imposé en quelques années comme l'une

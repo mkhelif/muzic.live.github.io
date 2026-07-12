@@ -101,6 +101,18 @@ members:
       - start: 2018
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 The Doobie Brothers sont un groupe de rock américain formé en 1970 à San Jose, en Californie, à partir d'un précédent

@@ -3,6 +3,18 @@ id: "230fa3ae-fd87-4fcb-b869-98eb466f83b1"
 title: "Big Shrimp"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Big Shrimp est un quartet de rock progressif et improvisé formé en 2024 à Bridgeport, Connecticut. Composé de Jared

@@ -11,6 +11,11 @@ socials:
   web: "https://rayeofficial.com/"
   tidal: "7779063"
   spotify: "5KKpBU5eC2tJDzf0wmlRp2"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 todo:
   - Add picture from concert
 ---

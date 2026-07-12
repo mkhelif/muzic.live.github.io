@@ -10,6 +10,11 @@ socials:
   web: "https://www.tylaworld.com/"
   tidal: "3606450"
   spotify: "3SozjO3Lat463tQICI9LcE"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 todo:
   - Add picture from concert
 ---

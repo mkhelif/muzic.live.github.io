@@ -3,6 +3,18 @@ id: "4f5e5c06-5b45-4193-bd40-8d2e54bafff5"
 title: "Eluveitie"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Eluveitie est un groupe suisse de folk metal originaire de Winterthur, dans le canton de Zurich, fondé en 2002 par

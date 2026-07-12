@@ -21,4 +21,12 @@ socials:
   youtube: "@sorgmusic"
   tidal: "5488192"
   spotify: ""
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

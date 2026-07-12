@@ -43,6 +43,11 @@ socials:
   web: "https://www.stereophonics.com"
   tidal: "10374"
   spotify: "21UJ7PRWb3Etgsu99f8yo8"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Stereophonics est un groupe gallois formé en 1992 à Cwmaman, dans les vallées minières du sud du Pays de Galles, qui est

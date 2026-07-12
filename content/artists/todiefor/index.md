@@ -3,6 +3,18 @@ id: "c0d94e10-402a-4e1b-b521-3c0a55eff20e"
 title: "Todiefor"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Todiefor, de son vrai nom Luca Pecoraro, est un DJ et producteur belge originaire de Bruxelles, actif depuis le début

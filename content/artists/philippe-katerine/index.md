@@ -3,6 +3,18 @@ id: "ba4a5db3-dda6-4c37-96aa-df1ab424d5d4"
 title: "Philippe Katerine"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

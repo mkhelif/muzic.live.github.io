@@ -3,6 +3,18 @@ id: "8c98046a-9b27-4a45-a1f4-600d4ee4eba6"
 title: "Alexandrie"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Alexandrie est un projet de musique indie pop et électronique originaire de Besançon, en Franche-Comté,

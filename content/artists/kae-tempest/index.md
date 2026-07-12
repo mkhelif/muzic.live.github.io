@@ -10,6 +10,11 @@ socials:
   web: "https://www.kaetempest.com/"
   tidal: "20802145"
   spotify: "1YcprGtF13BYCZQK9jYPEw"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Kae Tempest naît le 22 décembre 1985 à Brockley, dans le sud-est de Londres, grandissant dans une famille ouvrière au

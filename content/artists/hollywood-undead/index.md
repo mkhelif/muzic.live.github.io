@@ -18,6 +18,7 @@ socials:
   qobuz: "86191"
   spotify: "0CEFCo8288kQU7mJi25s6E"
   tidal: "3564132"
+  email: ""
 todo:
   - Add picture
 ---

@@ -3,6 +3,18 @@ id: "7e045902-69ae-47c1-a518-3f05b365dab1"
 title: "Michael Kiwanuka"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

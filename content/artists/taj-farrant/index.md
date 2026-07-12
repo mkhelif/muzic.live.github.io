@@ -10,6 +10,12 @@ socials:
   web: "https://www.tajfarrant.com/"
   tidal: "21254913"
   spotify: "33yogRYdM0M5dc9VxfoqaJ"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Il y a des guitaristes qui jouent. Il y a des guitaristes qui impressionnent. Et puis il y a Taj Farrant — un gamin qui,

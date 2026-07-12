@@ -3,6 +3,18 @@ id: "ddbe96ab-1422-4cf1-b592-35c2a38582bb"
 title: "Lancelot"
 socials:
   instagram: "lancelot"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Lancelot est un auteur-compositeur-interprète français qui a grandi à la montagne, au sein d'une famille de musiciens où

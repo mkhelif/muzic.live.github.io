@@ -3,6 +3,18 @@ id: "4628e26a-cdcd-4eea-b665-8f1571a67ff4"
 title: "Ásgeir"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Ásgeir Trausti Einarsson, connu simplement sous le nom d'Ásgeir, est un chanteur-compositeur islandais né le

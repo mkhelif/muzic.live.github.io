@@ -3,6 +3,18 @@ id: "de9541f9-235a-4394-89a8-022e976d28c9"
 title: "Ensemble Vocal Utopie"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 L'Ensemble Vocal Utopie est un chœur suisse fondé en 2000 à Fribourg par Gonzague Monney, qui en assure toujours la

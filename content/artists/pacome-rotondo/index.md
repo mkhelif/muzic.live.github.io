@@ -9,6 +9,12 @@ socials:
   tidal: "41685107"
   spotify: "4uYP7lPPbDXh6ZKFBPdsnb"
   email: "booking@focusprod.info"
+  tiktok: ""
+  x: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 todo:
   - Add picture from concert
 ---

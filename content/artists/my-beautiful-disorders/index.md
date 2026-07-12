@@ -8,4 +8,11 @@ socials:
   web: "https://www.mbdisorders.com"
   tidal: "39014363"
   spotify: "56ISktwjU1YNm88nKXGtSp"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

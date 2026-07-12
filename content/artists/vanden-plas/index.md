@@ -34,6 +34,13 @@ socials:
   web: "https://www.vandenplas.de/"
   tidal: "3659739"
   spotify: "1ke5Q2ijh6Tm31kH2HELEe"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Vanden Plas représente l'excellence du metal progressif européen, incarnant depuis plus de trois décennies une approche

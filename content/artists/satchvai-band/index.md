@@ -3,6 +3,18 @@ id: "eba52f68-86ef-4673-ab48-9075d93d9704"
 title: "SatchVai Band"
 socials:
   web: "https://www.satchvaiband.com/"
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Le SatchVai Band incarne la rencontre exceptionnelle de deux virtuoses de la guitare électrique : Joe Satriani et Steve

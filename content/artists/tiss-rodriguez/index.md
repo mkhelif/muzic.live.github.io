@@ -3,6 +3,18 @@ id: "b369eca0-538a-4d8c-a038-28a62019e581"
 title: "Tiss Rodriguez"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Tiss Rodriguez est un batteur et compositeur français né et élevé à Paris, au sein d'une famille qui a fondé il y a

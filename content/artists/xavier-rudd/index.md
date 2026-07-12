@@ -11,6 +11,12 @@ socials:
   web: "https://www.xavierrudd.com"
   tidal: "3517820"
   spotify: "5lbM4g6bhxjNX7R5QHP2nD"
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Xavier Rudd incarne une approche holistique de la musique, où l'art devient le vecteur d'un message spirituel,

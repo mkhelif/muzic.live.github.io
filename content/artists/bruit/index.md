@@ -3,6 +3,18 @@ id: "8ff08758-f0d8-47cc-929b-d285f27929f9"
 title: "BRUIT"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 BRUIT ≤ est un quartet instrumental français fondé à Toulouse en 2016, dont les compositions se déploient

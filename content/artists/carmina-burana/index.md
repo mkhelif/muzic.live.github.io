@@ -3,6 +3,18 @@ id: "c648262a-127d-47f8-a41f-596f0025f108"
 title: "Carmina Burana"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Carmina Burana est l'une des œuvres chorales les plus célèbres et les plus jouées du répertoire classique du

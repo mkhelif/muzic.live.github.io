@@ -3,6 +3,18 @@ id: "8a344acf-30d4-4d13-9732-b9fb9f55ab8b"
 title: "De La Soul Live Band"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 De La Soul est un groupe de hip-hop américain formé en 1988 à Amityville, dans le comté de Long Island, dans l'État de

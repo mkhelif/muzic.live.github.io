@@ -1,6 +1,20 @@
 ---
 id: "579498d8-0cb6-494a-a351-0a03a09220df"
 title: "Cinza"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 social:
   facebook: "cnzwltr"
   instagram: "cinza__"

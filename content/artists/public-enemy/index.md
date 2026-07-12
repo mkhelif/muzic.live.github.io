@@ -3,6 +3,18 @@ id: "0a456ad0-17e0-4279-94a7-7a1eafeb98c1"
 title: "Public Enemy"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

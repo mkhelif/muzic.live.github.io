@@ -6,6 +6,15 @@ socials:
   tiktok: "@jango.janice"
   tidal: "62660642"
   spotify: "3etVXVbtp0pPogI0b7JGWF"
+  facebook: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 

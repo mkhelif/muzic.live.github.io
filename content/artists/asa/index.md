@@ -3,6 +3,18 @@ id: "3a24c726-6f5d-455a-99d2-03b4471db747"
 title: "Asa"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Aṣa, de son vrai nom Bukola Elemide, est une artiste franco-nigériane née le 17 septembre 1982 à Paris, de parents

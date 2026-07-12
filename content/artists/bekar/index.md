@@ -3,6 +3,18 @@ id: "da08a7a4-fcda-4755-bdb7-da8536ba9fb5"
 title: "Bekar"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Bekar est un rappeur français originaire de Roubaix, dans le Nord de la France. Issu d'un territoire marqué par

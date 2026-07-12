@@ -3,6 +3,18 @@ id: "59eb92f6-7554-4344-903b-0d2b614c4a9c"
 title: "Vicki Brittle"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

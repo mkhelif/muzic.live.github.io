@@ -9,6 +9,12 @@ socials:
   youtube: "@robinschulz"
   web: "https://www.robin-schulz.com/"
   email: "robinschulz@s-d-management.com"
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
 ---

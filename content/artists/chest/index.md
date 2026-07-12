@@ -3,6 +3,18 @@ id: "57658ace-0ac5-48af-985d-77748eb3316e"
 title: "chest."
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Chest est un groupe de post-punk et de noise rock parisien composé de cinq amis qui proposent leur propre vision de la

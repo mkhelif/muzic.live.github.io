@@ -6,6 +6,15 @@ socials:
   instagram: "marraine.coque"
   youtube: "@marrainecoque"
   web: "https://marrainecoque8.wixsite.com/monsite"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Marraine Coque est un groupe bisontin mené par Fabienne Boucard, auteur, compositeur, interprète, qu’elle a fondé en

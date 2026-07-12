@@ -8,6 +8,13 @@ socials:
   web: "https://www.sheilaofficiel.com/"
   tidal: "8335"
   spotify: "5fhRcv2KU96vbXqNE2FEdu"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Sheila représente l'une des figures les plus emblématiques de la chanson française et de la variété internationale,

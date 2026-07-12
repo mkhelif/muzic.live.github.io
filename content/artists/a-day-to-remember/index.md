@@ -42,6 +42,18 @@ members:
         end: 2021
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 A Day to Remember est un groupe américain de metalcore et pop punk fondé en 2003 à Ocala, en Floride, par le

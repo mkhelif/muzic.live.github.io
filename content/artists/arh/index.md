@@ -1,6 +1,20 @@
 ---
 id: "5c29c6bf-f45e-49a1-90f8-6aa96dc936fb"
 title: "ARH"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 cover: ""
 ---
 

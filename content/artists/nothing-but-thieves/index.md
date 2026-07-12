@@ -3,6 +3,18 @@ id: "ef9e2b0c-471c-4900-b7c7-3e8e67553165"
 title: "Nothing but Thieves"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

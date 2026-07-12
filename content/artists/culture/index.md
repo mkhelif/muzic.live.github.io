@@ -3,6 +3,18 @@ id: "74dd63e1-f8af-400c-b02d-ec2cd6ef189e"
 title: "Culture"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Culture est l'un des groupes de roots reggae les plus importants de l'histoire de la Jamaïque.

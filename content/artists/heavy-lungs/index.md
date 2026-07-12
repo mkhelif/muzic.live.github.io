@@ -3,6 +3,18 @@ id: "200a335e-c670-4659-93c3-e556437b1a8e"
 title: "Heavy Lungs"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Heavy Lungs est un groupe de noise rock britannique formé à Bristol au début de l'année 2017, à l'origine comme un

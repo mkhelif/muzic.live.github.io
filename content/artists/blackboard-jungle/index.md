@@ -3,6 +3,18 @@ id: "3053e6db-6c8b-4d02-955b-7bd332d840ca"
 title: "Blackboard Jungle"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

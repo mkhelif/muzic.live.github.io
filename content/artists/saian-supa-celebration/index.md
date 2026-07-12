@@ -6,4 +6,13 @@ socials:
   instagram: "saiansupacelebration"
   youtube: "@Ssc-for-ever"
   spotify: "6XaUaXu0cGAFK1AlQkl1b6"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 ---

@@ -3,6 +3,18 @@ id: "4fadc2b9-1235-4154-a0bd-700e8739d2da"
 title: "Alphornbläser"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Les Alphornbläser sont les représentants d'une tradition musicale alpestre parmi les plus anciennes et les plus

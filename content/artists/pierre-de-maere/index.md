@@ -9,6 +9,13 @@ socials:
   x: "iamdonmcqueen"
   tidal: "16099726"
   spotify: "13mm5rU1jvWfWG6uQ46ypd"
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Pierre de Maere est un chanteur belge né à Bruxelles qui a connu une révélation artistique remarquable grâce aux réseaux

@@ -3,6 +3,18 @@ id: "357fe504-9b19-478d-aa36-8c6f9e1f10e8"
 title: "Dead Chic"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Dead Chic est né de la rencontre, en 2020, du guitariste jurassien Damien Félix (connu notamment pour

@@ -3,6 +3,18 @@ id: "657e026b-a7c5-4c3c-b9cf-0c5d2623db97"
 title: "Aälma Dili"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Aälma Dili est un collectif musical français fondé en 2012, qui parcourt la France et l'Europe avec une

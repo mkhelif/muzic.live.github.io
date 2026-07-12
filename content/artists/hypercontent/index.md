@@ -1,6 +1,20 @@
 ---
 id: "6ba02cc4-327c-479c-8106-5e239de35097"
 title: "HYPERCONTENT!"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

@@ -3,6 +3,18 @@ id: "1a28d864-043b-4e7e-ad63-5fe618b1469d"
 title: "ASM"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 ASM — acronyme d'A State of Mind — est un collectif français fondé autour des paroliers et MC Green-T et FP,

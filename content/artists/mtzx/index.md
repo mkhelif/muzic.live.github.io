@@ -10,6 +10,13 @@ socials:
   youtube: "@MTZx_off"
   tidal: "26537491"
   spotify: "38SyTmaiqF8l8gg5SUy1KM"
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 MTZx est un artiste indépendant originaire de Champagnole, dans le département du Jura, apparu sur la scène

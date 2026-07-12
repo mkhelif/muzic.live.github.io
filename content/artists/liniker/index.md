@@ -3,6 +3,18 @@ id: "b3c2be2a-608a-4c1b-9ef9-8868ab85f3f0"
 title: "Liniker"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

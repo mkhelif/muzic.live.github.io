@@ -1,6 +1,20 @@
 ---
 id: "81ca4361-af34-4f7a-8365-577393e2cf3e"
 title: "Christophe Maé"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Christophe Martichon, dit Christophe Maé, est né le 16 octobre 1975 à Carpentras, dans le Vaucluse. Auteur,

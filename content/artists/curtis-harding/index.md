@@ -3,6 +3,18 @@ id: "40ff1897-80c2-46a1-b6be-a6c04290e2f2"
 title: "Curtis Harding"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Curtis Harding est un chanteur et musicien soul américain né le 11 juin 1979 à Saginaw, dans le Michigan, avant que sa

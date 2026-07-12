@@ -7,4 +7,12 @@ socials:
   web: "https://swc-records.com/24-doom-spirit"
   tidal: "15758245"
   spotify: "6xho00kK3t5lHoT45rVQSX"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

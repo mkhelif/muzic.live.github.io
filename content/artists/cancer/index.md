@@ -3,6 +3,18 @@ id: "91678be4-b289-4273-8eaa-ee5ac49df4fc"
 title: "Cancer"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Cancer est un groupe britannique de death metal fondé en 1988 à Ironbridge, dans le Shropshire, par le batteur Carl

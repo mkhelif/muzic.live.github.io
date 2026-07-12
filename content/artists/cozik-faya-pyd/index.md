@@ -1,6 +1,20 @@
 ---
 id: "8209a130-2d60-4050-b8d0-de09ba2734ac"
 title: "Cozik & Faya Pyd"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Cozik et Faya Pyd sont deux artistes bretons qui forment l'un des duos les plus en vue de la nouvelle scène

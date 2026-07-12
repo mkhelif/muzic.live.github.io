@@ -3,6 +3,18 @@ id: "1d6356b1-a9d7-4c38-957d-067cd5c3e50f"
 title: "Avatar"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Avatar est un groupe de metal suédois fondé en 2001 à Mölndal, sous le nom de Lost Soul, par le

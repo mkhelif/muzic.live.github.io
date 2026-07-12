@@ -3,6 +3,18 @@ id: "23a9e179-041a-442e-9826-33fb7380b36e"
 title: "Alex Farell"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Alex Farell est un DJ et producteur britannique né en 2006 à Liverpool, représentant l'une des générations les plus

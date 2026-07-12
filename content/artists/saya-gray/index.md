@@ -9,6 +9,14 @@ socials:
   web: "https://www.sayagray.ca/"
   tidal: "14347717"
   spotify: "4EnymklUyqZwvmHQGlRssl"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Née en 1995 à Toronto, dans le quartier de Beaches, Saya Gray est une artiste canadienne issue d'une famille

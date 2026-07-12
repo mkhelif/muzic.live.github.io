@@ -3,6 +3,18 @@ id: "da033b1a-0f74-41f9-ab9f-f0d59aaf2092"
 title: "Dirkschneider"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Udo Dirkschneider, né le 6 avril 1952 à Wuppertal et installé très tôt à Solingen, en Allemagne, est l'une des voix les

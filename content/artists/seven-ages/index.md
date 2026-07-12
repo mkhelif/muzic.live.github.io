@@ -7,4 +7,12 @@ socials:
   youtube: "@SevenAgesOfficial"
   tidal: "35617476"
   spotify: "1WJOUet0FsExAthFGFTfa1"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

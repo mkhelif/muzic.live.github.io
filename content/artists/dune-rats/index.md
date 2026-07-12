@@ -3,6 +3,18 @@ id: "64cc9bf8-eeb6-4d64-b9a4-f50492d7d1d0"
 title: "Dune Rats"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

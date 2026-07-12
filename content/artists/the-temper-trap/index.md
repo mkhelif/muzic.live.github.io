@@ -33,6 +33,18 @@ members:
         end: 2013
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 The Temper Trap est un groupe de rock indépendant australien formé en 2005 à Melbourne par le chanteur et guitariste

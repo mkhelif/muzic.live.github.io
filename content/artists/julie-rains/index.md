@@ -1,6 +1,20 @@
 ---
 id: "5d1894e9-a934-4586-9a85-669c48917fd4"
 title: "Julie Rains"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

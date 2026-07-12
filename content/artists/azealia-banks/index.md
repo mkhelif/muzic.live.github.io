@@ -3,6 +3,18 @@ id: "c70a6a0e-7ab3-4e8a-9630-735283ffc831"
 title: "Azealia Banks"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Azealia Amanda Banks est une rappeuse, chanteuse et compositrice américaine née le

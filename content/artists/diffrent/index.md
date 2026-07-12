@@ -3,6 +3,18 @@ id: "2f1c029c-1f3f-414d-8850-e191b56937c7"
 title: "Diffrent"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Diffrent est un producteur et DJ autodidacte originaire du sud de l'Allemagne, aujourd'hui installé à Berlin, où il

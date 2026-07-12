@@ -3,6 +3,18 @@ id: "85d8a7bd-3c17-4e3f-bf2c-ffcb729e3874"
 title: "Lewis OfMan"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

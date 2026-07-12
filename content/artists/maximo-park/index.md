@@ -3,6 +3,18 @@ id: "90d8ce1b-4cd3-40c8-ad75-ff870670e516"
 title: "Maximo Park"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Maxïmo Park est un groupe de rock alternatif anglais formé en 2000 à Newcastle upon Tyne. À l'origine, le guitariste

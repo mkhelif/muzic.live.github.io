@@ -4,6 +4,17 @@ title: "Béjart Ballet Lausanne"
 socials:
   instagram: "bejartballetlausanne"
   web: "https://www.bejart.ch/"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Le Béjart Ballet Lausanne (BBL) est l'une des compagnies de danse les plus célèbres au monde, fondée en 1987 par le

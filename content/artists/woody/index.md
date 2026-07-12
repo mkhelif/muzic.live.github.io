@@ -3,6 +3,18 @@ id: "41eae7cd-c141-4971-8aa6-345bcd3e0960"
 title: "Woody"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Woody est une chanteuse franco-britannique dont l'univers musical se situe à la confluence de la pop, du

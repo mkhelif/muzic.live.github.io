@@ -3,6 +3,18 @@ id: "5db72fc0-999c-415f-a8d7-871904ffe8a8"
 title: "Cage Fight"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Cage Fight est un groupe de hardcore londonien fondé en 2021, né comme un projet de chambre avant de

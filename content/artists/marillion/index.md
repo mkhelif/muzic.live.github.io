@@ -5,6 +5,16 @@ socials:
   facebook: ""
   instagram: ""
   web: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add description
   - Verify social networks

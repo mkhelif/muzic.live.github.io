@@ -3,6 +3,18 @@ id: "e9b36bd5-93fe-43a2-84bb-7a9fd39934cc"
 title: "Bonne Nuit"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Bonne Nuit est un duo de new wave et d'électro-pop français originaire de Vendée, aujourd'hui basé à Paris.

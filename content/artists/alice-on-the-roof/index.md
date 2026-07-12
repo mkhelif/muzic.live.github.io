@@ -1,6 +1,20 @@
 ---
 id: "ec881eee-f6c7-415e-841f-65599501765c"
 title: "Alice on the Roof"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

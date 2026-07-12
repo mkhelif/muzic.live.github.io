@@ -1,6 +1,20 @@
 ---
 id: "df21a9c4-2efa-4494-a275-b97873e614d4"
 title: "Bleed From Within"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Bleed From Within est un groupe de metalcore écossais originaire de Glasgow, fondé en 2005, qui s'est imposé

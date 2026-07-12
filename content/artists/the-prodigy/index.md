@@ -34,6 +34,11 @@ socials:
   web: "https://theprodigy.com/"
   tidal: "14596"
   spotify: "4k1ELeJKT1ISyDv8JivPpB"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 The Prodigy est un groupe britannique de musique électronique formé en 1990 à Braintree, dans l'Essex, par le

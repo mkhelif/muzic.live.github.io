@@ -3,6 +3,18 @@ id: "2f398845-d660-4bd3-bf54-4e81cfcd706f"
 title: "Evanescence"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Evanescence est un groupe de gothic metal américain originaire de Little Rock, en Arkansas, formé en 1996 autour de la

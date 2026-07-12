@@ -3,6 +3,18 @@ id: "222c5744-86db-4407-90c3-7d59261d90f2"
 title: "Chris Acosta"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Chris Acosta est un percussionniste et producteur new-yorkais réputé pour son énergie scénique hors du commun et

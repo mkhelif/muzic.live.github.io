@@ -3,6 +3,18 @@ id: "e54cd8e0-36ab-4976-9b4b-e9bdeef1b304"
 title: "Babyshambles"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Babyshambles est un groupe de rock anglais fondé à Londres par Pete Doherty,

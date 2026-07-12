@@ -3,6 +3,18 @@ id: "f1386626-f3e1-4a39-afc8-8de7c4e18a63"
 title: "Cortisa Star"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Cortisa Star, née le 11 juillet 2005, est une rappeuse et mannequin américaine. Née à Baltimore, elle grandit

@@ -14,6 +14,8 @@ socials:
   qobuz: "720145"
   spotify: "3N1B1g6JtIgd6ClRkzD4yT"
   tidal: "3664829"
+  x: ""
+  email: ""
 ---
 
 Certains groupes naissent d'une rencontre. Savatage, lui, naît d'un sang partagé — celui de deux frères de Floride qui

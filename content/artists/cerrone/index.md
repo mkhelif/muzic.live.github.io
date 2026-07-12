@@ -3,6 +3,18 @@ id: "f64c4268-ac3b-450e-ba63-110c8f216d20"
 title: "Cerrone"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Marc Cerrone, dit Cerrone, est né le 24 mai 1952 à Vitry-sur-Seine de parents immigrés italiens ayant fui le

@@ -9,6 +9,12 @@ socials:
   web: "https://www.borisway.com"
   tidal: "4329187"
   spotify: "6B4RvAzPbZcxMjhZvFSDis"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Boris Way est un DJ et producteur français qui émerge sur la scène électronique hexagonale au milieu des années 2010,

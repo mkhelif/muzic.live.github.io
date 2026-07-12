@@ -3,6 +3,18 @@ id: "850f5b6d-c38d-4478-9d1a-67b054c85b4b"
 title: "Clair Obscur: Expedition 33"
 socials:
   web: "https://apaintedsymphony.expedition33.com/"
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 **Clair Obscur: Expedition 33 — A Painted Symphony** est le concert officiel consacré à la musique du jeu vidéo

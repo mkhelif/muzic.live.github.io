@@ -15,6 +15,9 @@ socials:
   spotify: "6HGIo68pNJojy4jcz9uE88"
   tidal: "9254996"
   qobuz: "3374679"
+  tiktok: ""
+  x: ""
+  web: ""
 todo:
   - Add description
 ---

@@ -1,6 +1,20 @@
 ---
 id: "c7a41b99-b3c6-4e6d-9a67-6bfa9d2f181c"
 title: "Alexis Taylor"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

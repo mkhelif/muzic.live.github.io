@@ -37,6 +37,12 @@ socials:
   web: "https://wingsofsteelband.com/"
   tidal: "21163115"
   spotify: "0y43lCvntQtyFlhCABGb0T"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Fondé en 2019 à Los Angeles, Wings of Steel est l'un de ces groupes rares qui semblent surgir du passé pour rappeler à

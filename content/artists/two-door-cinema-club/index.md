@@ -30,6 +30,8 @@ socials:
   spotify: "536BYVgOnRky0xjsPT96zl"
   tidal: "3642290"
   qobuz: "69600"
+  tiktok: ""
+  email: ""
 ---
 
 Two Door Cinema Club est un trio indie rock originaire de Bangor et Donaghadee, en Irlande du Nord, formé en 2007 par

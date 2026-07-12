@@ -7,6 +7,15 @@ socials:
   x: ""
   threads: ""
   youtube: ""
+  tiktok: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

@@ -1,6 +1,20 @@
 ---
 id: "d39a0d4a-d3a7-4783-9028-7e9453aba7a5"
 title: "Mister Cover"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Mister Cover est un groupe de reprises belge, considéré comme une référence incontournable dans le paysage des cover

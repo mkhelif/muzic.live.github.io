@@ -26,6 +26,10 @@ socials:
   deezer: "268295892"
   apple: "1750092191"
   email: "info@spectaclesbonzai.com"
+  tiktok: ""
+  x: ""
+  amazon: ""
+  qobuz: ""
 todo:
   - Add picture
 ---

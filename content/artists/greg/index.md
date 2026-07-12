@@ -1,6 +1,20 @@
 ---
 id: "851c82d2-0879-4884-861a-f209dd295627"
 title: "GЯEG"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 cover: ""
 todo:
   - Add cover

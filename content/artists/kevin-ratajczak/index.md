@@ -7,6 +7,18 @@ birth:
 gender: "male"
 socials:
   instagram: "kevinratajczak"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add socials
 ---

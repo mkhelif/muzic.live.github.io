@@ -3,6 +3,18 @@ id: "147c31d3-41f8-4529-82e9-4c017e35ae99"
 title: "Oliver Heldens"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

@@ -3,6 +3,18 @@ id: "64d85df7-7866-4440-b07b-27ff5676bd1d"
 title: "Deliverance"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Deliverance est un groupe de metal extrême français originaire d'Île-de-France, fondé en 2012 par

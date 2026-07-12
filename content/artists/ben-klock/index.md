@@ -3,6 +3,18 @@ id: "1fdd261e-41e3-484f-ab3c-f15f797cdeb0"
 title: "Ben Klock"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Ben Klock est un DJ et producteur de techno né en 1972 dans le quartier de Schöneberg, à Berlin-Ouest. Pilier de la

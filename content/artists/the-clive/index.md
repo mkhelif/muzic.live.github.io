@@ -10,4 +10,10 @@ socials:
   web: "https://www.the-clive.com/"
   tidal: "7779755"
   spotify: "47yrP8BFVfdiWrKkcgoHmh"
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

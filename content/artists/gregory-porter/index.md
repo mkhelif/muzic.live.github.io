@@ -13,6 +13,9 @@ socials:
   amazon: "B003JYH7WI"
   apple: "3437037"
   email: "paul@wingsmusic.com"
+  tiktok: ""
+  deezer: ""
+  qobuz: ""
 todo:
   - Add picture from concert
 ---

@@ -1,6 +1,20 @@
 ---
 id: "4f7db108-d174-49ab-abda-7e6177ff4517"
 title: "Puggy"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Puggy est un trio pop rock cosmopolite formé en 2004 sur les bancs de l'école Jazz Studio d'Anvers, composé du

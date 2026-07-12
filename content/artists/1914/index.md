@@ -3,6 +3,18 @@ id: "ea091e2b-e77d-49a7-9f7b-69bba3562dd1"
 title: "1914"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 1914 est un groupe de metal ukrainien fondé en 2014 à Lviv, dans l'ouest de l'Ukraine, par le guitariste et

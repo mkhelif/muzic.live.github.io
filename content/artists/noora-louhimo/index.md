@@ -10,4 +10,10 @@ socials:
   web: "https://nooralouhimo.com/"
   email: "helmi@livelaughlind.fi"
   spotify: "1sohI3zY96pI2KJICKOYBA"
+  x: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 ---

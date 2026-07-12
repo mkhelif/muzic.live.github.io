@@ -3,6 +3,18 @@ id: "9922ffbb-2982-4882-8296-832ddbcb6a3c"
 title: "200 Stab Wounds"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

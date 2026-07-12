@@ -3,6 +3,18 @@ id: "1c845ec6-4664-49a2-add5-d161dea928f8"
 title: "Amajee"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 Amajee est un producteur et artiste français évoluant dans les zones de friction entre la musique électronique, le dub et les musiques expérimentales. Son univers sonore se distingue par des atmosphères sombres et envoûtantes, où des textures électroniques denses côtoient des basses profondes et impactantes, dans une esthétique à mi-chemin entre le bass music underground et des influences plus aériennes.
 

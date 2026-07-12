@@ -3,6 +3,18 @@ id: "395c754f-7add-4513-b8be-45af12fd50d4"
 title: "The Hives"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 The Hives sont un groupe de garage rock suédois formé en 1993 à Fagersta, une petite ville industrielle du centre de

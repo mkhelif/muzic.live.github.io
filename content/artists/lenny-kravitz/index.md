@@ -3,6 +3,18 @@ id: "7859f4f7-78df-485d-b2d6-e1cffecac9de"
 title: "Lenny Kravitz"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Lenny Kravitz, né le 26 mai 1964 à New York, est un musicien américain célébré pour sa capacité à fusionner rock,

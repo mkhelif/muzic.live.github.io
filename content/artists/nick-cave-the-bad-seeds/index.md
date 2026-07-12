@@ -3,6 +3,18 @@ id: "d6898f85-1792-4c31-9281-8aea914def30"
 title: "Nick Cave & The Bad Seeds"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Nick Cave & The Bad Seeds est un groupe de rock australo-britannique formé en 1983 à Londres par le chanteur et

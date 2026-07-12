@@ -8,6 +8,15 @@ socials:
   soundcloud: "tendinista"
   tidal: "37666318"
   spotify: "5doHU1hTBvF6XEFxLfTMoE"
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Tendinista est un groupe originaire de Nyon, en Suisse, réunissant Rod Haener, Mathieu Karcher, Laurent Nicolas

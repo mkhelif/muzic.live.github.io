@@ -3,6 +3,18 @@ id: "6260e84b-f93e-4dd3-ac85-2985ec9cc8f5"
 title: "Annie Lalalove"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 Annie Lalalove est une chanteuse, auteure-compositrice et bassiste française au profil résolument atypique. Née le 23 janvier 1981 à Abidjan, en Côte d'Ivoire, d'une mère guinéenne et d'un père breton, elle grandit au fil des déplacements de sa famille à travers l'Afrique — Éthiopie, Guinée, La Réunion — avant de poser ses valises en France métropolitaine. Ce parcours de vie entre deux mondes forge une sensibilité musicale riche et plurielle, à la croisée des musiques du monde, de la soul, du jazz et de la chanson.
 

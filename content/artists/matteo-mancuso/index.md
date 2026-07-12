@@ -9,6 +9,12 @@ socials:
   web: "https://www.matteomancuso.net/"
   tidal: "6346354"
   spotify: "4EEBpppjtPFQYlmXoZu8z1"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Matteo Mancuso surgit de Sicile comme un météore guitaristique, bouleversant tous les codes établis avec une technique

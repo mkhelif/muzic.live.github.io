@@ -1,6 +1,20 @@
 ---
 id: "5e01b460-6d0a-481d-aeb1-daf8466613c2"
 title: "AKA"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

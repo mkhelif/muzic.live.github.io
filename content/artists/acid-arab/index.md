@@ -1,6 +1,20 @@
 ---
 id: "0d8e8aca-acd8-4588-a6c9-e288bff88ed4"
 title: "Acid Arab"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 cover: ""
 todo:
   - Add cover

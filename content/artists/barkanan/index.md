@@ -3,6 +3,18 @@ id: "26a74e65-51fa-4ba8-a9cd-3e8f241c66a7"
 title: "Barkanan"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Barkanan est un duo de folk français formé par deux frères, Ianis et Léo, originaires

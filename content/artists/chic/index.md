@@ -3,6 +3,18 @@ id: "77f45df2-2675-4a1c-a1d2-ebcac0e21288"
 title: "CHIC"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 CHIC est un groupe américain de disco et funk formé à New York en 1976 par le guitariste Nile Rodgers et le

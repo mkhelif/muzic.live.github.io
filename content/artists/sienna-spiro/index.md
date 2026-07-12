@@ -3,6 +3,18 @@ id: "eab7d010-05c4-4178-9e1f-f20c6c2e5909"
 title: "Sienna Spiro"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

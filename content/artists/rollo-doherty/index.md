@@ -7,4 +7,12 @@ socials:
   web: "https://www.rollodoherty.com/"
   tidal: "14242226"
   spotify: "3HSOC7Dut8eVyUsBugbuex"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

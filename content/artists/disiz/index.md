@@ -3,6 +3,18 @@ id: "2daaab87-62b4-43f2-b950-450266800867"
 title: "disiz"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Sérigne M'Baye Gueye, connu sous le nom de Disiz (anciennement Disiz la Peste), est un rappeur et acteur français né le

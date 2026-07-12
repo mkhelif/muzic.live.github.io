@@ -1,6 +1,20 @@
 ---
 id: "8ff21a39-0ae7-41d7-a0a2-da03bcf093a9"
 title: "Asdek"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Asdek est un producteur et DJ français dont le projet musical prend forme à Montpellier en 2012. Depuis lors,

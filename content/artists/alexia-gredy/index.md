@@ -3,6 +3,18 @@ id: "6dc49a85-d5b7-4600-a6f9-1aa66f8a32b4"
 title: "Alexia Gredy"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Alexia Gredy est une chanteuse et compositrice française originaire de Mulhouse, en Alsace, qui s'est imposée comme

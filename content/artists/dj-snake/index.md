@@ -3,6 +3,18 @@ id: "798f598b-dde1-4824-b532-6dad7c922859"
 title: "DJ Snake"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 William Sami Étienne Grigahcine, alias DJ Snake, né le 13 juin 1986 à Paris d'un père français et d'une mère algérienne,

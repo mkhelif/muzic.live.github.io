@@ -1,6 +1,20 @@
 ---
 id: "18e7cbf5-d596-4490-9e40-ee9fbaa48156"
 title: "Panache & Grabuge"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Panache & Grabuge est un duo électro fusion formé à Bruxelles en 2024 par Antoine Flippo, également connu pour ses

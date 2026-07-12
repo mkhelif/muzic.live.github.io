@@ -36,4 +36,10 @@ socials:
   web: "https://kraftklub.to/"
   tidal: "4384552"
   spotify: "0MZ55DwuMQ1B2TXq9lcrE4"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

@@ -3,6 +3,18 @@ id: "0ac41b44-d3a1-470f-aaed-8ff24f1b43e9"
 title: "Lomepal"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

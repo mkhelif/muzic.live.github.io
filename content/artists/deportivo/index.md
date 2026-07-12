@@ -47,6 +47,9 @@ socials:
   spotify: "7k8b9tyD9a0WEoPgidHrGK"
   tidal: "41940065"
   email: "lilian.rispal@w-live.fr"
+  tiktok: ""
+  x: ""
+  web: ""
 ---
 
 Trois gamins de Bois-d'Arcy, dans les Yvelines, qui se retrouvent dans une cour d'école à sept ans, passionnés de foot

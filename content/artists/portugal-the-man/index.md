@@ -45,6 +45,11 @@ socials:
   web: "https://portugaltheman.com/"
   tidal: "3923470"
   spotify: "4kI8Ie27vjvonwaB2ePh8T"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 todo:
   - Update cover with concert picture
 ---

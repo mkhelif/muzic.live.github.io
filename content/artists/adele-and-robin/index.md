@@ -3,6 +3,18 @@ id: "72e05a57-744d-47f9-9c9d-349148e58ce5"
 title: "Adèle & Robin"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Adèle & Robin est un duo de chanson française formé à Grenoble, révélation attachante de la nouvelle variété

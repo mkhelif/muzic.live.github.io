@@ -3,6 +3,18 @@ id: "b81ea84e-e89e-42bd-9fdf-e8674fb70ea2"
 title: "Helen Island"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add detailed description
   - Verify social networks

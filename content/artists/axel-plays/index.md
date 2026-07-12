@@ -3,6 +3,18 @@ id: "d67f91e7-24d7-4a62-92fd-c8815915d38a"
 title: "Axel Plays"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Axel Plays est un artiste musical dont le projet se construit autour des scènes live et de la création

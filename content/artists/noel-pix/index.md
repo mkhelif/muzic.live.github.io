@@ -3,6 +3,18 @@ id: "ffcc0e73-09a8-4983-8492-1d4f6502d4fc"
 title: "Noel Pix"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

@@ -3,6 +3,18 @@ id: "d9858891-4e1a-44ca-9671-54ec4077036d"
 title: "Balthazar"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Balthazar est un groupe de rock indie belge originaire de Courtrai (Kortrijk), en

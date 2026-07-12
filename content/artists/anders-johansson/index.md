@@ -3,6 +3,18 @@ id: "29ce1bd3-7c1a-4b53-ba6b-77c15fae2d7f"
 title: "Anders Johansson"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

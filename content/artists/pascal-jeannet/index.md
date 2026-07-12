@@ -3,6 +3,18 @@ id: "b27e1b52-381a-4c63-9494-01f8faf5abdf"
 title: "Pascal Jeannet"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add description/picture/socials
 ---

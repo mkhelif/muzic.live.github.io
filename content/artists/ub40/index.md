@@ -66,6 +66,11 @@ socials:
   web: "https://ub40.global/"
   tidal: "9703"
   spotify: "69MEO1AADKg1IZrq2XLzo5"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 UB40 est un groupe britannique formé en 1978 à Birmingham, qui a porté le reggae britannique au sommet des charts

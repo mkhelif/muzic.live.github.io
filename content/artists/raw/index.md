@@ -7,4 +7,13 @@ socials:
   bandcamp: "r-a-w"
   youtube: "@labellemecanique9553"
   web: "https://www.r-a-w.ch"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---

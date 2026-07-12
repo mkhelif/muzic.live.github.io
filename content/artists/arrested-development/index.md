@@ -3,6 +3,18 @@ id: "40ed0fbb-1b6d-4ee7-be74-af8f8b99c32c"
 title: "Arrested Development"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Arrested Development est un groupe de hip-hop américain fondé en 1988 à Atlanta, en Géorgie, par le rappeur

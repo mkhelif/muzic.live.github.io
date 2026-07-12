@@ -3,6 +3,18 @@ id: "ce4b68c4-6ee0-4f77-91b3-92d09706c0b1"
 title: "The Neighbourhood"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

@@ -3,6 +3,18 @@ id: "48040970-34e1-4baf-a183-ca8ca11fc066"
 title: "Esoteric"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Esoteric est un groupe anglais de funeral doom metal originaire de Birmingham, fondé en juillet 1992 par le chanteur

@@ -19,6 +19,13 @@ socials:
   web: "https://www.jahneration.com"
   tidal: "7599364"
   spotify: "5bOhzprOaEJCn7YKslBolr"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Jahneration est un groupe de reggae français formé en 2008 dans la région parisienne, né de la rencontre de musiciens

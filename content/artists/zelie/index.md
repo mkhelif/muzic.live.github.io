@@ -3,6 +3,18 @@ id: "f1a9183f-c976-4dec-b189-bc1063907b8f"
 title: "Zélie"
 socials:
   instagram: "zelie"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Zélie incarne une nouvelle vague d'artistes français qui conjuguent introspection, modernité et exigence d'écriture. À

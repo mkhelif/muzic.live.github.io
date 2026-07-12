@@ -3,6 +3,18 @@ id: "fcbb337c-1001-4380-8b75-97509c6c0a55"
 title: "Adam Angst"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Adam Angst est un groupe de punk rock allemand fondé en 2014, dont la musique renoue avec les racines

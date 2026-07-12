@@ -3,6 +3,18 @@ id: "df80ef6e-0e5f-4512-ae17-d2f49e6addd7"
 title: "AFTER GEOGRAPHY"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 After Geography est un quartet de pop rock français dont le nom évoque à lui seul une certaine idée du voyage musical.

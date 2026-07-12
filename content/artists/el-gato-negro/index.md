@@ -10,6 +10,13 @@ socials:
   web: "http://gatonegrotropical.com/"
   tidal: "42097218"
   spotify: "4Dt6KxesVwSSGdwmFAZ89b"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 El Gato Negro est un projet musical français qui émerge sur la scène alternative hexagonale avec une approche

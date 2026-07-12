@@ -3,6 +3,18 @@ id: "fbc474d3-2053-4e8b-9c36-c2dbff6edd81"
 title: "Dabeull"
 socials:
   instagram: "dabeull"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Dabeull, de son vrai nom **David Saïd**, est un chanteur et producteur parisien, considéré comme l'une des figures de

@@ -8,6 +8,14 @@ socials:
   youtube: "@HBurnsOfficial"
   tidal: "3923677"
   spotify: "5Jd4dFTFgTta5lqPvamjZn"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 H-Burns, de son vrai nom Renaud Rebillaud, est un chanteur-compositeur français qui émerge sur la scène indie-folk

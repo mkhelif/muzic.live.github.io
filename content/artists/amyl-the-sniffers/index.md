@@ -3,6 +3,18 @@ id: "276ee5df-36d9-453c-aac3-8cc564b1c202"
 title: "Amyl & The Sniffers"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 Amyl & The Sniffers est la réponse australienne à tous ceux qui pensaient que le punk rock avait dit son dernier mot. Énergiques, bruts, irrésistiblement dansants et profondément sincères, ce quatuor de Melbourne a rallumé la mèche du pub rock et du punk avec une intensité rare, s'imposant en quelques années comme l'un des groupes live les plus electrisants de la planète.
 

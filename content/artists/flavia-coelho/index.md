@@ -9,6 +9,13 @@ socials:
   youtube: "@FlaviaCoelhoMusic"
   tidal: "4102226"
   spotify: "4Lu4jDj4ky1wxvRDgL90tc"
+  tiktok: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Flavia Coelho est une chanteuse brésilienne installée en France, qui émerge sur la scène world music européenne avec une

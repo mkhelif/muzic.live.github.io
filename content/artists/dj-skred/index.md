@@ -5,5 +5,16 @@ socials:
   facebook: "djskred"
   instagram: "djskred"
   soundcloud: "djskred"
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 

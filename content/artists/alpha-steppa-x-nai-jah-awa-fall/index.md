@@ -3,6 +3,18 @@ id: "0d8901b9-7d80-4ee2-94b8-3bbb234fb190"
 title: "Alpha Steppa x Nai-Jah & Awa Fall"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Alpha Steppa x Nai-Jah & Awa Fall réunit sur scène trois figures majeures de la scène reggae et dub européenne, chacune

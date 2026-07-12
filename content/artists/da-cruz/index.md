@@ -32,6 +32,12 @@ socials:
   web: "https://dacruzmusic.com/"
   tidal: "3563842"
   spotify: "4FsbFft3B8asl2fTPfW52M"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Da Cruz est un groupe français de reggae-hip-hop formé à Lyon dans les années 90, né de la rencontre entre musiciens

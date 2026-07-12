@@ -3,6 +3,18 @@ id: "c3b291c9-6318-46b6-aae9-f5fb8cc593d3"
 title: "Jeannette & Maj"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Jeannette & MAJ (Mise à Jour) est un duo musical français originaire des Hauts-de-France, né d'une passion commune

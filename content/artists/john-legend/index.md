@@ -15,6 +15,7 @@ socials:
   amazon: "B000QJIC2I"
   apple: "16586443"
   qobuz: "65031"
+  email: ""
 todo:
   - Add picture from concert
 ---

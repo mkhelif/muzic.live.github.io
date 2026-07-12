@@ -13,6 +13,8 @@ socials:
   qobuz: "16543595"
   spotify: "2MBvn4Y3ugNmUlWp1W65QL"
   tidal: "35867573"
+  facebook: ""
+  email: ""
 ---
 
 Anaïs MVA est une autrice-compositrice-interprète française révélée par une pop introspective et bouleversante de

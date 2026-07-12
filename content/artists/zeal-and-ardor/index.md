@@ -3,6 +3,18 @@ id: "2bf973a7-f61f-46cd-991f-020fd9ad02bf"
 title: "Zeal & Ardor"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

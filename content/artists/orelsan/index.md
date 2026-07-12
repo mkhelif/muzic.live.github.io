@@ -10,6 +10,11 @@ socials:
   web: "https://orelsan.show/"
   tidal: "4631130"
   spotify: "4FpJcNgOvIpSBeJgRg3OfN"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Il a longtemps joué le rôle du type normal dépassé par le monde — le procrastinateur ironique, le gamer insomniaque, le

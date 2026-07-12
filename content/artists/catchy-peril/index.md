@@ -11,6 +11,11 @@ socials:
   deezer: "252164612"
   spotify: "2xMbp10jFcZpufftJzB89Y"
   tidal: "45341027"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  qobuz: ""
 ---
 
 « Je voulais que ce soit fun et accrocheur » — voilà un souhait exaucé pour Benjamin Delair, leader du bien nommé Catchy

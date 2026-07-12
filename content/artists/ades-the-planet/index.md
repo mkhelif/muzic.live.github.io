@@ -3,6 +3,18 @@ id: "8af5105d-a3c7-4ec3-83f3-9bdf47cc6592"
 title: "Adés The Planet"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Adés The Planet, de son vrai nom Adé, est une artiste franco-ivoirienne qui fusionne rap et trap dans une écriture

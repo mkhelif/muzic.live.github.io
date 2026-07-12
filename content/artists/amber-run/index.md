@@ -3,6 +3,18 @@ id: "273b5703-1833-41cb-80ed-750863612369"
 title: "Amber Run"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 Originaires de Nottingham, Amber Run sont l'un des groupes indie rock britanniques les plus touchants de leur génération. Portés par des mélodies sincères, des paroles introspectives et une production soignée, ils ont su trouver un public fidèle et international sans jamais renoncer à leur authenticité.
 

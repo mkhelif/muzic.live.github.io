@@ -4,6 +4,17 @@ title: "Michel Polnareff"
 socials:
   instagram: "michelpolnareff"
   x: "MICHELPOLNAREFF"
+  facebook: ""
+  tiktok: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Michel Polnareff est un auteur-compositeur-interprète français né le 3 juillet 1944 à Nérac, dans le Lot-et-Garonne.

@@ -3,6 +3,18 @@ id: "513e1419-f2ee-499b-a1a6-d172c2136ecf"
 title: "Don West"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Don West est un musicien soul australien originaire de Sydney, dont la voix chaleureuse et l'écriture directement

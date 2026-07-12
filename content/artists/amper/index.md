@@ -3,6 +3,18 @@ id: "930fddec-4c8e-45a3-8760-9b5ead893184"
 title: "Amper"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Amper est un rappeur français originaire de la région Grand Est, représentatif d'une nouvelle génération de rap

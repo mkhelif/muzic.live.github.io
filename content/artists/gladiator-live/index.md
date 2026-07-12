@@ -3,6 +3,18 @@ id: "10d777a9-884c-4102-aa83-ade675cac028"
 title: "Gladiator Live"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 **Gladiator Live** est un ciné-concert qui propose la projection du film culte de Ridley Scott, *Gladiator* (2000),

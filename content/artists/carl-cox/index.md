@@ -3,6 +3,18 @@ id: "c844a8c3-8c59-426d-abfc-f7a755bcd96e"
 title: "Carl Cox"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Carl Andrew Cox, né le 29 juillet 1962 dans le Grand Manchester et d'origine barbadienne, est l'une des figures les

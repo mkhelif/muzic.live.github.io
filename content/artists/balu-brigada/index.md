@@ -3,6 +3,18 @@ id: "d05cc3e1-35f1-4c3c-9cc0-6bc96f21a12e"
 title: "Balu Brigada"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Balu Brigada est un duo de pop alternative originaire d'Auckland, en Nouvelle-Zélande, composé des frères Henry et

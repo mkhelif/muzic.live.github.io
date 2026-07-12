@@ -1,6 +1,20 @@
 ---
 id: "b2775aa2-1ca5-40f7-89a7-5dd64fa107d8"
 title: "Amelie Lens"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add socials
   - Add cover

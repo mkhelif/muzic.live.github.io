@@ -3,6 +3,18 @@ id: "04bb275d-b5bf-4e1c-98d5-e5bdf6402dbd"
 title: "Braises de Velours"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Braises de Velours est une artiste DJ et productrice suisse d'origine dominicaine, figure montante de la

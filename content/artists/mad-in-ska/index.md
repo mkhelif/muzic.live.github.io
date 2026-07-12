@@ -8,6 +8,13 @@ socials:
   web: "https://www.madinska.com/"
   tidal: "7055673"
   spotify: "68Rr4qBMDLMHZkcs8DieQ0"
+  tiktok: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Qu'il est loin le temps de la première répète... Cet été 2008 au cours duquel des amis se sont réunis dans un petit

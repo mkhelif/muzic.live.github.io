@@ -3,6 +3,18 @@ id: "97dadd8e-0230-49bc-9da5-b2cb7ff19c33"
 title: "Editors"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Editors est un groupe de rock anglais formé en 2002 à Birmingham par des étudiants de l'université de Staffordshire.

@@ -3,6 +3,18 @@ id: "2c068133-e5d1-4281-8528-e0e93f4b1049"
 title: "Clasijazz big band"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Le Clasijazz Big Band est né dans le cadre du projet Clasijazz, association espagnole pionnière dans la diffusion du

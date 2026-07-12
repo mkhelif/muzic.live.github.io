@@ -3,6 +3,18 @@ id: "e1be4703-c738-4970-95d3-15cc09de2eea"
 title: "Alice Costelloe"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Alice Costelloe est une musicienne et autrice-compositrice originaire de Londres, connue pour son passé au sein du

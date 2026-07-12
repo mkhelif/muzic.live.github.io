@@ -3,6 +3,18 @@ id: "d808b484-648d-419c-8ca4-c5cf0729cbe4"
 title: "Renée Rapp"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Renée Rapp, née le 10 janvier 2000, est une chanteuse et actrice américaine originaire de Huntersville, en Caroline du

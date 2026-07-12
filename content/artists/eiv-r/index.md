@@ -3,6 +3,18 @@ id: "916d4dbc-aa1b-4b4b-a971-ee8daab41931"
 title: "Eivør"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Eivør Pálsdóttir, connue simplement sous le nom d'Eivør, est une chanteuse, autrice-compositrice et musicienne

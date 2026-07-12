@@ -12,6 +12,11 @@ socials:
   web: "https://www.jasonderulo.com/"
   tidal: "3851664"
   spotify: "07YZf4WDAMNwqr4jfgOZ8y"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Jason Derulo est un chanteur, danseur et compositeur américain né en Floride en 1989, qui s'est imposé comme l'une des

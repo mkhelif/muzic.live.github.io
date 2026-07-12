@@ -5,6 +5,16 @@ socials:
   facebook: ""
   instagram: "gracieabrams"
   x: "gracieabrams"
+  tiktok: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify social networks

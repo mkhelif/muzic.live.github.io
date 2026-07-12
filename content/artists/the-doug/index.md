@@ -9,4 +9,11 @@ socials:
   youtube: "@TheDoug_edn"
   tidal: "14638162"
   spotify: "1AT7xbkG9hKbNlvGfZtA7S"
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

@@ -3,6 +3,18 @@ id: "b30aedf0-d7df-4468-8dbc-be85cd4bf107"
 title: "Doobie"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Doobie est un musicien américain originaire de l'Ohio qui mêle hip-hop, grunge et rock dans un style hybride et

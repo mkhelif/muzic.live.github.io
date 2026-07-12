@@ -3,6 +3,18 @@ id: "a3a3f5ed-2688-403a-aba6-4d95c1abc3a4"
 title: "Adrienne Pauly"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Adrienne Pauly est une artiste française née le 30 mai 1977 à Clamart, à la fois comédienne et chanteuse pop-rock. Issue

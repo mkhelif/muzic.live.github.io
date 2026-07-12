@@ -3,6 +3,18 @@ id: "259604b1-b6e7-484d-b952-8d6a9ee0c9fd"
 title: "Aloïse Sauvage"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Aloïse Sauvage est une artiste française pluridisciplinaire née le 25 septembre 1992 au Mée-sur-Seine, en

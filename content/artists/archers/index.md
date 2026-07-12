@@ -3,6 +3,18 @@ id: "c3d86f58-f951-4efb-a575-77a3daeaa8fc"
 title: "Archers"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Archers est un groupe américain de metalcore originaire de Madison, dans le Wisconsin, fondé vers 2015 par le

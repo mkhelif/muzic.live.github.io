@@ -6,6 +6,15 @@ socials:
   web: "https://www.franciscabrel.com/"
   tidal: "797"
   spotify: "5uo5NwSONVNfvSHHMQrHAv"
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Francis Cabrel naît le 23 novembre 1953 à Agen, dans une famille modeste où la musique occupe une place importante grâce

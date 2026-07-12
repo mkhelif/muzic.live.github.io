@@ -76,6 +76,11 @@ socials:
   web: "https://www.nothingmore.net"
   tidal: "5485751"
   spotify: "39VNwvlQTqE9SvgPjjnMpc"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Nothing More incarne la nouvelle vague du rock alternatif américain, mêlant habilement agressivité metal, mélodies

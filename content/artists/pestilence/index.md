@@ -3,6 +3,18 @@ id: "1fb1984d-2d86-46c9-a9fa-70e6788a84e0"
 title: "Pestilence"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

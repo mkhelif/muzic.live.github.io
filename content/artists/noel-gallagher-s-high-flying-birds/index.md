@@ -3,6 +3,18 @@ id: "041c734a-621c-46f1-af42-cb18fa8d5130"
 title: "Noel Gallagher's High Flying Birds"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

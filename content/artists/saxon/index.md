@@ -94,6 +94,12 @@ socials:
   web: "https://www.saxon747.com"
   tidal: "10370"
   spotify: "71vVmHeNgCVSa5SVmfvscU"
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Saxon incarne l'essence de la New Wave of British Heavy Metal (NWOBHM), ce mouvement qui, à la fin des années 1970, a

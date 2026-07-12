@@ -7,4 +7,13 @@ socials:
   bandcamp: "climaxmusic"
   youtube: "@climax-music-ch"
   web: "https://www.climaxmusic.ch/"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---

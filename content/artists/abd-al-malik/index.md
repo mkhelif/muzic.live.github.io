@@ -3,6 +3,18 @@ id: "f1e35ffd-2f19-40b6-9808-c0fff17d7435"
 title: "Abd al Malik"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Abd al Malik, né Régis Fayette-Mikano le 14 mars 1975 à Paris (14e arrondissement) d'un père haut fonctionnaire

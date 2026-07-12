@@ -7,6 +7,15 @@ socials:
   bandcamp: "xoxoviolence"
   apple: "1740358960"
   spotify: "1aIubMSIRI3qYQSSqyctVu"
+  facebook: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 todo:
   - Add detailed description
 ---

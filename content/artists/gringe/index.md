@@ -8,6 +8,13 @@ socials:
   youtube: "@GringeOfficiel"
   tidal: "4725215"
   spotify: "4oVERQ0AxzzQ4zip1nMKlt"
+  tiktok: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Gringe, de son vrai nom Guillaume Tranchant, est un rappeur français membre du duo Casseurs Flowters avec Orelsan, qui

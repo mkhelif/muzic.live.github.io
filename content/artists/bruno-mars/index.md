@@ -3,6 +3,18 @@ id: "576bf5f2-a384-4b84-a034-fa57fa72404b"
 title: "Bruno Mars"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Bruno Mars, de son vrai nom Peter Gene Hernandez, est un chanteur, auteur-compositeur, producteur et

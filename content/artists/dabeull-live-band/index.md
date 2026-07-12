@@ -3,6 +3,18 @@ id: "4549309b-b7f2-4c26-844f-ee91a6727317"
 title: "Dabeull Live Band"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Dabeull, de son vrai nom David Saïd, est né le 9 août 1985 à Paris. Producteur, chanteur et DJ, il

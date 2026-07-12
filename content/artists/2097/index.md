@@ -41,6 +41,13 @@ socials:
   youtube: "@2097_band"
   web: "https://2097.fr/"
   tidal: "21889863"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
 todo:
   - Add picture from concert
 ---

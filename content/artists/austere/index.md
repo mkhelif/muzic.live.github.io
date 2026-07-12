@@ -3,6 +3,18 @@ id: "8dc56785-18db-413c-9a79-e658a2a577e3"
 title: "Austere"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Austere est un groupe de black metal dépressif australien originaire d'East Corrimal, en

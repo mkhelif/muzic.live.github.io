@@ -14,6 +14,7 @@ socials:
   spotify: "2r78U7GOo9XMOVbpFkXtYD"
   tidal: "4532908"
   web: "https://maureen-queen.com/"
+  email: ""
 ---
 
 Certains artistes se construisent patiemment, brique par brique, pendant des années. Maureen, elle, a connu

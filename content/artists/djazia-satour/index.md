@@ -3,6 +3,18 @@ id: "558090a9-4e01-42f8-8302-0d7c612592eb"
 title: "Djazia Satour"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Djazia Satour est une autrice-compositrice-interprète et guitariste française née le 9 décembre 1980 à Alger.

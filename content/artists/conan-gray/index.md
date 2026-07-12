@@ -3,6 +3,18 @@ id: "dd8f502b-e369-4537-8081-02ff19f23ccc"
 title: "Conan Gray"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Conan Gray est un chanteur, compositeur et multi-instrumentiste américain né le 5 décembre 1998 à Lemon Grove,

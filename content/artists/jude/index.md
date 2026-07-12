@@ -6,6 +6,17 @@ socials:
   threads: "@jude_wav"
   soundcloud: "jude_wav"
   email: "jude.wav@gmail.com"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Certains DJ arrivent à la console par la danse, d'autres par la production, d'autres encore par des années de clubbing

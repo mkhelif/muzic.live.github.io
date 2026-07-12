@@ -3,6 +3,18 @@ id: "bb21ad43-082e-4753-b262-83e09d4b687b"
 title: "The Parov Stelar Band"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

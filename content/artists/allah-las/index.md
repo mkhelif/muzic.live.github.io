@@ -3,6 +3,18 @@ id: "2595a2a6-0529-42d6-96a0-9dde08d9d200"
 title: "Allah-Las"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Allah-Las est un groupe de rock psychédélique et garage rock fondé en 2008 à Los Angeles, Californie. Composé de Miles

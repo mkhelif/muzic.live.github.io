@@ -3,6 +3,18 @@ id: "c89ef059-89ac-4b81-adb4-e09b9560772b"
 title: "Heart Attack Man"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

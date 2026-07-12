@@ -8,6 +8,13 @@ socials:
   web: "https://marceletsonorchestre.com/"
   tidal: "3954658"
   spotify: "5YdOZp94WgelKxaAlQ2j7y"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 todo:
   - Add picture from concert
 ---

@@ -1,6 +1,20 @@
 ---
 id: "2e3c63f3-b54d-40bc-b60d-7f8b0e18039d"
 title: "Carlala"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 cover: ""
 ---
 

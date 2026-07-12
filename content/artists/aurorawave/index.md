@@ -3,6 +3,18 @@ id: "d6142bbe-0024-4871-9d18-d8c918e11d51"
 title: "Aurorawave"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Aurorawave est un groupe de rock américain né de l'imagination de Nathan Feinstein (également connu sous le nom Nathan

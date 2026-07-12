@@ -3,6 +3,18 @@ id: "bbb0a3d7-7f7b-4c87-b307-3e7653fd176d"
 title: "Charles Lloyd"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Charles Lloyd est né le 15 mars 1938 à Memphis, Tennessee, dans un foyer imprégné par le blues, le gospel et le

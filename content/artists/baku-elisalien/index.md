@@ -3,6 +3,18 @@ id: "2fc28443-2a5b-4ca4-893e-55313ac77d12"
 title: "Bakû & Elisalien"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Bakû & Elisalien forment un duo audiovisuel lyonnais où se répondent musique électronique sombre et création visuelle

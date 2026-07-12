@@ -7,4 +7,13 @@ socials:
   youtube: "@fatjeffblues"
   tidal: "21162452"
   spotify: "7BVnaWtPz0v3VwDhaNpVLA"
+  instagram: ""
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

@@ -11,6 +11,11 @@ socials:
   web: "https://www.ash-music.com/"
   tidal: "30190973"
   spotify: "4nkuNzBcYGlNmAqFWbHLqS"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 De son vrai nom Ashraf Moawad, ASH est un multi-instrumentiste, producteur et compositeur né au Caire, aujourd'hui basé

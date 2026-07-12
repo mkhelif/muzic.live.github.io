@@ -3,6 +3,18 @@ id: "7af5c839-9b17-4921-b785-a45f6c8f0c23"
 title: "Courtney Barnett"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Courtney Melba Barnett est née le 3 novembre 1987 à Sydney, dans le quartier des Northern Beaches. Après

@@ -14,6 +14,10 @@ socials:
   qobuz: "21430103"
   email: "laflemmeband@gmail.com"
   phone: "+33625200788"
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
 ---
 
 Il y a dans le nom de ce groupe une sorte de blague initiale — une manière de déjouer les attentes dès la première

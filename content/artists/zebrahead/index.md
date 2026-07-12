@@ -53,6 +53,14 @@ socials:
   threads: "@zebraheadofficial"
   youtube: "@Zebraheadofficial"
   web: "https://zebrahead.com/"
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 *We came here to do 2 things... kick ass and chew bubble gum... and we're all out of bubble gum.* Cette phrase, que le

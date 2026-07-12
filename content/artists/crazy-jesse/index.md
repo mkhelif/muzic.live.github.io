@@ -8,6 +8,14 @@ socials:
   youtube: "@crazyjesse6480"
   web: "https://www.crazyjesse-band.com/"
   spotify: "2UzMkB2UHfuCL4esZR9wJE"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 ---
 
 Crazy Jesse est un musicien français qui émerge sur la scène rock blues hexagonale avec une approche authentique et

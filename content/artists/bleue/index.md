@@ -1,6 +1,20 @@
 ---
 id: "791073c1-0ac2-49f1-90b4-1cb775ddbdca"
 title: "Bleue"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 cover: ""
 ---
 

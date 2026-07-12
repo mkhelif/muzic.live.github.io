@@ -3,6 +3,18 @@ id: "90110f4a-c427-4bfd-bf51-208e565bb5a7"
 title: "Pop Evil"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Pop Evil est un groupe de hard rock américain fondé en 2001 à North Muskegon, dans le Michigan, par le

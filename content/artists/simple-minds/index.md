@@ -11,6 +11,11 @@ socials:
   web: "https://www.simpleminds.com/"
   tidal: "9125"
   spotify: "6hN9F0iuULZYWXppob22Aj"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Simple Minds est un groupe écossais formé en 1977 à Glasgow par Jim Kerr et Charlie Burchill, qui est devenu l'un des

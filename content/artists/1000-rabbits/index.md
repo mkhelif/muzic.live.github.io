@@ -1,6 +1,20 @@
 ---
 id: "f853198e-21bc-471e-924f-1abe87487db0"
 title: "1000 Rabbits"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

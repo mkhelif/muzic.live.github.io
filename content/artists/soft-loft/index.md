@@ -10,4 +10,11 @@ socials:
   web: "https://softloftmusic.com/"
   tidal: "37303383"
   spotify: ""
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---

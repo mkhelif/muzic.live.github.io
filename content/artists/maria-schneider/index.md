@@ -3,6 +3,18 @@ id: "a1aa46b7-5027-400b-bc25-db9e000934de"
 title: "Maria Schneider"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Verify social networks
   - Add logo cover

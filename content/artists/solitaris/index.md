@@ -3,6 +3,18 @@ id: "03b102b8-a8e2-4247-a50d-0fc677678370"
 title: "Solitaris"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Solitaris est un groupe de metal moderne français fondé à Paris en 2018. Composé de quatre musiciens,

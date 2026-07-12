@@ -3,6 +3,18 @@ id: "66047ddd-37c2-44e1-8c63-0ed7177349f2"
 title: "David Rodigan"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 David Michael « Ram Jam » Rodigan MBE est né le 24 juin 1951 en Allemagne, sur une base militaire, d'une

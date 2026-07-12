@@ -3,6 +3,18 @@ id: "3aa32fc6-464c-4b65-86b1-02903c59e0cc"
 title: "Miki"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Miki, de son vrai nom Mikaela Duplay, est une autrice-compositrice-interprète, rappeuse et pianiste

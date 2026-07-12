@@ -5,6 +5,16 @@ socials:
   facebook: ""
   instagram: ""
   web: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Aziz Kaddouri, alias Aziz Konkrite, est un DJ et producteur français d'origine

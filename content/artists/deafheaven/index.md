@@ -3,6 +3,18 @@ id: "561b356e-2b1b-4374-8e75-069c82eb5225"
 title: "Deafheaven"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Deafheaven est un groupe américain fondé à San Francisco en 2010 par le chanteur George Clarke et le

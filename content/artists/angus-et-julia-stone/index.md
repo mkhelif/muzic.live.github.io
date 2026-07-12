@@ -3,6 +3,18 @@ id: "30997d4f-4112-4d3b-b0be-6d5910409cd7"
 title: "Angus et Julia Stone"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 Angus & Julia Stone forment l'un des duos les plus attachants et les plus élégants de la scène folk indie mondiale. Frère et sœur nés à Sydney, ils ont construit au fil des années une œuvre délicate et cohérente, portée par leurs voix complémentaires et une sensibilité partagée pour les histoires intimes et les paysages mélancoliques.
 

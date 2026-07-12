@@ -3,6 +3,18 @@ id: "75fd22ae-49c9-4aa9-a37c-39195767e6b4"
 title: "Kalash"
 socials:
   instagram: "kalash"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Kalash, de son vrai nom **Kevin Valleray**, est un chanteur et rappeur français originaire de Sainte-Luce, en

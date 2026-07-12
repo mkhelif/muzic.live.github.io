@@ -1,6 +1,20 @@
 ---
 id: "1f155e00-f9fb-4b0e-a4ab-d246d1dee40e"
 title: "Stick To Your Guns"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add cover
   - Add socials

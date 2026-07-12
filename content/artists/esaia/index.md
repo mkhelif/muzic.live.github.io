@@ -3,6 +3,18 @@ id: "183ccba0-92af-45c2-a2bb-f61e4e346435"
 title: "Esaïa"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Esaïa est une productrice et artiste genevoise évoluant dans les musiques électroniques, passionnée de techno et de

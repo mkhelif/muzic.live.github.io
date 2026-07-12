@@ -3,6 +3,18 @@ id: "edc68d29-4608-42a7-b7a5-2de407da0788"
 title: "Kaelan Mikla"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

@@ -3,6 +3,18 @@ id: "c3f801ba-b0c4-4fc6-b98b-1c479e6911bc"
 title: "Julien Doré"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

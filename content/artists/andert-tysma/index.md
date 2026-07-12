@@ -3,6 +3,18 @@ id: "11b8b1ba-6104-4f72-bcd5-8542f1f466c3"
 title: "Andert Tysma"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 Andert Tysma est un compositeur, multi-instrumentiste et producteur néerlandais installé à Berlin, dont le travail se situe à la lisière du néo-classique, de l'ambient et des musiques expérimentales. Pianiste et bassiste de formation, il a parcouru le monde comme musicien de scène avant de s'imposer sous son propre nom avec une œuvre instrumentale d'une grande sensibilité.
 

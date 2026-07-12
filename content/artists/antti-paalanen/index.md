@@ -3,6 +3,18 @@ id: "831915e5-f8ef-48db-81b8-8299c277151e"
 title: "Antti Paalanen"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Antti Paalanen, né en 1977 dans la région d'Alavus en Ostrobotnie du Sud (Finlande), est l'un des accordéonistes

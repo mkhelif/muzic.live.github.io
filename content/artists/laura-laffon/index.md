@@ -10,6 +10,14 @@ socials:
   soundcloud: "laura-laffon"
   web: "https://www.lauralaffon.com/"
   email: "llaffon@hotmail.fr"
+  tiktok: ""
+  x: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 La musique électronique a ses dynasties parisiennes, ses dieux berlinois, ses prophètes ibiziens. Laura Laffon, elle,

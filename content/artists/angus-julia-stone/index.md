@@ -27,6 +27,8 @@ socials:
   deezer: "170482"
   apple: "169843517"
   email: "info@angusandjuliastone.com"
+  amazon: ""
+  qobuz: ""
 ---
 
 Angus & Julia Stone sont un duo australien formé par un frère et une sœur originaires des Northern Beaches de Sydney.

@@ -9,6 +9,13 @@ socials:
   web: "https://www.naaman-official.com/"
   tidal: "4900928"
   spotify: "2Gkz5N7rWiCE3jlCgsw1yp"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Naaman est un chanteur et producteur français de reggae-dancehall originaire de Dijon, qui développe sa passion pour la

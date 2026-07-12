@@ -12,6 +12,10 @@ socials:
   apple: "637462"
   amazon: "B0DSPKDBGP"
   email: "milla@millamusic.ch"
+  tiktok: ""
+  x: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Il y a des voix qui s'imposent dans le fracas. Celle de Milla choisit le chemin inverse : elle s'insinue, feutrée, dans

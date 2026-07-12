@@ -3,6 +3,18 @@ id: "8a4bd525-cc48-4b61-9d21-28cb62c1f877"
 title: "Denez"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Denez Prigent est né le 17 février 1966 à Santec, dans le Finistère. Il grandit entre Le Relecq-Kerhuon

@@ -3,6 +3,18 @@ id: "3bdea4e1-fe1c-42d1-894c-60ffe3d8790d"
 title: "Black Label Society"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Black Label Society est un groupe de heavy metal américain formé à Los Angeles en 1998 par le guitariste et chanteur

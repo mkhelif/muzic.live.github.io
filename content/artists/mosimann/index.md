@@ -9,6 +9,12 @@ socials:
   web: "quentinmosimann.com"
   tidal: "7641415"
   spotify: "7sAqpkrQBaOkddsv1Tz1XK"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 todo:
   - Add cover from concert pictures
 ---

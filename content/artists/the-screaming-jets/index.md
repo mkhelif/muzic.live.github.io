@@ -3,6 +3,18 @@ id: "19723aea-d3b0-44e5-bcce-9cd14c886c7f"
 title: "The Screaming Jets"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

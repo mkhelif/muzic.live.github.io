@@ -3,6 +3,18 @@ id: "6b987217-27fa-4969-bf3a-20de098637ea"
 title: "Levi Harvey trio"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Verify social networks
   - Add logo cover

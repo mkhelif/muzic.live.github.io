@@ -3,6 +3,18 @@ id: "86a76e89-6a89-414e-a154-2cb7cc98ec2b"
 title: "Ayron Jones"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Ayron Jones est un guitariste, chanteur et compositeur américain né le 23 août 1986 à

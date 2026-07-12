@@ -1,6 +1,20 @@
 ---
 id: "3e6aad48-eccc-4894-83eb-7a312c3ad20c"
 title: "Jane et les autres"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Jane et les Autres est un duo qui transforme l'ennui et l'errance de la vie urbaine en récits à raconter, porté par

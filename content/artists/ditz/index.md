@@ -3,6 +3,18 @@ id: "6855267d-1a3c-4c79-a02c-ce9b51a9ff13"
 title: "DITZ"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 DITZ est un groupe de rock anglais originaire de Brighton, formé en 2016.

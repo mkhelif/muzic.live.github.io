@@ -3,6 +3,18 @@ id: "75681179-7663-4adc-aa93-aa1dbffcfbbd"
 title: "Beirut"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Beirut est un projet indie folk américain fondé à Santa Fe, au Nouveau-Mexique, en 2006, par le chanteur, compositeur et

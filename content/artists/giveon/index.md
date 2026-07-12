@@ -3,6 +3,18 @@ id: "708fd8e5-d0fa-4a29-9bb9-10a41ac0c2f0"
 title: "Givēon"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Add socials

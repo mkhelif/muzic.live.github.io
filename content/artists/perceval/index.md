@@ -3,6 +3,18 @@ id: "9efc2107-dbd5-459b-8d06-8e4ff18ab858"
 title: "PERCEVAL"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Perceval est un DJ et producteur français originaire de Rennes, devenu en quelques années un phénomène de la scène

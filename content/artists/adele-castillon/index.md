@@ -9,6 +9,12 @@ socials:
   web: "https://adelecastillon.com/"
   tidal: "11062470"
   spotify: "4ueh4hmRvt62k4BgP8dIS0"
+  tiktok: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Adèle Castillon est une chanteuse, actrice et compositrice française née le 24 août 2001. Cette jeune artiste s'est

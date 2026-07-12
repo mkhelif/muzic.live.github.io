@@ -15,6 +15,8 @@ socials:
   spotify: "278ZYwGhdK6QTzE3MFePnP"
   tidal: "37312"
   web: "https://www.trivium.org/"
+  tiktok: ""
+  email: ""
 ---
 
 Un adolescent de douze ans qui reprend Metallica lors du concours de talents de son collège — voilà le point de départ

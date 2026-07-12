@@ -7,6 +7,14 @@ socials:
   youtube: "@leanwolf6529"
   tidal: "29394658"
   spotify: "2aoGa6HyB6mDhKKkvYOQmI"
+  tiktok: ""
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 LeanWolf tire son nom d'une métaphore puissante : celle du loup efflanqué, affamé, animé par une faim viscérale qui

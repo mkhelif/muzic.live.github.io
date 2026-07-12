@@ -13,6 +13,9 @@ socials:
   qobuz: "25333092"
   spotify: "2wdIgvwFEbuY6mvG1iA48v"
   tidal: "53305787"
+  x: ""
+  web: ""
+  email: ""
 ---
 
 ###### Quand Marseille rêve en Britpop

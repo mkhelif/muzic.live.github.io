@@ -3,6 +3,18 @@ id: "4cf0169a-d47f-4c5f-b3f2-ec4b03f9d8fb"
 title: "Aya Nakamura"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Aya Nakamura, de son vrai nom Aya Coco Danioko, est une chanteuse et autrice-compositrice franco-malienne née le 10 mai

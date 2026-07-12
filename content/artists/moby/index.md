@@ -11,6 +11,10 @@ socials:
   spotify: "3OsRAKCvk37zwYcnzRf5XF"
   apple: "789023"
   deezer: "493"
+  x: ""
+  email: ""
+  amazon: ""
+  qobuz: ""
 ---
 
 Moby, de son vrai nom Richard Melville Hall, est un musicien, auteur-compositeur, DJ, producteur et militant américain

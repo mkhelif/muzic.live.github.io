@@ -3,6 +3,18 @@ id: "f890a214-787f-41f9-a623-7a6cf42550cb"
 title: "El Grande Toto"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 ElGrandeToto, de son vrai nom Taha Fahssi, est un rappeur marocain né le 3 août 1996 à Casablanca. Issu d'une famille

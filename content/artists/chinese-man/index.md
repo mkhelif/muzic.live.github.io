@@ -26,6 +26,12 @@ socials:
   youtube: "@chinesemanrec"
   web: "https://www.chinesemanrecords.com/chineseman/"
   spotify: "6vgw0jwJkUnW2NR1rzsQU3"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  tidal: ""
 ---
 
 ###### Genèse et formation

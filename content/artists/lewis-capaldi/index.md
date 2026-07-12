@@ -14,6 +14,7 @@ socials:
   apple: "1213405916"
   deezer: "12088868"
   qobuz: "3023213"
+  email: ""
 ---
 
 Il y a deux Lewis Capaldi. Le premier est un **songwriter d'une intensité émotionnelle rare**, capable de vous arracher

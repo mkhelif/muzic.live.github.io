@@ -9,6 +9,12 @@ socials:
   web: "https://www.sugarhillgang.com"
   tidal: "19042"
   spotify: "7zliF6Q946WznVk3ZMYhZX"
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Le Sugarhill Gang occupe une place fondamentale dans l'histoire de la musique hip-hop, étant le groupe responsable du

@@ -3,6 +3,18 @@ id: "bcac1f21-cfe2-4ed2-a941-a4331f6e6d69"
 title: "Vald"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Vald, de son vrai nom Valentin Le Du, est un rappeur français né le 15 juillet 1992, qui a grandi à Aulnay-sous-Bois,

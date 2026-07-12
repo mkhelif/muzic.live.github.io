@@ -8,6 +8,13 @@ socials:
   web: "https://bertrandbelin.com/"
   tidal: "3765759"
   spotify: "5yFrjxlSd8zPqzCCNrOI5h"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 todo:
   - Add cover from concert picture
 ---

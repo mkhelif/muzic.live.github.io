@@ -3,6 +3,18 @@ id: "55b13385-5e2b-41fd-b609-11193db5e021"
 title: "Voilà"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 VOILÀ est un duo de pop rock indépendant basé à Los Angeles, formé par Luke Eisner et Gus Ross, deux musiciens et

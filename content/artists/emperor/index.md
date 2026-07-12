@@ -3,6 +3,18 @@ id: "076b7910-99e2-4727-968f-cfdb619a9002"
 title: "Emperor"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Emperor est un groupe norvégien de black metal formé en 1991 à Notodden par le guitariste et chanteur Ihsahn et le

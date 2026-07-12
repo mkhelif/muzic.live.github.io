@@ -9,6 +9,13 @@ socials:
   youtube: "@itslordlakna"
   tidal: "10440075"
   spotify: "4KPdER6eNWruPkJ8ps4f6c"
+  x: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Lakna est une rappeuse française qui émerge sur la scène hip-hop hexagonale avec une approche moderne et personnelle du

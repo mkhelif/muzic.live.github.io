@@ -20,6 +20,13 @@ socials:
   web: "https://www.theinspectorcluzo.com"
   tidal: "4110463"
   spotify: "5yxIIqWx8F0NfkXpyycTxg"
+  tiktok: ""
+  x: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 The Inspector Cluzo est un duo de rock français composé de Laurent Lacrouts (chant, guitare) et Phil Jourdain (

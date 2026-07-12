@@ -3,6 +3,18 @@ id: "725d06ef-bb4b-4cf6-bbfb-f20e98481e77"
 title: "Le Prince Miiaou"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add picture
   - Verify and add socials

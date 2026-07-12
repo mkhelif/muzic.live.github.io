@@ -3,6 +3,18 @@ id: "871e4e9a-fd72-406f-9dc9-dfafe001825b"
 title: "Bell Witch"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Bell Witch est un groupe de doom metal américain originaire de Seattle, dans l'État de Washington, fondé en

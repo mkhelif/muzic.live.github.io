@@ -3,6 +3,18 @@ id: "a5415d00-b4ac-4d10-9a00-708acc90a041"
 title: "RnBoi"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 RnBoi, de son vrai nom Samy Schmitt Fahli, est un artiste français né le 15 juin 2006 à Fontainebleau, d'une mère

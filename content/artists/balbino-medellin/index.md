@@ -3,6 +3,18 @@ id: "914f77d5-407f-4fa3-9ac7-f1f2ae9687b4"
 title: "Balbino Medellin"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Balbino Medellín est un auteur-compositeur-interprète français né le 11 août 1979

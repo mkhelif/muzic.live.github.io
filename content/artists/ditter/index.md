@@ -3,6 +3,18 @@ id: "e86f504d-e9a4-447c-be45-00194ccc3147"
 title: "Ditter"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Ditter est un groupe français composé de trois membres, Rosa, François et Samuel, qui développent une pop teintée de

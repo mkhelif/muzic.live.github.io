@@ -3,6 +3,18 @@ id: "2fa699c8-4989-4cdf-a0f7-0c6425a74195"
 title: "Cassius"
 socials:
   instagram: "cassius"
+  facebook: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Cassius est un duo français emblématique de la French Touch, formé par les producteurs **Philippe Zdar** (Philippe

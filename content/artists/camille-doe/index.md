@@ -3,6 +3,18 @@ id: "709aa506-d816-418d-b96f-571dcc604eaa"
 title: "Camille Doe"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Camille Doe est une DJ et productrice française originaire de Bordeaux, dont le parcours atypique l'a conduite des

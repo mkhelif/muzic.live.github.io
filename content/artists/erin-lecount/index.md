@@ -3,6 +3,18 @@ id: "d7bdba87-c21e-4f07-b0b4-775e201e304b"
 title: "Erin LeCount"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Erin Ruth LeCount est une autrice-compositrice-interprète anglaise révélée au grand public après sa participation à

@@ -3,6 +3,18 @@ id: "4ca989e0-53fd-4058-b88b-da3611620f03"
 title: "Archive"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Archive est un collectif musical britannique fondé à Londres en 1994 par Darius Keeler et Danny Griffiths, tous deux

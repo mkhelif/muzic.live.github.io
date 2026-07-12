@@ -3,6 +3,18 @@ id: "d763eaba-5a26-4650-bde8-192d096cd43b"
 title: "Danny L Harle"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Danny L Harle est né le 25 septembre 1989 à Londres. Fils du saxophoniste John Harle, il ne manifeste

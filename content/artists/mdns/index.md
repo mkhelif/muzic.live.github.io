@@ -3,6 +3,18 @@ id: "b27f149c-d68b-4fa2-ba0a-ef202f432631"
 title: "MDNS"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 MDNS, de son vrai nom Baptiste Fernandes, est un auteur-compositeur-interprète français né en 2001, originaire de

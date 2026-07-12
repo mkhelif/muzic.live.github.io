@@ -1,6 +1,20 @@
 ---
 id: "5e7c8d23-2384-4302-afab-04e4aadd6987"
 title: "Astéréotypie"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 cover: ""
 ---
 

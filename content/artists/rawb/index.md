@@ -3,6 +3,18 @@ id: "bdacb99b-94aa-4d2b-940d-a31d42eff83b"
 title: "Rawb"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add description
   - Add picture

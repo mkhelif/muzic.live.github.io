@@ -3,6 +3,18 @@ id: "4860f039-ec64-40a6-99c1-a8f4c405ced8"
 title: "Damantra"
 socials:
   facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 ---
 
 Damantra est un groupe de rock progressif et blues-metal français né à Toulouse d'une rencontre entre

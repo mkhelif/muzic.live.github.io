@@ -1,6 +1,20 @@
 ---
 id: "92cfcb4f-6b49-4cc7-8f37-33d5f02eccc0"
 title: "2L"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
 todo:
   - Add socials
   - Add cover

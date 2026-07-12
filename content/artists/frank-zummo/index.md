@@ -19,6 +19,8 @@ socials:
   qobuz: ""
   spotify: "7xN9WPokBDyU1yTL2nxmjz"
   tidal: ""
+  x: ""
+  email: ""
 todo:
   - Add description
   - Add information (birth, gender, ...)

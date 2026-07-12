@@ -12,6 +12,11 @@ socials:
   web: "https://www.yomika.com/"
   tidal: "16926"
   spotify: "5MmVJVhhYKQ86izuGHzJYA"
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
 ---
 
 Michael Holbrook Penniman Jr. débarque dans l'univers musical tel un ouragan coloré, imposant instantanément cette
