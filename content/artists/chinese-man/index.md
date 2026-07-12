@@ -1,6 +1,22 @@
 ---
 id: "b161bbf1-bb40-4b50-a9bf-96c289bbcbe5"
 title: "Chinese Man"
+members:
+  - id: "349832d2-4875-4848-b33c-70f8988f5035"
+    roles:
+      - other
+    periods:
+      - start: 2004
+  - id: "f1de2b5b-df6d-4f87-87cd-24b59be947b8"
+    roles:
+      - other
+    periods:
+      - start: 2004
+  - id: "ab483e25-5199-47f2-a7bc-100eb709e10a"
+    roles:
+      - other
+    periods:
+      - start: 2004
 socials:
   facebook: "chineseman"
   instagram: "chinesemanmusic"

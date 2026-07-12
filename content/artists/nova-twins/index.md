@@ -1,6 +1,18 @@
 ---
 id: "be3d7356-d6e0-489c-bf53-f5183686d92a"
 title: "Nova Twins"
+members:
+  - id: "178b23e0-1834-4525-9e03-fd4b6695b65c"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2014
+  - id: "6d71a29c-617d-4f58-9e5a-3a8358b155c1"
+    roles:
+      - bass
+    periods:
+      - start: 2014
 socials:
   facebook: "NovaTwinsMusic"
   instagram: "novatwinsmusic"
