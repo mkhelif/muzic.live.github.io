@@ -2,7 +2,6 @@
 date: 2026-07-06T11:00:00+02:00
 title: "System of a Down : cap sur Londres pour deux nuits historiques à Tottenham Hotspur Stadium"
 category: "tour"
-draft: true
 artists:
   - "49f16864-4db8-41d6-8ed3-71dcec686f4b"
   - "0e10f68d-165c-471d-815b-f3db35e446ed"

@@ -11,8 +11,11 @@ artists:
 todo:
   - Write review
 socials:
+  amazon: ""
   apple: "1826628237"
   deezer: "786567901"
+  qobuz: ""
+  spotify: ""
   tidal: "447492552"
 ---
 
