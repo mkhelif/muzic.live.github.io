@@ -27,6 +27,11 @@ members:
       - drums
     periods:
       - start: 2024
+  - id: "1a4377e3-21bc-4033-aa96-fb6c9cc50ed6"
+    roles:
+      - guitar
+    periods:
+      - start: 2023
   - id: "d85d9023-bc87-4846-bcda-3bf6099ff067"
     roles:
       - sing
