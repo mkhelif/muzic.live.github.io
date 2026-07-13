@@ -6,6 +6,7 @@
     {{- with partial "artists/lookup.html" . -}}
         {{- $artistNames = $artistNames | append .Title -}}
         {{- $performers = $performers | append (dict "@type" "MusicGroup" "name" .Title "url" .Permalink) -}}
+        {{- if not $image }}{{ with partial "seo/image.html" . }}{{ $image = . }}{{ end }}{{ end -}}
     {{- end -}}
 {{- end -}}
 
@@ -19,6 +20,7 @@
     {{- with partial "festivals/lookup.html" . -}}
         {{- $eventName = printf "%s : %s" .Title $eventName -}}
         {{- $organizer = dict "@type" "Organization" "name" .Title "url" .Permalink -}}
+        {{- if not $image }}{{ with partial "seo/image.html" . }}{{ $image = . }}{{ end }}{{ end -}}
     {{- end -}}
 {{- end -}}
 
@@ -30,6 +32,7 @@
         {{- with .Params.coordinates -}}
             {{- $location = merge $location (dict "geo" (dict "@type" "GeoCoordinates" "latitude" .latitude "longitude" .longitude)) -}}
         {{- end -}}
+        {{- if not $image }}{{ with partial "seo/image.html" . }}{{ $image = . }}{{ end }}{{ end -}}
     {{- end -}}
 {{- end -}}
 
@@ -40,6 +43,15 @@
 {{- with .Summary }}{{ $description = . | plainify | truncate 200 }}{{ end -}}
 {{- if not $description }}{{ $description = printf "Concert de %s." $eventName }}{{ end -}}
 
+{{- /* Fallback image so structured data always carries one. */ -}}
+{{- if not $image }}{{ $image = "cover-empty.png" | absURL }}{{ end -}}
+
+{{- /* endDate: start + 1 hour per artist, same convention as the ICS export. */ -}}
+{{- $hours := 0 -}}
+{{- with .Params.artists }}{{ $hours = len . }}{{ end -}}
+{{- if lt $hours 1 }}{{ $hours = 1 }}{{ end -}}
+{{- $endDate := (.Date.Add (time.ParseDuration (printf "%dh" $hours))).Format "2006-01-02T15:04:05Z07:00" -}}
+
 {{- $data := dict
     "@context" "https://schema.org"
     "@type" "MusicEvent"
@@ -47,6 +59,7 @@
     "url" .Permalink
     "description" $description
     "startDate" (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "endDate" $endDate
     "eventStatus" $eventStatus
     "eventAttendanceMode" "https://schema.org/OfflineEventAttendanceMode"
     "inLanguage" "fr-FR"
@@ -55,11 +68,17 @@
 {{- if gt (len $performers) 0 }}{{ $data = merge $data (dict "performer" $performers) }}{{ end -}}
 {{- if gt (len $location) 0 }}{{ $data = merge $data (dict "location" $location) }}{{ end -}}
 {{- if gt (len $organizer) 0 }}{{ $data = merge $data (dict "organizer" $organizer) }}{{ end -}}
+{{- /* offers: use the ticket URL when available, otherwise the event page. */ -}}
+{{- $offerUrl := .Permalink -}}
 {{- with .Params.tickets -}}
-    {{- $ticketUrl := trim (partial "events/tickets.html" .) " \n\t" -}}
-    {{- with $ticketUrl -}}
-        {{- $availability := cond $.Params.full "https://schema.org/SoldOut" "https://schema.org/InStock" -}}
-        {{- $data = merge $data (dict "offers" (dict "@type" "Offer" "url" . "availability" $availability)) -}}
-    {{- end -}}
+    {{- with (trim (partial "events/tickets.html" .) " \n\t") }}{{ $offerUrl = . }}{{ end -}}
 {{- end -}}
+{{- $availability := cond .Params.full "https://schema.org/SoldOut" "https://schema.org/InStock" -}}
+{{- if .Params.cancelled }}{{ $availability = "https://schema.org/SoldOut" }}{{ end -}}
+{{- $data = merge $data (dict "offers" (dict
+    "@type" "Offer"
+    "url" $offerUrl
+    "availability" $availability
+    "validFrom" (.Date.Format "2006-01-02T15:04:05Z07:00")
+)) -}}
 {{- return $data -}}
