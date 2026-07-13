@@ -15,8 +15,21 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 ---
+
+Manu Lanvin est un chanteur, guitariste, compositeur et producteur français de blues rock, né le 24 novembre 1973 à
+Suresnes. Fils de l'acteur Gérard Lanvin, qui lui offre sa première guitare, il apprend en autodidacte la batterie puis
+la guitare, nourri par des artistes français comme Téléphone, Paul Personne ou Bernie Bonvoisin.
+
+Après trois premiers albums publiés entre 2000 et 2006, davantage tournés vers le rock, il trouve sa voie la plus
+personnelle avec le power trio Devil Blues. Sa rencontre avec le chanteur texan Calvin Russell est déterminante : en
+2009, il coécrit, produit et réalise l'album testament de ce dernier, Dawg Eat Dawg.
+
+###### De Mauvais Casting à Grand Casino
+
+La sortie de l'album Mauvais Casting, en 2012, marque un tournant : l'année suivante, Manu Lanvin donne 120 concerts,
+notamment à l'Olympia, à l'Apollo Theater et au Montreux Jazz Festival. En 2019, l'album Grand Casino, auquel
+participent des figures internationales du blues comme Taj Mahal, Popa Chubby et Paul Personne, devient son plus grand
+succès commercial.
+
+Le 10 octobre 2025, il publie un nouvel album, Man on a Mission.

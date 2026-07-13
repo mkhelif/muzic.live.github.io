@@ -1,0 +1,22 @@
+---
+id: "24a8aa1d-3c4d-4a79-a8da-03340bbd956d"
+title: "Aterciopelados"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add description
+  - Add picture
+  - Add socials
+---

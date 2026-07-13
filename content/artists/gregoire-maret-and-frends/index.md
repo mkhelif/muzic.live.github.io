@@ -1,0 +1,22 @@
+---
+id: "73be1569-ff55-4303-905b-79851f6b63dd"
+title: "Grégoire Maret & Frends"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add description
+  - Add picture
+  - Add socials
+---

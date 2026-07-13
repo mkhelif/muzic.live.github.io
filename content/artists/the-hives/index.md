@@ -1,6 +1,38 @@
 ---
 id: "395c754f-7add-4513-b8be-45af12fd50d4"
 title: "The Hives"
+members:
+  - id: "35930d28-cebb-40a4-910f-d605878a5067"
+    roles:
+      - sing
+    periods:
+      - start: 1993
+  - id: "92129fdc-0f34-48ac-8d17-3649e6ebdd06"
+    roles:
+      - guitar
+    periods:
+      - start: 1993
+  - id: "626fef66-ddf5-4f88-b0d0-7dc58626d5d5"
+    roles:
+      - guitar
+    periods:
+      - start: 1993
+  - id: "ceb95ffa-2769-41a3-9eb0-f2275d775a80"
+    roles:
+      - drums
+    periods:
+      - start: 1993
+  - id: "521069e2-6880-48a7-977d-22fc9ecde680"
+    roles:
+      - bass
+    periods:
+      - start: 2013
+  - id: "961ac54b-142c-469d-8c17-54c4019bfa33"
+    roles:
+      - bass
+    periods:
+      - start: 1993
+        end: 2013
 socials:
   facebook: ""
   instagram: ""

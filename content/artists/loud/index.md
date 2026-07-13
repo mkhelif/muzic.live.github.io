@@ -1,0 +1,22 @@
+---
+id: "4df10670-11a5-4679-abc0-5fae5ad551c7"
+title: "Loud"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add description
+  - Add picture
+  - Add socials
+---

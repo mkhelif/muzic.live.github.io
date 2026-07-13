@@ -15,8 +15,23 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 ---
+
+Young Miko, de son vrai nom María Victoria Ramírez de Arellano Cardona, est une rappeuse, chanteuse et autrice
+portoricaine née le 8 novembre 1997 à Añasco, à Porto Rico. Élevée dans une famille où l'on écoute aussi bien du rock
+que du hip-hop et du reggaeton, elle commence à écrire de la poésie au collège catholique de Mayagüez, tout en jouant au
+football en sélection nationale portoricaine féminine de 13 à 18 ans.
+
+Elle étudie d'abord le dessin à l'université de Porto Rico à Río Piedras, puis les arts visuels à l'université
+interaméricaine de San Germán après des coupes budgétaires dans son cursus. Pendant cinq ans, elle travaille comme
+tatoueuse pour financer ses études et ses premières sessions studio.
+
+###### De SoundCloud aux sommets du trap latino
+
+Elle commence à rapper en 2018 sur des instrumentaux téléchargés sur YouTube et publie ses premiers morceaux sur
+SoundCloud sous le nom de Young Miko, à commencer par Quiero. Son EP de trap latino, Trap Kitty, paraît en 2022. En
+2023, le titre Classy 101, en featuring avec le Colombien Feid, atteint la 99e place du Billboard Hot 100, sa première
+entrée dans ce classement.
+
+Son premier album, Att., sort en avril 2024 avec des collaborations signées Feid, Jowell & Randy, Villano Antillano,
+Elena Rose et Dei V. Un second album, Do Not Disturb, avec notamment Eladio Carrión, suit en novembre 2025.
