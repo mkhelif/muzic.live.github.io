@@ -1,5 +1,5 @@
 ---
 id: "f9e003f8-df12-42ef-84cf-ae2857bc0c75"
-venue: "b1dbaccc-185d-40dc-9e33-1cf7567e604d"
+venue: "f43abc70-2497-4cb4-8035-50d6111f316c"
 title: "Six Fours Les Plages"
 ---

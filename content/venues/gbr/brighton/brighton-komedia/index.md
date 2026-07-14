@@ -1,5 +1,5 @@
 ---
 id: "6feb2a80-e3d2-4a62-94e5-33a67aa67de8"
-venue: "d49cff5d-d098-45e9-aa7a-331a92f807d1"
+venue: "39bb0493-f1b4-4b4b-b100-70b567edda6e"
 title: "Brighton Komedia"
 ---

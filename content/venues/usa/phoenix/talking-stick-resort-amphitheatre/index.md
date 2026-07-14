@@ -1,5 +1,5 @@
 ---
 id: "50aeab15-919b-4929-bedf-3305ff937578"
-venue: "cb2b6c69-d415-4d32-a66b-7b71dc3bddfc"
+venue: "3e1c6e12-1cc6-4282-801b-9a074757e5c1"
 title: "Talking Stick Resort Amphitheatre"
 ---

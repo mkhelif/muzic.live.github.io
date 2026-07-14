@@ -1,5 +1,5 @@
 ---
 id: "93074415-5948-4cc9-80b2-ad1358d8aaae"
-venue: "a915b024-5329-46c2-9bdb-6a82d2f2eebd"
+venue: "08fa8edf-d4a6-460e-a1f6-04c4d3c3287b"
 title: "King Baudouin Stadium"
 ---
