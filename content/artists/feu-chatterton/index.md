@@ -1,6 +1,7 @@
 ---
 id: "9fc197c8-2c95-4be4-97d2-db759eaef6ce"
 title: "Feu! Chatterton"
+type: band
 members:
   - id: "724a5c07-390d-4377-8703-16cc0f316757"
     roles:

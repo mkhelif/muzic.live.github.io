@@ -1,6 +1,7 @@
 ---
 id: "8b31c31f-ce7c-41e8-91c2-54bc5ed2a86c"
 title: "Garland Jeffreys"
+type: person
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "da5cc585-c151-47bf-8807-10fe901df32b"
 title: "Andrew Stockdale"
+type: person
 socials:
   facebook: ""
   instagram: ""

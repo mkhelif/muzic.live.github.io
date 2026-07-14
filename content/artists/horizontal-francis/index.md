@@ -1,6 +1,7 @@
 ---
 id: "c92f0fb1-b1b6-404b-84d7-4ed182ffa11f"
 title: "Horizontal Francis"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

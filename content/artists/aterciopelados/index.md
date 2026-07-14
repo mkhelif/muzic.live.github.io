@@ -1,6 +1,7 @@
 ---
 id: "24a8aa1d-3c4d-4a79-a8da-03340bbd956d"
 title: "Aterciopelados"
+type: band
 socials:
   facebook: ""
   instagram: ""

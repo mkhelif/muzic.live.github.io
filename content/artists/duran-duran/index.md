@@ -1,6 +1,7 @@
 ---
 id: "c6599adb-66aa-4306-9610-bfbd6df03db9"
 title: "Duran Duran"
+type: band
 socials:
   facebook: ""
   instagram: "duranduran"

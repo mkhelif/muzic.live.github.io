@@ -1,6 +1,7 @@
 ---
 id: "b1268e5f-8923-4165-88c1-0c08a0ee873a"
 title: "Elder"
+type: band
 socials:
   facebook: ""
   instagram: ""

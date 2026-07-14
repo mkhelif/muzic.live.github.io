@@ -1,6 +1,7 @@
 ---
 id: "bf9df79c-ec5d-4e45-93c3-b6eb55d9ac0c"
 title: "Bianca Costa"
+type: person
 socials:
   instagram: "biancacosta"
   facebook: ""

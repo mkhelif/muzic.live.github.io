@@ -1,6 +1,7 @@
 ---
 id: "4446ae11-3084-4c87-a50d-710373977b08"
 title: "Niko Quintal"
+type: person
 socials:
   facebook: ""
   instagram: ""

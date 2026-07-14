@@ -1,6 +1,7 @@
 ---
 id: "e93dc7d6-6824-41f8-bc20-3fa85c1fd60f"
 title: "DJ La Piscine"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

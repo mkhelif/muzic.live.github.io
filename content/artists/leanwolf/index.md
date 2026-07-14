@@ -1,6 +1,7 @@
 ---
 id: "4d894ed6-6091-46ee-bcda-146549fb1e12"
 title: "LeanWolf"
+type: unknown
 socials:
   facebook: "leanwolfofficial"
   instagram: "imleanwolf"

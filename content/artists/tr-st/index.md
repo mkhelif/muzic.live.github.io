@@ -1,6 +1,7 @@
 ---
 id: "58806538-d8ba-4283-963b-5d43067cde5d"
 title: "TR/ST"
+type: band
 socials:
   facebook: ""
   instagram: ""

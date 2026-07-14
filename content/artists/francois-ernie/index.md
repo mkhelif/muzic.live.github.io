@@ -1,6 +1,7 @@
 ---
 id: "f18590ea-bf13-490c-8711-6401b502dd7b"
 title: "François Ernie"
+type: person
 socials:
   facebook: ""
   instagram: ""

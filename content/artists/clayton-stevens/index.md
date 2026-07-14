@@ -1,6 +1,7 @@
 ---
 id: "ee609c52-adde-4569-a452-dec2f6321cb6"
 title: "Clayton Stevens"
+type: person
 socials:
   facebook: ""
   instagram: ""

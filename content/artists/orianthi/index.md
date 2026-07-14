@@ -1,6 +1,7 @@
 ---
 id: "851a0e6f-2991-412b-90eb-d055a7f87d21"
 title: "Orianthi"
+type: person
 socials:
   facebook: "Orianthi"
   instagram: "iamorianthi"

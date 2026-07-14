@@ -1,6 +1,7 @@
 ---
 id: "65964aec-dc50-47e0-a3d3-5c7eff7e974d"
 title: "Weird Nightmare"
+type: person
 socials:
   facebook: ""
   instagram: ""

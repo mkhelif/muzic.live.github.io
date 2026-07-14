@@ -1,6 +1,7 @@
 ---
 id: "8defcffd-a441-4dff-9819-532af8c17679"
 title: "Alestorm"
+type: band
 socials:
   facebook: ""
   instagram: ""

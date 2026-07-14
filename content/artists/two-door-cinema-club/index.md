@@ -1,6 +1,7 @@
 ---
 id: "e202aa2b-69cf-461e-b7bb-22a756e7cf66"
 title: "Two Door Cinema Club"
+type: band
 members:
   - id: "13ce17d9-d81d-4067-8bae-5ea69abb875f"
     roles:

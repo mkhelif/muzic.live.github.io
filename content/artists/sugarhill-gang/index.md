@@ -1,6 +1,7 @@
 ---
 id: "ce8570a2-9a69-4bad-bbee-92061e4f59ad"
 title: "Sugarhill Gang"
+type: band
 socials:
   facebook: "sugarhillgangofficial"
   instagram: "sugarhillgang"

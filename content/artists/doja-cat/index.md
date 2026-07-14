@@ -1,6 +1,7 @@
 ---
 id: "1607aac7-6ee4-44cc-8dde-a90d23667276"
 title: "Doja Cat"
+type: person
 socials:
   facebook: ""
   instagram: ""

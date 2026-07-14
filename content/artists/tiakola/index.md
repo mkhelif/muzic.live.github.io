@@ -1,6 +1,7 @@
 ---
 id: "1d36a2f3-6527-4eb2-bd3f-ba1b05b6f9fb"
 title: "Tiakola"
+type: person
 socials:
   instagram: "tiakola_meloo"
   facebook: ""

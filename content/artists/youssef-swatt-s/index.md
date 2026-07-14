@@ -1,6 +1,7 @@
 ---
 id: "ff328d6d-a0f3-4994-91ca-c4b28abe699a"
 title: "Youssef Swatt's"
+type: person
 socials:
   facebook: ""
   instagram: ""

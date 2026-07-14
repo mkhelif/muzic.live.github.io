@@ -1,6 +1,7 @@
 ---
 id: "3012321a-9e84-41d8-a696-e1f0502ae043"
 title: "Polaris"
+type: band
 members:
   - id: "db4b3793-0405-4117-8bfc-52822cbb6da3"
     roles:

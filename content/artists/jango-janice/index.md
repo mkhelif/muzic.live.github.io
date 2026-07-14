@@ -1,6 +1,7 @@
 ---
 id: "7b03caeb-1f0f-4ffc-8803-bd406e51bbbd"
 title: "Jango Janice"
+type: unknown
 socials:
   instagram: "jango_janice"
   tiktok: "@jango.janice"

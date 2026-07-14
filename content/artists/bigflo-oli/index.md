@@ -1,6 +1,7 @@
 ---
 id: "75d59ff6-7ac5-4f03-8094-bc455cdc9d6a"
 title: "Bigflo & Oli"
+type: band
 members:
   - id: "855e26ec-07cc-4963-a567-315ffa7ab96c"
     roles:

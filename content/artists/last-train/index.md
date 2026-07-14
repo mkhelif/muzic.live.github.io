@@ -1,6 +1,7 @@
 ---
 id: "badb53d0-a3d1-4a37-81ca-c0c97653cfa4"
 title: "Last Train"
+type: band
 members:
   - id: "22c1d777-103e-4fc3-92e0-a3da00d9caaa"
     roles:

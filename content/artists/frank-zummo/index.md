@@ -1,6 +1,7 @@
 ---
 id: 00529317-cba0-4885-951c-90d4f2547a92
 title: "Frank Zummo"
+type: person
 birth:
   date: 1978-07-02
   place: "Columbus, Ohio, États-Unis"

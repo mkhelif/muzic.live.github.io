@@ -1,6 +1,7 @@
 ---
 id: "ef044a97-590a-45b7-b843-509f82e0adf6"
 title: "No Art b2b Rem's Martinez"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

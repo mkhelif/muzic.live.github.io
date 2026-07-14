@@ -1,6 +1,7 @@
 ---
 id: "a032b0b8-838c-461a-9891-e2bf592de8fe"
 title: "Gavin James"
+type: person
 socials:
   facebook: "gavinjamesmusic"
   instagram: "gavinjameslive"

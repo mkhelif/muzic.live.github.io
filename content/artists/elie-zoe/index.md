@@ -1,6 +1,7 @@
 ---
 id: "bb0e9c76-6f88-42f7-9683-39f0a5d52a8a"
 title: "Elie Zoé"
+type: person
 socials:
   facebook: "eliezoemusic"
   instagram: "eliezoemusic"

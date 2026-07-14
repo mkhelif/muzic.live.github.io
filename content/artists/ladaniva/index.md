@@ -1,6 +1,7 @@
 ---
 id: "a9b30707-6a10-48bb-9781-06f8fdae20f0"
 title: "Ladaniva"
+type: band
 members:
   - id: "964abf8c-d351-442e-abe5-f517ddbd8bed"
     roles:

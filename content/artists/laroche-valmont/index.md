@@ -1,6 +1,7 @@
 ---
 id: "04092978-15f5-4f88-9e23-0664ba411062"
 title: "Laroche Valmont"
+type: person
 socials:
   facebook: "quentin.larochevalmont"
   instagram: "larochevalmont_officiel"

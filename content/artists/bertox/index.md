@@ -1,6 +1,7 @@
 ---
 id: "0cd6622d-6384-41df-a834-ca331dc6da5a"
 title: "Bertox"
+type: person
 socials:
   facebook: ""
   instagram: ""

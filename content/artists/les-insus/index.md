@@ -1,6 +1,7 @@
 ---
 id: "14f33939-c16e-4b35-abe2-2f91678ed85b"
 title: "Les Insus"
+type: band
 socials:
   facebook: ""
   instagram: ""

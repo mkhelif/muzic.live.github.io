@@ -1,6 +1,7 @@
 ---
 id: "007b566c-88ae-41b7-bd4b-3ad63a429420"
 title: "Climax"
+type: unknown
 socials:
   facebook: "climaxmusic.ch"
   instagram: "climaxmusic"

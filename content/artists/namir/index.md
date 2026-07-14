@@ -1,6 +1,7 @@
 ---
 id: "cb806d7a-ca90-45ff-8983-cebbca2acc1d"
 title: "Namir"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

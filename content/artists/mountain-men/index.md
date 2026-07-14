@@ -1,6 +1,7 @@
 ---
 id: "10b9969b-c93c-4664-82a3-100b8df38c5a"
 title: "Mountain Men"
+type: band
 socials:
   facebook: ""
   instagram: ""

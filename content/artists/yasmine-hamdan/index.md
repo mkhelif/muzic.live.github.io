@@ -1,6 +1,7 @@
 ---
 id: "3ccf1cc3-666c-4b1a-9c13-0288101c8f5e"
 title: "Yasmine Hamdan"
+type: person
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "04bb275d-b5bf-4e1c-98d5-e5bdf6402dbd"
 title: "Braises de Velours"
+type: person
 socials:
   facebook: ""
   instagram: ""

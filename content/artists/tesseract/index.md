@@ -1,6 +1,7 @@
 ---
 id: "7b386b28-aa50-481d-acbb-8831f838186f"
 title: "Tesseract"
+type: band
 socials:
   facebook: ""
   instagram: ""

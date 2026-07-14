@@ -1,6 +1,7 @@
 ---
 id: "97c8aef0-268e-4287-9311-c89ce1173c84"
 title: "Helmut Fritz"
+type: person
 socials:
   facebook: "helmutfritzofficiel"
   youtube: "@HelmutFritzOfficiel"

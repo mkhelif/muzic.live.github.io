@@ -1,6 +1,7 @@
 ---
 id: "d631a100-ff22-4e3a-843f-1c76a58db5f7"
 title: "The Prodigy"
+type: band
 members:
   - id: "93110461-ca37-4869-8b15-e749e2d3efd9"
     roles:

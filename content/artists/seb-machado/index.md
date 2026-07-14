@@ -1,6 +1,7 @@
 ---
 id: "50e9b655-e3a0-4d28-adc7-e034d665655d"
 title: "Seb Machado"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

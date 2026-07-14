@@ -1,6 +1,7 @@
 ---
 id: "17985c54-b7aa-47db-b170-0b10b2da5dd4"
 title: "Naaman"
+type: person
 socials:
   facebook: "Naaman.Official"
   instagram: "naaman_official"

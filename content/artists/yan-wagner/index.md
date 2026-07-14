@@ -1,6 +1,7 @@
 ---
 id: "a77bb5d2-d4bf-4120-870f-7bee358a7555"
 title: "Yan Wagner"
+type: person
 socials:
   facebook: ""
   instagram: ""

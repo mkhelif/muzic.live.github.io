@@ -1,6 +1,7 @@
 ---
 id: "05782cc5-4955-44ff-878f-ed536011b65e"
 title: "Hattler"
+type: band
 socials:
   facebook: ""
   instagram: ""

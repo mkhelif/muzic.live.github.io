@@ -1,6 +1,7 @@
 ---
 id: "3e87b38e-38b5-4888-a562-de8c0e617d1f"
 title: "Bijo"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

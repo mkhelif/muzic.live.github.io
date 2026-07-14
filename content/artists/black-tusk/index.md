@@ -1,6 +1,7 @@
 ---
 id: "733eec93-c44b-4412-8b51-c534138dbc35"
 title: "Black Tusk"
+type: band
 socials:
   facebook: ""
   instagram: ""

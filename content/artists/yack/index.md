@@ -1,6 +1,7 @@
 ---
 id: "37dc3b3f-8098-432c-9093-12330f974ac9"
 title: "Yack"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

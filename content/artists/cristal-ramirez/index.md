@@ -1,6 +1,7 @@
 ---
 id: "b76f9c51-9c63-4875-bd16-eee16b5ba694"
 title: "Cristal Ramirez"
+type: person
 socials:
   facebook: ""
   instagram: ""

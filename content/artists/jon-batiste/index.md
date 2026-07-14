@@ -1,6 +1,7 @@
 ---
 id: "36a5443d-21b4-4092-8016-2e2a19b85f4a"
 title: "Jon Batiste"
+type: person
 socials:
   facebook: ""
   instagram: ""

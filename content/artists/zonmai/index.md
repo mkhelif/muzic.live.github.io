@@ -1,6 +1,7 @@
 ---
 id: "e10fb20e-a37b-4e59-86c1-8ab800027d75"
 title: "Zonmai"
+type: person
 socials:
   facebook: ""
   instagram: ""

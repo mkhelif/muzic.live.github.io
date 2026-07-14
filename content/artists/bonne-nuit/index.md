@@ -1,6 +1,7 @@
 ---
 id: "e9b36bd5-93fe-43a2-84bb-7a9fd39934cc"
 title: "Bonne Nuit"
+type: band
 socials:
   facebook: ""
   instagram: ""

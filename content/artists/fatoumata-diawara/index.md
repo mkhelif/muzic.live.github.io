@@ -1,6 +1,7 @@
 ---
 id: "e0e86f79-d430-4e94-b447-2e53a1f159aa"
 title: "Fatoumata Diawara"
+type: person
 socials:
   instagram: "fatoumatadiawaraofficial"
   web: "https://www.fatoumatadiawara.fr/"

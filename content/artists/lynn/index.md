@@ -1,6 +1,7 @@
 ---
 id: "b74da421-1cb3-412e-a66f-48213d60f905"
 title: "Lynn"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

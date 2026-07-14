@@ -1,6 +1,7 @@
 ---
 id: "e6dfcbe7-af5f-458c-8357-fc89a62890f0"
 title: "Bad Bunny"
+type: person
 socials:
   facebook: "BadBunnyOfficial"
   instagram: "badbunnypr"

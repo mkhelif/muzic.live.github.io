@@ -1,6 +1,7 @@
 ---
 id: "b3a83259-8a14-4b9e-accf-b3bf0092c157"
 title: "Milla"
+type: person
 socials:
   facebook: "profile.php?id=100010448431103"
   instagram: "_mi_ll_a__"

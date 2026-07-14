@@ -1,6 +1,7 @@
 ---
 id: "378aa7d5-eae3-4649-b575-8312d95280fa"
 title: "NECKBREAKKER"
+type: band
 socials:
   facebook: ""
   instagram: ""

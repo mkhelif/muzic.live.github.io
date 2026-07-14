@@ -1,6 +1,7 @@
 ---
 id: "42a83a82-a73d-4bd8-a90a-998e3e8003e7"
 title: "Vernis Rouge"
+type: person
 socials:
   facebook: "vernisrougemusic"
   instagram: "vernisrougemusic"

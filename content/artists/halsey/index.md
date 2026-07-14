@@ -1,6 +1,7 @@
 ---
 id: "13eaf8dc-9037-4596-9d72-ca86c524e96a"
 title: "Halsey"
+type: person
 socials:
   facebook: ""
   instagram: ""

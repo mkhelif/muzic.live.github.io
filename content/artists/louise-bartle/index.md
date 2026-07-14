@@ -1,6 +1,7 @@
 ---
 id: "67aff591-7115-4b61-88d7-57b48273a14c"
 title: "Louise Bartle"
+type: person
 socials:
   facebook: ""
   instagram: ""

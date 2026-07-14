@@ -1,6 +1,7 @@
 ---
 id: "1f5af6b2-057c-41d7-9eae-60fef5012987"
 title: "Tim Lucas"
+type: person
 socials:
   facebook: ""
   instagram: ""

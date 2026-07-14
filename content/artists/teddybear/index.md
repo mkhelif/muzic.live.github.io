@@ -1,6 +1,7 @@
 ---
 id: "6213cb92-4d04-40f2-b395-b6f477dd4386"
 title: "Teddybear"
+type: person
 socials:
   facebook: ""
   instagram: ""

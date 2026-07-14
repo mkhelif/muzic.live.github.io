@@ -1,6 +1,7 @@
 ---
 id: "937a55f6-d2e4-4438-887e-3f68fa77549b"
 title: "SKALD"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

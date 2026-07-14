@@ -1,6 +1,7 @@
 ---
 id: "0df113a6-a7b3-43b1-92e3-2c7f065a5f21"
 title: "Flavien Berger"
+type: person
 socials:
   facebook: ""
   instagram: ""

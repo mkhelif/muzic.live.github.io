@@ -1,6 +1,7 @@
 ---
 id: "e86f504d-e9a4-447c-be45-00194ccc3147"
 title: "Ditter"
+type: band
 socials:
   facebook: ""
   instagram: ""

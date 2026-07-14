@@ -1,6 +1,7 @@
 ---
 id: "9cc4d208-9432-4d42-ad94-1a77a90c47f8"
 title: "Monobloc"
+type: band
 socials:
   facebook: ""
   instagram: ""

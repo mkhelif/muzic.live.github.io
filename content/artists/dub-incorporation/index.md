@@ -1,6 +1,7 @@
 ---
 id: "ba46eeef-6294-452b-abe1-ac9a03e2e89d"
 title: "Dub Incorporation"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "8b386859-0b16-4360-a012-16cf85585137"
 title: "Mass Hysteria"
+type: band
 members:
   - id: "a41ed91a-7095-4f38-853e-07346006ce95"
     roles:

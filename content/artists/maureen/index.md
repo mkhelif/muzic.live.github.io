@@ -1,6 +1,7 @@
 ---
 id: "668cba49-cfb5-4ef9-aa0d-150c984671ad"
 title: "Maureen"
+type: unknown
 socials:
   facebook: ""
   instagram: "maureen.l.l"

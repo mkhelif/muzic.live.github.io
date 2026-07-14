@@ -1,6 +1,7 @@
 ---
 id: "148f05ff-1dab-4991-b529-cffef8d059a1"
 title: "The Fuzzy Brass Four"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "74dd63e1-f8af-400c-b02d-ec2cd6ef189e"
 title: "Culture"
+type: band
 socials:
   facebook: ""
   instagram: ""

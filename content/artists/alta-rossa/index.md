@@ -1,6 +1,7 @@
 ---
 id: "5d0171ae-6b25-4d53-bcf6-5da2e1d7a461"
 title: "Alta Rossa"
+type: band
 socials:
   facebook: ""
   instagram: ""

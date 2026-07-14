@@ -1,6 +1,7 @@
 ---
 id: "2952f6c0-e531-494d-b51b-8714482c46a2"
 title: "Coming Soon"
+type: band
 socials:
   facebook: ""
   instagram: ""

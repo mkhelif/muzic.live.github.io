@@ -1,6 +1,7 @@
 ---
 id: "3cf2ec45-61e8-4911-bd47-329696e73fb7"
 title: "Dropkick Murphys"
+type: band
 socials:
   facebook: ""
   instagram: ""

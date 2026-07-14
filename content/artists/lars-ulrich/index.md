@@ -1,6 +1,7 @@
 ---
 id: "08aad74b-047f-4900-b46d-1b667c50f802"
 title: "Lars Ulrich"
+type: person
 socials:
   facebook: ""
   instagram: ""

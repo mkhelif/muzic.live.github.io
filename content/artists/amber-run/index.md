@@ -1,6 +1,7 @@
 ---
 id: "273b5703-1833-41cb-80ed-750863612369"
 title: "Amber Run"
+type: band
 socials:
   facebook: ""
   instagram: ""

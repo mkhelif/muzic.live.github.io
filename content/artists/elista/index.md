@@ -1,6 +1,7 @@
 ---
 id: "4abfcaae-bf52-495f-8c45-cbeeaff91572"
 title: "Elista"
+type: band
 socials:
   facebook: ""
   instagram: ""

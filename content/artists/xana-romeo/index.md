@@ -1,6 +1,7 @@
 ---
 id: "25f21473-b387-4694-88e0-edf7100b7134"
 title: "Xana Romeo"
+type: person
 socials:
   facebook: ""
   instagram: ""

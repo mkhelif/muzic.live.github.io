@@ -1,6 +1,7 @@
 ---
 id: "bc49f94f-4647-47d9-a8f9-b1596fc29647"
 title: "Palenque la Papayera"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

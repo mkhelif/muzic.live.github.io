@@ -1,6 +1,7 @@
 ---
 id: "04490ab8-c4aa-40db-a8a6-f81977725409"
 title: "Marshmello"
+type: person
 socials:
   facebook: ""
   instagram: ""

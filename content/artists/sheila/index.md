@@ -1,6 +1,7 @@
 ---
 id: "208bb2a8-7d65-4c91-9286-55b4627682d4"
 title: "Sheila"
+type: person
 socials:
   facebook: "SheilaOfficiel"
   instagram: "sheila_artiste_officiel"

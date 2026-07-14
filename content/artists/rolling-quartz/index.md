@@ -1,6 +1,7 @@
 ---
 id: "f5871599-2dd8-4eb2-ae95-8cb2925d10b0"
 title: "Rolling Quartz"
+type: band
 socials:
   facebook: ""
   instagram: ""

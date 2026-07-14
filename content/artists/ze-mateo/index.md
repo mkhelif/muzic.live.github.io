@@ -1,6 +1,7 @@
 ---
 id: "349832d2-4875-4848-b33c-70f8988f5035"
 title: "Zé Mateo"
+type: person
 socials:
   facebook: ""
   instagram: ""

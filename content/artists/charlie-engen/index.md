@@ -1,6 +1,7 @@
 ---
 id: "dfb738e7-ce1c-46ab-a37b-39b2235a433f"
 title: "Charlie Engen"
+type: person
 socials:
   facebook: ""
   instagram: ""

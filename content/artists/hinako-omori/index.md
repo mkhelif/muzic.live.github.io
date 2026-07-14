@@ -1,6 +1,7 @@
 ---
 id: "02d228a2-67e3-4e75-a886-df1bd85399aa"
 title: "Hinako Omori"
+type: person
 socials:
   instagram: "hinakoomori"
   x: "hinakoomori"

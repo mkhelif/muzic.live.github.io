@@ -1,6 +1,7 @@
 ---
 id: "a7557e9d-89d4-40b0-9285-e51128f90b34"
 title: "Ghost Dance"
+type: band
 socials:
   facebook: ""
   instagram: ""

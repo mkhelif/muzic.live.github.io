@@ -1,6 +1,7 @@
 ---
 id: "68795e74-4170-4472-b5d4-eb9dbd5a8241"
 title: "Slash feat Myles Kennedy & The Conspirators"
+type: band
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "c17d992d-2150-495b-9c00-c23ac8fcceb2"
 title: "Brice Gauthier"
+type: person
 socials:
   facebook: ""
   instagram: ""

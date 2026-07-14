@@ -1,6 +1,7 @@
 ---
 id: "584ad542-558e-441d-adc5-e5dde1e6a3ba"
 title: "Lambrini Girls"
+type: band
 members:
   - id: "ba2bf82c-a772-43c2-9413-a081c269d537"
     roles:

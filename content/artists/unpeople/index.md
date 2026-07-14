@@ -1,6 +1,7 @@
 ---
 id: "deefe38a-9f1f-4009-a3e5-b66eef3bffab"
 title: "Unpeople"
+type: band
 members:
   - id: "e0383a69-7eee-430c-ba45-e274c53b1288"
     roles:

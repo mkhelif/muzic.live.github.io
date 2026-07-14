@@ -1,6 +1,7 @@
 ---
 id: "b4580717-d61d-4802-8986-6946dbfca24a"
 title: "Rick Schneider"
+type: person
 socials:
   facebook: ""
   instagram: ""

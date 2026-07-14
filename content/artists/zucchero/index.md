@@ -1,6 +1,7 @@
 ---
 id: "3cc897fe-d02d-4c57-bc18-201386cd1e3f"
 title: "Zucchero"
+type: person
 socials:
   facebook: ""
   instagram: ""

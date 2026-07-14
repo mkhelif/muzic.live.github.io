@@ -1,6 +1,7 @@
 ---
 id: "e85ff1f1-1e6d-4560-93cf-499d3b75eea0"
 title: "Rodney Chrome"
+type: person
 socials:
   facebook: ""
   instagram: ""

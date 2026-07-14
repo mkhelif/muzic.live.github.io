@@ -1,6 +1,7 @@
 ---
 id: "eef56d39-5fd8-4184-beeb-f607424e0096"
 title: "Super Besse"
+type: band
 socials:
   facebook: ""
   instagram: ""

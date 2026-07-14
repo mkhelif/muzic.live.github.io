@@ -1,6 +1,7 @@
 ---
 id: "7c22dab3-c816-4f39-adf6-17507b35e5be"
 title: "Moriarty"
+type: band
 socials:
   facebook: ""
   instagram: ""

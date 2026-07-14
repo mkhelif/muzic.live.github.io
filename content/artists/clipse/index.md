@@ -1,6 +1,7 @@
 ---
 id: "50abfe0f-32f8-4ac8-881b-8b1be04e5104"
 title: "Clipse"
+type: band
 socials:
   facebook: ""
   instagram: ""

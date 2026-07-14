@@ -1,6 +1,7 @@
 ---
 id: "7cb9544a-baac-4082-a8ca-cc74d6c50a7f"
 title: "The Offspring"
+type: band
 members:
   - id: "9441f502-ef5b-46e0-a882-4b0b05fcf94a"
     roles:

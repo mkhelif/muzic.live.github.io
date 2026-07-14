@@ -1,6 +1,7 @@
 ---
 id: "e053c287-937b-4732-a8e3-efad784ee3fd"
 title: "Fushitsusha"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

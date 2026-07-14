@@ -1,6 +1,7 @@
 ---
 id: "89e1cefa-e1d0-4470-b3c6-5bc604d6850f"
 title: "SUN Brutal Pop"
+type: unknown
 aliases:
   - "SUN"
 socials:

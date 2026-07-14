@@ -1,6 +1,7 @@
 ---
 id: "8a56959b-021a-4dce-b9c0-457ecaaa0ec7"
 title: "Santana"
+type: band
 socials:
   facebook: "carlossantana"
   instagram: "carlossantana"

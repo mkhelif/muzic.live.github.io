@@ -1,6 +1,7 @@
 ---
 id: "ec430e99-6e25-40d4-a5b3-3e70d272f7fb"
 title: "JeanJass"
+type: person
 socials:
   instagram: "jeanjass"
   x: "JeanJass"

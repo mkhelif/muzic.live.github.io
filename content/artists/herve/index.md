@@ -1,6 +1,7 @@
 ---
 id: "eb3a8448-8a79-410d-99d5-c22c782767f1"
 title: "Hervé"
+type: person
 socials:
   facebook: ""
   instagram: ""

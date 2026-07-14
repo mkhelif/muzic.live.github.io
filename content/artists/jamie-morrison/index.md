@@ -1,6 +1,7 @@
 ---
 id: "d8a8aa6e-7d51-4307-af5e-cff9287da994"
 title: "Jamie Morrison"
+type: person
 socials:
   facebook: ""
   instagram: ""

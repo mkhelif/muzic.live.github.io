@@ -1,6 +1,7 @@
 ---
 id: "905c182c-256b-4812-bbc0-7db90f58e28e"
 title: "Fresh Mula"
+type: person
 socials:
   facebook: ""
   instagram: ""

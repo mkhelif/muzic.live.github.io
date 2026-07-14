@@ -1,6 +1,7 @@
 ---
 id: "ca3a5d54-fcea-477a-ae76-461d97e0a5b8"
 title: "Boys Noize"
+type: person
 socials:
   facebook: ""
   instagram: ""

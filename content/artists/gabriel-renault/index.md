@@ -1,6 +1,7 @@
 ---
 id: "1326257b-aac3-4035-8caa-2347a8883730"
 title: "Gabriel Renault"
+type: person
 socials:
   facebook: ""
   instagram: ""

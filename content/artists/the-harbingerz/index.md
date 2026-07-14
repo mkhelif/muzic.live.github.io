@@ -1,6 +1,7 @@
 ---
 id: "8abf73f6-1b8c-4962-b223-54586127fb12"
 title: "The Harbingerz"
+type: unknown
 socials:
   facebook: "Theharbingerzreggae"
   instagram: "theharbingerz"

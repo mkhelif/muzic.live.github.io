@@ -1,6 +1,7 @@
 ---
 id: "c640d225-5174-4517-97ea-fb90c3252a25"
 title: "High on Fire"
+type: band
 socials:
   facebook: ""
   instagram: ""

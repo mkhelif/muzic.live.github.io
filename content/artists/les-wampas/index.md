@@ -1,6 +1,7 @@
 ---
 id: "65654368-fbef-452d-867e-092e42191146"
 title: "Les Wampas"
+type: band
 members:
   - id: "d3a670c2-9e8b-48e8-b21c-a403ceba8ee5"
     roles:

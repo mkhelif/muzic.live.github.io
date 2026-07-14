@@ -1,6 +1,7 @@
 ---
 id: "75bd40aa-4480-44db-a622-8356ac076024"
 title: "Sleipnir"
+type: band
 socials:
   facebook: ""
   instagram: ""

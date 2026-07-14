@@ -1,6 +1,7 @@
 ---
 id: "ce8552c1-2ae5-4705-968d-ef11b1922760"
 title: "Sami Galbi"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

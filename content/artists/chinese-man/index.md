@@ -1,6 +1,7 @@
 ---
 id: "b161bbf1-bb40-4b50-a9bf-96c289bbcbe5"
 title: "Chinese Man"
+type: band
 members:
   - id: "349832d2-4875-4848-b33c-70f8988f5035"
     roles:

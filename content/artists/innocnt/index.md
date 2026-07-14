@@ -1,6 +1,7 @@
 ---
 id: "16cad2a3-4281-4056-81ca-62d3efc3d8e1"
 title: "Innocnt"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

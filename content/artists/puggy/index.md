@@ -1,6 +1,7 @@
 ---
 id: "4f7db108-d174-49ab-abda-7e6177ff4517"
 title: "Puggy"
+type: band
 socials:
   facebook: ""
   instagram: ""

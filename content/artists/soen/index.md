@@ -1,6 +1,7 @@
 ---
 id: "7f854bed-ca88-4c33-9be8-2d4f6c4d1b22"
 title: "SOEN"
+type: band
 members:
   - id: "55e1a1ef-dcd4-4910-a2e0-15182ad80c20"
     roles:

@@ -1,6 +1,7 @@
 ---
 id: "f5bf3515-c659-40bd-91a1-55247ec28379"
 title: "Clément Doumic"
+type: person
 socials:
   facebook: ""
   instagram: ""

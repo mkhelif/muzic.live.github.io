@@ -1,6 +1,7 @@
 ---
 id: "cd4e5ee1-1220-49bf-8678-0347182c8ed1"
 title: "Wilco"
+type: band
 socials:
   facebook: ""
   instagram: ""

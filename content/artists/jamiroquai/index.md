@@ -1,6 +1,7 @@
 ---
 id: "7181d84a-c9ba-4739-9128-f6d38d0c71af"
 title: "Jamiroquai"
+type: band
 socials:
   facebook: "jamiroquai"
   instagram: "jamiroquaihq"

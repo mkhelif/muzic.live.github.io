@@ -1,6 +1,7 @@
 ---
 id: "abf25b09-9daf-49b4-8943-b1390f8abecf"
 title: "Marcel et son Orchestre"
+type: band
 socials:
   facebook: "marceletsonorchestre"
   instagram: "marceletsonorchestre_officiel"

@@ -1,6 +1,7 @@
 ---
 id: "e32a183f-ccf7-479e-bd87-283f8b704500"
 title: "Ice Nine Kills"
+type: band
 members:
   - id: "23b5d95a-dd6b-4871-a5f9-c627c8de1ea9"
     roles:

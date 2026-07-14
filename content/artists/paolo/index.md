@@ -1,6 +1,7 @@
 ---
 id: "ce359fa2-5541-4d7f-a82f-7003bd83d792"
 title: "Paolo."
+type: person
 socials:
   facebook: ""
   instagram: ""

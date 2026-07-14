@@ -1,6 +1,7 @@
 ---
 id: "80627aed-095b-44e1-a3bd-82356180aa14"
 title: "The Halo Effect"
+type: band
 members:
   - id: "b35149e6-dd43-46cd-9b3b-af33df347abd"
     roles:

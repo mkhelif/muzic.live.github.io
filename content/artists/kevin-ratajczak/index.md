@@ -1,6 +1,7 @@
 ---
 id: "95886930-44f4-4e01-84c0-da595a2b568d"
 title: "Kevin Ratajczak"
+type: person
 birth:
   date: 1985-08-07T00:00:00.000Z
   place: "Datteln, Allemagne"

@@ -1,6 +1,7 @@
 ---
 id: "196e59c2-d1c7-4e35-abda-d17c6d1144dc"
 title: "Edaya"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "41722902-f929-42a0-8d3a-eb33b3ae6413"
 title: "Aleksandra Kurzak"
+type: person
 socials:
   instagram: "aleksandrakurzakofficial"
   web: "https://aleksandrakurzak.com/"

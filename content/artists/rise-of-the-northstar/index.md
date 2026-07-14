@@ -1,6 +1,7 @@
 ---
 id: "ae36bfaa-cec8-4160-ba2e-0384322fefa5"
 title: "Rise Of The NorthStar"
+type: band
 members:
   - id: "3f624ae5-c87c-445c-83cb-364dff2d7633"
     roles:

@@ -1,6 +1,7 @@
 ---
 id: "835bc880-4d35-4d8c-b271-5602711c7a8b"
 title: "Fugue"
+type: band
 socials:
   facebook: "FUGUEofficial"
   instagram: "fugue.official"

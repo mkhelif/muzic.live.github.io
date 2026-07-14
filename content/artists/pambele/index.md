@@ -1,6 +1,7 @@
 ---
 id: "3e64b6ad-426d-4101-b382-a89d99fa8eea"
 title: "Pambele"
+type: band
 members:
   - id: "aded5d1c-8b10-4dc2-a386-f2b141e7aa69"
     roles:

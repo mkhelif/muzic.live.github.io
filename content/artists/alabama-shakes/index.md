@@ -1,6 +1,7 @@
 ---
 id: "de5f2824-1f2f-4251-93a9-1ac54043491a"
 title: "Alabama Shakes"
+type: band
 members:
   - id: "6873c2a7-2626-42e6-bd9a-ea7b795638d6"
     roles:

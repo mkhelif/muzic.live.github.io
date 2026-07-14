@@ -1,6 +1,7 @@
 ---
 id: "be3d7356-d6e0-489c-bf53-f5183686d92a"
 title: "Nova Twins"
+type: band
 members:
   - id: "178b23e0-1834-4525-9e03-fd4b6695b65c"
     roles:

@@ -1,6 +1,7 @@
 ---
 id: "0d00ab93-c45c-423e-a477-2fc7d7decb3d"
 title: "Colin Brittain"
+type: person
 socials:
   facebook: ""
   instagram: ""

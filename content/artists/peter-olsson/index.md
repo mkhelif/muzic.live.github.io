@@ -1,6 +1,7 @@
 ---
 id: "6349167c-aa90-4886-8de8-e0401fcf6f72"
 title: "Peter Olsson"
+type: person
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "8883fd9f-cc39-48df-9430-f58b6e1c2fc2"
 title: "Pascal Lalaurie"
+type: person
 socials:
   facebook: ""
   instagram: ""

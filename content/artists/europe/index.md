@@ -1,6 +1,7 @@
 ---
 id: "76e7d907-1601-4a5a-9a9a-c8cf678a03f6"
 title: "Europe"
+type: band
 members:
   - id: "3adeb532-5927-4b33-bde8-99c414eda90a"
     roles:

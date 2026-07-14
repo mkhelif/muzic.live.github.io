@@ -1,6 +1,7 @@
 ---
 id: "c300a970-70ea-4275-bb67-46250c3307ea"
 title: "The Chemical Brothers"
+type: band
 members:
   - id: "e4d6a3ac-ce18-44ee-80e0-fcd394a26b9d"
     roles:

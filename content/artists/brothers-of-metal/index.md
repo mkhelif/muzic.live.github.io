@@ -1,6 +1,7 @@
 ---
 id: "71c41ef9-ba66-4f94-bb93-ed93fc1d188e"
 title: "Brothers of Metal"
+type: band
 members:
   - id: "b86c69e9-bdb4-444b-9826-52a0b36b64cc"
     roles:

@@ -1,6 +1,7 @@
 ---
 id: "419275e7-7e84-4edc-88b2-c38ae7f33532"
 title: "Periphery"
+type: band
 socials:
   facebook: ""
   instagram: ""

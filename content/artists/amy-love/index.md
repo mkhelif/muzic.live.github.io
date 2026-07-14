@@ -1,6 +1,7 @@
 ---
 id: "178b23e0-1834-4525-9e03-fd4b6695b65c"
 title: "Amy Love"
+type: person
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "6318f3c1-3367-4b7c-b903-7205532723da"
 title: "STRFKR"
+type: band
 socials:
   facebook: ""
   instagram: ""

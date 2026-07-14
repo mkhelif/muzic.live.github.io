@@ -1,6 +1,7 @@
 ---
 id: "a9ce6260-715d-4642-b21f-d35e62a8bf4a"
 title: "Rival Sons"
+type: band
 members:
   - id: "bfe43743-7bdb-41d9-a9d7-430783b9dae8"
     roles:

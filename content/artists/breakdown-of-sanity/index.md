@@ -1,6 +1,7 @@
 ---
 id: "68001391-7583-4059-8120-7c207d6932d5"
 title: "Breakdown of Sanity"
+type: band
 socials:
   facebook: ""
   instagram: ""

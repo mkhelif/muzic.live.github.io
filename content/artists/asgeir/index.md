@@ -1,6 +1,7 @@
 ---
 id: "4628e26a-cdcd-4eea-b665-8f1571a67ff4"
 title: "Ásgeir"
+type: person
 socials:
   facebook: ""
   instagram: ""

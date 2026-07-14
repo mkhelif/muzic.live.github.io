@@ -1,6 +1,7 @@
 ---
 id: "0457afc9-7581-4f8c-baeb-a6ee7e156ae5"
 title: "Alex Lefko"
+type: person
 socials:
   facebook: ""
   instagram: ""

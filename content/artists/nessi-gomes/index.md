@@ -1,6 +1,7 @@
 ---
 id: "3adad85d-f94f-4195-96cb-3b67a22fd4d8"
 title: "Nessi Gomes"
+type: person
 socials:
   facebook: ""
   instagram: ""

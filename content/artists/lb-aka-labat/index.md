@@ -1,6 +1,7 @@
 ---
 id: "0be9d867-65e9-4758-984d-2102e85bea5f"
 title: "LB aka Labat"
+type: person
 socials:
   instagram: "lbakalabat"
   facebook: ""

@@ -1,6 +1,7 @@
 ---
 id: "34e9b1da-299d-4b50-9861-081c86d06749"
 title: "Alain Chamfort"
+type: person
 socials:
   facebook: ""
   instagram: ""

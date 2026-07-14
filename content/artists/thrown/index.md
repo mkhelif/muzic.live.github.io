@@ -1,6 +1,7 @@
 ---
 id: "9cff36c8-0ca8-442a-8942-f2faf595b398"
 title: "Thrown"
+type: band
 members:
   - id: "e1d1542a-2454-498f-90f3-2bbd7614e256"
     roles:

@@ -1,6 +1,7 @@
 ---
 id: "3420c8b0-61cd-4a30-9ae7-1bdae8337371"
 title: "The Blood Arm"
+type: band
 socials:
   facebook: ""
   instagram: ""

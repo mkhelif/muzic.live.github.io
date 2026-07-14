@@ -1,6 +1,7 @@
 ---
 id: "9a5961cc-80a5-4d0a-9d7b-a2957b223466"
 title: "Trivium"
+type: band
 members:
   - id: "8fdd86b8-1def-48b4-ad1f-28486d96371f"
     roles:

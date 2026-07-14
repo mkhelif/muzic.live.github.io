@@ -1,6 +1,7 @@
 ---
 id: "1d1d5856-ac52-4a79-9a23-034e93a4be17"
 title: "Ridoo Diskoo"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

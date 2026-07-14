@@ -1,6 +1,7 @@
 ---
 id: "0d148669-2fcc-4f12-ab6b-056efb435e05"
 title: "2097"
+type: band
 members:
   - id: "88bf3253-01e3-45ff-80bc-735c981d73cc"
     roles:

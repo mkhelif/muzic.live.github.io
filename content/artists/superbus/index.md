@@ -1,6 +1,7 @@
 ---
 id: "a1c26486-0451-4806-af8d-50386d2d9a60"
 title: "Superbus"
+type: band
 members:
   - id: "ea291fc0-cf13-45a6-a9f7-abf588d3a6de"
     roles:

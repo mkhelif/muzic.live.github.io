@@ -1,6 +1,7 @@
 ---
 id: "5db0b2bd-4d0e-43d8-bac7-1e7daf84f671"
 title: "Cianan Madigan"
+type: person
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "238174c6-1d5f-4bda-82b6-8145ea6d3f91"
 title: "Freeman"
+type: person
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "e4ef32b3-ef4d-4d7e-9925-bbcc3706671b"
 title: "IAM"
+type: band
 members:
   - id: "a3bbf5d1-b058-4eda-98ad-1aaaf4a5d6c6"
     roles:

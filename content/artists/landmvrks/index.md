@@ -1,6 +1,7 @@
 ---
 id: "6904a478-cc3a-4be8-819e-3f81eca3adf2"
 title: "LANDMVRKS"
+type: band
 members:
   - id: "01c12748-506c-4cc3-a035-1b5ab7556906"
     roles:

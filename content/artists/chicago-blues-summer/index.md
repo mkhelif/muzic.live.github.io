@@ -1,6 +1,7 @@
 ---
 id: "4b20f4b4-d469-41fe-8d5e-abb874411415"
 title: "Chicago Blues Summer"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

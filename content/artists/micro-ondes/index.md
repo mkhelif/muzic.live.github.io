@@ -1,6 +1,7 @@
 ---
 id: "c6abe3de-39de-483c-8ecb-3d20dbad6047"
 title: "Micro Ondes"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

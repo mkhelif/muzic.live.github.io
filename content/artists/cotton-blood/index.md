@@ -1,6 +1,7 @@
 ---
 id: "353d5a0e-3807-4dc0-8db6-1c294358737a"
 title: "Cotton Blood"
+type: unknown
 socials:
   facebook: "CottonBloodband"
   instagram: "cotton.blood"

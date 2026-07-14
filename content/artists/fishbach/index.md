@@ -1,6 +1,7 @@
 ---
 id: "73f77fdb-330f-4750-bb6d-dc569023d735"
 title: "Fishbach"
+type: person
 socials:
   youtube: "@ffishbach"
   web: "https://florafishbach.fr/"

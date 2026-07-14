@@ -1,6 +1,7 @@
 ---
 id: "64d85df7-7866-4440-b07b-27ff5676bd1d"
 title: "Deliverance"
+type: band
 socials:
   facebook: ""
   instagram: ""

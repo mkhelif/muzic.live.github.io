@@ -1,6 +1,7 @@
 ---
 id: "2968f466-e8a1-4f18-bfa7-3cd17d39b5a6"
 title: "Stray Cats"
+type: band
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "9eeebc70-54e9-4da6-bd42-b9b43f7417e6"
 title: "Barely Lit Path"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

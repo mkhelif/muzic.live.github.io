@@ -1,6 +1,7 @@
 ---
 id: "e9dd7925-76a9-4929-adfb-72f415f10625"
 title: "Clara Peya"
+type: person
 socials:
   facebook: ""
   instagram: ""

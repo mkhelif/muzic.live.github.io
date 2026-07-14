@@ -1,6 +1,7 @@
 ---
 id: "d4815cfb-883a-48a1-a95e-8174126e0762"
 title: "Picture This"
+type: band
 socials:
   facebook: ""
   instagram: ""

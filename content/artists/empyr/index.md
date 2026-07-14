@@ -1,6 +1,7 @@
 ---
 id: "b9d74764-1a67-4854-802d-849ce581508e"
 title: "Empyr"
+type: band
 socials:
   facebook: ""
   instagram: ""

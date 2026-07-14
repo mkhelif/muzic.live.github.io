@@ -1,6 +1,7 @@
 ---
 id: "1dd821bf-5da5-4eb6-b339-d2d252c5be2f"
 title: "Matt DiRito"
+type: person
 socials:
   facebook: ""
   instagram: ""

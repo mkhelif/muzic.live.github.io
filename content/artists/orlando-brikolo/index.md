@@ -1,6 +1,7 @@
 ---
 id: "3461496f-d446-440f-8f7b-dd4f76deefc1"
 title: "Orlando Brikolo"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

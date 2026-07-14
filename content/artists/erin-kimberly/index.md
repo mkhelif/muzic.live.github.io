@@ -1,6 +1,7 @@
 ---
 id: "4ef5a474-77b1-4194-baaa-ea58378ba86b"
 title: "Erin Kimberly"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

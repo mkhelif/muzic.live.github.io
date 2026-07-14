@@ -1,6 +1,7 @@
 ---
 id: "eeb3f6e7-78ec-4809-8467-139019e86b4f"
 title: "Fabulous Sheep"
+type: band
 members:
   - id: "d8ae5882-67d0-49e0-bfdd-f4a08f3b6d66"
     roles:

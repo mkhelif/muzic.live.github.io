@@ -1,6 +1,7 @@
 ---
 id: "4a6e8bb1-220f-4127-85fc-befb6b273230"
 title: "The Itch"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

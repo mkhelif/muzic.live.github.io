@@ -1,6 +1,7 @@
 ---
 id: "853ff8cf-73a4-410f-98fc-cb4b3f8bb3df"
 title: "Teenage Dads"
+type: band
 socials:
   facebook: ""
   instagram: ""

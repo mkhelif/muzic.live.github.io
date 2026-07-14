@@ -1,6 +1,7 @@
 ---
 id: "cbaf4eb8-b794-42b3-9128-fa85c15f899b"
 title: "Tasty Or Not"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

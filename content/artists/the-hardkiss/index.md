@@ -1,6 +1,7 @@
 ---
 id: "3aa87d58-fabd-4b81-af06-ffce952ff4ef"
 title: "The Hardkiss"
+type: band
 socials:
   facebook: ""
   instagram: ""

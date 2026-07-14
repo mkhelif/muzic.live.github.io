@@ -1,6 +1,7 @@
 ---
 id: "08987023-cbee-4238-a3c1-38937775d332"
 title: "Sergent Garcia"
+type: person
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "734ad2ca-0961-4acf-8e74-47c48fbea687"
 title: "I Prevail"
+type: band
 socials:
   facebook: ""
   instagram: ""

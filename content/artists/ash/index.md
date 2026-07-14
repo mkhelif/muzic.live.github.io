@@ -1,6 +1,7 @@
 ---
 id: "5cdb578f-ea35-4222-b847-77aab37612dc"
 title: "ASH"
+type: person
 socials:
   facebook: "ash.official.music"
   instagram: "ashmusic"

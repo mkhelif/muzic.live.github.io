@@ -1,6 +1,7 @@
 ---
 id: "7b2b7f35-2232-42cd-a75f-ca9a24050923"
 title: "Luminati Suns"
+type: band
 socials:
   facebook: ""
   instagram: ""

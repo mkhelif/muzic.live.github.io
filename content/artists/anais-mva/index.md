@@ -1,6 +1,7 @@
 ---
 id: "8f597fa0-2a35-4855-a657-21bc1ebccd27"
 title: "Anaïs MVA"
+type: person
 socials:
   instagram: "anaismva"
   tiktok: "@anaismva"

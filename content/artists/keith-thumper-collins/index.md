@@ -1,6 +1,7 @@
 ---
 id: "88dca187-c116-4621-97db-cdcf07dc70ff"
 title: "Keith “Thumper” Collins"
+type: person
 socials:
   facebook: ""
   instagram: ""

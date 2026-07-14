@@ -1,6 +1,7 @@
 ---
 id: "5f7f169a-3ca9-4446-bdc0-086e81e30464"
 title: "Muse"
+type: band
 members:
   - id: "c595bc09-6f4a-4a71-a4d4-9fb897a1c198"
     roles:

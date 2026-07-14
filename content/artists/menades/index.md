@@ -1,6 +1,7 @@
 ---
 id: "e7ae033b-46c3-473a-99b2-e1209f7e97a9"
 title: "Ménades"
+type: unknown
 socials:
   facebook: "MenadesBand"
   instagram: "menades__"

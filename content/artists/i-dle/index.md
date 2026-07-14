@@ -1,6 +1,7 @@
 ---
 id: "36692cd2-2cae-4af2-ab90-d187b43b460a"
 title: "i-dle"
+type: band
 socials:
   facebook: ""
   instagram: "g_i_dle"

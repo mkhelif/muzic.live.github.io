@@ -1,6 +1,7 @@
 ---
 id: "5d2482a6-b6ed-496f-bffc-0353fdd3d211"
 title: "Sorg & Napoleon Maddox"
+type: band
 members:
   - id: "d5048d2c-591a-4b99-868d-831167bb3862"
     roles:

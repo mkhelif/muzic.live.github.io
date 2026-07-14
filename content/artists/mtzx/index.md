@@ -1,6 +1,7 @@
 ---
 id: "13bfbfda-9515-47c0-b3d4-9166b70ec12a"
 title: "MTZx"
+type: person
 socials:
   facebook: "MTZoff3"
   instagram: "mtzx_off3"

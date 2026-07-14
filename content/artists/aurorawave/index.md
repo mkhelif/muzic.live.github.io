@@ -1,6 +1,7 @@
 ---
 id: "d6142bbe-0024-4871-9d18-d8c918e11d51"
 title: "Aurorawave"
+type: band
 socials:
   facebook: ""
   instagram: ""

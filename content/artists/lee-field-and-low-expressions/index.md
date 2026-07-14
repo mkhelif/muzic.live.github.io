@@ -1,6 +1,7 @@
 ---
 id: "0b144b74-1054-4034-9ea6-33abf832b891"
 title: "Lee Field & Low Expressions"
+type: band
 socials:
   facebook: ""
   instagram: ""

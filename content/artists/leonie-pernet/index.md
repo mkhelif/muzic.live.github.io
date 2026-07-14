@@ -1,6 +1,7 @@
 ---
 id: "6ffa4682-bd9d-4df7-a4df-4478fa4f1b76"
 title: "Léonie Pernet"
+type: person
 socials:
   instagram: "leoniepernet"
   facebook: ""

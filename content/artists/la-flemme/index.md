@@ -1,6 +1,7 @@
 ---
 id: "d2dee3e3-ad7e-4ce5-b482-4d951daca597"
 title: "La Flemme"
+type: band
 socials:
   facebook: "profile.php?id=61550970269839"
   instagram: "laflemme_band"

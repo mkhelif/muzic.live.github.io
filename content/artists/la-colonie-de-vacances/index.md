@@ -1,6 +1,7 @@
 ---
 id: "f69aec6a-913b-492e-b98d-029f511d4d3d"
 title: "La Colonie de Vacances"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

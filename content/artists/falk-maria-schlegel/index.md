@@ -1,6 +1,7 @@
 ---
 id: "7b806ccc-5acd-488e-a435-ea4e2830d19d"
 title: "Falk Maria Schlegel"
+type: person
 socials:
   facebook: ""
   instagram: ""

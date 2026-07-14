@@ -1,6 +1,7 @@
 ---
 id: "04fdce89-15a5-4f41-a224-25e17cbdc442"
 title: "Interpol"
+type: band
 members:
   - id: "ecb5c895-a76f-4e2a-b39b-1ad82033dec7"
     roles:

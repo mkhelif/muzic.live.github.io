@@ -1,6 +1,7 @@
 ---
 id: "b419c2dd-08ed-46c7-807f-9c727d052f8f"
 title: "Faithless"
+type: band
 socials:
   facebook: ""
   instagram: ""

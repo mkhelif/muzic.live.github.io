@@ -1,6 +1,7 @@
 ---
 id: "bcd28ca5-451c-4701-a968-48086d087d28"
 title: "MADAM"
+type: band
 socials:
   facebook: "madamofficiel"
   instagram: "madamofficiel"

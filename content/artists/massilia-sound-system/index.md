@@ -1,6 +1,7 @@
 ---
 id: "38847d85-dc00-4199-a364-77071d6c8858"
 title: "Massilia Sound System"
+type: band
 socials:
   facebook: "LeMassiliaSoundSystem"
   instagram: "massilia_sound_system"

@@ -1,6 +1,7 @@
 ---
 id: "c6020a9a-5f4c-43d1-b3f4-67896239c1ae"
 title: "The Temper Trap"
+type: band
 members:
   - id: "65183d02-a84b-42ec-b03c-50d02e41e70b"
     roles:

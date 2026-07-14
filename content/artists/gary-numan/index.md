@@ -1,6 +1,7 @@
 ---
 id: "61b36cfd-6f0e-4a6c-ae75-1671fafbf49f"
 title: "Gary Numan"
+type: person
 socials:
   facebook: ""
   instagram: ""

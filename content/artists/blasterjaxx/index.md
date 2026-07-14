@@ -1,6 +1,7 @@
 ---
 id: "fe47932b-4347-45a0-b608-6db188477042"
 title: "Blasterjaxx"
+type: band
 members:
   - id: "56266b33-528d-4207-9d66-fca05581ebfe"
     roles:

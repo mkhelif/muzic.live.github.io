@@ -1,6 +1,7 @@
 ---
 id: "dcd54fc0-8758-40c3-906c-88a386360b7d"
 title: "Cate Le Bon"
+type: person
 socials:
   facebook: ""
   instagram: ""

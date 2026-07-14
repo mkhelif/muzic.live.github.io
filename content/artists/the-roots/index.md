@@ -1,6 +1,7 @@
 ---
 id: "60a32285-accc-44eb-92d9-983eefa32e8c"
 title: "The Roots"
+type: band
 socials:
   facebook: ""
   instagram: ""

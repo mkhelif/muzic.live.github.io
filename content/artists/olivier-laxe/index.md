@@ -1,6 +1,7 @@
 ---
 id: "0a1d4d5c-3a37-4e9d-8f46-424d35b5bada"
 title: "Ólivier Laxe"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

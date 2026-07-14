@@ -1,6 +1,7 @@
 ---
 id: "d88304bd-4591-4713-a9a2-4a3fb06b9df6"
 title: "Ankor"
+type: band
 members:
   - id: "00c1739b-ac94-4aaa-9169-2ecae5dbd998"
     roles:

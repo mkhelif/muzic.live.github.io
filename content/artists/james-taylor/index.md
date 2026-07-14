@@ -1,6 +1,7 @@
 ---
 id: "10024fad-03d5-4176-b7d3-f3d66152690d"
 title: "James Taylor"
+type: person
 socials:
   facebook: "JamesTaylor"
   instagram: "jamestaylor_com"

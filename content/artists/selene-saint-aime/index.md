@@ -1,6 +1,7 @@
 ---
 id: "8296eb2d-80d4-4a7d-bf21-a7b17661b452"
 title: "Sélène Saint-Aimé"
+type: person
 socials:
   facebook: ""
   instagram: ""

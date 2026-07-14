@@ -1,6 +1,7 @@
 ---
 id: "589af351-28ab-4478-9800-9c5c83abb25e"
 title: "Benighted"
+type: band
 socials:
   facebook: ""
   instagram: ""

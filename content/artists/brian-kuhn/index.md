@@ -1,6 +1,7 @@
 ---
 id: "02894ccb-aaaf-43a0-aed5-786f181a50b1"
 title: "Brian Kuhn"
+type: person
 socials:
   facebook: ""
   instagram: ""

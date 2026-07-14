@@ -1,6 +1,7 @@
 ---
 id: "d02514b6-febb-4fed-b672-f37e2777ec7b"
 title: "Da Silva"
+type: person
 socials:
   facebook: ""
   instagram: ""

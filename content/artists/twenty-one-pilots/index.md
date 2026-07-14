@@ -1,6 +1,7 @@
 ---
 id: "90536ee8-6bb3-41bf-a04b-9f514ef4b4a7"
 title: "Twenty One Pilots"
+type: band
 members:
   - id: "51cf58ee-6126-44c2-b5d8-f3a44d36c9cc"
     roles:

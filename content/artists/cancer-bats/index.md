@@ -1,6 +1,7 @@
 ---
 id: "c1866711-e288-42e1-ae72-e5fa0470ab9e"
 title: "Cancer Bats"
+type: band
 socials:
   facebook: ""
   instagram: ""

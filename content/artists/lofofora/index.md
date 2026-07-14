@@ -1,6 +1,7 @@
 ---
 id: "a4ea37f1-9973-40f2-8438-1d38fb4c83d0"
 title: "Lofofora"
+type: band
 members:
   - id: "99768b87-e721-4d59-821d-5700f47a8a2e"
     roles:

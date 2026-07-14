@@ -1,6 +1,7 @@
 ---
 id: "92dc8243-4bed-489c-9a30-80f45adf7a3e"
 title: "Brume"
+type: person
 socials:
   facebook: ""
   instagram: ""

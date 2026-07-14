@@ -1,6 +1,7 @@
 ---
 id: "dcf27394-8a78-4444-95c5-ad2d250ba2af"
 title: "MLP"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

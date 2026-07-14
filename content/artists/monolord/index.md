@@ -1,6 +1,7 @@
 ---
 id: "d6f12690-c0fd-4265-a790-339119d7967e"
 title: "Monolord"
+type: band
 socials:
   facebook: ""
   instagram: ""

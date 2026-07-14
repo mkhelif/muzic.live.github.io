@@ -1,6 +1,7 @@
 ---
 id: "09d3b802-38fa-49f6-b4ef-a24b6fd7bc3c"
 title: "Annisokay"
+type: band
 socials:
   facebook: ""
   instagram: ""

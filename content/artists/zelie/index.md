@@ -1,6 +1,7 @@
 ---
 id: "f1a9183f-c976-4dec-b189-bc1063907b8f"
 title: "Zélie"
+type: person
 socials:
   instagram: "zelie"
   facebook: ""

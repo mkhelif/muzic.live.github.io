@@ -1,6 +1,7 @@
 ---
 id: "3b787e45-2a7c-49ac-87b9-ba7f9f636a42"
 title: "Wolfmother"
+type: band
 members:
   - id: "da5cc585-c151-47bf-8807-10fe901df32b"
     roles:

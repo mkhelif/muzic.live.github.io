@@ -1,6 +1,7 @@
 ---
 id: "0c797b17-987c-4876-88c1-d9d798c07918"
 title: "Lifelover"
+type: band
 socials:
   facebook: ""
   instagram: ""

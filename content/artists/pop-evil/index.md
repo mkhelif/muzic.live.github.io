@@ -1,6 +1,7 @@
 ---
 id: "90110f4a-c427-4bfd-bf51-208e565bb5a7"
 title: "Pop Evil"
+type: band
 members:
   - id: "cb7e48ff-d1c7-46f9-952a-a01cb88e3eb4"
     roles:

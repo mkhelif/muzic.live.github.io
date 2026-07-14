@@ -1,6 +1,7 @@
 ---
 id: "5df2c03b-11e0-4b19-91c7-1d06947c3234"
 title: "Ana Vaga"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

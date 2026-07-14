@@ -1,6 +1,7 @@
 ---
 id: "b4d4e7c2-db8c-4db7-b9f8-664441a33cb8"
 title: "The Royston Club"
+type: band
 members:
   - id: "25f1ba47-eb17-4777-8694-22d49e8aa54f"
     roles:

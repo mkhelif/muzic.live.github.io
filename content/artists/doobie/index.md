@@ -1,6 +1,7 @@
 ---
 id: "b30aedf0-d7df-4468-8dbc-be85cd4bf107"
 title: "Doobie"
+type: person
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "4ee20c2d-7724-49ed-9b89-d8ced6f119ee"
 title: "Asian Dub Foundation"
+type: band
 members:
   - id: "b48e59d6-d46f-4c5e-8878-a19f532523f0"
     roles:

@@ -1,6 +1,7 @@
 ---
 id: "7b28b9f1-3d6a-41ed-9801-4a78530f9e23"
 title: "Sarah Brown"
+type: person
 management: "c11897d2-4f2d-4947-b086-510e064854de"
 socials:
   facebook: "sarahbrownvocal"

@@ -1,6 +1,7 @@
 ---
 id: "e36230af-3a5f-443a-a5cc-8695580dc83a"
 title: "KWN"
+type: person
 socials:
   facebook: ""
   instagram: ""

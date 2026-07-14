@@ -1,6 +1,7 @@
 ---
 id: "6e08cbfb-203c-4ba7-ae09-ec6c70c0f752"
 title: "Laboratorium Pieśni"
+type: band
 socials:
   facebook: ""
   instagram: ""

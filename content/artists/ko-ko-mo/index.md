@@ -1,6 +1,7 @@
 ---
 id: "e2bf5aea-cc16-4370-ba19-db3a6c15746f"
 title: "Ko Ko Mo"
+type: band
 members:
   - id: "ee4532e6-21e8-435d-b011-bc0c4e0e53b9"
     roles:

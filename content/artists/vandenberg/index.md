@@ -1,6 +1,7 @@
 ---
 id: "cd5ed4cf-f6d7-4feb-a43a-9ce49eff6428"
 title: "Vandenberg"
+type: band
 members:
   - id: "700ef4e7-e11c-4e5d-84f5-3b4aeb2347d6"
     roles:

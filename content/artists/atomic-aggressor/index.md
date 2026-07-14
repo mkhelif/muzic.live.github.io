@@ -1,6 +1,7 @@
 ---
 id: "c8a52a7f-dfac-4da5-bc64-8f64aed43190"
 title: "Atomic Aggressor"
+type: band
 socials:
   facebook: ""
   instagram: ""

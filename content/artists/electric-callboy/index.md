@@ -1,6 +1,7 @@
 ---
 id: "74dd96c3-2ca5-4548-b0b0-6d9718ecb76a"
 title: "Electric Callboy"
+type: band
 members:
   - id: "95886930-44f4-4e01-84c0-da595a2b568d"
     roles:

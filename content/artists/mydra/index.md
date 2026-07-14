@@ -1,6 +1,7 @@
 ---
 id: "be1e01fb-28fb-44ad-86fd-635c20cec34f"
 title: "Mydra"
+type: band
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "42f9703d-d1f3-44fa-a1d4-0b65ce538f0f"
 title: "Wind Rose"
+type: band
 members:
   - id: "634de420-ed08-4b74-b69b-bb215bd3d4cb"
     roles:

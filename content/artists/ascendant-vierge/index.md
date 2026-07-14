@@ -1,6 +1,7 @@
 ---
 id: "b11e2b9d-ab6d-4bbe-8678-7f2c3b963736"
 title: "Ascendant Vierge"
+type: band
 socials:
   facebook: ""
   instagram: ""

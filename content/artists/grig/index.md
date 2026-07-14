@@ -1,6 +1,7 @@
 ---
 id: "1b3eac67-2723-4bcb-b22e-dfb64642e7b9"
 title: "GriG"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

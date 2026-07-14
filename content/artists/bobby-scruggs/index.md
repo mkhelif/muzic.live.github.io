@@ -1,6 +1,7 @@
 ---
 id: "4d659a99-00a3-4a74-9983-a98070eac7d0"
 title: "Bobby Scruggs"
+type: person
 socials:
   facebook: ""
   instagram: ""

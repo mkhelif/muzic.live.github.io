@@ -1,6 +1,7 @@
 ---
 id: "58a75db0-fe16-4d28-9779-19be27dfa8ec"
 title: "Friko"
+type: band
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "15e27ac9-ef7e-4345-9a34-64579812db1e"
 title: "Case Oats"
+type: band
 socials:
   facebook: ""
   instagram: ""

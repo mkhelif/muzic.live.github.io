@@ -1,6 +1,7 @@
 ---
 id: "9a2ddcad-8960-426f-afb6-6ece6dd9739b"
 title: "John Legend"
+type: person
 socials:
   facebook: "johnlegend"
   instagram: "johnlegend"

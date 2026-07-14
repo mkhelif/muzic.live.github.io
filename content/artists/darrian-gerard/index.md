@@ -1,6 +1,7 @@
 ---
 id: "252fed35-b592-4ebd-b54f-c61bb77a30f7"
 title: "Darrian Gerard"
+type: person
 socials:
   facebook: ""
   instagram: ""

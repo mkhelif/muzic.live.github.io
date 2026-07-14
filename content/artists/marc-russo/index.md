@@ -1,6 +1,7 @@
 ---
 id: "fb0b3ebd-acfb-4f46-9354-650276e7a430"
 title: "Marc Russo"
+type: person
 socials:
   facebook: ""
   instagram: ""

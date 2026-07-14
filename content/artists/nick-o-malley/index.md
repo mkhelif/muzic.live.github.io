@@ -1,6 +1,7 @@
 ---
 id: "9b724803-7890-475c-b8c3-b347a45439d0"
 title: "Nick O'Malley"
+type: person
 socials:
   facebook: ""
   instagram: ""

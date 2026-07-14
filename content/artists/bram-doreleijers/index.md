@@ -1,6 +1,7 @@
 ---
 id: "8eacb314-25db-472a-9b44-eb474e3db929"
 title: "Bram Doreleijers"
+type: person
 socials:
   facebook: ""
   instagram: ""

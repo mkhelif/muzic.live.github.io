@@ -1,6 +1,7 @@
 ---
 id: "7f33509a-b7bc-4642-9681-4d240a349f49"
 title: "Superbloom"
+type: band
 socials:
   facebook: ""
   instagram: ""

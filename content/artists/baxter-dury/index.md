@@ -1,6 +1,7 @@
 ---
 id: "2847fd66-182e-4264-a46d-00e1a141a35c"
 title: "Baxter Dury"
+type: person
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "dae0302b-d293-4cac-b4a9-4b9e02de7d1e"
 title: "Mercure Nitro"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

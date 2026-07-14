@@ -1,6 +1,7 @@
 ---
 id: "0363b2e0-0ca6-40bd-a751-ac16857e0b89"
 title: "Clutch"
+type: band
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "a5615ab9-5074-471b-a082-287ee2701753"
 title: "Epica"
+type: band
 members:
   - id: "c765e74c-76b2-4c35-962c-0ce674b7dcc6"
     roles:

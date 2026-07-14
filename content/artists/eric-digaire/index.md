@@ -1,6 +1,7 @@
 ---
 id: "d8f18f24-f9a5-4523-adde-9665d284c2bb"
 title: "Éric Digaire"
+type: person
 socials:
   facebook: ""
   instagram: ""

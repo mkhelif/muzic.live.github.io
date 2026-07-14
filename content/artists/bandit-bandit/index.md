@@ -1,6 +1,7 @@
 ---
 id: "404bf386-6e22-4c2c-9109-832c64bb3638"
 title: "Bandit Bandit"
+type: band
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "92d41829-937e-4ff2-9d3b-a5645b873e8c"
 title: "The Aces"
+type: band
 members:
   - id: "b76f9c51-9c63-4875-bd16-eee16b5ba694"
     roles:

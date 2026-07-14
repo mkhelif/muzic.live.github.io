@@ -1,6 +1,7 @@
 ---
 id: "c6e2d687-153f-4402-8526-2b18b531fd27"
 title: "Luisa Caceres"
+type: person
 socials:
   facebook: ""
   instagram: ""

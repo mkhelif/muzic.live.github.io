@@ -1,6 +1,7 @@
 ---
 id: "3ed12c03-0114-478d-852c-b281d62b7bf7"
 title: "Artus"
+type: person
 socials:
   instagram: "artusofficiel"
   facebook: ""

@@ -1,6 +1,7 @@
 ---
 id: "37865937-d689-4a01-a69f-a1225ece455e"
 title: "Slift"
+type: band
 socials:
   facebook: ""
   instagram: ""

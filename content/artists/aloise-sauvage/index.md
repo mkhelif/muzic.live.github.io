@@ -1,6 +1,7 @@
 ---
 id: "259604b1-b6e7-484d-b952-8d6a9ee0c9fd"
 title: "Aloïse Sauvage"
+type: person
 socials:
   facebook: ""
   instagram: ""

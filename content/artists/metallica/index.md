@@ -1,6 +1,7 @@
 ---
 id: "f77406ca-9c5a-4a15-a923-45d1c84f46d0"
 title: "Metallica"
+type: band
 members:
   - id: "7b829a1c-f0e9-43d5-81be-37ac7dbb6863"
     roles:

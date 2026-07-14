@@ -1,6 +1,7 @@
 ---
 id: "6b87bbc2-e21a-40af-a17a-2d8ffad139b9"
 title: "Aby Coulibaly"
+type: person
 socials:
   facebook: ""
   instagram: ""

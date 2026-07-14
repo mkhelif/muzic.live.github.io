@@ -1,6 +1,7 @@
 ---
 id: "07fce82a-cbbd-41a4-8548-254517874e14"
 title: "Magnus Rosén"
+type: person
 socials:
   facebook: ""
   instagram: ""

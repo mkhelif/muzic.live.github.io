@@ -1,6 +1,7 @@
 ---
 id: "c648262a-127d-47f8-a41f-596f0025f108"
 title: "Carmina Burana"
+type: band
 socials:
   facebook: ""
   instagram: ""

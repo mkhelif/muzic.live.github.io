@@ -1,6 +1,7 @@
 ---
 id: "ae38a706-0af6-4674-8cd8-591fad385314"
 title: "Jude"
+type: unknown
 socials:
   instagram: "jude_wav"
   threads: "@jude_wav"

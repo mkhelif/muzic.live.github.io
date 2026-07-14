@@ -1,6 +1,7 @@
 ---
 id: "68316140-e623-407d-aea6-09ce22cabbb6"
 title: "Cabal"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

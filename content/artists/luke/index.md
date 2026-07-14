@@ -1,6 +1,7 @@
 ---
 id: "5f6a9468-94a0-4728-b8b4-441419f77436"
 title: "Luke"
+type: person
 socials:
   facebook: ""
   instagram: ""

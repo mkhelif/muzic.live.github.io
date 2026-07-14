@@ -1,6 +1,7 @@
 ---
 id: "19fd49d3-dde3-4528-8082-ec4e77ac46b0"
 title: "Chris Isaak"
+type: person
 socials:
   facebook: "chrisisaak"
   instagram: "chrisisaak"

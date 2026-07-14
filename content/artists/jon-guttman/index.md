@@ -1,6 +1,7 @@
 ---
 id: "bcac1c5b-2bba-44dd-95b3-e766643e50f6"
 title: "Jon Guttman"
+type: person
 socials:
   facebook: ""
   instagram: ""

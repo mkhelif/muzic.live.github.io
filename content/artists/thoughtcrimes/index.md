@@ -1,6 +1,7 @@
 ---
 id: "a3cf5c6d-adbf-448f-ae91-70bffbc2cfaf"
 title: "Thoughtcrimes"
+type: band
 socials:
   facebook: ""
   instagram: ""

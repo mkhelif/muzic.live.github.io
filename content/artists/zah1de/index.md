@@ -1,6 +1,7 @@
 ---
 id: "877a5163-109a-4c18-ba4a-946e4654df3f"
 title: "ZAH1DE"
+type: person
 socials:
   facebook: ""
   instagram: ""

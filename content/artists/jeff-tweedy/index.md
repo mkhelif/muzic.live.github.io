@@ -1,6 +1,7 @@
 ---
 id: "416b5836-ca39-4a81-972e-a9a2130b6e02"
 title: "Jeff Tweedy"
+type: person
 socials:
   facebook: "JeffTweedyHQ"
   instagram: "jefftweedy"

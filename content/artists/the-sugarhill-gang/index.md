@@ -1,6 +1,7 @@
 ---
 id: "6d9375ee-1251-4bea-b4ba-74640516cc47"
 title: "The Sugarhill Gang"
+type: band
 members:
   - id: "7904028c-1e0c-4dd3-9c1a-a496d2b6d07e"
     roles:

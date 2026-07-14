@@ -1,6 +1,7 @@
 ---
 id: "9bd15276-b210-4f87-b343-83c05390b29c"
 title: "Zebrahead"
+type: band
 members:
   - id: "2725694e-7dc7-4afc-8d7a-f28e4d75c046"
     roles:

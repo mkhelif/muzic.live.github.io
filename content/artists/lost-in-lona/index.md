@@ -1,6 +1,7 @@
 ---
 id: "34edfda5-5c66-4996-86a6-0858162d78cb"
 title: "Lost in Lona"
+type: band
 members:
   - id: "e91b55c0-7a1a-46fd-8508-b94d28dce676"
     roles:

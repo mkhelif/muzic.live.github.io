@@ -1,6 +1,7 @@
 ---
 id: "6a6fd5c1-29b7-4383-885e-1925e0c14c23"
 title: "The Warning"
+type: band
 members:
   - id: "f677fcc6-f09c-4caa-8ddf-7da44a0439e8"
     roles:

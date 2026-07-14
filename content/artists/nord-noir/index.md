@@ -1,6 +1,7 @@
 ---
 id: "b7b8d3dd-06ae-4b1b-880b-26c3ddcf1962"
 title: "Nord Noir"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

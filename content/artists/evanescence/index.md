@@ -1,6 +1,7 @@
 ---
 id: "2f398845-d660-4bd3-bf54-4e81cfcd706f"
 title: "Evanescence"
+type: band
 members:
   - id: "89b8387c-219c-4ae0-b4dc-974f72b245d6"
     roles:

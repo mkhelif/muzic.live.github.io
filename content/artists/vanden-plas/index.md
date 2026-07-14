@@ -1,6 +1,7 @@
 ---
 id: "e62d8440-4b62-47b4-bf7f-01b645c9bfbd"
 title: "Vanden Plas"
+type: band
 members:
   - id: "04b7ae8d-9e23-4e31-b24f-ed9de97829f5"
     roles:

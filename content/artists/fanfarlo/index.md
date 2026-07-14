@@ -1,6 +1,7 @@
 ---
 id: "c3ee91c3-08ee-46e7-acf8-555f4278b42c"
 title: "Fanfarlo"
+type: band
 socials:
   facebook: ""
   instagram: ""

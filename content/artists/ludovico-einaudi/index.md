@@ -1,6 +1,7 @@
 ---
 id: "f8ab2dc4-7729-456f-9c87-10675edeb784"
 title: "Ludovico Einaudi"
+type: person
 socials:
   instagram: "ludovicoeinaudi"
   web: "https://www.ludovicoeinaudi.com/"

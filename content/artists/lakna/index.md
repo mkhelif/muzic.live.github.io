@@ -1,6 +1,7 @@
 ---
 id: "b4f265ff-069c-482a-8d9d-75e2ab578de0"
 title: "Lakna"
+type: person
 socials:
   facebook: "profile.php?id=100055051995283"
   instagram: "itslordlakna"

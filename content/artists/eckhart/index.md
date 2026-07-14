@@ -1,6 +1,7 @@
 ---
 id: "c0e144d7-a92d-4dfb-bf1a-68f4104e1651"
 title: "Eckhart"
+type: unknown
 socials:
   instagram: "eckhart._"
   youtube: "@eckhart_music"

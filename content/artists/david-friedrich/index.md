@@ -1,6 +1,7 @@
 ---
 id: e0f8a325-9142-4174-8c03-738b75d833ea
 title: "David Friedrich"
+type: person
 socials:
   facebook: ""
   instagram: ""

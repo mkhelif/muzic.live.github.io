@@ -1,6 +1,7 @@
 ---
 id: "075a2e4e-4568-4662-b71e-2088706b76d7"
 title: "Wings of Steel"
+type: band
 members:
   - id: "8ad27da3-775d-4a99-bb2d-2423c2815cf1"
     roles:

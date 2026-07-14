@@ -1,6 +1,7 @@
 ---
 id: "5826c4e7-9288-4e38-925e-20ad0131bbbf"
 title: "Alma Laloy"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "8443df22-4463-46fd-9db2-566ac67410fb"
 title: "Cold.cApsule"
+type: band
 socials:
   facebook: ""
   instagram: ""

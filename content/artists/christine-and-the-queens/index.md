@@ -1,6 +1,7 @@
 ---
 id: "b987a4e9-35e1-42a0-a832-af41bd39648b"
 title: "Christine and the Queens"
+type: band
 socials:
   facebook: ""
   instagram: ""

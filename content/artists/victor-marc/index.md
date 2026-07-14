@@ -1,6 +1,7 @@
 ---
 id: "8e8a522f-a967-423d-be06-8536c8fc1f14"
 title: "Victor Marc"
+type: person
 socials:
   facebook: ""
   instagram: ""

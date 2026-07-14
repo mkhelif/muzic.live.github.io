@@ -1,6 +1,7 @@
 ---
 id: "c3dcafe9-9be1-4616-92e2-572e8f02496f"
 title: "The Lathums"
+type: band
 socials:
   facebook: ""
   instagram: ""

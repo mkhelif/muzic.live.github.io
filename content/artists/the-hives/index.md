@@ -1,6 +1,7 @@
 ---
 id: "395c754f-7add-4513-b8be-45af12fd50d4"
 title: "The Hives"
+type: band
 members:
   - id: "35930d28-cebb-40a4-910f-d605878a5067"
     roles:

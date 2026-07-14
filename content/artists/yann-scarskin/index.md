@@ -1,6 +1,7 @@
 ---
 id: "d70f299b-921d-4a93-9ebf-3b715cdf98bc"
 title: "Yann Scarskin"
+type: person
 socials:
   facebook: ""
   instagram: ""

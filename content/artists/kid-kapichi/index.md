@@ -1,6 +1,7 @@
 ---
 id: "3ff8bd16-2687-4ea0-895d-da89855e8eb9"
 title: "Kid Kapichi"
+type: band
 members:
   - id: "4e7c0582-760e-43ee-a93f-dd1c0cd082ad"
     roles:

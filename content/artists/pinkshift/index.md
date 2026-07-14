@@ -1,6 +1,7 @@
 ---
 id: "d3a047d5-7760-484d-a9ac-5738da7a55dc"
 title: "Pinkshift"
+type: band
 members:
   - id: "668b0b60-e4c5-46c1-8193-3cfaaaaea45c"
     roles:

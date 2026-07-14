@@ -1,6 +1,7 @@
 ---
 id: "5f8dc2cf-1f0d-4cce-acbc-6452e99cd924"
 title: "Five Finger Death Punch"
+type: band
 members:
   - id: "4e97cae9-1890-4eaf-9de4-58f7aaf3d18d"
     roles:

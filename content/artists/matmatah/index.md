@@ -1,6 +1,7 @@
 ---
 id: "9b4ea8b0-519d-41e1-9cf4-3bffc23913da"
 title: "Matmatah"
+type: band
 members:
   - id: "02473b8f-dbf5-4e85-b838-d7d00d2d05b0"
     roles:

@@ -1,6 +1,7 @@
 ---
 id: "973f77a6-6edf-4aef-9526-0b8811f9de3a"
 title: "Seven Ages"
+type: band
 socials:
   facebook: "sevenages"
   instagram: "sevenagesofficial"

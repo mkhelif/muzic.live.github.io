@@ -1,6 +1,7 @@
 ---
 id: "9b095fb9-0b5b-4ddb-99e6-6caad736949a"
 title: "Wolf Parade"
+type: band
 socials:
   facebook: ""
   instagram: ""

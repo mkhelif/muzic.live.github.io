@@ -1,6 +1,7 @@
 ---
 id: "378792ec-ac8b-4a14-a24c-f2816ea9f389"
 title: "Naphasso"
+type: band
 socials:
   facebook: ""
   instagram: ""

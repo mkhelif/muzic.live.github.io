@@ -1,6 +1,7 @@
 ---
 id: "eb558874-ed43-45af-b5b6-6199067f6da9"
 title: "Palace"
+type: band
 socials:
   facebook: "wearepalace"
   instagram: "wearepalace"

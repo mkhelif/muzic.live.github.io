@@ -1,6 +1,7 @@
 ---
 id: "acd35d18-72f8-4ec2-8ebc-13154ac4599c"
 title: "The Getdown"
+type: band
 socials:
   facebook: ""
   instagram: ""

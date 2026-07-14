@@ -1,6 +1,7 @@
 ---
 id: "67d4ab51-5979-466b-9c89-daf669fc2500"
 title: "The Young Gods"
+type: band
 members:
   - id: "b219003e-2a06-42de-8028-64b431d45683"
     roles:

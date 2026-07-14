@@ -1,6 +1,7 @@
 ---
 id: "a45cc051-4263-48fa-a431-7063c09d9950"
 title: "Barry Stock"
+type: person
 socials:
   facebook: ""
   instagram: ""

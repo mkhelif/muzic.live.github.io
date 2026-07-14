@@ -1,6 +1,7 @@
 ---
 id: "b6e818dc-da86-4549-9431-761403280a64"
 title: "HammerFall"
+type: band
 members:
   - id: "f7502d7c-146b-48e1-89f7-4ee40383b02e"
     roles:

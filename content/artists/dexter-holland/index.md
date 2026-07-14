@@ -1,6 +1,7 @@
 ---
 id: "9441f502-ef5b-46e0-a882-4b0b05fcf94a"
 title: "Dexter Holland"
+type: person
 socials:
   facebook: ""
   instagram: ""

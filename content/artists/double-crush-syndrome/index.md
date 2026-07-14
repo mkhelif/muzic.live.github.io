@@ -1,6 +1,7 @@
 ---
 id: "a0adf676-bb4a-44db-8849-ec928887a4dc"
 title: "Double Crush Syndrome"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

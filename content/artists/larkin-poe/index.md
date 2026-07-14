@@ -1,6 +1,7 @@
 ---
 id: "cc301983-a8ee-4bde-9063-b2e99eb3017f"
 title: "Larkin Poe"
+type: band
 members:
   - id: "a7f472e7-5c3d-4b8f-8bfb-fdf4a29039bd"
     roles:

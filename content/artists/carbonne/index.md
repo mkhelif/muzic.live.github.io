@@ -1,6 +1,7 @@
 ---
 id: "c994ca94-947d-49c0-a821-3c7add10d236"
 title: "Carbonne"
+type: person
 socials:
   facebook: "carbonne.p"
   instagram: "carbonne.14"

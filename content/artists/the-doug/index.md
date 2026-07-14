@@ -1,6 +1,7 @@
 ---
 id: "195ce072-94c3-4ff8-bd64-cee2bdac30f3"
 title: "The Doug"
+type: person
 socials:
   facebook: "jeunethedoug"
   instagram: "thedoug_edn"

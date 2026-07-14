@@ -1,6 +1,7 @@
 ---
 id: "8c6f69df-127d-4629-8d09-a702192a135c"
 title: "Lucky Love"
+type: person
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "774f721c-0434-4d99-a570-855e6fc155aa"
 title: "Les Clébards"
+type: band
 socials:
   facebook: ""
   instagram: ""

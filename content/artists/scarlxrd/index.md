@@ -1,6 +1,7 @@
 ---
 id: "412257c3-985d-4db9-91e7-fb034dbb2264"
 title: "Scarlxrd"
+type: person
 socials:
   facebook: ""
   instagram: ""

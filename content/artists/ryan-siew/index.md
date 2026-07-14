@@ -1,6 +1,7 @@
 ---
 id: "764b9507-431f-4231-9708-05961eecb96d"
 title: "Ryan Siew"
+type: person
 socials:
   facebook: ""
   instagram: ""

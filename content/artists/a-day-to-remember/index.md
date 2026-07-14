@@ -1,6 +1,7 @@
 ---
 id: "0ba9abe4-92d3-45de-bc02-eca18f1572a3"
 title: "A Day to Remember"
+type: band
 members:
   - id: "84fd8bb2-d0de-46ea-b518-5f1b66989475"
     roles:

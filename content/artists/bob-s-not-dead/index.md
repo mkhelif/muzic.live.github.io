@@ -1,6 +1,7 @@
 ---
 id: "66beb338-0023-4f40-8f7d-5ce40e395039"
 title: "Bob's Not Dead"
+type: band
 socials:
   facebook: ""
   instagram: ""

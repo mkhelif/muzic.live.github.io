@@ -1,6 +1,7 @@
 ---
 id: "f5174ca4-1906-4efb-8461-2a333660ce47"
 title: "Arno"
+type: person
 socials:
   facebook: ""
   instagram: ""

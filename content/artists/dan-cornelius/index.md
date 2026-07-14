@@ -1,6 +1,7 @@
 ---
 id: "222a8450-c348-4f0f-aae0-5653b08e8c2e"
 title: "Dan Cornelius"
+type: person
 socials:
   facebook: ""
   instagram: ""

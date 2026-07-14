@@ -1,6 +1,7 @@
 ---
 id: "96b1dc30-db5c-4a66-b4af-09d0132f0329"
 title: "Da Cruz"
+type: band
 members:
   - id: "b7ffd6fc-d176-472f-b455-ff0def154d63"
     roles:

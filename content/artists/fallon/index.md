@@ -1,6 +1,7 @@
 ---
 id: "3e648cc6-3e7f-4faf-b983-747c3de59aa1"
 title: "Fallon"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

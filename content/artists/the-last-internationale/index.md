@@ -1,6 +1,7 @@
 ---
 id: "00088127-4a81-46e0-b85f-626ee390e3bc"
 title: "The Last Internationale"
+type: band
 members:
   - id: "a7879d25-79aa-49cb-882e-a18235f59322"
     roles:

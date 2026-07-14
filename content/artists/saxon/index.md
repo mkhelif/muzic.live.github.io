@@ -1,6 +1,7 @@
 ---
 id: "eb010946-1e91-40f8-bc5a-824c7ba83387"
 title: "Saxon"
+type: band
 members:
   - id: "c94ad117-c6b3-40ae-acf3-7f6380a75a17"
     roles:

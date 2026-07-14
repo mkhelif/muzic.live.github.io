@@ -1,6 +1,7 @@
 ---
 id: "c026a1a5-199a-4176-9907-01f4d227044c"
 title: "KRAFTKLUB"
+type: band
 members:
   - id: "dd564986-a7b0-4c28-8d6a-0c831bce3310"
     roles:

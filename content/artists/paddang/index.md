@@ -1,6 +1,7 @@
 ---
 id: "69233fc0-a5fc-46b4-a0d3-774613bf14a2"
 title: "Paddang"
+type: band
 socials:
   facebook: "PaddangBand"
   instagram: "paddangband"

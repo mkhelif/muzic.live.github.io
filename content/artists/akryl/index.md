@@ -1,6 +1,7 @@
 ---
 id: "fbae8ace-493a-46ce-b2bc-609f2071c851"
 title: "Akryl"
+type: person
 socials:
   facebook: ""
   instagram: ""

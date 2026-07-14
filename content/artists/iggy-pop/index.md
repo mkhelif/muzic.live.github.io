@@ -1,6 +1,7 @@
 ---
 id: "b14f7797-d757-4c3c-95e2-88346cb1859a"
 title: "Iggy Pop"
+type: person
 socials:
   facebook: ""
   instagram: ""

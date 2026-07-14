@@ -1,6 +1,7 @@
 ---
 id: "477cfe7f-0349-4843-ae01-f8e7000dd261"
 title: "Sabaton"
+type: band
 members:
   - id: "f4ac5e41-4bc8-4425-9938-e127336edc1c"
     roles:

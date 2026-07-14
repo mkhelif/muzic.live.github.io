@@ -1,6 +1,7 @@
 ---
 id: "8a344acf-30d4-4d13-9732-b9fb9f55ab8b"
 title: "De La Soul Live Band"
+type: band
 socials:
   facebook: ""
   instagram: ""

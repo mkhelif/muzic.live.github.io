@@ -1,6 +1,7 @@
 ---
 id: "faa018e1-e6a0-4380-b8d1-354d01857d74"
 title: "In This Moment"
+type: band
 socials:
   facebook: ""
   instagram: ""

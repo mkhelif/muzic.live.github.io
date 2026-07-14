@@ -1,6 +1,7 @@
 ---
 id: "0c60dfdf-67eb-43ff-a2ea-e685e60cf336"
 title: "PLL"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "a29f6bb3-100e-40d4-bae7-b298f312d9ee"
 title: "Jack White"
+type: person
 socials:
   facebook: ""
   instagram: ""

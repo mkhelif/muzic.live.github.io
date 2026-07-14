@@ -1,6 +1,7 @@
 ---
 id: "f5063602-2408-4559-85a1-174ee3c77b2b"
 title: "Wolf Alice"
+type: band
 socials:
   facebook: ""
   instagram: ""

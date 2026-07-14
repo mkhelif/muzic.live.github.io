@@ -1,6 +1,7 @@
 ---
 id: "11743457-87dc-4615-a083-2c34b37eeb40"
 title: "Architects"
+type: band
 members:
   - id: "c217cc81-42d7-4dab-9475-6d72e272ec8c"
     roles:

@@ -1,6 +1,7 @@
 ---
 id: "46b3a13f-a6e2-4fd8-a776-afb7511d8e0a"
 title: "5 Seconds of Summer"
+type: band
 members:
   - id: "25866c2f-8947-4188-9f38-7974a9c98c48"
     roles:

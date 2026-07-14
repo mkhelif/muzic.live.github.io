@@ -1,6 +1,7 @@
 ---
 id: "60b71ca4-f391-4efe-ad15-9343e7730bbb"
 title: "Ryan Adams"
+type: person
 socials:
   facebook: ""
   instagram: ""

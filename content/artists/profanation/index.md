@@ -1,6 +1,7 @@
 ---
 id: "4886cc25-07b6-4dbd-969d-e388f4bfe98d"
 title: "Profanation"
+type: band
 socials:
   facebook: ""
   instagram: ""

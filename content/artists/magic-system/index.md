@@ -1,6 +1,7 @@
 ---
 id: "fca753f5-6e97-4cf9-b850-32daaa135f2f"
 title: "Magic System"
+type: band
 members:
   - id: "3dfff0d2-3515-4b49-90e8-54234718bc2c"
     roles:

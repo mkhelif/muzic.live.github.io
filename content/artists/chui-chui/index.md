@@ -1,6 +1,7 @@
 ---
 id: "75b4311a-7849-4b37-8721-e3ff5923baae"
 title: "Chui Chui"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

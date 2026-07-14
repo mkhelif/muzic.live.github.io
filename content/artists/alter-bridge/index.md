@@ -1,6 +1,7 @@
 ---
 id: "79ce59ce-44db-43be-babe-67a55f1735b6"
 title: "Alter Bridge"
+type: band
 members:
   - id: "bf7f6406-a9e0-4b56-8e22-df834347ee3a"
     roles:

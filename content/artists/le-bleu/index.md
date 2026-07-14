@@ -1,6 +1,7 @@
 ---
 id: "20ff63c3-9f26-4ea8-9e19-523b04d370b1"
 title: "Le Bleu"
+type: band
 members:
   - id: "1c5b4b99-4604-4981-bb39-a513a2bfefbf"
     roles:

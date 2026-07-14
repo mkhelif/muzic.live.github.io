@@ -1,6 +1,7 @@
 ---
 id: "885d9e45-705c-4db8-a76f-8aa26ba4546f"
 title: "Nico Sallach"
+type: person
 birth:
   date: 1990-05-31T00:00:00.000Z
   place: "Essen, Allemagne"

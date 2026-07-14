@@ -1,6 +1,7 @@
 ---
 id: "3100a2b0-8068-4fbe-8498-6f2721c90427"
 title: "Slipknot"
+type: band
 socials:
   facebook: "slipknot"
   instagram: "slipknot"

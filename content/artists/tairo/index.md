@@ -1,6 +1,7 @@
 ---
 id: "f44ef4cb-cbbd-475f-903b-802a6bd14f41"
 title: "Taïro"
+type: person
 socials:
   facebook: ""
   instagram: ""

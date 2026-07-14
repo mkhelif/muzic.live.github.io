@@ -1,6 +1,7 @@
 ---
 id: "f1461356-818c-4271-b8fc-a096006ef18b"
 title: "Corrosion Of Conformity"
+type: band
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "f90cfa12-1f75-4e93-9231-2bce24c00b63"
 title: "Doom Spirit"
+type: unknown
 socials:
   instagram: "doomspirit.psycho.rap"
   youtube: "channel/UC5-DCceamH7MeePKJw0kBAQ"

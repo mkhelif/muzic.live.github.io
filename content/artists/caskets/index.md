@@ -1,6 +1,7 @@
 ---
 id: "4edfe0a1-33f2-443c-90fa-153e278185a0"
 title: "Caskets"
+type: band
 socials:
   facebook: ""
   instagram: ""

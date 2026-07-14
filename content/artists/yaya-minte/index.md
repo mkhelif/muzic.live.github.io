@@ -1,6 +1,7 @@
 ---
 id: "786377cf-b5ed-4dba-adae-13d33646afeb"
 title: "Yaya Minté"
+type: person
 socials:
   facebook: ""
   instagram: ""

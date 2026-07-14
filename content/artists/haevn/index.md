@@ -1,6 +1,7 @@
 ---
 id: "98e37a4e-4214-47bc-be3d-efbbe640b933"
 title: "Haevn"
+type: band
 members:
   - id: "8eacb314-25db-472a-9b44-eb474e3db929"
     roles:

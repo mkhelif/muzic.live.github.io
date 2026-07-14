@@ -1,6 +1,7 @@
 ---
 id: "cf4abc25-0994-467d-90e1-aa414ba6edbd"
 title: "Kabylie Minogue"
+type: band
 socials:
   facebook: ""
   instagram: ""

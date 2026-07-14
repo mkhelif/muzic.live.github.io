@@ -1,6 +1,7 @@
 ---
 id: "9977d331-0fa6-45b7-a982-bfdc06b4f0d3"
 title: "Bastille"
+type: band
 socials:
   facebook: ""
   instagram: ""

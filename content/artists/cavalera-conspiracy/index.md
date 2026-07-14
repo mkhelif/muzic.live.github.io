@@ -1,6 +1,7 @@
 ---
 id: "344e0448-4c14-4e15-9cdc-8f62a8eae526"
 title: "Cavalera Conspiracy"
+type: band
 socials:
   facebook: ""
   instagram: ""

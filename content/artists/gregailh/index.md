@@ -1,6 +1,7 @@
 ---
 id: "f6cfa1b1-a27e-4457-97c1-30e7ac168e39"
 title: "Gregailh"
+type: band
 socials:
   facebook: ""
   instagram: ""

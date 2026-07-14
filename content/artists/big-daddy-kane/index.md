@@ -1,6 +1,7 @@
 ---
 id: "da1eedba-41e1-49ef-b63d-d1b5e3858b83"
 title: "Big Daddy Kane"
+type: person
 socials:
   facebook: ""
   instagram: ""

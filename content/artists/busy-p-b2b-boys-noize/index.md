@@ -1,6 +1,7 @@
 ---
 id: "26ac4329-5ff7-45e5-81f5-56bfec044eaa"
 title: "Busy P b2b Boys Noize"
+type: band
 socials:
   facebook: ""
   instagram: ""

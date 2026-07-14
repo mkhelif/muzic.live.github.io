@@ -1,6 +1,7 @@
 ---
 id: "2fd8e892-bd93-4592-961f-597f079dcd0a"
 title: "Rounhaa"
+type: person
 socials:
   facebook: ""
   instagram: ""

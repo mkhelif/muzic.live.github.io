@@ -1,6 +1,7 @@
 ---
 id: "4fcb851e-b996-408f-a0fe-3e3a4aa359fd"
 title: "Urumi"
+type: person
 socials:
   facebook: ""
   instagram: ""

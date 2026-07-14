@@ -1,6 +1,7 @@
 ---
 id: "59eb92f6-7554-4344-903b-0d2b614c4a9c"
 title: "Vicki Brittle"
+type: person
 socials:
   facebook: ""
   instagram: ""

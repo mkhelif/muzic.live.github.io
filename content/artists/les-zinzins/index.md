@@ -1,6 +1,7 @@
 ---
 id: "9873fc64-0907-4a5d-ba23-e8dfc11c8816"
 title: "Les Zinzins"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

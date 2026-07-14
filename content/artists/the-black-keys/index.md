@@ -1,6 +1,7 @@
 ---
 id: "d405b24b-376e-439b-8ec9-157d73b4af89"
 title: "The Black Keys"
+type: band
 members:
   - id: "4d9a95c0-cef4-4bfd-8897-ef36243aed7e"
     roles:

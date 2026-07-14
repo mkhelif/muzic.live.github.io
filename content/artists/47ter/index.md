@@ -1,6 +1,7 @@
 ---
 id: "9a356617-3c30-4619-872b-55d03e46659b"
 title: "47Ter"
+type: band
 socials:
   instagram: "47ter"
   facebook: ""

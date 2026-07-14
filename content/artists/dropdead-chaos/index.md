@@ -1,6 +1,7 @@
 ---
 id: "2b16462f-27f8-46b9-9db6-ab08c8872b9f"
 title: "Dropdead Chaos"
+type: band
 socials:
   facebook: "dropdeadchaos"
   instagram: "dropdeadchaosofficial"

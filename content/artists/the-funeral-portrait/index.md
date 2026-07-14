@@ -1,6 +1,7 @@
 ---
 id: "315b9cc0-8fc8-4600-a027-54fbdeff19c7"
 title: "The Funeral Portrait"
+type: band
 members:
   - id: "df9fab3e-b24f-48ee-b7e7-f9fc37f54d6d"
     roles:

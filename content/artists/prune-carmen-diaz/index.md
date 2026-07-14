@@ -1,6 +1,7 @@
 ---
 id: "984385ab-b650-4a7b-b4cf-0529ee3be271"
 title: "Prune Carmen Diaz"
+type: person
 socials:
   facebook: "prunecarmen.vegas"
   web: "https://humus-records.com/artists/prune-carmen-diaz/"

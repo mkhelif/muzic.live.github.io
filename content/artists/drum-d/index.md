@@ -1,6 +1,7 @@
 ---
 id: "0d00cba3-9e17-4622-ae34-f0f012ab105c"
 title: "DRUM.D"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

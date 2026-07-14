@@ -1,6 +1,7 @@
 ---
 id: "2be430a3-81cf-452d-9582-0d3b1b74bee4"
 title: "Pär Sundström"
+type: person
 socials:
   facebook: ""
   instagram: ""

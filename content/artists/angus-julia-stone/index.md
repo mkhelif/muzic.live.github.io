@@ -1,6 +1,7 @@
 ---
 id: "6926b512-4a18-4f3e-8441-56de06367c9f"
 title: "Angus & Julia Stone"
+type: band
 members:
   - id: "91639365-40a5-409d-b268-bb5696f9e2ef"
     roles:

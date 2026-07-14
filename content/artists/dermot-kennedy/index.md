@@ -1,6 +1,7 @@
 ---
 id: "9142631c-939b-4d24-8d7c-1683d5086e86"
 title: "Dermot Kennedy"
+type: person
 socials:
   facebook: "dermotkennedymusic"
   instagram: "dermotkennedy"

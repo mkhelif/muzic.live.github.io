@@ -1,6 +1,7 @@
 ---
 id: "00d73f02-6d56-4de9-a57f-d967e082d099"
 title: "Vendredi Sur Mer"
+type: person
 socials:
   facebook: "vendredisurmer"
   instagram: "vendredisurmer_"

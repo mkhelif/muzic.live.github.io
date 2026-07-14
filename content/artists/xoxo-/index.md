@@ -1,6 +1,7 @@
 ---
 id: "11894737-e6c4-4419-9f9b-b10aab4490ad"
 title: "XOXO."
+type: band
 socials:
   facebook: ""
   instagram: ""

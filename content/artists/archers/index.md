@@ -1,6 +1,7 @@
 ---
 id: "c3d86f58-f951-4efb-a575-77a3daeaa8fc"
 title: "Archers"
+type: band
 socials:
   facebook: ""
   instagram: ""

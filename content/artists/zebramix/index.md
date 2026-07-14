@@ -1,6 +1,7 @@
 ---
 id: "7f118dd7-2e9a-4416-916c-d88d67789983"
 title: "Zebramix"
+type: person
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "530ec233-24ef-4e71-8227-f154453e5226"
 title: "Green Lads"
+type: band
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "ce405914-4efe-4a7f-9f81-f4d1da70854b"
 title: "Matteo Mancuso"
+type: person
 socials:
   facebook: "matteomancusoofficial"
   instagram: "matteomancuso.guitar"

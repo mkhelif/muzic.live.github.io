@@ -1,6 +1,7 @@
 ---
 id: "2725694e-7dc7-4afc-8d7a-f28e4d75c046"
 title: "Ali Tabatabaee"
+type: person
 socials:
   facebook: ""
   instagram: "alionelouder"

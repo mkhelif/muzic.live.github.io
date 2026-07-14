@@ -1,6 +1,7 @@
 ---
 id: "bdcf04b3-accc-4195-9d97-90809b470045"
 title: "Tha Trickaz"
+type: band
 socials:
   facebook: ""
   instagram: ""

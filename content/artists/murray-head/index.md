@@ -1,6 +1,7 @@
 ---
 id: "c26eedfe-d090-4790-8010-8cd8f6332d75"
 title: "Murray Head"
+type: person
 socials:
   facebook: "Murray-Head-Officiel-232219714044"
   instagram: "murrayheadmusic"

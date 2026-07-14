@@ -1,6 +1,7 @@
 ---
 id: "69c4f756-48a9-47e2-a008-98ff07bcc6af"
 title: "Les Boulenvrac"
+type: band
 socials:
   facebook: ""
   instagram: ""

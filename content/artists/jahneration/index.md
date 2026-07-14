@@ -1,6 +1,7 @@
 ---
 id: "672c70e5-e066-4cb7-8622-feefe58f48ab"
 title: "Jahneration"
+type: band
 members:
   - id: "5809ebc4-2134-4eac-8171-39d57835717d"
     roles:

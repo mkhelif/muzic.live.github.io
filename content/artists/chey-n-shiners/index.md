@@ -1,6 +1,7 @@
 ---
 id: "27f4063d-b0c0-4f22-a9c3-b18b5cec8f7d"
 title: "Chey'N'Shiners"
+type: band
 socials:
   facebook: "cheynshiners"
   instagram: "cheynshiners"

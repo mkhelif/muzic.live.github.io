@@ -1,6 +1,7 @@
 ---
 id: "18d9ad69-9cb9-4880-a417-3d5bf70fc8e1"
 title: "Danakil"
+type: band
 members:
   - id: "d3f3eab4-e52e-468c-b8e0-80d490547824"
     roles:

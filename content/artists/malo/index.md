@@ -1,6 +1,7 @@
 ---
 id: "0edd247f-5599-4f45-90c6-bb64daedd1f5"
 title: "Malo'"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

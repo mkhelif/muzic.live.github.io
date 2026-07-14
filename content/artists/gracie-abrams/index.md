@@ -1,6 +1,7 @@
 ---
 id: "1789074c-d45e-43fa-92d0-ad63ea45943f"
 title: "Gracie Abrams"
+type: person
 socials:
   facebook: ""
   instagram: "gracieabrams"

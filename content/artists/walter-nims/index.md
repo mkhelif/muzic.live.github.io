@@ -1,6 +1,7 @@
 ---
 id: "44087db1-4446-4cd8-aa26-dfc17dedcd4d"
 title: "Walter Nims"
+type: person
 socials:
   facebook: ""
   instagram: ""

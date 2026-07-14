@@ -1,6 +1,7 @@
 ---
 id: "b2891304-d1ef-496a-b07c-461104efd4a8"
 title: "Smokeheads"
+type: band
 socials:
   facebook: "smokeheadsband"
   instagram: "smokeheadsband"

@@ -1,6 +1,7 @@
 ---
 id: "e971696d-c116-4fae-aa4e-a64cb052f2f9"
 title: "Sages comme des Sauvages"
+type: band
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "df7d940e-8b65-466a-bcb8-fa9ffc03855e"
 title: "The Free Label"
+type: band
 socials:
   facebook: ""
   instagram: ""

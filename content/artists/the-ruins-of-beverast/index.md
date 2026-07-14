@@ -1,6 +1,7 @@
 ---
 id: "46cbe381-5332-4f89-9b79-64d03baee7e4"
 title: "The Ruins of Beverast"
+type: band
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "844af41a-c503-4748-9c8e-8f09de6065c2"
 title: "Powerwolf"
+type: band
 members:
   - id: "d3d777e7-b3e2-4278-abe6-0a3bff446024"
     roles:

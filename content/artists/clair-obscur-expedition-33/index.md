@@ -1,6 +1,7 @@
 ---
 id: "850f5b6d-c38d-4478-9d1a-67b054c85b4b"
 title: "Clair Obscur: Expedition 33"
+type: unknown
 socials:
   web: "https://apaintedsymphony.expedition33.com/"
   facebook: ""

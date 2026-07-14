@@ -1,6 +1,7 @@
 ---
 id: "3a82a1d4-8fec-440e-91d7-993105c4c41a"
 title: "Vulfpeck"
+type: band
 members:
   - id: "9e60e51f-f4be-4393-8018-0f39245c1ffd"
     roles:

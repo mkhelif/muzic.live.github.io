@@ -1,6 +1,7 @@
 ---
 id: "1bcae853-086c-4bb8-b755-26167b028172"
 title: "Theodora"
+type: person
 socials:
   facebook: ""
   instagram: ""

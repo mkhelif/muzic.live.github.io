@@ -1,6 +1,7 @@
 ---
 id: "7f4f8ecb-d7a0-4f07-99ab-fdc55512d69a"
 title: "Karl"
+type: person
 socials:
   facebook: ""
   instagram: ""

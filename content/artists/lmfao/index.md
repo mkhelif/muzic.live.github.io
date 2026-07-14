@@ -1,6 +1,7 @@
 ---
 id: "3a1fc6b2-6134-403e-8072-8f8b236c733b"
 title: "LMFAO"
+type: band
 socials:
   facebook: ""
   instagram: ""

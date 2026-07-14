@@ -1,6 +1,7 @@
 ---
 id: "06e2902f-eda3-4f5c-889e-d83cb3406371"
 title: "Danielle Ponder"
+type: person
 socials:
   facebook: ""
   instagram: ""

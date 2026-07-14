@@ -1,6 +1,7 @@
 ---
 id: "e683a261-cb1b-45a5-9035-23c0bb1fbd0d"
 title: "TwoForAll"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

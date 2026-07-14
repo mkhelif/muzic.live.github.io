@@ -1,6 +1,7 @@
 ---
 id: "02699fb1-0854-4e76-b170-e1d9fc1bd0fe"
 title: "Greg Jacks"
+type: person
 socials:
   facebook: ""
   instagram: ""

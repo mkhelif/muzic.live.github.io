@@ -1,6 +1,7 @@
 ---
 id: "5c962b05-0937-4731-8c1c-2221d1f255c8"
 title: "DOMINUM"
+type: band
 members:
   - id: "7ca2e2de-0b6e-4c84-bfb9-7541d090f52f"
     roles:

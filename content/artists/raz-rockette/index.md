@@ -1,6 +1,7 @@
 ---
 id: "561afa9e-2139-4cf8-bcb3-c6d8d287b299"
 title: "Raz'Rockette"
+type: band
 socials:
   facebook: ""
   instagram: ""

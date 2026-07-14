@@ -1,6 +1,7 @@
 ---
 id: "f482e885-a594-4ddf-ba22-03506ef4b3a4"
 title: "Stefano Di Battista"
+type: person
 socials:
   facebook: ""
   instagram: ""

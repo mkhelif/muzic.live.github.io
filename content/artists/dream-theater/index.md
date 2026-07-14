@@ -1,6 +1,7 @@
 ---
 id: "d224b882-ac24-47f6-9adb-80e8dedc4ee9"
 title: "Dream Theater"
+type: band
 members:
   - id: "b421852b-584e-4cd7-8127-85474c1b1abb"
     roles:

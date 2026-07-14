@@ -1,6 +1,7 @@
 ---
 id: "c59f5c07-d73e-4bf5-8f7f-7cd965b748b6"
 title: "SR KREBS"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "5565de2d-4b02-432f-bc82-6bef07abfc1a"
 title: "Faul & Wad"
+type: band
 socials:
   facebook: ""
   instagram: ""

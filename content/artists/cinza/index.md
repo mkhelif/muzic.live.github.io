@@ -1,6 +1,7 @@
 ---
 id: "579498d8-0cb6-494a-a351-0a03a09220df"
 title: "Cinza"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

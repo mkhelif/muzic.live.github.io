@@ -1,6 +1,7 @@
 ---
 id: "3e1158d1-d1fb-4ff3-9147-fee7ffb4f6b5"
 title: "Fake Shark"
+type: band
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "5a6cd4f1-3188-469a-be4f-d30a012d1de5"
 title: "Mystically"
+type: band
 socials:
   facebook: "MYSTICALLYSOULREGGAE"
   instagram: "mysticallymusic"

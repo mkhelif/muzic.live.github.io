@@ -1,6 +1,7 @@
 ---
 id: "eee02509-12fa-4047-8060-ca9ce5a56291"
 title: "Stuck in the Sound"
+type: band
 socials:
   facebook: "stuckinthesound"
   instagram: "stuckinthesoundofficial"

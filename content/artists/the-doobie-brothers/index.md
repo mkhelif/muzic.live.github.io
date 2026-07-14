@@ -1,6 +1,7 @@
 ---
 id: "65cd3bf4-ca4e-442d-b731-5dc023597827"
 title: "The Doobie Brothers"
+type: band
 members:
   - id: "9027dcac-721e-47a3-b424-e0ea4e28fa98"
     roles:

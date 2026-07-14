@@ -1,6 +1,7 @@
 ---
 id: "ed2ded1f-41c6-433f-be88-9c40f6dae5d3"
 title: "Damon Richardson"
+type: person
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "1388e767-c9b1-40fe-84ca-e644dc2463f4"
 title: "Franz Ferdinand"
+type: band
 members:
   - id: "7b0806bf-df51-4b3e-8e32-71ec84463c58"
     roles:

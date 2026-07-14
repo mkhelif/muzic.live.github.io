@@ -1,6 +1,7 @@
 ---
 id: "242891dd-72c8-49eb-b21a-acb0ac782f37"
 title: "Skellige"
+type: band
 socials:
   facebook: "skelligeband"
   instagram: "skellige_band"

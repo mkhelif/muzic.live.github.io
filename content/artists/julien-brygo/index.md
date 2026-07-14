@@ -1,6 +1,7 @@
 ---
 id: "f3bfa42c-fb01-4f3a-a508-209ccf77fd75"
 title: "Julien Brygo"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "71a42392-8a08-4324-997c-352fcb1d8168"
 title: "Nkoï"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

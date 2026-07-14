@@ -1,6 +1,7 @@
 ---
 id: "5159309f-fec3-438d-9784-e0e1cbbf403d"
 title: "Nuovo Testamento"
+type: band
 socials:
   facebook: ""
   instagram: ""

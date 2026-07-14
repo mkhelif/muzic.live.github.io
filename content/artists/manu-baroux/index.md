@@ -1,6 +1,7 @@
 ---
 id: "8daa34c1-f08e-4bf0-94ba-a040d27deb44"
 title: "Manu Baroux"
+type: person
 socials:
   facebook: ""
   instagram: ""

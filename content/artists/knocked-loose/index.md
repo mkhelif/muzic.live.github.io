@@ -1,6 +1,7 @@
 ---
 id: "9b96f62b-0026-476c-a384-70786dbfca70"
 title: "Knocked Loose"
+type: band
 members:
   - id: "70f4b7d9-9fea-482c-ad10-dd8529fb8e73"
     roles:

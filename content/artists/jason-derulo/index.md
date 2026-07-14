@@ -1,6 +1,7 @@
 ---
 id: "fc438050-a3ef-4c84-937a-fe8867d8e219"
 title: "Jason Derulo"
+type: person
 socials:
   facebook: "jasonderulo"
   instagram: "jasonderulo"

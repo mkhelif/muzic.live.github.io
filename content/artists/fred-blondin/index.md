@@ -1,6 +1,7 @@
 ---
 id: "b609b1a1-79b2-40e6-a8ec-d32e9b94492f"
 title: "Fred Blondin"
+type: person
 socials:
   facebook: ""
   instagram: ""

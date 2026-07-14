@@ -1,6 +1,7 @@
 ---
 id: "628894cb-f021-427b-9eee-0e19542ae38b"
 title: "Catch Your Breath"
+type: band
 members:
   - id: "d5b1c31e-ae22-4847-a746-c31c6ffa2426"
     roles:

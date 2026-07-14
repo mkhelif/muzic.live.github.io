@@ -1,6 +1,7 @@
 ---
 id: "659869cd-9004-4303-b6a7-72de8e4eb4f6"
 title: "Ekoh"
+type: person
 socials:
   facebook: ""
   instagram: ""

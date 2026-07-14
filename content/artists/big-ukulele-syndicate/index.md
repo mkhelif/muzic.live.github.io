@@ -1,6 +1,7 @@
 ---
 id: "a23e9064-eeb4-4c04-abf9-2beae7a34958"
 title: "Big Ukulélé Syndicate"
+type: band
 socials:
   facebook: ""
   instagram: ""

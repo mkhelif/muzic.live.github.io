@@ -1,6 +1,7 @@
 ---
 id: "447f0a27-2b10-4c9c-b0f2-f9e6d7c8ee90"
 title: "Portugal. the Man"
+type: band
 members:
   - id: "ed9aa5ad-7c0a-4d32-bbf2-a2df3025561a"
     roles:

@@ -1,6 +1,7 @@
 ---
 id: "843122f1-40a4-4e9c-85da-16ee1c8f3f1d"
 title: "The Velveteers"
+type: band
 members:
   - id: "ed72ee69-4268-4d52-a9d5-234a8cf5630c"
     roles:

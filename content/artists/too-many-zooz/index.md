@@ -1,6 +1,7 @@
 ---
 id: "628266fe-3a3c-4418-abd5-ecaec5946bef"
 title: "Too Many Zooz"
+type: band
 socials:
   facebook: ""
   instagram: ""

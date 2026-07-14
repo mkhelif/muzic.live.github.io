@@ -1,6 +1,7 @@
 ---
 id: "148e6804-42c4-41aa-af25-33a693a8af13"
 title: "Angine de Poitrine"
+type: band
 members:
   - id: "5cb9b086-3404-41a4-b99c-05b9fda74a7e"
     roles:

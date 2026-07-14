@@ -1,6 +1,7 @@
 ---
 id: "10007495-290a-4374-bfe6-8bfadec3b2dc"
 title: "Rupert Keplinger"
+type: person
 socials:
   facebook: ""
   instagram: ""

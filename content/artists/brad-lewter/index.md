@@ -1,6 +1,7 @@
 ---
 id: "27bd5038-73ed-44cd-a1f2-c677634ea86e"
 title: "Brad Lewter"
+type: person
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "81632153-3e28-4969-a796-434a116e79da"
 title: "Mathilda"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

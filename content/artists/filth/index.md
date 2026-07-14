@@ -1,6 +1,7 @@
 ---
 id: "b7347b71-92f8-49ff-9464-0d2ca41974dc"
 title: "Filth"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

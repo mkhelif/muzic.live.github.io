@@ -1,6 +1,7 @@
 ---
 id: "d7a3b9ed-e3df-4f4a-8e50-f58672118f64"
 title: "Storm Orchestra"
+type: band
 members:
   - id: "73671e55-2cbf-4116-ab07-69a53aeb7c06"
     roles:

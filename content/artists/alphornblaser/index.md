@@ -1,6 +1,7 @@
 ---
 id: "4fadc2b9-1235-4154-a0bd-700e8739d2da"
 title: "Alphornbläser"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

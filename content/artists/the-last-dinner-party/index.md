@@ -1,6 +1,7 @@
 ---
 id: "b770402d-c572-4f8f-a375-0479cfd5590e"
 title: "The Last Dinner Party"
+type: band
 members:
   - id: "6ed7d49e-a9ba-488e-86fa-a75c487cae9a"
     roles:

@@ -1,6 +1,7 @@
 ---
 id: "c433b486-f3af-43da-b539-254ccf7ef34a"
 title: "Sunday Mourners"
+type: band
 socials:
   facebook: ""
   instagram: ""

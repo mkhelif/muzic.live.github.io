@@ -1,6 +1,7 @@
 ---
 id: "e2af6c3b-841a-4f37-8aa1-5d18400b9772"
 title: "Blondie"
+type: band
 socials:
   facebook: ""
   instagram: ""

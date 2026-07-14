@@ -1,6 +1,7 @@
 ---
 id: "7c135b43-a2b1-4d5f-9c87-c0cf5f898fb6"
 title: "The Congos"
+type: band
 socials:
   facebook: ""
   instagram: ""

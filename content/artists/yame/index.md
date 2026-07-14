@@ -1,6 +1,7 @@
 ---
 id: "8b0832e9-43d8-4512-ac94-4b77f07858af"
 title: "Yamê"
+type: person
 socials:
   facebook: ""
   instagram: ""

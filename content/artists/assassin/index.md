@@ -1,6 +1,7 @@
 ---
 id: "28802df1-0857-4bf2-8fbb-d385676781c1"
 title: "Assassin"
+type: band
 socials:
   facebook: ""
   instagram: ""

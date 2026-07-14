@@ -1,6 +1,7 @@
 ---
 id: "2f1c60a0-2e59-4e7c-b1be-6a141858c8eb"
 title: "Len Faki"
+type: person
 socials:
   facebook: ""
   instagram: ""

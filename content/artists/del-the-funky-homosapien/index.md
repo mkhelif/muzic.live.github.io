@@ -1,6 +1,7 @@
 ---
 id: "ec827073-a82f-4b3a-80dd-08c4312f6566"
 title: "Del The Funky Homosapien"
+type: person
 socials:
   facebook: ""
   instagram: ""

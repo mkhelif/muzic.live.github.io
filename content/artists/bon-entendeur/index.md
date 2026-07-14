@@ -1,6 +1,7 @@
 ---
 id: "bcfbe727-85f9-4b8f-ad24-6a1f94718386"
 title: "Bon Entendeur"
+type: band
 socials:
   facebook: "bonentendeurmusic"
   instagram: "bon_entendeur"

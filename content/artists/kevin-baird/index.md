@@ -1,6 +1,7 @@
 ---
 id: "fbc55659-4162-4901-be97-6fe8c068a86d"
 title: "Kevin Baird"
+type: person
 socials:
   facebook: ""
   instagram: ""

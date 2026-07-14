@@ -1,6 +1,7 @@
 ---
 id: "89414ad3-08cb-4f9f-b95f-95b1c3f1db6f"
 title: "Déportivo"
+type: band
 members:
   - id: "15efe6de-1fcf-455a-9d4d-0783b4edc6cd"
     roles:

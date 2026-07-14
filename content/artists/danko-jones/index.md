@@ -1,6 +1,7 @@
 ---
 id: "2a2fe44a-3859-404d-8ab7-b45bf4b6a80f"
 title: "Danko Jones"
+type: band
 members:
   - id: "ed0f033c-dbc7-4120-aa66-9b718f5486e2"
     roles:

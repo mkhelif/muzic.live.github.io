@@ -1,6 +1,7 @@
 ---
 id: "dcd1f68a-07ec-45b6-b0fb-b52b1743fbbc"
 title: "UB40"
+type: band
 members:
   - id: "4ed90639-a41b-44f5-a3c8-b50683a6187b"
     roles:

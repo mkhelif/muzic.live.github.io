@@ -1,6 +1,7 @@
 ---
 id: "8502b3f2-e118-4a1d-8580-cc48a8ea1efd"
 title: "The Pretty Reckless"
+type: band
 members:
   - id: "b758a568-dda9-4f3b-9755-e47617ff76a7"
     roles:

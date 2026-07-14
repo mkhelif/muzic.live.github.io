@@ -1,6 +1,7 @@
 ---
 id: "52280f6f-a118-4fbb-b4ec-22ff870ac361"
 title: "Billy Allen + The Pollies"
+type: band
 socials:
   facebook: ""
   instagram: ""

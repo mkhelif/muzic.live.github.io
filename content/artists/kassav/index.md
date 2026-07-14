@@ -1,6 +1,7 @@
 ---
 id: "a5cfdd00-f544-48be-a915-73d868299386"
 title: "Kassav'"
+type: band
 socials:
   facebook: ""
   instagram: ""

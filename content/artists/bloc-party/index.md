@@ -1,6 +1,7 @@
 ---
 id: "efc4b136-61e7-40f2-8bcd-27240ab1c9ec"
 title: "Bloc Party"
+type: band
 members:
   - id: "bdd56382-7700-4e10-9540-b7c2dd3a1a52"
     roles:

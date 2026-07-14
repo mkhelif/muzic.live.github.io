@@ -1,6 +1,7 @@
 ---
 id: "10d777a9-884c-4102-aa83-ade675cac028"
 title: "Gladiator Live"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

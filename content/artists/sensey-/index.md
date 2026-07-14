@@ -1,6 +1,7 @@
 ---
 id: "bf45807d-2862-41f1-abad-4bc679163035"
 title: "SenSey'"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

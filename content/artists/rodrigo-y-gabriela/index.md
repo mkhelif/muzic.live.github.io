@@ -1,6 +1,7 @@
 ---
 id: "bb0a1043-d8af-44fb-bca5-2778d6ab0437"
 title: "Rodrigo y Gabriela"
+type: band
 members:
   - id: "4340d0a2-4116-4bd3-9ccb-738e812b0a56"
     roles:

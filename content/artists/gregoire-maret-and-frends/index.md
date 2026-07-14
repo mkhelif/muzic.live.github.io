@@ -1,6 +1,7 @@
 ---
 id: "73be1569-ff55-4303-905b-79851f6b63dd"
 title: "Grégoire Maret & Frends"
+type: band
 socials:
   facebook: ""
   instagram: ""

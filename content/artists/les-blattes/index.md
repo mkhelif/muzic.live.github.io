@@ -1,6 +1,7 @@
 ---
 id: "ebe4cfe3-cad8-4554-8248-5f76e7b819de"
 title: "Les Blattes"
+type: band
 socials:
   facebook: ""
   instagram: ""

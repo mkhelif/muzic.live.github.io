@@ -1,6 +1,7 @@
 ---
 id: "8bf3e9b5-d5f6-4e78-ac81-9458f19ee376"
 title: "Dynamite Shakers"
+type: band
 members:
   - id: "9989148d-ec8b-4689-8156-60806ff2de0c"
     roles:

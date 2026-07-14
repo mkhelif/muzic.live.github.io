@@ -1,6 +1,7 @@
 ---
 id: "e61f7110-46b8-4430-92ee-6de119c8e234"
 title: "The Sophs"
+type: band
 members:
   - id: "6ede5608-b224-4d58-8fd3-c7971868087a"
     roles:

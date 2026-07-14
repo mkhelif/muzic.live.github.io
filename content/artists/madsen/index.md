@@ -1,6 +1,7 @@
 ---
 id: "035a4e3f-d88a-43ec-aced-c39a552432a9"
 title: "Madsen"
+type: band
 socials:
   facebook: ""
   instagram: ""

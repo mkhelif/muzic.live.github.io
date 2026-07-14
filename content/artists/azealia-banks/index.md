@@ -1,6 +1,7 @@
 ---
 id: "c70a6a0e-7ab3-4e8a-9630-735283ffc831"
 title: "Azealia Banks"
+type: person
 socials:
   facebook: ""
   instagram: ""

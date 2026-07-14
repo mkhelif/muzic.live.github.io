@@ -1,6 +1,7 @@
 ---
 id: "8717a78f-dff6-491a-816d-b5dc46d9b7d0"
 title: "White Lies"
+type: band
 socials:
   facebook: ""
   instagram: ""

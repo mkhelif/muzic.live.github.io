@@ -1,6 +1,7 @@
 ---
 id: "50597964-c316-4ddb-9e11-9085dee6927c"
 title: "Kerala Dust"
+type: band
 socials:
   facebook: ""
   instagram: ""

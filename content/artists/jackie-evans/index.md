@@ -1,6 +1,7 @@
 ---
 id: "38b66c94-6ee5-4101-8429-25a52a15d611"
 title: "Jackie Evans"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

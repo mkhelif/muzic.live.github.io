@@ -1,6 +1,7 @@
 ---
 id: "30c69ca0-687e-4042-a29e-7263260be571"
 title: "Aldebert"
+type: person
 socials:
   facebook: ""
   instagram: ""

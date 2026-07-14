@@ -1,6 +1,7 @@
 ---
 id: "2932d8ea-f2fe-462b-a7ae-facadb1c515f"
 title: "Süeür"
+type: band
 socials:
   facebook: ""
   instagram: ""

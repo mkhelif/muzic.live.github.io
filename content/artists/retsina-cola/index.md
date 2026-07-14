@@ -1,6 +1,7 @@
 ---
 id: "f954d78c-75f0-40e9-955e-0a47b9517fed"
 title: "Retsina Cola"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "14def78d-34b1-4730-822d-e56ce587b0ca"
 title: "Nicolas Leroy"
+type: person
 socials:
   facebook: ""
   instagram: ""

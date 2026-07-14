@@ -1,6 +1,7 @@
 ---
 id: "580a8e92-30ec-4348-ac00-107d523fdbb7"
 title: "Nick Carbone"
+type: person
 socials:
   facebook: ""
   instagram: ""

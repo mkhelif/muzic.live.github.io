@@ -1,6 +1,7 @@
 ---
 id: "1e821275-14eb-4c9e-bf5e-c8159beba6cf"
 title: "Radhika Das"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

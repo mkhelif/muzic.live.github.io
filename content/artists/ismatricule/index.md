@@ -1,6 +1,7 @@
 ---
 id: "e8a97a79-2c0d-4dfd-9611-db4f3cb70f51"
 title: "Ismatricule"
+type: person
 socials:
   facebook: ""
   instagram: ""

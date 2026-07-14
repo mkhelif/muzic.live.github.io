@@ -1,6 +1,7 @@
 ---
 id: "18e1b882-d0e1-4d33-a181-26b6db17625d"
 title: "Soft Loft"
+type: band
 socials:
   facebook: "softloftmusic"
   instagram: "softloftsoftloft"

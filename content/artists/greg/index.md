@@ -1,6 +1,7 @@
 ---
 id: "851c82d2-0879-4884-861a-f209dd295627"
 title: "GЯEG"
+type: unknown
 socials:
   facebook: ""
   instagram: ""

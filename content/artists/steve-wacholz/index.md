@@ -1,6 +1,7 @@
 ---
 id: "b72334eb-c065-4406-9fb8-5901deeea341"
 title: "Steve Wacholz"
+type: person
 socials:
   facebook: ""
   instagram: ""

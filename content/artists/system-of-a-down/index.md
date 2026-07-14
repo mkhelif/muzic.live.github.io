@@ -1,6 +1,7 @@
 ---
 id: "49f16864-4db8-41d6-8ed3-71dcec686f4b"
 title: "System of a Down"
+type: band
 members:
   - id: "9a1843bb-824e-4ab0-86cb-ef8fb9af50dd"
     roles:

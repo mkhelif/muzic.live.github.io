@@ -1,6 +1,7 @@
 ---
 id: "96038c31-3b69-434b-9733-14f5f4116e7e"
 title: "Antonio Lizana"
+type: person
 socials:
   facebook: ""
   instagram: ""

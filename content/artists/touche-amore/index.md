@@ -1,6 +1,7 @@
 ---
 id: "9fec2c6e-b9a9-4029-90a8-42760959b2ad"
 title: "Touché Amoré"
+type: band
 members:
   - id: "e7b61906-b30e-490b-9b09-3c7421e4c4dc"
     roles:

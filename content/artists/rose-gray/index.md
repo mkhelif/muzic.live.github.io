@@ -1,6 +1,7 @@
 ---
 id: "70853657-6abf-43ff-b2c7-084019ce74fd"
 title: "Rose Gray"
+type: person
 socials:
   facebook: ""
   instagram: ""

@@ -1,6 +1,7 @@
 ---
 id: "68f06eb2-71b1-449f-ade8-133b7473da04"
 title: "King Gizzard & The Lizard Wizard"
+type: band
 socials:
   facebook: ""
   instagram: ""

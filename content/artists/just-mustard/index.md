@@ -1,6 +1,7 @@
 ---
 id: "c0112e08-cbb6-4f78-ac9f-04cdc831b39f"
 title: "Just Mustard"
+type: band
 socials:
   facebook: ""
   instagram: ""

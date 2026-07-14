@@ -1,6 +1,7 @@
 ---
 id: "d2eb8d06-a220-4f23-8c24-020999087eba"
 title: "Bif Naked"
+type: person
 socials:
   facebook: ""
   instagram: ""
