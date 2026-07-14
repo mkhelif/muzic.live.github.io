@@ -1,0 +1,3 @@
+{{- with .Params.socials.twitch -}}
+    https://twitch.tv/{{ . }}
+{{- end -}}

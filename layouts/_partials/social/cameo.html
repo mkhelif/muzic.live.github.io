@@ -1,0 +1,5 @@
+{{ if .Params.socials.cameo }}
+    <a class="me-2 align-middle" href="https://cameo.com/{{ .Params.socials.cameo }}" target="_blank" rel="noreferrer noopener">
+        {{ readFile "static/icons/cameo.svg" | safeHTML }}
+    </a>
+{{ end }}
