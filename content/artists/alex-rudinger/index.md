@@ -2,12 +2,13 @@
 id: "bd5ac5e6-ba96-42b8-be14-982e0d094c23"
 title: "Alex Rüdinger"
 socials:
-  facebook: ""
-  instagram: ""
-  tiktok: ""
+  facebook: "AlexRudingerOfficial"
+  instagram: "alexrudinger"
+  tiktok: "@rudirudinger"
+  threads: "@alexrudinger"
   x: ""
-  youtube: ""
-  web: ""
+  youtube: "@mdterps1042"
+  web: "https://alexrudinger.com"
   email: ""
   amazon: ""
   apple: ""
@@ -16,7 +17,6 @@ socials:
   spotify: ""
   tidal: ""
 todo:
-  - Add picture
   - Add socials
   - Add description
 ---

@@ -5,8 +5,9 @@ socials:
   facebook: ""
   instagram: ""
   tiktok: ""
-  x: ""
-  youtube: ""
+  x: "triviumpaolo"
+  youtube: "@PaoloGregolettoBass"
+  twitch: "triviumpaolo"
   web: ""
   email: ""
   amazon: ""
@@ -16,7 +17,6 @@ socials:
   spotify: ""
   tidal: ""
 todo:
-  - Add picture
   - Add socials
   - Add description
 ---
