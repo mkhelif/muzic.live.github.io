@@ -1,6 +1,27 @@
 ---
 id: "fca753f5-6e97-4cf9-b850-32daaa135f2f"
 title: "Magic System"
+members:
+  - id: "3dfff0d2-3515-4b49-90e8-54234718bc2c"
+    roles:
+      - sing
+    periods:
+      - start: 1996
+  - id: "6b4dbb80-8708-477f-9395-416501895894"
+    roles:
+      - sing
+    periods:
+      - start: 1996
+  - id: "9e40ce56-3d80-4fe9-b7a8-a518a3fe2273"
+    roles:
+      - sing
+    periods:
+      - start: 1996
+  - id: "03c4256d-193d-499e-b70e-1ec299f980a2"
+    roles:
+      - sing
+    periods:
+      - start: 1996
 socials:
   facebook: ""
   instagram: ""
