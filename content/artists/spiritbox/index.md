@@ -1,6 +1,41 @@
 ---
 id: "f31a6c9a-fc2d-4159-9136-831e7b4be142"
 title: "Spiritbox"
+members:
+  - id: "6bcd9baa-648a-4e7f-b5a9-d6cbbff29ddb"
+    roles:
+      - sing
+    periods:
+      - start: 2016
+  - id: "b2100b75-abd1-4675-b423-246b15817b17"
+    roles:
+      - guitar
+    periods:
+      - start: 2016
+  - id: "956e54c9-d3f5-4757-919c-af76ed8c2c39"
+    roles:
+      - drums
+    periods:
+      - start: 2020
+  - id: "da881a91-6862-41a2-8bc9-0b68f63b60d5"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2023
+  - id: "fee3903d-5655-41de-a88c-2d9b10aa3957"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2018
+        end: 2022
+  - id: "89b9e6b5-527e-4852-99b3-d57deeb9a37b"
+    roles:
+      - drums
+    periods:
+      - start: 2018
+        end: 2020
 socials:
   facebook: ""
   instagram: ""

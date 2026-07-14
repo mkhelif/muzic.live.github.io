@@ -15,8 +15,28 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 ---
+
+Robben Lee Ford est un guitariste américain né le 16 décembre 1951 à Woodlake, en Californie, et élevé à Ukiah. Initié
+au saxophone dès l'âge de 10 ans, il se tourne vers la guitare quelques années plus tard après avoir découvert Michael
+Bloomfield et Elvin Bishop, les deux guitaristes du Paul Butterfield Blues Band.
+
+###### Des débuts en famille
+
+Avec ses frères Patrick et Mark, il forme le Charles Ford Blues Band, en hommage à leur père. À 18 ans, le groupe est
+engagé pour accompagner Charlie Musselwhite, avec qui il enregistre deux albums. Ford poursuit ensuite sa route aux
+côtés de Jimmy Witherspoon et de Tom Scott & The L.A. Express, avant de publier en 1976 son disque solo remarqué,
+Schizophonic.
+
+###### Yellowjackets et carrière de sideman
+
+En 1977, il devient membre fondateur des Yellowjackets, groupe qu'il quittera en 1983 pour se consacrer pleinement à
+sa carrière solo et à son travail de musicien de studio. Sa réputation de guitariste à la croisée du blues, du jazz,
+du rock et du funk lui vaut des collaborations avec Miles Davis, Joni Mitchell, George Harrison, Bob Dylan, Bonnie
+Raitt, Larry Carlton, Little Feat ou encore Kiss.
+
+###### Une reconnaissance unanime
+
+Nommé cinq fois aux Grammy Awards et classé parmi les « 100 plus grands guitaristes du XXe siècle » par le magazine
+Musician, Robben Ford incarne depuis un demi-siècle une sensibilité jazz appliquée au blues, faisant de lui une
+référence pour plusieurs générations de guitaristes.

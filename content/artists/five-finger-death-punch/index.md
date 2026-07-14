@@ -1,6 +1,62 @@
 ---
 id: "5f8dc2cf-1f0d-4cce-acbc-6452e99cd924"
 title: "Five Finger Death Punch"
+members:
+  - id: "4e97cae9-1890-4eaf-9de4-58f7aaf3d18d"
+    roles:
+      - guitar
+    periods:
+      - start: 2005
+  - id: "ee4e7194-d0d7-4671-871e-ba3cc576f305"
+    roles:
+      - sing
+    periods:
+      - start: 2005
+  - id: "10de4b60-a980-4c89-b030-4bb1012b44fe"
+    roles:
+      - bass
+    periods:
+      - start: 2011
+  - id: "dfb738e7-ce1c-46ab-a37b-39b2235a433f"
+    roles:
+      - drums
+    periods:
+      - start: 2018
+  - id: "83464bd3-c19b-4915-868c-aabea64d1aef"
+    roles:
+      - guitar
+    periods:
+      - start: 2020
+  - id: "5be7e7e2-9a12-424b-b53c-6a7d53b9beb2"
+    roles:
+      - guitar
+    periods:
+      - start: 2009
+        end: 2020
+  - id: "c044aa9c-f3c2-424c-a3d6-58a5e0a20bb7"
+    roles:
+      - guitar
+    periods:
+      - start: 2006
+        end: 2009
+  - id: "76f90d0d-3b3b-4f11-898a-923bd07e3112"
+    roles:
+      - guitar
+    periods:
+      - start: 2005
+        end: 2006
+  - id: "fd55ed9d-ae12-4688-b8ab-94d70580977c"
+    roles:
+      - drums
+    periods:
+      - start: 2005
+        end: 2018
+  - id: "14b2ea00-03ab-4252-9f97-6b0df7fc7c41"
+    roles:
+      - bass
+    periods:
+      - start: 2005
+        end: 2010
 socials:
   facebook: "fivefingerdeathpunch"
   instagram: "5fdp"

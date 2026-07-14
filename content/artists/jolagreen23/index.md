@@ -15,8 +15,22 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-todo:
-  - Add socials
-  - Add cover
-  - Add description
 ---
+
+Jolagreen23, de son vrai nom Jorghen Monteiro-Mbombo, est un rappeur français né le 23 mars 2001 à Bois-Colombes, dans
+les Hauts-de-Seine, d'origine angolaise et congolaise (RDC). Il grandit à Bois-Colombes, à l'exception d'une année
+passée en Angleterre durant son enfance.
+
+###### Un studio de fortune pendant le confinement
+
+C'est pendant le confinement lié au Covid-19, début 2021, qu'il commence à faire de la musique, en montant un studio
+artisanal avec des amis. Il partage alors ses premiers titres, Mikasa et Making Of, tout en poursuivant des études de
+commerce international et en travaillant chez Pret A Manger. En janvier 2023, il signe chez le label Blue Sky et
+décide de se consacrer pleinement à la musique.
+
+###### Deux albums et une reconnaissance critique
+
+Son premier album, Recherche&Destruction, sort le 15 décembre 2023, avec des featurings de Wallace Cleaver et du
+rappeur américain Benny The Butcher. Le second, +99XP, paraît le 8 novembre 2024, avec Green Montana, Adèle Castillon
+et Lesram. En 2025, il figure parmi les douze artistes à suivre sélectionnés par Le Monde. Parallèlement à sa carrière
+musicale, Jolagreen23 est également mannequin, signé depuis mars 2025 chez IMG Models.

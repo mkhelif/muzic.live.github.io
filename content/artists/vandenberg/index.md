@@ -64,8 +64,24 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 ---
+
+Vandenberg est un groupe de hard rock néerlando-américain fondé en 1981 à Amsterdam par le guitariste Adrian
+Vandenberg, qui recrute alors le chanteur Bert Heerink, le bassiste Dick Kemper et le batteur Jos Zoomer.
+
+###### Un premier album chez Jimmy Page
+
+Le premier album éponyme du groupe est enregistré à Sol Studios, le studio de l'ancien guitariste de Led Zeppelin
+Jimmy Page. En 1983, le single Burning Heart atteint la 39e place du Billboard Hot 100 américain, lançant la carrière
+du groupe. La même période voit Adrian Vandenberg se faire remarquer comme guitariste invité sur un album de
+Whitesnake : en 1987, David Coverdale lui propose de rejoindre le groupe à plein temps, ce qui met un terme à la
+première mouture de Vandenberg.
+
+###### Une renaissance en 2020
+
+En janvier 2020, Adrian Vandenberg annonce la résurrection du nom du groupe avec une toute nouvelle formation :
+l'ex-chanteur de Rainbow Ronnie Romero au chant, épaulé en studio par Rudy Sarzo (basse) et Brian Tichy (batterie). Le
+premier album studio en trente-cinq ans, sobrement intitulé 2020, paraît le 29 mai de la même année. Ronnie Romero
+cède sa place au chanteur suédois Mats Levén en 2021, tandis que Randy van der Elsen (basse) et Koen Herfst (batterie)
+complètent la section rythmique à partir de 2023, aux côtés d'Adrian Vandenberg, seul membre présent lors des deux
+époques du groupe.
