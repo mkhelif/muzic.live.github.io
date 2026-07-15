@@ -31,4 +31,103 @@
     {{ end }}
 {{ end }}
 
-<script src="https://open.spotify.com/embed/iframe-api/v1" async></script>
+<script async rel="dns-prefetch" type="text/javascript" src="https://open.spotify.com/embed/iframe-api/v1"></script>
+
+<!-- Cookies consent -->
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="stylesheet" id="silktide-consent-manager-css" href="https://cdn.jsdelivr.net/gh/silktide/consent-manager@v2.0.1/silktide-consent-manager.css" integrity="sha384-EdMq+R+YOnsbelo08wPenoTlnxbAyxI11NMIxzugx/qAsbh64KcOkqxYqq6pfvO/" crossorigin="anonymous">
+<style id="silktide-consent-manager-overrides">
+    #stcm-wrapper {
+        --boxShadow: -5px 5px 10px 0px #00000012, 0px 0px 50px 0px #0000001a;
+        --fontFamily: 'Noto Sans', sans-serif;
+        --primaryColor: #0b0b0b;
+        --backgroundColor: #c6f853;
+        --textColor: #0b0b0b;
+        --backdropBackgroundColor: #00000080;
+        --backdropBackgroundBlur: 0px;
+        --iconColor: #c6f853;
+        --iconBackgroundColor: #4b494b;
+    }
+
+    #stcm-banner {
+        bottom: 48px !important;
+        left: 48px !important;
+        border-radius: 8px !important;
+    }
+
+    #stcm-icon {
+        bottom: 24px !important;
+        left: 24px !important;
+    }
+    #stcm-icon svg {
+        width: 30px;
+        height: 30px;
+    }
+
+    #stcm-modal {
+        border-radius: 8px !important;
+    }
+
+    #stcm-modal .stcm-toggle-off, #stcm-modal .stcm-toggle-on {
+        top: 6px !important;
+    }
+</style>
+<script src="https://cdn.jsdelivr.net/gh/silktide/consent-manager@v2.0.1/silktide-consent-manager.js" integrity="sha384-5Pt34uiIbCsvfiiZXoLi4HRf/YBXjr9c8e+gYeVo9smUaInNHYVtc8NZ8wUnXJIq" crossorigin="anonymous"></script>
+<script>
+    window.silktideConsentManager.init({
+        backdrop: {
+            show: true
+        },
+        icon: {
+            position: "bottomLeft"
+        },
+        prompt: {
+            position: "bottomLeft"
+        },
+        consentTypes: [
+            {
+                id: "essentiel",
+                label: "Essentiels",
+                description: "Ces cookies sont indispensables au bon fonctionnement du site web et ne peuvent pas être désactivés. Ils permettent notamment de se connecter et de paramétrer ses préférences de confidentialité.",
+                required: true
+            },
+            {
+                id: "analytics",
+                label: "Analytics",
+                description: "Ces cookies nous aident à améliorer le site en suivant quelles pages sont les plus populaires et comment les visiteurs se déplacent sur le site.",
+                required: false,
+                gtag: "analytics_storage"
+            },
+            {
+                id: "marketing",
+                label: "Marketing",
+                description: "Ces cookies sont utilisés par nous et nos partenaires publicitaires pour vous montrer des publicités pertinentes sur ce site et ailleurs, et pour mesurer les performances de ces campagnes.",
+                required: false,
+                gtag: [
+                    "ad_storage",
+                    "ad_user_data",
+                    "ad_personalization"
+                ]
+            }
+        ],
+        text: {
+            prompt: {
+                description: "Nous utilisons des cookies sur notre site pour améliorer votre expérience utilisateur, vous proposer un contenu personnalisé et analyser notre trafic.",
+                acceptAllButtonText: "Tout accepter",
+                acceptAllButtonAccessibleLabel: "Accepter tous les cookies",
+                rejectNonEssentialButtonText: "Seulement nécessaires",
+                rejectNonEssentialButtonAccessibleLabel: "Accepter uniquement les cookies nécessaires",
+                preferencesButtonText: "Préférences",
+                preferencesButtonAccessibleLabel: "Montrer les préférences de gestion des cookies"
+            },
+            preferences: {
+                title: "Personnalisez vos préférences en matière de cookies",
+                description: "Nous respectons votre droit à la vie privée. Vous pouvez choisir de ne pas autoriser certains types de cookies. Vos préférences en matière de cookies s'appliqueront sur l'ensemble de notre site web.",
+                saveButtonText: "Enregistrer et fermer",
+                saveButtonAccessibleLabel: "Enregistrer vos préférences de gestion des cookies",
+                creditLinkText: "-",
+                creditLinkAccessibleLabel: "-"
+            }
+        }
+    });
+</script>
