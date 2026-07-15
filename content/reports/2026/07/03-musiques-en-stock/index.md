@@ -4,7 +4,7 @@ date: 2026-07-03T19:15:00+02:00
 festival: "92ee72eb-532a-4ccd-bf2c-3233f055ca4b"
 venue: "830edf51-8e24-4f4c-ac2c-408e20ecb99a"
 title: "Musiques en Stock 2026 - Jour 2 - TV Sundaze, Girl Scout, The Sophs, Babyshambles"
-cover: "pictures/xxx/01.jpg"
+cover: "pictures/babyshambles/01.jpg"
 author: "mkhelif"
 rank: XX
 artists:
@@ -45,4 +45,30 @@ On retrouve chez les Shambles tout le génie et la poésie de leur leader, certa
 
 Et voici les notes prisent pendant les concerts pour agrémenter la chronique (tu n'es pas obligé de les inclure si ça ne suit pas le style de la chronique) :
 
-XXX
+#### TV Sundaze
+2 guitares / chant, 1 basse et une batterie
+Rock bien dansant
+Plus de monde qu'hier
+Belle entrée en matière pour cette deuxième journée
+
+### Girl scout
+Suedoise
+De Stockholm
+Basse, guitare, batterie et elle au chant+guitare
+Les chansons s'enchaînent
+Ça a du mal a prendre
+Il faut attendre les 3 derniers morceaux pour qu'une connexion se crée avec le pubkic
+
+##### the sophs
+Rock pop indie
+Super dansant et entrainant
+2 guitares, une basse, une batterie, clavier et chanteur
+Ça tape du pied et se dehanche
+
+#### Babyshambles
+Entrée sur générique des simpsons
+Peu d'énergie
+"There she goes" fonctionne bien
+Le reste n'est pas très rock n roll
+Quand ils reprennent les plus connus ça marche
+Les gens commencent à partir

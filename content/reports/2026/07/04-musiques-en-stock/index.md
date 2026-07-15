@@ -44,4 +44,28 @@ Fondé en 1994 le groupe de Darius Keeler et Danny Griffiths mettra d’abord qu
 
 Et voici les notes prisent pendant les concerts pour agrémenter la chronique (tu n'es pas obligé de les inclure si ça ne suit pas le style de la chronique) :
 
-XXXX
+#### fordham
+Très bon
+
+#### max baby
+Tres très bon rock
+Accompagné de basse et batterie
+Bouée canard nommé Pablo
+A rater son train
+Mais a trouvé une solution pour être là
+Se donne à fond, une énergie de dingue
+Lillian à la batterie
+Fefe à la basse
+Un final dans le public
+Danse et chante
+Très très bon
+
+##### floodlights
+Clavier/saxo, guitare/harmonica, guitare/chant, basse et batterie
+Australiens
+Chanteur descend dans le public
+
+##### archive
+Phénoménal
+Tout le monde restre jusqu'à la fin
+Nouvel album sorti en 2026
