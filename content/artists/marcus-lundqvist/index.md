@@ -4,7 +4,7 @@ title: "Marcus Lundqvist"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "mrcslundqvist"
   tiktok: ""
   x: ""
   youtube: ""

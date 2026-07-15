@@ -4,7 +4,7 @@ title: "Andreas Malm"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "andr.malm"
   tiktok: ""
   x: ""
   youtube: ""

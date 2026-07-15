@@ -24,21 +24,20 @@ members:
     periods:
       - start: 2019
 socials:
-  facebook: ""
-  instagram: ""
-  tiktok: ""
+  facebook: "thrownband"
+  instagram: "thrownband"
+  tiktok: "@thrownband"
   x: ""
-  youtube: ""
-  web: ""
+  bandsintown: "15509093"
+  youtube: "@extendedpain"
+  web: "https://extendedpain.com/"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1586844225"
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "5eBCPtU2iPbzuMRre9BePt"
   tidal: ""
 todo:
-  - Add picture
-  - Verify and add socials
   - Add detailed description
 ---
