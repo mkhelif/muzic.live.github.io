@@ -2,105 +2,140 @@
 title: "Conditions d'utilisation"
 ---
 
-*Dernière mise à jour : 2025-09-25*
+*Dernière mise à jour : 2026-07-15*
 
-##### 1. Présentation du site
+##### 1. Objet
 
-Ce site web présente des chroniques de concerts, des photographies et des informations sur des artistes, festivals et
-salles de spectacle. L'ensemble du contenu (textes, photographies, mise en page) est créé par les différents auteurs
-cités dans chaque page en tant que photographe accrédité et rédacteur.
+Les présentes conditions d'utilisation encadrent la consultation et l'utilisation du site Muzic.Live.
 
-##### 2. Propriété intellectuelle
+Muzic.Live est un webzine consacré aux musiques vivantes : chroniques de concerts, critiques d'albums, photographies,
+actualités, informations sur les artistes, festivals et salles de spectacle.
 
-###### 2.1 Droits d'auteur sur les photographies
+Les informations d'identification de l'éditeur, du directeur de publication et de l'hébergeur sont disponibles dans les
+[mentions légales](/legal/mentions-legales/). Les informations relatives aux données personnelles sont disponibles dans
+la [politique de confidentialité](/legal/politique-de-confidentialite/).
 
-Toutes les photographies présentes sur ce site sont protégées par le droit d'auteur.
-L'auteur détient tous les droits sur ces œuvres photographiques.
-Les photographies ont été réalisées dans le cadre d'accréditations officielles obtenues auprès des organisateurs de
-concerts et festivals.
+##### 2. Accès au site
 
-###### 2.2 Droits d'auteur sur les textes
+Le site est accessible gratuitement. Certaines fonctionnalités peuvent dépendre de services tiers, notamment les lecteurs
+audio, les vidéos intégrées, les commentaires ou les outils de mesure d'audience.
 
-Tous les textes, chroniques, critiques et articles sont des créations originales protégées par le droit d'auteur
-La reproduction, même partielle, est soumise à autorisation préalable.
+Muzic.Live peut modifier, suspendre ou interrompre tout ou partie du site pour des raisons techniques, éditoriales ou de
+maintenance.
 
-###### 2.3 Droits des tiers
+##### 3. Propriété intellectuelle
 
-Les noms d'artistes, groupes, festivals et salles de spectacle mentionnés restent la propriété de leurs détenteurs
-respectifs.
-L'utilisation de ces noms s'inscrit dans un cadre éditorial et informatif.
+###### 3.1 Textes et contenus éditoriaux
 
-##### 3. Utilisation autorisée du contenu
+Les textes, chroniques, critiques, articles, sélections, bases éditoriales, mises en page et éléments graphiques publiés
+sur Muzic.Live sont protégés par le droit d'auteur, sauf mention contraire.
 
-######  3.1 Utilisation personnelle
+Toute reproduction, adaptation, republication ou exploitation substantielle nécessite une autorisation préalable.
+
+###### 3.2 Photographies
+
+Les photographies publiées sur Muzic.Live sont protégées par le droit d'auteur, sauf mention contraire.
+
+Les photographies de concerts et festivals sont réalisées dans un cadre éditorial, le plus souvent à l'occasion
+d'accréditations accordées par les organisateurs, salles, festivals, tourneurs ou représentants d'artistes. Les crédits
+photographiques figurant sur le site doivent être conservés lors de toute utilisation autorisée.
+
+###### 3.3 Noms et marques de tiers
+
+Les noms d'artistes, groupes, festivals, salles, labels, marques et organismes mentionnés sur le site restent la
+propriété de leurs titulaires respectifs. Leur mention s'inscrit dans un cadre éditorial, critique, informatif ou
+documentaire.
+
+##### 4. Utilisations autorisées
 
 Les visiteurs peuvent :
 
-- Consulter le contenu à des fins personnelles et non commerciales.
-- Partager les liens vers les articles sur les réseaux sociaux.
-- Citer de courts extraits dans le respect du droit de citation, avec mention obligatoire de la source.
+- consulter le contenu à des fins personnelles et non commerciales ;
+- partager des liens vers les pages du site ;
+- citer de courts extraits de textes dans le respect du droit de citation, avec mention claire de la source et lien vers
+  la page concernée ;
+- utiliser les fonctionnalités normales du site, notamment la recherche, les liens de partage, les flux RSS ou les
+  calendriers lorsqu'ils sont proposés.
 
-###### 3.2 Utilisations interdites
+##### 5. Utilisations interdites
 
-Il est strictement interdit de :
+Sans autorisation préalable, il est interdit de :
 
-- Reproduire, copier ou télécharger les photographies sans autorisation écrite.
-- Republier les textes, même en partie, sans autorisation.
-- Utiliser le contenu à des fins commerciales.
-- Modifier, altérer ou dénaturer les œuvres.
-- Supprimer les mentions de copyright ou signatures.
+- extraire, reproduire, republier, stocker ou réutiliser les photographies hors consultation normale du site ;
+- republier les textes, hors courte citation autorisée par la loi ;
+- utiliser les contenus à des fins commerciales, promotionnelles, publicitaires ou d'entraînement automatisé ;
+- modifier, altérer, recadrer ou dénaturer les œuvres ;
+- supprimer les crédits, signatures, mentions de copyright ou liens d'attribution ;
+- procéder à une extraction massive ou automatisée du contenu ;
+- tenter de perturber le fonctionnement technique du site.
 
-##### 4. Demandes d'autorisation
+##### 6. Demandes d'autorisation
 
-######  4.1 Utilisation des photographies
+###### 6.1 Photographies
 
-Pour toute demande d'utilisation des photographies (presse, promotion, usage commercial), contactez directement l'auteur
-(chaque photographie est créditée avec le contact de l'auteur) en précisant :
+Pour toute demande d'utilisation d'une photographie, notamment pour un usage presse, promotionnel, commercial ou
+institutionnel, contactez l'auteur indiqué dans le crédit de la photographie lorsque ce contact est disponible.
 
-- l'utilisation prévue,
-- le support de diffusion,
-- la durée d'utilisation,
-- le territoire de diffusion.
+La demande doit préciser :
 
-######  4.2 Utilisation des textes
+- l'image ou la page concernée ;
+- l'utilisation prévue ;
+- le support de diffusion ;
+- la durée d'utilisation ;
+- le territoire de diffusion ;
+- le contexte éditorial ou commercial.
 
-Les demandes de reproduction d'articles ou d'extraits substantiels doivent être adressées à hello@muzic.live
+###### 6.2 Textes et contenus éditoriaux
 
-#####  5. Liens hypertextes
+Les demandes de reproduction d'articles, d'extraits substantiels ou de contenus éditoriaux doivent être adressées à
+[hello@muzic.live](mailto:hello@muzic.live).
 
-###### 5.1 Liens entrants
+##### 7. Contributions, commentaires et signalements
 
-La création de liens vers ce site est autorisée, à condition qu'ils dirigent vers la page d'accueil ou vers des
-articles complets, sans utilisation de cadres (frames).
+Lorsque des commentaires ou contributions sont proposés, les utilisateurs restent responsables de leurs propos. Les
+messages injurieux, discriminatoires, diffamatoires, illicites, publicitaires ou portant atteinte aux droits de tiers
+peuvent être modérés ou supprimés.
 
-###### 5.2 Liens sortants
+Pour signaler une erreur factuelle, un problème de crédit, une atteinte à un droit, une demande de retrait ou un contenu
+manifestement illicite, contactez [hello@muzic.live](mailto:hello@muzic.live) en indiquant la page concernée et les
+éléments permettant de comprendre la demande.
 
-Ce site peut contenir des liens vers des sites tiers. Nous ne sommes pas responsables du contenu de ces sites
-externes.
+##### 8. Liens hypertextes
 
-##### 6. Responsabilité
+###### 8.1 Liens entrants
 
-###### 6.1 Contenu éditorial
+La création de liens vers Muzic.Live est autorisée, à condition de ne pas présenter le site dans un cadre trompeur,
+diffamatoire, illicite ou susceptible de créer une confusion sur l'origine du contenu.
 
-Les chroniques et critiques publiées reflètent l'opinion personnelle de l'auteur et s'inscrivent dans l'exercice de
-la liberté d'expression et de la critique artistique.
+###### 8.2 Liens sortants et contenus intégrés
 
-###### 6.2 Exactitude des informations
+Le site peut contenir des liens vers des sites tiers ou intégrer des services externes, notamment plateformes vidéo,
+lecteurs audio, réseaux sociaux, billetteries ou systèmes de commentaires.
 
-Nous nous efforçons de publier des informations exactes concernant les dates, lieux et détails des événements, mais
-ne pouvons garantir l'absence d'erreurs.
+Muzic.Live n'est pas responsable du contenu, du fonctionnement ou des pratiques de confidentialité de ces services tiers.
 
-##### 7. Droit applicable et juridiction
+##### 9. Responsabilité éditoriale
 
-Ces conditions d'utilisation sont régies par le droit français. En cas de litige, les tribunaux français seront seuls
-compétents.
+Les chroniques, critiques et reportages reflètent l'opinion de leurs auteurs et s'inscrivent dans l'exercice de la
+liberté d'expression, de la critique artistique et de l'information culturelle.
 
-##### 8. Contact
+Muzic.Live s'efforce de publier des informations exactes concernant les dates, lieux, programmations, artistes et
+événements, mais ne peut garantir l'absence totale d'erreurs ou de changements postérieurs à la publication.
 
-Pour toute question concernant ces conditions d'utilisation ou pour toute demande d'autorisation, veuillez nous
-contacter à hello@muzic.live
+Aucune clause des présentes conditions ne limite les droits légaux des utilisateurs ni les responsabilités qui ne peuvent
+être exclues par la loi.
 
-##### 9. Modifications
+##### 10. Droit applicable
 
-Ces conditions d'utilisation peuvent être modifiées à tout moment. La version en vigueur est celle publiée sur le
-site à la date de consultation.
+Les présentes conditions sont régies par le droit français, sous réserve des règles impératives éventuellement
+applicables selon la situation de l'utilisateur ou le pays concerné.
+
+##### 11. Contact
+
+Pour toute question concernant ces conditions d'utilisation ou pour toute demande d'autorisation, contactez
+[hello@muzic.live](mailto:hello@muzic.live).
+
+##### 12. Modifications
+
+Ces conditions d'utilisation peuvent être modifiées à tout moment. La version applicable est celle publiée sur le site à
+la date de consultation.
