@@ -1,12 +1,6 @@
 {{ define "main" }}
-    <div class="container">
-        <h1 class="mb-4 p-3 bg-primary text-dark"
-            data-pagefind-meta="title"
-        >
-            {{ .Title }}
-        </h1>
-
-        <form method="POST" action="https://formsubmit.co/762982a601b0042844604ce901e037a2">
+    <div class="container my-3 my-sm-5 py-3 py-sm-5">
+        <form class="my-sm-3 py-sm-3" method="POST" action="https://formsubmit.co/762982a601b0042844604ce901e037a2">
             <div class="row mb-3">
                 <div class="col-12 col-md-6 offset-md-3">
                     <label class="form-label text-primary fw-bold" for="name">Nom</label>
@@ -30,7 +24,7 @@
 
             <div class="row mb-3">
                 <div class="col-12 col-md-6 offset-md-3 text-center">
-                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <button type="submit" class="btn btn-primary">Envoyer</button>
                 </div>
             </div>
         </form>
