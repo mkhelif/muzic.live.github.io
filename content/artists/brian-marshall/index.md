@@ -4,8 +4,9 @@ title: "Brian Marshall"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "bmarshall73"
   tiktok: ""
+  threads: "@bmarshall73"
   x: ""
   youtube: ""
   web: ""
