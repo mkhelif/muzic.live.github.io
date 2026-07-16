@@ -15,7 +15,7 @@ import uuid
 
 # Configure authentication token
 CLIENT_TOKEN=""
-ACCESS_TOKEN=""
+ACCESS_TOKEN="Bearer"
 
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:143.0) Gecko/20100101 Firefox/143.0",
