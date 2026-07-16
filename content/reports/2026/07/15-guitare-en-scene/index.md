@@ -12,9 +12,8 @@ artists:
   - "62ef5fde-be61-43c1-8f65-ae931f5f16c7"
   - "afeb60c3-ae28-48f2-93ea-3491cd32b225"
   - "4766916f-f5a2-400e-a656-0859fc1618af"
+  - "54fc1850-3bc8-4665-bde2-5378ae85611b"
 ---
-
-Crées la fiche manquante du groupe "Les Hommes Crabes" et ajoute l'ID dans les `artists` de ce `reports` ainsi que dans l'`events` correspondant.
 
 Écris une chronique détaillée de la deuxième soirée du festival Guitare en Scène 2026. Inspires toi d'autres chroniques des groupes présents pour la rédiger.
 Les artistes présents ce soir là sont (dans l'ordre d'apparition) : Les Hommes Crabes, Fantastic Negrito, Pixies et Manu Lanvin. Pacôme Rotondo à la scène quartier libre à l'ouverture et au milieu. 

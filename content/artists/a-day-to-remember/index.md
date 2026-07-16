@@ -41,14 +41,37 @@ members:
     periods:
       - start: 2003
         end: 2021
+  - id: "a5f8927b-462b-4292-b2d4-d7e5d0a50f4f"
+    roles:
+      - bass
+    periods:
+      - start: 2022
+        end: 2023
+  - id: "50575ee2-3f70-4e8d-84e9-f01d5ffa16cf"
+    roles:
+      - keys
+    periods:
+      - start: 2022
+        end: 2023
+  - id: "706ca19f-d452-4577-ad08-40e6c731a1f4"
+    roles:
+      - guitar
+    periods:
+      - start: 2022
+        end: 2023
+  - id: "1205f67c-6ed6-4648-8b1b-6b2d5d22ab3f"
+    roles:
+      - bass
+    periods:
+      - start: 2024
 socials:
-  facebook: ""
+  facebook: "adtr"
   instagram: ""
-  tiktok: ""
+  tiktok: "@adaytoremember"
   x: ""
-  youtube: ""
-  web: ""
-  email: ""
+  youtube: "@adaytoremember"
+  web: "https://adtr.com"
+  email: "contact@adtr.com"
   amazon: ""
   apple: ""
   deezer: ""

@@ -7,6 +7,7 @@ artists:
   - "62ef5fde-be61-43c1-8f65-ae931f5f16c7"
   - "afeb60c3-ae28-48f2-93ea-3491cd32b225"
   - "4766916f-f5a2-400e-a656-0859fc1618af"
+  - "54fc1850-3bc8-4665-bde2-5378ae85611b"
 tickets:
   web: https://www.guitare-en-scene.com/billetterie
 ---

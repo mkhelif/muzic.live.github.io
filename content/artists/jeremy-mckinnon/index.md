@@ -4,8 +4,9 @@ title: "Jeremy McKinnon"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "therealjeremymckinnon"
   tiktok: ""
+  threads: "@therealjeremymckinnon"
   x: ""
   youtube: ""
   web: ""

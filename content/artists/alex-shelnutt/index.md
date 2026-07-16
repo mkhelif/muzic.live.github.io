@@ -4,7 +4,7 @@ title: "Alex Shelnutt"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "alexshelnutt"
   tiktok: ""
   x: ""
   youtube: ""

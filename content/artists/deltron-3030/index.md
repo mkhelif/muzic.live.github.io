@@ -2,6 +2,22 @@
 id: "fbd9f71a-fcc9-4751-aa59-4da5d1f78cac"
 title: "Deltron 3030"
 type: band
+members:
+  - id: "ec827073-a82f-4b3a-80dd-08c4312f6566"
+    roles:
+      - sing
+    periods:
+      - start: 1999
+  - id: "5c0be2a4-b23d-41b4-9cec-cb656643e88c"
+    roles:
+      - other
+    periods:
+      - start: 1999
+  - id: "b3d474f3-1b02-4006-b33c-bc91d7152d74"
+    roles:
+      - other
+    periods:
+      - start: 1999
 socials:
   facebook: "OfficialDELTRON"
   instagram: "officialdeltron"

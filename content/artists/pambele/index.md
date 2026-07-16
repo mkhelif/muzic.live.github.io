@@ -53,3 +53,19 @@ socials:
   qobuz: ""
 ---
 
+Pambelé est un groupe de sept musiciens fondé en 2019 à Lyon, mêlant la transe des rythmes afro-colombiens à des
+couleurs psychédéliques héritées des années soixante. Les percussions traditionnelles de la côte nord de la Colombie
+s'y entrelacent avec des mélodies de saxophone ténor et une guitare électrique syncopée.
+
+Le groupe est mené par la chanteuse Yomira John, forte d'une carrière internationale de vingt ans qui l'a menée à
+collaborer avec des artistes tels que Ricky Martin, Luis Miguel ou Gilberto Santa Rosa. Ses membres viennent de
+Colombie, du Venezuela, d'Italie et de France.
+
+###### Un nom qui rend hommage
+
+Le nom du groupe est un hommage au boxeur colombien Antonio Cervantes, surnommé « Kid Pambelé », figure emblématique
+du sport dans les années 1970, et rappelle aussi San Basilio de Palenque, ville natale du champion et haut lieu de la
+culture afro-colombienne.
+
+Après plusieurs années de scène à diffuser cette transe transatlantique, Pambelé publie son premier album, Dámelo, en
+mars 2025.

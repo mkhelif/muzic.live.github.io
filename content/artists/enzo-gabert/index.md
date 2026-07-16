@@ -1,0 +1,23 @@
+---
+id: "baae0152-b956-4cb7-8587-ee438593b8d9"
+title: "Enzo Gabert"
+type: person
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

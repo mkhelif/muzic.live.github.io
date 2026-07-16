@@ -4,8 +4,9 @@ title: "Kevin Skaff"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "kevineffinskaff"
   tiktok: ""
+  threads: "@kevineffinskaff"
   x: ""
   youtube: ""
   web: ""

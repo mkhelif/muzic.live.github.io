@@ -16,8 +16,25 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 ---
+
+Georgio, de son vrai nom Georges Édouard Nicolo, est né le 21 janvier 1993 aux Lilas, en Seine-Saint-Denis. Rappeur et
+chanteur français d'ascendance guadeloupéenne, il grandit dans une famille de parents divorcés, entre un séjour à
+Angers durant ses années de collège et une installation dans le 18e arrondissement de Paris.
+
+###### Une jeunesse de rue tournée vers le rap
+
+Passionné très jeune de musique et de basketball, Georgio quitte l'école tôt pour une vie de rue qui lui vaut
+plusieurs démêlés avec la justice, tout en enchaînant petits boulots et écriture, portée par sa passion pour le rap.
+
+###### De l'autoproduction à la reconnaissance
+
+Repéré sur Internet, il sort son premier album, Bleu Noir, le 16 octobre 2015, financé par un financement
+participatif. Suivent Héra (2016), XX5 (2018), Sacré (2021) et Années Sauvages (2022), quatre albums qui installent sa
+voix singulière dans le rap français.
+
+###### Une écriture nourrie de littérature
+
+Grand lecteur et amateur de poésie, Georgio revendique dans ses textes et interviews l'influence de sa famille, de ses
+amis et des quartiers autour du métro Marx Dormoy, dans le 18e arrondissement, ainsi que des références littéraires
+assumées : Sylvain Tesson, Robert Desnos, Céline, Maïakovski, Henri Michaux, Marc Aurèle ou Romain Gary.

@@ -15,14 +15,6 @@ artists:
   - "d1edfacb-30d1-420f-9f18-3c304c29a591"
 ---
 
-Crées la fiche manquante du groupe "ARH" et ajoute l'ID dans les `artists` de ce `reports` ainsi que dans l'`events` correspondant.
-
-
-
-Crées la fiche manquante du groupe "Quintana Dead Blues Experience" et ajoute l'ID dans les `artists` de ce `reports` ainsi que dans l'`events` correspondant.
-
-
-
 Écris une chronique détaillée de la quatrième soirée du festival Guitare en Scène 2026. Inspires toi d'autres chroniques des groupes présents pour la rédiger.
 Les artistes présents ce soir là sont (dans l'ordre d'apparition) : In Fallow, John Butler, Kool & The Gang et Robben Ford. Jango Janice à la scène quartier libre à l'ouverture et au milieu. 
 

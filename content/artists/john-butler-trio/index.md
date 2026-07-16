@@ -98,8 +98,29 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 ---
+
+John Butler Trio est un groupe australien de roots rock mené par le guitariste et chanteur John Butler, considéré
+comme la principale contribution australienne au mouvement jam band. Sa fusion de reggae, folk engagé, blues, pop et
+soul acoustique domine les classements régionaux dans les années 2000 et 2010.
+
+###### De Fremantle à la scène internationale
+
+Né le 1er avril 1975 à Torrance, en Californie, d'un père australien et d'une mère américaine, John Butler s'installe
+en 1986 à Pinjarra, en Australie-Occidentale. Il commence la guitare à seize ans et débute comme musicien de rue à
+Fremantle, publiant en 1996 une cassette autoproduite, Searching for Heritage. Le trio se forme en 1998 à Fremantle,
+avec Jason McGann à la batterie et Gavin Shoesmith à la basse.
+
+###### Une formation en perpétuel mouvement
+
+Au fil des années, la section rythmique du groupe évolue considérablement : en 2009, John Butler est entouré de Byron
+Luiters (basse) et Nicky Bomba (batterie et percussions), remplacé par Grant Gerathy en 2013. Après le départ de
+Luiters et Gerathy début 2019, le bassiste OJ Newcomb et le batteur Terepai Richmond (également membre des Whitlams)
+rejoignent le groupe, accompagnés de la multi-instrumentiste Elana Stone aux claviers, percussions et chœurs.
+
+###### Succès commercial
+
+Les albums Sunrise Over Sea (2004), Grand National (2007) et April Uprising (2010) atteignent tous la première place
+des classements australiens et sont certifiés platine. Home (2018) est à ce jour leur dernier album studio. Depuis
+2002, le groupe publie ses disques via Jarrah Records, label que John Butler codétient avec le groupe folk The Waifs
+et leur manager commun, Philip Stevens.

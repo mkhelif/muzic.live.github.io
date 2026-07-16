@@ -11,16 +11,9 @@ artists:
   - "1fe399c1-992e-4381-8670-206c14053b93"
   - "fe11fca2-0746-4f0b-b839-b7d1424fd093"
   - "41ad662d-f4a7-45b4-932d-b194e3aab7e6"
+  - "bfc92821-f6b9-466a-9f8d-7692b862e016"
+  - "1552e79a-330a-41f6-88c5-28d82ea161cc"
 ---
-
-Crées la fiche manquante du groupe "The Carpets" et ajoute l'ID dans les `artists` de ce `reports` ainsi que dans l'`events` correspondant.
-
-
-
-Crées la fiche manquante du groupe "Alenko" et ajoute l'ID dans les `artists` de ce `reports` ainsi que dans l'`events` correspondant.
-
-
-
 
 Écris une chronique détaillée de la cinquième et dernière soirée du festival Guitare en Scène 2026. Inspires toi d'autres chroniques des groupes présents pour la rédiger.
 Les artistes présents ce soir là sont (dans l'ordre d'apparition) : The Carpets, This is Michael & Jennifer Batten et Frank Carducci. Alenko à la scène quartier libre à l'ouverture et au milieu. 

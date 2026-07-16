@@ -41,21 +41,19 @@ members:
     periods:
       - start: 2010
 socials:
-  facebook: ""
-  instagram: ""
+  facebook: "ToucheAmore"
+  instagram: "toucheamore"
   tiktok: ""
-  x: ""
-  youtube: ""
-  web: ""
+  x: "toucheamore"
+  youtube: "@toucheamoreband"
+  web: "www.toucheamore.com"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "433437119"
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "16QCJENzcdhwka9bTKYMVB"
   tidal: ""
 todo:
-  - Add picture
-  - Verify and add socials
   - Add detailed description
 ---

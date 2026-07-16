@@ -2,6 +2,24 @@
 id: "e8376acb-4569-451b-a1a4-0bc281581b33"
 title: "Saults"
 type: band
+members:
+  - id: "fc03db5c-0f33-4ed7-82d7-a16a719351a8"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2014
+  - id: "e40fdf4b-e9a8-4b02-958b-a011900f0d54"
+    roles:
+      - drums
+      - sing
+    periods:
+      - start: 2014
+  - id: "4151bd00-80c9-43a9-95dd-ab8930bcb7c8"
+    roles:
+      - bass
+    periods:
+      - start: 2017
 socials:
   facebook: "saultsmusic"
   instagram: "saultsmusic"

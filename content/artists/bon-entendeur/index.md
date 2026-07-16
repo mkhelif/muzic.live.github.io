@@ -2,6 +2,17 @@
 id: "bcfbe727-85f9-4b8f-ad24-6a1f94718386"
 title: "Bon Entendeur"
 type: band
+members:
+  - id: "13b3aea6-42e4-46f0-ba9d-c023ade4a936"
+    roles:
+      - other
+    periods:
+      - start: 2012
+  - id: "38356829-1391-441e-a8a3-018114dc37e4"
+    roles:
+      - other
+    periods:
+      - start: 2012
 socials:
   facebook: "bonentendeurmusic"
   instagram: "bon_entendeur"
