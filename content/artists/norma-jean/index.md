@@ -1,7 +1,6 @@
 ---
-id: "b4f4aa83-a2b3-4bbe-848c-ae23c9fe21ad"
-title: "Mötley Crüe"
-type: band
+id: "e74af678-b319-49f1-bfca-87f9026d8539"
+title: "Norma Jean"
 socials:
   facebook: ""
   instagram: ""
@@ -14,10 +13,10 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: "0cc6vw3VN8YlIcvr1v7tBL"
+  spotify: ""
   tidal: ""
 todo:
   - Add picture
-  - Verify and add socials
-  - Add detailed description
+  - Add socials
+  - Add description
 ---

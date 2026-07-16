@@ -1,7 +1,6 @@
 ---
-id: "b4f4aa83-a2b3-4bbe-848c-ae23c9fe21ad"
-title: "Mötley Crüe"
-type: band
+id: "792d1ce1-d2b9-4eb1-b14f-3e59a894c5ca"
+title: "Fire In Her Eyes"
 socials:
   facebook: ""
   instagram: ""
@@ -14,10 +13,10 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: "0cc6vw3VN8YlIcvr1v7tBL"
+  spotify: ""
   tidal: ""
 todo:
   - Add picture
-  - Verify and add socials
-  - Add detailed description
+  - Add socials
+  - Add description
 ---

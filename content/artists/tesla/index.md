@@ -1,7 +1,6 @@
 ---
-id: "b4f4aa83-a2b3-4bbe-848c-ae23c9fe21ad"
-title: "Mötley Crüe"
-type: band
+id: "3cb88296-922b-4a8e-99fb-4dbb3d270f88"
+title: "Tesla"
 socials:
   facebook: ""
   instagram: ""
@@ -14,10 +13,10 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: "0cc6vw3VN8YlIcvr1v7tBL"
+  spotify: ""
   tidal: ""
 todo:
   - Add picture
-  - Verify and add socials
-  - Add detailed description
+  - Add socials
+  - Add description
 ---

@@ -1,7 +1,6 @@
 ---
-id: "b4f4aa83-a2b3-4bbe-848c-ae23c9fe21ad"
-title: "Mötley Crüe"
-type: band
+id: "7f9e5c34-5d09-4b32-8fc9-39b25dfe25e9"
+title: "Twiztid"
 socials:
   facebook: ""
   instagram: ""
@@ -14,10 +13,10 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: "0cc6vw3VN8YlIcvr1v7tBL"
+  spotify: ""
   tidal: ""
 todo:
   - Add picture
-  - Verify and add socials
-  - Add detailed description
+  - Add socials
+  - Add description
 ---
