@@ -42,24 +42,28 @@ members:
       - start: 2003
         end: 2021
   - id: "a5f8927b-462b-4292-b2d4-d7e5d0a50f4f"
+    touring: true
     roles:
       - bass
     periods:
       - start: 2022
         end: 2023
   - id: "50575ee2-3f70-4e8d-84e9-f01d5ffa16cf"
+    touring: true
     roles:
       - keys
     periods:
       - start: 2022
         end: 2023
   - id: "706ca19f-d452-4577-ad08-40e6c731a1f4"
+    touring: true
     roles:
       - guitar
     periods:
       - start: 2022
         end: 2023
   - id: "1205f67c-6ed6-4648-8b1b-6b2d5d22ab3f"
+    touring: true
     roles:
       - bass
     periods:
