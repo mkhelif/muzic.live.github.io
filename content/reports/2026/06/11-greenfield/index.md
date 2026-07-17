@@ -1,10 +1,9 @@
 ---
-draft: true
 date: 2026-06-11T14:00:00+02:00
 festival: "ed47a838-c652-4756-83d9-3d0940f9cd15"
 venue: "bd6c27c6-8573-4c91-900a-cb8b55d61f1a"
 title: "Greenfield Festival 2026 - Jour 1 - Alphornbläser, Zebrahead, XOXO, Ice Nine Kills, Unpeople, Alter Bridge, Thrown, A Day to Remember, Touché Amoré, The Offspring, President, Sabaton"
-cover: "pictures/sabaton/01.jpg"
+cover: "pictures/the-offspring/26.jpg"
 author: "mkhelif"
 rank: 10
 artists:
