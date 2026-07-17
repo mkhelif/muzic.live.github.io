@@ -4,7 +4,7 @@ title: "Nick Steinhardt"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "NickSteinhardt"
   tiktok: ""
   x: ""
   youtube: ""

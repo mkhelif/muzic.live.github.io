@@ -4,7 +4,7 @@ title: "Tyler Kirby"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "tylerpkirby"
   tiktok: ""
   x: ""
   youtube: ""

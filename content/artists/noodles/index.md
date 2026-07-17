@@ -4,7 +4,7 @@ title: "Noodles"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "thegnudz"
   tiktok: ""
   x: ""
   youtube: ""

@@ -4,7 +4,7 @@ title: "Elliot Babin"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "elliotbabin"
   tiktok: ""
   x: ""
   youtube: ""

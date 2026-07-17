@@ -4,7 +4,7 @@ title: "Clayton Stevens"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "clayton_stevens"
   tiktok: ""
   x: ""
   youtube: ""

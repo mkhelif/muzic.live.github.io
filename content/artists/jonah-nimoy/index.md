@@ -4,7 +4,7 @@ title: "Jonah Nimoy"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "jonahnimoy"
   tiktok: ""
   x: ""
   youtube: ""

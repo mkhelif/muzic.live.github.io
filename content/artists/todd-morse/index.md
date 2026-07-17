@@ -4,7 +4,7 @@ title: "Todd Morse"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "toddsplanet"
   tiktok: ""
   x: ""
   youtube: ""

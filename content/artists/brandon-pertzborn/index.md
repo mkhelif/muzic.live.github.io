@@ -4,7 +4,7 @@ title: "Brandon Pertzborn"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "brandonpertzborn"
   tiktok: ""
   x: ""
   youtube: ""
