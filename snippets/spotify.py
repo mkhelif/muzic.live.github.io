@@ -170,7 +170,55 @@ def format_filename(name):
            re.sub('[^a-z0-9]', '-',
               unidecode(name).lower()))
 
+# Case-insensitive index of existing artists, keyed by title and by every
+# `aliases` entry, mapping to the artist id. Built once and kept up to date as
+# new artists are created so that duplicates (e.g. "Bigflo & Oli" vs
+# "Bigflo et Oli") are resolved to a single fiche.
+_ARTIST_INDEX = None
+
+def _index_key(name):
+    return name.strip().lower()
+
+def build_artist_index():
+    index = {}
+    artists_dir = Path("./content/artists")
+    if not artists_dir.is_dir():
+        return index
+    for entry in sorted(artists_dir.iterdir()):
+        file = entry.joinpath("index.md")
+        if not file.exists():
+            continue
+        data = load_frontmatter(file)
+        artist_id = data.get('id', None)
+        if artist_id is None:
+            continue
+        artist_id = str(artist_id)
+
+        # Register the title and every alias (case-insensitive).
+        keys = [data.get('title', None)]
+        aliases = data.get('aliases', None) or []
+        if isinstance(aliases, str):
+            aliases = [aliases]
+        keys.extend(aliases)
+        for key in keys:
+            if key:
+                index.setdefault(_index_key(key), artist_id)
+    return index
+
+def get_artist_index():
+    global _ARTIST_INDEX
+    if _ARTIST_INDEX is None:
+        _ARTIST_INDEX = build_artist_index()
+    return _ARTIST_INDEX
+
 def get_or_create_artist(name):
+    index = get_artist_index()
+
+    # Reuse an existing artist when the name matches a title or alias.
+    existing_id = index.get(_index_key(name))
+    if existing_id is not None:
+        return existing_id
+
     artist_id = None
     directory = Path(f"./content/artists/{format_filename(name)}")
     directory.mkdir(parents = True, exist_ok = True)
@@ -206,7 +254,11 @@ todo:
 """)
     if artist_id is None:
         raise Exception(f"Could not create artist {name}")
-    return str(artist_id)
+    artist_id = str(artist_id)
+
+    # Keep the index current so subsequent lookups in this run reuse it.
+    index[_index_key(name)] = artist_id
+    return artist_id
 
 def get_or_create_location_country(country):
     country_id = None

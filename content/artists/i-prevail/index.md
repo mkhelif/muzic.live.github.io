@@ -2,6 +2,61 @@
 id: "734ad2ca-0961-4acf-8e74-47c48fbea687"
 title: "I Prevail"
 type: band
+members:
+  - id: "27c1db24-fac1-41a2-8c07-00401528b4b7"
+    roles:
+      - sing
+    periods:
+      - start: 2013
+  - id: "bed5f415-2103-4f64-a704-5df2ae127add"
+    roles:
+      - guitar
+      - bass
+    periods:
+      - start: 2013
+  - id: "c0a8d8f7-e119-4a83-b7c6-73c7677cc65d"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2015
+  - id: "e5d9199e-4df0-4ca9-919b-5e99bc941458"
+    roles:
+      - drums
+    periods:
+      - start: 2019
+  - id: "e666e9fe-9ec3-4da3-9908-104703cd4bd2"
+    roles:
+      - bass
+      - keys
+      - sing
+    periods:
+      - start: 2025
+  - id: "4494d2a0-8679-44fc-9232-8672c0611f68"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2013
+        end: 2015
+  - id: "f2c4652c-c03c-4b2f-a2cb-9336b3977e6c"
+    roles:
+      - bass
+    periods:
+      - start: 2014
+        end: 2016
+  - id: "5240ec5f-95ba-4f3e-922a-22bb1d0b12ab"
+    roles:
+      - drums
+    periods:
+      - start: 2013
+        end: 2017
+  - id: "2e057350-8779-4a9a-95c7-5ee544194e8a"
+    roles:
+      - sing
+    periods:
+      - start: 2013
+        end: 2025
 socials:
   facebook: ""
   instagram: ""

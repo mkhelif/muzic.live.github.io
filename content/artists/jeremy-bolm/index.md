@@ -4,9 +4,9 @@ title: "Jeremy Bolm"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "jeremyxbolm"
   tiktok: ""
-  x: ""
+  x: "jeremyxbolm"
   youtube: ""
   web: ""
   email: ""

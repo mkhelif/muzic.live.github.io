@@ -1,0 +1,10 @@
+---
+id: "8344e070-0ede-44b7-9184-1ba839cbe18c"
+title: "Anders Kjølholm"
+socials:
+  facebook: ""
+  instagram: ""
+  x: ""
+  threads: ""
+  youtube: ""
+---

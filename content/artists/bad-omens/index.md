@@ -2,6 +2,39 @@
 id: "ee8b695f-b273-4d57-ae7e-7d379d7a8d65"
 title: "Bad Omens"
 type: band
+members:
+  - id: "30879fdc-636d-40f3-804e-461f6bbbe0df"
+    roles:
+      - sing
+      - other
+    periods:
+      - start: 2015
+  - id: "81151688-93bb-472f-ab44-9a134312ef84"
+    roles:
+      - sing
+      - guitar
+      - bass
+    periods:
+      - start: 2015
+  - id: "ed60c4ed-b119-4347-9be1-eb86270f1332"
+    roles:
+      - guitar
+      - other
+      - sing
+    periods:
+      - start: 2015
+  - id: "6c76a92c-9f65-432e-94fa-0b0f561a0a09"
+    roles:
+      - drums
+    periods:
+      - start: 2015
+  - id: "d508f2af-e315-4d5c-b131-4bfaada33ea8"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2015
+        end: 2018
 socials:
   facebook: ""
   instagram: ""
