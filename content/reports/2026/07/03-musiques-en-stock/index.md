@@ -6,7 +6,7 @@ venue: "830edf51-8e24-4f4c-ac2c-408e20ecb99a"
 title: "Musiques en Stock 2026 - Jour 2 - TV Sundaze, Girl Scout, The Sophs, Babyshambles"
 cover: "pictures/babyshambles/01.jpg"
 author: "mkhelif"
-rank: XX
+rank: 8
 artists:
   - "e54cd8e0-36ab-4976-9b4b-e9bdeef1b304"
   - "e61f7110-46b8-4430-92ee-6de119c8e234"
@@ -14,61 +14,56 @@ artists:
   - "35ba7d4d-ad83-4ef2-a150-8ce03299a7f0"
 ---
 
-Écris une chronique détaillée de la seconde soirée du festival Musiques en Stock 2026. Inspires toi d'autres chroniques des groupes présents pour la rédiger.
-Les artistes présents ce soir là sont (dans l'ordre d'apparition) : TV Sundaze, Girl Scout, The Sophs, Babyshambles. Le DJ Dirty Harry s'occuper de l'ambiance entre les changements de plateau.
+Il y avait dans l'air quelque chose de plus électrique que la veille. Plus de monde sous les projecteurs, plus de bière
+renversée aussi sans doute, et surtout quatre affiches qui, mises bout à bout, dessinaient un genre de biopic accéléré
+du rock anglo-saxon contemporain, de Valence à Londres en passant par Stockholm. De quoi se demander si ce n'est pas
+finalement le rock qui nous suit, et non l'inverse.
 
-Inclus les titres (h6 `######`) et les carousels d'images.
+###### TV Sundaze
 
-Voici les présentations des artistes :
+{{< carousel pictures="pictures/tv-sundaze" alt="TV Sundaze" author="mkhelif" >}}
 
-TV Sundaze :
-Bon, soyons sérieux les gars, les losers ça n’existe pas, du moins pas comme ça, pas avec cette électricité dans les doigts et ce vacarme du diable dans le son de batterie, un ongle sur la gâchette et la tête dans les nuages… «Back in the garage»  scandait Strummer première période des Clash, sachant qu’avec un son pareil et l’attitude qui va avec, on ne peut aller que loin et droit devant !
-Ces quatre là sont de Valence, explosifs et sincères, directs au point de nous laisser penser que le Rock est de retour, le vrai, celui qui faisait danser vos parents bière à la main et cigarette dans l’autre, remuant la tête d’avant en arrière comme pour acquiescer, «l’autruche» aurait dit Lou Reed dans sa période « humoriste célèbre »….
-Mais trêve de blagues, c’est de dynamite dont il s’agit, celle qui vous répare l’âme et le reste dès le premier refrain. TV Sundaze ce sont deux disques auto-produits, moult tournées et un grand nouvel album qui remet la guitare Fuzz et la rythmique Garage sur le devant de la scène. Une énergie folle qui devrait nous rappeler quelques moments forts du festival comme furent les concerts des Hives ou du John Spencer explosion il y a de ça quelques éditions.
+Soyons sérieux les gars, les losers ça n'existe pas, surtout pas quand on ouvre le bal avec ce genre d'électricité dans
+les doigts. Les Valentinois de TV Sundaze montent sur scène à deux guitares-chant, une basse et une batterie, et n'ont
+besoin de rien de plus pour faire décoller cette seconde soirée. Pas de round d'observation, pas de mise en jambe
+poussive : d'entrée, ça danse, ça remue la tête d'avant en arrière façon « l'autruche » période Lou Reed humoriste, et
+le public, nettement plus fourni que la veille, répond présent dès les premiers refrains. Une entrée en matière idéale,
+du genre à réconcilier tout le monde avec l'idée que le rock, le vrai, celui des Hives ou du John Spencer Blues
+Explosion vus ici même il y a quelques éditions, n'a pas dit son dernier mot.
 
-Girl Scout :
-Ah, l’âme suédoise ! …. Bien avant d’en étudier la géographie on connaissait déjà l’endroit grâce à ce moment unique que fût l’écoute du single de Virna Lindt « Attention Stockholm » chez un Bernard Lenoir extatique un soir d’avril à la radio française… Le temps de fantasmer sur le fait qu’elle puisse être la petite fille d’un magnat du chocolat suisse et le tour était joué …
-On savait aussi pour le quatuor mixte à l’équité impeccablement respectée et le succès colossal acquis partout sur la planète au fil des années, mais… Balayons les idées reçues, Stockholm a toujours été un vivier en matière de groupes Rock au point d’inciter quelques ex New York Dolls voire London Cowboys à y clore une chaotique carrière, en clubs ou au bras d’un mannequin aux cheveux blonds, sourire glacé killer.
-Aujourd’hui Girl Scout perpétue la tradition en défendant au mieux ce savoir-faire d’orfèvres melodistes avec un indie-sound généreux et pertinent, d’allure cool et respectant comme il se doit le culte et les codes du refrain initié par d’illustres prédécesseurs. On peut donc parier sans trop prendre de risques qu’avec leur premier et flamboyant album le groupe sera amené à jouer les tout premiers rôles dans un futur proche.
-Girl Scout ? Yes. Attention Révélation !!!
+###### Girl Scout
 
-The Sophs :
-Scary Monsters…. Les grands artistes ont souvent extériorisé leurs démons dans les chansons, parfois un aveu, parfois une oeuvre d’art, l’inspiration ne choisit pas sa cible, elle est là, c’est tout, et nous, plus jeunes nous raffolions de ce genre de sincérité qui parfois nous mettait mal à l’aise mais était tellement plus fascinant que celui des auteurs à succès….
-C’est un peu ça The Sophs, un chanteur, Ethan Ramon, qui part de lui même pour aller où précisément on n’est pas sensés aller. Cette honnêteté et la sûreté du style proposé ont vite fait craquer le mythique label Rough Trade en Angleterre, magnifique, leur premier album « Goldstar » propose une vision Pop Punk lorgnant parfois vers le Funk ou le Talk over, ils sont dépositaires de la philosophie Warholienne du Pop Art qui signifie que rien ne se perd mais que tout se transforme.
-Il s’agit donc de la réflexion d’un groupe qui se sent extrêmement positif et heureux, de l’effort de gens qui repoussent les limites indiquées, dotés d’une énergie ultra communicative, ce qui certes devrait être obligatoire, mais mérite o combien d’être souligné. 
+{{< carousel pictures="pictures/girl-scout" alt="Girl Scout" author="mkhelif" >}}
 
-Babyshambles :
-Même en rêve, on ne peut imaginer plus anglais que les Babyshambles, ils sont la descendance, ni plus ni moins les enfants spirituels d’une certaine idée du Rock britannique, façon poétique et populaire, d’un réalisme sophistiqué dans l’écriture et d’un bazar organisé dans le son.
-Drivés par un Peter Doherty revenu de tout, qui, en rupture de Libertines, monta le groupe en 2003. Les Babyshambles (littéralement enfants du désordre…) s’inspirent de la ligne Pop Rock British qu’ils mêlent à toutes sortes d’influences, nottament Ska et Reggae, avec 3 albums studio à leur actif depuis ce «Down in Albion» produit par Mick Jones (Clash) qui fit sensation à sa sortie et bénéficie aujourd’hui d’une belle réédition customisée à coups de bonus tracks, faces B et autres inédits.
-On retrouve chez les Shambles tout le génie et la poésie de leur leader, certainement l’un des artistes les plus significatifs et brillants du Rock contemporain, imaginatif, sincère et cultivé comme le fût en son temps un jeune anglais du nom de Jones aka Bowie.
+De Stockholm, on connaissait déjà le vivier à groupes, la mélancolie pop et ce savoir-faire d'orfèvre du refrain
+transmis de génération en génération. Girl Scout en est l'héritière directe : basse, guitare, batterie, et elle, seule
+au chant et à la guitare, portant tout l'édifice mélodique sur ses épaules. Sur le papier, tout est réuni pour
+l'évidence immédiate. Dans la salle, pourtant, le courant met du temps à passer — les chansons s'enchaînent proprement,
+avec ce sens de la mélodie qu'on leur promettait, mais la connexion avec le public reste timide. Il faudra attendre les
+trois derniers morceaux pour que quelque chose se déclenche enfin, et que la salle et le groupe se retrouvent vraiment
+sur la même longueur d'onde. Une fin de set qui laisse deviner tout le potentiel du groupe, sans doute encore un peu tôt
+dans leur histoire pour transformer un plateau de festival en évidence de bout en bout.
 
+###### The Sophs
 
-Et voici les notes prisent pendant les concerts pour agrémenter la chronique (tu n'es pas obligé de les inclure si ça ne suit pas le style de la chronique) :
+{{< carousel pictures="pictures/the-sophs" alt="The Sophs" author="mkhelif" >}}
 
-#### TV Sundaze
-2 guitares / chant, 1 basse et une batterie
-Rock bien dansant
-Plus de monde qu'hier
-Belle entrée en matière pour cette deuxième journée
+Scary Monsters, disait-on d'eux : un chanteur, Ethan Ramon, qui va chercher ses chansons là où on n'est pas censé aller.
+Sur scène, cette honnêteté-là se traduit surtout par une redoutable efficacité. Deux guitares, une basse, une batterie,
+un clavier et un chanteur habité suffisent à transformer le public en une masse qui tape du pied et se déhanche du début
+à la fin du set. De tout le plateau du soir, The Sophs sont sans doute ceux qui auront le mieux réussi à faire de leur
+pop-punk lorgnant vers le funk une évidence immédiate sur scène — dansant, entraînant, et visiblement l'un des moments
+forts de la soirée.
 
-### Girl scout
-Suedoise
-De Stockholm
-Basse, guitare, batterie et elle au chant+guitare
-Les chansons s'enchaînent
-Ça a du mal a prendre
-Il faut attendre les 3 derniers morceaux pour qu'une connexion se crée avec le pubkic
+###### Babyshambles
 
-##### the sophs
-Rock pop indie
-Super dansant et entrainant
-2 guitares, une basse, une batterie, clavier et chanteur
-Ça tape du pied et se dehanche
+{{< carousel pictures="pictures/babyshambles" alt="Babyshambles" author="mkhelif" >}}
 
-#### Babyshambles
-Entrée sur générique des simpsons
-Peu d'énergie
-"There she goes" fonctionne bien
-Le reste n'est pas très rock n roll
-Quand ils reprennent les plus connus ça marche
-Les gens commencent à partir
+Même en rêve, on n'imagine pas plus anglais que ça : Peter Doherty et sa bande montent sur scène sur fond de générique
+des Simpsons, private joke à l'image du personnage — imprévisible jusque dans les détails. Mais l'énergie promise par
+cette entrée décalée peine à se maintenir sur la durée : le set manque globalement de tenue, loin du bazar organisé qui
+a fait la réputation du groupe. Deux moments sauvent malgré tout la mise : « There She Goes », qui fonctionne à
+merveille, et les reprises des titres les plus connus, qui remettent instantanément la salle en mouvement. Le reste, en
+revanche, peine à convaincre, et une partie du public commence à quitter la fosse avant la fin du set. Un rendez-vous en
+demi-teinte avec l'un des artistes les plus significatifs du rock anglais contemporain, qui laisse un goût doux-amer en
+refermant cette seconde soirée.
