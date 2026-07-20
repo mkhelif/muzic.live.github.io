@@ -2,6 +2,24 @@
 id: "e7167e44-da71-4fe8-b631-3ec026b85cb8"
 title: "Amble"
 type: band
+members:
+  - id: "9f281ebf-3208-41ac-a587-60831d1574f9"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2022
+  - id: "8899adf8-82d1-4044-be90-dce3d7e2dfa6"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2022
+  - id: "c93bb8e5-92cf-4ee2-81dd-5ed5216b5033"
+    roles:
+      - other
+    periods:
+      - start: 2022
 socials:
   facebook: ""
   instagram: ""
