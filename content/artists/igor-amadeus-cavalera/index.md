@@ -4,7 +4,7 @@ title: "Igor Amadeus Cavalera"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "fullmoonwizard"
   tiktok: ""
   x: ""
   youtube: ""
