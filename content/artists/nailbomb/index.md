@@ -1,0 +1,23 @@
+---
+id: "618fbab7-3aca-4aba-82bd-4705fb040967"
+title: "Nailbomb"
+type: band
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

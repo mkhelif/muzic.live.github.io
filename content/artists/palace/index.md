@@ -2,6 +2,38 @@
 id: "eb558874-ed43-45af-b5b6-6199067f6da9"
 title: "Palace"
 type: band
+members:
+  - id: "77b09ef6-a762-4f5d-a884-bf64810135de"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2012
+  - id: "e4ed3c83-ca08-4d71-8573-2e1b224ede4f"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2012
+  - id: "ef6f1aee-a0b0-4514-a381-695d512c0872"
+    roles:
+      - drums
+      - sing
+    periods:
+      - start: 2012
+  - id: "87f186fb-ab6c-4c1c-9ab2-b15b633b9e6c"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2018
+  - id: "ad29c693-f735-472d-8b4a-4c16af2474c5"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2012
+        end: 2017
 socials:
   facebook: "wearepalace"
   instagram: "wearepalace"

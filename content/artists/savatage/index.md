@@ -2,6 +2,75 @@
 id: "a456f8ca-8f03-409e-a688-43295df9214f"
 title: "Savatage"
 type: band
+members:
+  - id: "337f2e83-b382-4383-bae5-2072fe2bbb5e"
+    roles:
+      - sing
+      - keys
+      - guitar
+      - bass
+      - drums
+    periods:
+      - start: 2023
+      - start: 2014
+        end: 2015
+      - start: 1993
+        end: 2002
+      - start: 1978
+        end: 1992
+  - id: "63c69b46-0323-438e-b28b-6071bea98957"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2023
+      - start: 2014
+        end: 2015
+      - start: 1986
+        end: 2002
+  - id: "5cb9f5ac-db59-440f-a96e-93847d32b9cd"
+    roles:
+      - guitar
+      - sing
+      - keys
+    periods:
+      - start: 2023
+      - start: 2014
+        end: 2015
+      - start: 1995
+        end: 2002
+      - start: 1987
+        end: 1990
+  - id: "a784fc1b-d0bf-4eef-98a0-cacfe69b603a"
+    roles:
+      - sing
+    periods:
+      - start: 2023
+      - start: 2014
+        end: 2015
+      - start: 1992
+        end: 2000
+  - id: "24f88b99-6b51-4274-9513-2573e52262c0"
+    roles:
+      - drums
+    periods:
+      - start: 2023
+      - start: 2014
+        end: 2015
+      - start: 1994
+        end: 2002
+  - id: "4c9cd8aa-b17e-4a17-a0cb-404947348522"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2023
+      - start: 2014
+        end: 2015
+      - start: 2002
+        end: 2002
+      - start: 1995
+        end: 1999
 socials:
   facebook: "savatage"
   instagram: "thisissavatage"
