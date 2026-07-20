@@ -1,9 +1,7 @@
 ---
-id: "4fd6e4f9-7871-4ff9-bd71-c83e692649df"
-title: "Selah Sue"
-type: person
-aliases:
-  - "Selah Sue & The Gallands"
+id: "589fc696-4908-45c3-91f5-f26f13855c43"
+title: "Koum"
+type: unknown
 socials:
   facebook: ""
   instagram: ""
@@ -19,7 +17,6 @@ socials:
   spotify: ""
   tidal: ""
 todo:
-  - Add picture
-  - Verify and add socials
-  - Add detailed description
+  - Add description
+  - Add socials
 ---

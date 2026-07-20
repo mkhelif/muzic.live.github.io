@@ -1,9 +1,7 @@
 ---
-id: "4fd6e4f9-7871-4ff9-bd71-c83e692649df"
-title: "Selah Sue"
-type: person
-aliases:
-  - "Selah Sue & The Gallands"
+id: "5eb6304a-51fb-4ce1-ad0b-453b7fdbe695"
+title: "Aupinard"
+type: unknown
 socials:
   facebook: ""
   instagram: ""
@@ -19,7 +17,6 @@ socials:
   spotify: ""
   tidal: ""
 todo:
-  - Add picture
-  - Verify and add socials
-  - Add detailed description
+  - Add description
+  - Add socials
 ---
