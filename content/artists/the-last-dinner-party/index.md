@@ -31,19 +31,20 @@ members:
     periods:
       - start: 2021
 socials:
-  facebook: ""
-  instagram: ""
-  tiktok: ""
+  facebook: "TheLastDinnerParty"
+  instagram: "thelastdinnerparty"
+  tiktok: "@thelastdinnerparty"
+  threads: "@thelastdinnerparty"
   x: ""
-  youtube: ""
-  web: ""
+  youtube: "@thelastdinnerparty"
+  web: "https://www.thelastdinnerparty.co.uk/"
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  amazon: "B0C1Y9BMWS"
+  apple: "1680519203"
+  deezer: "209051757"
+  qobuz: "18120033"
+  spotify: "5SHgclK1ZpTdfdAmXW7J6s"
+  tidal: "38682374"
 ---
 
 The Last Dinner Party est un groupe britannique de pop-rock théâtrale et baroque, formé à Londres en 2021, devenu en
