@@ -1,7 +1,61 @@
 ---
 id: "db1049f5-9152-4c51-87c4-8cadc3a68efa"
 title: "Cavalera"
-type: unknown
+type: band
+members:
+  - id: "d9f1676f-6d6a-4bdd-86b3-a7f57c3d1cab"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2007
+  - id: "64f6ec48-ba41-408b-9343-c5b8655b7cdf"
+    roles:
+      - drums
+    periods:
+      - start: 2007
+  - id: "ffb1f910-eb4e-4f13-aba9-b33cbf944397"
+    roles:
+      - bass
+    periods:
+      - start: 2018
+  - id: "2a189fdb-0688-47bf-bf81-3022d33e58be"
+    roles:
+      - guitar
+    periods:
+      - start: 2023
+  - id: "e3b7ad84-8c90-4712-a2c7-2eb399cd7b61"
+    roles:
+      - guitar
+    periods:
+      - start: 2007
+        end: 2021
+  - id: "eadc286d-03ef-475f-bf49-a2cafaeecfa9"
+    roles:
+      - bass
+    periods:
+      - start: 2007
+        end: 2008
+  - id: "3722a8e2-57f9-44cd-9664-ec00153d3d04"
+    roles:
+      - bass
+    periods:
+      - start: 2008
+        end: 2011
+  - id: "61b19511-3527-4e19-8447-eeb9229fdef7"
+    roles:
+      - bass
+    periods:
+      - start: 2016
+        end: 2017
+  - id: "98be6fd6-ded9-4867-8a94-87042b18302c"
+    roles:
+      - bass
+    periods:
+      - start: 2017
+        end: 2018
+aliases:
+  - "Cavalera Conspiracy"
 socials:
   facebook: "cavaleraconspiracy"
   instagram: "cavaleraconspiracy"

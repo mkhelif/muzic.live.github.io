@@ -2,6 +2,28 @@
 id: "840f6c19-f4ec-4bae-a53c-4e944d963503"
 title: "In Fallow"
 type: band
+members:
+  - id: "31211354-849e-4945-935a-d723a9939bfd"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2019
+  - id: "5830b351-d57f-42d7-b7d5-d96b017df68d"
+    roles:
+      - other
+    periods:
+      - start: 2020
+  - id: "5fd26fb9-8b9c-4113-99bc-1624df13a1de"
+    roles:
+      - other
+    periods:
+      - start: 2020
+  - id: "09118730-4a37-41ef-9ac5-76be75ff429d"
+    roles:
+      - bass
+    periods:
+      - start: 2020
 socials:
   facebook: ""
   instagram: ""
