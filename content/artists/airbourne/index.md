@@ -2,6 +2,51 @@
 id: "af59e553-2dd0-42b8-93a6-68e70e3dc683"
 title: "Airbourne"
 type: band
+members:
+  - id: "747d4c24-c413-48f0-9838-2254d6e1e44c"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2001
+  - id: "49481ff0-2c2e-47dd-a334-8d54777c6967"
+    roles:
+      - drums
+    periods:
+      - start: 2001
+  - id: "93bad6bd-6e1b-48ab-aac0-77a42acfc593"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2004
+  - id: "6329425f-65a2-49eb-b868-e290431118e0"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2023
+  - id: "e2f9b9c9-bc43-4467-b136-d5e2f5a52a65"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2001
+        end: 2017
+  - id: "264a40c4-a380-4b82-b090-9629a85fea0f"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2018
+        end: 2022
+  - id: "154e34af-8537-4385-bf92-ed8b780933d0"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2022
+        end: 2023
 socials:
   facebook: ""
   instagram: ""

@@ -2,6 +2,17 @@
 id: "50abfe0f-32f8-4ac8-881b-8b1be04e5104"
 title: "Clipse"
 type: band
+members:
+  - id: "c8b0b557-bfcc-4943-968f-8ea96a1f0f33"
+    roles:
+      - sing
+    periods:
+      - start: 1994
+  - id: "83a836c3-19ba-4dc8-ad46-249b01736011"
+    roles:
+      - sing
+    periods:
+      - start: 1994
 socials:
   facebook: ""
   instagram: ""

@@ -1,0 +1,12 @@
+---
+id: "2f71e3d0-8a30-4584-aea8-5dbe17c8bec6"
+title: "Marco Falanga"
+socials:
+  facebook: ""
+  instagram: ""
+  x: ""
+  threads: ""
+  youtube: ""
+todo:
+  - Add description/picture/socials
+---
