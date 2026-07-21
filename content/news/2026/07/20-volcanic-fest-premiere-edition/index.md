@@ -1,5 +1,4 @@
 ---
-draft: true
 date: 2026-07-20T16:00:00+02:00
 title: "Volcanic Fest : dans quatre jours, un nouveau festival metal éclot en Auvergne-Rhône-Alpes"
 category: "festival"

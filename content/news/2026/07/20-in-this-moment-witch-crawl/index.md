@@ -1,5 +1,4 @@
 ---
-draft: true
 date: 2026-07-20T10:00:00+02:00
 title: "In This Moment annonce « Witch », neuvième album, et dévoile le single vengeur « Crawl »"
 category: "album"

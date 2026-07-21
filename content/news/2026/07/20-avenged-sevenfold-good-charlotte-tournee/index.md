@@ -1,5 +1,4 @@
 ---
-draft: true
 date: 2026-07-20T13:00:00+02:00
 title: "Avenged Sevenfold et Good Charlotte lancent samedi leur tournée nord-américaine coheadline"
 category: "tour"

@@ -19,5 +19,23 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 ---
+
+Wargasm est un duo anglais de rock électronique originaire de Londres, formé en 2018 par Sam Matlock, ancien membre
+du groupe Dead!, et Milkie Way, auparavant photographe de concerts et modèle. Le nom du groupe est emprunté au titre
+"Wargasm" du groupe L7, sorti en 1992.
+
+##### Des débuts fracassants
+
+Le duo publie son premier single, "Post Modern Rhapsody", en août 2019, avant de donner son tout premier concert
+quelques semaines plus tard dans une salle installée dans d'anciennes toilettes publiques. Citant comme influences
+Limp Bizkit, Loathe, SHVPES, Slipknot ou encore Poppy, Wargasm construit un son résolument agressif, mêlant hardcore
+punk, dubstep, screamo et metal alternatif.
+
+##### Fer de lance du renouveau nu metal
+
+Les singles suivants, "Spit", "Selma Hayek" et "The Void Stares Back", cumulent des millions d'écoutes et installent
+le duo comme l'un des fers de lance du renouveau du nu metal. Leur premier EP, "Explicit: The Mixxxtape", sort en
+2022 chez Republic Records, suivi en 2023 de leur premier album complet, "Venom".
+
+Sources : [Wikipedia](https://en.wikipedia.org/wiki/Wargasm), [Last.fm](https://www.last.fm/music/Wargasm/+wiki)
