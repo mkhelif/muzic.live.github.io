@@ -1,0 +1,22 @@
+---
+id: "7000d6fe-38d8-4490-8920-4c47a42d7e8d"
+title: "Kölsch"
+type: unknown
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add description
+  - Add socials
+---

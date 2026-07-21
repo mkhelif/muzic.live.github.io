@@ -1,0 +1,24 @@
+---
+date: 2026-09-12T14:00:00+02:00
+festival: "7b0e2d94-6d3c-4a1f-9e8b-2c1a5f0d7e34"
+venue: "c3a8f1d2-4b5e-4c6a-8d7f-9e0a1b2c3d4e"
+artists:
+  - "7000d6fe-38d8-4490-8920-4c47a42d7e8d"
+  - "d522f539-dc21-4191-acd4-810bd3f44753"
+  - "a99e629c-5589-47c5-a59a-ca24bb2bd93f"
+  - "bce554a2-f442-4342-a789-81bcb12a1c0c"
+  - "b4ac2c0c-86e2-4d3d-bcea-2f2ab42aeffb"
+  - "1b03006c-b638-41d1-85f9-b198a98e1c2f"
+  - "505f06cf-2443-437f-9d20-fdf8ecd349c2"
+  - "e6563bb6-0d6d-4434-a511-ec72fdfa7d2d"
+  - "e8a3654f-b0a4-42cd-8488-a8397e4a32e6"
+  - "63f78849-c75d-4366-b525-7fcd2b09dcf2"
+  - "6ab8b553-ff0f-4156-a3f8-12f7996adabb"
+  - "76746248-a42d-40c9-a253-aa28d0b4d6e6"
+  - "11bf75fd-7f9d-4b93-8412-15b896447b4c"
+  - "4dd79d16-af18-4931-bf15-b5061a3ad424"
+  - "07615ddd-cfb1-4d70-91b8-3ba121ec2076"
+  - "a3900029-f1ec-4863-b35a-57bc4dfb198f"
+  - "010543b2-dc44-4a11-a475-764b0a001d34"
+  - "bd9ee94d-1c35-4b18-ae52-90c26065f8fe"
+---
