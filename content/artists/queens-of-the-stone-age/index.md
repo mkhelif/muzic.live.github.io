@@ -2,6 +2,112 @@
 id: "0e10f68d-165c-471d-815b-f3db35e446ed"
 title: "Queens of the Stone Age"
 type: band
+members:
+  - id: "016fc722-1d9e-446a-af21-7db96555b090"
+    roles:
+      - sing
+      - guitar
+      - keys
+      - bass
+    periods:
+      - start: 1996
+  - id: "54385061-89f3-4b39-b0f7-32cd47c3de14"
+    roles:
+      - guitar
+      - keys
+      - sing
+      - bass
+      - other
+    periods:
+      - start: 2002
+  - id: "717da951-0892-499c-982d-d754330a5b4a"
+    roles:
+      - bass
+      - keys
+      - sing
+    periods:
+      - start: 2007
+  - id: "e75dff06-8297-4f4a-9919-26ab5fc8e585"
+    roles:
+      - keys
+      - guitar
+      - sing
+      - other
+    periods:
+      - start: 2007
+  - id: "1cec44ec-7fea-4a92-a270-282290be190e"
+    roles:
+      - drums
+      - other
+    periods:
+      - start: 2013
+  - id: "3eaab70e-816f-4b74-9a9d-8d478bccfd1c"
+    roles:
+      - drums
+      - other
+    periods:
+      - start: 1998
+        end: 1999
+  - id: "2daa7d0d-5f1a-465c-9d03-a7d1e398d349"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 1998
+        end: 2004
+  - id: "a4752971-20c9-478f-803c-fe1cac960722"
+    roles:
+      - guitar
+      - keys
+      - sing
+      - other
+    periods:
+      - start: 1998
+        end: 2000
+  - id: "4da0f478-bbcb-4d14-afe1-925dc0d620c2"
+    roles:
+      - drums
+      - other
+    periods:
+      - start: 1999
+        end: 2001
+  - id: "070d2386-6a6d-4079-aa60-5b75d40e0f62"
+    roles:
+      - sing
+      - keys
+    periods:
+      - start: 2000
+        end: 2005
+  - id: "8c4fdae8-a371-4fef-9952-c8ab307ce383"
+    roles:
+      - drums
+      - other
+    periods:
+      - start: 2001
+        end: 2002
+  - id: "38ba7567-5dfb-4d87-88f1-b9837ba23637"
+    roles:
+      - drums
+      - other
+    periods:
+      - start: 2002
+        end: 2012
+  - id: "39251774-c78a-4634-84a6-643122ae4e9f"
+    roles:
+      - bass
+      - guitar
+      - keys
+      - sing
+    periods:
+      - start: 2005
+        end: 2007
+  - id: "3675cf48-572b-4501-87ba-46c03e72d2f8"
+    roles:
+      - keys
+      - sing
+    periods:
+      - start: 2005
+        end: 2006
 socials:
   facebook: ""
   instagram: ""

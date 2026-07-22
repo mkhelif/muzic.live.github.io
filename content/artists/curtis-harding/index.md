@@ -8,6 +8,7 @@ socials:
   tiktok: "@curtishardingmusic"
   x: "Curtis_Harding"
   youtube: "@curtishardingofficial"
+  bandsintown: "8030961"
   web: "https://curtisharding.com/"
   email: ""
   amazon: "B00385IPU6"

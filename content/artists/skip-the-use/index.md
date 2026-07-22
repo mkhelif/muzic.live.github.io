@@ -65,8 +65,24 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 ---
+
+Skip The Use est un groupe de rock électro français fondé en 2008 à Ronchin, dans l'agglomération lilloise, par
+d'anciens membres du groupe punk Carving. Le groupe se construit autour de son chanteur, **Mat Bastard** — de son vrai
+nom Mathieu-Emmanuel Monnaert, né le 7 novembre 1979 à Bruxelles — dont l'énergie de bête de scène deviendra la
+signature du groupe.
+
+###### Une ascension consacrée par « Ghost »
+
+Après un premier album éponyme en 2009, le groupe affine sa formule électro-rock avec **Sound From The Shadow**
+(2011), avant que l'album **Can Be Late** (2012) et son titre *Ghost* ne les fassent véritablement connaître du grand
+public, portés par un clip d'animation qui deviendra culte. En 2013, le groupe reçoit la Victoire de la musique du
+meilleur album rock de l'année, confirmant sa place parmi les groupes les plus en vue de la scène hexagonale.
+
+###### Rupture, reformation, nouveau chapitre
+
+Après un dernier album sous cette configuration, **Little Armageddon** (2014), le groupe traverse une période
+tourmentée : Mat Bastard annonce la séparation du groupe en 2016 dans les colonnes de *La Voix du Nord*. Seuls les
+deux fondateurs, Mat Bastard et Yan Stefani, reforment Skip The Use en 2018, entourés de nouveaux musiciens. Depuis,
+le groupe a repris la route avec une formule toujours fidèle à son ADN d'origine : une énergie électro-rock immédiate,
+pensée pour la scène et le live, qui continue de rassembler un public fidèle.

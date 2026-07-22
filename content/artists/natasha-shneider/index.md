@@ -1,0 +1,10 @@
+---
+id: "3675cf48-572b-4501-87ba-46c03e72d2f8"
+title: "Natasha Shneider"
+socials:
+  facebook: ""
+  instagram: ""
+  x: ""
+  threads: ""
+  youtube: ""
+---
