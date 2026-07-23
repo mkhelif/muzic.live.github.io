@@ -43,8 +43,7 @@ soirée sur une note à la fois locale et tournée vers l'avenir.
 
 ###### This Is Michael & Jennifer Batten
 
-{{< carousel pictures="pictures/this-is-michael-jennifer-batten" alt="This Is Michael & Jennifer Batten" author="
-mkhelif" >}}
+{{< carousel pictures="pictures/this-is-michael-jennifer-batten" alt="This Is Michael & Jennifer Batten" author="mkhelif" >}}
 
 Unique date européenne pour ce featuring aussi inattendu que prometteur sur le papier : Lenny Jay, à la tête de « This
 Is Michael », et Jennifer Batten, légende vivante qui a accompagné Michael Jackson pendant dix ans sur ses tournées
@@ -63,8 +62,7 @@ par manquer d'un supplément d'âme qu'elle seule, sans doute, pouvait vraiment 
 
 ###### Franck Carducci & The Fantastic Squad
 
-{{< carousel pictures="pictures/franck-carducci-fantastic-squad" alt="Franck Carducci & The Fantastic Squad" author="
-mkhelif" >}}
+{{< carousel pictures="pictures/franck-carducci-fantastic-squad" alt="Franck Carducci & The Fantastic Squad" author="mkhelif" >}}
 
 Pour refermer ce Guitare en Scène 2026, Franck Carducci & The Fantastic Squad livrent exactement le genre de spectacle
 promis : un rock en Technicolor, joyeusement excessif et débordant d'énergie. Guitare à double manche à la main, Franck
