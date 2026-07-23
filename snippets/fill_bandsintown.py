@@ -29,6 +29,7 @@ from os import listdir
 from pathlib import Path
 from time import sleep
 
+import html
 import re
 import sys
 import traceback
@@ -53,16 +54,14 @@ REQUEST_DELAY = 1.0
 # Process at most this many artists (0 = no limit). Handy for a first test run.
 LIMIT = 0
 
-# Search endpoints tried in order until one yields a match. They are parsed
-# generically (any Bandsintown artist link ``/a/<id>-<slug>`` is extracted), so
-# the exact response shape does not matter. Adjust if Bandsintown moves them.
-SEARCH_URLS = [
-    "https://www.bandsintown.com/searchSuggestions/preview?searchTerm={q}",
-    "https://www.bandsintown.com/s/{q}",
-]
+# Bandsintown resolves an artist's vanity slug to its numeric page, e.g.
+#   https://www.bandsintown.com/a-perfect-circle  ->  /a/432-a-perfect-circle
+# We build that slug from the artist title, follow the redirect, read the numeric
+# id, and only trust it when the page's og:title matches the artist.
+ARTIST_VANITY_URL = "https://www.bandsintown.com/{slug}"
 
-# Matches Bandsintown artist links, e.g. ``/a/15565754-deadletter``.
-_ARTIST_LINK_RE = re.compile(r"/a/(\d+)-([A-Za-z0-9\-]+)")
+# Matches the numeric id in a Bandsintown artist URL, e.g. ``/a/432``.
+_ARTIST_ID_RE = re.compile(r"/a/(\d+)")
 
 
 # ---------------------------------------------------------------------------
@@ -77,55 +76,56 @@ def normalize(value):
 
 
 # ---------------------------------------------------------------------------
-# HTTP (delegated to utils: shared session + Cloudflare handling)
+# Resolution (via the artist's Bandsintown vanity URL)
 # ---------------------------------------------------------------------------
 
-def fetch_text(url):
-    response = utils.http_get(url)
-    if not response.ok:
-        return None
-    return response.text
+def _meta_content(html_text, prop):
+    """Return the (unescaped) content of a ``<meta property|name="prop">`` tag."""
+    for pattern in (
+        r'<meta[^>]+(?:property|name)=["\']' + re.escape(prop)
+        + r'["\'][^>]+content=["\'](.*?)["\']',
+        r'<meta[^>]+content=["\'](.*?)["\'][^>]+(?:property|name)=["\']'
+        + re.escape(prop) + r'["\']',
+    ):
+        match = re.search(pattern, html_text, re.IGNORECASE | re.DOTALL)
+        if match:
+            return html.unescape(match.group(1))
+    return None
 
 
-# ---------------------------------------------------------------------------
-# Resolution
-# ---------------------------------------------------------------------------
+def _artist_id(text):
+    match = _ARTIST_ID_RE.search(text or "")
+    return match.group(1) if match else None
+
 
 def find_bandsintown_id(name):
-    """Return ``(id, status)`` for an artist name.
+    """Return ``(id, status)`` for an artist name by resolving its Bandsintown
+    vanity URL and confirming the page belongs to the same artist.
 
-    status is one of: ``"ok"`` (id found), ``"none"`` (no exact match),
-    ``"ambiguous"`` (several distinct ids match the same normalised name)."""
+    status is one of: ``"ok"`` (id found) or ``"none"`` (no confident match)."""
     target = normalize(name)
     if not target:
         return None, "none"
 
-    query = requests_quote(name)
-    for template in SEARCH_URLS:
-        try:
-            text = fetch_text(template.format(q=query))
-        except utils.CloudflareBlocked:
-            raise
-        except Exception:
-            text = None
-        if not text:
-            continue
+    response = utils.http_get(ARTIST_VANITY_URL.format(slug=utils.format_filename(name)))
+    if not response.ok:
+        return None, "none"
 
-        ids = set()
-        for match in _ARTIST_LINK_RE.finditer(text):
-            bit_id, slug = match.group(1), match.group(2)
-            if normalize(slug) == target:
-                ids.add(bit_id)
-        if len(ids) == 1:
-            return ids.pop(), "ok"
-        if len(ids) > 1:
-            return None, "ambiguous"
-    return None, "none"
+    html_text = response.text
 
+    # Confirm the resolved page is actually this artist — guards against
+    # fallbacks to the homepage or an unrelated slug.
+    og_title = _meta_content(html_text, "og:title")
+    if og_title is None or normalize(og_title) != target:
+        return None, "none"
 
-def requests_quote(value):
-    from urllib.parse import quote
-    return quote(value)
+    # The numeric id lives in the redirected URL, then the og:url / canonical.
+    bit_id = (
+        _artist_id(str(response.url))
+        or _artist_id(_meta_content(html_text, "og:url") or "")
+        or _artist_id(html_text)
+    )
+    return (bit_id, "ok") if bit_id else (None, "none")
 
 
 # ---------------------------------------------------------------------------
