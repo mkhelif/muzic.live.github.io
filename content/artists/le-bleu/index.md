@@ -38,6 +38,8 @@ socials:
   youtube: ""
   web: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il y a dans l'histoire de Le Bleu quelque chose qui ressemble à un roman de formation. Deux lycéens qui se rencontrent

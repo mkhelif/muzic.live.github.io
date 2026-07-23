@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Matteo Mancuso surgit de Sicile comme un météore guitaristique, bouleversant tous les codes établis avec une technique

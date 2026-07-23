@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Massilia Sound System déferle sur la scène française comme un raz-de-marée sonore et culturel, imposant cette esthétique

@@ -30,6 +30,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Lost in Lona est un duo formé par la rencontre artistique de deux musiciens originaires de Bâle et Zurich, deux des

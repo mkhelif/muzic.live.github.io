@@ -16,6 +16,8 @@ socials:
   amazon: "B003Q57EZ0"
   email: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il y a des voix qu'on reconnaît à la première seconde. Pas parce qu'elles sont parfaites — parce qu'elles sont vraies.

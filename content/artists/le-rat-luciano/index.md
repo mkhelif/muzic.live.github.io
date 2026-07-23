@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Le Rat Luciano, de son vrai nom Christophe Carmona, né le 9 avril 1976, est un rappeur français originaire de Marseille,

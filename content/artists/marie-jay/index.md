@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3EfWdPE7TccXs99V0WuOZY"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Marie Jay est une autrice-compositrice-interprète suisse originaire de Lausanne, rapidement devenue l'une des figures

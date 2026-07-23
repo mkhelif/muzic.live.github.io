@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Marcus Miller transcende le simple statut de bassiste pour s'imposer comme architecte sonore de génie, révolutionnant

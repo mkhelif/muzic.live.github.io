@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 La P'tite Fumée est un groupe français de musique électronique originaire de Biert, dans l'Ariège, formé en 2013.

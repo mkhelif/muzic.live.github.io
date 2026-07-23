@@ -16,6 +16,8 @@ socials:
   deezer: "12088868"
   qobuz: "3023213"
   email: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il y a deux Lewis Capaldi. Le premier est un **songwriter d'une intensité émotionnelle rare**, capable de vous arracher

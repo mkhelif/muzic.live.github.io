@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Lost Frequencies est le nom de scène de Félix De Laet, DJ et producteur belge né le 30 novembre 1993 à Bruxelles, devenu

@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Au départ, il n'y avait rien. Les trois musiciennes ne se connaissaient pas et se sont rencontrées pour monter le

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3fI3Z6NnYoeSQjcqPQDbM4"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Levent Faki, connu sous le nom de scène Len Faki, est un producteur et DJ allemand de musique électronique, figure

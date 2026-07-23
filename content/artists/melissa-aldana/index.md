@@ -19,6 +19,8 @@ socials:
 todo:
   - Verify social networks
   - Add logo cover
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Melissa Aldana est une saxophoniste ténor chilienne née à Santiago, reconnue comme l'une des instrumentistes les plus

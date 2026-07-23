@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Macie Stewart est une multi-instrumentiste, compositrice, autrice-compositrice et improvisatrice basée à Chicago, dans

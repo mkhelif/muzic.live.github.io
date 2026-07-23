@@ -19,6 +19,8 @@ socials:
 todo:
   - Verify social networks
   - Add logo cover
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Madonna est une autrice-compositrice-interprète, danseuse et productrice américaine née le 16 août 1958 à Bay City,

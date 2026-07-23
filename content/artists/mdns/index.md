@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0IQF3RvCO0IkvmGj0RvOcA"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 MDNS, de son vrai nom Baptiste Fernandes, est un auteur-compositeur-interprète français né en 2001, originaire de

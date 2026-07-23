@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Figure de la scène nocturne helvétique, LePhar a longtemps jonglé entre différents registres avant de trouver sa voie.

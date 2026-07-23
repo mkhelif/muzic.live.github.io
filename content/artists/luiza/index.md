@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Luiza Fernandes Viana, connue sous le nom de Luiza, est une chanteuse née à Rennes en 1995, d'une mère brésilienne

@@ -85,6 +85,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Mass Hysteria débarque sur la scène metal française comme une déflagration sonore, imposant d'emblée ce son lourd et

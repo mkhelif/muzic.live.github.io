@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Marcel et son Orchestre est un groupe de rock festif français, originaire de Boulogne-sur-Mer, dans le

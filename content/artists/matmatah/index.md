@@ -48,6 +48,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Tout commence en septembre 1995, lorsque Stan et Sammy qui, à cette époque, formaient un duo appelé "Tricards Twins",

@@ -19,4 +19,6 @@ socials:
 todo:
   - Add description
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---

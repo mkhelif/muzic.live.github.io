@@ -19,6 +19,8 @@ socials:
 todo:
   - Verify social networks
   - Add logo cover
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Lakecia Benjamin est une saxophoniste alto, compositrice, arrangeuse et pédagogue américaine, née et élevée à New York,

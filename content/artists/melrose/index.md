@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Melrose nous vient de Toulouse, la ville rose qui pourrait avoir inspiré son nom d'artiste. Cette jeune chanteuse

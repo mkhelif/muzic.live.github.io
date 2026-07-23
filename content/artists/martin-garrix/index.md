@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "60d24wfXkVzDSfLS6hyCjZ"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Martin Garrix, de son vrai nom Martijn Gerard Garritsen, est un DJ et producteur néerlandais né le 14 mai 1996 à

@@ -16,6 +16,8 @@ socials:
   deezer: ""
   qobuz: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Little Simz, de son vrai nom Simbiatu Ajikawo, est une rappeuse, actrice et musicienne britannique née en 1994 à

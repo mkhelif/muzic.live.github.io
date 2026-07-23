@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "5hGg5Xi5EqhkDooT7myKfC"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Léonie Pernet est une autrice-compositrice, multi-instrumentiste et productrice française née le 13 janvier 1989 à

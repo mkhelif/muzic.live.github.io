@@ -18,6 +18,8 @@ socials:
   x: ""
   youtube: ""
   web: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 ###### Le miracle post-hardcore venu du Sud

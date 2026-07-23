@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3r7t38zbphQtpfAH12UbRd"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Makala, de son vrai nom Jordy Makala, est un rappeur suisse né en 1993 à Bienne, fils d'immigrés congolais ayant fui

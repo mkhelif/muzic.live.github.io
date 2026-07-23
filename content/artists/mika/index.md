@@ -18,6 +18,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Michael Holbrook Penniman Jr. débarque dans l'univers musical tel un ouragan coloré, imposant instantanément cette

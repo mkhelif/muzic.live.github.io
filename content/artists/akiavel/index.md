@@ -2,6 +2,7 @@
 id: "c2f2e6a2-1e1e-4ebd-abe8-bfc468b6e3b6"
 title: "Akiavel"
 socials:
+  bandsintown: "15484228"
   facebook: ""
   instagram: ""
   tiktok: ""

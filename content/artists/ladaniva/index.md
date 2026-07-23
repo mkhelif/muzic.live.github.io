@@ -29,6 +29,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Ladaniva est un groupe français qui émerge sur la scène world music hexagonale avec une approche festive mêlant

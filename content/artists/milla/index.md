@@ -17,6 +17,8 @@ socials:
   x: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il y a des voix qui s'imposent dans le fracas. Celle de Milla choisit le chemin inverse : elle s'insinue, feutrée, dans

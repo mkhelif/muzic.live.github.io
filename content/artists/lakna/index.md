@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Lakna est une rappeuse française qui émerge sur la scène hip-hop hexagonale avec une approche moderne et personnelle du

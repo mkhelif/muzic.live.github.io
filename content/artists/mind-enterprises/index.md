@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "5pN1DJhPFDKso4OtC0QhnB"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Mind Enterprises est un duo italien formé par le producteur turinois Andrea Tirone et le claviériste sicilien Roberto

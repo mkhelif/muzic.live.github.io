@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Liniker de Barros Ferreira Campos, connue simplement sous le nom de Liniker, est une chanteuse et autrice-compositrice

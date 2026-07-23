@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Qu'il est loin le temps de la première répète... Cet été 2008 au cours duquel des amis se sont réunis dans un petit

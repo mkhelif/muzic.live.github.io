@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "7JHNSkrbx2b0w8psFeVE4I"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Maustetytöt (« les filles aux épices » en finnois) est un duo pop finlandais formé en 2017 par les sœurs **Anna
