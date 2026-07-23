@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1BNQnTVxfQqeMxr6xBi8X6"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Puggy est un trio pop rock cosmopolite formé en 2004 sur les bancs de l'école Jazz Studio d'Anvers, composé du

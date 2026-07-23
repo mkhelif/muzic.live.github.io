@@ -3,6 +3,7 @@ id: "b22776f9-5431-46af-9041-6c822a20c3a0"
 title: "Alle Farben"
 type: person
 socials:
+  bandsintown: "1024461"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: "61ipISvUVa5LkJlKZnm3Oo"
   tidal: ""
 lastUpdate:
+  bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---
 

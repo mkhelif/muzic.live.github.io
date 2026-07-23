@@ -95,6 +95,8 @@ socials:
   qobuz: ""
   spotify: "1pRaG81GsVtaTBuVSpldt2"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Pop Evil est un groupe de hard rock américain fondé en 2001 à North Muskegon, dans le Michigan, par le

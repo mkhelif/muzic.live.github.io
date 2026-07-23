@@ -3,6 +3,7 @@ id: "0685c69e-1ffe-4f60-8b8c-c9f8e7d10690"
 title: "All Time Low"
 type: band
 socials:
+  bandsintown: "695"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---
 

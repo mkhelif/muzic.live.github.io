@@ -2,6 +2,7 @@
 id: "b5e43f2f-e49a-48f7-9f3c-24be65da80c1"
 title: "all under heaven"
 socials:
+  bandsintown: "5397711"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,4 +21,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  bandsintown: 2026-07-23
 ---

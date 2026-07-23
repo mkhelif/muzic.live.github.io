@@ -3,6 +3,7 @@ id: "c51a2e99-66fa-4d21-9fb7-849a06d54ed2"
 title: "Allen Akino"
 type: person
 socials:
+  bandsintown: "13328950"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add cover
   - Add socials
 lastUpdate:
+  bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---
 

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0VRj0yCOv2FXJNP47XQnx5"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Quavious Keyate Marshall, alias Quavo, est un rappeur et producteur américain né le 2 avril 1991 à Athens, en Géorgie,
