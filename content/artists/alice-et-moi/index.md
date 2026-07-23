@@ -3,6 +3,7 @@ id: "78a6fec2-6417-4eda-af4e-d651e0420094"
 title: "Alice et Moi"
 type: person
 socials:
+  bandsintown: "14099718"
   facebook: "pagealiceetmoi"
   instagram: "aliceetmoii"
   x: "aliceetmoii"
@@ -18,6 +19,7 @@ socials:
   deezer: ""
   qobuz: ""
 lastUpdate:
+  bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---
 

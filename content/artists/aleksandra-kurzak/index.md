@@ -3,6 +3,7 @@ id: "41722902-f929-42a0-8d3a-eb33b3ae6413"
 title: "Aleksandra Kurzak"
 type: person
 socials:
+  bandsintown: "1866979"
   instagram: "aleksandrakurzakofficial"
   web: "https://aleksandrakurzak.com/"
   facebook: ""
@@ -17,6 +18,7 @@ socials:
   spotify: "114C9ZNDP1s9L41tOSHASY"
   tidal: ""
 lastUpdate:
+  bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---
 

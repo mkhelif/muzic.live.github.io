@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Nada Surf est un groupe américain formé en 1992 à New York, qui a transcendé son statut de groupe à tube unique pour

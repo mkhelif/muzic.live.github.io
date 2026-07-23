@@ -3,6 +3,7 @@ id: "e1be4703-c738-4970-95d3-15cc09de2eea"
 title: "Alice Costelloe"
 type: person
 socials:
+  bandsintown: "15583430"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: "1xbZZl0gYutFPyiUAXuJLy"
   tidal: ""
 lastUpdate:
+  bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---
 

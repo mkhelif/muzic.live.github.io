@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Morcheeba est un groupe anglais fondé au milieu des années 1990 par les frères Paul et Ross Godfrey, qui recrutent

@@ -3,6 +3,7 @@ id: "1552e79a-330a-41f6-88c5-28d82ea161cc"
 title: "Alenko"
 type: band
 socials:
+  bandsintown: "190644"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   tidal: ""
 cover: ""
 lastUpdate:
+  bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---
 

@@ -18,6 +18,8 @@ socials:
   qobuz: ""
 todo:
   - Add cover from concert pictures
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Quentin Mosimann surgit de la scène électronique française armé d'une vision moderne qui révolutionne l'approche

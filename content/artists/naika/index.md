@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Naïka, de son vrai nom Victoria Naïka Richard, est une chanteuse et autrice-compositrice franco-haïtienne née le 2 mars

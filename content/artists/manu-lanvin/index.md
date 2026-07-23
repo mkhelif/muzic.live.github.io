@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "2j4I4LkLLPEE7Ik29YwqrB"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Manu Lanvin est un chanteur, guitariste, compositeur et producteur français de blues rock, né le 24 novembre 1973 à

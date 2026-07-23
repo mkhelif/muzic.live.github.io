@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 L'histoire de Mystically commence dans les coulisses d'un concert parisien, fin 2006. Adeline Aurokiom et Marie-Lou

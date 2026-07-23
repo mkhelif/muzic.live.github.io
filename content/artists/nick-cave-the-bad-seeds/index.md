@@ -129,6 +129,8 @@ socials:
   qobuz: ""
   spotify: "4UXJsSlnKd7ltsrHebV79Q"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Nick Cave & The Bad Seeds est un groupe de rock australo-britannique formé en 1983 à Londres par le chanteur et

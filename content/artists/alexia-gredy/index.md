@@ -3,6 +3,7 @@ id: "6dc49a85-d5b7-4600-a6f9-1aa66f8a32b4"
 title: "Alexia Gredy"
 type: person
 socials:
+  bandsintown: "10528621"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: "2LZ44MLhhXG2SlHhWUOGXg"
   tidal: ""
 lastUpdate:
+  bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---
 

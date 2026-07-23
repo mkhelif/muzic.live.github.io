@@ -3,6 +3,7 @@ id: "c4995815-f6f5-45c0-988b-8723507ce0da"
 title: "Alessi Rose"
 type: person
 socials:
+  bandsintown: "15535314"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,7 @@ todo:
   - Add socials
   - Add cover
 lastUpdate:
+  bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---
 

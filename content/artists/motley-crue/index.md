@@ -96,6 +96,8 @@ socials:
   qobuz: ""
   spotify: "0cc6vw3VN8YlIcvr1v7tBL"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Mötley Crüe est un groupe de glam metal américain formé en 1981 à Hollywood, Los Angeles, par le bassiste **Nikki

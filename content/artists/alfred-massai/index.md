@@ -3,6 +3,7 @@ id: "bef8be46-fe93-4f60-97f9-9c2adfc9861d"
 title: "Alfred Massaï"
 type: person
 socials:
+  bandsintown: "3203569"
   facebook: "AlfredMassai"
   instagram: "alfred.massai"
   youtube: "@alfredmassai"
@@ -17,6 +18,7 @@ socials:
   deezer: ""
   qobuz: ""
 lastUpdate:
+  bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---
 

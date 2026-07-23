@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Nik West s'impose comme l'une des bassistes les plus innovantes et flamboyantes de sa génération, incarnant une fusion

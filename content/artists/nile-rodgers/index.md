@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Nile Gregory Rodgers Jr., né le 19 septembre 1952 à New York, est un guitariste, producteur et compositeur légendaire

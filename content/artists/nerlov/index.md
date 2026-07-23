@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Nerlov, de son vrai nom Florent Vincelot, est un auteur-compositeur-interprète français dont la musique navigue entre

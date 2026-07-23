@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Murray Head incarne le profil de l'artiste transnational, britannique de naissance mais profondément lié à la France où
