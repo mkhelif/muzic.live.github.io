@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Billie est une chanteuse belge originaire de Blankenberge, artiste de nu-pop signée sur News Records. Son parcours

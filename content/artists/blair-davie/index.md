@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3sDemA5FWaxfqPJFP2SK8x"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Blair Davie est un·e auteur·rice-compositeur·rice-interprète écossais·e originaire de Perth, dont la voix

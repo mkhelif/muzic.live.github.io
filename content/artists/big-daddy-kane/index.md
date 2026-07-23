@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6futYSDVulYR2PktBjTB5W"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Big Daddy Kane, de son vrai nom Antonio Hardy, est un rappeur américain né le 10 septembre 1968 à Brooklyn, New York.

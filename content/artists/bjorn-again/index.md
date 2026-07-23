@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Björn Again est le spectacle-hommage à ABBA le plus célèbre et le plus accompli au monde. Fondé en 1988 à Melbourne,

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Black Willows est un groupe de doom stoner originaire de Lausanne, en Suisse, fondé en 2010. Dans le paysage de la

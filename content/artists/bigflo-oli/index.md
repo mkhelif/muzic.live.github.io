@@ -32,6 +32,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Bigflo & Oli est un duo de rap français formé par les frères Florian et Olivio Ordonez, originaires de Toulouse.

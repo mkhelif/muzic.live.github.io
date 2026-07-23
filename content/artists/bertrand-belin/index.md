@@ -18,6 +18,8 @@ socials:
   qobuz: ""
 todo:
   - Add cover from concert picture
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il y a des artistes qu'on écoute. Et il y a des artistes qu'on habite. **Bertrand Belin** appartient à la seconde

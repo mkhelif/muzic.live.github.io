@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1yxSLGMDHlW21z4YXirZDS"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Les Black Eyed Peas sont un groupe américain de hip-hop et de pop formé à Los Angeles en 1995 autour des rappeurs

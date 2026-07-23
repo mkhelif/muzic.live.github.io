@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Bi-2 est un groupe de rock biélorusse fondé en 1988 à Babruysk, en République soviétique de Biélorussie, par deux

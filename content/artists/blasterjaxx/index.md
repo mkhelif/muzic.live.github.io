@@ -29,6 +29,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Blasterjaxx est un duo de DJ/producteurs néerlandais composé de Thom Jongkind et Idir Makhlaf, formé en 2010

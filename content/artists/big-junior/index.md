@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 BIG Junior est un groupe originaire de Lyon composé de quatre musiciens qui mêlent hip-hop, musique électronique et rock

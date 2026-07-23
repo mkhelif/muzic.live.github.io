@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3r6Sk3pYxdJk7MekhBGgMR"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Blood Red Shoes est un duo de rock alternatif anglais formé à Brighton à la fin de l'année 2004, composé

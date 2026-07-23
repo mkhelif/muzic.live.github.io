@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1DcL22xdIWcdNa4ZHaXZjT"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Bianca Costa est une chanteuse brésilienne née le 4 mars 1999 à Goiânia, active en France. Elle se fait remarquer à
