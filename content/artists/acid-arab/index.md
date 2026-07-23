@@ -3,6 +3,7 @@ id: "0d8e8aca-acd8-4588-a6c9-e288bff88ed4"
 title: "Acid Arab"
 type: band
 socials:
+  bandsintown: "7562930"
   facebook: ""
   instagram: ""
   tiktok: ""

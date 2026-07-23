@@ -1,0 +1,6 @@
+---
+date: 2026-08-29T21:00:00-04:00
+venue: "0e192f52-7b02-4a1b-a4da-ffebf3e91568"
+artists:
+  - "c4948e25-0365-4d1a-bbcd-f4965c2d0efa"
+---

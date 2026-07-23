@@ -3,6 +3,7 @@ id: "1baaa9f8-8fc0-499d-ada1-ef998da20c71"
 title: "Accept"
 type: band
 socials:
+  bandsintown: "51356"
   facebook: ""
   instagram: ""
   tiktok: ""

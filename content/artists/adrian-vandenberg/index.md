@@ -3,6 +3,7 @@ id: "700ef4e7-e11c-4e5d-84f5-3b4aeb2347d6"
 title: "Adrian Vandenberg"
 type: person
 socials:
+  bandsintown: "631287"
   instagram: "adrianvandenberg_official"
   x: "vandenbergband"
   youtube: "@Vandenberg_Official"

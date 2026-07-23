@@ -3,6 +3,7 @@ id: "f1e35ffd-2f19-40b6-9808-c0fff17d7435"
 title: "Abd al Malik"
 type: person
 socials:
+  bandsintown: "40342"
   facebook: ""
   instagram: ""
   tiktok: ""

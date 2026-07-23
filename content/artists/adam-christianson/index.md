@@ -3,6 +3,7 @@ id: "5d1a9972-f10c-4d02-9102-0160071ab536"
 title: "Adam Christianson"
 type: person
 socials:
+  bandsintown: "535473"
   facebook: ""
   instagram: ""
   tiktok: ""

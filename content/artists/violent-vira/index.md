@@ -1,0 +1,23 @@
+---
+id: "0fe4c71d-3924-4646-8fbc-1dbd7afeb32b"
+title: "VIOLENT VIRA"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---
