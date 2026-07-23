@@ -99,7 +99,7 @@ def load_frontmatter(file):
 # set_last_update() to stamp the fiche after a successful check.
 # ---------------------------------------------------------------------------
 
-STALE_AFTER_DAYS = 7
+STALE_AFTER_DAYS = 30
 
 
 def _parse_date(value):
