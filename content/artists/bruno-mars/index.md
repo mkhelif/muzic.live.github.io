@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0du5cEVh5yTK9QJze8zA0C"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Bruno Mars, de son vrai nom Peter Gene Hernandez, est un chanteur, auteur-compositeur, producteur et

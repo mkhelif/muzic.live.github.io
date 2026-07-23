@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Chris Isaak est un chanteur-compositeur américain né en Californie en 1956, qui développe sa passion pour la musique dès

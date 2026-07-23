@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "20reGZ0TQPGvwx5U4xx6D8"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Breakdown of Sanity est un groupe de metalcore et deathcore suisse originaire de Berne, fondé en 2007 par

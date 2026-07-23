@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Caballero est un rappeur français membre du collectif Double Hélice, originaire de la région parisienne, qui développe

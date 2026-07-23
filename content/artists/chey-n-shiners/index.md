@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Chey 'N' Shiners est un groupe de rock français qui émerge sur la scène hexagonale avec une approche énergique du rock

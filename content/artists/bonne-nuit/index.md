@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "2Xf3fVORh2V843bnBPq6SP"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Bonne Nuit est un duo de new wave et d'électro-pop français originaire de Vendée, aujourd'hui basé à Paris.

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Braises de Velours est une artiste DJ et productrice suisse d'origine dominicaine, figure montante de la

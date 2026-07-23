@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0LZac5VicY19QLaIUvIB0G"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Cate Le Bon, née Cate Timothy le 4 mars 1983, est une chanteuse, autrice-compositrice et productrice galloise. Née à

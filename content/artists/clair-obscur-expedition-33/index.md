@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 **Clair Obscur: Expedition 33 — A Painted Symphony** est le concert officiel consacré à la musique du jeu vidéo

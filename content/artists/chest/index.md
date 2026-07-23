@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Chest est un groupe de post-punk et de noise rock parisien composé de cinq amis qui proposent leur propre vision de la

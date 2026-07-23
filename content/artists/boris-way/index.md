@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Boris Way est un DJ et producteur français qui émerge sur la scène électronique hexagonale au milieu des années 2010,

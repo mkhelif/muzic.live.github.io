@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "62k5LKMhymqlDNo2DWOvvv"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Boys Noize est le nom d'artiste d'Alexander Ridha, producteur, compositeur et DJ allemand d'origine irakienne

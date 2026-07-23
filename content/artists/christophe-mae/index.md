@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "7jgnJBnpZTiGnCF2Wvka2Z"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Christophe Martichon, dit Christophe Maé, est né le 16 octobre 1975 à Carpentras, dans le Vaucluse. Auteur,

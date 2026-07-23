@@ -18,6 +18,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Broken Back est le projet solo de Jérôme Fagnet, musicien français qui émerge sur la scène indie-pop hexagonale avec une

@@ -19,6 +19,8 @@ socials:
   qobuz: ""
 todo:
   - Add picture from concert
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il y a des trajectoires qui semblent écrites d'avance. Et puis il y a celle de **Charlotte Cardin** — mannequin à 15

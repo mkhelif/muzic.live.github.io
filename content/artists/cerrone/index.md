@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "5SE2sfwTpxL2vXRdG6H5PM"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Marc Cerrone, dit Cerrone, est né le 24 mai 1952 à Vitry-sur-Seine de parents immigrés italiens ayant fui le

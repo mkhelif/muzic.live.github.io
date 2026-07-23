@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Camille Doe est une DJ et productrice française originaire de Bordeaux, dont le parcours atypique l'a conduite des

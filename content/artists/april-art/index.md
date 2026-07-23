@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "5SIU6vqESwt2muetzRSX7f"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 April Art est un groupe de rock alternatif allemand originaire de Gießen, en Hesse, fondé en avril 2014. Le nom du

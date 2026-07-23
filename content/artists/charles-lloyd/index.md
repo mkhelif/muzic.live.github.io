@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0GC1oqEWpiAjfE7jm5LQO5"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Charles Lloyd est né le 15 mars 1938 à Memphis, Tennessee, dans un foyer imprégné par le blues, le gospel et le

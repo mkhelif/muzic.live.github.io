@@ -60,6 +60,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Quelque part dans les forêts enneigées de Dalécarlie, au cœur de la Suède profonde, huit guerriers ont fait le serment

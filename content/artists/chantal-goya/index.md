@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "4ObfuflhB2SBr5rxekhV6P"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Chantal de Guerre, connue sous le nom de Chantal Goya, est née le 10 juin 1942 à Saïgon, au Vietnam, où son père

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "630wzNP2OL7fl4Xl0GnMWq"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 BABYMETAL est un groupe de kawaii metal japonais fondé en 2010 à Tokyo, d'abord comme

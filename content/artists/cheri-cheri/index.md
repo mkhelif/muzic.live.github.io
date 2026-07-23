@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Chéri Chéri est un groupe de rock franco-américain basé à Paris, né d'une annonce collée sur un poteau de rue par

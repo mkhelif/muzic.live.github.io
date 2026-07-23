@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Charlie Winston est un chanteur-compositeur britannique né à Londres dans une famille de musiciens, ce qui l'amène très

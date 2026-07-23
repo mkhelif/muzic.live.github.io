@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "4sf3QZW8a3xZ14IGsOAzoy"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Cassius est un duo français emblématique de la French Touch, formé par les producteurs **Philippe Zdar** (Philippe

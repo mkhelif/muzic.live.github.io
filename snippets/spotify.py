@@ -149,7 +149,7 @@ if __name__ == '__main__':
         name = data.get('title', None)
         socials = data.get('socials', None)
         spotifyId = socials.get('spotify', None) if socials is not None else None
-        if spotifyId is None:
+        if not spotifyId:
             continue
 
         # Skip artists already refreshed from Spotify recently.

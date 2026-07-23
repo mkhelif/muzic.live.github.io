@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Chris Acosta est un percussionniste et producteur new-yorkais réputé pour son énergie scénique hors du commun et

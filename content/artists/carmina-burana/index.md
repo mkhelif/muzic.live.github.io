@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3wv9Ori0YHEUiLVz91Ej7D"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Carmina Burana est l'une des œuvres chorales les plus célèbres et les plus jouées du répertoire classique du

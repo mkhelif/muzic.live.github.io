@@ -16,4 +16,6 @@ socials:
   qobuz: ""
   spotify: "663fZd6uEkPKLwBzPj50S3"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---

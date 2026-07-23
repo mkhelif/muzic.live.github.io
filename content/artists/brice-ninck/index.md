@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Brice Ninck est un auteur-compositeur-interprète et multi-instrumentiste bruxellois dont le projet solo

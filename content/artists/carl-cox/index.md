@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "19SmlbABtI4bXz864MLqOS"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Carl Andrew Cox, né le 29 juillet 1962 dans le Grand Manchester et d'origine barbadienne, est l'une des figures les

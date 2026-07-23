@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6G7OerKc3eBO9sVkRNopFC"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Cat Power est le nom de scène de Charlyn Marie Marshall, dite Chan Marshall, chanteuse et auteure-compositrice

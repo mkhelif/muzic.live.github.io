@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "18TAmMhE82KJZDg3lnrB5r"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 BOLD est un groupe américain de hardcore punk formé à Katonah, dans le comté de Westchester (New York),

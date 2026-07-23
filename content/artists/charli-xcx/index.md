@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Charlotte Emma Aitchison, connue sous le nom de **Charli XCX**, naît le 2 août 1992 à Cambridge, au Royaume-Uni, fille

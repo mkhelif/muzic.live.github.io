@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1SRVawVdGv7lue3kE6Ajl9"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Camille Yembe est une chanteuse et auteure-compositrice belgo-congolaise née en 1997 à Molenbeek-Saint-Jean, dans la

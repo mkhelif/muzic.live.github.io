@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Cat Crash est un groupe indie de New York composé de Cecil (voix, basse), Arun (guitare, chœurs) et Noelle
