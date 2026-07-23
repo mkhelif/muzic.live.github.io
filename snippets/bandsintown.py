@@ -350,11 +350,13 @@ if __name__ == "__main__":
         if not bandsintown_id:
             continue
 
-        # Skip artists already refreshed from Bandsintown within the last week.
+        name = data.get("title", None)
+
+        # Skip artists already refreshed from Bandsintown recently.
         if not utils.is_stale(data, "bandsintown"):
+            print(f"{name} (skipped: refreshed recently)")
             continue
 
-        name = data.get("title", None)
         print(name)
         try:
             for event in get_artist_events(bandsintown_id):

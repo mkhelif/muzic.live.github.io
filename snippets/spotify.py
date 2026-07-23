@@ -152,8 +152,9 @@ if __name__ == '__main__':
         if spotifyId is None:
             continue
 
-        # Skip artists already refreshed from Spotify within the last week.
+        # Skip artists already refreshed from Spotify recently.
         if not is_stale(data, "spotify"):
+            print(f"{name} (skipped: refreshed recently)")
             continue
 
         print(f"{name}")
