@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3IMOGrM63og03I4jMYo35G"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Ascendant Vierge est un duo de musique électronique français formé en 2019, réunissant la chanteuse et

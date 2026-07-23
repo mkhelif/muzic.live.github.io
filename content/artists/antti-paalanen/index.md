@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "04v74MPedb2oLX2pUbcC4V"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Antti Paalanen, né en 1977 dans la région d'Alavus en Ostrobotnie du Sud (Finlande), est l'un des accordéonistes

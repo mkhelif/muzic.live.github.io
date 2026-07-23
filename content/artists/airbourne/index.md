@@ -65,6 +65,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Airbourne est un groupe australien de hard rock fondé à Warrnambool, dans l'État du Victoria, à la fin de l'année 2001.

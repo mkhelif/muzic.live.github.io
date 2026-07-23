@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1Li0eIWeMeWcOOWpImcG9H"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Albert Hammond Jr est un musicien américain né à Los Angeles, fils du compositeur britannico-gibraltarien Albert Hammond

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Akryl est une artiste suisse originaire de Saint-Gall (St. Gallen), qui développe une musique indie-pop aux textures

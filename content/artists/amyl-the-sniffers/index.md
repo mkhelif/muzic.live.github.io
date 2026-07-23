@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3NqV2DJoAWsjl787bWaHW7"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 Amyl & The Sniffers est la réponse australienne à tous ceux qui pensaient que le punk rock avait dit son dernier mot. Énergiques, bruts, irrésistiblement dansants et profondément sincères, ce quatuor de Melbourne a rallumé la mèche du pub rock et du punk avec une intensité rare, s'imposant en quelques années comme l'un des groupes live les plus electrisants de la planète.
 

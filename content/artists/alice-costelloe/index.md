@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1xbZZl0gYutFPyiUAXuJLy"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alice Costelloe est une musicienne et autrice-compositrice originaire de Londres, connue pour son passé au sein du

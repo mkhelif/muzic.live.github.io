@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "2z2TRvloJt4EfUNQp9rHAi"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alonzo, de son vrai nom Kassim Djae, est un rappeur français né le 25 juillet 1982 à Marseille, dans le quartier du Plan

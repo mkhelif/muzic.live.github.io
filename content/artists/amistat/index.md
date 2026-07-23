@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Amistat est un duo d'indie folk formé par les frères jumeaux Josef et Jan Prasil, nés en Allemagne de parents aux

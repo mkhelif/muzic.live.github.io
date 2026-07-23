@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1xD4rzgPGOwrc7RHZywzKg"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alison's Halo est un groupe de shoegaze et de dream pop américain originaire de Tempe, en Arizona, formé en

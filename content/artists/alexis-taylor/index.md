@@ -19,6 +19,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alexis Taylor est un musicien britannique né le 20 avril 1980, figure centrale du groupe londonien Hot Chip dont il

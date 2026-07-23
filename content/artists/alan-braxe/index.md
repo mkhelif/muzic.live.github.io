@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "24JRvbKfTcF2x7c2kCCJrW"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alan Braxe, de son vrai nom Alain Quême, est l'un des architectes discrets mais essentiels de la French Touch, ce

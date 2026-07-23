@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alexandrie est un projet de musique indie pop et électronique originaire de Besançon, en Franche-Comté,

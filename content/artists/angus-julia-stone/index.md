@@ -30,6 +30,8 @@ socials:
   email: "info@angusandjuliastone.com"
   amazon: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Angus & Julia Stone sont un duo australien formé par un frère et une sœur originaires des Northern Beaches de Sydney.

@@ -20,6 +20,8 @@ cover: ""
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Anan est un artiste musical dont les informations biographiques détaillées restent peu documentées dans les sources

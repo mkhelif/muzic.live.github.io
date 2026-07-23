@@ -19,6 +19,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Amel Bent est une chanteuse française de soul, R'n'B et variété née le 21 juin 1985 à Paris, d'origine algérienne

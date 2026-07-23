@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 All Time Low est un groupe de pop punk américain originaire de Towson, Maryland, une banlieue de Baltimore, formé

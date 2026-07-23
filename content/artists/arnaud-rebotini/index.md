@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "4qnTdOhzCAvoRf8PObGr1h"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Arnaud Rebotini est un compositeur, producteur et musicien électronique français né le 12 avril 1970. Figure

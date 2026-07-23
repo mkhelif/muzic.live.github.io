@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alestorm est un groupe de pirate metal écossais originaire de Perth, fondé en 2004 sous le nom de Battleheart.

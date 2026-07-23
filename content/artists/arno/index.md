@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Arno, de son vrai nom Arnold Charles Ernest Hintjens, est né le 21 mai 1949 à Ostende, en Belgique. Chanteur, parolier

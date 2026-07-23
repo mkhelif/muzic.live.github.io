@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 Anaïs Croze est une chanteuse, auteure et compositrice française dont la trajectoire singulière — du groupe indépendant aux scènes nationales, du one-woman-show décalé au rock folk affiné — illustre une liberté artistique rare et une personnalité marquante dans le paysage de la chanson hexagonale.
 

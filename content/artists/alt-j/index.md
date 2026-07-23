@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3XHO7cRUPCLOr6jwp8vsx5"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alt-J (stylisé Δ) est un groupe de rock indépendant anglais formé en 2007 à l'Université de Leeds. Composé à l'origine

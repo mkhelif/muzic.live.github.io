@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "114C9ZNDP1s9L41tOSHASY"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Aleksandra Kurzak est une soprano polonaise née le 7 août 1977 à Brzeg. Issue d'une famille de musiciens — sa mère est

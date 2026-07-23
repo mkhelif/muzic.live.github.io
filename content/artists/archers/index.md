@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Archers est un groupe américain de metalcore originaire de Madison, dans le Wisconsin, fondé vers 2015 par le

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "61ipISvUVa5LkJlKZnm3Oo"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alle Farben est le pseudonyme de Frans Zimmer, DJ et producteur allemand né le 5 juin 1985 à Berlin. Élevé dans le

@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "7t51dSX8ZkKC7VoKRd0lME"
   tidal: "4751617"
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Asaf Avidan est un chanteur-compositeur israélien né le 23 mars 1980 à Jérusalem, dont la voix — haute,

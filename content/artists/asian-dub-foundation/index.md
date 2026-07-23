@@ -67,6 +67,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Asian Dub Foundation est un groupe britannique formé à Londres en 1993, né de la rencontre entre musiciens d'origines

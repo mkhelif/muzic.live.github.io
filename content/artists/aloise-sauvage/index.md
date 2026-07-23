@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "5LYSuLVsB6OVxkDY107AyQ"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Aloïse Sauvage est une artiste française pluridisciplinaire née le 25 septembre 1992 au Mée-sur-Seine, en

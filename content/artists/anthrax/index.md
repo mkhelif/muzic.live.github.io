@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3JysSUOyfVs1UQ0UaESheP"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Anthrax est l'un des groupes fondateurs du thrash metal, formé le 18 juillet 1981 à New York par le guitariste

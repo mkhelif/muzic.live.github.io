@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 All Them Witches est un groupe de rock américain formé à Nashville, Tennessee, le 6 janvier 2012. Leur nom est

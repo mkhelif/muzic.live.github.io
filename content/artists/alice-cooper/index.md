@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alice Cooper est l'un des artistes les plus influents et les plus iconiques de l'histoire du rock. Né Vincent

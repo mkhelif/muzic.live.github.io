@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 De son vrai nom Ashraf Moawad, ASH est un multi-instrumentiste, producteur et compositeur né au Caire, aujourd'hui basé

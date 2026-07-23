@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Agnostic Front est un groupe américain de hardcore punk fondé en 1980 à New York, pionnier et emblème de la scène New

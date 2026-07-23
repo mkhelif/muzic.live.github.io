@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Agitate Lips est un groupe de rock indépendant au son introspectif et atmosphérique. Mêlant influences indie-pop et

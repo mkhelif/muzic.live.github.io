@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "3Z1SzxiDJYfs7P4M7IRKcy"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alain Roche est un pianiste, compositeur et performeur suisse né en 1973, connu pour avoir inventé un dispositif de

@@ -19,6 +19,8 @@ socials:
 todo:
   - Add socials
   - Add cover
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alessi Rose, de son vrai nom Alessandra Rose Jones, est une chanteuse et auteure-compositrice anglaise née le 27

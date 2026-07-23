@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Arnaud Rebotini joue 120 BPM est une performance live exceptionnelle dans laquelle le compositeur et musicien

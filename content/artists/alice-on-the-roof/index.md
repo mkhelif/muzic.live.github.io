@@ -19,6 +19,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alice on the Roof est le nom de scène d'Alice Dutoit, chanteuse belge née le 23 janvier 1995 à Soignies, dans le

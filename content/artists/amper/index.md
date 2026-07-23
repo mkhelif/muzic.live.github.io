@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Amper est un rappeur français originaire de la région Grand Est, représentatif d'une nouvelle génération de rap

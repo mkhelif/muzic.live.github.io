@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Amenra est un groupe de post-metal belge originaire de Courtrai (Kortrijk), en Flandre-Occidentale, fondé en 1999

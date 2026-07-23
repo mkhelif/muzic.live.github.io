@@ -20,6 +20,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 AKA, de son vrai nom Kiernan Jarryd Forbes, était un rappeur sud-africain né le 28 janvier 1988 au Cap et ayant grandi à

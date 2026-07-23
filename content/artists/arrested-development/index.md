@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Arrested Development est un groupe de hip-hop américain fondé en 1988 à Atlanta, en Géorgie, par le rappeur

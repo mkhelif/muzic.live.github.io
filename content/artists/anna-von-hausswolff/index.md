@@ -18,6 +18,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Anna von Hausswolff est une artiste suédoise née le 6 septembre 1986 à Göteborg, figure incontournable de la scène

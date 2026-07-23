@@ -19,6 +19,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Allt est un groupe de metalcore progressif suédois originaire de Karlskoga, fondé en septembre 2020. Le nom du

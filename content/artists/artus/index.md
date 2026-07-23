@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Artus, de son vrai nom **Victor-Artus Solaro**, est un humoriste, acteur, scénariste et réalisateur français né le

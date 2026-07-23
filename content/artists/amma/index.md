@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 Amma est le nom de scène de Lauren Keen, chanteuse et auteure-compositrice britannique originaire du sud de Londres. Issue d'une famille profondément ancrée dans la musique — ses sœurs RAYE et Absolutely sont également artistes —, elle passe des années à développer discrètement son talent avant de se lancer sous son propre nom.
 

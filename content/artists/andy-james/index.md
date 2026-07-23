@@ -12,4 +12,6 @@ socials:
   youtube: ""
 todo:
   - Add description/picture/socials
+lastUpdate:
+  spotify: 2026-07-23
 ---

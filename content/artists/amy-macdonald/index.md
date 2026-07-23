@@ -20,6 +20,8 @@ socials:
 management: "97049768-d9c6-4bf6-ba4e-1ead47b41b83"
 todo:
   - Add picture from concert
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il y a une chanson que vous avez forcément entendue — dans un pub, dans un stade, lors d'un mariage, à la radio d'un

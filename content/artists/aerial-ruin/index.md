@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "4cAA9ofN2C0BXkuSJYwwYW"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Aerial Ruin est le projet solo de folk sombre du guitariste et chanteur américain Erik Moggridge, basé à

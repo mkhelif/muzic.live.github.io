@@ -19,6 +19,8 @@ socials:
 todo:
   - Add socials
   - Add cover
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Amelie Lens est une DJ et productrice de musique électronique belge née à Vilvorde le 31 mai 1990. Ancienne

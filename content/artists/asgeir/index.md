@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "7xUZ4069zcyBM4Bn10NQ1c"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Ásgeir Trausti Einarsson, connu simplement sous le nom d'Ásgeir, est un chanteur-compositeur islandais né le

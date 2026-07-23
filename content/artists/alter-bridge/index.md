@@ -38,6 +38,8 @@ socials:
   qobuz: "130702"
   spotify: "4DWX7u8BV0vZIQSpJQQDWU"
   tidal: "58484"
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Nés des cendres de Creed, Alter Bridge s'impose depuis plus de vingt ans comme l'un des groupes de rock les plus

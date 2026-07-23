@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0ussJndMOAWWfaUtXSttFU"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Ashen est un groupe de metalcore français fondé en 2021 dans la banlieue parisienne. Le groupe naît de la rencontre

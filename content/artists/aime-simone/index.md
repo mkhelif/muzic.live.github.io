@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "75oAxYtjhDyLttgvGwQIvM"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Aime Simone est un artiste français né le 31 décembre 1993 à Paris, d'une famille aux origines norvégiennes. Chanteur,

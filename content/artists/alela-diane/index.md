@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alela Diane Menig est une chanteuse et compositrice américaine née le 20 avril 1983 à Nevada City, en Californie.

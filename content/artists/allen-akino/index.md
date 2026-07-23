@@ -20,6 +20,8 @@ cover: ""
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Allen Akino est un artiste musical originaire de Marseille, dont le travail s'inscrit au croisement de la pop, du

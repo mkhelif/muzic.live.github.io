@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Alpha Steppa x Nai-Jah & Awa Fall réunit sur scène trois figures majeures de la scène reggae et dub européenne, chacune
