@@ -18,6 +18,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Cléa Vincent est une chanteuse française qui émerge sur la scène pop hexagonale avec une approche moderne et

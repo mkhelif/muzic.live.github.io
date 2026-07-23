@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "5KBbs98MK59UNMF1VTwMmz"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Claudio Ruccolo, dit Claudio Capéo, est né le 10 janvier 1985 à Cernay, en Alsace, d'une famille d'origine
