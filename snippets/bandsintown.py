@@ -255,7 +255,7 @@ def get_or_create_venue(location):
         "---",
         f'id: "{venue_id}"',
         f'venue: "{parent_id}"',
-        f'title: "{location["name"]}"',
+        f'title: "{utils.yaml_quote(location["name"])}"',
     ]
     if location.get("latitude") and location.get("longitude"):
         lines += [

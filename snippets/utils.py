@@ -77,6 +77,13 @@ def format_filename(name):
     )
 
 
+def yaml_quote(value):
+    """Escape a value for safe use inside a double-quoted YAML scalar, so a
+    provider name containing a quote (e.g. ``Centrum Targowe "Park"``) does not
+    break the front matter."""
+    return str(value).replace("\\", "\\\\").replace('"', '\\"')
+
+
 def load_frontmatter(file):
     """Parse the YAML front matter of a ``Path`` fiche."""
     try:
@@ -245,7 +252,7 @@ def get_or_create_artist(name):
         file.write_text(f"""\
 ---
 id: "{artist_id}"
-title: "{name}"
+title: "{yaml_quote(name)}"
 socials:
   facebook: ""
   instagram: ""
@@ -293,7 +300,7 @@ def get_or_create_location_country(country):
         file.write_text(f"""\
 ---
 id: "{country_id}"
-title: "{country['name']}"
+title: "{yaml_quote(country['name'])}"
 ---
 """)
     if country_id is None:
@@ -317,7 +324,7 @@ def get_or_create_location_city(country, city):
 ---
 id: "{city_id}"
 venue: "{get_or_create_location_country(country)}"
-title: "{city}"
+title: "{yaml_quote(city)}"
 ---
 """)
     if city_id is None:
@@ -342,7 +349,7 @@ def get_or_create_location(location):
 ---
 id: "{location_id}"
 venue: "{get_or_create_location_city(location['country'], location['city'])}"
-title: "{location['name']}"
+title: "{yaml_quote(location['name'])}"
 ---
 """)
     if location_id is None:
