@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "4c4Ce4N4vJOs3Tzee020S4"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Planet Funk est un groupe électronique italien formé en 1999, connu dans le monde entier pour son hymne dancefloor «

@@ -1,0 +1,23 @@
+---
+id: "ddcd5196-fe05-4d26-88d0-4ae9af46861a"
+title: "Selecta Antwan"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

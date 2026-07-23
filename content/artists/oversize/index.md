@@ -1,0 +1,23 @@
+---
+id: "b906f751-1e8d-4180-bff6-03d12f5568dd"
+title: "Oversize"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

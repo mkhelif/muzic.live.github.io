@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "7MqnCTCAX6SsIYYdJCQj9B"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Pendulum est un groupe australien de drum and bass fondé en 2002 à Perth par Rob Swire, Gareth McGrillen et Paul « El

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0XtVN1QaB7vYRpw4qEIRt0"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Ours Samplus est un duo de beatmakers français originaire de Lille, membre du collectif Tchernolille, actif depuis

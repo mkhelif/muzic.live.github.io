@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "65LSKdbofg1NdWkaLSVXKc"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Nuttea, de son vrai nom Olivier Lara, est un chanteur de reggae et de ragga français né le 26 décembre 1968, l'une des

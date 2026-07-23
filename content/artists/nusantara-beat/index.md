@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6iQZl7RmTVznyFCrML933x"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Nusantara Beat est un sextet psych-folk originaire d'Amsterdam qui explore l'héritage indonésien commun à ses membres à

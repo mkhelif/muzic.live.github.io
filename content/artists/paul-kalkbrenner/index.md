@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0rasA5Z5h1ITtHelCpfu9R"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Paul Kalkbrenner est un musicien et producteur électronique allemand, figure incontournable de la scène techno de

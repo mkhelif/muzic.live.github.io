@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Niska, de son vrai nom Georges Dinga Pinto, s'impose comme l'une des figures majeures du rap français contemporain,

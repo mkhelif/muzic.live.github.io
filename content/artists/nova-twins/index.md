@@ -28,6 +28,8 @@ socials:
   web: "https://novatwins.co.uk/"
   x: ""
   email: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il existe peu de groupes capables de faire dire à un magazine spécialisé qu'ils produisent des sons que personne ne sait

@@ -20,4 +20,6 @@ todo:
   - Add cover
   - Add socials
   - Add description
+lastUpdate:
+  spotify: 2026-07-23
 ---

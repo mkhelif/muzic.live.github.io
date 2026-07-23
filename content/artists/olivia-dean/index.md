@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "00x1fYSGhdqScXBRpSj3DW"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Olivia Dean est une autrice-compositrice-interprète britannique originaire de Londres. Avant d'être chanteuse en son

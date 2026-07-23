@@ -82,6 +82,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Nothing More incarne la nouvelle vague du rock alternatif américain, mêlant habilement agressivité metal, mélodies

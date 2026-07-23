@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Pierre de Maere est un chanteur belge né à Bruxelles qui a connu une révélation artistique remarquable grâce aux réseaux

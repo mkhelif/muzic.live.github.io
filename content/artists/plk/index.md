@@ -19,6 +19,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 PLK, de son vrai nom Mathieu Claude Daniel Pruski, est un rappeur français né le 15 avril 1997, d'origine polonaise et

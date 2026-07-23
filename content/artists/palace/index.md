@@ -48,6 +48,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 **Style intimiste et mélancolique** - Palace, c'est Leo Wyndham (chant/guitare), Rupert Turner (guitare) et Matt

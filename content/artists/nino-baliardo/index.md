@@ -17,6 +17,8 @@ socials:
   deezer: ""
   qobuz: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Nino Baliardo incarne la continuation d'une dynastie musicale qui a marqué l'histoire de la rumba flamenca : celle des
