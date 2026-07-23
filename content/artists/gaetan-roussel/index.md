@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Gaëtan Roussel, né le 13 octobre 1972 à Rodez, est un auteur-compositeur-interprète et guitariste français, connu comme

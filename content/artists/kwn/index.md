@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Kwn (prononcé « kay-wuhn »), de son vrai nom Khyra Wilson, est une chanteuse, autrice-compositrice, rappeuse et

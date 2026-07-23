@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "50IylcM1VOHNXVHMMMWhJA"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Olivier Haudegond, alias Didier Super, est un chanteur, musicien et humoriste français né le 27 février 1973 à Douai,

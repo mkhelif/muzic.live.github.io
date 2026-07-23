@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Elie zoé, connu jusqu'en octobre 2024 sous le nom d'Emilie Zoé, est un chanteur et musicien suisse, né le 6 juillet 1991

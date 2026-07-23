@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Fugue est un groupe français de post-punk et coldwave issu des Hauts-de-France. La formation construit un univers

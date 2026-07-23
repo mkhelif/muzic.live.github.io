@@ -116,6 +116,8 @@ socials:
   qobuz: ""
   spotify: "7w9jdhcgHNdiPeNPUoFSlx"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Dropkick Murphys est un groupe de punk celtique américain formé en 1996 à Quincy, dans le Massachusetts, devenu au fil

@@ -17,6 +17,8 @@ socials:
   deezer: ""
   qobuz: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Jay Bartholomew Buchanan, né le 6 juillet 1975 à San Bernardino, en Californie, et qui a grandi entre Fontana et

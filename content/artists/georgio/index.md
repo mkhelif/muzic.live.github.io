@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6Xc0KDqzw5u6EQLgdfeoKO"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Georgio, de son vrai nom Georges Édouard Nicolo, est né le 21 janvier 1993 aux Lilas, en Seine-Saint-Denis. Rappeur et

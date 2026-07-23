@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6jlWj6y00bMQt8XoKuCjyZ"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Emily King, née Emily Cowings le 10 juillet 1985 à New York, est une chanteuse et autrice-compositrice américaine

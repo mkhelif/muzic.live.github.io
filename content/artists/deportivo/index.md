@@ -51,6 +51,8 @@ socials:
   tiktok: ""
   x: ""
   web: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Trois gamins de Bois-d'Arcy, dans les Yvelines, qui se retrouvent dans une cour d'école à sept ans, passionnés de foot

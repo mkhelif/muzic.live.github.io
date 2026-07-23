@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Feder, de son vrai nom Hadrien Federiconi, est un DJ et producteur français originaire de Nice, qui développe sa

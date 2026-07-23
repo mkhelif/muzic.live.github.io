@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Grandson est le nom de scène de **Jordan Edward Benjamin**, auteur-compositeur-interprète né le 25 octobre 1993 à

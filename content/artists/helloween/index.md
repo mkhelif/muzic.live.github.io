@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Helloween est un groupe de power metal allemand formé en 1984 à Hambourg, considéré comme l'un des créateurs et

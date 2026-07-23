@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6tGT6SMlubqjTWDxBhSgg9"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Dove Ellis, de son vrai nom Thomas O'Donoghue, né en avril 2003 à Galway, est un musicien irlandais de folk indé

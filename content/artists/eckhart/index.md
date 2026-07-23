@@ -18,6 +18,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Eckhart est un projet electro-punk suisse basé à Vevey, dans le canton de Vaud. Fondé en 2023 par le producteur et

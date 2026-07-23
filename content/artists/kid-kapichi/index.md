@@ -40,6 +40,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Kid Kapichi est un groupe de rock britannique formé à Hastings, qui émerge sur la scène rock indépendante avec une

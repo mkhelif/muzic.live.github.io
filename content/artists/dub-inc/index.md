@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0fSuChlRe8ZYtVFYDoG87U"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Dub Inc est l'un des groupes reggae les plus importants de France, originaire de Saint-Étienne dans le

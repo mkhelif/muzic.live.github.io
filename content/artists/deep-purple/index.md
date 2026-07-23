@@ -120,6 +120,8 @@ socials:
   qobuz: ""
 todo:
   - Add cover picture from concert
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il existe un riff de guitare que tout le monde connaît. Absolument tout le monde — votre grand-mère, votre voisin, le

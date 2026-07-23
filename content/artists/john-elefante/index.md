@@ -9,4 +9,6 @@ socials:
   threads: ""
   youtube: ""
   spotify: "4ZFdxv8f7EibDwMNNZlreO"
+lastUpdate:
+  spotify: 2026-07-23
 ---

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "2GHXeEEol7BPT31flS6O1B"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Eddie 9V, de son vrai nom Brooks Mason, né en juin 1996 en Géorgie, aux États-Unis, est un guitariste et chanteur blues

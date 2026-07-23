@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0LZtBVbX5gxfaoSWfOBWoZ"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Ghost Dance est un groupe britannique de rock gothique dont l'histoire s'étend sur quatre décennies,

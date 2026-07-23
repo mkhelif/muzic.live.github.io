@@ -19,6 +19,8 @@ socials:
   email: ""
 todo:
   - Add picture from concert
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il existe un club très exclusif dans le monde du spectacle américain. On l'appelle l'**EGOT** — Emmy, Grammy, Oscar,

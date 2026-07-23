@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6H1RjVyNruCmrBEWRbD0VZ"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Def Leppard est un groupe de rock britannique formé à Sheffield en 1976, devenu l'une des formations les plus vendues de

@@ -25,4 +25,6 @@ socials:
 todo:
   - Add description
   - Add information (birth, gender, ...)
+lastUpdate:
+  spotify: 2026-07-23
 ---

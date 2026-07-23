@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3oSKgWx1dqjhidhnhpGbfJ"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 DITZ est un groupe de rock anglais originaire de Brighton, formé en 2016.

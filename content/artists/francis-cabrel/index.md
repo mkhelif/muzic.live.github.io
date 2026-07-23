@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Francis Cabrel naît le 23 novembre 1953 à Agen, dans une famille modeste où la musique occupe une place importante grâce

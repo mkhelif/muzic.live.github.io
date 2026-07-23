@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Kid Creole and the Coconuts est un groupe américain fondé par August Darnell (né Thomas August Darnell Browder le 12

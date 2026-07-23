@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1h6v3Gd5Ub1xmiSMq0X5f3"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Erin Ruth LeCount est une autrice-compositrice-interprète anglaise révélée au grand public après sa participation à

@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Joseph David Keery est né le 24 avril 1992 à Newburyport, Massachusetts. Le grand public le connaît principalement sous

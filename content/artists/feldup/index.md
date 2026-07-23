@@ -18,6 +18,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Feldup est un vidéaste, musicien et chanteur français, né en mars 2002, de son vrai nom Félix Dupuis. Originaire de

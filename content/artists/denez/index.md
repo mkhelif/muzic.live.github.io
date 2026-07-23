@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1qid89y11TF9zHS8N3FibN"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Denez Prigent est né le 17 février 1966 à Santec, dans le Finistère. Il grandit entre Le Relecq-Kerhuon

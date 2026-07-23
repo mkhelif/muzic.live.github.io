@@ -89,6 +89,8 @@ socials:
   qobuz: ""
   spotify: "5nGIFgo0shDenQYSE0Sn7c"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Evanescence est un groupe de gothic metal américain originaire de Little Rock, en Arkansas, formé en 1996 autour de la

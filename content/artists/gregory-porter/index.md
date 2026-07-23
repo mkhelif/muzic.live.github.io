@@ -19,6 +19,8 @@ socials:
   qobuz: ""
 todo:
   - Add picture from concert
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il y a des voix qui chantent. Et il y a des voix qui enveloppent — qui vous prennent par les épaules, vous serrent

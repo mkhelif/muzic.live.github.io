@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "45W0uOq0sDCediEA9i8VJt"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Esha Tewari est une autrice-compositrice-interprète australienne née le 6 avril 2006, installée à Sydney, où elle

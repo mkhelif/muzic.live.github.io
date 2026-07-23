@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Keny Arkana est une rappeuse française née le 20 décembre 1982 à Boulogne-Billancourt et qui a grandi à Marseille, où

@@ -48,6 +48,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 IAM est un groupe de rap français formé à Marseille en 1989, qui s'est imposé comme l'une des formations les plus

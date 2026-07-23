@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0GOx72r5AAEKRGQFn3xqXK"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 GIMS, de son vrai nom Gandhi Alimasi Djuna, est un chanteur et rappeur né le 6 mai 1986 à Kinshasa, en République

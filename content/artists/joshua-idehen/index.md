@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3PubLnxnO5N2Avr3UvG1Vc"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Joshua Idehen est un poète et musicien britannico-nigérian né à Londres de parents nigérians, connu pour ses

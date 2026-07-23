@@ -20,6 +20,8 @@ todo:
   - Add picture
   - Verify social networks
   - Add discography
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Gracie Madigan Abrams, née le 7 septembre 1999 à Los Angeles, est une autrice-compositrice-interprète américaine.

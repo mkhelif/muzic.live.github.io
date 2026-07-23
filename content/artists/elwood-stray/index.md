@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6n5DUGtIWYMurrtVt7IdZr"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Elwood Stray est un groupe allemand de metalcore et post-hardcore originaire d'Essen, formé en 2016. Nourris depuis

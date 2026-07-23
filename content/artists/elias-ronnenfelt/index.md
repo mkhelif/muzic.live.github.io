@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1sMYEFib6APIW3JjkY8pYS"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Elias Rønnenfelt est un musicien et poète danois, surtout connu comme chanteur et parolier du groupe post-punk

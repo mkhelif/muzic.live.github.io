@@ -19,6 +19,8 @@ socials:
   qobuz: ""
 todo:
   - Add cover from concert picture
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il y a des artistes qui choisissent un camp. Franglish a décidé de les occuper tous. Rap et R&B, français et anglais,

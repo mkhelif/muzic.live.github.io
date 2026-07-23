@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Kolinga est une chanteuse franco-camerounaise qui émerge sur la scène world music européenne avec une approche moderne

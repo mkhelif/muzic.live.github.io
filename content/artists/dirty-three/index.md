@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1QUsHFoDqNsC0W9AlNyHWF"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Dirty Three est un groupe de rock instrumental australien formé en 1992 à Melbourne, réunissant le violoniste et

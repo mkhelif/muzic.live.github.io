@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Eddy de Pretto est un chanteur français né en 1993, qui émerge sur la scène musicale hexagonale avec une approche

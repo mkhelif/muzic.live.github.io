@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3nmiIgeri4vEY7y0VpbsCn"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Jeffrey Allen Townes, alias DJ Jazzy Jeff, né le 22 janvier 1965 à Philadelphie, est un DJ, producteur et acteur

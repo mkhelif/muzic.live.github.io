@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Eagle-Eye Cherry est un chanteur-compositeur suédois-américain né en 1968, fils du trompettiste de jazz Don Cherry.

@@ -18,6 +18,7 @@ socials:
   x: ""
   web: ""
 lastUpdate:
+  spotify: 2026-07-23
   bandsintown: 2026-07-23
 ---
 

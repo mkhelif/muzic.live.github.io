@@ -12,4 +12,6 @@ socials:
   spotify: "1Nm7n07ydhbE1jjagpvJQQ"
 todo:
   - Add description/picture/socials
+lastUpdate:
+  spotify: 2026-07-23
 ---

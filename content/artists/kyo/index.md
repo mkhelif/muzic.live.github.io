@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "5ylOD196qui8JgXBrQUzok"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Kyo est un groupe français de pop-rock formé en 1994 au sein d'un collège de Verneuil-sur-Seine, dans les Yvelines. Le

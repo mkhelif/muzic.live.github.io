@@ -18,6 +18,8 @@ socials:
   qobuz: ""
 todo:
   - Add picture from concert
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il y a des artistes qui font de la musique. Et il y a ceux dont la musique est un acte de survie. Xavier Amin

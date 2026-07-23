@@ -16,6 +16,8 @@ socials:
   deezer: ""
   qobuz: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Follo, de son vrai nom Lucas Dubiez, est un producteur de techno mélodique installé à Besançon.

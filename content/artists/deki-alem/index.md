@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "2AK3F4tVjxYuqSGefozy52"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Deki Alem est un duo suédois originaire de Göteborg, formé autour des frères jumeaux **Sammy et Johnny Boakye Bennett**.

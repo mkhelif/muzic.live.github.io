@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6smOYrOT8fGSn5lDC86Jjb"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Fishbach — qui se présente depuis 2025 sous son nom complet **Flora Fishbach** — est une autrice-compositrice-interprète

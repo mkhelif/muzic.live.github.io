@@ -60,6 +60,8 @@ socials:
   qobuz: "13177828"
   spotify: "1WNoKxsp715jez1Td4vthc"
   tidal: "31100862"
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Montez le son, lâchez prise et dansez comme si personne ne vous regardait. Voilà, en une phrase, le programme d'Electric

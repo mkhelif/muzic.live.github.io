@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "540vIaP2JwjQb9dm3aArA4"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 William Sami Étienne Grigahcine, alias DJ Snake, né le 13 juin 1986 à Paris d'un père français et d'une mère algérienne,

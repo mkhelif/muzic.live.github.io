@@ -44,6 +44,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Gojira est un groupe de metal français formé en 1996 à Ondres, dans les Landes, non loin de Bayonne, sous le nom de

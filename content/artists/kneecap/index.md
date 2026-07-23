@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1ZVACPeq7ccGCoUXwtafUU"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Kneecap est un trio de hip-hop irlandais originaire de Belfast, en Irlande du Nord. Composé de Mo Chara

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "4G5ZJny3HvX6Il7eHVfnNC"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Fatoumata Diawara est une chanteuse, guitariste et actrice malienne née en 1982 en Côte d'Ivoire. Élevée au Mali durant

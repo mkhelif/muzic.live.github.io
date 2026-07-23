@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6Ghvu1VvMGScGpOUJBAHNH"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Deftones est un groupe de metal alternatif américain formé à Sacramento, en Californie, en 1988.

@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Jacob Alon est un auteur-compositeur-interprète écossais originaire de Dalgety Bay, dans le Fife, qui s'est imposé en

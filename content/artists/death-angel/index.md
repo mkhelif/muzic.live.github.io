@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6KVc8Llznru8n9LVCYe9dz"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Death Angel est un groupe de thrash metal américain d'origine philippine fondé en 1982 à Daly City,

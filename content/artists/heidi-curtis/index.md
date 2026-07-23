@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "4Jc9s2qAwAsnS72FGbCrwZ"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Heidi Curtis est une autrice-compositrice-interprète britannique originaire de North Shields, près de Newcastle upon

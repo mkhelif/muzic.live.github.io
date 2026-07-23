@@ -74,6 +74,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Dream Theater est un groupe de metal progressif américain formé en 1985 à Boston, né de la rencontre d'étudiants du

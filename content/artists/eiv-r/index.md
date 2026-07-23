@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "2dB4ya2W1Gvng8gjWSPu2H"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Eivør Pálsdóttir, connue simplement sous le nom d'Eivør, est une chanteuse, autrice-compositrice et musicienne

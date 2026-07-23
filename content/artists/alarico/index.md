@@ -2,6 +2,7 @@
 id: "f67b7857-5821-4fe8-8239-60b8a1af9bc1"
 title: "Alarico"
 socials:
+  bandsintown: "15578191"
   facebook: ""
   instagram: ""
   tiktok: ""

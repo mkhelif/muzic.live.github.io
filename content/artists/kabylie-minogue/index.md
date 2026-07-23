@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0OfuNV93XzkOehHIvyr0OU"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Kabylie Minogue est un duo électro repéré grâce à un set remarqué au Boiler Room, où il tisse des rythmes

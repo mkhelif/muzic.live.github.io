@@ -75,6 +75,8 @@ socials:
 todo:
   - Add picture
   - Review description
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Fondé à Las Vegas en 2005 par le guitariste Zoltan Bathory, Five Finger Death Punch s'est imposé comme l'un des groupes

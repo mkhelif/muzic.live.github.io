@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Hemlocke Springs est le nom de scène d'Isimeme "Naomi" Udu, autrice-compositrice, chanteuse et productrice américaine

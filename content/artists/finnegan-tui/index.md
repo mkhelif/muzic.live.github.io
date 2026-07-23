@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Avec sa folk organique, Finnegan Tui s'impose comme l'un des chanteurs guitare-voix les plus captivants du moment.

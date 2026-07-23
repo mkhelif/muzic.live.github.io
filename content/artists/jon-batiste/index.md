@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0eRbECAGCLLiTyVXPBRexU"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Jon Batiste est un musicien, compositeur, producteur et chef d'orchestre américain né le 11 novembre 1986 à Metairie, en

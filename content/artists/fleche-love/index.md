@@ -20,5 +20,7 @@ socials:
 todo:
   - Add picture from concert
   - Add description
+lastUpdate:
+  spotify: 2026-07-23
 ---
 

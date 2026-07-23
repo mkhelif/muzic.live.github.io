@@ -1,0 +1,10 @@
+---
+date: 2026-09-27T18:00:00+01:00
+venue: "f804aa30-377a-4111-ac95-551d2ee8e5c0"
+artists:
+  - "dd16d581-8aa4-40d4-870e-7c491cd88516"
+  - "25abaede-ab2c-49a9-bb1b-8c6637c45c7a"
+  - "734ad2ca-0961-4acf-8e74-47c48fbea687"
+  - "3012321a-9e84-41d8-a696-e1f0502ae043"
+  - "25abaede-ab2c-49a9-bb1b-8c6637c45c7a"
+---

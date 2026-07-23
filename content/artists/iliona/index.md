@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "64s6yr2vWCKyr5Ldwaslwk"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Iliona est une autrice-compositrice-interprète, musicienne et productrice belge, née le 7 juillet 2000 à Bruxelles,

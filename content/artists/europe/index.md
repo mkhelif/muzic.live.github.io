@@ -62,6 +62,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Europe naît en 1979 en Suède sous l'impulsion de Joey Tempest (chant) et John Norum (guitare), rejoints par John Levén (

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "5NhgsV7qPWHZqYEMKzbYvo"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Faouzia Ouihya, dite Faouzia, est une autrice-compositrice-interprète et musicienne maroco-canadienne née le 5 juillet

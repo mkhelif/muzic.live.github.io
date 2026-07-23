@@ -18,6 +18,8 @@ socials:
   deezer: ""
   qobuz: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Flaur représente l'une des voix les plus prometteuses et innovantes du paysage musical actuel. Avec un univers sonore à

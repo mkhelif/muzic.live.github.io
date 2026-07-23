@@ -27,6 +27,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Jahneration est un groupe de reggae français formé en 2008 dans la région parisienne, né de la rencontre de musiciens

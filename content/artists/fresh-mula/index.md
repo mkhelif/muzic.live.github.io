@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6IwmCDDOJfupZ9uDvSwfPe"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Fresh Mula, de son vrai nom Omar, est un rappeur italien né en 1998 d'une mère italienne et d'un père sénégalais, qui

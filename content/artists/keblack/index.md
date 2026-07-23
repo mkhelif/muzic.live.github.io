@@ -16,6 +16,8 @@ socials:
   email: "keblack@outlook.fr"
   tiktok: ""
   web: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 KeBlack, de son vrai nom **Cédric Matéta Nkomi**, est un chanteur et rappeur français d'origine congolaise né le

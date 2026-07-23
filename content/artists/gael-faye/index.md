@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Gaël Faye est un auteur-compositeur-interprète, rappeur et écrivain franco-rwandais né le 6 août 1982 à Bujumbura, au

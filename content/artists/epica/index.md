@@ -75,6 +75,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Formé en 2002 aux Pays-Bas par le guitariste Mark Jansen, ancien membre du groupe After Forever, Epica s'impose

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "2FAz9uibBqE9W5FQKlluEr"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Didier Wampas, de son vrai nom Didier Chappedelaine, est un auteur-compositeur-interprète français né

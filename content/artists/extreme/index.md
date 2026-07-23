@@ -15,6 +15,8 @@ socials:
   qobuz: ""
   spotify: "6w7j5wQ5AI5OQYlcM15s2L"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Extreme est un groupe de hard rock américain formé en 1985 à Boston, Massachusetts, autour du chanteur **Gary

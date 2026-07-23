@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6e9wIFWhBPHLE9bXK8gtBI"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Editors est un groupe de rock anglais formé en 2002 à Birmingham par des étudiants de l'université de Staffordshire.

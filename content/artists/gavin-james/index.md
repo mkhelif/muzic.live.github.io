@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Gavin James est un chanteur-compositeur irlandais né à Dublin, qui émerge sur la scène musicale au début des années 2010

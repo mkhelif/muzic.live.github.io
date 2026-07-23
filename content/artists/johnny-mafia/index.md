@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Johnny Mafia s'impose comme l'un des groupes les plus explosifs et rafraîchissants de la scène rock hexagonale

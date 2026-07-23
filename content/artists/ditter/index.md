@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "2XQrzLnabbe3OLJOctSvSQ"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Ditter est un groupe français composé de trois membres, Rosa, François et Samuel, qui développent une pop teintée de

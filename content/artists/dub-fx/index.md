@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "4ucW1LE5T7y7X4jlaKCeVo"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Benjamin Stanford, connu sous le nom de Dub FX, né le 11 juin 1983 à St Kilda, dans la banlieue de Melbourne, est un
