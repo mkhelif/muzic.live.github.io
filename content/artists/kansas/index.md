@@ -153,7 +153,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "2hl0xAkS2AIRAu23TVMBG1"
   tidal: ""
 todo:
   - Add picture

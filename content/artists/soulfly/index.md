@@ -110,7 +110,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "6159IBm5gLPwG4BcJXseXc"
   tidal: ""
 todo:
   - Add cover

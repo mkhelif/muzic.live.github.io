@@ -49,7 +49,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "4iGsihTcyZ80RQFZhC8bf8"
   tidal: ""
 todo:
   - Add picture

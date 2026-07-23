@@ -8,7 +8,7 @@ socials:
   x: ""
   youtube: ""
   web: "https://www.madonna.com"
-  spotify: ""
+  spotify: "6tbjWDEIzxoDsBA1FuhfPW"
   tiktok: ""
   email: ""
   amazon: ""

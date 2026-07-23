@@ -1,4 +1,5 @@
 ---
+
 id: "c8b0b557-bfcc-4943-968f-8ea96a1f0f33"
 title: "Pusha T"
 socials:
@@ -7,6 +8,7 @@ socials:
   x: ""
   threads: ""
   youtube: ""
+  spotify: "0ONHkAv9pCAFxb0zJwDNTy"
 todo:
   - Add description/picture/socials
 ---

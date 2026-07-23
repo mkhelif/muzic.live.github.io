@@ -9,7 +9,7 @@ socials:
   youtube: "@OfficialStatusQuo"
   web: "https://www.statusquo.co.uk"
   tidal: "17400"
-  spotify: ""
+  spotify: "4gIdjgLlvgEOz7MexDZzpM"
   x: ""
   email: ""
   amazon: ""

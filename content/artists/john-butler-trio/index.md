@@ -96,7 +96,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "6fBF4MULW5yMzyGaon1kUt"
   tidal: ""
 ---
 

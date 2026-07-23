@@ -8,7 +8,7 @@ socials:
   x: ""
   youtube: ""
   web: "https://duranduran.com"
-  spotify: ""
+  spotify: "0lZoBs4Pzo7R89JM9lxwoT"
   tiktok: ""
   email: ""
   amazon: ""

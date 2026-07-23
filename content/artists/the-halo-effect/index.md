@@ -40,7 +40,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "2qvK5iLLoDV5mJeAvh5uka"
   tidal: ""
 todo:
   - Add picture

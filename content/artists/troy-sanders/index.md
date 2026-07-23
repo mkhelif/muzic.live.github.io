@@ -1,4 +1,5 @@
 ---
+
 id: "8849be07-6262-4244-b307-68e9010eff19"
 title: "Troy Sanders"
 socials:
@@ -7,4 +8,5 @@ socials:
   x: ""
   threads: ""
   youtube: ""
+  spotify: "6xp1pJrjxWYZ6kIWfWgTex"
 ---

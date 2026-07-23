@@ -100,7 +100,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "6mdiAmATAx73kdxrNrnlao"
   tidal: ""
 todo:
   - Add picture

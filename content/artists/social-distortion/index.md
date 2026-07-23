@@ -89,7 +89,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "16nn7kCHPWIB6uK09GQCNI"
   tidal: ""
 todo:
   - Add picture

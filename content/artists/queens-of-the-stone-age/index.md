@@ -120,7 +120,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "4pejUc4iciQfgdX6OKulQn"
   tidal: ""
 ---
 

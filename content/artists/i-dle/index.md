@@ -8,7 +8,7 @@ socials:
   x: "G_I_DLE"
   youtube: "GI-DLEOfficial"
   web: "https://cubeent.smartstore.naver.com"
-  spotify: ""
+  spotify: "2AfmfGFbe0A0WsTYm0SDTx"
   tiktok: ""
   email: ""
   amazon: ""

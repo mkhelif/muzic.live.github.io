@@ -1,11 +1,11 @@
 ---
-id: "336c771c-4528-4c06-89fd-bb3118136696"
-title: "WARGASM (UK)"
-type: unknown
+id: "143172ab-f314-4527-be2d-ce7f6378389a"
+title: "Blu Samu"
 socials:
   facebook: ""
   instagram: ""
   tiktok: ""
+  threads: ""
   x: ""
   youtube: ""
   web: ""

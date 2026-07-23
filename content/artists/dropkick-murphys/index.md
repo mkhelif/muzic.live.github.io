@@ -114,7 +114,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "7w9jdhcgHNdiPeNPUoFSlx"
   tidal: ""
 ---
 

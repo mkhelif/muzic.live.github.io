@@ -127,7 +127,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "4UXJsSlnKd7ltsrHebV79Q"
   tidal: ""
 ---
 

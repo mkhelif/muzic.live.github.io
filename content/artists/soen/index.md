@@ -63,7 +63,7 @@ socials:
   youtube: "@SoenOfficial"
   web: "https://soenmusic.com/"
   tidal: "4373811"
-  spotify: ""
+  spotify: "38uWD5h115pdz278q4rwZW"
   tiktok: ""
   x: ""
   email: ""

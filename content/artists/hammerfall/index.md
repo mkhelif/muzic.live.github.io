@@ -99,7 +99,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "2o18h28enlHxj887tATc58"
   tidal: ""
 todo:
   - Add picture

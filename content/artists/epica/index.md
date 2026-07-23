@@ -70,7 +70,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "5HA5aLY3jJV7eimXWkRBBp"
   tidal: ""
 todo:
   - Add picture

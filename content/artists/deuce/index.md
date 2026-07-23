@@ -1,4 +1,5 @@
 ---
+
 id: "4d66bdd8-1266-416d-b36a-83494fac1d6c"
 title: "Deuce"
 socials:
@@ -7,4 +8,5 @@ socials:
   x: ""
   threads: ""
   youtube: ""
+  spotify: "1i1Y1ypn7nCQrvMhqbe6wt"
 ---
