@@ -6,7 +6,7 @@ venue: "598fe61c-2dca-4f48-99c6-0155689c665f"
 title: "Guitare en Scène 2026 - Jour 5 - The Carpets, This is Michael & Jennifer Batten, Frank Carducci, Alenko"
 cover: "pictures/jennifer-batten/01.jpg"
 author: "mkhelif"
-rank: XX
+rank: 7
 artists:
   - "1fe399c1-992e-4381-8670-206c14053b93"
   - "fe11fca2-0746-4f0b-b839-b7d1424fd093"
@@ -15,38 +15,61 @@ artists:
   - "1552e79a-330a-41f6-88c5-28d82ea161cc"
 ---
 
-Écris une chronique détaillée de la cinquième et dernière soirée du festival Guitare en Scène 2026. Inspires toi d'autres chroniques des groupes présents pour la rédiger.
-Les artistes présents ce soir là sont (dans l'ordre d'apparition) : The Carpets, This is Michael & Jennifer Batten et Frank Carducci. Alenko à la scène quartier libre à l'ouverture et au milieu. 
+Pour cette cinquième et dernière soirée du festival, Guitare en Scène a choisi de refermer les feux avec un plateau
+aussi éclectique que généreux : le rock alternatif franco-portugais de The Carpets, l'hommage totalement inédit à
+Michael Jackson porté par This Is Michael et Jennifer Batten, et le cirque rock progressif de Franck Carducci & The
+Fantastic Squad. Entre les plateaux, Alenko aura tenu la scène Quartier Libre avec sa Franco-Pop'n'Groove
+électro-poétique.
 
-Inclus les titres (h6 `######`) et les carousels d'images.
+###### The Carpets
 
-Voici les présentations des artistes :
+{{< carousel pictures="pictures/the-carpets" alt="The Carpets" author="mkhelif" >}}
 
-The Carpets
-Fondé par deux amis portugais débarqués à Paris, The Carpets joue un rock alternatif qui oscille entre énergie brute et atmosphères planantes. Kings of Leon, Radiohead, Foals : les influences sont solides, et la présence scénique, intense. Un groupe qui s'impose dès les premiers accords.
+Fondé par deux amis portugais installés à Paris, The Carpets ouvre cette dernière soirée avec un rock alternatif qui
+navigue habilement entre énergie brute et atmosphères planantes, quelque part entre Kings of Leon, Radiohead et Foals.
+Sur scène, à deux guitares, basse, batterie et clavier, le groupe s'impose dès les premiers accords — porté par un
+chanteur-guitariste particulièrement expressif, qui semble littéralement habité par chaque note. Un rock à la fois
+planant et dansant, qui donne le ton d'une soirée qui s'annonce riche en contrastes.
 
-THIS IS MICHAEL & JENNIFER BATTEN
-Le 18 juillet, Guitare en Scène accueille l'unique date européenne d'un featuring totalement incroyable.
-« This Is Michael », le show officiel qui a conquis le monde entier, et Jennifer Batten, la guitar-hero qui a accompagné le King of Pop pendant dix ans, réunis sur une même scène rien que pour nous! (On va assurément faire des jaloux..).
-D'un coté, Jennifer Batten. Une véritable légende vivante. Choisie par Michael Jackson lui-même en 1987 parmi des dizaines de guitaristes, elle l'a accompagné pendant dix ans sur ses trois tournées mondiales légendaires : Bad World Tour, Dangerous World Tour, HIStory World Tour.
-C'est elle qui a fait hurler les solos de « Beat It » et « Dirty Diana » devant des stades pleins, elle qui a joué au mythique Super Bowl de 1993 face à 1,5 milliard de téléspectateurs dans 80 pays le show télévisé le plus regardé de l'histoire !!
-Avec sa silhouette iconique et sa crinière blonde reconnaissable entre mille, Jennifer Batten s’est imposée comme l’une des très rares femmes du cercle fermé des guitar heroes, avant de poursuivre sa carrière aux côtés de Jeff Beck puis en solo.
-De l'autre, « This Is Michael », le show qui fait sensation à travers le monde. À sa tête, Lenny Jay, bluffant de ressemblance et d’intensité, redonne vie à Michael Jackson avec une précision troublante : la voix, les gestes, l’énergie, l’aura… tout y est.
-Entouré d’un casting international de danseurs, chanteurs et musiciens, il embarque le public dans une production spectaculaire déjà applaudie par des centaines de milliers de spectateurs.
-La rencontre entre ces deux artistes rendra cette soirée absolument unique au delà du simple hommage à Michael Jackson :  la magie du King reprendra vie le temps d'une soirée.
-Un moment rare. Une date unique en Europe. Un concert dont vous vous souviendrez longtemps...
+###### Alenko — scène Quartier Libre
 
-FRANCK CARDUCCI & THE FANTASTIC SQUAD
-Entre paillettes, énergie brute et mélodies grandioses, Franck Carducci & The Fantastic Squad font exploser le rock en Technicolor. Ce quintette joyeusement excessif transforme chaque concert en un cirque rock’n’roll flamboyant pour le plus grand plaisir de tous. Guitares incendiaires, claviers psychédéliques et voix magnétiques, tout est là pour faire danser, rire et rêver. Avec eux, le rock progressif n’a jamais été aussi fun, aussi flamboyant. Un spectacle où la virtuosité rencontre la fête dont on ressort avec le sourire jusqu’aux oreilles et les cheveux en bataille.
+{{< carousel pictures="pictures/alenko" alt="Alenko" author="mkhelif" >}}
 
-Alenko
-Citoyen du monde aux origines multiples, Alenko s'est imposé comme une figure incontournable de la scène romande. Lauréat de plusieurs distinctions, dont le prix d'Artiste francophone aux Freddie Mercury Live Music Awards, il développe un univers singulier où se rencontrent soul, groove et électro-pop francophone.
-Auteur-compositeur-interprète de six albums, il a donné plus de 450 concerts en Suisse, en France, en Chine et au Brésil, foulant des scènes prestigieuses telles que le Paléo Festival, le Montreux Jazz Festival, le Victoria Hall ou encore le Divan du Monde. Ses chansons aux mélodies accrocheuses ont trouvé un écho sur les ondes de nombreuses radios nationales et internationales, dont France Inter et la RTS, tandis que ses clips remarqués, comme Réversible ou Évasio, affirment une identité artistique libre, colorée et profondément humaine.
-Sur scène, l'alchimie est immédiate. Aux côtés d'Alenko, Keumart — figure majeure du human beatbox franco-suisse et multi-champion national — déploie sa virtuosité rythmique, tandis que Flow insuffle des guitares funky, rock et des solos électrisants. Ensemble, ils proposent un show intense entre groove, émotions et contrastes, porté par une complicité évidente et une énergie communicative.
-Le trio profitera également de cette soirée pour dévoiler en avant-première plusieurs titres inédits de DuAL, le nouvel album d'Alenko attendu à l'automne 2026, offrant au public un aperçu privilégié de cette nouvelle aventure musicale.
-Une invitation à chanter, danser et vibrer au rythme d'une Franco-Pop’n'Groove Électro-Poétique aussi généreuse que surprenante.
+Sur la scène Quartier Libre, Alenko déploie tout au long de la soirée son univers singulier, entre soul, groove et
+électro-pop francophone. Accompagné de sa guitare, de son chant en français et du human beatbox virtuose de Keumart, le
+trio romand installe une alchimie immédiate avec le public. L'occasion aussi de dévoiler en avant-première plusieurs
+titres inédits de « DuAL », son nouvel album attendu à l'automne 2026 — un beau clin d'œil pour clore cette dernière
+soirée sur une note à la fois locale et tournée vers l'avenir.
+
+###### This Is Michael & Jennifer Batten
+
+{{< carousel pictures="pictures/this-is-michael-jennifer-batten" alt="This Is Michael & Jennifer Batten" author="
+mkhelif" >}}
+
+Unique date européenne pour ce featuring aussi inattendu que prometteur sur le papier : Lenny Jay, à la tête de « This
+Is Michael », et Jennifer Batten, légende vivante qui a accompagné Michael Jackson pendant dix ans sur ses tournées
+mondiales, réunis sur une même scène. Le show ne lésine pourtant sur aucun artifice — fumée, feux d'artifice, un drapeau
+français brandi en plein set, une troupe de danseurs et un casting complet (basse, guitare, clavier, batterie, et même
+une chanteuse en renfort du sosie) pour restituer gestes, moonwalk et mimiques iconiques du King of Pop. « Thriller », «
+Billie Jean », « We Are The World » : les tubes s'enchaînent sans interruption pendant deux heures, pensées davantage
+comme une grande célébration à la mémoire de Michael Jackson que comme un concert au sens classique. Mais l'ensemble
+reste étonnamment sage, presque trop appliqué dans sa reconstitution, et peine à véritablement décoller sur la durée. Le
+regret est d'autant plus grand du côté de Jennifer Batten : présente sur scène, elle qui a fait hurler les solos de «
+Beat It » ou « Dirty Diana » devant des stades entiers se retrouve cantonnée à un rôle finalement assez discret, avec
+trop peu d'espace laissé à sa propre virtuosité. On aurait clairement aimé l'entendre davantage s'exprimer en solo,
+plutôt que de la voir engloutie dans une reconstitution qui, à trop vouloir cocher toutes les cases de l'hommage, finit
+par manquer d'un supplément d'âme qu'elle seule, sans doute, pouvait vraiment lui offrir.
 
 
-Et voici les notes prisent pendant les concerts pour agrémenter la chronique (tu n'es pas obligé de les inclure si ça ne suit pas le style de la chronique) :
+###### Franck Carducci & The Fantastic Squad
 
-XXXXX
+{{< carousel pictures="pictures/franck-carducci-fantastic-squad" alt="Franck Carducci & The Fantastic Squad" author="
+mkhelif" >}}
+
+Pour refermer ce Guitare en Scène 2026, Franck Carducci & The Fantastic Squad livrent exactement le genre de spectacle
+promis : un rock en Technicolor, joyeusement excessif et débordant d'énergie. Guitare à double manche à la main, Franck
+Carducci se montre aussi investi que virtuose, allant jusqu'à dégainer une étrange antenne semblant détecter ses
+mouvements sur scène. Ailes de papillon, bulles, danse et une ribambelle d'instruments qui défilent : le quintette
+multiplie les idées scéniques sans jamais se départir de son sens de la mélodie grandiose. Un cirque rock'n'roll
+flamboyant, entre virtuosité et pure fête, qui referme cette dernière soirée du festival sur un sourire jusqu'aux
+oreilles et les cheveux en bataille — la meilleure façon possible de clore cette édition 2026.

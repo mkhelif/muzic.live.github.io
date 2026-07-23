@@ -6,7 +6,7 @@ venue: "598fe61c-2dca-4f48-99c6-0155689c665f"
 title: "Guitare en Scène 2026 - Jour 4 - In Fallow, John Butler, Kool & The Gang, Robben Ford, Jango Janice"
 cover: "pictures/kool-and-the-gang/01.jpg"
 author: "mkhelif"
-rank: XX
+rank: 10
 artists:
   - "7b03caeb-1f0f-4ffc-8803-bd406e51bbbd"
   - "840f6c19-f4ec-4bae-a53c-4e944d963503"
@@ -15,48 +15,67 @@ artists:
   - "d1edfacb-30d1-420f-9f18-3c304c29a591"
 ---
 
-Écris une chronique détaillée de la quatrième soirée du festival Guitare en Scène 2026. Inspires toi d'autres chroniques des groupes présents pour la rédiger.
-Les artistes présents ce soir là sont (dans l'ordre d'apparition) : In Fallow, John Butler, Kool & The Gang et Robben Ford. Jango Janice à la scène quartier libre à l'ouverture et au milieu. 
+Quatrième soirée de ce Guitare en Scène 2026, et une programmation qui ne manque pas de contrastes : la relève locale
+d'In Fallow, la transe folk-blues de John Butler, la machine à danser Kool & The Gang et le blues-jazz tout en élégance
+de Robben Ford. Entre les plateaux, Jango Janice aura tenu la scène Quartier Libre, entre murmures acoustiques et
+grondements électriques.
 
-Inclus les titres (h6 `######`) et les carousels d'images.
+###### In Fallow
 
-Voici les présentations des artistes :
+{{< carousel pictures="pictures/in-fallow" alt="In Fallow" author="mkhelif" >}}
 
-In-fallow
-Né sur les bords du Léman, In Fallow construit une musique entre nostalgie et exploration, quelque part entre math rock, post rock et folk. Cinq ans de travail intense pour accoucher d'un premier album, Fragments : une invitation au voyage portée par une énergie organique et subtile. Le genre de groupe qui te surprend et ne te lâche plus.
-
-JOHN BUTLER
-John Butler fait partie de ces très rares artistes capables de vous couper le souffle dès les premières notes et de vous mettre les larmes aux yeux à chaque solo.
-« Il a changé ma façon de vivre la musique en concert » (Seattleite Magazine). Sa fameuse guitare Maton à 11 cordes devient un orchestre entier sous ses doigts et ses morceaux suspendent le temps.
-Plus de 25 ans de carrière, plusieurs albums dans le top des charts australiens, une trajectoire commencée comme chanteur de rues avant de conquérir Coachella, Glastonbury et autres... : John Butler s'est imposé comme une icône absolue de la scène alternative mondiale.
-Ce gosse de la côte ouest australienne a inventé à lui seul une langue musicale singulière, à la croisée du rock, du folk, du blues et d'une soul ensoleillée.
-Activiste engagé pour la cause environnementale, fondateur de son propre label Jarrah Records, indépendant jusqu'au bout, il incarne une vision du métier que peu d'artistes de sa stature ont su préserver.
-Au programme, ses titres devenus cultes : « Ocean », hypnotique instrumental dont les 65 millions de vues sur YouTube disent l'aura et qui, selon Isolated Nation, « fait s'emballer le cœur d'émotion » dès les premières notes. « Better Than » qui fait taper du pied, « Zebra », « Funky Tonight », « Used To Get High », sans oublier les nouveaux singles « Trippin' On You » et « So Sorry ».
-Son dernier album PRISM marque un tournant majeur : premier disque solo après la dissolution du John Butler Trio, il a été écrit dans la foulée du décès de son père et d'une crise personnelle qu'il qualifie lui-même d'« existentielle ». C'est, sans conteste, l'œuvre la plus poignante de toute sa carrière, une catharsis qui embrasse, dit-il, « toute la palette des émotions humaines : l'amour, la mort, la politique, la tourmente, et la rédemption ».
-Reste l'essentiel, ce que la critique internationale résume d'une même voix : John Butler n'a rien de la posture du show-business.
-Loin du clinquant habituel des stars, il monte sur scène sans esbroufe, presque tranquillement, et prend le temps, entre les morceaux, de raconter une anecdote, de partager une pensée, comme on parle à un vieil ami.
-Sa virtuosité force le respect, son humilité fait le reste. « Le public bondit littéralement de son siège, ovationne, applaudit avec une joie sincère, et l'on repart heureux et entier, avec cette chaleur singulière dans la poitrine que l'on n'oublie plus » (Isolated Nation).
-Ceux qui l'ont déjà vu en concert savent qu'on n'en ressort jamais tout à fait pareil. Pour les autres, il est temps de découvrir pourquoi...
-
-KOOL & THE GANG
-Le 17 juillet, la scène principale se transforme en dancefloor géant : Kool & The Gang débarque à Guitare en Scène pour une soirée qui s'annonce déjà comme l'une des plus festives de l'année !
-Gravée à jamais dans la mémoire collective, la musique de Kool & The Gang a traversé les décennies et fait danser des générations successives avec une recette simple et redoutable : faire de chaque concert une fête pour l'esprit et le corps. 
-« Celebration », « Get Down On It », « Cherish », « Ladies' Night », « Jungle Boogie », « Fresh » : derrière chacun de ces hits universels, une signature reconnaissable entre mille : cuivres flamboyants, basse ronde et groove imparable.
-Et qui n'a jamais entendu « Summer Madness » dans Rocky, « Open Sesame » dans Saturday Night Fever ou encore « Jungle Boogie » dans Pulp Fiction ?
-Formé en 1964 dans le New Jersey par les frères Bell, le groupe fête en 2026 ses 62 ans d'existence, et surtout Robert « Kool » Bell, cofondateur est toujours sur scène pour faire vivre cet héritage.
-Deux Grammy Awards (dont une entrée au Hall of Fame pour le mythique « Celebration »), 7 Music Awards, 31 albums d’or et de platine, une étoile sur le Hollywood Walk of Fame… Peu de groupes peuvent se prévaloir d’un tel palmarès. 
-Ces dernières années, ils ont notamment partagé l'affiche avec Elton John, Kid Rock, The Roots et enchaîné une tournée de 50 villes aux côtés de Van Halen.
-Leur catalogue figure parmi les plus samplés de l'histoire du R&B, Beastie Boys, Jay-Z, Madonna, Janet Jackson, Cypress Hill...  : tous ont puisé dans leurs grooves intemporels.
-Après avoir fait danser le monde entier, Kool & The Gang viendra enflammer Guitare en Scène avec ses plus grands tubes, pour le plus grand plaisir des danseurs.
-Quelle chance de pouvoir vivre ça avec eux : une soirée que personne n’oubliera !
-
-ROBBEN FORD
-Discret et profond, alimenté aux harmonies ciselées et aux bends langoureux, Robben Ford, maître solitaire des cordes usées par le soleil californien, alchimiste d’un blues-jazz qui refuse la facilité brute, est de ces musiciens rares capables de mettre un peu de beauté dans nos vies en ressuscitant l’élégance du groove entre lignes fluides, phrasés murmurés et notes qui pleurent sans hurler. Le voyageur raffiné est de retour avec un nouvel album, «Two shades of blues», et sa maestria douce pour caresser nos nerfs et les faire vibrer doucement, délicatement, afin d’éclairer de mille feux brillants notre nuit étoilée.
-
-JANGO JANICE 
-Entre murmures acoustiques qui glissent comme un vent d’automne sur les cordes et grondements électriques qui claquent comme un orage d’été, Jango Janice trace un sillon double entre folk rêveur et rock viscéral, french touch délicat et groove qui fait trembler le sol. Sa musique est une respiration à deux temps, d’abord ballades intimes qui caressent l’âme, puis riffs qui cognent au plexus, claviers d’émotions qui scintillent et (ré)percussions folles qui réveillent le sang. Chaque note est une vague, chaque silence une attente, chaque explosion une libération. Jango Janice ne compose pas seulement, il réassemble le monde en un son qui reste collé à la peau, vibrant d’une urgence sincère et d’une beauté brute. Le tremblement commence. Il ne s’arrêtera pas.
+Déjà aperçu il y a une quinzaine de jours à Musiques en Stock, le groupe lémanique In Fallow ouvre cette quatrième
+soirée en dernier représentant du tremplin local, avec son rock planant entre math rock, post rock et folk. Une petite
+surprise de dernière minute vient pimenter le passage : le bassiste habituel est absent, remplacé au pied levé par une
+musicienne qui s'intègre pourtant sans accroc à cette formule aussi nostalgique qu'exploratoire. Cinq ans de travail
+auront accouché de leur premier album « Fragments », et ça s'entend : une énergie organique et subtile, qui surprend et
+ne lâche plus une fois qu'elle vous a happé.
 
 
-Et voici les notes prisent pendant les concerts pour agrémenter la chronique (tu n'es pas obligé de les inclure si ça ne suit pas le style de la chronique) :
+###### John Butler
 
-XXXXX
+{{< carousel pictures="pictures/john-butler" alt="John Butler" author="mkhelif" >}}
+
+Il suffit de quelques notes de sa fameuse Maton à onze cordes pour comprendre pourquoi John Butler jouit d'une
+réputation pareille : sous ses doigts, l'instrument devient un orchestre à lui seul, et le temps semble littéralement
+suspendu. Porté par des vibes australiennes authentiques et un discours engagé qui n'a rien d'un simple interlude entre
+deux morceaux, le musicien transforme peu à peu son concert en une véritable transe partagée avec le public. Tout le
+monde se retrouve embarqué, porté par des rythmes qui donnent l'impression de traverser l'outback australien en direct.
+Loin de toute posture de star, John Butler confirme sur scène cette humilité qu'on lui prête tant, entre virtuosité
+désarmante et sincérité de chaque instant.
+
+
+###### Jango Janice — scène Quartier Libre
+
+{{< carousel pictures="pictures/jango-janice" alt="Jango Janice" author="mkhelif" >}}
+
+Sur la scène Quartier Libre, Jango Janice trace tout au long de la soirée ce fameux sillon double qui le caractérise :
+d'abord des murmures acoustiques qui glissent comme un vent d'automne, puis des grondements électriques qui claquent
+comme un orage d'été. Entre folk rêveur et rock viscéral, ses passages offrent une respiration bienvenue au fil de la
+soirée, ballades intimes et riffs qui cognent au plexus se répondant en une urgence sincère et brute. Exactement ce
+qu'on attend d'une parenthèse Quartier Libre réussie.
+
+
+###### Kool & The Gang
+
+{{< carousel pictures="pictures/kool-and-the-gang" alt="Kool & The Gang" author="mkhelif" >}}
+
+La scène principale se transforme en dancefloor géant dès l'entrée en matière de Kool & The Gang, portée par un
+diaporama photo et vidéo qui retrace soixante-deux ans d'histoire du groupe. Sur scène, la formation est XXL (deux
+trompettes, deux saxos, batterie, guitare, basse et clavier) pour restituer dans toute sa splendeur cette signature
+reconnaissable entre mille : cuivres flamboyants, basse ronde et groove imparable. Robert « Kool » Bell, fidèle au poste
+en chemise et pantalon à paillettes, mène la troupe à travers ses hits universels, de « Celebration » à « Jungle
+Boogie » en passant par « Get Down On It ». Une fête pour l'esprit et le corps, comme promis, et sans doute l'une des
+soirées les plus festives de cette édition 2026.
+
+
+###### Robben Ford
+
+{{< carousel pictures="pictures/robben-ford" alt="Robben Ford" author="mkhelif" >}}
+
+Pour refermer cette quatrième soirée, retour au calme et à l'élégance avec Robben Ford. Le guitariste californien,
+alchimiste discret d'un blues-jazz qui refuse toujours la facilité brute, confirme sur scène tout le talent qu'on lui
+prête : un jeu tout en finesse, des phrasés murmurés et des notes qui pleurent sans jamais avoir besoin de hurler. Porté
+par son nouvel album « Two Shades Of Blues », il referme la soirée sur une note délicate et raffinée, à des
+années-lumière de la fête XXL qui l'a précédé. La preuve, s'il en fallait une, que Guitare en Scène sait aussi bien
+faire danser qu'émouvoir.
