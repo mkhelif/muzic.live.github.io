@@ -16,6 +16,8 @@ socials:
   web: "https://avantasia.com/"
   tiktok: ""
   email: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Rares sont les projets musicaux nés d'une intuition solitaire sur une route de tournée qui finissent par remplir le

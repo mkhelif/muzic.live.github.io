@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "73BDzWqbf1grbgQ8xYn2ou"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Ben Mazué, de son vrai nom Benjamin Mazuet, est un auteur-compositeur-interprète français né le 24 janvier 1981 à

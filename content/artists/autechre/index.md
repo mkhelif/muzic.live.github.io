@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6WH1V41LwGDGmlPUhSZLHO"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Autechre est un duo britannique de musique électronique formé en 1987 à Rochdale, dans le Lancashire, par

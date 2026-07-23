@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0EgHhNmWcjusA7F2heSD0O"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Baxter Dury est un musicien anglais né le 18 décembre 1971 à Wingrave, dans le Buckinghamshire. Fils du légendaire

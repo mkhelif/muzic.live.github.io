@@ -69,6 +69,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Battle Beast est un groupe de metal finlandais formé en 2008, qui émerge de la riche scène metal scandinave avec une

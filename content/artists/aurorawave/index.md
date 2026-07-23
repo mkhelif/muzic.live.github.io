@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "5ERzKZCMDsFeH15G80MFSS"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Aurorawave est un groupe de rock américain né de l'imagination de Nathan Feinstein (également connu sous le nom Nathan

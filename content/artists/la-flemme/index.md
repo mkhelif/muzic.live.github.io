@@ -19,6 +19,8 @@ socials:
   x: ""
   youtube: ""
   web: ""
+lastUpdate:
+  bandsintown: 2026-07-23
 ---
 
 Il y a dans le nom de ce groupe une sorte de blague initiale — une manière de déjouer les attentes dès la première

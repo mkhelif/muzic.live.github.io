@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "5zbzDats0HBBPuir5QWKWm"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Assassin est un groupe de thrash metal allemand fondé vers 1985 à Düsseldorf, en Allemagne de l'Ouest. Comptant parmi

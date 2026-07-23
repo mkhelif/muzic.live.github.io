@@ -49,6 +49,8 @@ socials:
   qobuz: ""
   spotify: "3Ri4H12KFyu98LMjSoij5V"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Bad Omens est un groupe de metal américain originaire de Richmond, en Virginie, fondé en

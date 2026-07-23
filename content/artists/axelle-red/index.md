@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Axelle Red, de son vrai nom **Fabienne Demal**, naît le 15 février 1968 à Hasselt, en Belgique, fille d'un avocat

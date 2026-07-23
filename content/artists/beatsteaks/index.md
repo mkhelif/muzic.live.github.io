@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "79qRD2IfSr3pmuYUficMWX"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Les Beatsteaks sont un groupe de rock alternatif allemand originaire de Berlin, fondé en 1995. Formé par Peter

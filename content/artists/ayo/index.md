@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6OkX55UMCw4Hgc5HM4zr7K"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Ayọ — de son vrai nom Joy Olasunmibo Ogunmakin — est une chanteuse, compositrice et actrice

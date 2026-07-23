@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "4jpaXieuls7LVzG1uma5Rs"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Avatar est un groupe de metal suédois fondé en 2001 à Mölndal, sous le nom de Lost Soul, par le

@@ -17,6 +17,8 @@ socials:
   qobuz: "412464"
   spotify: "0CUpzKPDfIVzYqMn47jiV3"
   tidal: "5430289"
+lastUpdate:
+  bandsintown: 2026-07-23
 ---
 
 Curtis Harding est un chanteur et musicien soul américain né le 11 juin 1979 à Saginaw, dans le Michigan, avant que sa

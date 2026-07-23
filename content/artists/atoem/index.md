@@ -18,6 +18,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 ATOEM est un projet musical français qui émerge sur la scène électronique hexagonale avec une approche moderne des

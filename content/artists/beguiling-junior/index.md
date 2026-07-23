@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Beguiling Junior est un groupe britannique né de la rencontre entre la chanteuse et compositrice norvégo-américaine

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "5tDjiBYUsTqzd0RkTZxK7u"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Ben Böhmer est un producteur et DJ allemand né en 1993 à Göttingen, figure majeure de la scène melodic house et

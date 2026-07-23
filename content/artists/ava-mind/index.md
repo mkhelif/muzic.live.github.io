@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Ava Mind, de son vrai nom connue par son pseudonyme AVAMind, est née le 1er mars 1992 à Toulouse. Personnalité

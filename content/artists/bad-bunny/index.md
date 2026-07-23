@@ -18,6 +18,8 @@ socials:
   email: ""
 todo:
   - Add picture
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il s'appelle **Benito Antonio Martínez Ocasio**, il est né le 10 mars 1994 à Vega Baja, Puerto Rico, et il a changé la

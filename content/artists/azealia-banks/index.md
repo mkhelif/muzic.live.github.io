@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "7gRhy3MIPHQo5CXYfWaw9I"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Azealia Amanda Banks est une rappeuse, chanteuse et compositrice américaine née le

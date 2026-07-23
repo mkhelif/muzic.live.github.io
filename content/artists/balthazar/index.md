@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "4oMBP1OWXtmxyDhAj2aRyQ"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Balthazar est un groupe de rock indie belge originaire de Courtrai (Kortrijk), en

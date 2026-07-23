@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1vJHfCreWAS46V8RZ67ojo"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Ben Klock est un DJ et producteur de techno né en 1972 dans le quartier de Schöneberg, à Berlin-Ouest. Pilier de la

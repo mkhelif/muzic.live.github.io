@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "4ddt8PPvmWrI9mJQy1VrIG"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Band of Skulls est un groupe de rock anglais fondé en 2002 à Southampton,

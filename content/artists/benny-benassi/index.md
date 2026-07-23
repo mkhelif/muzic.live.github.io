@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "4Ws2otunReOa6BbwxxpCt6"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Benny Benassi, de son vrai nom Marco Benassi, est un DJ et producteur italien né le 13 juillet 1967 à Milan, originaire

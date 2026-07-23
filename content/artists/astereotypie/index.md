@@ -17,6 +17,8 @@ socials:
   spotify: ""
   tidal: ""
 cover: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Astéréotypie est un groupe de post-punk inclassable et profondément humain, né en 2010 au sein de l'Institut

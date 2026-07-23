@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Babyshambles est un groupe de rock anglais fondé à Londres par Pete Doherty,

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "0yhpelQ5TqFlhKSK7fEI0s"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Baba Shrimps est un groupe de pop-rock suisse originaire de Zurich, fondé il y a

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6wjkiUBMMYSIx5UBTp7eKC"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Bekar est un rappeur français originaire de Roubaix, dans le Nord de la France. Issu d'un territoire marqué par

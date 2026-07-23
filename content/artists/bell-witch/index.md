@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "6lZ0xXnt7D1JXxv03XLX0K"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Bell Witch est un groupe de doom metal américain originaire de Seattle, dans l'État de Washington, fondé en

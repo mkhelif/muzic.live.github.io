@@ -18,6 +18,8 @@ socials:
   email: ""
 todo:
   - Add cover from concert picture
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il y a un son qui n'appartient qu'à lui. Un son qui vient d'ailleurs — d'un instrument que presque personne n'utilisait

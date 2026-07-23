@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Beirut est un projet indie folk américain fondé à Santa Fe, au Nouveau-Mexique, en 2006, par le chanteur, compositeur et

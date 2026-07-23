@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "4S2qftLTvdEFvIPPTYmeg6"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Aura Noir est un groupe de black/thrash metal norvégien originaire d'Oslo, fondé en 1993 par Aggressor (Carl-Michael

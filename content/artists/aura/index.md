@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 AURA est un groupe de metal français dont la musique se situe entre le post-metal atmosphérique et les sonorités sludge,

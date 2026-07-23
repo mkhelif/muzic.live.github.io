@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Banbz est un DJ et producteur de house et tech house originaire de Brest, en Bretagne.

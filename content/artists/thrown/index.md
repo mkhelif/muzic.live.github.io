@@ -40,4 +40,6 @@ socials:
   tidal: ""
 todo:
   - Add detailed description
+lastUpdate:
+  bandsintown: 2026-07-23
 ---

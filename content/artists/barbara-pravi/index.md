@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3L4wiBOSDLkJ18OISXZDA8"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Barbara Piévic, connue sous le nom de Barbara Pravi, est une chanteuse,

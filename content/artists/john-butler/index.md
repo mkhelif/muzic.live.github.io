@@ -19,6 +19,8 @@ socials:
   email: ""
 todo:
   - Add cover from concert
+lastUpdate:
+  bandsintown: 2026-07-23
 ---
 
 Il y a une vidéo sur YouTube qui cumule plus de 30 millions de vues. Pas de clip léché, pas de production
