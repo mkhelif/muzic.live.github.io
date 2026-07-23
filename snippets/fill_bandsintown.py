@@ -52,6 +52,13 @@ REQUEST_DELAY = 1.0
 # Process at most this many artists (0 = no limit). Handy for a first test run.
 LIMIT = 10
 
+# Front-matter key (under `lastUpdate`) recording when we last *searched*
+# Bandsintown for an artist's id. Kept separate from the `bandsintown` key that
+# bandsintown.py uses for event fetches, so the two operations never interfere.
+# Artists searched within the last week are skipped, to avoid re-searching the
+# many artists that have no Bandsintown page.
+LOOKUP_PROVIDER = "bandsintown-lookup"
+
 # Bandsintown resolves an artist's vanity slug to its numeric page, e.g.
 #   https://www.bandsintown.com/a-perfect-circle  ->  /a/432-a-perfect-circle
 # We build that slug from the artist title, follow the redirect, read the numeric
@@ -167,7 +174,7 @@ def main():
     # Collect the artists missing a bandsintown id up front, so we can report a
     # total and show per-artist progress.
     candidates = []
-    skipped_have = parse_errors = 0
+    skipped_have = skipped_fresh = parse_errors = 0
     for slug in sorted(listdir("./content/artists")):
         file = Path(f"./content/artists/{slug}/index.md")
         if not file.exists():
@@ -186,6 +193,10 @@ def main():
         name = data.get("title")
         if not name:
             continue
+        # Skip artists we already searched within the last week.
+        if not utils.is_stale(data, LOOKUP_PROVIDER):
+            skipped_fresh += 1
+            continue
         candidates.append((file, name))
 
     if LIMIT:
@@ -193,8 +204,9 @@ def main():
 
     total = len(candidates)
     print(
-        f"Artists missing a bandsintown id: {total} "
-        f"(already have: {skipped_have}). "
+        f"Artists to search on Bandsintown: {total} "
+        f"(already have id: {skipped_have}, "
+        f"searched within the last week: {skipped_fresh}). "
         f"Mode: {'DRY-RUN' if DRY_RUN else 'WRITE'}."
     )
     if total == 0:
@@ -231,9 +243,13 @@ def main():
         elif status == "ambiguous":
             print(f"{prefix} ? {name}: several matching ids, skipped")
             ambiguous += 1
+            if not DRY_RUN:
+                utils.set_last_update(file, LOOKUP_PROVIDER)
         else:
             print(f"{prefix} - {name}: no match")
             no_match += 1
+            if not DRY_RUN:
+                utils.set_last_update(file, LOOKUP_PROVIDER)
 
         sleep(REQUEST_DELAY)
 
@@ -241,7 +257,8 @@ def main():
         "\nDone. "
         f"{'would fill' if DRY_RUN else 'filled'}={filled}, "
         f"no_match={no_match}, ambiguous={ambiguous}, "
-        f"already_had={skipped_have}, errors={errors + parse_errors}"
+        f"already_had={skipped_have}, searched_recently={skipped_fresh}, "
+        f"errors={errors + parse_errors}"
     )
     if DRY_RUN and filled:
         print("DRY_RUN is on — set DRY_RUN = False to write these ids.")
