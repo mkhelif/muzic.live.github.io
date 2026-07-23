@@ -352,6 +352,10 @@ if __name__ == "__main__":
         if not bandsintown_id:
             continue
 
+        # Skip artists already refreshed from Bandsintown within the last week.
+        if not utils.is_stale(data, "bandsintown"):
+            continue
+
         name = data.get("title", None)
         print(name)
         try:
@@ -359,6 +363,8 @@ if __name__ == "__main__":
                 created = write_event(event, name)
                 if created is not None:
                     print(f"  + {created}")
+            # Mark this artist as refreshed from Bandsintown today.
+            utils.set_last_update(file, "bandsintown")
         except utils.CloudflareBlocked as blocked:
             print(f"\n{blocked}")
             break

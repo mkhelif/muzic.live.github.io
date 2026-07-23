@@ -17,6 +17,7 @@ All file paths are relative to the repository root, so run the importing scripts
 from there.
 """
 
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from unidecode import unidecode
 
@@ -85,6 +86,95 @@ def load_frontmatter(file):
     except Exception as error:
         print(f"Failed to load frontmatter for {file}")
         raise error
+
+
+# ---------------------------------------------------------------------------
+# Per-provider update tracking.
+#
+# Each fiche records when a provider last refreshed it:
+#
+#     lastUpdate:
+#       spotify: 2026-07-24
+#       bandsintown: 2026-07-24
+#
+# Importers call is_stale() to skip artists refreshed within the last week and
+# set_last_update() to stamp the fiche after a successful check.
+# ---------------------------------------------------------------------------
+
+STALE_AFTER_DAYS = 7
+
+
+def _parse_date(value):
+    """Coerce a YAML date / datetime / string into a ``date``, or None."""
+    if isinstance(value, datetime):
+        return value.date()
+    if isinstance(value, date):
+        return value
+    text = str(value).strip()
+    try:
+        return datetime.fromisoformat(text).date()
+    except ValueError:
+        for fmt in ("%Y-%m-%d", "%Y/%m/%d"):
+            try:
+                return datetime.strptime(text, fmt).date()
+            except ValueError:
+                continue
+    return None
+
+
+def last_update(data, provider):
+    """Return the stored ``lastUpdate.<provider>`` value, or None."""
+    updates = data.get("lastUpdate")
+    return updates.get(provider) if isinstance(updates, dict) else None
+
+
+def is_stale(data, provider, today=None, max_age_days=STALE_AFTER_DAYS):
+    """True if ``provider`` never refreshed this fiche, or did so at least
+    ``max_age_days`` days ago."""
+    value = last_update(data, provider)
+    stamped = _parse_date(value) if value not in (None, "") else None
+    if stamped is None:
+        return True
+    today = today or date.today()
+    return (today - stamped).days >= max_age_days
+
+
+def set_last_update(file, provider, when=None):
+    """Stamp ``lastUpdate.<provider>`` in the fiche at ``file`` (a Path) with
+    ``when`` (defaults to today), editing the YAML in place with a minimal diff."""
+    when = when or date.today()
+    value = when.isoformat() if isinstance(when, (date, datetime)) else str(when)
+    file.write_text(_upsert_last_update(file.read_text(), provider, value))
+
+
+def _upsert_last_update(text, provider, value):
+    block = re.search(r"^lastUpdate:[ \t]*\n", text, re.MULTILINE)
+    if block:
+        start = block.end()
+        following = re.search(r"^(?=\S)", text[start:], re.MULTILINE)
+        end = start + following.start() if following else len(text)
+        segment = text[start:end]
+        line = re.search(
+            rf"^([ \t]+){re.escape(provider)}:.*$", segment, re.MULTILINE
+        )
+        if line:
+            segment = (
+                segment[:line.start()]
+                + f"{line.group(1)}{provider}: {value}"
+                + segment[line.end():]
+            )
+        else:
+            segment = f"  {provider}: {value}\n" + segment
+        return text[:start] + segment + text[end:]
+
+    # No lastUpdate block yet: add one just before the front-matter closing '---'.
+    if not text.startswith("---"):
+        return text
+    closing = re.search(r"\n---[ \t]*(?:\n|$)", text)
+    if not closing:
+        return text
+    insert_at = closing.start() + 1
+    return text[:insert_at] + f"lastUpdate:\n  {provider}: {value}\n" + text[insert_at:]
 
 
 # ---------------------------------------------------------------------------

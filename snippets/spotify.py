@@ -22,7 +22,9 @@ from utils import (
     format_filename,
     get_or_create_artist,
     get_or_create_location,
+    is_stale,
     load_frontmatter,
+    set_last_update,
     translate,
 )
 
@@ -158,6 +160,10 @@ if __name__ == '__main__':
         if spotifyId is None:
             continue
 
+        # Skip artists already refreshed from Spotify within the last week.
+        if not is_stale(data, "spotify"):
+            continue
+
         print(f"{name}")
         try:
             concerts = get_artist_concerts(spotifyId)
@@ -194,5 +200,8 @@ artists:
   - {artists_list}
 ---
 """, encoding = "UTF-8")
+
+            # Mark this artist as refreshed from Spotify today.
+            set_last_update(file, "spotify")
         except Exception:
             print(traceback.format_exc())

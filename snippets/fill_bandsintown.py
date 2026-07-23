@@ -52,7 +52,7 @@ DRY_RUN = False
 REQUEST_DELAY = 1.0
 
 # Process at most this many artists (0 = no limit). Handy for a first test run.
-LIMIT = 0
+LIMIT = 10
 
 # Bandsintown resolves an artist's vanity slug to its numeric page, e.g.
 #   https://www.bandsintown.com/a-perfect-circle  ->  /a/432-a-perfect-circle
