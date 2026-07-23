@@ -22,5 +22,6 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---

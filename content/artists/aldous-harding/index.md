@@ -3,6 +3,7 @@ id: "18e6547e-5e9f-4d45-b840-856e7afb9e29"
 title: "Aldous Harding"
 type: person
 socials:
+  bandsintown: "3766560"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---
 
