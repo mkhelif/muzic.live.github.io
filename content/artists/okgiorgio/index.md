@@ -4,11 +4,11 @@ title: "OkGiorgio"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "okgiorgio"
   tiktok: ""
   x: ""
   youtube: ""
-  web: ""
+  web: "https://okgiorgio.com/"
   email: ""
   amazon: ""
   apple: ""
