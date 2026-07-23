@@ -38,6 +38,8 @@ socials:
   qobuz: ""
   spotify: "5Rl15oVamLq7FbSb0NNBNy"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 5 Seconds of Summer, souvent abrégé en 5SOS, est un groupe australien de pop rock et pop punk formé à Sydney en

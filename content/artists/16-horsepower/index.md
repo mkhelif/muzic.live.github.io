@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 16 Horsepower est un groupe américain de gothic country et d'americana fondé en 1992 à Los Angeles, puis établi à

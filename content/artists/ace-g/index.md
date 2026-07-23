@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Ace G est un artiste musical actif sur les réseaux sociaux et les plateformes de streaming. Sa musique

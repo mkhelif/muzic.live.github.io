@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "0aXaZj4wB5jLF2E2d8WEVi"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 47Ter est un groupe de hip-hop français formé à Bailly, dans les Yvelines, composé du trio **Pierre-Paul, Blaise et

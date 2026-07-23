@@ -21,6 +21,8 @@ cover: ""
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Acid Arab est un collectif français de musique électronique fondé en 2012 à Paris par les DJs Guido Minisky et Hervé

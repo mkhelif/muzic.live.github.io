@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "3o7vOXPu0DxO9TB84CoIgE"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Adés The Planet, de son vrai nom Adé, est une artiste franco-ivoirienne qui fusionne rap et trap dans une écriture

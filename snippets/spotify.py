@@ -1,19 +1,11 @@
 #!/usr/bin/env python3
 
+import traceback
 from datetime import datetime
 from os import listdir
 from pathlib import Path
 
-import hashlib
-import hmac
-import json
-import re
-import secrets
-import struct
-import time
-
 import requests
-import traceback
 
 from utils import (
     ARTISTS,

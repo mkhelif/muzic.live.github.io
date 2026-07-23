@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 200 Stab Wounds est un groupe américain de death metal fondé en 2019 à Cleveland, dans l'Ohio. Portant haut les couleurs

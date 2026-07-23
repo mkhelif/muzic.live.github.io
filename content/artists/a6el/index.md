@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 a6el est un rappeur suisse romand né en 2005 à Renens, dans le canton de Vaud, dont la trajectoire fulgurante illustre

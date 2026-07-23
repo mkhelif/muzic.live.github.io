@@ -20,6 +20,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 A Small District est un groupe de nu-metal suisse fondé en 2012, qui s'est construit au fil des années une solide

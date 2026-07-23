@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 A-Trak est un DJ et producteur canadien né à Montréal sous le nom d'Alain Macklovitch, considéré comme l'un des

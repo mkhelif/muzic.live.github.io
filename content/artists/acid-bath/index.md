@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Acid Bath est un groupe américain de sludge metal fondé en 1991 à Houma, en Louisiane. Actif pendant seulement six ans

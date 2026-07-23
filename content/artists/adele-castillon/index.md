@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Adèle Castillon est une chanteuse, actrice et compositrice française née le 24 août 2001. Cette jeune artiste s'est

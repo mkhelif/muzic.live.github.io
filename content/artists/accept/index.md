@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Accept est un groupe de heavy metal allemand originaire de Solingen, en Rhénanie-du-Nord-Westphalie, dont les racines

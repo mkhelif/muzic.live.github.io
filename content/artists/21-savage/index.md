@@ -21,4 +21,6 @@ todo:
   - Add picture
   - Add socials
   - Add detailed description
+lastUpdate:
+  spotify: 2026-07-23
 ---

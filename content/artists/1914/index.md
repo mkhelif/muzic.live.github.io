@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "0IpKWttPlwhd7Cevxsh1Bz"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 1914 est un groupe de metal ukrainien fondé en 2014 à Lviv, dans l'ouest de l'Ukraine, par le guitariste et

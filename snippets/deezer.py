@@ -8,7 +8,7 @@ import requests
 import utils
 
 # Configure authentication token
-ACCESS_TOKEN="Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6Imp3dC1rZXktMjAyMDA0IiwidHlwIjoiSldUIn0.eyJ1c2VySWQiOiI1MTk5MzMzMzAyIiwiYXBwSWQiOjYzMjM4NCwic2NvcGVzIjpbImFsbCJdLCJpc3MiOiJEZWV6ZXIgQXV0aCBTZXJ2aWNlIiwiZXhwIjoxNzc2MTk4ODkyLCJpYXQiOjE3NzYxOTg1MzJ9.hASmtiHKCwAplktV7L0SPP_64wRytq2KVExvX2tDYFVIetmUe7FDMQr7AnPkchXACJrOdM3iac8vynRH3kWGFkHp7KpuQeYtXNQYw9OPWJOCzRea1ev9pWl88iNB6SK9Lp2wD-MzS7e8Pe3mOGQ5n39CwQFk2jV1V1AWcR_BEy22S2mmGt2pcLFhl4_vxDipBPEJEJnlmtELyhLoL0LyHpdAk1oZQO-PJHK3xO18Rt6AFhlHw3HrlqbIadNjsngLngQkRy6E36AZkAAJA5hGVkNsLpGM9x-JBIrx8BvgAcUt6RT5NTDnIgu-djTQW-uwkrAPMRITMZyOPaVFWlMc4Q"
+ACCESS_TOKEN="Bearer "
 
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:149.0) Gecko/20100101 Firefox/149.0",

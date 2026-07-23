@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "4s8thwd54lskRtbVXTIaDh"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Adam Angst est un groupe de punk rock allemand fondé en 2014, dont la musique renoue avec les racines

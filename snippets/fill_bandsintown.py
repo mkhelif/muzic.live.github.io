@@ -25,21 +25,19 @@ Run from the repository root::
     python3 snippets/fill_bandsintown.py
 """
 
-from os import listdir
-from pathlib import Path
-from time import sleep
-
 import html
 import re
 import sys
 import traceback
+from os import listdir
+from pathlib import Path
+from time import sleep
 
-from unidecode import unidecode
 import frontmatter
+from unidecode import unidecode
 
 # Shared HTTP session + Cloudflare handling.
 import utils
-
 
 # ---------------------------------------------------------------------------
 # Configuration

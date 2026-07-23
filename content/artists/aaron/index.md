@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 AaRON est un duo musical français formé en 2004, composé du chanteur, pianiste et compositeur Simon Buret

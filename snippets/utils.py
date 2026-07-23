@@ -17,18 +17,16 @@ All file paths are relative to the repository root, so run the importing scripts
 from there.
 """
 
-from datetime import date, datetime, timedelta
-from pathlib import Path
-from unidecode import unidecode
-
 import gettext
 import re
 import uuid
+from datetime import date, datetime
+from pathlib import Path
 
 import frontmatter
 import pycountry
 import requests
-
+from unidecode import unidecode
 
 # ---------------------------------------------------------------------------
 # Country lookup (French names + ISO alpha-3 codes), keyed by alpha-2.

@@ -27,19 +27,17 @@ Run it from the repository root (paths are relative)::
     python3 snippets/bandsintown.py
 """
 
-from datetime import datetime
-from os import listdir
-from pathlib import Path
-
 import json
 import re
 import traceback
 import uuid
+from datetime import datetime
+from os import listdir
+from pathlib import Path
 
 import pycountry
 
 import utils
-
 
 # ---------------------------------------------------------------------------
 # Configuration

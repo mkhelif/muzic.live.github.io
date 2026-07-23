@@ -34,7 +34,6 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
-
 ROOT = Path(__file__).resolve().parents[1]
 ARTISTS_DIR = ROOT / "content" / "artists"
 

@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Abd al Malik, né Régis Fayette-Mikano le 14 mars 1975 à Paris (14e arrondissement) d'un père haut fonctionnaire

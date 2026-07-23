@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "6lM3Lss7HI9Zpq4d4GqjIG"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Aaron Rowe est un auteur-compositeur-interprète irlandais originaire de Monkstown Farm, dans le quartier de

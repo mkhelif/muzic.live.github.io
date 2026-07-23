@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Adriatique est un duo de DJs et producteurs suisses formé à Zurich, composé d'Adrian Shala et Adrian Schweizer. Le nom

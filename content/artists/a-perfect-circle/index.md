@@ -76,6 +76,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 A Perfect Circle est un groupe de rock américain fondé en 1999 à Los Angeles, Californie, par le guitariste Billy

@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "0AEBRx3y4B0koeEzVRNQEZ"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Aälma Dili est un collectif musical français fondé en 2012, qui parcourt la France et l'Europe avec une
