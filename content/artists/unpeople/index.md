@@ -31,7 +31,7 @@ members:
       - start: 2023
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "weareunpeople"
   tiktok: ""
   x: ""
   youtube: ""

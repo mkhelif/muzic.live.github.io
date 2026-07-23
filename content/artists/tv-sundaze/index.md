@@ -3,21 +3,21 @@ id: "35ba7d4d-ad83-4ef2-a150-8ce03299a7f0"
 title: "TV Sundaze"
 type: band
 socials:
-  facebook: ""
-  instagram: ""
+  facebook: "tvsundaze"
+  instagram: "tvsundaze"
   tiktok: ""
+  threads: "@tvsundaze"
   x: ""
-  youtube: ""
+  youtube: "@tvsundaze"
+  bandcamp: "tvsundaze"
   web: ""
-  email: ""
+  email: "tvsundaze@gmail.com"
   amazon: ""
-  apple: ""
+  apple: "1500408654"
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "5ij8GBVsVcmaMANFC8KkLM"
   tidal: ""
 todo:
-  - Add picture
-  - Add socials
   - Add description
 ---

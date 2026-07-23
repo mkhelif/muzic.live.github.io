@@ -31,18 +31,18 @@ members:
     periods:
       - start: 2011
 socials:
-  facebook: ""
-  instagram: ""
+  facebook: "feu.chatterton"
+  instagram: "feuchatterton"
   tiktok: ""
-  x: ""
+  x: "feuchatterton"
   youtube: ""
-  web: ""
-  email: ""
+  web: "http://www.feuchatterton.fr/"
+  email: "feuchatterton@gmail.com"
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "5623138"
   qobuz: ""
-  spotify: ""
+  spotify: "538TfjnJpRXI80MHYWfKlo"
   tidal: ""
 ---
 

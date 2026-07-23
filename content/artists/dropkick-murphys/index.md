@@ -2,6 +2,106 @@
 id: "3cf2ec45-61e8-4911-bd47-329696e73fb7"
 title: "Dropkick Murphys"
 type: band
+members:
+  - id: "1aaaadf2-2a67-40ea-a393-15b365a37d23"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 1996
+  - id: "af3f94b7-b854-4347-8f97-b0e93521d972"
+    roles:
+      - drums
+      - sing
+    periods:
+      - start: 1997
+  - id: "9137f73b-8a37-4be6-a9f3-ac38b037cc87"
+    roles:
+      - sing
+    periods:
+      - start: 1999
+  - id: "e45ea444-fe33-4fbf-bff5-c7bb879cd76e"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2000
+  - id: "18ae616f-98cc-4150-bf88-757e7511a3da"
+    roles:
+      - guitar
+      - keys
+      - sing
+    periods:
+      - start: 2003
+  - id: "ca8901b4-3ab2-485f-b63f-663752277523"
+    roles:
+      - guitar
+      - keys
+      - sing
+    periods:
+      - start: 2008
+  - id: "67c469ab-bb58-4d6c-96d0-c6761cb684e2"
+    roles:
+      - other
+    periods:
+      - start: 2022
+  - id: "cdbdd175-b80c-45a0-966b-4b8f0a111060"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2023
+  - id: "8aa72474-6efa-4e32-89ad-ae4d03cacc45"
+    roles:
+      - drums
+    periods:
+      - start: 1996
+        end: 1997
+  - id: "616ccf68-e6e6-4b45-ab20-acd86b00259a"
+    roles:
+      - sing
+    periods:
+      - start: 1996
+        end: 1998
+  - id: "aa21d603-1658-4c12-a37e-70baa35589b6"
+    roles:
+      - guitar
+    periods:
+      - start: 1996
+        end: 2001
+      - start: 2007
+        end: 2007
+  - id: "3af97a10-63bd-4c18-80fe-befd8639cc99"
+    roles:
+      - other
+    periods:
+      - start: 2000
+        end: 2003
+  - id: "950c81bb-19ad-4005-9406-593c1957d50c"
+    roles:
+      - other
+    periods:
+      - start: 2000
+        end: 2003
+  - id: "f1b86a83-1ccc-4343-b93c-47adfd9caa06"
+    roles:
+      - guitar
+      - keys
+    periods:
+      - start: 2000
+        end: 2008
+  - id: "98a97010-b5e2-4dcc-a0fa-00cfcec45354"
+    roles:
+      - other
+    periods:
+      - start: 2003
+        end: 2015
+  - id: "d495a846-6b02-45ff-993c-ed22af36add2"
+    roles:
+      - other
+    periods:
+      - start: 2014
+        end: 2022
 socials:
   facebook: ""
   instagram: ""

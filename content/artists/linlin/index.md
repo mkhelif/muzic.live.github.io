@@ -16,8 +16,19 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 ---
+
+Linlin est une artiste parisienne qui glisse entre rap et vibrations électroniques, attirée par les beats
+tranchants et une esthétique visuelle affirmée.
+
+###### Du chant à la production
+
+Née à Paris, Linlin développe très tôt une passion pour le chant puis pour la production musicale, une double
+compétence qui structure aujourd'hui son écriture entre rap et électro. Cette approche hybride lui permet de
+naviguer d'un registre à l'autre sans jamais s'enfermer dans un genre unique.
+
+###### Des singles remarqués
+
+Elle construit son parcours à travers plusieurs singles, dont une collaboration remarquée avec Ino Casablanca.
+Linlin se produit au Paléo Festival Nyon, dans la catégorie rap de la programmation 2026, aux côtés d'artistes
+comme Jok'Air, La Valentina ou Dope Saint Jude.

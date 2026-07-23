@@ -16,8 +16,20 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 ---
+
+RUSH AVENUE est un duo français de DJs et producteurs spécialisé dans l'afro house et la tribal house.
+
+###### Deux carrières solo qui fusionnent
+
+Avant de former RUSH AVENUE, les deux membres du duo ont chacun mené une carrière solo, cumulant à eux deux plus
+de 400 millions d'écoutes. C'est en unissant leurs forces qu'ils trouvent une alchimie nouvelle, faite de
+productions et de remixes taillés pour la scène électronique afro et tribale.
+
+###### Un remix viral
+
+Leurs remixes se propagent rapidement sur les réseaux sociaux et attirent l'attention de figures majeures de la
+scène électronique internationale, comme Keinemusik, Dimitri Vegas & Like Mike, HUGEL, Zerb ou Mahmut Orhan. Leur
+reprise du tube des Spice Girls "Wannabe" devient particulièrement virale, se hissant en tête des classements
+SoundCloud et confirmant la capacité du duo à faire dialoguer nostalgie pop et énergie électronique
+contemporaine.

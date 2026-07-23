@@ -1,15 +1,15 @@
 ---
 id: "937a55f6-d2e4-4438-887e-3f68fa77549b"
-title: "SKALD"
-type: unknown
+title: "SKÁLD"
+type: band
 socials:
-  facebook: ""
-  instagram: ""
+  facebook: "skaldvikings"
+  instagram: "skaldvikings"
   tiktok: ""
   x: ""
   youtube: ""
-  web: ""
-  email: ""
+  web: "https://skald.com/"
+  email: "skaldvikings@gmail.com"
   amazon: ""
   apple: ""
   deezer: ""

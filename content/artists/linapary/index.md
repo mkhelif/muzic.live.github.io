@@ -16,8 +16,18 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 ---
+
+Linapary est une artiste originaire de la côte caribéenne de la Colombie, aujourd'hui basée à Madrid.
+
+###### Une maîtrise du perreo
+
+Linapary a fait du perreo, ce sous-genre dansant du reggaeton, sa spécialité, qu'elle surcharge de l'énergie
+brûlante de la guaracha et de rythmes tribaux empruntés à ses racines caribéennes. Cette hybridation donne à sa
+musique une intensité physique immédiatement reconnaissable, pensée pour la scène et la danse.
+
+###### Entre mélancolie et affirmation de soi
+
+Son écriture glisse sans effort entre romance, mélancolie et hymnes farouchement affirmateurs de soi, un
+équilibre qui traduit un parcours entre plusieurs cultures et plusieurs continents. Linapary se produit
+notamment au Paléo Festival Nyon, dans la catégorie électro de la programmation 2026.

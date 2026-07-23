@@ -16,8 +16,20 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-todo:
-  - Add description
-  - Add picture
-  - Add socials
 ---
+
+Mathilda est une autrice-compositrice-interprète française dont la pop aérienne, teintée de textures
+électroniques, s'est fait connaître grâce au succès de son titre "ILOVEYOU".
+
+###### Une pop cinématographique
+
+Chaque chanson de Mathilda est pensée comme une scène de cinéma : entre pop française, influences électroniques
+et sens aigu de la narration, elle façonne un univers mélancolique et lumineux qui tranche par sa singularité.
+Son single "Flashback", en featuring avec le rappeur Dinos, confirme ce talent pour réinventer les contours de
+la pop contemporaine, dans un équilibre entre émotion brute et élégance à la française.
+
+###### Une tournée estivale
+
+Mathilda multiplie les dates en festival durant l'été 2026, à la Fête du Cognac le 24 juillet, puis au Festival
+de Thau à Mèze, avant d'assurer la première partie de Christophe Maé aux Arènes de Bayonne. Une programmation qui
+confirme sa montée en puissance sur les scènes estivales françaises.

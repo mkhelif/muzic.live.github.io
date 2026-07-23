@@ -4,17 +4,18 @@ title: "Max Baby"
 type: person
 socials:
   facebook: ""
-  instagram: ""
-  tiktok: ""
+  instagram: "maxrbaby"
+  tiktok: "@maxrbaby"
+  threads: "@maxrbaby"
   x: ""
-  youtube: ""
+  youtube: "@MaxBabyOfficial"
   web: ""
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "123592132"
   qobuz: ""
-  spotify: ""
+  spotify: "0ofOICmdTikzuZtaYALygA"
   tidal: ""
 ---
 

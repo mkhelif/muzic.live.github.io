@@ -22,18 +22,19 @@ members:
       - start: 1985
         end: 1988
 socials:
-  facebook: ""
-  instagram: ""
+  facebook: "theyounggods"
+  instagram: "theyounggodsmusic"
   tiktok: ""
-  x: ""
-  youtube: ""
-  web: ""
-  email: ""
+  x: "theyounggods"
+  youtube: "@YounggodsZTUBE"
+  soundcloud: "younggods-remixes"
+  web: "https://www.younggods.com/"
+  email: "cesare@twoflow.com"
   amazon: ""
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "1xF9B1eiCKUejBnEE9k3sY"
   tidal: ""
 ---
 

@@ -3,18 +3,18 @@ id: "e86f504d-e9a4-447c-be45-00194ccc3147"
 title: "Ditter"
 type: band
 socials:
-  facebook: ""
-  instagram: ""
+  facebook: "dittertheband"
+  instagram: "ditter_theband"
   tiktok: ""
   x: ""
   youtube: ""
   web: ""
-  email: ""
+  email: "dittertheband@gmail.com"
   amazon: ""
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "2XQrzLnabbe3OLJOctSvSQ"
   tidal: ""
 ---
 

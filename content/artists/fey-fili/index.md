@@ -16,8 +16,20 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 ---
+
+Fey Fili est une autrice-compositrice-interprète folk-country émergente, révélée en 2026 par ses premières
+parties remarquées.
+
+###### Une entrée en scène fracassante
+
+Fey Fili se fait connaître en assurant la première partie de Zach Bryan à Anfield, à Liverpool, pour ce qui
+constitue son tout premier concert en stade. Elle y interprète notamment une chanson originale, écrite sur un
+ex qu'elle décrit sans détour comme "a two-timin' frog-lookin' rat" — une déclaration qui résume bien l'humour
+mordant de son écriture folk-country.
+
+###### Une artiste à suivre
+
+Cette performance, décrite comme une véritable percée, la place parmi les artistes émergentes les plus attendues
+de l'année 2026. Encore au tout début de sa carrière, Fey Fili construit sa notoriété scène après scène,
+profitant de la visibilité offerte par les tournées de stars confirmées de la scène folk et country américaine.

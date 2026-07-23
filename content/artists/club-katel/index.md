@@ -4,7 +4,7 @@ title: "Club Katel"
 type: unknown
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "club.katel"
   tiktok: ""
   x: ""
   youtube: ""
