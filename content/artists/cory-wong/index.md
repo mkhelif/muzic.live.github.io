@@ -17,6 +17,8 @@ socials:
   spotify: "6xt9sJmmyYwWkJv8A6ssiU"
   tidal: ""
 cover: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Cory Wong est un guitariste, compositeur et producteur américain né à Poughkeepsie, dans l'État de New York,

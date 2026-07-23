@@ -39,6 +39,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Da Cruz est un groupe français de reggae-hip-hop formé à Lyon dans les années 90, né de la rencontre entre musiciens

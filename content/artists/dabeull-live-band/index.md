@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Dabeull, de son vrai nom David Saïd, est né le 9 août 1985 à Paris. Producteur, chanteur et DJ, il

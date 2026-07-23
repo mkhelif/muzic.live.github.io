@@ -1,11 +1,11 @@
 ---
-id: "3bf2bcae-c6fb-4c83-9535-e840876e4370"
-title: "Dave Sieling"
-type: person
+id: "ea5ace85-7619-4fd0-8126-a9dbc9968b0f"
+title: "Schizophrenia"
 socials:
   facebook: ""
   instagram: ""
   tiktok: ""
+  threads: ""
   x: ""
   youtube: ""
   web: ""
@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  spotify: 2026-07-23
+todo:
+  - Add picture
+  - Add socials
+  - Add description
 ---

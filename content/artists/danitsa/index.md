@@ -17,6 +17,8 @@ socials:
   email: "contact@danitsa.com"
   x: ""
   web: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Née à Paris, installée à Genève, aux origines congolaises, tchadiennes, serbes, espagnoles et françaises — Danitsa est,

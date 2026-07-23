@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "7sw3xJMTpdcpfssx17hfrb"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Dabeull, de son vrai nom **David Saïd**, est un chanteur et producteur parisien, considéré comme l'une des figures de

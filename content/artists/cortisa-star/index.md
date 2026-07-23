@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "7oM0bObDNv5Uv1TNyDoqEG"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Cortisa Star, née le 11 juillet 2005, est une rappeuse et mannequin américaine. Née à Baltimore, elle grandit

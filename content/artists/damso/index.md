@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "2UwqpfQtNuhBwviIC0f2ie"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Damso, de son vrai nom William Kalubi Mwamba, est né le 10 mai 1992 à Kinshasa (République démocratique

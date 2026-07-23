@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "7lfdXL6PuTM5iWJNvI7PPV"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Coroner est un groupe de thrash metal technique suisse originaire de Zurich, fondé en 1983 et stabilisé dans

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Cozik et Faya Pyd sont deux artistes bretons qui forment l'un des duos les plus en vue de la nouvelle scène

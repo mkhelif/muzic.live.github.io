@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "3Ecj5Hl1oHo9V7XKXdursh"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 David Michael « Ram Jam » Rodigan MBE est né le 24 juin 1951 en Allemagne, sur une base militaire, d'une

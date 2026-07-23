@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "2v7wIbCkIzxOfT3GnqCexD"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Meredith Cody Jinks, né le 18 août 1980 à Haltom City, près de Fort Worth au Texas, est un chanteur et auteur de

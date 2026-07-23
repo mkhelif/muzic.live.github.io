@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Copycat est un duo indie rock/folk-punk français composé de deux cousines originaires de Nevers et de

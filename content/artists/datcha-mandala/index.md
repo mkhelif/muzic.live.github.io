@@ -21,6 +21,8 @@ socials:
   web: ""
 todo:
   - Add description
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il existe dans le rock une tradition du trio sacré : trois musiciens, pas un de plus, pour une alchimie qui soit totale

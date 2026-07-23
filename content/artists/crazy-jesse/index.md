@@ -17,6 +17,8 @@ socials:
   deezer: ""
   qobuz: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Crazy Jesse est un musicien français qui émerge sur la scène rock blues hexagonale avec une approche authentique et

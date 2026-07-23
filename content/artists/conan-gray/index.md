@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Conan Gray est un chanteur, compositeur et multi-instrumentiste américain né le 5 décembre 1998 à Lemon Grove,

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 De La Soul est un groupe de hip-hop américain formé en 1988 à Amityville, dans le comté de Long Island, dans l'État de

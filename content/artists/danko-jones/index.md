@@ -66,6 +66,8 @@ socials:
   tidal: ""
 todo:
   - Add picture
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Il y a des groupes qui construisent leur légende sur des concepts, des pochettes énigmatiques ou des interviews

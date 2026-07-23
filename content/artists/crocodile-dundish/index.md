@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Crocodile Dundish est un groupe belge originaire de Tournai, en Wallonie, composé de six musiciens qui se

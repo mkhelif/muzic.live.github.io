@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "4OOlG5eBXSkSAAEeKjJb5Y"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Courtney Melba Barnett est née le 3 novembre 1987 à Sydney, dans le quartier des Northern Beaches. Après

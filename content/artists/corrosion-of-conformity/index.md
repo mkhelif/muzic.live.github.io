@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1BBIIH0h76KN8gYeXFcPjR"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Corrosion of Conformity, souvent abrégé C.O.C., est un groupe de heavy metal américain originaire de Raleigh, en

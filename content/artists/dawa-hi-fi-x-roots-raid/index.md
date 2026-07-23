@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Dawa Hi-Fi x Roots Raid réunit deux piliers du dub français, associés dans un projet commun qui fusionne leurs styles

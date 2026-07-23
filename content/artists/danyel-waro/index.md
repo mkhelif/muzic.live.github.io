@@ -20,4 +20,6 @@ todo:
   - Add description
   - Verify social networks
   - Add logo cover
+lastUpdate:
+  spotify: 2026-07-23
 ---

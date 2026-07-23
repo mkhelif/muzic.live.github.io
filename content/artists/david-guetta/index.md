@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "1Cs0zKBU1kc0i8ypK3B9ai"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Pierre David Guetta est né le 7 novembre 1967 à Paris. Autodidacte, il commence à mixer à treize ans

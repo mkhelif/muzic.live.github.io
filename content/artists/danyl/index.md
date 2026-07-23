@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: "5Hq9W3lm1N9KRCf35RBMab"
   tidal: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Danyl, de son vrai nom **Danyl Boudali**, est un chanteur et rappeur franco-algérien né le 25 octobre 1998 à

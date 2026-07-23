@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  spotify: 2026-07-23
 ---
 
 Dave Stewart est un musicien britannique né en 1952, qui commence sa carrière dans les années 70 avant de connaître la
