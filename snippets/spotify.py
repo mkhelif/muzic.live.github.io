@@ -3,19 +3,34 @@
 from datetime import datetime
 from os import listdir
 from pathlib import Path
-from unidecode import unidecode
 
-import frontmatter
-import gettext
-import pycountry
+import hashlib
+import hmac
+import json
 import re
+import secrets
+import struct
+import time
+
 import requests
 import traceback
-import uuid
+
+from utils import (
+    ARTISTS,
+    COUNTRIES,
+    VENUES,
+    format_filename,
+    get_or_create_artist,
+    get_or_create_location,
+    load_frontmatter,
+    translate,
+)
 
 # Configure authentication token
 CLIENT_TOKEN=""
 ACCESS_TOKEN="Bearer"
+
+SPOTIFY_CLIENT_VERSION = "1.2.95.408.g4647020a"
 
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:143.0) Gecko/20100101 Firefox/143.0",
@@ -25,7 +40,7 @@ DEFAULT_HEADERS = {
     "Content-Type": "application/json;charset=UTF-8",
     "Referer": "https://open.spotify.com/",
     "app-platform": "WebPlayer",
-    "spotify-app-version": "1.2.86.442.gda390418",
+    "spotify-app-version": SPOTIFY_CLIENT_VERSION,
     "client-token": CLIENT_TOKEN,
     "authorization": ACCESS_TOKEN,
     "Origin": "https://open.spotify.com",
@@ -37,33 +52,6 @@ DEFAULT_HEADERS = {
     "Pragma": "no-cache",
     "Cache-Control": "no-cache",
     "TE": "trailers"
-}
-
-french = gettext.translation('iso3166-1', pycountry.LOCALES_DIR, languages = ['fr'])
-french.install()
-_ = french.gettext
-
-COUNTRIES = {}
-for country in pycountry.countries:
-    COUNTRIES[country.alpha_2.upper()] = {
-        "name": _(country.name),
-        "code": country.alpha_3,
-    }
-
-# Kosovo uses the user-assigned code "XK", which is not an official ISO 3166-1
-# entry and therefore absent from pycountry.
-COUNTRIES.setdefault("XK", {"name": _("Kosovo"), "code": "XKX"})
-
-
-VENUES = {
-    'House of Blues Las Vegas ': 'House of Blues',
-    'Cournon D Auvergne': 'Cournon d\'Auvergne',
-    'Paris 18': 'Paris'
-}
-
-ARTISTS = {
-    'Carlos Santana': 'Santana',
-    'Udo Dirkschneider': 'Dirkschneider'
 }
 
 # Utility functions
@@ -152,175 +140,6 @@ def get_concert(concert_uri):
 
     return concert_details
 
-def load_frontmatter(file):
-    try:
-        return frontmatter.loads(file.read_text())
-    except Exception as e:
-        print(f"Failed to load frontmatter for {file}")
-        raise e
-
-def translate(key, hash):
-    if key in hash:
-        return hash[key]
-    else:
-        return key
-
-def format_filename(name):
-    return re.sub('-{2,}', '-',
-           re.sub('[^a-z0-9]', '-',
-              unidecode(name).lower()))
-
-# Case-insensitive index of existing artists, keyed by title and by every
-# `aliases` entry, mapping to the artist id. Built once and kept up to date as
-# new artists are created so that duplicates (e.g. "Bigflo & Oli" vs
-# "Bigflo et Oli") are resolved to a single fiche.
-_ARTIST_INDEX = None
-
-def _index_key(name):
-    return name.strip().lower()
-
-def build_artist_index():
-    index = {}
-    artists_dir = Path("./content/artists")
-    if not artists_dir.is_dir():
-        return index
-    for entry in sorted(artists_dir.iterdir()):
-        file = entry.joinpath("index.md")
-        if not file.exists():
-            continue
-        data = load_frontmatter(file)
-        artist_id = data.get('id', None)
-        if artist_id is None:
-            continue
-        artist_id = str(artist_id)
-
-        # Register the title and every alias (case-insensitive).
-        keys = [data.get('title', None)]
-        aliases = data.get('aliases', None) or []
-        if isinstance(aliases, str):
-            aliases = [aliases]
-        keys.extend(aliases)
-        for key in keys:
-            if key:
-                index.setdefault(_index_key(key), artist_id)
-    return index
-
-def get_artist_index():
-    global _ARTIST_INDEX
-    if _ARTIST_INDEX is None:
-        _ARTIST_INDEX = build_artist_index()
-    return _ARTIST_INDEX
-
-def get_or_create_artist(name):
-    index = get_artist_index()
-
-    # Reuse an existing artist when the name matches a title or alias.
-    existing_id = index.get(_index_key(name))
-    if existing_id is not None:
-        return existing_id
-
-    artist_id = None
-    directory = Path(f"./content/artists/{format_filename(name)}")
-    directory.mkdir(parents = True, exist_ok = True)
-    file = directory.joinpath("index.md")
-
-    if file.exists():
-        artist_id = load_frontmatter(file).get('id', None)
-    else:
-        artist_id = uuid.uuid4()
-        file.write_text(f"""\
----
-id: "{artist_id}"
-title: "{name}"
-socials:
-  facebook: ""
-  instagram: ""
-  tiktok: ""
-  x: ""
-  youtube: ""
-  web: ""
-  email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
-  spotify: ""
-  tidal: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
----
-""")
-    if artist_id is None:
-        raise Exception(f"Could not create artist {name}")
-    artist_id = str(artist_id)
-
-    # Keep the index current so subsequent lookups in this run reuse it.
-    index[_index_key(name)] = artist_id
-    return artist_id
-
-def get_or_create_location_country(country):
-    country_id = None
-    directory = Path(f"./content/venues/{format_filename(country['code'])}")
-    directory.mkdir(parents = True, exist_ok = True)
-    file = directory.joinpath("_index.md")
-
-    if file.exists():
-        country_id = load_frontmatter(file).get('id', None)
-    else:
-        country_id = uuid.uuid4()
-        file.write_text(f"""\
----
-id: "{country_id}"
-title: "{country['name']}"
----
-""")
-    if country_id is None:
-        raise Exception(f"Could not create country {country}")
-    return country_id
-
-def get_or_create_location_city(country, city):
-    city_id = None
-    directory = Path(f"./content/venues/{format_filename(country['code'])}/{format_filename(city)}")
-    directory.mkdir(parents = True, exist_ok = True)
-    file = directory.joinpath("_index.md")
-
-    if file.exists():
-        city_id = load_frontmatter(file).get('id', None)
-    else:
-        city_id = uuid.uuid4()
-        file.write_text(f"""\
----
-id: "{city_id}"
-venue: "{get_or_create_location_country(country)}"
-title: "{city}"
----
-""")
-    if city_id is None:
-        raise Exception(f"Could not create city {city} - {country}")
-    return city_id
-
-def get_or_create_location(location):
-    location_id = None
-    directory = Path(f"./content/venues/{format_filename(location['country']['code'])}/{format_filename(location['city'])}/{format_filename(location['name'])}")
-    directory.mkdir(parents = True, exist_ok = True)
-    file = directory.joinpath("index.md")
-
-    if file.exists():
-        location_id = load_frontmatter(file).get('id', None)
-    else:
-        location_id = uuid.uuid4()
-        file.write_text(f"""\
----
-id: "{location_id}"
-venue: "{get_or_create_location_city(location['country'], location['city'])}"
-title: "{location['name']}"
----
-""")
-    if location_id is None:
-        raise Exception(f"Could not create location {location['country']['name']} - {location['city']} - {location['name']}")
-    return location_id
 
 #
 # The script will go through all artists declared
