@@ -14,7 +14,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "1EmdfupUQDpXOcb4Nj2mBH"
   tidal: ""
 todo:
   - Add picture

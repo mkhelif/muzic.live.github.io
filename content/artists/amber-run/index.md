@@ -14,7 +14,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "0MmnmsAuQKRFpo6vJElcaU"
   tidal: ""
 ---
 Originaires de Nottingham, Amber Run sont l'un des groupes indie rock britanniques les plus touchants de leur génération. Portés par des mélodies sincères, des paroles introspectives et une production soignée, ils ont su trouver un public fidèle et international sans jamais renoncer à leur authenticité.

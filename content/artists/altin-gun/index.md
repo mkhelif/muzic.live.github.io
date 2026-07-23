@@ -14,7 +14,7 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "37PL04N8kBWWW69jdrMMWT"
   tidal: ""
 ---
 Altın Gün — qui signifie « Jour d'Or » en turc — est l'une des formations les plus originales et les plus séduisantes à avoir émergé de la scène indépendante internationale dans les années 2010. Ce groupe à la fois hollandais et turc a réussi le tour de force de ressusciter et de réinventer le rock anatolien des années 1960 et 1970, tout en l'intégrant dans une esthétique psychédélique et funk résolument contemporaine.
