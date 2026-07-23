@@ -3,6 +3,7 @@ id: "d086bed7-1c5c-4e9f-9a9b-0917a3a2b1a4"
 title: "Alchemists"
 type: band
 socials:
+  bandsintown: "15508852"
   facebook: ""
   instagram: ""
   tiktok: ""

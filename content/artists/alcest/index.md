@@ -3,6 +3,7 @@ id: "9e16164e-b9e9-4a31-90d5-dccb54ef0ff0"
 title: "Alcest"
 type: band
 socials:
+  bandsintown: "1241311"
   facebook: ""
   instagram: ""
   tiktok: ""
