@@ -31,6 +31,7 @@ members:
       - start: 2009
         end: 2018
 socials:
+  bandsintown: "1946416"
   facebook: "theAlabamaShakes"
   instagram: "alabama_shakes"
   tiktok: "@alabamashakesofficial"

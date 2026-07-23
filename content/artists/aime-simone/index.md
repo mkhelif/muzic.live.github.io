@@ -3,6 +3,7 @@ id: "3f7679d6-dd37-4d8e-97cb-70b7770c4a83"
 title: "Aime Simone"
 type: person
 socials:
+  bandsintown: "15471547"
   facebook: ""
   instagram: ""
   tiktok: ""

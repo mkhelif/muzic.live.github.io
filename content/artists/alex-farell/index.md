@@ -3,6 +3,7 @@ id: "23a9e179-041a-442e-9826-33fb7380b36e"
 title: "Alex Farell"
 type: person
 socials:
+  bandsintown: "15564026"
   facebook: ""
   instagram: ""
   tiktok: ""

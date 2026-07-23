@@ -3,6 +3,7 @@ id: "586a805e-4d16-45de-bce4-d74fb8d29044"
 title: "Adult DVD"
 type: band
 socials:
+  bandsintown: "15529882"
   facebook: ""
   instagram: ""
   tiktok: ""
