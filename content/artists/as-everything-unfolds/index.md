@@ -2,6 +2,7 @@
 id: "279f03db-1693-4c98-833a-a0d4b336dbeb"
 title: "As Everything Unfolds"
 socials:
+  bandsintown: "6717663"
   facebook: ""
   instagram: ""
   tiktok: ""

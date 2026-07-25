@@ -2,6 +2,7 @@
 id: "2eb035ca-21f4-47fd-9ce5-d0fa55bb2295"
 title: "Andrea Oliva"
 socials:
+  bandsintown: "455673"
   facebook: ""
   instagram: ""
   tiktok: ""

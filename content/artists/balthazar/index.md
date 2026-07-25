@@ -3,6 +3,7 @@ id: "d9858891-4e1a-44ca-9671-54ec4077036d"
 title: "Balthazar"
 type: band
 socials:
+  bandsintown: "16338"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "6a12d4a8-6aa7-4d7e-afdf-cdc98bb264dd"
 title: "Anis"
 type: person
 socials:
+  bandsintown: "41866"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "93439d3b-3cb9-4670-9fa3-af4399443c1e"
 title: "ANGELL"
 socials:
+  bandsintown: "15638804"
   facebook: ""
   instagram: ""
   tiktok: ""

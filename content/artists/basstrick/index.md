@@ -3,6 +3,7 @@ id: "951a6773-6622-46c0-9fab-09e68840aeef"
 title: "Basstrick"
 type: unknown
 socials:
+  bandsintown: "1988606"
   facebook: ""
   instagram: ""
   tiktok: ""

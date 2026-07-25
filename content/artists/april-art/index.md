@@ -3,6 +3,7 @@ id: "a9ea9e02-9276-4103-bd1d-6e50cc209550"
 title: "April Art"
 type: band
 socials:
+  bandsintown: "11442497"
   facebook: ""
   instagram: ""
   tiktok: ""

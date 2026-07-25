@@ -3,6 +3,7 @@ id: "471fcb17-1889-47c6-bcdc-434fb3596d22"
 title: "Ayọ"
 type: person
 socials:
+  bandsintown: "4436"
   facebook: ""
   instagram: ""
   tiktok: ""

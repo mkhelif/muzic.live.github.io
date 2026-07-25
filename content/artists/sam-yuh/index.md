@@ -4,7 +4,7 @@ title: "Sam Yuh"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "sam_yuh"
   tiktok: ""
   x: ""
   youtube: ""

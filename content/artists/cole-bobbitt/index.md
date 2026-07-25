@@ -4,7 +4,7 @@ title: "Cole Bobbitt"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "colebobbitt"
   tiktok: ""
   x: ""
   youtube: ""

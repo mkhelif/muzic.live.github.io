@@ -2,6 +2,7 @@
 id: "fb46becc-8875-45c2-ac40-1019e85421e0"
 title: "Barrett Martin Group"
 socials:
+  bandsintown: "1521762"
   facebook: ""
   instagram: ""
   tiktok: ""

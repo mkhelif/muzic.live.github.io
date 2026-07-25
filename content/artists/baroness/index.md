@@ -3,6 +3,7 @@ id: "104ed24f-2d0d-453c-a08b-05cd14e03805"
 title: "Baroness"
 type: band
 socials:
+  bandsintown: "13813"
   facebook: ""
   instagram: ""
   tiktok: ""

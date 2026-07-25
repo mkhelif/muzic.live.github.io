@@ -3,6 +3,7 @@ id: "70f1ebe8-7f6b-461c-bde6-cbaee0dd77f7"
 title: "Atom Willard"
 type: person
 socials:
+  bandsintown: "552947"
   facebook: ""
   instagram: ""
   tiktok: ""

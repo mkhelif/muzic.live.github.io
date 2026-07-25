@@ -2,6 +2,7 @@
 id: "913d5812-ba59-4a31-a265-124527b1bd0b"
 title: "Autumn Kings"
 socials:
+  bandsintown: "12337067"
   facebook: ""
   instagram: ""
   tiktok: ""

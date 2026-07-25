@@ -4,7 +4,7 @@ title: "Austin Parker Jones"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "austinparkerjones"
   tiktok: ""
   x: ""
   youtube: ""
@@ -17,5 +17,6 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
 ---

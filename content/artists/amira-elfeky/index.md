@@ -2,6 +2,7 @@
 id: "dd16d581-8aa4-40d4-870e-7c491cd88516"
 title: "Amira Elfeky"
 socials:
+  bandsintown: "15539723"
   facebook: ""
   instagram: ""
   tiktok: ""

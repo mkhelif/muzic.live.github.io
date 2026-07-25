@@ -3,6 +3,7 @@ id: "216a0b28-291d-4078-bf09-0d7d8b0edf41"
 title: "Ariane Roy"
 type: person
 socials:
+  bandsintown: "105523"
   facebook: ""
   instagram: ""
   tiktok: ""

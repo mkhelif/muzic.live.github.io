@@ -3,6 +3,7 @@ id: "db56acae-a205-44dc-ba7e-3daa473f9986"
 title: "Apocalyptica"
 type: band
 socials:
+  bandsintown: "2210"
   facebook: ""
   instagram: ""
   tiktok: ""

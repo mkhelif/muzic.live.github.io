@@ -56,6 +56,7 @@ members:
       - start: 2012
         end: 2025
 socials:
+  bandsintown: "469142"
   facebook: "battlebeastofficial"
   instagram: "battlebeastband"
   x: "battlebeast"

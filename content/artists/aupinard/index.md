@@ -3,6 +3,7 @@ id: "5eb6304a-51fb-4ce1-ad0b-453b7fdbe695"
 title: "Aupinard"
 type: unknown
 socials:
+  bandsintown: "15556047"
   facebook: ""
   instagram: ""
   tiktok: ""

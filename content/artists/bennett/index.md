@@ -2,6 +2,7 @@
 id: "a645061e-9021-4d59-b93a-9c33e2e11030"
 title: "BENNETT"
 socials:
+  bandsintown: "15537907"
   facebook: ""
   instagram: ""
   tiktok: ""

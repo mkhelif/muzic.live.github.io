@@ -3,6 +3,7 @@ id: "86a76e89-6a89-414e-a154-2cb7cc98ec2b"
 title: "Ayron Jones"
 type: person
 socials:
+  bandsintown: "1043517"
   facebook: ""
   instagram: ""
   tiktok: ""

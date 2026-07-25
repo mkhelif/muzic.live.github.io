@@ -3,6 +3,7 @@ id: "5e8cdb77-ede4-4623-9611-fba05bcc58ed"
 title: "Benny Rietveld"
 type: person
 socials:
+  bandsintown: "48676"
   facebook: ""
   instagram: ""
   tiktok: ""

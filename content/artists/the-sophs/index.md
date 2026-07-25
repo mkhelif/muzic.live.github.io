@@ -35,7 +35,7 @@ members:
       - start: 2023
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "sophsesque"
   tiktok: ""
   x: ""
   youtube: ""

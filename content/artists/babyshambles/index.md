@@ -3,6 +3,7 @@ id: "e54cd8e0-36ab-4976-9b4b-e9bdeef1b304"
 title: "Babyshambles"
 type: person
 socials:
+  bandsintown: "1616"
   facebook: ""
   instagram: ""
   tiktok: ""

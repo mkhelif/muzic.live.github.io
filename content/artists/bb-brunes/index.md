@@ -3,6 +3,7 @@ id: "b7125183-0d52-4b7f-a420-3416861474c5"
 title: "BB Brunes"
 type: band
 socials:
+  bandsintown: "69139"
   facebook: ""
   instagram: ""
   tiktok: ""

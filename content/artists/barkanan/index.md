@@ -3,6 +3,7 @@ id: "26a74e65-51fa-4ba8-a9cd-3e8f241c66a7"
 title: "Barkanan"
 type: band
 socials:
+  bandsintown: "15537883"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "8ff21a39-0ae7-41d7-a0a2-da03bcf093a9"
 title: "Asdek"
 type: person
 socials:
+  bandsintown: "1690697"
   facebook: ""
   instagram: ""
   tiktok: ""

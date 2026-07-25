@@ -2,6 +2,7 @@
 id: "ff2bb283-50f1-4e95-9df4-34753e3d647c"
 title: "Anstandslos & Durchgeknallt"
 socials:
+  bandsintown: "11855519"
   facebook: ""
   instagram: ""
   tiktok: ""

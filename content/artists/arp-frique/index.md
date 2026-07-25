@@ -2,6 +2,7 @@
 id: "76666d85-2b3d-4224-8f64-a55541ba0e05"
 title: "Arp Frique"
 socials:
+  bandsintown: "14938360"
   facebook: ""
   instagram: ""
   tiktok: ""

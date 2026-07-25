@@ -3,6 +3,7 @@ id: "f1fc518e-7e81-431c-91f1-a37afe4bab38"
 title: "Andy Nicholson"
 type: person
 socials:
+  bandsintown: "232103"
   facebook: ""
   instagram: ""
   tiktok: ""

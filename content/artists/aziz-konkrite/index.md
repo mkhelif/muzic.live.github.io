@@ -3,6 +3,7 @@ id: "ce73bab1-f2b5-4a8b-942a-1578f74f7009"
 title: "Aziz Konkrite"
 type: person
 socials:
+  bandsintown: "15567713"
   facebook: ""
   instagram: ""
   web: ""

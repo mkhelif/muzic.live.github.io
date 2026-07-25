@@ -3,6 +3,7 @@ id: "5bb45dc9-8a78-4278-ba4f-f8bce4f58ec5"
 title: "Angélique Kidjo"
 type: person
 socials:
+  bandsintown: "45943"
   facebook: ""
   instagram: ""
   tiktok: ""

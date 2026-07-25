@@ -2,6 +2,7 @@
 id: "c144e668-32a5-40b7-851e-e46216431eb6"
 title: "Beach Bunny"
 socials:
+  bandsintown: "13001631"
   facebook: ""
   instagram: ""
   tiktok: ""

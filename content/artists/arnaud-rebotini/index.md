@@ -3,6 +3,7 @@ id: "ca44b750-e31c-4ab9-86cd-a3218a703d1f"
 title: "Arnaud Rebotini"
 type: person
 socials:
+  bandsintown: "263166"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "f0bf604d-4c9c-4134-8098-d6b5b0aafc1a"
 title: "Becky Hill"
 socials:
+  bandsintown: "2879733"
   facebook: ""
   instagram: ""
   tiktok: ""

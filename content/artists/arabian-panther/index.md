@@ -2,6 +2,7 @@
 id: "740dba67-f200-45e0-8392-e453a3a1307c"
 title: "Arabian Panther"
 socials:
+  bandsintown: "15383013"
   facebook: ""
   instagram: ""
   tiktok: ""

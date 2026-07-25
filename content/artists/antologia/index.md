@@ -2,6 +2,7 @@
 id: "6a6cd4ae-6864-4100-857a-b0f58aa1b6a1"
 title: "Antologia"
 socials:
+  bandsintown: "1672178"
   facebook: ""
   instagram: ""
   tiktok: ""

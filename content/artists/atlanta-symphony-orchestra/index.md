@@ -2,6 +2,7 @@
 id: "f3d92926-11cc-4b45-9f67-3b2a999df90c"
 title: "Atlanta Symphony Orchestra"
 socials:
+  bandsintown: "101517"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -4,7 +4,7 @@ title: "Ethan Ramon"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "hotironbrandingparty"
   tiktok: ""
   x: ""
   youtube: ""

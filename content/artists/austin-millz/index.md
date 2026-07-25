@@ -2,6 +2,7 @@
 id: "d09a2b0a-89f2-4d5e-becc-cbcfa719bf96"
 title: "Austin Millz"
 socials:
+  bandsintown: "3730926"
   facebook: ""
   instagram: ""
   tiktok: ""

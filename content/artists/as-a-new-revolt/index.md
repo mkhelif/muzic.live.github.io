@@ -3,6 +3,7 @@ id: "57f3e669-a1b6-4054-b265-0ff2d248a150"
 title: "As A New Revolt"
 type: band
 socials:
+  bandsintown: "11642337"
   facebook: ""
   instagram: ""
   tiktok: ""

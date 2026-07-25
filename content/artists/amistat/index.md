@@ -3,6 +3,7 @@ id: "c3c7f832-a850-432e-bc32-212522d06c06"
 title: "Amistat"
 type: band
 socials:
+  bandsintown: "6627664"
   facebook: ""
   instagram: ""
   tiktok: ""

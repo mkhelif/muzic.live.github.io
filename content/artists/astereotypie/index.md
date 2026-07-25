@@ -18,6 +18,7 @@ socials:
   tidal: ""
 cover: ""
 lastUpdate:
+  bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
 ---
 

@@ -3,6 +3,7 @@ id: "1e05aa9f-80fa-43b5-8f24-5dff057111b1"
 title: "Benedetto And Farina"
 type: band
 socials:
+  bandsintown: "1380709"
   facebook: ""
   instagram: ""
   tiktok: ""

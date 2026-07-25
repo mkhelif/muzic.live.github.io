@@ -3,6 +3,7 @@ id: "025d6963-ca65-4c83-bbc6-da8c8f4f55ce"
 title: "Amel Bent"
 type: person
 socials:
+  bandsintown: "87562"
   facebook: ""
   instagram: ""
   tiktok: ""

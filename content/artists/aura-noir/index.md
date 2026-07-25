@@ -3,6 +3,7 @@ id: "f96e6217-ef67-41b4-8501-28f89763e283"
 title: "Aura Noir"
 type: band
 socials:
+  bandsintown: "21282"
   facebook: ""
   instagram: ""
   tiktok: ""

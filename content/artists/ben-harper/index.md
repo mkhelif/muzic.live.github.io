@@ -3,6 +3,7 @@ id: "8dc9c0b9-f6a7-42cd-85ab-7eec2b94810c"
 title: "Ben Harper"
 type: person
 socials:
+  bandsintown: "436"
   facebook: "benharper"
   instagram: "benharper"
   x: "benharper"

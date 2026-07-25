@@ -2,6 +2,7 @@
 id: "dcff8836-35e7-446f-85db-2df097785fff"
 title: "Baptiste Trotignon"
 socials:
+  bandsintown: "184202"
   facebook: ""
   instagram: ""
   tiktok: ""

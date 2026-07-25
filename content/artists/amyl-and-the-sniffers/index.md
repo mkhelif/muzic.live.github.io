@@ -2,6 +2,7 @@
 id: "77ee0105-03aa-43e8-aab3-bd2669350316"
 title: "Amyl and The Sniffers"
 socials:
+  bandsintown: "13226914"
   facebook: ""
   instagram: ""
   tiktok: ""

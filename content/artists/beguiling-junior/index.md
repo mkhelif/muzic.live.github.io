@@ -3,6 +3,7 @@ id: "ea35c70d-6f35-4cc9-9743-c952e19fe19a"
 title: "Beguiling Junior"
 type: band
 socials:
+  bandsintown: "15617387"
   facebook: ""
   instagram: ""
   tiktok: ""
