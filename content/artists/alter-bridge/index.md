@@ -24,6 +24,7 @@ members:
     periods:
       - start: 2004
 socials:
+  bandsintown: "1686"
   facebook: "alterbridge"
   instagram: "officialalterbridge"
   tiktok: "@officialalterbridge"

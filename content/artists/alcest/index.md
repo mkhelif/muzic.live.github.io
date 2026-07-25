@@ -2,6 +2,33 @@
 id: "9e16164e-b9e9-4a31-90d5-dccb54ef0ff0"
 title: "Alcest"
 type: band
+members:
+  - id: "ac78c1b9-e5a1-4f13-bbd7-2ef504b8b032"
+    roles:
+      - sing
+      - guitar
+      - keys
+      - drums
+      - bass
+    periods:
+      - start: 2000
+  - id: "085c90fc-2ddf-45c3-84b4-f9ff6fa99b10"
+    roles:
+      - drums
+    periods:
+      - start: 2009
+  - id: "b641b8b2-285e-48e3-b2d3-63146b5e24a0"
+    roles:
+      - guitar
+    periods:
+      - start: 2000
+        end: 2001
+  - id: "676183f2-15f6-426c-a4d5-42deb373d49a"
+    roles:
+      - bass
+    periods:
+      - start: 2000
+        end: 2001
 socials:
   bandsintown: "1241311"
   facebook: ""

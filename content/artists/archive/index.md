@@ -2,6 +2,80 @@
 id: "4ca989e0-53fd-4058-b88b-da3611620f03"
 title: "Archive"
 type: band
+members:
+  - id: "b4145df6-bdde-4837-b567-a38964afb8e0"
+    roles:
+      - keys
+    periods:
+      - start: 1994
+  - id: "8c5630dc-4cc5-42d1-9bba-c6ac87cb7555"
+    roles:
+      - keys
+    periods:
+      - start: 1994
+  - id: "0ac163cf-0467-4912-9bf7-55520f1a3553"
+    roles:
+      - sing
+    periods:
+      - start: 2009
+      - start: 1994
+        end: 1996
+  - id: "dbf94597-9767-430a-8b56-030f61ed2905"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2004
+  - id: "dc940432-18eb-4c35-b720-914f6bf7f729"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2005
+  - id: "748aff74-834a-4987-a553-6a75032ff867"
+    roles:
+      - sing
+    periods:
+      - start: 2005
+  - id: "d17b4c1b-3e67-46bb-bdbe-d0d93343cf50"
+    roles:
+      - drums
+    periods:
+      - start: 2004
+  - id: "7afa94c4-9362-4568-98b7-e471273eca48"
+    roles:
+      - bass
+    periods:
+      - start: 2007
+  - id: "37df1d3f-35c2-4908-96df-dbdd9b094a05"
+    roles:
+      - sing
+    periods:
+      - start: 2012
+  - id: "9d70c528-b555-48ea-b2a6-ce4f6e2e988f"
+    roles:
+      - sing
+    periods:
+      - start: 2022
+  - id: "8d960bab-4961-409e-8a3e-12cd6143e932"
+    roles:
+      - sing
+    periods:
+      - start: 1994
+        end: 1996
+  - id: "aa22f26e-53c4-4754-b852-45e0b0161932"
+    roles:
+      - sing
+    periods:
+      - start: 1997
+        end: 2000
+  - id: "5ef89d87-19e9-4121-ba0a-8982229352d1"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2000
+        end: 2004
 socials:
   facebook: ""
   instagram: ""

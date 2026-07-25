@@ -4,7 +4,7 @@ title: "Per Lindberg"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "perlindberg"
   tiktok: ""
   x: ""
   youtube: ""

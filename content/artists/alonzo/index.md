@@ -3,6 +3,7 @@ id: "31432ccc-4a93-4a9b-a9a8-5c53ba4ca7f3"
 title: "Alonzo"
 type: person
 socials:
+  bandsintown: "145028"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: "2z2TRvloJt4EfUNQp9rHAi"
   tidal: ""
 lastUpdate:
+  bandsintown: 2026-07-25
   spotify: 2026-07-23
 ---
 

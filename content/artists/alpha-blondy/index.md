@@ -3,6 +3,7 @@ id: "5352ba94-b294-4245-a5af-3a21d477200f"
 title: "Alpha Blondy"
 type: person
 socials:
+  bandsintown: "25940"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: "41ekW4MXG59xJMXR8dX1OG"
   tidal: ""
 lastUpdate:
+  bandsintown: 2026-07-25
   spotify: 2026-07-23
 ---
 

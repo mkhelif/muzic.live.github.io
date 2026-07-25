@@ -3,6 +3,7 @@ id: "259604b1-b6e7-484d-b952-8d6a9ee0c9fd"
 title: "Aloïse Sauvage"
 type: person
 socials:
+  bandsintown: "15015464"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: "5LYSuLVsB6OVxkDY107AyQ"
   tidal: ""
 lastUpdate:
+  bandsintown: 2026-07-25
   spotify: 2026-07-23
 ---
 

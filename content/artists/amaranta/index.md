@@ -2,6 +2,7 @@
 id: "1dbb733e-b249-4902-ab37-78b2900703cd"
 title: "Amaranta"
 socials:
+  bandsintown: "15581013"
   facebook: ""
   instagram: ""
   tiktok: ""

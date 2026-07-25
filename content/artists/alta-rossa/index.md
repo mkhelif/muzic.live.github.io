@@ -17,6 +17,7 @@ socials:
   spotify: "1OZJ1yBSsVelarbCxxWgRj"
   tidal: ""
 lastUpdate:
+  bandsintown-lookup: 2026-07-24
   spotify: 2026-07-23
 ---
 

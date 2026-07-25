@@ -16,10 +16,21 @@ socials:
   qobuz: ""
   spotify: "4zEFEt7m0lKVXd0k5JTLJN"
   tidal: ""
-todo:
-  - Add picture
-  - Add socials
-  - Add description
 lastUpdate:
   spotify: 2026-07-23
 ---
+
+Formé au début des années 2000 en Haute-Savoie autour du guitariste et chanteur Swan, associé au guitariste Max 2,
+Blackrain distille un hard rock nourri par la scène sleaze des années 1980. Le groupe signe chez Thundering Records en
+2006, année qui marque un tournant dans sa carrière.
+
+###### Une reconnaissance à l'internationale
+
+Le magazine britannique Classic Rock classe Blackrain parmi les « 10 meilleurs groupes de rock français de tous les
+temps », une reconnaissance rare pour une formation hexagonale sur la scène du hard rock et du glam.
+
+###### D'un son plus glam à l'autoproduction
+
+Leur second album, License to Thrill (2008), affirme une orientation plus glam rock. Pour financer la suite de sa
+discographie, le groupe se tourne vers le financement participatif via la plateforme Pledgemusic, aboutissant à la
+sortie de l'album Released en 2016.

@@ -1,0 +1,17 @@
+---
+id: "7520515b-7f5b-4b24-8ec4-72ef8f51cf30"
+title: "Alexandre Diani"
+type: person
+socials:
+  facebook: ""
+  instagram: ""
+  x: ""
+  threads: ""
+  youtube: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
+---

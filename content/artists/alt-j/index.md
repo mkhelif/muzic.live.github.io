@@ -3,6 +3,7 @@ id: "ec49f83e-7a05-4589-87a0-852168248938"
 title: "Alt-J"
 type: band
 socials:
+  bandsintown: "11178017"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: "3XHO7cRUPCLOr6jwp8vsx5"
   tidal: ""
 lastUpdate:
+  bandsintown: 2026-07-25
   spotify: 2026-07-23
 ---
 
