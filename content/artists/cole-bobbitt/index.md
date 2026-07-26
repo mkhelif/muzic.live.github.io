@@ -3,7 +3,7 @@ id: "33ebf4b1-eac5-465f-8c0d-34a3a74992d8"
 title: "Cole Bobbitt"
 type: person
 socials:
-  facebook: ""
+  facebook: "cole.bobbitt.3"
   instagram: "colebobbitt"
   tiktok: ""
   x: ""

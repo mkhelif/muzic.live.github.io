@@ -4,7 +4,7 @@ title: "Devin Russ"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "dvnruss"
   tiktok: ""
   x: ""
   youtube: ""
