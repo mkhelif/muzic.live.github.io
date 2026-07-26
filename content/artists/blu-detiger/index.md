@@ -2,12 +2,12 @@
 id: "18b860ad-c95f-4ee1-96cd-3a2cf9c3bb06"
 title: "Blu DeTiger"
 socials:
-  bandsintown: "14164535"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "14164535"
   youtube: ""
   web: ""
   email: ""

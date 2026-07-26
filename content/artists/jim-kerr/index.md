@@ -3,11 +3,11 @@ id: "15af49db-2c9f-4e78-961d-a3b658d6be27"
 title: "Jim Kerr"
 type: person
 socials:
-  bandsintown: "573725"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "573725"
   youtube: ""
   web: ""
   email: ""

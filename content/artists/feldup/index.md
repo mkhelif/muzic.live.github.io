@@ -3,12 +3,12 @@ id: "de5dd543-22f9-4e1a-a53c-4aafc85b8c77"
 title: "Feldup"
 type: person
 socials:
-  bandsintown: "15558455"
   facebook: "feldupmusic"
   instagram: "feldup_official"
   x: "Feldup_official"
   bandcamp: "feldup"
   soundcloud: "user-671268887"
+  bandsintown: "15558455"
   youtube: "@Feldup"
   tidal: "10112501"
   spotify: "2x7iNShxKzU4gIZIdbHMBM"

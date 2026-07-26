@@ -3,11 +3,11 @@ id: "62a2209b-0840-4cd3-a99f-2dfaf249475c"
 title: "Lartiste"
 type: person
 socials:
-  bandsintown: "1714212"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1714212"
   youtube: ""
   web: ""
   email: ""

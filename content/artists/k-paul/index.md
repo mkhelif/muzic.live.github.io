@@ -2,12 +2,12 @@
 id: "701f6577-087b-46a9-8b0b-b6ce658615be"
 title: "K-Paul"
 socials:
-  bandsintown: "394543"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "394543"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "151243cb-452f-49f1-8689-471a3eb69215"
 title: "Hermanos Gutiérrez"
 type: band
 socials:
-  bandsintown: "4202698"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4202698"
   youtube: ""
   web: ""
   email: ""

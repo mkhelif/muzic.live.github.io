@@ -2,12 +2,12 @@
 id: "ad9e7c12-129a-4b82-8ead-28ce3f215fff"
 title: "Automatic"
 socials:
-  bandsintown: "11610"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "11610"
   youtube: ""
   web: ""
   email: ""

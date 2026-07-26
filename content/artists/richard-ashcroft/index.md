@@ -3,11 +3,11 @@ id: "984eb53a-3175-4a90-af8f-1670750c7604"
 title: "Richard Ashcroft"
 type: person
 socials:
-  bandsintown: "13852"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13852"
   youtube: ""
   web: ""
   email: ""

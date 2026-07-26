@@ -3,11 +3,11 @@ id: "d39a0d4a-d3a7-4783-9028-7e9453aba7a5"
 title: "Mister Cover"
 type: band
 socials:
-  bandsintown: "1485204"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1485204"
   youtube: ""
   web: ""
   email: ""

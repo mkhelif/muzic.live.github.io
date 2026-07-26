@@ -3,11 +3,11 @@ id: "20a785f6-40d3-49b8-9e25-e55c7510783a"
 title: "Bibi Club"
 type: band
 socials:
-  bandsintown: "15498696"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15498696"
   youtube: ""
   web: ""
   email: ""

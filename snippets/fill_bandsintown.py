@@ -138,13 +138,22 @@ def find_bandsintown_id(name):
 # ---------------------------------------------------------------------------
 
 def add_bandsintown(text, bit_id):
-    """Insert ``bandsintown: "<id>"`` into the fiche's socials block.
+    """Insert ``bandsintown: "<id>"`` into the fiche's socials block, just before
+    the ``youtube`` entry.
 
     Prefers a minimal textual insertion (block-form socials); falls back to a
     frontmatter round-trip for the rare inline ``socials: { ... }`` form."""
     if re.search(r"^\s*bandsintown:", text, re.MULTILINE):
         return text, False  # already present
 
+    # Preferred: put it right before the youtube line, matching its indentation.
+    youtube = re.search(r"^([ \t]+)youtube:.*\n", text, re.MULTILINE)
+    if youtube:
+        idx = youtube.start()
+        indent = youtube.group(1)
+        return text[:idx] + f'{indent}bandsintown: "{bit_id}"\n' + text[idx:], True
+
+    # Fallback: no youtube line — insert as the first socials child.
     match = re.search(r"^socials:[ \t]*\n", text, re.MULTILINE)
     if match:
         idx = match.end()

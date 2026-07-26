@@ -2,12 +2,12 @@
 id: "2ff00e15-8b10-4424-9fdb-fad833624ac0"
 title: "MISS C-LINE"
 socials:
-  bandsintown: "15560958"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15560958"
   youtube: ""
   web: ""
   email: ""

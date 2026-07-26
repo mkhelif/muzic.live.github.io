@@ -2,12 +2,12 @@
 id: "c35d3b7f-4b9f-4caa-bcaf-daacfebc3997"
 title: "Secret World"
 socials:
-  bandsintown: "176523"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "176523"
   youtube: ""
   web: ""
   email: ""

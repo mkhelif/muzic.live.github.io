@@ -3,11 +3,11 @@ id: "4d30a2da-b9b9-41ae-83c9-d6ea8b7d82fb"
 title: "Calling Marian"
 type: person
 socials:
-  bandsintown: "1885333"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1885333"
   youtube: ""
   web: ""
   email: ""

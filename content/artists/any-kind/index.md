@@ -3,11 +3,11 @@ id: "2bc6153d-8be7-4d55-ab49-ef9bd520f666"
 title: "Any Kind"
 type: band
 socials:
-  bandsintown: "2622399"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2622399"
   youtube: ""
   web: ""
   email: ""

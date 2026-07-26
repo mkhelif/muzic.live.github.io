@@ -3,11 +3,11 @@ id: "6855267d-1a3c-4c79-a02c-ce9b51a9ff13"
 title: "DITZ"
 type: band
 socials:
-  bandsintown: "6724644"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "6724644"
   youtube: ""
   web: ""
   email: ""

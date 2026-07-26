@@ -3,11 +3,11 @@ id: "1fdd261e-41e3-484f-ab3c-f15f797cdeb0"
 title: "Ben Klock"
 type: person
 socials:
-  bandsintown: "66316"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "66316"
   youtube: ""
   web: ""
   email: ""

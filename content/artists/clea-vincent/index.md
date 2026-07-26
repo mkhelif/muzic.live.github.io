@@ -3,11 +3,11 @@ id: "ab264918-b7a4-488a-836e-93a7c61cf157"
 title: "Cléa Vincent"
 type: person
 socials:
-  bandsintown: "2332387"
   facebook: "cleavincentmusic"
   instagram: "cleavincent"
   bandcamp: "cleavincent"
   soundcloud: "cleavincent"
+  bandsintown: "2332387"
   youtube: "c/CléaVincentMusic"
   tidal: "4949748"
   spotify: "6eforqOxk5mRrgprF7XtYu"

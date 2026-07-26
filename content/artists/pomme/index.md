@@ -3,11 +3,11 @@ id: "ee55e51d-ba98-4bfb-83a6-7037a5f950c8"
 title: "Pomme"
 type: person
 socials:
-  bandsintown: "2011329"
   instagram: "pommedeparis"
   facebook: ""
   tiktok: ""
   x: ""
+  bandsintown: "2011329"
   youtube: ""
   web: ""
   email: ""

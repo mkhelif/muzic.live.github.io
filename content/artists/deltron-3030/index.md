@@ -19,10 +19,10 @@ members:
     periods:
       - start: 1999
 socials:
-  bandsintown: "8550556"
   facebook: "OfficialDELTRON"
   instagram: "officialdeltron"
   x: "officialdeltron"
+  bandsintown: "8550556"
   youtube: "@OfficialDELTRON"
   web: "https://deltron3030.com"
   spotify: "2efzHZrUGhawnSOTpyAHOQ"

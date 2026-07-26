@@ -2,12 +2,12 @@
 id: "1a432b1c-42ea-42fd-84bb-67f172614270"
 title: "Arcturus"
 socials:
-  bandsintown: "15536107"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15536107"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "ed9aa5ad-7c0a-4d32-bbf2-a2df3025561a"
 title: "John Gourley"
 type: person
 socials:
-  bandsintown: "901566"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "901566"
   youtube: ""
   web: ""
   email: ""

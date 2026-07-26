@@ -3,11 +3,11 @@ id: "9434fb15-2dcf-49be-8dda-d885198f24cb"
 title: "Itchy"
 type: band
 socials:
-  bandsintown: "760307"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "760307"
   youtube: ""
   web: ""
   email: ""

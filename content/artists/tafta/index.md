@@ -3,11 +3,11 @@ id: "d1501f89-c4d6-4c5b-b39c-a1ca7b5e5219"
 title: "Tafta"
 type: band
 socials:
-  bandsintown: "348000"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "348000"
   youtube: ""
   web: ""
   email: ""

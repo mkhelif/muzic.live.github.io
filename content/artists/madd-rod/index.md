@@ -2,12 +2,12 @@
 id: "92aeab0e-10fd-4ba5-8c64-e576073aca46"
 title: "Madd Rod"
 socials:
-  bandsintown: "9345742"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "9345742"
   youtube: ""
   web: ""
   email: ""

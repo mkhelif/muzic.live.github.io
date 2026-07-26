@@ -2,12 +2,12 @@
 id: "b3f6f22c-db3a-43e8-beae-e7ff589055c1"
 title: "Burning Witches"
 socials:
-  bandsintown: "1488371"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "1488371"
   youtube: ""
   web: ""
   email: ""

@@ -2,12 +2,12 @@
 id: "f0526612-c44a-4f4d-8ab9-b8b5f9105483"
 title: "Mona Yim"
 socials:
-  bandsintown: "15515506"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15515506"
   youtube: ""
   web: ""
   email: ""

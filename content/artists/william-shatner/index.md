@@ -3,11 +3,11 @@ id: "4ea98061-ee13-4d82-aec8-99acdacb9adc"
 title: "William Shatner"
 type: person
 socials:
-  bandsintown: "50255"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "50255"
   youtube: ""
   web: ""
   email: ""

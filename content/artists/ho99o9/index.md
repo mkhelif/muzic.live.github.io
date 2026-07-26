@@ -17,11 +17,11 @@ members:
     periods:
       - start: 2012
 socials:
-  bandsintown: "8230658"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "8230658"
   youtube: ""
   web: ""
   email: ""

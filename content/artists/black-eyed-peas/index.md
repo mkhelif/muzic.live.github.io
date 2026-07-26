@@ -3,12 +3,12 @@ id: "2f089a14-49af-4646-939f-fc439eeb767a"
 title: "Black Eyed Peas"
 type: band
 socials:
-  bandsintown: "70"
   instagram: "bep"
   web: "https://www.blackeyedpeas.com/"
   facebook: ""
   tiktok: ""
   x: ""
+  bandsintown: "70"
   youtube: ""
   email: ""
   amazon: ""

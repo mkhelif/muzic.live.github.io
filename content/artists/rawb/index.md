@@ -3,11 +3,11 @@ id: "bdacb99b-94aa-4d2b-940d-a31d42eff83b"
 title: "Rawb"
 type: unknown
 socials:
-  bandsintown: "640648"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "640648"
   youtube: ""
   web: ""
   email: ""

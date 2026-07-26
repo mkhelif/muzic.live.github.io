@@ -3,11 +3,11 @@ id: "2daaab87-62b4-43f2-b950-450266800867"
 title: "disiz"
 type: person
 socials:
-  bandsintown: "15323036"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15323036"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "774f721c-0434-4d99-a570-855e6fc155aa"
 title: "Les Clébards"
 type: band
 socials:
-  bandsintown: "2457424"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2457424"
   youtube: ""
   web: ""
   email: ""

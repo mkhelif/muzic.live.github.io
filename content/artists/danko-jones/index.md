@@ -50,12 +50,12 @@ members:
       - start: 1996
         end: 1998
 socials:
-  bandsintown: "4717"
   facebook: "dankojones"
   instagram: "danko_jones"
   tiktok: ""
   threads: "@danko_jones"
   x: "dankojones"
+  bandsintown: "4717"
   youtube: "@dankotv"
   web: "https://dankojones.com/"
   email: "info@dankojones.com"

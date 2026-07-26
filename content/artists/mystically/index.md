@@ -3,9 +3,9 @@ id: "5a6cd4f1-3188-469a-be4f-d30a012d1de5"
 title: "Mystically"
 type: band
 socials:
-  bandsintown: "11331729"
   facebook: "MYSTICALLYSOULREGGAE"
   instagram: "mysticallymusic"
+  bandsintown: "11331729"
   youtube: "@mystically25"
   web: "https://www.mystically.net/"
   tidal: "17558331"

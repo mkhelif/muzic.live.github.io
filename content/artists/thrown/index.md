@@ -41,5 +41,6 @@ socials:
 todo:
   - Add detailed description
 lastUpdate:
+  apple: 2026-07-26
   bandsintown: 2026-07-23
 ---

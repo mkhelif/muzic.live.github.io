@@ -3,11 +3,11 @@ id: "6895c1fb-f672-4e11-a5cc-dc236d6ca7ec"
 title: "Blackfeet Revolution"
 type: band
 socials:
-  bandsintown: "1304081"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1304081"
   youtube: ""
   web: ""
   email: ""

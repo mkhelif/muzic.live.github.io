@@ -3,11 +3,11 @@ id: "cab4c355-2aa0-47e4-8dd0-e5c0cd702be3"
 title: "Gregory Porter"
 type: person
 socials:
-  bandsintown: "1025093"
   facebook: "gregoryportermusic"
   instagram: "gregoryportermusic"
   threads: "@gregoryportermusic"
   x: "GregoryPorter"
+  bandsintown: "1025093"
   youtube: "@GregoryPorterMusic"
   web: "https://www.gregoryporter.com/"
   tidal: "3780424"
@@ -21,6 +21,7 @@ socials:
 todo:
   - Add picture from concert
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

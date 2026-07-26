@@ -2,12 +2,12 @@
 id: "31049bb8-80e1-4dab-98a2-164f99f07662"
 title: "Anfisa Letyago"
 socials:
-  bandsintown: "9095903"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "9095903"
   youtube: ""
   web: ""
   email: ""

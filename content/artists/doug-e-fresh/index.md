@@ -3,11 +3,11 @@ id: "233b0dcb-ed2f-46c1-8b5c-1a0f1dc5e554"
 title: "Doug E. Fresh"
 type: person
 socials:
-  bandsintown: "123359"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "123359"
   youtube: ""
   web: ""
   email: ""

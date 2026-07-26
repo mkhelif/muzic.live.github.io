@@ -3,11 +3,11 @@ id: "7b12e3cb-08a9-4da7-bed8-36e029cbdb64"
 title: "Darque"
 type: unknown
 socials:
-  bandsintown: "3633312"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3633312"
   youtube: ""
   web: ""
   email: ""

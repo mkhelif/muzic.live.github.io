@@ -2,12 +2,12 @@
 id: "e6076447-0b20-4912-acdc-6023d9db78d9"
 title: "Kasia Lins"
 socials:
-  bandsintown: "3331964"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "3331964"
   youtube: ""
   web: ""
   email: ""

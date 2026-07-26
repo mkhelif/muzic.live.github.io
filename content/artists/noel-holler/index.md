@@ -2,12 +2,12 @@
 id: "ee6b9144-6bc7-4c38-8ca3-9c15d2c54c36"
 title: "Noel Holler"
 socials:
-  bandsintown: "12265190"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "12265190"
   youtube: ""
   web: ""
   email: ""

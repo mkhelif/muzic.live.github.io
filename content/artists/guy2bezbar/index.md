@@ -3,11 +3,11 @@ id: "309a0f06-d8fe-4f78-8053-b44ee46517ae"
 title: "Guy2Bezbar"
 type: person
 socials:
-  bandsintown: "13450320"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13450320"
   youtube: ""
   web: ""
   email: ""

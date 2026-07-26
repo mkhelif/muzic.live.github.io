@@ -3,7 +3,6 @@ id: "bb0e9c76-6f88-42f7-9683-39f0a5d52a8a"
 title: "Elie Zoé"
 type: person
 socials:
-  bandsintown: "2125120"
   facebook: "eliezoemusic"
   instagram: "eliezoemusic"
   web: "https://eliezoe.com/"
@@ -11,6 +10,7 @@ socials:
   spotify: "2t7zzvR3tKMctlLIUkTvjc"
   tiktok: ""
   x: ""
+  bandsintown: "2125120"
   youtube: ""
   email: ""
   amazon: ""

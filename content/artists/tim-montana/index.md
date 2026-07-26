@@ -2,11 +2,11 @@
 id: "3390dc3f-466d-4dfe-9d66-a731f2782829"
 title: "Tim Montana"
 socials:
-  bandsintown: "15007394"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15007394"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "c325f696-dbe0-4a4f-9d08-2b5e4270322b"
 title: "David Brown"
 type: person
 socials:
-  bandsintown: "130894"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "130894"
   youtube: ""
   web: ""
   email: ""

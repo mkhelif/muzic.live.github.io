@@ -14,9 +14,9 @@ members:
     periods:
       - start: 2009
 socials:
-  bandsintown: "1411710"
   facebook: "jahnerationofficial"
   instagram: "jahneration"
+  bandsintown: "1411710"
   youtube: "@Jahneration"
   web: "https://www.jahneration.com"
   tidal: "7599364"

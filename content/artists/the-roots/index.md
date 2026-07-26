@@ -3,11 +3,11 @@ id: "60a32285-accc-44eb-92d9-983eefa32e8c"
 title: "The Roots"
 type: band
 socials:
-  bandsintown: "305"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "305"
   youtube: ""
   web: ""
   email: ""

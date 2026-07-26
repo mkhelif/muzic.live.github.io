@@ -3,11 +3,11 @@ id: "c844a8c3-8c59-426d-abfc-f7a755bcd96e"
 title: "Carl Cox"
 type: person
 socials:
-  bandsintown: "49740"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "49740"
   youtube: ""
   web: ""
   email: ""

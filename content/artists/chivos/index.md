@@ -2,11 +2,11 @@
 id: "193c3c18-5988-4b9f-8b51-fb46904a59c4"
 title: "chivos"
 socials:
-  bandsintown: "5316444"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "5316444"
   youtube: ""
   web: ""
   email: ""

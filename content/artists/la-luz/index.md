@@ -63,11 +63,11 @@ members:
       - start: 2012
         end: 2012
 socials:
-  bandsintown: "914286"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "914286"
   youtube: ""
   web: ""
   email: ""

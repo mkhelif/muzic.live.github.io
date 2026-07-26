@@ -3,11 +3,11 @@ id: "6a5cfeb2-586f-4df0-b1b9-0264d060d792"
 title: "Martin Garrix"
 type: person
 socials:
-  bandsintown: "3386497"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3386497"
   youtube: ""
   web: ""
   email: ""

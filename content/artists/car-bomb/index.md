@@ -2,12 +2,12 @@
 id: "7e0dbe16-0b5d-4a69-b444-fedd80c3c2ba"
 title: "Car Bomb"
 socials:
-  bandsintown: "12475"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "12475"
   youtube: ""
   web: ""
   email: ""

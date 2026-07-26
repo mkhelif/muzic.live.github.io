@@ -3,11 +3,11 @@ id: "1acbf297-83ad-423c-8eae-55b4b86e8571"
 title: "Jennie"
 type: person
 socials:
-  bandsintown: "59762"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "59762"
   youtube: ""
   web: ""
   email: ""

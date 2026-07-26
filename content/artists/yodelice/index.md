@@ -3,11 +3,11 @@ id: "2f4ff7a0-0938-4423-a22d-1a294b28e2d1"
 title: "Yodelice"
 type: person
 socials:
-  bandsintown: "246680"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "246680"
   youtube: ""
   web: ""
   email: ""

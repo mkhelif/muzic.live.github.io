@@ -3,11 +3,11 @@ id: "41cd7e79-701b-453c-bda7-c94c40854558"
 title: "Horsegirl"
 type: band
 socials:
-  bandsintown: "15488888"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15488888"
   youtube: ""
   web: ""
   email: ""

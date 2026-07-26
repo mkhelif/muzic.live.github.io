@@ -3,11 +3,11 @@ id: "f0ca7cf6-4942-4fd5-a714-f42e98129894"
 title: "Louis Bertignac"
 type: person
 socials:
-  bandsintown: "39822"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "39822"
   youtube: ""
   web: ""
   email: ""

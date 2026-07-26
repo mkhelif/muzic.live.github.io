@@ -3,11 +3,11 @@ id: "c8f7e0c7-cf6b-4c84-8eb4-dc8b66cbdeb4"
 title: "Claude"
 type: unknown
 socials:
-  bandsintown: "329227"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "329227"
   youtube: ""
   web: ""
   email: ""

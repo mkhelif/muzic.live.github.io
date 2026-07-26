@@ -3,11 +3,11 @@ id: "b9ddba90-fef0-4607-894e-662559bba16a"
 title: "Justice"
 type: band
 socials:
-  bandsintown: "900"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "900"
   youtube: ""
   web: ""
   email: ""

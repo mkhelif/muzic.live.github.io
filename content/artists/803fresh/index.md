@@ -2,12 +2,12 @@
 id: "d8e4db58-9e94-4a85-8203-fa2ca8afe445"
 title: "803Fresh"
 socials:
-  bandsintown: "15555803"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15555803"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "e3588fcc-2380-4789-8448-d994e90e59e6"
 title: "Pascal Comelade"
 type: person
 socials:
-  bandsintown: "176915"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "176915"
   youtube: ""
   web: ""
   email: ""

@@ -7,8 +7,8 @@ socials:
   instagram: "johnbutler"
   tiktok: "@johnbutlerofficial"
   x: "johnbutlertrio"
-  youtube: "@jbtdotcom"
   bandsintown: "252989"
+  youtube: "@jbtdotcom"
   web: "https://johnbutlertrio.com/"
   tidal: "10989171"
   spotify: "7czrHF19KySaSs3dnBnPCR"
@@ -20,6 +20,7 @@ socials:
 todo:
   - Add cover from concert
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
   bandsintown: 2026-07-23
 ---

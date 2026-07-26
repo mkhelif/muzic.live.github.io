@@ -2,10 +2,10 @@
 id: "832a6917-01d5-4e0f-bbf4-e6b102efb350"
 title: "Jean Dolabella"
 socials:
-  bandsintown: "1468434"
   facebook: ""
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "1468434"
   youtube: ""
 ---

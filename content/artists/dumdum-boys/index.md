@@ -2,12 +2,12 @@
 id: "aedb0bfd-cefb-4f21-9b5d-418b7665637c"
 title: "Dumdum Boys"
 socials:
-  bandsintown: "73529"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "73529"
   youtube: ""
   web: ""
   email: ""

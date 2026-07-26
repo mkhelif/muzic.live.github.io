@@ -3,11 +3,11 @@ id: "b80fb88d-6cbb-48b4-86df-43b79c573c6e"
 title: "Crowbar"
 type: band
 socials:
-  bandsintown: "3739"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3739"
   youtube: ""
   web: ""
   email: ""

@@ -3,10 +3,10 @@ id: "6e6febdd-dd7a-45f2-8220-3c1ec817a95c"
 title: "Gringe"
 type: person
 socials:
-  bandsintown: "712806"
   facebook: "Gringeofficiel"
   instagram: "gringe"
   x: "officielgringe"
+  bandsintown: "712806"
   youtube: "@GringeOfficiel"
   tidal: "4725215"
   spotify: "4oVERQ0AxzzQ4zip1nMKlt"

@@ -3,11 +3,11 @@ id: "af485d52-0470-4b1e-92d4-cc76cada72c1"
 title: "Black Satellite"
 type: band
 socials:
-  bandsintown: "9892491"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "9892491"
   youtube: ""
   web: ""
   email: ""

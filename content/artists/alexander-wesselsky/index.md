@@ -3,11 +3,11 @@ id: "11acf681-7493-4f70-8e97-e21d67e10c16"
 title: "Alexander Wesselsky"
 type: person
 socials:
-  bandsintown: "1496733"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1496733"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "75df4267-d6bd-48e8-9069-a2e5ff6cbb01"
 title: "Biga*Ranx"
 type: person
 socials:
-  bandsintown: "7868872"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "7868872"
   youtube: ""
   web: ""
   email: ""

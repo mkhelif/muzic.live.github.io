@@ -2,12 +2,12 @@
 id: "30ab2321-7a60-4945-bcba-f77a8ddb9a40"
 title: "FVLCRVM"
 socials:
-  bandsintown: "9654825"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "9654825"
   youtube: ""
   web: ""
   email: ""

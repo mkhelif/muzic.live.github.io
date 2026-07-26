@@ -3,11 +3,11 @@ id: "ec827073-a82f-4b3a-80dd-08c4312f6566"
 title: "Del The Funky Homosapien"
 type: person
 socials:
-  bandsintown: "14470300"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "14470300"
   youtube: ""
   web: ""
   email: ""

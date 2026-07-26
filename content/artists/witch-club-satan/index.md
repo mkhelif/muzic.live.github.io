@@ -3,11 +3,11 @@ id: "e56d5d8e-d08c-48fe-91e9-7d8764709ac0"
 title: "Witch Club Satan"
 type: band
 socials:
-  bandsintown: "15566974"
   facebook: "witchclubsatan"
   instagram: "witchclubsatan"
   tiktok: "@witch.club.satan"
   x: ""
+  bandsintown: "15566974"
   youtube: "@witchclubsatan"
   web: "https://www.witchclubsatan.com/"
   email: "witchclubsatan@gmail.com"

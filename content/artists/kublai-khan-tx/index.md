@@ -3,11 +3,11 @@ id: "af57c201-1b6f-493d-91d4-e6b6116ef4f9"
 title: "Kublai Khan TX"
 type: band
 socials:
-  bandsintown: "114587"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "114587"
   youtube: ""
   web: ""
   email: ""

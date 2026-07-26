@@ -3,11 +3,11 @@ id: "5dbf5355-5148-4fda-9081-23efd0c50ed2"
 title: "Save Your Last Breath"
 type: band
 socials:
-  bandsintown: "1798036"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1798036"
   youtube: ""
   web: ""
   email: ""

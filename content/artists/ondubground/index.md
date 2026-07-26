@@ -3,11 +3,11 @@ id: "a66c823e-de2e-436b-8cd6-22f048d53455"
 title: "Ondubground"
 type: band
 socials:
-  bandsintown: "588533"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "588533"
   youtube: ""
   web: ""
   email: ""

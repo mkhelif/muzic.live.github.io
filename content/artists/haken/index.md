@@ -3,11 +3,11 @@ id: "c3c51715-feee-45b2-ae1f-f905d5d07ce8"
 title: "Haken"
 type: band
 socials:
-  bandsintown: "296639"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "296639"
   youtube: ""
   web: ""
   email: ""

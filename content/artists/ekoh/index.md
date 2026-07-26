@@ -3,11 +3,11 @@ id: "659869cd-9004-4303-b6a7-72de8e4eb4f6"
 title: "Ekoh"
 type: person
 socials:
-  bandsintown: "1119393"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1119393"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "5afe627d-033b-467f-ad01-0f0e7a61feda"
 title: "Nat Myers"
 type: person
 socials:
-  bandsintown: "15494072"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15494072"
   youtube: ""
   web: ""
   email: ""

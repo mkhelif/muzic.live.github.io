@@ -2,12 +2,12 @@
 id: "f04b1656-1b00-4bf3-93c9-1ab75fa124a0"
 title: "Miillyrose"
 socials:
-  bandsintown: "15495148"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15495148"
   youtube: ""
   web: ""
   email: ""

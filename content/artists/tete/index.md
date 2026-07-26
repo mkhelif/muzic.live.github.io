@@ -3,11 +3,11 @@ id: "2ec22824-ec08-49ed-8f6b-06d315e0b0a0"
 title: "Tété"
 type: person
 socials:
-  bandsintown: "47343"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "47343"
   youtube: ""
   web: ""
   email: ""

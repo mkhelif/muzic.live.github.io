@@ -2,12 +2,12 @@
 id: "d2fee435-7079-4a54-9945-a4194d631460"
 title: "Yu"
 socials:
-  bandsintown: "15585523"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15585523"
   youtube: ""
   web: ""
   email: ""

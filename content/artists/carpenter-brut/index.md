@@ -3,11 +3,11 @@ id: "b911bd2d-c35a-4e6e-b497-1e1cfcb8a31c"
 title: "Carpenter Brut"
 type: person
 socials:
-  bandsintown: "2435315"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2435315"
   youtube: ""
   web: ""
   email: ""

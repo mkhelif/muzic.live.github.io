@@ -3,11 +3,11 @@ id: "a01ee90b-808b-48d5-90aa-6c3f9d36410c"
 title: "Daysy"
 type: person
 socials:
-  bandsintown: "15570238"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15570238"
   youtube: ""
   web: ""
   email: ""

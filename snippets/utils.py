@@ -360,6 +360,65 @@ title: "{yaml_quote(location['name'])}"
     return location_id
 
 
+# Country names pycountry cannot resolve (user-assigned / non-ISO), mapped to
+# the alpha-2 keys used in COUNTRIES.
+MANUAL_COUNTRIES = {
+    "kosovo": "XK",
+}
+
+
+def resolve_country(name):
+    """Map a free-form country name/code to the ``{name, code}`` dict expected by
+    the venue creators (French name + ISO alpha-3 code)."""
+    if not name:
+        return None
+    try:
+        alpha_2 = pycountry.countries.lookup(name).alpha_2
+    except LookupError:
+        alpha_2 = MANUAL_COUNTRIES.get(str(name).strip().lower())
+    if alpha_2 and alpha_2 in COUNTRIES:
+        return COUNTRIES[alpha_2]
+    # Unknown country: fall back to the raw name as both label and code.
+    return {"name": name, "code": name}
+
+
+def get_or_create_venue(location):
+    """Like ``get_or_create_location`` but stores the venue coordinates when the
+    location dict provides ``latitude`` / ``longitude``."""
+    directory = Path(
+        f"./content/venues/{format_filename(location['country']['code'])}/"
+        f"{format_filename(location['city'])}/{format_filename(location['name'])}"
+    )
+    directory.mkdir(parents=True, exist_ok=True)
+    file = directory.joinpath("index.md")
+
+    if file.exists():
+        venue_id = load_frontmatter(file).get("id", None)
+        if venue_id is None:
+            raise Exception(f"Existing venue without id: {file}")
+        return str(venue_id)
+
+    parent_id = get_or_create_location_city(location["country"], location["city"])
+    venue_id = uuid.uuid4()
+
+    lines = [
+        "---",
+        f'id: "{venue_id}"',
+        f'venue: "{parent_id}"',
+        f'title: "{yaml_quote(location["name"])}"',
+    ]
+    if location.get("latitude") and location.get("longitude"):
+        lines += [
+            "coordinates:",
+            f"  latitude: {location['latitude']}",
+            f"  longitude: {location['longitude']}",
+            "  zoom: 15",
+        ]
+    lines += ["---", ""]
+    file.write_text("\n".join(lines), encoding="UTF-8")
+    return str(venue_id)
+
+
 # ---------------------------------------------------------------------------
 # HTTP session with Cloudflare handling (shared by the web scrapers).
 # ---------------------------------------------------------------------------

@@ -3,11 +3,11 @@ id: "dac7a71b-6b64-4bce-bf9f-9b8779aa68a4"
 title: "Chase & Status"
 type: band
 socials:
-  bandsintown: "34803"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "34803"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "f7683563-f7e5-42d7-b7bf-2b168b0727d4"
 title: "Candlemass"
 type: band
 socials:
-  bandsintown: "52263"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "52263"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "0fe3aa52-0751-4bb1-bccb-7e86fa603b85"
 title: "Cabaret Voltaire"
 type: band
 socials:
-  bandsintown: "22477"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "22477"
   youtube: ""
   web: ""
   email: ""

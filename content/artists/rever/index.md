@@ -3,11 +3,11 @@ id: "b434e2bb-94a5-4cf8-8d85-9998db5de2c4"
 title: "Rever"
 type: unknown
 socials:
-  bandsintown: "757025"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "757025"
   youtube: ""
   web: ""
   email: ""

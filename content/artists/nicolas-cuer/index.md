@@ -2,12 +2,12 @@
 id: "0abd312c-c7f0-4e25-9782-8b84df817396"
 title: "Nicolas Cuer"
 socials:
-  bandsintown: "949659"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "949659"
   youtube: ""
   web: ""
   email: ""

@@ -2,12 +2,12 @@
 id: "5b6d7b21-3bdf-4c84-a05b-cacdad853fc8"
 title: "Gene Simmons"
 socials:
-  bandsintown: "57548"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "57548"
   youtube: ""
   web: ""
   email: ""

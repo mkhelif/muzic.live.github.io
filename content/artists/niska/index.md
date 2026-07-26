@@ -3,11 +3,11 @@ id: "583715c3-660b-415b-9196-5b52b5fda6a6"
 title: "Niska"
 type: person
 socials:
-  bandsintown: "272239"
   facebook: "NiskaOfficiel"
   instagram: "niska_officiel"
   tiktok: "@niskamusic"
   x: "niska_officiel"
+  bandsintown: "272239"
   youtube: "@NiskaOfficiel91"
   tidal: "6101571"
   spotify: "7CUFPNi1TU8RowpnFRSsZV"

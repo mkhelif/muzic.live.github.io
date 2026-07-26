@@ -2,12 +2,12 @@
 id: "3a4ab22a-f070-420b-99b8-74c382890637"
 title: "Davy Boi"
 socials:
-  bandsintown: "15380952"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15380952"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "b8acf478-cc38-4f08-acc0-26347f64a2b8"
 title: "Chris Janson"
 type: person
 socials:
-  bandsintown: "49379"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "49379"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "589af351-28ab-4478-9800-9c5c83abb25e"
 title: "Benighted"
 type: band
 socials:
-  bandsintown: "41427"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "41427"
   youtube: ""
   web: ""
   email: ""

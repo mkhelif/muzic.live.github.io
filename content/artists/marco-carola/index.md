@@ -2,12 +2,12 @@
 id: "5b751587-34c5-4b0e-a421-12adbc76ee81"
 title: "Marco Carola"
 socials:
-  bandsintown: "97134"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "97134"
   youtube: ""
   web: ""
   email: ""

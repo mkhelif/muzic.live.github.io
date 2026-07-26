@@ -3,11 +3,11 @@ id: "99ddff9f-5b4a-4ec1-857a-793f578ce9d0"
 title: "CirKus"
 type: band
 socials:
-  bandsintown: "35548"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "35548"
   youtube: ""
   web: ""
   email: ""

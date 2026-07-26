@@ -3,11 +3,11 @@ id: "1e5a4b94-1217-4e72-8607-84e97f802431"
 title: "Kool & The Gang"
 type: band
 socials:
-  bandsintown: "4901"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4901"
   youtube: ""
   web: ""
   email: ""

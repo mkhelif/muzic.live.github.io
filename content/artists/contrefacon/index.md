@@ -3,11 +3,11 @@ id: "6602b80e-8712-4e15-a45a-6ab64d628223"
 title: "Contrefaçon"
 type: band
 socials:
-  bandsintown: "11312911"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "11312911"
   youtube: ""
   web: ""
   email: ""

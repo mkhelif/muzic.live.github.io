@@ -3,11 +3,11 @@ id: "8717a78f-dff6-491a-816d-b5dc46d9b7d0"
 title: "White Lies"
 type: band
 socials:
-  bandsintown: "178836"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "178836"
   youtube: ""
   web: ""
   email: ""

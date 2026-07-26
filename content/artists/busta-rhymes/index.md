@@ -2,12 +2,12 @@
 id: "7e0ebd29-ad35-4845-b79b-df08f23c4643"
 title: "Busta Rhymes"
 socials:
-  bandsintown: "138"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "138"
   youtube: ""
   web: ""
   email: ""

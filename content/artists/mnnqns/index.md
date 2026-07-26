@@ -3,11 +3,11 @@ id: "3a6f10e8-245a-49d1-8371-40ea8338c32b"
 title: "MNNQNS"
 type: band
 socials:
-  bandsintown: "12288849"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "12288849"
   youtube: ""
   web: ""
   email: ""

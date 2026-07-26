@@ -3,11 +3,11 @@ id: "513fa998-822c-4802-a2bc-e02114975066"
 title: "Perturbator"
 type: person
 socials:
-  bandsintown: "2464978"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2464978"
   youtube: ""
   web: ""
   email: ""

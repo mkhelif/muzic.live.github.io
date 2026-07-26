@@ -3,11 +3,11 @@ id: "035a4e3f-d88a-43ec-aced-c39a552432a9"
 title: "Madsen"
 type: band
 socials:
-  bandsintown: "50421"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "50421"
   youtube: ""
   web: ""
   email: ""

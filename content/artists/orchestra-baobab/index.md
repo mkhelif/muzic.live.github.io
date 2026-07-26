@@ -3,11 +3,11 @@ id: "69c1eb57-ffde-49cf-8560-cf6a2e6fd2b3"
 title: "Orchestra Baobab"
 type: band
 socials:
-  bandsintown: "68223"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "68223"
   youtube: ""
   web: ""
   email: ""

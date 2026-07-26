@@ -3,11 +3,11 @@ id: "914f77d5-407f-4fa3-9ac7-f1f2ae9687b4"
 title: "Balbino Medellin"
 type: person
 socials:
-  bandsintown: "339888"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "339888"
   youtube: ""
   web: ""
   email: ""

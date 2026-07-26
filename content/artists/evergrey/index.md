@@ -3,11 +3,11 @@ id: "58a97ccc-5daa-47b4-90ca-ba8fdb2b629f"
 title: "Evergrey"
 type: band
 socials:
-  bandsintown: "22187"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "22187"
   youtube: ""
   web: ""
   email: ""

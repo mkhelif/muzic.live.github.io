@@ -3,11 +3,11 @@ id: "5c360b40-181a-4ea7-89e6-7897ed25e8a7"
 title: "Apashe"
 type: person
 socials:
-  bandsintown: "2238420"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2238420"
   youtube: ""
   web: ""
   email: ""

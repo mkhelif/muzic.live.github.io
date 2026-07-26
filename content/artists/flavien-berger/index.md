@@ -3,11 +3,11 @@ id: "0df113a6-a7b3-43b1-92e3-2c7f065a5f21"
 title: "Flavien Berger"
 type: person
 socials:
-  bandsintown: "9576533"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "9576533"
   youtube: ""
   web: ""
   email: ""

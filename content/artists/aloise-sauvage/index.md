@@ -3,11 +3,11 @@ id: "259604b1-b6e7-484d-b952-8d6a9ee0c9fd"
 title: "Aloïse Sauvage"
 type: person
 socials:
-  bandsintown: "15015464"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15015464"
   youtube: ""
   web: ""
   email: ""

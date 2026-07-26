@@ -3,11 +3,11 @@ id: "86510f82-d652-4a87-b030-c7f5fa1462a4"
 title: "Émilie Simon"
 type: person
 socials:
-  bandsintown: "6500"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "6500"
   youtube: ""
   web: ""
   email: ""

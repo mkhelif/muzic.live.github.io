@@ -2,12 +2,12 @@
 id: "143172ab-f314-4527-be2d-ce7f6378389a"
 title: "Blu Samu"
 socials:
-  bandsintown: "14698516"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "14698516"
   youtube: ""
   web: ""
   email: ""

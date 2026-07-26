@@ -3,11 +3,11 @@ id: "ea407c16-d982-451f-9a79-4cc9c4df267d"
 title: "Lael Neale"
 type: person
 socials:
-  bandsintown: "970210"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "970210"
   youtube: ""
   web: ""
   email: ""

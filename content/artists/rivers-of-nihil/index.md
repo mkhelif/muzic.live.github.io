@@ -3,11 +3,11 @@ id: "431dd317-fc46-4673-b037-509580e3d29a"
 title: "Rivers Of Nihil"
 type: band
 socials:
-  bandsintown: "1048458"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1048458"
   youtube: ""
   web: ""
   email: ""

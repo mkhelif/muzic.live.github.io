@@ -2,12 +2,12 @@
 id: "f9fdb73a-7631-4436-8b29-841c6bc67a26"
 title: "Moonya"
 socials:
-  bandsintown: "4559393"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "4559393"
   youtube: ""
   web: ""
   email: ""

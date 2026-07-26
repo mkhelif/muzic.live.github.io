@@ -3,11 +3,11 @@ id: "067caa30-b527-4546-91c4-a77841b5984b"
 title: "Yann Muller"
 type: person
 socials:
-  bandsintown: "6611751"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "6611751"
   youtube: ""
   web: ""
   email: ""

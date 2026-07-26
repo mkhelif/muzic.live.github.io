@@ -3,10 +3,10 @@ id: "be2aeec5-8bec-44ee-825d-a54a09c97fa9"
 title: "Danitsa"
 type: person
 socials:
-  bandsintown: "2965016"
   facebook: "DanitsaOfficiel"
   instagram: "danitsa_m"
   tiktok: "@danitsa_m"
+  bandsintown: "2965016"
   youtube: "@DanitsaOfficial"
   bandcamp: "danitsa"
   amazon: "B00GZZPWNO"
@@ -19,6 +19,7 @@ socials:
   x: ""
   web: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

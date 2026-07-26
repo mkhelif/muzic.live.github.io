@@ -3,11 +3,11 @@ id: "cf6ec746-d282-413e-a814-86ef9df1cd05"
 title: "Razorlight"
 type: band
 socials:
-  bandsintown: "704"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "704"
   youtube: ""
   web: ""
   email: ""

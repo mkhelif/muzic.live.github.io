@@ -3,11 +3,11 @@ id: "dd2a8171-32a6-4cbf-9ec4-90fe1df431d0"
 title: "Paul Johnson"
 type: person
 socials:
-  bandsintown: "3129594"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3129594"
   youtube: ""
   web: ""
   email: ""

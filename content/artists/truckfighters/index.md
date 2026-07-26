@@ -3,11 +3,11 @@ id: "6de26da7-6bde-4231-a3ef-63eef9d60276"
 title: "Truckfighters"
 type: band
 socials:
-  bandsintown: "63902"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "63902"
   youtube: ""
   web: ""
   email: ""

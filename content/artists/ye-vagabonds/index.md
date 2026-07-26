@@ -3,11 +3,11 @@ id: "4b270dde-f20c-4533-855f-e0e4db75e2fc"
 title: "Ye Vagabonds"
 type: band
 socials:
-  bandsintown: "11545233"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "11545233"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "3271c719-ab79-4ee1-a768-0a6b3c9684dd"
 title: "Kyo"
 type: band
 socials:
-  bandsintown: "9192"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "9192"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "d3502f26-65f4-4f38-b098-935dccba9fdd"
 title: "Macklemore"
 type: person
 socials:
-  bandsintown: "2037479"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2037479"
   youtube: ""
   web: ""
   email: ""

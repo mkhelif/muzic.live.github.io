@@ -3,11 +3,11 @@ id: "b57d69de-9d41-4724-bc75-8d796ccb44dd"
 title: "Dying Wish"
 type: band
 socials:
-  bandsintown: "373799"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "373799"
   youtube: ""
   web: ""
   email: ""

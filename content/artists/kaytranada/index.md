@@ -3,11 +3,11 @@ id: "218ff39f-9eca-4272-b06f-724de51f116b"
 title: "Kaytranada"
 type: person
 socials:
-  bandsintown: "5035831"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "5035831"
   youtube: ""
   web: ""
   email: ""

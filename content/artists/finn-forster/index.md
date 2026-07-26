@@ -3,11 +3,11 @@ id: "af51446e-5719-4c11-ad8a-5016870fb7fd"
 title: "Finn Forster"
 type: person
 socials:
-  bandsintown: "15550349"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15550349"
   youtube: ""
   web: ""
   email: ""

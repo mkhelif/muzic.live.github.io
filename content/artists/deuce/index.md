@@ -3,11 +3,11 @@
 id: "4d66bdd8-1266-416d-b36a-83494fac1d6c"
 title: "Deuce"
 socials:
-  bandsintown: "233645"
   facebook: ""
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "233645"
   youtube: ""
   spotify: "1i1Y1ypn7nCQrvMhqbe6wt"
 lastUpdate:

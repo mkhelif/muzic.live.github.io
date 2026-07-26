@@ -2,12 +2,12 @@
 id: "eab9f222-b3ac-4680-a679-dd321c90d155"
 title: "Eli Brown"
 socials:
-  bandsintown: "7489386"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "7489386"
   youtube: ""
   web: ""
   email: ""

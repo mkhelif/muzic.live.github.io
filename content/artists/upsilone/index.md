@@ -3,11 +3,11 @@ id: "4986ba2c-8a43-44e0-bdb5-825c5adf11f6"
 title: "Upsilone"
 type: unknown
 socials:
-  bandsintown: "10946285"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "10946285"
   youtube: ""
   web: ""
   email: ""

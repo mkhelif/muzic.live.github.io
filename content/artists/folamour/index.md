@@ -3,11 +3,11 @@ id: "12543397-bb74-489a-bf7a-41b689352f83"
 title: "Folamour"
 type: person
 socials:
-  bandsintown: "10613731"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "10613731"
   youtube: ""
   web: ""
   email: ""

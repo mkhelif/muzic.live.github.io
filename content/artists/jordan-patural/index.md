@@ -3,11 +3,11 @@ id: "529de074-4492-4cc2-86fe-0dad48d65dc2"
 title: "Jordan Patural"
 type: person
 socials:
-  bandsintown: "8274529"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "8274529"
   youtube: ""
   web: ""
   email: ""

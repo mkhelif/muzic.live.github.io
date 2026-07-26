@@ -3,11 +3,11 @@ id: "d5a5c250-8bdc-4c66-beca-758683194163"
 title: "Dave Mustaine"
 type: person
 socials:
-  bandsintown: "367355"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "367355"
   youtube: ""
   web: ""
   email: ""

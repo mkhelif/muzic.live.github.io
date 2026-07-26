@@ -3,11 +3,11 @@ id: "7480d1ea-67f6-496e-a420-0f62207fe898"
 title: "Yonaka"
 type: band
 socials:
-  bandsintown: "11100752"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "11100752"
   youtube: ""
   web: ""
   email: ""

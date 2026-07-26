@@ -3,11 +3,11 @@ id: "d0522160-e901-42aa-8cf0-cd4c76c1d324"
 title: "Ghetto Priest"
 type: person
 socials:
-  bandsintown: "246402"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "246402"
   youtube: ""
   web: ""
   email: ""

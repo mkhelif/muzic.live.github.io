@@ -7,8 +7,8 @@ socials:
   instagram: "curtisharding"
   tiktok: "@curtishardingmusic"
   x: "Curtis_Harding"
-  youtube: "@curtishardingofficial"
   bandsintown: "8030961"
+  youtube: "@curtishardingofficial"
   web: "https://curtisharding.com/"
   email: ""
   amazon: "B00385IPU6"
@@ -18,6 +18,7 @@ socials:
   spotify: "0CUpzKPDfIVzYqMn47jiV3"
   tidal: "5430289"
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
   bandsintown: 2026-07-23
 ---

@@ -109,11 +109,11 @@ members:
       - start: 2005
         end: 2006
 socials:
-  bandsintown: "796"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "796"
   youtube: ""
   web: ""
   email: ""

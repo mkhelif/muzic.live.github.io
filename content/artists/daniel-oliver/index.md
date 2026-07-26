@@ -3,12 +3,12 @@ id: "1d05398e-49f6-4773-be47-e5da350fb1db"
 title: "Daniel Oliver"
 type: person
 socials:
-  bandsintown: "2316906"
   facebook: ""
   instagram: "danfunkrailroad"
   threads: "@danfunkrailroad"
   tiktok: ""
   x: ""
+  bandsintown: "2316906"
   youtube: ""
   web: ""
   email: ""

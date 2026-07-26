@@ -3,11 +3,11 @@ id: "c26e4238-273f-4e9b-8a85-1b18eee8608e"
 title: "Mat Madiro"
 type: person
 socials:
-  bandsintown: "11202569"
   facebook: ""
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "11202569"
   youtube: ""
 todo:
   - Add description/picture/socials

@@ -3,11 +3,11 @@ id: "025bf231-c372-4f3b-961e-1e289b639ab1"
 title: "Flox"
 type: person
 socials:
-  bandsintown: "132293"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "132293"
   youtube: ""
   web: ""
   email: ""

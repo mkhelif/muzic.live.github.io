@@ -3,11 +3,11 @@ id: "e2b49a76-9fac-4ed8-9469-da5531256261"
 title: "Pontus Norgren"
 type: person
 socials:
-  bandsintown: "406039"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "406039"
   youtube: ""
   web: ""
   email: ""

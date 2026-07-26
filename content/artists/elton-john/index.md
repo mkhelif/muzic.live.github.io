@@ -3,11 +3,11 @@ id: "f79d68ec-9e0e-4a26-b7c8-a2e1f79e604b"
 title: "Elton John"
 type: person
 socials:
-  bandsintown: "26637"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "26637"
   youtube: ""
   web: ""
   email: ""

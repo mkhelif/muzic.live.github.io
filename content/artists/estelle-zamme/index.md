@@ -3,11 +3,11 @@ id: "d4332970-cf26-443b-b03e-93dd6068180c"
 title: "Estelle Zamme"
 type: band
 socials:
-  bandsintown: "15551633"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15551633"
   youtube: ""
   web: ""
   email: ""

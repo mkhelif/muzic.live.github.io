@@ -3,11 +3,11 @@ id: "9fa6ad88-bcb1-49a1-9ef4-215646ca14a0"
 title: "Nusantara Beat"
 type: band
 socials:
-  bandsintown: "15542045"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15542045"
   youtube: ""
   web: ""
   email: ""

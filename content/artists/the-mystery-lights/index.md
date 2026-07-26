@@ -3,11 +3,11 @@ id: "a60eee1a-fcdc-4325-8ed6-9c1c85faf649"
 title: "The Mystery Lights"
 type: band
 socials:
-  bandsintown: "347297"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "347297"
   youtube: ""
   web: ""
   email: ""

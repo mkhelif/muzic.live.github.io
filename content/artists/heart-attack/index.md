@@ -2,12 +2,12 @@
 id: "cb137c72-42ca-4dd1-8925-470d7f6ca9cc"
 title: "Heart Attack"
 socials:
-  bandsintown: "40288"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "40288"
   youtube: ""
   web: ""
   email: ""

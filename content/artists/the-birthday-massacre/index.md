@@ -2,12 +2,12 @@
 id: "7b372e60-3594-4135-ab2d-2c60b3c90ae7"
 title: "The Birthday Massacre"
 socials:
-  bandsintown: "890"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "890"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "14c21904-f564-41fa-8bf8-46a40e3d8815"
 title: "Synapson"
 type: band
 socials:
-  bandsintown: "2068869"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2068869"
   youtube: ""
   web: ""
   email: ""

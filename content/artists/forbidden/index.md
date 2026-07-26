@@ -3,11 +3,11 @@ id: "976133bf-5aae-49bd-87e3-739bbeed6102"
 title: "Forbidden"
 type: band
 socials:
-  bandsintown: "13563"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13563"
   youtube: ""
   web: ""
   email: ""

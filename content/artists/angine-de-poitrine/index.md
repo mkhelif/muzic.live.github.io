@@ -18,8 +18,8 @@ members:
 socials:
   facebook: "angine.poitrine"
   instagram: "anginedepoitrine"
-  youtube: "@AnginePoitrine"
   bandsintown: "15537640"
+  youtube: "@AnginePoitrine"
   songkick: "10366104"
   web: "https://anginedepoitrine.com/"
   tidal: "48213083"
@@ -34,6 +34,7 @@ socials:
 todo:
   - Add picture
 lastUpdate:
+  apple: 2026-07-26
   bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---

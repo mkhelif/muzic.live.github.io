@@ -3,11 +3,11 @@ id: "87a2901f-af78-4f21-ad9b-ebbc05f0da85"
 title: "Angèle"
 type: person
 socials:
-  bandsintown: "495472"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "495472"
   youtube: ""
   web: ""
   email: ""

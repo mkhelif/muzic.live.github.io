@@ -25,11 +25,11 @@ members:
     periods:
       - start: 2013
 socials:
-  bandsintown: "17503"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "17503"
   youtube: ""
   web: ""
   email: ""

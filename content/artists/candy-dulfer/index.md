@@ -2,12 +2,12 @@
 id: "52160707-800f-46be-addb-e04d07bda18c"
 title: "Candy Dulfer"
 socials:
-  bandsintown: "49308"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "49308"
   youtube: ""
   web: ""
   email: ""

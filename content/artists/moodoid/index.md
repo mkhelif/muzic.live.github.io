@@ -3,11 +3,11 @@ id: "5622b81e-8eb6-45dd-bc0c-ac75068a7c82"
 title: "Moodoïd"
 type: band
 socials:
-  bandsintown: "2026586"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2026586"
   youtube: ""
   web: ""
   email: ""

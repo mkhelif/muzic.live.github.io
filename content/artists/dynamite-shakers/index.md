@@ -25,9 +25,9 @@ members:
     periods:
       - start: 2020
 socials:
-  bandsintown: "15505092"
   facebook: "dynamiteshakers"
   instagram: "dynashakers"
+  bandsintown: "15505092"
   youtube: "@dynashakers"
   tidal: "30182232"
   spotify: "0T6jBctjBGXqRmXI2pe0aT"

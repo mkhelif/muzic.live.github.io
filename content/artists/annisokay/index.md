@@ -3,11 +3,11 @@ id: "09d3b802-38fa-49f6-b4ef-a24b6fd7bc3c"
 title: "Annisokay"
 type: band
 socials:
-  bandsintown: "1119874"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1119874"
   youtube: ""
   web: ""
   email: ""

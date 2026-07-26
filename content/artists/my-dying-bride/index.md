@@ -3,11 +3,11 @@ id: "5c958fc3-4b49-4a8b-a611-3773487fcd7f"
 title: "My Dying Bride"
 type: band
 socials:
-  bandsintown: "3892"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3892"
   youtube: ""
   web: ""
   email: ""

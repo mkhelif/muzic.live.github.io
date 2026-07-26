@@ -2,12 +2,12 @@
 id: "fd8ddaf9-79f9-4b6a-9017-7bd9563232e1"
 title: "Lucius"
 socials:
-  bandsintown: "163001"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "163001"
   youtube: ""
   web: ""
   email: ""

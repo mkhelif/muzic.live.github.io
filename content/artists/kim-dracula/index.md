@@ -3,11 +3,11 @@ id: "16ee444c-b467-413a-9690-1992a2999278"
 title: "Kim Dracula"
 type: person
 socials:
-  bandsintown: "15512795"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15512795"
   youtube: ""
   web: ""
   email: ""

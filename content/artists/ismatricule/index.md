@@ -3,11 +3,11 @@ id: "e8a97a79-2c0d-4dfd-9611-db4f3cb70f51"
 title: "Ismatricule"
 type: person
 socials:
-  bandsintown: "15602063"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15602063"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "daaba4c9-6531-4349-9a2f-75b13f271934"
 title: "Diego"
 type: person
 socials:
-  bandsintown: "11001"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "11001"
   youtube: ""
   web: ""
   email: ""

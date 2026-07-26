@@ -2,12 +2,12 @@
 id: "2985ce5d-412b-4f5f-907b-ff9947e125ca"
 title: "Brian Jackson"
 socials:
-  bandsintown: "163641"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "163641"
   youtube: ""
   web: ""
   email: ""

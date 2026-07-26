@@ -3,11 +3,11 @@ id: "6a069306-1ff1-44b5-a26a-47e8eb5c5ae4"
 title: "Requin Chagrin"
 type: band
 socials:
-  bandsintown: "11772753"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "11772753"
   youtube: ""
   web: ""
   email: ""

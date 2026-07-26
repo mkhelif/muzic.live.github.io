@@ -3,11 +3,11 @@ id: "ef1bcffe-5d45-47d1-9199-3220ed6036a0"
 title: "Die Spitz"
 type: band
 socials:
-  bandsintown: "15518346"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15518346"
   youtube: ""
   web: ""
   email: ""

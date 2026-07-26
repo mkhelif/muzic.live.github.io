@@ -3,11 +3,11 @@ id: "b5fa3f1c-ded0-4a32-9193-9c2fd9862e48"
 title: "Warhaus"
 type: person
 socials:
-  bandsintown: "7616182"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "7616182"
   youtube: ""
   web: ""
   email: ""

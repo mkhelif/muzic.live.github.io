@@ -49,11 +49,11 @@ members:
       - start: 1981
         end: 1982
 socials:
-  bandsintown: "128"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "128"
   youtube: ""
   web: ""
   email: ""

@@ -3,12 +3,12 @@ id: "2d61732a-3fd7-4eac-b483-ab369fe8c149"
 title: "Mark Vollelunga"
 type: person
 socials:
-  bandsintown: "11045612"
   facebook: ""
   instagram: "MarkVollelunga"
   threads: "@MarkVollelunga"
   tiktok: ""
   x: ""
+  bandsintown: "11045612"
   youtube: ""
   web: ""
   email: ""

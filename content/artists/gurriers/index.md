@@ -3,11 +3,11 @@ id: "11f77c50-17e4-476b-bf78-65a4eec9c556"
 title: "Gurriers"
 type: band
 socials:
-  bandsintown: "15508161"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15508161"
   youtube: ""
   web: ""
   email: ""

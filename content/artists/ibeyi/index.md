@@ -3,11 +3,11 @@ id: "b16f6f5b-0726-45f2-8cf0-6f5d801eaa80"
 title: "Ibeyi"
 type: band
 socials:
-  bandsintown: "3293216"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3293216"
   youtube: ""
   web: ""
   email: ""

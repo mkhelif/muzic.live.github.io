@@ -3,11 +3,11 @@ id: "67b529a4-857c-455a-909a-c0fcbbfc4d9e"
 title: "Declan Mckenna"
 type: person
 socials:
-  bandsintown: "8482714"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "8482714"
   youtube: ""
   web: ""
   email: ""

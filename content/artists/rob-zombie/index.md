@@ -3,11 +3,11 @@ id: "a1504ced-de9d-417a-ad84-4d17f15008f5"
 title: "Rob Zombie"
 type: person
 socials:
-  bandsintown: "192"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "192"
   youtube: ""
   web: ""
   email: ""

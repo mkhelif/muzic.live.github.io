@@ -49,11 +49,11 @@ members:
       - start: 1986
         end: 1992
 socials:
-  bandsintown: "2409"
   facebook: "europetheband"
   instagram: "officialeuropetheband"
   tiktok: "@europethebandofficial"
   x: "europetheband"
+  bandsintown: "2409"
   youtube: "@europethebandtv"
   web: "https://www.europetheband.com/"
   tidal: "554"

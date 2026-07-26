@@ -2,12 +2,12 @@
 id: "4b45b03d-93b0-4eaf-84c8-e98cb6957b39"
 title: "Balancing Act"
 socials:
-  bandsintown: "984391"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "984391"
   youtube: ""
   web: ""
   email: ""

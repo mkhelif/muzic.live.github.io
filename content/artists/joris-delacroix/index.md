@@ -3,11 +3,11 @@ id: "b25252ce-be9d-4735-a92b-55189ec9bf8c"
 title: "Joris Delacroix"
 type: person
 socials:
-  bandsintown: "746711"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "746711"
   youtube: ""
   web: ""
   email: ""

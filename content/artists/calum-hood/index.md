@@ -3,11 +3,11 @@ id: "37b092e2-8905-4342-ab59-5257f1e8fb3e"
 title: "Calum Hood"
 type: person
 socials:
-  bandsintown: "3785577"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3785577"
   youtube: ""
   web: ""
   email: ""

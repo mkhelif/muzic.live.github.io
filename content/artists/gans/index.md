@@ -3,11 +3,11 @@ id: "c23b5587-0e74-4c28-8ce4-1f3fc81bddb5"
 title: "Gans"
 type: band
 socials:
-  bandsintown: "15573880"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15573880"
   youtube: ""
   web: ""
   email: ""

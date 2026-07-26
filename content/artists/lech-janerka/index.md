@@ -2,12 +2,12 @@
 id: "f3613f27-3ab0-4276-a3b1-753e51c444dd"
 title: "Lech Janerka"
 socials:
-  bandsintown: "52636"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "52636"
   youtube: ""
   web: ""
   email: ""

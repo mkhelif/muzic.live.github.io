@@ -2,11 +2,11 @@
 id: "e4ef8b67-cb3d-45b5-ab09-5b66aa832e62"
 title: "Jamison Ross"
 socials:
-  bandsintown: "5901828"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "5901828"
   youtube: ""
   web: ""
   email: ""

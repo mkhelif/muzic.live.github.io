@@ -5,11 +5,11 @@ type: person
 aliases:
   - Mika
 socials:
-  bandsintown: "657"
   facebook: "mikasounds"
   instagram: "mikainstagram"
   tiktok: "@mikatiktok"
   x: "mikasounds"
+  bandsintown: "657"
   youtube: "@MikaSoundsOfficial"
   web: "https://www.yomika.com/"
   tidal: "16926"

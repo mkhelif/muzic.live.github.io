@@ -3,11 +3,11 @@ id: "17926f1b-db6c-479d-9043-4c453121ad69"
 title: "Meryl"
 type: person
 socials:
-  bandsintown: "1876479"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1876479"
   youtube: ""
   web: ""
   email: ""

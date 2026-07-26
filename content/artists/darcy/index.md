@@ -3,11 +3,11 @@ id: "7abbfe07-c09c-4b25-be40-9005bf091d04"
 title: "Darcy"
 type: unknown
 socials:
-  bandsintown: "475148"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "475148"
   youtube: ""
   web: ""
   email: ""

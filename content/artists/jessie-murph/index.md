@@ -3,11 +3,11 @@ id: "faa54f03-b115-48f1-af59-eb3131e78853"
 title: "Jessie Murph"
 type: person
 socials:
-  bandsintown: "15495224"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15495224"
   youtube: ""
   web: ""
   email: ""

@@ -2,12 +2,12 @@
 id: "398ab86e-1dce-409c-843b-dacb381a782f"
 title: "Giobia"
 socials:
-  bandsintown: "1199517"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "1199517"
   youtube: ""
   web: ""
   email: ""

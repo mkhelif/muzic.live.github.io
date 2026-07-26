@@ -3,11 +3,11 @@ id: "4cc9102d-9ddf-49b7-ac94-45128b9bf36a"
 title: "Erik Truffaz"
 type: person
 socials:
-  bandsintown: "39853"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "39853"
   youtube: ""
   web: ""
   email: ""

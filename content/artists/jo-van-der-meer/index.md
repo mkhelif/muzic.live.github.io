@@ -2,12 +2,12 @@
 id: "1fba018e-a677-4023-9072-c42e6a511b64"
 title: "Jo van der Meer"
 socials:
-  bandsintown: "15599067"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15599067"
   youtube: ""
   web: ""
   email: ""

@@ -2,12 +2,12 @@
 id: "fd1c313e-f772-4abb-ace2-7bb6a217ca85"
 title: "Dirtyphonics"
 socials:
-  bandsintown: "339036"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "339036"
   youtube: ""
   web: ""
   email: ""

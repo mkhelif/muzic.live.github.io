@@ -3,11 +3,11 @@ id: "7cb89e4a-738d-4260-b524-64b22d408743"
 title: "Ben Mazué"
 type: person
 socials:
-  bandsintown: "348068"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "348068"
   youtube: ""
   web: ""
   email: ""

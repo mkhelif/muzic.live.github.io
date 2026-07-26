@@ -3,11 +3,11 @@ id: "c71b31a6-9f83-44c9-bf51-f5b1d2ef8995"
 title: "La Grande Sophie"
 type: person
 socials:
-  bandsintown: "69736"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "69736"
   youtube: ""
   web: ""
   email: ""

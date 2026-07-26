@@ -27,11 +27,11 @@ members:
       - start: 1990
         end: 2000
 socials:
-  bandsintown: "1157"
   facebook: "theprodigyofficial"
   instagram: "theprodigyofficial"
   tiktok: "@the.prodigy.official"
   x: "the_prodigy"
+  bandsintown: "1157"
   youtube: "@theprodigy"
   web: "https://theprodigy.com/"
   tidal: "14596"

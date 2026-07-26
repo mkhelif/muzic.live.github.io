@@ -3,11 +3,11 @@ id: "76e26064-3af8-4c48-a8d3-9e920603fcac"
 title: "Bywater Call"
 type: band
 socials:
-  bandsintown: "13692278"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13692278"
   youtube: ""
   web: ""
   email: ""

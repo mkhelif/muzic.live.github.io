@@ -3,11 +3,11 @@ id: "ce6b1e7f-e0b8-4863-9ab3-3d7ddff020c6"
 title: "Julian Marley"
 type: person
 socials:
-  bandsintown: "13735"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13735"
   youtube: ""
   web: ""
   email: ""

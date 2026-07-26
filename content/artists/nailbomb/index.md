@@ -3,11 +3,11 @@ id: "618fbab7-3aca-4aba-82bd-4705fb040967"
 title: "Nailbomb"
 type: band
 socials:
-  bandsintown: "53792"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "53792"
   youtube: ""
   web: ""
   email: ""

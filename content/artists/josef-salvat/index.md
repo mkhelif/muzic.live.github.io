@@ -3,11 +3,11 @@ id: "02b41501-1447-4d1c-92db-7e2af2b0b0f2"
 title: "Josef Salvat"
 type: person
 socials:
-  bandsintown: "3824163"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3824163"
   youtube: ""
   web: ""
   email: ""

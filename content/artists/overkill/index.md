@@ -3,11 +3,11 @@ id: "aac33842-5692-4c66-9327-f9b8a961faa7"
 title: "Overkill"
 type: band
 socials:
-  bandsintown: "4151"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4151"
   youtube: ""
   web: ""
   email: ""

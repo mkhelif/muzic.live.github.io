@@ -3,11 +3,11 @@ id: "2bf6c8ba-a621-4226-baf6-e0ad6192f268"
 title: "Valerie June"
 type: person
 socials:
-  bandsintown: "870598"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "870598"
   youtube: ""
   web: ""
   email: ""

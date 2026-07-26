@@ -3,11 +3,11 @@ id: "55a68d80-de0c-49e9-bc57-740f80ab762a"
 title: "Skrillex"
 type: person
 socials:
-  bandsintown: "438314"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "438314"
   youtube: ""
   web: ""
   email: ""

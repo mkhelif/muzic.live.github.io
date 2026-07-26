@@ -2,12 +2,12 @@
 id: "74008435-e51b-448f-939f-d0ea653094f7"
 title: "Abyssus"
 socials:
-  bandsintown: "2428244"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "2428244"
   youtube: ""
   web: ""
   email: ""

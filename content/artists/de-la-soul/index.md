@@ -3,11 +3,11 @@ id: "74dc19bc-7707-4ad3-9a1c-4a4abea3b099"
 title: "De La Soul"
 type: band
 socials:
-  bandsintown: "1841"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1841"
   youtube: ""
   web: ""
   email: ""

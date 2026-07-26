@@ -3,11 +3,11 @@ id: "b8cb7734-ef02-468f-9abe-97210d1303cb"
 title: "Marie Davidson"
 type: person
 socials:
-  bandsintown: "6842004"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "6842004"
   youtube: ""
   web: ""
   email: ""

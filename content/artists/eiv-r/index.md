@@ -3,12 +3,12 @@ id: "916d4dbc-aa1b-4b4b-a971-ee8daab41931"
 title: "Eivør"
 type: person
 socials:
-  bandsintown: "622322"
   facebook: "eivormusic"
   instagram: "eivormusic"
   tiktok: ""
   threads: "@eivormusic"
   x: ""
+  bandsintown: "622322"
   youtube: "@eivormusic"
   web: "https://www.eivor.com/"
   email: "management@eivor.com"
@@ -19,6 +19,7 @@ socials:
   spotify: "2dB4ya2W1Gvng8gjWSPu2H"
   tidal: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

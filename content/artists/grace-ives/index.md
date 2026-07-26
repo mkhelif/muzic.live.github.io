@@ -2,12 +2,12 @@
 id: "6a7943a8-d678-4968-a9d7-dd666ecffce9"
 title: "Grace Ives"
 socials:
-  bandsintown: "15491559"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15491559"
   youtube: ""
   web: ""
   email: ""

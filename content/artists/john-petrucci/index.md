@@ -3,11 +3,11 @@ id: "b421852b-584e-4cd7-8127-85474c1b1abb"
 title: "John Petrucci"
 type: person
 socials:
-  bandsintown: "9419"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "9419"
   youtube: ""
   web: ""
   email: ""

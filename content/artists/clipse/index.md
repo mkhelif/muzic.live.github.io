@@ -14,11 +14,11 @@ members:
     periods:
       - start: 1994
 socials:
-  bandsintown: "212"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "212"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "6ca26e8c-309c-4c00-8cb3-9c47e8fc2cde"
 title: "Royel Otis"
 type: band
 socials:
-  bandsintown: "15490951"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15490951"
   youtube: ""
   web: ""
   email: ""

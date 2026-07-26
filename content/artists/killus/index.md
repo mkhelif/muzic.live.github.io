@@ -3,11 +3,11 @@ id: "b310210d-36d8-4ffc-aff3-a0f405c4d0a4"
 title: "Killus"
 type: band
 socials:
-  bandsintown: "368906"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "368906"
   youtube: ""
   web: ""
   email: ""

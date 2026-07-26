@@ -3,11 +3,11 @@ id: "1f817b2d-1513-4ce1-ba22-5bd905f576f1"
 title: "Marguerite Thiam"
 type: person
 socials:
-  bandsintown: "15551919"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15551919"
   youtube: ""
   web: ""
   email: ""

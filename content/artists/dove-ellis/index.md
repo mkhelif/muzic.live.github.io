@@ -3,11 +3,11 @@ id: "b3f67da4-c370-46fe-9985-8459a9ebe944"
 title: "Dove Ellis"
 type: person
 socials:
-  bandsintown: "15547645"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15547645"
   youtube: ""
   web: ""
   email: ""

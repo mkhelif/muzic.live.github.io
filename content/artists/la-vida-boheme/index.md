@@ -2,11 +2,11 @@
 id: "6f67b744-9c2a-4fef-9d9f-847fc1963cfb"
 title: "La Vida Bohème"
 socials:
-  bandsintown: "397016"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "397016"
   youtube: ""
   web: ""
   email: ""

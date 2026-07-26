@@ -2,12 +2,12 @@
 id: "7d1537f8-aee5-48eb-bd30-1baf786064c8"
 title: "Amy True"
 socials:
-  bandsintown: "2036194"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "2036194"
   youtube: ""
   web: ""
   email: ""

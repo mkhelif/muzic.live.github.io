@@ -3,11 +3,11 @@ id: "4f5e5c06-5b45-4193-bd40-8d2e54bafff5"
 title: "Eluveitie"
 type: band
 socials:
-  bandsintown: "7055"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "7055"
   youtube: ""
   web: ""
   email: ""

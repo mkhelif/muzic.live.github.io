@@ -3,11 +3,11 @@ id: "e86f504d-e9a4-447c-be45-00194ccc3147"
 title: "Ditter"
 type: band
 socials:
-  bandsintown: "15572416"
   facebook: "dittertheband"
   instagram: "ditter_theband"
   tiktok: ""
   x: ""
+  bandsintown: "15572416"
   youtube: ""
   web: ""
   email: "dittertheband@gmail.com"

@@ -3,11 +3,11 @@ id: "ea97927e-5532-4faa-a57a-583db3a28f20"
 title: "Big Junior"
 type: band
 socials:
-  bandsintown: "12729135"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "12729135"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "e44e2ebe-43d3-494b-8179-b7c6b609371d"
 title: "Cat Crash"
 type: band
 socials:
-  bandsintown: "15561730"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15561730"
   youtube: ""
   web: ""
   email: ""

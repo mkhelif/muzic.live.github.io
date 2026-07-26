@@ -3,11 +3,11 @@ id: "0bbda5fb-1f63-4580-8c61-61a9fc222a6b"
 title: "Ponte Del Diavolo"
 type: band
 socials:
-  bandsintown: "15583772"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15583772"
   youtube: ""
   web: ""
   email: ""

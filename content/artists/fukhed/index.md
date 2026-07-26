@@ -2,12 +2,12 @@
 id: "227fd3ad-f729-486a-9e84-f01660073cd0"
 title: "FUKHED"
 socials:
-  bandsintown: "15543813"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15543813"
   youtube: ""
   web: ""
   email: ""

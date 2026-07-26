@@ -3,11 +3,11 @@ id: "381404d9-ca42-4e47-a3f2-5d1db8a88ec6"
 title: "Joyce Moreno"
 type: unknown
 socials:
-  bandsintown: "958870"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "958870"
   youtube: ""
   web: ""
   email: ""

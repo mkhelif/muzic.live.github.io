@@ -3,11 +3,11 @@ id: "c89ef059-89ac-4b81-adb4-e09b9560772b"
 title: "Heart Attack Man"
 type: person
 socials:
-  bandsintown: "8173440"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "8173440"
   youtube: ""
   web: ""
   email: ""

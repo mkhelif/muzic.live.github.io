@@ -2,12 +2,12 @@
 id: "7f447805-8b86-485a-96bc-f1bf38129039"
 title: "Holder"
 socials:
-  bandsintown: "686668"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "686668"
   youtube: ""
   web: ""
   email: ""

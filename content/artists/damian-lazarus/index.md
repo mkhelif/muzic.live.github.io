@@ -3,11 +3,11 @@ id: "2b939082-b9e1-4327-aec7-d81914ae0a22"
 title: "Damian Lazarus"
 type: person
 socials:
-  bandsintown: "153043"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "153043"
   youtube: ""
   web: ""
   email: ""

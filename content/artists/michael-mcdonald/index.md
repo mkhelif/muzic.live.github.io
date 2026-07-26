@@ -3,11 +3,11 @@ id: "3146e488-6fdc-4199-86c0-4da39df19c14"
 title: "Michael McDonald"
 type: person
 socials:
-  bandsintown: "29158"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "29158"
   youtube: ""
   web: ""
   email: ""

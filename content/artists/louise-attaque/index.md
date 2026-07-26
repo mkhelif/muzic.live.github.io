@@ -3,11 +3,11 @@ id: "6fb610a2-e658-4607-af2e-4f68dafec800"
 title: "Louise Attaque"
 type: band
 socials:
-  bandsintown: "45021"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "45021"
   youtube: ""
   web: ""
   email: ""

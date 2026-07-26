@@ -3,11 +3,11 @@ id: "7103273e-fb64-4e80-8056-583af1f35922"
 title: "Carach Angren"
 type: band
 socials:
-  bandsintown: "337731"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "337731"
   youtube: ""
   web: ""
   email: ""

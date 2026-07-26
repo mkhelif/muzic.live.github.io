@@ -3,11 +3,11 @@ id: "347f005b-c823-44e6-a25c-d6746df9a3a5"
 title: "Ibrahim Maalouf"
 type: person
 socials:
-  bandsintown: "174188"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "174188"
   youtube: ""
   web: ""
   email: ""

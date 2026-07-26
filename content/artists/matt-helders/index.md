@@ -3,11 +3,11 @@ id: "b691e22f-99e5-43e0-98a4-dfde44ba3bbd"
 title: "Matt Helders"
 type: person
 socials:
-  bandsintown: "292779"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "292779"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "a36e9e0f-55a9-4bca-8e31-210fa8a2c9be"
 title: "Deeder Zaman"
 type: person
 socials:
-  bandsintown: "611783"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "611783"
   youtube: ""
   web: ""
   email: ""

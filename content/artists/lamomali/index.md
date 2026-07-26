@@ -3,11 +3,11 @@ id: "b934d519-a209-464d-a478-cb2362b6d0f6"
 title: "Lamomali"
 type: band
 socials:
-  bandsintown: "14235071"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "14235071"
   youtube: ""
   web: ""
   email: ""

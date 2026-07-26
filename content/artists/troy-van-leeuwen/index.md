@@ -3,11 +3,11 @@ id: "54385061-89f3-4b39-b0f7-32cd47c3de14"
 title: "Troy Van Leeuwen"
 type: person
 socials:
-  bandsintown: "763347"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "763347"
   youtube: ""
   web: ""
   email: ""

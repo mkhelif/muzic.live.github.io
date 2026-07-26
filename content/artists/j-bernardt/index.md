@@ -3,11 +3,11 @@ id: "55a0013c-220f-40b5-adff-0f3e5d618bab"
 title: "J. Bernardt"
 type: person
 socials:
-  bandsintown: "13472520"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13472520"
   youtube: ""
   web: ""
   email: ""

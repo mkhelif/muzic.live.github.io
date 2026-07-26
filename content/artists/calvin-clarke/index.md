@@ -2,12 +2,12 @@
 id: "61b79daf-9104-4cae-ae91-429737a5177e"
 title: "Calvin Clarke"
 socials:
-  bandsintown: "3662371"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "3662371"
   youtube: ""
   web: ""
   email: ""

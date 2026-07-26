@@ -2,12 +2,12 @@
 id: "9fca8247-ec53-4b33-9045-c25ca062b223"
 title: "Gloryhammer"
 socials:
-  bandsintown: "1929111"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "1929111"
   youtube: ""
   web: ""
   email: ""

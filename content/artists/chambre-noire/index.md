@@ -2,12 +2,12 @@
 id: "1da0be16-5fd5-464c-8afd-b44279cd8c03"
 title: "Chambre Noire"
 socials:
-  bandsintown: "15578679"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15578679"
   youtube: ""
   web: ""
   email: ""

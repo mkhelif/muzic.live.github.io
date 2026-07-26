@@ -3,11 +3,11 @@ id: "ccea2640-c3a2-485b-b2b0-31f34305c1e2"
 title: "KING KONG MEUF"
 type: band
 socials:
-  bandsintown: "15542164"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15542164"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "367ab15f-7496-4129-99ab-78c88daeb895"
 title: "Charlotte de Witte"
 type: person
 socials:
-  bandsintown: "15288981"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15288981"
   youtube: ""
   web: ""
   email: ""

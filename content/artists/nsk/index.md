@@ -3,11 +3,11 @@ id: "54cc45f1-62ad-486d-a7c5-b8042c30eae7"
 title: "NSK"
 type: unknown
 socials:
-  bandsintown: "292962"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "292962"
   youtube: ""
   web: ""
   email: ""

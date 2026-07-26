@@ -2,12 +2,12 @@
 id: "58e328ce-8fee-44df-97b1-e6bd3937472d"
 title: "Shaggy"
 socials:
-  bandsintown: "415"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "415"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "f1a9183f-c976-4dec-b189-bc1063907b8f"
 title: "Zélie"
 type: person
 socials:
-  bandsintown: "15615243"
   instagram: "zelie"
   facebook: ""
   tiktok: ""
   x: ""
+  bandsintown: "15615243"
   youtube: ""
   web: ""
   email: ""

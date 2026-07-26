@@ -3,11 +3,11 @@ id: "523e7674-bff1-4195-87b0-0dec748a2fb3"
 title: "Georgio"
 type: person
 socials:
-  bandsintown: "496815"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "496815"
   youtube: ""
   web: ""
   email: ""

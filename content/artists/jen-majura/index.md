@@ -4,11 +4,11 @@ id: "bce2d418-79ac-49f9-82d8-d21ae6c152b5"
 title: "Jen Majura"
 type: person
 socials:
-  bandsintown: "6172613"
   facebook: ""
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "6172613"
   youtube: ""
   spotify: "1qrZ7rdIkGzD1VUr8aIAtl"
 todo:

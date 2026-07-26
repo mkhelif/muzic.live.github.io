@@ -2,12 +2,12 @@
 id: "111a42be-7acd-461d-8ee2-0f2256056dfd"
 title: "The Red Jumpsuit Apparatus"
 socials:
-  bandsintown: "29"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "29"
   youtube: ""
   web: ""
   email: ""

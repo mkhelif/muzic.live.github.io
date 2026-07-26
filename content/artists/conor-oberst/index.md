@@ -3,11 +3,11 @@ id: "cdaf82f9-1fa5-4c01-a559-bdea18eebd3e"
 title: "Conor Oberst"
 type: person
 socials:
-  bandsintown: "62739"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "62739"
   youtube: ""
   web: ""
   email: ""

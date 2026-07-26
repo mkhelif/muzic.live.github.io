@@ -3,11 +3,11 @@ id: "1806b302-473f-4fa6-9e72-1bc467f67260"
 title: "Fakear"
 type: person
 socials:
-  bandsintown: "2767404"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2767404"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "ec13d944-0ae5-48a9-b346-7dec9c18ea62"
 title: "Quiet Riot"
 type: band
 socials:
-  bandsintown: "46516"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "46516"
   youtube: ""
   web: ""
   email: ""

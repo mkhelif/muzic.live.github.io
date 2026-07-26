@@ -3,11 +3,11 @@ id: "6c8fd186-9777-41fd-ae9f-323b1d21e22e"
 title: "Jo Johnson"
 type: person
 socials:
-  bandsintown: "716423"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "716423"
   youtube: ""
   web: ""
   email: ""

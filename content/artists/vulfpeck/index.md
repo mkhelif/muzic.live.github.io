@@ -27,10 +27,10 @@ members:
     periods:
       - start: 2011
 socials:
-  bandsintown: "2957241"
   facebook: "vulfpeck"
   instagram: "vulfpeck"
   x: "vulfpeck"
+  bandsintown: "2957241"
   youtube: "@Vulf"
   web: "https://vulfpeck.com/"
   tidal: "5980686"

@@ -3,11 +3,11 @@ id: "5db72fc0-999c-415f-a8d7-871904ffe8a8"
 title: "Cage Fight"
 type: band
 socials:
-  bandsintown: "15498816"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15498816"
   youtube: ""
   web: ""
   email: ""

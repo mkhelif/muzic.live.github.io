@@ -3,9 +3,9 @@ id: "4d894ed6-6091-46ee-bcda-146549fb1e12"
 title: "LeanWolf"
 type: unknown
 socials:
-  bandsintown: "15620917"
   facebook: "leanwolfofficial"
   instagram: "imleanwolf"
+  bandsintown: "15620917"
   youtube: "@leanwolf6529"
   tidal: "29394658"
   spotify: "2aoGa6HyB6mDhKKkvYOQmI"

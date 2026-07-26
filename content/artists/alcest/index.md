@@ -30,11 +30,11 @@ members:
       - start: 2000
         end: 2001
 socials:
-  bandsintown: "1241311"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1241311"
   youtube: ""
   web: ""
   email: ""

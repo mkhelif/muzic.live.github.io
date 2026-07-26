@@ -3,11 +3,11 @@ id: "bc8855cd-3a83-4332-9198-ff549ca67151"
 title: "Lost Frequencies"
 type: person
 socials:
-  bandsintown: "1670031"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1670031"
   youtube: ""
   web: ""
   email: ""

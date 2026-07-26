@@ -3,11 +3,11 @@ id: "51436830-d36e-461d-85f1-b1145fec0cf7"
 title: "Manudigital"
 type: person
 socials:
-  bandsintown: "6938238"
   facebook: "manudigital"
   instagram: "manudigital"
   x: "MANUDIGITAL"
   tiktok: "@manudigital.official"
+  bandsintown: "6938238"
   youtube: "@MANUDIGITALRMX"
   web: "https://www.manudigital.fr"
   tidal: "4822452"

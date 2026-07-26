@@ -47,11 +47,11 @@ members:
       - start: 2010
         end: 2012
 socials:
-  bandsintown: "1089397"
   facebook: "electriccallboy"
   instagram: "electriccallboy"
   tiktok: "@electriccallboy"
   x: "electriccallboy"
+  bandsintown: "1089397"
   youtube: "electriccallboy"
   web: "https://www.electriccallboy.com/"
   email: "info@electriccallboy.com"
@@ -62,6 +62,7 @@ socials:
   spotify: "1WNoKxsp715jez1Td4vthc"
   tidal: "31100862"
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

@@ -3,11 +3,11 @@ id: "a3900029-f1ec-4863-b35a-57bc4dfb198f"
 title: "The Prototypes"
 type: unknown
 socials:
-  bandsintown: "75105"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "75105"
   youtube: ""
   web: ""
   email: ""

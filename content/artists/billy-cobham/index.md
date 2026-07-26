@@ -3,11 +3,11 @@ id: "8fe12217-9c47-4fe2-ab4f-7764decea36a"
 title: "Billy Cobham"
 type: person
 socials:
-  bandsintown: "61982"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "61982"
   youtube: ""
   web: ""
   email: ""

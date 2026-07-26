@@ -3,11 +3,11 @@ id: "35cf3907-cd03-4272-a2b3-411c77c2d426"
 title: "dEUS"
 type: band
 socials:
-  bandsintown: "4997"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4997"
   youtube: ""
   web: ""
   email: ""

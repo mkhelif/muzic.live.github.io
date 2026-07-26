@@ -2,12 +2,12 @@
 id: "9d3ae107-ced8-466a-a2d4-6333707859dc"
 title: "Sarah Julia"
 socials:
-  bandsintown: "8050208"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "8050208"
   youtube: ""
   web: ""
   email: ""

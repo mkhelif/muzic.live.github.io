@@ -3,11 +3,11 @@ id: "748a595a-1ac3-4d43-9b4c-708060a69068"
 title: "VOWER"
 type: band
 socials:
-  bandsintown: "15541287"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15541287"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "28d9b715-bcaf-4bc6-8207-8048bc18f435"
 title: "Souleance"
 type: band
 socials:
-  bandsintown: "333814"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "333814"
   youtube: ""
   web: ""
   email: ""

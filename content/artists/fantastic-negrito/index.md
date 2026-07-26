@@ -3,11 +3,11 @@ id: "62ef5fde-be61-43c1-8f65-ae931f5f16c7"
 title: "Fantastic Negrito"
 type: person
 socials:
-  bandsintown: "8266248"
   facebook: "fantasticnegrito"
   instagram: "fantasticnegrito"
   tiktok: "@fantasticnegrito"
   x: "MusicNegrito"
+  bandsintown: "8266248"
   youtube: "@fantasticnegrito"
   web: "https://www.fantasticnegrito.com"
   tidal: "5788516"

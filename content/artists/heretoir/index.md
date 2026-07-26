@@ -3,11 +3,11 @@ id: "6c35caef-38ad-4c74-bbdf-7f8620678d93"
 title: "Heretoir"
 type: band
 socials:
-  bandsintown: "574198"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "574198"
   youtube: ""
   web: ""
   email: ""

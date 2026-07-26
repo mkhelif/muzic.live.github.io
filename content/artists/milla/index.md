@@ -3,9 +3,9 @@ id: "b3a83259-8a14-4b9e-accf-b3bf0092c157"
 title: "Milla"
 type: person
 socials:
-  bandsintown: "15583088"
   facebook: "profile.php?id=100010448431103"
   instagram: "_mi_ll_a__"
+  bandsintown: "15583088"
   youtube: "@MillamusicOfficiel"
   soundcloud: "milla-besson"
   web: "https://millamusic.ch/"
@@ -19,6 +19,7 @@ socials:
   deezer: ""
   qobuz: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

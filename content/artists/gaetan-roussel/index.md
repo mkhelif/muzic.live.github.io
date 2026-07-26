@@ -3,11 +3,11 @@ id: "f71f4f31-e3ba-4b31-8728-afba07c14905"
 title: "Gaëtan Roussel"
 type: person
 socials:
-  bandsintown: "861490"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "861490"
   youtube: ""
   web: ""
   email: ""

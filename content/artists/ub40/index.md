@@ -59,11 +59,11 @@ members:
     periods:
       - start: 2021
 socials:
-  bandsintown: "1493"
   facebook: "ub40official"
   instagram: "ub40official"
   tiktok: "@ub40official"
   x: "ub40official"
+  bandsintown: "1493"
   youtube: "@UB40Official"
   web: "https://ub40.global/"
   tidal: "9703"

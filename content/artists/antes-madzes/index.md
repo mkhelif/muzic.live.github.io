@@ -2,12 +2,12 @@
 id: "8f061a33-6753-4cb1-bdff-022bfc83b40a"
 title: "Antes & Madzes"
 socials:
-  bandsintown: "15541132"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15541132"
   youtube: ""
   web: ""
   email: ""

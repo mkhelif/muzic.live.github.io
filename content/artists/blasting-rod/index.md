@@ -2,12 +2,12 @@
 id: "5c802f59-7120-419a-8ae3-d3e91d4b7488"
 title: "Blasting Rod"
 socials:
-  bandsintown: "10970261"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "10970261"
   youtube: ""
   web: ""
   email: ""

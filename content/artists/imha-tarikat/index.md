@@ -3,11 +3,11 @@ id: "81479095-0222-4cc1-b129-99ecfdda7ff6"
 title: "Imha Tarikat"
 type: band
 socials:
-  bandsintown: "13957540"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13957540"
   youtube: ""
   web: ""
   email: ""

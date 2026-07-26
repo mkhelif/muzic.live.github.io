@@ -3,11 +3,11 @@ id: "4766916f-f5a2-400e-a656-0859fc1618af"
 title: "Manu Lanvin"
 type: person
 socials:
-  bandsintown: "1848097"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1848097"
   youtube: ""
   web: ""
   email: ""

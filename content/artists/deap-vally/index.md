@@ -3,11 +3,11 @@ id: "7e872a11-e3c6-40f0-b08b-416b25b8d660"
 title: "Deap Vally"
 type: band
 socials:
-  bandsintown: "1666399"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1666399"
   youtube: ""
   web: ""
   email: ""

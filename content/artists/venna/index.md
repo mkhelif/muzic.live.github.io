@@ -2,12 +2,12 @@
 id: "01cca8bf-18be-47e7-9ff8-7ab689e9bbc6"
 title: "Venna"
 socials:
-  bandsintown: "15592949"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15592949"
   youtube: ""
   web: ""
   email: ""

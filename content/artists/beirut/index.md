@@ -3,11 +3,11 @@ id: "75681179-7663-4adc-aa93-aa1dbffcfbbd"
 title: "Beirut"
 type: person
 socials:
-  bandsintown: "1604"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1604"
   youtube: ""
   web: ""
   email: ""

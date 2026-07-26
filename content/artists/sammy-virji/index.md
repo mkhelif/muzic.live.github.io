@@ -3,11 +3,11 @@ id: "727864e4-7f38-497f-a970-1d6cad6ced53"
 title: "Sammy Virji"
 type: person
 socials:
-  bandsintown: "14827412"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "14827412"
   youtube: ""
   web: ""
   email: ""

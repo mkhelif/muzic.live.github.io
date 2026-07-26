@@ -2,12 +2,12 @@
 id: "8196ccb0-b4a8-440f-8383-90734bc1ec35"
 title: "Dylan Flynn and the Dead Poets"
 socials:
-  bandsintown: "15568671"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15568671"
   youtube: ""
   web: ""
   email: ""

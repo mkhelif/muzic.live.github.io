@@ -3,11 +3,11 @@ id: "89804022-ddde-445f-b203-71fa3295426a"
 title: "Robert Finley"
 type: person
 socials:
-  bandsintown: "8036078"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "8036078"
   youtube: ""
   web: ""
   email: ""

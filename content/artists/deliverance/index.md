@@ -3,11 +3,11 @@ id: "64d85df7-7866-4440-b07b-27ff5676bd1d"
 title: "Deliverance"
 type: band
 socials:
-  bandsintown: "58215"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "58215"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "f2456d41-ce8e-4ca5-95fd-3f0ad99e6c81"
 title: "Joe Satriani"
 type: person
 socials:
-  bandsintown: "1327"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1327"
   youtube: ""
   web: ""
   email: ""

@@ -3,10 +3,10 @@ id: "493cf028-4e28-4c36-ba64-a532d2d5cab1"
 title: "Laura Laffon"
 type: unknown
 socials:
-  bandsintown: "11364412"
   facebook: "llaffon"
   instagram: "djlauralaffon"
   threads: "@djlauralaffon"
+  bandsintown: "11364412"
   youtube: "@llaffon"
   mixcloud: "llaffon"
   soundcloud: "laura-laffon"

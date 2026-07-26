@@ -3,11 +3,11 @@ id: "5e01b460-6d0a-481d-aeb1-daf8466613c2"
 title: "AKA"
 type: person
 socials:
-  bandsintown: "241951"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "241951"
   youtube: ""
   web: ""
   email: ""

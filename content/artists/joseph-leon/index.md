@@ -3,11 +3,11 @@ id: "61670524-d583-4319-94ac-f07d4ba1e92e"
 title: "Joseph Léon"
 type: unknown
 socials:
-  bandsintown: "348072"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "348072"
   youtube: ""
   web: ""
   email: ""

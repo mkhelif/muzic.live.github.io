@@ -3,11 +3,11 @@ id: "357fe504-9b19-478d-aa36-8c6f9e1f10e8"
 title: "Dead Chic"
 type: band
 socials:
-  bandsintown: "15504049"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15504049"
   youtube: ""
   web: ""
   email: ""

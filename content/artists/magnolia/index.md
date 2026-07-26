@@ -3,11 +3,11 @@ id: "748472c3-27ec-4a59-acff-a512291e9ebd"
 title: "Magnolia"
 type: unknown
 socials:
-  bandsintown: "17872"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "17872"
   youtube: ""
   web: ""
   email: ""

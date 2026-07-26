@@ -25,11 +25,11 @@ members:
     periods:
       - start: 2019
 socials:
-  bandsintown: "15504416"
   facebook: "theroystonclub"
   instagram: "theroystonclub_"
   tiktok: "@theroystonclub"
   x: "TheRoystonClub"
+  bandsintown: "15504416"
   youtube: "@theroystonclub"
   web: "https://theroystonclub.com/"
   tidal: "15167798"

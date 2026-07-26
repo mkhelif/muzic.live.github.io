@@ -3,11 +3,11 @@ id: "a0d25772-816f-4dc4-a13c-53c8cd5244cb"
 title: "Cannibal Corpse"
 type: band
 socials:
-  bandsintown: "1085"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1085"
   youtube: ""
   web: ""
   email: ""

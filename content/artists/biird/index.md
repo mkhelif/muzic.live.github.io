@@ -2,12 +2,12 @@
 id: "97c8a0a6-a726-446c-8bdd-f707d7eb6c02"
 title: "Biird"
 socials:
-  bandsintown: "4012078"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "4012078"
   youtube: ""
   web: ""
   email: ""

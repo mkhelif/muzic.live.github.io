@@ -30,10 +30,10 @@ members:
     periods:
       - start: 2009
 socials:
-  bandsintown: "1088261"
   facebook: "kraftklub"
   instagram: "kraftklub"
   tiktok: "@kraftklub"
+  bandsintown: "1088261"
   youtube: "@kraftklub"
   web: "https://kraftklub.to/"
   tidal: "4384552"

@@ -2,12 +2,12 @@
 id: "7b9e9bc0-6ff2-4c02-ab97-b4e8f93521f2"
 title: "Victoria Monét"
 socials:
-  bandsintown: "3167545"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "3167545"
   youtube: ""
   web: ""
   email: ""

@@ -2,12 +2,12 @@
 id: "49f05c42-cfc4-471b-898a-34550f175eb4"
 title: "ONI"
 socials:
-  bandsintown: "583972"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "583972"
   youtube: ""
   web: ""
   email: ""

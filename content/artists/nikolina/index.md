@@ -2,12 +2,12 @@
 id: "fd67b6a8-583b-4a4c-bada-d39c6838651b"
 title: "NIKOLINA"
 socials:
-  bandsintown: "15624589"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15624589"
   youtube: ""
   web: ""
   email: ""

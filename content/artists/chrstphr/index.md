@@ -2,12 +2,12 @@
 id: "a23bd602-df8e-4122-b50d-2be1dd412fba"
 title: "CHRSTPHR"
 socials:
-  bandsintown: "15593326"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15593326"
   youtube: ""
   web: ""
   email: ""

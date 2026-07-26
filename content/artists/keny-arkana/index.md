@@ -3,11 +3,11 @@ id: "2673a00b-94ae-4191-9b76-5b8ed2b44b74"
 title: "Keny Arkana"
 type: person
 socials:
-  bandsintown: "12729"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "12729"
   youtube: ""
   web: ""
   email: ""

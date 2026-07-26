@@ -3,12 +3,12 @@ id: "a3cf5c6d-adbf-448f-ae91-70bffbc2cfaf"
 title: "Thoughtcrimes"
 type: band
 socials:
-  bandsintown: "2704581"
   facebook: ""
   instagram: ""
   web: ""
   tiktok: ""
   x: ""
+  bandsintown: "2704581"
   youtube: ""
   email: ""
   amazon: ""

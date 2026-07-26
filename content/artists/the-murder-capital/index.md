@@ -3,11 +3,11 @@ id: "d06429ae-d46a-4f32-be40-fd150223ce07"
 title: "The Murder Capital"
 type: band
 socials:
-  bandsintown: "15150201"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15150201"
   youtube: ""
   web: ""
   email: ""

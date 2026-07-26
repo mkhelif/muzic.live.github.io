@@ -2,11 +2,11 @@
 id: "abb8b60d-867a-4e53-a8c9-adbccedad8db"
 title: "Dave Buckner"
 socials:
-  bandsintown: "1781478"
   facebook: ""
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "1781478"
   youtube: ""
 todo:
   - Add description/picture/socials

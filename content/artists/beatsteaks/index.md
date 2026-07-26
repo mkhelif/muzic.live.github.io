@@ -3,11 +3,11 @@ id: "ab19882e-0959-4092-b6f7-d1a572c468ee"
 title: "Beatsteaks"
 type: band
 socials:
-  bandsintown: "3225"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3225"
   youtube: ""
   web: ""
   email: ""

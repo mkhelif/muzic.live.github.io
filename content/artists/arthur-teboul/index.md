@@ -3,11 +3,11 @@ id: "724a5c07-390d-4377-8703-16cc0f316757"
 title: "Arthur Teboul"
 type: person
 socials:
-  bandsintown: "15568417"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15568417"
   youtube: ""
   web: ""
   email: ""

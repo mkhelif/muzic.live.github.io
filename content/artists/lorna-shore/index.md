@@ -2,12 +2,12 @@
 id: "f96465fa-bceb-4a92-8539-3802b577a64a"
 title: "Lorna Shore"
 socials:
-  bandsintown: "1004641"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "1004641"
   youtube: ""
   web: ""
   email: ""

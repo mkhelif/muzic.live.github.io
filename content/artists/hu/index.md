@@ -2,12 +2,12 @@
 id: "b311139e-b6c6-4269-9e49-d9b8be800b64"
 title: "HU"
 socials:
-  bandsintown: "181349"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "181349"
   youtube: ""
   web: ""
   email: ""

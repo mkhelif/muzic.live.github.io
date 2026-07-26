@@ -3,11 +3,11 @@ id: "2b69920e-58c2-45fe-8961-0c3589637d43"
 title: "Pulp"
 type: band
 socials:
-  bandsintown: "3634"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3634"
   youtube: ""
   web: ""
   email: ""

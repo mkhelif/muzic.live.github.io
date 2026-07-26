@@ -59,11 +59,11 @@ members:
     periods:
       - start: 2010
 socials:
-  bandsintown: "432"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "432"
   youtube: ""
   web: ""
   email: ""

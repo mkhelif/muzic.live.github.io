@@ -3,11 +3,11 @@ id: "66f8f414-5873-4b3f-90ae-8f9882565638"
 title: "Hatebreed"
 type: band
 socials:
-  bandsintown: "565"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "565"
   youtube: ""
   web: ""
   email: ""

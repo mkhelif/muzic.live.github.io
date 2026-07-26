@@ -3,11 +3,11 @@ id: "f11bcd22-3555-49ee-bd8e-55e1d28cc94c"
 title: "Le Peuple de l'Herbe"
 type: band
 socials:
-  bandsintown: "927642"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "927642"
   youtube: ""
   web: ""
   email: ""

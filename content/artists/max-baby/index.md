@@ -3,12 +3,12 @@ id: "2981e216-1d9a-4a02-9c0f-e651612b5f31"
 title: "Max Baby"
 type: person
 socials:
-  bandsintown: "15581192"
   facebook: ""
   instagram: "maxrbaby"
   tiktok: "@maxrbaby"
   threads: "@maxrbaby"
   x: ""
+  bandsintown: "15581192"
   youtube: "@MaxBabyOfficial"
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "5c70b949-a385-43d3-8e55-de2dd61dbc8d"
 title: "Kompromat"
 type: band
 socials:
-  bandsintown: "14952143"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "14952143"
   youtube: ""
   web: ""
   email: ""

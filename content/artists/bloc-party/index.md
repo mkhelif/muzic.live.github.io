@@ -42,11 +42,11 @@ members:
     periods:
       - start: 2023
 socials:
-  bandsintown: "198"
   facebook: "blocpartyofficial"
   instagram: "thisisblocparty"
   x: "blocparty"
   treads: "@thisisblocparty"
+  bandsintown: "198"
   youtube: "@thisisblocparty"
   web: "https://www.blocparty.com"
   tidal: "15041"

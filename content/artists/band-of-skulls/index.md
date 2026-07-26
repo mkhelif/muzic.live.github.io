@@ -3,11 +3,11 @@ id: "b917ad4a-2bea-46c4-ac79-3f9b0c36c4b6"
 title: "Band of Skulls"
 type: band
 socials:
-  bandsintown: "268629"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "268629"
   youtube: ""
   web: ""
   email: ""

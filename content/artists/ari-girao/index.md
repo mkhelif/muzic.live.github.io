@@ -2,12 +2,12 @@
 id: "95660d58-8d66-470d-b0cf-d788fb4d7407"
 title: "Ari Girao"
 socials:
-  bandsintown: "10839813"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "10839813"
   youtube: ""
   web: ""
   email: ""

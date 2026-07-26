@@ -3,11 +3,11 @@ id: "71e3ec7c-bbe7-4466-af09-8eedd49e7a6a"
 title: "Afrojack"
 type: person
 socials:
-  bandsintown: "336042"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "336042"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "332122da-fb81-47ca-ab8f-4abc94f07afc"
 title: "Sabrina Carpenter"
 type: person
 socials:
-  bandsintown: "1503835"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1503835"
   youtube: ""
   web: ""
   email: ""

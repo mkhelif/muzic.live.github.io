@@ -3,11 +3,11 @@ id: "29391b37-b6fd-4e90-9df0-87d02df2136b"
 title: "Irène Drésel"
 type: person
 socials:
-  bandsintown: "10295720"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "10295720"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "3ec2cc5f-c0c8-4ad0-b15c-62b195be05b0"
 title: "LA NIÑA"
 type: person
 socials:
-  bandsintown: "8711096"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "8711096"
   youtube: ""
   web: ""
   email: ""

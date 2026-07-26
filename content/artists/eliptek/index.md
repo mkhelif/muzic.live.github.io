@@ -2,12 +2,12 @@
 id: "44f48dac-6df4-4d99-b9d8-6933d705eee4"
 title: "Eliptek"
 socials:
-  bandsintown: "15562310"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15562310"
   youtube: ""
   web: ""
   email: ""

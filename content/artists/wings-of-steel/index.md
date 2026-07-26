@@ -29,12 +29,12 @@ members:
     periods:
       - start: 2024
 socials:
-  bandsintown: "3425245"
   facebook: "OfficialWingsofSteel"
   instagram: "wingsofsteelband"
   tiktok: "@wingsofsteelband"
   threads: "@wingsofsteelband"
   bandcamp: "officialwingsofsteel"
+  bandsintown: "3425245"
   youtube: "@wingsofsteel"
   web: "https://wingsofsteelband.com/"
   tidal: "21163115"

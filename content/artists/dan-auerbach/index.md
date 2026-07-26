@@ -3,11 +3,11 @@ id: "4d9a95c0-cef4-4bfd-8897-ef36243aed7e"
 title: "Dan Auerbach"
 type: person
 socials:
-  bandsintown: "224600"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "224600"
   youtube: ""
   web: ""
   email: ""

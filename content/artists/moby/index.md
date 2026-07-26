@@ -3,10 +3,10 @@ id: "41e89fdf-34e2-44b3-bd84-bbffee6be42c"
 title: "Moby"
 type: person
 socials:
-  bandsintown: "807"
   facebook: "mobymusic"
   instagram: "moby"
   tiktok: "@moby"
+  bandsintown: "807"
   youtube: "@moby"
   web: "https://moby.com/"
   tidal: "9045"
@@ -18,6 +18,7 @@ socials:
   amazon: ""
   qobuz: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

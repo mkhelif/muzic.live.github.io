@@ -3,11 +3,11 @@ id: "9cf8c4e7-259d-4e3e-845f-224c33552fc7"
 title: "Wayne Static"
 type: person
 socials:
-  bandsintown: "52176"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "52176"
   youtube: ""
   web: ""
   email: ""

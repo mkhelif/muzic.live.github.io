@@ -3,10 +3,10 @@ id: "05d01105-609d-4634-bea7-d0209808a121"
 title: "Charlie Winston"
 type: person
 socials:
-  bandsintown: "202888"
   facebook: "charliewinstonoff"
   instagram: "charliewinston"
   x: "Charlie_Winston"
+  bandsintown: "202888"
   youtube: "@Charliewinstonofficial"
   web: "https://charliewinston.com/"
   tidal: "3635479"

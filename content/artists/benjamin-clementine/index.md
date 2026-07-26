@@ -3,11 +3,11 @@ id: "fe41cfae-21ba-40e1-9bf0-6b9e63f4dee3"
 title: "Benjamin Clementine"
 type: person
 socials:
-  bandsintown: "3891830"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3891830"
   youtube: ""
   web: ""
   email: ""

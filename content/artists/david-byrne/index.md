@@ -3,11 +3,11 @@ id: "5f06f478-72fe-47a0-94af-8e9633d1f153"
 title: "David Byrne"
 type: person
 socials:
-  bandsintown: "32116"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "32116"
   youtube: ""
   web: ""
   email: ""

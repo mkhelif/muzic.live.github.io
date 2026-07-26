@@ -3,11 +3,11 @@ id: "8c269116-eb14-417c-904b-01a0d4ced017"
 title: "Baba Shrimps"
 type: band
 socials:
-  bandsintown: "1635780"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1635780"
   youtube: ""
   web: ""
   email: ""

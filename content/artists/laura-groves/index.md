@@ -3,11 +3,11 @@ id: "fa8ab1d4-ae82-4b16-af4b-6c83b67b1171"
 title: "Laura Groves"
 type: person
 socials:
-  bandsintown: "24899"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "24899"
   youtube: ""
   web: ""
   email: ""

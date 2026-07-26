@@ -3,11 +3,11 @@ id: "695c6224-8223-4904-a8cf-bb8e74ea4736"
 title: "La Rvfleuze"
 type: person
 socials:
-  bandsintown: "15632150"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15632150"
   youtube: ""
   web: ""
   email: ""

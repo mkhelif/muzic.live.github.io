@@ -3,11 +3,11 @@ id: "0e67deef-962b-488a-a4c1-3cd509f507b7"
 title: "Deftones"
 type: band
 socials:
-  bandsintown: "81"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "81"
   youtube: ""
   web: ""
   email: ""

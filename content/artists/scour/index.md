@@ -3,11 +3,11 @@ id: "398d7a86-f546-42f1-bdaa-18e644f36589"
 title: "Scour"
 type: band
 socials:
-  bandsintown: "312688"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "312688"
   youtube: ""
   web: ""
   email: ""

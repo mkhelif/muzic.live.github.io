@@ -2,11 +2,11 @@
 id: "aa5f720b-f2d2-479f-9747-17787222755e"
 title: "Amie Blu"
 socials:
-  bandsintown: "15578194"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15578194"
   youtube: ""
   web: ""
   email: ""

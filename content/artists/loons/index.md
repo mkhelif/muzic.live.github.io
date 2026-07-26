@@ -3,7 +3,6 @@ id: "73fd9807-7cb6-43b9-bdcc-4e57d192f146"
 title: "Loons"
 type: band
 socials:
-  bandsintown: "15599339"
   facebook: "loonsmusic"
   instagram: "loonstheband"
   bandcamp: "loonsrock"
@@ -17,9 +16,11 @@ socials:
   tidal: "5121610"
   tiktok: ""
   x: ""
+  bandsintown: "15599339"
   youtube: ""
   web: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

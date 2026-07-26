@@ -3,11 +3,11 @@ id: "791073c1-0ac2-49f1-90b4-1cb775ddbdca"
 title: "Bleue"
 type: unknown
 socials:
-  bandsintown: "15635479"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15635479"
   youtube: ""
   web: ""
   email: ""

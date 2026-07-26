@@ -104,11 +104,11 @@ members:
       - start: 1994
         end: 2022
 socials:
-  bandsintown: "31005"
   facebook: "officialdeeppurple"
   instagram: "deeppurple_official"
   x: "_DeepPurple"
   threads: "@deeppurple_official"
+  bandsintown: "31005"
   youtube: "@DeepPurpleOfficial"
   web: "https://deeppurple.com/"
   tidal: "3355"
@@ -122,6 +122,7 @@ socials:
 todo:
   - Add cover picture from concert
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

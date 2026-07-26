@@ -3,11 +3,11 @@ id: "855d02dd-2825-4e52-937d-500bfd531fcc"
 title: "Magenta"
 type: band
 socials:
-  bandsintown: "16078"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "16078"
   youtube: ""
   web: ""
   email: ""

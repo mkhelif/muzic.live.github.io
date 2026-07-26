@@ -3,11 +3,11 @@ id: "29ce1bd3-7c1a-4b53-ba6b-77c15fae2d7f"
 title: "Anders Johansson"
 type: person
 socials:
-  bandsintown: "122665"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "122665"
   youtube: ""
   web: ""
   email: ""

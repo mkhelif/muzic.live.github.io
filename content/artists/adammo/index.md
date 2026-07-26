@@ -2,12 +2,12 @@
 id: "04f836c7-63ee-486b-b509-8ad7a4abde33"
 title: "Adammo"
 socials:
-  bandsintown: "404212"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "404212"
   youtube: ""
   web: ""
   email: ""

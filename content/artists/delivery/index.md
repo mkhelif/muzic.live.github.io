@@ -3,11 +3,11 @@ id: "88ab7b6a-b2d9-46fb-b029-b85fce1ac469"
 title: "Delivery"
 type: unknown
 socials:
-  bandsintown: "481635"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "481635"
   youtube: ""
   web: ""
   email: ""

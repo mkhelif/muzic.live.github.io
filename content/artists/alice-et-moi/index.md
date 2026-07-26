@@ -3,11 +3,11 @@ id: "78a6fec2-6417-4eda-af4e-d651e0420094"
 title: "Alice et Moi"
 type: person
 socials:
-  bandsintown: "14099718"
   facebook: "pagealiceetmoi"
   instagram: "aliceetmoii"
   x: "aliceetmoii"
   soundcloud: "aliceetmoi"
+  bandsintown: "14099718"
   youtube: "@aliceetmoiofficiel"
   tidal: "9134481"
   spotify: "1NcCVE1FRpBSlN3LcAfhn3"

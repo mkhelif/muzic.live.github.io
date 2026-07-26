@@ -3,11 +3,11 @@ id: "dbf94597-9767-430a-8b56-030f61ed2905"
 title: "Dave Pen"
 type: person
 socials:
-  bandsintown: "1104052"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1104052"
   youtube: ""
   web: ""
   email: ""

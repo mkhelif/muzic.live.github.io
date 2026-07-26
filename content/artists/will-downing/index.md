@@ -2,12 +2,12 @@
 id: "e727cdbc-db4e-4ff9-8718-611b326975c3"
 title: "Will Downing"
 socials:
-  bandsintown: "12993"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "12993"
   youtube: ""
   web: ""
   email: ""

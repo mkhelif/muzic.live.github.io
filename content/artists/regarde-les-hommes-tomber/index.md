@@ -3,11 +3,11 @@ id: "6588b2f2-8e4e-4a85-a38e-9f21058f2607"
 title: "Regarde Les Hommes Tomber"
 type: band
 socials:
-  bandsintown: "3150040"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3150040"
   youtube: ""
   web: ""
   email: ""

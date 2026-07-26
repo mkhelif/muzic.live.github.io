@@ -3,11 +3,11 @@ id: "28f82cc6-d7b3-47a9-b64c-999d98858ae4"
 title: "James LaBrie"
 type: person
 socials:
-  bandsintown: "52670"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "52670"
   youtube: ""
   web: ""
   email: ""

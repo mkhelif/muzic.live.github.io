@@ -2,12 +2,12 @@
 id: "5667589a-be39-4d86-b604-5fc27788c2dd"
 title: "La Rue Kétanou"
 socials:
-  bandsintown: "97592"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "97592"
   youtube: ""
   web: ""
   email: ""

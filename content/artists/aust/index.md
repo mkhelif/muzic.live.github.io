@@ -3,11 +3,11 @@ id: "b74326de-8089-4f98-997c-accdfaf95589"
 title: "Aust"
 type: person
 socials:
-  bandsintown: "4446476"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4446476"
   youtube: ""
   web: ""
   email: ""

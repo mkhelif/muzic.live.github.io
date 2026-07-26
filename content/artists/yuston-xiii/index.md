@@ -3,10 +3,10 @@ id: "1f80065a-496b-4e1e-8ee1-bea2d04cb4b0"
 title: "Yuston XIII"
 type: person
 socials:
-  bandsintown: "15535381"
   instagram: "yustontrayz"
   tiktok: "@yustontrayz"
   x: "yustontrayz"
+  bandsintown: "15535381"
   youtube: "@YustonXIII"
   tidal: "29399491"
   spotify: "2ac0Lmf5nfZU6sq2t6MJLh"

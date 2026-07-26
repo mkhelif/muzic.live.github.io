@@ -3,11 +3,11 @@ id: "579bfc79-6ce9-446d-bb0e-a7ab512d14e5"
 title: "Millie Hopes"
 type: unknown
 socials:
-  bandsintown: "15593708"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15593708"
   youtube: ""
   web: ""
   email: ""

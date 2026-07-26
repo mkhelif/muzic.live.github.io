@@ -3,11 +3,11 @@ id: "c472fc47-3ae9-4d97-9693-b419250f3dc0"
 title: "FishBone"
 type: band
 socials:
-  bandsintown: "4144"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4144"
   youtube: ""
   web: ""
   email: ""

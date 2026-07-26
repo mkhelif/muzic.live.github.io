@@ -3,11 +3,11 @@ id: "4a61fcb3-ea57-441c-acee-fc28ef4e5809"
 title: "Faouzia"
 type: person
 socials:
-  bandsintown: "11675173"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "11675173"
   youtube: ""
   web: ""
   email: ""

@@ -2,12 +2,12 @@
 id: "16ca281d-620c-4757-974f-ef7905dfb304"
 title: "Apollo Junction"
 socials:
-  bandsintown: "2692264"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "2692264"
   youtube: ""
   web: ""
   email: ""

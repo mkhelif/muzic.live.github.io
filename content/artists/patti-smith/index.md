@@ -3,11 +3,11 @@ id: "7c838cd5-9331-460d-b6c2-184179c0bf03"
 title: "Patti Smith"
 type: person
 socials:
-  bandsintown: "31491"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "31491"
   youtube: ""
   web: ""
   email: ""

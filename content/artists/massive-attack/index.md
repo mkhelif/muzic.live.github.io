@@ -3,11 +3,11 @@ id: "e0e9bb9d-0304-46cb-a164-d90b7550f370"
 title: "Massive Attack"
 type: band
 socials:
-  bandsintown: "25998"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "25998"
   youtube: ""
   web: ""
   email: ""

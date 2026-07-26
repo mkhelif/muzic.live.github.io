@@ -15,11 +15,11 @@ members:
     periods:
       - start: 2001
 socials:
-  bandsintown: "955"
   facebook: "TheBlackKeys"
   instagram: "theblackkeys"
   tiktok: "@theblackkeys"
   x: "theblackkeys"
+  bandsintown: "955"
   youtube: "@theblackkeys"
   web: "https://theblackkeys.com/"
   amazon: "B0025NCDR8"
@@ -31,6 +31,8 @@ socials:
   email: ""
 todo:
   - Add picture
+lastUpdate:
+  apple: 2026-07-26
 ---
 
 Il y a dans l'histoire des Black Keys quelque chose qui ressemble à une fable américaine — mais sans la partie facile.

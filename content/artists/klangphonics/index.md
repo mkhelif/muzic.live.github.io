@@ -3,11 +3,11 @@ id: "01df0070-1ecb-4eb8-af20-e655d8cdba7c"
 title: "Klangphonics"
 type: band
 socials:
-  bandsintown: "15154531"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15154531"
   youtube: ""
   web: ""
   email: ""

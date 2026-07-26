@@ -3,10 +3,10 @@ id: "684b074a-7b55-484a-883f-ed648b73cb6d"
 title: "Crazy Jesse"
 type: person
 socials:
-  bandsintown: "15530998"
   facebook: "crazyjesseband"
   instagram: "crazyjesse_the_band"
   bandcamp: "crazyjesse"
+  bandsintown: "15530998"
   youtube: "@crazyjesse6480"
   web: "https://www.crazyjesse-band.com/"
   spotify: "2UzMkB2UHfuCL4esZR9wJE"

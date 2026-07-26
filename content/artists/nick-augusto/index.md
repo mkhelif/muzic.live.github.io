@@ -3,11 +3,11 @@ id: "d467a1c0-cf6f-4a30-8273-3c8d8cb012d3"
 title: "Nick Augusto"
 type: person
 socials:
-  bandsintown: "1906301"
   facebook: ""
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "1906301"
   youtube: ""
 todo:
   - Add description/picture/socials

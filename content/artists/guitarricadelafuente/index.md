@@ -3,11 +3,11 @@ id: "4a01340e-b94c-4e72-bd5b-a24503e02850"
 title: "Guitarricadelafuente"
 type: person
 socials:
-  bandsintown: "15512336"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15512336"
   youtube: ""
   web: ""
   email: ""

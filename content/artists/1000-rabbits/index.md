@@ -3,11 +3,11 @@ id: "f853198e-21bc-471e-924f-1abe87487db0"
 title: "1000 Rabbits"
 type: band
 socials:
-  bandsintown: "15633030"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15633030"
   youtube: ""
   web: ""
   email: ""

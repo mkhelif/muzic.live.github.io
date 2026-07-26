@@ -3,11 +3,11 @@ id: "200a335e-c670-4659-93c3-e556437b1a8e"
 title: "Heavy Lungs"
 type: band
 socials:
-  bandsintown: "12321385"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "12321385"
   youtube: ""
   web: ""
   email: ""

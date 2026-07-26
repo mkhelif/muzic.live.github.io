@@ -3,11 +3,11 @@ id: "261a8c91-cc6a-48be-a1bb-578aba41b3a0"
 title: "Lilly Wood and The Prick"
 type: band
 socials:
-  bandsintown: "991279"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "991279"
   youtube: ""
   web: ""
   email: ""

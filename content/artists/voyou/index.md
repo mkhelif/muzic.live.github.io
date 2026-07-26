@@ -3,11 +3,11 @@ id: "418c882a-d0f4-4fa4-a1eb-defd71641e95"
 title: "Voyou"
 type: person
 socials:
-  bandsintown: "570374"
   facebook: "voyoumusique"
   instagram: "voyovoyou"
   tiktok: "@voyovoyou"
   bandcamp: "voyouvoyou"
+  bandsintown: "570374"
   youtube: "@voyovoyou"
   web: "https://voyoumusic.fr/"
   tidal: "4172530"

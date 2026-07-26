@@ -2,12 +2,12 @@
 id: "51f9d659-a31a-4aa9-b5a5-5b714021ea91"
 title: "Dead Congregation"
 socials:
-  bandsintown: "100309"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "100309"
   youtube: ""
   web: ""
   email: ""

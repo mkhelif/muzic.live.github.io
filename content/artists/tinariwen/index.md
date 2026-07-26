@@ -3,11 +3,11 @@ id: "5240360b-90c6-4499-894a-1f636b5f9bb8"
 title: "Tinariwen"
 type: band
 socials:
-  bandsintown: "30954"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "30954"
   youtube: ""
   web: ""
   email: ""

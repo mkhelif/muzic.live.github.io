@@ -3,11 +3,11 @@ id: "c9c7b4ec-f032-4b8f-addb-2774cd91adc4"
 title: "Ethel Cain"
 type: person
 socials:
-  bandsintown: "15488749"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15488749"
   youtube: ""
   web: ""
   email: ""

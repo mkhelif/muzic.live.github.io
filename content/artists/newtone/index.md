@@ -2,12 +2,12 @@
 id: "c17e5cfa-3932-4774-975f-ea32da5803c4"
 title: "NewTone"
 socials:
-  bandsintown: "400961"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "400961"
   youtube: ""
   web: ""
   email: ""

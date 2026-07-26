@@ -2,12 +2,12 @@
 id: "266fda67-7de6-48f2-a9d4-c0c2e54cf0e7"
 title: "Sally C"
 socials:
-  bandsintown: "15516236"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15516236"
   youtube: ""
   web: ""
   email: ""

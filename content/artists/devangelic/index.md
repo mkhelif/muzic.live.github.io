@@ -3,11 +3,11 @@ id: "c5cecb3b-d800-40c0-8d0a-801fd3e0bc96"
 title: "Devangelic"
 type: band
 socials:
-  bandsintown: "7918058"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "7918058"
   youtube: ""
   web: ""
   email: ""

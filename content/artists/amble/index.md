@@ -21,11 +21,11 @@ members:
     periods:
       - start: 2022
 socials:
-  bandsintown: "3194529"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3194529"
   youtube: ""
   web: ""
   email: ""

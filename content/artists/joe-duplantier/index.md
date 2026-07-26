@@ -3,11 +3,11 @@ id: "eadc286d-03ef-475f-bf49-a2cafaeecfa9"
 title: "Joe Duplantier"
 type: person
 socials:
-  bandsintown: "836894"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "836894"
   youtube: ""
   web: ""
   email: ""

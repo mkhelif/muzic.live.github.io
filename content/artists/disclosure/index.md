@@ -2,12 +2,12 @@
 id: "00685b1b-bfb7-4653-a2e5-841867214ccd"
 title: "Disclosure"
 socials:
-  bandsintown: "234739"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "234739"
   youtube: ""
   web: ""
   email: ""

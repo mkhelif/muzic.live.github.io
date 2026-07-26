@@ -3,11 +3,11 @@ id: "ca85d126-63ae-4f64-abac-682bfdad3e05"
 title: "Elias Rønnenfelt"
 type: person
 socials:
-  bandsintown: "15537675"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15537675"
   youtube: ""
   web: ""
   email: ""

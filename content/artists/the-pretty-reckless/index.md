@@ -43,11 +43,11 @@ members:
       - start: 2009
         end: 2010
 socials:
-  bandsintown: "275226"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "275226"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "3016461c-e22d-46bc-8363-e4f771557c44"
 title: "Leblanc"
 type: unknown
 socials:
-  bandsintown: "15553938"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15553938"
   youtube: ""
   web: ""
   email: ""

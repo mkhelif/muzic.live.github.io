@@ -3,11 +3,11 @@ id: "09ecd7d6-10aa-4f24-8fb4-3c5b927f2a36"
 title: "Limp Bizkit"
 type: band
 socials:
-  bandsintown: "292"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "292"
   youtube: ""
   web: ""
   email: ""

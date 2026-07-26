@@ -2,12 +2,12 @@
 id: "386738a0-afb2-4ad8-acfc-b16c64d51621"
 title: "Set Your Goals"
 socials:
-  bandsintown: "1076"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "1076"
   youtube: ""
   web: ""
   email: ""

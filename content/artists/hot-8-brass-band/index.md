@@ -2,12 +2,12 @@
 id: "a0a0fe76-2cb0-445d-9cb5-3940a2f2df8a"
 title: "Hot 8 Brass Band"
 socials:
-  bandsintown: "28009"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "28009"
   youtube: ""
   web: ""
   email: ""

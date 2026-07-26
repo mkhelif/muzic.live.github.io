@@ -3,11 +3,11 @@ id: "6cde6c49-c276-4778-951b-7e8acac66600"
 title: "Midnight Generation"
 type: band
 socials:
-  bandsintown: "12472862"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "12472862"
   youtube: ""
   web: ""
   email: ""

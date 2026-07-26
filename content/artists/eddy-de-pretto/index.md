@@ -3,10 +3,10 @@ id: "ba76eed2-50c9-4fed-9156-c9724b6446fa"
 title: "Eddy De Pretto"
 type: person
 socials:
-  bandsintown: "6905528"
   facebook: "eddydepretto"
   instagram: "eddydepretto"
   tiktok: "@eddydepretto"
+  bandsintown: "6905528"
   youtube: "@iameddydepretto"
   web: "https://eddydepretto.com/"
   tidal: "7284774"

@@ -3,11 +3,11 @@ id: "c0049171-e2f8-4956-b28a-afd8827857d6"
 title: "John Fogerty"
 type: person
 socials:
-  bandsintown: "5053"
   facebook: "johnfogerty"
   instagram: "johnfogerty"
   tiktok: "@johnfogerty"
   x: "john_fogerty"
+  bandsintown: "5053"
   youtube: "johnfogerty"
   web: "https://www.johnfogerty.com"
   tidal: "32144"

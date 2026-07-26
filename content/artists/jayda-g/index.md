@@ -2,12 +2,12 @@
 id: "2cf878e1-37de-4d63-9666-8d956592bce7"
 title: "Jayda G"
 socials:
-  bandsintown: "10870941"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "10870941"
   youtube: ""
   web: ""
   email: ""

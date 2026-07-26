@@ -2,12 +2,12 @@
 id: "fe455e56-1184-432e-ae50-3cd3b59f92d5"
 title: "Shaemless"
 socials:
-  bandsintown: "6052486"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "6052486"
   youtube: ""
   web: ""
   email: ""

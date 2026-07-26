@@ -3,11 +3,11 @@ id: "da08a7a4-fcda-4755-bdb7-da8536ba9fb5"
 title: "Bekar"
 type: person
 socials:
-  bandsintown: "3081814"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3081814"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "41ad662d-f4a7-45b4-932d-b194e3aab7e6"
 title: "Franck Carducci"
 type: person
 socials:
-  bandsintown: "2199303"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2199303"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "65964aec-dc50-47e0-a3d3-5c7eff7e974d"
 title: "Weird Nightmare"
 type: person
 socials:
-  bandsintown: "15498734"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15498734"
   youtube: ""
   web: ""
   email: ""

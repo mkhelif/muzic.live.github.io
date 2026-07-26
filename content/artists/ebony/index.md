@@ -3,11 +3,11 @@ id: "0e7b8431-626a-4403-a5ed-ee1e74461f20"
 title: "Ebony"
 type: person
 socials:
-  bandsintown: "421278"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "421278"
   youtube: ""
   web: ""
   email: ""

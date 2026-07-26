@@ -3,10 +3,10 @@ id: "9ba19a0a-b5b4-4580-a535-ed2130b09777"
 title: "Melrose"
 type: band
 socials:
-  bandsintown: "74323"
   facebook: "jesuismelrose"
   instagram: "jesuismelrose"
   tiktok: "@jesuismelrose"
+  bandsintown: "74323"
   youtube: "@jesuismelrose"
   tidal: "39556996"
   spotify: "1Ay914SUZT3uhezQ7fOOji"

@@ -3,11 +3,11 @@ id: "8dc56785-18db-413c-9a79-e658a2a577e3"
 title: "Austere"
 type: band
 socials:
-  bandsintown: "369579"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "369579"
   youtube: ""
   web: ""
   email: ""

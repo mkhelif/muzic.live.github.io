@@ -3,10 +3,10 @@ id: "144269cc-cb45-462e-b692-56df27f1af7a"
 title: "Avantasia"
 type: band
 socials:
-  bandsintown: "50615"
   facebook: "avantasia"
   instagram: "tobiassammetofficial"
   x: "_avantasia"
+  bandsintown: "50615"
   youtube: "@avantasiaofficial"
   amazon: "B0025PEDX8"
   apple: "72260874"
@@ -18,6 +18,7 @@ socials:
   tiktok: ""
   email: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

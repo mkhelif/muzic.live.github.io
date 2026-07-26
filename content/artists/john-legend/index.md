@@ -3,12 +3,12 @@ id: "9a2ddcad-8960-426f-afb6-6ece6dd9739b"
 title: "John Legend"
 type: person
 socials:
-  bandsintown: "193"
   facebook: "johnlegend"
   instagram: "johnlegend"
   tiktok: "@johnlegend"
   threads: "@johnlegend"
   x: "johnlegend"
+  bandsintown: "193"
   youtube: "@johnlegend"
   web: "https://johnlegend.com/"
   tidal: "490"
@@ -21,6 +21,7 @@ socials:
 todo:
   - Add picture from concert
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

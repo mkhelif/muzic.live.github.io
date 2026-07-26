@@ -2,12 +2,12 @@
 id: "b83e83dd-572d-4a6a-847d-ce24ca123036"
 title: "Lil Yachty"
 socials:
-  bandsintown: "13154280"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "13154280"
   youtube: ""
   web: ""
   email: ""

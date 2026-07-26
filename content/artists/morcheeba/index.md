@@ -3,11 +3,11 @@ id: "5d90dd65-b0b8-48e2-9d73-fb6501a4eb17"
 title: "Morcheeba"
 type: band
 socials:
-  bandsintown: "14641426"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "14641426"
   youtube: ""
   web: ""
   email: ""

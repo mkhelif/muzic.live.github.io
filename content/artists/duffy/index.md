@@ -3,11 +3,11 @@ id: "ba4b7236-00bf-433f-8f18-1d7e51b3c6a1"
 title: "Duffy"
 type: person
 socials:
-  bandsintown: "31745"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "31745"
   youtube: ""
   web: ""
   email: ""

@@ -3,12 +3,12 @@ id: "520f6c28-131e-45ba-9661-37264678b9cf"
 title: "Simple Minds"
 type: band
 socials:
-  bandsintown: "2575"
   facebook: "simpleminds"
   instagram: "simplemindsmusic"
   tiktok: "@simplemindsmusic"
   x: "simplemindscom"
   threads: "@simplemindsmusic"
+  bandsintown: "2575"
   youtube: "@Simpleminds1"
   web: "https://www.simpleminds.com/"
   tidal: "9125"

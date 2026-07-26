@@ -3,11 +3,11 @@ id: "d8c3164d-ea8a-467c-92f9-04b0cc3c8ef2"
 title: "Lionel Richie"
 type: person
 socials:
-  bandsintown: "628"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "628"
   youtube: ""
   web: ""
   email: ""

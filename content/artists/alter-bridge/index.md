@@ -24,12 +24,12 @@ members:
     periods:
       - start: 2004
 socials:
-  bandsintown: "1686"
   facebook: "alterbridge"
   instagram: "officialalterbridge"
   tiktok: "@officialalterbridge"
   threads: "@officialalterbridge"
   x: "alterbridge"
+  bandsintown: "1686"
   youtube: "@alterbridgeofficial"
   web: "https://alterbridge.com/"
   email: "info@janusmusicmgmt.com"
@@ -40,6 +40,7 @@ socials:
   spotify: "4DWX7u8BV0vZIQSpJQQDWU"
   tidal: "58484"
 lastUpdate:
+  apple: 2026-07-26
   bandsintown: 2026-07-26
   spotify: 2026-07-23
 ---

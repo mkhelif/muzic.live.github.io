@@ -3,11 +3,11 @@ id: "a0543f88-f53b-4272-a2a4-c13d8333d7be"
 title: "Days of Ruin"
 type: band
 socials:
-  bandsintown: "1494782"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1494782"
   youtube: ""
   web: ""
   email: ""

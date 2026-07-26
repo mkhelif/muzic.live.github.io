@@ -3,9 +3,9 @@ id: "f3af646c-5e12-41ec-a95c-203bb8d4188e"
 title: "Da Break"
 type: band
 socials:
-  bandsintown: "421210"
   instagram: "dabreakstagram"
   facebook: "DaBreaktheband"
+  bandsintown: "421210"
   youtube: "@DaBreak"
   web: "https://www.da-break.com/"
   tidal: "4023164"

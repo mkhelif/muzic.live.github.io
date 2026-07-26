@@ -2,12 +2,12 @@
 id: "e041f860-c88c-425a-b029-65524ce26420"
 title: "Nas"
 socials:
-  bandsintown: "332"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "332"
   youtube: ""
   web: ""
   email: ""

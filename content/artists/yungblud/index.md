@@ -3,11 +3,11 @@ id: "e6dfcff4-99fa-40d1-be11-b358ceb9fdc7"
 title: "YUNGBLUD"
 type: person
 socials:
-  bandsintown: "554251"
   facebook: "yungblud"
   instagram: "yungblud"
   tiktok: "@yungblud"
   x: "yungblud"
+  bandsintown: "554251"
   youtube: "@yungblud"
   web: "https://www.yungbludofficial.com/"
   tidal: "8605746"

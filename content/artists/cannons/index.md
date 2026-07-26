@@ -3,11 +3,11 @@ id: "89452b12-e52a-4f52-95b6-6990a67d4310"
 title: "Cannons"
 type: band
 socials:
-  bandsintown: "147249"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "147249"
   youtube: ""
   web: ""
   email: ""

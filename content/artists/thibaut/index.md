@@ -2,12 +2,12 @@
 id: "79305b35-759a-473d-91bf-347f9e9ce1b2"
 title: "Thibaut"
 socials:
-  bandsintown: "390310"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "390310"
   youtube: ""
   web: ""
   email: ""

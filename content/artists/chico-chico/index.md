@@ -3,11 +3,11 @@ id: "d71485dc-b392-44ab-bf61-6839c251a079"
 title: "Chico Chico"
 type: person
 socials:
-  bandsintown: "15647495"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15647495"
   youtube: ""
   web: ""
   email: ""

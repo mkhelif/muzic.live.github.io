@@ -3,11 +3,11 @@ id: "25042a8d-57b7-406a-b19b-873952df5457"
 title: "The Strypes"
 type: band
 socials:
-  bandsintown: "1740977"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1740977"
   youtube: ""
   web: ""
   email: ""

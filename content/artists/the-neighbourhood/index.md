@@ -3,11 +3,11 @@ id: "ce4b68c4-6ee0-4f77-91b3-92d09706c0b1"
 title: "The Neighbourhood"
 type: band
 socials:
-  bandsintown: "750838"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "750838"
   youtube: ""
   web: ""
   email: ""

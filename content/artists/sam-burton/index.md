@@ -2,12 +2,12 @@
 id: "48e75c94-0bd9-4c79-8835-41e176a2c74b"
 title: "Sam Burton"
 socials:
-  bandsintown: "15501104"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15501104"
   youtube: ""
   web: ""
   email: ""

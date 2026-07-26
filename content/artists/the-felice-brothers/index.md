@@ -2,12 +2,12 @@
 id: "b083b18f-73be-41a8-a9cd-0b8e5f864935"
 title: "The Felice Brothers"
 socials:
-  bandsintown: "159052"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "159052"
   youtube: ""
   web: ""
   email: ""

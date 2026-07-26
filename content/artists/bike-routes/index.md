@@ -2,12 +2,12 @@
 id: "36a5ee1a-5258-4b6d-89ce-39468fbca211"
 title: "Bike Routes"
 socials:
-  bandsintown: "13582460"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "13582460"
   youtube: ""
   web: ""
   email: ""

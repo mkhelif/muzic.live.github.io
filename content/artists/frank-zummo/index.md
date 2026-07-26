@@ -6,11 +6,11 @@ birth:
   date: 1978-07-02
   place: "Columbus, Ohio, États-Unis"
 socials:
-  bandsintown: "347524"
   facebook: "FrankZummo"
   instagram: "frankzummo"
   tiktok: "@frankzummo"
   threads: "@frankzummo"
+  bandsintown: "347524"
   youtube: "@zummofrank"
   cameo: "zummo"
   soundcloud: "frank-zummo"
@@ -27,5 +27,6 @@ todo:
   - Add description
   - Add information (birth, gender, ...)
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---

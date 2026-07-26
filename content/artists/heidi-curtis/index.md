@@ -3,11 +3,11 @@ id: "ad8e8bde-b982-4f7d-a574-866cbee2f2dd"
 title: "Heidi Curtis"
 type: person
 socials:
-  bandsintown: "15466584"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15466584"
   youtube: ""
   web: ""
   email: ""

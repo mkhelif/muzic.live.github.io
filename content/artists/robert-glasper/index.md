@@ -2,12 +2,12 @@
 id: "6b134fb0-1971-495d-ac48-346316ceebe1"
 title: "Robert Glasper"
 socials:
-  bandsintown: "99993"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "99993"
   youtube: ""
   web: ""
   email: ""

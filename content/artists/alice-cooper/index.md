@@ -3,11 +3,11 @@ id: "c53f2102-8d18-46a5-a3de-752ccd168902"
 title: "Alice Cooper"
 type: band
 socials:
-  bandsintown: "863"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "863"
   youtube: ""
   web: ""
   email: ""

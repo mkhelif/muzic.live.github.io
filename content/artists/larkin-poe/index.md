@@ -15,10 +15,10 @@ members:
     periods:
       - start: 2010
 socials:
-  bandsintown: "937435"
   facebook: "larkinpoe"
   instagram: "larkinpoe"
   tiktok: "@larkinpoe"
+  bandsintown: "937435"
   youtube: "@larkinpoe"
   web: "https://www.larkinpoe.com"
   tidal: "3701245"

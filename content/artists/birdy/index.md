@@ -3,11 +3,11 @@ id: "0f7a578e-1431-43dc-9c97-c8734d94ae8d"
 title: "Birdy"
 type: person
 socials:
-  bandsintown: "171933"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "171933"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "1c845ec6-4664-49a2-add5-d161dea928f8"
 title: "Amajee"
 type: person
 socials:
-  bandsintown: "15537343"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15537343"
   youtube: ""
   web: ""
   email: ""

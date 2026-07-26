@@ -3,11 +3,11 @@ id: "fd84e4af-a59c-4584-a195-f9578432c8af"
 title: "Yard Act"
 type: band
 socials:
-  bandsintown: "15488329"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15488329"
   youtube: ""
   web: ""
   email: ""

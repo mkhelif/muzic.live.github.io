@@ -3,11 +3,11 @@ id: "eab246c9-a222-46f4-849d-9749573eb912"
 title: "Sasha Keable"
 type: person
 socials:
-  bandsintown: "2447542"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2447542"
   youtube: ""
   web: ""
   email: ""

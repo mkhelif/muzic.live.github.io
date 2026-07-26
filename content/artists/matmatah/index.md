@@ -35,10 +35,10 @@ members:
     periods:
       - start: 2015
 socials:
-  bandsintown: "40487"
   facebook: "Matmatah.official"
   instagram: "matmatahofficiel"
   x: "matmatah"
+  bandsintown: "40487"
   youtube: "@Matmatah"
   web: "https://www.matmatah.com/"
   tidal: "3673229"

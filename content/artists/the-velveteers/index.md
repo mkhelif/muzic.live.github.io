@@ -20,11 +20,11 @@ members:
     periods:
       - start: 2020
 socials:
-  bandsintown: "11316039"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "11316039"
   youtube: ""
   web: ""
   email: ""

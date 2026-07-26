@@ -3,11 +3,11 @@ id: "308cdf69-30bc-4402-8811-d2e91c1c2a35"
 title: "Charli XCX"
 type: person
 socials:
-  bandsintown: "289995"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "289995"
   youtube: ""
   web: ""
   email: ""

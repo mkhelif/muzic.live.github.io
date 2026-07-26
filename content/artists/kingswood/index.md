@@ -3,11 +3,11 @@ id: "c9afa15e-138d-4fd3-8e1a-8c96756c09f5"
 title: "Kingswood"
 type: band
 socials:
-  bandsintown: "1130132"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1130132"
   youtube: ""
   web: ""
   email: ""

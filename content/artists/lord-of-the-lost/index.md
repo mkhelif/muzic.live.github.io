@@ -3,11 +3,11 @@ id: "95b09f5b-df4c-4e6f-835b-953674eacca5"
 title: "Lord of the Lost"
 type: band
 socials:
-  bandsintown: "336565"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "336565"
   youtube: ""
   web: ""
   email: ""

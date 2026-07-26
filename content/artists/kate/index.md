@@ -3,11 +3,11 @@ id: "238d7606-7c8f-4fd3-b2f2-e1712b4356e3"
 title: "KATE"
 type: unknown
 socials:
-  bandsintown: "167270"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "167270"
   youtube: ""
   web: ""
   email: ""

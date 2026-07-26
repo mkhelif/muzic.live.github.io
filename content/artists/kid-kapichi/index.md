@@ -27,11 +27,11 @@ members:
       - start: 2013
         end: 2025
 socials:
-  bandsintown: "7613094"
   facebook: "KidKapichi"
   instagram: "kidkapichi"
   tiktok: "@kidkapichi"
   x: "KidKapichi"
+  bandsintown: "7613094"
   youtube: "@kidkapichi"
   web: "https://www.kidkapichi.com"
   tidal: "9561242"

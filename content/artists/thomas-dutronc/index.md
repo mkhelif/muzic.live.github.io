@@ -3,11 +3,11 @@ id: "cb6b3319-5f9e-49c0-91e9-fa77236c2709"
 title: "Thomas Dutronc"
 type: person
 socials:
-  bandsintown: "174876"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "174876"
   youtube: ""
   web: ""
   email: ""

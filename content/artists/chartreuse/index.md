@@ -3,11 +3,11 @@ id: "29bb9338-3c4d-4ebb-a66e-5b17b47b602b"
 title: "Chartreuse"
 type: band
 socials:
-  bandsintown: "3367739"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3367739"
   youtube: ""
   web: ""
   email: ""

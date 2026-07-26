@@ -3,11 +3,11 @@ id: "b419c2dd-08ed-46c7-807f-9c727d052f8f"
 title: "Faithless"
 type: band
 socials:
-  bandsintown: "2125"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2125"
   youtube: ""
   web: ""
   email: ""

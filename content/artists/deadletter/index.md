@@ -44,8 +44,8 @@ socials:
   instagram: "_deadletter"
   tiktok: "@_deadletter"
   x: ""
-  youtube: "@deadletteronvideo"
   bandsintown: "3041073"
+  youtube: "@deadletteronvideo"
   web: ""
   email: "deadletter.b4nd@gmail.com"
   amazon: ""
@@ -55,6 +55,7 @@ socials:
   spotify: "4MfUQ99z2kgMnl9hAwffBx"
   tidal: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
   bandsintown: 2026-07-23
 ---

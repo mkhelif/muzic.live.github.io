@@ -3,11 +3,11 @@ id: "6a3b020a-790f-4438-8879-df2ba60c150c"
 title: "Cyrious"
 type: person
 socials:
-  bandsintown: "15549166"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15549166"
   youtube: ""
   web: ""
   email: ""

@@ -28,9 +28,9 @@ socials:
   instagram: "realdominum"
   tiktok: "@realdominum"
   threads: "@realdominum"
+  bandsintown: "15565754"
   youtube: "realdominum"
   bandcamp: "dominum"
-  bandsintown: "15565754"
   amazon: "B09D4QKGJS"
   apple: "1705431963"
   deezer: "142722952"
@@ -41,6 +41,7 @@ socials:
   x: ""
   email: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
   bandsintown: 2026-07-23
 ---

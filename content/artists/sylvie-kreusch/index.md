@@ -3,11 +3,11 @@ id: "efc8c060-112e-4215-9b05-f56509d1acc9"
 title: "Sylvie Kreusch"
 type: person
 socials:
-  bandsintown: "1659054"
   facebook: "sylviekreusch"
   instagram: "sylviekreusch"
   tiktok: "@sylviekreuschmusic"
   x: ""
+  bandsintown: "1659054"
   youtube: "@SylvieKreuschMusic"
   web: ""
   email: "info@musickness.be"
@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "11T0XSkxSB5KUPTe8P8BOl"
   tidal: ""
+lastUpdate:
+  apple: 2026-07-26
 ---
 
 Sylvie Kreusch est une chanteuse belge née le 16 mai 1991 à Anvers, figure singulière de la pop belge contemporaine,

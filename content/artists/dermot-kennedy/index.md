@@ -3,11 +3,11 @@ id: "9142631c-939b-4d24-8d7c-1683d5086e86"
 title: "Dermot Kennedy"
 type: person
 socials:
-  bandsintown: "3141879"
   facebook: "dermotkennedymusic"
   instagram: "dermotkennedy"
   tiktok: "@dermotkennedy"
   x: "DermotKennedy"
+  bandsintown: "3141879"
   youtube: "@DermotKennedy"
   web: "https://www.dermotkennedy.com/"
   tidal: "8557616"
@@ -18,6 +18,7 @@ socials:
   email: ""
   qobuz: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

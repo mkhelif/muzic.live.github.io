@@ -3,11 +3,11 @@ id: "a025fa01-85b3-456b-bede-fdf573faa4e8"
 title: "Ahna"
 type: band
 socials:
-  bandsintown: "15553998"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15553998"
   youtube: ""
   web: ""
   email: ""

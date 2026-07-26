@@ -2,12 +2,12 @@
 id: "4c771ed9-1967-4f2b-82b1-5ac1870eea8b"
 title: "HoneyLuv"
 socials:
-  bandsintown: "15494594"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15494594"
   youtube: ""
   web: ""
   email: ""

@@ -7,8 +7,8 @@ socials:
   instagram: "asafavidanmusic"
   tiktok: "@asafavidanofficial"
   x: "AvidanOfficial"
-  youtube: "@AsafAvidan"
   bandsintown: "252839"
+  youtube: "@AsafAvidan"
   web: "https://www.asafavidan.com/"
   email: "lior@telmavar.com"
   amazon: ""
@@ -18,6 +18,7 @@ socials:
   spotify: "7t51dSX8ZkKC7VoKRd0lME"
   tidal: "4751617"
 lastUpdate:
+  apple: 2026-07-26
   bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---

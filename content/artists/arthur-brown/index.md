@@ -2,12 +2,12 @@
 id: "58996113-80d6-412f-ab0e-98c87b3bed78"
 title: "Arthur Brown"
 socials:
-  bandsintown: "125379"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "125379"
   youtube: ""
   web: ""
   email: ""

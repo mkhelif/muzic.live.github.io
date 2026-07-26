@@ -3,11 +3,11 @@ id: "06a3a96a-3c1d-4e79-bf07-185e89b8b00c"
 title: "Ninho"
 type: person
 socials:
-  bandsintown: "3027791"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3027791"
   youtube: ""
   web: ""
   email: ""

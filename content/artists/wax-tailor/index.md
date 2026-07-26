@@ -3,11 +3,11 @@ id: "45bf702f-7635-4094-bf2a-a7235122e581"
 title: "Wax Tailor"
 type: person
 socials:
-  bandsintown: "6604"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "6604"
   youtube: ""
   web: ""
   email: ""

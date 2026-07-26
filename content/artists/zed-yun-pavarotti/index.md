@@ -3,11 +3,11 @@ id: "9cb4682e-90fb-4e11-abbf-ca2a0bfd3563"
 title: "Zed Yun Pavarotti"
 type: person
 socials:
-  bandsintown: "14828171"
   facebook: "ZEDYUNPAVA"
   instagram: "zedyunpavarotti"
   x: "zedyunpava"
   threads: "@zedyunpavarotti"
+  bandsintown: "14828171"
   youtube: "@Leyun"
   web: "https://zedyunpavarotti.com/"
   tidal: "9486254"

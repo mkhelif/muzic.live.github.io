@@ -3,11 +3,11 @@ id: "6c7c8a6d-6400-448e-938d-9ca2bb45d48c"
 title: "The Meffs"
 type: band
 socials:
-  bandsintown: "15515425"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15515425"
   youtube: ""
   web: ""
   email: ""

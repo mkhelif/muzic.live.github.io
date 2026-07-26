@@ -2,12 +2,12 @@
 id: "7042938e-5421-4a55-ae40-f5ba131efbd6"
 title: "Pupil Slicer"
 socials:
-  bandsintown: "14551329"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "14551329"
   youtube: ""
   web: ""
   email: ""

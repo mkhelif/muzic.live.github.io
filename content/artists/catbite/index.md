@@ -2,11 +2,11 @@
 id: "5c9802fc-f32a-4837-966c-91eb5da44ce4"
 title: "Catbite"
 socials:
-  bandsintown: "15227493"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15227493"
   youtube: ""
   web: ""
   email: ""

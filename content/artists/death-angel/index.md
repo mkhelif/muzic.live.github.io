@@ -3,11 +3,11 @@ id: "a4bdfcf7-0c05-403e-ad85-b6ec8550181f"
 title: "Death Angel"
 type: band
 socials:
-  bandsintown: "5269"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "5269"
   youtube: ""
   web: ""
   email: ""

@@ -72,9 +72,9 @@ members:
       - start: 1993
         end: 1999
 socials:
-  bandsintown: "38345"
   facebook: "masshysteriaofficiel"
   instagram: "masshysteria_official"
+  bandsintown: "38345"
   youtube: "@masshysteria_official"
   web: "https://masshysteriaofficial.bigcartel.com/"
   tidal: "6023"

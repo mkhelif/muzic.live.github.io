@@ -3,11 +3,11 @@ id: "a70b2046-0d73-475d-b65e-ca3969ddafb4"
 title: "Soul Asylum"
 type: band
 socials:
-  bandsintown: "2418"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2418"
   youtube: ""
   web: ""
   email: ""

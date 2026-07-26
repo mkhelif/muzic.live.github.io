@@ -3,11 +3,11 @@ id: "8cd19146-0d7c-4bf0-83f4-c1919df82e3d"
 title: "Sexy Sushi"
 type: band
 socials:
-  bandsintown: "39461"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "39461"
   youtube: ""
   web: ""
   email: ""

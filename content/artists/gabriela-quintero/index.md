@@ -3,11 +3,11 @@ id: "c87231cb-f1b3-4024-a144-499759adbecf"
 title: "Gabriela Quintero"
 type: person
 socials:
-  bandsintown: "3877874"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3877874"
   youtube: ""
   web: ""
   email: ""

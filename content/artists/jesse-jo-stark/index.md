@@ -3,11 +3,11 @@ id: "327242bb-c8f4-4677-8d92-57198d07fc46"
 title: "Jesse Jo Stark"
 type: person
 socials:
-  bandsintown: "2546309"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2546309"
   youtube: ""
   web: ""
   email: ""

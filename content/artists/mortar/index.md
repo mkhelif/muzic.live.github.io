@@ -2,12 +2,12 @@
 id: "ab5ffbbe-f026-4725-9888-17331553a5b1"
 title: "Mortar"
 socials:
-  bandsintown: "189344"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "189344"
   youtube: ""
   web: ""
   email: ""

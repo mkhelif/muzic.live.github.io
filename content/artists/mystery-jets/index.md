@@ -2,12 +2,12 @@
 id: "458202f1-2a97-46e2-bb8c-adb97c80eeb4"
 title: "Mystery Jets"
 socials:
-  bandsintown: "2502"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "2502"
   youtube: ""
   web: ""
   email: ""

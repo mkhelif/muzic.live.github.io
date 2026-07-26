@@ -3,11 +3,11 @@ id: "8c98046a-9b27-4a45-a1f4-600d4ee4eba6"
 title: "Alexandrie"
 type: unknown
 socials:
-  bandsintown: "14904805"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "14904805"
   youtube: ""
   web: ""
   email: ""

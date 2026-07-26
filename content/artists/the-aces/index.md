@@ -28,11 +28,11 @@ members:
     periods:
       - start: 2008
 socials:
-  bandsintown: "111000"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "111000"
   youtube: ""
   web: ""
   email: ""

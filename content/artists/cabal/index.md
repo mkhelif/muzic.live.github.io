@@ -3,11 +3,11 @@ id: "68316140-e623-407d-aea6-09ce22cabbb6"
 title: "Cabal"
 type: unknown
 socials:
-  bandsintown: "109607"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "109607"
   youtube: ""
   web: ""
   email: ""

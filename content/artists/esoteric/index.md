@@ -3,11 +3,11 @@ id: "48040970-34e1-4baf-a183-ca8ca11fc066"
 title: "Esoteric"
 type: band
 socials:
-  bandsintown: "85132"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "85132"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "22bafb8b-574b-48ec-97d4-39760c79e22c"
 title: "Sara Landry"
 type: person
 socials:
-  bandsintown: "13497965"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13497965"
   youtube: ""
   web: ""
   email: ""

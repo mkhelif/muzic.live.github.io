@@ -2,12 +2,12 @@
 id: "149ecf76-01ca-43d8-890e-97a0ec7264df"
 title: "Arthur Hill"
 socials:
-  bandsintown: "15512113"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15512113"
   youtube: ""
   web: ""
   email: ""

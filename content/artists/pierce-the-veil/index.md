@@ -2,11 +2,11 @@
 id: "cb694e1a-5f96-4721-a654-ebac9ce47e54"
 title: "Pierce The Veil"
 socials:
-  bandsintown: "4072"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4072"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "f88a35ef-4bbf-40dd-bc70-362a9a0cbcae"
 title: "Lio"
 type: person
 socials:
-  bandsintown: "22693"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "22693"
   youtube: ""
   web: ""
   email: ""

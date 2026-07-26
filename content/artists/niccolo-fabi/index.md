@@ -2,12 +2,12 @@
 id: "96e8f381-c702-41bc-be3d-5637ba5bd2ed"
 title: "Niccolò Fabi"
 socials:
-  bandsintown: "105718"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "105718"
   youtube: ""
   web: ""
   email: ""

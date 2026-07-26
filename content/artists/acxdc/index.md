@@ -2,12 +2,12 @@
 id: "552578f7-0655-45a5-a148-ebe70781415b"
 title: "ACxDC"
 socials:
-  bandsintown: "309886"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "309886"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "f49aa817-1eb6-4bbd-bfca-701470f76a2f"
 title: "Petit Biscuit"
 type: person
 socials:
-  bandsintown: "9200468"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "9200468"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "a743f4b3-5c8d-4045-98f1-c0de6a0a042f"
 title: "The Vaccines"
 type: band
 socials:
-  bandsintown: "1050800"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1050800"
   youtube: ""
   web: ""
   email: ""

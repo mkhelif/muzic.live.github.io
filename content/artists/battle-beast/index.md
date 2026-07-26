@@ -56,10 +56,10 @@ members:
       - start: 2012
         end: 2025
 socials:
-  bandsintown: "469142"
   facebook: "battlebeastofficial"
   instagram: "battlebeastband"
   x: "battlebeast"
+  bandsintown: "469142"
   youtube: "@BattleBeast"
   web: "https://www.battlebeast.fi"
   tidal: "3866638"

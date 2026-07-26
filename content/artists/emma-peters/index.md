@@ -3,11 +3,11 @@ id: "a863c039-e5dc-4781-9a2d-983be106cfb5"
 title: "Emma Peters"
 type: person
 socials:
-  bandsintown: "15506586"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15506586"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "edb9ccaf-8e8f-49f3-b417-361e54136df4"
 title: "Pendulum"
 type: band
 socials:
-  bandsintown: "1236"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1236"
   youtube: ""
   web: ""
   email: ""

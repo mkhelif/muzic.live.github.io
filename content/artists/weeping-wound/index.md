@@ -2,12 +2,12 @@
 id: "f61639d1-e87f-4a5f-b076-b588b0c3cfce"
 title: "Weeping Wound"
 socials:
-  bandsintown: "14654031"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "14654031"
   youtube: ""
   web: ""
   email: ""

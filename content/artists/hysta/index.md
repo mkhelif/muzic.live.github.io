@@ -3,11 +3,11 @@ id: "19c8a18a-fe0c-4488-a7c2-5ddd307beb4c"
 title: "Hysta"
 type: unknown
 socials:
-  bandsintown: "15515272"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15515272"
   youtube: ""
   web: ""
   email: ""

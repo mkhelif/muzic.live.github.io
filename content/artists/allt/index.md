@@ -3,11 +3,11 @@ id: "5a4c7b45-be5b-4732-9aea-211d0a2d2b0e"
 title: "Allt"
 type: band
 socials:
-  bandsintown: "15502572"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15502572"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "6e079f8c-3f8a-4b79-99ea-f5e535ef5e9f"
 title: "Parcels"
 type: band
 socials:
-  bandsintown: "11827262"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "11827262"
   youtube: ""
   web: ""
   email: ""

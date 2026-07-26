@@ -3,9 +3,9 @@ id: "c8a4416f-015e-4a8f-a82e-f874de431e2c"
 title: "Saïan Supa Celebration"
 type: unknown
 socials:
-  bandsintown: "264080"
   facebook: "saiansupacelebration"
   instagram: "saiansupacelebration"
+  bandsintown: "264080"
   youtube: "@Ssc-for-ever"
   spotify: "6XaUaXu0cGAFK1AlQkl1b6"
   tiktok: ""

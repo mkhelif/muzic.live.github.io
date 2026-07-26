@@ -3,11 +3,11 @@ id: "d1ea2382-a454-452a-b791-8490fc56aabe"
 title: "Rockefeller"
 type: band
 socials:
-  bandsintown: "70327"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "70327"
   youtube: ""
   web: ""
   email: ""

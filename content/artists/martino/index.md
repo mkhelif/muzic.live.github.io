@@ -3,11 +3,11 @@ id: "50a07ae8-6df2-4092-988d-088680077104"
 title: "Martino"
 type: unknown
 socials:
-  bandsintown: "348341"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "348341"
   youtube: ""
   web: ""
   email: ""

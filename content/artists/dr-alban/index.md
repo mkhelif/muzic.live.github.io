@@ -3,11 +3,11 @@ id: "993a1305-0898-4e38-9b11-8f62d677bc95"
 title: "Dr. Alban"
 type: person
 socials:
-  bandsintown: "51635"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "51635"
   youtube: ""
   web: ""
   email: ""

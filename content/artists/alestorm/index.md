@@ -3,11 +3,11 @@ id: "8defcffd-a441-4dff-9819-532af8c17679"
 title: "Alestorm"
 type: band
 socials:
-  bandsintown: "177527"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "177527"
   youtube: ""
   web: ""
   email: ""

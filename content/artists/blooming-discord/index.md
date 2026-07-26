@@ -2,12 +2,12 @@
 id: "ba4ff99c-ada2-485a-a3c5-5f9f937f1be3"
 title: "Blooming Discord"
 socials:
-  bandsintown: "12684853"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "12684853"
   youtube: ""
   web: ""
   email: ""

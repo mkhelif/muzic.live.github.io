@@ -3,11 +3,11 @@ id: "c640d225-5174-4517-97ea-fb90c3252a25"
 title: "High on Fire"
 type: band
 socials:
-  bandsintown: "4344"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4344"
   youtube: ""
   web: ""
   email: ""

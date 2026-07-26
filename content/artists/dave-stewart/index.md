@@ -3,10 +3,10 @@ id: "79a6537c-21d8-4626-997f-726564b38dc6"
 title: "Dave Stewart"
 type: person
 socials:
-  bandsintown: "140273"
   facebook: "davestewart"
   instagram: "davestewarteurythmics"
   x: "davestewart"
+  bandsintown: "140273"
   youtube: "@DaveStewartOfficial"
   tidal: "14661"
   spotify: "7gcCQIlkkfbul5Mt0jBQkg"

@@ -89,11 +89,11 @@ members:
       - start: 1994
         end: 1999
 socials:
-  bandsintown: "1301"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1301"
   youtube: ""
   web: ""
   email: ""

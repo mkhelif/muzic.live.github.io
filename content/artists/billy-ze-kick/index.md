@@ -3,11 +3,11 @@ id: "4d3683d1-25b1-490b-8fd2-bd9e551150e2"
 title: "Billy Ze Kick"
 type: person
 socials:
-  bandsintown: "97615"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "97615"
   youtube: ""
   web: ""
   email: ""

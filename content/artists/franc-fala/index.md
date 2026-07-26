@@ -3,11 +3,11 @@ id: "6ae17bc0-d30a-430c-9216-3223b7c54ea4"
 title: "Franc Fala"
 type: person
 socials:
-  bandsintown: "15610012"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15610012"
   youtube: ""
   web: ""
   email: ""

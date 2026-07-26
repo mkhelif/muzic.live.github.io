@@ -3,11 +3,11 @@ id: "bce554a2-f442-4342-a789-81bcb12a1c0c"
 title: "Andhim"
 type: unknown
 socials:
-  bandsintown: "1100729"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1100729"
   youtube: ""
   web: ""
   email: ""

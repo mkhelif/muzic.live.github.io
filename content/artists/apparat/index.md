@@ -3,12 +3,12 @@ id: "66dd1348-a9c4-4211-bf3f-6b6a3347551f"
 title: "Apparat"
 type: person
 socials:
-  bandsintown: "51937"
   facebook: ""
   instagram: ""
   web: ""
   tiktok: ""
   x: ""
+  bandsintown: "51937"
   youtube: ""
   email: ""
   amazon: ""

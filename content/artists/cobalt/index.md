@@ -2,12 +2,12 @@
 id: "8383fea1-ba81-4615-ad8f-47da334912ff"
 title: "Cobalt"
 socials:
-  bandsintown: "15570477"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15570477"
   youtube: ""
   web: ""
   email: ""

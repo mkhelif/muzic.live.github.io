@@ -3,11 +3,11 @@ id: "b595ab13-040e-4198-ab9e-294539844b91"
 title: "Cimafunk"
 type: person
 socials:
-  bandsintown: "14849441"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "14849441"
   youtube: ""
   web: ""
   email: ""

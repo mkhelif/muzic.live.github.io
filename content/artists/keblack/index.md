@@ -3,10 +3,10 @@ id: "06270fb8-6dc8-46c6-8763-66cb3de58775"
 title: "KeBlack"
 type: person
 socials:
-  bandsintown: "5846612"
   facebook: "keblackofficial"
   instagram: "keblackofficiel"
   x: "keblackofficiel"
+  bandsintown: "5846612"
   youtube: "@Keblackofficiel"
   amazon: "B00SYEHWAA"
   apple: "962719824"
@@ -18,6 +18,7 @@ socials:
   tiktok: ""
   web: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

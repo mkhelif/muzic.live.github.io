@@ -3,9 +3,9 @@ id: "7181d84a-c9ba-4739-9128-f6d38d0c71af"
 title: "Jamiroquai"
 type: band
 socials:
-  bandsintown: "954"
   facebook: "jamiroquai"
   instagram: "jamiroquaihq"
+  bandsintown: "954"
   youtube: "@Jamiroquai"
   web: "https://www.jamiroquai.com/"
   tiktok: ""

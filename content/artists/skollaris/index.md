@@ -2,12 +2,12 @@
 id: "7d700808-02bf-49d5-9399-2eb1eb40cc82"
 title: "Skollaris"
 socials:
-  bandsintown: "15504503"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15504503"
   youtube: ""
   web: ""
   email: ""

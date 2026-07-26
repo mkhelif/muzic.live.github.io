@@ -3,11 +3,11 @@ id: "a85985b5-4428-4baf-a61a-fe8549d1e6ec"
 title: "Lewis Capaldi"
 type: person
 socials:
-  bandsintown: "9448076"
   facebook: "lewiscapaldi"
   instagram: "lewiscapaldi"
   tiktok: "@lewiscapaldi"
   x: "lewiscapaldi"
+  bandsintown: "9448076"
   youtube: "@LewisCapaldi"
   web: "https://www.lewiscapaldi.com/"
   tidal: "8583514"
@@ -18,6 +18,7 @@ socials:
   qobuz: "3023213"
   email: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

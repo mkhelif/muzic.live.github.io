@@ -3,11 +3,11 @@ id: "40ed0fbb-1b6d-4ee7-be74-af8f8b99c32c"
 title: "Arrested Development"
 type: person
 socials:
-  bandsintown: "4421"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4421"
   youtube: ""
   web: ""
   email: ""

@@ -3,12 +3,12 @@ id: "9a68812d-53e4-4446-bff6-20eb0938f030"
 title: "Broken Back"
 type: person
 socials:
-  bandsintown: "7480625"
   facebook: "BrokenBackMusic"
   instagram: "brokenbackmusic"
   x: "BrokenBackMusic"
   soundcloud: "broken-back"
   bandcamp: "brokenbackmusic"
+  bandsintown: "7480625"
   youtube: "@BrokenBackMusic"
   tidal: "5110762"
   spotify: "4nx8ehrFiCOmWgebUKshDV"

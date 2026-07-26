@@ -2,12 +2,12 @@
 id: "44716760-fdcb-4fa3-b970-c5d0761cda1d"
 title: "Charlotte Wessels"
 socials:
-  bandsintown: "429279"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "429279"
   youtube: ""
   web: ""
   email: ""

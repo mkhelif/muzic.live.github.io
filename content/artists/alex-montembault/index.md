@@ -2,12 +2,12 @@
 id: "c95d7d51-bd8f-4667-a675-bd507e3b4912"
 title: "Alex Montembault"
 socials:
-  bandsintown: "15573382"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15573382"
   youtube: ""
   web: ""
   email: ""

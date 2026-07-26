@@ -6,8 +6,8 @@ socials:
   facebook: "justeshani"
   instagram: "juste_shani"
   tiktok: "@juste_shanii"
-  youtube: "@justeshani"
   bandsintown: "15491426"
+  youtube: "@justeshani"
   amazon: "B07L972GSB"
   apple: "1446286243"
   deezer: "55643122"
@@ -18,6 +18,7 @@ socials:
   x: ""
   web: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
   bandsintown: 2026-07-23
 ---

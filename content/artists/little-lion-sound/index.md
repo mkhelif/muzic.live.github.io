@@ -3,11 +3,11 @@ id: "a2d9a0eb-2b73-4d37-b1d8-ed4f292908de"
 title: "Little Lion Sound"
 type: band
 socials:
-  bandsintown: "2520657"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2520657"
   youtube: ""
   web: ""
   email: ""

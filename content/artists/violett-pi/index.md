@@ -3,11 +3,11 @@ id: "70a891f0-8787-4701-b93c-b07994d0e9bb"
 title: "VioleTT Pi"
 type: person
 socials:
-  bandsintown: "2227093"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2227093"
   youtube: ""
   web: ""
   email: ""

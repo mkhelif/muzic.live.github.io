@@ -3,11 +3,11 @@ id: "d7c0525a-0397-4902-9347-4a3bd2997876"
 title: "Point Mort"
 type: band
 socials:
-  bandsintown: "11612864"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "11612864"
   youtube: ""
   web: ""
   email: ""

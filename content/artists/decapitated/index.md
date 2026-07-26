@@ -3,11 +3,11 @@ id: "47e0e00b-36fd-45d5-9ab3-eea36ccb5990"
 title: "Decapitated"
 type: band
 socials:
-  bandsintown: "12449"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "12449"
   youtube: ""
   web: ""
   email: ""

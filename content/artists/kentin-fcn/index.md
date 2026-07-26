@@ -3,11 +3,11 @@ id: "ea9fa0f1-9d9d-44c5-9a4f-bc89222c595d"
 title: "Kentin FcN"
 type: unknown
 socials:
-  bandsintown: "15595302"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15595302"
   youtube: ""
   web: ""
   email: ""

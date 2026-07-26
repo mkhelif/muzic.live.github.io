@@ -7,8 +7,8 @@ socials:
   instagram: "agnesobel"
   x: "agnesobel"
   threads: "@agnesobel"
-  youtube: "@AgnesObelOfficial"
   bandsintown: "358692"
+  youtube: "@AgnesObelOfficial"
   songkick: "2875201"
   web: "https://www.agnesobel.com/"
   tidal: "3694795"
@@ -20,6 +20,7 @@ socials:
   tiktok: ""
   qobuz: ""
 lastUpdate:
+  apple: 2026-07-26
   bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---

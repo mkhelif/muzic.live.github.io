@@ -3,11 +3,11 @@ id: "8efa3717-a0a5-4df2-811e-352c0a08cff6"
 title: "Neal Schon"
 type: person
 socials:
-  bandsintown: "126617"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "126617"
   youtube: ""
   web: ""
   email: ""

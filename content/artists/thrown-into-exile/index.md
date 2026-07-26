@@ -2,12 +2,12 @@
 id: "d8fbb6ec-d445-4959-bb22-270f41d8cc4b"
 title: "Thrown into Exile"
 socials:
-  bandsintown: "1548171"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "1548171"
   youtube: ""
   web: ""
   email: ""

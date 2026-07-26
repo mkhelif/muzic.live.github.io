@@ -3,11 +3,11 @@ id: "80f66fff-bbc0-4d7c-98ea-d8d353e6efbd"
 title: "Gaerea"
 type: band
 socials:
-  bandsintown: "13720557"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13720557"
   youtube: ""
   web: ""
   email: ""

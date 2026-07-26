@@ -3,11 +3,11 @@ id: "d6797559-0a56-4464-8697-883cc11c42d3"
 title: "Open Season"
 type: band
 socials:
-  bandsintown: "80911"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "80911"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "9c0138cc-0659-4fe8-be83-68dea88109fb"
 title: "Kid Francescoli"
 type: person
 socials:
-  bandsintown: "432088"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "432088"
   youtube: ""
   web: ""
   email: ""

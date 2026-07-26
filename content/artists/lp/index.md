@@ -3,11 +3,11 @@ id: "2585cf86-6ae2-4e8f-b8d8-1eb309505b86"
 title: "LP"
 type: person
 socials:
-  bandsintown: "325203"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "325203"
   youtube: ""
   web: ""
   email: ""

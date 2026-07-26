@@ -3,11 +3,11 @@ id: "c0d94e10-402a-4e1b-b521-3c0a55eff20e"
 title: "Todiefor"
 type: person
 socials:
-  bandsintown: "11759959"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "11759959"
   youtube: ""
   web: ""
   email: ""

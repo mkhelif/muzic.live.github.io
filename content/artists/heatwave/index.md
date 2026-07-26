@@ -2,12 +2,12 @@
 id: "c85f363d-6244-4b5d-bcfb-90b2d0c10bc5"
 title: "Heatwave"
 socials:
-  bandsintown: "15571620"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15571620"
   youtube: ""
   web: ""
   email: ""

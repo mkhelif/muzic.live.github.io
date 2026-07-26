@@ -3,11 +3,11 @@ id: "5eb7c912-325a-46b7-ab58-a61401240c9e"
 title: "Aerial Ruin"
 type: person
 socials:
-  bandsintown: "963913"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "963913"
   youtube: ""
   web: ""
   email: ""

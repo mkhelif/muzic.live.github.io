@@ -3,11 +3,11 @@ id: "a600929e-dc23-4c53-a17e-7742f3084796"
 title: "Tyler Ballgame"
 type: person
 socials:
-  bandsintown: "15548328"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15548328"
   youtube: ""
   web: ""
   email: ""

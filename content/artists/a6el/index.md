@@ -3,11 +3,11 @@ id: "c81d2470-d947-4dc2-aa1c-88208919122f"
 title: "a6el"
 type: person
 socials:
-  bandsintown: "15652840"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15652840"
   youtube: ""
   web: ""
   email: ""

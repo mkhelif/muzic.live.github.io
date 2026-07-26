@@ -3,11 +3,11 @@ id: "337f4a6d-e8cc-43ec-b075-74bb71c44d75"
 title: "Skepta"
 type: person
 socials:
-  bandsintown: "57275"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "57275"
   youtube: ""
   web: ""
   email: ""

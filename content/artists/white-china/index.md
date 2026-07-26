@@ -3,11 +3,11 @@ id: "c2dab6e5-f4a2-4b7c-a656-49ec0a5faa20"
 title: "White China"
 type: unknown
 socials:
-  bandsintown: "521929"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "521929"
   youtube: ""
   web: ""
   email: ""

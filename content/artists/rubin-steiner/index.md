@@ -3,11 +3,11 @@ id: "62bd98e3-a65b-45c3-94c9-c646be6f3d2d"
 title: "Rubin Steiner"
 type: person
 socials:
-  bandsintown: "123898"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "123898"
   youtube: ""
   web: ""
   email: ""

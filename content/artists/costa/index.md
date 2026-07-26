@@ -2,12 +2,12 @@
 id: "5827aae3-ecad-4a06-86db-792c30b1c3da"
 title: "Costa"
 socials:
-  bandsintown: "133178"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "133178"
   youtube: ""
   web: ""
   email: ""

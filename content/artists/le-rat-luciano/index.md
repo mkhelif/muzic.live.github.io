@@ -3,11 +3,11 @@ id: "1400eddd-a107-406a-bc6c-853e649984cf"
 title: "Le Rat Luciano"
 type: person
 socials:
-  bandsintown: "68328"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "68328"
   youtube: ""
   web: ""
   email: ""

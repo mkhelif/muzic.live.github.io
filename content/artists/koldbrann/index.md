@@ -2,12 +2,12 @@
 id: "c91718a7-c5e1-482d-8bc7-1f865b6e5c6e"
 title: "Koldbrann"
 socials:
-  bandsintown: "82481"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "82481"
   youtube: ""
   web: ""
   email: ""

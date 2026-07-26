@@ -3,11 +3,11 @@ id: "8c77c12a-f660-4b7e-a0ff-065527fd7929"
 title: "Ipkiss"
 type: band
 socials:
-  bandsintown: "1397232"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1397232"
   youtube: ""
   web: ""
   email: ""

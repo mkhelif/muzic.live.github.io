@@ -3,11 +3,11 @@ id: "18be376b-1dac-4211-961a-6004d9f728a3"
 title: "Mike Shinoda"
 type: person
 socials:
-  bandsintown: "15230493"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15230493"
   youtube: ""
   web: ""
   email: ""

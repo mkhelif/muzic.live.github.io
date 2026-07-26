@@ -3,11 +3,11 @@ id: "53dba095-b505-492f-8071-caafa865ee0b"
 title: "Abbath"
 type: band
 socials:
-  bandsintown: "12039655"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "12039655"
   youtube: ""
   web: ""
   email: ""

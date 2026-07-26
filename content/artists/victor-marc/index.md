@@ -3,11 +3,11 @@ id: "8e8a522f-a967-423d-be06-8536c8fc1f14"
 title: "Victor Marc"
 type: person
 socials:
-  bandsintown: "13087777"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13087777"
   youtube: ""
   web: ""
   email: ""

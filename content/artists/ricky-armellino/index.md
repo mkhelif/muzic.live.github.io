@@ -3,11 +3,11 @@ id: "c9d3b3cb-c9e7-4d44-a6a6-3357b063068c"
 title: "Ricky Armellino"
 type: person
 socials:
-  bandsintown: "1577899"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1577899"
   youtube: ""
   web: ""
   email: ""

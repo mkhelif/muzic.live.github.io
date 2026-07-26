@@ -2,12 +2,12 @@
 id: "9d6add26-7382-4571-9019-02dc0c02aac5"
 title: "Scylla"
 socials:
-  bandsintown: "375949"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "375949"
   youtube: ""
   web: ""
   email: ""

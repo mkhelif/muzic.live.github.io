@@ -3,11 +3,11 @@ id: "1814bef6-bd14-45c5-a848-204d9fa7cdcc"
 title: "Hypno5e"
 type: band
 socials:
-  bandsintown: "213323"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "213323"
   youtube: ""
   web: ""
   email: ""

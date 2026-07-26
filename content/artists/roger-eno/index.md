@@ -3,11 +3,11 @@ id: "181b3459-f5af-41ab-b31c-469b60e9231b"
 title: "Roger Eno"
 type: person
 socials:
-  bandsintown: "162955"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "162955"
   youtube: ""
   web: ""
   email: ""

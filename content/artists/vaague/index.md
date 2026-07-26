@@ -3,11 +3,11 @@ id: "d1d20015-0098-4475-b771-edd1fd077292"
 title: "Vaague"
 type: person
 socials:
-  bandsintown: "15491259"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15491259"
   youtube: ""
   web: ""
   email: ""

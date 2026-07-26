@@ -3,11 +3,11 @@ id: "7507579e-bf09-461e-9e78-ddf54a9d8e50"
 title: "El Gato Negro"
 type: band
 socials:
-  bandsintown: "4388721"
   facebook: "elgatonegrotropical"
   instagram: "elgatonegrotropical"
   threads: "elgatonegrotropical"
   soundcloud: "el-gato-negro-tropical"
+  bandsintown: "4388721"
   youtube: "@ElGatoNegroTropical"
   web: "http://gatonegrotropical.com/"
   tidal: "42097218"

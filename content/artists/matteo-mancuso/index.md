@@ -3,10 +3,10 @@ id: "ce405914-4efe-4a7f-9f81-f4d1da70854b"
 title: "Matteo Mancuso"
 type: person
 socials:
-  bandsintown: "15517392"
   facebook: "matteomancusoofficial"
   instagram: "matteomancuso.guitar"
   tiktok: "@matteomancuso.guitar"
+  bandsintown: "15517392"
   youtube: "@MatteoMancusoofficial"
   web: "https://www.matteomancuso.net/"
   tidal: "6346354"

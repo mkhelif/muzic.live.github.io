@@ -3,11 +3,11 @@ id: "ba4a5db3-dda6-4c37-96aa-df1ab424d5d4"
 title: "Philippe Katerine"
 type: unknown
 socials:
-  bandsintown: "302360"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "302360"
   youtube: ""
   web: ""
   email: ""

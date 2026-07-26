@@ -2,12 +2,12 @@
 id: "31e4f29f-86d6-484c-8acc-273863ce4fa9"
 title: "James"
 socials:
-  bandsintown: "6111"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "6111"
   youtube: ""
   web: ""
   email: ""

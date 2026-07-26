@@ -3,11 +3,11 @@ id: "f5174ca4-1906-4efb-8461-2a333660ce47"
 title: "Arno"
 type: person
 socials:
-  bandsintown: "46168"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "46168"
   youtube: ""
   web: ""
   email: ""

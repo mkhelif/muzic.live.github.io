@@ -2,12 +2,12 @@
 id: "3f7f0d04-280f-4552-988b-89ad991a3ded"
 title: "Myslovitz"
 socials:
-  bandsintown: "41155"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "41155"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "070d2386-6a6d-4079-aa60-5b75d40e0f62"
 title: "Mark Lanegan"
 type: person
 socials:
-  bandsintown: "4878"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4878"
   youtube: ""
   web: ""
   email: ""

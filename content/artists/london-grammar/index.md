@@ -3,11 +3,11 @@ id: "9d1d39ec-62bc-4e8f-b77a-893c28c22207"
 title: "London Grammar"
 type: band
 socials:
-  bandsintown: "1602573"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1602573"
   youtube: ""
   web: ""
   email: ""

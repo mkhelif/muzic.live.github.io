@@ -31,6 +31,7 @@ socials:
   tiktok: ""
   x: ""
 lastUpdate:
+  apple: 2026-07-26
   bandsintown-lookup: 2026-07-26
 ---
 

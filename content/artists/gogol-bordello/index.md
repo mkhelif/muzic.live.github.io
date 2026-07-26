@@ -3,11 +3,11 @@ id: "1edb82b9-9d91-456d-971d-3de0a3b52826"
 title: "Gogol Bordello"
 type: band
 socials:
-  bandsintown: "1378"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1378"
   youtube: ""
   web: ""
   email: ""

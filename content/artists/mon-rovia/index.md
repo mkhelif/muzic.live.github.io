@@ -3,11 +3,11 @@ id: "f83148d2-0aa2-4ce6-a973-879235f72cb1"
 title: "Mon Rovîa"
 type: person
 socials:
-  bandsintown: "15526189"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15526189"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "d1edfacb-30d1-420f-9f18-3c304c29a591"
 title: "Robben Ford"
 type: person
 socials:
-  bandsintown: "12431043"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "12431043"
   youtube: ""
   web: ""
   email: ""

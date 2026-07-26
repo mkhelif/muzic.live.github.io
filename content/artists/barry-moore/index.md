@@ -3,11 +3,11 @@ id: "3ec30b14-8fc4-44df-b990-e797350a7867"
 title: "Barry Moore"
 type: person
 socials:
-  bandsintown: "4487003"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4487003"
   youtube: ""
   web: ""
   email: ""

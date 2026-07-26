@@ -3,11 +3,11 @@ id: "5c29c6bf-f45e-49a1-90f8-6aa96dc936fb"
 title: "ARH"
 type: band
 socials:
-  bandsintown: "822850"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "822850"
   youtube: ""
   web: ""
   email: ""

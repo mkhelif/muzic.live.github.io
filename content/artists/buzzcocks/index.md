@@ -3,11 +3,11 @@ id: "380cff8a-f5dc-4c40-ae9b-98fe14747570"
 title: "Buzzcocks"
 type: band
 socials:
-  bandsintown: "3193"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3193"
   youtube: ""
   web: ""
   email: ""

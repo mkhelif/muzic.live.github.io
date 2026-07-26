@@ -3,11 +3,11 @@ id: "2fb62763-d65b-480e-ba0a-4a63115b5b17"
 title: "Cocoon"
 type: band
 socials:
-  bandsintown: "11294"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "11294"
   youtube: ""
   web: ""
   email: ""

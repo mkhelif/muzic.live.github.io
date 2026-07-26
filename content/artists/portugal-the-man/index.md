@@ -36,12 +36,12 @@ members:
       - start: 2005
         end: 2008
 socials:
-  bandsintown: "1650"
   facebook: "portugaltheman"
   instagram: "portugaltheman"
   tiktok: "@portugaltheman"
   x: "portugaltheman"
   threads: "@portugaltheman"
+  bandsintown: "1650"
   youtube: "@Portugal.TheMan"
   soundcloud: "portugaltheman"
   web: "https://portugaltheman.com/"

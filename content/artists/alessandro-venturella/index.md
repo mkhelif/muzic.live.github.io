@@ -3,11 +3,11 @@ id: "a5f58610-7acf-4b05-bf6f-8c263461de01"
 title: "Alessandro Venturella"
 type: person
 socials:
-  bandsintown: "11219128"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "11219128"
   youtube: ""
   web: ""
   email: ""

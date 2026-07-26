@@ -3,11 +3,11 @@ id: "375fd0e5-e181-42bc-ad2f-e24bf5839098"
 title: "Moin"
 type: band
 socials:
-  bandsintown: "2980962"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2980962"
   youtube: ""
   web: ""
   email: ""

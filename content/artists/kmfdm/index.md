@@ -3,11 +3,11 @@ id: "21d27408-60d7-4738-a772-f6975ec0903f"
 title: "KMFDM"
 type: band
 socials:
-  bandsintown: "1266"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1266"
   youtube: ""
   web: ""
   email: ""

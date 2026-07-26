@@ -66,11 +66,11 @@ members:
       - start: 2023
         end: 2025
 socials:
-  bandsintown: "250"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "250"
   youtube: ""
   web: ""
   email: ""

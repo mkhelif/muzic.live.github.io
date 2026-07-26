@@ -3,11 +3,11 @@ id: "98159b90-f23a-42c1-8173-44634c5191a3"
 title: "Meg Mac"
 type: person
 socials:
-  bandsintown: "5498522"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "5498522"
   youtube: ""
   web: ""
   email: ""

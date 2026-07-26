@@ -3,11 +3,11 @@ id: "53373ba3-03aa-4c3b-a7fb-613fb8ecafe6"
 title: "Hubert-Félix Thiéfaine & Paul Personne"
 type: band
 socials:
-  bandsintown: "1904202"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1904202"
   youtube: ""
   web: ""
   email: ""

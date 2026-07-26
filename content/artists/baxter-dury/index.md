@@ -3,11 +3,11 @@ id: "2847fd66-182e-4264-a46d-00e1a141a35c"
 title: "Baxter Dury"
 type: person
 socials:
-  bandsintown: "42017"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "42017"
   youtube: ""
   web: ""
   email: ""

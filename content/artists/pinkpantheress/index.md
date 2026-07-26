@@ -3,10 +3,10 @@ id: "c480bd4b-fa61-4b35-a7af-4d38033b13de"
 title: "PinkPantheress"
 type: person
 socials:
-  bandsintown: "15495835"
   instagram: "pinkpantheress"
   tiktok: "@pinkpantheress"
   x: "pinkpantheress2"
+  bandsintown: "15495835"
   youtube: "@ponies721"
   web: "https://www.pantheress.pink/"
   tidal: "23409727"

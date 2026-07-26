@@ -3,11 +3,11 @@ id: "7f79edbe-788e-4636-ade9-0d53437907b5"
 title: "The Amazons"
 type: band
 socials:
-  bandsintown: "441286"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "441286"
   youtube: ""
   web: ""
   email: ""

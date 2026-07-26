@@ -3,11 +3,11 @@ id: "9efc2107-dbd5-459b-8d06-8e4ff18ab858"
 title: "PERCEVAL"
 type: person
 socials:
-  bandsintown: "15560256"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15560256"
   youtube: ""
   web: ""
   email: ""

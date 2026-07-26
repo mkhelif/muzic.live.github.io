@@ -70,8 +70,8 @@ socials:
   x: "hollywoodundead"
   soundcloud: "hollywoodundead"
   songkick: "818463"
-  bandsintown: "43"
   myspace: "hollywoodundead"
+  bandsintown: "43"
   youtube: "@HollywoodUndead"
   web: "https://www.hollywoodundead.com/"
   amazon: "B001ESW48S"
@@ -84,6 +84,7 @@ socials:
 todo:
   - Add picture
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
   bandsintown: 2026-07-23
 ---

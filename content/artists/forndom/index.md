@@ -2,12 +2,12 @@
 id: "571f34ab-72b8-4995-92cd-723136142393"
 title: "Forndom"
 socials:
-  bandsintown: "11677619"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "11677619"
   youtube: ""
   web: ""
   email: ""

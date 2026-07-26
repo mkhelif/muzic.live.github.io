@@ -3,11 +3,11 @@ id: "15e27ac9-ef7e-4345-9a34-64579812db1e"
 title: "Case Oats"
 type: band
 socials:
-  bandsintown: "15595791"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15595791"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "d5adce58-577c-4b5d-b766-722c8143259f"
 title: "BABYMETAL"
 type: band
 socials:
-  bandsintown: "2165799"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2165799"
   youtube: ""
   web: ""
   email: ""

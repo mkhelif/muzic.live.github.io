@@ -2,12 +2,12 @@
 id: "d99f7fa4-c99b-421f-8604-e07fb7da317c"
 title: "Beast In Black"
 socials:
-  bandsintown: "12617342"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "12617342"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "ff3ef466-ef43-40fe-98b4-aec482508d68"
 title: "Brutalismus 3000"
 type: band
 socials:
-  bandsintown: "15514228"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15514228"
   youtube: ""
   web: ""
   email: ""

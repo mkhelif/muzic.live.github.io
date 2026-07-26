@@ -3,11 +3,11 @@ id: "ee65c8aa-81d4-4601-aeb5-db75b1e9d6e3"
 title: "Inspector Spacetime"
 type: band
 socials:
-  bandsintown: "15619500"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15619500"
   youtube: ""
   web: ""
   email: ""

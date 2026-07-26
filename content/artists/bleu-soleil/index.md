@@ -3,11 +3,11 @@ id: "113de356-c0ce-4bf3-807b-6ff428e2a8cc"
 title: "Bleu Soleil"
 type: band
 socials:
-  bandsintown: "15620362"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15620362"
   youtube: ""
   web: ""
   email: ""

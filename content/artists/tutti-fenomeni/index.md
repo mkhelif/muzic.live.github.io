@@ -3,11 +3,11 @@ id: "529ea8ff-56b9-4244-8d7c-3820f4616499"
 title: "Tutti Fenomeni"
 type: person
 socials:
-  bandsintown: "15221153"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15221153"
   youtube: ""
   web: ""
   email: ""

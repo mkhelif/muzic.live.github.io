@@ -3,11 +3,11 @@ id: "0a456ad0-17e0-4279-94a7-7a1eafeb98c1"
 title: "Public Enemy"
 type: band
 socials:
-  bandsintown: "1905"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1905"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "c88e2a04-465a-4ee5-8b0d-91a70dc2ab85"
 title: "Magnolia Park"
 type: band
 socials:
-  bandsintown: "14079422"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "14079422"
   youtube: ""
   web: ""
   email: ""

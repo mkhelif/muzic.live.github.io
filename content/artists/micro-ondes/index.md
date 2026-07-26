@@ -3,11 +3,11 @@ id: "c6abe3de-39de-483c-8ecb-3d20dbad6047"
 title: "Micro Ondes"
 type: unknown
 socials:
-  bandsintown: "15649578"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15649578"
   youtube: ""
   web: ""
   email: ""

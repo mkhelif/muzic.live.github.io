@@ -3,11 +3,11 @@ id: "9467de75-e516-466d-a79e-eb4dafedc278"
 title: "Gehenna"
 type: band
 socials:
-  bandsintown: "59124"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "59124"
   youtube: ""
   web: ""
   email: ""

@@ -2,12 +2,12 @@
 id: "fcca18fd-32d0-4a08-93cc-dd90d335fc90"
 title: "Villanelle"
 socials:
-  bandsintown: "15547832"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15547832"
   youtube: ""
   web: ""
   email: ""

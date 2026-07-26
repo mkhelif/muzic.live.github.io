@@ -15,10 +15,10 @@ members:
     periods:
       - start: 2014
 socials:
-  bandsintown: "11555251"
   facebook: "NovaTwinsMusic"
   instagram: "novatwinsmusic"
   tiktok: "@novatwinsmusic"
+  bandsintown: "11555251"
   youtube: "@NovaTwinsMusic"
   amazon: "B01GA2WLM6"
   apple: "1118452716"
@@ -30,6 +30,7 @@ socials:
   x: ""
   email: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

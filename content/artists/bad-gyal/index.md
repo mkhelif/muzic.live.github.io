@@ -3,11 +3,11 @@ id: "83630862-edd2-43b2-8445-339c4709b0aa"
 title: "Bad Gyal"
 type: person
 socials:
-  bandsintown: "14457947"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "14457947"
   youtube: ""
   web: ""
   email: ""

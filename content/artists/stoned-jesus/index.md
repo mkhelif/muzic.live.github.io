@@ -3,11 +3,11 @@ id: "a304ae7a-c9c6-4823-8520-fb873392fcd2"
 title: "Stoned Jesus"
 type: band
 socials:
-  bandsintown: "573571"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "573571"
   youtube: ""
   web: ""
   email: ""

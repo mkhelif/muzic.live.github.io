@@ -3,10 +3,10 @@ id: "e7ae033b-46c3-473a-99b2-e1209f7e97a9"
 title: "Ménades"
 type: unknown
 socials:
-  bandsintown: "9904702"
   facebook: "MenadesBand"
   instagram: "menades__"
   bandcamp: "menadesband"
+  bandsintown: "9904702"
   youtube: "@menadesband"
   tidal: "9718687"
   spotify: "69KFMOLkskbZbQBXsTlizU"

@@ -2,12 +2,12 @@
 id: "f3e99ce9-30af-4f11-be09-0a231b8b260f"
 title: "Ecca Vandal"
 socials:
-  bandsintown: "6981801"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "6981801"
   youtube: ""
   web: ""
   email: ""

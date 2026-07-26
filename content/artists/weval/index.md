@@ -3,11 +3,11 @@ id: "73ff8333-690c-4843-b090-10642967c045"
 title: "Weval"
 type: band
 socials:
-  bandsintown: "5656560"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "5656560"
   youtube: ""
   web: ""
   email: ""

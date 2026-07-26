@@ -2,12 +2,12 @@
 id: "f889f8ee-066c-4f1a-8172-0ce4f894e44f"
 title: "RED WARRIORS"
 socials:
-  bandsintown: "408484"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "408484"
   youtube: ""
   web: ""
   email: ""

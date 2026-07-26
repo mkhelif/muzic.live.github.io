@@ -2,12 +2,12 @@
 id: "c3178769-834d-4862-9236-6488eabc5709"
 title: "Dasha Rush"
 socials:
-  bandsintown: "523800"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "523800"
   youtube: ""
   web: ""
   email: ""

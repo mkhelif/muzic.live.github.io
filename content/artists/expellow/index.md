@@ -3,11 +3,11 @@ id: "d7c516bd-bce9-49ad-8eb3-4170d7c7cc29"
 title: "Expellow"
 type: band
 socials:
-  bandsintown: "1550856"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1550856"
   youtube: ""
   web: ""
   email: ""

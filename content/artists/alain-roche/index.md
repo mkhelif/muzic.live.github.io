@@ -3,11 +3,11 @@ id: "89482aa3-afa7-44f8-98dc-b65d763fe25b"
 title: "Alain Roche"
 type: person
 socials:
-  bandsintown: "15567134"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15567134"
   youtube: ""
   web: ""
   email: ""

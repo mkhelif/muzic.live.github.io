@@ -3,11 +3,11 @@ id: "0c60dfdf-67eb-43ff-a2ea-e685e60cf336"
 title: "PLL"
 type: unknown
 socials:
-  bandsintown: "15640774"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15640774"
   youtube: ""
   web: ""
   email: ""

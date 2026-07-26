@@ -2,12 +2,12 @@
 id: "b0628881-224a-46de-851d-e6974539c217"
 title: "Riding The Low"
 socials:
-  bandsintown: "263076"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "263076"
   youtube: ""
   web: ""
   email: ""

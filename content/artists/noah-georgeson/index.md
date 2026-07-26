@@ -2,12 +2,12 @@
 id: "5ff073f4-a284-4b37-ad00-6f7276d7756e"
 title: "Noah Georgeson"
 socials:
-  bandsintown: "40367"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "40367"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "4b9cced1-f9cc-479f-9f37-1a542ab7b0bf"
 title: "Ofenbach"
 type: band
 socials:
-  bandsintown: "5897642"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "5897642"
   youtube: ""
   web: ""
   email: ""

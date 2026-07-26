@@ -3,11 +3,11 @@ id: "d808b484-648d-419c-8ca4-c5cf0729cbe4"
 title: "Renée Rapp"
 type: person
 socials:
-  bandsintown: "15512778"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15512778"
   youtube: ""
   web: ""
   email: ""

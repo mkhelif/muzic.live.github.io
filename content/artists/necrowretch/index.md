@@ -2,12 +2,12 @@
 id: "ddf88cde-7ce6-4c93-8b3c-8059696189e7"
 title: "Necrowretch"
 socials:
-  bandsintown: "877622"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "877622"
   youtube: ""
   web: ""
   email: ""

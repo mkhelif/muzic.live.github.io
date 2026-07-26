@@ -3,12 +3,12 @@ id: "d05cc3e1-35f1-4c3c-9cc0-6bc96f21a12e"
 title: "Balu Brigada"
 type: band
 socials:
-  bandsintown: "12894269"
   facebook: "BaluBrigada"
   instagram: "balubrigada"
   tiktok: "@balubrigada"
   threads: "@balubrigada"
   x: "BaluBrigada"
+  bandsintown: "12894269"
   youtube: "@balubrigada"
   soundcloud: "balu-brigada"
   web: "https://www.balu-brigada.com/"
@@ -20,6 +20,7 @@ socials:
   spotify: "6O9vGMmTwzihULICPCsNf2"
   tidal: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

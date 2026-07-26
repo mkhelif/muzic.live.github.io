@@ -2,12 +2,12 @@
 id: "875cb161-2b30-40ba-8976-4c1b844909dd"
 title: "Fallujah"
 socials:
-  bandsintown: "336276"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "336276"
   youtube: ""
   web: ""
   email: ""

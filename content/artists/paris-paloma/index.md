@@ -3,11 +3,11 @@ id: "e30a79da-7be4-4324-8e0f-a5c1440f3fe8"
 title: "Paris Paloma"
 type: person
 socials:
-  bandsintown: "15484898"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15484898"
   youtube: ""
   web: ""
   email: ""

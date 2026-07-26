@@ -3,11 +3,11 @@ id: "5d425bce-356c-41c3-9d41-f3bc358a5bfa"
 title: "Ape Chimba"
 type: person
 socials:
-  bandsintown: "15569321"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15569321"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "eedfeb2b-344c-4a06-81d5-274595e14500"
 title: "Russell Dickerson"
 type: person
 socials:
-  bandsintown: "963329"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "963329"
   youtube: ""
   web: ""
   email: ""

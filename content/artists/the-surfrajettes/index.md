@@ -3,11 +3,11 @@ id: "55770926-1c95-470c-b956-e8e822c6b3f9"
 title: "The Surfrajettes"
 type: band
 socials:
-  bandsintown: "12724143"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "12724143"
   youtube: ""
   web: ""
   email: ""

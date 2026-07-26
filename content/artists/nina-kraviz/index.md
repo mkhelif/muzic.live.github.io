@@ -3,11 +3,11 @@ id: "35899faf-8f48-4b4c-9824-51bb01fdbb86"
 title: "Nina Kraviz"
 type: person
 socials:
-  bandsintown: "387875"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "387875"
   youtube: ""
   web: ""
   email: ""

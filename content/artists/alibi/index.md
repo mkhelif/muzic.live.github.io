@@ -2,12 +2,12 @@
 id: "342ce246-ab80-4e04-90ce-6e7c14352e76"
 title: "Alibi"
 socials:
-  bandsintown: "15491830"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15491830"
   youtube: ""
   web: ""
   email: ""

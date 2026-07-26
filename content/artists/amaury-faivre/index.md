@@ -3,11 +3,11 @@ id: "5a9149fc-c422-4d34-9220-b5ecc86fede6"
 title: "Amaury Faivre"
 type: person
 socials:
-  bandsintown: "15393976"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15393976"
   youtube: ""
   web: ""
   email: ""

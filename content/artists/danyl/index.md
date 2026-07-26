@@ -3,11 +3,11 @@ id: "366172ee-a0e5-4db9-909a-782bbbda2ff2"
 title: "Danyl"
 type: person
 socials:
-  bandsintown: "9337985"
   instagram: "danyl"
   facebook: ""
   tiktok: ""
   x: ""
+  bandsintown: "9337985"
   youtube: ""
   web: ""
   email: ""

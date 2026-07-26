@@ -3,11 +3,11 @@ id: "36a5443d-21b4-4092-8016-2e2a19b85f4a"
 title: "Jon Batiste"
 type: person
 socials:
-  bandsintown: "1224807"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1224807"
   youtube: ""
   web: ""
   email: ""

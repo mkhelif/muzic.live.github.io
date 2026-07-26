@@ -2,11 +2,11 @@
 id: "f163bf9b-6bbb-422f-a271-219c03a925f2"
 title: "Extreme"
 socials:
-  bandsintown: "1148025"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1148025"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "f7c9f48e-9828-4963-b3ce-85b2cd32b168"
 title: "Justin Bieber"
 type: person
 socials:
-  bandsintown: "307871"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "307871"
   youtube: ""
   web: ""
   email: ""

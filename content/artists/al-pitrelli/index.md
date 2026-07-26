@@ -3,11 +3,11 @@ id: "4c9cd8aa-b17e-4a17-a0cb-404947348522"
 title: "Al Pitrelli"
 type: person
 socials:
-  bandsintown: "551657"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "551657"
   youtube: ""
   web: ""
   email: ""

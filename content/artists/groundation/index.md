@@ -3,11 +3,11 @@ id: "3cf6f3e0-96fd-4569-a4f6-292c3ceb1ac6"
 title: "Groundation"
 type: band
 socials:
-  bandsintown: "4773"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4773"
   youtube: ""
   web: ""
   email: ""

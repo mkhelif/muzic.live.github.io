@@ -3,11 +3,11 @@ id: "6e0e87ae-e37b-4c35-88b3-bcfa0a2c4d1f"
 title: "Imhotep"
 type: person
 socials:
-  bandsintown: "428222"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "428222"
   youtube: ""
   web: ""
   email: ""

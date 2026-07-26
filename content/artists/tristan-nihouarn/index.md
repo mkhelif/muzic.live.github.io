@@ -3,11 +3,11 @@ id: "02473b8f-dbf5-4e85-b838-d7d00d2d05b0"
 title: "Tristan Nihouarn"
 type: person
 socials:
-  bandsintown: "1599774"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1599774"
   youtube: ""
   web: ""
   email: ""

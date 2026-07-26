@@ -2,12 +2,12 @@
 id: "e7888bf3-8368-475c-adf7-678be9582012"
 title: "Mixed Feelings"
 socials:
-  bandsintown: "15653092"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15653092"
   youtube: ""
   web: ""
   email: ""

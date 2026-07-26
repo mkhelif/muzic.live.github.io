@@ -3,11 +3,11 @@ id: "97994306-8e7b-4bd5-ae87-02006b2538ab"
 title: "Pyry Vikki"
 type: person
 socials:
-  bandsintown: "4582848"
   facebook: ""
   instagram: "pyryvikki"
   tiktok: ""
   x: ""
+  bandsintown: "4582848"
   youtube: ""
   web: ""
   email: ""

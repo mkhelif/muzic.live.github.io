@@ -5,10 +5,10 @@ type: unknown
 aliases:
   - "Datcha Mandala"
 socials:
-  bandsintown: "1441583"
   facebook: "datchamandala"
   instagram: "datcha.mandala"
   bandcamp: "datchamandala"
+  bandsintown: "1441583"
   youtube: "@datchamandala"
   email: "datchamandala@gmail.com"
   amazon: "B004YIE0J6"
@@ -23,6 +23,7 @@ socials:
 todo:
   - Add description
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

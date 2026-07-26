@@ -3,11 +3,11 @@ id: "3508ce13-515c-46d8-81d1-b132f72afba8"
 title: "Laurent Garnier & Bugge Wesseltoft"
 type: band
 socials:
-  bandsintown: "2025654"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2025654"
   youtube: ""
   web: ""
   email: ""

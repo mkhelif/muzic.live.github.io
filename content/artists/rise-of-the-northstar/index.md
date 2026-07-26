@@ -71,11 +71,11 @@ members:
       - start: 2018
         end: 2022
 socials:
-  bandsintown: "1296468"
   facebook: "rotnsofficial"
   instagram: "rotnsofficial"
   threads: "@rotnsofficial"
   x: "rotnsofficial"
+  bandsintown: "1296468"
   youtube: "@RiseoftheNorthstar"
   web: "https://www.rotnsofficial.com/"
   tidal: "4130561"

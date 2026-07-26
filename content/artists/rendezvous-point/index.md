@@ -2,12 +2,12 @@
 id: "70340943-9a55-4b9b-9504-5f4fb45425d5"
 title: "Rendezvous Point"
 socials:
-  bandsintown: "2589789"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "2589789"
   youtube: ""
   web: ""
   email: ""

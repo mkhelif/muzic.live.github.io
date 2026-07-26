@@ -3,11 +3,11 @@ id: "45a7b139-6f5e-415b-8e22-bf5d887549bc"
 title: "The Record Company"
 type: band
 socials:
-  bandsintown: "2268512"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2268512"
   youtube: ""
   web: ""
   email: ""

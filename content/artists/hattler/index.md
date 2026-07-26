@@ -3,11 +3,11 @@ id: "05782cc5-4955-44ff-878f-ed536011b65e"
 title: "Hattler"
 type: band
 socials:
-  bandsintown: "273654"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "273654"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "3ddf2b83-8a68-48b5-b617-d1555885cb46"
 title: "DJ Ghost"
 type: person
 socials:
-  bandsintown: "269412"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "269412"
   youtube: ""
   web: ""
   email: ""

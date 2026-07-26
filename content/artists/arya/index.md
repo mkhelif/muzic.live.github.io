@@ -2,12 +2,12 @@
 id: "7f023fee-3022-4959-b224-cc3a72cf2973"
 title: "Arya"
 socials:
-  bandsintown: "15638134"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15638134"
   youtube: ""
   web: ""
   email: ""

@@ -4,10 +4,10 @@ title: "Sarah Brown"
 type: person
 management: "c11897d2-4f2d-4947-b086-510e064854de"
 socials:
-  bandsintown: "213416"
   facebook: "sarahbrownvocal"
   instagram: "sarahbrownvocal"
   threads: "@sarahbrownvocal"
+  bandsintown: "213416"
   youtube: "@sarahbrownoffical2126"
   bandcamp: "sarahbrown"
   soundcloud: "sarahbrownofficial"
@@ -21,6 +21,8 @@ socials:
   email: "sarah@sarahbrownofficial.com"
   tiktok: ""
   x: ""
+lastUpdate:
+  apple: 2026-07-26
 ---
 
 Vous ne connaissez peut-être pas son nom. Mais vous avez entendu sa voix — sans le savoir. Sur le dernier album de

@@ -3,11 +3,11 @@ id: "17a95ab9-d79c-46bf-87ee-6b4d8e0bfe59"
 title: "Khruangbin"
 type: band
 socials:
-  bandsintown: "1922700"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1922700"
   youtube: ""
   web: ""
   email: ""

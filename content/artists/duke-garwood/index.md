@@ -2,12 +2,12 @@
 id: "e24b2bc0-81c3-4055-a14b-f7bcd29eb9f4"
 title: "Duke Garwood"
 socials:
-  bandsintown: "156814"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "156814"
   youtube: ""
   web: ""
   email: ""

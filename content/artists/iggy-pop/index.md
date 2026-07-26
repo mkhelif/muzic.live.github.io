@@ -3,11 +3,11 @@ id: "b14f7797-d757-4c3c-95e2-88346cb1859a"
 title: "Iggy Pop"
 type: person
 socials:
-  bandsintown: "3067"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3067"
   youtube: ""
   web: ""
   email: ""

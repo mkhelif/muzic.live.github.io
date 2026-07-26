@@ -2,12 +2,12 @@
 id: "ef66d6a6-a938-48d8-b997-bd31b75ae776"
 title: "Secret Chiefs 3"
 socials:
-  bandsintown: "7094"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "7094"
   youtube: ""
   web: ""
   email: ""

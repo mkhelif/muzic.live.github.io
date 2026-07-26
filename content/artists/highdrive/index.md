@@ -2,12 +2,12 @@
 id: "870051b0-b2ae-43a9-ac99-b098df6a182d"
 title: "HIGHDRIVE"
 socials:
-  bandsintown: "15623426"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15623426"
   youtube: ""
   web: ""
   email: ""

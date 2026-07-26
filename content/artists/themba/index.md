@@ -2,12 +2,12 @@
 id: "802d9e2d-0893-4839-a39d-a0296757903d"
 title: "THEMBA"
 socials:
-  bandsintown: "6519605"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "6519605"
   youtube: ""
   web: ""
   email: ""

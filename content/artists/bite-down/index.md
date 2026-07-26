@@ -2,12 +2,12 @@
 id: "bfb302b9-e165-40a7-b8d2-d04d12d9b011"
 title: "Bite Down"
 socials:
-  bandsintown: "3103174"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "3103174"
   youtube: ""
   web: ""
   email: ""

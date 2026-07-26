@@ -3,11 +3,11 @@ id: "9dcf85ca-b97d-4c6a-b89c-008442b9102d"
 title: "All Them Witches"
 type: band
 socials:
-  bandsintown: "2714686"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2714686"
   youtube: ""
   web: ""
   email: ""

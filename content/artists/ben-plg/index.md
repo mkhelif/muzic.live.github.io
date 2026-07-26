@@ -3,11 +3,11 @@ id: "5b6d8759-1fa2-40df-a3c4-592b2f24ed3c"
 title: "BEN plg"
 type: person
 socials:
-  bandsintown: "15516646"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15516646"
   youtube: ""
   web: ""
   email: ""

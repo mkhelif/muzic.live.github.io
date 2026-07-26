@@ -3,11 +3,11 @@ id: "87b137ed-c38a-4916-a5a7-a4056454ec82"
 title: "George Ezra"
 type: person
 socials:
-  bandsintown: "2917891"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2917891"
   youtube: ""
   web: ""
   email: ""

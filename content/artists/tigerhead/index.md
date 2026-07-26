@@ -2,12 +2,12 @@
 id: "4ad89cb1-0552-4b83-801b-d29ab9b0b26a"
 title: "Tigerhead"
 socials:
-  bandsintown: "8593954"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "8593954"
   youtube: ""
   web: ""
   email: ""

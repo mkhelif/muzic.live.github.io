@@ -3,11 +3,11 @@ id: "42b8318b-f4f8-4fa1-b122-523adf2b7f3d"
 title: "Eric Steckel"
 type: person
 socials:
-  bandsintown: "182424"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "182424"
   youtube: ""
   web: ""
   email: ""

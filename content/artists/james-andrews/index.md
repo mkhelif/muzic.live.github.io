@@ -3,11 +3,11 @@ id: "895d44f0-85c1-424d-89c4-664806538cd0"
 title: "James Andrews"
 type: person
 socials:
-  bandsintown: "15211362"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15211362"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "69af7464-786c-479e-897e-048a8139e4d5"
 title: "Shawn Crahan"
 type: person
 socials:
-  bandsintown: "1088519"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1088519"
   youtube: ""
   web: ""
   email: ""

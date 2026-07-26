@@ -3,11 +3,11 @@ id: "e971696d-c116-4fae-aa4e-a64cb052f2f9"
 title: "Sages comme des Sauvages"
 type: band
 socials:
-  bandsintown: "7893865"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "7893865"
   youtube: ""
   web: ""
   email: ""

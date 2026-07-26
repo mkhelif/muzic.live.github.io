@@ -3,11 +3,11 @@ id: "1cb2f046-3f35-4343-bfec-97413f511d65"
 title: "Roshâni"
 type: band
 socials:
-  bandsintown: "3027564"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3027564"
   youtube: ""
   web: ""
   email: ""

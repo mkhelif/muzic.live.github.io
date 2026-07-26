@@ -3,11 +3,11 @@ id: "45f33a1e-2abc-4549-906f-064dbde258c4"
 title: "Zaatar"
 type: person
 socials:
-  bandsintown: "15549356"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15549356"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "5b76abda-8d78-4865-9ccb-f22e33d8f2c4"
 title: "Carlos Dengler"
 type: person
 socials:
-  bandsintown: "878670"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "878670"
   youtube: ""
   web: ""
   email: ""

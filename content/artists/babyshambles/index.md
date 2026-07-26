@@ -1,23 +1,70 @@
 ---
 id: "e54cd8e0-36ab-4976-9b4b-e9bdeef1b304"
 title: "Babyshambles"
-type: person
+type: band
+members:
+  - id: "f55bff18-69a4-4791-9060-1d859f82f224"
+    roles:
+      - sing
+      - guitar
+      - other
+    periods:
+      - start: 2025
+      - start: 2003
+        end: 2014
+  - id: "dedc27d5-d4a0-49c8-bc34-e62f22f0f4e9"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2025
+      - start: 2004
+        end: 2014
+  - id: "64ca95c2-2737-4821-8dba-464ccd902ff1"
+    roles:
+      - drums
+    periods:
+      - start: 2025
+      - start: 2014
+        end: 2014
+      - start: 2005
+        end: 2010
+  - id: "67e1710f-6203-4fd2-9666-78075514b4bb"
+    roles:
+      - guitar
+    periods:
+      - start: 2025
+      - start: 2006
+        end: 2014
+  - id: "59623fd4-1833-4d65-83e3-8a01cb1e7429"
+    roles:
+      - drums
+    periods:
+      - start: 2004
+        end: 2005
+  - id: "38dc87d7-e697-483a-b16e-628278980044"
+    roles:
+      - guitar
+    periods:
+      - start: 2004
+        end: 2006
 socials:
-  bandsintown: "1616"
-  facebook: ""
-  instagram: ""
+  facebook: "babyshambles"
+  instagram: "babyshamblesuk"
   tiktok: ""
-  x: ""
-  youtube: ""
+  x: "babyshamblesuk"
+  bandsintown: "1616"
+  youtube: "@BabyShamblesMusicUK"
   web: ""
-  email: ""
+  email: "darren@shakethatsocial.com"
   amazon: ""
-  apple: ""
+  apple: "32439626"
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "0IBAqjHG8DSaD7PPCGnGiZ"
   tidal: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

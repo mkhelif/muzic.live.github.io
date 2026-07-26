@@ -3,11 +3,11 @@ id: "72e381dd-5b44-4b55-b356-a9160fb733df"
 title: "La maison Tellier"
 type: band
 socials:
-  bandsintown: "20312"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "20312"
   youtube: ""
   web: ""
   email: ""

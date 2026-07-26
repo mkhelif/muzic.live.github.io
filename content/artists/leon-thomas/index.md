@@ -2,12 +2,12 @@
 id: "87d70c8d-40da-4229-85b6-88a14350f226"
 title: "Leon Thomas"
 socials:
-  bandsintown: "132005"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "132005"
   youtube: ""
   web: ""
   email: ""

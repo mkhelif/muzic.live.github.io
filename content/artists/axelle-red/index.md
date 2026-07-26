@@ -3,11 +3,11 @@ id: "d18458b1-844b-478e-9a09-a21158121654"
 title: "Axelle Red"
 type: person
 socials:
-  bandsintown: "77041"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "77041"
   youtube: ""
   web: ""
   email: ""

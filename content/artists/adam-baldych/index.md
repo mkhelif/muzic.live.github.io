@@ -2,12 +2,12 @@
 id: "26ed0f73-c812-4fa4-8641-2ef4e95a17a6"
 title: "Adam Baldych"
 socials:
-  bandsintown: "296067"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "296067"
   youtube: ""
   web: ""
   email: ""

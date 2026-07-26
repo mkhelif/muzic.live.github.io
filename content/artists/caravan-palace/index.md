@@ -3,11 +3,11 @@ id: "e7994690-8b57-4f6e-85ad-6cca94d7c7f7"
 title: "Caravan Palace"
 type: band
 socials:
-  bandsintown: "179758"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "179758"
   youtube: ""
   web: ""
   email: ""

@@ -2,12 +2,12 @@
 id: "246354aa-beb2-4a72-9e31-ea54117f5f13"
 title: "Sierra Ferrell"
 socials:
-  bandsintown: "13694679"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "13694679"
   youtube: ""
   web: ""
   email: ""

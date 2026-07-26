@@ -3,11 +3,11 @@ id: "7ff86d9e-896b-46f8-9f66-808214decdec"
 title: "ATOEM"
 type: band
 socials:
-  bandsintown: "15571252"
   facebook: "atoemmusic"
   instagram: "atoem_music"
   bandcamp: "atoem"
   soundcloud: "atoemmusic"
+  bandsintown: "15571252"
   youtube: "@atoem_official"
   web: "https://atoemmusic.com/"
   tidal: "9206145"

@@ -3,11 +3,11 @@ id: "9977d331-0fa6-45b7-a982-bfdc06b4f0d3"
 title: "Bastille"
 type: band
 socials:
-  bandsintown: "529839"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "529839"
   youtube: ""
   web: ""
   email: ""

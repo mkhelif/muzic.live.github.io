@@ -3,11 +3,11 @@ id: "55000f45-aea0-44ac-905d-a3ee53bff822"
 title: "Indochine"
 type: band
 socials:
-  bandsintown: "6820"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "6820"
   youtube: ""
   web: ""
   email: ""

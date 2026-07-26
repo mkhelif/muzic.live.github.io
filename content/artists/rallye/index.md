@@ -3,11 +3,11 @@ id: "898bbcdc-e560-4289-8932-893ffbab4e54"
 title: "Rallye"
 type: band
 socials:
-  bandsintown: "15571183"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15571183"
   youtube: ""
   web: ""
   email: ""

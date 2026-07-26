@@ -30,11 +30,11 @@ members:
     periods:
       - start: 2006
 socials:
-  bandsintown: "430"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "430"
   youtube: ""
   web: ""
   email: ""

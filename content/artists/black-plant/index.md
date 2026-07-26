@@ -3,11 +3,11 @@ id: "c6747494-e6e7-48e4-8207-95b05f0c5c68"
 title: "Black Plant"
 type: unknown
 socials:
-  bandsintown: "3471064"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3471064"
   youtube: ""
   web: ""
   email: ""

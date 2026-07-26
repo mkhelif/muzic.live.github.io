@@ -2,12 +2,12 @@
 id: "42b218ed-ec98-4263-82be-913ff06b800c"
 title: "English Teacher"
 socials:
-  bandsintown: "15505161"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15505161"
   youtube: ""
   web: ""
   email: ""

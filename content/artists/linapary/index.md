@@ -3,11 +3,11 @@ id: "311a3e0a-ad0e-4f2e-acff-38b82e3a4219"
 title: "Linapary"
 type: person
 socials:
-  bandsintown: "15606901"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15606901"
   youtube: ""
   web: ""
   email: ""

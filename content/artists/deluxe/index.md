@@ -3,11 +3,11 @@ id: "10fa6132-7887-4c47-a389-12c0fbd92579"
 title: "Deluxe"
 type: unknown
 socials:
-  bandsintown: "73440"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "73440"
   youtube: ""
   web: ""
   email: ""

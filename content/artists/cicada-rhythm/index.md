@@ -2,12 +2,12 @@
 id: "2c38b1d5-67fc-4481-af47-a1a3f13e3f12"
 title: "Cicada Rhythm"
 socials:
-  bandsintown: "2515271"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "2515271"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "647d3b63-ef5a-42f5-8c4e-2a6cf3677174"
 title: "John & Jehn"
 type: band
 socials:
-  bandsintown: "179533"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "179533"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "657e026b-a7c5-4c3c-b9cf-0c5d2623db97"
 title: "Aälma Dili"
 type: band
 socials:
-  bandsintown: "2948090"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2948090"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "9f8cb064-d8c8-4934-981a-b58d63eb61a5"
 title: "Diana"
 type: unknown
 socials:
-  bandsintown: "163015"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "163015"
   youtube: ""
   web: ""
   email: ""

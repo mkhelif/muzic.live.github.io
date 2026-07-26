@@ -69,11 +69,11 @@ members:
     periods:
       - start: 2024
 socials:
-  bandsintown: "47185"
   facebook: "adtr"
   instagram: ""
   tiktok: "@adaytoremember"
   x: ""
+  bandsintown: "47185"
   youtube: "@adaytoremember"
   web: "https://adtr.com"
   email: "contact@adtr.com"

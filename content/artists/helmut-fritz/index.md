@@ -3,8 +3,8 @@ id: "97c8aef0-268e-4287-9311-c89ce1173c84"
 title: "Helmut Fritz"
 type: person
 socials:
-  bandsintown: "377183"
   facebook: "helmutfritzofficiel"
+  bandsintown: "377183"
   youtube: "@HelmutFritzOfficiel"
   tidal: "3638975"
   spotify: "5xsFbfm9lL1iTOvX3hXpoK"

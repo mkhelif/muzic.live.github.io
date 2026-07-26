@@ -3,11 +3,11 @@ id: "076b7910-99e2-4727-968f-cfdb619a9002"
 title: "Emperor"
 type: band
 socials:
-  bandsintown: "5229"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "5229"
   youtube: ""
   web: ""
   email: ""

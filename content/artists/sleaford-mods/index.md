@@ -3,11 +3,11 @@ id: "a483f812-b351-44aa-95e9-623e18842a29"
 title: "Sleaford Mods"
 type: band
 socials:
-  bandsintown: "251855"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "251855"
   youtube: ""
   web: ""
   email: ""

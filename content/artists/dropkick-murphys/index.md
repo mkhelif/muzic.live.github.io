@@ -103,11 +103,11 @@ members:
       - start: 2014
         end: 2022
 socials:
-  bandsintown: "467"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "467"
   youtube: ""
   web: ""
   email: ""

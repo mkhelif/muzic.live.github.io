@@ -3,11 +3,11 @@ id: "c4948e25-0365-4d1a-bbcd-f4965c2d0efa"
 title: "Cœur de Pirate"
 type: person
 socials:
-  bandsintown: "15262247"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15262247"
   youtube: ""
   web: ""
   email: ""

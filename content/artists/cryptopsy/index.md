@@ -3,11 +3,11 @@ id: "6381049c-3551-46e3-bff4-d2462272ce28"
 title: "Cryptopsy"
 type: band
 socials:
-  bandsintown: "2941"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2941"
   youtube: ""
   web: ""
   email: ""

@@ -36,10 +36,10 @@ members:
       - start: 2017
         end: 2023
 socials:
-  bandsintown: "15481628"
   facebook: "2097Band"
   instagram: "2097_band"
   tiktok: "@2097.rock.band"
+  bandsintown: "15481628"
   youtube: "@2097_band"
   web: "https://2097.fr/"
   tidal: "21889863"

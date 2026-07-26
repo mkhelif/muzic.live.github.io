@@ -2,12 +2,12 @@
 id: "17bf3cba-a9b9-4e24-86e2-c9b3e9448d8a"
 title: "La Tigresa del oriente"
 socials:
-  bandsintown: "1061621"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "1061621"
   youtube: ""
   web: ""
   email: ""

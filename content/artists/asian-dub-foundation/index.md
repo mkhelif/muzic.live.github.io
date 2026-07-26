@@ -53,11 +53,11 @@ members:
     periods:
       - start: 2000
 socials:
-  bandsintown: "7482"
   facebook: "asiandubfoundation"
   instagram: "asian_dub_foundation"
   tiktok: "@asian_dub_foundation"
   x: "ADFofficial"
+  bandsintown: "7482"
   youtube: "@AsianDubFoundation1official"
   bandcamp: "asiandubfoundation"
   web: "https://www.asiandubfoundation.com"

@@ -3,11 +3,11 @@ id: "0176d93d-8767-4244-96ba-d957271ec62b"
 title: "Daoud"
 type: person
 socials:
-  bandsintown: "4377328"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4377328"
   youtube: ""
   web: ""
   email: ""

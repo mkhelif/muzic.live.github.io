@@ -2,12 +2,12 @@
 id: "ee9fdb45-15b5-433b-bf54-102174bdaac6"
 title: "H2O"
 socials:
-  bandsintown: "3621"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "3621"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "397ec926-80f8-45ec-b08d-5f4bb7833c88"
 title: "Noga Erez"
 type: person
 socials:
-  bandsintown: "10344512"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "10344512"
   youtube: ""
   web: ""
   email: ""

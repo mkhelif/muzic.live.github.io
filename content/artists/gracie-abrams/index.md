@@ -3,11 +3,11 @@ id: "1789074c-d45e-43fa-92d0-ad63ea45943f"
 title: "Gracie Abrams"
 type: person
 socials:
-  bandsintown: "15467681"
   facebook: ""
   instagram: "gracieabrams"
   x: "gracieabrams"
   tiktok: ""
+  bandsintown: "15467681"
   youtube: ""
   web: ""
   email: ""

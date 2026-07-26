@@ -3,11 +3,11 @@ id: "cde65231-f812-4eed-ac15-192ed7048c91"
 title: "Lagwagon"
 type: band
 socials:
-  bandsintown: "1613"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1613"
   youtube: ""
   web: ""
   email: ""

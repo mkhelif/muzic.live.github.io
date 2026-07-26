@@ -3,11 +3,11 @@ id: "2bf973a7-f61f-46cd-991f-020fd9ad02bf"
 title: "Zeal & Ardor"
 type: band
 socials:
-  bandsintown: "14167198"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "14167198"
   youtube: ""
   web: ""
   email: ""

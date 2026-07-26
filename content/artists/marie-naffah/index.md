@@ -2,12 +2,12 @@
 id: "e4f5a1a1-10ff-4fa8-84fd-3a1260c1ff0c"
 title: "Marie Naffah"
 socials:
-  bandsintown: "1638717"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "1638717"
   youtube: ""
   web: ""
   email: ""

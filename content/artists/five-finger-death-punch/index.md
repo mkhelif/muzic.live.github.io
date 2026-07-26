@@ -59,11 +59,11 @@ members:
       - start: 2005
         end: 2010
 socials:
-  bandsintown: "1965"
   facebook: "fivefingerdeathpunch"
   instagram: "5fdp"
   tiktok: "@fivefingerdeathpunch"
   x: "FFDP"
+  bandsintown: "1965"
   youtube: "@FiveFingerDeathPunch"
   web: "https://fivefingerdeathpunch.com"
   amazon: "B002WLNO6W"
@@ -77,6 +77,7 @@ todo:
   - Add picture
   - Review description
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

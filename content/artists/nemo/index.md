@@ -3,11 +3,11 @@ id: "1e811fd3-be65-4565-afef-0992d180a81d"
 title: "Nemo"
 type: band
 socials:
-  bandsintown: "4600"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4600"
   youtube: ""
   web: ""
   email: ""

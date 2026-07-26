@@ -3,11 +3,11 @@ id: "6952ae26-f844-4003-a0e4-87feeeac8467"
 title: "Peter Gabriel"
 type: person
 socials:
-  bandsintown: "31251"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "31251"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "85549f44-312f-4900-a8a4-af0769223a8d"
 title: "Roüge"
 type: unknown
 socials:
-  bandsintown: "69711"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "69711"
   youtube: ""
   web: ""
   email: ""

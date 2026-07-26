@@ -2,12 +2,12 @@
 id: "d8670df9-ec4b-4d76-9250-85154367538e"
 title: "Max Dean"
 socials:
-  bandsintown: "15568750"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15568750"
   youtube: ""
   web: ""
   email: ""

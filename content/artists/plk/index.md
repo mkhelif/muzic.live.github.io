@@ -3,11 +3,11 @@ id: "f9aa7bef-337e-4606-ab14-ea3302bf5fce"
 title: "PLK"
 type: person
 socials:
-  bandsintown: "697469"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "697469"
   youtube: ""
   web: ""
   email: ""

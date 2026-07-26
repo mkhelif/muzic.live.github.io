@@ -3,11 +3,11 @@ id: "3100a2b0-8068-4fbe-8498-6f2721c90427"
 title: "Slipknot"
 type: band
 socials:
-  bandsintown: "77"
   facebook: "slipknot"
   instagram: "slipknot"
   tiktok: "@slipknot"
   x: "slipknot"
+  bandsintown: "77"
   youtube: "@slipknot"
   web: "https://www.slipknot1.com"
   tidal: "37277"

@@ -3,11 +3,11 @@ id: "3924132f-ae82-4788-b001-2dc59a01127d"
 title: "Sam Fogarino"
 type: person
 socials:
-  bandsintown: "1105087"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1105087"
   youtube: ""
   web: ""
   email: ""

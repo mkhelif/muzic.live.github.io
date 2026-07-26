@@ -3,11 +3,11 @@ id: "0ec772d1-6700-40a4-a869-88a5b714b637"
 title: "Wallace Cleaver"
 type: person
 socials:
-  bandsintown: "15571250"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15571250"
   youtube: ""
   web: ""
   email: ""

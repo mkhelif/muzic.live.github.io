@@ -31,11 +31,11 @@ members:
     periods:
       - start: 2024
 socials:
-  bandsintown: "238"
   facebook: "wolfmother"
   instagram: "officialwolfmother"
   x: "wolfmother"
   threads: "@officialwolfmother"
+  bandsintown: "238"
   youtube: "@OfficialWolfmother"
   web: "https://www.wolfmother.com"
   tidal: "19379"

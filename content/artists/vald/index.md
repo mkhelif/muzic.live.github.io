@@ -3,11 +3,11 @@ id: "bcac1f21-cfe2-4ed2-a941-a4331f6e6d69"
 title: "Vald"
 type: person
 socials:
-  bandsintown: "593844"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "593844"
   youtube: ""
   web: ""
   email: ""

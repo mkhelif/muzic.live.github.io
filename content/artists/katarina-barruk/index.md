@@ -3,11 +3,11 @@ id: "a91c12e3-1b4f-4414-9dda-945079fa508b"
 title: "Katarina Barruk"
 type: person
 socials:
-  bandsintown: "15516353"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15516353"
   youtube: ""
   web: ""
   email: ""

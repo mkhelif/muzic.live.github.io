@@ -3,11 +3,11 @@ id: "d36372dc-ffe8-4f5b-939d-7b1f3bb93a63"
 title: "Mind Enterprises"
 type: band
 socials:
-  bandsintown: "1191576"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1191576"
   youtube: ""
   web: ""
   email: ""

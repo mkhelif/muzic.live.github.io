@@ -3,11 +3,11 @@ id: "9073c7b9-e3fd-422b-a6fe-1b682854ce8e"
 title: "Florence and the Machine"
 type: band
 socials:
-  bandsintown: "190758"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "190758"
   youtube: ""
   web: ""
   email: ""

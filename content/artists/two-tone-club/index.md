@@ -2,12 +2,12 @@
 id: "ce5427d2-39f7-4e10-bcd7-7fb5e2156fea"
 title: "Two Tone Club"
 socials:
-  bandsintown: "116828"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "116828"
   youtube: ""
   web: ""
   email: ""

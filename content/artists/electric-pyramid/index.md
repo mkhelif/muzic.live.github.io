@@ -3,11 +3,11 @@ id: "57dc9b24-72f1-4fa6-b2a3-f9434a159c96"
 title: "Electric Pyramid"
 type: band
 socials:
-  bandsintown: "13431192"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13431192"
   youtube: ""
   web: ""
   email: ""

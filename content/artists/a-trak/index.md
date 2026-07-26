@@ -3,11 +3,11 @@ id: "2d88f801-0969-4236-9b2a-a283e959952f"
 title: "A-Trak"
 type: person
 socials:
-  bandsintown: "2968"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2968"
   youtube: ""
   web: ""
   email: ""

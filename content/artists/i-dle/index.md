@@ -3,10 +3,10 @@ id: "36692cd2-2cae-4af2-ab90-d187b43b460a"
 title: "i-dle"
 type: band
 socials:
-  bandsintown: "15464803"
   facebook: ""
   instagram: "g_i_dle"
   x: "G_I_DLE"
+  bandsintown: "15464803"
   youtube: "GI-DLEOfficial"
   web: "https://cubeent.smartstore.naver.com"
   spotify: "2AfmfGFbe0A0WsTYm0SDTx"

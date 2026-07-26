@@ -2,12 +2,12 @@
 id: "9b23311a-097f-4976-9dd1-8ebb26245e59"
 title: "Danyelino"
 socials:
-  bandsintown: "15505559"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15505559"
   youtube: ""
   web: ""
   email: ""

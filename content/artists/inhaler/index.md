@@ -3,11 +3,11 @@ id: "49559a2f-7570-4c47-82fa-0f18cc4cc612"
 title: "Inhaler"
 type: band
 socials:
-  bandsintown: "15384400"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15384400"
   youtube: ""
   web: ""
   email: ""

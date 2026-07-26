@@ -2,12 +2,41 @@
 id: "273b5703-1833-41cb-80ed-750863612369"
 title: "Amber Run"
 type: band
+members:
+  - id: "8eed0023-ffcf-4007-8166-3e37c5fc4d47"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2012
+  - id: "c7aeda0f-0eb1-493e-9905-bf8d09f6567f"
+    roles:
+      - bass
+    periods:
+      - start: 2012
+  - id: "52ed6266-d46a-42ef-a47e-f72418fcf1fd"
+    roles:
+      - keys
+    periods:
+      - start: 2012
+  - id: "a5851bf4-4c4d-4a14-bbdd-01a6cb0fff1c"
+    roles:
+      - drums
+    periods:
+      - start: 2012
+        end: 2016
+  - id: "bc5c3970-1178-4fc7-9a3c-626a687f147c"
+    roles:
+      - guitar
+    periods:
+      - start: 2012
+        end: 2017
 socials:
-  bandsintown: "8806130"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "8806130"
   youtube: ""
   web: ""
   email: ""

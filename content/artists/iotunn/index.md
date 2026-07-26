@@ -3,11 +3,11 @@ id: "c81b976b-6809-4ed4-9cce-2cf33210644d"
 title: "Iotunn"
 type: band
 socials:
-  bandsintown: "12446166"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "12446166"
   youtube: ""
   web: ""
   email: ""

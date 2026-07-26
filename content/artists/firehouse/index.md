@@ -2,12 +2,12 @@
 id: "e31e7812-e281-4af7-8854-f8c6f688b64d"
 title: "Firehouse"
 socials:
-  bandsintown: "5813"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "5813"
   youtube: ""
   web: ""
   email: ""

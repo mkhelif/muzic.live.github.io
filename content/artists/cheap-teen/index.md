@@ -3,11 +3,11 @@ id: "a4d73903-191a-445f-a869-fbe9dc298b1d"
 title: "Cheap Teen"
 type: band
 socials:
-  bandsintown: "15617936"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15617936"
   youtube: ""
   web: ""
   email: ""

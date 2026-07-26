@@ -3,11 +3,11 @@ id: "a2e01ea5-dd7e-4c13-a4c9-8bb1b964c230"
 title: "Yelle"
 type: person
 socials:
-  bandsintown: "2235"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2235"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "55f62ae6-f2aa-4e82-ac11-76ec9948edee"
 title: "Orelsan"
 type: person
 socials:
-  bandsintown: "257069"
   facebook: "orelsan"
   instagram: "orelsan"
   tiktok: "@orelsan"
   x: "Orel_San"
+  bandsintown: "257069"
   youtube: "@orelsan"
   web: "https://orelsan.show/"
   tidal: "4631130"

@@ -2,12 +2,12 @@
 id: "67583bee-e54a-4c37-a357-c5711595917f"
 title: "Jimpster"
 socials:
-  bandsintown: "71008"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "71008"
   youtube: ""
   web: ""
   email: ""

@@ -3,7 +3,6 @@ id: "65f287b9-c61a-48e7-b806-bfb7726f4801"
 title: "XOXO"
 type: unknown
 socials:
-  bandsintown: "149767"
   instagram: "xoxo.vlnce"
   tiktok: "@xoxoviolence"
   bandcamp: "xoxoviolence"
@@ -11,6 +10,7 @@ socials:
   spotify: "1aIubMSIRI3qYQSSqyctVu"
   facebook: ""
   x: ""
+  bandsintown: "149767"
   youtube: ""
   web: ""
   email: ""
@@ -20,4 +20,6 @@ socials:
   tidal: ""
 todo:
   - Add detailed description
+lastUpdate:
+  apple: 2026-07-26
 ---

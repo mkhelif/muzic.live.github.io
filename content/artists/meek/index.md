@@ -3,11 +3,11 @@ id: "5920ac6e-3968-476d-a634-9cc9d6577120"
 title: "MEEK"
 type: unknown
 socials:
-  bandsintown: "211652"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "211652"
   youtube: ""
   web: ""
   email: ""

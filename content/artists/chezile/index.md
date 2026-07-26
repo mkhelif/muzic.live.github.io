@@ -3,11 +3,11 @@ id: "bac3b4aa-18ec-40bd-af10-8b283ee3b9c9"
 title: "Chezile"
 type: person
 socials:
-  bandsintown: "15572428"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15572428"
   youtube: ""
   web: ""
   email: ""

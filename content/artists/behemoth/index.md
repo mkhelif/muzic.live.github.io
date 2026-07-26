@@ -3,11 +3,11 @@ id: "ce63358e-6612-443b-a28b-ea019eb8e333"
 title: "Behemoth"
 type: band
 socials:
-  bandsintown: "1729"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1729"
   youtube: ""
   web: ""
   email: ""

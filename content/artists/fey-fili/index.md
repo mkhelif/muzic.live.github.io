@@ -3,11 +3,11 @@ id: "d535c2d4-5654-4f40-a3e4-451301d8279d"
 title: "Fey Fili"
 type: unknown
 socials:
-  bandsintown: "15656706"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15656706"
   youtube: ""
   web: ""
   email: ""

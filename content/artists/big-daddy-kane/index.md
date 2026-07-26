@@ -3,11 +3,11 @@ id: "da1eedba-41e1-49ef-b63d-d1b5e3858b83"
 title: "Big Daddy Kane"
 type: person
 socials:
-  bandsintown: "2118"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2118"
   youtube: ""
   web: ""
   email: ""

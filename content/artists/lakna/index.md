@@ -3,11 +3,11 @@ id: "b4f265ff-069c-482a-8d9d-75e2ab578de0"
 title: "Lakna"
 type: person
 socials:
-  bandsintown: "15651654"
   facebook: "profile.php?id=100055051995283"
   instagram: "itslordlakna"
   tiktok: "@itslordlakna"
   threads: "@itslordlakna"
+  bandsintown: "15651654"
   youtube: "@itslordlakna"
   tidal: "10440075"
   spotify: "4KPdER6eNWruPkJ8ps4f6c"

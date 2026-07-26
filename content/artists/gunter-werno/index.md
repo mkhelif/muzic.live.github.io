@@ -3,11 +3,11 @@ id: "fd6b9f88-d5b6-41a3-95bf-7dcb40da13fd"
 title: "Günter Werno"
 type: person
 socials:
-  bandsintown: "2412587"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2412587"
   youtube: ""
   web: ""
   email: ""

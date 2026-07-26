@@ -3,11 +3,11 @@ id: "37efd0bd-6ea1-439a-b4ee-fcf44adb46f2"
 title: "James Arthur"
 type: person
 socials:
-  bandsintown: "1793083"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1793083"
   youtube: ""
   web: ""
   email: ""

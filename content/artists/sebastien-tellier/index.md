@@ -3,11 +3,11 @@ id: "d05f321e-d3d9-4c8e-b8c6-4adab8d1f7c4"
 title: "Sébastien Tellier"
 type: person
 socials:
-  bandsintown: "62718"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "62718"
   youtube: ""
   web: ""
   email: ""

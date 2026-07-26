@@ -3,11 +3,11 @@ id: "342c20ce-7676-46c2-ad34-7bcf8ffa63ec"
 title: "Nightwish"
 type: band
 socials:
-  bandsintown: "2734"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2734"
   youtube: ""
   web: ""
   email: ""

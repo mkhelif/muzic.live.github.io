@@ -3,11 +3,11 @@ id: "5ab6cc26-3abd-40db-8895-a76c9556d79f"
 title: "Deize Tigrona"
 type: person
 socials:
-  bandsintown: "419727"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "419727"
   youtube: ""
   web: ""
   email: ""

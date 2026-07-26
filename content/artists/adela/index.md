@@ -2,12 +2,12 @@
 id: "db7fad68-16fa-4057-879e-abd98c609420"
 title: "Adela"
 socials:
-  bandsintown: "15618866"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15618866"
   youtube: ""
   web: ""
   email: ""

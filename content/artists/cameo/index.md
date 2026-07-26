@@ -2,12 +2,12 @@
 id: "6d9b119e-d50b-4ca2-91ca-34bb8017c8b6"
 title: "Cameo"
 socials:
-  bandsintown: "3761"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "3761"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "218b5e82-5840-4fe2-bfaa-bbcb1c69e56d"
 title: "Escuela Grind"
 type: band
 socials:
-  bandsintown: "15491898"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15491898"
   youtube: ""
   web: ""
   email: ""

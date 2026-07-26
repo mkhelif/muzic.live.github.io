@@ -2,12 +2,12 @@
 id: "70de8146-f520-444a-b0d3-c412488b8fdc"
 title: "Bardix le Gaulois"
 socials:
-  bandsintown: "15607776"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15607776"
   youtube: ""
   web: ""
   email: ""

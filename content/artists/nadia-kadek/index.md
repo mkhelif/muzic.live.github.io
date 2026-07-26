@@ -2,12 +2,12 @@
 id: "c8fbbb20-4ce9-4ca2-a0ea-10d7900f39e2"
 title: "Nadia Kadek"
 socials:
-  bandsintown: "15603837"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15603837"
   youtube: ""
   web: ""
   email: ""

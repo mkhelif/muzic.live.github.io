@@ -3,11 +3,11 @@ id: "bdcf04b3-accc-4195-9d97-90809b470045"
 title: "Tha Trickaz"
 type: band
 socials:
-  bandsintown: "341095"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "341095"
   youtube: ""
   web: ""
   email: ""

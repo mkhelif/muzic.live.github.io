@@ -3,11 +3,11 @@ id: "217d8eb1-5ea3-4b32-b065-429095329917"
 title: "Joanna"
 type: unknown
 socials:
-  bandsintown: "2865"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2865"
   youtube: ""
   web: ""
   email: ""

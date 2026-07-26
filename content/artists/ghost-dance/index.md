@@ -3,11 +3,11 @@ id: "a7557e9d-89d4-40b0-9285-e51128f90b34"
 title: "Ghost Dance"
 type: band
 socials:
-  bandsintown: "15560909"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15560909"
   youtube: ""
   web: ""
   email: ""

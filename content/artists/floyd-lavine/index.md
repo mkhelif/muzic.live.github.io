@@ -3,11 +3,11 @@ id: "112c782e-97ba-43f6-8194-a3ec7eb05743"
 title: "Floyd Lavine"
 type: person
 socials:
-  bandsintown: "2597692"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2597692"
   youtube: ""
   web: ""
   email: ""

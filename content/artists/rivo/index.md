@@ -3,11 +3,11 @@ id: "db434575-0d5a-4e69-ba7f-7a076b5578c9"
 title: "Rivo"
 type: person
 socials:
-  bandsintown: "501900"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "501900"
   youtube: ""
   web: ""
   email: ""

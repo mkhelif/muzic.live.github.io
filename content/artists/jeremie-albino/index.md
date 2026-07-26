@@ -3,11 +3,11 @@ id: "77377fe7-1c08-42c5-9819-a93e16921ebb"
 title: "Jeremie Albino"
 type: person
 socials:
-  bandsintown: "13314951"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13314951"
   youtube: ""
   web: ""
   email: ""

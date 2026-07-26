@@ -2,12 +2,12 @@
 id: "7261af7a-78a5-4def-a745-87858166fee0"
 title: "nvno"
 socials:
-  bandsintown: "15542778"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15542778"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "45f82fc3-f12f-4d7d-9c70-8f20ce2abeb2"
 title: "Crisix"
 type: band
 socials:
-  bandsintown: "2038127"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2038127"
   youtube: ""
   web: ""
   email: ""

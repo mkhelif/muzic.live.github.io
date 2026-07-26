@@ -3,11 +3,11 @@ id: "a60cba84-566d-4a32-bf0e-1a40de0e2f1a"
 title: "Mikael Jorgensen"
 type: person
 socials:
-  bandsintown: "1714327"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1714327"
   youtube: ""
   web: ""
   email: ""

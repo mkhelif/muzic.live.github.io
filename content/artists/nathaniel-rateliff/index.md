@@ -3,11 +3,11 @@ id: "b8cd1d0f-dbc0-4d61-a0f5-2595f122bd7d"
 title: "Nathaniel Rateliff"
 type: person
 socials:
-  bandsintown: "15525365"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15525365"
   youtube: ""
   web: ""
   email: ""

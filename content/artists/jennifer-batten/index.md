@@ -3,11 +3,11 @@ id: "fe11fca2-0746-4f0b-b839-b7d1424fd093"
 title: "Jennifer Batten"
 type: person
 socials:
-  bandsintown: "41492"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "41492"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "6bed4706-4f13-4f1c-b830-63bfe4a6e68a"
 title: "John Myung"
 type: person
 socials:
-  bandsintown: "1048273"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1048273"
   youtube: ""
   web: ""
   email: ""

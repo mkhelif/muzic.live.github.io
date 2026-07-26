@@ -3,11 +3,11 @@ id: "d94f9339-fff9-448e-801a-e440775a0882"
 title: "Daguerre"
 type: person
 socials:
-  bandsintown: "339993"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "339993"
   youtube: ""
   web: ""
   email: ""

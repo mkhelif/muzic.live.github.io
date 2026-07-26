@@ -3,11 +3,11 @@ id: "95f65442-ec41-42b9-89fe-55cd77943307"
 title: "Pony Pony Run Run"
 type: band
 socials:
-  bandsintown: "7906"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "7906"
   youtube: ""
   web: ""
   email: ""

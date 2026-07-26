@@ -3,9 +3,9 @@ id: "242891dd-72c8-49eb-b21a-acb0ac782f37"
 title: "Skellige"
 type: band
 socials:
-  bandsintown: "15535919"
   facebook: "skelligeband"
   instagram: "skellige_band"
+  bandsintown: "15535919"
   youtube: "@skellige4529"
   tiktok: ""
   x: ""

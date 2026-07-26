@@ -3,10 +3,10 @@ id: "58767d5c-701c-4005-8418-77d62b69c7fe"
 title: "H-Burns"
 type: person
 socials:
-  bandsintown: "190608"
   facebook: "hburnsmusic"
   instagram: "hburnsmusic1"
   threads: "hburnsmusic1"
+  bandsintown: "190608"
   youtube: "@HBurnsOfficial"
   tidal: "3923677"
   spotify: "5Jd4dFTFgTta5lqPvamjZn"

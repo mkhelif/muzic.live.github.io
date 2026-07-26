@@ -85,11 +85,11 @@ members:
       - start: 2013
         end: 2019
 socials:
-  bandsintown: "14534217"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "14534217"
   youtube: ""
   web: ""
   email: ""

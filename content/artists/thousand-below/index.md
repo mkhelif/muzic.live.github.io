@@ -24,11 +24,11 @@ members:
     periods:
       - start: 2019
 socials:
-  bandsintown: "13865470"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13865470"
   youtube: ""
   web: ""
   email: ""

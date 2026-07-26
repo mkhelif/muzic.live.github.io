@@ -3,11 +3,11 @@ id: "b6274e61-1343-4e7d-9b06-b5a475c6d6c4"
 title: "Unreqvited"
 type: band
 socials:
-  bandsintown: "13165223"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13165223"
   youtube: ""
   web: ""
   email: ""

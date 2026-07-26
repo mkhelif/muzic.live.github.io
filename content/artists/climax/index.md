@@ -3,10 +3,10 @@ id: "007b566c-88ae-41b7-bd4b-3ad63a429420"
 title: "Climax"
 type: unknown
 socials:
-  bandsintown: "37090"
   facebook: "climaxmusic.ch"
   instagram: "climaxmusic"
   bandcamp: "climaxmusic"
+  bandsintown: "37090"
   youtube: "@climax-music-ch"
   web: "https://www.climaxmusic.ch/"
   tiktok: ""

@@ -3,11 +3,11 @@ id: "ef9e2b0c-471c-4900-b7c7-3e8e67553165"
 title: "Nothing but Thieves"
 type: band
 socials:
-  bandsintown: "1460592"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1460592"
   youtube: ""
   web: ""
   email: ""

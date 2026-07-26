@@ -3,11 +3,11 @@ id: "5324c5cd-6e70-433a-b5c6-f114cdf2aa9b"
 title: "Brice Ninck"
 type: person
 socials:
-  bandsintown: "15632199"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15632199"
   youtube: ""
   web: ""
   email: ""

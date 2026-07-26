@@ -3,11 +3,11 @@ id: "c7a41b99-b3c6-4e6d-9a67-6bfa9d2f181c"
 title: "Alexis Taylor"
 type: person
 socials:
-  bandsintown: "218072"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "218072"
   youtube: ""
   web: ""
   email: ""

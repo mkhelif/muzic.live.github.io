@@ -3,11 +3,11 @@ id: "a1aa46b7-5027-400b-bc25-db9e000934de"
 title: "Maria Schneider"
 type: person
 socials:
-  bandsintown: "47248"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "47248"
   youtube: ""
   web: ""
   email: ""

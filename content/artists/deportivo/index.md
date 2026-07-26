@@ -38,9 +38,9 @@ members:
 aliases:
   - "Deportivo"
 socials:
-  bandsintown: "69730"
   facebook: "deportivomusic"
   instagram: "deportivoofficiel"
+  bandsintown: "69730"
   youtube: "@dēportivoRock"
   amazon: "B0025Q67PY"
   apple: "17847656"
@@ -53,6 +53,7 @@ socials:
   x: ""
   web: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

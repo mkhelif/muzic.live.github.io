@@ -2,12 +2,12 @@
 id: "89149953-9f2d-44cf-bb0c-4ca400f6745d"
 title: "Entasia"
 socials:
-  bandsintown: "15582075"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15582075"
   youtube: ""
   web: ""
   email: ""

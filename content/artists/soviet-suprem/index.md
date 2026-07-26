@@ -3,11 +3,11 @@ id: "26a9eea1-c82a-4f29-8612-7e97477610a9"
 title: "Soviet Suprem"
 type: band
 socials:
-  bandsintown: "7535894"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "7535894"
   youtube: ""
   web: ""
   email: ""

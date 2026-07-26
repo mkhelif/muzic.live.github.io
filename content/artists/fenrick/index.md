@@ -3,11 +3,11 @@ id: "a553ee20-6523-4be7-929a-a9805dd0c443"
 title: "Fenrick"
 type: unknown
 socials:
-  bandsintown: "15625628"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15625628"
   youtube: ""
   web: ""
   email: ""

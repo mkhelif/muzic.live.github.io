@@ -3,11 +3,11 @@ id: "df7c4ce1-04b5-45f0-a26b-4030e09100f9"
 title: "Enola Gay"
 type: band
 socials:
-  bandsintown: "15489575"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15489575"
   youtube: ""
   web: ""
   email: ""

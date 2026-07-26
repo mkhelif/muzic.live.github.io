@@ -3,10 +3,10 @@ id: "8c0e20a1-717a-465c-a09d-baeacebca72f"
 title: "Kolinga"
 type: person
 socials:
-  bandsintown: "11494353"
   facebook: "kolingamusic"
   instagram: "kolingamusic"
   bandcamp: "kolinga"
+  bandsintown: "11494353"
   youtube: "@KolingaMusic"
   web: "https://www.kolingamusic.com/"
   tidal: "8640174"

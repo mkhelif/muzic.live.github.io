@@ -3,11 +3,11 @@ id: "bca3e988-7365-40f6-9ef8-1b165a5d57d3"
 title: "Cédric Hanriot"
 type: person
 socials:
-  bandsintown: "1009776"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1009776"
   youtube: ""
   web: ""
   email: ""

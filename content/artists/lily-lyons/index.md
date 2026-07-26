@@ -3,11 +3,11 @@ id: "97a1010e-8518-4fd3-bb90-6391bcd8139f"
 title: "Lily Lyons"
 type: person
 socials:
-  bandsintown: "13186915"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13186915"
   youtube: ""
   web: ""
   email: ""

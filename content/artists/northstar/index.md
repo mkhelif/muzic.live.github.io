@@ -3,11 +3,11 @@ id: "2dcc83c9-a8fa-46b3-ac95-da7a340078b6"
 title: "Northstar"
 type: band
 socials:
-  bandsintown: "1904"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1904"
   youtube: ""
   web: ""
   email: ""

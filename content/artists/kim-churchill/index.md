@@ -3,11 +3,11 @@ id: "3f95facc-d887-4f78-84fd-914b7d8d778a"
 title: "Kim Churchill"
 type: person
 socials:
-  bandsintown: "1048768"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1048768"
   youtube: ""
   web: ""
   email: ""

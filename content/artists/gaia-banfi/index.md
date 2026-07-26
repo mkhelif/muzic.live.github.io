@@ -3,11 +3,11 @@ id: "7b321eba-bf3c-42af-bd65-1ad7dd467691"
 title: "Gaia Banfi"
 type: person
 socials:
-  bandsintown: "15565946"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15565946"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "bdcdc62d-ab01-4417-ae03-535778fbff87"
 title: "Monty Picon"
 type: band
 socials:
-  bandsintown: "1184353"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1184353"
   youtube: ""
   web: ""
   email: ""

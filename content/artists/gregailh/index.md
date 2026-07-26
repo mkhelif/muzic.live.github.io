@@ -3,11 +3,11 @@ id: "f6cfa1b1-a27e-4457-97c1-30e7ac168e39"
 title: "Gregailh"
 type: band
 socials:
-  bandsintown: "15628634"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15628634"
   youtube: ""
   web: ""
   email: ""

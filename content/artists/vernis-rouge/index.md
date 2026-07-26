@@ -3,10 +3,10 @@ id: "42a83a82-a73d-4bd8-a90a-998e3e8003e7"
 title: "Vernis Rouge"
 type: person
 socials:
-  bandsintown: "15538947"
   facebook: "vernisrougemusic"
   instagram: "vernisrougemusic"
   tiktok: "@vernisrougemusic"
+  bandsintown: "15538947"
   youtube: "@VernisRougeMusic"
   tidal: "16658581"
   spotify: "6Miu2EYSCD74K7VzDYostC"

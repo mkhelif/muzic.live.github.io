@@ -3,9 +3,9 @@ id: "c26eedfe-d090-4790-8010-8cd8f6332d75"
 title: "Murray Head"
 type: person
 socials:
-  bandsintown: "339587"
   facebook: "Murray-Head-Officiel-232219714044"
   instagram: "murrayheadmusic"
+  bandsintown: "339587"
   youtube: "@murrayhead4838"
   web: "https://www.murrayhead.online"
   tidal: "55703"

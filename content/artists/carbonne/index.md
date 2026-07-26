@@ -3,10 +3,10 @@ id: "c994ca94-947d-49c0-a821-3c7add10d236"
 title: "Carbonne"
 type: person
 socials:
-  bandsintown: "15562792"
   facebook: "carbonne.p"
   instagram: "carbonne.14"
   tiktok: "@carbonne14"
+  bandsintown: "15562792"
   youtube: "@Carbonne"
   tidal: "17992676"
   spotify: "2t0frJEIdex2PTwuLlGxDD"

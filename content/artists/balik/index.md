@@ -3,11 +3,11 @@ id: "d3f3eab4-e52e-468c-b8e0-80d490547824"
 title: "Balik"
 type: person
 socials:
-  bandsintown: "2880726"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2880726"
   youtube: ""
   web: ""
   email: ""

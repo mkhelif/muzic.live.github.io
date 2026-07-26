@@ -2,12 +2,12 @@
 id: "41cfbcc4-b3c0-4202-88af-fa5a3915c5bd"
 title: "dameeeela"
 socials:
-  bandsintown: "14961792"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "14961792"
   youtube: ""
   web: ""
   email: ""

@@ -2,12 +2,12 @@
 id: "b105a4d3-0405-45ef-9be2-dac7af31525f"
 title: "Antti Autio"
 socials:
-  bandsintown: "9633461"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "9633461"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "ba91c87a-3b73-4630-8c8e-f6440bf8e3eb"
 title: "Revnoir"
 type: band
 socials:
-  bandsintown: "15534022"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15534022"
   youtube: ""
   web: ""
   email: ""

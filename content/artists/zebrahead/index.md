@@ -48,11 +48,11 @@ members:
     periods:
       - start: 2013
 socials:
-  bandsintown: "1141"
   facebook: "Zebrahead"
   instagram: "zebraheadofficial"
   x: "zebrahead"
   threads: "@zebraheadofficial"
+  bandsintown: "1141"
   youtube: "@Zebraheadofficial"
   web: "https://zebrahead.com/"
   tiktok: ""

@@ -3,11 +3,11 @@ id: "bb21ad43-082e-4753-b262-83e09d4b687b"
 title: "The Parov Stelar Band"
 type: band
 socials:
-  bandsintown: "1515519"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1515519"
   youtube: ""
   web: ""
   email: ""

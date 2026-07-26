@@ -3,11 +3,11 @@ id: "1703bef2-6377-4b8d-8bf9-9037589c3c13"
 title: "The Ataris"
 type: band
 socials:
-  bandsintown: "725"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "725"
   youtube: ""
   web: ""
   email: ""

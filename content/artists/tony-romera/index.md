@@ -3,11 +3,11 @@ id: "f7b7e5db-43ac-45ea-9ff8-bc2a16482391"
 title: "Tony Romera"
 type: person
 socials:
-  bandsintown: "1375524"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1375524"
   youtube: ""
   web: ""
   email: ""

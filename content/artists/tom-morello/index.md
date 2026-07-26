@@ -3,11 +3,11 @@ id: "47cbc411-56c2-421b-87db-e2e6d923e62d"
 title: "Tom Morello"
 type: person
 socials:
-  bandsintown: "118451"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "118451"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "0b31e661-9de7-485c-9fc9-52f48b4ce349"
 title: "Zach Bryan"
 type: person
 socials:
-  bandsintown: "15492027"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15492027"
   youtube: ""
   web: ""
   email: ""

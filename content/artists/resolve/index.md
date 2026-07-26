@@ -3,11 +3,11 @@ id: "b10d5cd5-c6cc-4014-8152-d99b36b8e036"
 title: "Resolve"
 type: band
 socials:
-  bandsintown: "151809"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "151809"
   youtube: ""
   web: ""
   email: ""

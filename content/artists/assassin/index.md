@@ -3,12 +3,12 @@ id: "28802df1-0857-4bf2-8fbb-d385676781c1"
 title: "Assassin"
 type: band
 socials:
-  bandsintown: "6846"
   facebook: ""
   instagram: ""
   web: ""
   tiktok: ""
   x: ""
+  bandsintown: "6846"
   youtube: ""
   email: ""
   amazon: ""

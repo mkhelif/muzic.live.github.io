@@ -2,12 +2,12 @@
 id: "fd043598-2e94-4a37-840e-6a43277cb4c1"
 title: "DOOL"
 socials:
-  bandsintown: "5244371"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "5244371"
   youtube: ""
   web: ""
   email: ""

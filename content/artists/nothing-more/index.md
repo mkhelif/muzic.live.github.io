@@ -69,11 +69,11 @@ members:
       - start: 2011
         end: 2015
 socials:
-  bandsintown: "8979"
   facebook: "nothingmore"
   instagram: "nothingmoremusic"
   tiktok: "@nothingmoremusic"
   x: "nothingmorerock"
+  bandsintown: "8979"
   youtube: "@NothingMoremusic"
   web: "https://www.nothingmore.net"
   tidal: "5485751"

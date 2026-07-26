@@ -5,11 +5,11 @@ type: person
 aliases:
   - "Selah Sue & The Gallands"
 socials:
-  bandsintown: "215085"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "215085"
   youtube: ""
   web: ""
   email: ""

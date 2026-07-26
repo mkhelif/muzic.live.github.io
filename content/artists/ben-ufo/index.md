@@ -2,12 +2,12 @@
 id: "f08f03a3-6669-484a-bc18-d7a2808b3fbc"
 title: "Ben UFO"
 socials:
-  bandsintown: "243586"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "243586"
   youtube: ""
   web: ""
   email: ""

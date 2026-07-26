@@ -3,11 +3,11 @@ id: "878c9e8e-5fa0-40a5-9c75-1c050e52ac9a"
 title: "Camille"
 type: person
 socials:
-  bandsintown: "19492"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "19492"
   youtube: ""
   web: ""
   email: ""

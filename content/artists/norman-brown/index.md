@@ -2,12 +2,12 @@
 id: "c48b27f7-1171-47c5-a89e-0c268f36f8af"
 title: "Norman Brown"
 socials:
-  bandsintown: "46718"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "46718"
   youtube: ""
   web: ""
   email: ""

@@ -4,11 +4,11 @@ id: "9a1843bb-824e-4ab0-86cb-ef8fb9af50dd"
 title: "Serj Tankian"
 type: person
 socials:
-  bandsintown: "78077"
   facebook: ""
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "78077"
   youtube: ""
   spotify: "0BEI7i5sgUuivcfwXLzFmM"
 ---

@@ -3,11 +3,11 @@ id: "f5532e9f-2576-4890-887a-f26e41a82ad7"
 title: "Eloi"
 type: person
 socials:
-  bandsintown: "592939"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "592939"
   youtube: ""
   web: ""
   email: ""

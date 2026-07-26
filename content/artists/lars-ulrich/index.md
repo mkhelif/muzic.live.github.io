@@ -3,11 +3,11 @@ id: "08aad74b-047f-4900-b46d-1b667c50f802"
 title: "Lars Ulrich"
 type: person
 socials:
-  bandsintown: "874525"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "874525"
   youtube: ""
   web: ""
   email: ""

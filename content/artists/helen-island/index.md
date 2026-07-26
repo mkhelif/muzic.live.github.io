@@ -3,11 +3,11 @@ id: "b81ea84e-e89e-42bd-9fdf-e8674fb70ea2"
 title: "Helen Island"
 type: unknown
 socials:
-  bandsintown: "15598644"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15598644"
   youtube: ""
   web: ""
   email: ""

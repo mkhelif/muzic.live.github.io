@@ -3,11 +3,11 @@ id: "83b7f94f-c89e-49a1-80bc-8aac57c3cd19"
 title: "Vanessa Paradis"
 type: person
 socials:
-  bandsintown: "61238"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "61238"
   youtube: ""
   web: ""
   email: ""

@@ -52,11 +52,11 @@ members:
       - start: 2020
         end: 2021
 socials:
-  bandsintown: "102295"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "102295"
   youtube: ""
   web: ""
   email: ""

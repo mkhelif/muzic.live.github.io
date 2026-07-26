@@ -3,11 +3,11 @@ id: "0db79235-b68d-47ef-817f-0feb211ea3d0"
 title: "Motherlode"
 type: band
 socials:
-  bandsintown: "213408"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "213408"
   youtube: ""
   web: ""
   email: ""

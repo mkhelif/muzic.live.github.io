@@ -3,7 +3,6 @@ id: "eae3c7a3-8c11-46c4-ae3a-e2ff553a5006"
 title: "Pierre de Maere"
 type: person
 socials:
-  bandsintown: "15495425"
   facebook: "pierredemaere"
   instagram: "pierredemaere"
   tiktok: "@pierredemaere"
@@ -11,6 +10,7 @@ socials:
   x: "iamdonmcqueen"
   tidal: "16099726"
   spotify: "13mm5rU1jvWfWG6uQ46ypd"
+  bandsintown: "15495425"
   youtube: ""
   web: ""
   email: ""

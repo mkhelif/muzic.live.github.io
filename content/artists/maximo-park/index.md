@@ -3,11 +3,11 @@ id: "90d8ce1b-4cd3-40c8-ad75-ff870670e516"
 title: "Maximo Park"
 type: band
 socials:
-  bandsintown: "50422"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "50422"
   youtube: ""
   web: ""
   email: ""

@@ -2,12 +2,12 @@
 id: "6333fbb0-8a64-4769-9be4-68f0f9a9ac09"
 title: "Cat Ridgeway"
 socials:
-  bandsintown: "11235920"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "11235920"
   youtube: ""
   web: ""
   email: ""

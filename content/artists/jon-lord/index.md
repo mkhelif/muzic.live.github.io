@@ -3,11 +3,11 @@ id: "bf967dfa-9afd-4cfe-b78d-efaebd82edd9"
 title: "Jon Lord"
 type: person
 socials:
-  bandsintown: "223591"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "223591"
   youtube: ""
   web: ""
   email: ""

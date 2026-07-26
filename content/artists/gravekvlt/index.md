@@ -3,11 +3,11 @@ id: "3952b3b8-25ed-469e-bd40-b557841178f6"
 title: "Gravekvlt"
 type: band
 socials:
-  bandsintown: "15583668"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15583668"
   youtube: ""
   web: ""
   email: ""

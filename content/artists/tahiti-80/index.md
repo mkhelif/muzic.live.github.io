@@ -3,11 +3,11 @@ id: "416f2682-48e3-412a-aa90-e742b0440360"
 title: "Tahiti 80"
 type: band
 socials:
-  bandsintown: "4796"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4796"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "b34039e7-087b-46a3-a54d-9737ffa53c47"
 title: "TX2"
 type: person
 socials:
-  bandsintown: "13080495"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "13080495"
   youtube: ""
   web: ""
   email: ""

@@ -37,11 +37,11 @@ members:
       - start: 2019
         end: 2025
 socials:
-  bandsintown: "15493596"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15493596"
   youtube: ""
   web: ""
   email: ""

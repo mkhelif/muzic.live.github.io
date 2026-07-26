@@ -3,11 +3,11 @@ id: "e36230af-3a5f-443a-a5cc-8695580dc83a"
 title: "KWN"
 type: person
 socials:
-  bandsintown: "15567866"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15567866"
   youtube: ""
   web: ""
   email: ""

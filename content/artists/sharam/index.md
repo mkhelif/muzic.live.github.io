@@ -2,12 +2,12 @@
 id: "2fd13801-3069-462a-812d-1bf4e6e43f2a"
 title: "Sharam"
 socials:
-  bandsintown: "3096"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "3096"
   youtube: ""
   web: ""
   email: ""

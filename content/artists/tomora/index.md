@@ -3,11 +3,11 @@ id: "0bb1585c-c81b-4102-8e3e-6642ab3601e8"
 title: "Tomora"
 type: band
 socials:
-  bandsintown: "15622586"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15622586"
   youtube: ""
   web: ""
   email: ""

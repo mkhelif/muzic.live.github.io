@@ -2,12 +2,12 @@
 id: "6f2238dc-1916-45ec-9a11-b69677090794"
 title: "Mathis Akengin"
 socials:
-  bandsintown: "15598824"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15598824"
   youtube: ""
   web: ""
   email: ""

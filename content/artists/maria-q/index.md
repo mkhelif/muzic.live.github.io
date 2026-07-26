@@ -3,11 +3,11 @@ id: "d8827728-85e3-4ce1-8b27-870dbb7f0b65"
 title: "Maria Q"
 type: person
 socials:
-  bandsintown: "2494107"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2494107"
   youtube: ""
   web: ""
   email: ""

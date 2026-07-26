@@ -2,12 +2,12 @@
 id: "cb0bf4ca-def1-4595-ac0a-4ac22dce008c"
 title: "Picture Parlour"
 socials:
-  bandsintown: "15517663"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15517663"
   youtube: ""
   web: ""
   email: ""

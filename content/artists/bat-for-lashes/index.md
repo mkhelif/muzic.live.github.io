@@ -3,11 +3,11 @@ id: "6e8f6475-bad0-4b62-9052-d0ff71dd9fed"
 title: "Bat for Lashes"
 type: person
 socials:
-  bandsintown: "10332"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "10332"
   youtube: ""
   web: ""
   email: ""

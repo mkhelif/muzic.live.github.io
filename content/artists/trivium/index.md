@@ -91,11 +91,11 @@ members:
       - start: 2003
         end: 2003
 socials:
-  bandsintown: "210"
   facebook: "Trivium"
   instagram: "triviumband"
   threads: "@triviumband"
   x: "TriviumOfficial"
+  bandsintown: "210"
   youtube: "@trivium"
   soundcloud: "triviumofficial"
   amazon: "B0025P6G9M"
@@ -107,6 +107,8 @@ socials:
   web: "https://www.trivium.org/"
   tiktok: ""
   email: ""
+lastUpdate:
+  apple: 2026-07-26
 ---
 
 Un adolescent de douze ans qui reprend Metallica lors du concours de talents de son collège — voilà le point de départ

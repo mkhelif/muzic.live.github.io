@@ -2,12 +2,12 @@
 id: "24fc5aa7-bdc0-49da-8278-f0bed86f7546"
 title: "Jensen Interceptor"
 socials:
-  bandsintown: "2526785"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "2526785"
   youtube: ""
   web: ""
   email: ""

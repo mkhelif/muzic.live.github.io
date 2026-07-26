@@ -3,11 +3,11 @@ id: "e0383a69-7eee-430c-ba45-e274c53b1288"
 title: "Jake Crawford"
 type: person
 socials:
-  bandsintown: "3590250"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3590250"
   youtube: ""
   web: ""
   email: ""

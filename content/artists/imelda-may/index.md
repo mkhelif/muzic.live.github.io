@@ -3,11 +3,11 @@ id: "824e2f6e-ed1a-4328-a412-47106a7f58b1"
 title: "Imelda May"
 type: person
 socials:
-  bandsintown: "49819"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "49819"
   youtube: ""
   web: ""
   email: ""

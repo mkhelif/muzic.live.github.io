@@ -50,12 +50,12 @@ members:
       - start: 2002
         end: 2016
 socials:
-  bandsintown: "596"
   facebook: "officialfranzferdinand"
   instagram: "franz_ferdinand"
   tiktok: "@officialfranzferdinand"
   x: "Franz_Ferdinand"
   threads: "franz_ferdinand"
+  bandsintown: "596"
   youtube: "@franz_ferdinand"
   web: "https://www.franzferdinand.com"
   tidal: "27439"

@@ -3,11 +3,11 @@ id: "76ec1edb-7cb0-4ce1-abdc-df101d13c410"
 title: "Flupke"
 type: unknown
 socials:
-  bandsintown: "6786870"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "6786870"
   youtube: ""
   web: ""
   email: ""

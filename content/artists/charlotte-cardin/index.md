@@ -3,11 +3,11 @@ id: "51669b3b-b74c-4c57-8a31-a59dc1fccae2"
 title: "Charlotte Cardin"
 type: person
 socials:
-  bandsintown: "10148052"
   facebook: "charlottecardinofficial"
   instagram: "charlottecardin"
   tiktok: "@charlottecardin_"
   x: "Charlottecardin"
+  bandsintown: "10148052"
   youtube: "@CharlotteCardin"
   web: "https://www.charlottecardin.com/"
   soundcloud: "charlottecardin"
@@ -21,6 +21,7 @@ socials:
 todo:
   - Add picture from concert
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

@@ -3,11 +3,11 @@ id: "ab26a954-83df-4be5-bf0b-88272838dedf"
 title: "RDØ"
 type: unknown
 socials:
-  bandsintown: "15603863"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15603863"
   youtube: ""
   web: ""
   email: ""

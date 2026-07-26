@@ -2,12 +2,12 @@
 id: "254722c1-a7f2-4fdf-8d2c-0efb3ded8caf"
 title: "HYPHEN"
 socials:
-  bandsintown: "693735"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "693735"
   youtube: ""
   web: ""
   email: ""

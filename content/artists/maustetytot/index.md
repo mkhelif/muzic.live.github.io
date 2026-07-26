@@ -3,11 +3,11 @@ id: "e166df0f-cd75-4499-ad14-6f76902eba06"
 title: "Maustetytöt"
 type: band
 socials:
-  bandsintown: "15540275"
   facebook: "maustetytot"
   instagram: "maustetytot_yhtye"
   tiktok: ""
   x: ""
+  bandsintown: "15540275"
   youtube: ""
   web: "https://www.maustetytot.fi/"
   email: "aki@lordag.fi"

@@ -3,11 +3,11 @@ id: "d4815cfb-883a-48a1-a95e-8174126e0762"
 title: "Picture This"
 type: band
 socials:
-  bandsintown: "491113"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "491113"
   youtube: ""
   web: ""
   email: ""

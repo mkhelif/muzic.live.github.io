@@ -3,11 +3,11 @@ id: "427daec2-c991-4180-9910-bc460599ba44"
 title: "La Rumeur"
 type: band
 socials:
-  bandsintown: "98296"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "98296"
   youtube: ""
   web: ""
   email: ""

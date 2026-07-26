@@ -2,12 +2,12 @@
 id: "75321593-7ef0-4499-a5df-76a25daddbf0"
 title: "JoeyStarr"
 socials:
-  bandsintown: "373414"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "373414"
   youtube: ""
   web: ""
   email: ""

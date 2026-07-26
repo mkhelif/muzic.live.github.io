@@ -3,11 +3,11 @@ id: "0e86815f-619f-426c-a3d8-13fc821c450e"
 title: "Young Thug"
 type: person
 socials:
-  bandsintown: "1304738"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1304738"
   youtube: ""
   web: ""
   email: ""

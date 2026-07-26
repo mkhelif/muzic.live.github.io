@@ -3,11 +3,11 @@ id: "aa6ddfa7-86f9-4f7b-9307-f978aa2dc281"
 title: "Supermodel"
 type: person
 socials:
-  bandsintown: "632972"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "632972"
   youtube: ""
   web: ""
   email: ""

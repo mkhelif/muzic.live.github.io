@@ -3,11 +3,11 @@ id: "aa2b4924-b2f1-48b0-9776-54aac80454c9"
 title: "Eva"
 type: person
 socials:
-  bandsintown: "18361"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "18361"
   youtube: ""
   web: ""
   email: ""

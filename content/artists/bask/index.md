@@ -2,12 +2,12 @@
 id: "ceeb5fa1-5649-43f9-8ef1-d5f0956e6954"
 title: "Bask"
 socials:
-  bandsintown: "430139"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "430139"
   youtube: ""
   web: ""
   email: ""

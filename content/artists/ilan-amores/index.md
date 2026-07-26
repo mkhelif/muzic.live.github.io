@@ -2,12 +2,12 @@
 id: "5645e69c-4b10-44e8-9b44-2783a72fa5ef"
 title: "Ilan Amores"
 socials:
-  bandsintown: "15614009"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15614009"
   youtube: ""
   web: ""
   email: ""

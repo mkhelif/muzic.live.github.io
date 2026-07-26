@@ -3,11 +3,11 @@ id: "937455ed-5c33-4132-83ee-1e2c18986598"
 title: "Dry Cleaning"
 type: band
 socials:
-  bandsintown: "15390118"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15390118"
   youtube: ""
   web: ""
   email: ""

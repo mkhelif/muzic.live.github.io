@@ -3,11 +3,11 @@ id: "206e663e-4204-46c9-bdb2-45193b615d02"
 title: "Aaron Rowe"
 type: person
 socials:
-  bandsintown: "14231264"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "14231264"
   youtube: ""
   web: ""
   email: ""

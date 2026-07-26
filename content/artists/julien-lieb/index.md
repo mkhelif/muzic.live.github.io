@@ -3,11 +3,11 @@ id: "81e9737a-a75d-41dc-b608-203e6e3f795b"
 title: "Julien Lieb"
 type: person
 socials:
-  bandsintown: "15556427"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15556427"
   youtube: ""
   web: ""
   email: ""

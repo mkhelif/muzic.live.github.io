@@ -3,11 +3,11 @@ id: "7af5c839-9b17-4921-b785-a45f6c8f0c23"
 title: "Courtney Barnett"
 type: person
 socials:
-  bandsintown: "442101"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "442101"
   youtube: ""
   web: ""
   email: ""

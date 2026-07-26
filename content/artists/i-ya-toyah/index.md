@@ -3,11 +3,11 @@ id: "d0d61e34-2e79-467a-9c89-7df216f7e62a"
 title: "I Ya Toyah"
 type: person
 socials:
-  bandsintown: "11675567"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "11675567"
   youtube: ""
   web: ""
   email: ""

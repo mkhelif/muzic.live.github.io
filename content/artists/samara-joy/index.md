@@ -3,11 +3,11 @@ id: "c84f196f-4c02-44cc-9b88-a1f5d8d74bb0"
 title: "Samara Joy"
 type: person
 socials:
-  bandsintown: "15508662"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15508662"
   youtube: ""
   web: ""
   email: ""

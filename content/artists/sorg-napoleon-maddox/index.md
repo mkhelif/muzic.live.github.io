@@ -14,12 +14,12 @@ members:
     periods:
       - start: 2013
 socials:
-  bandsintown: "9401974"
   facebook: "sorgandnapoleonmaddox"
   instagram: "sorgmusic"
   threads: "@sorgmusic"
   soundcloud: "sorgandnapoleonmaddox"
   bandcamp: "sorgandnapoleonmaddox"
+  bandsintown: "9401974"
   youtube: "@sorgmusic"
   tidal: "5488192"
   spotify: ""

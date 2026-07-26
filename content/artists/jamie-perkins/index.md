@@ -3,11 +3,11 @@ id: "9f0a49ff-e518-4417-b4cc-52331689d529"
 title: "Jamie Perkins"
 type: person
 socials:
-  bandsintown: "2294990"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2294990"
   youtube: ""
   web: ""
   email: ""

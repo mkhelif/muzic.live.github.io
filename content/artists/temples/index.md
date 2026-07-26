@@ -3,11 +3,11 @@ id: "db1809ec-f8bf-437d-b4cb-3039c79241b6"
 title: "Temples"
 type: band
 socials:
-  bandsintown: "706730"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "706730"
   youtube: ""
   web: ""
   email: ""

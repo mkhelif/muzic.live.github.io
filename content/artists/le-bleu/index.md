@@ -24,7 +24,6 @@ members:
     periods:
       - start: 2024
 socials:
-  bandsintown: "15635459"
   instagram: "lebleuencore"
   soundcloud: "user-818978861"
   amazon: "B088WDQK1K"
@@ -36,10 +35,12 @@ socials:
   facebook: ""
   tiktok: ""
   x: ""
+  bandsintown: "15635459"
   youtube: ""
   web: ""
   qobuz: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

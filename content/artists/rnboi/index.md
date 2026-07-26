@@ -3,11 +3,11 @@ id: "a5415d00-b4ac-4d10-9a00-708acc90a041"
 title: "RnBoi"
 type: person
 socials:
-  bandsintown: "15603869"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15603869"
   youtube: ""
   web: ""
   email: ""

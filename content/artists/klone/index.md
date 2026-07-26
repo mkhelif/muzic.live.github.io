@@ -3,11 +3,11 @@ id: "cbdc08e1-c3eb-4675-bf39-e5b2ae1b2e75"
 title: "Klone"
 type: band
 socials:
-  bandsintown: "211737"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "211737"
   youtube: ""
   web: ""
   email: ""

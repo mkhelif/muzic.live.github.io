@@ -3,11 +3,11 @@ id: "7859f4f7-78df-485d-b2d6-e1cffecac9de"
 title: "Lenny Kravitz"
 type: person
 socials:
-  bandsintown: "1505"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1505"
   youtube: ""
   web: ""
   email: ""

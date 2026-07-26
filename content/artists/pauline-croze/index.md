@@ -3,11 +3,11 @@ id: "2d68e2ed-5a04-4e33-b149-967079804beb"
 title: "Pauline Croze"
 type: person
 socials:
-  bandsintown: "36705"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "36705"
   youtube: ""
   web: ""
   email: ""

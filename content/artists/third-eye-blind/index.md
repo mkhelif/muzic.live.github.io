@@ -2,12 +2,12 @@
 id: "d659db4b-cb69-494c-b415-4383a5fdf55b"
 title: "Third Eye Blind"
 socials:
-  bandsintown: "297"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "297"
   youtube: ""
   web: ""
   email: ""

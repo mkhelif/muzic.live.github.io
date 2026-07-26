@@ -2,12 +2,12 @@
 id: "cdcab8b6-b5cc-405a-b462-cd65d33ce419"
 title: "Dmize"
 socials:
-  bandsintown: "81958"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "81958"
   youtube: ""
   web: ""
   email: ""

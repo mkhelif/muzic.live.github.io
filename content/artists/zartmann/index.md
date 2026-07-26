@@ -3,11 +3,11 @@ id: "2ca327b5-8690-4a6b-968c-1dddc58c09e4"
 title: "Zartmann"
 type: person
 socials:
-  bandsintown: "15506764"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15506764"
   youtube: ""
   web: ""
   email: ""

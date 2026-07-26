@@ -3,10 +3,10 @@ id: "e6dfcbe7-af5f-458c-8357-fc89a62890f0"
 title: "Bad Bunny"
 type: person
 socials:
-  bandsintown: "12639255"
   facebook: "BadBunnyOfficial"
   instagram: "badbunnypr"
   x: "sanbenito"
+  bandsintown: "12639255"
   youtube: "@BadBunnyPR"
   amazon: "B01HFUTKDK"
   apple: "1126808565"
@@ -20,6 +20,7 @@ socials:
 todo:
   - Add picture
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

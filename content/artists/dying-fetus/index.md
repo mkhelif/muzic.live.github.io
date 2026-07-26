@@ -2,12 +2,12 @@
 id: "ff363020-cab5-4d5e-b04c-f60fff1b6c49"
 title: "Dying Fetus"
 socials:
-  bandsintown: "2738"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "2738"
   youtube: ""
   web: ""
   email: ""

@@ -2,12 +2,12 @@
 id: "a6b8512e-526d-42d1-8e0c-898783bcfcfd"
 title: "Dogpark"
 socials:
-  bandsintown: "15547530"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15547530"
   youtube: ""
   web: ""
   email: ""

@@ -2,12 +2,12 @@
 id: "a4fcdffa-e6d9-4f8d-a6df-430bdf0051c6"
 title: "Riva Starr"
 socials:
-  bandsintown: "235318"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "235318"
   youtube: ""
   web: ""
   email: ""

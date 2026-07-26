@@ -2,12 +2,12 @@
 id: "2013a5da-58ad-4543-95a5-646b61223445"
 title: "Elephanz"
 socials:
-  bandsintown: "861483"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "861483"
   youtube: ""
   web: ""
   email: ""

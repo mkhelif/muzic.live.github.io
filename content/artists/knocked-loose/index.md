@@ -50,11 +50,11 @@ members:
       - start: 2015
         end: 2020
 socials:
-  bandsintown: "7699043"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "7699043"
   youtube: ""
   web: ""
   email: ""

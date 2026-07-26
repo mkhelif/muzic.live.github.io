@@ -3,11 +3,11 @@ id: "dd642d46-b03e-4ad7-841c-87ceb8be6823"
 title: "Jimmy Brown"
 type: person
 socials:
-  bandsintown: "196862"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "196862"
   youtube: ""
   web: ""
   email: ""

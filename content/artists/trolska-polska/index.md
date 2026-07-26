@@ -3,11 +3,11 @@ id: "e744f777-a4c0-4402-80df-fb168760b321"
 title: "Trolska Polska"
 type: band
 socials:
-  bandsintown: "3329685"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3329685"
   youtube: ""
   web: ""
   email: ""

@@ -3,10 +3,10 @@ id: "35f3c146-0d9b-44d8-bb73-31342b2e6bee"
 title: "Nada Surf"
 type: band
 socials:
-  bandsintown: "753"
   facebook: "NadaSurf"
   instagram: "nadasurf_official"
   x: "nadasurf"
+  bandsintown: "753"
   youtube: "@nadasurf"
   web: "https://www.nadasurf.com"
   tidal: "10595"

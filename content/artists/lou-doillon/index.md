@@ -3,11 +3,11 @@ id: "ef6ea3da-b0e4-4a2d-a2ef-fa84a3f1b79e"
 title: "Lou Doillon"
 type: person
 socials:
-  bandsintown: "868770"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "868770"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "71b61d5a-8a04-442d-a664-202d6f2b44a8"
 title: "Good Charlotte"
 type: band
 socials:
-  bandsintown: "310"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "310"
   youtube: ""
   web: ""
   email: ""

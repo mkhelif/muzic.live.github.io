@@ -2,12 +2,12 @@
 id: "4f832fa9-f48f-4286-8c58-53f7df372fee"
 title: "Backstreet Girls"
 socials:
-  bandsintown: "25374"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "25374"
   youtube: ""
   web: ""
   email: ""

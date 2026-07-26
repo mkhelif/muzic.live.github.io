@@ -3,11 +3,11 @@ id: "72e05a57-744d-47f9-9c9d-349148e58ce5"
 title: "Adèle & Robin"
 type: band
 socials:
-  bandsintown: "15510199"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15510199"
   youtube: ""
   web: ""
   email: ""

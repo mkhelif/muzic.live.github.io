@@ -3,11 +3,11 @@ id: "a94b4022-917e-47b1-be61-7072cb21534f"
 title: "Anne Paceo"
 type: person
 socials:
-  bandsintown: "338661"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "338661"
   youtube: ""
   web: ""
   email: ""

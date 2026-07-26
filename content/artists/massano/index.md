@@ -2,12 +2,12 @@
 id: "1bccd58c-dc3d-4ffc-af11-9551025765b9"
 title: "Massano"
 socials:
-  bandsintown: "15519445"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15519445"
   youtube: ""
   web: ""
   email: ""

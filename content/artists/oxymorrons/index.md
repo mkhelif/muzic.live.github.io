@@ -2,12 +2,12 @@
 id: "d293dc3c-b780-420e-9b4b-cdd449451efa"
 title: "Oxymorrons"
 socials:
-  bandsintown: "348965"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "348965"
   youtube: ""
   web: ""
   email: ""

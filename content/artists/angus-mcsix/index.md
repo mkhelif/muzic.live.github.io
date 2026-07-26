@@ -2,12 +2,12 @@
 id: "0f6eefc6-f957-45e7-8daf-87e7b73770b4"
 title: "ANGUS McSIX"
 socials:
-  bandsintown: "15511621"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15511621"
   youtube: ""
   web: ""
   email: ""

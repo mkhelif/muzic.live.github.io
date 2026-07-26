@@ -3,11 +3,11 @@ id: "4faee371-604a-44e9-a014-0d7418dc5dde"
 title: "Myra"
 type: person
 socials:
-  bandsintown: "13211"
   instagram: "smartkidmyra"
   facebook: ""
   tiktok: ""
   x: ""
+  bandsintown: "13211"
   youtube: ""
   web: ""
   email: ""

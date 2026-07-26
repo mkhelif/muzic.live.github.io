@@ -3,11 +3,11 @@ id: "f1386626-f3e1-4a39-afc8-8de7c4e18a63"
 title: "Cortisa Star"
 type: person
 socials:
-  bandsintown: "15586143"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15586143"
   youtube: ""
   web: ""
   email: ""

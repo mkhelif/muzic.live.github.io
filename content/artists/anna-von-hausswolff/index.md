@@ -3,12 +3,12 @@ id: "04c61bd9-83c9-489f-a3f5-0eb10baf8bcf"
 title: "Anna Von Hausswolff"
 type: person
 socials:
-  bandsintown: "943376"
   facebook: "annavonhausswolff"
   instagram: "annavonhausswolff"
   x: "avonhausswolff"
   bandcamp: "annavonhausswolff"
   soundcloud: "nnavonausswolff"
+  bandsintown: "943376"
   youtube: "AnnavonHausswolff"
   web: "https://www.annavonhausswolff.com/"
   tidal: "3664307"

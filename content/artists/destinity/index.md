@@ -2,12 +2,12 @@
 id: "8dbc7a75-a9dc-4b5b-b842-1db5070930db"
 title: "Destinity"
 socials:
-  bandsintown: "114588"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "114588"
   youtube: ""
   web: ""
   email: ""

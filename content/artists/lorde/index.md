@@ -3,12 +3,12 @@ id: "94f19406-4780-4c60-a2f0-2ec8386d639c"
 title: "Lorde"
 type: person
 socials:
-  bandsintown: "5522674"
   facebook: "lordemusic"
   instagram: "lorde"
   tiktok: ""
   threads: "@lorde"
   x: "lorde"
+  bandsintown: "5522674"
   youtube: "@Lorde"
   soundcloud: "lordemusic"
   web: "https://www.lorde.co.nz/"

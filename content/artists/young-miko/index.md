@@ -3,11 +3,11 @@ id: "c68bb3bd-7687-4e1e-a85c-0403ad554dc2"
 title: "Young Miko"
 type: person
 socials:
-  bandsintown: "15532498"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15532498"
   youtube: ""
   web: ""
   email: ""

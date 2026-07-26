@@ -3,11 +3,11 @@ id: "48ef68aa-247f-4d2d-b10b-d45bd8175ddd"
 title: "Nickelback"
 type: band
 socials:
-  bandsintown: "23"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "23"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "ddfc3b61-7c0f-4722-a46e-f690c38f8f49"
 title: "Amy Macdonald"
 type: person
 socials:
-  bandsintown: "30967"
   facebook: "amymacdonaldmusic"
   instagram: "amy__macdonald"
   threads: "@amy__macdonald"
   x: "Amy__Macdonald"
+  bandsintown: "30967"
   youtube: "@amymacdonaldofficial"
   web: "https://www.amymacdonald.co.uk/"
   tidal: "3648083"
@@ -22,6 +22,7 @@ management: "97049768-d9c6-4bf6-ba4e-1ead47b41b83"
 todo:
   - Add picture from concert
 lastUpdate:
+  apple: 2026-07-26
   bandsintown: 2026-07-26
   spotify: 2026-07-23
 ---

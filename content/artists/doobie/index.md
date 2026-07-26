@@ -3,11 +3,11 @@ id: "b30aedf0-d7df-4468-8dbc-be85cd4bf107"
 title: "Doobie"
 type: person
 socials:
-  bandsintown: "528046"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "528046"
   youtube: ""
   web: ""
   email: ""

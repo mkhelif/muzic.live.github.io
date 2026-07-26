@@ -3,11 +3,11 @@ id: "4f385022-0ac9-47c2-bb21-cbde4dd8af8c"
 title: "Aba Shanti-I"
 type: person
 socials:
-  bandsintown: "332077"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "332077"
   youtube: ""
   web: ""
   email: ""

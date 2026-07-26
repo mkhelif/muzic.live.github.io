@@ -3,10 +3,10 @@ id: "2b16462f-27f8-46b9-9db6-ab08c8872b9f"
 title: "Dropdead Chaos"
 type: band
 socials:
-  bandsintown: "15517156"
   facebook: "dropdeadchaos"
   instagram: "dropdeadchaosofficial"
   tiktok: "@dropdeadchaos"
+  bandsintown: "15517156"
   youtube: "@DropDeadChaos"
   web: "https://dropdeadchaos.com/"
   tidal: "19018207"

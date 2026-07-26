@@ -77,11 +77,11 @@ members:
       - start: 2000
         end: 2004
 socials:
-  bandsintown: "5411"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "5411"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "0ac41b44-d3a1-470f-aaed-8ff24f1b43e9"
 title: "Lomepal"
 type: person
 socials:
-  bandsintown: "3038830"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3038830"
   youtube: ""
   web: ""
   email: ""

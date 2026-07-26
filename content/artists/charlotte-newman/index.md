@@ -2,12 +2,12 @@
 id: "16c45e81-4859-4940-8c98-d84c33cca7fe"
 title: "Charlotte Newman"
 socials:
-  bandsintown: "14558136"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "14558136"
   youtube: ""
   web: ""
   email: ""

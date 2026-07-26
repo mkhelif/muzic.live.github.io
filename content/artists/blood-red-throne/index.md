@@ -3,11 +3,11 @@ id: "bf240349-d09d-4c32-aa2c-4a68b717e810"
 title: "Blood Red Throne"
 type: band
 socials:
-  bandsintown: "53421"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "53421"
   youtube: ""
   web: ""
   email: ""

@@ -31,11 +31,11 @@ members:
     periods:
       - start: 2011
 socials:
-  bandsintown: "11466505"
   facebook: "feu.chatterton"
   instagram: "feuchatterton"
   tiktok: ""
   x: "feuchatterton"
+  bandsintown: "11466505"
   youtube: ""
   web: "http://www.feuchatterton.fr/"
   email: "feuchatterton@gmail.com"

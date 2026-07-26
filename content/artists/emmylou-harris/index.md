@@ -2,12 +2,12 @@
 id: "4e1e6bc6-8e2d-4c94-acfd-3b8561916c16"
 title: "Emmylou Harris"
 socials:
-  bandsintown: "27233"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "27233"
   youtube: ""
   web: ""
   email: ""

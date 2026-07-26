@@ -3,11 +3,11 @@ id: "8538898e-ec26-4a78-b33b-8f65dddc2be2"
 title: "Any Given Day"
 type: band
 socials:
-  bandsintown: "371845"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "371845"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "ddfd5eb9-268a-433f-841d-22037679bccd"
 title: "I Killed The Prom Queen"
 type: band
 socials:
-  bandsintown: "26684"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "26684"
   youtube: ""
   web: ""
   email: ""

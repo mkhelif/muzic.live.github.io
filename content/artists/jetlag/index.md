@@ -3,11 +3,11 @@ id: "26640054-6625-463a-ad15-63b2ca9e9c39"
 title: "Jetlag"
 type: unknown
 socials:
-  bandsintown: "404094"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "404094"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "04dcc37c-6ec5-43c7-8627-28069e5d1c21"
 title: "Friendly Fires"
 type: band
 socials:
-  bandsintown: "32205"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "32205"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "407f06ba-3763-4bf9-b3eb-712bcc59aaae"
 title: "Vígljós"
 type: band
 socials:
-  bandsintown: "15612964"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15612964"
   youtube: ""
   web: ""
   email: ""

@@ -34,11 +34,11 @@ members:
     periods:
       - start: 2023
 socials:
-  bandsintown: "15593948"
   facebook: ""
   instagram: "sophsesque"
   tiktok: "@sophsesque"
   x: ""
+  bandsintown: "15593948"
   youtube: "@TheSophsLA"
   web: "https://thesophs.com/"
   email: ""

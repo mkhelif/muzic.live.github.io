@@ -3,11 +3,11 @@ id: "d8c3c4b3-731f-4dc1-8966-90ace61e6bb2"
 title: "Chantal Goya"
 type: person
 socials:
-  bandsintown: "43601"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "43601"
   youtube: ""
   web: ""
   email: ""

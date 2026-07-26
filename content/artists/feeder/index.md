@@ -3,11 +3,11 @@ id: "2106f68d-5ec2-4286-bfe2-105503d5b731"
 title: "Feeder"
 type: band
 socials:
-  bandsintown: "2082"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2082"
   youtube: ""
   web: ""
   email: ""

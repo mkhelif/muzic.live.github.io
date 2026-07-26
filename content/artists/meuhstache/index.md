@@ -3,9 +3,9 @@ id: "c518c1e2-b44a-4e2c-80dc-88c14e4e6fe3"
 title: "Meuhstache"
 type: unknown
 socials:
-  bandsintown: "15559958"
   facebook: "p/meuhstache-100093600138791"
   instagram: "meuhstache"
+  bandsintown: "15559958"
   youtube: "@Meuhstache"
   bandcamp: "meuhstache"
   web: "https://www.meuhstache.com/"

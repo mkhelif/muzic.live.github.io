@@ -3,11 +3,11 @@ id: "007643a2-f707-4c8c-b7ba-740899c6a223"
 title: "Bi-2"
 type: band
 socials:
-  bandsintown: "718146"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "718146"
   youtube: ""
   web: ""
   email: ""

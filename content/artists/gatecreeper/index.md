@@ -3,11 +3,11 @@ id: "47de7a82-d10d-4bbb-b715-a021216d581f"
 title: "Gatecreeper"
 type: band
 socials:
-  bandsintown: "10434271"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "10434271"
   youtube: ""
   web: ""
   email: ""

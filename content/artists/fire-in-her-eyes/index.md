@@ -2,11 +2,11 @@
 id: "792d1ce1-d2b9-4eb1-b14f-3e59a894c5ca"
 title: "Fire In Her Eyes"
 socials:
-  bandsintown: "12360237"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "12360237"
   youtube: ""
   web: ""
   email: ""

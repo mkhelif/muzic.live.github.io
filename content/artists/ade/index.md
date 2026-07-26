@@ -3,11 +3,11 @@ id: "5aa7ae0e-32c6-41b0-96c4-5527446a1782"
 title: "Adé"
 type: person
 socials:
-  bandsintown: "15288030"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15288030"
   youtube: ""
   web: ""
   email: ""

@@ -2,12 +2,12 @@
 id: "4409f02d-8cc0-46c3-96f8-5302bf318add"
 title: "Flora Hibberd"
 socials:
-  bandsintown: "10226256"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "10226256"
   youtube: ""
   web: ""
   email: ""

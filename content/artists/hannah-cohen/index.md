@@ -3,11 +3,11 @@ id: "342e0a94-c264-4b65-b672-24ec84dce6ba"
 title: "Hannah Cohen"
 type: person
 socials:
-  bandsintown: "2404818"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "2404818"
   youtube: ""
   web: ""
   email: ""

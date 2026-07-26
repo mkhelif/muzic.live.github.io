@@ -3,11 +3,11 @@ id: "71b7f5a5-368b-4603-aa04-9c83494f2aa6"
 title: "Damso"
 type: person
 socials:
-  bandsintown: "7240013"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "7240013"
   youtube: ""
   web: ""
   email: ""

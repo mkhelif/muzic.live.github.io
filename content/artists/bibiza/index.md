@@ -3,11 +3,11 @@ id: "bfeaf5c8-9021-4ac8-9f03-73847b1141a8"
 title: "BIBIZA"
 type: person
 socials:
-  bandsintown: "15514122"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15514122"
   youtube: ""
   web: ""
   email: ""

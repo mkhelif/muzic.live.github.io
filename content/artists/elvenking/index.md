@@ -2,12 +2,12 @@
 id: "db2eda14-6c6d-42d3-bef3-9fb386008db7"
 title: "Elvenking"
 socials:
-  bandsintown: "8081"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "8081"
   youtube: ""
   web: ""
   email: ""

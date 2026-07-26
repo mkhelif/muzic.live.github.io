@@ -3,11 +3,11 @@ id: "da3f1bed-4d7f-4cf6-ad59-9208de8d8412"
 title: "Pokey LaFarge"
 type: person
 socials:
-  bandsintown: "236465"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "236465"
   youtube: ""
   web: ""
   email: ""

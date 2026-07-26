@@ -3,11 +3,11 @@ id: "94c9c76e-82b7-43d8-8225-f56bb275a51b"
 title: "Gabriella Rose"
 type: person
 socials:
-  bandsintown: "15574413"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15574413"
   youtube: ""
   web: ""
   email: ""

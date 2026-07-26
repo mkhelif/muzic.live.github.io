@@ -3,10 +3,10 @@ id: "bbfb7130-7bbc-4bb4-bdb4-8ae2d3e78176"
 title: "Axel Zimmerman"
 type: person
 socials:
-  bandsintown: "15544565"
   facebook: "AxelZimmermanMusic"
   instagram: "axelzimmermanmusic"
   threads: "@axelzimmermanmusic"
+  bandsintown: "15544565"
   youtube: "@axelzimmerman"
   tidal: "19950526"
   spotify: "3GDzngDYtIbipwZF0pi42y"

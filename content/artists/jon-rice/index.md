@@ -3,11 +3,11 @@ id: "9488ae73-c55e-4cb4-92cd-0686cc37c564"
 title: "Jon Rice"
 type: person
 socials:
-  bandsintown: "1265224"
   facebook: ""
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "1265224"
   youtube: ""
 todo:
   - Add picture

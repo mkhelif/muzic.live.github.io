@@ -3,11 +3,11 @@ id: "58f95100-cf76-4c5a-aa1f-855ae4999849"
 title: "Ulrika Spacek"
 type: band
 socials:
-  bandsintown: "12434159"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "12434159"
   youtube: ""
   web: ""
   email: ""

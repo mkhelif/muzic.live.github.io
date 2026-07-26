@@ -2,12 +2,12 @@
 id: "54a68beb-0dc8-4eff-b466-458249f51ab0"
 title: "clubdrugs"
 socials:
-  bandsintown: "12863427"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "12863427"
   youtube: ""
   web: ""
   email: ""

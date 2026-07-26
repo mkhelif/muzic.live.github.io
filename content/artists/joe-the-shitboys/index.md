@@ -2,12 +2,12 @@
 id: "ee712b3f-aa4d-4b5b-a530-53176047a117"
 title: "Joe & The Shitboys"
 socials:
-  bandsintown: "15488310"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15488310"
   youtube: ""
   web: ""
   email: ""

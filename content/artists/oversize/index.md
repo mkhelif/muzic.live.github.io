@@ -2,12 +2,12 @@
 id: "b906f751-1e8d-4180-bff6-03d12f5568dd"
 title: "Oversize"
 socials:
-  bandsintown: "4299996"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "4299996"
   youtube: ""
   web: ""
   email: ""

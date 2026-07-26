@@ -3,9 +3,9 @@ id: "8f0eed2d-85af-43b0-85f5-6bfc83e005c9"
 title: "Feder"
 type: person
 socials:
-  bandsintown: "1247804"
   facebook: "Federuniverse"
   instagram: "feder.music"
+  bandsintown: "1247804"
   youtube: "@federuniverse"
   tidal: "4801103"
   spotify: "5KnoVkIUGmK0PiDKMjz2LM"

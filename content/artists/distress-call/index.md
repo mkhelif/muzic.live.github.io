@@ -2,12 +2,12 @@
 id: "80009a5b-c308-44c9-90aa-381ad21d1a40"
 title: "Distress Call"
 socials:
-  bandsintown: "12344448"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "12344448"
   youtube: ""
   web: ""
   email: ""

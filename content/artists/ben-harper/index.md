@@ -3,10 +3,10 @@ id: "8dc9c0b9-f6a7-42cd-85ab-7eec2b94810c"
 title: "Ben Harper"
 type: person
 socials:
-  bandsintown: "436"
   facebook: "benharper"
   instagram: "benharper"
   x: "benharper"
+  bandsintown: "436"
   youtube: "benharper"
   web: "https://www.benharper.com/"
   tidal: "10416"
@@ -20,6 +20,7 @@ socials:
 todo:
   - Add cover from concert picture
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

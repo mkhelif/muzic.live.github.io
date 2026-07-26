@@ -2,12 +2,12 @@
 id: "ae1a4dff-81eb-4824-80d3-dac83db1b9f7"
 title: "Arankai"
 socials:
-  bandsintown: "15576445"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15576445"
   youtube: ""
   web: ""
   email: ""

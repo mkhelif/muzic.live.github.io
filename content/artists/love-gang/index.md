@@ -3,11 +3,11 @@ id: "59b41eb6-ff3b-4894-8834-3ee132afbfd8"
 title: "Love Gang"
 type: band
 socials:
-  bandsintown: "4374063"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "4374063"
   youtube: ""
   web: ""
   email: ""

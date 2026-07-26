@@ -2,12 +2,12 @@
 id: "a8f85b76-cab9-4bbb-8614-92969a6b4662"
 title: "Haywire"
 socials:
-  bandsintown: "128808"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "128808"
   youtube: ""
   web: ""
   email: ""

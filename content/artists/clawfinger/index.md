@@ -3,11 +3,11 @@ id: "13236954-f328-4fda-b170-b95eb32fbcc9"
 title: "Clawfinger"
 type: band
 socials:
-  bandsintown: "17370"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "17370"
   youtube: ""
   web: ""
   email: ""

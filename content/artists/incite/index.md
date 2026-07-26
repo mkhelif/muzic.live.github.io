@@ -3,11 +3,11 @@ id: "646b503d-878a-41ed-81bc-762e9aa26c67"
 title: "Incite"
 type: band
 socials:
-  bandsintown: "18304"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "18304"
   youtube: ""
   web: ""
   email: ""

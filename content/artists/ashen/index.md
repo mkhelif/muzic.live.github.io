@@ -3,11 +3,11 @@ id: "b4cc5707-5f65-43c4-ab85-71d398f5f9be"
 title: "Ashen"
 type: band
 socials:
-  bandsintown: "15489283"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15489283"
   youtube: ""
   web: ""
   email: ""

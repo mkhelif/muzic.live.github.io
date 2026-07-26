@@ -3,11 +3,11 @@ id: "422b382a-c8a5-47d3-98b7-c0b9ae44e513"
 title: "Misþyrming"
 type: band
 socials:
-  bandsintown: "10571000"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "10571000"
   youtube: ""
   web: ""
   email: ""

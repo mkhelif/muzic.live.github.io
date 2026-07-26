@@ -3,11 +3,11 @@ id: "91ecc056-fc68-4671-9597-088b45bbaa8d"
 title: "TVOD"
 type: unknown
 socials:
-  bandsintown: "1961170"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1961170"
   youtube: ""
   web: ""
   email: ""

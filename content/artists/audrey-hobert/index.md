@@ -3,11 +3,11 @@ id: "7356497b-e5c8-48e2-94e2-bf11468cf938"
 title: "Audrey Hobert"
 type: person
 socials:
-  bandsintown: "15592176"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15592176"
   youtube: ""
   web: ""
   email: ""

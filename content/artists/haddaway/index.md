@@ -3,11 +3,11 @@ id: "65c0c4c3-a522-4f89-9780-cd36c642a977"
 title: "Haddaway"
 type: person
 socials:
-  bandsintown: "50223"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "50223"
   youtube: ""
   web: ""
   email: ""

@@ -3,11 +3,11 @@ id: "e77828b0-0940-4154-8933-aa1fdf77ae3e"
 title: "Maelstrom"
 type: person
 socials:
-  bandsintown: "217313"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "217313"
   youtube: ""
   web: ""
   email: ""

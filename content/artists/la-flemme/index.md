@@ -6,7 +6,6 @@ socials:
   facebook: "profile.php?id=61550970269839"
   instagram: "laflemme_band"
   bandcamp: "laflemmeband"
-  bandsintown: "15545570"
   amazon: "B0CVHZWDNZ"
   apple: "1730545608"
   deezer: "254182892"
@@ -17,9 +16,11 @@ socials:
   phone: "+33625200788"
   tiktok: ""
   x: ""
+  bandsintown: "15545570"
   youtube: ""
   web: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
   bandsintown: 2026-07-23
 ---

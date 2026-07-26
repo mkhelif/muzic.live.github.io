@@ -2,12 +2,12 @@
 id: "0300b272-43f3-43d1-866d-a781de18b603"
 title: "Wave Wave"
 socials:
-  bandsintown: "15575345"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "15575345"
   youtube: ""
   web: ""
   email: ""

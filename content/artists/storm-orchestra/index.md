@@ -22,12 +22,12 @@ members:
     periods:
       - start: 2019
 socials:
-  bandsintown: "8289915"
   facebook: "stormorchestra"
   instagram: "storm_orchestra"
   tiktok: "@storm.orchestra"
   x: "storm_orchestra"
   threads: "@storm_orchestra"
+  bandsintown: "8289915"
   youtube: "@StormOrchestra"
   web: "https://stormorchestra.com/"
   tidal: "5936094"

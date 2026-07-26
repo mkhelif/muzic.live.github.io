@@ -3,11 +3,11 @@ id: "84423f84-1b3f-4269-9d0b-212edc08fb53"
 title: "Oscar and the Wolf"
 type: band
 socials:
-  bandsintown: "1322208"
   facebook: "oscarandthewolf"
   instagram: "oscarandthewolf"
   tiktok: "@oscarandthewolf"
   x: "OscarandtheWolf"
+  bandsintown: "1322208"
   youtube: "@oscarandthewolf"
   web: "https://www.oscarandthewolf.com"
   tidal: "4642437"

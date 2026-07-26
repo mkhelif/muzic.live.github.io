@@ -3,11 +3,11 @@ id: "f2dc2b4c-634c-49f2-94f7-ec73a12caae7"
 title: "Marcus Miller"
 type: person
 socials:
-  bandsintown: "3088"
   facebook: "MarcusMillerOfficialFanPage"
   instagram: "therealmarcusmiller"
   threads: "@therealmarcusmiller"
   x: "MarcusMiller959"
+  bandsintown: "3088"
   youtube: "@MarcusMiller1"
   web: "https://www.marcusmiller.com"
   tidal: "3552389"

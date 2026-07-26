@@ -3,11 +3,11 @@ id: "3544f1c7-836e-4b09-8c11-acbe7f97b860"
 title: "Levellers"
 type: band
 socials:
-  bandsintown: "5664"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "5664"
   youtube: ""
   web: ""
   email: ""

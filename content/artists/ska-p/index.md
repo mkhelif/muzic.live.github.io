@@ -3,11 +3,11 @@ id: "f7e89b40-286d-4260-9b43-18075468f9ce"
 title: "Ska-P"
 type: band
 socials:
-  bandsintown: "10545"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "10545"
   youtube: ""
   web: ""
   email: ""

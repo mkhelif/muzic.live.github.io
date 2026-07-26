@@ -3,11 +3,11 @@ id: "68415f54-f44f-499f-a74a-3aa5319ed212"
 title: "BIG WETT"
 type: person
 socials:
-  bandsintown: "15516521"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15516521"
   youtube: ""
   web: ""
   email: ""

@@ -3,10 +3,10 @@ id: "36aa2101-60b2-433c-9b89-7127c6212c38"
 title: "Catchy Peril"
 type: band
 socials:
-  bandsintown: "15571314"
   facebook: "p/Catchy-Peril-61555198564591/"
   instagram: "catchy_peril"
   threads: "@catchy_peril"
+  bandsintown: "15571314"
   youtube: "@CatchyPeril-oz7me"
   amazon: "B0CTFSFXDF"
   apple: "1727599106"
@@ -19,6 +19,7 @@ socials:
   email: ""
   qobuz: ""
 lastUpdate:
+  apple: 2026-07-26
   spotify: 2026-07-23
 ---
 

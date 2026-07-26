@@ -36,12 +36,12 @@ members:
       - start: 2019
         end: 2023
 socials:
-  bandsintown: "15587808"
   facebook: "tvsundaze"
   instagram: "tvsundaze"
   tiktok: ""
   threads: "@tvsundaze"
   x: ""
+  bandsintown: "15587808"
   youtube: "@tvsundaze"
   bandcamp: "tvsundaze"
   web: ""
@@ -54,4 +54,6 @@ socials:
   tidal: ""
 todo:
   - Add description
+lastUpdate:
+  apple: 2026-07-26
 ---

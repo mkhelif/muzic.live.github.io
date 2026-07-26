@@ -3,11 +3,11 @@ id: "fb0bcc46-ac93-48c6-988d-0fac2cbfe987"
 title: "Parsa Jafari"
 type: person
 socials:
-  bandsintown: "15584096"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15584096"
   youtube: ""
   web: ""
   email: ""

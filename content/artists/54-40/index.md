@@ -2,12 +2,12 @@
 id: "532073be-c5aa-4865-a684-5ccc868ca532"
 title: "54-40"
 socials:
-  bandsintown: "45985"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "45985"
   youtube: ""
   web: ""
   email: ""

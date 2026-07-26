@@ -2,12 +2,12 @@
 id: "16664fa2-beec-4c83-9b82-e7417f72b624"
 title: "DANNY AVILA"
 socials:
-  bandsintown: "2004432"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "2004432"
   youtube: ""
   web: ""
   email: ""

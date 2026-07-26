@@ -2,12 +2,12 @@
 id: "18d134f2-17d1-4051-830d-4deac5ba6e3c"
 title: "Sharon Van Etten"
 socials:
-  bandsintown: "169884"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "169884"
   youtube: ""
   web: ""
   email: ""

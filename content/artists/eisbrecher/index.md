@@ -3,11 +3,11 @@ id: "bf5ce3b7-fadf-48d4-8374-69bd162d4923"
 title: "Eisbrecher"
 type: band
 socials:
-  bandsintown: "12061"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "12061"
   youtube: ""
   web: ""
   email: ""

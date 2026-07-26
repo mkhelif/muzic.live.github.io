@@ -76,11 +76,11 @@ members:
       - start: 1996
         end: 2003
 socials:
-  bandsintown: "50320"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "50320"
   youtube: ""
   web: ""
   email: ""

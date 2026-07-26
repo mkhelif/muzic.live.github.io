@@ -60,10 +60,10 @@ members:
     periods:
       - start: 2009
 socials:
-  bandsintown: "45233"
   facebook: "Lofofora"
   instagram: "lofoforaofficiel"
   x: "lofofora_"
+  bandsintown: "45233"
   youtube: "@lofoforaofficiel"
   web: "https://www.lofofora.com/"
   tidal: "3513934"

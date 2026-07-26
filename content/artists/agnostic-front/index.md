@@ -3,11 +3,11 @@ id: "c3110d6a-e930-404c-9e90-a37c94c4caae"
 title: "Agnostic Front"
 type: band
 socials:
-  bandsintown: "3131"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "3131"
   youtube: ""
   web: ""
   email: ""

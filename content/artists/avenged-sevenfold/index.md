@@ -3,11 +3,11 @@ id: "31fc1263-81aa-41bc-bdf9-e2c745179e17"
 title: "Avenged Sevenfold"
 type: band
 socials:
-  bandsintown: "42"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "42"
   youtube: ""
   web: ""
   email: ""

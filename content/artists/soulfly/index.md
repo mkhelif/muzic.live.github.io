@@ -99,11 +99,11 @@ members:
       - start: 2015
         end: 2025
 socials:
-  bandsintown: "1169"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "1169"
   youtube: ""
   web: ""
   email: ""

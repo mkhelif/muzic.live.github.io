@@ -3,7 +3,6 @@ id: "b2891304-d1ef-496a-b07c-461104efd4a8"
 title: "Smokeheads"
 type: band
 socials:
-  bandsintown: "2837074"
   facebook: "smokeheadsband"
   instagram: "smokeheadsband"
   web: "https://smokeheadsband.com/"
@@ -11,6 +10,7 @@ socials:
   spotify: "2jeXoTd8EoZsBpl13g8F7A"
   tiktok: ""
   x: ""
+  bandsintown: "2837074"
   youtube: ""
   email: ""
   amazon: ""

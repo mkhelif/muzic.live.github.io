@@ -3,12 +3,12 @@ id: "81c96688-6a19-4bc5-aa59-c3cb039fe6a0"
 title: "Marilyn Manson"
 type: person
 socials:
-  bandsintown: "26648"
   instagram: "marilynmanson"
   web: "https://www.marilynmanson.com/"
   facebook: ""
   tiktok: ""
   x: ""
+  bandsintown: "26648"
   youtube: ""
   email: ""
   amazon: ""

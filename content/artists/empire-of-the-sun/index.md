@@ -2,12 +2,12 @@
 id: "c949a5b6-a40a-4e5d-ae09-a3c332252cb0"
 title: "Empire Of The Sun"
 socials:
-  bandsintown: "224445"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "224445"
   youtube: ""
   web: ""
   email: ""

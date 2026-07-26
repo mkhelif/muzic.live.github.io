@@ -2,12 +2,12 @@
 id: "dcbfde02-b135-481a-b8d5-5c7b60cd24f0"
 title: "Suffocation"
 socials:
-  bandsintown: "2245"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "2245"
   youtube: ""
   web: ""
   email: ""

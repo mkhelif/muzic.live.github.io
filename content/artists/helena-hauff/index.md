@@ -2,12 +2,12 @@
 id: "5099a299-9182-4b87-9b8d-e5f3acf04c11"
 title: "Helena Hauff"
 socials:
-  bandsintown: "4418602"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "4418602"
   youtube: ""
   web: ""
   email: ""
