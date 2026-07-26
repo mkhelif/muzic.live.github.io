@@ -1,21 +1,23 @@
 ---
 id: "3aa32fc6-464c-4b65-86b1-02903c59e0cc"
-title: "Miki"
+title: "Mikaela Duplay"
+aliases:
+  - "Miki"
 type: person
 socials:
-  facebook: ""
-  instagram: ""
-  tiktok: ""
-  x: ""
+  facebook: "profile.php?id=100082505542451"
+  instagram: "miki"
+  tiktok: "@spicymiki"
+  x: "Mikiduplay"
   bandsintown: "15516152"
-  youtube: ""
-  web: ""
+  youtube: "@MikiDuplay"
+  web: "https://mikipedia.fr/"
   email: ""
   amazon: ""
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "55Dacc2jL4tgb6Af23NlF6"
   tidal: ""
 ---
 

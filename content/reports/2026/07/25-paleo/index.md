@@ -6,7 +6,7 @@ venue: "e32c1106-6177-43a2-8d9e-c8b283c118ce"
 title: "Paléo 2026 - Jour 5 - Marguerite, Troska Polska, Adèle Castillon, Helena, Tarrak, Vanessa Paradis, LinLin, Jok'Air, LinaParty, Katy Perry"
 cover: "pictures/xxx/01.jpg"
 author: "mkhelif"
-rank: 10
+rank: 9
 artists:
   - "00036a87-7197-4df1-af39-4bb045b210f6"
   - "83b7f94f-c89e-49a1-80bc-8aac57c3cd19"

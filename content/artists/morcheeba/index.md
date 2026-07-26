@@ -2,14 +2,41 @@
 id: "5d90dd65-b0b8-48e2-9d73-fb6501a4eb17"
 title: "Morcheeba"
 type: band
+members:
+  - id: "0ad127f1-a641-43a7-a1f3-68cebc1784ff"
+    roles:
+      - sing
+    periods:
+      - start: 2010
+      - start: 1995
+        end: 2003
+  - id: "736a73d3-012c-448e-94cf-e38aa737d820"
+    roles:
+      - guitar
+      - other
+    periods:
+      - start: 1995
+  - id: "fdac05c4-5f4a-43bd-84a7-205f53b640d6"
+    roles:
+      - drums
+      - other
+    periods:
+      - start: 1995
+        end: 2014
+  - id: "a4bbc813-6504-49e5-9520-8fe26b8a5ddf"
+    roles:
+      - sing
+    periods:
+      - start: 2005
+        end: 2005
 socials:
-  facebook: ""
-  instagram: ""
+  facebook: "MorcheebaBand"
+  instagram: "morcheebaband"
   tiktok: ""
-  x: ""
+  x: "MorcheebaBand"
   bandsintown: "14641426"
-  youtube: ""
-  web: ""
+  youtube: "@MorcheebaHQ"
+  web: "https://morcheeba.uk/"
   email: ""
   amazon: ""
   apple: ""
