@@ -3,23 +3,21 @@ id: "8b0832e9-43d8-4512-ac94-4b77f07858af"
 title: "Yamê"
 type: person
 socials:
-  bandsintown: "864218"
-  facebook: ""
-  instagram: ""
-  tiktok: ""
+  facebook: "yamelebantu"
+  instagram: "yamebantu"
+  tiktok: "@yamebantu"
+  threads: "@yamebantu"
   x: ""
-  youtube: ""
-  web: ""
-  email: ""
+  youtube: "@yamebantu"
+  bandsintown: "864218"
+  web: "https://www.mola-zone.com/"
+  email: "yame.management@gmail.com"
   amazon: ""
-  apple: ""
+  apple: "1540808137"
   deezer: ""
   qobuz: ""
   spotify: "0wiCfDEHaEcPkKZOi7Nivl"
   tidal: ""
-todo:
-  - Add picture
-  - Add socials
 ---
 
 Emmanuel Sow, connu sous le nom de Yamê, est un chanteur, rappeur et auteur-compositeur né le 19 avril 1993 à
