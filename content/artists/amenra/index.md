@@ -2,6 +2,69 @@
 id: "ab576014-5b3b-47a6-b2b5-a49f4a27118c"
 title: "Amenra"
 type: band
+members:
+  - id: "2567af9e-49d2-4657-9364-8ab119aa5733"
+    roles:
+      - sing
+    periods:
+      - start: 1999
+  - id: "3b25a8f3-ac03-466b-8b2a-f08e452983ca"
+    roles:
+      - guitar
+    periods:
+      - start: 1999
+  - id: "1dd6bf47-b8ad-45bd-8124-c6885e645789"
+    roles:
+      - drums
+    periods:
+      - start: 1999
+  - id: "c89e3321-8a88-416d-b6dc-b200eb6f6a06"
+    roles:
+      - guitar
+    periods:
+      - start: 2008
+  - id: "49423679-63cb-4315-a46b-71cb39bfe09c"
+    roles:
+      - bass
+    periods:
+      - start: 2025
+  - id: "5b968825-c0d5-4af5-aa2c-dcedd21fca1b"
+    roles:
+      - bass
+    periods:
+      - start: 1999
+        end: 2006
+  - id: "0439e0ac-059f-4be6-a91d-ca140dd86c04"
+    roles:
+      - guitar
+    periods:
+      - start: 2003
+        end: 2008
+  - id: "f4a4de59-bd59-439f-a9c4-6317b8893bc6"
+    roles:
+      - bass
+    periods:
+      - start: 2006
+        end: 2012
+  - id: "961e7a47-1800-41c2-8eed-96ffff950bba"
+    roles:
+      - bass
+    periods:
+      - start: 2012
+        end: 2020
+  - id: "6fb61c34-75c0-4c44-a966-b4cb9bd12b7b"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2020
+        end: 2024
+  - id: "8a4bd552-814b-4739-a0b5-4dce24aeb085"
+    roles:
+      - sing
+    periods:
+      - start: 2021
+        end: 2021
 socials:
   bandsintown: "38402"
   facebook: ""

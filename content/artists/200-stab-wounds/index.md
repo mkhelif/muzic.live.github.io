@@ -2,6 +2,40 @@
 id: "9922ffbb-2982-4882-8296-832ddbcb6a3c"
 title: "200 Stab Wounds"
 type: band
+members:
+  - id: "68384a68-18df-46f8-954e-42674c0ca780"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2019
+  - id: "93308217-8998-462c-bab1-f8c84f5e56af"
+    roles:
+      - drums
+    periods:
+      - start: 2019
+  - id: "c53d9fec-54f4-411a-a97c-1198ba81307e"
+    roles:
+      - guitar
+    periods:
+      - start: 2023
+  - id: "06a68ca0-5ce1-4abf-8553-9681e691132a"
+    roles:
+      - bass
+    periods:
+      - start: 2025
+  - id: "c14fac15-6470-4a4b-9e49-b54914e1d5ca"
+    roles:
+      - guitar
+    periods:
+      - start: 2019
+        end: 2023
+  - id: "119d8879-f3a1-44c0-94eb-261ea447316d"
+    roles:
+      - bass
+    periods:
+      - start: 2019
+        end: 2025
 socials:
   bandsintown: "15493596"
   facebook: ""
