@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-26
 ---
 
 Né le 26 avril 1990, le Finlandais Antti Autio s'impose comme l'un des auteurs-compositeurs les plus appréciés de la

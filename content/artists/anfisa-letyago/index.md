@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-26
 ---
 
 Née le 5 mars 1990 à Mirny, en République de Sakha (Russie), Anfisa Letyago s'installe avec sa famille à Naples vers

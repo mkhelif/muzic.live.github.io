@@ -18,6 +18,7 @@ socials:
   spotify: "0MmnmsAuQKRFpo6vJElcaU"
   tidal: ""
 lastUpdate:
+  bandsintown: 2026-07-26
   spotify: 2026-07-23
 ---
 Originaires de Nottingham, Amber Run sont l'un des groupes indie rock britanniques les plus touchants de leur génération. Portés par des mélodies sincères, des paroles introspectives et une production soignée, ils ont su trouver un public fidèle et international sans jamais renoncer à leur authenticité.

@@ -1,0 +1,8 @@
+---
+date: 2026-10-22T18:30:00
+venue: "19efa0be-9075-4f0b-bddd-57baab2e6aaf"
+artists:
+  - "90801b3e-27b7-476a-b44b-99cf5ebd328f"
+tickets:
+  web: "https://www.bandsintown.com/e/1039129529-ando-san-at-the-fillmore-philadelphia?came_from=209"
+---

@@ -22,6 +22,7 @@ management: "97049768-d9c6-4bf6-ba4e-1ead47b41b83"
 todo:
   - Add picture from concert
 lastUpdate:
+  bandsintown: 2026-07-26
   spotify: 2026-07-23
 ---
 

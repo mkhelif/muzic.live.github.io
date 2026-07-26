@@ -1,0 +1,8 @@
+---
+date: 2026-10-03T19:00:00
+venue: "855da265-0470-47af-919f-bdc4d9880b27"
+artists:
+  - "dedf51a3-08ec-4f14-a93f-ea71b75e6953"
+tickets:
+  web: "https://www.bandsintown.com/e/1038379959-angela-autumn-at-ut-connewitz?came_from=209"
+---

@@ -18,6 +18,7 @@ socials:
   spotify: "0fGVuq5ed21pM7iWwTcMyk"
   tidal: ""
 lastUpdate:
+  bandsintown: 2026-07-26
   spotify: 2026-07-23
 ---
 Amy Lee est l'une des voix les plus reconnaissables du rock alternatif mondial. Co-fondatrice et chanteuse principale d'Evanescence, pianiste classique et compositrice, elle a imposé dans les années 2000 une vision du rock féminin radicalement différente de ce qui dominait alors les ondes : sombre, cinématographique, hanté par des émotions profondes, et porté par une technique vocale hors du commun.

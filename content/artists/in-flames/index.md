@@ -132,7 +132,29 @@ socials:
 todo:
   - Add cover
   - Add socials
-  - Add description
 lastUpdate:
   spotify: 2026-07-23
 ---
+
+In Flames est un groupe suédois de melodic death metal formé à Göteborg en 1990 par le guitariste Jesper Strömblad,
+qui souhaitait marier le lyrisme mélodique d'Iron Maiden à la brutalité du death metal. Aux côtés d'At the Gates et
+Dark Tranquillity, In Flames est l'un des piliers fondateurs de la scène de Göteborg, l'un des foyers les plus
+influents du metal extrême européen.
+
+###### Des débuts qui posent les bases du genre
+
+Le premier album, « Lunar Strain » (1994), avec la voix invitée de Mikael Stanne (Dark Tranquillity), est suivi de
+l'EP « Subterranean » (1995), qui vaut au groupe un contrat avec Nuclear Blast. « The Jester Race » (1996) puis
+« Whoracle » (1997) installent durablement la formule mélodique et technique qui fera l'identité du groupe.
+
+###### Une évolution stylistique assumée
+
+Avec « Reroute to Remain » (2002), In Flames opère un virage vers des éléments plus accessibles, entre chant clair
+et alternative metal, élargissant considérablement son public. « Soundtrack to Your Escape » (2004) confirme cette
+audience internationale, et « Come Clarity » (2006) devient leur premier album numéro un en Suède.
+
+###### Une identité qui perdure
+
+Seuls le chanteur Anders Fridén et le guitariste Björn Gelotte sont restés continuellement dans le groupe depuis
+1995, malgré de nombreux changements de line-up. Avec plus de deux millions d'albums vendus dans le monde, In
+Flames demeure l'un des ambassadeurs les plus reconnaissables du metal suédois.

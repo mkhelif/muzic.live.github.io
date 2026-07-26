@@ -18,6 +18,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  bandsintown: 2026-07-26
   spotify: 2026-07-23
 ---
 Amajee est un producteur et artiste français évoluant dans les zones de friction entre la musique électronique, le dub et les musiques expérimentales. Son univers sonore se distingue par des atmosphères sombres et envoûtantes, où des textures électroniques denses côtoient des basses profondes et impactantes, dans une esthétique à mi-chemin entre le bass music underground et des influences plus aériennes.
