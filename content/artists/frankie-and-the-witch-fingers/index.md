@@ -3,6 +3,7 @@ id: "47a3f5f6-cd3c-4d30-b05b-49fe1ace11ef"
 title: "Frankie and the Witch Fingers"
 type: band
 socials:
+  bandsintown: "7476302"
   facebook: ""
   instagram: ""
   tiktok: ""

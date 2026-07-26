@@ -2,6 +2,7 @@
 id: "ba30204d-c61d-41b3-b89d-9435de9f7401"
 title: "Chevelle"
 socials:
+  bandsintown: "303"
   facebook: ""
   instagram: ""
   tiktok: ""

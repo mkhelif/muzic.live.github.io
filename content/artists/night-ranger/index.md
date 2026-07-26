@@ -2,6 +2,7 @@
 id: "cfa55864-3580-421a-b047-a7972db62fb8"
 title: "Night Ranger"
 socials:
+  bandsintown: "36875"
   facebook: ""
   instagram: ""
   tiktok: ""

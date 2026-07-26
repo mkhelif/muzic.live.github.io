@@ -3,6 +3,7 @@ id: "6fe53129-6e87-4b75-9bbb-997bd74077af"
 title: "MEUTE"
 type: band
 socials:
+  bandsintown: "12694179"
   facebook: ""
   instagram: ""
   tiktok: ""

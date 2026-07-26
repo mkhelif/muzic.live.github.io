@@ -3,6 +3,7 @@ id: "50789f27-5547-4f28-a026-189b4e9611a8"
 title: "Katy J Pearson"
 type: person
 socials:
+  bandsintown: "15462022"
   facebook: ""
   instagram: ""
   tiktok: ""

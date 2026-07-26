@@ -3,6 +3,7 @@ id: "41491ce0-387e-4a1a-a854-f5e4ee898b18"
 title: "Malte Marten"
 type: person
 socials:
+  bandsintown: "15545510"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "300517fc-060f-48c5-af84-0562eee8627e"
 title: "Primitive Man"
 type: band
 socials:
+  bandsintown: "5156878"
   facebook: ""
   instagram: ""
   tiktok: ""

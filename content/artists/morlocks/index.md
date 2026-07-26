@@ -2,6 +2,7 @@
 id: "fbabb297-39be-4dff-965d-d02d2333f705"
 title: "Morlocks"
 socials:
+  bandsintown: "631216"
   facebook: ""
   instagram: ""
   tiktok: ""

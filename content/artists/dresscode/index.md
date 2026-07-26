@@ -3,6 +3,7 @@ id: "c27fa6ff-507c-4987-ab64-f0930199b66c"
 title: "Dresscode"
 type: unknown
 socials:
+  bandsintown: "335024"
   facebook: ""
   instagram: ""
   tiktok: ""

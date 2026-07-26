@@ -47,6 +47,7 @@ members:
     periods:
       - start: 2023
 socials:
+  bandsintown: "327"
   facebook: "Offspring"
   instagram: "offspring"
   tiktok: "@offspring"

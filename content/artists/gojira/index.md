@@ -31,6 +31,7 @@ members:
       - start: 1996
         end: 1998
 socials:
+  bandsintown: "2761"
   facebook: "gojiramusic"
   instagram: "gojiraofficial"
   tiktok: "@gojiraband"

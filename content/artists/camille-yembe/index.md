@@ -3,6 +3,7 @@ id: "f07f7b0e-2c8e-4fa9-96b4-2ff5b0f15921"
 title: "Camille Yembe"
 type: person
 socials:
+  bandsintown: "15583367"
   facebook: ""
   instagram: ""
   tiktok: ""

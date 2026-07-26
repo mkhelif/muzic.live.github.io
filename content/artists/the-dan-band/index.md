@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 The Dan Band est un groupe comique américain créé par l'acteur et humoriste Dan Finnerty, connu pour ses reprises très

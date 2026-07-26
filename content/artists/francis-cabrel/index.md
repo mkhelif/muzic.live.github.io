@@ -3,6 +3,7 @@ id: "5507cc7a-918b-4397-844f-94892e9c9188"
 title: "Francis Cabrel"
 type: person
 socials:
+  bandsintown: "44966"
   youtube: "@FrancisCabrelOfficiel"
   web: "https://www.franciscabrel.com/"
   tidal: "797"

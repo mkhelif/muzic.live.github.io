@@ -3,6 +3,7 @@ id: "c39c265e-2ecd-43bf-9201-ee3667d9f76b"
 title: "Djo"
 type: person
 socials:
+  bandsintown: "819850"
   instagram: "djotime"
   tiktok: "@djo_time"
   soundcloud: "djokyri"

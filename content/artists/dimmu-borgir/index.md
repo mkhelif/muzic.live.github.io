@@ -2,6 +2,7 @@
 id: "f9af3db9-f741-48f8-a0d7-28710e3731d0"
 title: "Dimmu Borgir"
 socials:
+  bandsintown: "1071"
   facebook: ""
   instagram: ""
   tiktok: ""

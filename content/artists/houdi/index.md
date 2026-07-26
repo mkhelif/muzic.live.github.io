@@ -3,6 +3,7 @@ id: "eb72a76e-4da8-4b4e-999f-2ed57321057e"
 title: "HOUDI"
 type: person
 socials:
+  bandsintown: "15539892"
   facebook: ""
   instagram: ""
   tiktok: ""

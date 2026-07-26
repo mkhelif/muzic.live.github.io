@@ -3,6 +3,7 @@ id: "845fc6c6-702c-4f55-adde-4257b7d4f5cc"
 title: "Soprano"
 type: person
 socials:
+  bandsintown: "18636"
   facebook: ""
   instagram: ""
   tiktok: ""

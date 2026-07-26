@@ -2,6 +2,7 @@
 id: "be3930a3-596a-4f9b-ac0a-7fbbf88be139"
 title: "Hardt Antoine"
 socials:
+  bandsintown: "15267547"
   facebook: ""
   instagram: ""
   tiktok: ""

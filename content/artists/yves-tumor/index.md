@@ -3,6 +3,7 @@ id: "6736cb37-59d9-4e86-b090-7311ab1afbe8"
 title: "Yves Tumor"
 type: person
 socials:
+  bandsintown: "8310385"
   facebook: ""
   instagram: ""
   tiktok: ""

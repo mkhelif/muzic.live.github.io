@@ -15,6 +15,7 @@ members:
     periods:
       - start: 2001
 socials:
+  bandsintown: "955"
   facebook: "TheBlackKeys"
   instagram: "theblackkeys"
   tiktok: "@theblackkeys"

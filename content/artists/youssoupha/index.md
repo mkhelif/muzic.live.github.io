@@ -3,6 +3,7 @@ id: "a8dafe59-199e-4985-881e-ab080f52fc94"
 title: "Youssoupha"
 type: person
 socials:
+  bandsintown: "65390"
   facebook: ""
   instagram: ""
   tiktok: ""

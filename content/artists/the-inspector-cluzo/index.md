@@ -28,6 +28,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 The Inspector Cluzo est un duo de rock français composé de Laurent Lacrouts (chant, guitare) et Phil Jourdain (

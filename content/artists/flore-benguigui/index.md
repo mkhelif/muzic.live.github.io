@@ -3,6 +3,7 @@ id: "47c916f7-8b1a-444b-a53b-6f6c9d94e740"
 title: "Flore Benguigui"
 type: person
 socials:
+  bandsintown: "15616645"
   facebook: ""
   instagram: ""
   tiktok: ""

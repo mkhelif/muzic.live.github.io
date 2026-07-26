@@ -26,6 +26,7 @@ members:
     periods:
       - start: 2020
 socials:
+  bandsintown: "15548219"
   facebook: "girlscouttheband"
   instagram: "girlscouttheband"
   tiktok: "@girlscouttheband"

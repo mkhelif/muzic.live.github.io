@@ -2,6 +2,7 @@
 id: "fa2aa1fa-3ce3-4359-a979-f02e916896b2"
 title: "kuru"
 socials:
+  bandsintown: "304361"
   facebook: ""
   instagram: ""
   tiktok: ""

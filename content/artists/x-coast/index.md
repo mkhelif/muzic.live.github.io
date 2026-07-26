@@ -3,6 +3,7 @@ id: "3855b490-00a6-4200-aea7-9dcdeb37c2db"
 title: "X-Coast"
 type: person
 socials:
+  bandsintown: "643479"
   facebook: ""
   instagram: ""
   tiktok: ""

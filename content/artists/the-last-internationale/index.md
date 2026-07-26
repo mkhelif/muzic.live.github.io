@@ -30,6 +30,8 @@ socials:
   email: "thelastinternationale@gmail.com"
   tiktok: ""
   x: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 Il y a des groupes qui font de la musique. Il y a des groupes qui font de la musique et de la politique. Et puis il y a

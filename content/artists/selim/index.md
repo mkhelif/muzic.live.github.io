@@ -3,6 +3,7 @@ id: "ee989fa5-44bf-4f10-8da4-1164450d4551"
 title: "Selim"
 type: unknown
 socials:
+  bandsintown: "780237"
   facebook: ""
   instagram: ""
   tiktok: ""

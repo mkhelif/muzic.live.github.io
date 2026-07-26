@@ -3,6 +3,7 @@ id: "b5d0fe24-672a-4485-afc7-63028c4ca707"
 title: "Dinaa"
 type: person
 socials:
+  bandsintown: "15529117"
   instagram: "dinaa"
   facebook: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "4c5fb857-26c7-400d-91ba-b175fffc8dad"
 title: "Calling All Captains"
 type: band
 socials:
+  bandsintown: "1202185"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -72,6 +72,7 @@ members:
       - start: 1995
         end: 1999
 socials:
+  bandsintown: "36428"
   facebook: "savatage"
   instagram: "thisissavatage"
   tiktok: "@thisissavatage"

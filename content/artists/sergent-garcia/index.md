@@ -3,6 +3,7 @@ id: "08987023-cbee-4238-a3c1-38937775d332"
 title: "Sergent Garcia"
 type: person
 socials:
+  bandsintown: "68225"
   facebook: ""
   instagram: ""
   tiktok: ""

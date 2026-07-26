@@ -3,6 +3,7 @@ id: "a28b1630-a64a-4a53-b013-5572401976e9"
 title: "Phoebe Bridgers"
 type: person
 socials:
+  bandsintown: "1222829"
   facebook: ""
   instagram: ""
   tiktok: ""

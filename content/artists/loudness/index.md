@@ -2,6 +2,7 @@
 id: "c22c8791-4b64-4c99-aac3-f487269aef85"
 title: "LOUDNESS"
 socials:
+  bandsintown: "58218"
   facebook: ""
   instagram: ""
   tiktok: ""

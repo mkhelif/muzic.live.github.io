@@ -3,6 +3,7 @@ id: "3583effa-1cbc-430e-a894-73543295ad46"
 title: "Corey Taylor"
 type: person
 socials:
+  bandsintown: "159247"
   facebook: ""
   instagram: ""
   tiktok: ""

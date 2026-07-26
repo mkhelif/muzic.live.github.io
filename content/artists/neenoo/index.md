@@ -2,6 +2,7 @@
 id: "1f02192a-1953-476d-ae93-2b54f04a1fe6"
 title: "NEENOO"
 socials:
+  bandsintown: "12315184"
   facebook: ""
   instagram: ""
   tiktok: ""

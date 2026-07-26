@@ -2,6 +2,7 @@
 id: "864dfee0-7237-4e98-bee9-647db7bbeb31"
 title: "King King"
 socials:
+  bandsintown: "218553"
   facebook: ""
   instagram: ""
   tiktok: ""

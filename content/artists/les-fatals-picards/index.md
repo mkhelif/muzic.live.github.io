@@ -2,6 +2,7 @@
 id: "919b555e-dfff-45c0-9407-0e104c0175cf"
 title: "Les Fatals Picards"
 socials:
+  bandsintown: "40604"
   facebook: ""
   instagram: ""
   tiktok: ""

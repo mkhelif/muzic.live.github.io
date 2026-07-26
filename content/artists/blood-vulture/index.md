@@ -2,6 +2,7 @@
 id: "c11647bb-e311-400d-8079-2ae2b882abf2"
 title: "Blood Vulture"
 socials:
+  bandsintown: "15587610"
   facebook: ""
   instagram: ""
   tiktok: ""

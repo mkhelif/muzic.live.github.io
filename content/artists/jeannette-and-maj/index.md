@@ -3,6 +3,7 @@ id: "c3b291c9-6318-46b6-aae9-f5fb8cc593d3"
 title: "Jeannette & Maj"
 type: band
 socials:
+  bandsintown: "15645346"
   facebook: ""
   instagram: ""
   tiktok: ""

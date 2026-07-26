@@ -3,6 +3,7 @@ id: "4df10670-11a5-4679-abc0-5fae5ad551c7"
 title: "Loud"
 type: unknown
 socials:
+  bandsintown: "147704"
   facebook: ""
   instagram: ""
   tiktok: ""

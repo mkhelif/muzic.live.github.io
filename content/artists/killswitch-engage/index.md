@@ -2,6 +2,7 @@
 id: "e841081b-f42a-4332-93f7-fa2feab96902"
 title: "Killswitch Engage"
 socials:
+  bandsintown: "201"
   facebook: ""
   instagram: ""
   tiktok: ""

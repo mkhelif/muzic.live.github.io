@@ -25,6 +25,7 @@ members:
     periods:
       - start: 2007
 socials:
+  bandsintown: "1658370"
   facebook: "lasttrainofficial"
   instagram: "lasttrainband"
   tiktok: "@lasttrainband"

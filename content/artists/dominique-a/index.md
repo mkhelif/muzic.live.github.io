@@ -3,6 +3,7 @@ id: "7afe8675-2cc9-4cae-b11a-865622797e1f"
 title: "Dominique A"
 type: person
 socials:
+  bandsintown: "15076258"
   facebook: ""
   instagram: ""
   tiktok: ""

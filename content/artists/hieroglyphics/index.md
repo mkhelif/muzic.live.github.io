@@ -2,6 +2,7 @@
 id: "0c7632d6-942f-480e-999e-d7b2e72ee973"
 title: "Hieroglyphics"
 socials:
+  bandsintown: "1773"
   facebook: ""
   instagram: ""
   tiktok: ""

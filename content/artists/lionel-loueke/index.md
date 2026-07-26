@@ -2,6 +2,7 @@
 id: "bfc454c0-ab34-4637-89d4-039c71869b30"
 title: "Lionel Loueke"
 socials:
+  bandsintown: "40766"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "6c01ec71-dd4b-4d4e-a24d-005d63722a69"
 title: "Hoshi"
 type: person
 socials:
+  bandsintown: "1932234"
   facebook: ""
   instagram: ""
   tiktok: ""

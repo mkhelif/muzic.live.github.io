@@ -3,6 +3,7 @@ id: "f55bff18-69a4-4791-9060-1d859f82f224"
 title: "Peter Doherty"
 type: person
 socials:
+  bandsintown: "51876"
   facebook: ""
   instagram: ""
   tiktok: ""

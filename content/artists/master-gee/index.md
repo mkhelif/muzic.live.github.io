@@ -3,6 +3,7 @@ id: "fdd92b22-d005-446c-abb0-4490e7df2820"
 title: "Master Gee"
 type: person
 socials:
+  bandsintown: "1832516"
   facebook: ""
   instagram: ""
   tiktok: ""

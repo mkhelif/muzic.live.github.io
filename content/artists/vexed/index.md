@@ -2,6 +2,7 @@
 id: "4a4672ad-1f0b-4093-97b9-293647b525b1"
 title: "VEXED"
 socials:
+  bandsintown: "469310"
   facebook: ""
   instagram: ""
   tiktok: ""

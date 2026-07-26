@@ -3,6 +3,7 @@ id: "4d836b74-ae7e-450d-897b-a90f051340ca"
 title: "Les Négresses Vertes"
 type: band
 socials:
+  bandsintown: "63659"
   facebook: ""
   instagram: ""
   tiktok: ""

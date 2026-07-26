@@ -3,6 +3,7 @@ id: "bbb0a3d7-7f7b-4c87-b307-3e7653fd176d"
 title: "Charles Lloyd"
 type: person
 socials:
+  bandsintown: "47671"
   facebook: ""
   instagram: ""
   tiktok: ""

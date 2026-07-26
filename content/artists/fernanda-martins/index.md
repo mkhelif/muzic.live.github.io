@@ -3,6 +3,7 @@ id: "15d4de42-d4c6-4222-aedd-dcd2c2494964"
 title: "Fernanda Martins"
 type: person
 socials:
+  bandsintown: "824001"
   facebook: ""
   instagram: ""
   tiktok: ""

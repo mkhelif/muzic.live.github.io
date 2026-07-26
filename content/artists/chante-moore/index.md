@@ -2,6 +2,7 @@
 id: "7d7e6acc-88f9-40cf-9836-791519e0ad34"
 title: "Chanté Moore"
 socials:
+  bandsintown: "50319"
   facebook: ""
   instagram: ""
   tiktok: ""

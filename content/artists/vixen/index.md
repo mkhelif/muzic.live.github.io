@@ -3,6 +3,7 @@ id: "55618a58-c61f-44b3-a8cb-d8b80e1812f3"
 title: "Vixen"
 type: band
 socials:
+  bandsintown: "17058"
   facebook: ""
   instagram: ""
   tiktok: ""

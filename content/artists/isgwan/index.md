@@ -2,6 +2,7 @@
 id: "3e0a474b-11c5-4180-88f0-6aae88b00736"
 title: "IsGwan"
 socials:
+  bandsintown: "15571258"
   facebook: ""
   instagram: ""
   tiktok: ""

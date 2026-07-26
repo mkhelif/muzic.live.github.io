@@ -3,6 +3,7 @@ id: "c2e4c7ff-8446-4761-ba79-08eb1cc9d798"
 title: "Septicflesh"
 type: band
 socials:
+  bandsintown: "1159337"
   facebook: ""
   instagram: ""
   tiktok: ""

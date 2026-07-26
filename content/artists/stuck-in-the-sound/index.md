@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 **Style énergique et direct** - Stuck in the Sound débarque en 2002 depuis Montreuil avec une énergie qui claque comme

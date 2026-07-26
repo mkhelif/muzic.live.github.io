@@ -2,6 +2,7 @@
 id: "f94f5f7d-c780-4d93-9518-2ed039ae1013"
 title: "Vulvodynia"
 socials:
+  bandsintown: "6461184"
   facebook: ""
   instagram: ""
   tiktok: ""

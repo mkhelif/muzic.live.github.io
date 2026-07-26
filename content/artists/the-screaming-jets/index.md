@@ -3,6 +3,7 @@ id: "19723aea-d3b0-44e5-bcce-9cd14c886c7f"
 title: "The Screaming Jets"
 type: band
 socials:
+  bandsintown: "89964"
   facebook: ""
   instagram: ""
   tiktok: ""

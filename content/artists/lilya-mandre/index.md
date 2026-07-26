@@ -2,6 +2,7 @@
 id: "d392219d-fe5a-4472-ae95-39951d453c1e"
 title: "Lilya Mandre"
 socials:
+  bandsintown: "15617139"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "9aec3146-7204-46f8-81b2-a8b100af63d4"
 title: "Korolova"
 socials:
+  bandsintown: "14097147"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -60,6 +60,7 @@ members:
     periods:
       - start: 2009
 socials:
+  bandsintown: "45233"
   facebook: "Lofofora"
   instagram: "lofoforaofficiel"
   x: "lofofora_"

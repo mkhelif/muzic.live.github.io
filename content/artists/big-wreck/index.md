@@ -2,6 +2,7 @@
 id: "851e5385-dd40-406c-b128-106f7dcf8ae7"
 title: "Big Wreck"
 socials:
+  bandsintown: "41890"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -32,6 +32,7 @@ members:
       - start: 1994
         end: 1997
 socials:
+  bandsintown: "54"
   facebook: "systemofadown"
   instagram: "systemofadown"
   tiktok: "@systemofadown"

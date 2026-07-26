@@ -3,6 +3,7 @@ id: "912a19dd-7fcd-451e-9e08-0dc4a3fc7be7"
 title: "Soom T"
 type: person
 socials:
+  bandsintown: "219239"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "55614e10-1e06-4ad1-a0aa-f237ffb45dff"
 title: "Nothgard"
 socials:
+  bandsintown: "1295309"
   facebook: ""
   instagram: ""
   tiktok: ""

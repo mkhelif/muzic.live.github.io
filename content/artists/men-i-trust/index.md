@@ -3,6 +3,7 @@ id: "dcb92254-f1de-490b-801c-0e87e3dd814f"
 title: "Men I Trust"
 type: band
 socials:
+  bandsintown: "10983481"
   facebook: ""
   instagram: ""
   tiktok: ""

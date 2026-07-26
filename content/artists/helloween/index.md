@@ -3,6 +3,7 @@ id: "975394fe-0bc6-4171-b37f-a897e6233bd1"
 title: "Helloween"
 type: band
 socials:
+  bandsintown: "4307"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "dba3a2ed-a9b3-46df-ac43-45c6167dd92f"
 title: "Félicien Lia"
 type: unknown
 socials:
+  bandsintown: "57235"
   facebook: ""
   instagram: ""
   tiktok: ""

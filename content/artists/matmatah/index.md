@@ -35,6 +35,7 @@ members:
     periods:
       - start: 2015
 socials:
+  bandsintown: "40487"
   facebook: "Matmatah.official"
   instagram: "matmatahofficiel"
   x: "matmatah"

@@ -3,6 +3,7 @@ id: "9ba19a0a-b5b4-4580-a535-ed2130b09777"
 title: "Melrose"
 type: band
 socials:
+  bandsintown: "74323"
   facebook: "jesuismelrose"
   instagram: "jesuismelrose"
   tiktok: "@jesuismelrose"

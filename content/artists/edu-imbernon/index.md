@@ -2,6 +2,7 @@
 id: "578a8f66-d344-41a7-9cf5-884714244666"
 title: "Edu Imbernon"
 socials:
+  bandsintown: "435666"
   facebook: ""
   instagram: ""
   tiktok: ""

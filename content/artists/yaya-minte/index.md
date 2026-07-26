@@ -3,6 +3,7 @@ id: "786377cf-b5ed-4dba-adae-13d33646afeb"
 title: "Yaya Minté"
 type: person
 socials:
+  bandsintown: "15481533"
   facebook: ""
   instagram: ""
   tiktok: ""

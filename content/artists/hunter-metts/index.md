@@ -3,6 +3,7 @@ id: "ee837762-5cb9-4706-bd4d-017704dd9859"
 title: "Hunter Metts"
 type: unknown
 socials:
+  bandsintown: "15490345"
   facebook: ""
   instagram: ""
   tiktok: ""

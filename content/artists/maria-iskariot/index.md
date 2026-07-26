@@ -3,6 +3,7 @@ id: "c309f074-d521-4316-9ffa-2faaeaaa107d"
 title: "Maria Iskariot"
 type: band
 socials:
+  bandsintown: "15533157"
   facebook: ""
   instagram: ""
   tiktok: ""

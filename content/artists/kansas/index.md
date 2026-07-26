@@ -142,6 +142,7 @@ members:
       - start: 1991
         end: 1997
 socials:
+  bandsintown: "1466"
   facebook: ""
   instagram: ""
   tiktok: ""

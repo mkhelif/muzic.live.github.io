@@ -38,6 +38,7 @@ members:
     periods:
       - start: 2019
 socials:
+  bandsintown: "15558161"
   facebook: "PambeleColombia"
   instagram: "pambelemusic"
   tiktok: "@pambeleband"

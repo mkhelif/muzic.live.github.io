@@ -20,6 +20,7 @@ members:
     periods:
       - start: 2007
 socials:
+  bandsintown: "212526"
   facebook: "twodoorcinemaclub"
   instagram: "twodoorcinemaclub"
   x: "TDCinemaClub"

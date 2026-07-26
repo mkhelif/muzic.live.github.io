@@ -2,6 +2,7 @@
 id: "4121bb63-20fe-4ab4-b5ff-a5286eff1f70"
 title: "Jarrod Lawson"
 socials:
+  bandsintown: "2108430"
   facebook: ""
   instagram: ""
   tiktok: ""

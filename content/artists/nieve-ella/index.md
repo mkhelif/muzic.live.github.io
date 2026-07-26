@@ -3,6 +3,7 @@ id: "a4ccde03-bcf7-4eb9-bc13-112ea03eafad"
 title: "Nieve Ella"
 type: person
 socials:
+  bandsintown: "15520529"
   facebook: ""
   instagram: ""
   tiktok: ""

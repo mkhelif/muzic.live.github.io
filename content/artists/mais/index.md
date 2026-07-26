@@ -2,6 +2,7 @@
 id: "3910d0bb-b933-41b6-951c-b4ca47734fd4"
 title: "Mais"
 socials:
+  bandsintown: "203584"
   facebook: ""
   instagram: ""
   tiktok: ""

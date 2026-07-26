@@ -3,6 +3,7 @@ id: "e17bde19-593b-45ae-b437-03b6557b5fa1"
 title: "Samantha Fish"
 type: person
 socials:
+  bandsintown: "956767"
   facebook: ""
   instagram: ""
   tiktok: ""

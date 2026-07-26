@@ -3,6 +3,7 @@ id: "69be5491-4296-4b53-9ace-e6bd316c5821"
 title: "Lakecia Benjamin"
 type: person
 socials:
+  bandsintown: "2775553"
   facebook: ""
   instagram: ""
   tiktok: ""

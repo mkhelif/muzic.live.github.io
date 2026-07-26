@@ -3,6 +3,7 @@ id: "e70fc914-2e25-4fe1-abc1-f679dbe7c1a3"
 title: "Madball"
 type: band
 socials:
+  bandsintown: "3046"
   facebook: ""
   instagram: ""
   tiktok: ""

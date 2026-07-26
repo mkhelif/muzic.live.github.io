@@ -3,6 +3,7 @@ id: "ec430e99-6e25-40d4-a5b3-3e70d272f7fb"
 title: "JeanJass"
 type: person
 socials:
+  bandsintown: "10876649"
   instagram: "jeanjass"
   x: "JeanJass"
   youtube: "channel/UCBVvd8QemU9L_gpV4Frf3VA"

@@ -3,6 +3,7 @@ id: "9a4eba9d-bd1e-4641-ad0b-260d353ae453"
 title: "Poni Hoax"
 type: band
 socials:
+  bandsintown: "8855"
   facebook: ""
   instagram: ""
   tiktok: ""

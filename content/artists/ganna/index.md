@@ -3,6 +3,7 @@ id: "18803342-1298-43b7-a23c-0d8b8817df1b"
 title: "GANNA"
 type: band
 socials:
+  bandsintown: "15545517"
   facebook: ""
   instagram: ""
   tiktok: ""

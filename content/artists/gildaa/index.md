@@ -3,6 +3,7 @@ id: "ed3ade56-591f-416c-95ec-1d968a41ae54"
 title: "Gildaa"
 type: person
 socials:
+  bandsintown: "15573606"
   instagram: "gildaa"
   facebook: ""
   tiktok: ""

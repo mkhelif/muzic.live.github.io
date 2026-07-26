@@ -2,6 +2,7 @@
 id: "fcc4c6e1-2e9e-4f2d-ba61-884bc9462f86"
 title: "HEALTH"
 socials:
+  bandsintown: "32101"
   facebook: ""
   instagram: ""
   tiktok: ""

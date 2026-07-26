@@ -41,6 +41,7 @@ members:
     periods:
       - start: 2010
 socials:
+  bandsintown: "248434"
   facebook: "ToucheAmore"
   instagram: "toucheamore"
   tiktok: ""

@@ -3,6 +3,7 @@ id: "66e93bc6-d266-4e79-8ed1-8d636d8c2429"
 title: "Chet Faker"
 type: person
 socials:
+  bandsintown: "14137589"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "07615ddd-cfb1-4d70-91b8-3ba121ec2076"
 title: "Burr Oak"
 type: unknown
 socials:
+  bandsintown: "15498288"
   facebook: ""
   instagram: ""
   tiktok: ""

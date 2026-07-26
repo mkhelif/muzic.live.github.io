@@ -3,6 +3,7 @@ id: "1f29779f-d2be-4729-a604-534d3487d553"
 title: "To/Die/For"
 type: band
 socials:
+  bandsintown: "11759959"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "4882cb31-8226-4079-ba1a-0e3b94a88817"
 title: "Sophie Lloyd"
 socials:
+  bandsintown: "15548512"
   facebook: ""
   instagram: ""
   tiktok: ""

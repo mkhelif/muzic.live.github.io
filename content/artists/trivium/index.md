@@ -91,6 +91,7 @@ members:
       - start: 2003
         end: 2003
 socials:
+  bandsintown: "210"
   facebook: "Trivium"
   instagram: "triviumband"
   threads: "@triviumband"

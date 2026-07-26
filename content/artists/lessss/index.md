@@ -3,6 +3,7 @@ id: "8ed512f9-7892-4d1f-9d95-41c8782daf0b"
 title: "Lessss"
 type: person
 socials:
+  bandsintown: "15657542"
   facebook: ""
   instagram: ""
   tiktok: ""

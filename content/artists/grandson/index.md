@@ -3,6 +3,7 @@ id: "68618401-47a8-439b-8e62-ba14b080ff6a"
 title: "Grandson"
 type: person
 socials:
+  bandsintown: "5358826"
   facebook: "grandsonmusic"
   instagram: "grandson"
   x: "grandson"

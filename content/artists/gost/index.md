@@ -3,6 +3,7 @@ id: "935c3394-1904-403f-b36f-c84ae0cc40b0"
 title: "Gost"
 type: person
 socials:
+  bandsintown: "1646154"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "804f0c00-64cb-4deb-8de7-4b82078cc7f4"
 title: "Silversun Pickups"
 socials:
+  bandsintown: "930"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "ac97371a-7438-482c-87e1-f11744313aa1"
 title: "Jasmín"
 socials:
+  bandsintown: "15602659"
   facebook: ""
   instagram: ""
   tiktok: ""

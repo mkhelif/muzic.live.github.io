@@ -3,6 +3,7 @@ id: "65d37575-e6b5-4f91-aa42-0a75b818daef"
 title: "Mark Tremonti"
 type: person
 socials:
+  bandsintown: "24770"
   facebook: "MarkTremonti"
   instagram: "markttremonti"
   tiktok: ""

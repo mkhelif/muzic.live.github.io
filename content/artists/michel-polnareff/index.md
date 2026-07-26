@@ -3,6 +3,7 @@ id: "1edfd1e2-f086-445d-ae0c-ab44359a5749"
 title: "Michel Polnareff"
 type: person
 socials:
+  bandsintown: "60639"
   instagram: "michelpolnareff"
   x: "MICHELPOLNAREFF"
   facebook: ""

@@ -14,6 +14,7 @@ members:
     periods:
       - start: 1994
 socials:
+  bandsintown: "212"
   facebook: ""
   instagram: ""
   tiktok: ""

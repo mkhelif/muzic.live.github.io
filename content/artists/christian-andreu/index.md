@@ -3,6 +3,7 @@ id: "f36cea9a-0ef8-4372-9e75-7f5686ac5565"
 title: "Christian Andreu"
 type: person
 socials:
+  bandsintown: "1103583"
   facebook: ""
   instagram: ""
   tiktok: ""

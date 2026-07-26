@@ -3,6 +3,7 @@ id: "725d06ef-bb4b-4cf6-bbfb-f20e98481e77"
 title: "Le Prince Miiaou"
 type: person
 socials:
+  bandsintown: "334212"
   facebook: ""
   instagram: ""
   tiktok: ""

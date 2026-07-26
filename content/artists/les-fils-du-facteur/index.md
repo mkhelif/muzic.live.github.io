@@ -3,6 +3,7 @@ id: "780a9a15-0bb5-47e6-9c99-c263cc933395"
 title: "Les Fils du Facteur"
 type: band
 socials:
+  bandsintown: "4541736"
   facebook: ""
   instagram: ""
   tiktok: ""

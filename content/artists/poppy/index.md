@@ -3,6 +3,7 @@ id: "1ee75f98-04a5-4ca1-be56-212d04fcb4f2"
 title: "Poppy"
 type: person
 socials:
+  bandsintown: "231079"
   facebook: ""
   instagram: ""
   tiktok: ""

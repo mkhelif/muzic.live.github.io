@@ -35,6 +35,7 @@ members:
       - start: 2009
         end: 2013
 socials:
+  bandsintown: "267681"
   facebook: "rivalsons"
   instagram: "rivalsons"
   tiktok: "@rivalsons"

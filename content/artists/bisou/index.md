@@ -2,6 +2,7 @@
 id: "d2ece0b6-f62d-4b3b-b9be-c13211f3d770"
 title: "Bisou"
 socials:
+  bandsintown: "391468"
   facebook: ""
   instagram: ""
   tiktok: ""

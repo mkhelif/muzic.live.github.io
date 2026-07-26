@@ -2,6 +2,7 @@
 id: "02a0a9e6-0264-40ae-b5c8-62b9f7701268"
 title: "La Bouche"
 socials:
+  bandsintown: "50235"
   facebook: ""
   instagram: ""
   tiktok: ""

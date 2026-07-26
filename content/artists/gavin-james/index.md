@@ -3,6 +3,7 @@ id: "a032b0b8-838c-461a-9891-e2bf592de8fe"
 title: "Gavin James"
 type: person
 socials:
+  bandsintown: "1675519"
   facebook: "gavinjamesmusic"
   instagram: "gavinjameslive"
   tiktok: "@gavinjamesmusic"

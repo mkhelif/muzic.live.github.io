@@ -3,6 +3,7 @@ id: "fd9d8d78-3a81-491f-a3f2-54dc81058d13"
 title: "Ziggy Marley"
 type: person
 socials:
+  bandsintown: "927"
   facebook: ""
   instagram: ""
   tiktok: ""

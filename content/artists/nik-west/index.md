@@ -3,6 +3,7 @@ id: "d01e187a-8065-4b26-b7c6-b48859f35eaf"
 title: "Nik West"
 type: person
 socials:
+  bandsintown: "1029105"
   facebook: "nikwestbass"
   instagram: "nikwestbass"
   tiktok: "@nikwest"

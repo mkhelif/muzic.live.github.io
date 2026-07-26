@@ -3,6 +3,7 @@ id: "30a2082f-d84f-42d6-853d-88c75d1091ca"
 title: "Sarah Nimmo"
 type: unknown
 socials:
+  bandsintown: "15585747"
   facebook: ""
   instagram: ""
   tiktok: ""

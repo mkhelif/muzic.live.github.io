@@ -2,6 +2,7 @@
 id: "26ad52bd-896c-42bb-bcbf-32a92f05144f"
 title: "EPMD"
 socials:
+  bandsintown: "6497"
   facebook: ""
   instagram: ""
   tiktok: ""

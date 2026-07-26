@@ -3,6 +3,7 @@ id: "c29b02ad-2905-4a71-a97a-d149a9d6f0d4"
 title: "Lola Young"
 type: person
 socials:
+  bandsintown: "13596053"
   facebook: ""
   instagram: ""
   tiktok: ""

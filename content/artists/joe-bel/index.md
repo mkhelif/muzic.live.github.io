@@ -3,6 +3,7 @@ id: "587c73da-6a39-4af4-8383-278387afe017"
 title: "Joe Bel"
 type: person
 socials:
+  bandsintown: "3214823"
   facebook: ""
   instagram: ""
   tiktok: ""

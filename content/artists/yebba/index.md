@@ -3,6 +3,7 @@ id: "4f5e1d94-4e0b-4610-9098-1be5b10a5c22"
 title: "Yebba"
 type: person
 socials:
+  bandsintown: "3145184"
   facebook: ""
   instagram: ""
   tiktok: ""

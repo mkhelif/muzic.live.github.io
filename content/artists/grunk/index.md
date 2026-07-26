@@ -3,6 +3,7 @@ id: "0ea3f977-312c-4fda-8e0b-f902b44744ae"
 title: "Grunk"
 type: unknown
 socials:
+  bandsintown: "1935634"
   facebook: "GRUNK25"
   youtube: "@grunk4536"
   instagram: ""

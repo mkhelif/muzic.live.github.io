@@ -3,6 +3,7 @@ id: "a70bae4c-b070-4f2f-9330-1e84a3799a2c"
 title: "Derek Sherinian"
 type: person
 socials:
+  bandsintown: "52668"
   facebook: ""
   instagram: ""
   tiktok: ""

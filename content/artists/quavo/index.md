@@ -3,6 +3,7 @@ id: "3973bcca-28e6-4ae5-8539-6c7064de749d"
 title: "Quavo"
 type: person
 socials:
+  bandsintown: "3132179"
   facebook: ""
   instagram: ""
   tiktok: ""

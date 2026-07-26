@@ -3,6 +3,7 @@ id: "2791ba63-3d18-4bee-a876-f4363acd523b"
 title: "Melissa Bonny"
 type: person
 socials:
+  bandsintown: "13760010"
   facebook: ""
   instagram: ""
   tiktok: ""

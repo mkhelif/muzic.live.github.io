@@ -2,6 +2,7 @@
 id: "4456d1b9-f581-45c7-a0e0-7fa38493af56"
 title: "Vincent Ingala"
 socials:
+  bandsintown: "4681154"
   facebook: ""
   instagram: ""
   tiktok: ""

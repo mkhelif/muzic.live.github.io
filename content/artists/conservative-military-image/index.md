@@ -2,6 +2,7 @@
 id: "cab3e00a-6ba9-4328-a43e-8727bfb7775a"
 title: "Conservative Military Image"
 socials:
+  bandsintown: "15537954"
   facebook: ""
   instagram: ""
   tiktok: ""

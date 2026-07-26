@@ -6,6 +6,7 @@ labels:
   - "2e908056-b7d9-4ab2-a128-c59d98cabfc5"
   - "ce686a0c-6780-4d45-9fa9-0b25870de0f0"
 socials:
+  bandsintown: "7742307"
   facebook: "Jeezyjeezybaby"
   instagram: "ogjosman"
   tiktok: "@tikmiddlefingertok"

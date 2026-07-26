@@ -3,6 +3,7 @@ id: "76c5eb70-9f91-4778-bf94-144fe26726dc"
 title: "Solann"
 type: person
 socials:
+  bandsintown: "15524636"
   facebook: ""
   instagram: ""
   tiktok: ""

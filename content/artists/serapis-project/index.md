@@ -2,6 +2,7 @@
 id: "1ba85cb0-ac00-47ee-a32e-64575d1462ae"
 title: "SerapiS Project"
 socials:
+  bandsintown: "15550799"
   facebook: ""
   instagram: ""
   tiktok: ""

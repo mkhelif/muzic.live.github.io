@@ -3,6 +3,7 @@ id: "2e5cd39b-170f-4afd-a283-fe0bddb1576f"
 title: "Richard Jones"
 type: person
 socials:
+  bandsintown: "231624"
   facebook: ""
   instagram: ""
   tiktok: ""

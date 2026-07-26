@@ -3,6 +3,7 @@ id: "df1a4609-ae66-4d13-a149-96222649cae9"
 title: "Jonny Hawkins"
 type: person
 socials:
+  bandsintown: "10865088"
   facebook: "JonnyHawkins"
   instagram: "jonnyhawkins"
   tiktok: "@jonnyhawkins"

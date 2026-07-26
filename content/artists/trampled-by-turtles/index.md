@@ -2,6 +2,7 @@
 id: "d9cf0c47-184f-4582-99e8-650e6b6d6866"
 title: "Trampled by Turtles"
 socials:
+  bandsintown: "12591"
   facebook: ""
   instagram: ""
   tiktok: ""

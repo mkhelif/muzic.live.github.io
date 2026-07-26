@@ -3,6 +3,7 @@ id: "57274040-61f1-4ede-93a2-e0c70d4cd8db"
 title: "Nerlov"
 type: person
 socials:
+  bandsintown: "15534618"
   facebook: "nerlovamish"
   instagram: "nerlov.nerlov"
   youtube: "@NerlovNerlov"

@@ -2,6 +2,7 @@
 id: "f2b5192c-8f4d-4103-941f-566bd824c1df"
 title: "thrown official"
 socials:
+  bandsintown: "15509093"
   facebook: ""
   instagram: ""
   tiktok: ""

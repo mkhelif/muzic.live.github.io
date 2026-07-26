@@ -2,6 +2,7 @@
 id: "59457e03-b228-4a8f-b9bd-048250cb2fc4"
 title: "RÜFÜS DU SOL"
 socials:
+  bandsintown: "9731281"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "6a6f0561-a351-4800-be01-b0b3936efd67"
 title: "Cor de Lux"
 socials:
+  bandsintown: "15645872"
   facebook: ""
   instagram: ""
   tiktok: ""

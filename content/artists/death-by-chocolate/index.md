@@ -3,6 +3,7 @@ id: "c95cff07-6918-469c-b67b-c611060ab2b9"
 title: "Death by Chocolate"
 type: band
 socials:
+  bandsintown: "141558"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "23f60ede-148d-4215-a1bf-7fc84434bbf3"
 title: "Clan of Xymox"
 socials:
+  bandsintown: "7208"
   facebook: ""
   instagram: ""
   tiktok: ""

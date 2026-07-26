@@ -4,6 +4,7 @@ id: "75ee31ef-1472-4325-a451-ac01d7e4fc57"
 title: "Richie Brown"
 type: person
 socials:
+  bandsintown: "43057"
   facebook: ""
   instagram: ""
   x: ""

@@ -3,6 +3,7 @@ id: "3a032431-6ffc-424e-aa40-22ba8f78f7d3"
 title: "Dub Inc"
 type: band
 socials:
+  bandsintown: "9070535"
   facebook: ""
   instagram: ""
   tiktok: ""

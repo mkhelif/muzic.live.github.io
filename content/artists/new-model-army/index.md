@@ -3,6 +3,7 @@ id: "9644f78e-92d0-4f0a-bf3d-262e8359e683"
 title: "New Model Army"
 type: band
 socials:
+  bandsintown: "34211"
   facebook: ""
   instagram: ""
   tiktok: ""

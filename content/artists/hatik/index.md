@@ -3,6 +3,7 @@ id: "0c852f81-ec36-452a-8291-d132dfe418b1"
 title: "Hatik"
 type: person
 socials:
+  bandsintown: "4084807"
   facebook: ""
   instagram: ""
   tiktok: ""

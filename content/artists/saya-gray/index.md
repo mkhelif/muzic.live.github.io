@@ -3,6 +3,7 @@ id: "35074d96-f001-461c-8c28-60eaa0abacc5"
 title: "Saya Gray"
 type: person
 socials:
+  bandsintown: "15547399"
   instagram: "sayagray"
   bandcamp: "sayagray"
   soundcloud: "sayagray-music"

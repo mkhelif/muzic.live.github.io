@@ -3,6 +3,7 @@ id: "0409aaff-fce1-43c0-ab33-883883f155f2"
 title: "Sueilo"
 type: person
 socials:
+  bandsintown: "15642559"
   facebook: ""
   instagram: ""
   tiktok: ""

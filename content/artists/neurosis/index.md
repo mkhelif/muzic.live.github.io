@@ -3,6 +3,7 @@ id: "4564102d-66e4-49b4-97fd-1dfeefae9c10"
 title: "Neurosis"
 type: band
 socials:
+  bandsintown: "9035"
   facebook: ""
   instagram: ""
   tiktok: ""

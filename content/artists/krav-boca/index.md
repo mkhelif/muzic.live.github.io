@@ -2,6 +2,7 @@
 id: "b9e61766-c3bc-4c4a-a647-a7b76042f85d"
 title: "Krav Boca"
 socials:
+  bandsintown: "10891446"
   facebook: ""
   instagram: ""
   tiktok: ""

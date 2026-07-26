@@ -3,6 +3,7 @@ id: "f7502d7c-146b-48e1-89f7-4ee40383b02e"
 title: "Oscar Dronjak"
 type: person
 socials:
+  bandsintown: "1110706"
   facebook: ""
   instagram: ""
   tiktok: ""

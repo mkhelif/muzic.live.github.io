@@ -3,6 +3,7 @@ id: "9a50d4d7-aaee-4f62-947d-bde140a370d5"
 title: "Journey"
 type: band
 socials:
+  bandsintown: "228"
   facebook: ""
   instagram: ""
   tiktok: ""

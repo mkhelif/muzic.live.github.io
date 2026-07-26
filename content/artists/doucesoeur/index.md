@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 DouceSœur est une DJ et artiste française installée à Marseille, dont l'univers musical puise dans ses origines

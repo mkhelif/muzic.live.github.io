@@ -2,6 +2,7 @@
 id: "cad12059-743e-43d0-9a0e-19f2cae9e9c9"
 title: "Soot"
 socials:
+  bandsintown: "1120507"
   facebook: ""
   instagram: ""
   tiktok: ""

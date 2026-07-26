@@ -72,6 +72,7 @@ members:
       - start: 1993
         end: 1999
 socials:
+  bandsintown: "38345"
   facebook: "masshysteriaofficiel"
   instagram: "masshysteria_official"
   youtube: "@masshysteria_official"

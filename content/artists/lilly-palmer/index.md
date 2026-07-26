@@ -2,6 +2,7 @@
 id: "6060ab55-a135-4850-be10-b70d03e5e604"
 title: "Lilly Palmer"
 socials:
+  bandsintown: "13010441"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "531920fd-d858-488a-bbe8-b6a96848c47e"
 title: "False Reality"
 type: band
 socials:
+  bandsintown: "482606"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "798f598b-dde1-4824-b532-6dad7c922859"
 title: "DJ Snake"
 type: person
 socials:
+  bandsintown: "691727"
   facebook: ""
   instagram: ""
   tiktok: ""

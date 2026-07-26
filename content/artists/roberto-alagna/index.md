@@ -3,6 +3,7 @@ id: "b0ad5ca4-d5ed-465f-b4d1-ee638e00a186"
 title: "Roberto Alagna"
 type: person
 socials:
+  bandsintown: "252957"
   instagram: "robertoalagnaofficiel"
   web: "https://www.robertoalagna.com/"
   facebook: ""

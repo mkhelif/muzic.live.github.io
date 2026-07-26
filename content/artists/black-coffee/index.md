@@ -2,6 +2,7 @@
 id: "5de4f312-9312-4b0c-a049-9f78cbb63521"
 title: "Black Coffee"
 socials:
+  bandsintown: "3923807"
   facebook: ""
   instagram: ""
   tiktok: ""

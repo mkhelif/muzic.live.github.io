@@ -3,6 +3,7 @@ id: "8f12d259-7042-462b-8bbd-426da895f345"
 title: "Sinclair"
 type: unknown
 socials:
+  bandsintown: "201296"
   facebook: ""
   instagram: ""
   tiktok: ""

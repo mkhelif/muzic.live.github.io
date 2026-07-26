@@ -2,6 +2,7 @@
 id: "2d06b25b-5fae-4dbe-8946-b242ddfcf278"
 title: "Electro Deluxe"
 socials:
+  bandsintown: "9207725"
   facebook: ""
   instagram: ""
   tiktok: ""

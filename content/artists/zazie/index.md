@@ -3,6 +3,7 @@ id: "f76626a9-41d8-4ed6-aced-3c0abb658f9c"
 title: "Zazie"
 type: person
 socials:
+  bandsintown: "11480"
   facebook: ""
   instagram: ""
   tiktok: ""

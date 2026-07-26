@@ -2,6 +2,7 @@
 id: "d737e333-c6b1-421b-9e1e-21cc3692573d"
 title: "Mita Gami"
 socials:
+  bandsintown: "15524986"
   facebook: ""
   instagram: ""
   tiktok: ""

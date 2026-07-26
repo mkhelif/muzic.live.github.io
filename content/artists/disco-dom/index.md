@@ -2,6 +2,7 @@
 id: "b3f5f237-8df2-4f0e-bd5f-1a1cad1d6d2b"
 title: "Disco Dom"
 socials:
+  bandsintown: "15523652"
   facebook: ""
   instagram: ""
   tiktok: ""

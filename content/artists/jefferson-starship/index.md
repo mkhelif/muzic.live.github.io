@@ -3,6 +3,7 @@ id: "924eacf1-a8ed-41de-9846-a40a142359f0"
 title: "Jefferson Starship"
 type: band
 socials:
+  bandsintown: "46771"
   facebook: ""
   instagram: ""
   tiktok: ""

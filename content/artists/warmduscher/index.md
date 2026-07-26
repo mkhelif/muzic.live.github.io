@@ -2,6 +2,7 @@
 id: "ec5185ef-bc8c-41f0-9f18-f2ea181f3e12"
 title: "Warmduscher"
 socials:
+  bandsintown: "115415"
   facebook: ""
   instagram: ""
   tiktok: ""

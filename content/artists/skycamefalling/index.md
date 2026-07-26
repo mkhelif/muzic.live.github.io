@@ -2,6 +2,7 @@
 id: "36cc98d8-4748-4a91-8377-47544bce6040"
 title: "Skycamefalling"
 socials:
+  bandsintown: "59587"
   facebook: ""
   instagram: ""
   tiktok: ""

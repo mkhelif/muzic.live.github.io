@@ -3,6 +3,7 @@ id: "da4b2e96-6fc7-42df-902f-7cd8e771bb32"
 title: "Puma Blue"
 type: person
 socials:
+  bandsintown: "12618827"
   facebook: ""
   instagram: ""
   tiktok: ""

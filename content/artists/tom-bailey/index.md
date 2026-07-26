@@ -2,6 +2,7 @@
 id: "83077fb2-2afc-4f02-99b4-d871c00b7596"
 title: "Tom Bailey"
 socials:
+  bandsintown: "15386643"
   facebook: ""
   instagram: ""
   tiktok: ""

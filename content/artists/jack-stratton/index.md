@@ -3,6 +3,7 @@ id: "9e60e51f-f4be-4393-8018-0f39245c1ffd"
 title: "Jack Stratton"
 type: person
 socials:
+  bandsintown: "2012363"
   facebook: ""
   instagram: ""
   tiktok: ""

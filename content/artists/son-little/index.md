@@ -3,6 +3,7 @@ id: "9035dbb0-c23a-42a3-a5ec-98776c412ef4"
 title: "Son Little"
 type: person
 socials:
+  bandsintown: "9011147"
   facebook: ""
   instagram: ""
   tiktok: ""

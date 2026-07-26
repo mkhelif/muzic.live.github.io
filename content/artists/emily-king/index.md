@@ -3,6 +3,7 @@ id: "c231747f-24ad-47ba-b16e-12aead75e766"
 title: "Emily King"
 type: person
 socials:
+  bandsintown: "16067"
   facebook: ""
   instagram: ""
   tiktok: ""

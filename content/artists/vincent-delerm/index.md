@@ -3,6 +3,7 @@ id: "4f006df0-88dd-4319-9c2b-163195b78646"
 title: "Vincent Delerm"
 type: person
 socials:
+  bandsintown: "63795"
   facebook: ""
   instagram: ""
   web: ""

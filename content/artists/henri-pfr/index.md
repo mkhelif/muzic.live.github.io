@@ -3,6 +3,7 @@ id: "9d0b60d1-6bf0-4d16-b364-0ffef0301c47"
 title: "Henri PFR"
 type: person
 socials:
+  bandsintown: "4467287"
   facebook: ""
   instagram: ""
   tiktok: ""

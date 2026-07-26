@@ -3,6 +3,7 @@ id: "18e1b882-d0e1-4d33-a181-26b6db17625d"
 title: "Soft Loft"
 type: band
 socials:
+  bandsintown: "15500891"
   facebook: "softloftmusic"
   instagram: "softloftsoftloft"
   threads: "@softloftsoftloft"

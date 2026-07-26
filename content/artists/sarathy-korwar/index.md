@@ -2,6 +2,7 @@
 id: "6c4eda94-bd6a-415d-a6c1-ac4f5c36d8e0"
 title: "Sarathy Korwar"
 socials:
+  bandsintown: "12916254"
   facebook: ""
   instagram: ""
   tiktok: ""

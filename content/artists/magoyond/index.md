@@ -2,6 +2,7 @@
 id: "872838b4-0945-488b-9a6d-a94abc58203d"
 title: "Magoyond"
 socials:
+  bandsintown: "1703822"
   facebook: ""
   instagram: ""
   tiktok: ""

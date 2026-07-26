@@ -2,6 +2,7 @@
 id: "55ed4fc0-7bad-43ac-8cdc-beff6191ede3"
 title: "Lost Society"
 socials:
+  bandsintown: "951089"
   facebook: ""
   instagram: ""
   tiktok: ""

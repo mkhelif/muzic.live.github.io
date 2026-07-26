@@ -2,6 +2,7 @@
 id: "e21e8418-f2cb-498f-b894-9686daeef536"
 title: "Cold Culture"
 socials:
+  bandsintown: "13283131"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "e45e4879-4cf5-404a-98af-f857ca1106c2"
 title: "Billy Howerdel"
 type: person
 socials:
+  bandsintown: "624812"
   facebook: ""
   instagram: ""
   tiktok: ""

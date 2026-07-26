@@ -19,4 +19,6 @@ socials:
   qobuz: ""
 todo:
   - Add picture
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---

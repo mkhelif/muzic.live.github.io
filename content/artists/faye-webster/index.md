@@ -2,6 +2,7 @@
 id: "3a5fdda6-bd55-4371-9d0a-34059f811788"
 title: "Faye Webster"
 socials:
+  bandsintown: "2209051"
   facebook: ""
   instagram: ""
   tiktok: ""

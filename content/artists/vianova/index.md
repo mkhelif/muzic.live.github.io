@@ -2,6 +2,7 @@
 id: "3285ac77-98af-4f0c-b9eb-c6990608a5f7"
 title: "vianova"
 socials:
+  bandsintown: "9800867"
   facebook: ""
   instagram: ""
   tiktok: ""

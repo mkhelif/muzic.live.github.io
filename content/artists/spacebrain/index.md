@@ -17,6 +17,8 @@ socials:
   deezer: ""
   qobuz: ""
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 Dans le paysage rock helvétique, Spacebrain trace depuis 2020 une trajectoire singulière, quelque part entre les grooves

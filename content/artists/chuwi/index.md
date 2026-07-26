@@ -3,6 +3,7 @@ id: "93bed9cd-d952-4bb2-b67c-8eb45cc67501"
 title: "Chuwi"
 type: band
 socials:
+  bandsintown: "5831289"
   facebook: ""
   instagram: ""
   tiktok: ""

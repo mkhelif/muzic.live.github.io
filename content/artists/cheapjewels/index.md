@@ -3,6 +3,7 @@ id: "143f1839-51bc-4f34-8c83-d165ed0d615d"
 title: "cheapjewels"
 type: unknown
 socials:
+  bandsintown: "15574091"
   facebook: ""
   instagram: ""
   tiktok: ""

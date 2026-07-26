@@ -104,6 +104,7 @@ members:
       - start: 1994
         end: 2022
 socials:
+  bandsintown: "31005"
   facebook: "officialdeeppurple"
   instagram: "deeppurple_official"
   x: "_DeepPurple"

@@ -2,6 +2,7 @@
 id: "a4d3877f-1a20-4e40-acab-9e230c028939"
 title: "Paraçek"
 socials:
+  bandsintown: "15645771"
   facebook: ""
   instagram: ""
   tiktok: ""

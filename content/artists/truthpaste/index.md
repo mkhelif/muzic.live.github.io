@@ -3,6 +3,7 @@ id: "f47c348c-c0ca-434f-95f1-12d1d002cc9d"
 title: "Truthpaste"
 type: band
 socials:
+  bandsintown: "15607852"
   facebook: ""
   instagram: ""
   tiktok: ""

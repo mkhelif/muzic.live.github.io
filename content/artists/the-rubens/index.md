@@ -3,6 +3,7 @@ id: "eff4cd71-af4e-4073-9dae-e5ad850ac933"
 title: "The Rubens"
 type: band
 socials:
+  bandsintown: "1507182"
   facebook: ""
   instagram: ""
   tiktok: ""

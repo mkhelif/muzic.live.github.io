@@ -2,6 +2,7 @@
 id: "9e91cf79-6696-418d-a78d-50d02d476671"
 title: "Rahill"
 socials:
+  bandsintown: "15511111"
   facebook: ""
   instagram: ""
   tiktok: ""

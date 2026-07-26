@@ -3,6 +3,7 @@ id: "e2dff7f8-a54f-47d1-b091-780279c55949"
 title: "ML"
 type: band
 socials:
+  bandsintown: "120485"
   facebook: ""
   instagram: ""
   tiktok: ""

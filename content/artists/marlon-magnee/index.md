@@ -3,6 +3,7 @@ id: "60690523-5519-43a1-b5da-75da833e2e8f"
 title: "Marlon Magnée"
 type: person
 socials:
+  bandsintown: "15621304"
   facebook: ""
   instagram: ""
   tiktok: ""

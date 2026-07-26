@@ -16,6 +16,7 @@ members:
     periods:
       - start: 2022
 socials:
+  bandsintown: "15530270"
   instagram: "lost_in_lona"
   tiktok: "@lost.in.lona"
   bandcamp: "lostinlona"

@@ -3,6 +3,7 @@ id: "ce586cd9-6a63-4e06-957a-317e2d65308b"
 title: "Doodseskader"
 type: band
 socials:
+  bandsintown: "15534426"
   facebook: ""
   instagram: ""
   tiktok: ""

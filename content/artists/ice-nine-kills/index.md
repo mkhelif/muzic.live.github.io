@@ -111,6 +111,7 @@ members:
       - start: 2018
         end: 2024
 socials:
+  bandsintown: "1610"
   facebook: "IceNineKills"
   instagram: "iceninekills"
   tiktok: "@iceninekills"

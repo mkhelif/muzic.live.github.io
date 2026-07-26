@@ -3,6 +3,7 @@ id: "2a402fcf-d742-406b-9cab-206c5d432f9e"
 title: "Luther"
 type: person
 socials:
+  bandsintown: "1828040"
   facebook: ""
   instagram: ""
   tiktok: ""

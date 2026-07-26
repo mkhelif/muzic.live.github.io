@@ -2,6 +2,7 @@
 id: "427995e4-069a-4c22-b4ac-775fd72a3019"
 title: "I Am The Avalanche"
 socials:
+  bandsintown: "2139"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "160b966a-c099-412a-a8c0-fa967986a188"
 title: "Romsii"
 type: person
 socials:
+  bandsintown: "15520673"
   facebook: ""
   instagram: ""
   tiktok: ""

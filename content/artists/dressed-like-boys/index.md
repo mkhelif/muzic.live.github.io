@@ -3,6 +3,7 @@ id: "6a8bc94a-6c70-4ee1-9ada-624fe6f0eb75"
 title: "Dressed Like Boys"
 type: band
 socials:
+  bandsintown: "15539503"
   facebook: ""
   instagram: ""
   tiktok: ""

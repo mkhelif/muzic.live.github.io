@@ -2,6 +2,7 @@
 id: "b8c6b5cf-10e4-479a-a219-7d5f42248bb8"
 title: "Fold"
 socials:
+  bandsintown: "46355"
   facebook: ""
   instagram: ""
   tiktok: ""

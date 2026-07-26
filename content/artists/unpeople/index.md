@@ -30,6 +30,7 @@ members:
     periods:
       - start: 2023
 socials:
+  bandsintown: "12826948"
   facebook: ""
   instagram: "weareunpeople"
   tiktok: ""

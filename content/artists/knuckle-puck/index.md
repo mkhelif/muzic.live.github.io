@@ -2,6 +2,7 @@
 id: "6866f307-b7ac-4d64-a01b-c94efe733e2b"
 title: "Knuckle Puck"
 socials:
+  bandsintown: "1812070"
   facebook: ""
   instagram: ""
   tiktok: ""

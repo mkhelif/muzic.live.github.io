@@ -2,6 +2,7 @@
 id: "e27f14c4-acb4-4a32-8d39-456cb84a8ba2"
 title: "Habstrakt"
 socials:
+  bandsintown: "1091904"
   facebook: ""
   instagram: ""
   tiktok: ""

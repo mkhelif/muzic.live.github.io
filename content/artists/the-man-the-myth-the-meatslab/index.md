@@ -3,6 +3,7 @@ id: "439fff50-27de-40fb-8528-d1e1771fc066"
 title: "The Man The Myth The Meatslab"
 type: person
 socials:
+  bandsintown: "15585219"
   facebook: ""
   instagram: ""
   tiktok: ""

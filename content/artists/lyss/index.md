@@ -2,6 +2,7 @@
 id: "c3074a11-bc81-4b7a-88ff-fa2e618a9818"
 title: "Lyss"
 socials:
+  bandsintown: "15578354"
   facebook: ""
   instagram: ""
   tiktok: ""

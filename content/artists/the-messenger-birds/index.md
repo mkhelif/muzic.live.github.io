@@ -3,6 +3,7 @@ id: "d1c4655d-6afe-42bc-b579-848eb2cbc92b"
 title: "The Messenger Birds"
 type: band
 socials:
+  bandsintown: "11175943"
   facebook: ""
   instagram: ""
   tiktok: ""

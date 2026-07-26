@@ -42,6 +42,7 @@ members:
     periods:
       - start: 2021
 socials:
+  bandsintown: "2980773"
   facebook: "shaarghot"
   instagram: "shaarghot_official"
   tiktok: "@shaarghot_official"

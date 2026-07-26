@@ -3,6 +3,7 @@ id: "b2d4468d-8748-4f6c-b209-22f17504aa7d"
 title: "Madeline Goldstein"
 type: person
 socials:
+  bandsintown: "15533669"
   facebook: ""
   instagram: ""
   tiktok: ""

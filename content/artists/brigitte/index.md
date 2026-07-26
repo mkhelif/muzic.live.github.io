@@ -3,6 +3,7 @@ id: "3f70af36-7e98-4284-833f-384c2ee6c055"
 title: "Brigitte"
 type: unknown
 socials:
+  bandsintown: "112791"
   facebook: ""
   instagram: ""
   tiktok: ""

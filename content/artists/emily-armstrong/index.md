@@ -3,6 +3,7 @@ id: "8c0bd75d-1cd5-4f9f-bfab-1eaf23b25261"
 title: "Emily Armstrong"
 type: person
 socials:
+  bandsintown: "3126506"
   facebook: ""
   instagram: ""
   tiktok: ""

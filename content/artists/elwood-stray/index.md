@@ -3,6 +3,7 @@ id: "d1526a9e-382b-4931-85c8-1fa6ada47e54"
 title: "Elwood Stray"
 type: band
 socials:
+  bandsintown: "13495575"
   facebook: ""
   instagram: ""
   tiktok: ""

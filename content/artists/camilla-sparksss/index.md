@@ -3,6 +3,7 @@ id: "c16e1d22-6897-40eb-89b4-8aace08a22f1"
 title: "Camilla Sparksss"
 type: band
 socials:
+  bandsintown: "4103956"
   facebook: ""
   instagram: ""
   tiktok: ""

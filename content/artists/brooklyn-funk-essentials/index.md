@@ -2,6 +2,7 @@
 id: "c06e1c8b-2b0a-452e-be39-b0362ada66e5"
 title: "Brooklyn Funk Essentials"
 socials:
+  bandsintown: "60473"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "54da1193-6890-4295-8f92-23decd23d7bc"
 title: "Decipher"
 socials:
+  bandsintown: "607603"
   facebook: ""
   instagram: ""
   tiktok: ""

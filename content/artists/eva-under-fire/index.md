@@ -3,6 +3,7 @@ id: "71830f68-ecff-4f16-b795-5b10552afe98"
 title: "Eva Under Fire"
 type: band
 socials:
+  bandsintown: "11764836"
   facebook: ""
   instagram: ""
   tiktok: ""

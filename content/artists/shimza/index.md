@@ -3,6 +3,7 @@ id: "555db18e-9795-4396-9408-4cb289e54114"
 title: "Shimza"
 type: person
 socials:
+  bandsintown: "5375019"
   facebook: ""
   instagram: ""
   tiktok: ""

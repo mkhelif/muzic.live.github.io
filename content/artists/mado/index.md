@@ -3,6 +3,7 @@ id: "534071f2-73bc-4c62-8074-2fecc410a90d"
 title: "Mado"
 type: person
 socials:
+  bandsintown: "2542022"
   facebook: ""
   instagram: ""
   tiktok: ""

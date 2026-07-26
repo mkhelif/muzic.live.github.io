@@ -3,6 +3,7 @@ id: "a2202d11-b932-4f6b-8136-5cbbf37740a1"
 title: "Poupie"
 type: person
 socials:
+  bandsintown: "15489526"
   facebook: ""
   instagram: ""
   tiktok: ""

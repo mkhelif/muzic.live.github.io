@@ -3,6 +3,7 @@ id: "3821b0db-e267-4702-b7c2-e64bf41584ea"
 title: "Hannah Diamond"
 type: person
 socials:
+  bandsintown: "8958586"
   facebook: ""
   instagram: ""
   tiktok: ""

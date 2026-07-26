@@ -3,6 +3,7 @@ id: "4dd79d16-af18-4931-bf15-b5061a3ad424"
 title: "Friction"
 type: unknown
 socials:
+  bandsintown: "49852"
   facebook: ""
   instagram: ""
   tiktok: ""

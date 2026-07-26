@@ -2,6 +2,7 @@
 id: "457160ca-aed9-481d-be7e-6b206a6e6592"
 title: "GOAT"
 socials:
+  bandsintown: "66191"
   facebook: ""
   instagram: ""
   tiktok: ""

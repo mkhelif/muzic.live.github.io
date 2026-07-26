@@ -3,6 +3,7 @@ id: "e86f8b7e-e00b-49dd-b693-7f78f0eca11e"
 title: "Cody Jinks"
 type: person
 socials:
+  bandsintown: "623094"
   facebook: ""
   instagram: ""
   tiktok: ""

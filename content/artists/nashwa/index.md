@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 Nashwa est un duo franco-marocain qui entrelace chants traditionnels et folklore marocain à une production électronique

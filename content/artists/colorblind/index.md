@@ -2,6 +2,7 @@
 id: "6e39fa26-a4bb-4f26-9452-31a56f0ac3d4"
 title: "Colorblind"
 socials:
+  bandsintown: "11805771"
   facebook: ""
   instagram: ""
   tiktok: ""

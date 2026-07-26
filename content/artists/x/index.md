@@ -2,6 +2,7 @@
 id: "3fc54523-97fa-4d4a-bbd1-eeeeda16db79"
 title: "X"
 socials:
+  bandsintown: "6534"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "972d2f0a-8f76-46e1-ae97-1a600d907b64"
 title: "MPL"
 type: band
 socials:
+  bandsintown: "14630903"
   facebook: ""
   instagram: ""
   tiktok: ""

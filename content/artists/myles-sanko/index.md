@@ -3,6 +3,7 @@ id: "8d90d872-f146-4dc2-bd29-360c1043fbb7"
 title: "Myles Sanko"
 type: person
 socials:
+  bandsintown: "699928"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "a00e4024-5ab0-43e2-843f-5fb3b36fe90b"
 title: "Cryptic Shift"
 type: band
 socials:
+  bandsintown: "1835795"
   facebook: ""
   instagram: ""
   tiktok: ""

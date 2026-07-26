@@ -2,6 +2,7 @@
 id: "6953292a-627b-4d3d-a38e-cdb2dda06d30"
 title: "The Ocean"
 socials:
+  bandsintown: "34832"
   facebook: ""
   instagram: ""
   tiktok: ""

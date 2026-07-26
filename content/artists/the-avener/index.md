@@ -3,6 +3,7 @@ id: "e178ab20-76de-4e0d-8997-d18bc5f54d86"
 title: "The Avener"
 type: person
 socials:
+  bandsintown: "8680922"
   facebook: "theavenermusic"
   instagram: "theavenermusic"
   x: "TheAvenerMusic"

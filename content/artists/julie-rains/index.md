@@ -3,6 +3,7 @@ id: "5d1894e9-a934-4586-9a85-669c48917fd4"
 title: "Julie Rains"
 type: person
 socials:
+  bandsintown: "1595323"
   facebook: ""
   instagram: ""
   tiktok: ""

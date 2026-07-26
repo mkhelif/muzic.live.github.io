@@ -3,6 +3,7 @@ id: "df73511e-2798-4de5-9688-a784a41536a5"
 title: "Patrick Watson"
 type: person
 socials:
+  bandsintown: "9436"
   facebook: ""
   instagram: ""
   tiktok: ""

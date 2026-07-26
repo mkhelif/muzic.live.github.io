@@ -3,6 +3,7 @@ id: "45bae539-2050-49bc-91c7-f20da14e585c"
 title: "Cancre"
 type: band
 socials:
+  bandsintown: "15596501"
   facebook: ""
   instagram: ""
   tiktok: ""

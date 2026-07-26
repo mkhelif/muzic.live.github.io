@@ -3,6 +3,7 @@ id: "e23f121a-75f9-4899-a13c-fbccbdf4bdeb"
 title: "Kirk Hammett"
 type: person
 socials:
+  bandsintown: "286167"
   facebook: ""
   instagram: ""
   tiktok: ""

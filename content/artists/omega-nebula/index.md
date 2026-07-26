@@ -3,6 +3,7 @@ id: "11140049-e9fd-4512-8c0d-50792ecd47a0"
 title: "Omega Nebula"
 type: band
 socials:
+  bandsintown: "15520171"
   facebook: ""
   instagram: ""
   tiktok: ""

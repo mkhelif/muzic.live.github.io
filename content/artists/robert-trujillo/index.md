@@ -3,6 +3,7 @@ id: "d760eae8-fb27-4ed7-a78e-cd8853bbfc02"
 title: "Robert Trujillo"
 type: person
 socials:
+  bandsintown: "15568128"
   facebook: ""
   instagram: ""
   tiktok: ""

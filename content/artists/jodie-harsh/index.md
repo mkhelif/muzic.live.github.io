@@ -2,6 +2,7 @@
 id: "89ac300e-81c7-4466-adef-a574533307c7"
 title: "Jodie Harsh"
 socials:
+  bandsintown: "213683"
   facebook: ""
   instagram: ""
   tiktok: ""

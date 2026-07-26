@@ -3,6 +3,7 @@ id: "71f16f15-13be-44c5-aa3a-0134d3819b0a"
 title: "Hot Chip"
 type: band
 socials:
+  bandsintown: "800"
   facebook: ""
   instagram: ""
   tiktok: ""

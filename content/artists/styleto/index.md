@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 Styleto est une auteure-compositrice-interprète française née le 15 mars 1998 à Lyon sous le nom de Laure Gonnet.

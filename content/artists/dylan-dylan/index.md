@@ -3,6 +3,7 @@ id: "3f567212-a724-47e8-b04f-42e06d807e64"
 title: "Dylan Dylan"
 type: person
 socials:
+  bandsintown: "15578255"
   facebook: "dylandylanmusic"
   instagram: "imdylandylan"
   tiktok: ""

@@ -3,6 +3,7 @@ id: "ae3e5fb1-2817-45ac-80b8-ecef98898a55"
 title: "Tracy De Sá"
 type: person
 socials:
+  bandsintown: "15484860"
   facebook: ""
   instagram: ""
   tiktok: ""

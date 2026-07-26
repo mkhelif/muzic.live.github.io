@@ -3,6 +3,7 @@ id: "30896a58-cbe1-472a-a595-ab6458bf9498"
 title: "Dragunov"
 type: unknown
 socials:
+  bandsintown: "3581017"
   facebook: ""
   instagram: ""
   tiktok: ""

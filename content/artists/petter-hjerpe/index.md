@@ -10,5 +10,6 @@ socials:
   youtube: ""
   spotify: "0zvrSzmPyywSIPWMF2Dvl1"
 lastUpdate:
+  bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
 ---

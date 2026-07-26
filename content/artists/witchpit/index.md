@@ -2,6 +2,7 @@
 id: "ef74f556-cb6d-4ea9-b745-a95e23868e11"
 title: "Witchpit"
 socials:
+  bandsintown: "15491748"
   facebook: ""
   instagram: ""
   tiktok: ""

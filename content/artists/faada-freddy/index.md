@@ -3,6 +3,7 @@ id: "3359f956-a55b-4b78-bf3e-a7c4d391ef9a"
 title: "Faada Freddy"
 type: person
 socials:
+  bandsintown: "3604531"
   facebook: "FaadaFreddyMusic"
   instagram: "faadafreddy"
   threads: "faadafreddy"

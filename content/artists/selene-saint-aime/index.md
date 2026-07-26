@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 Sélène Saint-Aimé est une contrebassiste et chanteuse de jazz française qui se définit elle-même comme «

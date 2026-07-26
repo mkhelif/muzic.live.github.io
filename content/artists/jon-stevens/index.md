@@ -3,6 +3,7 @@ id: "c5464c5b-6c54-44fe-b605-30a46d003056"
 title: "Jon Stevens"
 type: person
 socials:
+  bandsintown: "100660"
   facebook: ""
   instagram: ""
   tiktok: ""

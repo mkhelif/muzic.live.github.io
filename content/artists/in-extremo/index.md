@@ -3,6 +3,7 @@ id: "323fd7d9-c30a-47af-ba37-a492ace7e43e"
 title: "In Extremo"
 type: band
 socials:
+  bandsintown: "35552"
   facebook: ""
   instagram: ""
   tiktok: ""

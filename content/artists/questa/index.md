@@ -2,6 +2,7 @@
 id: "c66c9688-02b3-4179-a488-ba3261982625"
 title: "QUESTA"
 socials:
+  bandsintown: "15606977"
   facebook: ""
   instagram: ""
   tiktok: ""

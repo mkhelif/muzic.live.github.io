@@ -3,6 +3,7 @@ id: "a278b892-b4db-445d-8a93-c566bdbf266f"
 title: "Coroner"
 type: band
 socials:
+  bandsintown: "56648"
   facebook: ""
   instagram: ""
   tiktok: ""

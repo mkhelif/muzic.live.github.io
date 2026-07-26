@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 ElGrandeToto, de son vrai nom Taha Fahssi, est un rappeur marocain né le 3 août 1996 à Casablanca. Issu d'une famille

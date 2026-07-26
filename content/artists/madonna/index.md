@@ -3,6 +3,7 @@ id: "3ae36316-c909-43cd-b5dc-78c9abcc3684"
 title: "Madonna"
 type: person
 socials:
+  bandsintown: "205"
   facebook: ""
   instagram: "madonna"
   x: ""

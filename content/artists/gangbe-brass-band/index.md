@@ -2,6 +2,7 @@
 id: "26fd2cae-1456-4c68-841c-0b10be86a74c"
 title: "Gangbé Brass Band"
 socials:
+  bandsintown: "47735"
   facebook: ""
   instagram: ""
   tiktok: ""

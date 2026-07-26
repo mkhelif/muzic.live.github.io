@@ -3,6 +3,7 @@ id: "41e89fdf-34e2-44b3-bd84-bbffee6be42c"
 title: "Moby"
 type: person
 socials:
+  bandsintown: "807"
   facebook: "mobymusic"
   instagram: "moby"
   tiktok: "@moby"

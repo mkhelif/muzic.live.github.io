@@ -3,6 +3,7 @@ id: "51436830-d36e-461d-85f1-b1145fec0cf7"
 title: "Manudigital"
 type: person
 socials:
+  bandsintown: "6938238"
   facebook: "manudigital"
   instagram: "manudigital"
   x: "MANUDIGITAL"

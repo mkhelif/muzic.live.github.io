@@ -3,6 +3,7 @@ id: "9f1cbc06-e7c2-43ea-8a89-4eb6cf7e25e3"
 title: "Sinsaenum"
 type: band
 socials:
+  bandsintown: "13535178"
   facebook: ""
   instagram: ""
   tiktok: ""

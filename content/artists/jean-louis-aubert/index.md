@@ -3,6 +3,7 @@ id: "2b370e29-6a9e-4dfa-968b-49b2a1ebfa90"
 title: "Jean-Louis Aubert"
 type: unknown
 socials:
+  bandsintown: "69729"
   facebook: ""
   instagram: ""
   tiktok: ""

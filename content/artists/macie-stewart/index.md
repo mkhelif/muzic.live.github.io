@@ -3,6 +3,7 @@ id: "aab89568-93ec-4fab-add1-392ff5e6edec"
 title: "Macie Stewart"
 type: person
 socials:
+  bandsintown: "4973106"
   facebook: "Maciestewartmusic"
   instagram: "maciestewart"
   threads: "@maciestewart"

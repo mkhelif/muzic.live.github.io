@@ -2,6 +2,7 @@
 id: "9d067813-1044-4c36-a17a-1c3eded3a71a"
 title: "Sebastian Bach"
 socials:
+  bandsintown: "1935"
   facebook: ""
   instagram: ""
   tiktok: ""

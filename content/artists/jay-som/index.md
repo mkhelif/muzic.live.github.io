@@ -2,6 +2,7 @@
 id: "41ca1d36-fb42-4a64-85dd-85f2f0cbb3b0"
 title: "Jay Som"
 socials:
+  bandsintown: "7655227"
   facebook: ""
   instagram: ""
   tiktok: ""

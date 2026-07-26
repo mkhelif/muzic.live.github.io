@@ -3,6 +3,7 @@ id: "92c26753-b7cc-4a97-8b19-016ecce37a41"
 title: "Younger Spirit"
 type: unknown
 socials:
+  bandsintown: "15592224"
   facebook: "p/Younger-Spirit-100093313843003/"
   instagram: "younger.spirit"
   tiktok: "@younger.spirit"

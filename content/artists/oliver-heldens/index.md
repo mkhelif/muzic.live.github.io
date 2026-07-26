@@ -3,6 +3,7 @@ id: "147c31d3-41f8-4529-82e9-4c017e35ae99"
 title: "Oliver Heldens"
 type: person
 socials:
+  bandsintown: "6605639"
   facebook: ""
   instagram: ""
   tiktok: ""

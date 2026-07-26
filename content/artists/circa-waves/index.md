@@ -3,6 +3,7 @@ id: "0c214178-2807-4b34-b766-80803cc12027"
 title: "Circa Waves"
 type: band
 socials:
+  bandsintown: "7605363"
   facebook: ""
   instagram: ""
   tiktok: ""

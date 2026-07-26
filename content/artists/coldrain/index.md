@@ -3,6 +3,7 @@ id: "732431c8-d60d-45b0-b033-c04fc828f83a"
 title: "coldrain"
 type: band
 socials:
+  bandsintown: "1167455"
   facebook: ""
   instagram: ""
   tiktok: ""

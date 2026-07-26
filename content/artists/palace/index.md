@@ -35,6 +35,7 @@ members:
       - start: 2012
         end: 2017
 socials:
+  bandsintown: "205217"
   facebook: "wearepalace"
   instagram: "wearepalace"
   tiktok: "@wearepalace"

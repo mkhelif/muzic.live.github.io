@@ -3,6 +3,7 @@ id: "ee857d5f-49c9-4fd2-84ea-fcb700f72fc4"
 title: "Def Leppard"
 type: band
 socials:
+  bandsintown: "528"
   facebook: ""
   instagram: ""
   tiktok: ""

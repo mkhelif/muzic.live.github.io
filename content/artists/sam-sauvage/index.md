@@ -3,6 +3,7 @@ id: "0ea8520b-371e-4eda-b1ed-243e366d24a1"
 title: "Sam Sauvage"
 type: person
 socials:
+  bandsintown: "13536237"
   facebook: "SamSauvageOff"
   instagram: "samsauvageoff"
   tiktok: ""

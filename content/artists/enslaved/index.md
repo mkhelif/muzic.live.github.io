@@ -3,6 +3,7 @@ id: "ad9299c3-b67b-4ed6-b40d-6f7af40a9ef2"
 title: "Enslaved"
 type: band
 socials:
+  bandsintown: "6220"
   facebook: ""
   instagram: ""
   tiktok: ""

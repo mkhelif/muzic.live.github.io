@@ -3,6 +3,7 @@ id: "0ff81bbe-8e30-4c25-a306-8d442d17cd36"
 title: "Mokado"
 type: person
 socials:
+  bandsintown: "11365229"
   facebook: ""
   instagram: ""
   tiktok: ""

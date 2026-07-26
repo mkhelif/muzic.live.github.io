@@ -3,6 +3,7 @@ id: "1d933d20-9bce-42a5-a0cc-bc8dc40137e3"
 title: "Brian Marshall"
 type: person
 socials:
+  bandsintown: "770369"
   facebook: ""
   instagram: "bmarshall73"
   tiktok: ""

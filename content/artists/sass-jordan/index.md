@@ -2,6 +2,7 @@
 id: "0267afbd-7f5b-41f1-a2a7-1942c93fc427"
 title: "Sass Jordan"
 socials:
+  bandsintown: "34435"
   facebook: ""
   instagram: ""
   tiktok: ""

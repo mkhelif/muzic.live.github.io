@@ -3,6 +3,7 @@ id: "1528aa21-2495-421a-aaec-65c7db731538"
 title: "Beth Hart"
 type: person
 socials:
+  bandsintown: "6636"
   facebook: ""
   instagram: ""
   tiktok: ""

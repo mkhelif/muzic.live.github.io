@@ -3,6 +3,7 @@ id: "0f8dd630-bd51-4cfd-93c8-6610b96075dd"
 title: "The Pirouettes"
 type: band
 socials:
+  bandsintown: "1439531"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "9721d225-195c-4536-b16b-67dbcf10384f"
 title: "Julia Sandstorm"
 socials:
+  bandsintown: "15538472"
   facebook: ""
   instagram: ""
   tiktok: ""

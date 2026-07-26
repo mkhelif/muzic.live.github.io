@@ -36,6 +36,7 @@ members:
     periods:
       - start: 2015
 socials:
+  bandsintown: "11363648"
   facebook: "haevnmusic"
   instagram: "haevnmusic"
   threads: "haevnmusic"

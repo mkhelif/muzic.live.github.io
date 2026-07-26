@@ -3,6 +3,7 @@ id: "62a08581-9180-45c2-a7f4-d579d98720a8"
 title: "Calumny"
 type: band
 socials:
+  bandsintown: "15383305"
   facebook: ""
   instagram: ""
   tiktok: ""

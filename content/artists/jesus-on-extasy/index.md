@@ -3,6 +3,7 @@ id: "10901293-fb52-41bd-94a3-d555906e58a2"
 title: "Jesus on Extasy"
 type: band
 socials:
+  bandsintown: "31760"
   facebook: ""
   instagram: ""
   tiktok: ""

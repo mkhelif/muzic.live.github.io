@@ -25,6 +25,7 @@ members:
       - start: 2019
         end: 2021
 socials:
+  bandsintown: "15482509"
   facebook: "pinkshiftmd"
   instagram: "pinkshiftmd"
   tiktok: "@pinkshiftmd"

@@ -3,6 +3,7 @@ id: "d2754eb9-8425-48a5-94fb-c947cbcb62a5"
 title: "Giorgio Moroder"
 type: person
 socials:
+  bandsintown: "34506"
   facebook: ""
   instagram: ""
   tiktok: ""

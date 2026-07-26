@@ -2,6 +2,7 @@
 id: "5ff3ff72-55ec-4df9-9ef2-6ec936eb5b23"
 title: "Circadian"
 socials:
+  bandsintown: "648313"
   facebook: ""
   instagram: ""
   tiktok: ""

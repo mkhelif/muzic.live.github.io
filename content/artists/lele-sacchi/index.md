@@ -2,6 +2,7 @@
 id: "c9839854-ffbe-4cb7-ace2-08c8218bc4e0"
 title: "Lele Sacchi"
 socials:
+  bandsintown: "806379"
   facebook: ""
   instagram: ""
   tiktok: ""

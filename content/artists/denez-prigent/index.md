@@ -2,6 +2,7 @@
 id: "8759497f-4e40-4415-a3fd-e92ae7d6a2a6"
 title: "Denez Prigent"
 socials:
+  bandsintown: "248918"
   facebook: ""
   instagram: ""
   tiktok: ""

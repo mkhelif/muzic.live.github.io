@@ -16,6 +16,7 @@ members:
     periods:
       - start: 2019
 socials:
+  bandsintown: "12021527"
   facebook: "ladanivayaman"
   instagram: "ladaniva.ladaniva"
   tiktok: "@ladaniva.ladaniva"

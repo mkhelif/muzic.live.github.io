@@ -2,6 +2,7 @@
 id: "7c21c485-ab54-42a9-9fd7-31f5678341fa"
 title: "Hope as a Weapon"
 socials:
+  bandsintown: "15645398"
   facebook: ""
   instagram: ""
   tiktok: ""

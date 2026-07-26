@@ -2,6 +2,7 @@
 id: "c73c443d-cd36-4e13-abff-6b9ab8b3b630"
 title: "Mary J. Blige"
 socials:
+  bandsintown: "84"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "e9931215-400e-4b63-9ed7-25bb57e207e5"
 title: "Obscura"
 type: band
 socials:
+  bandsintown: "210819"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -19,6 +19,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 Pauline Thisse, connue sous le nom de scène Linh, est une auteure-compositrice-interprète française née le 5 juillet

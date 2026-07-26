@@ -3,6 +3,7 @@ id: "b1648283-dbf1-4526-8e79-f1fd40a849dd"
 title: "Moïra"
 type: unknown
 socials:
+  bandsintown: "359283"
   facebook: ""
   instagram: ""
   web: ""

@@ -3,6 +3,7 @@ id: "d77ce6f2-bc08-458b-a459-a2a3bff72ed7"
 title: "Léman"
 type: person
 socials:
+  bandsintown: "1931114"
   facebook: ""
   instagram: ""
   tiktok: ""

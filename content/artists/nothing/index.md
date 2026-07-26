@@ -2,6 +2,7 @@
 id: "b66a622e-d316-4c1c-9c74-f373d048d5bc"
 title: "Nothing"
 socials:
+  bandsintown: "21652"
   facebook: ""
   instagram: ""
   tiktok: ""

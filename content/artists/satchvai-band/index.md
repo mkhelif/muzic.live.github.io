@@ -3,6 +3,7 @@ id: "eba52f68-86ef-4673-ab48-9075d93d9704"
 title: "SatchVai Band"
 type: band
 socials:
+  bandsintown: "15642887"
   web: "https://www.satchvaiband.com/"
   facebook: ""
   instagram: ""

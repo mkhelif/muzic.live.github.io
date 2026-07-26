@@ -45,6 +45,7 @@ members:
       - start: 2012
         end: 2023
 socials:
+  bandsintown: "1666918"
   facebook: "brothersofmetalofficial"
   instagram: "brothersofmetalofficial"
   threads: "@brothersofmetalofficial"

@@ -2,6 +2,7 @@
 id: "e608da76-f9d8-42ef-9804-e79291e24c92"
 title: "Day We Ran"
 socials:
+  bandsintown: "15551197"
   facebook: ""
   instagram: ""
   tiktok: ""

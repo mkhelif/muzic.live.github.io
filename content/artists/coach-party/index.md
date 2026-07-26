@@ -3,6 +3,7 @@ id: "32ef0a15-78ac-43bb-841a-c7ca76ab51ec"
 title: "Coach Party"
 type: band
 socials:
+  bandsintown: "281026"
   facebook: ""
   instagram: ""
   tiktok: ""

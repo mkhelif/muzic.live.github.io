@@ -14,6 +14,7 @@ members:
     periods:
       - start: 2013
 socials:
+  bandsintown: "9401974"
   facebook: "sorgandnapoleonmaddox"
   instagram: "sorgmusic"
   threads: "@sorgmusic"

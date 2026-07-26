@@ -3,6 +3,7 @@ id: "77818978-0701-4cc4-a0b9-445e1cf23ba7"
 title: "Pantera"
 type: band
 socials:
+  bandsintown: "273"
   facebook: ""
   instagram: ""
   tiktok: ""

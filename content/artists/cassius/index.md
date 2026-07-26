@@ -3,6 +3,7 @@ id: "2fa699c8-4989-4cdf-a0f7-0c6425a74195"
 title: "Cassius"
 type: band
 socials:
+  bandsintown: "2470"
   instagram: "cassius"
   facebook: ""
   tiktok: ""

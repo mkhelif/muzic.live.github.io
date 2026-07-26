@@ -2,6 +2,7 @@
 id: "e012768f-87f9-4a32-859a-912fbcae171b"
 title: "John Craigie"
 socials:
+  bandsintown: "388793"
   facebook: ""
   instagram: ""
   tiktok: ""

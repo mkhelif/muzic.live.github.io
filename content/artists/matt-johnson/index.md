@@ -3,6 +3,7 @@ id: "d9e75804-8667-4dfb-92ae-e67c4439bddd"
 title: "Matt Johnson"
 type: person
 socials:
+  bandsintown: "539941"
   facebook: ""
   instagram: ""
   tiktok: ""

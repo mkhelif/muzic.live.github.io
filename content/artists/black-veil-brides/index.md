@@ -3,6 +3,7 @@ id: "516cd396-e51f-43da-892a-fdaf1f19cb60"
 title: "Black Veil Brides"
 type: band
 socials:
+  bandsintown: "342888"
   facebook: ""
   instagram: ""
   tiktok: ""

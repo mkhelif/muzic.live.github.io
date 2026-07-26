@@ -3,6 +3,7 @@ id: "75fd22ae-49c9-4aa9-a37c-39195767e6b4"
 title: "Kalash"
 type: person
 socials:
+  bandsintown: "364354"
   instagram: "kalash"
   facebook: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "67644da8-75c5-446c-804e-43cb94ee2c20"
 title: "Robyn"
 type: person
 socials:
+  bandsintown: "7928"
   facebook: ""
   instagram: ""
   tiktok: ""

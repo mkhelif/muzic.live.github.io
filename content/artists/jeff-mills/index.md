@@ -3,6 +3,7 @@ id: "f1d76637-b515-4fb7-9444-799323785229"
 title: "Jeff Mills"
 type: person
 socials:
+  bandsintown: "27016"
   facebook: ""
   instagram: ""
   tiktok: ""

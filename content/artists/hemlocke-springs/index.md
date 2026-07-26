@@ -3,6 +3,7 @@ id: "0611bf62-2898-4399-9fbe-43c664ac5def"
 title: "Hemlocke Springs"
 type: person
 socials:
+  bandsintown: "15518713"
   facebook: ""
   instagram: ""
   tiktok: ""

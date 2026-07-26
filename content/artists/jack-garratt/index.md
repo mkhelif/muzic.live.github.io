@@ -3,6 +3,7 @@ id: "d6fee066-9655-473f-9364-1e4bcfafa932"
 title: "Jack Garratt"
 type: person
 socials:
+  bandsintown: "944531"
   facebook: ""
   instagram: ""
   tiktok: ""

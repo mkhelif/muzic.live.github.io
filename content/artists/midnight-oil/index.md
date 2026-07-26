@@ -3,6 +3,7 @@ id: "e0dab775-9ec5-48ee-bcaa-b5010717acb1"
 title: "Midnight Oil"
 type: band
 socials:
+  bandsintown: "16082"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "a3064c8d-d24c-4d36-9423-9cb8c53fdc43"
 title: "Her"
 type: person
 socials:
+  bandsintown: "167297"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "78b48ac3-4ed5-4561-b5f5-3640b919074a"
 title: "Walter Beasley"
 socials:
+  bandsintown: "48032"
   facebook: ""
   instagram: ""
   tiktok: ""

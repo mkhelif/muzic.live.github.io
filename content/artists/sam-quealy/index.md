@@ -3,6 +3,7 @@ id: "e9703786-3553-4925-8b0c-9b8c5401d445"
 title: "Sam Quealy"
 type: person
 socials:
+  bandsintown: "15522465"
   facebook: "profile.php?id=100069181204638"
   instagram: "samquealy"
   tiktok: "@samquealy"

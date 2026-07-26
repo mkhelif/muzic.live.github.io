@@ -3,6 +3,7 @@ id: "1a25c9c0-a208-4414-b44a-dda29feb84b1"
 title: "President"
 type: band
 socials:
+  bandsintown: "169961"
   facebook: ""
   instagram: "presidentband"
   tiktok: ""

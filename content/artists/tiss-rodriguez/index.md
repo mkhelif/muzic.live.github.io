@@ -3,6 +3,7 @@ id: "b369eca0-538a-4d8c-a038-28a62019e581"
 title: "Tiss Rodriguez"
 type: person
 socials:
+  bandsintown: "2509580"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "3258eae7-908e-41e1-904c-987a42e60d0b"
 title: "Phantom Planet"
 socials:
+  bandsintown: "838"
   facebook: ""
   instagram: ""
   tiktok: ""

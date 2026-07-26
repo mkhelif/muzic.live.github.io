@@ -3,6 +3,7 @@ id: "27d45ebd-ea21-4935-a4cd-3eec505eca18"
 title: "Laetitia Shériff"
 type: person
 socials:
+  bandsintown: "166312"
   facebook: ""
   instagram: ""
   tiktok: ""

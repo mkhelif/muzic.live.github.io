@@ -16,4 +16,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---

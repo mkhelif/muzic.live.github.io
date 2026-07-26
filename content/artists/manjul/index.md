@@ -3,6 +3,7 @@ id: "543692ac-cf42-48ce-89ca-a750697819b4"
 title: "Manjul"
 type: person
 socials:
+  bandsintown: "174866"
   facebook: ""
   instagram: ""
   tiktok: ""

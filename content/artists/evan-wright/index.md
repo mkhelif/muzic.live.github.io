@@ -2,6 +2,7 @@
 id: "6a68517f-3564-49e3-8062-560057893817"
 title: "Evan Wright"
 socials:
+  bandsintown: "4204907"
   facebook: ""
   instagram: ""
   tiktok: ""

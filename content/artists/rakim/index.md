@@ -3,6 +3,7 @@ id: "5427c89a-0f17-4bcc-b368-cbbcad75fb3b"
 title: "Rakim"
 type: person
 socials:
+  bandsintown: "26237"
   facebook: ""
   instagram: ""
   tiktok: ""

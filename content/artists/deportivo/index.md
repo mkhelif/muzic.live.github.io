@@ -38,6 +38,7 @@ members:
 aliases:
   - "Deportivo"
 socials:
+  bandsintown: "69730"
   facebook: "deportivomusic"
   instagram: "deportivoofficiel"
   youtube: "@dēportivoRock"

@@ -2,6 +2,7 @@
 id: "20a838a6-245d-46c8-bbb0-5dfd525c5dce"
 title: "Lexa Gates"
 socials:
+  bandsintown: "15548903"
   facebook: ""
   instagram: ""
   tiktok: ""

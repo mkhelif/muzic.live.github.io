@@ -3,6 +3,7 @@ id: "d996ca19-d866-4177-9978-09f96291696c"
 title: "Johnny Mafia"
 type: band
 socials:
+  bandsintown: "2407833"
   facebook: "johnnymafiagroupe"
   instagram: "johnnymafiasens"
   x: "JohnnyMafia1"

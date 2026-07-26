@@ -3,6 +3,7 @@ id: "98be6fd6-ded9-4867-8a94-87042b18302c"
 title: "Tony Campos"
 type: person
 socials:
+  bandsintown: "1119821"
   facebook: ""
   instagram: ""
   tiktok: ""

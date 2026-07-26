@@ -32,6 +32,7 @@ members:
     periods:
       - start: 2012
 socials:
+  bandsintown: "2108766"
   facebook: "fabuloussheep"
   instagram: "fabuloussheepband"
   youtube: "@fabuloussheep"

@@ -46,6 +46,7 @@ members:
     periods:
       - start: 2024
 socials:
+  bandsintown: "32"
   facebook: "linkinpark"
   instagram: "linkinpark"
   tiktok: "@linkinpark"

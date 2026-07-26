@@ -2,6 +2,7 @@
 id: "43c56686-0c22-4714-8468-46934aa6f74e"
 title: "Jean-Paul Groove"
 socials:
+  bandsintown: "15497216"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "5b347b4d-07f6-4009-ba57-dd94f9808dab"
 title: "Imminence"
 type: band
 socials:
+  bandsintown: "1637405"
   facebook: ""
   instagram: ""
   tiktok: ""

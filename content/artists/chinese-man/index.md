@@ -19,6 +19,7 @@ members:
     periods:
       - start: 2004
 socials:
+  bandsintown: "221418"
   facebook: "chineseman"
   instagram: "chinesemanmusic"
   tiktok: "@chinesemanmusic"

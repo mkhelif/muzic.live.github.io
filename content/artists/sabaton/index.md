@@ -37,6 +37,7 @@ members:
       - start: 2016
         end: 2024
 socials:
+  bandsintown: "20303"
   facebook: "sabaton"
   instagram: "sabatonofficial"
   tiktok: "@sabatonofficial"

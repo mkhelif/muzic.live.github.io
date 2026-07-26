@@ -3,6 +3,7 @@ id: "b3c2be2a-608a-4c1b-9ef9-8868ab85f3f0"
 title: "Liniker"
 type: person
 socials:
+  bandsintown: "12706733"
   facebook: ""
   instagram: ""
   tiktok: ""

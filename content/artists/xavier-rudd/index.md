@@ -3,6 +3,7 @@ id: "0be79706-ed1e-4a08-ae29-6037112323b2"
 title: "Xavier Rudd"
 type: person
 socials:
+  bandsintown: "2240"
   facebook: "XavierRuddOfficial"
   instagram: "xavierruddofficial"
   x: "xavierrudd"

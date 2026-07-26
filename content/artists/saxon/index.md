@@ -88,6 +88,7 @@ members:
       - start: 2004
         end: 2005
 socials:
+  bandsintown: "30806"
   facebook: "SaxonOfficial"
   instagram: "saxon.official"
   x: "SaxonOfficial"

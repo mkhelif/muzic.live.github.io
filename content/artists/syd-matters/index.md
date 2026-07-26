@@ -3,6 +3,7 @@ id: "cd42db45-383b-4d25-8775-8a3c665660b6"
 title: "Syd Matters"
 type: band
 socials:
+  bandsintown: "8404"
   facebook: ""
   instagram: ""
   tiktok: ""

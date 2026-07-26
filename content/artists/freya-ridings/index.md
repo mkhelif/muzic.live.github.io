@@ -2,6 +2,7 @@
 id: "5e1f901a-e74f-4f2f-80d1-18047a1090b6"
 title: "Freya Ridings"
 socials:
+  bandsintown: "1981166"
   facebook: ""
   instagram: ""
   tiktok: ""

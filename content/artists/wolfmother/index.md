@@ -31,6 +31,7 @@ members:
     periods:
       - start: 2024
 socials:
+  bandsintown: "238"
   facebook: "wolfmother"
   instagram: "officialwolfmother"
   x: "wolfmother"

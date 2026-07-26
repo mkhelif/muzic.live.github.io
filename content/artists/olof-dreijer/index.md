@@ -2,6 +2,7 @@
 id: "b1a52e9f-a0f5-47f9-9f9f-4a23135f3a9c"
 title: "Olof Dreijer"
 socials:
+  bandsintown: "1286727"
   facebook: ""
   instagram: ""
   tiktok: ""

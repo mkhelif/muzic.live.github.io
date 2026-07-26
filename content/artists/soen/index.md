@@ -58,6 +58,7 @@ members:
       - start: 2010
         end: 2013
 socials:
+  bandsintown: "1887141"
   facebook: "SoenMusic"
   instagram: "soenmusic"
   youtube: "@SoenOfficial"

@@ -2,6 +2,7 @@
 id: "575872f1-7ada-4288-b07c-33d909666908"
 title: "Tom Meighan"
 socials:
+  bandsintown: "1103626"
   facebook: ""
   instagram: ""
   tiktok: ""

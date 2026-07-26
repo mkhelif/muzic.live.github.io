@@ -2,6 +2,7 @@
 id: "9adc4e2a-cf6d-4816-ba21-011306dc2d5e"
 title: "Jeanne Cherhal"
 socials:
+  bandsintown: "69733"
   facebook: ""
   instagram: ""
   tiktok: ""

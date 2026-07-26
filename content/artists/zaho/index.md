@@ -3,6 +3,7 @@ id: "79bd4635-8315-40e1-b83f-a1b75acff303"
 title: "Zaho"
 type: person
 socials:
+  bandsintown: "269400"
   facebook: ""
   instagram: ""
   tiktok: ""

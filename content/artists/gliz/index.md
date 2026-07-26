@@ -3,6 +3,7 @@ id: "e0b2e729-1d43-45f6-a9ef-6fc7397750c5"
 title: "Gliz"
 type: band
 socials:
+  bandsintown: "2966785"
   facebook: "gliiizzz"
   instagram: "_gliz_"
   soundcloud: "gliz-2"

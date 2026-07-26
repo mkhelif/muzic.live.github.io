@@ -2,6 +2,7 @@
 id: "3031e965-dc4d-474f-b36d-19f4799cb135"
 title: "Marqueal Jordan"
 socials:
+  bandsintown: "6657335"
   facebook: ""
   instagram: ""
   tiktok: ""

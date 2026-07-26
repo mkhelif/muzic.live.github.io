@@ -3,6 +3,7 @@ id: "f7b28fa7-f937-4e96-b28b-989b3849506c"
 title: "Venus"
 type: band
 socials:
+  bandsintown: "13603"
   facebook: ""
   instagram: ""
   tiktok: ""

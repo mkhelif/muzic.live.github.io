@@ -3,6 +3,7 @@ id: "5302a621-fccf-4dce-94aa-0d87f2a5bbaa"
 title: "Kangding Ray"
 type: person
 socials:
+  bandsintown: "201975"
   facebook: ""
   instagram: ""
   tiktok: ""

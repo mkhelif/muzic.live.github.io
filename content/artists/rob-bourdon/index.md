@@ -3,6 +3,7 @@ id: "752075d7-7eb2-4537-9d79-4a021de397ff"
 title: "Rob Bourdon"
 type: person
 socials:
+  bandsintown: "598878"
   facebook: ""
   instagram: ""
   tiktok: ""

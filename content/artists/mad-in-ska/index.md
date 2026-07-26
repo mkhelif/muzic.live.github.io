@@ -3,6 +3,7 @@ id: "eb7b5954-56ad-434d-b6d7-1bec4bf7483b"
 title: "Mad in Ska"
 type: band
 socials:
+  bandsintown: "1397787"
   facebook: "p/MAD-IN-SKA-100029087423540"
   instagram: "mad_in_ska"
   x: "madinska"

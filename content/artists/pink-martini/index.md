@@ -2,6 +2,7 @@
 id: "ccebf42f-94bb-4013-b2f2-81edea4b09d6"
 title: "Pink Martini"
 socials:
+  bandsintown: "4364"
   facebook: ""
   instagram: ""
   tiktok: ""

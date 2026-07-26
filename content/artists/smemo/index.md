@@ -3,6 +3,7 @@ id: "90593fe6-e58e-47b9-8cbe-d1be185529e9"
 title: "Smemo"
 type: unknown
 socials:
+  bandsintown: "14464672"
   facebook: ""
   instagram: ""
   tiktok: ""

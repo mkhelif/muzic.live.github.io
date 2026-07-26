@@ -3,6 +3,7 @@ id: "578b9f77-f480-47e8-ac0b-a67bc0b921fc"
 title: "Tagada Jones"
 type: band
 socials:
+  bandsintown: "40518"
   facebook: ""
   instagram: ""
   tiktok: ""

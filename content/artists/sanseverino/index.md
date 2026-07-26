@@ -3,6 +3,7 @@ id: "7ac8e9d9-d8fc-412c-9e31-a8e945de605b"
 title: "Sanseverino"
 type: person
 socials:
+  bandsintown: "46179"
   facebook: ""
   instagram: ""
   tiktok: ""

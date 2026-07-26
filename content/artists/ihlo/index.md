@@ -2,6 +2,7 @@
 id: "a6661c30-82e8-423e-aec8-44135b11d35b"
 title: "Ihlo"
 socials:
+  bandsintown: "15384387"
   facebook: ""
   instagram: ""
   tiktok: ""

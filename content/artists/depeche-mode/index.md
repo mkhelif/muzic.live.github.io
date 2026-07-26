@@ -3,6 +3,7 @@ id: "d99b3677-95a6-49d7-8fdd-bde815ee6350"
 title: "Depeche Mode"
 type: band
 socials:
+  bandsintown: "346"
   facebook: ""
   instagram: ""
   tiktok: ""

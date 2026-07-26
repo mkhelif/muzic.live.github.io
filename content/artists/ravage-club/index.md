@@ -3,6 +3,7 @@ id: "6330d295-3a09-4bff-96ff-4273424eb493"
 title: "Ravage Club"
 type: band
 socials:
+  bandsintown: "15656897"
   facebook: ""
   instagram: ""
   tiktok: ""

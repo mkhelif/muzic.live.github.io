@@ -3,6 +3,7 @@ id: "37865937-d689-4a01-a69f-a1225ece455e"
 title: "Slift"
 type: band
 socials:
+  bandsintown: "12634920"
   facebook: ""
   instagram: ""
   tiktok: ""

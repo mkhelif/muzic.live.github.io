@@ -3,6 +3,7 @@ id: "19fd49d3-dde3-4528-8082-ec4e77ac46b0"
 title: "Chris Isaak"
 type: person
 socials:
+  bandsintown: "1471"
   facebook: "chrisisaak"
   instagram: "chrisisaak"
   tiktok: "@chrisisaak"

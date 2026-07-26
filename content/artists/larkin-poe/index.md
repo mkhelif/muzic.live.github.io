@@ -15,6 +15,7 @@ members:
     periods:
       - start: 2010
 socials:
+  bandsintown: "937435"
   facebook: "larkinpoe"
   instagram: "larkinpoe"
   tiktok: "@larkinpoe"

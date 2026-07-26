@@ -3,6 +3,7 @@ id: "6c673cb2-f662-457c-9e2d-e603e35ed2b3"
 title: "La Ruda"
 type: band
 socials:
+  bandsintown: "10785"
   facebook: ""
   instagram: ""
   tiktok: ""

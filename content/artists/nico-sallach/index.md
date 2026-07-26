@@ -22,6 +22,8 @@ socials:
   tidal: ""
 todo:
   - Add socials
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 **Nico Sallach** est un chanteur allemand reconnu pour sa voix mélodique, son énergie scénique et sa capacité à

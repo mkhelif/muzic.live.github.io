@@ -3,6 +3,7 @@ id: "cee41b31-c8de-438b-b547-340d96608f8a"
 title: "Marlene Larsen"
 type: person
 socials:
+  bandsintown: "15530620"
   facebook: ""
   instagram: ""
   tiktok: ""

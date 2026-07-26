@@ -19,6 +19,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 La Groovista est un groupe belge de six chanteuses percussionnistes qui partagent sur scène leur énergie, leur folie et

@@ -2,6 +2,7 @@
 id: "a7dbb624-7835-48af-95e9-a68ff40dd298"
 title: "Kami Kehoe"
 socials:
+  bandsintown: "15538140"
   facebook: ""
   instagram: ""
   tiktok: ""

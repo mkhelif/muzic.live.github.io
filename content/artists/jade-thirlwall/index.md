@@ -3,6 +3,7 @@ id: "97ce0e46-fc6f-4938-9705-8ef504669179"
 title: "JADE"
 type: unknown
 socials:
+  bandsintown: "2358258"
   facebook: ""
   instagram: ""
   tiktok: ""

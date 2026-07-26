@@ -5,6 +5,7 @@ type: person
 aliases:
   - "Matt Pokora"
 socials:
+  bandsintown: "445096"
   facebook: "MPokora"
   instagram: "mattpokora"
   x: "mpokora"

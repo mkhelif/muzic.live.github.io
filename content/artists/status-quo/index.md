@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 Status Quo représente l'une des institutions les plus durables et respectées du rock britannique, incarnant depuis plus

@@ -2,6 +2,7 @@
 id: "dba5a586-962d-4b50-90d2-ac333317bddc"
 title: "Luicidal"
 socials:
+  bandsintown: "1016652"
   facebook: ""
   instagram: ""
   tiktok: ""

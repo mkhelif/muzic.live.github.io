@@ -3,6 +3,7 @@ id: "dbc6baeb-ebd4-4f75-95d4-33530555516b"
 title: "Die Antwoord"
 type: band
 socials:
+  bandsintown: "693760"
   facebook: ""
   instagram: ""
   tiktok: ""

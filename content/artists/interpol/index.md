@@ -43,6 +43,7 @@ members:
     periods:
       - start: 2026
 socials:
+  bandsintown: "744"
   facebook: ""
   instagram: ""
   tiktok: ""

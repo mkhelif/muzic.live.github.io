@@ -3,6 +3,7 @@ id: "4cb1eb80-1ffb-49f8-a64c-e17154621b21"
 title: "Hulder"
 type: person
 socials:
+  bandsintown: "5577249"
   facebook: ""
   instagram: ""
   tiktok: ""

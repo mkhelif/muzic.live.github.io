@@ -3,6 +3,7 @@ id: "ec84cb49-62d7-4570-b878-4711f66c25b2"
 title: "Chloé"
 type: person
 socials:
+  bandsintown: "28723"
   facebook: ""
   instagram: ""
   tiktok: ""

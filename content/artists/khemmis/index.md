@@ -3,6 +3,7 @@ id: "5653373a-2fb6-48a7-9734-8da87d743828"
 title: "Khemmis"
 type: band
 socials:
+  bandsintown: "8263923"
   facebook: ""
   instagram: ""
   tiktok: ""

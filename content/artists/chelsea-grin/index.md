@@ -3,6 +3,7 @@ id: "a329f0d0-5d33-4454-a499-9792a7376ca7"
 title: "Chelsea Grin"
 type: band
 socials:
+  bandsintown: "226921"
   facebook: ""
   instagram: ""
   tiktok: ""

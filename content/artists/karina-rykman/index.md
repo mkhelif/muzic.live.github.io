@@ -2,6 +2,7 @@
 id: "e5d75f9a-71fb-4486-aeab-0a82b57dd055"
 title: "Karina Rykman"
 socials:
+  bandsintown: "15487584"
   facebook: ""
   instagram: ""
   tiktok: ""

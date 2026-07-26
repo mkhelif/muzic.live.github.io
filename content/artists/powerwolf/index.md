@@ -29,6 +29,7 @@ members:
     periods:
       - start: 2011
 socials:
+  bandsintown: "66273"
   facebook: "powerwolfmetal"
   instagram: "officialpowerwolf"
   tiktok: "@powerwolfmetal"

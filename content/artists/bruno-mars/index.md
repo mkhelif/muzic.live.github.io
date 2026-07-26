@@ -3,6 +3,7 @@ id: "576bf5f2-a384-4b84-a034-fa57fa72404b"
 title: "Bruno Mars"
 type: person
 socials:
+  bandsintown: "279327"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "3eb7081d-bbab-4e27-ad86-0109a9242109"
 title: "Naïka"
 type: person
 socials:
+  bandsintown: "94505"
   facebook: ""
   instagram: ""
   tiktok: ""

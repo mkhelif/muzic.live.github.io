@@ -2,6 +2,7 @@
 id: "bc05cd7f-635d-4746-93cd-cc7d23963325"
 title: "Peter Buck"
 socials:
+  bandsintown: "513798"
   facebook: ""
   instagram: ""
   tiktok: ""

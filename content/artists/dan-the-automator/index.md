@@ -3,6 +3,7 @@ id: "5c0be2a4-b23d-41b4-9cec-cb656643e88c"
 title: "Dan The Automator"
 type: person
 socials:
+  bandsintown: "10002"
   facebook: ""
   instagram: ""
   tiktok: ""

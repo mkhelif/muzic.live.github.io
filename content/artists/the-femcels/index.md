@@ -3,6 +3,7 @@ id: "f3abea64-f75d-47cc-85be-6701ac3ae7aa"
 title: "The Femcels"
 type: band
 socials:
+  bandsintown: "15636527"
   facebook: ""
   instagram: ""
   tiktok: ""

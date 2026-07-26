@@ -3,6 +3,7 @@ id: "3722a8e2-57f9-44cd-9664-ec00153d3d04"
 title: "Johny Chow"
 type: person
 socials:
+  bandsintown: "9038677"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "ccfe8aef-6958-42bf-b854-37ffe82323f6"
 title: "Linka Moja"
 type: person
 socials:
+  bandsintown: "15576395"
   facebook: ""
   instagram: ""
   tiktok: ""

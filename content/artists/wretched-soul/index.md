@@ -2,6 +2,7 @@
 id: "2f9fc028-89a6-44bc-8241-2c9e4ba48a8e"
 title: "Wretched Soul"
 socials:
+  bandsintown: "1562411"
   facebook: ""
   instagram: ""
   tiktok: ""

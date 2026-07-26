@@ -2,6 +2,7 @@
 id: "d0916735-75f8-41a2-84b3-e5409ac83f58"
 title: "PENGSHUi"
 socials:
+  bandsintown: "15179894"
   facebook: ""
   instagram: ""
   tiktok: ""

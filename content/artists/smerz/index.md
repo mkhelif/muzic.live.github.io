@@ -3,6 +3,7 @@ id: "b858f13b-d037-4660-a790-4775bcd6710b"
 title: "Smerz"
 type: band
 socials:
+  bandsintown: "8200106"
   facebook: ""
   instagram: ""
   tiktok: ""

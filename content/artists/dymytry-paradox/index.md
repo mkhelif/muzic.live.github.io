@@ -2,6 +2,7 @@
 id: "f1591835-3eea-4134-9428-24e72ace8985"
 title: "Dymytry Paradox"
 socials:
+  bandsintown: "15609310"
   facebook: ""
   instagram: ""
   tiktok: ""

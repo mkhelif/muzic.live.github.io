@@ -3,6 +3,7 @@ id: "f240c44a-bc9a-443c-a075-f0f33652cb75"
 title: "Major Lazer"
 type: band
 socials:
+  bandsintown: "268257"
   facebook: ""
   instagram: ""
   tiktok: ""

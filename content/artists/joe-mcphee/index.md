@@ -2,6 +2,7 @@
 id: "483c185e-4fe6-4fd3-9c4e-e6f1bac28a9d"
 title: "Joe Mcphee"
 socials:
+  bandsintown: "131386"
   facebook: ""
   instagram: ""
   tiktok: ""

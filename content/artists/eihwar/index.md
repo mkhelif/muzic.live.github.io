@@ -3,6 +3,7 @@ id: "65f877d2-d822-4725-8515-67e91a3c25e9"
 title: "Eihwar"
 type: band
 socials:
+  bandsintown: "15564238"
   facebook: ""
   instagram: ""
   tiktok: ""

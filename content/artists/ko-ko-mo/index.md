@@ -18,6 +18,7 @@ members:
       - start: 2012
         end: 2025
 socials:
+  bandsintown: "13020408"
   facebook: "thisiskokomo"
   instagram: "thisiskokomo"
   tiktok: "@thisiskokomo"

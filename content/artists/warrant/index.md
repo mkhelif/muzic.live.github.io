@@ -2,6 +2,7 @@
 id: "b7f73ba6-653e-4016-afc8-484b8375231f"
 title: "Warrant"
 socials:
+  bandsintown: "2592"
   facebook: ""
   instagram: ""
   tiktok: ""

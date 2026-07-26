@@ -3,6 +3,7 @@ id: "3ead7100-0d93-42eb-88f7-c21a481a84d0"
 title: "Dave"
 type: person
 socials:
+  bandsintown: "35893"
   facebook: ""
   instagram: ""
   tiktok: ""

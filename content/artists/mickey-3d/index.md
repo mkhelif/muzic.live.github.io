@@ -3,6 +3,7 @@ id: "221b5eff-1dea-45d5-86b0-fd6b3d5d293a"
 title: "Mickey 3D"
 type: band
 socials:
+  bandsintown: "65417"
   facebook: ""
   instagram: ""
   tiktok: ""

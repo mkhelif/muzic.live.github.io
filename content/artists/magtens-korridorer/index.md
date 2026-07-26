@@ -2,6 +2,7 @@
 id: "f1a70e04-799f-420f-96a4-2ce6afdfadf7"
 title: "Magtens Korridorer"
 socials:
+  bandsintown: "85485"
   facebook: ""
   instagram: ""
   tiktok: ""

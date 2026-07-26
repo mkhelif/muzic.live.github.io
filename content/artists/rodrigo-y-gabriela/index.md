@@ -14,6 +14,7 @@ members:
     periods:
       - start: 2000
 socials:
+  bandsintown: "1983"
   facebook: "rodgab"
   instagram: "rodrigoygabriela"
   tiktok: "@rodygab"

@@ -3,6 +3,7 @@ id: "b316eb5d-cc3d-4c3c-b36f-c22f796e51f8"
 title: "Walter Astral"
 type: band
 socials:
+  bandsintown: "15519223"
   facebook: ""
   instagram: ""
   tiktok: ""

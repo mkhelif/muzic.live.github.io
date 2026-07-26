@@ -41,6 +41,7 @@ members:
       - start: 2014
         end: 2017
 socials:
+  bandsintown: "12428321"
   facebook: "LANDMVRKS"
   instagram: "landmvrks"
   x: "LANDMVRKS"

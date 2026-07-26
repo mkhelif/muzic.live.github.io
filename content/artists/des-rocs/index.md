@@ -2,6 +2,7 @@
 id: "c9322430-eb07-4ba5-9685-56144610d188"
 title: "Des Rocs"
 socials:
+  bandsintown: "15000106"
   facebook: ""
   instagram: ""
   tiktok: ""

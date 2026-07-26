@@ -2,6 +2,7 @@
 id: "1041abb8-6d81-4612-8a81-c0245b79b7e5"
 title: "Pictish Trail"
 socials:
+  bandsintown: "13571228"
   facebook: ""
   instagram: ""
   tiktok: ""

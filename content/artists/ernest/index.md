@@ -2,6 +2,7 @@
 id: "ff88a982-094d-4de4-a15e-182f0fb4bfe0"
 title: "ERNEST"
 socials:
+  bandsintown: "379815"
   facebook: ""
   instagram: ""
   tiktok: ""

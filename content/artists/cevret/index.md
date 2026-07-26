@@ -3,6 +3,7 @@ id: "8423c8a5-dba3-4b67-a60c-c12998335fae"
 title: "Cevret"
 type: band
 socials:
+  bandsintown: "15467902"
   facebook: ""
   instagram: ""
   tiktok: ""

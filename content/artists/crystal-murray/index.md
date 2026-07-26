@@ -3,6 +3,7 @@ id: "77058621-6185-493a-90c5-4544e6175496"
 title: "Crystal Murray"
 type: person
 socials:
+  bandsintown: "15480864"
   facebook: ""
   instagram: ""
   tiktok: ""

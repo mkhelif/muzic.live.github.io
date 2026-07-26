@@ -2,6 +2,7 @@
 id: "ae700b15-6ee3-4b1a-97b7-ce2c66a9fc43"
 title: "Sacred Skin"
 socials:
+  bandsintown: "15509685"
   facebook: ""
   instagram: ""
   tiktok: ""

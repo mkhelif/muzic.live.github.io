@@ -2,6 +2,7 @@
 id: "361a5ca1-0067-4125-8205-95217ae0b417"
 title: "Dab Rozer"
 socials:
+  bandsintown: "7882655"
   facebook: ""
   instagram: ""
   tiktok: ""

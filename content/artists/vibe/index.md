@@ -3,6 +3,7 @@ id: "f2817e12-4add-44af-bdd9-cf08f1608a07"
 title: "vibe"
 type: unknown
 socials:
+  bandsintown: "42858"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "70f4b7d9-9fea-482c-ad10-dd8529fb8e73"
 title: "Bryan Garris"
 type: person
 socials:
+  bandsintown: "11571409"
   facebook: ""
   instagram: ""
   tiktok: ""

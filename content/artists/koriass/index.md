@@ -2,6 +2,7 @@
 id: "5d066f72-b489-4304-adb0-c24676611c98"
 title: "Koriass"
 socials:
+  bandsintown: "461742"
   facebook: ""
   instagram: ""
   tiktok: ""

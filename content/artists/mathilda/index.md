@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 Mathilda est une autrice-compositrice-interprète française dont la pop aérienne, teintée de textures

@@ -2,6 +2,7 @@
 id: "fe9dc469-9855-4a94-ac5c-6240e3852aff"
 title: "The Maine"
 socials:
+  bandsintown: "4296"
   facebook: ""
   instagram: ""
   tiktok: ""

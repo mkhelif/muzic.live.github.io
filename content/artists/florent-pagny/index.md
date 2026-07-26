@@ -3,6 +3,7 @@ id: "40c88bb1-7c0d-4683-89e7-cc64e48ee024"
 title: "Florent Pagny"
 type: person
 socials:
+  bandsintown: "65402"
   facebook: ""
   instagram: ""
   tiktok: ""

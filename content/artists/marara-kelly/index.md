@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 Marara Kelly est le double artistique enchanté de Mayara Yamada, performeuse, DJ et artiste visuelle

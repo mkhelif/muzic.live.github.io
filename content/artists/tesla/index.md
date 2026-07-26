@@ -15,6 +15,8 @@ socials:
   qobuz: ""
   spotify: "0dgnITyIAN4NrmUVisvxHU"
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 Tesla est un groupe de hard rock américain originaire de Sacramento, en Californie, formé au début des années 1980

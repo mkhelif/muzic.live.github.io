@@ -2,6 +2,7 @@
 id: "d195e151-2d5d-4d74-8cef-97b72cda8c50"
 title: "Mother Mother"
 socials:
+  bandsintown: "17159"
   facebook: ""
   instagram: ""
   tiktok: ""

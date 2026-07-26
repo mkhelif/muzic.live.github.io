@@ -27,6 +27,7 @@ members:
       - start: 2009
         end: 2011
 socials:
+  bandsintown: "6986370"
   facebook: "twentyonepilots"
   youtube: "@twentyonepilots"
   instagram: "twentyonepilots"

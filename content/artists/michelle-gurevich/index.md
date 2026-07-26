@@ -3,6 +3,7 @@ id: "9979ea38-2ad9-48e7-bb8c-7de3dba0d448"
 title: "Michelle Gurevich"
 type: person
 socials:
+  bandsintown: "11375748"
   facebook: ""
   instagram: ""
   tiktok: ""

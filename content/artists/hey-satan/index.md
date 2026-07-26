@@ -3,6 +3,7 @@ id: "f59d3471-0356-40bc-98cc-2a62a1aed47a"
 title: "Hey Satan"
 type: band
 socials:
+  bandsintown: "11759148"
   facebook: "heysatanrock"
   instagram: "heysatanrock"
   bandcamp: "heysatan"

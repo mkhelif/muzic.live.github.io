@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 Dans le paysage rock genevois, The Dungbeetle Conspiracy détonne par son ancrage assumé dans une époque que beaucoup

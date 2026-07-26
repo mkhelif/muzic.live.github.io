@@ -2,6 +2,7 @@
 id: "42795d8c-bd4a-415d-b76b-63d2d97789ed"
 title: "Lost Trees"
 socials:
+  bandsintown: "15584771"
   facebook: ""
   instagram: ""
   tiktok: ""

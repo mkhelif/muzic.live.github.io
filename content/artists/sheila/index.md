@@ -3,6 +3,7 @@ id: "208bb2a8-7d65-4c91-9286-55b4627682d4"
 title: "Sheila"
 type: person
 socials:
+  bandsintown: "105503"
   facebook: "SheilaOfficiel"
   instagram: "sheila_artiste_officiel"
   youtube: "@SheilaOfficiel"

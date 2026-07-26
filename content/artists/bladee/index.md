@@ -2,6 +2,7 @@
 id: "1d2c78d1-66aa-42b2-bec3-7666b9f7fd14"
 title: "Bladee"
 socials:
+  bandsintown: "8298086"
   facebook: ""
   instagram: ""
   tiktok: ""

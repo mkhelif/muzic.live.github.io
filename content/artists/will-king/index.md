@@ -3,6 +3,7 @@ id: "739355a1-aa95-438e-a6f7-a60e47b7e65b"
 title: "Will King"
 type: person
 socials:
+  bandsintown: "2611624"
   facebook: ""
   instagram: "will_____king"
   tiktok: ""

@@ -34,6 +34,7 @@ members:
     periods:
       - start: 2023
 socials:
+  bandsintown: "15593948"
   facebook: ""
   instagram: "sophsesque"
   tiktok: ""

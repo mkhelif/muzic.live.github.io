@@ -3,6 +3,7 @@ id: "0fe118bc-9ba7-40b5-8485-30a5c0c18f33"
 title: "Cats on Trees"
 type: band
 socials:
+  bandsintown: "754931"
   facebook: ""
   instagram: ""
   tiktok: ""

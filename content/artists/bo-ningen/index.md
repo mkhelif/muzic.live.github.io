@@ -3,6 +3,7 @@ id: "94321483-12b5-4908-8c89-ebc06cd09556"
 title: "Bo Ningen"
 type: band
 socials:
+  bandsintown: "232138"
   facebook: ""
   instagram: ""
   tiktok: ""

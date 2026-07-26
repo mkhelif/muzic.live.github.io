@@ -3,6 +3,7 @@ id: "3a2ee53e-faec-460c-8398-7b39e33245b4"
 title: "Dvrk"
 type: person
 socials:
+  bandsintown: "15542482"
   facebook: ""
   instagram: ""
   tiktok: ""

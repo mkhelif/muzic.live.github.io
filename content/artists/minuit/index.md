@@ -3,6 +3,7 @@ id: "c3698713-7fa7-41e7-8919-0af16deaaf4e"
 title: "Minuit"
 type: band
 socials:
+  bandsintown: "41823"
   facebook: ""
   instagram: ""
   tiktok: ""

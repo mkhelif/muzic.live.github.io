@@ -3,6 +3,7 @@ id: "820e746f-3f57-4b7a-b640-3d623a462b5b"
 title: "Nico de Andrea"
 type: person
 socials:
+  bandsintown: "1403701"
   facebook: ""
   instagram: ""
   tiktok: ""

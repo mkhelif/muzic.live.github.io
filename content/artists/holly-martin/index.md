@@ -3,6 +3,7 @@ id: "37df1d3f-35c2-4908-96df-dbdd9b094a05"
 title: "Holly Martin"
 type: person
 socials:
+  bandsintown: "3229098"
   facebook: ""
   instagram: ""
   tiktok: ""

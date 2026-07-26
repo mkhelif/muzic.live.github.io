@@ -14,6 +14,7 @@ members:
     periods:
       - start: 2010
 socials:
+  bandsintown: "1473923"
   facebook: "BlasterjaxxOfficial"
   instagram: "blasterjaxx"
   tiktok: "@blasterjaxx_official"

@@ -3,6 +3,7 @@ id: "c6fa310d-5213-483d-9e2e-11d894500e5e"
 title: "Zac Lawrence"
 type: person
 socials:
+  bandsintown: "15609323"
   facebook: ""
   instagram: "z__lawrence"
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "89908b6c-182e-48ca-9250-c981e5227bf9"
 title: "VisionV"
 socials:
+  bandsintown: "15546349"
   facebook: ""
   instagram: ""
   tiktok: ""

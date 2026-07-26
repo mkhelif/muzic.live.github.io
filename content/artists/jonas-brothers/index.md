@@ -2,6 +2,7 @@
 id: "b85f31a4-c1c4-4aa1-b124-256be52bd832"
 title: "Jonas Brothers"
 socials:
+  bandsintown: "667"
   facebook: ""
   instagram: ""
   tiktok: ""

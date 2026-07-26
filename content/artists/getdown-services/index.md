@@ -3,6 +3,7 @@ id: "4f6fedf7-9eb8-419d-93ef-b0d2688b7129"
 title: "Getdown Services"
 type: band
 socials:
+  bandsintown: "15544119"
   facebook: ""
   instagram: ""
   tiktok: ""

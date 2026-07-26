@@ -19,6 +19,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 HYPERCONTENT! est un collectif franco-chilio-belge basé à Bruxelles, qui brouille les frontières entre jazz,

@@ -2,6 +2,7 @@
 id: "c1b8cc31-c2a2-49ef-848e-3f50af8c3fad"
 title: "Phil Campbell and the Bastard Sons"
 socials:
+  bandsintown: "14269017"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "324b4817-99ae-4f89-9031-2cddeff4b7b4"
 title: "I See Stars"
 type: band
 socials:
+  bandsintown: "33684"
   facebook: ""
   instagram: ""
   tiktok: ""

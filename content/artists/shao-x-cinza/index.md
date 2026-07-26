@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 Shao x Cinza réunit deux figures de la scène rap de Besançon, habituées à partager la scène et le studio bien

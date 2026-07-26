@@ -3,6 +3,7 @@ id: "6d870661-a309-472c-9976-4725ed0a7141"
 title: "Franglish"
 type: person
 socials:
+  bandsintown: "14399484"
   facebook: "MisterFranglish"
   instagram: "franglish"
   tiktok: "@franglishoff"

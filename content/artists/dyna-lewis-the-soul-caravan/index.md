@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 Dyna, Lewis & The Soul Caravan est une aventure musicale belge née dans la rue, au plus près du public, portée par le

@@ -3,6 +3,7 @@ id: "8a768de7-6d03-4526-be59-59a7ed18e834"
 title: "Seasick Steve"
 type: person
 socials:
+  bandsintown: "24612"
   facebook: "seasicksteve"
   instagram: "seasickstevemusic"
   x: "seasicksteve"

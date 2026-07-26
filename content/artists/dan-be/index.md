@@ -3,6 +3,7 @@ id: "631b96c5-9eaa-4a67-88ca-d284d7e74779"
 title: "Dan be"
 type: person
 socials:
+  bandsintown: "15598191"
   facebook: ""
   instagram: ""
   tiktok: ""

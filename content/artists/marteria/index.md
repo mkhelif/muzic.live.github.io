@@ -3,6 +3,7 @@ id: "ebfb33d9-4fef-45a2-81ce-729d52a6c11d"
 title: "Marteria"
 type: person
 socials:
+  bandsintown: "322123"
   facebook: ""
   instagram: ""
   tiktok: ""

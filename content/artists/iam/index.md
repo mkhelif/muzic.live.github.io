@@ -35,6 +35,7 @@ members:
       - start: 1989
         end: 2008
 socials:
+  bandsintown: "11461"
   facebook: "iamlegroupe"
   instagram: "iam.officiel"
   youtube: "@IAMofficiel"

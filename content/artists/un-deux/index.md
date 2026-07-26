@@ -2,6 +2,7 @@
 id: "d479847f-3312-4e4e-af36-ffc21a487446"
 title: "UN*DEUX"
 socials:
+  bandsintown: "5687841"
   facebook: ""
   instagram: ""
   tiktok: ""

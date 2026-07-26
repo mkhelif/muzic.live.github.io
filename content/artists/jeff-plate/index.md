@@ -3,6 +3,7 @@ id: "24f88b99-6b51-4274-9513-2573e52262c0"
 title: "Jeff Plate"
 type: person
 socials:
+  bandsintown: "1182870"
   facebook: ""
   instagram: ""
   tiktok: ""

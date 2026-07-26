@@ -2,6 +2,7 @@
 id: "25bbf552-da7c-411d-8878-efd1f238cdd2"
 title: "Gideon"
 socials:
+  bandsintown: "201743"
   facebook: ""
   instagram: ""
   tiktok: ""

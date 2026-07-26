@@ -3,6 +3,7 @@ id: "512f2efe-0444-4934-92c7-6102ac85cd8b"
 title: "The Smashing Pumpkins"
 type: band
 socials:
+  bandsintown: "26082"
   facebook: ""
   instagram: ""
   tiktok: ""

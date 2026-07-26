@@ -5,6 +5,7 @@ type: person
 aliases:
   - Mika
 socials:
+  bandsintown: "657"
   facebook: "mikasounds"
   instagram: "mikainstagram"
   tiktok: "@mikatiktok"

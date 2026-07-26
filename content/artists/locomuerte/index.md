@@ -3,6 +3,7 @@ id: "39114567-d279-4117-af6f-8a9e677094cf"
 title: "LocoMuerte"
 type: band
 socials:
+  bandsintown: "976586"
   facebook: ""
   instagram: ""
   tiktok: ""

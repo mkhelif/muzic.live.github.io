@@ -3,6 +3,7 @@ id: "1346d32d-6600-4fef-9d35-bb0a71800cea"
 title: "Laura Cox"
 type: person
 socials:
+  bandsintown: "1489763"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -31,6 +31,7 @@ members:
     periods:
       - start: 2013
 socials:
+  bandsintown: "28"
   facebook: "threedaysgrace"
   instagram: "threedaysgraceofficial"
   tiktok: "@threedaysgrace"

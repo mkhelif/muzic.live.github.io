@@ -17,6 +17,7 @@ members:
     periods:
       - start: 2012
 socials:
+  bandsintown: "8230658"
   facebook: ""
   instagram: ""
   tiktok: ""

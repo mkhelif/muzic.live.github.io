@@ -3,6 +3,7 @@ id: "df21a9c4-2efa-4494-a275-b97873e614d4"
 title: "Bleed From Within"
 type: band
 socials:
+  bandsintown: "79336"
   facebook: ""
   instagram: ""
   tiktok: ""

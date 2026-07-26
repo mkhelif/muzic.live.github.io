@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 Folie's est un jeune artiste parisien, originaire de Pigalle dans le 18e arrondissement, où il grandit auprès d'un

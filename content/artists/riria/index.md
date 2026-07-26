@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 Riria est une DJ née à Tokyo et aujourd'hui basée à Londres, dont les sets bass music, nourris d'amapiano, de jersey

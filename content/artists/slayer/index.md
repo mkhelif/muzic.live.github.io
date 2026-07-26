@@ -3,6 +3,7 @@ id: "fd12f5ec-c0c7-4a96-947f-5e4e696692f9"
 title: "Slayer"
 type: band
 socials:
+  bandsintown: "386"
   facebook: ""
   instagram: ""
   tiktok: ""

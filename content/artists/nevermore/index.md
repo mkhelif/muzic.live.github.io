@@ -3,6 +3,7 @@ id: "a1aab851-2a4f-4763-9736-4ab8886937be"
 title: "Nevermore"
 type: band
 socials:
+  bandsintown: "2303"
   facebook: ""
   instagram: ""
   tiktok: ""

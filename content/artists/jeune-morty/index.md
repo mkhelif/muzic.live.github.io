@@ -2,6 +2,7 @@
 id: "12485127-8cc9-4e5e-955a-7d74e3771132"
 title: "Jeune Morty"
 socials:
+  bandsintown: "15598245"
   facebook: ""
   instagram: ""
   tiktok: ""

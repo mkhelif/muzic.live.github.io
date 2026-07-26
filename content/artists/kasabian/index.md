@@ -3,6 +3,7 @@ id: "4a239c69-b1dd-469e-b62a-dbaa266d1a3a"
 title: "Kasabian"
 type: band
 socials:
+  bandsintown: "740"
   facebook: ""
   instagram: ""
   tiktok: ""

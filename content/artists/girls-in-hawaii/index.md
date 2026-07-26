@@ -3,6 +3,7 @@ id: "f81b2288-7d59-4d05-a8ee-e4237ad9a640"
 title: "Girls in Hawaii"
 type: band
 socials:
+  bandsintown: "32650"
   facebook: ""
   instagram: ""
   tiktok: ""

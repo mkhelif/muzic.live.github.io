@@ -3,6 +3,7 @@ id: "64cc9bf8-eeb6-4d64-b9a4-f50492d7d1d0"
 title: "Dune Rats"
 type: band
 socials:
+  bandsintown: "1149156"
   facebook: ""
   instagram: ""
   tiktok: ""

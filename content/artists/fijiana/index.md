@@ -2,6 +2,7 @@
 id: "b1d1b9eb-623d-45d1-bd7c-89f402ce6cf7"
 title: "Fijiana"
 socials:
+  bandsintown: "15498069"
   facebook: ""
   instagram: ""
   tiktok: ""

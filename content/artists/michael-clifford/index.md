@@ -3,6 +3,7 @@ id: "e1131ffe-865e-42f6-9a78-77c86f31bac7"
 title: "Michael Clifford"
 type: person
 socials:
+  bandsintown: "2792642"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -35,6 +35,7 @@ members:
       - start: 2019
         end: 2023
 socials:
+  bandsintown: "15516345"
   facebook: ""
   instagram: ""
   tiktok: ""

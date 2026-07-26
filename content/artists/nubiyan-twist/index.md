@@ -3,6 +3,7 @@ id: "cff0282c-9275-4063-a94c-af79e0dc979d"
 title: "Nubiyan Twist"
 type: band
 socials:
+  bandsintown: "2613663"
   facebook: ""
   instagram: ""
   tiktok: ""

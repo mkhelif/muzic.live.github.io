@@ -3,6 +3,7 @@ id: "f9f7d641-32ca-42b5-b352-6cb68c9e3c28"
 title: "Worlds Apart"
 type: band
 socials:
+  bandsintown: "123850"
   facebook: ""
   instagram: ""
   tiktok: ""

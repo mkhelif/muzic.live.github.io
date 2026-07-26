@@ -3,6 +3,7 @@ id: "f5d65dc1-53c3-4432-a98f-8e046b500c34"
 title: "Silhouette"
 type: band
 socials:
+  bandsintown: "15569108"
   facebook: ""
   instagram: ""
   tiktok: ""

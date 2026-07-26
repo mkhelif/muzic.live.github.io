@@ -2,6 +2,7 @@
 id: "24f9f902-e28f-46f4-8cd1-8ca84d6a72da"
 title: "Marc Evans"
 socials:
+  bandsintown: "237896"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "cb478202-a755-489e-831d-47c8d4e124c1"
 title: "Radio Free Alice"
 type: band
 socials:
+  bandsintown: "15527878"
   facebook: ""
   instagram: ""
   tiktok: ""

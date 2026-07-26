@@ -2,6 +2,7 @@
 id: "0a948735-b78f-4c0a-ae2b-6388e54faf14"
 title: "Skeletoon"
 socials:
+  bandsintown: "11280046"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "93e0930e-8c84-4aec-b502-e10f7bfabb29"
 title: "Blood Incantation"
 type: band
 socials:
+  bandsintown: "7195733"
   facebook: ""
   instagram: ""
   tiktok: ""

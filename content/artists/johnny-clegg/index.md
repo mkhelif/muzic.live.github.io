@@ -3,6 +3,7 @@ id: "fc4cc3e5-090e-4e98-bc3b-c38730acfd12"
 title: "Johnny Clegg"
 type: person
 socials:
+  bandsintown: "46192"
   facebook: ""
   instagram: ""
   tiktok: ""

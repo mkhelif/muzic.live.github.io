@@ -15,6 +15,7 @@ members:
     periods:
       - start: 2014
 socials:
+  bandsintown: "11555251"
   facebook: "NovaTwinsMusic"
   instagram: "novatwinsmusic"
   tiktok: "@novatwinsmusic"

@@ -3,6 +3,7 @@ id: "04cbb459-2b0e-48c4-ab4d-e8e56de1f834"
 title: "Brooke Combe"
 type: person
 socials:
+  bandsintown: "15504418"
   facebook: ""
   instagram: ""
   tiktok: ""

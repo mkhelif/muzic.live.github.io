@@ -2,6 +2,7 @@
 id: "2f33a15d-ba15-46ec-a86f-8b624645400f"
 title: "Ella Langley"
 socials:
+  bandsintown: "14902799"
   facebook: ""
   instagram: ""
   tiktok: ""

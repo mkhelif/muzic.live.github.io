@@ -3,6 +3,7 @@ id: "77327d7a-4972-4f6d-b2af-ab8dad02f27a"
 title: "Nuit Incolore"
 type: person
 socials:
+  bandsintown: "15500535"
   facebook: "nuitincolore"
   instagram: "nuitincolore"
   tiktok: "@nuitincolore"

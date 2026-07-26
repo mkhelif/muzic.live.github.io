@@ -52,6 +52,7 @@ members:
     periods:
       - start: 2018
 socials:
+  bandsintown: "296777"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "0ff2e54e-7d1d-4165-9180-42cde5a16243"
 title: "Latto"
 socials:
+  bandsintown: "15497110"
   facebook: ""
   instagram: ""
   tiktok: ""

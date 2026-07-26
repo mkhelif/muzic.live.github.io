@@ -29,6 +29,7 @@ members:
     periods:
       - start: 1986
 socials:
+  bandsintown: "47438"
   facebook: "VandenPlasOfficial"
   instagram: "vanden.plas.official"
   youtube: "@vanden_plas"

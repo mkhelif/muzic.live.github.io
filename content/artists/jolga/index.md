@@ -3,6 +3,7 @@ id: "1504bc41-a182-4f91-b77b-cb935adf6d85"
 title: "Jolga"
 type: band
 socials:
+  bandsintown: "1286499"
   facebook: ""
   instagram: ""
   tiktok: ""

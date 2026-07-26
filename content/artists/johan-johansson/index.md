@@ -3,6 +3,7 @@ id: "93b73dcf-c9db-41fb-bd22-444af5c9696c"
 title: "Johan Johansson"
 type: person
 socials:
+  bandsintown: "79263"
   facebook: ""
   instagram: ""
   tiktok: ""

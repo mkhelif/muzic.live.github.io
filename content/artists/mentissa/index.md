@@ -3,6 +3,7 @@ id: "a67ac70d-7fcc-4665-9cc6-b63faa8e286d"
 title: "Mentissa"
 type: person
 socials:
+  bandsintown: "15510488"
   facebook: "mentissamusic"
   instagram: "mentissa_off"
   tiktok: "@mentissa"

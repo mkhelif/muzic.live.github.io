@@ -2,6 +2,7 @@
 id: "b5cfd720-acd8-4e71-baf8-ec4793e22f21"
 title: "Echonomist"
 socials:
+  bandsintown: "878830"
   facebook: ""
   instagram: ""
   tiktok: ""

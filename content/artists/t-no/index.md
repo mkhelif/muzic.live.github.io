@@ -3,6 +3,7 @@ id: "68a74a1f-9b7d-47bb-a4f8-0486655db160"
 title: "T!no"
 type: unknown
 socials:
+  bandsintown: "3927694"
   instagram: "whoistino_"
   tidal: "7607312"
   facebook: ""

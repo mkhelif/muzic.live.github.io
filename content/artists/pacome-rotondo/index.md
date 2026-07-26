@@ -3,6 +3,7 @@ id: "674f3c50-024a-4dce-9321-82da5467665e"
 title: "Pacôme Rotondo"
 type: person
 socials:
+  bandsintown: "15581833"
   facebook: "pacomerotondoofficial"
   instagram: "pacome_rotondo"
   youtube: "@pacomerotondo"

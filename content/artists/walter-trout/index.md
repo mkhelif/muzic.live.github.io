@@ -2,6 +2,7 @@
 id: "31638382-0241-41ed-b46e-f8d596a78295"
 title: "Walter Trout"
 socials:
+  bandsintown: "30952"
   facebook: ""
   instagram: ""
   tiktok: ""

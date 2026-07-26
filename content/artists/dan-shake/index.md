@@ -2,6 +2,7 @@
 id: "4f556b6c-4381-45e8-af41-2fe24a025c22"
 title: "Dan Shake"
 socials:
+  bandsintown: "8937806"
   facebook: ""
   instagram: ""
   tiktok: ""

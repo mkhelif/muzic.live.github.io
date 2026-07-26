@@ -31,6 +31,7 @@ members:
     periods:
       - start: 2011
 socials:
+  bandsintown: "11466505"
   facebook: "feu.chatterton"
   instagram: "feuchatterton"
   tiktok: ""

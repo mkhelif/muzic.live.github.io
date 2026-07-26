@@ -3,6 +3,7 @@ id: "c662f028-39f3-4232-a33a-e6cbc9e19b9c"
 title: "Napalm Death"
 type: band
 socials:
+  bandsintown: "30814"
   facebook: ""
   instagram: ""
   tiktok: ""

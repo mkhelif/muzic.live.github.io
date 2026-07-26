@@ -55,6 +55,7 @@ members:
     periods:
       - start: 2000
 socials:
+  bandsintown: "279294"
   facebook: "danakil"
   instagram: "danakilofficiel"
   tiktok: "@danakilofficiel"

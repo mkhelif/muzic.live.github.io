@@ -2,6 +2,7 @@
 id: "b23c0e37-23ae-4d93-9e78-1f7b6b1c60f4"
 title: "ELENA ROSE"
 socials:
+  bandsintown: "11584668"
   facebook: ""
   instagram: ""
   tiktok: ""

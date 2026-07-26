@@ -2,6 +2,7 @@
 id: "c4f976a8-9d6c-429c-82d6-a5391babdcb4"
 title: "SNAP"
 socials:
+  bandsintown: "42236"
   facebook: ""
   instagram: ""
   tiktok: ""

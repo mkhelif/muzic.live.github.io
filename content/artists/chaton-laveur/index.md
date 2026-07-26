@@ -3,6 +3,7 @@ id: "d26e4730-0190-4547-bea6-9ae2dc293f79"
 title: "Chaton Laveur"
 type: band
 socials:
+  bandsintown: "15532006"
   facebook: ""
   instagram: ""
   web: ""

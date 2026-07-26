@@ -3,6 +3,7 @@ id: "4fe303cb-349b-44ed-a3cb-792b0ba190e8"
 title: "Davyboi"
 type: unknown
 socials:
+  bandsintown: "15380952"
   facebook: ""
   instagram: ""
   tiktok: ""

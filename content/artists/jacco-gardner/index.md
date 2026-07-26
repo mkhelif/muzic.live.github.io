@@ -3,6 +3,7 @@ id: "b37d344a-5921-4c16-9b35-2530c8d9c08e"
 title: "Jacco Gardner"
 type: person
 socials:
+  bandsintown: "2396436"
   facebook: ""
   instagram: ""
   tiktok: ""

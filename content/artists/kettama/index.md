@@ -2,6 +2,7 @@
 id: "975b9ba2-dcb3-4705-bdef-3922f63c12fd"
 title: "KETTAMA"
 socials:
+  bandsintown: "15142594"
   facebook: ""
   instagram: ""
   tiktok: ""

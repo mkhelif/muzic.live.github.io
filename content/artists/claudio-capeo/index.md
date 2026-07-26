@@ -3,6 +3,7 @@ id: "6aef574f-275d-4256-9187-30af133aff76"
 title: "Claudio Capéo"
 type: person
 socials:
+  bandsintown: "1009159"
   facebook: ""
   instagram: ""
   tiktok: ""

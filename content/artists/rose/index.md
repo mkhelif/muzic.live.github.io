@@ -3,6 +3,7 @@ id: "e09f19e3-7c6f-4f48-99e4-88c4c537c42c"
 title: "Rose"
 type: unknown
 socials:
+  bandsintown: "7559"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "651061e0-a69a-4266-aa71-0167bff04c70"
 title: "Vanupié"
 type: person
 socials:
+  bandsintown: "2924969"
   facebook: ""
   instagram: ""
   tiktok: ""

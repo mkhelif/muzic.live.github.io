@@ -3,6 +3,7 @@ id: "93110461-ca37-4869-8b15-e749e2d3efd9"
 title: "Liam Howlett"
 type: person
 socials:
+  bandsintown: "16400"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "4eac205a-97b2-4b11-b025-f1abee8450ac"
 title: "Mia Martina"
 socials:
+  bandsintown: "1077926"
   facebook: ""
   instagram: ""
   tiktok: ""

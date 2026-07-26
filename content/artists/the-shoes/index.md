@@ -3,6 +3,7 @@ id: "768c8651-b676-4d2b-bc90-6ab47f25d50e"
 title: "The Shoes"
 type: band
 socials:
+  bandsintown: "189004"
   facebook: ""
   instagram: ""
   tiktok: ""

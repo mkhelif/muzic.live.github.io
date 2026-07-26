@@ -30,6 +30,7 @@ members:
     periods:
       - start: 2016
 socials:
+  bandsintown: "13372"
   facebook: "LesWampasVousAiment"
   instagram: "leswampasofficiel"
   youtube: "@LesWampas"

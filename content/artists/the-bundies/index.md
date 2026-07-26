@@ -17,6 +17,8 @@ socials:
   x: ""
   youtube: ""
   web: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 Leur devise résume tout en une ligne : « Pas de bla-bla, matte la vidéo, écoute le son. » The Bundies n'ont pas de temps

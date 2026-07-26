@@ -2,6 +2,7 @@
 id: "0fe4c71d-3924-4646-8fbc-1dbd7afeb32b"
 title: "VIOLENT VIRA"
 socials:
+  bandsintown: "15537300"
   facebook: ""
   instagram: ""
   tiktok: ""

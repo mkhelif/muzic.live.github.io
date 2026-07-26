@@ -2,6 +2,7 @@
 id: "a39bd4a6-34fe-4dc0-aeeb-04bd68f3fc0d"
 title: "Heathen"
 socials:
+  bandsintown: "58379"
   facebook: ""
   instagram: ""
   tiktok: ""

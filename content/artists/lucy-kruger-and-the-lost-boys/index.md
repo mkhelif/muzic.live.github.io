@@ -3,6 +3,7 @@ id: "40d77beb-841e-40b7-8210-a32808f77f49"
 title: "Lucy Kruger & The Lost Boys"
 type: band
 socials:
+  bandsintown: "10983555"
   facebook: ""
   instagram: ""
   tiktok: ""

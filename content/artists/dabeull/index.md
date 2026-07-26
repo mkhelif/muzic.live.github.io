@@ -3,6 +3,7 @@ id: "fbc474d3-2053-4e8b-9c36-c2dbff6edd81"
 title: "Dabeull"
 type: person
 socials:
+  bandsintown: "3984570"
   instagram: "dabeull"
   facebook: ""
   tiktok: ""

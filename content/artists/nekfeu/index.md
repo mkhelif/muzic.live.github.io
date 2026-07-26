@@ -3,6 +3,7 @@ id: "81d2c230-95f9-4493-a872-d6c20f5498d8"
 title: "NekFeu"
 type: person
 socials:
+  bandsintown: "1803029"
   facebook: ""
   instagram: ""
   tiktok: ""

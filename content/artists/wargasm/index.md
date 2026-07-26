@@ -23,6 +23,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 Wargasm est un duo anglais de rock électronique originaire de Londres, formé en 2018 par Sam Matlock, ancien membre

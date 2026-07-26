@@ -61,6 +61,7 @@ members:
       - start: 2010
         end: 2023
 socials:
+  bandsintown: "13451"
   facebook: "dreamtheater"
   instagram: "dreamtheaterofficial"
   tiktok: "@dreamtheaternet"

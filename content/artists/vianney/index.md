@@ -3,6 +3,7 @@ id: "00e54b07-4313-4ed0-be62-474ff8572686"
 title: "Vianney"
 type: person
 socials:
+  bandsintown: "4047000"
   facebook: ""
   instagram: ""
   tiktok: ""

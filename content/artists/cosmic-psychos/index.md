@@ -2,6 +2,7 @@
 id: "5b582557-615d-4e48-ab9a-5d75c6693264"
 title: "Cosmic Psychos"
 socials:
+  bandsintown: "130932"
   facebook: ""
   instagram: ""
   tiktok: ""

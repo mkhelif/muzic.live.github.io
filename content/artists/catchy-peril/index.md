@@ -3,6 +3,7 @@ id: "36aa2101-60b2-433c-9b89-7127c6212c38"
 title: "Catchy Peril"
 type: band
 socials:
+  bandsintown: "15571314"
   facebook: "p/Catchy-Peril-61555198564591/"
   instagram: "catchy_peril"
   threads: "@catchy_peril"

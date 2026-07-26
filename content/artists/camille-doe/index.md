@@ -3,6 +3,7 @@ id: "709aa506-d816-418d-b96f-571dcc604eaa"
 title: "Camille Doe"
 type: person
 socials:
+  bandsintown: "15570363"
   facebook: ""
   instagram: ""
   tiktok: ""

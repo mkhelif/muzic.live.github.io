@@ -2,6 +2,7 @@
 id: "a7c4b4db-5a19-4f7f-8b9f-cd49a21b0cb0"
 title: "John Hall"
 socials:
+  bandsintown: "482817"
   facebook: ""
   instagram: ""
   tiktok: ""

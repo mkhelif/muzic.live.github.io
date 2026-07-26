@@ -2,6 +2,7 @@
 id: "6e313560-e09c-4339-b8be-90472fc12600"
 title: "ISOxo"
 socials:
+  bandsintown: "13504081"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "6dbb9165-a8bc-4d03-a223-64219a413a32"
 title: "Keziah Jones"
 type: person
 socials:
+  bandsintown: "35195"
   facebook: "keziahjones"
   instagram: "keziahjonesofficiel"
   x: "keziahjones"

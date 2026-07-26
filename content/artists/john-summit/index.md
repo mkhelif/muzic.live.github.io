@@ -3,6 +3,7 @@ id: "ba7460bf-d7f6-4677-bd3e-658a70306a31"
 title: "John Summit"
 type: person
 socials:
+  bandsintown: "14563710"
   facebook: ""
   instagram: ""
   tiktok: ""

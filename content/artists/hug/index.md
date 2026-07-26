@@ -2,6 +2,7 @@
 id: "b62e7d9a-9f51-4df5-9b84-f9d206393bc2"
 title: "HUG"
 socials:
+  bandsintown: "77788"
   facebook: ""
   instagram: ""
   tiktok: ""

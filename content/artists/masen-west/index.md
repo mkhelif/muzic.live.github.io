@@ -3,6 +3,7 @@ id: "b18f8e60-8cb6-4eda-bfd0-f83d9d1494e7"
 title: "Masen West"
 type: unknown
 socials:
+  bandsintown: "15556862"
   facebook: ""
   instagram: ""
   tiktok: ""

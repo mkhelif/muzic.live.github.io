@@ -2,6 +2,7 @@
 id: "5a03472d-4804-462c-bc09-a384ebdd4765"
 title: "Cariño"
 socials:
+  bandsintown: "267515"
   facebook: ""
   instagram: ""
   tiktok: ""

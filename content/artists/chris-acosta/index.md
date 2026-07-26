@@ -3,6 +3,7 @@ id: "222c5744-86db-4407-90c3-7d59261d90f2"
 title: "Chris Acosta"
 type: person
 socials:
+  bandsintown: "13035541"
   facebook: ""
   instagram: ""
   tiktok: ""

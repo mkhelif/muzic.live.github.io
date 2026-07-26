@@ -2,6 +2,7 @@
 id: "235817db-785c-4159-af66-0ae39611e9a4"
 title: "Lynch Mob"
 socials:
+  bandsintown: "75173"
   facebook: ""
   instagram: ""
   tiktok: ""

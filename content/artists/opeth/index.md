@@ -3,6 +3,7 @@ id: "b451a414-cc3d-42db-8e3f-1220a2addd6e"
 title: "Opeth"
 type: band
 socials:
+  bandsintown: "687"
   facebook: ""
   instagram: ""
   tiktok: ""

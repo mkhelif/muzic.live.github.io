@@ -16,6 +16,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 Le Sugarhill Gang occupe une place fondamentale dans l'histoire de la musique hip-hop, étant le groupe responsable du

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 Eve La Marka, aussi connue sous le nom de scène Big La Marka, est une rappeuse française installée à Paris, qui a

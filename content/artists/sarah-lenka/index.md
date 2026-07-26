@@ -3,6 +3,7 @@ id: "f41d5f2d-7194-4db7-91ae-0bbbc0dc2d24"
 title: "Sarah Lenka"
 type: person
 socials:
+  bandsintown: "335773"
   facebook: "sarah.lenka"
   instagram: "sarah.lenka"
   youtube: "@SarahLenkamusic"

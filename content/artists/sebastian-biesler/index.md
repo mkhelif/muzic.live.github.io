@@ -20,5 +20,7 @@ todo:
   - Add bio
   - Add socials
   - Add information
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 

@@ -3,6 +3,7 @@ id: "de4ef6f5-905b-4435-83e8-fb8228e5b3e2"
 title: "Blackrain"
 type: band
 socials:
+  bandsintown: "339834"
   facebook: ""
   instagram: ""
   tiktok: ""

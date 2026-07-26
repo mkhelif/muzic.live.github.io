@@ -2,6 +2,7 @@
 id: "9f9941c8-73d2-4185-8b34-b43013729021"
 title: "Emma Ruth Rundle"
 socials:
+  bandsintown: "1960363"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "7bu3H8JO7d0UbMoVzbo70s"
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 The Cure est un groupe de rock britannique formé en 1976 à Crawley, dans le West Sussex, par le chanteur et

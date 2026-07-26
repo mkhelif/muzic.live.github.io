@@ -2,6 +2,7 @@
 id: "ad75eec9-d2df-46f8-8ccf-11ce20a55229"
 title: "Bukowski"
 socials:
+  bandsintown: "339546"
   facebook: ""
   instagram: ""
   tiktok: ""

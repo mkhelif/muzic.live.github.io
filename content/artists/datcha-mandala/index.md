@@ -5,6 +5,7 @@ type: unknown
 aliases:
   - "Datcha Mandala"
 socials:
+  bandsintown: "1441583"
   facebook: "datchamandala"
   instagram: "datcha.mandala"
   bandcamp: "datchamandala"

@@ -3,6 +3,7 @@ id: "94fa5868-1002-4047-90f0-f40d107aa232"
 title: "Sarah Barthel"
 type: person
 socials:
+  bandsintown: "1355180"
   facebook: ""
   instagram: ""
   x: ""

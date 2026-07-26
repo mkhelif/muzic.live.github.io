@@ -3,6 +3,7 @@ id: "a8ea2928-7acc-451e-a6cb-2163eb643917"
 title: "Lauren Auder"
 type: person
 socials:
+  bandsintown: "12407100"
   facebook: ""
   instagram: ""
   tiktok: ""

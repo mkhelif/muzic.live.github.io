@@ -3,6 +3,7 @@ id: "a85985b5-4428-4baf-a61a-fe8549d1e6ec"
 title: "Lewis Capaldi"
 type: person
 socials:
+  bandsintown: "9448076"
   facebook: "lewiscapaldi"
   instagram: "lewiscapaldi"
   tiktok: "@lewiscapaldi"

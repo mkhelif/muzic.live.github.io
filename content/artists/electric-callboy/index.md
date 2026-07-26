@@ -47,6 +47,7 @@ members:
       - start: 2010
         end: 2012
 socials:
+  bandsintown: "1089397"
   facebook: "electriccallboy"
   instagram: "electriccallboy"
   tiktok: "@electriccallboy"

@@ -3,6 +3,7 @@ id: "b28ada3d-d338-4220-8d2b-91939b9aba54"
 title: "The 502s"
 type: band
 socials:
+  bandsintown: "12485098"
   facebook: ""
   instagram: ""
   tiktok: ""

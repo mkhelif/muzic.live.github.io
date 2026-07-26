@@ -3,6 +3,7 @@ id: "6eeebd34-e5d2-4831-9a8e-8ce653905f1e"
 title: "The Strokes"
 type: band
 socials:
+  bandsintown: "258"
   facebook: ""
   instagram: ""
   tiktok: ""

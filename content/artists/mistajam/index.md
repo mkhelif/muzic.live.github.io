@@ -2,6 +2,7 @@
 id: "af110ee5-3f34-42f5-86c8-11b54ae54cfd"
 title: "MistaJam"
 socials:
+  bandsintown: "316447"
   facebook: ""
   instagram: ""
   tiktok: ""

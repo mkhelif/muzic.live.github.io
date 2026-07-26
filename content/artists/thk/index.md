@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 THK, pour Tetra Hydro K, est un duo français d'électro-dub originaire de Besançon, actif depuis 2009.

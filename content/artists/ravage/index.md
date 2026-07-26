@@ -3,6 +3,7 @@ id: "e0bbb910-65d7-47c4-bb6e-ca9803cfc4bb"
 title: "Ravage"
 type: band
 socials:
+  bandsintown: "121242"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "a59f1978-c258-41cf-b912-7ef9da9c42a6"
 title: "Major Moment"
 socials:
+  bandsintown: "14979506"
   facebook: ""
   instagram: ""
   tiktok: ""

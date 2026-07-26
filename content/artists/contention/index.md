@@ -2,6 +2,7 @@
 id: "1598034a-8889-4b59-8dc4-93296fa3a469"
 title: "Contention"
 socials:
+  bandsintown: "477288"
   facebook: ""
   instagram: ""
   tiktok: ""

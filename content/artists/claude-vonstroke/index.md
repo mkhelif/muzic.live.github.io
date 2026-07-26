@@ -2,6 +2,7 @@
 id: "f1428338-6dcc-4260-ae57-bf4be09d834f"
 title: "Claude VonStroke"
 socials:
+  bandsintown: "34017"
   facebook: ""
   instagram: ""
   tiktok: ""

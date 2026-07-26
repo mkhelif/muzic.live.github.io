@@ -17,6 +17,8 @@ socials:
   spotify: ""
   tidal: ""
 cover: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 Paolo. est un artiste musical dont les informations biographiques restent peu documentées dans les

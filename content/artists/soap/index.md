@@ -2,6 +2,7 @@
 id: "4ccd67fc-0771-4eb7-848f-279e63c0ff7c"
 title: "SOAP"
 socials:
+  bandsintown: "13341717"
   facebook: ""
   instagram: ""
   tiktok: ""

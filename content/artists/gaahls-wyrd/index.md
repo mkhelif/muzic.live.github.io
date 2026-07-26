@@ -2,6 +2,7 @@
 id: "18a69916-2657-4aba-a296-1badb557526c"
 title: "Gaahls WYRD"
 socials:
+  bandsintown: "12701607"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -22,6 +22,7 @@ members:
       - start: 1985
         end: 1988
 socials:
+  bandsintown: "17761"
   facebook: "theyounggods"
   instagram: "theyounggodsmusic"
   tiktok: ""

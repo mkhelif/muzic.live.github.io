@@ -3,6 +3,7 @@ id: "fc149d26-3f56-4d8c-bd42-83d9dc28b078"
 title: "Ichon"
 type: person
 socials:
+  bandsintown: "8640458"
   facebook: ""
   instagram: ""
   tiktok: ""

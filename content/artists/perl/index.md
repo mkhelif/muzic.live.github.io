@@ -3,6 +3,7 @@ id: "11bfdac4-5149-4839-830a-358c4e02e587"
 title: "Perl"
 type: band
 socials:
+  bandsintown: "125729"
   facebook: ""
   instagram: ""
   tiktok: ""

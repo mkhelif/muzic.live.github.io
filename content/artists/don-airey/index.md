@@ -3,6 +3,7 @@ id: "284186f2-9723-491e-b9a8-d85d0bbe0b1e"
 title: "Don Airey"
 type: person
 socials:
+  bandsintown: "232135"
   facebook: ""
   instagram: ""
   tiktok: ""

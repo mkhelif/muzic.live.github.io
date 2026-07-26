@@ -2,6 +2,7 @@
 id: "6f0426fb-e27f-4f86-9ea5-32ad9486e743"
 title: "Courteeners"
 socials:
+  bandsintown: "44038"
   facebook: ""
   instagram: ""
   tiktok: ""

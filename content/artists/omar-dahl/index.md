@@ -3,6 +3,7 @@ id: "191a9b54-b98a-46c2-b58d-5aa48586e5ad"
 title: "Omar Dahl"
 type: band
 socials:
+  bandsintown: "15545193"
   facebook: ""
   instagram: ""
   tiktok: ""

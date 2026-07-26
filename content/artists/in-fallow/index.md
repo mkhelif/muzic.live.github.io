@@ -39,6 +39,8 @@ socials:
   spotify: ""
   tidal: ""
 cover: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-25
 ---
 
 In Fallow est un quatuor originaire de Lausanne, en Suisse, mêlant les inspirations math rock et post-rock (dans la

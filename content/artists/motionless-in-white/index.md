@@ -3,6 +3,7 @@ id: "6aa044a0-7c35-4003-8e64-bf4565c47a8d"
 title: "Motionless In White"
 type: band
 socials:
+  bandsintown: "7532"
   facebook: ""
   instagram: ""
   tiktok: ""

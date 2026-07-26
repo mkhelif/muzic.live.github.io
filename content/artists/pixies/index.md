@@ -3,6 +3,7 @@ id: "afeb60c3-ae28-48f2-93ea-3491cd32b225"
 title: "Pixies"
 type: band
 socials:
+  bandsintown: "417"
   facebook: ""
   instagram: ""
   tiktok: ""

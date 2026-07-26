@@ -3,6 +3,7 @@ id: "55b13385-5e2b-41fd-b609-11193db5e021"
 title: "Voilà"
 type: band
 socials:
+  bandsintown: "630900"
   facebook: ""
   instagram: ""
   tiktok: ""

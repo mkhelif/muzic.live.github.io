@@ -3,6 +3,7 @@ id: "273fb493-da91-4853-9fb7-e49b11a17635"
 title: "Vladimir Cauchemar"
 type: person
 socials:
+  bandsintown: "15071194"
   facebook: "vladimircauchemar"
   instagram: "vladimircauchemar"
   x: "VCauchemar"

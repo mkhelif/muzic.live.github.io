@@ -3,6 +3,7 @@ id: "0f522beb-3a99-4bb7-b552-9f35dcab62aa"
 title: "Lila Drew"
 type: person
 socials:
+  bandsintown: "15506277"
   facebook: ""
   instagram: ""
   tiktok: ""

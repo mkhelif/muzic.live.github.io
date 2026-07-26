@@ -3,6 +3,7 @@ id: "ed9e65ae-be49-4b88-96b8-5e77f8bf20df"
 title: "Lou K"
 type: band
 socials:
+  bandsintown: "12448956"
   facebook: ""
   instagram: ""
   tiktok: ""

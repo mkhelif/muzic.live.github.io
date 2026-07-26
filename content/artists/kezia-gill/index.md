@@ -3,6 +3,7 @@ id: "e5158d67-78e8-40c5-9047-1f83f7441737"
 title: "Kezia Gill"
 type: person
 socials:
+  bandsintown: "7170142"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "f4660942-d8ec-45b2-b342-2a5f0c267a86"
 title: "Overthrow"
 socials:
+  bandsintown: "270094"
   facebook: ""
   instagram: ""
   tiktok: ""

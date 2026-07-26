@@ -3,6 +3,7 @@ id: "8e577dd5-4135-4859-ba79-a7e2c1c8e8b8"
 title: "ubaq"
 type: band
 socials:
+  bandsintown: "15646377"
   facebook: ""
   instagram: ""
   tiktok: ""

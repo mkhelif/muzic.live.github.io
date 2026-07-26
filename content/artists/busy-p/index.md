@@ -2,6 +2,7 @@
 id: "45159b79-7a64-4b3c-b796-a1b708185ae2"
 title: "Busy P"
 socials:
+  bandsintown: "2017"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "3afe30ca-048d-4cf7-86dd-afdb4a2806dd"
 title: "Revolver"
 type: unknown
 socials:
+  bandsintown: "43279"
   facebook: ""
   instagram: ""
   tiktok: ""

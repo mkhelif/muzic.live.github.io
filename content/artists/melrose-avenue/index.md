@@ -3,6 +3,7 @@ id: "65ce4614-8761-4e85-ad8c-0db499330f1c"
 title: "Melrose Avenue"
 type: band
 socials:
+  bandsintown: "15583372"
   facebook: ""
   instagram: ""
   tiktok: ""

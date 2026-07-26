@@ -2,6 +2,7 @@
 id: "55be3ff1-fbbe-48e0-aa59-8fb85031b612"
 title: "Sofiane"
 socials:
+  bandsintown: "65394"
   facebook: ""
   instagram: ""
   tiktok: ""

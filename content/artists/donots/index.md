@@ -2,6 +2,7 @@
 id: "4cc3e266-d1ba-4012-ad0d-987d5e435c61"
 title: "Donots"
 socials:
+  bandsintown: "32874"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -17,6 +17,8 @@ socials:
   spotify: ""
   tidal: ""
 cover: ""
+lastUpdate:
+  bandsintown-lookup: 2026-07-26
 ---
 
 The Carpets est un groupe de rock indépendant né de l'amitié entre le chanteur-guitariste **Luís Santos** et le

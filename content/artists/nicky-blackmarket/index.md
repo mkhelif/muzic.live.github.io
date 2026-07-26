@@ -2,6 +2,7 @@
 id: "d1faed40-fe38-4c10-97bc-558f34469b39"
 title: "Nicky Blackmarket"
 socials:
+  bandsintown: "128387"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "07de8796-2325-461c-99a9-69cfe5eca1d7"
 title: "Nous Étions Une Armée"
 type: band
 socials:
+  bandsintown: "15538424"
   facebook: ""
   instagram: ""
   tiktok: ""

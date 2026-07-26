@@ -4,6 +4,7 @@ title: "Sarah Brown"
 type: person
 management: "c11897d2-4f2d-4947-b086-510e064854de"
 socials:
+  bandsintown: "213416"
   facebook: "sarahbrownvocal"
   instagram: "sarahbrownvocal"
   threads: "@sarahbrownvocal"

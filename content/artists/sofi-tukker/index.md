@@ -3,6 +3,7 @@ id: "dfbdcbd7-423d-43d3-80d7-b829cc4d39bc"
 title: "Sofi Tukker"
 type: band
 socials:
+  bandsintown: "10928168"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "144b52e3-75cb-414c-bbb4-8e14c6e2bfb3"
 title: "La Cafetera Roja"
 type: band
 socials:
+  bandsintown: "1162944"
   facebook: ""
   instagram: ""
   tiktok: ""

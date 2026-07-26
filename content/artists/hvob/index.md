@@ -2,6 +2,7 @@
 id: "cfa03682-b46d-44ec-be2d-aafe09c45d38"
 title: "HVOB"
 socials:
+  bandsintown: "2861481"
   facebook: ""
   instagram: ""
   tiktok: ""

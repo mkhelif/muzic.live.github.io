@@ -3,6 +3,7 @@ id: "e507fd17-b9b1-4579-89ae-03347c1285e8"
 title: "Noora Louhimo"
 type: person
 socials:
+  bandsintown: "5692214"
   facebook: "nooralouhimoofficial"
   instagram: "nooralouhimoofficial"
   tiktok: "@nooralouhimo"

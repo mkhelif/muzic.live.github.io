@@ -48,6 +48,7 @@ members:
     periods:
       - start: 2013
 socials:
+  bandsintown: "1141"
   facebook: "Zebrahead"
   instagram: "zebraheadofficial"
   x: "zebrahead"

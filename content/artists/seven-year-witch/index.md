@@ -2,6 +2,7 @@
 id: "64d1f87a-bded-4a47-94a0-16c47644014c"
 title: "Seven Year Witch"
 socials:
+  bandsintown: "15089834"
   facebook: ""
   instagram: ""
   tiktok: ""

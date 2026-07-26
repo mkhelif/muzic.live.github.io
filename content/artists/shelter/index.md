@@ -3,6 +3,7 @@ id: "ea439630-2161-4da6-b997-91a83837430a"
 title: "Shelter"
 type: band
 socials:
+  bandsintown: "13620"
   facebook: ""
   instagram: ""
   tiktok: ""

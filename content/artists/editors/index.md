@@ -3,6 +3,7 @@ id: "97dadd8e-0230-49bc-9da5-b2cb7ff19c33"
 title: "Editors"
 type: band
 socials:
+  bandsintown: "1383"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -3,6 +3,7 @@ id: "81e53711-82d0-4739-a971-1eb21702da9a"
 title: "Simia"
 type: person
 socials:
+  bandsintown: "3049266"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -21,6 +21,7 @@ members:
     periods:
       - start: 2017
 socials:
+  bandsintown: "11604552"
   facebook: "saultsmusic"
   instagram: "saultsmusic"
   tiktok: "@saults_music"

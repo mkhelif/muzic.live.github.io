@@ -2,6 +2,7 @@
 id: "1ed23874-2799-49e1-bf10-3cfe00a1c725"
 title: "Twin Tribes"
 socials:
+  bandsintown: "14904274"
   facebook: ""
   instagram: ""
   tiktok: ""

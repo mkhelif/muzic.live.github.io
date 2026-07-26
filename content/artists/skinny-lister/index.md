@@ -3,6 +3,7 @@ id: "afef4ff7-57b9-4bc4-8277-ec1ed90efd97"
 title: "Skinny Lister"
 type: band
 socials:
+  bandsintown: "304733"
   facebook: ""
   instagram: ""
   tiktok: ""

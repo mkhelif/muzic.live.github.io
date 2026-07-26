@@ -2,6 +2,7 @@
 id: "48b54022-8646-4855-a0c1-aa2d7592fb6a"
 title: "Kylesa"
 socials:
+  bandsintown: "6209"
   facebook: ""
   instagram: ""
   tiktok: ""

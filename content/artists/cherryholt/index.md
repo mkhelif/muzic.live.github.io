@@ -2,6 +2,7 @@
 id: "46f3d4a6-cf36-4bd4-811d-6e6ef8f38948"
 title: "Cherryholt"
 socials:
+  bandsintown: "15612196"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -2,6 +2,7 @@
 id: "7ceba4d5-78dc-4ba9-afcc-2afda497a643"
 title: "Chris Potter"
 socials:
+  bandsintown: "48339"
   facebook: ""
   instagram: ""
   tiktok: ""

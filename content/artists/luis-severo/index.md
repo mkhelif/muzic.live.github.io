@@ -2,6 +2,7 @@
 id: "e226b083-1b52-46ec-8f04-e7d362855f57"
 title: "Luís Severo"
 socials:
+  bandsintown: "12646236"
   facebook: ""
   instagram: ""
   tiktok: ""
