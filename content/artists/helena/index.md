@@ -1,20 +1,22 @@
 ---
 id: "75f1e8eb-9dcc-46d1-80f4-fb8f845c9f0a"
-title: "Helena"
+title: "Helena Bailly"
+aliases:
+  - "Helena"
 type: person
 socials:
   facebook: ""
-  instagram: ""
+  instagram: "helena_blly"
   tiktok: ""
   x: ""
-  youtube: ""
-  web: ""
+  youtube: "@Helenablly"
+  web: "https://helenaofficiel.store/"
   email: ""
   amazon: ""
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: "3iHwsEoQOrf8uxVkLtWyD7"
+  spotify: "6M0dlWzmJ9Z81JM2WpHbsC"
   tidal: ""
 lastUpdate:
   bandsintown-lookup: 2026-07-25

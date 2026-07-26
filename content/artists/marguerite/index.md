@@ -1,20 +1,20 @@
 ---
 id: "657d6704-b527-4c7a-89a7-19c1abc7a91c"
 title: "Marguerite"
-type: unknown
+type: person
 socials:
   facebook: ""
-  instagram: ""
-  tiktok: ""
+  instagram: "margueritecommelafleur_"
+  tiktok: "@margueritecommelafleur__"
   x: ""
-  youtube: ""
+  youtube: "@margueritecommelafleur"
   web: ""
   email: ""
   amazon: ""
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "4jF2P66DtNEficnixuIhKQ"
   tidal: ""
 todo:
   - Add picture
