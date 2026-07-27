@@ -1,5 +1,4 @@
 {{/* --- News ---  */}}
-{{ $news := where .Site.RegularPages "Section" "news" }}
-{{ $news = where $news ".Params.artists" "intersect" (slice .Params.id) }}
-{{ $news = $news.ByDate.Reverse.Limit 4 }}
-{{ partial "news/list.html" (dict "context" . "news" $news) }}
+{{- $news := partial "index/get.html" (dict "index" "news" "group" "artists" "id" .Params.id) -}}
+{{- $news = first 4 $news -}}
+{{- partial "news/list.html" (dict "context" . "news" $news) -}}

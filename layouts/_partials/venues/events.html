@@ -1,16 +1,14 @@
-{{/* Fetch all nested venues (5 levels deep) */}}
-{{ $venues := slice .Params.id }}
-{{ range (seq 5)}}
-    {{ range hugo.Sites }}
-        {{ range where (where .Pages "Section" "venues") ".Params.venue" "in" $venues }}
-            {{ $venues = $venues | append .Params.id }}
-        {{ end }}
-    {{ end }}
-{{ end }}
-
-{{/* --- Events ---  */}}
-{{ $events := where .Site.RegularPages "Section" "events" }}
-{{ $events = where $events ".Params.venue" "in" $venues }}
-{{ $events = where $events ".Date" "ge" (now.AddDate 0 0 -3) }}
-{{ $events = $events.ByDate }}
-{{ partial "events/list.html" (dict "context" . "events" ($events.Limit 50)) }}
+{{/* --- Events --- */}}
+{{- $venues := partial "venues/descendants.html" .Params.id -}}
+{{- $byVenue := (partialCached "index/events.html" .).Get "venues" -}}
+{{- $events := slice -}}
+{{- range $venues -}}
+    {{- range (index $byVenue . | default slice) -}}
+        {{- if not (in $events .) -}}
+            {{- $events = $events | append . -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+{{- $events = where $events ".Date" "ge" (now.AddDate 0 0 -3) -}}
+{{- $events = sort $events "Date" -}}
+{{ partial "events/list.html" (dict "context" . "events" (first 50 $events)) }}

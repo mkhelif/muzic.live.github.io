@@ -1,13 +1,23 @@
 {{/* --- Events ---  */}}
+{{- /* On taxonomy term pages `.Params.id` is not a string: keep the id list
+       empty rather than feeding a nil key to `index`. */ -}}
 {{- $id := .Params.id -}}
-{{- $artistIds := slice $id -}}
+{{- $artistIds := slice -}}
 {{- if $id -}}
+    {{- $artistIds = $artistIds | append $id -}}
     {{- range (partialCached "artists/member-of-lookup.html" .).Get $id -}}
         {{- $artistIds = $artistIds | append .id -}}
     {{- end -}}
 {{- end -}}
-{{ $events := where .Site.RegularPages "Section" "events" }}
-{{ $events = where $events ".Params.artists" "intersect" $artistIds }}
-{{ $events = where $events ".Date" "ge" (now.AddDate 0 0 -3) }}
-{{ $events = $events.ByDate }}
+{{- $byArtist := (partialCached "index/events.html" .).Get "artists" -}}
+{{- $events := slice -}}
+{{- range $artistIds -}}
+    {{- range (index $byArtist . | default slice) -}}
+        {{- if not (in $events .) -}}
+            {{- $events = $events | append . -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+{{- $events = where $events ".Date" "ge" (now.AddDate 0 0 -3) -}}
+{{- $events = sort $events "Date" -}}
 {{ partial "events/list.html" (dict "context" . "events" $events) }}

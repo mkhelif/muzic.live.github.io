@@ -1,0 +1,26 @@
+{{- /*
+    Given a venue ID (as context), returns a slice with that ID plus every nested venue id below it (5 levels deep).
+
+    Usage: {{ $venueIds := partial "venues/descendants.html" .Params.id }}
+*/ -}}
+{{- $all := slice -}}
+{{- with . -}}
+    {{- $children := (partialCached "index/venues.html" .).Get "children" -}}
+    {{- $all = slice . -}}
+    {{- $frontier := slice . -}}
+
+    {{- range (seq 5) -}}
+        {{- $next := slice -}}
+        {{- range $frontier -}}
+            {{- range (index $children . | default slice) -}}
+                {{- if not (in $all .) -}}
+                    {{- $all = $all | append . -}}
+                    {{- $next = $next | append . -}}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
+        {{- $frontier = $next -}}
+    {{- end -}}
+{{- end -}}
+
+{{- return $all -}}

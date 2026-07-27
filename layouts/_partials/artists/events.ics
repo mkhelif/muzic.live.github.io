@@ -1,5 +1,3 @@
 {{/* --- Events ---  */}}
-{{- $events := where .Site.RegularPages "Section" "events" -}}
-{{- $events = where $events ".Params.artists" "intersect" (slice .Params.id) -}}
-{{- $events = $events.ByDate -}}
+{{- $events := partial "index/get.html" (dict "index" "events" "group" "artists" "id" .Params.id) -}}
 {{- partial "calendar/events.ics" (dict "page" . "events" $events) -}}

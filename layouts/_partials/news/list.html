@@ -1,4 +1,4 @@
-{{- if gt .news.Len 0 -}}
+{{- if gt (len .news) 0 -}}
     <div id="news" class="mt-5 mb-4">
         {{- partial "titles/h3.html" (dict "title" "Actualités") -}}
         <div class="row row-cols-1 row-cols-md-4" data-pagefind-ignore="all">

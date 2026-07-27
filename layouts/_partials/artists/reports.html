@@ -1,12 +1,22 @@
 {{/* --- Reports --- */}}
+{{- /* On taxonomy term pages `.Params.id` is not a string: keep the id list
+       empty rather than feeding a nil key to `index`. */ -}}
 {{- $id := .Params.id -}}
-{{- $artistIds := slice $id -}}
+{{- $artistIds := slice -}}
 {{- if $id -}}
+    {{- $artistIds = $artistIds | append $id -}}
     {{- range (partialCached "artists/member-of-lookup.html" .).Get $id -}}
         {{- $artistIds = $artistIds | append .id -}}
     {{- end -}}
 {{- end -}}
-{{- $reports := where .Site.RegularPages "Section" "reports" -}}
-{{- $reports = where $reports ".Params.artists" "intersect" $artistIds -}}
-{{- $reports = $reports.ByDate.Reverse -}}
+{{- $byArtist := (partialCached "index/reports.html" .).Get "artists" -}}
+{{- $reports := slice -}}
+{{- range $artistIds -}}
+    {{- range (index $byArtist . | default slice) -}}
+        {{- if not (in $reports .) -}}
+            {{- $reports = $reports | append . -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+{{- $reports = sort $reports "Date" "desc" -}}
 {{- partial "reports/list.html" (dict "context" . "reports" $reports) -}}

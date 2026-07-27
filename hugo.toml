@@ -28,12 +28,17 @@ enableRobotsTXT = true
   [services.rss]
     limit = 30
 
+# Pagination
+[pagination]
+  pagerSize = 50
+
 # RSS
 [outputs]
   home = ['html', 'rss', 'ics']
   page = ['html', 'ics']
   section = ['html', 'ics']
   taxonomy = ['html']
+  term = ['html']
 
 [outputFormats]
   [outputFormats.rss]
@@ -41,6 +46,12 @@ enableRobotsTXT = true
   [outputFormats.ics]
     baseName = "calendar"
     mediaType = 'text/calendar'
+
+# Only artists and venues expose a calendar
+[[cascade]]
+  outputs = ['html']
+  [cascade.target]
+    path = '{/albums/**,/events/**,/festivals/**,/news/**,/reports/**}'
 
 # Markup
 [markup]

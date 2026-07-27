@@ -1,5 +1,3 @@
 {{/* --- News ---  */}}
-{{ $news := where .Site.RegularPages "Section" "news" }}
-{{ $news = where $news ".Params.festival" .Params.id }}
-{{ $news = $news.ByDate.Reverse }}
-{{ partial "news/list.html" (dict "context" . "news" $news) }}
+{{- $news := partial "index/get.html" (dict "index" "news" "group" "festivals" "id" .Params.id) -}}
+{{- partial "news/list.html" (dict "context" . "news" $news) -}}

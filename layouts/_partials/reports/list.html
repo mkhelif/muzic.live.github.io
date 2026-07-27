@@ -1,4 +1,4 @@
-{{- if gt .reports.Len 0 -}}
+{{- if gt (len .reports) 0 -}}
     <div data-pagefind-ignore="all">
         <div id="reports" class="mt-5 mb-4">{{ partial "titles/h3.html" (dict "title" (default "Chroniques de concerts" .title)) }}</div>
         {{- range $index, $report := .reports -}}

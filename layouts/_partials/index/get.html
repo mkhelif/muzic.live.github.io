@@ -1,0 +1,19 @@
+{{- /*
+    Nil-safe accessor for the cached indexes.
+
+    Usage:
+      {{ $events := partial "index/get.html" (dict
+            "index" "events" "group" "artists" "id" .Params.id) }}
+
+    - index : "events" | "reports" | "news" | "albums"
+    - group : "artists" | "venues" | "festivals" | "albums"
+    - id    : the entity uuid (may be nil / empty)
+*/ -}}
+{{- $result := slice -}}
+{{- with .id -}}
+    {{- $map := (partialCached (printf "index/%s.html" $.index) .).Get $.group -}}
+    {{- with index $map . -}}
+        {{- $result = . -}}
+    {{- end -}}
+{{- end -}}
+{{- return $result -}}

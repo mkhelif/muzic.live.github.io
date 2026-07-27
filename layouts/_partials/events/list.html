@@ -1,4 +1,4 @@
-{{- if gt .events.Len 0 -}}
+{{- if gt (len .events) 0 -}}
     <div id="events" data-pagefind-ignore="all">
         {{- partial "titles/h3.html" (dict "title" "Concerts à venir" "link" (printf "%s/calendar.ics" .context.Path) "linkText" " " "linkIcon" "fa-calendar") -}}
         <table class="table table-sm table-borderless">

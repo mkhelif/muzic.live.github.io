@@ -1,16 +1,13 @@
-{{/* Fetch all nested venues (5 levels deep) */}}
-{{ $venues := slice .Params.id }}
-{{ range (seq 5)}}
-    {{ range hugo.Sites }}
-        {{ range where (where .Pages "Section" "venues") ".Params.venue" "in" $venues }}
-            {{ $venues = $venues | append .Params.id }}
-        {{ end }}
-    {{ end }}
-{{ end }}
-
 {{/* --- Reports --- */}}
-{{ $reports := where .Site.Pages "Section" "reports" }}
-{{ $reports = where $reports ".Params.venue" "in" $venues }}
-{{ $reports = $reports.ByDate.Reverse }}
-{{ partial "reports/list.html" (dict "context" . "reports" ($reports.Limit 5) "title" "Dernières chroniques de concerts") }}
-
+{{- $venues := partial "venues/descendants.html" .Params.id -}}
+{{- $byVenue := (partialCached "index/reports.html" .).Get "venues" -}}
+{{- $reports := slice -}}
+{{- range $venues -}}
+    {{- range (index $byVenue . | default slice) -}}
+        {{- if not (in $reports .) -}}
+            {{- $reports = $reports | append . -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+{{- $reports = sort $reports "Date" "desc" -}}
+{{ partial "reports/list.html" (dict "context" . "reports" (first 5 $reports) "title" "Dernières chroniques de concerts") }}
