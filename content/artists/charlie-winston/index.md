@@ -15,9 +15,10 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "162248"
   qobuz: ""
 lastUpdate:
+  bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---
 

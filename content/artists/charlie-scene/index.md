@@ -3,6 +3,7 @@
 id: "897ff011-105f-4eb0-a147-2b90f250a377"
 title: "Charlie Scene"
 socials:
+  deezer: "4418794"
   facebook: ""
   instagram: ""
   x: ""
@@ -11,5 +12,6 @@ socials:
   youtube: ""
   spotify: "1NYRkiWuB3Hx3lT9O6D2JN"
 lastUpdate:
+  bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

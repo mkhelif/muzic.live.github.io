@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 R2, de son vrai nom Rayann Kipre, est un rappeur français né le 26 août 2004 à Saint-Denis, en Seine-Saint-Denis,

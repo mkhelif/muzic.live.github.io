@@ -17,6 +17,9 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
+  deezer-lookup: 2026-07-27
 ---
 
 Eva Garnier, connue sous le nom d'Eva, anciennement Eva Queen, est une chanteuse française née le 12 mars 2001 à

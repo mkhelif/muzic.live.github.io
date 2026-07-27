@@ -4,6 +4,7 @@ id: "f9dbe4e1-c4ef-4680-a924-87a9cf1b2a68"
 title: "Daron Malakian"
 type: person
 socials:
+  deezer: "4448378"
   facebook: ""
   instagram: ""
   x: ""
@@ -12,5 +13,6 @@ socials:
   youtube: ""
   spotify: "2MqLs2L4iNhAUNwJQwjmdm"
 lastUpdate:
+  bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

@@ -13,10 +13,12 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "1441398"
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Deize Maria Gonçalves da Silva, connue sous le nom de Deize Tigrona, est une chanteuse brésilienne de funk carioca née

@@ -2,6 +2,7 @@
 id: "abb8b60d-867a-4e53-a8c9-adbccedad8db"
 title: "Dave Buckner"
 socials:
+  deezer: "4490631"
   facebook: ""
   instagram: ""
   x: ""
@@ -10,4 +11,6 @@ socials:
   youtube: ""
 todo:
   - Add description/picture/socials
+lastUpdate:
+  bandsintown: 2026-07-27
 ---

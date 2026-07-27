@@ -19,6 +19,8 @@ socials:
   qobuz: ""
   spotify: "1c0EKqLHGhhgS3hRMLPnuS"
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Linapary est une artiste originaire de la côte caribéenne de la Colombie, aujourd'hui basée à Madrid.

@@ -13,10 +13,12 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "344788571"
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Fey Fili est une autrice-compositrice-interprète folk-country émergente, révélée en 2026 par ses premières

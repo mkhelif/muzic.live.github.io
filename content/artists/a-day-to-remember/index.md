@@ -78,12 +78,13 @@ socials:
   web: "https://adtr.com"
   email: "contact@adtr.com"
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "59925710"
+  deezer: "17003"
   qobuz: ""
   spotify: "4NiJW4q9ichVqL1aUsgGAN"
   tidal: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---

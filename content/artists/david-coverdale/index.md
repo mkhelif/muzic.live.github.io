@@ -13,10 +13,11 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "13663"
   qobuz: ""
   spotify: "2t5vvfFf3UdW0pJa7bz7i1"
   tidal: ""
 lastUpdate:
+  bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

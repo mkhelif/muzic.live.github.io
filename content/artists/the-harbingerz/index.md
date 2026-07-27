@@ -15,7 +15,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "254931592"
   qobuz: ""
 todo:
   - Add picture

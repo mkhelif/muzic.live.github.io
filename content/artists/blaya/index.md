@@ -7,6 +7,10 @@ socials:
   tiktok: "@blaya_con_dios"
   x: "blayak"
   threads: ""
+  bandsintown: "1958388"
   youtube: "@BlayaOfficial"
   email: "blaya.k@gmail.com"
+lastUpdate:
+  deezer-lookup: 2026-07-27
+  bandsintown: 2026-07-27
 ---

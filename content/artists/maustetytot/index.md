@@ -13,7 +13,7 @@ socials:
   email: "aki@lordag.fi"
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "58122232"
   qobuz: ""
   spotify: "7JHNSkrbx2b0w8psFeVE4I"
   tidal: ""

@@ -15,7 +15,7 @@ socials:
   x: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "227761055"
   qobuz: ""
 todo:
   - Add picture from concert

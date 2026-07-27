@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "2txHhyCwHjUEpJjWrEyqyX"
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Tom Odell est un auteur-compositeur-interprète britannique né le 24 novembre 1990 à Chichester, dans le West Sussex.

@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Guilt Trip est un groupe de metalcore britannique originaire de Manchester, formé en 2015 avec pour ambition de jouer

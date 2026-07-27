@@ -17,7 +17,7 @@ socials:
   web: "https://www.frank-zummo.com/"
   amazon: ""
   apple: "364756323"
-  deezer: ""
+  deezer: "4487389"
   qobuz: ""
   spotify: "7xN9WPokBDyU1yTL2nxmjz"
   tidal: ""

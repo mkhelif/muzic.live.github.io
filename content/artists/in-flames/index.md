@@ -125,7 +125,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "120"
   qobuz: ""
   spotify: "57ylwQTnFnIhJh4nu4rxCs"
   tidal: ""

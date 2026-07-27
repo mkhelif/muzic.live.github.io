@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "0TGeOStDbxqVi8UJdBQsEx"
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Zélie incarne une nouvelle vague d'artistes français qui conjuguent introspection, modernité et exigence d'écriture. À

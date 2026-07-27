@@ -13,10 +13,12 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "56142"
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Esoteric est un groupe anglais de funeral doom metal originaire de Birmingham, fondé en juillet 1992 par le chanteur

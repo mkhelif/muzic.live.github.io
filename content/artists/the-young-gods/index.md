@@ -33,7 +33,7 @@ socials:
   email: "cesare@twoflow.com"
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "4274"
   qobuz: ""
   spotify: "1xF9B1eiCKUejBnEE9k3sY"
   tidal: ""

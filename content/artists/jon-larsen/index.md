@@ -11,5 +11,6 @@ socials:
   youtube: ""
   spotify: "78932qb8ldFSsXgDq2cltO"
 lastUpdate:
+  deezer-lookup: 2026-07-27
   spotify: 2026-07-23
 ---

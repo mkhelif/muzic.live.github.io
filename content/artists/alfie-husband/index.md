@@ -20,6 +20,7 @@ todo:
   - Add description
   - Add socials
 lastUpdate:
+  deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-23
   spotify: 2026-07-23
 ---

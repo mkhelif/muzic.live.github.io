@@ -3,6 +3,7 @@ id: "4a85247a-ca20-4897-8cc0-f861dbe02306"
 title: "Sarah Hellyer"
 type: person
 socials:
+  deezer: "190646917"
   facebook: ""
   instagram: ""
   x: ""

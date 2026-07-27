@@ -84,7 +84,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "1447548"
   qobuz: ""
 lastUpdate:
   spotify: 2026-07-23

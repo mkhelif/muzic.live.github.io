@@ -22,6 +22,7 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  deezer-lookup: 2026-07-27
   spotify: 2026-07-23
 ---
 

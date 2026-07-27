@@ -49,7 +49,7 @@ socials:
   tiktok: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "6758479"
   qobuz: ""
 lastUpdate:
   spotify: 2026-07-23

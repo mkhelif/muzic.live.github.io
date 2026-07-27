@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Sheila représente l'une des figures les plus emblématiques de la chanson française et de la variété internationale,

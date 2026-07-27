@@ -2,6 +2,7 @@
 id: "2cbb1d9a-0d46-441c-812a-453c15597b05"
 title: "Aaron Bruch"
 socials:
+  deezer: "9344394"
   facebook: ""
   instagram: ""
   x: ""
@@ -11,5 +12,6 @@ socials:
 todo:
   - Add description/picture/socials
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

@@ -2,6 +2,7 @@
 id: "38dc87d7-e697-483a-b16e-628278980044"
 title: "Patrick Walden"
 socials:
+  deezer: "5175289"
   facebook: ""
   instagram: ""
   x: ""

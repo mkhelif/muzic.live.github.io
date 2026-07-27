@@ -3,6 +3,7 @@
 id: "c1a78ccd-70b7-405d-a68f-2c0658224719"
 title: "Mick Harvey"
 socials:
+  deezer: "241729"
   facebook: ""
   instagram: ""
   x: ""

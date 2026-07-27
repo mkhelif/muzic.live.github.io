@@ -12,4 +12,6 @@ socials:
   soundcloud: "brankoofficial"
   email: "hellobranko@gmail.com"
   spotify: "1lEBJGJgdoevi1Clv9CqLT"
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---

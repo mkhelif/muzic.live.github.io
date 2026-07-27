@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Piche, de son vrai nom Mike Pierre Gautier, est un artiste protéiforme originaire d'Arles, d'ascendance

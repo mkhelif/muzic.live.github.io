@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Myra est une autrice-compositrice-interprète française à la voix grave et veloutée, révélée par la nouvelle scène pop

@@ -39,7 +39,7 @@ socials:
   tiktok: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "4441488"
   qobuz: ""
 todo:
   - Add picture from concert

@@ -98,7 +98,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "5796"
   qobuz: ""
   spotify: "2o18h28enlHxj887tATc58"
   tidal: ""

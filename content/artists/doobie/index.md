@@ -17,6 +17,9 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
+  deezer-lookup: 2026-07-27
 ---
 
 Doobie est un musicien américain originaire de l'Ohio qui mêle hip-hop, grunge et rock dans un style hybride et

@@ -22,6 +22,7 @@ todo:
   - Verify social networks
   - Add discography
 lastUpdate:
+  deezer-lookup: 2026-07-27
   spotify: 2026-07-23
 ---
 

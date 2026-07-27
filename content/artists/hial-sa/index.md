@@ -13,7 +13,7 @@ socials:
   phone: "+46761645313"
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "192797287"
   qobuz: ""
   spotify: ""
   tidal: ""

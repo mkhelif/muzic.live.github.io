@@ -61,13 +61,14 @@ socials:
   email: "info@dankojones.com"
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "7270"
   qobuz: ""
   spotify: "7CGoviGsNXYmGOBkXk8dtW"
   tidal: ""
 todo:
   - Add picture
 lastUpdate:
+  bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---
 

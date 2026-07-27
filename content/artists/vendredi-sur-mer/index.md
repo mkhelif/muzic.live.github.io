@@ -19,6 +19,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Style onirique et poétique - Vendredi sur Mer, c'est Charline Mignot, Genevoise née en 1993, qui distille une pop

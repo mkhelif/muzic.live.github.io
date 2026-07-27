@@ -35,7 +35,7 @@ socials:
   email: "fordhamband@gmail.com"
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "53423702"
   qobuz: ""
   spotify: ""
   tidal: ""

@@ -2,6 +2,7 @@
 id: "717da951-0892-499c-982d-d754330a5b4a"
 title: "Michael Shuman"
 socials:
+  deezer: "6915011"
   facebook: ""
   instagram: ""
   x: ""

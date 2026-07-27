@@ -43,7 +43,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "105849322"
   qobuz: ""
 ---
 

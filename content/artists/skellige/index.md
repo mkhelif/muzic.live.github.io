@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Skellige est un trio folk acoustique suisse fondé en 2022 par trois musiciens expérimentés. Le groupe puise

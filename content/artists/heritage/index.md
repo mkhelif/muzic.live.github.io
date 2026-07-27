@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Héritage est un groupe de blues-rock français né d'une histoire familiale aussi touchante qu'exceptionnelle : celle d'un

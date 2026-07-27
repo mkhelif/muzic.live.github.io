@@ -55,4 +55,6 @@ socials:
 todo:
   - Add description
   - Add picture
+lastUpdate:
+  apple: 2026-07-27
 ---

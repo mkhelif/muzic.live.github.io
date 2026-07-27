@@ -19,6 +19,8 @@ socials:
   qobuz: ""
   spotify: "55Dacc2jL4tgb6Af23NlF6"
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Miki, de son vrai nom Mikaela Duplay, est une autrice-compositrice-interprète, rappeuse et pianiste

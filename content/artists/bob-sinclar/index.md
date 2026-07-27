@@ -13,7 +13,7 @@ socials:
   email: "info@yellowprod.fr"
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "157"
   qobuz: ""
   spotify: "5YFS41yoX0YuFY39fq21oN"
   tidal: ""

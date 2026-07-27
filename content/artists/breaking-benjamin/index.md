@@ -80,7 +80,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "5286"
   qobuz: ""
   spotify: "5BtHciL0e0zOP7prIHn3pP"
   tidal: ""

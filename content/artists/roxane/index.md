@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Roxane Ischi, connue sous le nom de Roxane, est une auteure-compositrice-interprète suisse basée à Genève, formée à

@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Le SatchVai Band incarne la rencontre exceptionnelle de deux virtuoses de la guitare électrique : Joe Satriani et Steve

@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "17u6mMCLx4RTzjIKRaTRIv"
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Solann Lis-Amboyan, née le 26 décembre 1999 à Paris, est une autrice-compositrice-interprète et musicienne française.

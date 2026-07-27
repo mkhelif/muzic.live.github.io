@@ -20,6 +20,9 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  bandsintown: 2026-07-27
+  deezer-lookup: 2026-07-27
 ---
 
 Flox, de son vrai nom Florian Gratton, est un compositeur de reggae d'origine britannique installé en France depuis

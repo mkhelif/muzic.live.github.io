@@ -47,12 +47,14 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "111201992"
   qobuz: ""
   spotify: ""
 todo:
   - Add picture from concert
 lastUpdate:
+  apple-lookup: 2026-07-27
+  deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
 ---

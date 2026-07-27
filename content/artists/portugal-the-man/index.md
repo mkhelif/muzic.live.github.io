@@ -55,6 +55,7 @@ socials:
 todo:
   - Update cover with concert picture
 lastUpdate:
+  deezer-lookup: 2026-07-27
   spotify: 2026-07-23
 ---
 

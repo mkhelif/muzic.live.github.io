@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "3qsKSpcV3ncke3hw52JSMB"
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Young Miko, de son vrai nom María Victoria Ramírez de Arellano Cardona, est une rappeuse, chanteuse et autrice

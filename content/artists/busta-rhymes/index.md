@@ -17,6 +17,9 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
+  bandsintown: 2026-07-27
 ---
 
 Né Trevor George Smith Jr. le 20 mai 1972 de parents jamaïcains, Busta Rhymes revendique très tôt son héritage

@@ -3,6 +3,7 @@ id: "4dad92f9-f10d-410b-b8c6-ae27faff8ec1"
 title: "Tanner Wayne"
 type: person
 socials:
+  deezer: "49420122"
   facebook: ""
   instagram: ""
   x: ""

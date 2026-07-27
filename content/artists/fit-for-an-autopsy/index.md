@@ -64,7 +64,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "647800"
   qobuz: ""
   spotify: "0qJpY7K8p7g6sacvaGNt6i"
   tidal: ""
@@ -73,5 +73,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

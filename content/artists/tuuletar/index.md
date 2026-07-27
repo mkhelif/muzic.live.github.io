@@ -13,7 +13,7 @@ socials:
   email: "band@tuuletar.com"
   amazon: ""
   apple: "1097847344"
-  deezer: ""
+  deezer: "8600138"
   qobuz: ""
   spotify: "0sOlXdASHK2G1ZFP5UiZ6R"
   tidal: ""
@@ -21,4 +21,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  apple: 2026-07-27
 ---

@@ -13,7 +13,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "1980"
   qobuz: ""
   spotify: "6U3cvMmHIab0CAGtC5tRY3"
   tidal: ""
@@ -21,6 +21,7 @@ todo:
   - Verify social networks
   - Add logo cover
 lastUpdate:
+  bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---
 

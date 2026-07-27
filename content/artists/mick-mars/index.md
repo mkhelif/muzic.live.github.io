@@ -3,6 +3,7 @@
 id: "5f157932-4e1b-4a23-bca1-0a139aaeff60"
 title: "Mick Mars"
 socials:
+  deezer: "246418"
   facebook: ""
   instagram: ""
   x: ""

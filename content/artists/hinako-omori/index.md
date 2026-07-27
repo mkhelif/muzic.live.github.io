@@ -17,7 +17,7 @@ socials:
   tiktok: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "10897114"
   qobuz: ""
 lastUpdate:
   spotify: 2026-07-23

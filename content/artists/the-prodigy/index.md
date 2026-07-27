@@ -39,7 +39,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "85"
   qobuz: ""
 ---
 

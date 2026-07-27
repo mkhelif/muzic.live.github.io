@@ -15,11 +15,12 @@ socials:
   email: "amy@goldiemgmt.com"
   amazon: ""
   apple: "1171521321"
-  deezer: ""
+  deezer: "11303670"
   qobuz: ""
   spotify: "6O9vGMmTwzihULICPCsNf2"
   tidal: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26
   spotify: 2026-07-23

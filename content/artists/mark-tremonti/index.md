@@ -14,7 +14,7 @@ socials:
   email: "info@janusmusicmgmt.com"
   amazon: ""
   apple: "327441648"
-  deezer: ""
+  deezer: "4419052"
   qobuz: ""
   spotify: "44tQC1PjxXIpEgW0i8uN00"
   tidal: ""

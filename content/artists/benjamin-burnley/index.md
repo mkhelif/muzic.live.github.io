@@ -6,7 +6,10 @@ socials:
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "980025"
   youtube: ""
 todo:
   - Add description/picture/socials
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---

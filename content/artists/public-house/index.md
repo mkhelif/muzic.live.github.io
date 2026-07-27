@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Public House est un groupe de rock garage, aux riffs incisifs et à l'énergie live revendiquée, qui évolue notamment sur

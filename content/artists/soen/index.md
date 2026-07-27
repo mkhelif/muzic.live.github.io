@@ -70,7 +70,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "1581851"
   qobuz: ""
 ---
 

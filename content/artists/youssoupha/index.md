@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "5DW7NxqQ2875JtjuV7KMn4"
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Youssoupha Mabiki naît le 29 août 1979 à Kinshasa, en République démocratique du Congo. Il est le fils du musicien et

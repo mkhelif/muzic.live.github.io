@@ -52,7 +52,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "12022"
   qobuz: ""
 ---
 

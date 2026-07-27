@@ -19,4 +19,6 @@ socials:
   tidal: ""
 todo:
   - Add description
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---

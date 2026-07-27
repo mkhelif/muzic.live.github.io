@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Marilyn Manson, de son vrai nom **Brian Hugh Warner**, est un chanteur et musicien américain né le 5 janvier 1969. Leader

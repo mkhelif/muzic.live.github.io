@@ -4,6 +4,7 @@ id: "bd74e348-362e-4dcc-aea5-80045239b74a"
 title: "David Hodges"
 type: person
 socials:
+  deezer: "282952"
   facebook: ""
   instagram: ""
   x: ""
@@ -14,5 +15,6 @@ socials:
 todo:
   - Add description/picture/socials
 lastUpdate:
+  bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

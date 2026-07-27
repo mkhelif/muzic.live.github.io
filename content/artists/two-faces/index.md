@@ -19,6 +19,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Two Faces naît à Lyon de la rencontre entre deux frères d'âme partageant une vision artistique commune, unis par une

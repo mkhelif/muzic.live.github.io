@@ -14,7 +14,7 @@ socials:
   phone: "+41764576585"
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "180495"
   qobuz: ""
   spotify: "76f2T1ux3V5MIrFjGvy3V2"
   tidal: ""

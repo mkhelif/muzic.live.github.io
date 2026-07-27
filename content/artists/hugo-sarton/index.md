@@ -3,6 +3,7 @@ id: "6ab0b109-4206-4ac3-beae-083ae520ad3b"
 title: "Hugo Sarton"
 type: person
 socials:
+  deezer: "12907777"
   facebook: ""
   instagram: ""
   x: ""

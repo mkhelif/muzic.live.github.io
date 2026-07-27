@@ -4,6 +4,7 @@ id: "89b13a64-7dce-47a4-a04a-1b5d972e9086"
 title: "Ben Moody"
 type: person
 socials:
+  deezer: "3633"
   facebook: ""
   instagram: ""
   x: ""
@@ -14,6 +15,7 @@ socials:
 todo:
   - Add description/picture/socials
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

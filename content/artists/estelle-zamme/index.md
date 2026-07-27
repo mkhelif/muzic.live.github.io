@@ -13,10 +13,12 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "55398072"
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Estelle Zamme est un duo suisse de musique électronique actif depuis 2017, composé du musicien Étienne Bel, également

@@ -15,7 +15,7 @@ socials:
   email: "hindarfjall.management@gmail.com"
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "63352572"
   qobuz: ""
   spotify: "2whm1PlA7DHAGCTk7oQ0G4"
   tidal: ""

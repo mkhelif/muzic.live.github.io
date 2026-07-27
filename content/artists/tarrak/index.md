@@ -12,7 +12,7 @@ socials:
   email: "management@arcticsounds.gl"
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "10974380"
   qobuz: ""
   spotify: "3FTKo3aheAF0aAxbJWyiP8"
   tidal: ""

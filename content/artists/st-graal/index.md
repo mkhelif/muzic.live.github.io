@@ -12,7 +12,7 @@ socials:
   email: "stgraalofficiel@gmail.com"
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "13311053"
   qobuz: ""
   spotify: "7Kgv8CorcAKsG4of90vA5I"
   tidal: ""

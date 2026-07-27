@@ -2,6 +2,7 @@
 id: "49481ff0-2c2e-47dd-a334-8d54777c6967"
 title: "Ryan O'Keeffe"
 socials:
+  deezer: "302191091"
   facebook: ""
   instagram: ""
   x: ""

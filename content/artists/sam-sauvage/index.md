@@ -13,7 +13,7 @@ socials:
   email: "contact@samsauvage.fr"
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "101969182"
   qobuz: ""
   spotify: "1tlWl5ltF7CudnGGjF96KL"
   tidal: ""

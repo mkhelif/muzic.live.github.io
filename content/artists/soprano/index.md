@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "2RJBv9wXbW6m539q9NOfW1"
   tidal: ""
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
 
 Soprano, de son vrai nom Saïd M'Roumbaba, est un rappeur et chanteur français né le 14 janvier 1979 à Marseille, au

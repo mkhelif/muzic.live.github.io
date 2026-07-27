@@ -18,5 +18,6 @@ socials:
   spotify: "5MiBgHB60u2CoOmUrB3FWy"
   tidal: ""
 lastUpdate:
+  deezer-lookup: 2026-07-27
   spotify: 2026-07-23
 ---

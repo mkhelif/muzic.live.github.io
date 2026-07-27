@@ -14,10 +14,12 @@ socials:
   phone: "+33782715018"
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "292"
   qobuz: ""
   spotify: "7rz6ZZErn5YFDteXKhyf3g"
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Sérigne M'Baye Gueye, connu sous le nom de Disiz (anciennement Disiz la Peste), est un rappeur et acteur français né le

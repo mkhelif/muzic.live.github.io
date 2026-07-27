@@ -3,10 +3,13 @@ id: "ceb95ffa-2769-41a3-9eb0-f2275d775a80"
 title: "Chris Dangerous"
 type: person
 socials:
+  deezer: "8579216"
   facebook: ""
   instagram: ""
   x: ""
   threads: ""
   bandsintown: "2265664"
   youtube: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---

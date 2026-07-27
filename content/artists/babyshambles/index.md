@@ -59,11 +59,12 @@ socials:
   email: "darren@shakethatsocial.com"
   amazon: ""
   apple: "32439626"
-  deezer: ""
+  deezer: "1331"
   qobuz: ""
   spotify: "0IBAqjHG8DSaD7PPCGnGiZ"
   tidal: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26
   spotify: 2026-07-23

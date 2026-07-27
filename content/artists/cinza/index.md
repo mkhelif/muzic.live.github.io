@@ -25,6 +25,7 @@ social:
   web: "https://www.cinza.fr/"
   spotify: "3KwmuFoCYBpnx7e9i6VZr0"
 lastUpdate:
+  deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
 ---

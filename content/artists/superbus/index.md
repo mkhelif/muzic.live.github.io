@@ -61,7 +61,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "1024"
   qobuz: ""
 lastUpdate:
   bandsintown-lookup: 2026-07-26

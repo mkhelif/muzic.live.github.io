@@ -2,6 +2,7 @@
 id: "b05db7a5-4c3f-4cdd-aa99-42f27db71027"
 title: "Greyson Nekrutman"
 socials:
+  deezer: "225171245"
   facebook: ""
   instagram: ""
   x: ""

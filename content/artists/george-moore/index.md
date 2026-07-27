@@ -3,6 +3,7 @@ id: "2f2a1452-89ca-485b-a3c2-0cb12939173c"
 title: "George Moore"
 type: person
 socials:
+  deezer: "4475210"
   facebook: ""
   instagram: ""
   x: ""

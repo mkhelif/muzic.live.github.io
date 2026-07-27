@@ -16,7 +16,7 @@ socials:
   x: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "14633091"
   qobuz: ""
   spotify: ""
   tidal: ""

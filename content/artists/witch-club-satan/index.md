@@ -13,7 +13,7 @@ socials:
   email: "witchclubsatan@gmail.com"
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "171456867"
   qobuz: ""
   spotify: "395rqoVSDgQIF7fzRfZIoy"
   tidal: ""

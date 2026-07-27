@@ -3,6 +3,7 @@ id: "8af204a0-3679-4036-a095-909e56e4c7c8"
 title: "Alex Bent"
 type: person
 socials:
+  deezer: "4558160"
   facebook: ""
   instagram: ""
   x: ""
@@ -12,5 +13,6 @@ socials:
 todo:
   - Add description/picture/socials
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-23
 ---

@@ -13,7 +13,7 @@ socials:
   email: "sprintsmusic@gmail.com"
   amazon: ""
   apple: "1457102942"
-  deezer: ""
+  deezer: "62109552"
   qobuz: ""
   spotify: "27nD8P491xX8UzG3j01eIY"
   tidal: ""

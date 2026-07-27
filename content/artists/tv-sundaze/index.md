@@ -48,7 +48,7 @@ socials:
   email: "tvsundaze@gmail.com"
   amazon: ""
   apple: "1500408654"
-  deezer: ""
+  deezer: "86818102"
   qobuz: ""
   spotify: "5ij8GBVsVcmaMANFC8KkLM"
   tidal: ""

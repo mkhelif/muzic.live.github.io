@@ -13,7 +13,7 @@ socials:
   email: "info@musickness.be"
   amazon: ""
   apple: "935828781"
-  deezer: ""
+  deezer: "8067361"
   qobuz: ""
   spotify: "11T0XSkxSB5KUPTe8P8BOl"
   tidal: ""

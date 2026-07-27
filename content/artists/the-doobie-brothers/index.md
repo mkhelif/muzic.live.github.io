@@ -110,7 +110,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "1144"
   qobuz: ""
   spotify: "39T6qqI0jDtSWWioX8eGJz"
   tidal: ""

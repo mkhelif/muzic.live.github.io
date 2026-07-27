@@ -20,4 +20,6 @@ socials:
 todo:
   - Add picture
   - Add description
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---

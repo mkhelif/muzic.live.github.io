@@ -13,13 +13,15 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "10249388"
   qobuz: ""
   spotify: ""
   tidal: ""
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Basé à Londres, Electric Pyramid est un quintette mené par le chanteur et parolier Ol Beach, réunissant des musiciens

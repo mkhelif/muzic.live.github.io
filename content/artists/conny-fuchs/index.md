@@ -2,6 +2,7 @@
 id: "495e0547-9574-4c41-9dd9-ca0680f2ee7c"
 title: "Conny Fuchs"
 socials:
+  deezer: "10538655"
   facebook: ""
   instagram: ""
   x: ""
