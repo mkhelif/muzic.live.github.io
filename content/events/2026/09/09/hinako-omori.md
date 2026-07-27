@@ -1,8 +1,0 @@
----
-date: 2026-09-09T19:00:00
-venue: "f46be847-574d-4918-abee-7f4d395eec5f"
-artists:
-  - "02d228a2-67e3-4e75-a886-df1bd85399aa"
-tickets:
-  web: "https://www.bandsintown.com/e/1038974683-hinako-omori-at-union-chapel?came_from=209"
----

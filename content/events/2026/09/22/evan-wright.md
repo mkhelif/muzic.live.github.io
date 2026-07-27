@@ -1,8 +1,0 @@
----
-date: 2026-09-22T20:00:00
-venue: "9d71d699-3d1b-48ab-8f4f-5036014234a3"
-artists:
-  - "6a68517f-3564-49e3-8062-560057893817"
-tickets:
-  web: "https://www.bandsintown.com/e/1039213191-evan-wright-at-channel-24?came_from=209"
----
