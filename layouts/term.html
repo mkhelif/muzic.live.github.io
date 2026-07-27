@@ -12,7 +12,7 @@
             {{ .Content }}
 
             <!-- Pages -->
-            {{ $paginator := .Paginate (cond (in (slice "reports" "festivals" "venues") .Section) (where .Pages "Section" "eq" "reports").ByDate.Reverse .Pages.ByTitle) 10 }}
+            {{ $paginator := .Paginate (cond (in (slice "reports" "festivals" "venues") .Section) (where .Pages "Section" "eq" "reports").ByDate.Reverse .Pages.ByTitle) }}
             {{ range $index, $report := $paginator.Pages }}
                 {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
             {{ end }}

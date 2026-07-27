@@ -5,7 +5,7 @@
         {{ .Content }}
 
         <!-- Pages -->
-        {{ $paginator := .Paginate (where .Pages "Section" "eq" .Section).ByDate.Reverse 10 }}
+        {{ $paginator := .Paginate (where .Pages "Section" "eq" .Section).ByDate.Reverse }}
         {{ range $index, $report := $paginator.Pages }}
             {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
         {{ end }}

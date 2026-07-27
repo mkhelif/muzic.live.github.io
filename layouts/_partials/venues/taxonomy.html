@@ -1,7 +1,7 @@
 {{ $venues := where site.RegularPages "Section" "venues" }}
 {{ $venues = $venues.ByTitle }}
 
-{{ $paginator := .Paginate $venues 10 }}
+{{ $paginator := .Paginate $venues }}
 {{ range $index, $location := $paginator.Pages }}
     {{ partial "venues/list-entry.html" (dict "location" $location "index" $index) }}
 {{ end }}
