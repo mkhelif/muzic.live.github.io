@@ -1,0 +1,8 @@
+---
+date: 2026-09-02T19:00:00
+venue: "f64d29bf-9196-42ae-811d-c9b9b9df4e7c"
+artists:
+  - "91ecc056-fc68-4671-9597-088b45bbaa8d"
+tickets:
+  web: "https://www.bandsintown.com/e/1038967526-tvod-at-the-blue-basement?came_from=209"
+---

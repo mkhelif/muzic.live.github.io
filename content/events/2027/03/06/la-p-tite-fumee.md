@@ -1,0 +1,8 @@
+---
+date: 2027-03-06T18:30:00+00:00
+venue: "311e3d7b-2058-4665-b627-10f5071ac1d1"
+artists:
+  - "f0146f86-7063-4597-8775-863020c06eef"
+tickets:
+  web: "https://www.songkick.com/concerts/43206297-la-ptite-fumee-at-le-tube-les-bourdaines?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

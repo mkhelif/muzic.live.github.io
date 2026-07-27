@@ -1,0 +1,8 @@
+---
+date: 2026-10-12T00:00:00+00:00
+venue: "e2c9e48f-8544-4af3-9da1-9903ac9b81b0"
+artists:
+  - "e5d75f9a-71fb-4486-aeab-0a82b57dd055"
+tickets:
+  web: "https://www.songkick.com/concerts/43286714-karina-rykman-at-7th-st-entry?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

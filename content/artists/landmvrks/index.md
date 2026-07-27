@@ -53,7 +53,7 @@ socials:
   tiktok: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1091321697"
   deezer: "9985838"
   qobuz: ""
 lastUpdate:

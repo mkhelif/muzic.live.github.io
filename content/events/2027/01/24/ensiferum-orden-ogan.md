@@ -1,0 +1,9 @@
+---
+date: 2027-01-24T18:00:00+00:00
+venue: "8388709d-ed70-4965-bed9-d388126df886"
+artists:
+  - "bcb91df8-f62c-41b4-b9b4-76eb8a96bb29"
+  - "c61941fe-88f1-4cf6-a9e7-603cad8f5b99"
+tickets:
+  web: "https://www.songkick.com/concerts/42939818-orden-ogan-at-interference?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

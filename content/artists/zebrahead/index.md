@@ -64,6 +64,7 @@ socials:
   spotify: "6SiyKSeJo6gcsS2NvuAbsl"
   tidal: ""
 lastUpdate:
+  bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
 ---
 

@@ -17,6 +17,7 @@ socials:
   web: "https://maureen-queen.com/"
   email: ""
 lastUpdate:
+  deezer: 2026-07-27
   apple: 2026-07-26
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

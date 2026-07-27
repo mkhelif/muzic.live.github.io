@@ -1,0 +1,23 @@
+---
+id: "2e7385a7-ecb0-4118-bb6b-adc752b888d1"
+title: "Justice For The Damned"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: "11141462"
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

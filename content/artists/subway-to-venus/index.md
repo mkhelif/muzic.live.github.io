@@ -20,6 +20,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Subway to Venus est un jeune groupe de reprises originaire des Ardennes belges, formé autour d'une recette simple : de

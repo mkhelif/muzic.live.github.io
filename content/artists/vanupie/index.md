@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "5H8YOkCyBQfMMVvyOomdKf"
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Vanupié, nom de scène de Jean-Christophe Dorado, né en 1980 à Annecy, est un auteur-compositeur-interprète français de

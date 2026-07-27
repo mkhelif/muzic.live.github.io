@@ -1,0 +1,23 @@
+---
+id: "091b7e5f-2236-42ba-9b8a-5063afdac921"
+title: "Laura Cantrell"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: "5540"
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

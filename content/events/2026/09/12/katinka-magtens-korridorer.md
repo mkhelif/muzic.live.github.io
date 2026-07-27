@@ -1,0 +1,9 @@
+---
+date: 2026-09-12T18:00:00+00:00
+venue: "6cddcbb9-4f79-4628-8d82-251a3a096ef5"
+artists:
+  - "b67f2bdd-2429-4b78-a540-afcb51aa66f7"
+  - "f1a70e04-799f-420f-96a4-2ce6afdfadf7"
+tickets:
+  web: "https://www.songkick.com/concerts/42937218-katinka-at-den-fynske-landsby?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

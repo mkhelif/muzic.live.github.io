@@ -1,0 +1,8 @@
+---
+date: 2026-11-06T20:00:00
+venue: "3c7fe424-d755-4778-b3e0-eef41744b8bc"
+artists:
+  - "70a891f0-8787-4701-b93c-b07994d0e9bb"
+tickets:
+  web: "https://www.bandsintown.com/e/1037722383-violett-pi-at-le-zaricot?came_from=209"
+---

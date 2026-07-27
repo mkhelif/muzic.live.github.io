@@ -12,7 +12,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "39949413"
   deezer: "1946"
   qobuz: ""
   spotify: "048FBwXjFYBWxSggPDipic"

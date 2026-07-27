@@ -37,6 +37,8 @@ socials:
   qobuz: ""
   spotify: "1xF9B1eiCKUejBnEE9k3sY"
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 The Young Gods sont un groupe suisse de rock industriel et expérimental formé en 1985 à Fribourg, pionnier d'une

@@ -12,7 +12,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "263435943"
   deezer: "72503"
   qobuz: ""
   spotify: "6oBm8HB0yfrIc9IHbxs6in"
@@ -22,6 +22,7 @@ todo:
   - Add socials
   - Add detailed description
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

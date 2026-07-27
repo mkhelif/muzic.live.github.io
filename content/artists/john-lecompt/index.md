@@ -4,6 +4,7 @@ id: "b911831b-3ad5-436f-9e00-c9e57bdece8a"
 title: "John LeCompt"
 type: person
 socials:
+  apple: "187340744"
   deezer: "4456087"
   facebook: ""
   instagram: ""
@@ -15,6 +16,7 @@ socials:
 todo:
   - Add description/picture/socials
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

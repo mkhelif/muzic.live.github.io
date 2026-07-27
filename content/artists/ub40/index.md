@@ -73,6 +73,8 @@ socials:
   apple: ""
   deezer: "165"
   qobuz: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 UB40 est un groupe britannique formé en 1978 à Birmingham, qui a porté le reggae britannique au sommet des charts

@@ -3,6 +3,7 @@
 id: "be752545-2eaa-4c19-8aca-4e6a9b10b6a5"
 title: "Nick Johnston"
 socials:
+  apple: "318542858"
   deezer: "1471474"
   facebook: ""
   instagram: ""
@@ -12,6 +13,7 @@ socials:
   youtube: ""
   spotify: "3d5yBCe5SBKkJnWvl9GB7r"
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

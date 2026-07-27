@@ -1,0 +1,8 @@
+---
+date: 2026-09-13T01:50:00+00:00
+venue: "d745ecf3-846c-4564-be86-d31a7526f80a"
+artists:
+  - "d6f12690-c0fd-4265-a790-339119d7967e"
+tickets:
+  web: "https://www.songkick.com/concerts/43339357-monolord-at-mohawk?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

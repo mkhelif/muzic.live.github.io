@@ -1,0 +1,8 @@
+---
+date: 2026-11-04T00:00:00+00:00
+venue: "70f755a7-2378-4797-b2c6-ba52e4e6cc6c"
+artists:
+  - "a8617676-edf5-4a0c-9582-ed6307ee93f7"
+tickets:
+  web: "https://www.songkick.com/concerts/43173063-lucie-antunes-at-la-comedie-de-valence?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

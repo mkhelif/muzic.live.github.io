@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: "280961891"
   qobuz: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Younger Spirit représente l'une des révélations les plus prometteuses de la scène rock alternative de ces dernières

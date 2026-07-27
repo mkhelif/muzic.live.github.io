@@ -2,6 +2,7 @@
 id: "2f71e3d0-8a30-4584-aea8-5dbe17c8bec6"
 title: "Marco Falanga"
 socials:
+  apple: "1107565755"
   deezer: "10254522"
   facebook: ""
   instagram: ""
@@ -11,5 +12,6 @@ socials:
 todo:
   - Add description/picture/socials
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
 ---

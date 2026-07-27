@@ -13,4 +13,6 @@ socials:
   spotify: "1S71hunVMaiApuP76WVqdP"
 todo:
   - Add description/picture/socials
+lastUpdate:
+  bandsintown: 2026-07-27
 ---

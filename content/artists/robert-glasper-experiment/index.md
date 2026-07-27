@@ -1,0 +1,23 @@
+---
+id: "7c4fcbd3-c864-4d59-b719-97a6139a35fb"
+title: "Robert Glasper Experiment"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

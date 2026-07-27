@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "1jX7jSANud3GSSMfs41KPs"
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Truthpaste est un groupe britannique formé à Manchester en 2022, où ses membres se rencontrent alors qu'ils sont

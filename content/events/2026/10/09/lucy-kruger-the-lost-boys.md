@@ -1,0 +1,8 @@
+---
+date: 2026-10-09T00:00:00+00:00
+venue: "723a35bf-e5de-44cf-9e2f-9dea2099dd70"
+artists:
+  - "40d77beb-841e-40b7-8210-a32808f77f49"
+tickets:
+  web: "https://www.songkick.com/concerts/43211033-lucy-kruger-and-the-lost-boys-at-art-gallery-of-slavonski-brod?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

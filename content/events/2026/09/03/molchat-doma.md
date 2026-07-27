@@ -1,0 +1,8 @@
+---
+date: 2026-09-03T03:00:00+00:00
+venue: "fa958300-066b-4bc7-abb4-f263b7dbaedc"
+artists:
+  - "e6855cfb-f5c4-4b9e-ac76-14e45f9af37a"
+tickets:
+  web: "https://www.songkick.com/concerts/43172848-molchat-doma-at-cargo-concert-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

@@ -12,7 +12,7 @@ socials:
   web: "https://okgiorgio.com/"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1525649730"
   deezer: "107552862"
   qobuz: ""
   spotify: "3SAZh4k4iDPFngB60QKpxg"
@@ -21,6 +21,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

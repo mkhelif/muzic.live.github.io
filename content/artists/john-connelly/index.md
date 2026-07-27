@@ -13,7 +13,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "4700003"
   qobuz: ""
   spotify: ""
   tidal: ""

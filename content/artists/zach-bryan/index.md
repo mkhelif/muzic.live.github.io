@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "40ZNYROS4zLfyyBSs2PGe2"
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Zachary Lane Bryan naît le 2 avril 1996 à Okinawa, au Japon, où sa famille est alors stationnée dans le cadre du

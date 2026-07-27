@@ -12,12 +12,13 @@ socials:
   web: "https://www.maustetytot.fi/"
   email: "aki@lordag.fi"
   amazon: ""
-  apple: ""
+  apple: "1450386837"
   deezer: "58122232"
   qobuz: ""
   spotify: "7JHNSkrbx2b0w8psFeVE4I"
   tidal: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

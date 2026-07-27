@@ -21,6 +21,7 @@ socials:
 todo:
   - Add detailed description
 lastUpdate:
+  bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   apple: 2026-07-26
 ---

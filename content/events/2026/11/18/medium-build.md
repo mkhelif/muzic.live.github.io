@@ -1,0 +1,8 @@
+---
+date: 2026-11-18T01:00:00+00:00
+venue: "efcececd-e9e2-4fb2-a293-a119447723b5"
+artists:
+  - "3cae9251-d9c3-4621-a4f6-498e10cc50fa"
+tickets:
+  web: "https://www.songkick.com/concerts/43296122-medium-build-at-old-national-centre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

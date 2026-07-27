@@ -41,6 +41,8 @@ socials:
   apple: ""
   deezer: "85"
   qobuz: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 The Prodigy est un groupe britannique de musique électronique formé en 1990 à Braintree, dans l'Essex, par le

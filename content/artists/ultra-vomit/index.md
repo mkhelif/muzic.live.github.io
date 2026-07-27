@@ -77,6 +77,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Ultra Vomit est un groupe français de heavy metal parodique formé en 2000 à Nantes. À ses débuts, initialement

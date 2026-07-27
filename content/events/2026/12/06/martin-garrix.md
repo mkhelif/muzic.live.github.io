@@ -1,0 +1,8 @@
+---
+date: 2026-12-06T00:00:00+00:00
+venue: "ed5327b9-fb78-4a9b-8bdc-b759ce61e5d2"
+artists:
+  - "6a5cfeb2-586f-4df0-b1b9-0264d060d792"
+tickets:
+  web: "https://www.songkick.com/concerts/43252963-martin-garrix-at-daviarena?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

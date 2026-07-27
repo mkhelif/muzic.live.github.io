@@ -15,7 +15,7 @@ socials:
   tiktok: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "23907941"
   deezer: ""
   qobuz: ""
 todo:

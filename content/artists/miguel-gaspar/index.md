@@ -3,6 +3,7 @@ id: "62a2d8e6-f801-465d-87ae-e74e74c61469"
 title: "Miguel Gaspar"
 type: person
 socials:
+  apple: "513704028"
   deezer: "4812402"
   facebook: ""
   instagram: ""
@@ -15,5 +16,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

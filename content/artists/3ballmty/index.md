@@ -7,12 +7,13 @@ socials:
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "2131496"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "1562682"
   qobuz: ""
   spotify: ""
   tidal: ""
@@ -20,4 +21,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  bandsintown: 2026-07-27
 ---

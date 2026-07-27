@@ -1,0 +1,8 @@
+---
+date: 2026-10-19T18:00:00+00:00
+venue: "54bd1182-4830-4270-b06d-dcd7bd85cea9"
+artists:
+  - "52d06dab-6372-4679-93e1-bcdd64ac9bd7"
+tickets:
+  web: "https://www.songkick.com/concerts/43221275-nectar-woode-at-thekla?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

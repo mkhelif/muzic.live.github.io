@@ -13,12 +13,13 @@ socials:
   tiktok: ""
   x: ""
   amazon: ""
-  apple: ""
+  apple: "1766168648"
   deezer: "280244051"
   qobuz: ""
   spotify: ""
   tidal: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---
 

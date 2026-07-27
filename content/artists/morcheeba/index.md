@@ -39,7 +39,7 @@ socials:
   web: "https://morcheeba.uk/"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "161916"
   deezer: "901"
   qobuz: ""
   spotify: "6bWxFw65IEJzBYjx3SxUXd"
@@ -48,6 +48,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

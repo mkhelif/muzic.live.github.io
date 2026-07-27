@@ -14,11 +14,12 @@ socials:
   spotify: "1sohI3zY96pI2KJICKOYBA"
   x: ""
   amazon: ""
-  apple: ""
+  apple: "1105907380"
   deezer: "10223938"
   qobuz: ""
   tidal: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

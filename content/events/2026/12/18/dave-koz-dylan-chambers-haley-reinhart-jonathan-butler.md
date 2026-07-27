@@ -1,0 +1,11 @@
+---
+date: 2026-12-18T03:30:00+00:00
+venue: "3372f310-1a9f-4c3c-9629-cb6353767683"
+artists:
+  - "4c376cd4-aeac-4873-ac00-56abe7386100"
+  - "7527a5c9-ae39-4aa1-b746-be25c7b9575f"
+  - "9721454b-0e8f-4699-8287-d73182c4f4e0"
+  - "cf884c6a-a56f-4b26-91d0-aa14f4593b46"
+tickets:
+  web: "https://www.songkick.com/concerts/43315057-dave-koz-at-balboa-theatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

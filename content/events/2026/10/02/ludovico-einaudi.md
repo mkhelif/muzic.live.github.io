@@ -1,0 +1,8 @@
+---
+date: 2026-10-02T00:00:00+00:00
+venue: "0d8ebba5-d3a0-4ef8-b2b1-193ae1e846e3"
+artists:
+  - "f8ab2dc4-7729-456f-9c87-10675edeb784"
+tickets:
+  web: "https://www.songkick.com/concerts/43032400-ludovico-einaudi-at-carnegie-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

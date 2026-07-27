@@ -19,6 +19,8 @@ socials:
   qobuz: ""
 todo:
   - Add picture from concert
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Zara Larsson est une chanteuse et auteure-compositrice suédoise née le 16 décembre 1997 à Solna, dans la banlieue de

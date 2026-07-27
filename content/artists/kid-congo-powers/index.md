@@ -3,6 +3,7 @@
 id: "692d5a3c-5d56-447a-b79e-c3b5e634c2e9"
 title: "Kid Congo Powers"
 socials:
+  apple: "78994525"
   deezer: "555103"
   facebook: ""
   instagram: ""
@@ -12,6 +13,7 @@ socials:
   youtube: ""
   spotify: "0L6iFdKUI7LHenJ1lrzNeX"
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

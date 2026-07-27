@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Urumi s'est imposée ces dernières années comme l'une des productrices et DJ les plus prometteuses de sa génération,

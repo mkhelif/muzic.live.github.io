@@ -1,0 +1,8 @@
+---
+date: 2026-08-11T00:00:00+00:00
+venue: "f1644cf7-3e35-4009-8536-8316819e56fe"
+artists:
+  - "98286a98-54f0-4073-a1cd-b5fa2937d291"
+tickets:
+  web: "https://www.songkick.com/concerts/43267870-lindsey-webster-at-dimitrious-jazz-alley?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

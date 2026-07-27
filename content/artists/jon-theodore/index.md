@@ -2,6 +2,7 @@
 id: "1cec44ec-7fea-4a92-a270-282290be190e"
 title: "Jon Theodore"
 socials:
+  apple: "160763067"
   deezer: "1524046"
   facebook: ""
   instagram: ""
@@ -10,5 +11,6 @@ socials:
   bandsintown: "816386"
   youtube: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

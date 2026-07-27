@@ -1,0 +1,8 @@
+---
+date: 2026-09-27T17:00:00+00:00
+venue: "2fb72903-e313-4a75-b161-84c59f4e6b9d"
+artists:
+  - "40d77beb-841e-40b7-8210-a32808f77f49"
+tickets:
+  web: "https://www.songkick.com/concerts/43210888-lucy-kruger-and-the-lost-boys-at-vratnice?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

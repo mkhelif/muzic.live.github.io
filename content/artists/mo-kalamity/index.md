@@ -13,7 +13,7 @@ socials:
   web: "https://www.mokalamity.com/"
   email: "mokalamity@live.fr"
   amazon: ""
-  apple: ""
+  apple: "250197873"
   deezer: ""
   qobuz: ""
   spotify: "3skP8Agw0LK6jsIF3hSVwf"

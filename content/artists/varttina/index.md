@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "4sn9fZDCAH3l0Pb0lGW1wt"
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Värttinä, qui signifie « fuseau » en finnois, est un groupe de musique folk finlandais né en 1983 dans le village de

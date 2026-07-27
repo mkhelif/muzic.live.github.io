@@ -12,6 +12,8 @@ socials:
   youtube: ""
   spotify: "06fjTRSSRSDEOGxPcJn4fo"
 lastUpdate:
+  apple-lookup: 2026-07-27
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

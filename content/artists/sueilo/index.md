@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Sueilo, de son vrai nom Louise Benard, est une artiste originaire de l'île de la Réunion, active depuis 2022. Elle se

@@ -17,6 +17,8 @@ socials:
   apple: ""
   deezer: "72666582"
   qobuz: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Vernis Rouge, de son vrai nom Manon Debs, est une artiste auteure-compositrice-interprète franco-libanaise née à

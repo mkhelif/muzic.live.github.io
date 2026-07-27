@@ -11,7 +11,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1038459037"
   deezer: ""
   qobuz: ""
   spotify: ""
@@ -20,4 +20,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  deezer-lookup: 2026-07-27
 ---
