@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Legit Girl DJ est le nom de scène de Clothilde Zamponi-du-Mur, artiste parisienne aux multiples casquettes qui navigue

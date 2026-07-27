@@ -20,6 +20,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 La musique électronique a ses dynasties parisiennes, ses dieux berlinois, ses prophètes ibiziens. Laura Laffon, elle,

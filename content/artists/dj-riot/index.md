@@ -11,4 +11,6 @@ socials:
   soundcloud: "riot-buraka"
   email: "riotctc@gmail.com"
   spotify: "2HXQkBMnQACqEBPtGReJUy"
+lastUpdate:
+  deezer: 2026-07-27
 ---

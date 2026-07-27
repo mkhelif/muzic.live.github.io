@@ -1,0 +1,8 @@
+---
+date: 2026-09-30T19:00:00+00:00
+venue: "4ee53df9-fe2a-4f27-bcf5-6e78f2478ae4"
+artists:
+  - "a278b892-b4db-445d-8a93-c566bdbf266f"
+tickets:
+  web: "https://www.songkick.com/concerts/43198507-coroner-at-knust?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

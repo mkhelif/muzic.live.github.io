@@ -3,6 +3,7 @@ id: "aca0c284-1466-4106-a11a-ed6f513bf6e7"
 title: "Chris Shiflett"
 type: person
 socials:
+  apple: "214324366"
   deezer: "485694"
   facebook: ""
   instagram: ""

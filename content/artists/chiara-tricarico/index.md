@@ -2,6 +2,7 @@
 id: "5bb93b82-79f8-4729-99df-6b0139783043"
 title: "Chiara Tricarico"
 socials:
+  apple: "1214069043"
   deezer: "12095166"
   facebook: ""
   instagram: ""

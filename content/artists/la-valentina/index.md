@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 La Valentina est une artiste colombienne installée à Paris, dont l'univers musical se construit à la croisée des langues

@@ -12,7 +12,7 @@ socials:
   web: "https://odeholm-audio.com/"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1437841723"
   deezer: "52072562"
   qobuz: ""
   spotify: ""

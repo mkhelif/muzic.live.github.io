@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 JusteNiels est un auteur-compositeur et chanteur français qui, à seulement 24 ans, s'impose comme l'une des voix les

@@ -12,7 +12,7 @@ socials:
   web: "https://www.bobsinclar.com/"
   email: "info@yellowprod.fr"
   amazon: ""
-  apple: ""
+  apple: "14606058"
   deezer: "157"
   qobuz: ""
   spotify: "5YFS41yoX0YuFY39fq21oN"

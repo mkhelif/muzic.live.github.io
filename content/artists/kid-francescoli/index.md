@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Kid Francescoli est le nom de scène du producteur et musicien marseillais Mathieu Hocine, figure majeure
