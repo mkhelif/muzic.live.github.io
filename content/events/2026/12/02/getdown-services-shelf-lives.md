@@ -1,0 +1,9 @@
+---
+date: 2026-12-02T20:00:00+00:00
+venue: "52bc311a-d24b-4665-b1b9-f6bc7170e619"
+artists:
+  - "4f6fedf7-9eb8-419d-93ef-b0d2688b7129"
+  - "fa0c884c-6735-4384-a56f-436103968fc7"
+tickets:
+  web: "https://www.songkick.com/concerts/43227623-getdown-services-at-vicar-street?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

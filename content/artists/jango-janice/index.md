@@ -17,6 +17,7 @@ socials:
   deezer: "332397501"
   qobuz: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
 ---

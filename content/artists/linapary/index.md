@@ -20,6 +20,7 @@ socials:
   spotify: "1c0EKqLHGhhgS3hRMLPnuS"
   tidal: ""
 lastUpdate:
+  bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
 ---
 

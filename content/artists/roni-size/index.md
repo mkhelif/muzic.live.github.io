@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "5UjqeSp9dX6Nrge7WdDukr"
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Roni Size, de son vrai nom **Ryan Owen Granville Williams**, est un producteur et DJ britannique originaire de

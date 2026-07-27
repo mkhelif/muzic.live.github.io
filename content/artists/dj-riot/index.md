@@ -12,5 +12,6 @@ socials:
   email: "riotctc@gmail.com"
   spotify: "2HXQkBMnQACqEBPtGReJUy"
 lastUpdate:
+  apple-lookup: 2026-07-27
   deezer: 2026-07-27
 ---

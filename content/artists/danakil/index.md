@@ -66,7 +66,7 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "269898376"
   deezer: ""
   qobuz: ""
 lastUpdate:

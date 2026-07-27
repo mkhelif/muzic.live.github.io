@@ -1,0 +1,10 @@
+---
+date: 2026-10-02T20:00:00+00:00
+venue: "79c6c908-49b9-4432-92ed-79286bff8db4"
+artists:
+  - "2163bcbb-7ad2-4331-b203-f1bb6b5f556d"
+  - "327b4243-2067-47ba-bad8-4fe581b1b2d0"
+  - "4f33e0bc-d67c-43bb-97b0-f15e6b5e60e3"
+tickets:
+  web: "https://www.songkick.com/concerts/43278790-beach-house-at-flushing-meadows-corona-park?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

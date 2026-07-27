@@ -1,0 +1,8 @@
+---
+date: 2027-02-11T00:00:00+00:00
+venue: "0a3c7920-5bbd-47b2-b8a8-81321abb7e7a"
+artists:
+  - "97dadd8e-0230-49bc-9da5-b2cb7ff19c33"
+tickets:
+  web: "https://www.songkick.com/concerts/43184521-editors-at-columbiahalle?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

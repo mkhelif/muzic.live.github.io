@@ -40,12 +40,13 @@ socials:
   web: "http://www.feuchatterton.fr/"
   email: "feuchatterton@gmail.com"
   amazon: ""
-  apple: ""
+  apple: "876503395"
   deezer: "5623138"
   qobuz: ""
   spotify: "538TfjnJpRXI80MHYWfKlo"
   tidal: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

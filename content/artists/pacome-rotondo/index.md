@@ -20,6 +20,7 @@ socials:
 todo:
   - Add picture from concert
 lastUpdate:
+  bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---
 

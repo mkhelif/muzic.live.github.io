@@ -3,6 +3,7 @@ id: "14397e35-48b9-4e2c-ba03-39b31a180403"
 title: "Franz Stahl"
 type: person
 socials:
+  apple: "544976726"
   deezer: "5095795"
   facebook: ""
   instagram: ""
@@ -15,5 +16,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

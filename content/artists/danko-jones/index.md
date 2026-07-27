@@ -60,7 +60,7 @@ socials:
   web: "https://dankojones.com/"
   email: "info@dankojones.com"
   amazon: ""
-  apple: ""
+  apple: "28696140"
   deezer: "7270"
   qobuz: ""
   spotify: "7CGoviGsNXYmGOBkXk8dtW"

@@ -14,12 +14,13 @@ socials:
   spotify: "5QXLMdpKeByOo5ypH9gT13"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "720222195"
   deezer: "6495271"
   qobuz: ""
 todo:
   - Add picture from concert
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

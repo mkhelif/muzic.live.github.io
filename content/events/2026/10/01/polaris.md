@@ -1,0 +1,8 @@
+---
+date: 2026-10-01T18:00:00
+venue: "45e74819-015f-44ed-816a-cf616b1bfebb"
+artists:
+  - "3012321a-9e84-41d8-a696-e1f0502ae043"
+tickets:
+  web: "https://www.bandsintown.com/e/107444881-polaris-at-poppodium-013?came_from=209"
+---

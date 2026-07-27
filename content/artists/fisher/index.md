@@ -21,5 +21,6 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
 ---

@@ -72,10 +72,11 @@ socials:
   spotify: "2aaLAng2L2aWD2FClzwiep"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "730091"
   deezer: "828"
   qobuz: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

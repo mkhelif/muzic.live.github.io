@@ -1,0 +1,8 @@
+---
+date: 2026-10-03T22:00:00+00:00
+venue: "0df50ab5-086e-4edc-924a-ac42cc094cc7"
+artists:
+  - "c640d225-5174-4517-97ea-fb90c3252a25"
+tickets:
+  web: "https://www.songkick.com/concerts/43300660-high-on-fire-at-uniclub?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

@@ -1,0 +1,8 @@
+---
+date: 2026-12-12T19:00:00+00:00
+venue: "4b02d882-5582-48b6-9769-ff013888cfa2"
+artists:
+  - "559d1212-7bb5-49bc-b577-f24d44d06c74"
+tickets:
+  web: "https://www.songkick.com/concerts/43282925-half-me-at-o2-institute3-birmingham?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

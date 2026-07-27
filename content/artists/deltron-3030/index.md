@@ -29,7 +29,7 @@ socials:
   email: "delhierobooking@gmail.com"
   tiktok: ""
   amazon: ""
-  apple: ""
+  apple: "290096769"
   deezer: "1197"
   qobuz: ""
   tidal: ""

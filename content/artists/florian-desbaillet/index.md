@@ -14,12 +14,13 @@ socials:
   tiktok: ""
   x: ""
   amazon: ""
-  apple: ""
+  apple: "990122816"
   deezer: "7834202"
   qobuz: ""
 todo:
   - Add picture from concert
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
 ---

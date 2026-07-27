@@ -48,10 +48,11 @@ socials:
   email: "management@haevnmusic.com"
   tiktok: ""
   amazon: ""
-  apple: ""
+  apple: "922462568"
   deezer: "6758479"
   qobuz: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

@@ -1,0 +1,8 @@
+---
+date: 2026-07-30T02:30:00+00:00
+venue: "554db64a-a852-49c3-a7a1-69cfc11014e7"
+artists:
+  - "8287235a-12ac-4eff-97d2-d8c1b27c41fe"
+tickets:
+  web: "https://www.songkick.com/concerts/43254072-edge-of-paradise-at-el-corazon?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

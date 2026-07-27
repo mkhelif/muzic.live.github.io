@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Ludovico Einaudi est un pianiste et compositeur italien né le 23 novembre 1955 à Turin. Petit-fils de l'ancien président

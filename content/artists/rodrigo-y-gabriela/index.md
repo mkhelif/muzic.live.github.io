@@ -28,6 +28,8 @@ socials:
   apple: ""
   deezer: "15794"
   qobuz: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Rodrigo y Gabriela est un duo mexicain formé par Rodrigo Sánchez et Gabriela Quintero, qui a révolutionné la guitare

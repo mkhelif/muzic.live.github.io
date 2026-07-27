@@ -54,6 +54,8 @@ socials:
   apple: ""
   deezer: "12022"
   qobuz: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Depuis plus de deux décennies, Sabaton s'est imposé comme l'un des groupes de heavy metal les plus respectés et les plus

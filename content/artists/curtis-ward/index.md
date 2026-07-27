@@ -2,6 +2,7 @@
 id: "c42556b5-0983-458a-9cd7-91b8c9e148a9"
 title: "Curtis Ward"
 socials:
+  apple: "1614765604"
   deezer: "8064999"
   facebook: ""
   instagram: ""

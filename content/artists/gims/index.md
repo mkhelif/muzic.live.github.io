@@ -11,7 +11,7 @@ socials:
   web: "https://www.gimstour.com/"
   email: "pro.gims86@gmail.com"
   amazon: ""
-  apple: ""
+  apple: "458659054"
   deezer: ""
   qobuz: ""
   spotify: "0GOx72r5AAEKRGQFn3xqXK"

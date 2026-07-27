@@ -15,12 +15,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1133992199"
   deezer: "10695573"
   qobuz: ""
 todo:
   - Add cover from concert picture
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

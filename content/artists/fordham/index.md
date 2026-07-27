@@ -34,11 +34,12 @@ socials:
   web: ""
   email: "fordhamband@gmail.com"
   amazon: ""
-  apple: ""
+  apple: "203668437"
   deezer: "53423702"
   qobuz: ""
   spotify: ""
   tidal: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
 ---

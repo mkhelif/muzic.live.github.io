@@ -14,12 +14,13 @@ socials:
   web: ""
   email: "hindarfjall.management@gmail.com"
   amazon: ""
-  apple: ""
+  apple: "1459280708"
   deezer: "63352572"
   qobuz: ""
   spotify: "2whm1PlA7DHAGCTk7oQ0G4"
   tidal: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---
 

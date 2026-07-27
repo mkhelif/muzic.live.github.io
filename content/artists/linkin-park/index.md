@@ -62,6 +62,7 @@ socials:
   deezer: "92"
   qobuz: ""
 lastUpdate:
+  bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---
 

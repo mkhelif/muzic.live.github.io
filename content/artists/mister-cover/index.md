@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Mister Cover est un groupe de reprises belge, considéré comme une référence incontournable dans le paysage des cover

@@ -1,0 +1,23 @@
+---
+id: "a81d52dd-88c0-4781-8a9e-0e6e5e9d1574"
+title: "Kameron Marlowe"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

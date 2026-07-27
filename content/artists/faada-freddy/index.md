@@ -15,10 +15,11 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "157639536"
   deezer: "4499781"
   qobuz: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

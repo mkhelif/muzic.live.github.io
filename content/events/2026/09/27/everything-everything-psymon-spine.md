@@ -1,0 +1,9 @@
+---
+date: 2026-09-27T03:00:00+00:00
+venue: "efe9154c-543c-4144-aebb-f46a4ffadeac"
+artists:
+  - "27752590-2135-4c26-84fe-4b0a6ec15cca"
+  - "f5950373-c795-46a2-b910-1953a4d34311"
+tickets:
+  web: "https://www.songkick.com/concerts/43209619-everything-everything-at-bellwether?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

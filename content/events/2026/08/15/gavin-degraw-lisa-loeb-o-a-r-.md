@@ -1,0 +1,10 @@
+---
+date: 2026-08-15T00:30:00+00:00
+venue: "81d1a88c-9c27-4c20-a7e5-2c80462893ae"
+artists:
+  - "098c029c-e2fa-4194-b93b-2daf1a59a239"
+  - "a4493466-46ca-46d3-ac1a-e856484c58ef"
+  - "777c384a-b9e9-4ef6-ae07-dbea6bbc092e"
+tickets:
+  web: "https://www.songkick.com/concerts/42867207-oar-at-ford-idaho-center?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

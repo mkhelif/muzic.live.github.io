@@ -3,6 +3,7 @@ id: "6bcd9baa-648a-4e7f-b5a9-d6cbbff29ddb"
 title: "Courtney LaPlante"
 type: person
 socials:
+  apple: "668042460"
   deezer: "4964765"
   facebook: ""
   instagram: ""

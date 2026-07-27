@@ -1,0 +1,8 @@
+---
+date: 2026-08-23T03:00:00+00:00
+venue: "00e05a53-17f8-4a86-a01a-643085501e2f"
+artists:
+  - "62ef5fde-be61-43c1-8f65-ae931f5f16c7"
+tickets:
+  web: "https://www.songkick.com/concerts/43112463-fantastic-negrito-at-la-rosa?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---
