@@ -6,7 +6,10 @@ socials:
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "1355737"
   youtube: ""
 todo:
   - Add description/picture/socials
+lastUpdate:
+  bandsintown: 2026-07-27
 ---

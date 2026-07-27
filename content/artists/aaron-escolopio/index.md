@@ -9,4 +9,6 @@ socials:
   youtube: ""
 todo:
   - Add description/picture/socials
+lastUpdate:
+  bandsintown-lookup: 2026-07-27
 ---
