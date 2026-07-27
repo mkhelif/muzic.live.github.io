@@ -18,7 +18,9 @@ from there.
 """
 
 import gettext
+import random
 import re
+import time
 import uuid
 from datetime import date, datetime
 from pathlib import Path
@@ -437,6 +439,17 @@ BROWSER_HEADERS = {
 _SESSION = None
 USING_SCRAPER = False
 
+# Throttling / rate-limit handling (shared by the scrapers). Scripts may raise
+# MIN_REQUEST_INTERVAL to space out requests — Bandsintown, for instance, starts
+# replying 416 when hit too fast. Requests that hit a rate-limit status are
+# retried with backoff (honouring Retry-After when present).
+MIN_REQUEST_INTERVAL = 0.0  # minimum seconds between successive http_get calls
+REQUEST_JITTER = 0.0        # extra random 0..JITTER seconds added to the wait
+RATE_LIMIT_STATUSES = (416, 429, 503)
+HTTP_MAX_RETRIES = 4
+HTTP_BACKOFF_BASE = 5.0     # seconds; grows exponentially per retry
+_last_request_at = 0.0
+
 
 class CloudflareBlocked(Exception):
     """Raised when a request is stopped by Cloudflare's bot challenge."""
@@ -481,14 +494,45 @@ def is_cloudflare_challenge(response):
     return any(m in body for m in ("just a moment", "cf-chl", "cloudflare"))
 
 
+def _throttle():
+    """Sleep so successive requests are at least MIN_REQUEST_INTERVAL apart."""
+    if MIN_REQUEST_INTERVAL <= 0:
+        return
+    wait = MIN_REQUEST_INTERVAL - (time.monotonic() - _last_request_at)
+    if REQUEST_JITTER:
+        wait += random.uniform(0, REQUEST_JITTER)
+    if wait > 0:
+        time.sleep(wait)
+
+
 def http_get(url, timeout=30):
     """GET ``url`` through the shared session, raising ``CloudflareBlocked`` on a
-    bot challenge. The caller checks ``response.ok`` for other statuses."""
+    bot challenge. Throttles to MIN_REQUEST_INTERVAL and retries rate-limit
+    statuses (416/429/503) with backoff. The caller checks ``response.ok`` for
+    other statuses."""
+    global _last_request_at
     session = get_session()
     # cloudscraper needs to control its own User-Agent to match its TLS
     # fingerprint; only send our browser headers on the plain-requests fallback.
     headers = {} if USING_SCRAPER else BROWSER_HEADERS
-    response = session.get(url, headers=headers, timeout=timeout)
-    if is_cloudflare_challenge(response):
-        raise CloudflareBlocked(url)
+
+    response = None
+    for attempt in range(HTTP_MAX_RETRIES):
+        _throttle()
+        response = session.get(url, headers=headers, timeout=timeout)
+        _last_request_at = time.monotonic()
+
+        if is_cloudflare_challenge(response):
+            raise CloudflareBlocked(url)
+
+        if response.status_code in RATE_LIMIT_STATUSES and attempt + 1 < HTTP_MAX_RETRIES:
+            retry_after = response.headers.get("Retry-After")
+            try:
+                delay = float(retry_after)
+            except (TypeError, ValueError):
+                delay = HTTP_BACKOFF_BASE * (2 ** attempt)
+            time.sleep(delay)
+            continue
+
+        return response
     return response

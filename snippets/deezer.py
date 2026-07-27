@@ -1,353 +1,341 @@
 #!/usr/bin/env python3
+"""Create `events` (and `venues` / `artists` when missing) from Deezer.
+
+For every artist fiche that declares a Deezer id in its front matter
+(``socials.deezer``), this script queries Deezer's GraphQL API
+(``pipe.deezer.com``) for the artist's upcoming live events and materialises
+them as event files under ``content/events/YYYY/MM/DD/``, creating the venue
+hierarchy (``content/venues/<country>/<city>/<venue>/``) and any missing
+line-up artist fiches on the fly.
+
+Like ``spotify.py``, ``bandsintown.py`` and ``apple.py`` it:
+
+* records ``lastUpdate.deezer`` per artist and skips artists refreshed within
+  the last week (with a log line);
+* shares its plumbing with ``utils.py`` (alias-aware ``get_or_create_artist``,
+  venue creation, country lookup, name overrides, throttling);
+* never overwrites an existing event file.
+
+Deezer's GraphQL endpoint requires a JWT, but Deezer mints **anonymous** tokens
+without any account or API registration (the web player does the same):
+``auth.deezer.com/login/anonymous`` returns a short-lived JWT (~6 minutes),
+which this script fetches and refreshes automatically.
+
+Run from the repository root::
+
+    python3 snippets/deezer.py
+"""
+
 from datetime import datetime
 from os import listdir
 from pathlib import Path
 
-import requests
+import time
+import traceback
 
 import utils
 
-# Configure authentication token
-ACCESS_TOKEN="Bearer "
+# ---------------------------------------------------------------------------
+# Configuration
+# ---------------------------------------------------------------------------
+
+API_URL = "https://pipe.deezer.com/api"
+
+# Anonymous JWT endpoint (no account / registration required); tokens expire
+# after ~6 minutes and are refreshed automatically.
+AUTH_URL = "https://auth.deezer.com/login/anonymous?jo=p&rto=c&i=c"
+JWT_MAX_AGE = 240  # seconds before proactively refreshing the token
 
 DEFAULT_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:149.0) Gecko/20100101 Firefox/149.0",
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:149.0) "
+        "Gecko/20100101 Firefox/149.0"
+    ),
     "Accept": "*/*",
     "Accept-Language": "fr-FR",
-    "Accept-Encoding": "gzip, deflate, br, zstd",
     "Content-Type": "application/json",
     "Referer": "https://www.deezer.com/",
     "Origin": "https://www.deezer.com",
-    "Sec-Fetch-Dest": "empty",
-    "Sec-Fetch-Mode": "cors",
-    "Sec-Fetch-Site": "same-site",
-    "Authorization": ACCESS_TOKEN,
-    "Connection": "keep-alive",
 }
 
+# Number of live events requested per artist.
+EVENTS_FIRST = 70
+
+# Skip events whose line-up is larger than this (most likely festivals, which
+# are better handled as dedicated festival "day" events). Mirrors the guard
+# used by the other importers.
+MAX_LINEUP = 5
+
+# Deezer country codes that differ from ISO 3166-1 alpha-2.
 COUNTRIES_MAPPING = {
-    'FP': 'PF',
+    "FP": "PF",
 }
 
-# Utility functions
-def get_artist_concerts(artistId):
-    response = requests.post('https://pipe.deezer.com/api',
-        headers = DEFAULT_HEADERS,
-        json = {
-        "operationName": "LiveEventList",
-        "variables": {
-            "artistId": artistId,
-            "liveEventsFirst": 70
-        },
-        "query": """query LiveEventList($artistId: String!, $liveEventsFirst: Int!) {
+# Throttle between GraphQL requests (seconds); utils.http machinery also
+# retries 429/503 with backoff.
+REQUEST_INTERVAL = 1.0
+
+# GraphQL queries, trimmed to the fields actually used.
+LIVE_EVENT_LIST_QUERY = """\
+query LiveEventList($artistId: String!, $liveEventsFirst: Int!) {
   artist(artistId: $artistId) {
     id
     name
-    ...ArtistLiveEvents
-    __typename
-  }
-}
-
-fragment ArtistLiveEvents on Artist {
-  liveEvents(
-    first: $liveEventsFirst
-    types: [CONCERT, FESTIVAL]
-    statuses: [PENDING]
-  ) {
-    edges {
-      node {
-        id
-        name
-        startDate
-        cityName
-        countryCode
-        types {
-          isConcert
-          isFestival
-          isLivestreamConcert
-          isLivestreamFestival
-          __typename
+    liveEvents(first: $liveEventsFirst, types: [CONCERT, FESTIVAL], statuses: [PENDING]) {
+      edges {
+        node {
+          id
+          countryCode
         }
-        venue
-        __typename
       }
-      __typename
     }
-    pageInfo {
-      endCursor
-      hasNextPage
-      __typename
-    }
-    __typename
   }
-  __typename
 }"""
-    })
-    if not response.ok:
-        raise Exception(f"Failed to fetch artist information ({response.status_code}): {response.content}")
 
-    data = response.json()
-    #if data['errors'] is not None:
-    #    raise Exception(f"Failed to fetch artist information: {data['errors'][0]['message']}")
-
-    # For each concert, load its details
-    concerts_list = []
-    for concert_info in data['data']['artist']['liveEvents']['edges']:
-        if concert_info['node']['countryCode'] is None:
-            continue
-
-        concert = get_concert(concert_info['node']['id'], concert_info['node']['countryCode'])
-        if concert is not None:
-            concerts_list.append(concert)
-    return concerts_list
-
-def get_concert(eventId, country):
-    response = requests.post("https://pipe.deezer.com/api",
-        headers = DEFAULT_HEADERS,
-        json = {
-        "operationName": "LiveEvent",
-        "variables": {
-            "contributorsFirst": 12,
-            "albumFirst": 12,
-            "eventId": eventId
-        },
-        "query": """query LiveEvent($eventId: String!, $contributorsFirst: Int = 12, $albumFirst: Int = 12) {
+LIVE_EVENT_QUERY = """\
+query LiveEvent($eventId: String!, $contributorsFirst: Int = 12) {
   liveEvent(liveEventId: $eventId) {
     id
     name
     startDate
-    status
     venue
     cityName
-    hasSubscribedToNotification
     sources {
-      coBranding {
-        logoAsset {
-          lightThemeUIAsset {
-            id
-            urls(uiAssetRequest: {width: 730, height: 182})
-            __typename
-          }
-          darkThemeUIAsset {
-            id
-            urls(uiAssetRequest: {width: 730, height: 182})
-            __typename
-          }
-          __typename
-        }
-        __typename
-      }
       defaultUrl
-      __typename
-    }
-    live {
-      id
-      externalUrl {
-        url
-        __typename
-      }
-      __typename
     }
     types {
       isConcert
       isFestival
       isLivestreamConcert
       isLivestreamFestival
-      __typename
-    }
-    videos(types: [TRAILER]) {
-      edges {
-        node {
-          id
-          externalUrl {
-            url
-            __typename
-          }
-          type
-          __typename
-        }
-        __typename
-      }
-      __typename
     }
     contributors(first: $contributorsFirst) {
       edges {
-        concertContributorMetadata {
-          roles {
-            isMain
-            isSupport
-            __typename
-          }
-          performanceOrder
-          __typename
-        }
-        cursor
         node {
           ... on Artist {
             id
             name
-            isFavorite
-            fansCount
-            albums(
-              types: [ALBUM]
-              order: RELEASE_DATE
-              mode: OFFICIAL
-              roles: [MAIN]
-              first: $albumFirst
-              after: null
-            ) {
-              edges {
-                cursor
-                node {
-                  id
-                  displayTitle
-                  releaseDate
-                  cover {
-                    md5
-                    ...PictureSmall
-                    ...PictureMedium
-                    ...PictureLarge
-                    __typename
-                  }
-                  __typename
-                }
-                __typename
-              }
-              __typename
-            }
-            picture {
-              md5
-              ...PictureSmall
-              ...PictureMedium
-              ...PictureLarge
-              __typename
-            }
-            url {
-              webUrl
-              deepLink
-              __typename
-            }
-            isFavorite
-            fansCount
-            __typename
           }
-          __typename
         }
-        __typename
       }
-      pageInfo {
-        hasNextPage
-        startCursor
-        hasPreviousPage
-        __typename
-      }
-      __typename
     }
-    __typename
   }
-}
-
-fragment PictureSmall on Picture {
-  id
-  small: urls(pictureRequest: {height: 100, width: 100})
-  explicitStatus
-  __typename
-}
-
-fragment PictureMedium on Picture {
-  id
-  medium: urls(pictureRequest: {width: 264, height: 264})
-  explicitStatus
-  __typename
-}
-
-fragment PictureLarge on Picture {
-  id
-  large: urls(pictureRequest: {width: 500, height: 500})
-  explicitStatus
-  __typename
 }"""
+
+
+# ---------------------------------------------------------------------------
+# Deezer GraphQL API (anonymous JWT, auto-refreshed)
+# ---------------------------------------------------------------------------
+
+_JWT = None
+_JWT_FETCHED_AT = 0.0
+
+
+def get_jwt(force=False):
+    """Return a valid anonymous JWT, fetching/refreshing it when needed."""
+    global _JWT, _JWT_FETCHED_AT
+    if force or _JWT is None or time.monotonic() - _JWT_FETCHED_AT > JWT_MAX_AGE:
+        session = utils.get_session()
+        response = session.post(AUTH_URL, headers=DEFAULT_HEADERS, timeout=30)
+        if not response.ok:
+            # Some fronts accept GET on this endpoint.
+            response = session.get(AUTH_URL, headers=DEFAULT_HEADERS, timeout=30)
+        if not response.ok:
+            raise Exception(
+                f"Could not obtain an anonymous Deezer JWT ({response.status_code})"
+            )
+        token = (response.json() or {}).get("jwt")
+        if not token:
+            raise Exception("Anonymous Deezer auth did not return a jwt")
+        _JWT = token
+        _JWT_FETCHED_AT = time.monotonic()
+    return _JWT
+
+
+def _is_jwt_error(payload):
+    for error in payload.get("errors") or []:
+        message = (error.get("message") or "").lower()
+        if "jwt" in message or "token" in message or "unauthorized" in message:
+            return True
+    return False
+
+
+def graphql(operation, query, variables):
+    """POST a GraphQL query through the shared session (throttled), with the
+    anonymous JWT attached; refreshes the token once on auth errors."""
+    session = utils.get_session()
+    for attempt in range(2):
+        headers = dict(DEFAULT_HEADERS)
+        headers["Authorization"] = f"Bearer {get_jwt(force=attempt > 0)}"
+        utils._throttle()
+        response = session.post(
+            API_URL,
+            headers=headers,
+            json={"operationName": operation, "variables": variables, "query": query},
+            timeout=30,
+        )
+        utils._last_request_at = time.monotonic()
+        if response.status_code in (401, 403) and attempt == 0:
+            continue  # refresh the token and retry once
+        if not response.ok:
+            raise Exception(
+                f"Deezer API error for {operation} ({response.status_code}): "
+                f"{response.text[:200]}"
+            )
+        payload = response.json()
+        if payload.get("errors"):
+            if _is_jwt_error(payload) and attempt == 0:
+                continue  # refresh the token and retry once
+            raise Exception(
+                f"Deezer API error for {operation}: {payload['errors'][0].get('message')}"
+            )
+        return payload.get("data") or {}
+    raise Exception(f"Deezer API auth failed for {operation}")
+
+
+def get_artist_events(deezer_id):
+    """Return the list of pending live event ``(id, countryCode)`` pairs for an
+    artist."""
+    data = graphql(
+        "LiveEventList",
+        LIVE_EVENT_LIST_QUERY,
+        {"artistId": str(deezer_id), "liveEventsFirst": EVENTS_FIRST},
+    )
+    artist = data.get("artist") or {}
+    edges = ((artist.get("liveEvents") or {}).get("edges")) or []
+    events = []
+    for edge in edges:
+        node = edge.get("node") or {}
+        if node.get("id") and node.get("countryCode"):
+            events.append((node["id"], node["countryCode"]))
+    return events
+
+
+def get_concert(event_id, country_code):
+    """Fetch one live event and normalise it to the internal concert dict, or
+    return ``None`` when the event is unusable (missing venue/city/date)."""
+    data = graphql(
+        "LiveEvent",
+        LIVE_EVENT_QUERY,
+        {"eventId": event_id, "contributorsFirst": 12},
+    )
+    event = data.get("liveEvent") or {}
+    if not event:
+        return None
+
+    start = event.get("startDate")
+    venue = (event.get("venue") or "").strip()
+    city = (event.get("cityName") or "").strip()
+    if not (start and venue and city):
+        return None
+
+    alpha_2 = utils.translate(country_code, COUNTRIES_MAPPING)
+    country = utils.COUNTRIES.get(alpha_2)
+    if country is None:
+        return None
+
+    types = event.get("types") or {}
+    lineup = sorted({
+        utils.translate((edge.get("node") or {}).get("name", "").strip(), utils.ARTISTS)
+        for edge in ((event.get("contributors") or {}).get("edges")) or []
+        if (edge.get("node") or {}).get("name")
     })
-    if not response.ok:
-        raise Exception(f"Failed to fetch concert information ({response.status_code}): {response.content}")
+    if not lineup:
+        return None
 
-    content = response.json()
-    event = content['data']['liveEvent']
-
-    # Retrieve concert information
-    concert_details = {
-        "date": event['startDate'],
-        "location": {
-            'country': utils.COUNTRIES[utils.translate(country, COUNTRIES_MAPPING)],
-            'city': event['cityName'],
-            'name': event['venue'],
-        },
-        "artists": [],
-        "festival": event['types']['isFestival'] or event['types']['isLivestreamFestival']
+    return {
+        "date": start,
+        "location": {"country": country, "city": city, "name": venue},
+        "artists": lineup,
+        "festival": bool(types.get("isFestival") or types.get("isLivestreamFestival")),
+        "ticket": ((event.get("sources") or {}).get("defaultUrl") or "").strip() or None,
     }
 
-    # Compute artists list
-    #if len(event['contributors']['edges']) > 5:
-    #    return None
 
-    for concert_artist in event['contributors']['edges']:
-        concert_details['artists'].append(concert_artist['node']['name'])
-    concert_details['artists'] = sorted(set(concert_details['artists']))
+# ---------------------------------------------------------------------------
+# Event writing
+# ---------------------------------------------------------------------------
 
-    return concert_details
+def write_event(concert):
+    """Create a single event file (and its venue / line-up artists). Returns the
+    path if written, or ``None`` when skipped."""
+    date = datetime.fromisoformat(concert["date"])
+    date_format = f"{date.year}/{date.month:02d}/{date.day:02d}"
 
-#
-# The script will go through all artists declared
-#
-if __name__ == '__main__':
-    # Fetch concerts for all artists
-    for artist in sorted(listdir('./content/artists')):
+    if len(concert["artists"]) > MAX_LINEUP:
+        return None
+
+    artist_ids = [utils.get_or_create_artist(name) for name in concert["artists"]]
+    location_id = utils.get_or_create_location(concert["location"])
+
+    directory = Path(f"./content/events/{date_format}")
+    directory.mkdir(parents=True, exist_ok=True)
+    filename = "-".join(utils.format_filename(name) for name in concert["artists"]) + ".md"
+    event_file = directory.joinpath(filename)
+    if event_file.exists():
+        return None
+
+    lines = [
+        "---",
+        f"date: {date.isoformat()}",
+        f'venue: "{location_id}"',
+        "artists:",
+    ]
+    lines += [f'  - "{aid}"' for aid in artist_ids]
+    if concert.get("ticket"):
+        lines += ["tickets:", f'  web: "{concert["ticket"]}"']
+    lines += ["---", ""]
+    event_file.write_text("\n".join(lines), encoding="UTF-8")
+    return event_file
+
+
+# ---------------------------------------------------------------------------
+# Entry point: iterate over every artist declaring a Deezer id.
+# ---------------------------------------------------------------------------
+
+if __name__ == "__main__":
+    utils.MIN_REQUEST_INTERVAL = REQUEST_INTERVAL
+
+    for artist in sorted(listdir("./content/artists")):
         file = Path(f"./content/artists/{artist}/index.md")
         if not file.exists():
             continue
 
         data = utils.load_frontmatter(file)
-        name = data.get('title', None)
-        socials = data.get('socials', None)
-        deezerId = socials.get('deezer', None) if socials is not None else None
-        if deezerId is None:
+        socials = data.get("socials", None)
+        deezer_id = socials.get("deezer", None) if socials else None
+        if not deezer_id:
             continue
 
-        print(f"{name}")
+        name = data.get("title", None)
+
+        # Skip artists already refreshed from Deezer within the last week.
+        if not utils.is_stale(data, "deezer"):
+            print(f"{name} (skipped: refreshed within the last week)")
+            continue
+
+        print(name)
         try:
-            concerts = get_artist_concerts(deezerId)
-            for concert in concerts:
-                date = datetime.fromisoformat(concert['date'])
-                date_format = f"{date.year}/{date.month:02d}/{date.day:02d}"
-                artist_ids = [utils.get_or_create_artist(artist) for artist in concert['artists']]
-                artists_list = "\n  - ".join(f'"{aid}"' for aid in artist_ids)
-
-                # Create directory structure
-                directory = Path(f"./content/events/{date_format}")
-                directory.mkdir(parents = True, exist_ok = True)
-
-                # Compute event filename
-                filename = "-".join(utils.format_filename(artist) for artist in concert['artists']) + ".md"
-                if concert['festival'] is True:
-                    location = concert['location']['name'] + ', ' + concert['location']['city'] + ', ' + concert['location']['country']['name']
-                    print(f"  - (festival) {date_format}: {', '.join(concert['artists'])} ({location})")
+            for event_id, country_code in get_artist_events(deezer_id):
+                concert = get_concert(event_id, country_code)
+                if concert is None:
                     continue
 
-                # Compute location ID
-                location_id = utils.get_or_create_location(concert['location'])
-                if location_id is None:
-                    raise Exception(f"Could not find or create location: {concert['location']}")
+                # Festivals are better handled as curated festival day events.
+                if concert["festival"]:
+                    location = concert["location"]
+                    print(
+                        f"  - (festival) {concert['date'][:10]}: "
+                        f"{', '.join(concert['artists'])} "
+                        f"({location['name']}, {location['city']}, {location['country']['name']})"
+                    )
+                    continue
 
-                # Create event file
-                event = Path(f"./content/events/{date_format}/{filename}")
-                if not event.exists():
-                    event.write_text(f"""\
----
-date: {date.isoformat()}
-venue: "{location_id}"
-artists:
-  - {artists_list}
----
-""", encoding = "UTF-8")
+                created = write_event(concert)
+                if created is not None:
+                    print(f"  + {created}")
+
+            # Mark this artist as refreshed from Deezer today.
+            utils.set_last_update(file, "deezer")
         except Exception:
             print(traceback.format_exc())

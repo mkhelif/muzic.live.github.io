@@ -57,6 +57,12 @@ DATE_FILTER = "upcoming"
 # used in spotify.py's get_concert.
 MAX_LINEUP = 5
 
+# Throttle: Bandsintown starts replying 416 when hit too fast. Space requests
+# out (with jitter) so the run stays polite. utils.http_get also retries 416/429
+# with backoff. Bump these if 416s still appear.
+REQUEST_INTERVAL = 3.0  # minimum seconds between requests
+REQUEST_JITTER = 1.5    # extra random 0..JITTER seconds per request
+
 _JSONLD_RE = re.compile(
     r'<script[^>]+type="application/ld\+json"[^>]*>(.*?)</script>',
     re.DOTALL | re.IGNORECASE,
@@ -339,6 +345,10 @@ def write_event(event, artist_name):
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
+    # Throttle Bandsintown requests to avoid its 416 rate-limit responses.
+    utils.MIN_REQUEST_INTERVAL = REQUEST_INTERVAL
+    utils.REQUEST_JITTER = REQUEST_JITTER
+
     for artist in sorted(listdir("./content/artists")):
         file = Path(f"./content/artists/{artist}/index.md")
         if not file.exists():
