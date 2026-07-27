@@ -19,7 +19,19 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   spotify: 2026-07-23
 ---
+
+Day We Ran est un groupe de rock alternatif australien originaire de Lennox Head, en Nouvelle-Galles du Sud, formé
+autour de trois frères rejoints par un quatrième membre considéré comme « un frère d'une autre mère ». Leur musique,
+portée par des riffs de guitare entraînants et des harmonies vocales à trois voix, s'inscrit dans un rock à vocation
+d'hymne, porté par une écriture narrative.
+
+###### Une ascension rapide portée par le streaming
+
+Leur premier single, « Foaming », dépasse les 23 millions d'écoutes sur Spotify et est notamment mis en avant dans la
+série à succès Outer Banks ainsi que sur la playlist Viral Alternative d'Apple Music. Le groupe, qui totalise plus
+d'un million d'auditeurs mensuels sur Spotify, a assuré en 2026 les premières parties de Sam Fender et The Kooks lors
+d'une tournée dans les arènes britanniques, avant de connaître une tournée à guichets fermés en Australie et en
+Nouvelle-Zélande.

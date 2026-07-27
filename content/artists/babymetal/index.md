@@ -2,6 +2,28 @@
 id: "d5adce58-577c-4b5d-b766-722c8143259f"
 title: "BABYMETAL"
 type: band
+members:
+  - id: "eef6116a-8bfb-437c-87ab-1a496d825935"
+    roles:
+      - sing
+    periods:
+      - start: 2010
+  - id: "7572ab24-7e30-4e77-8410-6f652d613aff"
+    roles:
+      - sing
+    periods:
+      - start: 2010
+  - id: "e201a5d0-8fc9-4f12-bc88-68f0148936b1"
+    roles:
+      - sing
+    periods:
+      - start: 2023
+  - id: "afdba956-ab6c-4167-8d76-add0c8a4a63b"
+    roles:
+      - sing
+    periods:
+      - start: 2010
+        end: 2018
 socials:
   facebook: ""
   instagram: ""

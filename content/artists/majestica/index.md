@@ -51,7 +51,17 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   spotify: 2026-07-23
 ---
+
+Majestica est un groupe de power metal symphonique suédois originaire de Boden, fondé en 2000 par le chanteur et
+guitariste Tommy Johansson, également connu pour son rôle au sein de Sabaton. À l'origine, la formation évolue sous le
+nom ReinXeed, projet solo de Johansson qui y joue alors tous les instruments sur l'album de débuts The Light.
+
+###### Un changement de nom chez Nuclear Blast
+
+En 2019, à l'occasion de sa signature chez Nuclear Blast Records, le groupe change de nom pour devenir Majestica et
+publie son premier album sous cette identité, Above the Sky, suivi en 2020 par A Christmas Carol. Le power metal du
+groupe, empreint de grandiloquence symphonique et de références aux musiques de film, trouve son prolongement en 2025
+avec la sortie de l'album Power Train et de son single-titre.

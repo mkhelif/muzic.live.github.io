@@ -20,7 +20,18 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   spotify: 2026-07-23
 ---
+
+Razorlight est un groupe de rock anglo-suédois formé à Londres à l'été 2002 autour du chanteur et guitariste Johnny
+Borrell, qui délaisse alors un projet acoustique pour s'associer au guitariste suédois Björn Ågren. Le son du groupe,
+hérité à la fois du post-punk et de formations comme The Strokes ou Television, se distingue par des refrains
+immédiats et une énergie très britpop.
+
+###### De Up All Night au succès de America
+
+Leur premier album, Up All Night, sort en 2004 et atteint la troisième place des charts britanniques. Deux ans plus
+tard, l'album éponyme Razorlight, produit par Chris Thomas, place le groupe en tête des ventes au Royaume-Uni et leur
+offre leur premier single numéro un, « America », qui deviendra l'un des titres les plus identifiés à la scène rock
+britannique du milieu des années 2000.

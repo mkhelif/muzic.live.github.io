@@ -2,6 +2,54 @@
 id: "322f1a0e-ec1b-4afe-bb11-3a64ad721e51"
 title: "Acid Bath"
 type: band
+members:
+  - id: "8aeaa3b2-b991-4221-98a6-52d0d12d049d"
+    roles:
+      - sing
+    periods:
+      - start: 1991
+        end: 1997
+      - start: 2024
+  - id: "5918c1f0-489d-421c-aa53-3fd5c7978f18"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 1991
+        end: 1997
+      - start: 2024
+  - id: "e17d73fc-84e5-4e48-84c3-519cc3558536"
+    roles:
+      - guitar
+    periods:
+      - start: 1991
+        end: 1997
+      - start: 2024
+  - id: "540293c6-80a6-492d-95b5-db601c48d8ae"
+    roles:
+      - drums
+    periods:
+      - start: 1991
+        end: 1997
+  - id: "838ea44c-4376-45b8-b941-2ae881478064"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 1991
+        end: 1997
+  - id: "f3f5f32e-927f-4a19-8e59-aaa0118956fb"
+    roles:
+      - bass
+    periods:
+      - start: 1997
+        end: 1997
+  - id: "a1d768a1-9db4-4593-9298-c340d0a8d21c"
+    roles:
+      - keys
+    periods:
+      - start: 1996
+        end: 1997
 socials:
   facebook: ""
   instagram: ""

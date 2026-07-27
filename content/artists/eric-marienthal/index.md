@@ -20,7 +20,23 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   spotify: 2026-07-23
 ---
+
+Eric Marienthal, né le 19 décembre 1957 à Sacramento, est un saxophoniste américain nommé aux Grammy Awards, figure du
+jazz fusion et de la smooth jazz basée à Los Angeles. Après le lycée dans le sud de la Californie, il rejoint le
+Berklee College of Music de Boston, où il étudie auprès du professeur de saxophone Joe Viola et obtient la plus haute
+distinction décernée par l'école.
+
+###### De Al Hirt au Chick Corea Elektric Band
+
+Il débute sa carrière professionnelle en 1980 aux côtés du trompettiste néo-orléanais Al Hirt. C'est en jouant à
+Disneyland qu'il est repéré par Chick Corea, qui l'invite à rejoindre son Elektric Band : Marienthal y enregistre six
+albums et remporte deux Grammy Awards. Son premier disque en tant que leader, Voices of the Heart (1988), est produit
+par Corea lui-même.
+
+###### Une carrière solo installée
+
+Sa percée commerciale intervient avec l'album Oasis (1991), qui atteint la cinquième place des classements
+contemporary jazz et confirme sa place parmi les saxophonistes les plus écoutés de la scène smooth jazz américaine.

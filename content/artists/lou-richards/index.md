@@ -1,0 +1,10 @@
+---
+id: "40389a75-0738-496a-9968-dcdd04ae2edd"
+title: "Lou Richards"
+socials:
+  facebook: ""
+  instagram: ""
+  x: ""
+  threads: ""
+  youtube: ""
+---

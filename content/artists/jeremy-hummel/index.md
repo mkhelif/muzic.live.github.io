@@ -1,0 +1,12 @@
+---
+id: "e027d70c-c323-4e22-9e1e-720f395f8ae8"
+title: "Jeremy Hummel"
+socials:
+  facebook: ""
+  instagram: ""
+  x: ""
+  threads: ""
+  youtube: ""
+todo:
+  - Add description/picture/socials
+---

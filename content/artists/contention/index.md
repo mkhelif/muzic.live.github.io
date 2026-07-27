@@ -20,7 +20,16 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   spotify: 2026-07-23
 ---
+
+Contention est un groupe de metalcore et hardcore straight edge originaire de Tampa, en Floride, formé en 2019. Le
+groupe se fait connaître la même année avec une démo trois titres, avant de confirmer avec l'EP Laying Waste to the
+Kingdom of Oblivion en 2021 puis Summer Offensive en 2022.
+
+###### Un hardcore métallique venu de Floride
+
+Le quintet s'inscrit dans la veine du hardcore métallique et du metalcore des années 1990, saluée par la scène
+straight edge dès sa démo de 2019. Leur premier album complet, Artillery From Heaven, confirme cette trajectoire et
+installe Contention parmi les groupes montants du hardcore américain contemporain.
