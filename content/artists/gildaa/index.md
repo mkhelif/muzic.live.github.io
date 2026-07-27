@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Gildaa, de son vrai nom **Camille Constantin Da Silva**, est une artiste franco-brésilienne née en 1994 à Paris. Fille

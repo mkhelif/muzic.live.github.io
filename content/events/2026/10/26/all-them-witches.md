@@ -1,0 +1,8 @@
+---
+date: 2026-10-26T00:00:00+00:00
+venue: "c8b2eabf-7ff9-4352-be5b-bd04b89c4d03"
+artists:
+  - "9dcf85ca-b97d-4c6a-b89c-008442b9102d"
+tickets:
+  web: "https://www.songkick.com/concerts/43177876-all-them-witches-at-intersection?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

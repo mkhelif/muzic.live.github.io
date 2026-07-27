@@ -1,0 +1,8 @@
+---
+date: 2027-03-25T20:00:00
+venue: "6c27f53d-3e35-412c-9642-649c4766307a"
+artists:
+  - "5189343c-3d4d-4e17-9549-70a5359609d0"
+tickets:
+  web: "https://www.bandsintown.com/e/1038089581-bernard-lavilliers-at-le-zenith?came_from=209"
+---

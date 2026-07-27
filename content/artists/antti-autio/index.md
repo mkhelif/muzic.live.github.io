@@ -12,7 +12,7 @@ socials:
   web: "https://anttipaalanen.fi/"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "318048256"
   deezer: "8802702"
   qobuz: ""
   spotify: "04v74MPedb2oLX2pUbcC4V"

@@ -1,0 +1,23 @@
+---
+id: "3ffccdef-e0ef-40cf-9ad4-94ab9f59396a"
+title: "Ganser"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

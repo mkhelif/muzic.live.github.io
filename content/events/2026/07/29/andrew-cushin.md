@@ -1,0 +1,8 @@
+---
+date: 2026-07-29T18:00:00+00:00
+venue: "58a18f23-2db9-4fee-87cc-f4b54cf51658"
+artists:
+  - "cb12bed2-66f8-4e4a-aee7-d25456b0428b"
+tickets:
+  web: "https://www.songkick.com/concerts/43161973-andrew-cushin-at-brickyard?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

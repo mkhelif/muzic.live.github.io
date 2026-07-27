@@ -1,0 +1,9 @@
+---
+date: 2026-10-08T17:00:00+00:00
+venue: "2eef3388-b509-45c8-9856-45a5850ee8a8"
+artists:
+  - "9fcd4197-89a9-4815-a76b-15083826ad77"
+  - "d05805ec-165e-4e4b-bbfe-668cd38a31d3"
+tickets:
+  web: "https://www.songkick.com/concerts/43268177-autechre-at-magyar-zene-haza?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

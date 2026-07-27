@@ -1,0 +1,8 @@
+---
+date: 2026-08-08T19:00:00
+venue: "e2f38aef-9ee0-4303-abc9-465747184309"
+artists:
+  - "e3a9dcc1-013c-4059-b399-78fb0ced55fc"
+tickets:
+  web: "https://www.bandsintown.com/e/108551301-charlotte-colace-at-parc-du-pre-de-l'etang?came_from=209"
+---

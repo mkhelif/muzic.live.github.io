@@ -1,0 +1,9 @@
+---
+date: 2026-08-16T03:00:00+00:00
+venue: "65ce5d16-3be9-41d2-b62c-631d01182df9"
+artists:
+  - "c356cb37-3a82-4978-a06c-97d089843c3f"
+  - "6af894ac-a8aa-48b1-9e33-9d34bde44c69"
+tickets:
+  web: "https://www.songkick.com/concerts/43179912-alela-diane-at-siren?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

@@ -1,0 +1,8 @@
+---
+date: 2026-11-15T00:00:00+00:00
+venue: "4bf808ad-6c76-46ab-a834-2653c1e11c37"
+artists:
+  - "148e6804-42c4-41aa-af25-33a693a8af13"
+tickets:
+  web: "https://www.songkick.com/concerts/43289346-angine-de-poitrine-at-brooklyn-steel?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

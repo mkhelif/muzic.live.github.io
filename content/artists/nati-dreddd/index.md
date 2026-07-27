@@ -1,0 +1,23 @@
+---
+id: "333e99bf-600e-49be-b13f-3a5e17811937"
+title: "Nati Dreddd"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

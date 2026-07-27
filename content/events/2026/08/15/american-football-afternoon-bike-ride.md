@@ -1,0 +1,9 @@
+---
+date: 2026-08-15T00:00:00+00:00
+venue: "77348a78-1cbb-4bd8-ba6d-8ddc928d6f55"
+artists:
+  - "45dd0c0c-ca34-4b24-a460-745223c6d2fe"
+  - "8e203370-49ad-4515-b5bf-b851387489c8"
+tickets:
+  web: "https://www.songkick.com/concerts/43137042-american-football-at-turner-hall-ballroom?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

@@ -1,0 +1,10 @@
+---
+date: 2026-09-24T19:30:00+00:00
+venue: "a326231c-cacb-4694-8812-ac67d8061c3d"
+artists:
+  - "e13cf1f1-9538-425f-9639-c1c00e319536"
+  - "6f6ed179-b7ff-4087-a710-9a33fb7a6110"
+  - "0d0e9eb6-2e01-4f37-b3d4-f32328686c49"
+tickets:
+  web: "https://www.songkick.com/concerts/43321409-leo-montana-at-jass-club-paris?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

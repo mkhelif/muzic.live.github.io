@@ -1,0 +1,8 @@
+---
+date: 2026-10-29T01:00:00+00:00
+venue: "fe1490d3-82ca-4cbe-a784-623d92698ccf"
+artists:
+  - "8f069db3-e87d-4b0b-b6b5-b5bb35f8cf0d"
+tickets:
+  web: "https://www.songkick.com/concerts/43333209-atlanta-rhythm-section-at-joy-theater?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---
