@@ -4,14 +4,13 @@
       - "artists" : artist id -> slice of album pages (most recent first)
 */ -}}
 {{- $cache := newScratch -}}
-{{- $byArtist := dict -}}
-{{- range (where site.RegularPages "Section" "albums").ByDate.Reverse -}}
-    {{- $album := . -}}
-    {{- range .Params.artists -}}
-        {{- $id := . -}}
-        {{- $current := index $byArtist $id | default slice -}}
-        {{- $byArtist = merge $byArtist (dict $id ($current | append $album)) -}}
+{{- $cache.Set "artists" dict -}}
+
+{{- range $album := (where site.RegularPages "Section" "albums").ByDate.Reverse -}}
+    {{- range $album.Params.artists -}}
+        {{- $existing := index ($cache.Get "artists") . | default slice -}}
+        {{- $cache.SetInMap "artists" . ($existing | append $album) -}}
     {{- end -}}
 {{- end -}}
-{{- $cache.Set "artists" $byArtist -}}
+
 {{- return $cache -}}

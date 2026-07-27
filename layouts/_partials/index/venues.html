@@ -5,16 +5,16 @@
     slice of its direct children ids.
 */ -}}
 {{- $cache := newScratch -}}
-{{- $children := dict -}}
+{{- $cache.Set "children" dict -}}
 
 {{- range where site.Pages "Section" "venues" -}}
     {{- $id := .Params.id -}}
-    {{- $parent := .Params.venue -}}
-    {{- if and $id $parent -}}
-        {{- $current := index $children $parent | default slice -}}
-        {{- $children = merge $children (dict $parent ($current | append $id)) -}}
+    {{- with .Params.venue -}}
+        {{- if $id -}}
+            {{- $existing := index ($cache.Get "children") . | default slice -}}
+            {{- $cache.SetInMap "children" . ($existing | append $id) -}}
+        {{- end -}}
     {{- end -}}
 {{- end -}}
 
-{{- $cache.Set "children" $children -}}
 {{- return $cache -}}

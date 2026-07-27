@@ -9,41 +9,31 @@
     Slices are sorted by date, most recent first.
 */ -}}
 {{- $cache := newScratch -}}
-{{- $byArtist := dict -}}
-{{- $byFestival := dict -}}
-{{- $byVenue := dict -}}
-{{- $byAlbum := dict -}}
+{{- $cache.Set "artists" dict -}}
+{{- $cache.Set "festivals" dict -}}
+{{- $cache.Set "venues" dict -}}
+{{- $cache.Set "albums" dict -}}
 
-{{- range (where site.RegularPages "Section" "news").ByDate.Reverse -}}
-    {{- $news := . -}}
-
-    {{- range .Params.artists -}}
-        {{- $id := . -}}
-        {{- $current := index $byArtist $id | default slice -}}
-        {{- $byArtist = merge $byArtist (dict $id ($current | append $news)) -}}
+{{- range $news := (where site.RegularPages "Section" "news").ByDate.Reverse -}}
+    {{- range $news.Params.artists -}}
+        {{- $existing := index ($cache.Get "artists") . | default slice -}}
+        {{- $cache.SetInMap "artists" . ($existing | append $news) -}}
     {{- end -}}
 
-    {{- with .Params.festival -}}
-        {{- $id := . -}}
-        {{- $current := index $byFestival $id | default slice -}}
-        {{- $byFestival = merge $byFestival (dict $id ($current | append $news)) -}}
+    {{- with $news.Params.festival -}}
+        {{- $existing := index ($cache.Get "festivals") . | default slice -}}
+        {{- $cache.SetInMap "festivals" . ($existing | append $news) -}}
     {{- end -}}
 
-    {{- with .Params.venue -}}
-        {{- $id := . -}}
-        {{- $current := index $byVenue $id | default slice -}}
-        {{- $byVenue = merge $byVenue (dict $id ($current | append $news)) -}}
+    {{- with $news.Params.venue -}}
+        {{- $existing := index ($cache.Get "venues") . | default slice -}}
+        {{- $cache.SetInMap "venues" . ($existing | append $news) -}}
     {{- end -}}
 
-    {{- with .Params.album -}}
-        {{- $id := . -}}
-        {{- $current := index $byAlbum $id | default slice -}}
-        {{- $byAlbum = merge $byAlbum (dict $id ($current | append $news)) -}}
+    {{- with $news.Params.album -}}
+        {{- $existing := index ($cache.Get "albums") . | default slice -}}
+        {{- $cache.SetInMap "albums" . ($existing | append $news) -}}
     {{- end -}}
 {{- end -}}
 
-{{- $cache.Set "artists" $byArtist -}}
-{{- $cache.Set "festivals" $byFestival -}}
-{{- $cache.Set "venues" $byVenue -}}
-{{- $cache.Set "albums" $byAlbum -}}
 {{- return $cache -}}

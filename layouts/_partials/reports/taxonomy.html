@@ -1,7 +1,7 @@
 {{ $reports := where site.RegularPages "Section" "reports" }}
-{{ $reports = $reports.ByDate.reverse }}
+{{ $reports = $reports.ByDate.Reverse }}
 
-{{ $paginator := .Paginate $reports 10 }}
+{{ $paginator := .Paginate $reports }}
 {{ range $index, $report := $paginator.Pages }}
     {{ partial "reports/list-entry.html" (dict "report" $report "index" $index) }}
 {{ end }}

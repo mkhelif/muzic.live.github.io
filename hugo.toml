@@ -11,13 +11,8 @@ enableRobotsTXT = true
   images = ['logo-text.png']
   twitter = ''
 
-# Categories
+# Taxonomies are disabled
 [taxonomies]
-  album = 'albums'
-  artist = 'artists'
-  festival = 'festivals'
-  venue = 'venues'
-  new = 'news'
 
 # Services
 [services]

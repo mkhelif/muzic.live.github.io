@@ -8,33 +8,25 @@
     Slices are sorted by date, most recent first (previous `.ByDate.Reverse`).
 */ -}}
 {{- $cache := newScratch -}}
-{{- $byArtist := dict -}}
-{{- $byVenue := dict -}}
-{{- $byFestival := dict -}}
+{{- $cache.Set "artists" dict -}}
+{{- $cache.Set "venues" dict -}}
+{{- $cache.Set "festivals" dict -}}
 
-{{- range (where site.RegularPages "Section" "reports").ByDate.Reverse -}}
-    {{- $report := . -}}
-
-    {{- range .Params.artists -}}
-        {{- $id := . -}}
-        {{- $current := index $byArtist $id | default slice -}}
-        {{- $byArtist = merge $byArtist (dict $id ($current | append $report)) -}}
+{{- range $report := (where site.RegularPages "Section" "reports").ByDate.Reverse -}}
+    {{- range $report.Params.artists -}}
+        {{- $existing := index ($cache.Get "artists") . | default slice -}}
+        {{- $cache.SetInMap "artists" . ($existing | append $report) -}}
     {{- end -}}
 
-    {{- with .Params.venue -}}
-        {{- $id := . -}}
-        {{- $current := index $byVenue $id | default slice -}}
-        {{- $byVenue = merge $byVenue (dict $id ($current | append $report)) -}}
+    {{- with $report.Params.venue -}}
+        {{- $existing := index ($cache.Get "venues") . | default slice -}}
+        {{- $cache.SetInMap "venues" . ($existing | append $report) -}}
     {{- end -}}
 
-    {{- with .Params.festival -}}
-        {{- $id := . -}}
-        {{- $current := index $byFestival $id | default slice -}}
-        {{- $byFestival = merge $byFestival (dict $id ($current | append $report)) -}}
+    {{- with $report.Params.festival -}}
+        {{- $existing := index ($cache.Get "festivals") . | default slice -}}
+        {{- $cache.SetInMap "festivals" . ($existing | append $report) -}}
     {{- end -}}
 {{- end -}}
 
-{{- $cache.Set "artists" $byArtist -}}
-{{- $cache.Set "venues" $byVenue -}}
-{{- $cache.Set "festivals" $byFestival -}}
 {{- return $cache -}}
