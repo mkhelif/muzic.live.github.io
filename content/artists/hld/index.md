@@ -1,0 +1,23 @@
+---
+id: "d9e95543-a650-4e46-92a4-b61957731d07"
+title: "HLD"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

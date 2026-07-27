@@ -98,7 +98,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "546381"
   deezer: ""
   qobuz: ""
   spotify: "6mdiAmATAx73kdxrNrnlao"

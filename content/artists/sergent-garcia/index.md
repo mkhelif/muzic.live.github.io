@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Sergent Garcia est le nom de scène de Bruno Garcia, chanteur français né en 1964, ancien guitariste du groupe punk

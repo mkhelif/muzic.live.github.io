@@ -124,7 +124,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "15866128"
   deezer: "120"
   qobuz: ""
   spotify: "57ylwQTnFnIhJh4nu4rxCs"

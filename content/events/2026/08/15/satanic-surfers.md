@@ -1,0 +1,8 @@
+---
+date: 2026-08-15T19:30:00
+venue: "8c2e8435-7f93-4075-829a-860fd4a84efb"
+artists:
+  - "753cc0b7-e889-47a4-b2b8-32ace3555555"
+tickets:
+  web: "https://www.bandsintown.com/e/1038149359-satanic-surfers-at-mejeriet?came_from=209"
+---
