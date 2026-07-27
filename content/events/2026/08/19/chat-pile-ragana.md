@@ -1,0 +1,9 @@
+---
+date: 2026-08-19T18:30:00+00:00
+venue: "6fc0d11b-098b-4934-88a2-d0084855d6be"
+artists:
+  - "a8e1109c-b6f6-47d0-acbe-0589eeb9d181"
+  - "4df995fa-e3ff-4964-8351-7c4f92031f8e"
+tickets:
+  web: "https://www.songkick.com/concerts/43038274-chat-pile-at-button-factory?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+---

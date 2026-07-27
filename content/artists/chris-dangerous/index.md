@@ -11,5 +11,6 @@ socials:
   bandsintown: "2265664"
   youtube: ""
 lastUpdate:
+  deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

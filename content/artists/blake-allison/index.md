@@ -3,6 +3,7 @@ id: "2bc93c36-4757-4e91-88ff-cace26644b2d"
 title: "Blake Allison"
 type: person
 socials:
+  apple: "817898019"
   deezer: "8971660"
   facebook: ""
   instagram: ""

@@ -3,6 +3,7 @@ id: "676183f2-15f6-426c-a4d5-42deb373d49a"
 title: "Argoth"
 type: person
 socials:
+  apple: "1454058566"
   facebook: ""
   instagram: ""
   x: ""

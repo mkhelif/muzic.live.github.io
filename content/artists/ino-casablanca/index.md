@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  bandsintown: 2026-07-27
 ---
 
 Ino Casablanca est un rappeur et auteur-compositeur français né en Espagne en août 2000, de parents marocains. Il

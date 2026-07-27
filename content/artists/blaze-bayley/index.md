@@ -3,6 +3,7 @@
 id: "582329e5-2609-4160-8e71-9d564d5b5dff"
 title: "Blaze Bayley"
 socials:
+  apple: "556751"
   deezer: "393935"
   facebook: ""
   instagram: ""

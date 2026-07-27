@@ -22,5 +22,6 @@ todo:
   - Add socials
   - Add detailed description
 lastUpdate:
+  bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
 ---
