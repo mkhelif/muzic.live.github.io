@@ -17,3 +17,19 @@ lastUpdate:
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---
+
+John Corabi est un chanteur et guitariste américain né le 26 avril 1959 à Philadelphie, en
+Pennsylvanie, révélé au grand public par son passage chez Mötley Crüe.
+
+###### Des débuts entre odd jobs et scène locale
+
+Marqué enfant par les Beatles à la télévision, Corabi chante d'abord au sein du groupe Angora avant de s'installer à
+Los Angeles en 1986, en plein essor du metal des années 1980. Il fonde The Scream en 1989 avec le guitariste Bruce
+Bouillet et le bassiste John Alderete, groupe qui devient sa première grande plateforme scénique et discographique.
+
+###### Le remplaçant de Vince Neil
+
+En 1992, Corabi rejoint Mötley Crüe pour remplacer Vince Neil et signe le chant sur l'album éponyme du groupe en
+1994, avant de quitter la formation en 1996 lors du retour de Neil. À partir de 1997, il fonde Union aux côtés de
+l'ex-guitariste de Kiss Bruce Kulick, puis s'impose comme un frontman recherché, collaborant notamment avec The Eric
+Singer Project et, plus récemment, The Dead Daisies.

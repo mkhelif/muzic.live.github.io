@@ -2,6 +2,41 @@
 id: "b57d69de-9d41-4724-bc75-8d796ccb44dd"
 title: "Dying Wish"
 type: band
+members:
+  - id: "646878c1-14c3-4f36-8102-3184d835ba75"
+    roles:
+      - sing
+    periods:
+      - start: 2016
+  - id: "657dfa24-d76c-4e58-b779-28b718672aee"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2016
+  - id: "25929cbe-f6ea-4bf6-a2de-4709ce8ae252"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2016
+  - id: "56821593-9e5b-446e-99ec-9532a4a02b38"
+    roles:
+      - drums
+    periods:
+      - start: 2016
+  - id: "158a3e6f-89d2-4f3b-8c9a-ceb226d094d8"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2022
+  - id: "57ca4fda-7109-4c6d-9826-fb6399f50e15"
+    roles:
+      - bass
+    periods:
+      - start: 2016
+        end: 2022
 socials:
   facebook: ""
   instagram: ""
