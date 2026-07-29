@@ -4,7 +4,7 @@
 {{- /* --- Artists --- */ -}}
 {{- $artist := dict -}}
 {{- with .Params.artists -}}
-    {{- range where (where site.RegularPages "Section" "artists") ".Params.id" (index . 0) -}}
+    {{- with partial "artists/lookup.html" (index . 0) -}}
         {{- $artist = dict
             "@type" "MusicGroup"
             "name" .Title

@@ -8,8 +8,7 @@
 {{- if and (not $currentName) (eq .Section "events") -}}
     {{- $artistNames := slice -}}
     {{- range .Params.artists -}}
-        {{- $artistId := . -}}
-        {{- range where (where site.RegularPages "Section" "artists") ".Params.id" $artistId -}}
+        {{- with partial "artists/lookup.html" . -}}
             {{- $artistNames = $artistNames | append .Title -}}
         {{- end -}}
     {{- end -}}
@@ -17,7 +16,7 @@
     {{- $festivalId := "" -}}
     {{- with .Params.festivalId }}{{ $festivalId = . }}{{ else }}{{ with .Params.festival }}{{ $festivalId = . }}{{ end }}{{ end -}}
     {{- with $festivalId -}}
-        {{- range where (where site.RegularPages "Section" "festivals") ".Params.id" . -}}
+        {{- with partial "festivals/lookup.html" . -}}
             {{- $currentName = printf "%s : %s" .Title $currentName -}}
         {{- end -}}
     {{- end -}}

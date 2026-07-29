@@ -1,6 +1,6 @@
 {{- range $index, $id := . -}}
     {{- if gt $index 0 -}}, {{ end -}}
-    {{- range where site.RegularPages "Section" "artists" -}}
-        {{- if eq .Params.id $id -}}{{- .Title | safeHTML -}}{{- end -}}
+    {{- with partial "artists/lookup.html" $id -}}
+        {{- .Title | safeHTML -}}
     {{- end -}}
 {{- end -}}
