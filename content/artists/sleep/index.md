@@ -1,0 +1,20 @@
+---
+id: "a4b0e24c-1971-4ba8-b577-89181be93e14"
+title: "Sleep"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  spotify: ""
+  deezer: ""
+  apple: ""
+  tidal: ""
+todo:
+  - Add description
+  - Add picture
+  - Add socials
+---

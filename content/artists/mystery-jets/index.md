@@ -20,8 +20,25 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---
+
+Mystery Jets est un groupe de rock indépendant anglais formé sur Eel Pie Island, un îlot bohème au milieu de la
+Tamise à Twickenham, dans l'ouest de Londres. L'aventure démarre dès le début des années 1990, quand le chanteur
+Blaine Harrison n'a que douze ans, même si le groupe n'est officiellement actif qu'à partir de 2003.
+
+###### Une affaire de famille
+
+Baptisé au départ « Misery Jets » en référence au vacarme des avions en approche de l'aéroport d'Heathrow qui
+survolent l'île, le nom devient « Mystery Jets » après une faute d'orthographe du jeune Blaine. Le groupe est avant
+tout un projet familial : Blaine à la batterie, son père Henry Harrison à la basse et son ami William Rees à la
+guitare. Henry passera ensuite à la guitare, laissant la basse à Kai Fish, tandis que Blaine migre vers les claviers.
+
+###### Le foyer bohème d'Eel Pie Island
+
+Installé sur cette île connue comme un bastion de la contre-culture londonienne, le groupe y organise une série de
+soirées restées célèbres, les « White Cross Revival ». Influencé par Hall and Oates, Syd Barrett ou Pink Floyd,
+Mystery Jets s'est taillé une réputation de pop anglaise aussi inventive qu'excentrique, allant jusqu'à jouer
+certains morceaux sur des couvercles de poubelle en guise de cymbales.

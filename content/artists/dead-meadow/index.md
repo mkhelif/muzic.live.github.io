@@ -20,8 +20,25 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---
+
+Dead Meadow est un groupe américain de stoner rock formé en 1998 à Washington D.C., né des cendres de deux
+formations locales, The Impossible Five et Colour. Le noyau originel réunit Jason Simon au chant et à la guitare et
+Steve Kille à la basse, rejoints par un batteur, pour un son qui marie le heavy metal des années 70 et le rock
+psychédélique des sixties.
+
+###### Un univers inspiré de Tolkien et Lovecraft
+
+Le groupe puise ses textes et son imaginaire dans les univers de J.R.R. Tolkien et H.P. Lovecraft, installant une
+atmosphère brumeuse et incantatoire portée par des guitares saturées et de longues plages instrumentales. Repéré par
+Joe Lally (Fugazi) qui les signe sur son label Tolotta, Dead Meadow gagne rapidement en visibilité avant de rejoindre
+le label indépendant Matador.
+
+###### Une discographie fournie
+
+En plus de deux décennies de carrière, le trio a publié sept albums studio, deux albums live ainsi qu'une Peel
+Session enregistrée pour la BBC. Cette régularité et cette fidélité à un son reconnaissable entre mille ont fait de
+Dead Meadow l'un des groupes les plus constants de la scène stoner rock internationale.

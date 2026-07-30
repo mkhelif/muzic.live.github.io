@@ -2,6 +2,57 @@
 id: "97dadd8e-0230-49bc-9da5-b2cb7ff19c33"
 title: "Editors"
 type: band
+members:
+  - id: "36917e69-6782-4248-9fb5-1b9022933ad0"
+    roles:
+      - sing
+      - guitar
+      - keys
+    periods:
+      - start: 2002
+  - id: "d39ac704-c66a-4747-8e7a-277812c9dd30"
+    roles:
+      - bass
+      - keys
+      - sing
+    periods:
+      - start: 2002
+  - id: "71725f08-9d8b-471c-b2e5-a9b2988fd00a"
+    roles:
+      - drums
+      - sing
+    periods:
+      - start: 2003
+  - id: "37dfcea4-6982-4945-92cb-15b80746ac3c"
+    roles:
+      - guitar
+    periods:
+      - start: 2012
+  - id: "d825602f-4922-4241-9e61-e34818f48024"
+    roles:
+      - keys
+      - guitar
+      - sing
+    periods:
+      - start: 2012
+  - id: "72af17f0-c5ff-48e1-ab73-3fe7d796bcd3"
+    roles:
+      - drums
+    periods:
+      - start: 2002
+        end: 2003
+  - id: "3688d652-023d-47b5-a3e8-f11bb11db987"
+    roles:
+      - guitar
+    periods:
+      - start: 2002
+        end: 2012
+  - id: "0bf4ce0e-9a7e-40e6-9271-2bba4edc108c"
+    roles:
+      - keys
+    periods:
+      - start: 2022
+        end: 2025
 socials:
   facebook: ""
   instagram: ""

@@ -2,6 +2,17 @@
 id: "fe0409c4-9e0c-4c6b-a8f6-e9ce5a218f82"
 title: "Polo & Pan"
 type: band
+members:
+  - id: "e40969a0-be6f-457c-9208-286d992f11e2"
+    roles:
+      - other
+    periods:
+      - start: 2013
+  - id: "663f983b-d598-4ff8-9cb0-40370752c63f"
+    roles:
+      - other
+    periods:
+      - start: 2013
 socials:
   facebook: ""
   instagram: ""
