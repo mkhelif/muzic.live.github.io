@@ -5,7 +5,7 @@ type: person
 socials:
   deezer: "75337422"
   facebook: ""
-  instagram: ""
+  instagram: "keystone_poles"
   x: ""
   threads: ""
   youtube: ""

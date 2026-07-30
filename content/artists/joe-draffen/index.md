@@ -5,7 +5,7 @@ type: person
 socials:
   deezer: "75337442"
   facebook: ""
-  instagram: ""
+  instagram: "talkintubbastv"
   x: ""
   threads: ""
   youtube: ""

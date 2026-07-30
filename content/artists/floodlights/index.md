@@ -32,14 +32,15 @@ members:
     periods:
       - start: 2025
 socials:
-  facebook: ""
-  instagram: ""
-  tiktok: ""
+  facebook: "floodlights88"
+  instagram: "floodlights___"
+  tiktok: "@floodlightsband"
   x: ""
+  bandcamp: "floodlights88"
   bandsintown: "1874644"
-  youtube: ""
-  web: ""
-  email: ""
+  youtube: "@Floodlights88"
+  web: "https://www.floodlightsband.com/"
+  email: "floodlights.band123@gmail.com"
   amazon: ""
   apple: ""
   deezer: "60804582"

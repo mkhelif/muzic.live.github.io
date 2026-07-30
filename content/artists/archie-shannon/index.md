@@ -5,7 +5,7 @@ type: person
 socials:
   deezer: "75337452"
   facebook: ""
-  instagram: ""
+  instagram: "songofthestars_"
   x: ""
   threads: ""
   youtube: ""

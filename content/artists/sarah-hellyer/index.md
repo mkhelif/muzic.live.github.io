@@ -5,7 +5,7 @@ type: person
 socials:
   deezer: "190646917"
   facebook: ""
-  instagram: ""
+  instagram: "lara_was_her_name"
   x: ""
   threads: ""
   youtube: ""
