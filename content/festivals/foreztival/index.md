@@ -4,7 +4,7 @@ title: "Foreztival"
 socials:
   facebook: "foreztival"
   instagram: "foreztival"
-  youtube: "c/Foreztival-Trelins"
+  youtube: "@Foreztival-Trelins"
   web: "https://www.foreztival.com/"
 ---
 
