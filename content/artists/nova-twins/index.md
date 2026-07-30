@@ -40,7 +40,7 @@ Il existe peu de groupes capables de faire dire à un magazine spécialisé qu'i
 comment reproduire — et encore moins avec une basse pour seule arme mélodique. Nova Twins est le groupe le plus excitant
 de la jeune scène britannique. Mélangeant rap, punk, R&B et metal, le duo possède aussi les sonorités de synthé les plus
 crades qu'un instrument à cordes ait jamais produites. C'est le premier groupe depuis Muse à avoir des tonalités sur
-leur album qu'on ne sait littéralement pas comment reproduire. Voilà ce qu'est Nova Twins en une phrase — un duo qui a
+leur album qu'on ne sait littéralement pas comment reproduire. **Voilà** ce qu'est Nova Twins en une phrase — un duo qui a
 réinventé ce que peut sonner une basse, et avec elle, ce que peut être le rock britannique en 2026.
 
 ###### Une amitié d'enfance devenue duo

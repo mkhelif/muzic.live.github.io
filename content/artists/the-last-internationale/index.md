@@ -38,7 +38,7 @@ lastUpdate:
 Il y a des groupes qui font de la musique. Il y a des groupes qui font de la musique et de la politique. Et puis il y a
 The Last Internationale — qui ne voit aucune différence entre les deux. Nous ne voyons pas de différence entre l'art et
 la politique. Nous sommes un groupe qui n'a jamais eu peur de mélanger les deux, quelles qu'en soient les conséquences.
-Jouer la sécurité ne produit que de la musique sans âme qui n'inspire personne. Ces mots d'Edgey Pires résument en
+Jouer la sécurité ne produit que de la musique sans âme qui n'inspire personne. Ces mots d'**Edgey Pires** résument en
 quelques phrases vingt ans d'un parcours singulier, exigeant, et absolument inoubliable sur scène.
 
 ###### Une rencontre, un mouvement

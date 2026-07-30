@@ -29,7 +29,7 @@ lastUpdate:
 Michael Holbrook Penniman Jr. débarque dans l'univers musical tel un ouragan coloré, imposant instantanément cette
 esthétique pop-rock flamboyante qui redéfinit les codes du genre.
 
-Mika développe d'emblée ce style theatral qui mélange influences Queen, Beatles et Elton John dans une synthèse
+Mika développe d'emblée ce style theatral qui mélange influences Queen, Beatles et **Elton John** dans une synthèse
 personnelle d'une originalité saisissante.
 
 Son univers musical refuse la morosité ambiante pour privilégier cette joie communicative qui caractérise les plus

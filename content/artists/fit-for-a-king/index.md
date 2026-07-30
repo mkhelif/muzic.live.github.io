@@ -26,7 +26,7 @@ lastUpdate:
 ---
 
 Fit For A King, aussi connu sous le sigle FFAK, est un groupe de metalcore américain originaire de Tyler, au Texas,
-formé en 2007. La formation actuelle réunit les guitaristes Bobby Lynge et Daniel Gailey, le chanteur Ryan Kirby, le
+formé en 2007. La formation actuelle réunit les guitaristes **Bobby Lynge** et Daniel Gailey, le chanteur Ryan Kirby, le
 bassiste Ryan « Tuck » O'Leary et le batteur Trey Celaya.
 
 ###### Des débuts DIY sur la scène texane

@@ -16,9 +16,9 @@ socials:
   qobuz: "j6jq4oi12ptvb"
 ---
 
-Sept ans après la mort de Chester Bennington, Linkin Park ressuscite. Pas en tentant de remplacer l'irremplaçable, mais
+Sept ans après la mort de **Chester Bennington**, **Linkin Park** ressuscite. Pas en tentant de remplacer l'irremplaçable, mais
 en osant tout recommencer. From Zero, clin d'œil à leur nom originel "Xero", n'est pas un album de deuil ou de
-nostalgie. C'est un manifeste de réinvention qui fonctionne précisément parce qu'Emily Armstrong n'est pas Chester, et
+nostalgie. C'est un manifeste de réinvention qui fonctionne précisément parce qu'**Emily Armstrong** n'est pas Chester, et
 que personne ici ne prétend le contraire.
 
 

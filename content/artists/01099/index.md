@@ -29,7 +29,7 @@ lastUpdate:
 01099 est un groupe de rap allemand originaire de Dresde, dont le nom fait directement référence au code postal du
 quartier Äußere Neustadt (01099), berceau de la scène alternative et créative de la ville saxonne.
 
-Formé en 2018, le quatuor rassemble Dani, Gustav, Paul et Zachi — quatre amis qui se sont rencontrés en partie au sein
+Formé en 2018, le quatuor rassemble Dani, **Gustav**, Paul et **Zachi** — quatre amis qui se sont rencontrés en partie au sein
 de formations orchestrales et ont fréquenté ensemble le lycée St. Benno. C'est cette origine commune, ancrée dans la
 culture du quartier, qui donne au groupe sa cohérence artistique et son identité visuelle forte.
 

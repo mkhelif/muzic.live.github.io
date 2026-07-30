@@ -27,7 +27,7 @@ lastUpdate:
 ---
 
 Orleans est un groupe de soft rock américain fondé en janvier 1972 à Woodstock, dans l'État de New
-York, par le chanteur-guitariste John Hall, aux côtés de Wells Kelly et Larry Hoppen ; Lance Hoppen, frère de Larry,
+York, par le chanteur-guitariste **John Hall**, aux côtés de Wells Kelly et Larry Hoppen ; Lance Hoppen, frère de Larry,
 les rejoint la même année.
 
 ###### Un fondateur aux multiples vies

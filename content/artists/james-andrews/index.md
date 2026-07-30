@@ -25,7 +25,7 @@ lastUpdate:
 
 James Andrews, né le 12 janvier 1969, est un trompettiste et chanteur américain originaire du quartier de Tremé, à La
 Nouvelle-Orléans, surnommé le « Satchmo of the Ghetto ». Il est issu d'une véritable dynastie musicale : petit-fils du
-pianiste et compositeur Jesse Hill, frère aîné du tromboniste Troy Andrews, plus connu sous le nom de Trombone Shorty,
+pianiste et compositeur Jesse Hill, frère aîné du tromboniste Troy Andrews, plus connu sous le nom de **Trombone Shorty**,
 et cousin du trompettiste Travis « Trumpet Black » Hill.
 
 ###### Les racines des brass bands

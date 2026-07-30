@@ -8,7 +8,7 @@ socials:
 ---
 
 Chaque été, début juillet, les bords du **lac du Bourget** — le plus grand lac naturel de France — se transforment en
-l'un des plus beaux décors de festival du pays. D'un côté l'eau, de l'autre les montagnes de la Chartreuse et du massif
+l'un des plus beaux décors de festival du pays. D'un côté l'eau, de l'autre les montagnes de la **Chartreuse** et du massif
 des Bauges, et au milieu une esplanade qui, le temps de quatre jours, devient le cœur battant de la pop, du rock et des
 musiques actuelles. Bienvenue à **Musilac**, le grand rendez-vous estival d'**Aix-les-Bains**, en Savoie — un festival
 qui, depuis le début des années 2000, a su s'imposer comme une étape incontournable de la tournée des festivals français

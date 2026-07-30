@@ -22,9 +22,9 @@ lastUpdate:
 ---
 
 Il y a des guitaristes qui jouent. Il y a des guitaristes qui impressionnent. Et puis il y a Taj Farrant — un gamin qui,
-à un âge où la plupart des adolescents hésitent encore entre deux filières scolaires, a déjà jammé avec Carlos Santana,
+à un âge où la plupart des adolescents hésitent encore entre deux filières scolaires, a déjà jammé avec **Carlos Santana**,
 fait pleurer Nuno Bettencourt d'admiration et décroché un contrat d'endorsement avec Gibson avant même d'avoir eu le
-droit de conduire. Le 14 juillet 2026, c'est sur la Scène Village de Guitare en Scène qu'il posera ses amplis. Autant
+droit de conduire. Le 14 juillet 2026, c'est sur la Scène Village de **Guitare en Scène** qu'il posera ses amplis. Autant
 prévenir : le choc risque d'être violent.
 
 ###### Long Jetty, Nouvelle-Galles du Sud : là où tout commence

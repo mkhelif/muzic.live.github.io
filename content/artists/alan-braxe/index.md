@@ -30,7 +30,7 @@ indéfectible du groove.
 
 Ses premières productions paraissent dès 1997 sur le label Roulé de Thomas Bangalter (moitié de Daft Punk), dont il est
 proche. Mais c'est en 1998 que son nom s'inscrit définitivement dans l'histoire de la musique électronique mondiale : en
-tant que membre du supergroupe éphémère **Stardust**, avec Benjamin Diamond et DJ Falcon, il co-signe « Music Sounds
+tant que membre du supergroupe éphémère **Stardust**, avec Benjamin Diamond et **DJ Falcon**, il co-signe « Music Sounds
 Better with You », un hymne house instantané certifié platine en France et aux États-Unis, vendu à plus de trois
 millions d'exemplaires dans le monde.
 

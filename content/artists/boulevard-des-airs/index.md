@@ -28,7 +28,7 @@ débuts autodidactes dans leur ville natale du piémont pyrénéen jusqu'aux sc�
 français, le groupe a tracé un chemin jalonné de succès populaires et de récompenses.
 
 La formation s'étoffe progressivement pour atteindre sept membres : Florent Dasque, Jean-Noël Dasque,
-Sylvain Duthu, Jean-Baptiste Labe, Laurent Garnier, Ernst Carree et Jérémie Plante. C'est cette
+Sylvain Duthu, Jean-Baptiste Labe, **Laurent Garnier**, Ernst Carree et Jérémie Plante. C'est cette
 configuration collective qui donne à Boulevard des Airs son énergie particulière — celle d'une bande
 d'amis qui font de la musique ensemble avec une complicité palpable et une générosité communicative.
 

@@ -55,9 +55,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Lambrini Girls est un groupe de punk rock anglais formé à Brighton, composé aujourd'hui de Phoebe Lunny et Selin
-Macieira-Boşgelmez. À l'origine, le groupe réunissait la chanteuse Flora Kimberly, la guitariste et choriste Phoebe
-Lunny, la bassiste Fox O'Reilly et la batteuse Catt Jack, avant de se produire pour la première fois en mai 2019.
+Lambrini Girls est un groupe de punk rock anglais formé à Brighton, composé aujourd'hui de **Phoebe Lunny** et **Selin Macieira-Boşgelmez**. À l'origine, le groupe réunissait la chanteuse **Flora Kimberly**, la guitariste et choriste **Phoebe Lunny**, la bassiste **Fox O'Reilly** et la batteuse **Catt Jack**, avant de se produire pour la première fois en mai 2019.
 
 ###### Un nom provocateur
 

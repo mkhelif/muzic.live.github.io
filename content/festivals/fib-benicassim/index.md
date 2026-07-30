@@ -12,7 +12,7 @@ socials:
   email: "info@fiberfib.com"
 ---
 
-Sur la Costa Azahar, entre Méditerranée et montagnes de Castellón, le **Festival Internacional de Benicàssim** — plus
+Sur la **Costa** Azahar, entre Méditerranée et montagnes de Castellón, le **Festival Internacional de Benicàssim** — plus
 connu sous son acronyme **FIB** — a imposé depuis le milieu des années 1990 une formule bien à lui : des concerts qui
 ne démarrent qu'en fin d'après-midi et se prolongent jusqu'au lever du jour, dans une atmosphère indissociable des
 nuits d'été espagnoles.

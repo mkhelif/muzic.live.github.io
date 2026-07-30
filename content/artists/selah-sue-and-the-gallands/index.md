@@ -24,8 +24,8 @@ lastUpdate:
   bandsintown-lookup: 2026-07-25
 ---
 
-Selah Sue and The Gallands est le nom du nouveau projet porté par la chanteuse belge Selah Sue (Sanne Putseys), né d'une
-collaboration avec The Gallands, duo père-fils formé par le batteur de jazz Stéphane Galland et le
+Selah Sue and The Gallands est le nom du nouveau projet porté par la chanteuse belge **Selah Sue** (Sanne Putseys), né d'une
+collaboration avec **The Gallands**, duo père-fils formé par le batteur de jazz **Stéphane** Galland et le
 claviériste-producteur Elvin Galland.
 
 ###### Une rencontre entre soul, groove et improvisation

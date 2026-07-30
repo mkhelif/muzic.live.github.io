@@ -26,7 +26,7 @@ lastUpdate:
 ---
 
 Il existe une question que beaucoup se posent en découvrant SUN pour la première fois : comment peut-on aimer à la fois
-ABBA et Gojira ? La réponse, c'est Karoline Rose — et la réponse s'appelle la Brutal Pop.
+ABBA et **Gojira** ? La réponse, c'est Karoline Rose — et la réponse s'appelle la Brutal Pop.
 
 Derrière le nom de SUN se cache Karoline Rose, autrice, compositrice, chanteuse et guitariste d'un projet débuté en
 2017, qui se définit par l'appellation *brutal pop* — en résumé : mélodies catchy, univers visuel coloré, parties

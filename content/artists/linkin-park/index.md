@@ -70,8 +70,8 @@ lastUpdate:
 Linkin Park est un groupe américain formé en 1996 à Los Angeles, qui a révolutionné le rock moderne en fusionnant metal
 alternatif, hip-hop, électronique et nu metal dans un son novateur qui a défini une génération.
 
-Fondé par Mike Shinoda, Brad Delson et Rob Bourdon, le groupe trouve sa formation définitive avec l'arrivée du chanteur
-Chester Bennington en 1999, dont la voix puissante et émotionnelle devient l'âme du groupe.
+Fondé par **Mike Shinoda**, **Brad Delson** et **Rob Bourdon**, le groupe trouve sa formation définitive avec l'arrivée du chanteur
+**Chester Bennington** en 1999, dont la voix puissante et émotionnelle devient l'âme du groupe.
 
 Leurs débuts voient le groupe affiner une approche unique qui mêle riffs de guitare lourds, samples électroniques,
 scratching DJ et rap, créant un style hybride sans précédent dans le rock mainstream.

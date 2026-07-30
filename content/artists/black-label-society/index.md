@@ -24,7 +24,7 @@ lastUpdate:
 ---
 
 Black Label Society est un groupe de heavy metal américain formé à Los Angeles en 1998 par le guitariste et chanteur
-Zakk Wylde, figure incontournable de la scène metal grâce à son passage aux côtés d'Ozzy Osbourne.
+Zakk Wylde, figure incontournable de la scène metal grâce à son passage aux côtés d'**Ozzy Osbourne**.
 
 ###### De Pride & Glory à Black Label Society
 

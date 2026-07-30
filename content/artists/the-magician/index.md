@@ -26,7 +26,7 @@ lastUpdate:
 
 Stephen Fasano, plus connu sous le nom de scène The Magician, est un DJ et producteur belge originaire de Namur.
 D'origine italo-belge, il grandit dans une région industrielle du sud de la Belgique, bercé par la collection pop et
-disco de son père (ABBA, Supertramp, Michael Jackson, Giorgio Moroder) puis par un lot de disques italo-disco hérité
+disco de son père (ABBA, Supertramp, Michael Jackson, **Giorgio Moroder**) puis par un lot de disques italo-disco hérité
 de son oncle, qui lui donne le virus du DJing.
 
 ###### D'Aeroplane à The Magician

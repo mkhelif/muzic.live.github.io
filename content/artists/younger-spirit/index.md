@@ -23,7 +23,7 @@ lastUpdate:
 
 Younger Spirit représente l'une des révélations les plus prometteuses de la scène rock alternative de ces dernières
 années. Ce groupe, dont la musique mêle habilement énergie brute et sensibilité mélodique, a marqué les esprits lors de
-sa prestation au prestigieux festival Guitare en Scène 2025, confirmant ainsi son ascension fulgurante dans le paysage
+sa prestation au prestigieux festival **Guitare en Scène** 2025, confirmant ainsi son ascension fulgurante dans le paysage
 musical international.
 
 ###### Origines et formation

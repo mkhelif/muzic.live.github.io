@@ -57,8 +57,8 @@ lastUpdate:
 ---
 
 Bad Omens est un groupe de metal américain originaire de Richmond, en Virginie, fondé en
-2015 par le chanteur et producteur Noah Sebastian. Rejoints rapidement par le guitariste Nicholas Ruffilo, le bassiste
-Vincent Riquier, le guitariste et producteur suédois Joakim « Jolly » Karlsson, et le batteur Nick Folio, les cinq
+2015 par le chanteur et producteur **Noah Sebastian**. Rejoints rapidement par le guitariste **Nicholas Ruffilo**, le bassiste
+**Vincent Riquier**, le guitariste et producteur suédois Joakim « Jolly » Karlsson, et le batteur **Nick Folio**, les cinq
 musiciens développent un son qui traverse les frontières du metalcore, du post-hardcore et de l'alternative metal,
 avec des incursions dans la musique électronique et le R&B.
 

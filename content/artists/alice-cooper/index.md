@@ -28,7 +28,7 @@ lastUpdate:
 
 Alice Cooper est l'un des artistes les plus influents et les plus iconiques de l'histoire du rock. Né Vincent
 Damon Furnier le 4 février 1948 à Détroit, dans le Michigan, il grandit dans cette ville avant que sa famille ne
-s'installe à Phoenix, en Arizona. Là-bas, il forme avec des camarades de lycée un groupe qui passera par les noms
+s'installe à **Phoenix**, en Arizona. Là-bas, il forme avec des camarades de lycée un groupe qui passera par les noms
 d'Earwigs et de Spiders, avant de devenir Alice Cooper en 1968 — un nom choisi pour son contraste saisissant avec
 l'image de personnages en noir au maquillage théâtral que le groupe s'était forgée.
 

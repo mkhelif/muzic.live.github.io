@@ -19,9 +19,9 @@ scène musicale genevoise. Le festival devient ainsi la vitrine naturelle de cet
 voir éclore sur scène les projets nés entre les murs de l'association.
 
 La troisième édition, programmée le 17 janvier 2026, illustre parfaitement cette philosophie : trois groupes locaux —
-Meuhstache, The Dungbeetle Conspiracy et Spacebrain — partageront l'affiche avec les vétérans parisiens de Lofofora,
-pionniers du metal fusion français. La soirée marquera également le double vernissage des albums de Meuhstache
-(*Nyctophilia*) et The Dungbeetle Conspiracy, consacrant ainsi le festival comme tremplin essentiel pour la création
+**Meuhstache**, **The Dungbeetle Conspiracy** et Spacebrain — partageront l'affiche avec les vétérans parisiens de **Lofofora**,
+pionniers du metal fusion français. La soirée marquera également le double vernissage des albums de **Meuhstache**
+(*Nyctophilia*) et **The Dungbeetle Conspiracy**, consacrant ainsi le festival comme tremplin essentiel pour la création
 musicale locale.
 
 {{< carousel pictures="pictures" alt="Lez'Arts Murailles" reverse="true" >}}

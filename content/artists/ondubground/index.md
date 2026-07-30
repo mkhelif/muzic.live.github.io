@@ -23,7 +23,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Ondubground est un projet de dub électronique français lancé en 2004 à Tours par deux frères, Paul (Art-X) et Simon
+Ondubground est un projet de dub électronique français lancé en 2004 à Tours par deux frères, Paul (**Art-X**) et Simon
 (Olo). Nourris par le french dub des années 2000 et par la culture sound system anglaise, ils développent un style
 d'électro-dub instrumental, à mi-chemin entre concert électronique et musique de scène.
 

@@ -19,7 +19,7 @@ lastUpdate:
 ---
 
 John Corabi est un chanteur et guitariste américain né le 26 avril 1959 à Philadelphie, en
-Pennsylvanie, révélé au grand public par son passage chez Mötley Crüe.
+Pennsylvanie, révélé au grand public par son passage chez **Mötley Crüe**.
 
 ###### Des débuts entre odd jobs et scène locale
 

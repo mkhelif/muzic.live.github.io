@@ -25,7 +25,7 @@ lastUpdate:
 ---
 
 Austere est un groupe de black metal dépressif australien originaire d'East Corrimal, en
-Nouvelle-Galles du Sud. Fondé en 2005 par Mitchell Keepin (alias Desolate) et Tim Yatras (alias Sorrow), le projet
+Nouvelle-Galles du Sud. Fondé en 2005 par Mitchell Keepin (alias **Desolate**) et **Tim Yatras** (alias Sorrow), le projet
 prend forme dans les marges de la scène metal australienne, à distance du circuit commercial.
 
 ###### Un black metal de l'introspection

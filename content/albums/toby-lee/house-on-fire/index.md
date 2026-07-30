@@ -15,7 +15,7 @@ socials:
 ---
 
 Il a 19 ans. Trois fois vainqueur du Young Blues Artist of the Year aux UK Blues Awards. Encensé par Jools Holland et
-Joe Bonamassa. Qualifié par The Times comme "l'un des meilleurs guitaristes de Grande-Bretagne". Toby Lee n'est pas un
+**Joe Bonamassa**. Qualifié par The Times comme "l'un des meilleurs guitaristes de Grande-Bretagne". **Toby Lee** n'est pas un
 prodige ordinaire - c'est un musicien complet dont la maturité artistique dépasse de loin son âge. Avec House on Fire,
 sorti le 4 octobre 2024, le jeune britannique livre son premier album entièrement composé de matériel original.
 Trente-quatre minutes, onze titres, une déclaration d'indépendance artistique.

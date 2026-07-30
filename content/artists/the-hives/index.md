@@ -54,7 +54,7 @@ lastUpdate:
 
 The Hives sont un groupe de garage rock suédois formé en 1993 à Fagersta, une petite ville industrielle du centre de
 la Suède. Après avoir bâti leur réputation sur la scène locale durant les années 1990, le groupe s'impose sur la scène
-internationale au début des années 2000, en plein revival du garage rock, aux côtés de groupes comme The Strokes ou
+internationale au début des années 2000, en plein revival du garage rock, aux côtés de groupes comme **The Strokes** ou
 The White Stripes.
 
 Reconnaissable entre tous grâce à leurs costumes assortis noir et blanc et à leurs prestations scéniques survoltées,

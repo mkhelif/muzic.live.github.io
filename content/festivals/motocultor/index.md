@@ -18,7 +18,7 @@ jours, quatre scènes et plus de 110 groupes, installé sur le site mythique de 
 accueille les Vieilles Charrues —, avec 55 000 festivaliers et une programmation qui réunit toutes les familles du
 metal, du heavy classique au black metal, du death brutal au rock alternatif, du sludge au folk païen. Le tout en
 restant fidèle à une philosophie qui n'a jamais changé : un festival à taille humaine, convivial, exigeant
-artistiquement et accessible. Le petit frère du Hellfest est devenu grand. Et il n'a pas perdu son âme en route.
+artistiquement et accessible. Le petit frère du **Hellfest** est devenu grand. Et il n'a pas perdu son âme en route.
 
 ###### Les origines : un groupe de reprises disco et un rêve de festival
 

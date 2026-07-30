@@ -47,7 +47,7 @@ lastUpdate:
 ---
 
 Pinkshift est un groupe de rock américain formé en 2019 à Baltimore, dans le Maryland, par trois étudiants de la Johns
-Hopkins University : la chanteuse Ashrita Kumar, le guitariste Paul Vallejo et le batteur Myron Houngbedji. Kumar et
+Hopkins University : la chanteuse **Ashrita Kumar**, le guitariste **Paul Vallejo** et le batteur **Myron Houngbedji**. Kumar et
 Vallejo se rencontrent en 2018 lors d'un événement universitaire, puis recrutent Houngbedji après l'avoir repéré dans la
 salle de batterie du Mattin Center du campus.
 

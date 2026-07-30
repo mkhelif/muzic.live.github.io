@@ -40,9 +40,9 @@ lastUpdate:
   bandsintown: 2026-07-27
 ---
 
-Saults est un groupe fondé par deux frères, Antoine et Greg Saults, originaires de Bordeaux. Animés par des
+Saults est un groupe fondé par deux frères, Antoine et **Greg Saults**, originaires de Bordeaux. Animés par des
 influences résolument anglo-saxonnes — The Beatles, Prince, Oasis —, les deux frères quittent la France fin
-2017 pour s'installer à Londres, où ils rejoignent le bassiste Axel Castets rencontré lors d'un concert.
+2017 pour s'installer à Londres, où ils rejoignent le bassiste **Axel Castets** rencontré lors d'un concert.
 Ce déracinement volontaire va profondément marquer la couleur musicale du groupe, dont le son brasse pop, rock,
 funk et électro dans une production très imprégnée de la scène britannique contemporaine.
 

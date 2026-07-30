@@ -28,7 +28,7 @@ Lyon, violoncelle — elle développe un univers à la croisée de la chanson fr
 
 Son deuxième album, *Les Failles* (2019), est sacré album révélation de l'année aux Victoires de la musique 2020, avant
 qu'elle ne reçoive l'année suivante la Victoire de l'artiste féminine. En 2024, elle publie son quatrième album,
-*Saisons*, et collabore avec Stromae sur *Ma meilleure ennemie*, titre de la saison 2 de la série *Arcane*.
+*Saisons*, et collabore avec **Stromae** sur *Ma meilleure ennemie*, titre de la saison 2 de la série *Arcane*.
 
 Voix cristalline, écriture intime et sens mélodique rare : Pomme s'est imposée comme l'une des grandes voix de la
 nouvelle chanson française.

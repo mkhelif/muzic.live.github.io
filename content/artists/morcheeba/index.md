@@ -53,8 +53,8 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Morcheeba est un groupe anglais fondé au milieu des années 1990 par les frères Paul et Ross Godfrey, qui recrutent
-ensuite la chanteuse Skye Edwards. Issu de la scène londonienne, le trio devient l'un des porte-étendards du trip
+Morcheeba est un groupe anglais fondé au milieu des années 1990 par les frères Paul et **Ross Godfrey**, qui recrutent
+ensuite la chanteuse **Skye Edwards**. Issu de la scène londonienne, le trio devient l'un des porte-étendards du trip
 hop, mêlant textures atmosphériques, rock, folk et électronique downtempo.
 
 ##### De "Who Can You Trust?" au succès international

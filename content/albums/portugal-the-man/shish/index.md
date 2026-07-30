@@ -19,7 +19,7 @@ socials:
 
 Il y a quelque chose d'étrange et de beau dans le fait que l'un des albums les plus personnels de Portugal. The Man
 porte un titre aussi cryptique que *SHISH* — un mot emprunté à la géographie de l'Alaska, cet État froid et vaste d'où
-John Gourley est originaire, et qui irrigue chaque seconde de ce dixième album. Gourley s'est plongé dans son passé
+**John Gourley** est originaire, et qui irrigue chaque seconde de ce dixième album. Gourley s'est plongé dans son passé
 d'enfant élevé en Alaska pour déterrer un LP de dix chansons aussi révélateur qu'inattendu. Le résultat est à la fois
 intime et gigantesque, dépouillé et fourmillant d'idées.
 

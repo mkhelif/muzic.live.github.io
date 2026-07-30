@@ -24,8 +24,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Aurorawave est un groupe de rock américain né de l'imagination de Nathan Feinstein (également connu sous le nom Nathan
-Aurora), ancien chanteur du groupe de reggae Iya Terra. Basé dans la région du lac Tahoe en Californie, Aurorawave
+Aurorawave est un groupe de rock américain né de l'imagination de Nathan Feinstein (également connu sous le nom **Nathan Aurora**), ancien chanteur du groupe de reggae Iya Terra. Basé dans la région du lac Tahoe en Californie, Aurorawave
 développe un style original qu'ils ont eux-mêmes qualifié de « reggaecore » : une fusion entre l'intensité du rock lourd
 et les cadences rythmiques du reggae.
 

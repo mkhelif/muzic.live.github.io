@@ -23,7 +23,7 @@ lastUpdate:
 ---
 
 Slipknot émerge des entrailles de Des Moines, Iowa, en 1995, dans un contexte de contre-culture underground américaine.
-Formé initialement par Shawn Crahan, Joey Jordison et Paul Gray, le groupe développe immédiatement une esthétique
+Formé initialement par **Shawn Crahan**, Joey Jordison et Paul Gray, le groupe développe immédiatement une esthétique
 radicale qui mélange masques terrifiants, numérotation des membres et chaos sonore organisé. Leurs débuts sont marqués
 par une approche révolutionnaire du metal qui refuse tous les codes établis du genre, créant un univers visuel et sonore
 totalement inédit. Cette période formatrice forge l'identité unique de Slipknot, groupe qui redéfinira les standards du

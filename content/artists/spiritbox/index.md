@@ -56,8 +56,7 @@ lastUpdate:
   bandsintown-lookup: 2026-07-26
 ---
 
-Spiritbox est un groupe de metal canadien formé en 2017 par la chanteuse Courtney LaPlante et le guitariste Mike
-Stringer, qui se marient et fondent le projet après une expérience commune au sein d'un autre groupe.
+Spiritbox est un groupe de metal canadien formé en 2017 par la chanteuse **Courtney LaPlante** et le guitariste **Mike Stringer**, qui se marient et fondent le projet après une expérience commune au sein d'un autre groupe.
 
 ###### De Iwrestledabearonce à Spiritbox
 

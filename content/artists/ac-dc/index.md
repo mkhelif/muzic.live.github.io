@@ -23,9 +23,9 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Formé à Sydney en 1973 par les frères Malcolm et Angus Young, guitaristes d'origine écossaise émigrés en Australie,
+Formé à Sydney en 1973 par les frères Malcolm et **Angus Young**, guitaristes d'origine écossaise émigrés en Australie,
 AC/DC s'impose d'abord sur la scène locale grâce à des concerts électriques et des disques ancrés dans le blues-rock.
-Angus Young, reconnaissable à son costume d'écolier, et Malcolm à la rythmique, façonnent un son qui deviendra une
+**Angus Young**, reconnaissable à son costume d'écolier, et Malcolm à la rythmique, façonnent un son qui deviendra une
 référence du hard rock mondial.
 
 ###### L'ère Bon Scott

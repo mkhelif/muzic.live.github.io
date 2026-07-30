@@ -24,9 +24,9 @@ lastUpdate:
 ---
 
 Ascendant Vierge est un duo de musique électronique français formé en 2019, réunissant la chanteuse et
-performeuse Mathilde Fernandez et le producteur Paul Seul, figure de la scène gabber française via le collectif
+performeuse **Mathilde Fernandez** et le producteur Paul Seul, figure de la scène gabber française via le collectif
 Casual Gabberz. Leur rencontre est le fruit d'un hasard créatif : en 2018, Paul Seul remixe en une seule
-journée le morceau « Oubliette » extrait de l'EP *Hyperstition* de Mathilde Fernandez, et l'alchimie est telle
+journée le morceau « Oubliette » extrait de l'EP *Hyperstition* de **Mathilde Fernandez**, et l'alchimie est telle
 que les deux artistes décident immédiatement de prolonger la collaboration.
 
 ###### Un nom, une astrologie, une identité

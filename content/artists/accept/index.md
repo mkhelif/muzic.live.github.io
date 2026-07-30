@@ -31,9 +31,9 @@ Accept est un groupe de heavy metal allemand originaire de Solingen, en Rhénani
 remontent à la fin des années 1960. Figure incontournable du metal mondial, le groupe est unanimement reconnu comme l'un
 des pionniers du speed metal et du thrash metal, et comme l'un des groupes les plus influents jamais sortis d'Allemagne.
 
-Fondé autour du guitariste Wolf Hoffmann, du bassiste Peter Baltes et du chanteur emblématique Udo Dirkschneider, Accept
+Fondé autour du guitariste **Wolf Hoffmann**, du bassiste **Peter Baltes** et du chanteur emblématique **Udo Dirkschneider**, Accept
 développe dès ses débuts un son lourd, puissant et direct qui tranche avec la production léchée de l'époque. La voix
-rauque et reconnaissable entre toutes de Dirkschneider devient rapidement une signature mondiale du genre.
+rauque et reconnaissable entre toutes de **Dirkschneider** devient rapidement une signature mondiale du genre.
 
 ###### L'album fondateur
 

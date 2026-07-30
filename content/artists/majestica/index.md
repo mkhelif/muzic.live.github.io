@@ -59,7 +59,7 @@ lastUpdate:
 ---
 
 Majestica est un groupe de power metal symphonique suédois originaire de Boden, fondé en 2000 par le chanteur et
-guitariste Tommy Johansson, également connu pour son rôle au sein de Sabaton. À l'origine, la formation évolue sous le
+guitariste **Tommy Johansson**, également connu pour son rôle au sein de **Sabaton**. À l'origine, la formation évolue sous le
 nom ReinXeed, projet solo de Johansson qui y joue alors tous les instruments sur l'album de débuts The Light.
 
 ###### Un changement de nom chez Nuclear Blast

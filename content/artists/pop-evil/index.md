@@ -102,7 +102,7 @@ lastUpdate:
 ---
 
 Pop Evil est un groupe de hard rock américain fondé en 2001 à North Muskegon, dans le Michigan, par le
-chanteur Leigh Kakaty. Parti des scènes de bar de son Michigan natal pour conquérir les festivals et les
+chanteur **Leigh Kakaty**. Parti des scènes de bar de son Michigan natal pour conquérir les festivals et les
 radios rock américaines, le groupe incarne un certain idéal du rock de stade contemporain : puissant,
 direct et ancré dans une tradition hard rock teintée de grunge et de metal moderne.
 

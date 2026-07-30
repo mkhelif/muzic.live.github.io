@@ -30,7 +30,7 @@ l'enfance par son père, guitariste amateur, et commence à écrire ses premiers
 
 Adolescent, il publie ses premiers morceaux sur SoundCloud, d'abord influencé par le rap français et des figures comme
 Booba ou Niro. Il fait ses débuts au sein de la scène punk rap lilloise avec le collectif Train Fantôme, avec lequel
-il se produit sur des scènes de festivals reconnus comme le Printemps de Bourges, Garorock ou le Cabaret Vert.
+il se produit sur des scènes de festivals reconnus comme le **Printemps de Bourges**, **Garorock** ou le **Cabaret Vert**.
 
 ###### Une mue vers le post-punk
 

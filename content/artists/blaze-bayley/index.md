@@ -20,7 +20,7 @@ lastUpdate:
 
 Blaze Bayley, de son vrai nom Bayley Alexander Cooke, est un chanteur, musicien et parolier anglais né le 29 mai
 1963. Il débute sa carrière comme chanteur de Wolfsbane, groupe formé en 1984, dont le premier album, « Live Fast,
-Die Fast » (1989), précède une première partie de la tournée « No Prayer on the Road » d'Iron Maiden en 1990.
+Die Fast » (1989), précède une première partie de la tournée « No Prayer on the Road » d'**Iron Maiden** en 1990.
 Malgré son abandon par le label Def American, Wolfsbane est élu meilleur groupe non signé du Royaume-Uni en 1993.
 
 ###### Le successeur de Bruce Dickinson

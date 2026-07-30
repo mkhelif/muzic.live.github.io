@@ -45,8 +45,8 @@ lastUpdate:
 ---
 
 5 Seconds of Summer, souvent abrégé en 5SOS, est un groupe australien de pop rock et pop punk formé à Sydney en
-2011. Le groupe est composé de Luke Hemmings (chant, guitare rythmique), Michael Clifford (guitare solo), Calum Hood
-(basse) et Ashton Irwin (batterie). Initialement repérés comme célébrités YouTube, les quatre adolescents de la
+2011. Le groupe est composé de **Luke Hemmings** (chant, guitare rythmique), **Michael Clifford** (guitare solo), **Calum Hood**
+(basse) et **Ashton Irwin** (batterie). Initialement repérés comme célébrités YouTube, les quatre adolescents de la
 banlieue de Sydney ont connu une ascension fulgurante qui en a fait l'un des groupes australiens les plus écoutés de
 leur génération.
 

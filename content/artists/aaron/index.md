@@ -24,8 +24,8 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-AaRON est un duo musical français formé en 2004, composé du chanteur, pianiste et compositeur Simon Buret
-et du multi-instrumentiste Olivier Coursier (claviers, guitare, batterie). Le nom du groupe est un acronyme :
+AaRON est un duo musical français formé en 2004, composé du chanteur, pianiste et compositeur **Simon Buret**
+et du multi-instrumentiste **Olivier Coursier** (claviers, guitare, batterie). Le nom du groupe est un acronyme :
 Artificial Animals Riding on Neverland, une formule poétique qui donne le ton d'un univers musical fondé sur
 l'onirisme, la douceur mélancolique et une pop sophistiquée aux teintes électroniques et indie.
 

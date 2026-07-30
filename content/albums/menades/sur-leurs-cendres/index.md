@@ -14,7 +14,7 @@ socials:
   qobuz: "ryhcbjggoozya"
 ---
 
-"C'est un peu une volonté de dire qu'il faut tout brûler... Et dansons sur leurs cendres." Voilà comment le quintet
+"C'est un peu une volonté de dire qu'il faut tout brûler... Et dansons sur leurs cendres." **Voilà** comment le quintet
 parisien Ménades résume l'esprit de leur premier album, sorti le 28 février 2025 via Le Cèpe Records. Cinq ans après
 leur formation, après avoir écumé les scènes de France et d'Europe, après des EPs remarqués (Par Terre, Cramée), Eva
 Bottega (chant), Dauphin Gallo (guitare rythmique), Max Rezai (guitare lead), Ambre Tholance (basse) et François Couac (

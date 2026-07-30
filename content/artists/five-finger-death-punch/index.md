@@ -83,9 +83,9 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Fondé à Las Vegas en 2005 par le guitariste Zoltan Bathory, Five Finger Death Punch s'est imposé comme l'un des groupes
-de heavy metal les plus populaires au monde. Le quintet — complété par le chanteur Ivan Moody, le guitariste Andy James,
-le bassiste Chris Kael et le batteur Charlie Engen — est connu pour ses hymnes puissants mêlant metal alternatif, groove
+Fondé à Las Vegas en 2005 par le guitariste **Zoltan Bathory**, Five Finger Death Punch s'est imposé comme l'un des groupes
+de heavy metal les plus populaires au monde. Le quintet — complété par le chanteur **Ivan Moody**, le guitariste **Andy James**,
+le bassiste **Chris Kael** et le batteur **Charlie Engen** — est connu pour ses hymnes puissants mêlant metal alternatif, groove
 metal et hard rock, teintés de thèmes patriotiques et introspectifs.
 
 Depuis leur premier album *The Way of the Fist* (2007), le groupe a enchaîné les succès commerciaux et les passages en

@@ -25,8 +25,8 @@ lastUpdate:
 ---
 
 Any Kind est un groupe indie rock originaire de Brooklyn, New York, dont le son mêle l'intimité du bedroom pop à
-l'ampleur du folk rock. Le quatuor — composé de Dan Duszynski (guitares, claviers, chant), Matt Schuessler
-(basse), Adam Kalthenhauser (batterie) et Bobby Lord (guitare, claviers, chant) — construit des chansons
+l'ampleur du folk rock. Le quatuor — composé de **Dan Duszynski** (guitares, claviers, chant), **Matt Schuessler**
+(basse), **Adam Kalthenhauser** (batterie) et **Bobby Lord** (guitare, claviers, chant) — construit des chansons
 délicates portées par des harmonies soignées et une écriture empreinte d'une sincérité directe.
 
 Le groupe a sorti un album éponyme qui témoigne de leur attachement à une musique artisanale, loin des grandes

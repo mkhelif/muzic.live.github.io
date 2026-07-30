@@ -59,7 +59,7 @@ lastUpdate:
 Rival Sons est un groupe américain formé en 2009 à Long Beach, Californie, qui incarne le revival authentique du rock
 blues des années 1970 avec une intensité et une sincérité rares dans le rock contemporain.
 
-Fondé par le guitariste Scott Holiday et le chanteur Jay Buchanan, rejoints par le bassiste Dave Beste et le batteur
+Fondé par le guitariste **Scott Holiday** et le chanteur **Jay Buchanan**, rejoints par le bassiste **Dave Beste** et le batteur
 Michael Miley, le groupe émerge avec une mission claire : ramener l'âme et l'authenticité du rock classique.
 
 Leurs débuts voient quatre musiciens refuser les artifices modernes pour se concentrer sur l'essence même du rock : des

@@ -24,10 +24,10 @@ lastUpdate:
 ---
 
 16 Horsepower est un groupe américain de gothic country et d'americana fondé en 1992 à Los Angeles, puis établi à
-Denver, Colorado. Né de la rencontre entre le chanteur et multi-instrumentiste David Eugene Edwards et le batteur
-français Jean-Yves Tola — tous deux employés comme constructeurs de décors pour les studios de Roger Corman à
-Hollywood —, le groupe prend sa forme définitive à Denver avec l'adjonction du bassiste Keven Soll. Au fil des
-années, d'autres musiciens rejoignent la formation, dont Pascal Humbert à la contrebasse, qui reste l'un des membres
+Denver, Colorado. Né de la rencontre entre le chanteur et multi-instrumentiste **David Eugene Edwards** et le batteur
+français **Jean-Yves Tola** — tous deux employés comme constructeurs de décors pour les studios de Roger Corman à
+Hollywood —, le groupe prend sa forme définitive à Denver avec l'adjonction du bassiste **Keven Soll**. Au fil des
+années, d'autres musiciens rejoignent la formation, dont **Pascal Humbert** à la contrebasse, qui reste l'un des membres
 les plus durables aux côtés d'Edwards.
 
 ###### Une musique entre terre et ciel

@@ -36,8 +36,8 @@ le Festival Rolling Saône à Gray, devant 5 000 festivaliers, un moment marquan
 public, de ressentir l’énergie de la scène", confie Fabienne.
 
 D'autres beaux rendez-vous à leur actif avec le Showcase K6FM à Dijon, une émission live de 2h sur France Bleu
-Bourgogne, Studio 3 France 3 Franche-Comté, des affiches partagées avec Ultra Vomit, Christophe Mae, Jérémy Frérot,
-Trois Cafés gourmands ou encore Cats on Trees.
+Bourgogne, Studio 3 France 3 Franche-Comté, des affiches partagées avec **Ultra Vomit**, Christophe Mae, Jérémy Frérot,
+Trois Cafés gourmands ou encore **Cats on Trees**.
 
 « Marraine Coque, c’est une musique POP dansante, colorée et pleine de fraîcheur, une invitation à l’énergie, à la fête
 et à la danse. Un groupe à suivre, sans aucun doute ! »

@@ -22,7 +22,7 @@ lastUpdate:
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
 ---
-Angus & Julia Stone forment l'un des duos les plus attachants et les plus élégants de la scène folk indie mondiale. Frère et sœur nés à Sydney, ils ont construit au fil des années une œuvre délicate et cohérente, portée par leurs voix complémentaires et une sensibilité partagée pour les histoires intimes et les paysages mélancoliques.
+**Angus & Julia Stone** forment l'un des duos les plus attachants et les plus élégants de la scène folk indie mondiale. Frère et sœur nés à Sydney, ils ont construit au fil des années une œuvre délicate et cohérente, portée par leurs voix complémentaires et une sensibilité partagée pour les histoires intimes et les paysages mélancoliques.
 
 ###### Une fratrie, une musique
 

@@ -40,7 +40,7 @@ lastUpdate:
 ---
 
 Deltron 3030 est un supergroupe de hip-hop conceptuel formé en 2000, réunissant le rappeur Del the Funky Homosapien, le
-producteur Dan the Automator et le DJ Kid Koala. Leur album éponyme, sorti en 2000, est considéré comme l'un des jalons
+producteur Dan the Automator et le DJ **Kid Koala**. Leur album éponyme, sorti en 2000, est considéré comme l'un des jalons
 du rap alternatif et de la science-fiction musicale : une odyssée futuriste dystopique située en l'an 3030, portée par
 des productions cinématographiques et un flow d'une précision redoutable.
 

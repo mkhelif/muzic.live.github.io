@@ -26,7 +26,7 @@ lastUpdate:
 Les Beatsteaks sont un groupe de rock alternatif allemand originaire de Berlin, fondé en 1995. Formé par Peter
 Baumann, Stefan Hircher, Alexander Ross Waag et Bernd Kurtzke, le groupe s'enrichit rapidement du chanteur et
 guitariste Arnim Teutoburg-Weiß. Dès 1996, ils remportent un concours musical local au SO36, la célèbre salle
-punk berlinoise, et jouent en première partie des Sex Pistols — un baptême du feu qui annonce la couleur.
+punk berlinoise, et jouent en première partie des **Sex Pistols** — un baptême du feu qui annonce la couleur.
 
 ###### Les débuts : punk, énergie et Epitaph Records
 

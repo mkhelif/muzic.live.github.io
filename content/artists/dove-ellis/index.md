@@ -32,5 +32,5 @@ décembre 2025 sur les labels Black Butter et AMF Records, accompagné des singl
 
 L'album reçoit un accueil critique très favorable : le magazine The Economist le classe parmi ses dix meilleurs albums
 de 2025, saluant "une fabuleuse synthèse de sa promesse artistique". Dove Ellis assure notamment la première partie de
-Geese lors de leur tournée "Getting Killed World Tour", et enregistre une session à l'église St James pour l'émission
+**Geese** lors de leur tournée "Getting Killed World Tour", et enregistre une session à l'église St James pour l'émission
 Other Voices en novembre 2025, confirmant l'ascension rapide de ce jeune artiste irlandais.

@@ -55,8 +55,8 @@ lastUpdate:
 ---
 
 System of a Down est un groupe de metal alternatif américain formé en 1994 à Glendale, en Californie, par quatre
-musiciens d'origine arménienne : le chanteur Serj Tankian, le guitariste et chanteur Daron Malakian, le bassiste
-Shavo Odadjian et le batteur John Dolmayan.
+musiciens d'origine arménienne : le chanteur **Serj Tankian**, le guitariste et chanteur **Daron Malakian**, le bassiste
+**Shavo Odadjian** et le batteur **John Dolmayan**.
 
 ###### Un son inclassable, un discours politique
 

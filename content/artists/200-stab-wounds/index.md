@@ -64,7 +64,7 @@ lastUpdate:
 d'un death metal cru, groovy et sans concession, le groupe s'est rapidement imposé comme l'une des révélations les plus
 enthousiasmantes de la scène extrême mondiale.
 
-Composé de Steve Buhl (chant et guitare), Raymond MacDonald (guitare), Ezra Cook (basse) et Owen Pooley (batterie), le
+Composé de **Steve Buhl** (chant et guitare), **Raymond MacDonald** (guitare), **Ezra Cook** (basse) et **Owen Pooley** (batterie), le
 groupe développe dès ses débuts un son ancré dans les traditions du death metal old school — riffs écrasants, production
 carnassière, humour noir assumé — tout en y insufflant une énergie live contagieuse.
 

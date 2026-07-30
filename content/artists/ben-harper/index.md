@@ -31,7 +31,7 @@ plus quand il l'a adopté, une guitare hawaïenne acoustique des années 1920 fa
 Herman Weissenborn. Posée à plat sur les genoux, jouée au slide, entièrement creuse, elle produit sous les doigts de
 **Ben Harper** un son à la fois ancien et immédiatement reconnaissable : résonant, spectral, tellurique. Autour de cette
 guitare improbable, Harper a bâti en trente ans une œuvre colossale — dix-sept albums studio, trois Grammy Awards, des
-collaborations avec Taj Mahal, Charlie Musselwhite, les Blind Boys of Alabama, Jack Johnson et Mavis Staples — et s'est
+collaborations avec Taj Mahal, Charlie Musselwhite, les Blind Boys of Alabama, **Jack Johnson** et **Mavis Staples** — et s'est
 imposé comme l'un des songwriters américains les plus complets de sa génération. Un artiste qui refuse les catégories et
 qui mélange le blues, la soul, le folk, le reggae et le rock avec une aisance qui donne l'impression que ces musiques
 n'ont jamais été séparées.

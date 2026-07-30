@@ -1,0 +1,2 @@
+{{- /* Cached list of the pages that content.html auto-links (artists, albums, festivals). */ -}}
+{{- return (where site.RegularPages "Section" "in" (slice "artists" "albums" "festivals")) -}}

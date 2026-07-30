@@ -16,7 +16,7 @@ international de la chanson française de Spa, qui s'était éteint en 1984. Ins
 Rochelle et par celles de Montréal, déjà bien établies, il donne naissance en 1994 à une nouvelle édition belge du
 concept, avec l'ambition de faire de Spa un carrefour de la chanson francophone en Communauté française de Belgique.
 
-Dès sa première édition, le festival frappe fort : le groupe Indochine participe au lancement de l'événement, et
+Dès sa première édition, le festival frappe fort : le groupe **Indochine** participe au lancement de l'événement, et
 Laurent Voulzy en est la tête d'affiche. Ce coup d'envoi ambitieux pose immédiatement les bases d'un festival capable
 d'attirer des artistes de premier plan, tout en conservant l'esprit de découverte et de proximité propre aux
 Francofolies originelles.

@@ -16,8 +16,8 @@ socials:
   qobuz: "c0q7h65r6efua"
 ---
 
-Tobias Forge avait déjà l'album suivant cartographié en janvier 2022, deux mois avant même qu'Impera ne sorte. Voilà
-qui résume assez bien la machine Ghost : calculée, prévisible, industrialisée. Skeletá, sixième album studio sorti le
+Tobias Forge avait déjà l'album suivant cartographié en janvier 2022, deux mois avant même qu'Impera ne sorte. **Voilà**
+qui résume assez bien la machine **Ghost** : calculée, prévisible, industrialisée. Skeletá, sixième album studio sorti le
 25 avril 2025 via Loma Vista Recordings, arrive avec son lot d'attentes démesurées. Premier album du groupe à atteindre
 la première place du Billboard 200, décrit comme leur "œuvre la plus introspective à ce jour", enregistré sous le nouvel
 alias Papa V Perpetua.

@@ -26,7 +26,7 @@ lastUpdate:
 
 Avatar est un groupe de metal suédois fondé en 2001 à Mölndal, sous le nom de Lost Soul, par le
 batteur John Alfredsson et le chanteur Christian Rimmi. La formation actuelle réunit Johannes Eckerström au chant,
-Tim Öhrström et Jonas Jarlsby aux guitares, Henrik Sandelin à la basse, et John Alfredsson derrière la batterie.
+Tim Öhrström et **Jonas** Jarlsby aux guitares, Henrik Sandelin à la basse, et John Alfredsson derrière la batterie.
 
 ###### Un théâtre du métal
 

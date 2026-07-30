@@ -24,8 +24,8 @@ lastUpdate:
 ---
 
 Aura Noir est un groupe de black/thrash metal norvégien originaire d'Oslo, fondé en 1993 par Aggressor (Carl-Michael
-Eide) et Apollyon (Ole Jørgen Moe). Le groupe se distingue dans la scène black metal scandinave par son ancrage profond
-dans le thrash metal des années 1980, revendiquant l'héritage de Voivod, Slayer, Sodom et Kreator plutôt que celui du
+Eide) et **Apollyon** (Ole Jørgen Moe). Le groupe se distingue dans la scène black metal scandinave par son ancrage profond
+dans le thrash metal des années 1980, revendiquant l'héritage de **Voivod**, **Slayer**, Sodom et **Kreator** plutôt que celui du
 black metal atmosphérique ou symphonique.
 
 ###### Origines et premières sorties

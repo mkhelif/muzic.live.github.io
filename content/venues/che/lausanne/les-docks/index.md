@@ -27,6 +27,6 @@ allant de 200 à 1000 personnes, un Café et une galerie d’exposition.
 La salle occupe une place de choix dans le paysage musical suisse : une programmation reconnue, un accueil convivial et
 une proximité entre le public et les artistes appréciés.
 
-En près de 20 ans, les Docks ont eu le plaisir d’accueillir : Korn, Grinderman (Nick Cave), Moby, The Kills, Megadeth,
-Sigur Ros, Skunk Anansie, Indochine, Catherine Ringer, Patti Smith, Suicide, The Black Angels, Public Enemy,
-Einstürzende Neubauten, Body Count, M83, BRMC, Kendrick Lamar, Feu! Chatterton…
+En près de 20 ans, les Docks ont eu le plaisir d’accueillir : Korn, Grinderman (**Nick Cave**), Moby, **The Kills**, **Megadeth**,
+Sigur Ros, **Skunk Anansie**, **Indochine**, Catherine Ringer, **Patti Smith**, Suicide, The Black Angels, **Public Enemy**,
+Einstürzende Neubauten, **Body Count**, M83, BRMC, Kendrick Lamar, **Feu! Chatterton**…

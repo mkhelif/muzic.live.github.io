@@ -28,7 +28,7 @@ lastUpdate:
 Il y a des artistes qui font de la musique. Et il y a ceux dont la musique est un acte de survie. Xavier Amin
 Dphrepaulezz, alias **Fantastic Negrito**, appartient à la seconde catégorie. Trois Grammy Awards du meilleur album de
 blues contemporain, un parcours de vie qui tient du roman picaresque et une énergie scénique qui carbonise tout sur son
-passage : voilà l'homme qui s'apprête à fouler la scène de Guitare en Scène le 15 juillet 2026.
+passage : voilà l'homme qui s'apprête à fouler la scène de **Guitare en Scène** le 15 juillet 2026.
 
 ###### Les origines : du Massachusetts à Oakland
 

@@ -23,7 +23,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Adult DVD est un groupe de dance-punk anglais originaire de Leeds, formé en 2021 par Harry Hanson et Greg
+Adult DVD est un groupe de dance-punk anglais originaire de Leeds, formé en 2021 par **Harry Hanson** et Greg
 Lonsdale. Né dans le contexte particulier des confinements liés au Covid-19, le groupe s'est constitué à
 distance, les deux fondateurs s'échangeant des maquettes par internet avant même de se retrouver en salle de
 répétition. Ce mode de création atypique a contribué à forger un son hybride et immédiatement identifiable,

@@ -26,7 +26,7 @@ lastUpdate:
 ---
 
 Nik West s'impose comme l'une des bassistes les plus innovantes et flamboyantes de sa génération, incarnant une fusion
-audacieuse entre virtuosité technique, présence scénique explosive et diversité stylistique. Originaire de Phoenix en
+audacieuse entre virtuosité technique, présence scénique explosive et diversité stylistique. Originaire de **Phoenix** en
 Arizona, cette musicienne autodidacte a su transformer la basse en instrument de premier plan, repoussant les
 conventions du funk, du rock et du jazz avec une énergie contagieuse. Son approche de l'instrument combine la tradition
 des grands maîtres de la basse funk avec une modernité résolument contemporaine.

@@ -70,10 +70,10 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Europe naît en 1979 en Suède sous l'impulsion de Joey Tempest (chant) et John Norum (guitare), rejoints par John Levén (
-basse), Tony Reno (batterie, remplacé plus tard par Ian Haugland) et Mic Michaeli (claviers). Le groupe se forme
+Europe naît en 1979 en Suède sous l'impulsion de **Joey Tempest** (chant) et **John Norum** (guitare), rejoints par **John Levén** (
+basse), **Tony Reno** (batterie, remplacé plus tard par **Ian Haugland**) et **Mic Michaeli** (claviers). Le groupe se forme
 initialement sous le nom de Force avant d'adopter le nom Europe. Leurs débuts sont marqués par une approche hard rock
-classique influencée par Deep Purple et Rainbow, développant progressivement leur identité sonore unique. La formation
+classique influencée par **Deep Purple** et Rainbow, développant progressivement leur identité sonore unique. La formation
 suédoise se distingue rapidement sur la scène locale par leur énergie scénique et leur capacité à créer des mélodies
 accrocheuses, posant les bases d'une carrière internationale exceptionnelle.
 

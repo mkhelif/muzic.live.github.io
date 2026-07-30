@@ -29,8 +29,8 @@ soignées pour guitare acoustique et piano, elle développe un univers intime et
 variété française de qualité mais tourné vers des sonorités résolument contemporaines.
 
 Repérée très tôt dans le milieu de la musique indépendante, Alexia Gredy publie son premier EP, *L'Habitude*, porté par
-des artistes reconnus tels qu'Aline, Baxter Dury et Geoff Barrow de Portishead, qui voient en elle une artiste à
-soutenir. Cet EP de cinq titres et deux remixes, dont le lumineux single « Paradis », établit immédiatement son style :
+des artistes reconnus tels qu'Aline, **Baxter Dury** et Geoff Barrow de Portishead, qui voient en elle une artiste à
+soutenir. Cet EP de cinq titres et deux remixes, dont le lumineux single « **Paradis** », établit immédiatement son style :
 des textes fins, des mélodies accessibles et une voix qui donne envie de se pencher en avant pour ne rien manquer.
 
 ###### Un premier album attendu

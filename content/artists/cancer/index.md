@@ -24,8 +24,8 @@ lastUpdate:
 ---
 
 Cancer est un groupe britannique de death metal fondé en 1988 à Ironbridge, dans le Shropshire, par le batteur Carl
-Stokes, le guitariste John Walker et le bassiste Ian Buchanan. Dès leurs premiers pas, les trois musiciens s'inscrivent
-dans le courant de l'extreme metal britannique émergent, aux côtés de formations comme Bolt Thrower et Carcass, avec
+Stokes, le guitariste **John Walker** et le bassiste Ian Buchanan. Dès leurs premiers pas, les trois musiciens s'inscrivent
+dans le courant de l'extreme metal britannique émergent, aux côtés de formations comme Bolt Thrower et **Carcass**, avec
 une musique marquée par une brutalité frontale et une production acérée.
 
 ###### Des débuts sous le signe de la brutalité

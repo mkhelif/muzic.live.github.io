@@ -29,7 +29,7 @@ la scène nationale et internationale.
 
 Le prestigieux chef d'orchestre et saxophoniste Ramón Cardo a rejoint la formation, dont il est aujourd'hui le principal
 directeur musical. Sous sa direction, le big band interprète des pièces marquantes de compositeurs et arrangeurs majeurs
-tels que Stan Kenton, Glenn Miller, Bill Holman, Benny Goodman, Duke Ellington, Woody Herman, Phil Collins ou Miles
+tels que Stan Kenton, Glenn Miller, Bill Holman, Benny Goodman, Duke Ellington, **Woody** Herman, Phil Collins ou Miles
 Davis.
 
 ###### Un projet de résidence artistique

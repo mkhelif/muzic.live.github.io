@@ -25,7 +25,7 @@ lastUpdate:
 ---
 
 Dirty Three est un groupe de rock instrumental australien formé en 1992 à Melbourne, réunissant le violoniste et
-claviériste Warren Ellis, le guitariste Mick Turner et le batteur Jim White dans une musique instrumentale d'une
+claviériste **Warren Ellis**, le guitariste Mick Turner et le batteur Jim White dans une musique instrumentale d'une
 intensité rare, à mi-chemin entre le folk, le post-rock et l'improvisation.
 
 ###### Une naissance sur un coup de tête

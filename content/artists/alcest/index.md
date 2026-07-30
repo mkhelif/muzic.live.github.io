@@ -53,7 +53,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Alcest est un projet musical français fondé en 2000 à Bagnols-sur-Cèze, dans le Gard, par Stéphane Paut, plus connu
+Alcest est un projet musical français fondé en 2000 à Bagnols-sur-Cèze, dans le Gard, par **Stéphane** Paut, plus connu
 sous le pseudonyme Neige. Initialement conçu comme un groupe de black metal atmosphérique, Alcest a progressivement
 évolué vers un son unique qui mêle les textures abrasives du black metal aux nappes éthérées du shoegaze et du
 post-rock, donnant naissance à ce que l'on appellera plus tard le « blackgaze ». À travers ses albums, Neige explore

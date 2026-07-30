@@ -27,7 +27,7 @@ lastUpdate:
 ---
 
 Alestorm est un groupe de pirate metal écossais originaire de Perth, fondé en 2004 sous le nom de Battleheart.
-Autour du claviériste et chanteur Christopher Bowes, le groupe construit un univers musical entièrement consacré aux
+Autour du claviériste et chanteur **Christopher Bowes**, le groupe construit un univers musical entièrement consacré aux
 aventures pirates : bateaux, rhum, batailles navales et plaisirs coupables constituent la matière première d'une
 discographie aussi jouissive qu'improbable.
 

@@ -16,11 +16,11 @@ socials:
 ---
 
 Quatre ans. C'est le temps écoulé depuis Civilisation (2021), triomphe populaire et critique qui a définitivement
-installé Orelsan comme l'un des rappeurs les plus importants de sa génération. Aurélien Cotentin revient le 7 novembre
+installé **Orelsan** comme l'un des rappeurs les plus importants de sa génération. Aurélien Cotentin revient le 7 novembre
 2025 avec La Fuite en Avant, cinquième album studio de dix-sept titres sorti via Sony Music - première collaboration
 avec le major après ses précédents opus. Annoncé surprise le 27 octobre avec ce commentaire laconique : "Beaucoup s'en
 doutaient et ils avaient raison", ce retour s'inscrit dans une démarche multimédia liée au film Yoroï (sorti le 29
-octobre), même si Orelsan précise bien que ce n'est pas une bande originale.
+octobre), même si **Orelsan** précise bien que ce n'est pas une bande originale.
 
 Le titre ? Une fuite en avant. Celle d'un homme qui court, qui avance, qui ne peut s'arrêter sous peine de s'effondrer.
 Et c'est exactement ce que documente cet album : la course perpétuelle d'une star aux prises avec ses propres démons.

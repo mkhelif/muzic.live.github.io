@@ -15,8 +15,8 @@ socials:
   qobuz: "l22tq1cbomnvc"
 ---
 
-La contribution française à la musique heavy va bien au-delà de Gojira. Le monde devrait l'avoir compris maintenant.
-LANDMVRKS en est la preuve éclatante. Formé à Marseille en 2014, le quintet a gagné sa réputation grâce à des
+La contribution française à la musique heavy va bien au-delà de **Gojira**. Le monde devrait l'avoir compris maintenant.
+**LANDMVRKS** en est la preuve éclatante. Formé à Marseille en 2014, le quintet a gagné sa réputation grâce à des
 compétences indiscutables et une musique d'une variété rare. Après des albums devenus des classiques comme Hollow (2016)
 et Lost In The Waves (2021), The Darkest Place I've Ever Been, sorti le 25 avril 2025 via Arising Empire, représente la
 plus haute synthèse de l'expression du groupe. Et c'est un chef-d'œuvre.

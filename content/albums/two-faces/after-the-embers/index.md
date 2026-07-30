@@ -14,9 +14,9 @@ socials:
   tidal: "280664986"
 ---
 
-Il y a des albums qui tombent à pic. After the Embers, premier long format du duo lyonnais Two Faces, sorti le 31 mars
+Il y a des albums qui tombent à pic. After the Embers, premier long format du duo lyonnais **Two Faces**, sorti le 31 mars
 2023, capture l'anxiété d'une génération marchant sur les braises d'un monde embrasé. Benjamin Geffen et Pierre-Olivier
-Da Silva, la trentaine, livrent ici un condensé d'électro-rock et de trip-rock qui place immédiatement Lyon sur la carte
+**Da Silva**, la trentaine, livrent ici un condensé d'électro-rock et de trip-rock qui place immédiatement Lyon sur la carte
 de l'indie rock actuel.
 
 ###### Deux âmes-frères, une identité singulière

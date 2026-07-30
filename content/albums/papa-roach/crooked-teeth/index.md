@@ -16,10 +16,10 @@ socials:
   qobuz: "no1vuti52ylua"
 ---
 
-Il y a quelque chose de légèrement paradoxal dans la situation de Papa Roach en 2017. Le groupe de Vacaville,
+Il y a quelque chose de légèrement paradoxal dans la situation de **Papa Roach** en 2017. Le groupe de Vacaville,
 Californie, entame sa troisième décennie de carrière — ce qui en soi est une performance que peu de leurs contemporains
-du nu-metal peuvent se targuer d'avoir accomplie. Linkin Park a muté jusqu'à se méconnaître. Limp Bizkit tourne en
-cercles. Korn subsiste. Et Papa Roach, lui, sort son neuvième album avec la régularité d'un métronome et la conviction
+du nu-metal peuvent se targuer d'avoir accomplie. **Linkin Park** a muté jusqu'à se méconnaître. **Limp Bizkit** tourne en
+cercles. Korn subsiste. Et **Papa Roach**, lui, sort son neuvième album avec la régularité d'un métronome et la conviction
 d'un groupe qui n'a toujours pas dit ce qu'il avait à dire.
 
 *Crooked Teeth* est cet album. Et surprise : c'est peut-être leur meilleur depuis *Infest*.

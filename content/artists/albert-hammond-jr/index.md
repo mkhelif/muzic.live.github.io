@@ -25,10 +25,10 @@ lastUpdate:
 
 Albert Hammond Jr est un musicien américain né à Los Angeles, fils du compositeur britannico-gibraltarien Albert Hammond
 et d'une mère argentine. Guitariste, parolier et chanteur, il est surtout connu comme l'un des membres fondateurs et le
-guitariste principal du groupe new-yorkais The Strokes, mais il a su construire en parallèle une carrière solo cohérente
+guitariste principal du groupe new-yorkais **The Strokes**, mais il a su construire en parallèle une carrière solo cohérente
 et personnelle qui révèle une sensibilité musicale aux multiples facettes.
 
-Albert Hammond Jr rejoint The Strokes aux côtés de Julian Casablancas, Nick Valensi, Nikolai Fraiture et Fabrizio
+Albert Hammond Jr rejoint **The Strokes** aux côtés de Julian Casablancas, Nick Valensi, Nikolai Fraiture et **Fabrizio**
 Moretti au tournant des années 2000. Le groupe explose avec *Is This It* (2001), album de garage rock new-yorkais qui
 redéfinit les contours du rock indépendant mondial et s'impose comme l'une des œuvres fondatrices des années 2000.
 Hammond y développe son style de guitare caractéristique : net, mélodique, avec une économie de moyens qui n'est jamais

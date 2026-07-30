@@ -26,7 +26,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Kasabian est un groupe de rock anglais formé à Leicester en 1997 par le chanteur Tom Meighan, le guitariste et
+Kasabian est un groupe de rock anglais formé à Leicester en 1997 par le chanteur **Tom Meighan**, le guitariste et
 second chanteur Sergio Pizzorno, le guitariste Chris Karloff et le bassiste Chris Edwards. D'abord baptisé Saracuse,
 le groupe change de nom après avoir été signé par le DJ et producteur londonien Sam Young, en référence à Linda
 Kasabian, membre de la secte de Charles Manson devenue témoin à charge lors de son procès.

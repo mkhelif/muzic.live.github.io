@@ -29,8 +29,8 @@ puise dans l'effervescence de la scène électronique locale pour nourrir un son
 breaks et bass music.
 
 Il se fait remarquer dès son single de débuts, "Live And Direct", rapidement repéré et joué par des figures influentes
-de la scène bass comme Interplanetary Criminal, Malugi, Marlon Hoffstadt, Sarah Story, Chloé Caillet, Dr Dubplate,
-Narciss ou encore Dom Dolla. Début 2024, il publie "A Little Closer" sur Club Heart Broken, le label de Marlon Hoffstadt
+de la scène bass comme Interplanetary Criminal, Malugi, Marlon Hoffstadt, Sarah Story, **Chloé** Caillet, Dr Dubplate,
+**Narciss** ou encore Dom Dolla. Début 2024, il publie "A Little Closer" sur Club Heart Broken, le label de Marlon Hoffstadt
 et Malugi, avant de sortir le single "Pump It Up". Des sorties sont également annoncées sur EC2A, le label du DJ Dr
 Dubplate.
 

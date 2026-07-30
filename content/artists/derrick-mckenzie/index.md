@@ -26,7 +26,7 @@ lastUpdate:
   bandsintown: 2026-07-27
 ---
 
-Derrick McKenzie, né le 27 mars 1964, est un batteur britannique surtout connu comme membre du groupe Jamiroquai. La
+Derrick McKenzie, né le 27 mars 1964, est un batteur britannique surtout connu comme membre du groupe **Jamiroquai**. La
 batterie coule dans ses veines depuis l'enfance : il commence à sept ans avec une paire de cintres en bois sur le sol
 du salon familial, sans posséder de véritable kit avant l'âge de dix-huit ans.
 

@@ -22,7 +22,7 @@ lastUpdate:
 
 Le Sugarhill Gang occupe une place fondamentale dans l'histoire de la musique hip-hop, étant le groupe responsable du
 premier rap commercial à avoir rencontré un succès mainstream international. Formé en 1979 à Englewood, New Jersey, par
-Sylvia Robinson, le trio composé de Wonder Mike, Big Bank Hank et Master Gee a révolutionné le paysage musical en
+Sylvia Robinson, le trio composé de **Wonder Mike**, **Big Bank Hank** et **Master Gee** a révolutionné le paysage musical en
 enregistrant "Rapper's Delight", morceau qui a introduit le rap auprès d'une audience mondiale et posé les jalons de ce
 qui allait devenir l'un des genres musicaux les plus influents de la planète.
 

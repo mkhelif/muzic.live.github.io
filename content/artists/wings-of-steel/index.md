@@ -57,8 +57,8 @@ années 70 et 80.
 
 Leur son ne cherche pas à réinventer la roue, mais à en forger une version plus acérée, plus lumineuse. Enraciné dans le
 hard rock et le heavy metal old-school des années 70 et 80, le style du groupe peut être décrit comme une expression
-épique, nouvelle et unique de ces styles classiques. Leo Unnermark apporte une touche bluesy et un registre vocal d'une
-puissance dramatique, tandis que Parker Halub livre des riffs bombastiques et des solos expressifs qui évoquent les
+épique, nouvelle et unique de ces styles classiques. **Leo Unnermark** apporte une touche bluesy et un registre vocal d'une
+puissance dramatique, tandis que **Parker Halub** livre des riffs bombastiques et des solos expressifs qui évoquent les
 grands architects du genre.
 
 ###### Les Influences : Un Panthéon Bien Établi

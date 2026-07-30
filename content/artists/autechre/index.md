@@ -24,7 +24,7 @@ lastUpdate:
 ---
 
 Autechre est un duo britannique de musique électronique formé en 1987 à Rochdale, dans le Lancashire, par
-Sean Booth et Rob Brown. Fondateurs incontestés de ce qu'on appellera l'IDM (Intelligent Dance Music), ils
+**Sean Booth** et **Rob Brown**. Fondateurs incontestés de ce qu'on appellera l'IDM (Intelligent Dance Music), ils
 représentent depuis plus de trente-cinq ans l'un des projets les plus exigeants, prolifiques et radicalement
 intègres de la musique électronique mondiale.
 

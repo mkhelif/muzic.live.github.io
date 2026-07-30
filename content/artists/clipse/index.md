@@ -36,7 +36,7 @@ lastUpdate:
 ---
 
 Clipse est un duo de hip-hop américain originaire de Virginia Beach, en Virginie, formé en 1994 par les
-frères Terrence Thornton — connu sous le nom de scène Pusha T — et Gene Thornton, alias No Malice (anciennement
+frères Terrence Thornton — connu sous le nom de scène **Pusha T** — et Gene Thornton, alias **No Malice** (anciennement
 Malice). Nés dans le Bronx, à New York, les frères Thornton grandissent dans le sud-est de la Virginie, où ils
 développent leur passion pour le rap sous l'influence de la scène hip-hop new-yorkaise. Clipse devient l'un des
 groupes les plus célébrés du rap américain des années 2000, notamment grâce à leur collaboration avec le

@@ -25,8 +25,8 @@ lastUpdate:
 
 Dropdead Chaos est un groupe de metal alternatif français né durant le premier confinement de mars 2020, fruit de la
 rencontre de sept musiciens d'exception issus de formations reconnues de la scène hexagonale et internationale. Le
-line-up impressionnant réunit Boris Le Gal (ex-Betraying The Martyrs), Pierre Jacou (ex-Black Bomb A), Renato Di Folco (
-Les Tambours du Bronx), Nils Courbaron (Sirenia, Bloodorn), Baptiste Ory (Smash Hit Combo), Déhà (Cult of Erinyes) et
+line-up impressionnant réunit Boris Le Gal (ex-Betraying The Martyrs), **Pierre Jacou** (ex-**Black Bomb A**), Renato Di Folco (
+**Les Tambours du Bronx**), Nils Courbaron (Sirenia, Bloodorn), Baptiste Ory (Smash Hit Combo), Déhà (Cult of Erinyes) et
 Raf Pener (ex-T.A.N.K).
 
 Ce supergroupe inattendu a démarré son aventure de façon altruiste en publiant un premier single dont l'intégralité des

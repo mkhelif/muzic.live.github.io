@@ -27,7 +27,7 @@ lastUpdate:
 Adrian Vandenberg, de son vrai nom Adriaan van den Berg, naît le 31 janvier 1954 aux Pays-Bas et se passionne très tôt
 pour la guitare, inspiré par les légendes du blues et du rock. Ses débuts musicaux se font dans les années 70 au sein de
 différentes formations locales, où il développe sa technique et son style distinctif. Il forme son premier groupe
-sérieux, Teaser, en 1978, puis fonde Vandenberg en 1981, groupe qui portera son nom et lui permettra de se faire
+sérieux, Teaser, en 1978, puis fonde **Vandenberg** en 1981, groupe qui portera son nom et lui permettra de se faire
 connaître sur la scène rock européenne. Ces premières années formatrices forgent son identité musicale unique, mêlant
 virtuosité technique et sensibilité mélodique.
 

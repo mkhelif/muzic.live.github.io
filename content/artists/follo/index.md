@@ -22,7 +22,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Follo, de son vrai nom Lucas Dubiez, est un producteur de techno mélodique installé à Besançon.
+Follo, de son vrai nom **Lucas** Dubiez, est un producteur de techno mélodique installé à Besançon.
 
 ###### D'une passion pour l'image à la musique
 

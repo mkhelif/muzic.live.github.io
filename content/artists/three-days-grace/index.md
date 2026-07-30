@@ -51,8 +51,7 @@ lastUpdate:
   apple: 2026-07-26
 ---
 
-"Dès que je l'ai entendu chanter, je me suis dit : je veux être dans un groupe avec ce gars-là". Cette phrase de Neil
-Sanderson à propos d'Adam Gontier, prononcée alors qu'ils étaient tous deux en neuvième année dans la petite ville
+"Dès que je l'ai entendu chanter, je me suis dit : je veux être dans un groupe avec ce gars-là". Cette phrase de **Neil Sanderson** à propos d'**Adam Gontier**, prononcée alors qu'ils étaient tous deux en neuvième année dans la petite ville
 rurale de Norwood, Ontario, dit tout de ce qu'est Three Days Grace à sa source : une amitié, une évidence, une voix qui
 s'impose. Trente ans plus tard, le groupe canadien est devenu l'un des piliers du rock grand public nord-américain —
 quatorze singles numéro un au classement Mainstream Rock, des millions d'albums vendus dans le monde, et une trajectoire

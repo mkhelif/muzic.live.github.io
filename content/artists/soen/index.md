@@ -78,10 +78,10 @@ lastUpdate:
 
 SOEN émerge des ombres de la scène metal progressive suédoise en 2004, non pas dans un murmure mais avec une clarté et
 une résolution sans compromis qui marquent immédiatement les esprits. Le groupe naît de la vision du batteur Martin
-Lopez, précédemment connu pour son travail au sein du légendaire Opeth où il a forgé sa réputation de batteur
+Lopez, précédemment connu pour son travail au sein du légendaire **Opeth** où il a forgé sa réputation de batteur
 exceptionnellement technique et créatif. Cette expérience avec l'une des formations les plus respectées du metal
 progressif lui confère une légitimité instantanée et une compréhension approfondie des subtilités du genre. Cherchant à
-explorer de nouveaux territoires créatifs au-delà de ses accomplissements précédents, Lopez s'associe à Joel Ekelöf,
+explorer de nouveaux territoires créatifs au-delà de ses accomplissements précédents, Lopez s'associe à **Joel Ekelöf**,
 chanteur à la voix introspective et puissamment émotionnelle qui apporte une dimension humaine profonde au projet
 naissant.
 

@@ -71,8 +71,8 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Franz Ferdinand naît en 2002 à Glasgow de la rencontre entre Alex Kapranos (chant, guitare) et Nick McCarthy (guitare),
-rejoints rapidement par Bob Hardy (basse) et Paul Thomson (batterie). Le groupe émerge dans le contexte du renouveau
+Franz Ferdinand naît en 2002 à Glasgow de la rencontre entre **Alex Kapranos** (chant, guitare) et **Nick McCarthy** (guitare),
+rejoints rapidement par **Bob Hardy** (basse) et **Paul Thomson** (batterie). Le groupe émerge dans le contexte du renouveau
 rock britannique du début des années 2000, développant immédiatement un style post-punk revival qui mélange influences
 new wave et indie rock contemporain. Leurs débuts révèlent une formation techniquement accomplie qui maîtrise
 parfaitement l'art de créer des mélodies accrocheuses portées par des rythmiques dansantes. Cette approche sophistiquée

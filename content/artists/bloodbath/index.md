@@ -27,11 +27,11 @@ lastUpdate:
 Bloodbath est un supergroupe de death metal suédois formé à Stockholm en 1998, né d'une volonté commune de
 ressusciter l'art du death metal pur et brut dans toute sa noirceur originelle.
 
-Le projet naît lors d'une soirée entre amis : Mikael Åkerfeldt (Opeth), Anders Nyström et Jonas Renkse
-(tous deux de Katatonia) ainsi que Dan Swanö (Edge of Sanity) décident de créer un groupe entièrement
+Le projet naît lors d'une soirée entre amis : Mikael Åkerfeldt (**Opeth**), Anders Nyström et **Jonas** Renkse
+(tous deux de **Katatonia**) ainsi que Dan Swanö (Edge of Sanity) décident de créer un groupe entièrement
 dédié au death metal old school, dans la veine d'Entombed mêlé aux grands noms de la scène floridienne.
 Le nom du groupe est emprunté au titre "Blood Bath" de l'album To the Gory End du groupe britannique
-Cancer. La genèse est foudroyante : le premier EP, Breeding Death, est écrit en deux jours et paraît
+**Cancer**. La genèse est foudroyante : le premier EP, Breeding Death, est écrit en deux jours et paraît
 moins d'un an après la formation du groupe, établissant d'emblée la signature sonore de Bloodbath —
 riffs lourdement accordés, growls caverneux, tempos implacables.
 

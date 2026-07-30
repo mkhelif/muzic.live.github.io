@@ -17,8 +17,8 @@ socials:
 ---
 
 Il y a des disques qu'on écoute, et il y a des disques qui vous traversent. **Running for a Dream**, quatrième album
-studio du duo new-yorkais The Last Internationale, appartient sans hésitation à la seconde catégorie. Delila Paz et
-Edgey Pires y livrent un manifeste rock incandescent, à la fois ancré dans la grande tradition du blues-rock
+studio du duo new-yorkais **The Last Internationale**, appartient sans hésitation à la seconde catégorie. **Delila Paz** et
+**Edgey Pires** y livrent un manifeste rock incandescent, à la fois ancré dans la grande tradition du blues-rock
 américain et brûlant d'une urgence politique qui ne s'éteint jamais.
 
 ###### Le retour d'un duo en état de grâce

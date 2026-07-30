@@ -138,8 +138,8 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-In Flames est un groupe suédois de melodic death metal formé à Göteborg en 1990 par le guitariste Jesper Strömblad,
-qui souhaitait marier le lyrisme mélodique d'Iron Maiden à la brutalité du death metal. Aux côtés d'At the Gates et
+In Flames est un groupe suédois de melodic death metal formé à Göteborg en 1990 par le guitariste **Jesper Strömblad**,
+qui souhaitait marier le lyrisme mélodique d'**Iron Maiden** à la brutalité du death metal. Aux côtés d'At the Gates et
 Dark Tranquillity, In Flames est l'un des piliers fondateurs de la scène de Göteborg, l'un des foyers les plus
 influents du metal extrême européen.
 

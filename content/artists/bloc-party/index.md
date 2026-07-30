@@ -67,7 +67,7 @@ lastUpdate:
 Bloc Party est un groupe de rock britannique formé à Londres en 1999, qui émerge au début des années 2000 dans le
 contexte du renouveau du rock indépendant britannique.
 
-Le groupe, mené par Kele Okereke au chant et à la guitare, développe rapidement un style post-punk revival qui mélange
+Le groupe, mené par **Kele Okereke** au chant et à la guitare, développe rapidement un style post-punk revival qui mélange
 influences new wave, indie rock et éléments électroniques.
 
 Leurs débuts révèlent une formation techniquement accomplie qui maîtrise parfaitement l'art de créer des mélodies

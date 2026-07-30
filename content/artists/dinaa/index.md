@@ -28,5 +28,5 @@ jouer de la guitare dans la rue dès l'âge de quinze ans ; une reprise du titre
 et transmise à un label, lance sa carrière.
 
 Son single *Lisa* devient viral sur TikTok et dépasse le million d'écoutes en streaming. Portée par une voix sensible et
-des textes à fleur de peau, elle se produit rapidement sur de grandes scènes, du Printemps de Bourges au Rose Festival
-de Bigflo & Oli.
+des textes à fleur de peau, elle se produit rapidement sur de grandes scènes, du **Printemps de Bourges** au **Rose Festival**
+de **Bigflo & Oli**.

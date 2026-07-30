@@ -22,8 +22,7 @@ lastUpdate:
   deezer-lookup: 2026-07-27
 ---
 
-Le SatchVai Band incarne la rencontre exceptionnelle de deux virtuoses de la guitare électrique : Joe Satriani et Steve
-Vai. Cette formation occasionnelle réunit deux des instrumentistes les plus influents de la scène rock instrumentale
+Le SatchVai Band incarne la rencontre exceptionnelle de deux virtuoses de la guitare électrique : **Joe Satriani** et **Steve Vai**. Cette formation occasionnelle réunit deux des instrumentistes les plus influents de la scène rock instrumentale
 contemporaine, chacun ayant forgé sa propre légende dans le monde de la guitare technique. Leur collaboration transcende
 le simple concert pour devenir une célébration du savoir-faire instrumental, où la virtuosité se met au service de
 l'émotion musicale.

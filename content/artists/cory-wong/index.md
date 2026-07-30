@@ -28,7 +28,7 @@ lastUpdate:
 Cory Wong est un guitariste, compositeur et producteur américain né à Poughkeepsie, dans l'État de New York,
 et élevé à Minneapolis, dans le Minnesota. D'origine sino-américaine, il grandit au contact du jazz et du
 rock classique avant de devenir l'un des guitaristes les plus reconnus et les plus prolifiques de la scène
-funk et soul contemporaine. Membre de Vulfpeck — le groupe qui a transformé l'internet en scène de concert
+funk et soul contemporaine. Membre de **Vulfpeck** — le groupe qui a transformé l'internet en scène de concert
 dès les années 2010 — il mène en parallèle une carrière solo particulièrement active, explorant des
 territoires musicaux variés tout en maintenant un style rythmique et une énergie immédiatement
 reconnaissables.

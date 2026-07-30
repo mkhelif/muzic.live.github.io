@@ -44,8 +44,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Aterciopelados est un groupe de rock alternatif colombien formé à Bogotá en 1990 par Andrea Echeverri et Héctor
-Buitrago, qui se produisaient alors dans les bars de la ville sous le nom Delia y los Aminoácidos avant d'adopter en
+Aterciopelados est un groupe de rock alternatif colombien formé à Bogotá en 1990 par **Andrea Echeverri** et **Héctor Buitrago**, qui se produisaient alors dans les bars de la ville sous le nom Delia y los Aminoácidos avant d'adopter en
 1993 le nom Aterciopelados (« les veloutés »).
 
 ###### Un rock métissé aux racines latino-américaines

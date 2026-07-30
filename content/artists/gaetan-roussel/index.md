@@ -28,7 +28,7 @@ lastUpdate:
 ---
 
 Gaëtan Roussel, né le 13 octobre 1972 à Rodez, est un auteur-compositeur-interprète et guitariste français, connu comme
-le chanteur du groupe Louise Attaque avant de mener une carrière solo remarquée.
+le chanteur du groupe **Louise Attaque** avant de mener une carrière solo remarquée.
 
 ###### Louise Attaque, groupe fondateur
 

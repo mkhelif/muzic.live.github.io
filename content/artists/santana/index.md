@@ -22,7 +22,7 @@ lastUpdate:
   deezer-lookup: 2026-07-27
 ---
 
-Carlos Santana naît le 20 juillet 1947 à Autlán de Navarro, au Mexique, et grandit dans un environnement musical riche
+**Carlos Santana** naît le 20 juillet 1947 à Autlán de Navarro, au Mexique, et grandit dans un environnement musical riche
 grâce à son père, violoniste mariachi. Sa famille émigre aux États-Unis quand il est adolescent, s'installant à San
 Francisco où il découvre le blues et le rock américains. Ses débuts musicaux sont marqués par cette fusion naturelle
 entre ses racines latino-américaines et les influences afro-américaines, créant immédiatement un style unique. Il forme

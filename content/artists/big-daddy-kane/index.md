@@ -25,7 +25,7 @@ lastUpdate:
 
 Big Daddy Kane, de son vrai nom Antonio Hardy, est un rappeur américain né le 10 septembre 1968 à Brooklyn, New York.
 Considéré comme l'un des MC les plus talentueux et influents de l'histoire du hip-hop, il incarne l'âge d'or du
-rap new-yorkais de la fin des années 1980, aux côtés d'artistes comme Rakim, KRS-One et LL Cool J.
+rap new-yorkais de la fin des années 1980, aux côtés d'artistes comme **Rakim**, KRS-One et LL Cool J.
 
 ###### Le Juice Crew et les débuts
 

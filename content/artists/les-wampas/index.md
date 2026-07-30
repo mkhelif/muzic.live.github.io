@@ -53,7 +53,7 @@ lastUpdate:
 Les Wampas surgissent de la scène punk française des années 80 tel un ouragan salvateur, incarnant cette rage juvénile
 qui électrise une génération en quête d'authenticité.
 
-Formé autour du charismatique Didier Wampas, le groupe développe immédiatement cette énergie brute qui caractérisera
+Formé autour du charismatique **Didier Wampas**, le groupe développe immédiatement cette énergie brute qui caractérisera
 leur longue carrière.
 
 Leurs premières armes se font dans les clubs enfumés de la capitale, où ils forgent cette réputation de groupe explosif

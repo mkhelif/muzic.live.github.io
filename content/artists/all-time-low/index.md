@@ -27,8 +27,8 @@ lastUpdate:
 ---
 
 All Time Low est un groupe de pop punk américain originaire de Towson, Maryland, une banlieue de Baltimore, formé
-en 2003. La formation réunit le chanteur et guitariste rythmique Alex Gaskarth, le guitariste lead Jack Barakat, le
-bassiste Zack Merrick et le batteur Rian Dawson — un quatuor stable depuis ses débuts qui a traversé plus de deux
+en 2003. La formation réunit le chanteur et guitariste rythmique **Alex Gaskarth**, le guitariste lead **Jack Barakat**, le
+bassiste **Zack Merrick** et le batteur **Rian Dawson** — un quatuor stable depuis ses débuts qui a traversé plus de deux
 décennies d'industrie musicale sans jamais perdre son essence : des chansons directes, émotionnelles et accrocheuses.
 
 ###### Les années Hopeless Records

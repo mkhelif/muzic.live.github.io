@@ -46,7 +46,7 @@ lastUpdate:
 ---
 
 The Prodigy est un groupe britannique de musique électronique formé en 1990 à Braintree, dans l'Essex, par le
-producteur, claviériste et compositeur Liam Howlett. Le nom du groupe est directement inspiré du synthétiseur Moog
+producteur, claviériste et compositeur **Liam Howlett**. Le nom du groupe est directement inspiré du synthétiseur Moog
 Prodigy, que Howlett gravait au cutter sur les cassettes de ses compositions.
 
 ###### De la scène rave à Firestarter

@@ -67,7 +67,7 @@ lastUpdate:
   bandsintown-lookup: 2026-07-26
 ---
 
-Superbus est un groupe de rock-pop français formé en 1999 par Jennifer Ayache, qui en devient la chanteuse principale et
+Superbus est un groupe de rock-pop français formé en 1999 par **Jennifer Ayache**, qui en devient la chanteuse principale et
 la figure emblématique.
 
 Le groupe naît de la passion commune de ses membres pour le rock alternatif et la pop-punk, genres qui connaissent alors

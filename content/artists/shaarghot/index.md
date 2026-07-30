@@ -63,7 +63,7 @@ lastUpdate:
 ---
 
 Shaârghot est un groupe de metal industriel français né à Paris en 2011, sous l'impulsion du vidéaste et
-musicien Étienne Bianchi. Bien plus qu'un simple groupe de musique, Shaârghot est un projet artistique
+musicien **Étienne Bianchi**. Bien plus qu'un simple groupe de musique, Shaârghot est un projet artistique
 total, à la croisée du métal extrême, de l'électronique industrielle et d'une narration visuelle d'une
 ambition cinématographique rare dans le paysage musical hexagonal.
 

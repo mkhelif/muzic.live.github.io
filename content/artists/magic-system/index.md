@@ -48,8 +48,8 @@ lastUpdate:
 ---
 
 Magic System est un groupe ivoirien de zouglou et de coupé-décalé formé en 1996 à Abidjan, en Côte d'Ivoire. Le groupe
-réunit quatre amis d'enfance ayant grandi ensemble dans le quartier populaire d'Anoumabo : Salif Traoré, alias A'Salfo,
-Narcisse Sadoua, alias Goude, Étienne Boué Bi, alias Tino, et Adama Fany, alias Manadja.
+réunit quatre amis d'enfance ayant grandi ensemble dans le quartier populaire d'Anoumabo : Salif Traoré, alias **A'Salfo**,
+Narcisse Sadoua, alias **Goude**, **Étienne Boué Bi**, alias Tino, et Adama Fany, alias **Manadja**.
 
 ###### 1er Gaou, un tube devenu planétaire
 

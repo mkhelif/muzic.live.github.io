@@ -119,8 +119,8 @@ lastUpdate:
 ---
 
 The Doobie Brothers sont un groupe de rock américain formé en 1970 à San Jose, en Californie, à partir d'un précédent
-groupe réunissant en 1969 le chanteur et guitariste Tom Johnston, le batteur John Hartman et le bassiste Dave Shogren.
-Patrick Simmons, guitariste et chanteur, rejoint la formation en 1970, posant les bases du groupe qui allait devenir
+groupe réunissant en 1969 le chanteur et guitariste **Tom Johnston**, le batteur **John Hartman** et le bassiste **Dave Shogren**.
+**Patrick Simmons**, guitariste et chanteur, rejoint la formation en 1970, posant les bases du groupe qui allait devenir
 l'un des piliers du rock californien des années 1970.
 
 Connu pour sa capacité à naviguer entre plusieurs genres, du rock au funk en passant par la soul et le smooth jazz, le

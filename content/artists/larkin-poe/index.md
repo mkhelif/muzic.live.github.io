@@ -35,7 +35,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Larkin Poe est un duo de sœurs américaines, Rebecca et Megan Lovell, qui émerge sur la scène blues-rock internationale
+Larkin Poe est un duo de sœurs américaines, Rebecca et **Megan Lovell**, qui émerge sur la scène blues-rock internationale
 avec une approche moderne et féminine du genre.
 
 Leurs débuts révèlent des musiciennes accomplies, excellentes instrumentistes qui développent un style qui mélange blues

@@ -31,7 +31,7 @@ Aîné d'une famille de huit enfants, il est élevé par sa grand-mère qui le s
 signifiant "bandit", après qu'il ait été renvoyé de l'école pour avoir formé un groupe de musique. En 1973, ses parents
 l'envoient étudier l'anglais à Monrovia, au Liberia, avant qu'il ne poursuive ses études aux États-Unis, à Hunter
 College puis à Columbia University, où il découvre le mouvement rasta et les concerts d'artistes jamaïcains comme
-Burning Spear.
+**Burning Spear**.
 
 ###### Une carrière au service de l'engagement
 

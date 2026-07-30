@@ -28,7 +28,7 @@ singulier, identifiable dès les premières mesures, faisant d'elle une figure d
 hexagonale. Elle passe les trois premières années de sa vie à Daloa, en Côte d'Ivoire, avant de grandir en France.
 
 Elle commence la batterie en 1994, à l'âge de dix ans, et fait ses premières armes dans le jazz dès 1998 au
-stage-festival Les Enfants du jazz de Barcelonnette, aux côtés du pianiste Stéphane Kochoyan. De 2005 à 2009, elle
+stage-festival Les Enfants du jazz de Barcelonnette, aux côtés du pianiste **Stéphane** Kochoyan. De 2005 à 2009, elle
 étudie au Conservatoire National Supérieur de Musique de Paris, au sein du département jazz dirigé par Riccardo Del Fra,
 et se perfectionne également auprès du batteur belge Dré Pallemaerts.
 

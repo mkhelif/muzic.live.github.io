@@ -31,7 +31,7 @@ ayant grandi à Valencin, dans l'Isère. Fils d'un père architecte et d'une mè
 l'enfance dans un environnement artistique qui nourrit sa sensibilité créative et son goût pour l'expérimentation.
 
 Agoria entame sa carrière musicale au milieu des années 1990, fréquentant les scènes club françaises puis
-internationales aux côtés de références comme Jeff Mills, Carl Cox, Kevin Saunderson et Ritchie Hawtin. Son premier
+internationales aux côtés de références comme **Jeff Mills**, **Carl Cox**, Kevin Saunderson et Ritchie Hawtin. Son premier
 album, *Blossom*, sort en 2003 et affirme d'emblée une approche personnelle de la techno et de la house, mêlant
 atmosphères cinématographiques et compositions aux influences riches.
 

@@ -57,8 +57,8 @@ lastUpdate:
 Stereophonics est un groupe gallois formé en 1992 à Cwmaman, dans les vallées minières du sud du Pays de Galles, qui est
 devenu l'un des piliers du rock britannique moderne.
 
-Fondé par Kelly Jones (chant, guitare), Richard Jones (basse) et Stuart Cable (batterie, remplacé par Javier Weyler puis
-Jamie Morrison), le groupe émerge de la classe ouvrière galloise avec une authenticité qui imprègne toute leur musique.
+Fondé par **Kelly Jones** (chant, guitare), **Richard Jones** (basse) et **Stuart Cable** (batterie, remplacé par **Javier Weyler** puis
+**Jamie Morrison**), le groupe émerge de la classe ouvrière galloise avec une authenticité qui imprègne toute leur musique.
 
 Leurs débuts voient trois amis d'enfance transformer leur passion pour le rock en un projet ambitieux qui capture l'
 esprit et les luttes de leur communauté.

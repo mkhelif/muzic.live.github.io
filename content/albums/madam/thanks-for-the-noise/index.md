@@ -14,7 +14,7 @@ socials:
   qobuz: "dl7bvsot2qauc"
 ---
 
-"Notre musique on la fait avec nos putains de tripes." Cette phrase, MADAM l'a posée comme manifeste sur leur
+"Notre musique on la fait avec nos putains de tripes." Cette phrase, **MADAM** l'a posée comme manifeste sur leur
 Bandcamp. C'est exactement ce que délivre Thanks for the Noise : 35 minutes de rock alternatif viscéral, sans filtre,
 sans compromis. Le genre d'album qui laisse des traces de sueur sur la platine.
 

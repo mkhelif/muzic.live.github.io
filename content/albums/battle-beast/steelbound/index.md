@@ -16,7 +16,7 @@ socials:
   qobuz: "itr7sg783gz5b"
 ---
 
-Il existe deux écoles face à Battle Beast. La première y voit un groupe de power metal assumant joyeusement son côté
+Il existe deux écoles face à **Battle Beast**. La première y voit un groupe de power metal assumant joyeusement son côté
 outrancier, son amour du fromage et des refrains contagieux. La seconde n'y trouve qu'un festival Eurovision déguisé en
 concert metal, du bubblegum avec des guitares distordues. Steelbound, septième album sorti le 17 octobre 2025 via
 Nuclear Blast, force à choisir son camp. Les cyniques doivent passer leur chemin immédiatement.

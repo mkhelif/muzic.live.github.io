@@ -53,7 +53,7 @@ lastUpdate:
 Powerwolf est un groupe de power metal allemand formé en 2003, qui a créé un univers musical unique mêlant imagerie
 religieuse, thématiques de loups-garous et metal épique dans un spectacle théâtral grandiose.
 
-Fondé par les frères Charles et Matthew Greywolf avec le chanteur Attila Dorn, le groupe développe dès ses débuts un
+Fondé par les frères Charles et **Matthew Greywolf** avec le chanteur **Attila Dorn**, le groupe développe dès ses débuts un
 concept visuel et musical cohérent qui les distingue immédiatement de la scène power metal.
 
 Leurs débuts voient un groupe embrasser pleinement l'aspect théâtral du metal, créant des personnages scéniques et une

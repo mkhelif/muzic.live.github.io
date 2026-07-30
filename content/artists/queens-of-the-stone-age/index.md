@@ -128,13 +128,12 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Queens of the Stone Age est un groupe de rock américain formé en 1996 à Seattle par le chanteur et guitariste Josh
-Homme, peu avant son retour à Palm Desert, en Californie, sa ville natale. Le groupe naît de la dissolution de son
+Queens of the Stone Age est un groupe de rock américain formé en 1996 à Seattle par le chanteur et guitariste **Josh Homme**, peu avant son retour à Palm Desert, en Californie, sa ville natale. Le groupe naît de la dissolution de son
 précédent projet, Kyuss.
 
 D'abord baptisé Gamma Ray, il change de nom sous la menace d'un procès d'un groupe allemand homonyme. Le premier album
 éponyme paraît en 1998 sur le label Loosegroove Records de Stone Gossard et Regan Hagar, avec Homme à la guitare et à la
-basse, épaulé par le batteur Alfredo Hernández.
+basse, épaulé par le batteur **Alfredo Hernández**.
 
 ###### Rated R et Songs for the Deaf
 

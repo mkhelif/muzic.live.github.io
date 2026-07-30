@@ -68,7 +68,7 @@ lastUpdate:
 ---
 
 Good Charlotte est un groupe de pop punk américain formé en 1996 à Waldorf, dans le Maryland, par les jumeaux Joel et
-Benji Madden, nés le 11 mars 1979. Inspirés par un concert des Beastie Boys en 1995, les deux frères s'entourent de
+**Benji Madden**, nés le 11 mars 1979. Inspirés par un concert des Beastie Boys en 1995, les deux frères s'entourent de
 camarades de lycée pour monter le groupe, dont le nom est emprunté à un livre pour enfants de Carol Beach York.
 
 ###### La percée de The Young and the Hopeless

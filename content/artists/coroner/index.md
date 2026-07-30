@@ -27,7 +27,7 @@ Coroner est un groupe de thrash metal technique suisse originaire de Zurich, fon
 sa formation classique en 1985. Souvent présenté comme « le Rush du thrash metal », Coroner se distingue dès
 ses débuts par une approche musicale d'une sophistication inhabituelle pour le genre : influences jazz et
 classiques, structures progressives complexes, changements de tempo inattendus, et une maîtrise technique
-individuelle de chaque membre qui dépasse largement les standards de leur époque. Avec Voivod et Watchtower,
+individuelle de chaque membre qui dépasse largement les standards de leur époque. Avec **Voivod** et Watchtower,
 ils sont considérés comme des pionniers du « technical thrash metal », sous-genre qui influence encore
 profondément de nombreuses formations contemporaines.
 

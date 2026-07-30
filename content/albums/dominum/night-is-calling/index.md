@@ -18,7 +18,7 @@ socials:
 ---
 
 Il y a des groupes qui font du metal, et il y a des groupes qui montent un spectacle de foire hanté avec des guitares.
-DOMINUM appartient clairement à la seconde catégorie. Mené par l'inénarrable **Dr. Dead** (Felix Heldt), le combo
+**DOMINUM** appartient clairement à la seconde catégorie. Mené par l'inénarrable **Dr. Dead** (Felix Heldt), le combo
 allemand a bâti en deux albums un univers de mort-vivants théâtral, à mi-chemin entre le train fantôme et le concert
 metal. Avec **Night is Calling**, troisième opus paru le 3 juillet 2026 chez Napalm Records, la troupe de zombies ne
 change pas de costume — elle l'enrichit de paillettes, de fumigènes et de refrains encore plus gros.

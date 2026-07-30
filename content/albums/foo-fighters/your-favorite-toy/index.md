@@ -17,14 +17,14 @@ socials:
   tidal: "500136544"
 ---
 
-Il y a une question qui traverse *Your Favorite Toy* de part en part, posée dès les premières secondes par Dave Grohl
+Il y a une question qui traverse *Your Favorite Toy* de part en part, posée dès les premières secondes par **Dave Grohl**
 sur le titre d'ouverture *Caught in the Echo* : *Do I? Do I? Do I?* — répétée comme une incantation, mi-interrogation
 mi-injonction. Il demande, mais ça sonne comme un commandement. L'indécision comme un appel honnête aux armes. C'est une
-bonne façon d'entrer dans ce douzième album des Foo Fighters : avec de l'urgence, de la confusion, et un riff qui fait
+bonne façon d'entrer dans ce douzième album des **Foo Fighters** : avec de l'urgence, de la confusion, et un riff qui fait
 mal.
 
 Le contexte pèse. *But Here We Are* (2023) était un acte de deuil public bouleversant, construit dans l'ombre de la mort
-de Taylor Hawkins. Pour un groupe dont la carrière de trente ans a toujours été marquée par une apparente solidité à
+de **Taylor Hawkins**. Pour un groupe dont la carrière de trente ans a toujours été marquée par une apparente solidité à
 toute épreuve, les voir traverser une telle perte en temps réel constituait l'écoute la plus émotionnellement intense de
 leur discographie. Comment faire après ça ? *Your Favorite Toy* est le chapitre suivant de cette histoire : là où son
 prédécesseur avait souvent un ton réflexif, ce nouvel album mise tout sur la catharsis — entrer dans une pièce, faire le

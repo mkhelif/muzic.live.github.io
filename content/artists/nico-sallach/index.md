@@ -33,7 +33,7 @@ metalcore **Electric Callboy**, qu'il a rejoint en 2020. Son arrivée a marqué 
 groupe, contribuant à l'intégration d'influences pop, électroniques (EDM) et humoristiques qui ont largement participé à
 son succès international.
 
-Avant de rejoindre Electric Callboy, Nico Sallach est le cofondateur et chanteur principal du groupe **To the Rats and
+Avant de rejoindre **Electric Callboy**, Nico Sallach est le cofondateur et chanteur principal du groupe **To the Rats and
 Wolves**, créé en 2012. Aux côtés du chanteur « unclean » (chant saturé) Dixi Wu, il participe à la sortie de trois
 albums studio et d'un EP avant la séparation du groupe en 2020. Cette expérience lui permet de s'imposer comme l'une des
 voix montantes de la scène metalcore allemande.
@@ -42,8 +42,8 @@ Sa carrière musicale débute encore plus tôt : en 2009, il est le frontman du 
 développe progressivement son identité artistique en combinant des mélodies accrocheuses, une grande polyvalence vocale
 et une forte présence sur scène.
 
-En 2020, Nico Sallach rejoint **Electric Callboy** en remplacement de Sebastian Biesler. Il devient le chanteur en voix
-claire et l'un des principaux auteurs des paroles, travaillant en étroite collaboration avec Kevin Ratajczak,
+En 2020, Nico Sallach rejoint **Electric Callboy** en remplacement de **Sebastian Biesler**. Il devient le chanteur en voix
+claire et l'un des principaux auteurs des paroles, travaillant en étroite collaboration avec **Kevin Ratajczak**,
 responsable des parties vocales extrêmes. Leur première collaboration donne naissance à l'EP **MMXX**, porté par le
 succès viral du titre **« Hypa Hypa »**, qui contribue à faire connaître le groupe bien au-delà de la scène metal. En
 2022, le groupe publie l'album **Tekkno**, qui atteint la première place des classements allemands et confirme son
@@ -56,6 +56,6 @@ expérience témoigne d'un parcours professionnel riche et d'un engagement impor
 plein.
 
 Grâce à sa voix puissante, son sens de la mélodie et son charisme, Nico Sallach est aujourd'hui considéré comme l'une
-des figures marquantes du metal moderne allemand. Son travail avec Electric Callboy a contribué à renouveler les codes
+des figures marquantes du metal moderne allemand. Son travail avec **Electric Callboy** a contribué à renouveler les codes
 du metalcore en y intégrant des éléments de pop, d'électro et de musique festive, tout en conservant une identité
 musicale énergique et accessible.

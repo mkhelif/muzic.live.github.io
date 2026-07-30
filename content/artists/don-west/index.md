@@ -28,7 +28,7 @@ Don West est un musicien soul australien originaire de Sydney, dont la voix chal
 inspirée de la soul classique en ont rapidement fait l'un des artistes émergents les plus suivis de la scène
 australienne.
 
-En 2019, il assure la première partie de Lime Cordiale alors qu'il n'a encore sorti aucun morceau officiellement, avant
+En 2019, il assure la première partie de **Lime Cordiale** alors qu'il n'a encore sorti aucun morceau officiellement, avant
 de mettre en ligne le titre "Money" sur triple j Unearthed, plateforme de découverte incontournable en Australie. En
 2020 suit "Equaliser", avec la participation vocale de Hayley Mary. En novembre 2024, il publie son EP de débuts et se
 produit dans des festivals réputés comme SXSW Sydney et le Byron Bay Bluesfest.

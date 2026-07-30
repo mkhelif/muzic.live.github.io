@@ -110,7 +110,7 @@ lastUpdate:
 ---
 
 Motionless in White est un groupe américain de metalcore fondé en 2004 en Pennsylvanie par le chanteur-guitariste
-Chris Cerulli, alors lycéen, accompagné d'Angelo Parente à la batterie, Frank Polumbo à la guitare et Kyle White à
+**Chris Cerulli**, alors lycéen, accompagné d'**Angelo Parente** à la batterie, **Frank Polumbo** à la guitare et **Kyle White** à
 la basse. Le groupe se produit d'abord sous les noms « One Way Ticket » puis « When Breathing Stops », avant
 d'adopter son nom définitif le jour de l'An 2005.
 

@@ -28,7 +28,7 @@ Calumny est un duo de DJ-producteurs belges composé de Bastien et Quentin, qui 
 unissent leurs forces en 2018, animés par une passion commune pour la musique électronique et une vision
 partagée de ce que peut être un projet artistique contemporain.
 
-Les deux artistes grandissent en écoutant les figures tutélaires de la house et de l'EDM — Lost Frequencies,
+Les deux artistes grandissent en écoutant les figures tutélaires de la house et de l'EDM — **Lost Frequencies**,
 Don Diablo — avant de développer leur propre voix, fondée sur des productions soignées et un sens aigu de
 la mélodie accessible. Belges dans l'âme, ils héritent d'une scène nationale riche en talents électroniques
 et s'en nourrissent tout en cherchant à s'en distinguer.

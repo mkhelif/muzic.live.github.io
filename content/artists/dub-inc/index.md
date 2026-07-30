@@ -25,7 +25,7 @@ lastUpdate:
 ---
 
 Dub Inc est l'un des groupes reggae les plus importants de France, originaire de Saint-Étienne dans le
-département de la Loire. Fondé en 1997 sous le nom de Dub Incorporation, le collectif adopte son nom
+département de la Loire. Fondé en 1997 sous le nom de **Dub Incorporation**, le collectif adopte son nom
 actuel en 2006 et construit depuis lors une discographie riche et une réputation scénique exceptionnelle.
 
 ###### Origines stéphanoises et formation

@@ -23,7 +23,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Denez Prigent est né le 17 février 1966 à Santec, dans le Finistère. Il grandit entre Le Relecq-Kerhuon
+**Denez Prigent** est né le 17 février 1966 à Santec, dans le Finistère. Il grandit entre Le Relecq-Kerhuon
 et la ferme de sa grand-mère à Santec, où il découvre enfant la langue bretonne et les traditions du
 chant a cappella. À seize ans, il monte sur les scènes des festoù-noz pour interpréter des gwerzioù —
 ces complaintes bretonnes à la mélodie austère et au texte souvent poignant — devant des publics qui

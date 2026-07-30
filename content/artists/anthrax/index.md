@@ -25,7 +25,7 @@ lastUpdate:
 ---
 
 Anthrax est l'un des groupes fondateurs du thrash metal, formé le 18 juillet 1981 à New York par le guitariste
-Scott Ian et le bassiste Dan Lilker. Aux côtés de Metallica, Megadeth et Slayer, Anthrax forme le légendaire
+**Scott Ian** et le bassiste **Dan Lilker**. Aux côtés de **Metallica**, **Megadeth** et **Slayer**, Anthrax forme le légendaire
 « Big Four » du thrash metal, un mouvement musical qui allait révolutionner le heavy metal dans les années 1980.
 
 ###### Origines et formation

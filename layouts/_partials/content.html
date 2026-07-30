@@ -1,17 +1,22 @@
 {{- $content := .Content -}}
-{{- range (where $.Site.RegularPages "Section" "in" (slice "artists" "albums" "festivals")) -}}
-    {{- $page := . }}
-    {{- $content = (replace $content (printf " %s " .LinkTitle) (printf " <a href='%s'>%s</a> " .RelPermalink .LinkTitle)) | safeHTML -}}
-    {{- $content = (replace $content (printf "'%s " .LinkTitle) (printf "'<a href='%s'>%s</a> " .RelPermalink .LinkTitle)) | safeHTML -}}
-    {{- $content = (replace $content (printf "'%s," .LinkTitle) (printf "'<a href='%s'>%s</a>," .RelPermalink .LinkTitle)) | safeHTML -}}
-    {{- $content = (replace $content (printf " %s," .LinkTitle) (printf " <a href='%s'>%s</a>," .RelPermalink .LinkTitle)) | safeHTML -}}
-    {{- $content = (replace $content (printf ">%s<" .LinkTitle) (printf "><a href='%s'>%s</a><" .RelPermalink .LinkTitle)) | safeHTML -}}
-    {{- range .Params.aliases -}}
-        {{- $content = (replace $content (printf " %s " .) (printf " <a href='%s'>%s</a> " $page.RelPermalink .)) | safeHTML -}}
-        {{- $content = (replace $content (printf "'%s " .) (printf "'<a href='%s'>%s</a> " $page.RelPermalink .)) | safeHTML -}}
-        {{- $content = (replace $content (printf "'%s," .) (printf "'<a href='%s'>%s</a>," $page.RelPermalink .)) | safeHTML -}}
-        {{- $content = (replace $content (printf " %s," .) (printf " <a href='%s'>%s</a>," $page.RelPermalink .)) | safeHTML -}}
-        {{- $content = (replace $content (printf ">%s<" .) (printf "><a href='%s'>%s</a><" $page.RelPermalink .)) | safeHTML -}}
+{{- $plain := printf "%s" $content -}}
+
+{{- if $plain -}}
+    {{- range (partialCached "index/linkable.html" .) -}}
+        {{- $page := . -}}
+        {{- if ne $page.RelPermalink $.RelPermalink -}}
+            {{- $needle := printf "<strong>%s</strong>" .LinkTitle -}}
+            {{- if strings.Contains $plain $needle -}}
+                {{- $content = replace $content $needle (printf "<a href='%s'>%s</a>" $page.RelPermalink $needle) | safeHTML -}}
+            {{- end -}}
+
+            {{- range .Params.aliases -}}
+                {{- $alias := printf "<strong>%s</strong>" . -}}
+                {{- if strings.Contains $plain $alias -}}
+                    {{- $content = replace $content $alias (printf "<a href='%s'>%s</a>" $page.RelPermalink $alias) | safeHTML -}}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
     {{- end -}}
 {{- end -}}
 {{- $content -}}

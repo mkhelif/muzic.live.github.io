@@ -91,9 +91,9 @@ lastUpdate:
 ---
 
 Avenged Sevenfold est un groupe de rock américain originaire de Huntington Beach, en Californie, formé en 1999 par des
-amis d'enfance réunis autour de M. Shadows, Zacky Vengeance, Jimmy « The Rev » Sullivan et Matt Wendt. Leur premier
+amis d'enfance réunis autour de **M. Shadows**, **Zacky Vengeance**, Jimmy « **The Rev** » Sullivan et **Matt Wendt**. Leur premier
 album, Sounding the Seventh Trumpet, enregistré alors qu'ils ont dix-huit ans, mêle metalcore, ballade au piano et
-incursions punk, et leur vaut une signature chez Warner Bros après l'arrivée du guitariste Synyster Gates en 2001.
+incursions punk, et leur vaut une signature chez Warner Bros après l'arrivée du guitariste **Synyster Gates** en 2001.
 
 ###### City of Evil et la bascule vers le mainstream
 

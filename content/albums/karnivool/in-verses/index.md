@@ -16,7 +16,7 @@ socials:
   qobuz: "dhcoyrza7yzib"
 ---
 
-Treize ans. C'est le temps qu'il aura fallu attendre depuis *Asymmetry* pour que Karnivool revienne avec un album studio.
+Treize ans. C'est le temps qu'il aura fallu attendre depuis *Asymmetry* pour que **Karnivool** revienne avec un album studio.
 Et quel retour. *In Verses* n'est pas seulement un comeback réussi — c'est l'album le plus abouti, le plus ambitieux et
 le plus émouvant du quintet de Perth. Plus d'une heure de musique, dix titres, zéro remplissage. Le genre de disque qui
 rappelle pourquoi on écoute du rock progressif.
@@ -32,10 +32,10 @@ hypnotique, avant que les guitares de Drew Goddard et Mark Hosking ne déploient
 d'Ian Kenny, toujours aussi cristalline et puissante, survole l'ensemble avec une aisance déconcertante. En six minutes
 vingt-cinq, le ton est donné : *In Verses* sera un album de montées en puissance, de tensions et de libérations.
 
-*Drone*, premier véritable signal de vie du groupe à l'été 2025, confirme que Karnivool n'a rien perdu de son identité.
+*Drone*, premier véritable signal de vie du groupe à l'été 2025, confirme que **Karnivool** n'a rien perdu de son identité.
 Les riffs massifs alternent avec des passages aériens, les changements de dynamique sont d'une précision chirurgicale, et
-le groove — ce fameux groove Karnivool, à la fois lourd et fluide — est intact. Le groupe lui-même a décrit le morceau
-comme « le son de Karnivool entrant dans une nouvelle ère — un voyage à feu lent forgé dans la chaleur du studio, où
+le groove — ce fameux groove **Karnivool**, à la fois lourd et fluide — est intact. Le groupe lui-même a décrit le morceau
+comme « le son de **Karnivool** entrant dans une nouvelle ère — un voyage à feu lent forgé dans la chaleur du studio, où
 chaque note a été testée et trempée ».
 
 *Aozora* pousse l'exploration plus loin. La section rythmique de Jon Stockman (basse) et Steve Judd (batterie) y est
@@ -47,7 +47,7 @@ parfaitement la capacité du groupe à transmettre la profondeur sans s'appuyer 
 soutenue, tandis que *Conversations*, pièce centrale de l'album avec ses huit minutes, offre le moment le plus
 introspectif du disque. Ian Kenny y livre une performance vocale bouleversante, portée par un arrangement qui alterne
 passages contemplatifs et éruptions instrumentales. C'est ici que le cœur émotionnel de l'album bat le plus fort —
-l'une des plus belles mélodies que Karnivool ait jamais écrites.
+l'une des plus belles mélodies que **Karnivool** ait jamais écrites.
 
 La seconde moitié de l'album élève encore le niveau. *Reanimation* est le morceau qui fera parler les guitaristes : un
 titre lent et groovy qui monte progressivement en atmosphère avant de culminer avec un solo de Guthrie Govan — le
@@ -89,6 +89,6 @@ entre puissance et émotion, entre technique et musicalité. Le numéro un au cl
 Rock & Metal et les classements en Allemagne, Suisse, France et au-delà confirment que le public était prêt — et que
 l'attente en valait la peine.
 
-Karnivool prouve avec cet album qu'ils sont un groupe pleinement à l'aise avec ce qu'ils sont. Pas de posture, pas de
+**Karnivool** prouve avec cet album qu'ils sont un groupe pleinement à l'aise avec ce qu'ils sont. Pas de posture, pas de
 tentative de suivre les tendances, juste cinq musiciens au sommet de leur art qui livrent la musique qu'ils portent en
 eux depuis plus d'une décennie. C'est, tout simplement, l'un des grands albums de rock progressif de la décennie.

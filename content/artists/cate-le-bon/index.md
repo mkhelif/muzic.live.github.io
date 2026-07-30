@@ -27,8 +27,7 @@ Cate Le Bon, née Cate Timothy le 4 mars 1983, est une chanteuse, autrice-compos
 Penboyr, dans le Carmarthenshire, elle grandit dans une ferme familiale au sein d'une fratrie de trois filles. Son nom
 de scène rend hommage au musicien anglais Simon Le Bon.
 
-Elle attire l'attention du public pour la première fois en assurant la première partie de Gruff Rhys, du groupe Super
-Furry Animals, lors de sa tournée solo au Royaume-Uni en 2007. En janvier 2013, elle s'installe à Los Angeles pour
+Elle attire l'attention du public pour la première fois en assurant la première partie de Gruff Rhys, du groupe **Super Furry Animals**, lors de sa tournée solo au Royaume-Uni en 2007. En janvier 2013, elle s'installe à Los Angeles pour
 développer sa carrière aux États-Unis.
 
 ###### Une discographie exigeante

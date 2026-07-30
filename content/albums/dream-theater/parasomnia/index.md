@@ -16,13 +16,12 @@ socials:
   qobuz: "he0uxykf3waya"
 ---
 
-Seize ans. C'est le temps qu'il aura fallu pour que Mike Portnoy revienne dans le groupe qu'il a cofondé en 1985. Depuis
+Seize ans. C'est le temps qu'il aura fallu pour que **Mike Portnoy** revienne dans le groupe qu'il a cofondé en 1985. Depuis
 Black Clouds & Silver Linings (2009), dernier album avec la formation classique et leur plus haut classement dans les
-charts, Dream Theater a continué sans lui - cinq albums avec Mike Mangini, un Grammy pour "The Alien", des tournées
+charts, **Dream Theater** a continué sans lui - cinq albums avec **Mike Mangini**, un Grammy pour "The Alien", des tournées
 mondiales. Mais l'annonce du départ de Mangini en octobre 2023, simultanée au retour de Portnoy, a provoqué un séisme
 d'enthousiasme dans la communauté prog. Parasomnia, sorti le 7 février 2025 via InsideOut Music, marque donc les
-retrouvailles de la formation originelle : James LaBrie (chant), John Petrucci (guitare), John Myung (basse), Jordan
-Rudess (claviers) et Portnoy à la batterie.
+retrouvailles de la formation originelle : **James LaBrie** (chant), **John Petrucci** (guitare), **John Myung** (basse), **Jordan Rudess** (claviers) et Portnoy à la batterie.
 
 Le verdict ? Ils n'ont rien perdu. Mieux : ils reviennent avec une énergie renouvelée.
 

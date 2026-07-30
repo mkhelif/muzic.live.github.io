@@ -28,7 +28,7 @@ lastUpdate:
 ---
 
 Alchemists est un groupe de metal moderne suisse fondé en 2019. Puisant leur inspiration auprès de formations telles
-que Northlane, Periphery, Architects et Meshuggah, les membres d'Alchemists construisent un son ancré dans les
+que Northlane, **Periphery**, **Architects** et Meshuggah, les membres d'Alchemists construisent un son ancré dans les
 courants djent et metalcore progressif, mêlant riffs lourds en accordage baissé, rythmiques complexes et mélodies
 lumineuses.
 

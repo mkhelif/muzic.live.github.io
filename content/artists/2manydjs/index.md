@@ -26,11 +26,11 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-2manydjs est un duo de DJs belges formé par les frères Steven et David Dewaele, originaires de Gand. Membres fondateurs
-du groupe de rock électronique Soulwax, les deux frères ont développé sous ce nom de scène l'un des projets de mashup
+2manydjs est un duo de DJs belges formé par les frères Steven et **David Dewaele**, originaires de Gand. Membres fondateurs
+du groupe de rock électronique **Soulwax**, les deux frères ont développé sous ce nom de scène l'un des projets de mashup
 les plus influents de l'histoire de la musique électronique.
 
-Tout commence en 1995 avec Soulwax, groupe fondé à Gand qui connaît un premier succès critique avec l'album *Much
+Tout commence en 1995 avec **Soulwax**, groupe fondé à Gand qui connaît un premier succès critique avec l'album *Much
 Against Everyone's Advice* (1998), incluant le titre « Too Many DJs » — ironiquement, celui qui donnera son nom au
 projet parallèle. En 1999, les frères Dewaele lancent une émission de radio sur la radio nationale belge, *Hang The DJ*,
 et adoptent progressivement le nom 2manydjs pour leurs sets caractérisés par un style de mashup sophistiqué et

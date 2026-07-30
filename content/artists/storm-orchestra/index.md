@@ -41,10 +41,10 @@ lastUpdate:
   bandsintown: 2026-07-27
 ---
 
-L'histoire de Storm Orchestra commence par une rencontre. Maxime Goudard (chant, guitare) et Adrien Richard (basse,
+L'histoire de Storm Orchestra commence par une rencontre. **Maxime Goudard** (chant, guitare) et **Adrien Richard** (basse,
 claviers, chœurs) se croisent sur les bancs d'une école de formation d'ingénieurs du son à Paris. Ce terreau commun —
 une compréhension fine du son, de l'espace acoustique et de la production — forge dès le départ une identité artistique
-qui ira bien au-delà du simple groupe de rock. En 2019, les deux compères font la rencontre de Loïc Fouquet (batterie)
+qui ira bien au-delà du simple groupe de rock. En 2019, les deux compères font la rencontre de **Loïc Fouquet** (batterie)
 et reforment le groupe sous son nom définitif. Le trio est né.
 
 Ce qui distingue Storm Orchestra d'emblée, c'est l'équilibre de ses forces. Fouquet le résume lui-même avec franchise :

@@ -27,8 +27,7 @@ des années 2010. Il se fait d'abord connaître en publiant des morceaux et remi
 rapidement l'attention de la scène électronique belge avant de signer avec Sony Music Belgium.
 
 Son style hybride mêle bass music, trap, électro et pop urbaine, une palette large qui lui permet de collaborer aussi
-bien avec des rappeurs qu'avec des artistes pop établis. Il a notamment travaillé avec Roméo Elvis, Orelsan, The
-Magician, Vegedream, Mahmood ou encore Vald, construisant au fil des featurings une réputation de producteur recherché
+bien avec des rappeurs qu'avec des artistes pop établis. Il a notamment travaillé avec **Roméo Elvis**, **Orelsan**, **The Magician**, **Vegedream**, Mahmood ou encore Vald, construisant au fil des featurings une réputation de producteur recherché
 dans plusieurs scènes francophones et internationales.
 
 ###### Une reconnaissance multiple

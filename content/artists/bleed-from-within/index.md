@@ -27,7 +27,7 @@ Bleed From Within est un groupe de metalcore écossais originaire de Glasgow, fo
 comme l'une des formations les plus tenaces et les plus abouties du metal britannique contemporain.
 
 Le groupe se forme dans un club de jeunesse de Glasgow, où ses futurs membres se retrouvent à reprendre des
-titres de Lamb of God. En deux ans, ils progressent des covers vers la composition originale, autodéveloppant
+titres de **Lamb of God**. En deux ans, ils progressent des covers vers la composition originale, autodéveloppant
 deux EPs : Eyes of the Forgotten (2006) et Welcome to the Plague Year (2007), enregistrés par leurs propres
 moyens. Cette autonomie de création, rare pour des musiciens si jeunes, annonce un état d'esprit qui ne les
 quittera jamais.

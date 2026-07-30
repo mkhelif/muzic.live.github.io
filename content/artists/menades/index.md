@@ -26,7 +26,7 @@ lastUpdate:
 
 Ménades émerge sur la scène punk parisienne avec une fureur et une détermination qui tranchent immédiatement avec la
 production musicale française formatée. Le groupe tire son nom des ménades de la mythologie grecque, ces ferventes
-accompagnatrices de Dionysos qui fêtent le chaos, l'ivresse et les forces mystérieuses qui règnent en chaque chose. Ce
+accompagnatrices de **Dionysos** qui fêtent le chaos, l'ivresse et les forces mystérieuses qui règnent en chaque chose. Ce
 choix révèle d'emblée l'ADN du projet : célébrer la révolte, l'énergie brute et la libération des codes établis. Le
 quintet se compose de Eva au chant, Ben à la guitare lead, Dauphin à la guitare rythmique, Ambre à la basse et Couac à
 la batterie, une formation solide qui développe rapidement une chimie explosive sur scène.

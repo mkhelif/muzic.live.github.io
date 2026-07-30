@@ -74,11 +74,11 @@ lastUpdate:
 
 Airbourne est un groupe australien de hard rock fondé à Warrnambool, dans l'État du Victoria, à la fin de l'année 2001.
 Portés par une énergie live dévastatrice et un son directement hérité de l'âge d'or du rock australien, ils s'inscrivent
-dans la lignée d'AC/DC, des Angels, de Billy Thorpe et de Rose Tattoo — des géants qui ont forgé l'identité du rock du
+dans la lignée d'**AC/DC**, des Angels, de Billy Thorpe et de Rose Tattoo — des géants qui ont forgé l'identité du rock du
 continent.
 
-À l'origine du groupe, les frères Joel et Ryan O'Keeffe, respectivement chanteur-guitariste et batteur, qui grandissent
-à Warrnambool avant de s'installer à Melbourne en 2005 avec le guitariste David Roads et le bassiste Justin Street.
+À l'origine du groupe, les frères Joel et **Ryan O'Keeffe**, respectivement chanteur-guitariste et batteur, qui grandissent
+à Warrnambool avant de s'installer à Melbourne en 2005 avec le guitariste **David Roads** et le bassiste **Justin Street**.
 C'est dans leur ville natale qu'ils enregistrent leur premier EP indépendant, *Ready to Rock*, en juillet 2004 — un
 document brut et puissant qui annonce la couleur.
 

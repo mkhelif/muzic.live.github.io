@@ -15,11 +15,11 @@ socials:
   qobuz: "uqgjap68it1fc"
 ---
 
-Il existe des artistes qui défient toute définition. Saya Gray en fait partie. Depuis son premier projet 19 Masters en
+Il existe des artistes qui défient toute définition. **Saya Gray** en fait partie. Depuis son premier projet 19 Masters en
 2022, la musicienne japonaise-canadienne s'est imposée comme une force alt-pop globalement définie par
 l'indéfinissable - une artiste dont le travail est sans limites, captivant, intime, exaltant et véritablement différent
 de tout autre musicien sortant des morceaux actuellement. C'est facile de qualifier quelque chose de "one of one" ;
-c'est plus difficile de le vivre, de le respirer, de l'incarner et de le partager avec le monde. Saya Gray habite cet
+c'est plus difficile de le vivre, de le respirer, de l'incarner et de le partager avec le monde. **Saya Gray** habite cet
 espace raréfié et invite tout le monde à entrer.
 
 SAYA, sorti le 21 février 2025 via Dirty Hit, est son premier album complet. Trente-neuf minutes qui tracent une ligne

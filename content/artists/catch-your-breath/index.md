@@ -44,8 +44,8 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Catch Your Breath est un groupe de rock américain basé à Austin, au Texas, fondé en 2017. Composé de Josh Mowery
-(voix), Teddy Herra (guitare), Cianan Madigan (basse) et Onell Hernandez (batterie), le groupe se définit
+Catch Your Breath est un groupe de rock américain basé à Austin, au Texas, fondé en 2017. Composé de **Josh Mowery**
+(voix), Teddy Herra (guitare), **Cianan Madigan** (basse) et **Onell Hernandez** (batterie), le groupe se définit
 lui-même comme un « gateway band » vers le metalcore, une porte d'entrée pour ceux qui n'ont pas encore osé
 pousser jusqu'aux territoires les plus extrêmes du metal.
 

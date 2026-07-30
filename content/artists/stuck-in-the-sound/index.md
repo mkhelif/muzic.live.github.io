@@ -22,8 +22,8 @@ lastUpdate:
 ---
 
 **Style énergique et direct** - Stuck in the Sound débarque en 2002 depuis Montreuil avec une énergie qui claque comme
-un uppercut de distorsion. José Reis Fontão (chant/guitare), Emmanuel Barichasse (guitare), Arno Bordas (basse) et
-François Ernie (batterie) forment un commando du rock alternatif français qui refuse de jouer petit bras.
+un uppercut de distorsion. José Reis Fontão (chant/guitare), **Emmanuel Barichasse** (guitare), **Arno Bordas** (basse) et
+**François Ernie** (batterie) forment un commando du rock alternatif français qui refuse de jouer petit bras.
 
 Le groupe émerge dans une scène indie française en pleine ébullition, déterminé à prouver que le rock hexagonal peut
 sonner aussi puissant et international que ses homologues anglo-saxons.

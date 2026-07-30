@@ -24,8 +24,8 @@ lastUpdate:
 ---
 
 Danny L Harle est né le 25 septembre 1989 à Londres. Fils du saxophoniste John Harle, il ne manifeste
-pas d'emblée de vocation musicale : c'est le rock agressif de Slipknot et les rythmes ska-punk de
-Madness qui le conduisent à la basse à l'âge de douze ans. C'est en étudiant la composition classique
+pas d'emblée de vocation musicale : c'est le rock agressif de **Slipknot** et les rythmes ska-punk de
+**Madness** qui le conduisent à la basse à l'âge de douze ans. C'est en étudiant la composition classique
 au Goldsmiths College de Londres qu'il bascule vers la musique électronique, subjugué par le skweee
 scandinave et ses textures de synthétiseur cristallines.
 

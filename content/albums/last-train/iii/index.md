@@ -22,8 +22,7 @@ ici l'album de la maturité — mais une maturité qui n'a rien perdu de sa rage
 
 **Un exercice d'équilibriste furieux.** C'est peut-être là que réside la vraie force de ce troisième opus : sa capacité
 à naviguer entre les extrêmes sans jamais perdre le fil. Le calme polaire d'un passage atmosphérique peut basculer en
-déflagration sonique en l'espace d'une mesure. On pense aux dynamiques d'un Deftones, à la tension sourde d'un Queens of
-the Stone Age, aux envolées post-rock d'un Sigur Rós — mais jamais Last Train ne sonne comme un copier-coller. Le groupe
+déflagration sonique en l'espace d'une mesure. On pense aux dynamiques d'un **Deftones**, à la tension sourde d'un **Queens of the Stone Age**, aux envolées post-rock d'un Sigur Rós — mais jamais **Last Train** ne sonne comme un copier-coller. Le groupe
 a digéré ses influences pour cracher quelque chose qui ne ressemble qu'à lui.
 
 **La voix de Jean-Noël Scherrer** est l'épicentre de tout. Tantôt murmure fiévreux, tantôt cri viscéral, elle porte des
@@ -35,7 +34,7 @@ groupe.
 place, chaque silence pèse son poids. Les guitares crissent, grondent, s'envolent. La rythmique est un bulldozer quand
 il le faut, un métronome hypnotique quand le morceau l'exige.
 
-**Le constat est simple :** Last Train joue désormais dans une cour qui dépasse largement les frontières de l'Hexagone.
+**Le constat est simple :** **Last Train** joue désormais dans une cour qui dépasse largement les frontières de l'Hexagone.
 *III* n'est pas un album de rock français — c'est un album de rock, point. Le genre qui peut faire lever une salle à
 Berlin, à Londres ou à Tokyo sans avoir besoin de sous-titres.
 

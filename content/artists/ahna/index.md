@@ -25,7 +25,7 @@ lastUpdate:
 ---
 
 Ahna est un duo de métal extrême originaire de Vancouver, en Colombie-Britannique, Canada, formé en 2008. Le
-groupe est fondé par Graham Christofferson (basse, guitare, chant) et Anju Singh (batterie, chant, violon), deux
+groupe est fondé par **Graham Christofferson** (basse, guitare, chant) et Anju Singh (batterie, chant, violon), deux
 musiciens qui partagent une vision radicale de la musique lourde, mêlant drone, doom metal, crust punk et black
 metal dans un son qu'ils ont eux-mêmes qualifié de « drone violence ».
 

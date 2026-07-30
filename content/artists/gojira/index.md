@@ -53,8 +53,8 @@ lastUpdate:
 ---
 
 Gojira est un groupe de metal français formé en 1996 à Ondres, dans les Landes, non loin de Bayonne, sous le nom de
-Godzilla, par le guitariste et chanteur Joe Duplantier, alors âgé de dix-neuf ans, son frère Mario Duplantier à la
-batterie, âgé de quatorze ans, et le guitariste Christian Andreu. Le bassiste Jean-Michel Labadie complète la
+Godzilla, par le guitariste et chanteur **Joe Duplantier**, alors âgé de dix-neuf ans, son frère **Mario Duplantier** à la
+batterie, âgé de quatorze ans, et le guitariste **Christian Andreu**. Le bassiste **Jean-Michel Labadie** complète la
 formation, restée inchangée depuis 2001, année où le groupe adopte le nom de Gojira pour des raisons juridiques, à
 l'occasion de la sortie de son premier album, « Terra Incognita ».
 

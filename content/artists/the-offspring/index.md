@@ -68,7 +68,7 @@ lastUpdate:
 ---
 
 The Offspring est un groupe de punk rock formé à Garden Grove, en Californie. Emmené depuis les années 1980 par son
-fondateur, chanteur et guitariste rythmique Dexter Holland, le groupe a publié onze albums studio et vendu plus de 40
+fondateur, chanteur et guitariste rythmique **Dexter Holland**, le groupe a publié onze albums studio et vendu plus de 40
 millions de disques à travers le monde, ce qui en fait l'un des groupes de rock les plus vendeurs de l'histoire. Leur
 premier album éponyme paraît en 1989, suivi par *Ignition* en 1992 puis, surtout, par *Smash* en 1994.
 

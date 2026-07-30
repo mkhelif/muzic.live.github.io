@@ -25,7 +25,7 @@ Grandmaster Flash and the Furious Five est un groupe américain de hip-hop form�
 
 Le groupe se forge une réputation locale en jouant dans les block parties et les salles de New York, popularisant le
 turntablism et le breakbeat DJing à une époque où le hip-hop est encore une culture émergente. En 1980, il signe chez
-Sugar Hill Records.
+**Sugar** Hill Records.
 
 ###### The Message, jalon du rap conscient
 

@@ -15,7 +15,7 @@ socials:
 ---
 
 Le Montreux Jazz Festival est l'un des événements musicaux les plus prestigieux au monde. Chaque été, pendant deux
-semaines, la petite ville de Montreux, au bord du Lac Léman en Suisse, se transforme en capitale mondiale de la musique
+semaines, la petite ville de Montreux, au bord du Lac **Léman** en Suisse, se transforme en capitale mondiale de la musique
 live. Fondé en 1967, le festival a su évoluer bien au-delà du jazz pour embrasser tous les genres — rock, pop, soul,
 hip-hop, électro, musiques du monde — tout en conservant l'esprit d'exigence artistique et d'hospitalité qui fait sa
 légende. Deuxième plus grand festival de jazz annuel au monde après celui de Montréal, il accueille chaque année plus de

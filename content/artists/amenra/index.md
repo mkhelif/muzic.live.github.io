@@ -91,8 +91,8 @@ lastUpdate:
 ---
 
 Amenra est un groupe de post-metal belge originaire de Courtrai (Kortrijk), en Flandre-Occidentale, fondé en 1999
-par le chanteur Colin H. van Eeckhout et le guitariste Mathieu Vandekerckhove. Autour d'eux gravitent aujourd'hui
-le batteur Bjorn Lebon, le guitariste Lennart Bossu et la bassiste Amy Tung Barrysmith. Bien plus qu'un groupe de
+par le chanteur **Colin H. van Eeckhout** et le guitariste **Mathieu Vandekerckhove**. Autour d'eux gravitent aujourd'hui
+le batteur **Bjorn Lebon**, le guitariste **Lennart Bossu** et la bassiste **Amy Tung Barrysmith**. Bien plus qu'un groupe de
 metal, Amenra se définit comme un collectif artistique dont la musique constitue une pratique spirituelle et
 cathartique.
 

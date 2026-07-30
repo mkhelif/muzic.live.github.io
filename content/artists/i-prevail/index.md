@@ -79,8 +79,7 @@ lastUpdate:
 ---
 
 I Prevail est un groupe américain de post-hardcore et metalcore formé en 2013 à Southfield, dans le Michigan, autour
-des chanteurs Brian Burkheiser et Eric Vanlerberghe, des guitaristes Steve Menoian et Jordan Berger, et du batteur Lee
-Runestad.
+des chanteurs **Brian Burkheiser** et **Eric Vanlerberghe**, des guitaristes **Steve Menoian** et **Jordan Berger**, et du batteur **Lee Runestad**.
 
 ###### Un coup d'éclat viral
 

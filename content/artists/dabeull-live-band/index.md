@@ -23,7 +23,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Dabeull, de son vrai nom David Saïd, est né le 9 août 1985 à Paris. Producteur, chanteur et DJ, il
+**Dabeull**, de son vrai nom David Saïd, est né le 9 août 1985 à Paris. Producteur, chanteur et DJ, il
 s'est taillé une réputation unique dans le paysage musical français en faisant du funk et du groove sa
 religion. C'est à la fin des années 1990, dans les bacs des disquaires parisiens, qu'il découvre le
 funk américain grâce à ses amis, une révélation qui orientera toute sa carrière.

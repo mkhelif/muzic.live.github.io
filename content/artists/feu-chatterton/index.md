@@ -52,11 +52,10 @@ lastUpdate:
 ---
 
 Feu! Chatterton est un groupe français de pop rock formé à Paris en 2011, porté par la voix singulière et le lyrisme
-du chanteur Arthur Teboul. Le nom du quintette rend hommage au poète anglais Thomas Chatterton, suicidé en 1770 à
+du chanteur **Arthur Teboul**. Le nom du quintette rend hommage au poète anglais Thomas Chatterton, suicidé en 1770 à
 dix-sept ans, une figure romantique déjà célébrée en chanson par Serge Gainsbourg et Alain Bashung.
 
-Le groupe se forme autour d'anciens élèves du lycée Louis-le-Grand : aux côtés d'Arthur Teboul se trouvent Antoine
-Wilson à la basse, Clément Doumic aux guitares et claviers, Raphaël De Pressigny à la batterie, et Sébastien Wolf aux
+Le groupe se forme autour d'anciens élèves du lycée Louis-le-Grand : aux côtés d'**Arthur Teboul** se trouvent **Antoine Wilson** à la basse, **Clément Doumic** aux guitares et claviers, **Raphaël De Pressigny** à la batterie, et **Sébastien Wolf** aux
 guitares et claviers. Leur son mêle une écriture ciselée, héritée de la chanson française de Léo Ferré, Georges
 Brassens et Serge Gainsbourg, à des architectures sonores plus rock, influencées par Neil Young ou Radiohead.
 

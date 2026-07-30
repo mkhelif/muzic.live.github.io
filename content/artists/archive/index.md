@@ -98,7 +98,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Archive est un collectif musical britannique fondé à Londres en 1994 par Darius Keeler et Danny Griffiths, tous deux
+Archive est un collectif musical britannique fondé à Londres en 1994 par **Darius Keeler** et **Danny Griffiths**, tous deux
 anciens membres du groupe de breakbeat Genaside II. Dès l'origine, Archive se singularise par un refus des étiquettes :
 leur musique traverse le trip-hop, l'électronique, le post-rock, le rock progressif et l'avant-garde, souvent au sein
 d'un même album.

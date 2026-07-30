@@ -62,7 +62,7 @@ lastUpdate:
 ---
 
 LANDMVRKS est un groupe de metalcore français originaire de Marseille, formé en 2014 sous le nom de Coldsight par le
-chanteur Florent Salfati et le guitariste Nicolas Soriano, avant de devenir l'un des fers de lance du metalcore
+chanteur **Florent Salfati** et le guitariste **Nicolas Soriano**, avant de devenir l'un des fers de lance du metalcore
 hexagonal à l'export.
 
 ###### Une formation stabilisée

@@ -25,7 +25,7 @@ lastUpdate:
 ---
 
 Alt-J (stylisé Δ) est un groupe de rock indépendant anglais formé en 2007 à l'Université de Leeds. Composé à l'origine
-de Joe Newman (chant, guitare), Thom Sonny Green (batterie), Gus Unger-Hamilton (claviers, chant) et Gwil Sainsbury
+de **Joe Newman** (chant, guitare), Thom Sonny Green (batterie), Gus Unger-Hamilton (claviers, chant) et **Gwil Sainsbury**
 (guitare, basse — parti en 2014), le groupe s'est imposé comme l'une des formations les plus inventives et les plus
 célébrées de sa génération, développant un son inclassable qui mêle folk électronique, indie rock, pop minimaliste et
 textures expérimentales.

@@ -18,11 +18,11 @@ socials:
 ---
 
 Il y a des albums qu'on attend avec la résignation tranquille du fan vieillissant : ça sera bien, peut-être très bien,
-mais jamais comme avant. *Into Oblivion* de Lamb of God est l'album qui brise cette résignation d'un coup de riff en
+mais jamais comme avant. *Into Oblivion* de **Lamb of God** est l'album qui brise cette résignation d'un coup de riff en
 pleine face. C'est un coup de maillet dans le crâne de quiconque pensait que les meilleurs jours du groupe étaient
 derrière eux. C'est, au minimum, leur meilleur album depuis *Resolution* en 2012 — et il pourrait même le surpasser.
 
-Voilà qui est dit. Et voilà pourquoi ça mérite qu'on s'y attarde.
+**Voilà** qui est dit. Et voilà pourquoi ça mérite qu'on s'y attarde.
 
 ###### Le contexte : trente ans de colère organisée
 

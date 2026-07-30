@@ -29,7 +29,7 @@ Au départ, il n'y avait rien. Les trois musiciennes ne se connaissaient pas et 
 groupe. Pas de nom, pas de compositions. Cette genèse atypique marque profondément l'ADN de MADAM : un projet né du
 désir brut de faire de la musique ensemble, sans autre prémisse que l'envie de créer.
 
-Gabbie Burns a rencontré Anaïs Belmonte (batterie) et Marine Masachs (basse) via les réseaux sociaux, et leur première
+Gabbie Burns a rencontré **Anaïs** Belmonte (batterie) et **Marine** Masachs (basse) via les réseaux sociaux, et leur première
 répétition s'est déroulée dans un espace de jazz inadapté où même un coup de caisse claire semblait trop fort. Ces
 débuts modestes, presque comiques, contrastent avec la puissance sonore que le trio développera par la suite.
 

@@ -14,16 +14,16 @@ socials:
   qobuz: "eqfg6e4ki6axb"
 ---
 
-Depuis que "Drummer" a explosé en 2024, propulsant Storm Orchestra hors des clubs underground parisiens vers les radars
+Depuis que "Drummer" a explosé en 2024, propulsant **Storm Orchestra** hors des clubs underground parisiens vers les radars
 internationaux, on attendait le trio au tournant. Get Better, second album sorti le 11 avril 2025 via Mascot Records,
 démontre que leur percée n'était pas un accident. C'est l'œuvre d'un groupe qui sait exactement où il va.
 
-Fondé en 2019 par Maxime Goudard (chant/guitare), Adrien Richard (basse) et Loïc Fouquet (batterie), Storm Orchestra a
+Fondé en 2019 par **Maxime Goudard** (chant/guitare), **Adrien Richard** (basse) et **Loïc Fouquet** (batterie), **Storm Orchestra** a
 pris son temps. EP éponyme en 2020, premier album What A Time To Be Alive en 2023 qui les a propulsés en "artistes à
 suivre" sur Spotify et Deezer. Puis 2024 : l'année de l'accélération. Des clubs sold-out en France, des festivals
 européens, une signature chez Mascot Records. Le virage professionnel qu'ils attendaient.
 
-Get Better arrive donc avec une pression considérable : confirmer que Storm Orchestra peut porter le flambeau du rock
+Get Better arrive donc avec une pression considérable : confirmer que **Storm Orchestra** peut porter le flambeau du rock
 alternatif français à l'international. Spoiler : ils y arrivent.
 
 ###### Une palette alt-rock maîtrisée

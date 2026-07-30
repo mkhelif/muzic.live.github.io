@@ -52,7 +52,7 @@ lastUpdate:
 ---
 
 The Temper Trap est un groupe de rock indépendant australien formé en 2005 à Melbourne par le chanteur et guitariste
-Dougy Mandagi, le bassiste Jonathon Aherne et le batteur Toby Dundas. En 2008, le trio s'installe à Londres pour
+**Dougy Mandagi**, le bassiste **Jonathon Aherne** et le batteur **Toby Dundas**. En 2008, le trio s'installe à Londres pour
 tenter de percer sur la scène internationale, un pari qui s'avère rapidement payant.
 
 ###### Sweet Disposition, un hymne indie planétaire

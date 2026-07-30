@@ -25,7 +25,7 @@ lastUpdate:
 
 Aloïse Sauvage est une artiste française pluridisciplinaire née le 25 septembre 1992 au Mée-sur-Seine, en
 Seine-et-Marne. Chanteuse, rappeuse, comédienne, acrobate et danseuse, elle incarne mieux que quiconque l'idée d'une
-artiste totale qui refuse de se laisser enfermer dans une seule case. Ses influences multiples — de Diam's à Stromae en
+artiste totale qui refuse de se laisser enfermer dans une seule case. Ses influences multiples — de **Diam's** à **Stromae** en
 passant par le cirque contemporain — nourrissent un univers à la fois brut et poétique, profondément personnel.
 
 Formée au conservatoire de Le Mée-sur-Seine où elle apprend la flûte traversière, la batterie et le saxophone, Aloïse

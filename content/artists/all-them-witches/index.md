@@ -29,7 +29,7 @@ lastUpdate:
 All Them Witches est un groupe de rock américain formé à Nashville, Tennessee, le 6 janvier 2012. Leur nom est
 emprunté au livre All of Them Witches qui apparaît dans le film Rosemary's Baby (1968), annonçant d'emblée un
 univers ancré dans l'atmosphère et l'occulte. La formation réunit le chanteur et multi-instrumentiste Charles
-Michael Parks Jr., le guitariste Ben McLeod et le claviériste Allan Van Cleave.
+Michael Parks Jr., le guitariste **Ben McLeod** et le claviériste **Allan Van Cleave**.
 
 ###### Une musique qui brûle lentement
 

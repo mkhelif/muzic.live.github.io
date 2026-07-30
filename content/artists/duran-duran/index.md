@@ -30,7 +30,7 @@ Duran Duran est un groupe de pop rock britannique formé en 1978 à Birmingham, 
 romantic et l'un des groupes les plus emblématiques de l'esthétique pop des années 1980.
 
 Le line-up historique réunit le chanteur Simon Le Bon, le claviériste Nick Rhodes, le bassiste John Taylor et le
-batteur Roger Taylor, formation qui continue de tourner ensemble plus de quatre décennies après ses débuts.
+batteur **Roger Taylor**, formation qui continue de tourner ensemble plus de quatre décennies après ses débuts.
 
 ###### Carrière musicale
 

@@ -24,8 +24,8 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Arch Enemy est un groupe suédois de melodic death metal fondé en 1995 par le guitariste Michael Amott, ancien
-membre de Carcass, en compagnie du chanteur Johan Liiva. Depuis ses débuts, le groupe s'est imposé comme l'une
+Arch Enemy est un groupe suédois de melodic death metal fondé en 1995 par le guitariste **Michael Amott**, ancien
+membre de **Carcass**, en compagnie du chanteur **Johan Liiva**. Depuis ses débuts, le groupe s'est imposé comme l'une
 des formations les plus influentes et les plus férocement mélodiques du metal extrême mondial.
 
 ###### Une naissance entre deux légendes

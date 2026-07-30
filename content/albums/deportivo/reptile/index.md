@@ -16,7 +16,7 @@ socials:
   qobuz: "okykog2vb9tja"
 ---
 
-Sept ans. C'est le temps qui sépare *Quitter la ville* (2017) de **Reptile**, cinquième album studio de Déportivo
+Sept ans. C'est le temps qui sépare *Quitter la ville* (2017) de **Reptile**, cinquième album studio de **Déportivo**
 sorti le 27 février 2025. Sept ans d'absence discographique, ponctués d'un retour scénique en 2022, et un disque
 entièrement financé par les fans — sans label, sans concession, sans calcul. Le résultat ? Vingt-deux minutes de
 rock français nerveux, taillé dans le vif, qui rappelle pourquoi le groupe de Bois-d'Arcy reste l'un des

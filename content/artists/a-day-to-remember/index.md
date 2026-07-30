@@ -90,8 +90,8 @@ lastUpdate:
 ---
 
 A Day to Remember est un groupe américain de metalcore et pop punk fondé en 2003 à Ocala, en Floride, par le
-guitariste Tom Denney et le batteur Bobby Scruggs. La formation se complète rapidement avec l'arrivée du
-chanteur Jeremy McKinnon, des guitaristes Neil Westfall et Josh Woodard à la basse, tous issus de la scène
+guitariste **Tom Denney** et le batteur **Bobby Scruggs**. La formation se complète rapidement avec l'arrivée du
+chanteur **Jeremy McKinnon**, des guitaristes **Neil Westfall** et Josh Woodard à la basse, tous issus de la scène
 locale d'Ocala. Ce qui distingue A Day to Remember dès leurs débuts, c'est leur aptitude à fusionner des
 breakdowns metal extrêmes avec des mélodies pop punk immédiates et des refrains accrocheurs — un équilibre
 que peu de groupes ont su maintenir avec autant de cohérence sur le long terme.

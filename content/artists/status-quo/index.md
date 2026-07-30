@@ -33,7 +33,7 @@ capacité du groupe à toucher plusieurs générations de fans, des adolescents 
 classique contemporains. Leur musique, immédiatement reconnaissable dès les premières notes, est devenue partie
 intégrante du patrimoine culturel britannique.
 
-Le noyau historique du groupe, longtemps constitué de Francis Rossi et Rick Parfitt aux guitares et au chant, a créé un
+Le noyau historique du groupe, longtemps constitué de **Francis Rossi** et Rick Parfitt aux guitares et au chant, a créé un
 des tandems les plus iconiques de l'histoire du rock. Leur complicité scénique et leur capacité à délivrer des
 performances énergiques année après année ont fait de Status Quo un phénomène de constance dans un univers musical
 souvent éphémère.

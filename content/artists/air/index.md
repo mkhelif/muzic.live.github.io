@@ -24,12 +24,12 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Air est un duo de musique électronique français formé en 1995 à Versailles par Nicolas Godin et Jean-Benoît Dunckel.
+Air est un duo de musique électronique français formé en 1995 à Versailles par **Nicolas Godin** et **Jean-Benoît Dunckel**.
 Avec leur son mélangeant électronique ambient, pop baroque et influences spatiales, ils ont incarné pendant deux
 décennies le meilleur de la « French Touch » aux côtés de Daft Punk, tout en développant une identité artistique
 singulière, plus introspective et mélancolique que leurs contemporains.
 
-Nicolas Godin, architecte de formation, et Jean-Benoît Dunckel, mathématicien, se sont rencontrés à Versailles où ils
+**Nicolas Godin**, architecte de formation, et **Jean-Benoît Dunckel**, mathématicien, se sont rencontrés à Versailles où ils
 partageaient une passion commune pour la musique expérimentale et les sonorités vintage. Ils ont d'abord fondé un groupe
 nommé Orange avant de se lancer sous le nom d'Air en 1995, publiant leurs premières productions sur des labels
 indépendants français.

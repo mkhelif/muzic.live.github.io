@@ -27,8 +27,8 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Kompromat est un groupe de musique électronique français formé par Rebeka Warrior, également membre de Sexy Sushi et de
-Mansfield.TYA, et par le compositeur et producteur Vitalic, deux figures déjà bien connues de la scène électro française
+Kompromat est un groupe de musique électronique français formé par Rebeka Warrior, également membre de **Sexy Sushi** et de
+Mansfield.TYA, et par le compositeur et producteur **Vitalic**, deux figures déjà bien connues de la scène électro française
 avant de s'associer sous ce nouveau nom.
 
 ###### Une rencontre qui ne date pas d'hier

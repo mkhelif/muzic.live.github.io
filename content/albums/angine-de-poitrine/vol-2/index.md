@@ -18,7 +18,7 @@ socials:
 
 Si *Vol. 1* était le secret d'un duo de Saguenay que personne ou presque n'avait encore entendu, *Vol. II* est quelque
 chose d'entièrement différent — un album qui arrive sous les feux d'une attention mondiale, porté par seize millions de
-vues sur YouTube, des vinyles revendus à prix d'or sur Discogs et Dave Grohl qui monte officiellement dans le wagon. La
+vues sur YouTube, des vinyles revendus à prix d'or sur Discogs et **Dave Grohl** qui monte officiellement dans le wagon. La
 pression aurait pu tuer le disque avant même sa naissance. Elle l'a au contraire dynamisé.
 
 Pitchfork pose la question centrale avec une franchise désarmante : comment un duo anonyme en costumes à pois, jouant de

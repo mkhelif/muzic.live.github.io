@@ -26,8 +26,8 @@ lastUpdate:
 
 William Sami Étienne Grigahcine, alias DJ Snake, né le 13 juin 1986 à Paris d'un père français et d'une mère algérienne,
 est un producteur et DJ français devenu l'une des plus grandes figures mondiales de la musique électronique. Il grandit
-à Ermont, dans le Val-d'Oise, puis au Plessis-Bouchard, citant "La Haine" et son DJ Cut Killer, ainsi que KRS-One et
-Cypress Hill, parmi ses influences de jeunesse. Son surnom de "Snake" lui vient de son adolescence passée à faire du
+à Ermont, dans le Val-d'Oise, puis au Plessis-Bouchard, citant "La Haine" et son DJ **Cut Killer**, ainsi que KRS-One et
+**Cypress Hill**, parmi ses influences de jeunesse. Son surnom de "Snake" lui vient de son adolescence passée à faire du
 graffiti tout en évitant la police.
 
 ###### Des débuts entre clubs parisiens et productions pour les stars

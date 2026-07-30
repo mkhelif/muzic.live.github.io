@@ -42,7 +42,7 @@ lastUpdate:
 Two Door Cinema Club est un trio indie rock originaire de Bangor et Donaghadee, en Irlande du Nord, formé en 2007 par
 des amis d'enfance qui allaient redéfinir le paysage de l'indie britannique de la décennie suivante.
 
-Composé d'Alex Trimble (chant, guitare rythmique, synthés), Sam Halliday (guitare solo) et Kevin Baird (basse,
+Composé d'**Alex Trimble** (chant, guitare rythmique, synthés), **Sam Halliday** (guitare solo) et **Kevin Baird** (basse,
 synthés), le groupe s'est imposé sans batteur permanent, s'appuyant sur des boîtes à rythmes et des percussions
 programmées pour façonner son identité sonore.
 

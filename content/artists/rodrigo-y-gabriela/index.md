@@ -32,7 +32,7 @@ lastUpdate:
   bandsintown: 2026-07-27
 ---
 
-Rodrigo y Gabriela est un duo mexicain formé par Rodrigo Sánchez et Gabriela Quintero, qui a révolutionné la guitare
+Rodrigo y Gabriela est un duo mexicain formé par **Rodrigo Sánchez** et **Gabriela Quintero**, qui a révolutionné la guitare
 acoustique en fusionnant flamenco, rock metal et influences latines dans un style explosif et unique.
 
 Originaires de Mexico City, les deux guitaristes se rencontrent dans la scène metal locale des années 1990, jouant dans

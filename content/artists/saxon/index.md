@@ -120,7 +120,7 @@ traverse les générations. Contrairement à de nombreux groupes de leur époque
 maintenu une activité constante, prouvant que l'intégrité artistique et la persévérance peuvent triompher des modes
 passagères.
 
-Le groupe, mené par le chanteur charismatique Biff Byford, a vendu plus de 15 millions d'albums dans le monde et
+Le groupe, mené par le chanteur charismatique **Biff Byford**, a vendu plus de 15 millions d'albums dans le monde et
 influencé d'innombrables formations metal. Leur contribution à l'évolution du genre dépasse largement leur succès
 commercial, Saxon ayant participé activement à définir les codes esthétiques et sonores du heavy metal européen.
 

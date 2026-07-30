@@ -24,7 +24,7 @@ lastUpdate:
 ---
 
 Rares sont les projets musicaux nés d'une intuition solitaire sur une route de tournée qui finissent par remplir le
-Wacken Open Air devant 80 000 personnes. Tobias Sammet a l'idée de créer Avantasia au printemps 1999, pendant la tournée
+**Wacken Open Air** devant 80 000 personnes. Tobias Sammet a l'idée de créer Avantasia au printemps 1999, pendant la tournée
 de l'album *Theater Of Salvation* de son groupe Edguy. Son concept est de mettre en place un concept-album de metal
 opera avec un grand nombre d'invités. Vingt-cinq ans plus tard, Avantasia est devenu l'un des projets les plus ambitieux
 et les plus durables du metal européen — un opéra permanent, sans fin ni plafond.

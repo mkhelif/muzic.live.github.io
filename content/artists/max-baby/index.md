@@ -35,4 +35,4 @@ timbre vocal qui lui vaut d'être comparé à Julian Casablancas.
 
 Il dévoile son premier single, « Hardcore », le 26 juin 2024, suivi de « Another Idea of Fun », en préparation d'un
 premier EP intitulé **Out of Control, Into the Wall**. Installé au Greasy Studios, ancien repaire de Magma, il
-collabore également en tant que multi-instrumentiste et producteur avec Clara Luciani, Weyes Blood ou Hannah Jadagu.
+collabore également en tant que multi-instrumentiste et producteur avec **Clara Luciani**, Weyes Blood ou Hannah Jadagu.

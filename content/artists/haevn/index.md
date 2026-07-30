@@ -57,7 +57,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Haevn est un duo néerlandais formé par Jorrit Kleijnen et Marijn van der Meer, qui émerge sur la scène musicale
+Haevn est un duo néerlandais formé par **Jorrit Kleijnen** et **Marijn van der Meer**, qui émerge sur la scène musicale
 européenne avec une approche cinématographique de la pop alternative.
 
 Leurs débuts révèlent des artistes passionnés par la création d'atmosphères sonores immersives, puisant dans l'ambient,

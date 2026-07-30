@@ -33,8 +33,8 @@ avant de se former en ingénierie du son : elle obtient un Bachelor of Science e
 
 Après ses études, Omori travaille dans l'industrie musicale — notamment chez Tape Club Records et dans les relations
 artistes chez Novation — tout en collaborant en tournée et en studio avec des artistes de renom. Elle a ainsi travaillé
-aux côtés d'Utada Hikaru, Kae Tempest, Shabaka, Ed O'Brien (EOB), Keaton Henson, Grian Chatten et Sophie Hunger. Elle a
-également joué du Wurlitzer sur l'album *Wax* de KT Tunstall et du célesta avec Floating Points. Plus récemment, elle a
+aux côtés d'Utada Hikaru, **Kae Tempest**, Shabaka, Ed O'Brien (EOB), Keaton Henson, Grian Chatten et Sophie Hunger. Elle a
+également joué du Wurlitzer sur l'album *Wax* de **KT Tunstall** et du célesta avec Floating Points. Plus récemment, elle a
 rejoint l'ensemble de Floating Points au Hollywood Bowl pour interpréter *Promises*, l'album collaboratif avec le
 regretté Pharoah Sanders, et a joué avec un orchestre de 60 musiciens pour BBC Radio 3's Unclassified.
 
@@ -59,7 +59,7 @@ restorative ». Il est également diffusé en rotation sur BBC 6Music.
 Son deuxième album, ***stillness, softness…*** (Houndstooth, 2023), cartographie un paysage émotionnel plus intime,
 explorant nos parts d'ombre et la nécessité de s'y réconcilier pour s'en libérer. Electronic Sound le décrit comme un «
 deeply enchanting patchwork ». Une version étendue, *stillness, softness… (extended dream transition)*, sort en mai
-2024, enrichie de remixes signés Claire Rousay, Joe Goddard (Hot Chip) et Kloxii Li.
+2024, enrichie de remixes signés Claire Rousay, **Joe Goddard** (**Hot Chip**) et Kloxii Li.
 
 En décembre 2025, elle publie ***Studies on a River*** sur le label Good Morning Tapes, une commande de la Serpentine
 Gallery pour leur publication *Serpentine Reader*, inspirée par un essai de Hana Pera Aoake sur l'écoute des rivières et

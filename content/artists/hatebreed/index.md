@@ -110,7 +110,7 @@ lastUpdate:
 ---
 
 Hatebreed est un groupe de metalcore et thrash/groove metal américain, originaire de Bridgeport et New Haven, dans le
-Connecticut, fondé en novembre 1994 par le chanteur Jamey Jasta avec Dave Russo, Larry Dwyer et Chris Beattie. Le nom
+Connecticut, fondé en novembre 1994 par le chanteur **Jamey Jasta** avec **Dave Russo**, Larry Dwyer et **Chris Beattie**. Le nom
 du groupe est emprunté au titre « Hatebreeders » des Misfits.
 
 ###### Un retour aux fondamentaux du hardcore

@@ -21,7 +21,7 @@ lastUpdate:
   bandsintown: 2026-07-27
 ---
 
-Vanessa Chantal Paradis, née le 22 décembre 1972, est une chanteuse, mannequin et actrice française qui grandit à
+Vanessa Chantal **Paradis**, née le 22 décembre 1972, est une chanteuse, mannequin et actrice française qui grandit à
 Saint-Maur-des-Fossés, en banlieue parisienne. Élève de danse et de piano, elle se fait remarquer le 3 mai 1980 en
 interprétant Émilie Jolie dans l'émission L'École des Fans.
 

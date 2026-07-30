@@ -24,7 +24,7 @@ lastUpdate:
 ---
 
 Abbath est un groupe de black metal norvégien fondé en 2015 par Olve Eikemo, connu sous son pseudonyme de scène
-Abbath Doom Occulta. Natif de Bergen, en Norvège, cet musicien hors norme est avant tout reconnu comme l'un des
+**Abbath Doom Occulta**. Natif de Bergen, en Norvège, cet musicien hors norme est avant tout reconnu comme l'un des
 fondateurs et le visage emblématique d'Immortal, groupe avec lequel il a forgé sa légende dans les années 1990
 et 2000. Après une séparation conflictuelle d'avec ce groupe historique en 2015, il décide de repartir de zéro
 sous son propre nom, entouré de nouveaux complices, pour poursuivre son exploration du black metal arctique qui

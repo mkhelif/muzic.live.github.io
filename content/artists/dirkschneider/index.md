@@ -23,7 +23,7 @@ lastUpdate:
   deezer-lookup: 2026-07-27
 ---
 
-Udo Dirkschneider, né le 6 avril 1952 à Wuppertal et installé très tôt à Solingen, en Allemagne, est l'une des voix les
+**Udo Dirkschneider**, né le 6 avril 1952 à Wuppertal et installé très tôt à Solingen, en Allemagne, est l'une des voix les
 plus reconnaissables du heavy metal mondial, indissociable de son timbre rauque et de son phrasé aboyé devenus une
 signature du genre.
 

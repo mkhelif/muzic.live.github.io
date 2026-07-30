@@ -45,8 +45,8 @@ lastUpdate:
 ---
 
 The Sugarhill Gang est un groupe américain de hip-hop old-school formé à Englewood, dans le New Jersey, en 1979. Ses
-trois membres originaux, Henry « Big Bank Hank » Jackson, Michael « Wonder Mike » Wright et Guy « Master Gee » O'Brien,
-sont réunis par la productrice Sylvia Robinson, fondatrice avec son mari Joe Robinson du label Sugar Hill Records.
+trois membres originaux, Henry « **Big Bank Hank** » Jackson, Michael « **Wonder Mike** » Wright et Guy « **Master Gee** » O'Brien,
+sont réunis par la productrice Sylvia Robinson, fondatrice avec son mari Joe Robinson du label **Sugar** Hill Records.
 
 ###### Rapper's Delight, premier tube du rap
 

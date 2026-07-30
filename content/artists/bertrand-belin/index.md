@@ -29,7 +29,7 @@ Il y a des artistes qu'on écoute. Et il y a des artistes qu'on habite. **Bertra
 catégorie — celle des créateurs dont l'univers est si dense, si singulier, si irréductible à un genre ou à une
 étiquette, qu'on n'en ressort jamais tout à fait indemne. Chanteur, guitariste, compositeur, écrivain, acteur, il
 traverse depuis plus de vingt ans le paysage de la chanson française avec une discrétion inversement proportionnelle à
-la profondeur de son œuvre. Anton Newcombe (The Brian Jonestown Massacre) l'a qualifié de « Nick Cave français ». Les
+la profondeur de son œuvre. **Anton Newcombe** (The Brian Jonestown Massacre) l'a qualifié de « **Nick Cave** français ». Les
 médias le comparent volontiers à Alain Bashung. Lui se contente de chanter, d'écrire et de poser sur le monde un regard
 que personne d'autre ne pose tout à fait de la même façon.
 

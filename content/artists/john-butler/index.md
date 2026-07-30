@@ -33,7 +33,7 @@ virtuosité qui laisse les spectateurs bouche bée et les guitaristes du monde e
 morceau, devenu viral bien avant que le mot n'existe, résume tout ce qu'est John Butler : un artiste qui transforme la
 guitare en un univers entier — organique, hypnotique, transcendant — et qui a bâti, depuis les trottoirs de Fremantle en
 Australie-Occidentale, l'une des carrières indépendantes les plus impressionnantes de l'hémisphère sud. Sept albums
-studio avec le John Butler Trio, trois numéros un consécutifs dans les charts australiens, un premier album solo en
+studio avec le **John Butler Trio**, trois numéros un consécutifs dans les charts australiens, un premier album solo en
 2025, et une philosophie qui n'a jamais changé : la musique d'abord, l'industrie ensuite.
 
 ###### De la Californie à Pinjarra : un enfant de nulle part

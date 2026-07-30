@@ -24,7 +24,7 @@ lastUpdate:
 ---
 
 Nino Baliardo incarne la continuation d'une dynastie musicale qui a marqué l'histoire de la rumba flamenca : celle des
-Gipsy Kings. Fils du légendaire Diego Baliardo, guitariste emblématique du groupe, Nino perpétue l'héritage familial
+Gipsy Kings. Fils du légendaire **Diego** Baliardo, guitariste emblématique du groupe, Nino perpétue l'héritage familial
 tout en lui insufflant sa propre sensibilité artistique. Son parcours musical s'inscrit dans une tradition gitane
 transmise de génération en génération, où la guitare devient le vecteur d'une culture riche et passionnée.
 

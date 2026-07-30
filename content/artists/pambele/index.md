@@ -63,7 +63,7 @@ Pambelé est un groupe de sept musiciens fondé en 2019 à Lyon, mêlant la tran
 couleurs psychédéliques héritées des années soixante. Les percussions traditionnelles de la côte nord de la Colombie
 s'y entrelacent avec des mélodies de saxophone ténor et une guitare électrique syncopée.
 
-Le groupe est mené par la chanteuse Yomira John, forte d'une carrière internationale de vingt ans qui l'a menée à
+Le groupe est mené par la chanteuse **Yomira John**, forte d'une carrière internationale de vingt ans qui l'a menée à
 collaborer avec des artistes tels que Ricky Martin, Luis Miguel ou Gilberto Santa Rosa. Ses membres viennent de
 Colombie, du Venezuela, d'Italie et de France.
 

@@ -61,8 +61,8 @@ lastUpdate:
 
 Trois gamins de Bois-d'Arcy, dans les Yvelines, qui se retrouvent dans une cour d'école à sept ans, passionnés de foot
 et de rock — voilà le point de départ d'une aventure qui allait devenir l'une des plus belles pages du rock français des
-années 2000. Jérôme Coudanne au chant et à la guitare, Richard Magnac à la basse, Julien Bonnet à la batterie : les
-membres de Deportivo se sont rencontrés à l'âge de sept ans et ont depuis partagé leur passion pour la musique et le
+années 2000. **Jérôme Coudanne** au chant et à la guitare, **Richard Magnac** à la basse, **Julien Bonnet** à la batterie : les
+membres de **Deportivo** se sont rencontrés à l'âge de sept ans et ont depuis partagé leur passion pour la musique et le
 football.
 
 ###### Une naissance dans les starting-blocks

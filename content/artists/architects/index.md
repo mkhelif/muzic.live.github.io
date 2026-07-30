@@ -79,7 +79,7 @@ lastUpdate:
 ---
 
 Architects est un groupe de metalcore britannique originaire de Brighton, fondé en 2004 par les frères jumeaux Dan et
-Tom Searle. Initialement appelé Counting the Days, le groupe prend rapidement son nom définitif et s'impose comme l'une
+**Tom Searle**. Initialement appelé Counting the Days, le groupe prend rapidement son nom définitif et s'impose comme l'une
 des formations les plus importantes de la scène metalcore britannique des deux décennies suivantes.
 
 ###### Les débuts et l'émergence

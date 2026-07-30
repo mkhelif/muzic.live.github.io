@@ -30,5 +30,5 @@ contemporain.
 
 La musique de Rosaly, teintée de mélancolie et de passion, explore les thèmes de l'amour, du désir et de la
 quête de connexion, avec des textes rédigés aussi bien en français qu'en anglais. Le groupe a déjà été remarqué
-par des scènes de renom comme L'Autre Canal de Nancy ou les festivals Décibulles, Guitare en Scène et Pinot
+par des scènes de renom comme L'Autre Canal de Nancy ou les festivals Décibulles, **Guitare en Scène** et Pinot
 and Rock, confirmant l'attrait d'un projet qui allie ambition artistique et sincérité dans l'expression.

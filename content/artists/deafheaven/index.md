@@ -83,8 +83,8 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Deafheaven est un groupe américain fondé à San Francisco en 2010 par le chanteur George Clarke et le
-guitariste Kerry McCoy. Partis d'une formation à deux pour enregistrer une démo autoproduite, ils
+Deafheaven est un groupe américain fondé à San Francisco en 2010 par le chanteur **George Clarke** et le
+guitariste **Kerry McCoy**. Partis d'une formation à deux pour enregistrer une démo autoproduite, ils
 recrutent rapidement de nouveaux membres avant de signer chez Deathwish Inc. et de publier leur premier
 album *Roads to Judah* en 2011. Le groupe popularise alors un style inédit — mélange de black metal,
 de shoegaze et de post-rock — que la presse anglophone baptise « blackgaze ».

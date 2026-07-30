@@ -60,8 +60,7 @@ rencontrent Eric puis Fanch, dans les bars de Brest. Ils font leur premier conce
 improvisée, typique de l'esprit rock, pose déjà les fondations d'un groupe qui privilégiera toujours l'authenticité et
 la spontanéité.
 
-Matmatah est fondé en 1995 à Brest, en Bretagne, composé à l'origine de Tristan Nihouarn, Eric Digaire, Jean-François
-Paillard et Cédric Floc'h. Le groupe se forme alors que Tristan Nihouarn était encore étudiant en mathématiques
+Matmatah est fondé en 1995 à Brest, en Bretagne, composé à l'origine de **Tristan Nihouarn**, Eric Digaire, **Jean-François Paillard** et **Cédric Floc'h**. Le groupe se forme alors que **Tristan Nihouarn** était encore étudiant en mathématiques
 supérieures, témoignant de cette période de la vie où tout semble possible et où les choix de carrière ne sont pas
 encore figés.
 

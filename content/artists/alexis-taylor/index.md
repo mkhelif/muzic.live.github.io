@@ -27,7 +27,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Alexis Taylor est un musicien britannique né le 20 avril 1980, figure centrale du groupe londonien Hot Chip dont il
+Alexis Taylor est un musicien britannique né le 20 avril 1980, figure centrale du groupe londonien **Hot Chip** dont il
 est le chanteur principal et l'un des fondateurs. Mais derrière cette identité collective, Taylor entretient depuis
 2008 une carrière solo discrète et exigeante qui révèle les facettes les plus personnelles et expérimentales de son
 univers musical.

@@ -16,7 +16,7 @@ socials:
 ---
 
 Peu de duos instrumentaux possèdent une signature sonore aussi immédiatement identifiable. Quand résonnent ces guitares
-espagnoles qui s'affrontent et fusionnent simultanément, on sait instantanément qu'on écoute Rodrigo y Gabriela. Avec
+espagnoles qui s'affrontent et fusionnent simultanément, on sait instantanément qu'on écoute **Rodrigo y Gabriela**. Avec
 In Between Thoughts… A New World, sorti en avril 2023 sur ATO Records, le duo mexicain basé à Dublin continue
 d'explorer les confins de leur genre tout en investissant leur musique de dimensions métaphysiques inédites.
 

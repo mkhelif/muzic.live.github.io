@@ -24,7 +24,7 @@ lastUpdate:
 ---
 
 Chest est un groupe de post-punk et de noise rock parisien composé de cinq amis qui proposent leur propre vision de la
-scène musicale qu'ils affectionnent, nourris par les artistes croisés au Supersonic Club, à Bastille, et ailleurs sur la
+scène musicale qu'ils affectionnent, nourris par les artistes croisés au Supersonic Club, à **Bastille**, et ailleurs sur la
 scène parisienne.
 
 Le groupe joue un post-punk ravageur aux sonorités parfois extravagantes et inspirées, incorporant des éléments

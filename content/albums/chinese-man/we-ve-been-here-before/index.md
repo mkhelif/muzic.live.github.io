@@ -16,7 +16,7 @@ socials:
   qobuz: "fxe4ogti451jb"
 ---
 
-Six ans de silence. Six ans pour que les Aixois de Chinese Man digèrent leur propre légende, celle qui depuis 2004 les a
+Six ans de silence. Six ans pour que les Aixois de **Chinese Man** digèrent leur propre légende, celle qui depuis 2004 les a
 érigés en parrains du trip-hop hexagonal. We've Been Here Before n'est pas un retour – c'est une révolution circulaire,
 un ouroboros musical où la fin rejoint le commencement avec une maîtrise confondante.
 

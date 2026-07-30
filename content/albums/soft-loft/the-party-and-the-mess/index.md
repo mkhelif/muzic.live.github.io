@@ -13,7 +13,7 @@ socials:
   tidal: "328542561"
 ---
 
-C'est avec une délicatesse rare que le collectif suisse Soft Loft a dévoilé son premier album studio "The Party and the
+C'est avec une délicatesse rare que le collectif suisse **Soft Loft** a dévoilé son premier album studio "The Party and the
 Mess" le 22 mars 2024. Avec ses 12 morceaux pour 46 minutes d'écoute, cet opus inaugural marque l'arrivée fracassante
 d'une nouvelle voix dans le paysage indie folk international.
 

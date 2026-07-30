@@ -24,7 +24,7 @@ lastUpdate:
 ---
 
 Arnaud Rebotini joue 120 BPM est une performance live exceptionnelle dans laquelle le compositeur et musicien
-électronique Arnaud Rebotini interprète en direct la bande originale du film *120 Battements par Minute* (2017) de Robin
+électronique **Arnaud Rebotini** interprète en direct la bande originale du film *120 Battements par Minute* (2017) de Robin
 Campillo.
 
 Ce projet singulier naît de la rencontre entre une musique primée et le désir de lui offrir une seconde vie sur scène.
@@ -35,5 +35,5 @@ Up-Paris au début de l'épidémie du sida.
 Sur scène, Rebotini transpose ce travail en performance, faisant résonner la musique dans un contexte concert, séparée
 de l'image mais portant en elle toute la charge émotionnelle du film. Le résultat est une expérience immersive qui
 fonctionne autant comme un hommage que comme une démonstration de la puissance autonome de la musique électronique.
-Cette démarche illustre la capacité d'Arnaud Rebotini à habiter pleinement les deux espaces — la salle de cinéma et la
+Cette démarche illustre la capacité d'**Arnaud Rebotini** à habiter pleinement les deux espaces — la salle de cinéma et la
 scène — avec la même exigence artistique.

@@ -16,7 +16,7 @@ socials:
   tidal: "500753046"
 ---
 
-On attendait un disque de Gorillaz ; on reçoit une veillée funèbre cosmopolite. Avec **The Mountain**, neuvième album
+On attendait un disque de **Gorillaz** ; on reçoit une veillée funèbre cosmopolite. Avec **The Mountain**, neuvième album
 studio du groupe virtuel de **Damon Albarn** et **Jamie Hewlett**, sorti le 27 février 2026 sur leur label Kong, le duo
 signe sans doute son œuvre la plus grave et la plus ambitieuse — un disque hanté, traversé par la mort, le deuil et
 l'au-delà, que les deux créateurs ont écrit après avoir chacun perdu des proches durant la production. Le résultat est

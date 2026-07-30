@@ -27,7 +27,7 @@ lastUpdate:
 ---
 
 Née le 15 juillet 1992, Flore Benguigui est une autrice-compositrice-interprète et productrice française, formée au
-conservatoire de jazz. En 2015, elle rejoint le groupe L'Impératrice comme chanteuse, une collaboration qui dure près
+conservatoire de jazz. En 2015, elle rejoint le groupe **L'Impératrice** comme chanteuse, une collaboration qui dure près
 d'une décennie.
 
 ###### Odyssée et l'essor international de L'Impératrice

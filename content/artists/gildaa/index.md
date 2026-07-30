@@ -27,5 +27,5 @@ d'une chanteuse brésilienne et d'un percussionniste français, passée par le C
 Dramatique, elle développe une performance scénique hybride où se croisent clown, diva et cabaret.
 
 Son répertoire fusionne soul, baile funk, jazz et RnB dans un voyage sensuel et extravagant reliant la France au Brésil.
-Lauréate des iNOUïS du Printemps de Bourges 2025, Gildaa s'est imposée comme l'une des révélations les plus singulières
+Lauréate des iNOUïS du **Printemps de Bourges** 2025, Gildaa s'est imposée comme l'une des révélations les plus singulières
 de la scène française, mêlant théâtralité et liberté.

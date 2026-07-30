@@ -28,7 +28,7 @@ Portland, dans l'Oregon. Depuis le début des années 2000, Moggridge développe
 acoustique intimiste et profondément mélancolique, quelque part entre le dark folk, la folk acoustique
 traditionnelle et l'atmosphère des cercles les plus contemplatifs du metal doom. Discret mais hautement
 respecté dans les milieux de la musique underground, il est également connu pour ses collaborations étroites
-avec le groupe de doom métal Bell Witch.
+avec le groupe de doom métal **Bell Witch**.
 
 ###### Un musicien aux racines metal
 

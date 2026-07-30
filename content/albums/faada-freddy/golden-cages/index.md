@@ -16,7 +16,7 @@ socials:
   qobuz: "za6oyoh5ah6ia"
 ---
 
-Neuf ans après Gospel Journey, Faada Freddy nous revient avec Golden Cages, un album solaire qui confirme son statut
+Neuf ans après Gospel **Journey**, **Faada Freddy** nous revient avec Golden Cages, un album solaire qui confirme son statut
 d'artiste essentiel de la scène world music contemporaine. Le chanteur sénégalais, figure emblématique du groupe Daara
 J, livre ici son opus solo le plus abouti et le plus lumineux, une œuvre qui transcende les frontières géographiques et
 stylistiques avec une grâce désarmante.
@@ -26,7 +26,7 @@ moderne, funk chaleureux et touches de hip-hop conscient. La production, léché
 respirer chaque instrument et met en valeur la richesse des arrangements. Les cuivres pétillants, les guitares feutrées,
 les percussions enivrantes et les synthés délicats tissent un écrin sonore d'une élégance rare.
 
-La voix de Faada Freddy est au centre de ce joyau musical. Chaleureuse, caressante, parfois incisive, elle navigue avec
+La voix de **Faada Freddy** est au centre de ce joyau musical. Chaleureuse, caressante, parfois incisive, elle navigue avec
 aisance entre le wolof, le français et l'anglais, portant des mélodies irrésistibles qui restent en tête bien après
 l'écoute. Son timbre velouté rappelle les grands noms de la soul tout en conservant cette authenticité africaine qui
 fait sa signature.
@@ -44,7 +44,7 @@ Ce qui frappe particulièrement dans Golden Cages, c'est sa capacité à rester 
 l'exigence artistique. L'album célèbre la joie et la positivité sans nier les luttes et les questionnements. Il y a dans
 cette musique une énergie vitale, une célébration de la vie et de la diversité culturelle qui fait un bien fou.
 
-Avec Golden Cages, Faada Freddy signe un album magistral qui brille par son équilibre parfait entre tradition et
+Avec Golden Cages, **Faada Freddy** signe un album magistral qui brille par son équilibre parfait entre tradition et
 modernité, entre engagement et légèreté, entre racines africaines et ouverture au monde. C'est une œuvre ensoleillée et
 profonde, réjouissante et réfléchie, qui confirme le talent exceptionnel de cet artiste trop rare. Un album essentiel
 qui prouve que la world music peut être à la fois exigeante, accessible et profondément émouvante. Une pure merveille.

@@ -23,9 +23,9 @@ lastUpdate:
 
 ¥ØU$UK€ ¥UK1MAT$U (Yousuke Yukimatsu) est un DJ et producteur japonais originaire d'Osaka, dont le parcours personnel
 autant qu'artistique en fait l'une des figures les plus singulières de la scène électronique underground actuelle.
-Élevé au son du rock classique par un père passionné de Deep Purple, il traverse successivement une adolescence
+Élevé au son du rock classique par un père passionné de **Deep Purple**, il traverse successivement une adolescence
 marquée par la pop, puis le hard rock et le metal, avant de découvrir le rock alternatif de Sonic Youth et
-l'électronique de The Prodigy au lycée.
+l'électronique de **The Prodigy** au lycée.
 
 ###### Des débuts dans l'underground d'Osaka
 

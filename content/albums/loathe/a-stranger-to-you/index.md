@@ -16,18 +16,18 @@ socials:
   tidal: "543311427"
 ---
 
-Formé à Liverpool en 2014, Loathe s'est imposé au fil des années comme l'un des groupes les plus difficiles à ranger
+Formé à Liverpool en 2014, **Loathe** s'est imposé au fil des années comme l'un des groupes les plus difficiles à ranger
 dans une case du metal britannique, un quatuor composé de Kadeem France (chant), Erik Bickerstaffe (guitare, chant),
 Feisal El-Khazragi (basse) et Sean Radcliffe (batterie), dont la musique puise autant dans le metalcore et le nu metal
 que dans le shoegaze, le metal progressif et l'industriel. Nommé aux Heavy Music Awards et aux Metal Hammer Golden Gods
-dès 2018, le groupe avait déjà été identifié par le magazine Revolver comme l'un des artistes les plus susceptibles de
+dès 2018, le groupe avait déjà été identifié par le magazine **Revolver** comme l'un des artistes les plus susceptibles de
 percer dans le mainstream.
 
 C'est toutefois l'album *I Let It In and It Took Everything*, sorti en 2020 juste avant la pandémie, qui a fait basculer
-Loathe dans une autre dimension : un disque lourd, shoegaze, poignant, comparé sans relâche à Deftones, et qui s'est
+**Loathe** dans une autre dimension : un disque lourd, shoegaze, poignant, comparé sans relâche à **Deftones**, et qui s'est
 retrouvé dans une multitude de classements de fin d'année à travers la presse spécialisée. La reprise de leur titre *Is
-It Really You?* avec Sleep Token a ensuite élargi leur audience bien au-delà du cercle metal habituel. Sur scène, la
-dynamique n'a fait que s'accélérer : après avoir accompagné Spiritbox sur leur tournée nord-américaine de 2024, Loathe a
+It Really You?* avec **Sleep** Token a ensuite élargi leur audience bien au-delà du cercle metal habituel. Sur scène, la
+dynamique n'a fait que s'accélérer : après avoir accompagné **Spiritbox** sur leur tournée nord-américaine de 2024, **Loathe** a
 rempli à lui seul une tournée américaine de 30 000 billets en 2025.
 
 ###### La genèse d'*A Stranger To You*

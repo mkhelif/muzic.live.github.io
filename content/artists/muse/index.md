@@ -41,7 +41,7 @@ lastUpdate:
 ---
 
 Muse est un groupe de rock britannique formé en 1994 à Teignmouth, dans le Devon, autour du chanteur, guitariste et
-claviériste Matt Bellamy, du bassiste Chris Wolstenholme et du batteur Dominic Howard. Depuis leur premier album, «
+claviériste **Matt Bellamy**, du bassiste **Chris Wolstenholme** et du batteur **Dominic Howard**. Depuis leur premier album, «
 Showbiz » (1999), le trio a bâti une carrière hors norme, mêlant rock progressif, électronique et grandiloquence
 symphonique, pour devenir l'un des groupes de stade les plus spectaculaires de sa génération.
 

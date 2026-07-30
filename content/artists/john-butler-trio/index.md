@@ -105,7 +105,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-John Butler Trio est un groupe australien de roots rock mené par le guitariste et chanteur John Butler, considéré
+John Butler Trio est un groupe australien de roots rock mené par le guitariste et chanteur **John Butler**, considéré
 comme la principale contribution australienne au mouvement jam band. Sa fusion de reggae, folk engagé, blues, pop et
 soul acoustique domine les classements régionaux dans les années 2000 et 2010.
 

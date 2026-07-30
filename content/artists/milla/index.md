@@ -43,11 +43,11 @@ la chanson se fait naturellement, comme une évidence longtemps contenue.
 Depuis 2019, Milla collabore et compose avec des figures de la scène romande : Marc Aymon, Jérémie Kisling et le duo
 Aliose. Cette rencontre avec Marc Aymon, en particulier, se révèle déterminante — une collaboration de plus de quatre
 ans qui évolue en un véritable échange artistique. En décembre 2023, elle est sélectionnée parmi les neuf artistes du
-programme Émergences musicales à Montreux, aux côtés d'Aliose et sous le regard bienveillant de Francis Cabrel — une
+programme Émergences musicales à Montreux, aux côtés d'Aliose et sous le regard bienveillant de **Francis Cabrel** — une
 reconnaissance qui confirme la solidité de son écriture et la singularité de son univers.
 
 En mars 2024, elle publie *Courbes*, un premier EP qui frappe par sa maturité. Enregistré à Paris avec le réalisateur
-Frédéric Jaillard — connu pour son travail avec Thomas Dutronc, Claire Keim ou Feu Chatterton — le disque tisse des
+Frédéric Jaillard — connu pour son travail avec **Thomas Dutronc**, Claire Keim ou Feu Chatterton — le disque tisse des
 mélodies acoustiques délicates rehaussées de touches électroniques subtiles. Le résultat est d'une élégance rare : des
 chansons qui bercent mais qui piquent, portées par une voix à la fois fragile et assurée, capable de transformer un
 murmure en paysage intérieur. L'EP lui ouvre les portes de grands festivals romands — Tohu Bohu, Palp, Label Suisse —,

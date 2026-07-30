@@ -26,8 +26,8 @@ lastUpdate:
 ---
 
 Holder est un groupe de hardcore à tendance screamo originaire du Massachusetts occidental, formé en 2024. Rapidement
-remarqué avec son EP éponyme, le groupe partage la scène avec des formations comme Static Dress, Balmora, February ou
-Skycamefalling, s'imposant comme l'un des noms les plus commentés de la nouvelle vague hardcore américaine.
+remarqué avec son EP éponyme, le groupe partage la scène avec des formations comme **Static Dress**, Balmora, February ou
+**Skycamefalling**, s'imposant comme l'un des noms les plus commentés de la nouvelle vague hardcore américaine.
 
 ###### Un metalcore mélodique et moins policé
 

@@ -28,7 +28,7 @@ la France. Ce déracinement précoce laissera une empreinte durable dans son rap
 artistique : entre les deux rives de la Méditerranée, Vernis Rouge construira une œuvre qui porte en elle cette dualité,
 cette tension entre les origines et l'exil.
 
-Sa mère lui transmet très tôt le goût de la chanson française : Barbara, Dalida, Georges Brassens, Véronique Sanson
+Sa mère lui transmet très tôt le goût de la chanson française : Barbara, Dalida, Georges Brassens, **Véronique Sanson**
 deviennent les premières bandes-son de son imaginaire musical. Elle débute le piano au conservatoire dès l'âge de 6 ans,
 avant d'apprendre seule la guitare, puis d'explorer d'autres instruments comme le ukulélé, le cajón et le tongue drum.
 C'est pendant ses années de classe préparatoire qu'une évidence s'impose : la musique n'est pas seulement une pratique,

@@ -45,8 +45,8 @@ lastUpdate:
   bandsintown: 2026-07-27
 ---
 
-Thousand Below est un groupe de post-hardcore américain originaire de San Diego, en Californie, formé discrètement en
-2016 par le chanteur James Deberg après son départ du groupe Outlands.
+Thousand Below est un groupe de post-hardcore américain originaire de San **Diego**, en Californie, formé discrètement en
+2016 par le chanteur **James Deberg** après son départ du groupe Outlands.
 
 ###### Une formation par affinités
 

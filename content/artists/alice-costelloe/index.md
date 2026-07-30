@@ -28,7 +28,7 @@ groupe shoegaze Big Deal et pour avoir été bassiste live du groupe Superfood. 
 mois de septembre 2023, après plusieurs années passées à accompagner d'autres artistes.
 
 Basée à Londres, elle développe un univers artistique qui marie sensibilité art-pop et écriture introspective, porté par
-une texture organique. Sa musique est régulièrement rapprochée de celle d'artistes comme Cate Le Bon ou Feist, avec qui
+une texture organique. Sa musique est régulièrement rapprochée de celle d'artistes comme **Cate Le Bon** ou Feist, avec qui
 elle partage un goût pour les arrangements sophistiqués et une certaine économie de moyens.
 
 ###### Un nouveau chapitre en solo

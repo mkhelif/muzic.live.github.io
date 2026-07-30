@@ -12,7 +12,7 @@ socials:
 ---
 
 Il y a des disques qui poussent comme des plantes têtues entre les fissures du bitume. **Suffit juste d'une seconde**,
-sorti le 10 octobre 2025 chez Enrage Production, en fait partie. Cachemire y livre un album de rock français
+sorti le 10 octobre 2025 chez Enrage Production, en fait partie. **Cachemire** y livre un album de rock français
 viscéral, urgent, poreux à la rage de l'époque, qui rappelle pourquoi la langue française reste l'une des plus belles
 machines à rock'n'roll du monde — quand on accepte de ne pas la mettre sous cloche.
 

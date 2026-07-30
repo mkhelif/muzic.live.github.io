@@ -28,7 +28,7 @@ Adé, de son vrai nom Adélaïde Chabannes de Balsac, est une artiste française
 compositrice et musicienne, elle s'est d'abord fait connaître comme co-fondatrice du groupe Thérapie Taxi avant de
 s'imposer comme une voix singulière de la nouvelle scène française, à mi-chemin entre folk, country et rock.
 
-À l'âge de 17 ans, Adé cofonde Thérapie Taxi avec Raphaël Faget-Zaoui, un groupe qui deviendra rapidement l'un des actes
+À l'âge de 17 ans, Adé cofonde Thérapie Taxi avec Raphaël Faget-**Zaoui**, un groupe qui deviendra rapidement l'un des actes
 pop-rock français les plus en vue de la décennie 2010. Avec leurs singles accrocheurs et leur énergie de scène
 communicative, Thérapie Taxi accumule une base de fans fidèles et enchaîne les premières parties et les festivals. Mais
 en 2021, après huit années d'aventure commune, le groupe se sépare, ouvrant la voie à un nouveau chapitre pour Adé.

@@ -53,7 +53,7 @@ univers musical unique qui mêle la complexité technique du progressif, la puis
 sensibilité mélodique qui transcende les frontières du genre. Leur nom, emprunté à un constructeur automobile de luxe
 britannique, annonce d'emblée leur ambition de créer une musique raffinée et élégante.
 
-Reconnus pour leurs compositions ambitieuses, leurs arrangements orchestraux et la voix exceptionnelle d'Andy Kuntz,
+Reconnus pour leurs compositions ambitieuses, leurs arrangements orchestraux et la voix exceptionnelle d'**Andy Kuntz**,
 Vanden Plas a construit une discographie cohérente qui témoigne d'une vision artistique constante et exigeante. Leur
 approche du metal progressif privilégie l'émotion et la narration sur la simple démonstration technique, bien que leur
 maîtrise instrumentale demeure impressionnante. Cette philosophie les distingue dans un genre parfois accusé de

@@ -25,7 +25,7 @@ lastUpdate:
 ---
 
 Assassin est un groupe de thrash metal allemand fondé vers 1985 à Düsseldorf, en Allemagne de l'Ouest. Comptant parmi
-les pionniers du thrash metal germanique aux côtés de Destruction, Kreator et Sodom, le groupe développe un style direct
+les pionniers du thrash metal germanique aux côtés de Destruction, **Kreator** et Sodom, le groupe développe un style direct
 et agressif dans la droite ligne des formations américaines de l'époque, tout en y apportant une brutalité toute
 teutonne.
 

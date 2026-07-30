@@ -27,7 +27,7 @@ chanson française ne sont pas deux mondes séparés, mais un seul et même espa
 
 Son pseudonyme, « Styleto », est directement inspiré de sa chaîne YouTube « Style tonic », qu'elle crée en 2013. D'abord
 connue pour ses vidéos de mode et de style, c'est par la musique qu'elle conquiert un public plus large, notamment grâce
-à une reprise touchante de « Gaffe aux autres » de Ben Mazué en 2021, qui révèle une voix singulière et une sensibilité
+à une reprise touchante de « Gaffe aux autres » de **Ben Mazué** en 2021, qui révèle une voix singulière et une sensibilité
 à fleur de peau.
 
 ###### Une artiste indépendante

@@ -82,8 +82,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-A Perfect Circle est un groupe de rock américain fondé en 1999 à Los Angeles, Californie, par le guitariste Billy
-Howerdel et le chanteur Maynard James Keenan, également connu comme frontman de Tool. Supergroupe au sens le plus noble
+A Perfect Circle est un groupe de rock américain fondé en 1999 à Los Angeles, Californie, par le guitariste **Billy Howerdel** et le chanteur **Maynard James Keenan**, également connu comme frontman de Tool. Supergroupe au sens le plus noble
 du terme, A Perfect Circle réunit des musiciens de premier plan autour d'une vision artistique sombre, sophistiquée et
 profondément émotionnelle.
 

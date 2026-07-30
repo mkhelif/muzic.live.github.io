@@ -27,4 +27,4 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Rallye est un projet de la scène musicale française, programmé à Musilac 2026.
+Rallye est un projet de la scène musicale française, programmé à **Musilac** 2026.

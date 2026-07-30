@@ -33,7 +33,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Polo & Pan est un duo français composé de Paul Armand-Delille, alias Polocorp ou Polo, et d'Alexandre Grynszpan, alias
+Polo & Pan est un duo français composé de **Paul Armand-Delille**, alias Polocorp ou Polo, et d'**Alexandre Grynszpan**, alias
 Peter Pan ou Pan, qui se rencontrent en 2012 au bar parisien Le Baron, où ils officient chacun de leur côté.
 
 ###### Deux parcours qui se croisent

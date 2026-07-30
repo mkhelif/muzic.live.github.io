@@ -33,8 +33,8 @@ Boss** (guitare) et **Marius Meier** (basse, chœurs), elles trouvent leur ident
 Leur musique marie pop douce, indie rock et touches folk dans une veine mélancolique qui célèbre la beauté
 du quotidien. Le groupe se fait remarquer avec l'album **In Case You Still Get Lonely** (octobre 2023), suivi de
 l'EP **The Party and the Mess** (mars 2024), qui lui valent les éloges de BBC Radio 6 Music et de KEXP ainsi que
-des tournées à guichets fermés en Europe, dont un passage remarqué au Montreux Jazz Festival.
+des tournées à guichets fermés en Europe, dont un passage remarqué au **Montreux Jazz Festival**.
 
 Porté par les singles **F U Want It** et **Caught**, le second album du groupe, **Throw A Dice**, explore
 l'incertitude de grandir et la peur du changement ; enregistré en France et mixé par Craig Silvey (Arcade Fire,
-The National, Florence + The Machine), il doit paraître le 4 septembre 2026 chez [PIAS] Recordings.
+The National, **Florence + The Machine**), il doit paraître le 4 septembre 2026 chez [PIAS] Recordings.

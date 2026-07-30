@@ -29,8 +29,8 @@ lastUpdate:
 Agnostic Front est un groupe américain de hardcore punk fondé en 1980 à New York, pionnier et emblème de la scène New
 York Hardcore (NYHC) dont il reste l'un des représentants les plus respectés et les plus durables.
 
-Fondé à Manhattan par le guitariste Vincent « Vinnie Stigma » Capuccio, le groupe trouve son identité définitive avec
-l'arrivée du chanteur Roger Miret en 1982. Ensemble, ce duo fondateur forge un son brutal, direct et résolument ancré
+Fondé à Manhattan par le guitariste Vincent « **Vinnie Stigma** » Capuccio, le groupe trouve son identité définitive avec
+l'arrivée du chanteur **Roger Miret** en 1982. Ensemble, ce duo fondateur forge un son brutal, direct et résolument ancré
 dans la réalité urbaine de la ville — un son qui va définir le hardcore new-yorkais pour les décennies à venir.
 
 ###### Un album fondateur

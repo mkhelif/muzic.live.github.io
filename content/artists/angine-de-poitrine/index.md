@@ -41,8 +41,8 @@ lastUpdate:
 ---
 
 Angine de Poitrine est un duo de rock expérimental originaire de Chicoutimi, dans la région du Saguenay au Québec, formé
-en 2019. Le groupe est composé de deux musiciens anonymes se produisant sous les pseudonymes de Khn de Poitrine
-(guitare, basse et instruments microtonaux) et Klek de Poitrine (batterie), qui jouent ensemble depuis l'âge de treize
+en 2019. Le groupe est composé de deux musiciens anonymes se produisant sous les pseudonymes de **Khn de Poitrine**
+(guitare, basse et instruments microtonaux) et **Klek de Poitrine** (batterie), qui jouent ensemble depuis l'âge de treize
 ans. Se décrivant eux-mêmes comme un « Orchestre Mantra-Rock Dada Pythago-Cubiste de voyageurs spatio-temporels », ils
 cultivent un anonymat radical, dissimulés derrière d'imposants masques en papier mâché évoquant des nasiques, vêtus de
 costumes à pois noirs et blancs.

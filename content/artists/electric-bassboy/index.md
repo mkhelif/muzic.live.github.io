@@ -21,7 +21,7 @@ lastUpdate:
   bandsintown-lookup: 2026-07-25
 ---
 
-Electric Bassboy est un projet DJ lancé par les membres du groupe allemand Electric Callboy, référence du crossover
+Electric Bassboy est un projet DJ lancé par les membres du groupe allemand **Electric Callboy**, référence du crossover
 metal/électro né en 2010 à Castrop-Rauxel sous le nom d'Eskimo Callboy avant de se renommer en 2022.
 
 ###### Un DJ set né du succès du groupe mère

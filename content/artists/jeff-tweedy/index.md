@@ -29,8 +29,8 @@ lastUpdate:
 Jeff Tweedy est un auteur-compositeur-interprète et guitariste américain né le 25 août 1967 à Belleville, dans
 l'Illinois — une petite ville ouvrière de la banlieue de Saint-Louis, Missouri, profondément ancrée dans l'Amérique du
 Midwest. Figure majeure du rock alternatif américain depuis plus de trois décennies, il est avant tout connu comme le
-leader, chanteur, guitariste et principal compositeur de Wilco, l'un des groupes les plus importants et les plus
-influents de la scène indépendante américaine. Mais résumer Jeff Tweedy à Wilco serait réducteur : l'homme est un
+leader, chanteur, guitariste et principal compositeur de **Wilco**, l'un des groupes les plus importants et les plus
+influents de la scène indépendante américaine. Mais résumer Jeff Tweedy à **Wilco** serait réducteur : l'homme est un
 artiste aux multiples facettes, dont l'œuvre — musicale et littéraire — dessine le portrait d'un créateur en perpétuel
 mouvement, habité par le doute, la curiosité et une honnêteté émotionnelle désarmante.
 

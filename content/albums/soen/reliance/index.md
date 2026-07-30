@@ -19,9 +19,9 @@ socials:
 
 Il y a quelque chose d'un peu vertigineux à écouter *Reliance*, le septième album de SOEN. Vertigineux, parce que tout y
 est impeccable. La production d'Alexander Backlund — enregistré et mixé aux Fascination Street Studios, masterisé par
-Tony Lindgren — sonne comme du métal taillé dans du cristal. La voix de Joel Ekelöf, dont le registre et la puissance
+Tony Lindgren — sonne comme du métal taillé dans du cristal. La voix de **Joel Ekelöf**, dont le registre et la puissance
 n'ont pas d'équivalent dans le genre, domine l'ensemble avec une autorité tranquille. La batterie de Martin Lopez —
-l'ancien d'Opeth, co-fondateur du groupe — pulse avec une précision organique qui rappelle pourquoi il est considéré
+l'ancien d'**Opeth**, co-fondateur du groupe — pulse avec une précision organique qui rappelle pourquoi il est considéré
 comme l'un des meilleurs de sa génération. Et pourtant. *Reliance* provoque aussi une légère inquiétude : celle d'un
 groupe si bien installé dans sa propre formule qu'il ne semble plus chercher à en sortir.
 

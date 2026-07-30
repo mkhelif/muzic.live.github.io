@@ -83,9 +83,9 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Formé en 2002 aux Pays-Bas par le guitariste Mark Jansen, ancien membre du groupe After Forever, Epica s'impose
+Formé en 2002 aux Pays-Bas par le guitariste **Mark Jansen**, ancien membre du groupe After Forever, Epica s'impose
 rapidement comme l'une des formations majeures du metal symphonique européen. La même année, le groupe recrute comme
-chanteuse Simone Simons, alors âgée de dix-sept ans, révélée au sein de la scène du fan-club d'After Forever.
+chanteuse **Simone Simons**, alors âgée de dix-sept ans, révélée au sein de la scène du fan-club d'After Forever.
 
 ###### Une voix devenue une référence du genre
 

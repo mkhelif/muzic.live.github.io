@@ -79,8 +79,8 @@ Acid Bath est un groupe américain de sludge metal fondé en 1991 à Houma, en L
 avant qu'une tragédie ne mette fin à son existence, le groupe a laissé une empreinte durable sur la scène metal extrême,
 élevé au rang de culte par une communauté de fans fidèles et passionnés.
 
-Né de la fusion de deux formations locales — Golgotha, avec le chanteur Dax Riggs, et Dark Karnival, comprenant le
-guitariste Sammy Pierre Duet et le bassiste Audie Pitre — Acid Bath développe un son qui mêle sludge, doom, death metal
+Né de la fusion de deux formations locales — Golgotha, avec le chanteur **Dax Riggs**, et Dark Karnival, comprenant le
+guitariste Sammy Pierre Duet et le bassiste **Audie Pitre** — Acid Bath développe un son qui mêle sludge, doom, death metal
 et blues sudiste dans une atmosphère psychédélique et viscérale unique en son genre.
 
 ###### Une discographie courte mais marquante

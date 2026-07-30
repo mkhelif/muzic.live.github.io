@@ -112,10 +112,9 @@ lastUpdate:
   apple: 2026-07-26
 ---
 
-Un adolescent de douze ans qui reprend Metallica lors du concours de talents de son collège — voilà le point de départ
-improbable de l'une des formations les plus respectées du metal moderne. Matt Heafy est d'abord accepté comme guitariste
-principal, bien qu'il n'ait que douze ans, alors que les autres membres en avaient quinze ou seize. Le batteur Travis
-Smith le persuade de prendre également le chant, alors même que Heafy doutait de sa propre voix. Vingt-cinq ans plus
+Un adolescent de douze ans qui reprend **Metallica** lors du concours de talents de son collège — voilà le point de départ
+improbable de l'une des formations les plus respectées du metal moderne. **Matt Heafy** est d'abord accepté comme guitariste
+principal, bien qu'il n'ait que douze ans, alors que les autres membres en avaient quinze ou seize. Le batteur **Travis Smith** le persuade de prendre également le chant, alors même que Heafy doutait de sa propre voix. Vingt-cinq ans plus
 tard, Trivium compte dix albums studio, plus d'un million de disques vendus et une nomination aux Grammy Awards.
 
 ###### Orlando, fin des années 90 : la naissance

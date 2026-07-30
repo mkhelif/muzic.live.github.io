@@ -15,8 +15,7 @@ socials:
   qobuz: "lt94qu1ijpp4a"
 ---
 
-Il n'y a personne d'autre comme eux, vraiment. Qu'on les aime ou qu'on les déteste, ce fait est indéniable. Rise Of The
-NorthStar est l'un des groupes les plus uniques au monde. Dix-sept ans après leur émergence des rues difficiles du Paris
+Il n'y a personne d'autre comme eux, vraiment. Qu'on les aime ou qu'on les déteste, ce fait est indéniable. **Rise Of The NorthStar** est l'un des groupes les plus uniques au monde. Dix-sept ans après leur émergence des rues difficiles du Paris
 du 17ème, Vitia (chant), Eva-B (guitare lead), Air One (guitare), Yoru (basse) et Phantom (batterie) dévoilent Chapter
 04: Red Falcon Super Battle! Neo Paris War!!, sorti le 14 novembre 2025 via leur propre label Kuromaku Corp. Et une
 fois de plus, ils défient toutes les perceptions et attentes.

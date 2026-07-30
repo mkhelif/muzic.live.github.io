@@ -27,7 +27,7 @@ lastUpdate:
 
 Razorlight est un groupe de rock anglo-suédois formé à Londres à l'été 2002 autour du chanteur et guitariste Johnny
 Borrell, qui délaisse alors un projet acoustique pour s'associer au guitariste suédois Björn Ågren. Le son du groupe,
-hérité à la fois du post-punk et de formations comme The Strokes ou Television, se distingue par des refrains
+hérité à la fois du post-punk et de formations comme **The Strokes** ou Television, se distingue par des refrains
 immédiats et une énergie très britpop.
 
 ###### De Up All Night au succès de America

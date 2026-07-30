@@ -36,7 +36,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Blasterjaxx est un duo de DJ/producteurs néerlandais composé de Thom Jongkind et Idir Makhlaf, formé en 2010
+Blasterjaxx est un duo de DJ/producteurs néerlandais composé de **Thom Jongkind** et **Idir Makhlaf**, formé en 2010
 dans le contexte de l'explosion de la scène EDM mondiale.
 
 Leurs débuts révèlent immédiatement un talent pour créer des productions explosives parfaitement adaptées à l'ère

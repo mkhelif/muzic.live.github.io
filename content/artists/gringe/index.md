@@ -24,13 +24,13 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Gringe, de son vrai nom Guillaume Tranchant, est un rappeur français membre du duo Casseurs Flowters avec Orelsan, qui
+Gringe, de son vrai nom Guillaume Tranchant, est un rappeur français membre du duo Casseurs Flowters avec **Orelsan**, qui
 développe également une carrière solo remarquée.
 
 Ses débuts révèlent un artiste aux multiples talents, excellent rappeur mais aussi acteur et réalisateur, qui développe
 une approche personnelle du hip-hop français.
 
-Il grandit en Normandie et développe sa passion pour le rap en même temps que son amitié artistique avec Orelsan, créant
+Il grandit en Normandie et développe sa passion pour le rap en même temps que son amitié artistique avec **Orelsan**, créant
 ensemble une dynamique créative qui marquera durablement la scène rap française contemporaine.
 
 ###### Carrière musicale

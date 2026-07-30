@@ -97,7 +97,7 @@ lastUpdate:
 ---
 
 Evanescence est un groupe de gothic metal américain originaire de Little Rock, en Arkansas, formé en 1996 autour de la
-chanteuse Amy Lee et du musicien Ben Moody, qui se rencontrent adolescents dans un camp d'été.
+chanteuse **Amy Lee** et du musicien **Ben Moody**, qui se rencontrent adolescents dans un camp d'été.
 
 ###### Des débuts confidentiels à la consécration
 

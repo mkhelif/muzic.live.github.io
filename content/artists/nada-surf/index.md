@@ -26,7 +26,7 @@ lastUpdate:
 Nada Surf est un groupe américain formé en 1992 à New York, qui a transcendé son statut de groupe à tube unique pour
 devenir l'un des piliers discrets mais essentiels du rock alternatif indie.
 
-Fondé par Matthew Caws (chant, guitare), Daniel Lorca (basse) et Ira Elliot (batterie, qui rejoint en 1995), le groupe
+Fondé par **Matthew Caws** (chant, guitare), **Daniel Lorca** (basse) et **Ira Elliot** (batterie, qui rejoint en 1995), le groupe
 émerge de la scène alternative new-yorkaise avec une approche mélodique du rock qui privilégie l'émotion et l'
 authenticité.
 

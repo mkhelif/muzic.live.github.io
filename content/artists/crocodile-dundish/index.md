@@ -27,7 +27,7 @@ Crocodile Dundish est un groupe belge originaire de Tournai, en Wallonie, compos
 consacrent avec humour et virtuosité à réimaginer des tubes pop dans un style folk et bluegrass acoustique.
 Actif depuis une petite dizaine d'années, le groupe s'est construit une réputation solide sur la scène des
 festivals belges et français grâce à un concept aussi simple qu'efficace : transformer des succès populaires
-— signés Beyoncé, Billie Eilish, Imagine Dragons, Britney Spears ou encore des classiques de la pop
+— signés Beyoncé, **Billie** Eilish, Imagine Dragons, Britney Spears ou encore des classiques de la pop
 contemporaine — en pièces acoustiques teintées d'esprit country et d'ambiance saloon.
 
 ###### Une identité visuelle et musicale forte

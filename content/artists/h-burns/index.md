@@ -24,7 +24,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-H-Burns, de son vrai nom Renaud Rebillaud, est un chanteur-compositeur français qui émerge sur la scène indie-folk
+H-Burns, de son vrai nom **Renaud** Rebillaud, est un chanteur-compositeur français qui émerge sur la scène indie-folk
 hexagonale avec une approche minimaliste et poétique de la musique.
 
 Ses débuts révèlent un artiste influencé par le folk américain et britannique, développant un style personnel qui

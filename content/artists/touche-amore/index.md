@@ -61,8 +61,8 @@ lastUpdate:
 ---
 
 Touché Amoré est un groupe de post-hardcore américain originaire de Burbank, en Californie, formé en 2007. Depuis
-2010-2011, le groupe est composé du chanteur Jeremy Bolm, des guitaristes Clayton Stevens et Nick Steinhardt, du
-bassiste Tyler Kirby et du batteur Elliot Babin — une formation restée remarquablement stable depuis plus d'une
+2010-2011, le groupe est composé du chanteur **Jeremy Bolm**, des guitaristes **Clayton Stevens** et **Nick Steinhardt**, du
+bassiste **Tyler Kirby** et du batteur **Elliot Babin** — une formation restée remarquablement stable depuis plus d'une
 décennie. Le groupe s'est imposé au fil de six albums studio comme l'une des voix les plus honnêtes et les plus
 viscérales du post-hardcore contemporain, connu pour des textes confessionnels qui abordent le deuil, l'aliénation et la
 résilience personnelle avec une franchise rare dans le genre.

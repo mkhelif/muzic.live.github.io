@@ -16,7 +16,7 @@ socials:
 ---
 
 Trois nominations aux Grammy Awards. Sept singles dans le Top 10 des radios rock actives américaines. Vingt ans de
-carrière ponctuée de galères et de percées miraculeuses. Nothing More, quatuor de San Antonio, Texas, revient avec
+carrière ponctuée de galères et de percées miraculeuses. **Nothing More**, quatuor de San Antonio, Texas, revient avec
 Carnal, huitième album studio sorti le 28 juin 2024 via Better Noise Records. Quinze pistes, quarante-cinq minutes de
 hard rock alternatif musclé enrichi de philosophie introspective et d'hymnes massifs assumés. Et cette fois, tout
 s'aligne magistralement.

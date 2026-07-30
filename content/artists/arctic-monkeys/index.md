@@ -51,8 +51,8 @@ lastUpdate:
 ---
 
 Arctic Monkeys est un groupe de rock britannique formé en 2002 à Sheffield, dans le quartier de High Green. Né de
-l'amitié entre Alex Turner et Jamie Cook, deux lycéens qui avaient reçu des guitares pour Noël, le groupe intègre
-rapidement Matt Helders à la batterie et Andy Nicholson à la basse — tous issus du même lycée de Stocksbridge. Leurs
+l'amitié entre **Alex Turner** et **Jamie Cook**, deux lycéens qui avaient reçu des guitares pour Noël, le groupe intègre
+rapidement **Matt Helders** à la batterie et **Andy Nicholson** à la basse — tous issus du même lycée de Stocksbridge. Leurs
 premières répétitions ont lieu dans les caves de leurs parents, avant que le groupe ne commence à se produire sur les
 scènes locales de Sheffield à partir de 2003.
 

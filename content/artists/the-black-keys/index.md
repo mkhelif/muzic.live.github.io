@@ -37,7 +37,7 @@ lastUpdate:
 ---
 
 Il y a dans l'histoire des Black Keys quelque chose qui ressemble à une fable américaine — mais sans la partie facile.
-Dan Auerbach et Patrick Carney ont grandi à quelques maisons l'un de l'autre dans un quartier ouvrier de West Akron,
+**Dan Auerbach** et **Patrick Carney** ont grandi à quelques maisons l'un de l'autre dans un quartier ouvrier de West Akron,
 Ohio — une ville connue pour ses usines à caoutchouc, sa rudesse industrielle et son esprit sans fioritures. Deux
 voisins de palier qui se retrouvent un jour dans un sous-sol avec une guitare électrique et une batterie à 150 dollars,
 et qui finissent par devenir l'un des duos rock les plus importants de leur génération. La trajectoire est aussi

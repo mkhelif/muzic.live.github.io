@@ -137,10 +137,10 @@ lastUpdate:
 ---
 
 Nick Cave & The Bad Seeds est un groupe de rock australo-britannique formé en 1983 à Londres par le chanteur et
-compositeur australien Nick Cave, après la dissolution de son précédent groupe, The Birthday Party. Réputé pour son
+compositeur australien **Nick Cave**, après la dissolution de son précédent groupe, The Birthday Party. Réputé pour son
 écriture littéraire, sombre et habitée, Cave s'est imposé au fil des décennies comme l'une des figures les plus
 singulières et respectées du rock alternatif, entouré d'un groupe à la formation évolutive mais toujours marquée par
-la présence du multi-instrumentiste Warren Ellis.
+la présence du multi-instrumentiste **Warren Ellis**.
 
 Depuis leurs débuts avec « From Her to Eternity » (1984), Nick Cave & The Bad Seeds ont construit une œuvre dense et
 exigeante, oscillant entre ballades funèbres, rock viscéral et expérimentations sonores, portée par la voix grave et

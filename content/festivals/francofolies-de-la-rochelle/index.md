@@ -25,7 +25,7 @@ sa diversité musicale.
 Dès les premières éditions, les Francofolies se distinguent par un principe fondateur : faire cohabiter sur les mêmes
 scènes des artistes confirmés et une génération montante, sans hiérarchie de style ni de notoriété. Jean-Louis
 Foulquier, en programmateur exigeant et généreux, invite et soutient des artistes qui deviendront des figures majeures
-de la chanson française, parmi lesquels Jacques Higelin, Bernard Lavilliers ou Renaud. Le festival se veut cosmopolite,
+de la chanson française, parmi lesquels Jacques Higelin, **Bernard Lavilliers** ou **Renaud**. Le festival se veut cosmopolite,
 ouvert à toutes les expressions de la francophonie, du rap à la chanson réaliste en passant par le rock et les musiques
 du monde chantées en français.
 

@@ -68,7 +68,7 @@ lastUpdate:
   spotify: 2026-07-23
 ---
 
-Montez le son, lâchez prise et dansez comme si personne ne vous regardait. Voilà, en une phrase, le programme d'Electric
+Montez le son, lâchez prise et dansez comme si personne ne vous regardait. **Voilà**, en une phrase, le programme d'Electric
 Callboy — un groupe allemand qui a décidé, quelque part entre le metalcore et l'eurodance, que la musique lourde n'avait
 aucune raison de se prendre au sérieux. Ce faisant, ils ont inventé quelque chose que personne ne savait qu'ils
 attendaient : une scène de festival où les pit walls cohabitent avec les bras levés en l'air et où les guitares saturées

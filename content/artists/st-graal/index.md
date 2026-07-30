@@ -23,7 +23,7 @@ lastUpdate:
 St Graal est le nom de scène de Léo Meynard, auteur-compositeur-interprète français né en 1998 à Angoulême, dont la
 musique s'est imposée depuis le début des années 2020 comme l'une des voix les plus singulières de la nouvelle scène pop
 francophone. Le pseudonyme est un clin d'œil assumé à Sacré Graal des Monty Python, dont il est fan, mais aussi une
-référence à l'esthétique des noms en « Saint » chère à des artistes comme St Germain. Il aime décrire son projet comme
+référence à l'esthétique des noms en « Saint » chère à des artistes comme **St Germain**. Il aime décrire son projet comme
 une quête, semée d'indices et de mystères à décrypter au fil des chansons et des visuels qui l'accompagnent.
 
 ###### Une formation classique avant la pop

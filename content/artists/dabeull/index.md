@@ -29,4 +29,4 @@ proue de la funk moderne en France. Nourri d'influences allant du zouk à l'afro
 
 Révélé par l'EP *Fonk Delight* (2014) puis par le titre *DX7* (2016), il enchaîne les EP *Intimate Fonk* (2019) et
 *Cosmic Fonk* (2022) avant de publier son premier album studio, *Analog Love* (2024), qui assoit sa réputation
-internationale. Son live, mené tambour battant avec son Dabeull Live Band, est une véritable machine à groove.
+internationale. Son live, mené tambour battant avec son **Dabeull Live Band**, est une véritable machine à groove.

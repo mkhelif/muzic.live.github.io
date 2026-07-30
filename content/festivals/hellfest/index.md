@@ -13,16 +13,16 @@ L'histoire du Hellfest commence en réalité bien avant 2006, puisant ses racine
 Barbaud, passionné de musique metal et punk originaire de Clisson. La première association est créée en 2000 à Clisson
 sous le nom de "CLS CREW", dans le but d'organiser des concerts de hardcore et de punk dans la région nantaise. Le
 succès de ces premières initiatives permet de lancer le premier festival en juin 2002, baptisé Fury Fest, rassemblant
-400 personnes venues assister à Agnostic Front au complexe sportif du Val-de-Moine. Cette modeste assemblée initiale
+400 personnes venues assister à **Agnostic Front** au complexe sportif du Val-de-Moine. Cette modeste assemblée initiale
 porte en germe ce qui deviendra le plus grand festival metal de France et l'un des plus importants d'Europe, preuve que
 les plus grandes réussites naissent souvent d'initiatives locales passionnées.
 
 Le Fury Fest connaît une croissance rapide, attirant 7 000 personnes en 2003 pour des concerts de Sick of It All et
 Youth of Today, le format évoluant vers deux jours. Faute de salle disponible à Clisson, la deuxième édition se déroule
 au Hall de Trocardière à Rezé. En 2004, le festival déménage au Mans sur le site mythique des 24 Heures, accueillant 21
-000 spectateurs venus voir Slipknot et Soulfly. Malgré ce succès en termes de fréquentation, l'organisation rencontre
+000 spectateurs venus voir **Slipknot** et **Soulfly**. Malgré ce succès en termes de fréquentation, l'organisation rencontre
 des difficultés financières persistantes, avec un déficit en 2004 et des problèmes aggravés en 2005 lorsque 30 000
-entrées sont enregistrées pour des têtes d'affiche comme Slayer, Motörhead et Anthrax. La situation atteint son
+entrées sont enregistrées pour des têtes d'affiche comme **Slayer**, **Motörhead** et **Anthrax**. La situation atteint son
 paroxysme avec la disparition des promoteurs avec 600 000 euros de recettes, menaçant l'avenir même du projet.
 
 Face à cette catastrophe financière, Ben Barbaud fait preuve d'une détermination remarquable en décidant de créer un

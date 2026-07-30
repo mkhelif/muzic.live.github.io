@@ -23,7 +23,7 @@ lastUpdate:
   deezer-lookup: 2026-07-27
 ---
 
-Simple Minds est un groupe écossais formé en 1977 à Glasgow par Jim Kerr et Charlie Burchill, qui est devenu l'un des
+Simple Minds est un groupe écossais formé en 1977 à Glasgow par **Jim Kerr** et **Charlie Burchill**, qui est devenu l'un des
 groupes phares de la new wave et du rock alternatif des années 1980.
 
 Émergeant de la scène punk glaswégienne (les membres fondateurs jouaient auparavant dans Johnny and the Self Abusers),

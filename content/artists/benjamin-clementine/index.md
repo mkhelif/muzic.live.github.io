@@ -27,7 +27,7 @@ lastUpdate:
 ---
 
 Benjamin Clementine, de son nom complet Benjamin Sainte-Clémentine, est un artiste, poète, compositeur et
-musicien anglais né le 7 décembre 1988 à Crystal Palace (Londres) de parents ghanéens, et qui a grandi à Edmonton,
+musicien anglais né le 7 décembre 1988 à Crystal **Palace** (Londres) de parents ghanéens, et qui a grandi à Edmonton,
 dans le nord de la capitale britannique.
 
 ###### Un parcours autodidacte et atypique

@@ -34,7 +34,7 @@ plusieurs groupes hip-hop locaux.
 Après plusieurs années à sortir une flopée de projets et à performer sur scène avec ses potes d’enfance, celui qui
 officie comme beatmaker commence alors à explorer de nouvelles sonorités: l’électronique.
 
-De passage au sein de la Gustav, LePhar se met à composer de façon autodidacte, jusqu’à trouver son propre style. Fruit
+De passage au sein de la **Gustav**, LePhar se met à composer de façon autodidacte, jusqu’à trouver son propre style. Fruit
 de cette incubation, l’EP Mixed Origins paraît en 2022, sept titres fusionnant les genres musicaux qu’affectionne tant
 son créateur. Une année plus tard, un second opus toujours plus éclectique voit le jour,No Basis. Origines mixtes,
 musicalité mixte, tel est le mantra de l’artiste fribourgeois.

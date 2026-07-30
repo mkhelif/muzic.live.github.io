@@ -24,7 +24,7 @@ lastUpdate:
 Smokeheads est un groupe de metal alternatif français dont le son repose sur une alchimie entre puissance
 et nuance. La formation réunit Philippe à la batterie, Alain à la basse, David C. à la guitare et David Z.
 au chant et à la guitare. Le groupe tire son inspiration d'un panel d'influences ambitieux : Porcupine Tree,
-Gojira, Tool, Devin Townsend, Mastodon ou encore System of a Down, qu'il synthétise dans un metal alternatif
+**Gojira**, Tool, Devin Townsend, **Mastodon** ou encore **System of a Down**, qu'il synthétise dans un metal alternatif
 à la fois accrocheur et exigeant, sans concession sur la profondeur des arrangements.
 
 Leur premier album studio, All In, paraît en septembre 2023 et présente la pleine mesure de la polyvalence
