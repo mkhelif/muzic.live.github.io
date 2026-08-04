@@ -13,6 +13,7 @@ members:
     roles:
       - other
 socials:
+  musicbrainz: "d3812f13-0962-42a8-bbcd-0e64c873b2eb"
   instagram: "47ter"
   facebook: ""
   tiktok: ""
@@ -23,7 +24,7 @@ socials:
   email: ""
   amazon: ""
   apple: "1252123803"
-  deezer: ""
+  deezer: "11933635"
   qobuz: ""
   spotify: "0aXaZj4wB5jLF2E2d8WEVi"
   tidal: ""

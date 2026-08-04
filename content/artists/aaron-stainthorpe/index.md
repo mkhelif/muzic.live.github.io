@@ -3,6 +3,7 @@ id: "33cbf9b1-b872-45e9-b384-a98abddd0c8d"
 title: "Aaron Stainthorpe"
 type: person
 socials:
+  musicbrainz: "33e1d8d2-c832-4f55-847a-b0173f368ac5"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -16,6 +16,7 @@ members:
     roles:
       - other
 socials:
+  musicbrainz: "cd2b1779-c481-4a6e-9197-2eabe055e33d"
   facebook: ""
   instagram: ""
   tiktok: ""

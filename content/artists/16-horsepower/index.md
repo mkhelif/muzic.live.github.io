@@ -48,6 +48,7 @@ members:
       - start: 1998
         end: 2001
 socials:
+  musicbrainz: "9a22fc7b-ad7f-4c70-9e0f-4d40cd7562cd"
   facebook: ""
   instagram: ""
   tiktok: ""

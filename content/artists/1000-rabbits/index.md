@@ -3,6 +3,7 @@ id: "f853198e-21bc-471e-924f-1abe87487db0"
 title: "1000 Rabbits"
 type: band
 socials:
+  musicbrainz: "925c910a-122b-4c6a-8128-84862fd04f8c"
   facebook: ""
   instagram: ""
   tiktok: ""

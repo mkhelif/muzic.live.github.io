@@ -3,6 +3,7 @@ id: "f1e35ffd-2f19-40b6-9808-c0fff17d7435"
 title: "Abd al Malik"
 type: person
 socials:
+  musicbrainz: "4c7a7959-7cf8-4de8-b7b7-6fe83122926b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +17,14 @@ socials:
   deezer: "5716"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "3672712"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1975-03-14
 ---
 
 Abd al Malik, né Régis Fayette-Mikano le 14 mars 1975 à Paris (14e arrondissement) d'un père haut fonctionnaire

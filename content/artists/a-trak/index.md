@@ -3,6 +3,7 @@ id: "2d88f801-0969-4236-9b2a-a283e959952f"
 title: "A-Trak"
 type: person
 socials:
+  musicbrainz: "47ea59b7-81c2-4001-8ac3-567877b3172a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,8 +13,8 @@ socials:
   web: ""
   email: ""
   amazon: "B000THDKNS"
-  apple: ""
-  deezer: ""
+  apple: "70281883"
+  deezer: "152629"
   qobuz: ""
   spotify: ""
   tidal: "3525549"

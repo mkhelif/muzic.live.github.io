@@ -2,6 +2,7 @@
 id: "79d7b9e8-770c-44d1-90d6-8014b42c3f46"
 title: "A.A. Williams"
 socials:
+  musicbrainz: "26f28e9b-c0db-44d1-84ca-817f8cf5d249"
   facebook: ""
   instagram: ""
   tiktok: ""

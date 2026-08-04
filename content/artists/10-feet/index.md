@@ -2,6 +2,7 @@
 id: "bef4457f-90ef-4dc6-885d-fe45c93aa6f9"
 title: "10-FEET"
 socials:
+  musicbrainz: "e000f4d8-b722-4120-9b5d-0a13d6f39be3"
   facebook: ""
   instagram: ""
   tiktok: ""

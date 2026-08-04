@@ -69,6 +69,7 @@ members:
     periods:
       - start: 2024
 socials:
+  musicbrainz: "db008806-16f6-48fc-8521-3d953709689d"
   facebook: "adtr"
   instagram: ""
   tiktok: "@adaytoremember"

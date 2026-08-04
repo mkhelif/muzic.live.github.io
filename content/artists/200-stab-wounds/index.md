@@ -37,6 +37,7 @@ members:
       - start: 2019
         end: 2025
 socials:
+  musicbrainz: "e9c41776-b083-443d-af79-4c6923db6db2"
   facebook: ""
   instagram: ""
   tiktok: ""

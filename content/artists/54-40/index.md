@@ -2,6 +2,7 @@
 id: "532073be-c5aa-4865-a684-5ccc868ca532"
 title: "54-40"
 socials:
+  musicbrainz: "46eca540-5d16-4115-88dd-ac8a2b571f62"
   facebook: ""
   instagram: ""
   tiktok: ""

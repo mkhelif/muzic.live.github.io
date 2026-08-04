@@ -2,7 +2,27 @@
 id: "fcbb337c-1001-4380-8b75-97509c6c0a55"
 title: "Adam Angst"
 type: band
+members:
+  - id: "6615fd9b-58d3-4e52-a14f-846c3c7f552c"
+    roles:
+      - guitar
+  - id: "545f373b-d766-432c-ae06-6a29477e4706"
+    roles:
+      - guitar
+  - id: "95079755-3065-41e5-90f1-ab58a1fff43b"
+    roles:
+      - drums
+  - id: "8e605668-5d18-4dfd-94bf-14a9647c30bd"
+    roles:
+      - bass
+  - id: "60ec4532-91e9-46c2-8cfb-637bd9cc3e67"
+    roles:
+      - sing
+  - id: "86249266-7a55-4b59-b360-5f77821516a8"
+    roles:
+      - bass
 socials:
+  musicbrainz: "f8d896ee-1ea0-49cf-9e78-32607631fa8d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,8 +36,9 @@ socials:
   deezer: "7256604"
   qobuz: ""
   spotify: "4s8thwd54lskRtbVXTIaDh"
-  tidal: ""
+  tidal: "6369964"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

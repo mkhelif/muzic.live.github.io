@@ -14,6 +14,7 @@ members:
     periods:
       - start: 2004
 socials:
+  musicbrainz: "f897e098-941b-4fa4-b966-4870c1e5614c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,8 +24,8 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "333221562"
+  deezer: "10774"
   qobuz: ""
   spotify: ""
   tidal: "3901927"

@@ -3,6 +3,7 @@ id: "ea091e2b-e77d-49a7-9f7b-69bba3562dd1"
 title: "1914"
 type: band
 socials:
+  musicbrainz: "eda0c0a6-c3ce-426d-8f84-e3200bc02693"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1076835062"
+  deezer: "9706814"
   qobuz: ""
   spotify: "0IpKWttPlwhd7Cevxsh1Bz"
   tidal: "7545420"
 lastUpdate:
+  deezer: 2026-08-04
   musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27

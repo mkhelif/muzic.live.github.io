@@ -2,6 +2,7 @@
 id: "5f2374cc-e908-45ef-a71f-319769be370b"
 title: "1 BODY 6 GRAVES"
 socials:
+  musicbrainz: "0f4adc9c-8a0c-4e51-82ac-62f900f0af64"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  deezer: 2026-08-04
   musicbrainz: 2026-08-04
   bandsintown-lookup: 2026-07-27
 ---

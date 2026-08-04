@@ -3,6 +3,7 @@ id: "206e663e-4204-46c9-bdb2-45193b615d02"
 title: "Aaron Rowe"
 type: person
 socials:
+  musicbrainz: "eee8e86c-04d5-464b-addc-939eb6d2f54a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,7 +13,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1701034074"
   deezer: ""
   qobuz: ""
   spotify: "6lM3Lss7HI9Zpq4d4GqjIG"

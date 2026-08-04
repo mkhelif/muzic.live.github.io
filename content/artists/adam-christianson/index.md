@@ -3,6 +3,7 @@ id: "5d1a9972-f10c-4d02-9102-0160071ab536"
 title: "Adam Christianson"
 type: person
 socials:
+  musicbrainz: "4b930aac-6149-4b29-8ce1-a9acb0270268"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23

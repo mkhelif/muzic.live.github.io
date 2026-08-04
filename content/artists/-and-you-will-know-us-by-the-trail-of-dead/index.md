@@ -2,6 +2,7 @@
 id: "9f677e9d-cb18-45f4-9de8-8392dc98916f"
 title: "...And You Will Know Us By The Trail Of Dead"
 socials:
+  musicbrainz: "9c1ff574-2ae4-4fea-881f-83293d0d5881"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  deezer: 2026-08-04
   musicbrainz: 2026-08-04
   bandsintown: 2026-07-27
 ---

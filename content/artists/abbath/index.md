@@ -21,6 +21,7 @@ members:
       - start: 2015
         end: 2015
 socials:
+  musicbrainz: "266a5f1d-e25d-4491-897f-7402c2aa28dc"
   facebook: ""
   instagram: ""
   tiktok: ""

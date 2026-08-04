@@ -2,6 +2,7 @@
 id: "595e3662-4504-424c-966c-500f1204d82a"
 title: "3 Daft Monkeys"
 socials:
+  musicbrainz: "a8a31525-6e79-4e5d-9498-49a5b6412502"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  deezer: 2026-08-04
   musicbrainz: 2026-08-04
   bandsintown: 2026-07-27
 ---

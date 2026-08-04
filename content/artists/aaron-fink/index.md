@@ -2,6 +2,7 @@
 id: "75693e5a-9928-4b14-9be2-9cd627b03525"
 title: "Aaron Fink"
 socials:
+  musicbrainz: "f9dec45f-5579-4dec-a779-511faee5cabb"
   apple: "974003919"
   deezer: "7647262"
   facebook: ""

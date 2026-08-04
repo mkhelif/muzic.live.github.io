@@ -2,6 +2,7 @@
 id: "ea60ca7f-c096-48e7-9d13-303b98459f81"
 title: "3BallMTY"
 socials:
+  musicbrainz: "26a3bf81-5bf6-477f-8097-e4bc05e1e7ba"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  deezer: 2026-08-04
   musicbrainz: 2026-08-04
   bandsintown: 2026-07-27
 ---

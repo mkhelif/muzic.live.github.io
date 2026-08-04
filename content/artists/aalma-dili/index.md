@@ -3,6 +3,7 @@ id: "657e026b-a7c5-4c3c-b9cf-0c5d2623db97"
 title: "Aälma Dili"
 type: band
 socials:
+  musicbrainz: "e72e4073-0211-41f2-897a-8b1783da04bf"
   facebook: ""
   instagram: ""
   tiktok: ""

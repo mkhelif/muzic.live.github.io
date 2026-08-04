@@ -2,6 +2,7 @@
 id: "d8e4db58-9e94-4a85-8203-fa2ca8afe445"
 title: "803Fresh"
 socials:
+  musicbrainz: "7e06458a-4003-4792-9ec1-7d532d93465a"
   facebook: ""
   instagram: ""
   tiktok: ""

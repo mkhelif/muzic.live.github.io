@@ -2,6 +2,7 @@
 id: "2d3fcab8-da24-4fbe-834e-08ee939f286a"
 title: "Abbey Blackwell"
 socials:
+  musicbrainz: "130bb3e3-8c61-431e-b9b9-45e76b647f8b"
   deezer: "61642392"
   facebook: ""
   instagram: ""
@@ -9,6 +10,7 @@ socials:
   threads: ""
   youtube: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-23

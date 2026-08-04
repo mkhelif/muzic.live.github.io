@@ -3,6 +3,7 @@ id: "d9bae1c7-5a7f-4694-a752-840bd5dab1a0"
 title: "Absolutely"
 type: unknown
 socials:
+  musicbrainz: "30ef765d-f7bb-4e7e-8972-13be03aa4f2c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1690413236"
+  deezer: "216241755"
   qobuz: ""
   spotify: "4ellgkPyhbJetngXmHX5Zh"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23

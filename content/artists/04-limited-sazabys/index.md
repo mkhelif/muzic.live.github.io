@@ -2,6 +2,7 @@
 id: "83279cfa-480a-499b-b3f1-35c577c0e6bf"
 title: "04 Limited Sazabys"
 socials:
+  musicbrainz: "cff59016-bf4e-48b1-9201-903f60bb83ee"
   facebook: ""
   instagram: ""
   tiktok: ""

@@ -13,6 +13,7 @@ members:
     roles:
       - other
 socials:
+  musicbrainz: "82dc508a-dbda-4954-aedc-28895edfa42e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,7 +24,7 @@ socials:
   email: ""
   amazon: ""
   apple: "1612889426"
-  deezer: ""
+  deezer: "6850"
   qobuz: ""
   spotify: ""
   tidal: ""
@@ -31,6 +32,7 @@ todo:
   - Add cover
   - Add socials
 lastUpdate:
+  deezer: 2026-08-04
   musicbrainz: 2026-08-04
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23

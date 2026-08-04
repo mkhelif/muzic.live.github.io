@@ -3,6 +3,7 @@ id: "c81d2470-d947-4dc2-aa1c-88208919122f"
 title: "a6el"
 type: person
 socials:
+  musicbrainz: "21ee6b45-bff1-4afe-9fc7-e3471f4b2d80"
   facebook: ""
   instagram: ""
   tiktok: ""

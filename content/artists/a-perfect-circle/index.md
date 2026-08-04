@@ -59,6 +59,7 @@ members:
     periods:
       - start: 2010
 socials:
+  musicbrainz: "078a9376-3c04-4280-b7d7-b20e158f345d"
   facebook: ""
   instagram: ""
   tiktok: ""

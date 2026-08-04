@@ -2,6 +2,7 @@
 id: "041a8e5f-210f-4e77-84b9-a1ffd12dc0bd"
 title: "156/Silence"
 socials:
+  musicbrainz: "c4a3dc14-e745-4ca8-af27-e89ff19232d3"
   facebook: ""
   instagram: ""
   tiktok: ""

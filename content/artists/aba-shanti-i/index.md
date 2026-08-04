@@ -3,6 +3,7 @@ id: "4f385022-0ac9-47c2-bb21-cbde4dd8af8c"
 title: "Aba Shanti-I"
 type: person
 socials:
+  musicbrainz: "04879249-2acb-418b-b9a4-9fe56f4daea5"
   facebook: ""
   instagram: ""
   tiktok: ""

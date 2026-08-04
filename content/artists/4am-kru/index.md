@@ -2,6 +2,7 @@
 id: "b3dfc14c-e5a1-499f-a294-a0449353034b"
 title: "4am Kru"
 socials:
+  musicbrainz: "ce2348e0-1819-4877-83d3-ed8c43133a5c"
   facebook: ""
   instagram: ""
   tiktok: ""

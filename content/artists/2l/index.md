@@ -3,6 +3,7 @@ id: "92cfcb4f-6b49-4cc7-8f37-33d5f02eccc0"
 title: "2L"
 type: person
 socials:
+  musicbrainz: "76e3d888-f368-4414-bb9c-c1a797922ca3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,7 +14,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "190007357"
   qobuz: ""
   spotify: "2N6RfSP8wXKS6cTraTbqKj"
   tidal: "32693571"
@@ -21,6 +22,7 @@ todo:
   - Add socials
   - Add cover
 lastUpdate:
+  deezer: 2026-08-04
   musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27

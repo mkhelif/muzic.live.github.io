@@ -2,7 +2,21 @@
 id: "0d8e8aca-acd8-4588-a6c9-e288bff88ed4"
 title: "Acid Arab"
 type: band
+members:
+  - id: "a39a8f0f-5470-4bff-871c-e741be0f3a85"
+    roles:
+      - other
+  - id: "6db450d7-f261-4237-8640-39b81f2c5332"
+    roles:
+      - other
+  - id: "7aa40615-1312-44ff-a7f7-373cb86a3612"
+    roles:
+      - other
+  - id: "2e4f8593-e61a-46e1-9a0b-9de8ef9a3d10"
+    roles:
+      - other
 socials:
+  musicbrainz: "f32e763e-be49-44e2-bde0-27c8e5686992"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,14 +28,15 @@ socials:
   amazon: "B00D3PHIOA"
   apple: "656163203"
   deezer: "4844362"
-  qobuz: ""
+  qobuz: "1190048"
   spotify: "3ShO8tPKqXUUpOA0urOWW7"
-  tidal: ""
+  tidal: "4945741"
 cover: ""
 todo:
   - Add cover
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

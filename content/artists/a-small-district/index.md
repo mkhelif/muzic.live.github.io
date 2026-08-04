@@ -3,6 +3,7 @@ id: "afa7a042-1afa-46c1-a6e8-8f93d3addf92"
 title: "A Small District"
 type: band
 socials:
+  musicbrainz: "2c781a50-a9d9-45c9-bf17-a26970d90562"
   facebook: ""
   instagram: ""
   tiktok: ""
