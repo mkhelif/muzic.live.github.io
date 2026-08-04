@@ -2,7 +2,24 @@
 id: "df21a9c4-2efa-4494-a275-b97873e614d4"
 title: "Bleed From Within"
 type: band
+members:
+  - id: "558edaec-b9cc-4180-a255-ca14c5a8da22"
+    roles:
+      - guitar
+  - id: "6ddc6601-8806-4992-88c7-36aff49f3509"
+    roles:
+      - guitar
+  - id: "68e4d6a1-9d81-4cb5-85fa-e9b9bf678cc6"
+    roles:
+      - sing
+  - id: "bf3d0206-f31a-4d7f-a1a4-21235f313d35"
+    roles:
+      - bass
+  - id: "98bc753f-e410-4e0f-86f1-867136429fee"
+    roles:
+      - drums
 socials:
+  musicbrainz: "385d80ab-cf87-46ed-b4c9-3ea8942993ef"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +28,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B002GPJ562"
   apple: "322931719"
   deezer: "389793"
-  qobuz: ""
+  qobuz: "1043093"
   spotify: "5ZvwJikDgdP1PFU4PkAPVG"
-  tidal: ""
+  tidal: "3637268"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

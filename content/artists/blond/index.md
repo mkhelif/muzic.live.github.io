@@ -3,6 +3,7 @@ id: "1201f560-1f75-4990-a571-9ef927841a0c"
 title: "Blond"
 type: band
 socials:
+  musicbrainz: "aec1ccfd-b8ff-45f3-9553-0237a8742538"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "535804484"
+  deezer: "134178"
   qobuz: ""
   spotify: "4WnfD0e5J91W7zyHBK6svA"
-  tidal: ""
+  tidal: "33073"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27

@@ -14,6 +14,7 @@ members:
     periods:
       - start: 2010
 socials:
+  musicbrainz: "5bd254e6-9288-4a5e-ba65-c6e06fa69ac9"
   facebook: "BlasterjaxxOfficial"
   instagram: "blasterjaxx"
   tiktok: "@blasterjaxx_official"
@@ -26,11 +27,12 @@ socials:
   spotify: "37awA8DFCAnCCL7aqYbDnD"
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B0041TPX9Y"
   apple: "390612080"
   deezer: "789285"
-  qobuz: ""
+  qobuz: "533474"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

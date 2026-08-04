@@ -1,5 +1,4 @@
 ---
-
 id: "24074d2f-65ef-45a5-bf7c-145f717b335c"
 title: "James Johnston"
 socials:

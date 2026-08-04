@@ -42,6 +42,7 @@ members:
     periods:
       - start: 2023
 socials:
+  musicbrainz: "8c538f11-c141-4588-8ecb-931083524186"
   facebook: "blocpartyofficial"
   instagram: "thisisblocparty"
   x: "blocparty"
@@ -53,11 +54,12 @@ socials:
   spotify: "3MM8mtgFzaEJsqbjZBSsHJ"
   tiktok: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  amazon: "B001E3PU5W"
+  apple: "27944896"
+  deezer: "8514548"
+  qobuz: "35187"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27

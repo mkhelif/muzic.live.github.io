@@ -3,6 +3,8 @@
 id: "582329e5-2609-4160-8e71-9d564d5b5dff"
 title: "Blaze Bayley"
 socials:
+  tidal: "3889961"
+  musicbrainz: "fa7dae50-95f8-434b-af06-c8cdb3c9471a"
   apple: "556751"
   deezer: "393935"
   facebook: ""
@@ -11,8 +13,10 @@ socials:
   threads: ""
   bandsintown: "148226"
   youtube: ""
+  qobuz: "172269"
   spotify: "2N1l5VEy6whDRqvnUElnau"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

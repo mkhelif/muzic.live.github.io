@@ -2,7 +2,23 @@
 id: "6afdfe2c-30b8-4aad-aba4-a3a6600c93a1"
 title: "Blood Red Shoes"
 type: band
+members:
+  - id: "d2ad1f0f-eb0e-4c1d-a583-178bc61bc5f5"
+    roles:
+      - sing
+      - drums
+    periods:
+      - start: 2004
+      - start: 2004
+  - id: "f5702406-28e3-4471-8e76-ef402a92d52b"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2004
+      - start: 2004
 socials:
+  musicbrainz: "cd830a8f-89d2-4e96-96cb-7a497e51d437"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,8 +32,9 @@ socials:
   deezer: "75312"
   qobuz: ""
   spotify: "3r6Sk3pYxdJk7MekhBGgMR"
-  tidal: ""
+  tidal: "3530423"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

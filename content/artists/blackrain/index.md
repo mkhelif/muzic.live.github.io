@@ -3,6 +3,7 @@ id: "de4ef6f5-905b-4435-83e8-fb8228e5b3e2"
 title: "Blackrain"
 type: band
 socials:
+  musicbrainz: "1ffe182d-e48f-46f7-ace6-6b3872161d1e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,11 +14,12 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "132984"
   qobuz: ""
   spotify: "4zEFEt7m0lKVXd0k5JTLJN"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
