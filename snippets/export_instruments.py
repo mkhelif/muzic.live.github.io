@@ -12,8 +12,8 @@ complete instrument tree, ~1050 entries) and writes
 (``sing``/``guitar``/``bass``/``drums``/``keys``/``other``) based on the
 instrument name and its MusicBrainz type (Percussion instrument -> drums,
 Keyboard -> keys, ...). Edit the CSV by hand to refine the mapping:
-``fill_members.py`` loads it automatically when present and falls back to its
-keyword heuristics for anything not listed.
+``fill_musicbrainz.py`` loads it automatically when present and falls back to
+its keyword heuristics for anything not listed.
 
 Run from the repository root::
 

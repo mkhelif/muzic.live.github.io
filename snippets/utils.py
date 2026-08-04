@@ -270,6 +270,7 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+  musicbrainz: ""
 todo:
   - Add picture
   - Add socials

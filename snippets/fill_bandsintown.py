@@ -18,6 +18,11 @@ Safety first:
   title after normalisation (unidecode + lowercase + alphanumerics only). If the
   search yields zero or several distinct matching ids, the artist is skipped and
   reported, never guessed.
+* The run covers **every** artist still missing an id (``LIMIT = 0``), throttled
+  through ``utils.MIN_REQUEST_INTERVAL`` so Bandsintown does not answer 416.
+  Each artist is stamped in ``lastUpdate`` as it is processed, so the run can be
+  interrupted and relaunched: it resumes where it stopped, and artists searched
+  within the last week are skipped.
 
 Run from the repository root::
 
@@ -46,11 +51,20 @@ import utils
 # When True, only report proposed changes; write nothing.
 DRY_RUN = False
 
-# Politeness / anti-rate-limit delay between artists (seconds).
-REQUEST_DELAY = 1.0
+# Throttle: Bandsintown starts replying 416 when hit too fast. These are applied
+# by utils.http_get itself (see main()), so *every* request is spaced out —
+# including the retries http_get performs internally — instead of relying on a
+# sleep between artists, which left retries unthrottled. Same values as
+# bandsintown.py; bump them if 416s still appear.
+REQUEST_INTERVAL = 3.0  # minimum seconds between requests
+REQUEST_JITTER = 1.5    # extra random 0..JITTER seconds per request
+
+# Cooldown before retrying an artist once after a Cloudflare challenge, so a
+# transient block does not abort a multi-hour full run.
+COOLDOWN = 120.0
 
 # Process at most this many artists (0 = no limit). Handy for a first test run.
-LIMIT = 10
+LIMIT = 0
 
 # Front-matter key (under `lastUpdate`) recording when we last *searched*
 # Bandsintown for an artist's id. Kept separate from the `bandsintown` key that
@@ -180,6 +194,11 @@ def main():
     except Exception:
         pass
 
+    # Throttle every Bandsintown request (including http_get's own retries) to
+    # avoid its 416 rate-limit responses.
+    utils.MIN_REQUEST_INTERVAL = REQUEST_INTERVAL
+    utils.REQUEST_JITTER = REQUEST_JITTER
+
     # Collect the artists missing a bandsintown id up front, so we can report a
     # total and show per-artist progress.
     candidates = []
@@ -212,11 +231,15 @@ def main():
         candidates = candidates[:LIMIT]
 
     total = len(candidates)
+    # A full run is long: one throttled request per artist, plus jitter.
+    eta = total * (REQUEST_INTERVAL + REQUEST_JITTER / 2) / 3600
     print(
         f"Artists to search on Bandsintown: {total} "
         f"(already have id: {skipped_have}, "
         f"searched within the last week: {skipped_fresh}). "
-        f"Mode: {'DRY-RUN' if DRY_RUN else 'WRITE'}."
+        f"Mode: {'DRY-RUN' if DRY_RUN else 'WRITE'}. "
+        f"Throttle: {REQUEST_INTERVAL}s +0-{REQUEST_JITTER}s jitter "
+        f"(~{eta:.1f}h). Interrupting is safe: progress is recorded per artist."
     )
     if total == 0:
         print("Nothing to do.")
@@ -226,14 +249,21 @@ def main():
     for index, (file, name) in enumerate(candidates, start=1):
         prefix = f"[{index}/{total}]"
         try:
-            bit_id, status = find_bandsintown_id(name)
+            try:
+                bit_id, status = find_bandsintown_id(name)
+            except utils.CloudflareBlocked as exc:
+                # Transient block: cool down and give this artist one more go
+                # rather than losing the rest of a multi-hour run.
+                print(f"{prefix} ~ {exc}\n{prefix} ~ cooling down {COOLDOWN:.0f}s...")
+                sleep(COOLDOWN)
+                bit_id, status = find_bandsintown_id(name)
         except utils.CloudflareBlocked as exc:
             print(f"\n{exc}")
-            return
+            print("Still blocked after the cooldown — stopping here.")
+            break
         except Exception:
             print(f"{prefix} ! {name}: {traceback.format_exc().splitlines()[-1]}")
             errors += 1
-            sleep(REQUEST_DELAY)
             continue
 
         if status == "ok" and DRY_RUN:
@@ -259,8 +289,6 @@ def main():
             no_match += 1
             if not DRY_RUN:
                 utils.set_last_update(file, LOOKUP_PROVIDER)
-
-        sleep(REQUEST_DELAY)
 
     print(
         "\nDone. "
