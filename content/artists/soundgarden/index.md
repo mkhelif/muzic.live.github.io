@@ -17,4 +17,6 @@ todo:
   - Add description
   - Add picture
   - Add socials
+lastUpdate:
+  deezer-lookup: 2026-08-04
 ---

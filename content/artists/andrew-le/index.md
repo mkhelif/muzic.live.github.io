@@ -2,6 +2,7 @@
 id: "57ca4fda-7109-4c6d-9826-fb6399f50e15"
 title: "Andrew Le"
 socials:
+  apple: "890710686"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,4 +13,7 @@ todo:
   - Add description
   - Add picture
   - Add socials
+lastUpdate:
+  bandsintown-lookup: 2026-08-04
+  deezer-lookup: 2026-08-04
 ---

@@ -7,6 +7,7 @@ socials:
   instagram: "riot_buraka_official"
   threads: "@riot_buraka_official"
   x: ""
+  bandsintown: "1318857"
   youtube: ""
   soundcloud: "riot-buraka"
   email: "riotctc@gmail.com"

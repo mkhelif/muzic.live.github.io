@@ -19,5 +19,6 @@ socials:
 todo:
   - Add description/picture/socials
 lastUpdate:
+  apple-lookup: 2026-08-04
   bandsintown-lookup: 2026-07-25
 ---

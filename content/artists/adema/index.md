@@ -7,10 +7,11 @@ socials:
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "3328"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B000TE0APW"
   apple: ""
   deezer: ""
   qobuz: ""
@@ -21,5 +22,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27
 ---

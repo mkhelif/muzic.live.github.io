@@ -7,6 +7,7 @@ socials:
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "141789"
   youtube: ""
   web: ""
   email: ""
@@ -21,5 +22,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27
 ---

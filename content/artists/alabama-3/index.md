@@ -11,7 +11,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "17579270"
   deezer: "3368"
   qobuz: ""
   spotify: ""
@@ -20,4 +20,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  bandsintown-lookup: 2026-08-04
 ---

@@ -2,6 +2,24 @@
 id: "53dba095-b505-492f-8071-caafa865ee0b"
 title: "Abbath"
 type: band
+members:
+  - id: "5de2e07f-efac-4fdd-90e5-cffd1c330131"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2015
+  - id: "6fc68767-155c-4263-88cf-341fc0389e95"
+    roles:
+      - bass
+    periods:
+      - start: 2015
+  - id: "f0e41167-5c56-4c4c-ab1f-21de11be1acf"
+    roles:
+      - other
+    periods:
+      - start: 2015
+        end: 2015
 socials:
   facebook: ""
   instagram: ""
@@ -14,10 +32,11 @@ socials:
   amazon: ""
   apple: "200771326"
   deezer: "7683228"
-  qobuz: ""
+  qobuz: "1890050"
   spotify: "1epGwdbjU7JSGVBHlqptpx"
-  tidal: ""
+  tidal: "7288807"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

@@ -2,6 +2,7 @@
 id: "bc5ec51f-57ee-4a1c-a9d4-9b839fd45031"
 title: "Stephen Platt"
 socials:
+  deezer: "10111246"
   facebook: ""
   instagram: ""
   tiktok: ""

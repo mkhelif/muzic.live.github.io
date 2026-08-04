@@ -2,6 +2,16 @@
 id: "732c13eb-b45f-4164-8399-862b31e3e254"
 title: "2manydjs"
 type: band
+members:
+  - id: "a9fd65d3-aa10-4284-95f1-60706d733e7e"
+    roles:
+      - other
+  - id: "9652ddca-f5c8-4db7-a1f3-604da5e67338"
+    roles:
+      - other
+  - id: "6b9462c5-c9ff-4cd0-94ce-86ef00f85f3c"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -21,6 +31,7 @@ todo:
   - Add cover
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

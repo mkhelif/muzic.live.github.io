@@ -49,7 +49,7 @@ socials:
   spotify: "4kI8Ie27vjvonwaB2ePh8T"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "167649475"
   deezer: ""
   qobuz: ""
 todo:

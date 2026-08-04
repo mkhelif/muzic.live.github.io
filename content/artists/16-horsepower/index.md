@@ -2,6 +2,51 @@
 id: "faa4f92a-52e6-4adf-984b-ab0e75516a05"
 title: "16 HORSEPOWER"
 type: band
+members:
+  - id: "3932fa0b-18b9-4ff4-a76c-3c1ca8a260fe"
+    roles:
+      - other
+    periods:
+      - start: 1996
+        end: 2005
+      - start: 1992
+        end: 1992
+  - id: "bed636df-3589-4507-a858-4874a1ed0a4f"
+    roles:
+      - other
+    periods:
+      - start: 1992
+        end: 1996
+  - id: "f2cbaf13-be7f-437a-9fd2-4c5cd95dec31"
+    roles:
+      - other
+    periods:
+      - start: 1992
+        end: 2005
+  - id: "c9fc696b-14b3-4be6-80e8-e19e83dc2b13"
+    roles:
+      - other
+    periods:
+      - start: 1992
+        end: 2005
+  - id: "28d2bb47-8168-42a1-b771-db9a6a001fbb"
+    roles:
+      - other
+    periods:
+      - start: 1996
+        end: 1997
+  - id: "b221bbe8-67ac-4b71-8f8c-9232d15f339c"
+    roles:
+      - other
+    periods:
+      - start: 1997
+        end: 1998
+  - id: "5c8f1851-2bfa-49af-90ce-45286472a044"
+    roles:
+      - other
+    periods:
+      - start: 1998
+        end: 2001
 socials:
   facebook: ""
   instagram: ""
@@ -16,8 +61,9 @@ socials:
   deezer: "1414"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "34475"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

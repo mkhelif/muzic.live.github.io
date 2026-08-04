@@ -45,16 +45,17 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B0872KTZ44"
   apple: "1507819751"
   deezer: "91176672"
   qobuz: ""
   spotify: "6DH6xC3RoN7L7sGlJ60LKv"
-  tidal: ""
+  tidal: "19080108"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

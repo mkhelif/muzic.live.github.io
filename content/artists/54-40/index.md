@@ -14,14 +14,15 @@ socials:
   amazon: ""
   apple: "5902787"
   deezer: ""
-  qobuz: ""
+  qobuz: "737311"
   spotify: ""
-  tidal: ""
+  tidal: "3798865"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

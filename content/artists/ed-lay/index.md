@@ -6,5 +6,9 @@ socials:
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "2005106"
   youtube: ""
+lastUpdate:
+  apple-lookup: 2026-08-04
+  deezer-lookup: 2026-08-04
 ---

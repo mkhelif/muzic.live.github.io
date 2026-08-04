@@ -6,12 +6,13 @@ socials:
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "330"
   youtube: ""
   web: ""
   email: ""
   spotify: ""
-  deezer: ""
-  apple: ""
+  deezer: "4421"
+  apple: "3261249"
   tidal: ""
 todo:
   - Add description

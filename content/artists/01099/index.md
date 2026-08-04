@@ -2,6 +2,19 @@
 id: "36b6da7d-6a3a-4384-8324-6158a1cb90e8"
 title: "01099"
 type: band
+members:
+  - id: "9b36dbbe-d33c-4b5f-bfaf-6e8bb64f9380"
+    roles:
+      - other
+  - id: "3b31128a-baa9-491d-8121-84a85a22fa84"
+    roles:
+      - other
+  - id: "93b1f09d-8801-4991-b034-caac79068a5e"
+    roles:
+      - other
+  - id: "ffe17868-714e-4220-acf7-bec062a9b677"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -11,16 +24,17 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B07P9L4GSN"
   apple: "1497603488"
   deezer: "60761882"
   qobuz: ""
   spotify: "3Z3aTg9PwJ37e8xeO0aUC9"
-  tidal: ""
+  tidal: "15178742"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

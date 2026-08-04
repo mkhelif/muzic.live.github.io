@@ -56,7 +56,7 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B0011ZORC0"
   apple: ""
   deezer: ""
   qobuz: ""

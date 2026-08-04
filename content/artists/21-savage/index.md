@@ -11,18 +11,21 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B01AB4CR8W"
   apple: "894820464"
   deezer: "6853403"
   qobuz: ""
   spotify: "1URnnhqYAYcrqrcwql10ft"
-  tidal: ""
+  tidal: "7279286"
 todo:
   - Add picture
   - Add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1992-10-22
 ---

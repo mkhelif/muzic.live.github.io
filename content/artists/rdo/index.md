@@ -21,6 +21,7 @@ todo:
   - Add description
   - Add socials
 lastUpdate:
+  apple-lookup: 2026-08-04
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---

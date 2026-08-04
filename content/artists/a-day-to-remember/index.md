@@ -77,13 +77,14 @@ socials:
   youtube: "@adaytoremember"
   web: "https://adtr.com"
   email: "contact@adtr.com"
-  amazon: ""
+  amazon: "B000RHQLO0"
   apple: "59925710"
   deezer: "17003"
   qobuz: ""
   spotify: "4NiJW4q9ichVqL1aUsgGAN"
-  tidal: ""
+  tidal: "3540792"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

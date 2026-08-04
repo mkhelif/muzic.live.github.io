@@ -35,10 +35,11 @@ socials:
   amazon: ""
   apple: "538811449"
   deezer: "4103408"
-  qobuz: ""
+  qobuz: "1668837"
   spotify: "5Rl15oVamLq7FbSb0NNBNy"
-  tidal: ""
+  tidal: "5427633"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

@@ -2,6 +2,17 @@
 id: "f3ae6a75-da32-4603-b71f-edd0ca46f8ad"
 title: "AaRON"
 type: band
+members:
+  - id: "d113feba-b381-4769-8a16-b41f762ab4b2"
+    roles:
+      - other
+    periods:
+      - start: 2004
+  - id: "7aaa914b-670c-4f7b-9b32-a302bd43ae67"
+    roles:
+      - other
+    periods:
+      - start: 2004
 socials:
   facebook: ""
   instagram: ""
@@ -16,8 +27,9 @@ socials:
   deezer: ""
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "3901927"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23

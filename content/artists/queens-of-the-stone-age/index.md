@@ -118,7 +118,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "857919"
   deezer: "1177"
   qobuz: ""
   spotify: "4pejUc4iciQfgdX6OKulQn"

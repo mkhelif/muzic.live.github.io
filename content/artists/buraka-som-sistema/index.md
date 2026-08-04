@@ -42,6 +42,7 @@ socials:
   instagram: "burakaofficial"
   tiktok: "@burakaofficial"
   x: ""
+  bandsintown: "5197"
   youtube: "@BURAKA01"
   bandcamp: "burakasomsistema"
   web: ""

@@ -16,15 +16,18 @@ socials:
   deezer: ""
   qobuz: ""
   spotify: "2N6RfSP8wXKS6cTraTbqKj"
-  tidal: ""
+  tidal: "32693571"
 todo:
   - Add socials
   - Add cover
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 2003
 ---
 
 2L est une rappeuse et violoniste française née en 2003 à Paris, dans le 20e arrondissement. Son pseudonyme, issu de son

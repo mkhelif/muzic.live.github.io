@@ -2,9 +2,13 @@
 id: "a3febf20-bc0a-4abb-af38-4956130f7cf0"
 title: "Ben O'Neill"
 socials:
+  apple: "73064331"
+  deezer: "5435847"
   facebook: ""
   instagram: ""
   x: ""
   threads: ""
   youtube: ""
+lastUpdate:
+  bandsintown-lookup: 2026-08-04
 ---

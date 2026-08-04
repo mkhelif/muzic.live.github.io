@@ -7,6 +7,7 @@ socials:
   tiktok: "@brankoofficial"
   x: "BRANKOOFFICIAL"
   threads: ""
+  bandsintown: "597993"
   youtube: "@Brankoofficial"
   bandcamp: "brankoofficial"
   soundcloud: "brankoofficial"

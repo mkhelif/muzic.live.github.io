@@ -10,5 +10,6 @@ socials:
   threads: ""
   youtube: ""
 lastUpdate:
+  bandsintown-lookup: 2026-08-04
   deezer: 2026-07-27
 ---

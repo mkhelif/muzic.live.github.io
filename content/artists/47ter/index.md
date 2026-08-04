@@ -2,6 +2,16 @@
 id: "9a356617-3c30-4619-872b-55d03e46659b"
 title: "47Ter"
 type: band
+members:
+  - id: "1547d374-49a6-446d-a3eb-619f1d6df11d"
+    roles:
+      - other
+  - id: "b2ba5ddc-ac5f-4a74-bf59-0ec846cb082f"
+    roles:
+      - other
+  - id: "08552ce8-f750-448b-ba8e-cf80db659447"
+    roles:
+      - other
 socials:
   instagram: "47ter"
   facebook: ""
@@ -18,6 +28,7 @@ socials:
   spotify: "0aXaZj4wB5jLF2E2d8WEVi"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

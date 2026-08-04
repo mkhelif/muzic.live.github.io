@@ -2,9 +2,13 @@
 id: "68c3cb96-1d6a-47b6-b0d9-c1dfa42b7801"
 title: "Dan Hoff"
 socials:
+  apple: "1419757723"
+  deezer: "49500582"
   facebook: ""
   instagram: ""
   x: ""
   threads: ""
   youtube: ""
+lastUpdate:
+  bandsintown-lookup: 2026-08-04
 ---

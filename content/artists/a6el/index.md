@@ -16,11 +16,12 @@ socials:
   deezer: "247939962"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "44585597"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

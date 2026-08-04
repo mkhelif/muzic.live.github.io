@@ -12,7 +12,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "4139900"
   qobuz: ""
   spotify: ""
   tidal: ""
@@ -20,4 +20,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  apple-lookup: 2026-08-04
 ---

@@ -91,7 +91,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "441597923"
   deezer: "288299"
   qobuz: ""
   spotify: "1pRaG81GsVtaTBuVSpldt2"

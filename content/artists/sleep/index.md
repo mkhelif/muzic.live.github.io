@@ -10,7 +10,7 @@ socials:
   web: ""
   email: ""
   spotify: ""
-  deezer: ""
+  deezer: "376714021"
   apple: ""
   tidal: ""
 todo:
