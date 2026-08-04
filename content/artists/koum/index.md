@@ -38,5 +38,3 @@ morceaux.
 
 Koum publie son premier EP fin 2023 et se produit depuis sur scène, notamment en première partie de l'artiste Yamê
 et lors d'un hommage à Jean-Louis Murat.
-
-Sources : [Réseau Printemps](https://www.reseau-printemps.com/artiste/koum/), [Printemps de Bourges](https://www.printemps-bourges.com/artiste/koum/)

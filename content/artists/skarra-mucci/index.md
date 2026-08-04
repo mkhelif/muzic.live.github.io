@@ -43,5 +43,3 @@ en France. Signé en 2014 par le label français Undisputed Records, il publie l
 les collaborations, partageant la scène avec des artistes comme Beenie Man, Dub Inc, Yellow Man ou Mad Professor, sur
 des titres comme "Greater than Great", "My Sound", "Life So Rich" ou "Dreader Than Dread". Sa musique connaît un
 succès particulier en France, en Italie et au Mexique.
-
-Sources : [Reggaeville](https://www.reggaeville.com/artist-details/skarra-mucci/about/), [site officiel](https://www.skarramucci.com/)

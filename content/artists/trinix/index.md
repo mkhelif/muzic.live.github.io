@@ -44,5 +44,3 @@ single "Rodeo" dépasse le million d'écoutes en quelques mois et est diffusé s
 monde, se hissant en tête des classements dans plusieurs pays dont l'Allemagne, la Russie et la Pologne. Le duo
 devient également viral grâce à des vidéos revisitant des thèmes célèbres, comme ceux de Harry Potter ou des
 Simpson, cumulant des millions de vues et relayées à plusieurs reprises par Netflix sur ses réseaux.
-
-Sources : [site officiel](https://en.trinixmusic.com/bio), [Musicaddict](https://www.musicaddict.fr/a-la-decouverte-de-trinix-le-duo-electro-francais-devoile-son-nouvel-album-origin/)

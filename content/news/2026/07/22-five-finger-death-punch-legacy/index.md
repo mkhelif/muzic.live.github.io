@@ -4,6 +4,7 @@ title: "Five Finger Death Punch fête ses vingt ans avec « Legacy », dixième 
 category: "album"
 artists:
   - "5f8dc2cf-1f0d-4cce-acbc-6452e99cd924"
+album: "06c53225-46b3-4e16-8c96-f0b45f7cb6b7"
 ---
 
 Vendredi 31 juillet, **Five Finger Death Punch** publie *Legacy*, son dixième album studio — exactement dix-neuf

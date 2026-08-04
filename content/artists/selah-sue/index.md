@@ -51,5 +51,3 @@ Son second album, "Reason", sort en mars 2015 et connaît un succès comparable 
 tête des ventes aux Pays-Bas, il comprend une collaboration avec le rappeur américain Childish Gambino. Après une
 période de retrait, Selah Sue revient en 2022 avec "Persona", un projet plus intime et exploratoire, influencé par
 la neo-soul et la R&B alternative.
-
-Sources : [Wikipedia](https://en.wikipedia.org/wiki/Selah_Sue), [AllMusic](https://www.allmusic.com/artist/mn0002578112)

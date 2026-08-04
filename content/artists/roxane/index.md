@@ -40,5 +40,3 @@ les portes du label Decca Records.
 Après un premier EP remarqué, Roxane publie son premier album, "Still Waters Run Deep", produit entre Paris et
 Londres avec Paul O'Duffy - qui a notamment travaillé avec Jungle, les Bee Gees et Amy Winehouse. L'album porte une
 pop tendre et empreinte de soul, à la lumière vintage et intemporelle.
-
-Sources : [Discogs](https://www.discogs.com/release/36843454-Roxane-Ischi-Still-Waters-Run-Deep), [Docks Lausanne](https://www.docks.ch/evenement/concerts/20260512/roxane/)

@@ -42,5 +42,3 @@ latines - une musique qu'il veut instinctive et nourrie de rythmes et de mélodi
 Il se fait d'abord remarquer avec ses deux premiers EP, "Demna" (octobre 2022) et "Tamara" (janvier 2025), avant de
 confirmer avec un troisième projet, "Extasia", sorti en octobre 2025. En 2026, il est nommé dans la catégorie
 Révélation masculine de l'année aux Victoires de la Musique.
-
-Sources : [Medina Morocco Magazine](https://medinamoroccomagazine.com/qui-est-ino-casablanca-le-rappeur-franco-marocain-a-voir-absolument-cet-ete-a-jazzablanca/), [Francofolies](https://www.francofolies.fr/artistes/ino-casablanca/)

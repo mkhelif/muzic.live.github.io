@@ -47,5 +47,3 @@ réunionnaises, accents balkaniques, dub et soul, dans une pop électronique aux
 ##### Une artiste de scène
 
 Luiza s'est notamment produite au Printemps de Bourges en avril 2026.
-
-Sources : [Le Matin](https://www.lematin.ch/story/sion-sous-les-etoiles-luiza-je-vis-mon-reve-mais-j-en-ai-encore-d-autres-103603340), [Printemps de Bourges](https://www.printemps-bourges.com/artiste/luiza/)

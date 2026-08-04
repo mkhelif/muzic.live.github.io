@@ -74,5 +74,3 @@ en 2016.
 ##### Une carrière toujours active
 
 Morcheeba poursuit son activité avec la sortie, en 2025, de son plus récent album studio, "Escape the Chaos".
-
-Sources : [Wikipedia](https://en.wikipedia.org/wiki/Morcheeba), [Last.fm](https://www.last.fm/music/Morcheeba/+wiki)

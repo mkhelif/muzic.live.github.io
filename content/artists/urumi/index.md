@@ -40,5 +40,3 @@ répondent.
 
 Urumi s'est produite dans de grands festivals français et européens, parmi lesquels We Love Green, Primavera Sound,
 Solidays, Les Plages Électroniques et Les Eurockéennes.
-
-Sources : [Mixte Magazine](https://www.mixtemagazine.com/article/urumi-dj-productrice-interview/), [Wart Music](https://wartiste.com/en/artists/urumi)

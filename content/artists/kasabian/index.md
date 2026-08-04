@@ -51,5 +51,3 @@ ainsi que le prix du meilleur groupe live aux Q Awards 2014 et aux NME Awards 20
 
 Le 22 septembre 2025, Kasabian publie "Hippie Sunshine", premier extrait de son neuvième album, "Act III", attendu
 au printemps 2026.
-
-Sources : [Wikipedia](https://en.wikipedia.org/wiki/Kasabian), [Kasabian Archive](https://www.kasabianarchive.co.uk/band-biographies/)

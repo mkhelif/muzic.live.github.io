@@ -44,5 +44,3 @@ punk, dubstep, screamo et metal alternatif.
 Les singles suivants, "Spit", "Selma Hayek" et "The Void Stares Back", cumulent des millions d'écoutes et installent
 le duo comme l'un des fers de lance du renouveau du nu metal. Leur premier EP, "Explicit: The Mixxxtape", sort en
 2022 chez Republic Records, suivi en 2023 de leur premier album complet, "Venom".
-
-Sources : [Wikipedia](https://en.wikipedia.org/wiki/Wargasm), [Last.fm](https://www.last.fm/music/Wargasm/+wiki)

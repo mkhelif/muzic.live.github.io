@@ -99,5 +99,3 @@ extrait de l'album "Objectif : Thunes" en 2008, reste sans doute leur morceau le
 "Panzer Surprise !" marque un tournant, porté par les singles "Kammthaar" et "Evier Metal" : il propulse Ultra Vomit
 sous les projecteurs, jusqu'au Hellfest et à l'Olympia, installant durablement le groupe comme locomotive du metal
 parodique français.
-
-Sources : [Rock Sound](https://rocksound.fr/ultra-vomit-metal/), [Wikipédia](https://fr.wikipedia.org/wiki/Ultra_Vomit)

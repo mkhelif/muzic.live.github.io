@@ -44,5 +44,3 @@ des reprises de "Sabotage" des Beastie Boys et de "Gimme All Your Lovin'" de ZZ 
 Miracle" (2020), contient six morceaux originaux et cinq reprises, dont des classiques de Metallica et Kansas, et
 atteint la 17e place des classements finlandais. En 2025, "The Dark Side of the Moo" rééquilibre le répertoire vers
 les reprises, avec seulement trois titres originaux.
-
-Sources : [Wikipedia](https://en.wikipedia.org/wiki/Steve_'n'_Seagulls), [AllMusic](https://www.allmusic.com/artist/steve-n-seagulls-mn0003296532/biography)

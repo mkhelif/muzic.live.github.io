@@ -46,5 +46,3 @@ en perpétuelle recherche d'innovation.
 
 Rappeuse polyglotte au flow technique et rapide, Tracy De Sá est une féministe revendiquée et fondatrice du collectif
 Pussy Club. Elle se produit dès 2018 au Printemps de Bourges, dans le cadre des Inouïs.
-
-Sources : [L'influx](https://www.linflux.com/musique/a-la-rencontre-de-tracy-de-sa/), [Trempo](https://trempo.com/actualites/tracy-de-sa-notre-existence-dans-la-musique-est-deja-un-acte-politique/)

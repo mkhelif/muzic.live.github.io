@@ -40,5 +40,3 @@ Son titre "Bécane" le fait connaître au-delà des frontières françaises, att
 luxembourgeois de Billboard, la neuvième place du classement des singles en France et la onzième place de l'Ultratop
 wallon en Belgique. Sur scène, l'artiste se distingue par une aisance naturelle et une capacité à transformer chaque
 performance en un moment de connexion intense avec le public.
-
-Sources : [Wikipedia](https://en.wikipedia.org/wiki/Yam%C3%AA), [Montreux Jazz Festival](https://www.montreuxjazzfestival.com/en/artist/yame/)

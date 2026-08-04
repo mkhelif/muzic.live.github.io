@@ -51,5 +51,3 @@ Menhirs, et "You See Me", avec Mandragora.
 En décembre 2022, La P'tite Fumée se fait connaître d'un public beaucoup plus large en participant à la dix-septième
 saison de "La France a un incroyable talent" sur M6, où le jury, et notamment André Manoukian, lui offre son Golden
 Buzzer - propulsant le groupe ariégeois sur le devant de la scène nationale.
-
-Sources : [Wikipédia](https://fr.wikipedia.org/wiki/La_P'tite_Fum%C3%A9e), [Unidivers](https://unidivers.fr/la-ptite-fumee/), [site officiel](https://laptitefumee.com/en/)

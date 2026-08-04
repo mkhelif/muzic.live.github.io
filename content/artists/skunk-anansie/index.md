@@ -49,5 +49,3 @@ avec son parolier de longue date Len Arran, puis "Fake Chemical State" (2006). S
 enchaînant des concerts à guichets fermés et enregistrant trois nouveaux titres pour la compilation "Smashes &
 Trashes". Ce retour se prolonge avec plusieurs albums acclamés, "Wonderlustre" (2010), "Anarchytecture" (2016) puis
 "The Painful Truth" (2025), qui affinent un son toujours marqué par une esthétique punk et combative.
-
-Sources : [Wikipedia](https://en.wikipedia.org/wiki/Skunk_Anansie), [Wikipedia - Skin](https://en.wikipedia.org/wiki/Skin_(musician))

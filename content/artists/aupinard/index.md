@@ -40,5 +40,3 @@ nom "Opina" et du mot "pinard", clin d'œil au vin bordelais.
 Révélé en octobre 2023 avec le single "Quel type de vibe ?", Aupinard se fait connaître grâce à ses deux premiers EP,
 "Aupitape 1 : Hortensia" et "Pluie, Montagnes et Soleil", qui incarnent un mélange singulier de bossa nova et de R&B
 français, porté par une voix douce et une guitare acoustique héritée de ses influences brésiliennes.
-
-Sources : [Konbini](https://www.konbini.com/popculture/aupinard-le-nouveau-visage-de-la-bossa-nova-et-du-rb-francais/), [Europavox](https://www.europavoxfestivals.com/artist/aupinard/)

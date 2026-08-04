@@ -43,5 +43,3 @@ l'indépendance et la féminité, avec une énergie revendiquée de "girl power"
 Sa carrière s'accélère avec des passages remarqués à la Green Room des Francofolies (2024), au Sakifo (2025), puis
 sur la Grande Scène des Francofolies et au Printemps de Bourges. Sueilo est aujourd'hui signée chez Capitol Records,
 où elle prépare son premier album.
-
-Sources : [Parallèle Sud](https://parallelesud.com/sueilo-la-new-wave-reunionnaise/), [Réseau Printemps](https://www.reseau-printemps.com/artiste/sueilo/)
