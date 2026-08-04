@@ -3,6 +3,7 @@ id: "8af5105d-a3c7-4ec3-83f3-9bdf47cc6592"
 title: "Adés The Planet"
 type: person
 socials:
+  musicbrainz: "060775b7-375c-45f0-8a50-27847708d61d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,8 +17,9 @@ socials:
   deezer: "222154085"
   qobuz: ""
   spotify: "3o7vOXPu0DxO9TB84CoIgE"
-  tidal: ""
+  tidal: "40756068"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

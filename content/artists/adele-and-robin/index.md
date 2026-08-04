@@ -3,6 +3,7 @@ id: "72e05a57-744d-47f9-9c9d-349148e58ce5"
 title: "Adèle & Robin"
 type: band
 socials:
+  musicbrainz: "34e056cf-f7b5-4de5-82fb-325bda1e4d7e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,8 +17,9 @@ socials:
   deezer: "69171232"
   qobuz: ""
   spotify: "1C04qPsvqhYBJhpWGCIFo8"
-  tidal: ""
+  tidal: "16224164"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

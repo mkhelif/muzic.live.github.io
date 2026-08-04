@@ -2,6 +2,7 @@
 id: "9c8e823f-db06-44fa-b5ce-72f52893bd41"
 title: "Adam O'farrill"
 socials:
+  musicbrainz: "207da52d-4f6f-4603-b768-7791f60b6469"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,16 +12,18 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "615160296"
+  deezer: "5728312"
   qobuz: ""
-  spotify: ""
+  spotify: "514NlDQxSkSbQkIDQJyak4"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  deezer: 2026-08-04
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-27

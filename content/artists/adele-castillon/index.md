@@ -3,6 +3,7 @@ id: "58dbbe35-9c6e-4a60-a974-2e75e6d08df5"
 title: "Adèle Castillon"
 type: person
 socials:
+  musicbrainz: "d87c77e3-3512-41ed-b241-6387d4a6ae4e"
   facebook: "adelecastillonmusique"
   instagram: "adelecastillon"
   x: "adelecastillon"
@@ -18,9 +19,12 @@ socials:
   deezer: "55936502"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 2001-10-24
 ---
 
 Adèle Castillon est une chanteuse, actrice et compositrice française née le 24 août 2001. Cette jeune artiste s'est

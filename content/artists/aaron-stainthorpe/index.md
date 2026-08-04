@@ -23,5 +23,6 @@ todo:
 date:
   birth: 1968-11-12
 lastUpdate:
+  deezer: 2026-08-04
   musicbrainz: 2026-08-04
 ---

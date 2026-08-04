@@ -2,6 +2,7 @@
 id: "2352df3c-c06d-47a5-8eac-c09864c55f42"
 title: "Admiral T"
 socials:
+  musicbrainz: "a19287e1-b752-4470-9969-278d31fe4ea3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "68158829"
+  deezer: "80527"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "4TEnXYHvYwoMopWqxeAnTE"
+  tidal: "3702502"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27
 ---
