@@ -6,5 +6,5 @@ artists:
   - "5653373a-2fb6-48a7-9734-8da87d743828"
   - "d6f12690-c0fd-4265-a790-339119d7967e"
 tickets:
-  web: "https://www.songkick.com/concerts/43135561-monolord-at-thalia-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43135561-monolord-at-thalia-hall"
 ---

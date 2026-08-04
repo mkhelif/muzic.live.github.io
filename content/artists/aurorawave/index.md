@@ -2,7 +2,16 @@
 id: "d6142bbe-0024-4871-9d18-d8c918e11d51"
 title: "Aurorawave"
 type: band
+members:
+  - id: "d6965436-6bdd-4bc0-9f96-a3351a951cc1"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2024
+      - start: 2024
 socials:
+  musicbrainz: "b8a151c0-5ae7-40de-84cf-a0f00b765a0b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +20,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  amazon: "B0CQ3RYXT7"
+  apple: "1721003810"
+  deezer: "246657252"
+  qobuz: "20773940"
   spotify: "5ERzKZCMDsFeH15G80MFSS"
-  tidal: ""
+  tidal: "44409024"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-26

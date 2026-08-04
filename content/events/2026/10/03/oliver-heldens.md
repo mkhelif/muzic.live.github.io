@@ -4,5 +4,5 @@ venue: "99957114-4db9-4cef-91f4-6c9948e20dff"
 artists:
   - "147c31d3-41f8-4529-82e9-4c017e35ae99"
 tickets:
-  web: "https://www.songkick.com/concerts/43324167-oliver-heldens-at-el-hotel-pacha?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43324167-oliver-heldens-at-el-hotel-pacha"
 ---

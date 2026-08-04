@@ -4,5 +4,5 @@ venue: "350943b9-f028-40cb-b108-01c6f899a547"
 artists:
   - "72edd215-1f05-46d3-b535-a85085aad69a"
 tickets:
-  web: "https://www.songkick.com/concerts/43313975-boney-james-at-fillmore-new-orleans?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43313975-boney-james-at-fillmore-new-orleans"
 ---

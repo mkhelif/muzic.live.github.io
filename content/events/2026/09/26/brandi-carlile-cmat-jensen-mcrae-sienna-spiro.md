@@ -7,5 +7,5 @@ artists:
   - "d34127fd-2db1-45ae-a518-505faec2cd38"
   - "eab7d010-05c4-4178-9e1f-f20c6c2e5909"
 tickets:
-  web: "https://www.songkick.com/concerts/43223953-brandi-carlile-at-forest-hills-stadium?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43223953-brandi-carlile-at-forest-hills-stadium"
 ---

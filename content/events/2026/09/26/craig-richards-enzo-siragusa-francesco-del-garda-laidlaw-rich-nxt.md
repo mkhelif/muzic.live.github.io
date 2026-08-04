@@ -8,5 +8,5 @@ artists:
   - "a32df2b7-51d8-4caf-96d9-145d59458ad0"
   - "b9ba9dc4-86ae-4143-994b-eba2134180a0"
 tickets:
-  web: "https://www.songkick.com/concerts/43265295-craig-richards-at-mint-xl?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43265295-craig-richards-at-mint-xl"
 ---

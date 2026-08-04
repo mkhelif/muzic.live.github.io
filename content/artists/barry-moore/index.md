@@ -3,6 +3,7 @@ id: "3ec30b14-8fc4-44df-b990-e797350a7867"
 title: "Barry Moore"
 type: person
 socials:
+  musicbrainz: "99ec89d1-1256-4314-97c1-16e7588aabb7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,8 +23,11 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+date:
+  birth: 1955-05-23
 ---

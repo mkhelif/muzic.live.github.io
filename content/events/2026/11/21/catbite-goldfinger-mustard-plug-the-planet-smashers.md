@@ -7,5 +7,5 @@ artists:
   - "592c7836-775a-4ac8-b8a6-ce02f9bac5e8"
   - "7788de37-492d-41ea-85b6-43d5ce8fef49"
 tickets:
-  web: "https://www.songkick.com/concerts/43334168-goldfinger-at-starland-ballroom?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43334168-goldfinger-at-starland-ballroom"
 ---

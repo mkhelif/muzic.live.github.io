@@ -4,5 +4,5 @@ venue: "9bedc1ac-9820-40a2-b657-55aa0c6f1819"
 artists:
   - "af9d93f4-d4e4-451b-913f-b0048a84022e"
 tickets:
-  web: "https://www.songkick.com/concerts/43200679-fit-for-a-king-at-el-teatrito?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43200679-fit-for-a-king-at-el-teatrito"
 ---

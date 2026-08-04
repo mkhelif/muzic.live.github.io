@@ -3,6 +3,7 @@ id: "11acf681-7493-4f70-8e97-e21d67e10c16"
 title: "Alexander Wesselsky"
 type: person
 socials:
+  musicbrainz: "d55555ed-9f34-4730-bc58-78ca2b0b3cf8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,8 +23,11 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1968-11-18
 ---

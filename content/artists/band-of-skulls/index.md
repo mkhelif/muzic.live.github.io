@@ -2,7 +2,18 @@
 id: "b917ad4a-2bea-46c4-ac79-3f9b0c36c4b6"
 title: "Band of Skulls"
 type: band
+members:
+  - id: "4fc68b3a-1f29-4ce2-9a07-8e889a08524a"
+    roles:
+      - other
+  - id: "23e8fc0f-707d-47f9-84f5-09d5a32c2bda"
+    roles:
+      - other
+  - id: "40e47bdc-c940-468f-9ca9-e33e07290b0b"
+    roles:
+      - other
 socials:
+  musicbrainz: "1641141b-3c9c-4772-a5cc-7e23fdf17382"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,8 +27,9 @@ socials:
   deezer: "254000"
   qobuz: ""
   spotify: "4ddt8PPvmWrI9mJQy1VrIG"
-  tidal: ""
+  tidal: "3603300"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

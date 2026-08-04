@@ -6,5 +6,5 @@ artists:
   - "e1ddfc64-2e51-4096-bf14-c82c3f791413"
   - "a6dda5d3-f37c-4ebb-bd73-5551751b902e"
 tickets:
-  web: "https://www.songkick.com/concerts/43274268-all-day-i-dream-at-off-piknic-montreal?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43274268-all-day-i-dream-at-off-piknic-montreal"
 ---

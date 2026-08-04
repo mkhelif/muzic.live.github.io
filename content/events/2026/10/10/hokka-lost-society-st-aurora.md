@@ -6,5 +6,5 @@ artists:
   - "55ed4fc0-7bad-43ac-8cdc-beff6191ede3"
   - "ff181b10-249b-482c-8ce0-c1e4ee9b3ad7"
 tickets:
-  web: "https://www.songkick.com/concerts/43236589-lost-society-at-house-of-olaf?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43236589-lost-society-at-house-of-olaf"
 ---

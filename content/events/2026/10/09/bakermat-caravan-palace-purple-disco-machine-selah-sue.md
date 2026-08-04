@@ -7,5 +7,5 @@ artists:
   - "55513cb2-8987-4c22-b713-aba235b9a9fc"
   - "4fd6e4f9-7871-4ff9-bd71-c83e692649df"
 tickets:
-  web: "https://www.songkick.com/concerts/43088716-selah-sue-at-parc-de-mussonville?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43088716-selah-sue-at-parc-de-mussonville"
 ---

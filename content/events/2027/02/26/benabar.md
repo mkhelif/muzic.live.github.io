@@ -4,5 +4,5 @@ venue: "2e803772-5ea6-42bc-91a5-bfd1e66b35c9"
 artists:
   - "6baa2aba-6ba9-4aec-9f74-d53e3706fff5"
 tickets:
-  web: "https://www.songkick.com/concerts/43134752-benabar-at-theatre-royal?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43134752-benabar-at-theatre-royal"
 ---

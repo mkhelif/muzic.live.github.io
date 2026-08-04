@@ -3,6 +3,7 @@ id: "b3e8db31-40f7-4b92-a8e3-20e888655173"
 title: "Aerial Salad"
 type: band
 socials:
+  musicbrainz: "30be4dae-121e-4219-b366-cec72eae4724"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

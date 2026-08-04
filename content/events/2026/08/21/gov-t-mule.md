@@ -4,5 +4,5 @@ venue: "34a14971-79aa-4492-9d2d-43b649bba035"
 artists:
   - "c2b7cfc4-3692-4ae5-bf49-3686901bce4c"
 tickets:
-  web: "https://www.songkick.com/concerts/43221761-govt-mule-at-red-butte-garden-amphitheatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43221761-govt-mule-at-red-butte-garden-amphitheatre"
 ---

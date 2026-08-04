@@ -3,6 +3,7 @@ id: "6c1ffec0-1e6d-4d72-bda4-4dbbed3fdbd9"
 title: "Anton Newcombe"
 type: person
 socials:
+  musicbrainz: "2e5eb6d3-7cb3-4e02-9ed2-ea1853e6e637"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,13 +17,16 @@ socials:
   deezer: "4420165"
   qobuz: ""
   spotify: "6FBGg3WVGPtpIbfmnkYBNS"
-  tidal: ""
+  tidal: "6113167"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
+date:
+  birth: 1967-08-29
 ---

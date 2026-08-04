@@ -2,7 +2,44 @@
 id: "8538898e-ec26-4a78-b33b-8f65dddc2be2"
 title: "Any Given Day"
 type: band
+members:
+  - id: "218e65d5-3446-4815-8444-15804ce7245d"
+    roles:
+      - sing
+    periods:
+      - start: 2012
+  - id: "bbc2e314-1003-4cca-ac46-5ded8190d6e4"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2012
+      - start: 2012
+  - id: "e40bb9be-a86d-4de8-b14a-41e218f96230"
+    roles:
+      - guitar
+    periods:
+      - start: 2012
+  - id: "3e2c26e7-66c8-4df5-8d66-378094ee77c0"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2012
+      - start: 2012
+  - id: "4dbba9c0-ef19-4cfd-ac5c-c04afd890a07"
+    roles:
+      - drums
+    periods:
+      - start: 2019
+  - id: "d5dc6988-1a27-45f6-bde8-f3548379ca2c"
+    roles:
+      - drums
+    periods:
+      - start: 2012
+        end: 2019
 socials:
+  musicbrainz: "196c671b-b305-4504-8e9e-975f1c3e8a7e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +48,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
+  amazon: "B001U08VHS"
+  apple: "1105621613"
+  deezer: "1468674"
   qobuz: ""
   spotify: "4p6RoajGbtqLSfYZpFxHyU"
-  tidal: ""
+  tidal: "4327478"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-26

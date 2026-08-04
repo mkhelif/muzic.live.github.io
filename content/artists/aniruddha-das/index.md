@@ -3,6 +3,7 @@ id: "b48e59d6-d46f-4c5e-8878-a19f532523f0"
 title: "Aniruddha Das"
 type: person
 socials:
+  musicbrainz: "a4f14548-c390-4f7c-aa27-8b7a3041fa0c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

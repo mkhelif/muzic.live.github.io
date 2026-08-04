@@ -4,5 +4,5 @@ venue: "f6464582-3919-4642-a5a4-1d7bcbd9877b"
 artists:
   - "458202f1-2a97-46e2-bb8c-adb97c80eeb4"
 tickets:
-  web: "https://www.songkick.com/concerts/43309987-mystery-jets-at-resident-music?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43309987-mystery-jets-at-resident-music"
 ---

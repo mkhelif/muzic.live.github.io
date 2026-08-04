@@ -4,5 +4,5 @@ venue: "9351fb3a-218e-4259-9ab2-fbb263aab6a2"
 artists:
   - "198a516f-77f8-458b-8cc2-9930ac982e71"
 tickets:
-  web: "https://www.songkick.com/concerts/43170549-mac-demarco-at-music-hall-of-williamsburg?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43170549-mac-demarco-at-music-hall-of-williamsburg"
 ---

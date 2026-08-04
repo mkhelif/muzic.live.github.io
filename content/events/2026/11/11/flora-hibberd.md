@@ -4,5 +4,5 @@ venue: "4b2a83ae-f9e6-4441-9415-f161f8370e03"
 artists:
   - "4409f02d-8cc0-46c3-96f8-5302bf318add"
 tickets:
-  web: "https://www.songkick.com/concerts/43238944-flora-hibberd-at-gullivers?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43238944-flora-hibberd-at-gullivers"
 ---

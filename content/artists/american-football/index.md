@@ -2,6 +2,7 @@
 id: "45dd0c0c-ca34-4b24-a460-745223c6d2fe"
 title: "American Football"
 socials:
+  musicbrainz: "4ebb5ad3-9018-407d-8c24-c03011ab9ac6"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,14 +15,15 @@ socials:
   amazon: "B000X5IG6W"
   apple: "27560658"
   deezer: "988403"
-  qobuz: ""
+  qobuz: "344731"
   spotify: ""
-  tidal: ""
+  tidal: "3646659"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

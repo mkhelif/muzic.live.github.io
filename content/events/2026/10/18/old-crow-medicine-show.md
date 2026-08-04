@@ -4,5 +4,5 @@ venue: "e80fea72-ae83-4935-9445-194c7a2627bc"
 artists:
   - "87036817-7208-49a2-a99c-23a4ddf87df2"
 tickets:
-  web: "https://www.songkick.com/concerts/43212442-old-crow-medicine-show-at-penns-peak?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43212442-old-crow-medicine-show-at-penns-peak"
 ---

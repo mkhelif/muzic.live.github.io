@@ -3,6 +3,7 @@ id: "4c9cd8aa-b17e-4a17-a0cb-404947348522"
 title: "Al Pitrelli"
 type: person
 socials:
+  musicbrainz: "3708099f-c130-443f-ba21-a1ce63631d9c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,8 +23,11 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1962-09-26
 ---

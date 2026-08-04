@@ -6,5 +6,5 @@ artists:
   - "d6d41c0c-2f81-4be0-b81e-f20bca6d316a"
   - "273fb493-da91-4853-9fb7-e49b11a17635"
 tickets:
-  web: "https://www.songkick.com/concerts/43252212-impact-at-parc-des-expositions?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43252212-impact-at-parc-des-expositions"
 ---

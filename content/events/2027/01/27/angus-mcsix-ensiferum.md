@@ -5,5 +5,5 @@ artists:
   - "0f6eefc6-f957-45e7-8daf-87e7b73770b4"
   - "bcb91df8-f62c-41b4-b9b4-76eb8a96bb29"
 tickets:
-  web: "https://www.songkick.com/concerts/43088078-ensiferum-at-la-laiterie?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43088078-ensiferum-at-la-laiterie"
 ---

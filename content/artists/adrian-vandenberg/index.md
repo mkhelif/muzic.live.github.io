@@ -3,6 +3,7 @@ id: "700ef4e7-e11c-4e5d-84f5-3b4aeb2347d6"
 title: "Adrian Vandenberg"
 type: person
 socials:
+  musicbrainz: "a61de5d6-5c37-443d-abee-63a8a18bbd20"
   instagram: "adrianvandenberg_official"
   x: "vandenbergband"
   bandsintown: "631287"
@@ -18,10 +19,13 @@ socials:
   deezer: "4433662"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1954-01-31
 ---
 
 Adrian Vandenberg, de son vrai nom Adriaan van den Berg, naît le 31 janvier 1954 aux Pays-Bas et se passionne très tôt

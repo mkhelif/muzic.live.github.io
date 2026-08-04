@@ -8,5 +8,5 @@ artists:
   - "51436830-d36e-461d-85f1-b1145fec0cf7"
   - "28a55e9f-db8d-4b86-b110-7178bad47a92"
 tickets:
-  web: "https://www.songkick.com/concerts/42945395-jeanlouis-aubert-at-festival-musicalarue?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42945395-jeanlouis-aubert-at-festival-musicalarue"
 ---

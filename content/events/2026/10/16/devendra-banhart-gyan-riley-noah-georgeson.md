@@ -6,5 +6,5 @@ artists:
   - "11020cce-2eb8-428d-be0c-2e2258e8cf48"
   - "5ff073f4-a284-4b37-ad00-6f7276d7756e"
 tickets:
-  web: "https://www.songkick.com/concerts/43314878-hug-at-constellation-chicago?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43314878-hug-at-constellation-chicago"
 ---

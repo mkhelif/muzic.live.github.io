@@ -5,5 +5,5 @@ artists:
   - "e012768f-87f9-4a32-859a-912fbcae171b"
   - "091b7e5f-2236-42ba-9b8a-5063afdac921"
 tickets:
-  web: "https://www.songkick.com/concerts/43313924-john-craigie-at-old-whaling-church?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43313924-john-craigie-at-old-whaling-church"
 ---

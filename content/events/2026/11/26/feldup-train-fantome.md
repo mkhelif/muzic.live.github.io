@@ -5,5 +5,5 @@ artists:
   - "de5dd543-22f9-4e1a-a53c-4aafc85b8c77"
   - "4a559ff6-334b-4a0d-b9fa-778378fb25a0"
 tickets:
-  web: "https://www.songkick.com/concerts/43267851-feldup-at-le-bateau-ivre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43267851-feldup-at-le-bateau-ivre"
 ---

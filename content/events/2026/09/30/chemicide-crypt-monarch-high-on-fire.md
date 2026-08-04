@@ -6,5 +6,5 @@ artists:
   - "1773f6bc-3eab-44e0-8464-abda2e97fd6f"
   - "c640d225-5174-4517-97ea-fb90c3252a25"
 tickets:
-  web: "https://www.songkick.com/concerts/43300741-high-on-fire-at-amon-solar?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43300741-high-on-fire-at-amon-solar"
 ---

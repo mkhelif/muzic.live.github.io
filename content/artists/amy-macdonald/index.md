@@ -3,6 +3,7 @@ id: "ddfc3b61-7c0f-4722-a46e-f690c38f8f49"
 title: "Amy Macdonald"
 type: person
 socials:
+  musicbrainz: "6aa40207-fec8-43a7-991d-b872a42def05"
   facebook: "amymacdonaldmusic"
   instagram: "amy__macdonald"
   threads: "@amy__macdonald"
@@ -22,10 +23,13 @@ management: "97049768-d9c6-4bf6-ba4e-1ead47b41b83"
 todo:
   - Add picture from concert
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   apple: 2026-07-26
   bandsintown: 2026-07-26
   spotify: 2026-07-23
+date:
+  birth: 1987-08-25
 ---
 
 Il y a une chanson que vous avez forcément entendue — dans un pub, dans un stade, lors d'un mariage, à la radio d'un

@@ -2,6 +2,7 @@
 id: "733f7907-a4a4-4981-8bb1-bdbf5f536648"
 title: "Banadisa"
 socials:
+  musicbrainz: "42f8db57-8580-42fb-978f-7ad07292aa70"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

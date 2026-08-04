@@ -6,5 +6,5 @@ artists:
   - "5a2593e3-6c18-4383-9a76-c9956c62e72f"
   - "2e691d1f-501d-46cd-9f25-47b6b5b005d2"
 tickets:
-  web: "https://www.songkick.com/concerts/43051563-foo-fighters-at-marvel-stadium?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43051563-foo-fighters-at-marvel-stadium"
 ---

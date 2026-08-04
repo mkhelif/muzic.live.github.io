@@ -6,5 +6,5 @@ artists:
   - "6f6ed179-b7ff-4087-a710-9a33fb7a6110"
   - "0d0e9eb6-2e01-4f37-b3d4-f32328686c49"
 tickets:
-  web: "https://www.songkick.com/concerts/43321409-leo-montana-at-jass-club-paris?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43321409-leo-montana-at-jass-club-paris"
 ---

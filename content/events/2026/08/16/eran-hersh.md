@@ -4,5 +4,5 @@ venue: "e9ef4bd0-6665-47d5-ad3d-6b11b979fb2e"
 artists:
   - "00138a47-95ce-4569-8106-90af09fd3aba"
 tickets:
-  web: "https://www.songkick.com/concerts/43313936-eran-hersh-at-spotlight?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43313936-eran-hersh-at-spotlight"
 ---

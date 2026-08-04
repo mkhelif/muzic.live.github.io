@@ -4,5 +4,5 @@ venue: "4e0dbfd7-6e91-4b28-b25d-e066b8bd9743"
 artists:
   - "e30a79da-7be4-4324-8e0f-a5c1440f3fe8"
 tickets:
-  web: "https://www.songkick.com/concerts/43214633-paris-paloma-at-roseland-theater?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43214633-paris-paloma-at-roseland-theater"
 ---

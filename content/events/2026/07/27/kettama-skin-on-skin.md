@@ -5,5 +5,5 @@ artists:
   - "975b9ba2-dcb3-4705-bdef-3922f63c12fd"
   - "09d855f3-c9e9-4f2e-a072-4c7f86fcf22f"
 tickets:
-  web: "https://www.songkick.com/concerts/43145599-kettama-at-amnesia-ibiza?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43145599-kettama-at-amnesia-ibiza"
 ---

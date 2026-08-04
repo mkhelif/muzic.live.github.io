@@ -3,6 +3,7 @@ id: "5352ba94-b294-4245-a5af-3a21d477200f"
 title: "Alpha Blondy"
 type: person
 socials:
+  musicbrainz: "88502cc3-20e7-4c5d-b583-ea84ed263db4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +17,14 @@ socials:
   deezer: "714"
   qobuz: ""
   spotify: "41ekW4MXG59xJMXR8dX1OG"
-  tidal: ""
+  tidal: "3510590"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-25
   spotify: 2026-07-23
+date:
+  birth: 1953-01-01
 ---
 
 Alpha Blondy, de son vrai nom Seydou Koné, est né le 1er janvier 1953 à Dimbokro, en Côte d'Ivoire. Chanteur de reggae

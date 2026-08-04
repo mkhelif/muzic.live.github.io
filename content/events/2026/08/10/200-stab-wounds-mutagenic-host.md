@@ -5,5 +5,5 @@ artists:
   - "9922ffbb-2982-4882-8296-832ddbcb6a3c"
   - "f4f82c3a-4b0f-4c99-a98a-09f32974a64d"
 tickets:
-  web: "https://www.songkick.com/concerts/43177316-200-stab-wounds-at-key-club?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43177316-200-stab-wounds-at-key-club"
 ---

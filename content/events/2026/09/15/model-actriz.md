@@ -4,5 +4,5 @@ venue: "a00e4488-5f6d-42bf-ac89-48c56d6a59c4"
 artists:
   - "4aae4770-0063-4030-ad6c-52600ebeb471"
 tickets:
-  web: "https://www.songkick.com/concerts/43118322-modelactriz-at-an-club?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43118322-modelactriz-at-an-club"
 ---

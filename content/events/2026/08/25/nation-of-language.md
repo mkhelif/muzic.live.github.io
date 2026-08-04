@@ -4,5 +4,5 @@ venue: "da541af7-9967-48a2-8bd0-3b6573203ae1"
 artists:
   - "72d3e1d5-991f-4f13-a7af-44656aeff56b"
 tickets:
-  web: "https://www.songkick.com/concerts/43106657-nation-of-language-at-leeds-irish-centre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43106657-nation-of-language-at-leeds-irish-centre"
 ---

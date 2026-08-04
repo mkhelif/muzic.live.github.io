@@ -4,5 +4,5 @@ venue: "e3c25b23-d07d-40c6-a519-f0864afc04d3"
 artists:
   - "4409f02d-8cc0-46c3-96f8-5302bf318add"
 tickets:
-  web: "https://www.songkick.com/concerts/43296835-flora-hibberd-at-neue-zukunft?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43296835-flora-hibberd-at-neue-zukunft"
 ---

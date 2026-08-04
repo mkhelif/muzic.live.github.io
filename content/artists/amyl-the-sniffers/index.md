@@ -2,7 +2,24 @@
 id: "276ee5df-36d9-453c-aac3-8cc564b1c202"
 title: "Amyl & The Sniffers"
 type: band
+members:
+  - id: "50453f58-c5f3-491e-9f02-761196b882c8"
+    roles:
+      - guitar
+  - id: "9c788632-5fc3-4edc-87b1-4a23e5eedd7f"
+    roles:
+      - guitar
+  - id: "2ca75fd1-fd7c-445a-9aec-5cba22da4441"
+    roles:
+      - bass
+  - id: "73ca947f-cbe6-44b3-ab65-18a85d851d8e"
+    roles:
+      - sing
+  - id: "189b568b-fd8f-4167-b785-f9632b9bd166"
+    roles:
+      - drums
 socials:
+  musicbrainz: "0f74b263-65bf-4027-9708-45aadf40122d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,12 +28,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1215764503"
   deezer: "287670241"
-  qobuz: ""
+  qobuz: "3596573"
   spotify: "3NqV2DJoAWsjl787bWaHW7"
-  tidal: ""
+  tidal: "9623525"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25

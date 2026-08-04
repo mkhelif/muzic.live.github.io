@@ -8,5 +8,5 @@ artists:
   - "21a2f9fe-d5ce-479d-b7fa-5ad8612af31f"
   - "c334a76b-7775-4509-be45-9177d96f5d98"
 tickets:
-  web: "https://www.songkick.com/concerts/43239303-flore-laurentienne-at-garfield-park-conservatory?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43239303-flore-laurentienne-at-garfield-park-conservatory"
 ---

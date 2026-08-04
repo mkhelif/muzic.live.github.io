@@ -5,5 +5,5 @@ artists:
   - "e8208465-f502-4c72-8cb9-677f80ebf5d5"
   - "6d4c85f0-0d4a-455a-816d-9fcc6025f5dc"
 tickets:
-  web: "https://www.songkick.com/concerts/43333799-da-iguana-at-la-renverse?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43333799-da-iguana-at-la-renverse"
 ---

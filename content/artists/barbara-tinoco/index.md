@@ -3,6 +3,7 @@ id: "4d300966-05ab-4615-a668-563518c02dfc"
 title: "Bárbara Tinoco"
 type: person
 socials:
+  musicbrainz: "4268daf5-68f2-4c6e-a8c7-3e1d17fbf011"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,9 +22,12 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+date:
+  birth: 1998-11-16
 ---
 
 Bárbara Tinoco est une chanteuse et compositrice portugaise née le 16 novembre 1998 à Lisbonne. Elle apprend la

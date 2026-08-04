@@ -2,6 +2,7 @@
 id: "1f9ca176-63f3-4040-9b84-692d3c044fb7"
 title: "Berget Lewis"
 socials:
+  musicbrainz: "0242041b-d2a9-4957-902c-cde2bb807ef7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,13 @@ socials:
   apple: "206241133"
   deezer: "712254"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "56EYDRc4IlffrNZyE5vtOx"
+  tidal: "4630703"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz: 2026-08-04
+  deezer: 2026-08-04
 ---

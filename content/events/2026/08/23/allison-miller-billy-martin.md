@@ -5,5 +5,5 @@ artists:
   - "6330fdd1-545c-449a-a6d6-f486f4f0fb91"
   - "86ab7e75-84b1-4d34-920c-bef85af0ad8a"
 tickets:
-  web: "https://www.songkick.com/concerts/43308880-allison-miller-at-michiko-studios?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43308880-allison-miller-at-michiko-studios"
 ---

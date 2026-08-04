@@ -5,5 +5,5 @@ artists:
   - "f796440b-aab2-4453-97c2-2735ad982a3c"
   - "c059372e-d3a7-42d2-9191-b66a7b272cfd"
 tickets:
-  web: "https://www.songkick.com/concerts/43231303-il-mago-del-gelato-at-ex-macello-i-make?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43231303-il-mago-del-gelato-at-ex-macello-i-make"
 ---

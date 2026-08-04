@@ -7,5 +7,5 @@ artists:
   - "01b9bf67-7f3e-49e3-bdab-191c73af92da"
   - "4564102d-66e4-49b4-97fd-1dfeefae9c10"
 tickets:
-  web: "https://www.songkick.com/concerts/43090886-acid-bath-at-hellbender-by-the-orange-peel?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43090886-acid-bath-at-hellbender-by-the-orange-peel"
 ---

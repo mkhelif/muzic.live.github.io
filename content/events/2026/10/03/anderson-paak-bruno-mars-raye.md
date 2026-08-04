@@ -6,5 +6,5 @@ artists:
   - "576bf5f2-a384-4b84-a034-fa57fa72404b"
   - "f5247646-e809-45e8-b7cb-1052412b014b"
 tickets:
-  web: "https://www.songkick.com/concerts/42977705-bruno-mars-at-sofi-stadium?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42977705-bruno-mars-at-sofi-stadium"
 ---

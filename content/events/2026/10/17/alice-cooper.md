@@ -4,5 +4,5 @@ venue: "77fb4bfb-a620-4c59-b58b-3fc1f7d07d6d"
 artists:
   - "c53f2102-8d18-46a5-a3de-752ccd168902"
 tickets:
-  web: "https://www.songkick.com/concerts/43091726-alice-cooper-at-stockton-globe?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43091726-alice-cooper-at-stockton-globe"
 ---

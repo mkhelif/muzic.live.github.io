@@ -4,5 +4,5 @@ venue: "245b9f80-8aa4-48b6-91e0-a6d5a035b4c3"
 artists:
   - "851a0e6f-2991-412b-90eb-d055a7f87d21"
 tickets:
-  web: "https://www.songkick.com/concerts/43142839-orianthi-at-coach-house?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43142839-orianthi-at-coach-house"
 ---

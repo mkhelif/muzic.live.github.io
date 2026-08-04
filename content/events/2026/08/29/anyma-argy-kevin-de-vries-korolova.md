@@ -7,5 +7,5 @@ artists:
   - "ece67333-8002-4536-9ac5-8a1ac967df98"
   - "9aec3146-7204-46f8-81b2-a8b100af63d4"
 tickets:
-  web: "https://www.songkick.com/concerts/43332155-anyma-at-ambleside-park?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43332155-anyma-at-ambleside-park"
 ---

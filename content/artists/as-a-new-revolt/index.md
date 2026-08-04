@@ -3,6 +3,7 @@ id: "57f3e669-a1b6-4054-b265-0ff2d248a150"
 title: "As A New Revolt"
 type: band
 socials:
+  musicbrainz: "95f43a70-f97c-463d-b51d-e893d70ec372"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: "1rpixXOIm0jXT8ZqAvk7xd"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

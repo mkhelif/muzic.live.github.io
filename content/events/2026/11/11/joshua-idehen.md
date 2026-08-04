@@ -4,5 +4,5 @@ venue: "0148984d-1a34-49fa-aae0-f022348b1537"
 artists:
   - "3a9930c2-c4bc-46fd-a915-a91f99b657a0"
 tickets:
-  web: "https://www.songkick.com/concerts/43104032-joshua-idehen-at-project-house?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43104032-joshua-idehen-at-project-house"
 ---

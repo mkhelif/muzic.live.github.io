@@ -7,5 +7,5 @@ artists:
   - "1f155e00-f9fb-4b0e-a4ab-d246d1dee40e"
   - "1ebe8f7f-ea88-4e92-a612-52a219efd468"
 tickets:
-  web: "https://www.songkick.com/concerts/43229361-bury-tomorrow-at-galvanizers-yard-swg3?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43229361-bury-tomorrow-at-galvanizers-yard-swg3"
 ---

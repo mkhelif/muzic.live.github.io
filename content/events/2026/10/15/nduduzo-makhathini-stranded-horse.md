@@ -5,5 +5,5 @@ artists:
   - "c71a9ff4-d9a9-4012-bf98-01ed526c6c1f"
   - "01c961b0-9fe7-42a1-98af-a15ca7434233"
 tickets:
-  web: "https://www.songkick.com/concerts/43238818-nduduzo-makhathini-at-theatre-de-la-manufacture?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43238818-nduduzo-makhathini-at-theatre-de-la-manufacture"
 ---

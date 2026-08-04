@@ -4,5 +4,5 @@ venue: "cd8d6227-38b3-4a04-992e-3c6b0f3ab26d"
 artists:
   - "148e6804-42c4-41aa-af25-33a693a8af13"
 tickets:
-  web: "https://www.songkick.com/concerts/43286833-angine-de-poitrine-at-into-the-great-wide-open-festival?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43286833-angine-de-poitrine-at-into-the-great-wide-open-festival"
 ---

@@ -2,7 +2,64 @@
 id: "d9858891-4e1a-44ca-9671-54ec4077036d"
 title: "Balthazar"
 type: band
+members:
+  - id: "4abc28d3-3128-4e46-8408-dd898a1ea197"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2004
+  - id: "ecab4254-b4c9-4697-9398-81181ef227d3"
+    roles:
+      - sing
+      - guitar
+      - keys
+    periods:
+      - start: 2004
+  - id: "1fb0655f-84a0-4b56-bcc0-46c0a3fcf7a2"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2007
+  - id: "63b24cf2-d90e-41d4-9e45-6f924f20a98c"
+    roles:
+      - drums
+    periods:
+      - start: 2014
+  - id: "34e118a5-3094-474d-8771-d12ab1433e81"
+    roles:
+      - other
+    periods:
+      - start: 2018
+  - id: "8f1b5041-7a0b-462c-b1d5-3bb07ccd8ea2"
+    roles:
+      - bass
+    periods:
+      - start: 2004
+        end: 2007
+  - id: "f6ac3409-d694-4e00-9d12-80b54a361706"
+    roles:
+      - drums
+    periods:
+      - start: 2004
+        end: 2007
+  - id: "2abc3246-ae2d-4209-afb9-dfaf9444afc7"
+    roles:
+      - sing
+      - keys
+      - other
+    periods:
+      - start: 2004
+        end: 2018
+  - id: "c9441be5-62a1-4d1d-ad23-f5f4542e6c58"
+    roles:
+      - drums
+    periods:
+      - start: 2007
+        end: 2014
 socials:
+  musicbrainz: "91511517-ef93-4d71-a0f0-c858272af4a7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +69,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "42001812"
+  deezer: "384181"
   qobuz: ""
   spotify: "4oMBP1OWXtmxyDhAj2aRyQ"
-  tidal: ""
+  tidal: "3577076"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27

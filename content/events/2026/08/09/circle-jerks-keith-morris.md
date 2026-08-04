@@ -5,5 +5,5 @@ artists:
   - "0069eeb1-0338-42ee-8e85-8fff0a0d4682"
   - "d0bc009b-3be7-4f7e-ae05-f7b764f367be"
 tickets:
-  web: "https://www.songkick.com/concerts/43277933-circle-jerks-at-fitzgerald-theater?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43277933-circle-jerks-at-fitzgerald-theater"
 ---

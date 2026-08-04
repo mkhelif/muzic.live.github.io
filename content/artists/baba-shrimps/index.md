@@ -2,7 +2,12 @@
 id: "8c269116-eb14-417c-904b-01a0d4ced017"
 title: "Baba Shrimps"
 type: band
+members:
+  - id: "cef69de4-cd32-4533-9ca5-1c41adf114e6"
+    roles:
+      - other
 socials:
+  musicbrainz: "1dc5ceba-3c16-4188-bfbc-13ceb41fd4ca"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +23,7 @@ socials:
   spotify: "0yhpelQ5TqFlhKSK7fEI0s"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

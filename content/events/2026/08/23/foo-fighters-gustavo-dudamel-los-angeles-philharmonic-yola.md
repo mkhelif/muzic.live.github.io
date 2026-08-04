@@ -7,5 +7,5 @@ artists:
   - "017f0720-6ee6-45ba-b41c-1f0b08915dfe"
   - "2d32e6f9-4fbe-40d7-8368-c9f8fc91044c"
 tickets:
-  web: "https://www.songkick.com/concerts/43054300-foo-fighters-at-hollywood-bowl?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43054300-foo-fighters-at-hollywood-bowl"
 ---

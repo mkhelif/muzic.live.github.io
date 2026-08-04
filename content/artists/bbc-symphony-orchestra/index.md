@@ -2,6 +2,7 @@
 id: "74d37a28-ad34-4269-b832-9797ccc31076"
 title: "BBC Symphony Orchestra"
 socials:
+  musicbrainz: "5b13c665-88eb-4e80-9a06-218a660fcf6b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,14 +14,15 @@ socials:
   email: ""
   amazon: ""
   apple: "1121830"
-  deezer: ""
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  deezer: "79862"
+  qobuz: "37245"
+  spotify: "23BiSNXm5UaRFuusoWisYO"
+  tidal: "18029"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer-lookup: 2026-07-27
 ---

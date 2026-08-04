@@ -6,5 +6,5 @@ artists:
   - "0aaecd0d-4637-441b-b449-c3ba76dd4122"
   - "05d01105-609d-4634-bea7-d0209808a121"
 tickets:
-  web: "https://www.songkick.com/concerts/43213312-bertrand-belin-at-chapiteau-de-la-pepiniere?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43213312-bertrand-belin-at-chapiteau-de-la-pepiniere"
 ---

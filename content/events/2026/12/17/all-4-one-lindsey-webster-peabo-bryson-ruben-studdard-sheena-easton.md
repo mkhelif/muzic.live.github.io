@@ -8,5 +8,5 @@ artists:
   - "a8012c34-29e5-4e90-b7d5-ff53aeb8ac85"
   - "0ac27362-fe0f-4508-a768-c1a626162757"
 tickets:
-  web: "https://www.songkick.com/concerts/43198871-peabo-bryson-at-cerritos-center?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43198871-peabo-bryson-at-cerritos-center"
 ---

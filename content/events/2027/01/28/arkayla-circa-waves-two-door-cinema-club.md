@@ -6,5 +6,5 @@ artists:
   - "0c214178-2807-4b34-b766-80803cc12027"
   - "e202aa2b-69cf-461e-b7bb-22a756e7cf66"
 tickets:
-  web: "https://www.songkick.com/concerts/43298433-two-door-cinema-club-at-o2?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43298433-two-door-cinema-club-at-o2"
 ---

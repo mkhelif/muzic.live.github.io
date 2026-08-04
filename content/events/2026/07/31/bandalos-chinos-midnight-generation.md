@@ -5,5 +5,5 @@ artists:
   - "2478b325-4266-4bda-ad3d-5d417e4b0a99"
   - "6cde6c49-c276-4778-951b-7e8acac66600"
 tickets:
-  web: "https://www.songkick.com/concerts/43225297-bandalos-chinos-at-teatro-morelos?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43225297-bandalos-chinos-at-teatro-morelos"
 ---

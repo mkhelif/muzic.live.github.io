@@ -5,5 +5,5 @@ artists:
   - "f1b41e43-1d08-45dd-b416-6cf12ad230d4"
   - "44a7c2c0-9bd5-4db4-89d2-951a354db487"
 tickets:
-  web: "https://www.songkick.com/concerts/43313154-pacific-avenue-at-tumbalong-park?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43313154-pacific-avenue-at-tumbalong-park"
 ---

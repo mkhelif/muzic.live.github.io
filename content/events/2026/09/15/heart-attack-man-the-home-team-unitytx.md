@@ -6,5 +6,5 @@ artists:
   - "d8cb92a1-bda1-485c-acc3-cfd09390bea0"
   - "0c897037-63b2-413e-a046-411e8b8b0fdd"
 tickets:
-  web: "https://www.songkick.com/concerts/43256028-home-team-at-capital-city-music-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43256028-home-team-at-capital-city-music-hall"
 ---

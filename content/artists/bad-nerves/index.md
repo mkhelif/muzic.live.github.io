@@ -2,6 +2,7 @@
 id: "4afb568a-1210-42f8-acfb-218f9c217d27"
 title: "Bad Nerves"
 socials:
+  musicbrainz: "e3855311-3405-44e7-b942-2e50f64bfbca"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,11 +15,14 @@ socials:
   amazon: ""
   apple: "1213806228"
   deezer: "12119174"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "3217066"
+  spotify: "7IPyXY4ZHkuvQY1ny8TnMQ"
+  tidal: "8597794"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz: 2026-08-04
+  deezer: 2026-08-04
 ---

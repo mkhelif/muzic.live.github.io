@@ -3,6 +3,7 @@ id: "668b0b60-e4c5-46c1-8193-3cfaaaaea45c"
 title: "Ashrita Kumar"
 type: person
 socials:
+  musicbrainz: "7d0ce0b4-3298-47f7-a50a-482c9af4eb93"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,11 +13,12 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "63010722"
   qobuz: ""
   spotify: "7DSIiUGpsOMhqcyee4UGua"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

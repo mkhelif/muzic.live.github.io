@@ -6,5 +6,5 @@ artists:
   - "b0455d04-74ed-4d4c-8d0b-98ee413b3423"
   - "bf2e7e7b-9e9d-4430-968c-d70029f17410"
 tickets:
-  web: "https://www.songkick.com/concerts/43288209-any-given-day-at-analog-music-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43288209-any-given-day-at-analog-music-hall"
 ---

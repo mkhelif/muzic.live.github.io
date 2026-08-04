@@ -6,5 +6,5 @@ artists:
   - "dd5f95b6-c4db-4e82-b845-50127e577763"
   - "5744bad5-8542-4a0b-b2d0-3ed38fde93df"
 tickets:
-  web: "https://www.songkick.com/concerts/43177313-misery-index-at-rebellion?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43177313-misery-index-at-rebellion"
 ---

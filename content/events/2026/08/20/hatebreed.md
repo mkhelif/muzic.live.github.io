@@ -4,5 +4,5 @@ venue: "e1761777-982a-4a7b-8623-ea5e42c07ea1"
 artists:
   - "66f8f414-5873-4b3f-90ae-8f9882565638"
 tickets:
-  web: "https://www.songkick.com/concerts/43259654-hatebreed-at-el-rey-theater?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43259654-hatebreed-at-el-rey-theater"
 ---

@@ -2,7 +2,12 @@
 id: "b4cc5707-5f65-43c4-ab85-71d398f5f9be"
 title: "Ashen"
 type: band
+members:
+  - id: "2e9bbdc4-b475-40c9-b43d-fa186c389a22"
+    roles:
+      - sing
 socials:
+  musicbrainz: "e8268e0f-8210-4c60-adf9-2c88e21ce24c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +17,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1547541596"
+  deezer: "144957882"
   qobuz: ""
   spotify: "0ussJndMOAWWfaUtXSttFU"
-  tidal: ""
+  tidal: "4169471"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-26

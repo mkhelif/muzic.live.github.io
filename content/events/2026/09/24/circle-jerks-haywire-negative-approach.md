@@ -6,5 +6,5 @@ artists:
   - "a8f85b76-cab9-4bbb-8614-92969a6b4662"
   - "a8f32c3c-cf2d-40bb-afc0-3d6086dea8c0"
 tickets:
-  web: "https://www.songkick.com/concerts/43251410-circle-jerks-at-queen?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43251410-circle-jerks-at-queen"
 ---

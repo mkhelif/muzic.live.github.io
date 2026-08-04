@@ -3,6 +3,7 @@ id: "053ce66d-62e3-4379-946b-0e5fbb135663"
 title: "Ben Phillips"
 type: person
 socials:
+  musicbrainz: "1bac846b-e042-49f1-94c9-76d3ac77cba0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27

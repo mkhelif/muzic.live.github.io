@@ -2,6 +2,7 @@
 id: "aa5f720b-f2d2-479f-9747-17787222755e"
 title: "Amie Blu"
 socials:
+  musicbrainz: "e90eb914-89e7-4ca2-b5c6-8903cd936ae0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,14 +14,15 @@ socials:
   amazon: ""
   apple: "1591619472"
   deezer: "149227332"
-  qobuz: ""
+  qobuz: "11699371"
   spotify: "3WWvqxymB3Nypxej8XcQKC"
-  tidal: ""
+  tidal: "28962893"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

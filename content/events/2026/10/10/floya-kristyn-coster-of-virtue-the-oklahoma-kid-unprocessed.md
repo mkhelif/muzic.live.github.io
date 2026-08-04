@@ -8,5 +8,5 @@ artists:
   - "feab3876-c9c6-489f-bee6-08631e969216"
   - "ecce68df-f560-4c59-8e96-855e748e938b"
 tickets:
-  web: "https://www.songkick.com/concerts/43077048-unprocessed-at-batschkapp?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43077048-unprocessed-at-batschkapp"
 ---

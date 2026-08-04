@@ -2,6 +2,7 @@
 id: "f16f33cf-299b-4d4a-b6e1-df178d3b4dc9"
 title: "Angel Du$t"
 socials:
+  musicbrainz: "36c8b01c-cd8b-4ecd-b3fd-9f4f73371d2b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,13 +15,14 @@ socials:
   apple: "657097036"
   deezer: "4848919"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "2ynylCO9SRPTKjgNEH0Y2a"
+  tidal: "5620069"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
 ---

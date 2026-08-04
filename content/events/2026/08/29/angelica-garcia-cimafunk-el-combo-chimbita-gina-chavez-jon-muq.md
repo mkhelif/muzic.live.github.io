@@ -8,5 +8,5 @@ artists:
   - "35b5bf72-7d3a-40ce-80cb-deefe31d9dfa"
   - "f5eb7670-ff24-4e5a-a5b5-5e07586157e3"
 tickets:
-  web: "https://www.songkick.com/concerts/43230735-cimafunk-at-radioeast?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43230735-cimafunk-at-radioeast"
 ---

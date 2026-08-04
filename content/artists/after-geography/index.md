@@ -3,6 +3,7 @@ id: "df80ef6e-0e5f-4512-ae17-d2f49e6addd7"
 title: "AFTER GEOGRAPHY"
 type: band
 socials:
+  musicbrainz: "f2e6a39d-7b8b-4f01-8e1b-25946feec763"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: "1foySkXTahyUyQ1ojNowrI"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

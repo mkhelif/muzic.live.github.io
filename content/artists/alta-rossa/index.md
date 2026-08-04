@@ -3,6 +3,7 @@ id: "5d0171ae-6b25-4d53-bcf6-5da2e1d7a461"
 title: "Alta Rossa"
 type: band
 socials:
+  musicbrainz: "db5ced1a-4a5d-4d79-aa0c-0126b88e01e7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,8 +16,9 @@ socials:
   deezer: "134864602"
   qobuz: ""
   spotify: "1OZJ1yBSsVelarbCxxWgRj"
-  tidal: ""
+  tidal: "25584866"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-24
   spotify: 2026-07-23

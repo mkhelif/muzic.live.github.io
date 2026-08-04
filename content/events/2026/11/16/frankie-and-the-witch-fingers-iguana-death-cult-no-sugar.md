@@ -6,5 +6,5 @@ artists:
   - "235cb4fb-d184-421c-bffc-996e440c5b3a"
   - "4f43b24c-f6c9-4075-994f-780421e12992"
 tickets:
-  web: "https://www.songkick.com/concerts/43111041-frankie-and-the-witch-fingers-at-lido?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43111041-frankie-and-the-witch-fingers-at-lido"
 ---

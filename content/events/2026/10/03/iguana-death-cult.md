@@ -4,5 +4,5 @@ venue: "86d646c1-50c2-4d23-952a-f2eb8b69a6b3"
 artists:
   - "235cb4fb-d184-421c-bffc-996e440c5b3a"
 tickets:
-  web: "https://www.songkick.com/concerts/43286291-iguana-death-cult-at-sultan-room?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43286291-iguana-death-cult-at-sultan-room"
 ---

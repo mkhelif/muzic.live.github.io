@@ -2,7 +2,21 @@
 id: "a025fa01-85b3-456b-bede-fdf573faa4e8"
 title: "Ahna"
 type: band
+members:
+  - id: "a5a17feb-cfb6-41c0-8f95-bca8d4137f0a"
+    roles:
+      - bass
+    periods:
+      - start: 2014
+        end: 2017
+  - id: "3eb6302a-9c82-4969-a723-b312d14ccd94"
+    roles:
+      - other
+  - id: "0b7c168b-84fc-4aa8-8489-be3de8f5e557"
+    roles:
+      - other
 socials:
+  musicbrainz: "54d604f9-2529-4e21-9ba6-6106f4e9e21f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +32,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23

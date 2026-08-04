@@ -6,5 +6,5 @@ artists:
   - "67162240-8377-4bed-982b-22b6df447537"
   - "cc6735dd-b997-4e23-8e80-9b83d024e025"
 tickets:
-  web: "https://www.songkick.com/concerts/42895998-deep-purple-at-ovo-hydro?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42895998-deep-purple-at-ovo-hydro"
 ---

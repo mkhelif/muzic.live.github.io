@@ -6,5 +6,5 @@ artists:
   - "a1504ced-de9d-417a-ad84-4d17f15008f5"
   - "a19ab098-1084-4fff-8811-c5c8e4f618a6"
 tickets:
-  web: "https://www.songkick.com/concerts/42990653-rob-zombie-at-white-river-amphitheatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42990653-rob-zombie-at-white-river-amphitheatre"
 ---

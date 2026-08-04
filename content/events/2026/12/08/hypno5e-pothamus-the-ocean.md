@@ -6,5 +6,5 @@ artists:
   - "b0a385d2-b413-45a6-8366-6aab1b6479a2"
   - "6953292a-627b-4d3d-a38e-cdb2dda06d30"
 tickets:
-  web: "https://www.songkick.com/concerts/43269593-ocean-at-hype-park?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43269593-ocean-at-hype-park"
 ---

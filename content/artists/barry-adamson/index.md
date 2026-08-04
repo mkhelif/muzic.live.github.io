@@ -3,9 +3,11 @@
 id: "9a16eef4-dd9a-4309-98f2-c0a2ad1025dc"
 title: "Barry Adamson"
 socials:
+  musicbrainz: "a50a1afa-23eb-4ba6-9faf-5dec260898ca"
   apple: "3450191"
   deezer: "2838"
   facebook: ""
+  qobuz: "61998"
   spotify: "4xoV3kh3rwrWaPc17zyDyY"
   instagram: ""
   x: ""
@@ -13,6 +15,7 @@ socials:
   bandsintown: "63053"
   youtube: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

@@ -4,5 +4,5 @@ venue: "bb1f2f8d-72e7-4650-ba26-5d29c9cf665e"
 artists:
   - "4d836b74-ae7e-450d-897b-a90f051340ca"
 tickets:
-  web: "https://www.songkick.com/concerts/43315656-les-negresses-vertes-at-le-zephyr?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43315656-les-negresses-vertes-at-le-zephyr"
 ---

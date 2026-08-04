@@ -8,5 +8,5 @@ artists:
   - "8dd418da-1ee3-4483-8ad6-9f1604da67cb"
   - "f1aaf556-8792-4386-acf5-c508ed9ed043"
 tickets:
-  web: "https://www.songkick.com/concerts/43308648-terence-fixmer-at-black-lab?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43308648-terence-fixmer-at-black-lab"
 ---

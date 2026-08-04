@@ -6,5 +6,5 @@ artists:
   - "b80fb88d-6cbb-48b4-86df-43b79c573c6e"
   - "fd12f5ec-c0c7-4a96-947f-5e4e696692f9"
 tickets:
-  web: "https://www.songkick.com/concerts/43179481-slayer-at-kia-forum?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43179481-slayer-at-kia-forum"
 ---

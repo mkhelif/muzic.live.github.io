@@ -6,5 +6,5 @@ artists:
   - "c03e45d8-c183-4e76-8558-218cdc919e99"
   - "7c60b442-4115-43ec-a8c0-cbeba3c5b82f"
 tickets:
-  web: "https://www.songkick.com/concerts/43039089-ian-prowse-at-o2-academy-liverpool?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43039089-ian-prowse-at-o2-academy-liverpool"
 ---

@@ -4,5 +4,5 @@ venue: "2d32f649-da49-4372-9e93-456e2ade0c36"
 artists:
   - "c71a9ff4-d9a9-4012-bf98-01ed526c6c1f"
 tickets:
-  web: "https://www.songkick.com/concerts/43244872-nduduzu-makhathini-at-keystone-korner?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43244872-nduduzu-makhathini-at-keystone-korner"
 ---

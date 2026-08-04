@@ -2,6 +2,7 @@
 id: "df354bf8-cce1-4204-8b55-bceb4a296882"
 title: "Arabrot"
 socials:
+  musicbrainz: "c99187f8-210a-40bc-8137-e4649bd471c3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,11 +15,14 @@ socials:
   amazon: ""
   apple: "307984510"
   deezer: "402949"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "1195936"
+  spotify: "1vKXAkXBGSbjgGcOPYLI6j"
+  tidal: "3587707"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz: 2026-08-04
+  deezer: 2026-08-04
 ---

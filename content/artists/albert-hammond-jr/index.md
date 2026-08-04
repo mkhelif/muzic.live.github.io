@@ -3,6 +3,7 @@ id: "f3906190-9a8f-4b76-a9ff-14f0f4b3bfe4"
 title: "Albert Hammond Jr"
 type: person
 socials:
+  musicbrainz: "a0498514-c21c-4e85-8dbf-a1b92374a06b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,14 +14,17 @@ socials:
   email: ""
   amazon: ""
   apple: "3128863"
-  deezer: ""
+  deezer: "9293"
   qobuz: ""
   spotify: "1Li0eIWeMeWcOOWpImcG9H"
-  tidal: ""
+  tidal: "3566016"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1980-04-09
 ---
 
 Albert Hammond Jr est un musicien américain né à Los Angeles, fils du compositeur britannico-gibraltarien Albert Hammond

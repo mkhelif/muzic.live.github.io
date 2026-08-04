@@ -5,5 +5,5 @@ artists:
   - "8b1baa5b-6ee7-418f-9233-1080cc8ac0ff"
   - "3d9584a9-2382-4ff4-b08f-d55a6efdbd87"
 tickets:
-  web: "https://www.songkick.com/concerts/43104553-walk-off-the-earth-at-treefort-music-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43104553-walk-off-the-earth-at-treefort-music-hall"
 ---

@@ -6,5 +6,5 @@ artists:
   - "10bf278a-cd92-4a69-9f64-2c831887ef68"
   - "5a2fc0d2-bd3b-4fca-bc29-ae627149fcec"
 tickets:
-  web: "https://www.songkick.com/concerts/43065956-nile-rodgers-at-pacific-amphitheatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43065956-nile-rodgers-at-pacific-amphitheatre"
 ---

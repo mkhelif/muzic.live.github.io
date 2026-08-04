@@ -4,5 +4,5 @@ venue: "f00b0d81-107f-4328-b299-5bded18e19e1"
 artists:
   - "dcb92254-f1de-490b-801c-0e87e3dd814f"
 tickets:
-  web: "https://www.songkick.com/concerts/43261885-men-i-trust-at-star-culture-centre-dream-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43261885-men-i-trust-at-star-culture-centre-dream-hall"
 ---

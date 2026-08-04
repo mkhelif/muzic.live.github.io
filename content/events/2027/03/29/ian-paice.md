@@ -4,5 +4,5 @@ venue: "cd7d4d12-53c5-4cbd-9f09-74a8fdc9e899"
 artists:
   - "2612f6a9-7d01-42d9-9f5e-550f12c8b5ff"
 tickets:
-  web: "https://www.songkick.com/concerts/42964149-ian-paice-at-spirit-of-66?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42964149-ian-paice-at-spirit-of-66"
 ---

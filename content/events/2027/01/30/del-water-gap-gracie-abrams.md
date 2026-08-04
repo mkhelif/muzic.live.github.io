@@ -5,5 +5,5 @@ artists:
   - "7a23ed80-7b16-43fe-9c36-912b82ffd78a"
   - "1789074c-d45e-43fa-92d0-ad63ea45943f"
 tickets:
-  web: "https://www.songkick.com/concerts/43241820-gracie-abrams-at-climate-pledge-arena?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43241820-gracie-abrams-at-climate-pledge-arena"
 ---

@@ -2,6 +2,7 @@
 id: "dadd9608-f16d-4e66-97e5-e4a2447da0bf"
 title: "AÏTAWA"
 socials:
+  musicbrainz: "bcf785e2-c4f6-411a-a037-dfb341cbda43"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,7 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz: 2026-08-04
+  deezer: 2026-08-04
 ---

@@ -4,5 +4,5 @@ venue: "c2afefa2-0165-42b4-affb-2696c2778558"
 artists:
   - "88db523c-337b-4c97-a6bd-ed54cbb391d5"
 tickets:
-  web: "https://www.songkick.com/concerts/43066159-cat-power-at-libbey-bowl?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43066159-cat-power-at-libbey-bowl"
 ---

@@ -3,6 +3,7 @@ id: "8c98046a-9b27-4a45-a1f4-600d4ee4eba6"
 title: "Alexandrie"
 type: unknown
 socials:
+  musicbrainz: "9c73a8f0-cb0f-4bd3-9496-c1c73f39c73c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23

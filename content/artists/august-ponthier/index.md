@@ -2,6 +2,7 @@
 id: "2a8e8380-b9f6-47ba-aebd-9dedfff5d1d0"
 title: "August Ponthier"
 socials:
+  musicbrainz: "47241494-39bd-4a72-86f7-a6c13ee3615a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,13 +15,14 @@ socials:
   apple: "1856731175"
   deezer: "350772832"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "37zdNthUsPowEeNJDeCCYx"
+  tidal: "68315559"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
 ---

@@ -4,5 +4,5 @@ venue: "4f143fde-fd1f-4865-85c7-b5e56ac029c5"
 artists:
   - "85d8a7bd-3c17-4e3f-bf2c-ffcb729e3874"
 tickets:
-  web: "https://www.songkick.com/concerts/43228098-lewis-ofman-at-chop-shop?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43228098-lewis-ofman-at-chop-shop"
 ---

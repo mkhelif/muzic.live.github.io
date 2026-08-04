@@ -4,5 +4,5 @@ venue: "7d7a7764-56bf-459a-bedd-2a9a4bd5daa8"
 artists:
   - "e49d8c92-92ca-4f48-a092-aba328418dce"
 tickets:
-  web: "https://www.songkick.com/concerts/43010653-francis-rossi-at-queens-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43010653-francis-rossi-at-queens-hall"
 ---

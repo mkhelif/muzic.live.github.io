@@ -5,5 +5,5 @@ artists:
   - "ecf7b324-25da-4539-b45a-ac3f2e11c4c8"
   - "87afa251-2888-41c6-bf2c-bd161f5fad1e"
 tickets:
-  web: "https://www.songkick.com/concerts/42790333-swedish-house-mafia-at-ullevi?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42790333-swedish-house-mafia-at-ullevi"
 ---

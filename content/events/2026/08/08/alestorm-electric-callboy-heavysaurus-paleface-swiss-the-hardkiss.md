@@ -8,5 +8,5 @@ artists:
   - "b529037a-e47d-49f6-92ed-5bdc7db742c9"
   - "3aa87d58-fabd-4b81-af06-ffce952ff4ef"
 tickets:
-  web: "https://www.songkick.com/concerts/42913738-electric-callboy-at-wuhlheide?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42913738-electric-callboy-at-wuhlheide"
 ---

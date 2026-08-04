@@ -3,6 +3,7 @@ id: "d75fa31a-578c-490b-a4ef-5741485a759a"
 title: "Benken"
 type: person
 socials:
+  musicbrainz: "81e1334a-2779-4b3d-ad93-d931d37d2506"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25

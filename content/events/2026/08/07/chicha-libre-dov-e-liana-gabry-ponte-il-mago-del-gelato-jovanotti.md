@@ -8,5 +8,5 @@ artists:
   - "c059372e-d3a7-42d2-9191-b66a7b272cfd"
   - "6db762ac-11c9-42cf-ae9e-7108d8f44e22"
 tickets:
-  web: "https://www.songkick.com/concerts/42960140-jovanotti-at-olbia-arena?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42960140-jovanotti-at-olbia-arena"
 ---

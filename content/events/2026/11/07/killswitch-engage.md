@@ -4,5 +4,5 @@ venue: "8c15e237-f864-4067-a5b9-44cde6f9a9bd"
 artists:
   - "e841081b-f42a-4332-93f7-fa2feab96902"
 tickets:
-  web: "https://www.songkick.com/concerts/43226865-killswitch-engage-at-waves?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43226865-killswitch-engage-at-waves"
 ---

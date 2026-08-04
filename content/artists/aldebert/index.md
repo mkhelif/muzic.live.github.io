@@ -3,6 +3,7 @@ id: "30c69ca0-687e-4042-a29e-7263260be571"
 title: "Aldebert"
 type: person
 socials:
+  musicbrainz: "21f0c4f0-e8b6-4748-8df8-9789ea5e3acc"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,11 +16,14 @@ socials:
   deezer: "1557"
   qobuz: ""
   spotify: "1Vr9NCbc1sYiPDeZmFjOTS"
-  tidal: ""
+  tidal: "15529"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1973-07-07
 ---
 
 Aldebert, de son vrai nom Guillaume Aldebert, est un musicien, compositeur et chanteur français né le 7 juillet 1973 à

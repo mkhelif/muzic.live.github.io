@@ -4,5 +4,5 @@ venue: "f33dec0d-6c3f-420e-9b0e-1bb032709fb8"
 artists:
   - "4d836b74-ae7e-450d-897b-a90f051340ca"
 tickets:
-  web: "https://www.songkick.com/concerts/43321649-les-negresses-vertes-at-la-merise?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43321649-les-negresses-vertes-at-la-merise"
 ---

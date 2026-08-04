@@ -3,6 +3,7 @@ id: "4dfbb458-6082-46ee-a500-eca199690ae5"
 title: "Ata Kak"
 type: person
 socials:
+  musicbrainz: "85624ba0-cbb1-47ed-97b5-6676813edac8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -19,6 +20,7 @@ socials:
   tidal: ""
 cover: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

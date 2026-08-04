@@ -3,6 +3,7 @@ id: "a99e629c-5589-47c5-a59a-ca24bb2bd93f"
 title: "Agoria"
 type: person
 socials:
+  musicbrainz: "90ba97be-5daf-4365-8704-9a74b780591b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,17 +14,20 @@ socials:
   email: ""
   amazon: ""
   apple: "28243175"
-  deezer: ""
+  deezer: "6428"
   qobuz: ""
   spotify: "4lu50np3LdTkRL09T7x8UP"
-  tidal: ""
+  tidal: "3575434"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1976-01-16
 ---
 
 Agoria est le nom de scène de Sébastien Devaud, DJ et producteur électronique français né le 16 janvier 1976 à Lyon et

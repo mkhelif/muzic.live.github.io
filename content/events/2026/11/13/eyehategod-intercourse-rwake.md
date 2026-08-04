@@ -6,5 +6,5 @@ artists:
   - "fdd6bd87-868e-4779-b3d4-7f84c2771874"
   - "907189aa-d94f-4870-a1ba-db5138fb0211"
 tickets:
-  web: "https://www.songkick.com/concerts/43033246-eyehategod-at-rescue-rooms?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43033246-eyehategod-at-rescue-rooms"
 ---

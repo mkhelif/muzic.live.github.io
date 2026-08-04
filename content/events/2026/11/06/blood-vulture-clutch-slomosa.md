@@ -6,5 +6,5 @@ artists:
   - "0363b2e0-0ca6-40bd-a751-ac16857e0b89"
   - "eac6afeb-2485-4c27-af5f-ef9c6dff86f8"
 tickets:
-  web: "https://www.songkick.com/concerts/43200668-clutch-at-hampton-beach-casino-ballroom?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43200668-clutch-at-hampton-beach-casino-ballroom"
 ---

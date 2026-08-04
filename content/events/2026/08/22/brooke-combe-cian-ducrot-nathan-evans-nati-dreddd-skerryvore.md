@@ -8,5 +8,5 @@ artists:
   - "333e99bf-600e-49be-b13f-3a5e17811937"
   - "ad4946fd-6ba6-419e-bb99-2cbda97502cd"
 tickets:
-  web: "https://www.songkick.com/concerts/42903422-nathan-evans-at-royal-highland-showgrounds?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42903422-nathan-evans-at-royal-highland-showgrounds"
 ---

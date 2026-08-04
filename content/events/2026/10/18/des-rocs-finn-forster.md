@@ -5,5 +5,5 @@ artists:
   - "c9322430-eb07-4ba5-9685-56144610d188"
   - "af51446e-5719-4c11-ad8a-5016870fb7fd"
 tickets:
-  web: "https://www.songkick.com/concerts/43288478-des-rocs-at-a38-ship-a38-hajo?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43288478-des-rocs-at-a38-ship-a38-hajo"
 ---

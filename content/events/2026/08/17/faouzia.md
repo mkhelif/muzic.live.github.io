@@ -4,5 +4,5 @@ venue: "8bda51a1-841d-41ae-ab88-d84776a6b98e"
 artists:
   - "4a61fcb3-ea57-441c-acee-fc28ef4e5809"
 tickets:
-  web: "https://www.songkick.com/concerts/43169688-faouzia-at-royale-boston?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43169688-faouzia-at-royale-boston"
 ---

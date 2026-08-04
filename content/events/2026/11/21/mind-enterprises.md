@@ -4,5 +4,5 @@ venue: "c5c02989-952e-4ee9-87b7-6b55eb58d1a7"
 artists:
   - "d36372dc-ffe8-4f5b-939d-7b1f3bb93a63"
 tickets:
-  web: "https://www.songkick.com/concerts/43278058-mind-enterprises-at-stadtwerkstatt?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43278058-mind-enterprises-at-stadtwerkstatt"
 ---

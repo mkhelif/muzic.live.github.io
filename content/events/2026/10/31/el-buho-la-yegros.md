@@ -5,5 +5,5 @@ artists:
   - "1afaea81-dd34-4cb6-a54f-cfae478fcd20"
   - "b210f247-e5d4-4355-8c40-cd2fc3a4fe4e"
 tickets:
-  web: "https://www.songkick.com/concerts/43057697-la-yegros-at-dumbo-binario-centrale?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43057697-la-yegros-at-dumbo-binario-centrale"
 ---

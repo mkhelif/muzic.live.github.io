@@ -7,5 +7,5 @@ artists:
   - "eb216bbc-4a19-4821-8251-e8380c6e7a74"
   - "c549a331-8a9b-4809-a6b8-4af7914f2cc0"
 tickets:
-  web: "https://www.songkick.com/concerts/43327086-original-lakeside-at-charles-r-drew-university-of-medicine-and-science?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43327086-original-lakeside-at-charles-r-drew-university-of-medicine-and-science"
 ---

@@ -6,5 +6,5 @@ artists:
   - "46a95276-c469-4072-96c0-4e59e26abf9b"
   - "147c31d3-41f8-4529-82e9-4c017e35ae99"
 tickets:
-  web: "https://www.songkick.com/concerts/43189754-gryffin-at-red-rocks-amphitheatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43189754-gryffin-at-red-rocks-amphitheatre"
 ---

@@ -7,5 +7,5 @@ artists:
   - "3c80e3d6-c2b6-4123-ae6b-f6b3d40b104e"
   - "f12074a2-99bf-4637-9887-87ee00a95e0d"
 tickets:
-  web: "https://www.songkick.com/concerts/43334380-vijay-iyer-at-memorial-hall-unc-chapel-hill?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43334380-vijay-iyer-at-memorial-hall-unc-chapel-hill"
 ---

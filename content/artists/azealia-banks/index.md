@@ -3,6 +3,7 @@ id: "c70a6a0e-7ab3-4e8a-9630-735283ffc831"
 title: "Azealia Banks"
 type: person
 socials:
+  musicbrainz: "0c3505e7-d884-43cf-9028-d318607190a4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +17,14 @@ socials:
   deezer: ""
   qobuz: ""
   spotify: "7gRhy3MIPHQo5CXYfWaw9I"
-  tidal: ""
+  tidal: "4589255"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+date:
+  birth: 1991-05-31
 ---
 
 Azealia Amanda Banks est une rappeuse, chanteuse et compositrice américaine née le

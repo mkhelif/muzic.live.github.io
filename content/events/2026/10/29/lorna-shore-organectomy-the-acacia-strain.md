@@ -6,5 +6,5 @@ artists:
   - "f4d8e95e-cb30-455e-92cd-e6949b9d969c"
   - "bbb77ae2-64af-473c-b186-ad22b01c1ef5"
 tickets:
-  web: "https://www.songkick.com/concerts/43246563-lorna-shore-at-powerstation?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43246563-lorna-shore-at-powerstation"
 ---

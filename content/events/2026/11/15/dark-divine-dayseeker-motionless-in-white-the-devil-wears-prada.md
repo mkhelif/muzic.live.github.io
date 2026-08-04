@@ -7,5 +7,5 @@ artists:
   - "6aa044a0-7c35-4003-8e64-bf4565c47a8d"
   - "9b9a6459-3dd7-4e47-b478-b5d40374a88a"
 tickets:
-  web: "https://www.songkick.com/concerts/43251287-motionless-in-white-at-mvp-arena?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43251287-motionless-in-white-at-mvp-arena"
 ---

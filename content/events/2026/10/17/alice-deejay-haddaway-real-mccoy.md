@@ -6,5 +6,5 @@ artists:
   - "65c0c4c3-a522-4f89-9780-cd36c642a977"
   - "1a82a076-3f3c-4bad-ad98-23a968255406"
 tickets:
-  web: "https://www.songkick.com/concerts/43115745-haddaway-at-palladium-times-square?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43115745-haddaway-at-palladium-times-square"
 ---

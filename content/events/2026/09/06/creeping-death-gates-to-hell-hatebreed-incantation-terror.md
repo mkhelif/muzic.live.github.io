@@ -8,5 +8,5 @@ artists:
   - "98af720c-a840-460e-a2ad-177911c4cf4d"
   - "2b1f241c-1854-410c-84cc-1eaaf81458bc"
 tickets:
-  web: "https://www.songkick.com/concerts/43236447-hatebreed-at-rave-eagles-club?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43236447-hatebreed-at-rave-eagles-club"
 ---

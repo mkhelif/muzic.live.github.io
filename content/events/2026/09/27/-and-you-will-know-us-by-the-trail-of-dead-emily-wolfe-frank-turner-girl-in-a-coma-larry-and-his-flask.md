@@ -8,5 +8,5 @@ artists:
   - "505d1b05-b13c-4b8d-8eae-ddab571d45a7"
   - "79cff8a2-7c82-4018-a7eb-f373bd1f1ba5"
 tickets:
-  web: "https://www.songkick.com/concerts/42816174-frank-turner-and-the-sleeping-souls-at-south-side-ballroom?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42816174-frank-turner-and-the-sleeping-souls-at-south-side-ballroom"
 ---

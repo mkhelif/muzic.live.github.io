@@ -6,5 +6,5 @@ artists:
   - "58d95fc8-510c-41a7-b357-043a76a21fb8"
   - "09a29e78-6bd1-48af-b268-c77642fe00af"
 tickets:
-  web: "https://www.songkick.com/concerts/43288670-turnstile-at-university-of-kansas?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43288670-turnstile-at-university-of-kansas"
 ---

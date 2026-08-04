@@ -4,5 +4,5 @@ venue: "010088f4-e326-4840-9f6e-4ed7f17988ba"
 artists:
   - "761447af-a797-4698-8ce5-3f236d179056"
 tickets:
-  web: "https://www.songkick.com/concerts/43136548-nicko-mcbrain-at-culture-room?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43136548-nicko-mcbrain-at-culture-room"
 ---

@@ -3,6 +3,7 @@ id: "e5095713-822c-4b6b-b2d0-9f19e9454777"
 title: "Andy C"
 type: person
 socials:
+  musicbrainz: "ec853694-30a1-4c7e-84e6-4ca87ee3c314"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,19 +13,22 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "111544331"
+  deezer: "398771"
   qobuz: ""
   spotify: "75HK7rgkmDMTnWwwmcN53N"
-  tidal: ""
+  tidal: "3783909"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
+date:
+  birth: 1976-04-07
 ---
 
 Andy C, de son vrai nom Andrew Michael Clarke, est né le 7 avril 1976 à Hornchurch, dans l'Essex. Il est l'un des

@@ -6,5 +6,5 @@ artists:
   - "d2d2ec2f-72d6-460b-85ac-a4f3de306932"
   - "1ff0bb02-332d-47b7-9934-965d52d57527"
 tickets:
-  web: "https://www.songkick.com/concerts/43068560-dimitri-vegas-and-like-mike-at-monumental-plaza-de-toros-mexico?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43068560-dimitri-vegas-and-like-mike-at-monumental-plaza-de-toros-mexico"
 ---

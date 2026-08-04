@@ -8,5 +8,5 @@ artists:
   - "d3a047d5-7760-484d-a9ac-5738da7a55dc"
   - "8502b3f2-e118-4a1d-8580-cc48a8ea1efd"
 tickets:
-  web: "https://www.songkick.com/concerts/43273472-foo-fighters-at-bengaluru-live?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43273472-foo-fighters-at-bengaluru-live"
 ---

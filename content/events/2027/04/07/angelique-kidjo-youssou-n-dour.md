@@ -5,5 +5,5 @@ artists:
   - "5bb45dc9-8a78-4278-ba4f-f8bce4f58ec5"
   - "b3b8bb27-cdaf-4e9a-8208-2c446fdf7950"
 tickets:
-  web: "https://www.songkick.com/concerts/43221746-angelique-kidjo-at-bozar-expo?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43221746-angelique-kidjo-at-bozar-expo"
 ---

@@ -3,6 +3,7 @@ id: "75681179-7663-4adc-aa93-aa1dbffcfbbd"
 title: "Beirut"
 type: person
 socials:
+  musicbrainz: "989276c4-d2e8-4599-a2a0-c9ebeba73104"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,8 +17,9 @@ socials:
   deezer: ""
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "3555856"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27

@@ -3,6 +3,7 @@ id: "8f597fa0-2a35-4855-a657-21bc1ebccd27"
 title: "Anaïs MVA"
 type: person
 socials:
+  musicbrainz: "08a52a5d-bc1a-4e57-be41-35da59060b57"
   instagram: "anaismva"
   tiktok: "@anaismva"
   x: "anaismva"
@@ -17,6 +18,7 @@ socials:
   facebook: ""
   email: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   apple: 2026-07-26
   bandsintown-lookup: 2026-07-25

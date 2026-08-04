@@ -5,5 +5,5 @@ artists:
   - "2e836360-ad2c-4f50-9fbf-5162a8f39ebd"
   - "52fe85dd-c549-4628-801a-a35f44133424"
 tickets:
-  web: "https://www.songkick.com/concerts/43153512-king-cherry-at-rebel-lounge?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43153512-king-cherry-at-rebel-lounge"
 ---

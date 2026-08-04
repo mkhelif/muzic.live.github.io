@@ -4,5 +4,5 @@ venue: "1397b4d1-1cac-4043-b1f0-3d4fbe3b51e2"
 artists:
   - "3f34ce38-ad7b-43d7-aaf8-4f752bdc098d"
 tickets:
-  web: "https://www.songkick.com/concerts/43135106-i-cani-at-cavea-auditorium-parco-della-musica?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43135106-i-cani-at-cavea-auditorium-parco-della-musica"
 ---

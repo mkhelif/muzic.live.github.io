@@ -5,5 +5,5 @@ artists:
   - "9644f78e-92d0-4f0a-bf3d-262e8359e683"
   - "fe455e56-1184-432e-ae50-3cd3b59f92d5"
 tickets:
-  web: "https://www.songkick.com/concerts/43326208-new-model-army-at-new-model-army?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43326208-new-model-army-at-new-model-army"
 ---

@@ -3,6 +3,7 @@ id: "8fe12217-9c47-4fe2-ab4f-7764decea36a"
 title: "Billy Cobham"
 type: person
 socials:
+  musicbrainz: "255497f8-26fb-4044-b97e-d4787d5974f6"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,10 +17,14 @@ socials:
   deezer: "1412"
   qobuz: ""
   spotify: "0IwfuIL3gUJxjzUqY3wJ3j"
-  tidal: ""
+  tidal: "13418"
 lastUpdate:
+  musicbrainz: 2026-08-04
+  deezer: 2026-08-04
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+date:
+  birth: 1944-05-16
 ---
 
 Billy Cobham est un batteur américano-panaméen né le 16 mai 1944 à Colón, au Panama. Élevé à Brooklyn, New York,

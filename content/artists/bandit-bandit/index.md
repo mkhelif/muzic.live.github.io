@@ -3,6 +3,7 @@ id: "404bf386-6e22-4c2c-9109-832c64bb3638"
 title: "Bandit Bandit"
 type: band
 socials:
+  musicbrainz: "ce5f5e41-4529-4eb0-a86d-64c10618abb0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,8 +17,9 @@ socials:
   deezer: "63803772"
   qobuz: ""
   spotify: "0A1HmlpMHsKQXyXkwoS26h"
-  tidal: ""
+  tidal: "15579255"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

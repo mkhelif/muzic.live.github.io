@@ -3,6 +3,7 @@ id: "6dc49a85-d5b7-4600-a6f9-1aa66f8a32b4"
 title: "Alexia Gredy"
 type: person
 socials:
+  musicbrainz: "fc8a31a3-bd9c-4bbf-ac6a-9d857e9a59c5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,8 +17,9 @@ socials:
   deezer: "4456602"
   qobuz: ""
   spotify: "2LZ44MLhhXG2SlHhWUOGXg"
-  tidal: ""
+  tidal: "8440096"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

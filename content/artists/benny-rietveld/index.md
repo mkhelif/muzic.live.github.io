@@ -3,6 +3,7 @@ id: "5e8cdb77-ede4-4623-9611-fba05bcc58ed"
 title: "Benny Rietveld"
 type: person
 socials:
+  musicbrainz: "a684c8d4-a979-44e8-9faa-bacaaa737a3a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,7 +23,10 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+date:
+  birth: 1959
 ---

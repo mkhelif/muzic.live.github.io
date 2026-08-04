@@ -3,6 +3,7 @@ id: "da08a7a4-fcda-4755-bdb7-da8536ba9fb5"
 title: "Bekar"
 type: person
 socials:
+  musicbrainz: "f5868fbb-f2a6-43ce-be63-fd0232385a31"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,19 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "633585653"
+  deezer: "4626477"
+  qobuz: "1404839"
   spotify: "6wjkiUBMMYSIx5UBTp7eKC"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+date:
+  birth: 1998-01-08
 ---
 
 Bekar est un rappeur français originaire de Roubaix, dans le Nord de la France. Issu d'un territoire marqué par

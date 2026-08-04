@@ -6,5 +6,5 @@ artists:
   - "b3db97de-5a9e-4ded-8f20-97d72a40552f"
   - "75321593-7ef0-4499-a5df-76a25daddbf0"
 tickets:
-  web: "https://www.songkick.com/concerts/43140534-bleu-soleil-at-salle-bourdelle?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43140534-bleu-soleil-at-salle-bourdelle"
 ---

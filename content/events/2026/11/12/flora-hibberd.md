@@ -4,5 +4,5 @@ venue: "fdcc9290-f34f-49d0-aa7e-0f1cce5eafbb"
 artists:
   - "4409f02d-8cc0-46c3-96f8-5302bf318add"
 tickets:
-  web: "https://www.songkick.com/concerts/43239203-flora-hibberd-at-courtyard-theatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43239203-flora-hibberd-at-courtyard-theatre"
 ---

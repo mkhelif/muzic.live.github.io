@@ -6,5 +6,5 @@ artists:
   - "4158eadd-115d-4eed-a44d-7ed4b81f53d8"
   - "f61639b6-0a77-4ef8-b217-bfb40c7239e6"
 tickets:
-  web: "https://www.songkick.com/concerts/43299108-dimmu-borgir-at-velodromo-olimpico?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43299108-dimmu-borgir-at-velodromo-olimpico"
 ---

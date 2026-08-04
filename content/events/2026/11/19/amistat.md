@@ -4,5 +4,5 @@ venue: "c8136915-2bf8-46b2-8fef-a64b9e5da64b"
 artists:
   - "c3c7f832-a850-432e-bc32-212522d06c06"
 tickets:
-  web: "https://www.songkick.com/concerts/43200870-amistat-at-gloria?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43200870-amistat-at-gloria"
 ---

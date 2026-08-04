@@ -7,5 +7,5 @@ artists:
   - "0dda7c50-0268-44f8-b0fd-41e7376b711b"
   - "b2076963-69b5-4cee-a4a0-ac13fa3f0e6e"
 tickets:
-  web: "https://www.songkick.com/concerts/43336460-horror-vacui-at-la-marbrerie?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43336460-horror-vacui-at-la-marbrerie"
 ---

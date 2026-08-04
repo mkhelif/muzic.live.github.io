@@ -6,5 +6,5 @@ artists:
   - "709ff180-7faa-4b30-83c9-4213354615ae"
   - "769b116d-f3c5-4add-96ce-72a4c58dc625"
 tickets:
-  web: "https://www.songkick.com/concerts/43035705-jimmy-eat-world-at-midflorida-credit-union-amphitheatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43035705-jimmy-eat-world-at-midflorida-credit-union-amphitheatre"
 ---

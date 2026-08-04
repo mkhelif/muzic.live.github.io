@@ -8,5 +8,5 @@ artists:
   - "4ac08157-0246-4ee8-b0a1-91e756012df9"
   - "802d9e2d-0893-4839-a39d-a0296757903d"
 tickets:
-  web: "https://www.songkick.com/concerts/43137145-maxi-meraki-at-hi-ibiza?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43137145-maxi-meraki-at-hi-ibiza"
 ---

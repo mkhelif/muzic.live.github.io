@@ -2,7 +2,15 @@
 id: "9fcd4197-89a9-4815-a76b-15083826ad77"
 title: "Autechre"
 type: band
+members:
+  - id: "a3054444-119e-4282-b22b-7b39ccd764e5"
+    roles:
+      - other
+  - id: "a2605c9b-87fd-4ea4-8dea-47f1fb524825"
+    roles:
+      - other
 socials:
+  musicbrainz: "410c9baf-5469-44f6-9852-826524b80c61"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,8 +24,9 @@ socials:
   deezer: "6374"
   qobuz: ""
   spotify: "6WH1V41LwGDGmlPUhSZLHO"
-  tidal: ""
+  tidal: "3569016"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

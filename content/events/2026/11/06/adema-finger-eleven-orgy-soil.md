@@ -7,5 +7,5 @@ artists:
   - "72bdbe18-5fe1-447d-bd2e-b66909b22b7d"
   - "b632478f-7f34-42bd-9973-ca573fa0e841"
 tickets:
-  web: "https://www.songkick.com/concerts/42898577-soil-at-nottingham-rock-city?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42898577-soil-at-nottingham-rock-city"
 ---

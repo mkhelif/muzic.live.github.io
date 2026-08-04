@@ -2,6 +2,7 @@
 id: "d09a2b0a-89f2-4d5e-becc-cbcfa719bf96"
 title: "Austin Millz"
 socials:
+  musicbrainz: "71e0b3da-e806-44e5-9c73-6df1598b8f65"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,12 +16,14 @@ socials:
   apple: "580489109"
   deezer: "5060916"
   qobuz: ""
-  spotify: ""
+  spotify: "43UmVQp9qZILibJ5vHq21k"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
+  deezer: 2026-08-04
   bandsintown: 2026-07-26
 ---

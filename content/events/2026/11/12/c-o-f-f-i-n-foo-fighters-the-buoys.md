@@ -6,5 +6,5 @@ artists:
   - "7ac67624-1f61-4dd5-9059-bb419074f9fd"
   - "adffcd41-a03a-452f-949c-be7ddce6c5f4"
 tickets:
-  web: "https://www.songkick.com/concerts/43051559-foo-fighters-at-mcdonald-jones-stadium?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43051559-foo-fighters-at-mcdonald-jones-stadium"
 ---

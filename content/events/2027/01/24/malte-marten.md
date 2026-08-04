@@ -4,5 +4,5 @@ venue: "e19f3a86-03bb-4d92-b1df-2ed39a569fef"
 artists:
   - "41491ce0-387e-4a1a-a854-f5e4ee898b18"
 tickets:
-  web: "https://www.songkick.com/concerts/43233425-malte-marten-at-kastel?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43233425-malte-marten-at-kastel"
 ---

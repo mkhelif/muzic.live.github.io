@@ -6,5 +6,5 @@ artists:
   - "f03172a8-a5d0-4e6d-9313-2da93582d501"
   - "8d7372ad-0af6-4b49-a1ff-979d31fc6111"
 tickets:
-  web: "https://www.songkick.com/concerts/43204269-hoaxed-at-tower-bar?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43204269-hoaxed-at-tower-bar"
 ---

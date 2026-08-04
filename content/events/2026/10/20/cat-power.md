@@ -4,5 +4,5 @@ venue: "1e6ee0c0-5141-41e5-a3ca-021818204310"
 artists:
   - "88db523c-337b-4c97-a6bd-ed54cbb391d5"
 tickets:
-  web: "https://www.songkick.com/concerts/42872577-cat-power-at-muffathalle?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42872577-cat-power-at-muffathalle"
 ---

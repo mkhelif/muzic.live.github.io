@@ -8,5 +8,5 @@ artists:
   - "52acb747-a4da-4f50-b346-6e231ac0cfd1"
   - "01cca8bf-18be-47e7-9ff8-7ab689e9bbc6"
 tickets:
-  web: "https://www.songkick.com/concerts/43175695-venna-uk-at-unknown-venue?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43175695-venna-uk-at-unknown-venue"
 ---

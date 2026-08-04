@@ -5,5 +5,5 @@ artists:
   - "0611bf62-2898-4399-9fbe-43c664ac5def"
   - "d72adaa5-3188-44f1-976d-259d4ad82680"
 tickets:
-  web: "https://www.songkick.com/concerts/43275235-muna-at-sylvee?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43275235-muna-at-sylvee"
 ---

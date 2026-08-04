@@ -8,5 +8,5 @@ artists:
   - "26b93a3f-2349-480e-adb7-41c1e52083a2"
   - "651061e0-a69a-4266-aa71-0167bff04c70"
 tickets:
-  web: "https://www.songkick.com/concerts/43245544-lentourloop-at-theatre-de-verdure?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43245544-lentourloop-at-theatre-de-verdure"
 ---

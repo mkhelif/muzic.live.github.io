@@ -5,5 +5,5 @@ artists:
   - "f5a68823-7c2c-4fe5-8f76-1754753a8891"
   - "13a7b77c-e2e6-4228-9b3e-da77615dd289"
 tickets:
-  web: "https://www.songkick.com/concerts/43060397-mumford-and-sons-at-cocacola-amphitheater?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43060397-mumford-and-sons-at-cocacola-amphitheater"
 ---

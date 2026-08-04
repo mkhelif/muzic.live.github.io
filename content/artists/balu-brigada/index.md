@@ -2,7 +2,21 @@
 id: "d05cc3e1-35f1-4c3c-9cc0-6bc96f21a12e"
 title: "Balu Brigada"
 type: band
+members:
+  - id: "14f6496c-ae06-433c-a92f-089ac28dc0ce"
+    roles:
+      - other
+  - id: "88733e92-b70b-4298-a422-2d58d7ad1f7f"
+    roles:
+      - other
+  - id: "127c47f9-23de-4b5d-b3ad-9172d67e6977"
+    roles:
+      - other
+  - id: "e52082f3-0f2b-4f5e-ac51-04d52c2a177b"
+    roles:
+      - other
 socials:
+  musicbrainz: "f9ad56b5-6f41-4cdc-b859-3370c8bff3e2"
   facebook: "BaluBrigada"
   instagram: "balubrigada"
   tiktok: "@balubrigada"
@@ -18,8 +32,9 @@ socials:
   deezer: "11303670"
   qobuz: ""
   spotify: "6O9vGMmTwzihULICPCsNf2"
-  tidal: ""
+  tidal: "8246511"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26

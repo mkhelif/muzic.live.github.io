@@ -3,6 +3,7 @@ id: "676183f2-15f6-426c-a4d5-42deb373d49a"
 title: "Argoth"
 type: person
 socials:
+  musicbrainz: "ac4f0866-9475-48e6-b27c-9d5e650ffff3"
   apple: "1454058566"
   facebook: ""
   instagram: ""
@@ -15,6 +16,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-26
 ---

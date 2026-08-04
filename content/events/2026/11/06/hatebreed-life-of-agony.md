@@ -5,5 +5,5 @@ artists:
   - "66f8f414-5873-4b3f-90ae-8f9882565638"
   - "54d93a67-5aea-421b-8f53-955e2ee2f1de"
 tickets:
-  web: "https://www.songkick.com/concerts/43263314-hatebreed-at-klub-progresja?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43263314-hatebreed-at-klub-progresja"
 ---

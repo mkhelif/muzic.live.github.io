@@ -3,6 +3,7 @@ id: "b2775aa2-1ca5-40f7-89a7-5dd64fa107d8"
 title: "Amelie Lens"
 type: person
 socials:
+  musicbrainz: "67db280d-c3e4-49d9-978e-4050f4e209ef"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,19 +13,22 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1078801898"
+  deezer: "9757762"
   qobuz: ""
   spotify: "5Ho1vKl1Uz8bJlk4vbmvmf"
-  tidal: ""
+  tidal: "8012579"
 todo:
   - Add socials
   - Add cover
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
+date:
+  birth: 1990-05-31
 ---
 
 Amelie Lens est une DJ et productrice de musique électronique belge née à Vilvorde le 31 mai 1990. Ancienne

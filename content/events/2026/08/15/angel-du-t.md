@@ -4,5 +4,5 @@ venue: "f44a8dd7-1c14-404e-a2e2-e6e1a2b3c0bc"
 artists:
   - "f16f33cf-299b-4d4a-b6e1-df178d3b4dc9"
 tickets:
-  web: "https://www.songkick.com/concerts/43325517-nnor-at-afrika-taste-and-lounge?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43325517-nnor-at-afrika-taste-and-lounge"
 ---

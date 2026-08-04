@@ -8,5 +8,5 @@ artists:
   - "ce7a5873-d9b3-404e-88af-3ead005a2b08"
   - "d8350f92-c63b-4718-8850-98ca4a3da010"
 tickets:
-  web: "https://www.songkick.com/concerts/42960141-jovanotti-at-music-arena?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42960141-jovanotti-at-music-arena"
 ---

@@ -6,5 +6,5 @@ artists:
   - "01a4f622-37c0-4ebd-b0aa-e69628e8d755"
   - "74a7c76b-5a7e-490d-8b71-7d71183e7fd1"
 tickets:
-  web: "https://www.songkick.com/concerts/43290991-erykah-badu-at-greek-theatre-uc-berkeley?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43290991-erykah-badu-at-greek-theatre-uc-berkeley"
 ---

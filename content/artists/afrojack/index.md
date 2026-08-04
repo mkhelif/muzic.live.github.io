@@ -3,6 +3,7 @@ id: "71e3ec7c-bbe7-4466-af09-8eedd49e7a6a"
 title: "Afrojack"
 type: person
 socials:
+  musicbrainz: "a3ee920f-4e7f-4993-8aca-4b8538cfaa4a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,19 +13,22 @@ socials:
   web: ""
   email: ""
   amazon: "B0025VAQAQ"
-  apple: ""
+  apple: "211210469"
   deezer: "169361"
-  qobuz: ""
+  qobuz: "112921"
   spotify: "4D75GcNG95ebPtNvoNVXhz"
   tidal: ""
 todo:
   - Add cover
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1987-09-09
 ---
 
 Afrojack, de son vrai nom Nick Leonardus van de Wall, est un DJ, producteur et remixeur néerlandais né le 9 septembre

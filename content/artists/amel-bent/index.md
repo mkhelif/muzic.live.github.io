@@ -3,6 +3,7 @@ id: "025d6963-ca65-4c83-bbc6-da8c8f4f55ce"
 title: "Amel Bent"
 type: person
 socials:
+  musicbrainz: "b40f0299-fa59-41fb-80bb-cbc091c5452f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,16 +15,19 @@ socials:
   amazon: ""
   apple: "35345990"
   deezer: "1765"
-  qobuz: ""
+  qobuz: "59761"
   spotify: "15jZ8OLtnGATWHlQkltG7f"
-  tidal: ""
+  tidal: "1563"
 todo:
   - Add cover
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
+date:
+  birth: 1985-06-21
 ---
 
 Amel Bent est une chanteuse française de soul, R'n'B et variété née le 21 juin 1985 à Paris, d'origine algérienne

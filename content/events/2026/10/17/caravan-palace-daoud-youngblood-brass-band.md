@@ -6,5 +6,5 @@ artists:
   - "0176d93d-8767-4244-96ba-d957271ec62b"
   - "a69e4b00-845c-447c-bff2-1738e84311a3"
 tickets:
-  web: "https://www.songkick.com/concerts/43213304-caravan-palace-at-chapiteau-de-la-pepiniere?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43213304-caravan-palace-at-chapiteau-de-la-pepiniere"
 ---

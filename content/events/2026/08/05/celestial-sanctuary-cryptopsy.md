@@ -5,5 +5,5 @@ artists:
   - "9aa0afc5-6deb-4b70-8a33-7e1fa9bc666f"
   - "6381049c-3551-46e3-bff4-d2462272ce28"
 tickets:
-  web: "https://www.songkick.com/concerts/43106119-cryptopsy-at-whelans?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43106119-cryptopsy-at-whelans"
 ---

@@ -4,5 +4,5 @@ venue: "e9374ba8-458d-41dd-8a6f-b45025846cd4"
 artists:
   - "041a8e5f-210f-4e77-84b9-a1ffd12dc0bd"
 tickets:
-  web: "https://www.songkick.com/concerts/43245024-156silence-at-song-and-dance?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43245024-156silence-at-song-and-dance"
 ---

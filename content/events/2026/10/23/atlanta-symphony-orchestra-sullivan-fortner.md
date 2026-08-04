@@ -5,5 +5,5 @@ artists:
   - "f3d92926-11cc-4b45-9f67-3b2a999df90c"
   - "7854d1d1-2b64-42a0-b1a1-b8b92f6fe79e"
 tickets:
-  web: "https://www.songkick.com/concerts/43330750-atlanta-symphony-orchestra-at-atlanta-symphony-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43330750-atlanta-symphony-orchestra-at-atlanta-symphony-hall"
 ---

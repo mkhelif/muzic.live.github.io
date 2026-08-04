@@ -32,6 +32,7 @@ members:
       - start: 2012
         end: 2017
 socials:
+  musicbrainz: "0070ca77-26e8-4ce2-a28a-d1b76ec15485"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -45,8 +46,9 @@ socials:
   deezer: "5303190"
   qobuz: ""
   spotify: "0MmnmsAuQKRFpo6vJElcaU"
-  tidal: ""
+  tidal: "5171573"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

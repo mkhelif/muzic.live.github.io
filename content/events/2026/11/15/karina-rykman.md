@@ -4,5 +4,5 @@ venue: "e9f14da3-be15-495d-9f68-44683402386f"
 artists:
   - "e5d75f9a-71fb-4486-aeab-0a82b57dd055"
 tickets:
-  web: "https://www.songkick.com/concerts/43286762-karina-rykman-at-barboza?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43286762-karina-rykman-at-barboza"
 ---

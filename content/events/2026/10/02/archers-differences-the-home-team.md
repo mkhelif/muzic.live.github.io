@@ -6,5 +6,5 @@ artists:
   - "e6ff9890-1992-44b7-a43a-c1df8b63d71c"
   - "d8cb92a1-bda1-485c-acc3-cfd09390bea0"
 tickets:
-  web: "https://www.songkick.com/concerts/43255164-home-team-at-house-of-blues-las-vegas?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43255164-home-team-at-house-of-blues-las-vegas"
 ---

@@ -3,6 +3,7 @@ id: "ca44b750-e31c-4ab9-86cd-a3218a703d1f"
 title: "Arnaud Rebotini"
 type: person
 socials:
+  musicbrainz: "9838c84b-5e67-4c1d-97e6-a36d2ca73634"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,19 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "39989987"
   deezer: "91696"
-  qobuz: ""
+  qobuz: "102872"
   spotify: "4qnTdOhzCAvoRf8PObGr1h"
-  tidal: ""
+  tidal: "3570316"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
+date:
+  birth: 1970
 ---
 
 Arnaud Rebotini est un compositeur, producteur et musicien électronique français né le 12 avril 1970. Figure

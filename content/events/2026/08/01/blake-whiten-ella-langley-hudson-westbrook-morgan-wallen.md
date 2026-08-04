@@ -7,5 +7,5 @@ artists:
   - "78b29512-4ba9-4aa7-80c3-a0609e2e02b8"
   - "b38b4cf1-e9d1-4348-be28-f196a8db8ecb"
 tickets:
-  web: "https://www.songkick.com/concerts/42866848-morgan-wallen-at-lincoln-financial-field?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42866848-morgan-wallen-at-lincoln-financial-field"
 ---

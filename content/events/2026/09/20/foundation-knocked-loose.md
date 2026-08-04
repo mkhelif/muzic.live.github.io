@@ -5,5 +5,5 @@ artists:
   - "6be694b2-2b1e-43bd-8fd7-83b94f5e09a7"
   - "9b96f62b-0026-476c-a384-70786dbfca70"
 tickets:
-  web: "https://www.songkick.com/concerts/43293586-knocked-loose-at-masquerade-heaven?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43293586-knocked-loose-at-masquerade-heaven"
 ---

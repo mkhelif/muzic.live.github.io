@@ -7,5 +7,5 @@ artists:
   - "4edfe0a1-33f2-443c-90fa-153e278185a0"
   - "5158699d-e635-4c1c-8e5c-42b057cc7a47"
 tickets:
-  web: "https://www.songkick.com/concerts/43212092-black-veil-brides-at-val-air-ballroom?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43212092-black-veil-brides-at-val-air-ballroom"
 ---

@@ -2,6 +2,7 @@
 id: "16ca281d-620c-4757-974f-ef7905dfb304"
 title: "Apollo Junction"
 socials:
+  musicbrainz: "cd76f9ab-c0f4-4251-8ffe-e7f47db0bf09"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
 ---

@@ -56,6 +56,7 @@ members:
       - start: 2012
         end: 2025
 socials:
+  musicbrainz: "d0cb5651-e1f2-4ffb-8ae1-b4b263af75fa"
   facebook: "battlebeastofficial"
   instagram: "battlebeastband"
   x: "battlebeast"
@@ -67,10 +68,11 @@ socials:
   tiktok: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "412807070"
   deezer: "400967"
-  qobuz: ""
+  qobuz: "593035"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

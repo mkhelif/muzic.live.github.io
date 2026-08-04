@@ -6,5 +6,5 @@ artists:
   - "7ac67624-1f61-4dd5-9059-bb419074f9fd"
   - "1fc5af25-d788-40e3-af80-5ea525c58f14"
 tickets:
-  web: "https://www.songkick.com/concerts/43051570-foo-fighters-at-western-springs-stadium?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43051570-foo-fighters-at-western-springs-stadium"
 ---

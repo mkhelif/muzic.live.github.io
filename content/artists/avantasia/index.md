@@ -2,7 +2,12 @@
 id: "144269cc-cb45-462e-b692-56df27f1af7a"
 title: "Avantasia"
 type: band
+members:
+  - id: "b8884f4e-7b88-4bb7-82da-5fd6293ee2c1"
+    roles:
+      - other
 socials:
+  musicbrainz: "2ecbc483-dee4-442f-8ce7-f3ab31c73f87"
   facebook: "avantasia"
   instagram: "tobiassammetofficial"
   x: "_avantasia"
@@ -18,6 +23,8 @@ socials:
   tiktok: ""
   email: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
+  deezer: 2026-08-04
   bandsintown: 2026-07-27
   apple: 2026-07-26
   spotify: 2026-07-23

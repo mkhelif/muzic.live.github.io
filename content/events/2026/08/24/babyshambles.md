@@ -4,5 +4,5 @@ venue: "54ee7a91-4b19-47ac-95db-38708739d0ae"
 artists:
   - "e54cd8e0-36ab-4976-9b4b-e9bdeef1b304"
 tickets:
-  web: "https://www.songkick.com/concerts/43148284-babyshambles-at-limelight-1?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43148284-babyshambles-at-limelight-1"
 ---

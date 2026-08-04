@@ -4,5 +4,5 @@ venue: "462ec9ba-18b6-4dbd-ac93-7e7817194ef9"
 artists:
   - "ee712b3f-aa4d-4b5b-a530-53176047a117"
 tickets:
-  web: "https://www.songkick.com/concerts/43244065-joe-and-the-shitboys-at-shacklewell-arms?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43244065-joe-and-the-shitboys-at-shacklewell-arms"
 ---

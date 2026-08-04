@@ -3,6 +3,7 @@ id: "5834067b-1171-4744-ace6-683545984d49"
 title: "Bear's Towers"
 type: band
 socials:
+  musicbrainz: "69e1c960-4a9c-4363-9cba-2eb7db3b2562"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

@@ -5,5 +5,5 @@ artists:
   - "4e1e6bc6-8e2d-4c94-acfd-3b8561916c16"
   - "d5f1fe16-f081-4140-b6e0-07d19c1304cb"
 tickets:
-  web: "https://www.songkick.com/concerts/43109162-emmylou-harris-at-hunter-pavilion?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43109162-emmylou-harris-at-hunter-pavilion"
 ---

@@ -4,5 +4,5 @@ venue: "bd1a2fb6-8ecb-4f52-a95f-22adfd51d163"
 artists:
   - "c1a78ccd-70b7-405d-a68f-2c0658224719"
 tickets:
-  web: "https://www.songkick.com/concerts/43125145-mick-harvey-at-mir?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43125145-mick-harvey-at-mir"
 ---

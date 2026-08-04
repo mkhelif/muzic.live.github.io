@@ -18,6 +18,7 @@ aliases:
   - "BigFlo et Oli"
   - "BigFlo & Oli"
 socials:
+  musicbrainz: "f4824366-d97b-4929-a970-a94845306f4a"
   facebook: "bigfloetoli"
   instagram: "bigfloetoli"
   tiktok: "@bigfloetoli_officiel"
@@ -33,6 +34,7 @@ socials:
   deezer: "5497121"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

@@ -7,5 +7,5 @@ artists:
   - "69728416-3211-4426-b877-2473ba7f3aa7"
   - "20091d04-f7cc-43c0-af3a-953ddc581a8c"
 tickets:
-  web: "https://www.songkick.com/concerts/42906024-lamb-of-god-at-kb-hallen?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42906024-lamb-of-god-at-kb-hallen"
 ---

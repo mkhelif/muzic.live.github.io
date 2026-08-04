@@ -2,6 +2,7 @@
 id: "343235c8-0631-4ce2-9f53-2cf8bd835c3e"
 title: "Amimia"
 socials:
+  musicbrainz: "63caa431-8429-49cd-ac73-08b2e940b922"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   bandsintown-lookup: 2026-08-04
   deezer-lookup: 2026-07-27
 ---

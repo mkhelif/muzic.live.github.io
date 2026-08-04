@@ -2,6 +2,7 @@
 id: "b105a4d3-0405-45ef-9be2-dac7af31525f"
 title: "Antti Autio"
 socials:
+  musicbrainz: "bf6c9ae2-2c50-4c51-ab0d-89838bff2b93"
   facebook: "Breathbox"
   instagram: "anttipaalanen"
   tiktok: "@anttipaalanen"
@@ -18,6 +19,7 @@ socials:
   spotify: "04v74MPedb2oLX2pUbcC4V"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
 ---

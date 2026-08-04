@@ -4,5 +4,5 @@ venue: "f66079f2-7b45-4f6b-8b28-c7afc0c86c11"
 artists:
   - "4a8092a2-dfe1-463e-b0b8-3070d6b6d2db"
 tickets:
-  web: "https://www.songkick.com/concerts/43308639-eagleeye-cherry-at-boogaloo?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43308639-eagleeye-cherry-at-boogaloo"
 ---

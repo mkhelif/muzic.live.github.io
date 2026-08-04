@@ -4,5 +4,5 @@ venue: "9afb39d0-73f0-400d-9b81-e97452a0df57"
 artists:
   - "1b7f4d95-4a7e-4b49-abf8-a2972bc16a4a"
 tickets:
-  web: "https://www.songkick.com/concerts/43200144-miossec-at-unknown-venue?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43200144-miossec-at-unknown-venue"
 ---

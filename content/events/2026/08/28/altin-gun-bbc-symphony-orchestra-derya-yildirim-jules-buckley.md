@@ -7,5 +7,5 @@ artists:
   - "4f92f0cb-63b4-49a5-a735-06a150feef81"
   - "04f2abea-ce46-40a8-b2f0-939167fb4ff7"
 tickets:
-  web: "https://www.songkick.com/concerts/43169732-altin-gun-at-royal-albert-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43169732-altin-gun-at-royal-albert-hall"
 ---

@@ -4,5 +4,5 @@ venue: "78db48b0-36cc-4956-b9bc-f8b41332ead4"
 artists:
   - "41491ce0-387e-4a1a-a854-f5e4ee898b18"
 tickets:
-  web: "https://www.songkick.com/concerts/43279125-malte-marten-at-admiralspalast?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43279125-malte-marten-at-admiralspalast"
 ---

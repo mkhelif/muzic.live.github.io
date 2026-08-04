@@ -7,5 +7,5 @@ artists:
   - "a757c131-3cf9-46c8-9375-60aeedb84d3f"
   - "d171fc52-3f07-41df-8c31-b0a6d28868fc"
 tickets:
-  web: "https://www.songkick.com/concerts/43206172-najee-at-cleveland-public-auditorium?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43206172-najee-at-cleveland-public-auditorium"
 ---

@@ -6,5 +6,5 @@ artists:
   - "851a0e6f-2991-412b-90eb-d055a7f87d21"
   - "55618a58-c61f-44b3-a8cb-d8b80e1812f3"
 tickets:
-  web: "https://www.songkick.com/concerts/43270368-lita-ford-at-agua-caliente-casino-rancho-mirage?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43270368-lita-ford-at-agua-caliente-casino-rancho-mirage"
 ---

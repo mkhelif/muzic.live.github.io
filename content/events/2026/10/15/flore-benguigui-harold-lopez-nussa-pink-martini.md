@@ -6,5 +6,5 @@ artists:
   - "295810f9-26fa-49b1-bd7e-32e774542290"
   - "ccebf42f-94bb-4013-b2f2-81edea4b09d6"
 tickets:
-  web: "https://www.songkick.com/concerts/43213305-pink-martini-at-chapiteau-de-la-pepiniere?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43213305-pink-martini-at-chapiteau-de-la-pepiniere"
 ---

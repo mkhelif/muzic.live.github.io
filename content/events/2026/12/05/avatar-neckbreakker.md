@@ -5,5 +5,5 @@ artists:
   - "1d6356b1-a9d7-4c38-957d-067cd5c3e50f"
   - "378aa7d5-eae3-4649-b575-8312d95280fa"
 tickets:
-  web: "https://www.songkick.com/concerts/43288292-avatar-at-barba-negra?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43288292-avatar-at-barba-negra"
 ---

@@ -4,5 +4,5 @@ venue: "1e7f0cf8-7b7b-4d69-9db0-30174086d0d6"
 artists:
   - "e54cd8e0-36ab-4976-9b4b-e9bdeef1b304"
 tickets:
-  web: "https://www.songkick.com/concerts/43220289-babyshambles-at-poolbar-festival?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43220289-babyshambles-at-poolbar-festival"
 ---

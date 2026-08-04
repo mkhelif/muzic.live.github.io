@@ -2,6 +2,7 @@
 id: "31049bb8-80e1-4dab-98a2-164f99f07662"
 title: "Anfisa Letyago"
 socials:
+  musicbrainz: "f98ca939-7406-409b-8ee5-fcc9c777efa4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,9 +16,10 @@ socials:
   apple: "884010607"
   deezer: "5895658"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "7icoOm5fKKPo49jVxoj1Cq"
+  tidal: "5827197"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
 ---

@@ -7,5 +7,5 @@ artists:
   - "ca3ccc02-5a70-4569-8b04-90918140c21e"
   - "431dd317-fc46-4673-b037-509580e3d29a"
 tickets:
-  web: "https://www.songkick.com/concerts/43162027-killswitch-engage-at-union-event-center?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43162027-killswitch-engage-at-union-event-center"
 ---

@@ -5,5 +5,5 @@ artists:
   - "98532893-3411-4e8a-9c5e-3ef0a5f9bc5b"
   - "b2380604-a253-49d9-97be-25fd8ae1dfb9"
 tickets:
-  web: "https://www.songkick.com/concerts/43020594-mika-luiza-at-theatre-de-plein-air-parc-expo?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43020594-mika-luiza-at-theatre-de-plein-air-parc-expo"
 ---

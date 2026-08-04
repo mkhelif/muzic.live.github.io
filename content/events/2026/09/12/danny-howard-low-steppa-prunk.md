@@ -6,5 +6,5 @@ artists:
   - "0c1eb632-16c8-4436-99d7-3c72648286db"
   - "659c5f81-aba9-4fbb-96b8-89561dfb9dd6"
 tickets:
-  web: "https://www.songkick.com/concerts/43313574-armand-van-helden-at-gaswrx?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43313574-armand-van-helden-at-gaswrx"
 ---

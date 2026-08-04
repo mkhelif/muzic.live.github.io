@@ -6,5 +6,5 @@ artists:
   - "a4493466-46ca-46d3-ac1a-e856484c58ef"
   - "777c384a-b9e9-4ef6-ae07-dbea6bbc092e"
 tickets:
-  web: "https://www.songkick.com/concerts/42867210-oar-at-live-oak-bank-pavilion?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42867210-oar-at-live-oak-bank-pavilion"
 ---

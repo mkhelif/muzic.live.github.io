@@ -3,6 +3,7 @@ id: "4fadc2b9-1235-4154-a0bd-700e8739d2da"
 title: "Alphornbläser"
 type: unknown
 socials:
+  musicbrainz: "6b81852a-c396-46f9-a04b-009366f5b915"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-24

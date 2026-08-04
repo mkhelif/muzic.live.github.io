@@ -6,5 +6,5 @@ artists:
   - "b79966ac-d59d-4c6d-91d7-e3414ae81c72"
   - "0bf5bf95-16be-4525-8e9d-7f3b1826ba88"
 tickets:
-  web: "https://www.songkick.com/concerts/43326669-sanguisugabogg-at-im-wizemann?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43326669-sanguisugabogg-at-im-wizemann"
 ---

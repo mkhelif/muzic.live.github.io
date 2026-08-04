@@ -16,6 +16,7 @@ members:
     periods:
       - start: 2019
 socials:
+  musicbrainz: "5fd29907-c3c5-4b1d-a799-7cf9bbd288fc"
   facebook: "angine.poitrine"
   instagram: "anginedepoitrine"
   bandsintown: "15537640"
@@ -29,11 +30,12 @@ socials:
   email: "info@spectaclesbonzai.com"
   tiktok: ""
   x: ""
-  amazon: ""
+  amazon: "B0D61BF68G"
   qobuz: ""
 todo:
   - Add picture
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   apple: 2026-07-26
   bandsintown: 2026-07-23

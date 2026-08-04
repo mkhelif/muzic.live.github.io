@@ -3,6 +3,7 @@ id: "5cb70f5d-4237-4c7a-9b13-ef9f38c65b54"
 title: "Berenice Scott"
 type: person
 socials:
+  musicbrainz: "9ca32aee-509d-44b9-a4fc-0d74a962e6fc"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

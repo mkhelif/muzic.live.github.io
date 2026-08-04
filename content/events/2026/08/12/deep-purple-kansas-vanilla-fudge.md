@@ -6,5 +6,5 @@ artists:
   - "062c0774-bfa7-470a-adbd-f52e30efd840"
   - "33acb56f-55b2-4647-a4b7-3db08f5e860f"
 tickets:
-  web: "https://www.songkick.com/concerts/43135691-deep-purple-at-northwell-at-jones-beach-theater?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43135691-deep-purple-at-northwell-at-jones-beach-theater"
 ---

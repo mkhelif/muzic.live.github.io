@@ -5,5 +5,5 @@ artists:
   - "bdfe1728-c7c3-4a1e-b57a-f614ba7fa039"
   - "f81627e7-a2af-4622-8621-ecdeeedd7f44"
 tickets:
-  web: "https://www.songkick.com/concerts/43232554-frozen-soul-at-handlebar?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43232554-frozen-soul-at-handlebar"
 ---

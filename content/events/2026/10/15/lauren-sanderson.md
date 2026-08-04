@@ -4,5 +4,5 @@ venue: "a1a34aff-3f49-4a86-b5c9-1658a35be978"
 artists:
   - "6bbd62c8-c066-4d57-9ca6-b59b8677a4f7"
 tickets:
-  web: "https://www.songkick.com/concerts/43248997-lauren-sanderson-at-atlantis?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43248997-lauren-sanderson-at-atlantis"
 ---

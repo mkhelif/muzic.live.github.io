@@ -3,6 +3,7 @@ id: "a712a2d1-635e-4c13-98a2-e3ac74debd7c"
 title: "Alisa Ramirez"
 type: person
 socials:
+  musicbrainz: "ba02ced0-949c-42e7-8f56-93b050a36332"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-23

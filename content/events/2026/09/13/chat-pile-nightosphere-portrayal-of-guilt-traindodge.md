@@ -7,5 +7,5 @@ artists:
   - "496ce74c-b690-49da-b116-488dfdb0a3b7"
   - "4446fa07-11b0-4924-bd20-ce2d35427f73"
 tickets:
-  web: "https://www.songkick.com/concerts/43259367-chat-pile-at-tower-theatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43259367-chat-pile-at-tower-theatre"
 ---

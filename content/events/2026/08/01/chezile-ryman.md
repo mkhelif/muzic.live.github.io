@@ -5,5 +5,5 @@ artists:
   - "bac3b4aa-18ec-40bd-af10-8b283ee3b9c9"
   - "50c684e6-9f48-4936-bf50-a5620a3eb792"
 tickets:
-  web: "https://www.songkick.com/concerts/43236177-chezile-at-garcias-chicago?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43236177-chezile-at-garcias-chicago"
 ---

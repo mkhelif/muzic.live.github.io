@@ -8,5 +8,5 @@ artists:
   - "be724f51-e296-4b77-bf33-55c4e5b17878"
   - "56baebde-8693-4ac8-91c2-5734cc6209f6"
 tickets:
-  web: "https://www.songkick.com/concerts/43214000-cory-wong-at-nottingham-rock-city?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43214000-cory-wong-at-nottingham-rock-city"
 ---

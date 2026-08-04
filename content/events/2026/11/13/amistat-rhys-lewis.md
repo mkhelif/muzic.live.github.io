@@ -5,5 +5,5 @@ artists:
   - "c3c7f832-a850-432e-bc32-212522d06c06"
   - "4bc267a3-c9a3-44d8-9c97-860a08ba5103"
 tickets:
-  web: "https://www.songkick.com/concerts/43093362-amistat-at-o2-shepherds-bush-empire?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43093362-amistat-at-o2-shepherds-bush-empire"
 ---

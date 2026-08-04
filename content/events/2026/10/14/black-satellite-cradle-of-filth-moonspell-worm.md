@@ -7,5 +7,5 @@ artists:
   - "03c3fe81-8112-46a4-a2a2-fdc40ff688f2"
   - "afb6a757-0b25-42f6-b6d2-433f57d7fa12"
 tickets:
-  web: "https://www.songkick.com/concerts/43322855-cradle-of-filth-at-opera-house?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43322855-cradle-of-filth-at-opera-house"
 ---

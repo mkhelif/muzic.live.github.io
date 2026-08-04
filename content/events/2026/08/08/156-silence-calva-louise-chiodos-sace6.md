@@ -7,5 +7,5 @@ artists:
   - "1781d353-ea07-4fae-9649-186eee82f6ce"
   - "935aeadb-3c5a-42e3-8335-72d8ba2a055b"
 tickets:
-  web: "https://www.songkick.com/concerts/43107905-chiodos-at-commodore-ballroom?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43107905-chiodos-at-commodore-ballroom"
 ---

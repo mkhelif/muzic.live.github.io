@@ -3,6 +3,7 @@ id: "5eb6304a-51fb-4ce1-ad0b-453b7fdbe695"
 title: "Aupinard"
 type: unknown
 socials:
+  musicbrainz: "12aa25fe-995e-405d-87ad-bf699a99d304"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,10 +17,11 @@ socials:
   deezer: "152058642"
   qobuz: ""
   spotify: "33U9I7yBy34UXqKYObItne"
-  tidal: ""
+  tidal: "29389777"
 todo:
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

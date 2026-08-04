@@ -2,6 +2,7 @@
 id: "740dba67-f200-45e0-8392-e453a3a1307c"
 title: "Arabian Panther"
 socials:
+  musicbrainz: "c5c32235-c4b0-4a0b-aec9-36b3533bb39c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-26

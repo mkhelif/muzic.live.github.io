@@ -4,5 +4,5 @@ venue: "94aa79b5-01c5-40fd-8d4f-8e5377d811fe"
 artists:
   - "ba7460bf-d7f6-4677-bd3e-658a70306a31"
 tickets:
-  web: "https://www.songkick.com/concerts/43227717-john-summit-at-barclays-center?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43227717-john-summit-at-barclays-center"
 ---

@@ -4,5 +4,5 @@ venue: "25cba661-78c7-45ab-8d74-1fe1ff0af21f"
 artists:
   - "df73511e-2798-4de5-9688-a784a41536a5"
 tickets:
-  web: "https://www.songkick.com/concerts/43322377-patrick-watson-at-southam-hall-national-arts-centre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43322377-patrick-watson-at-southam-hall-national-arts-centre"
 ---

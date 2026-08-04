@@ -2,7 +2,81 @@
 id: "09d3b802-38fa-49f6-b4ef-a24b6fd7bc3c"
 title: "Annisokay"
 type: band
+members:
+  - id: "819d808c-4771-4851-b62d-6764f23f1011"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2007
+      - start: 2007
+  - id: "1dfa5a79-48d7-4529-97d6-3e270a12ca4c"
+    roles:
+      - sing
+    periods:
+      - start: 2019
+  - id: "99069d65-0243-4b84-9e91-982d4aed95a8"
+    roles:
+      - bass
+    periods:
+      - start: 2007
+        end: 2007
+  - id: "0b511020-7d24-4632-9f35-49cdeefbb638"
+    roles:
+      - drums
+    periods:
+      - start: 2007
+        end: 2007
+  - id: "d26c8970-a59d-47e0-ab03-62fc77d966d7"
+    roles:
+      - bass
+    periods:
+      - start: 2007
+        end: 2010
+  - id: "90f65c37-97fb-40e6-9076-7a1fe1d70049"
+    roles:
+      - other
+    periods:
+      - start: 2007
+        end: 2011
+  - id: "4aa60659-243d-455e-a075-2162ad0efa56"
+    roles:
+      - bass
+    periods:
+      - start: 2007
+        end: 2023
+  - id: "c6858a16-b031-4b14-a527-66a158458ef9"
+    roles:
+      - drums
+    periods:
+      - start: 2009
+        end: 2015
+  - id: "5ec0f74f-3f4a-44f6-8f52-6160689d83dd"
+    roles:
+      - bass
+    periods:
+      - start: 2011
+        end: 2013
+  - id: "69628b7e-b391-4a5c-aa69-c53ab2b15537"
+    roles:
+      - sing
+    periods:
+      - start: 2011
+        end: 2019
+  - id: "6e0dcf81-67b9-4c07-a070-2b85ed38a61f"
+    roles:
+      - drums
+    periods:
+      - start: 2016
+        end: 2024
+  - id: "c0be1683-e6da-4331-b392-e305fc9e7d72"
+    roles:
+      - drums
+  - id: "56e7eb30-b5b9-4e35-93a4-f01b78dbc990"
+    roles:
+      - bass
 socials:
+  musicbrainz: "2a64bd71-6d43-4b62-8b6b-835b083cd1f4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +85,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B00380WAK2"
   apple: "354880204"
   deezer: "3621331"
-  qobuz: ""
+  qobuz: "1904394"
   spotify: "7lAi1Cv19DsukgGjbZQxFg"
-  tidal: ""
+  tidal: "4636433"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

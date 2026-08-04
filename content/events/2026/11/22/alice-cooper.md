@@ -4,5 +4,5 @@ venue: "a4d223fd-27ff-44fb-95b1-33aa92351602"
 artists:
   - "c53f2102-8d18-46a5-a3de-752ccd168902"
 tickets:
-  web: "https://www.songkick.com/concerts/43320557-alice-cooper-at-grand-sierra-resort-and-casino?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43320557-alice-cooper-at-grand-sierra-resort-and-casino"
 ---

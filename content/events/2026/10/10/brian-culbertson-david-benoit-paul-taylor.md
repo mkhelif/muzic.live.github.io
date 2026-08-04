@@ -6,5 +6,5 @@ artists:
   - "689e81c0-d136-4307-8036-213ba5a15e9d"
   - "7408714b-5526-4a9d-808c-8ad9cdd4163d"
 tickets:
-  web: "https://www.songkick.com/concerts/43138996-brian-culbertson-at-hawaii-theatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43138996-brian-culbertson-at-hawaii-theatre"
 ---

@@ -4,5 +4,5 @@ venue: "ae39ba8c-fc89-4e6a-80b7-b81a6cee019e"
 artists:
   - "37242c3e-f6bd-47d5-922f-4835ca9a12e4"
 tickets:
-  web: "https://www.songkick.com/concerts/43330453-fabio-frizzi-at-recordbar?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43330453-fabio-frizzi-at-recordbar"
 ---

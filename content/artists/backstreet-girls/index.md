@@ -2,6 +2,7 @@
 id: "4f832fa9-f48f-4286-8c58-53f7df372fee"
 title: "Backstreet Girls"
 socials:
+  musicbrainz: "fd817c08-400c-4513-a769-c4c30005d021"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "122466292"
   deezer: "315749"
   qobuz: ""
-  spotify: ""
+  spotify: "4kmChp6OaS0xAvpxWetEg4"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

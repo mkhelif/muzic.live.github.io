@@ -2,6 +2,7 @@
 id: "ceeb5fa1-5649-43f9-8ef1-d5f0956e6954"
 title: "Bask"
 socials:
+  musicbrainz: "584c9dff-f767-4d67-adfa-dbaebd6678c1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "209266263"
+  deezer: "1272089"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "44JvnzLiXzAtiMSDJTnFC7"
+  tidal: "60330887"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27

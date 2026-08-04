@@ -7,5 +7,5 @@ artists:
   - "e0883de2-54ea-437c-a3fb-f2491dea99e3"
   - "c9e960c2-8513-4270-bf57-53c982cb1867"
 tickets:
-  web: "https://www.songkick.com/concerts/43270888-156silence-at-observatory?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43270888-156silence-at-observatory"
 ---

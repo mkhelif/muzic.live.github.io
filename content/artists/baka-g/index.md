@@ -3,6 +3,7 @@ id: "25c9cdb3-3d7a-4110-818b-539eca6d05a6"
 title: "Baka G"
 type: person
 socials:
+  musicbrainz: "9d587319-91f8-407a-8a02-d5f2d7a579f1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,9 +17,10 @@ socials:
   deezer: "93660542"
   qobuz: ""
   spotify: "7CfH9Pe1z2V3OuUCIH9ru4"
-  tidal: ""
+  tidal: "19453496"
 cover: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

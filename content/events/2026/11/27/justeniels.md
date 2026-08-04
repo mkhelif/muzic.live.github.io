@@ -4,5 +4,5 @@ venue: "db9a7f66-d44d-4936-b241-47071b395e75"
 artists:
   - "7a1dd7a6-2941-4876-94e3-10471a9e5df8"
 tickets:
-  web: "https://www.songkick.com/concerts/43313252-justeniels-at-la-source-beer-co?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43313252-justeniels-at-la-source-beer-co"
 ---

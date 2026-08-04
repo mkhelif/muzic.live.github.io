@@ -6,5 +6,5 @@ artists:
   - "733c8cb1-03ef-46be-96ff-05e83bd78316"
   - "d7c574ba-3b1d-4884-904e-76a2ba4168f1"
 tickets:
-  web: "https://www.songkick.com/concerts/42083712-boris-brejcha-at-junkyard?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42083712-boris-brejcha-at-junkyard"
 ---

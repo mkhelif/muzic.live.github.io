@@ -5,5 +5,5 @@ artists:
   - "a6b8512e-526d-42d1-8e0c-898783bcfcfd"
   - "037abaf9-7bc0-4c99-824e-3b98b361b4a7"
 tickets:
-  web: "https://www.songkick.com/concerts/43284775-dogpark-at-horseshoe-tavern?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43284775-dogpark-at-horseshoe-tavern"
 ---

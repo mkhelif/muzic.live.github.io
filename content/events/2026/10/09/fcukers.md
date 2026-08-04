@@ -4,5 +4,5 @@ venue: "2130a41d-6798-435e-87f6-84bb2e9d3c63"
 artists:
   - "327b4243-2067-47ba-bad8-4fe581b1b2d0"
 tickets:
-  web: "https://www.songkick.com/concerts/43336647-fcukers-at-walter-studios?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43336647-fcukers-at-walter-studios"
 ---

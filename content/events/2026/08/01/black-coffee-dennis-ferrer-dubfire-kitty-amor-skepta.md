@@ -8,5 +8,5 @@ artists:
   - "92b89744-7427-41d2-b8c5-a0a08ca5446f"
   - "337f4a6d-e8cc-43ec-b075-74bb71c44d75"
 tickets:
-  web: "https://www.songkick.com/concerts/43307230-black-coffee-at-hi-ibiza?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43307230-black-coffee-at-hi-ibiza"
 ---

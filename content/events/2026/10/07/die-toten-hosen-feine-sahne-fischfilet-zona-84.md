@@ -6,5 +6,5 @@ artists:
   - "18db89a6-a86a-4194-acec-dc776530bfd0"
   - "b0c10896-395a-4728-98c7-169b40ba2a24"
 tickets:
-  web: "https://www.songkick.com/concerts/42904172-die-toten-hosen-at-la-segunda-seguros-arena?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42904172-die-toten-hosen-at-la-segunda-seguros-arena"
 ---

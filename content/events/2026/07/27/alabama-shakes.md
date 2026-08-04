@@ -4,5 +4,5 @@ venue: "05db1d2d-1b61-46dc-b0e0-3004984a8dbf"
 artists:
   - "de5f2824-1f2f-4251-93a9-1ac54043491a"
 tickets:
-  web: "https://www.songkick.com/concerts/43087605-alabama-shakes-at-freedom-mobile-arch?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43087605-alabama-shakes-at-freedom-mobile-arch"
 ---

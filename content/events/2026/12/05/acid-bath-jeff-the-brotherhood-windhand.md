@@ -6,5 +6,5 @@ artists:
   - "e1a29cb6-2e80-4aca-95f7-b80fbdf82620"
   - "17e5d67e-1dca-4443-935d-8a8a3e0ed3f0"
 tickets:
-  web: "https://www.songkick.com/concerts/43315777-acid-bath-at-truth?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43315777-acid-bath-at-truth"
 ---

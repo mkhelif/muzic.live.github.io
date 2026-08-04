@@ -5,5 +5,5 @@ artists:
   - "4eddb990-fe36-4aa1-b24b-0c5f31c462a3"
   - "815d284a-0b9b-4dc6-a827-8fea0792bde2"
 tickets:
-  web: "https://www.songkick.com/concerts/43333886-boris-brejcha-at-arenes-de-frejus?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43333886-boris-brejcha-at-arenes-de-frejus"
 ---

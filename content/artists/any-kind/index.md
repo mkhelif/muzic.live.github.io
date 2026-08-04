@@ -2,7 +2,21 @@
 id: "2bc6153d-8be7-4d55-ab49-ef9bd520f666"
 title: "Any Kind"
 type: band
+members:
+  - id: "875aa9ab-001f-43c8-a1b9-5efad822106d"
+    roles:
+      - other
+  - id: "e84e377f-bc2c-433c-954b-05094a80d296"
+    roles:
+      - other
+  - id: "835f3114-4ce6-4773-9187-6cf5fd540228"
+    roles:
+      - other
+  - id: "eb8d2cda-38b1-4c49-aa41-29f6039c3e95"
+    roles:
+      - other
 socials:
+  musicbrainz: "cb8c7c5a-2a06-49b2-bf14-711d1c4cb67b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +32,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-26

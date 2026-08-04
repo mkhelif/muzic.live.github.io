@@ -2,7 +2,15 @@
 id: "ec8a2964-270d-4148-9383-548ed4047d18"
 title: "Air"
 type: band
+members:
+  - id: "c9639848-3333-4940-9052-6cb111f4a2d3"
+    roles:
+      - other
+  - id: "965fa057-715e-4f24-bfa8-01f03ef4b252"
+    roles:
+      - other
 socials:
+  musicbrainz: "cb67438a-7f50-4f2b-a6f1-2bb2729fd538"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +20,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "5641488"
   deezer: ""
-  qobuz: ""
+  qobuz: "36500"
   spotify: ""
-  tidal: ""
+  tidal: "9101"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23

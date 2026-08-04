@@ -2,6 +2,7 @@
 id: "3da6b9af-65a7-4d3a-aeda-b92f55ca083c"
 title: "Battlecreek"
 socials:
+  musicbrainz: "a94a5a62-dc81-47ff-9041-a1912ca45984"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "694322883"
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "2wUKcOuW5xBpCKxnWOoxnI"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27
 ---

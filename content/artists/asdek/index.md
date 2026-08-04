@@ -3,6 +3,7 @@ id: "8ff21a39-0ae7-41d7-a0a2-da03bcf093a9"
 title: "Asdek"
 type: person
 socials:
+  musicbrainz: "8936dcce-3cab-4934-b1c8-307ae1b9ddd6"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,11 +14,12 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "1382510"
   qobuz: ""
   spotify: "2rxubOde1svVDYAVDy7PDS"
-  tidal: ""
+  tidal: "4027313"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-26

@@ -4,5 +4,5 @@ venue: "d5b8addc-3dff-4453-ab11-9947d4628c36"
 artists:
   - "46b3a13f-a6e2-4fd8-a776-afb7511d8e0a"
 tickets:
-  web: "https://www.songkick.com/concerts/43183278-5-seconds-of-summer-at-unifi-arena?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43183278-5-seconds-of-summer-at-unifi-arena"
 ---

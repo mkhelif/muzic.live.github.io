@@ -2,7 +2,40 @@
 id: "fc1daf9b-66ec-4138-b6b6-1c89bed55316"
 title: "Arkells"
 type: band
+members:
+  - id: "72864a5d-8f41-4405-8417-60df7f6538e0"
+    roles:
+      - other
+    periods:
+      - start: 2006
+  - id: "f5b894e7-8e21-42e4-ab0c-3600b62cda01"
+    roles:
+      - other
+    periods:
+      - start: 2006
+  - id: "b31a3791-00c3-442d-a676-7e9a20010921"
+    roles:
+      - other
+    periods:
+      - start: 2006
+  - id: "a5c00428-b42d-45ad-8b3f-55ef15418d9c"
+    roles:
+      - other
+    periods:
+      - start: 2006
+  - id: "ee9a9157-cb33-4ab9-9bff-2cf9e582c3eb"
+    roles:
+      - other
+    periods:
+      - start: 2011
+  - id: "ac40541d-ff40-4d01-906f-2afee88bcba8"
+    roles:
+      - other
+    periods:
+      - start: 2006
+        end: 2011
 socials:
+  musicbrainz: "79c976f6-0a85-42d6-9e01-8ae2c5592bc2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,8 +49,9 @@ socials:
   deezer: "466397"
   qobuz: ""
   spotify: "3ShGiAyhxI6Rq3TknZ3gfk"
-  tidal: ""
+  tidal: "3910728"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

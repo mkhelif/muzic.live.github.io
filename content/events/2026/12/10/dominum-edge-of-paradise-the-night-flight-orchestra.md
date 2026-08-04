@@ -6,5 +6,5 @@ artists:
   - "8287235a-12ac-4eff-97d2-d8c1b27c41fe"
   - "b0e80955-b655-499c-91a6-7ef1ea26030c"
 tickets:
-  web: "https://www.songkick.com/concerts/43076625-dominum-at-electric-brixton?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43076625-dominum-at-electric-brixton"
 ---

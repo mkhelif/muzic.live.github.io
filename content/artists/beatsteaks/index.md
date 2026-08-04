@@ -2,7 +2,51 @@
 id: "ab19882e-0959-4092-b6f7-d1a572c468ee"
 title: "Beatsteaks"
 type: band
+members:
+  - id: "9d19396c-e24e-41ea-aae2-b425b9a788dc"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 1995
+  - id: "6f1015ad-abfe-46af-97ac-f8e95676ebfb"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 1995
+  - id: "72742a35-5dc7-48a8-a586-b62b031b1f18"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 1995
+  - id: "5f4575f3-1031-4ef1-939c-ea68bcf23e6c"
+    roles:
+      - sing
+      - other
+    periods:
+      - start: 1998
+  - id: "d50317f0-5666-40d9-89c0-b51a69cd441c"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2000
+  - id: "f6e302e0-080c-404a-b9d7-8665ea458bef"
+    roles:
+      - other
+    periods:
+      - start: 1995
+        end: 1998
+  - id: "de40a7c6-eeba-4e23-b58a-a2c694a72800"
+    roles:
+      - bass
+    periods:
+      - start: 1995
+        end: 2000
 socials:
+  musicbrainz: "a9b88ebb-83aa-4ef7-b674-fabeb572c14e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +55,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001Q9VUQ2"
   apple: "32426114"
   deezer: "2672"
-  qobuz: ""
+  qobuz: "223881"
   spotify: "79qRD2IfSr3pmuYUficMWX"
-  tidal: ""
+  tidal: "19203"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

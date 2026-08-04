@@ -3,6 +3,7 @@ id: "4f77a29c-e5f5-49c1-b15d-8ea8d0096333"
 title: "Barbara Pravi"
 type: person
 socials:
+  musicbrainz: "65e62f84-e581-4375-a650-8f2d394b05b3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +17,14 @@ socials:
   deezer: "9620934"
   qobuz: ""
   spotify: "3L4wiBOSDLkJ18OISXZDA8"
-  tidal: ""
+  tidal: "7473244"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+date:
+  birth: 1993-04-10
 ---
 
 Barbara Piévic, connue sous le nom de Barbara Pravi, est une chanteuse,

@@ -5,5 +5,5 @@ artists:
   - "818ddbc2-15f7-4a26-9a80-62ef109c6a41"
   - "ae017802-9088-440f-afd8-77094b6a9d8e"
 tickets:
-  web: "https://www.songkick.com/concerts/42896333-my-chemical-romance-at-hollywood-bowl?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42896333-my-chemical-romance-at-hollywood-bowl"
 ---

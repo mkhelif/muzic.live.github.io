@@ -8,5 +8,5 @@ artists:
   - "f59dfb3e-7f91-4150-bc9b-f551267017b3"
   - "2ac52566-7f28-45f8-8121-18f40387adfa"
 tickets:
-  web: "https://www.songkick.com/concerts/43141231-pointer-sisters-at-ziggo-dome?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43141231-pointer-sisters-at-ziggo-dome"
 ---

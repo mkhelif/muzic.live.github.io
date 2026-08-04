@@ -6,5 +6,5 @@ artists:
   - "04dcc37c-6ec5-43c7-8627-28069e5d1c21"
   - "5196c417-2b12-428d-a0c8-f143988234ed"
 tickets:
-  web: "https://www.songkick.com/concerts/43331677-new-young-pony-club-at-drumsheds?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43331677-new-young-pony-club-at-drumsheds"
 ---

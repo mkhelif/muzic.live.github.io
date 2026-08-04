@@ -6,5 +6,5 @@ artists:
   - "f264b37a-24c1-4f25-bfa4-6178ab032b9f"
   - "235cb4fb-d184-421c-bffc-996e440c5b3a"
 tickets:
-  web: "https://www.songkick.com/concerts/43205090-ditz-at-dingwalls?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43205090-ditz-at-dingwalls"
 ---

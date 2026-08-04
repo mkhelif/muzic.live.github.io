@@ -4,5 +4,5 @@ venue: "e7d1fb5e-dbe0-4b56-bd95-81f2a5b7b095"
 artists:
   - "7ac67624-1f61-4dd5-9059-bb419074f9fd"
 tickets:
-  web: "https://www.songkick.com/concerts/43051566-foo-fighters-at-one-new-zealand-stadium?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43051566-foo-fighters-at-one-new-zealand-stadium"
 ---

@@ -6,5 +6,5 @@ artists:
   - "0441f2c1-f18f-43b4-9be8-ef93e634cc41"
   - "d405b24b-376e-439b-8ec9-157d73b4af89"
 tickets:
-  web: "https://www.songkick.com/concerts/43055086-black-keys-at-ogden-amphitheater?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43055086-black-keys-at-ogden-amphitheater"
 ---

@@ -6,5 +6,5 @@ artists:
   - "250e44b6-0df3-40c6-b946-3b9dd41ef4fa"
   - "cf333a4a-6c1c-46ba-812b-e955e1ea35cb"
 tickets:
-  web: "https://www.songkick.com/concerts/43207980-fola-dada-at-altes-pfandhaus?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43207980-fola-dada-at-altes-pfandhaus"
 ---

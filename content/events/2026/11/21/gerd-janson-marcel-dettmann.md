@@ -5,5 +5,5 @@ artists:
   - "10d04de8-c14a-4cf0-ac1c-8bd91d07657a"
   - "9a967de5-a305-451b-b498-cdb62d8a98b2"
 tickets:
-  web: "https://www.songkick.com/concerts/43337498-marcel-dettmann-at-32-chifley-dr?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43337498-marcel-dettmann-at-32-chifley-dr"
 ---

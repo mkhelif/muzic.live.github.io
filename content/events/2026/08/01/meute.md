@@ -4,5 +4,5 @@ venue: "ff599ffe-eddd-4534-80db-e0bfe6495ea9"
 artists:
   - "6fe53129-6e87-4b75-9bbb-997bd74077af"
 tickets:
-  web: "https://www.songkick.com/concerts/42823707-meute-at-zeltmusikfestival-haufe-group-zirkuszelt?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42823707-meute-at-zeltmusikfestival-haufe-group-zirkuszelt"
 ---

@@ -4,5 +4,5 @@ venue: "37204f96-6d41-4294-8fcc-6430594934fa"
 artists:
   - "9a282c2d-bf20-49c7-a362-b6f10e67fa05"
 tickets:
-  web: "https://www.songkick.com/concerts/43286598-kaitlin-butts-at-hatbox-field-airport?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43286598-kaitlin-butts-at-hatbox-field-airport"
 ---

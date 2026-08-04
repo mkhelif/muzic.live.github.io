@@ -5,5 +5,5 @@ artists:
   - "f3d92926-11cc-4b45-9f67-3b2a999df90c"
   - "385f1e6d-51cc-478f-8c9f-66af016aedc8"
 tickets:
-  web: "https://www.songkick.com/concerts/43113508-guster-at-atlanta-symphony-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43113508-guster-at-atlanta-symphony-hall"
 ---

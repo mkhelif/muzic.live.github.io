@@ -4,5 +4,5 @@ venue: "855da265-0470-47af-919f-bdc4d9880b27"
 artists:
   - "2595a2a6-0529-42d6-96a0-9dde08d9d200"
 tickets:
-  web: "https://www.songkick.com/concerts/43056269-allahlas-at-ut-connewitz?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43056269-allahlas-at-ut-connewitz"
 ---

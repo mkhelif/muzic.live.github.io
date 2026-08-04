@@ -4,5 +4,5 @@ venue: "41922676-7fc0-4b39-8370-973cdb45c2d4"
 artists:
   - "5653373a-2fb6-48a7-9734-8da87d743828"
 tickets:
-  web: "https://www.songkick.com/concerts/43228762-khemmis-at-monkeys-music-club?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43228762-khemmis-at-monkeys-music-club"
 ---

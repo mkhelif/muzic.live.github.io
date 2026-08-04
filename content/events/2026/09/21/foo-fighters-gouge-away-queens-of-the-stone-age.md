@@ -6,5 +6,5 @@ artists:
   - "d4e0d224-55b3-4024-a3cb-15b6d1d091e0"
   - "0e10f68d-165c-471d-815b-f3db35e446ed"
 tickets:
-  web: "https://www.songkick.com/concerts/42853092-foo-fighters-at-bc-place-stadium?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42853092-foo-fighters-at-bc-place-stadium"
 ---

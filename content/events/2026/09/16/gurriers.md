@@ -4,5 +4,5 @@ venue: "61d0817b-1ce6-4f95-9cbd-ed9800c7bcf4"
 artists:
   - "11f77c50-17e4-476b-bf78-65a4eec9c556"
 tickets:
-  web: "https://www.songkick.com/concerts/43238665-gurriers-at-ottobar?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43238665-gurriers-at-ottobar"
 ---

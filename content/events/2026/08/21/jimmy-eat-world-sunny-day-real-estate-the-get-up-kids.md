@@ -6,5 +6,5 @@ artists:
   - "be75fdf5-f22e-4aec-a089-39050ec3c0c1"
   - "e2bb6941-f717-4998-96aa-5382b88a6922"
 tickets:
-  web: "https://www.songkick.com/concerts/43035689-jimmy-eat-world-at-huntington-bank-pavilion-at-northerly-island?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43035689-jimmy-eat-world-at-huntington-bank-pavilion-at-northerly-island"
 ---

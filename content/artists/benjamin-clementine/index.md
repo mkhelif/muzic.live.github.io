@@ -3,6 +3,7 @@ id: "fe41cfae-21ba-40e1-9bf0-6b9e63f4dee3"
 title: "Benjamin Clementine"
 type: person
 socials:
+  musicbrainz: "578e5d1c-be21-4158-b147-30aad67f207d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,9 +22,12 @@ todo:
   - Add picture
   - Verify and add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+date:
+  birth: 1988-12-07
 ---
 
 Benjamin Clementine, de son nom complet Benjamin Sainte-Clémentine, est un artiste, poète, compositeur et

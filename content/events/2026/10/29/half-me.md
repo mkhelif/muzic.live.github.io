@@ -4,5 +4,5 @@ venue: "4878eb83-bf63-48ef-87f3-39fea0f94299"
 artists:
   - "559d1212-7bb5-49bc-b577-f24d44d06c74"
 tickets:
-  web: "https://www.songkick.com/concerts/43305278-half-me-at-la-la-las?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43305278-half-me-at-la-la-las"
 ---

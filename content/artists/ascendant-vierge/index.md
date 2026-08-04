@@ -2,7 +2,15 @@
 id: "b11e2b9d-ab6d-4bbe-8678-7f2c3b963736"
 title: "Ascendant Vierge"
 type: band
+members:
+  - id: "697f4571-96d6-4abc-bd65-de4a63c2d35e"
+    roles:
+      - other
+  - id: "c3d0ea25-692f-4dfd-8cf4-3af71953d491"
+    roles:
+      - other
 socials:
+  musicbrainz: "526ae1b5-6a34-4603-9f75-493c904c9478"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,10 +22,11 @@ socials:
   amazon: ""
   apple: "1473448855"
   deezer: "69814182"
-  qobuz: ""
+  qobuz: "7878561"
   spotify: "3IMOGrM63og03I4jMYo35G"
-  tidal: ""
+  tidal: "16306103"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

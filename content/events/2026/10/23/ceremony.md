@@ -4,5 +4,5 @@ venue: "ffae33ce-b2c7-438f-8f43-02b191b1d7e9"
 artists:
   - "a39ec4a3-46b8-4791-aec5-4b7467119769"
 tickets:
-  web: "https://www.songkick.com/concerts/43278862-ceremony-at-marquis-theater?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43278862-ceremony-at-marquis-theater"
 ---

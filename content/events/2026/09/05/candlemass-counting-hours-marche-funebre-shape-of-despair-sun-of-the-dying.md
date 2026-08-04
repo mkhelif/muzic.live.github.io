@@ -8,5 +8,5 @@ artists:
   - "01994fac-6ab3-4c70-842a-54f0c4712540"
   - "0aa8f688-b2ac-4eb1-94d6-42e95b9e9e3f"
 tickets:
-  web: "https://www.songkick.com/concerts/43094427-candlemass-at-wilde-westen?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43094427-candlemass-at-wilde-westen"
 ---

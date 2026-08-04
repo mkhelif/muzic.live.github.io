@@ -7,5 +7,5 @@ artists:
   - "867b4f76-8e07-4546-86c9-03fce3da3e23"
   - "e2ce25e9-d42d-457b-870d-fd070d2b64d4"
 tickets:
-  web: "https://www.songkick.com/concerts/43260918-adult-dvd-at-bootleg-social?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43260918-adult-dvd-at-bootleg-social"
 ---

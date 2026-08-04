@@ -2,6 +2,7 @@
 id: "33442d21-6679-4c42-97db-568cd13ea3fd"
 title: "Agent Orange"
 socials:
+  musicbrainz: "3214be8b-6d78-4c8e-9c93-b1e31a9bc4d6"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "20842280"
+  deezer: "94992"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "1pBsvSnrhmgDZqisT13SFA"
+  tidal: "16662"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23

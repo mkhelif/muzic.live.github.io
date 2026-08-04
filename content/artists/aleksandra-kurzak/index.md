@@ -3,6 +3,7 @@ id: "41722902-f929-42a0-8d3a-eb33b3ae6413"
 title: "Aleksandra Kurzak"
 type: person
 socials:
+  musicbrainz: "708c9693-393e-4a15-b6e6-41667eac3226"
   instagram: "aleksandrakurzakofficial"
   web: "https://aleksandrakurzak.com/"
   facebook: ""
@@ -18,9 +19,12 @@ socials:
   spotify: "114C9ZNDP1s9L41tOSHASY"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1977-08-07
 ---
 
 Aleksandra Kurzak est une soprano polonaise née le 7 août 1977 à Brzeg. Issue d'une famille de musiciens — sa mère est

@@ -3,6 +3,7 @@ id: "9366b889-d0c8-4b44-b388-6519b8ca600b"
 title: "AutoThune"
 type: band
 socials:
+  musicbrainz: "1fd9e4f3-6296-4d1c-a5a0-1f9e0879c8ce"
   facebook: "AutoThune"
   instagram: "autothune"
   bandsintown: "15393690"
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27

@@ -6,5 +6,5 @@ artists:
   - "b3889eb6-fded-4801-af84-45f59cc291f6"
   - "efc9d212-c776-4521-9d1e-a6e62f1d972a"
 tickets:
-  web: "https://www.songkick.com/concerts/43245405-hippie-death-cult-at-rickshaw-stop?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43245405-hippie-death-cult-at-rickshaw-stop"
 ---

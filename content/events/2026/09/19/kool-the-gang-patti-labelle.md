@@ -5,5 +5,5 @@ artists:
   - "1e5a4b94-1217-4e72-8607-84e97f802431"
   - "adac1dc9-f59d-4548-83d7-f7c523135b83"
 tickets:
-  web: "https://www.songkick.com/concerts/43175395-live-at-the-garden-at-radians-amphitheater?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43175395-live-at-the-garden-at-radians-amphitheater"
 ---

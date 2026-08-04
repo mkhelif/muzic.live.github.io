@@ -5,5 +5,5 @@ artists:
   - "f4fff01f-d952-4c9a-8ef9-1a2192e40646"
   - "4f556b6c-4381-45e8-af41-2fe24a025c22"
 tickets:
-  web: "https://www.songkick.com/concerts/43173360-chris-stussy-at-pavilhao-carlos-lopes?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43173360-chris-stussy-at-pavilhao-carlos-lopes"
 ---

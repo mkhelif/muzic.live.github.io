@@ -3,6 +3,7 @@ id: "87a2901f-af78-4f21-ad9b-ebbc05f0da85"
 title: "Angèle"
 type: person
 socials:
+  musicbrainz: "dcd4701d-64ec-443d-bfbf-73fc87c44bd6"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,19 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "1373339414"
+  deezer: "1042268"
+  qobuz: "180620"
   spotify: "3QVolfxko2UyCOtexhVTli"
-  tidal: ""
+  tidal: "6979431"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
+date:
+  birth: 1995-12-03
 ---
 Angèle Van Laeken est l'une des artistes les plus marquantes de la scène pop francophone des années 2010 et 2020. Née dans une famille d'artistes à Bruxelles, révélée par un premier album au succès foudroyant, elle a su imposer un style musical personnel — mêlant pop, R&B, électro et jazz — et une présence publique engagée qui font d'elle bien plus qu'une simple chanteuse à succès.
 

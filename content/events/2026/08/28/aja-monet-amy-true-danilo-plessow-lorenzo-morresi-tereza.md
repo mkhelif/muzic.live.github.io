@@ -8,5 +8,5 @@ artists:
   - "45bb0f95-2678-4783-ad4d-d37e84a86a21"
   - "08948d5e-b653-4cc0-bafb-d714bb884192"
 tickets:
-  web: "https://www.songkick.com/concerts/43175694-nu-genea-live-band-at-unknown-venue?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43175694-nu-genea-live-band-at-unknown-venue"
 ---

@@ -7,5 +7,5 @@ artists:
   - "7e9dd702-c423-4985-b758-f7c53426bd2d"
   - "6e1d0295-e6e2-4c76-b0eb-565ef11027cb"
 tickets:
-  web: "https://www.songkick.com/concerts/43207365-testament-at-montevideo-music-box?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43207365-testament-at-montevideo-music-box"
 ---

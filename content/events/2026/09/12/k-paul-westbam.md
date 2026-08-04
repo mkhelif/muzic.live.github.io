@@ -5,5 +5,5 @@ artists:
   - "701f6577-087b-46a9-8b0b-b6ce658615be"
   - "b151bb0a-9415-44ce-9bec-9d57af4cc5d6"
 tickets:
-  web: "https://www.songkick.com/concerts/42962394-westbam-ml-at-familiengarten-eberswalde?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42962394-westbam-ml-at-familiengarten-eberswalde"
 ---

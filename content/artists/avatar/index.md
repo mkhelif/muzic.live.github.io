@@ -2,7 +2,40 @@
 id: "1d6356b1-a9d7-4c38-957d-067cd5c3e50f"
 title: "Avatar"
 type: band
+members:
+  - id: "89fe143b-e20b-4dcb-a9d6-3c02f0f20244"
+    roles:
+      - drums
+    periods:
+      - start: 2001
+  - id: "d58465ed-5916-4414-985f-419c298a253e"
+    roles:
+      - guitar
+    periods:
+      - start: 2001
+  - id: "97901fb2-6abe-49c2-a00d-e8aad9ef2ea5"
+    roles:
+      - sing
+    periods:
+      - start: 2002
+  - id: "77149b90-dd18-41f9-ad3c-4b1fa485aace"
+    roles:
+      - bass
+    periods:
+      - start: 2003
+  - id: "1127eed0-094b-4b3d-8d2f-37d84f9110bb"
+    roles:
+      - guitar
+    periods:
+      - start: 2011
+  - id: "b6e099c3-a492-4bb7-b48e-ecfe12addfb2"
+    roles:
+      - guitar
+    periods:
+      - start: 2003
+        end: 2011
 socials:
+  musicbrainz: "a8d77515-f7b7-4d71-9646-8446a3b2a341"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +44,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  amazon: "B008RFN5P2"
+  apple: "187616241"
+  deezer: "114366"
+  qobuz: "180989"
   spotify: "4jpaXieuls7LVzG1uma5Rs"
-  tidal: ""
+  tidal: "3559925"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27

@@ -3,6 +3,7 @@ id: "2725694e-7dc7-4afc-8d7a-f28e4d75c046"
 title: "Ali Tabatabaee"
 type: person
 socials:
+  musicbrainz: "621ad2f1-2cfe-4f8b-912f-29740e5bb02b"
   facebook: ""
   instagram: "alionelouder"
   tiktok: ""
@@ -19,7 +20,10 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1973-02-27
 ---

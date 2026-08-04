@@ -8,5 +8,5 @@ artists:
   - "d2a816fd-fc72-43d5-8bd4-c5f1a0b9d366"
   - "8717a78f-dff6-491a-816d-b5dc46d9b7d0"
 tickets:
-  web: "https://www.songkick.com/concerts/43070690-white-lies-at-sidney-and-matilda?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43070690-white-lies-at-sidney-and-matilda"
 ---

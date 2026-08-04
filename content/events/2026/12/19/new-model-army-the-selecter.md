@@ -5,5 +5,5 @@ artists:
   - "9644f78e-92d0-4f0a-bf3d-262e8359e683"
   - "bedac108-a5d3-4259-a294-9d180df42865"
 tickets:
-  web: "https://www.songkick.com/concerts/42894823-new-model-army-at-palladium?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42894823-new-model-army-at-palladium"
 ---

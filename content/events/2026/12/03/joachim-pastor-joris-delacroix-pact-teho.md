@@ -7,5 +7,5 @@ artists:
   - "1f74665b-bddc-4bff-b3de-c02f46d8e1cf"
   - "d04c3144-0788-404c-a54b-34e0960d4c29"
 tickets:
-  web: "https://www.songkick.com/concerts/43210978-joachim-pastor-at-le-rocher-de-palmer?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43210978-joachim-pastor-at-le-rocher-de-palmer"
 ---

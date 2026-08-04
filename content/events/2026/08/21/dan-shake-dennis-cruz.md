@@ -5,5 +5,5 @@ artists:
   - "4f556b6c-4381-45e8-af41-2fe24a025c22"
   - "c01e0a6c-a6e0-44ce-9d2f-a7732a9b7a10"
 tickets:
-  web: "https://www.songkick.com/concerts/43239083-dennis-cruz-at-else-berlin?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43239083-dennis-cruz-at-else-berlin"
 ---

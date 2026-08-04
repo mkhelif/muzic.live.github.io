@@ -4,5 +4,5 @@ venue: "3c18093a-3fa1-4d2f-ae5a-07bfa6dd6239"
 artists:
   - "96e8f381-c702-41bc-be3d-5637ba5bd2ed"
 tickets:
-  web: "https://www.songkick.com/concerts/43059019-niccolo-fabi-at-fortezza-medicea?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43059019-niccolo-fabi-at-fortezza-medicea"
 ---

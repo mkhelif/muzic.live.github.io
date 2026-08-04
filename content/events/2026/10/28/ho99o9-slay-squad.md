@@ -5,5 +5,5 @@ artists:
   - "a9e835c2-cf94-4312-b912-27dbdc29c332"
   - "997d49a6-fac6-421c-833a-bd158c015f60"
 tickets:
-  web: "https://www.songkick.com/concerts/43314816-ho99o9-at-substation?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43314816-ho99o9-at-substation"
 ---

@@ -3,6 +3,7 @@ id: "2847fd66-182e-4264-a46d-00e1a141a35c"
 title: "Baxter Dury"
 type: person
 socials:
+  musicbrainz: "50df8a7c-ca0b-47c8-98e5-d27a57e04073"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +17,14 @@ socials:
   deezer: "3770"
   qobuz: ""
   spotify: "0EgHhNmWcjusA7F2heSD0O"
-  tidal: ""
+  tidal: "3566173"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+date:
+  birth: 1971-12-18
 ---
 
 Baxter Dury est un musicien anglais né le 18 décembre 1971 à Wingrave, dans le Buckinghamshire. Fils du légendaire

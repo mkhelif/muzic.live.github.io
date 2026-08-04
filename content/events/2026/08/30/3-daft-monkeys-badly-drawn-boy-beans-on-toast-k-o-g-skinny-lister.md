@@ -8,5 +8,5 @@ artists:
   - "caeec33d-c0da-46f0-9fd6-7e2e2e63f584"
   - "afef4ff7-57b9-4bc4-8277-ec1ed90efd97"
 tickets:
-  web: "https://www.songkick.com/concerts/43059820-beans-on-toast-at-nottingham-arboretum-garden-bar-and-bandstand?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43059820-beans-on-toast-at-nottingham-arboretum-garden-bar-and-bandstand"
 ---

@@ -4,5 +4,5 @@ venue: "12cbc1f8-3ed7-426d-9cf1-3a75220bb2f2"
 artists:
   - "d8c3164d-ea8a-467c-92f9-04b0cc3c8ef2"
 tickets:
-  web: "https://www.songkick.com/concerts/43306697-lionel-richie-at-ta-qali-national-park?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43306697-lionel-richie-at-ta-qali-national-park"
 ---

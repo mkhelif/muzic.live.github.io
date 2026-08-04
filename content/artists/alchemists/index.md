@@ -3,6 +3,7 @@ id: "d086bed7-1c5c-4e9f-9a9b-0917a3a2b1a4"
 title: "Alchemists"
 type: band
 socials:
+  musicbrainz: "183f37b1-b864-4786-941c-04d14f3c42dd"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add cover
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-23

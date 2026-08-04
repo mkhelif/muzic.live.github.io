@@ -5,5 +5,5 @@ artists:
   - "065ba9df-3a0a-4ade-8fa8-ae46a410d946"
   - "dbcecf75-9ca4-40a1-a296-d6c9efe08580"
 tickets:
-  web: "https://www.songkick.com/concerts/43104103-brandi-carlile-at-meadow-brook-amphitheatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43104103-brandi-carlile-at-meadow-brook-amphitheatre"
 ---

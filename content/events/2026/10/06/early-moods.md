@@ -4,5 +4,5 @@ venue: "e735024c-31d5-4983-8ef3-f734626efa26"
 artists:
   - "8a251444-6248-4ed4-8001-9e8b4c7f4459"
 tickets:
-  web: "https://www.songkick.com/concerts/43288491-mondo-drag-at-a38-ship-a38-hajo?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43288491-mondo-drag-at-a38-ship-a38-hajo"
 ---

@@ -3,6 +3,7 @@ id: "b2dd3017-f4c6-4871-834b-7b7666ca1b83"
 title: "Asaf Avidan"
 type: person
 socials:
+  musicbrainz: "5b9890b9-a2e8-4768-ad70-9f28bb81fc00"
   facebook: "asafavidanmusic"
   instagram: "asafavidanmusic"
   tiktok: "@asafavidanofficial"
@@ -14,14 +15,17 @@ socials:
   amazon: ""
   apple: "371736511"
   deezer: "403152"
-  qobuz: ""
+  qobuz: "237258"
   spotify: "7t51dSX8ZkKC7VoKRd0lME"
   tidal: "4751617"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   apple: 2026-07-26
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1980-03-23
 ---
 
 Asaf Avidan est un chanteur-compositeur israélien né le 23 mars 1980 à Jérusalem, dont la voix — haute,

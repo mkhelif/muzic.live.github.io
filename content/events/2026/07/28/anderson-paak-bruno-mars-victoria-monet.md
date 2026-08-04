@@ -6,5 +6,5 @@ artists:
   - "576bf5f2-a384-4b84-a034-fa57fa72404b"
   - "7b9e9bc0-6ff2-4c02-ab97-b4e8f93521f2"
 tickets:
-  web: "https://www.songkick.com/concerts/42988751-bruno-mars-at-wembley-stadium?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42988751-bruno-mars-at-wembley-stadium"
 ---

@@ -6,5 +6,5 @@ artists:
   - "d4709b02-001f-4782-ab3b-6d045f2960a1"
   - "1ee75f98-04a5-4ca1-be56-212d04fcb4f2"
 tickets:
-  web: "https://www.songkick.com/concerts/42916425-evanescence-at-o2?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42916425-evanescence-at-o2"
 ---

@@ -3,6 +3,7 @@ id: "bce554a2-f442-4342-a789-81bcb12a1c0c"
 title: "Andhim"
 type: unknown
 socials:
+  musicbrainz: "957146db-0f9f-471b-a9d6-8dc899de3f10"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,8 +17,9 @@ socials:
   deezer: "384133"
   qobuz: ""
   spotify: "6XJeFzmI6vrWyHcdB7EImP"
-  tidal: ""
+  tidal: "3685073"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

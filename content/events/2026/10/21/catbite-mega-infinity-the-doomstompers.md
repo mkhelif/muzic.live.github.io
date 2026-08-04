@@ -6,5 +6,5 @@ artists:
   - "27bd0d79-33d5-494a-a8a0-8ff8f5cafadc"
   - "7f74a883-9831-4581-863d-50829513de63"
 tickets:
-  web: "https://www.songkick.com/concerts/43288729-catbite-at-radio-room?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43288729-catbite-at-radio-room"
 ---

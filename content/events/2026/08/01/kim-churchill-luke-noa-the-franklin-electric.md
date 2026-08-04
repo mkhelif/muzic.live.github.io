@@ -6,5 +6,5 @@ artists:
   - "b634c57f-1c83-423e-951c-7003cab2878c"
   - "e4615c63-1ca6-4044-9edb-85ab762e34d3"
 tickets:
-  web: "https://www.songkick.com/concerts/43160899-fenster-zum-hofopen-air-at-landesmuseum-mainz?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43160899-fenster-zum-hofopen-air-at-landesmuseum-mainz"
 ---

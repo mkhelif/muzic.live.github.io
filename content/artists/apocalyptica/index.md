@@ -2,7 +2,41 @@
 id: "db56acae-a205-44dc-ba7e-3daa473f9986"
 title: "Apocalyptica"
 type: band
+members:
+  - id: "d632cc04-66ce-4dd5-99f3-7fc3da1ccdf7"
+    roles:
+      - other
+    periods:
+      - start: 1993
+  - id: "51ac50f3-28d8-4a92-bbe7-42440fdcb56d"
+    roles:
+      - other
+    periods:
+      - start: 1993
+  - id: "6caea727-5df2-410a-866c-0908d33b95f8"
+    roles:
+      - other
+    periods:
+      - start: 1999
+  - id: "542132ca-866f-4009-aa51-bd7e01595594"
+    roles:
+      - drums
+    periods:
+      - start: 2003
+  - id: "56a4a455-4bab-4ab6-bfb8-6ab10a2f1849"
+    roles:
+      - other
+    periods:
+      - start: 1993
+        end: 1999
+  - id: "d6804747-2f1a-4054-a8b6-a50ec6ebac03"
+    roles:
+      - other
+    periods:
+      - start: 1993
+        end: 2002
 socials:
+  musicbrainz: "788ad31c-bf0c-4a31-83f8-b8b130d79c76"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +45,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001E3SXBU"
   apple: "411644"
   deezer: "912"
-  qobuz: ""
+  qobuz: "71451"
   spotify: "4Lm0pUvmisUHMdoky5ch2I"
-  tidal: ""
+  tidal: "27420"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

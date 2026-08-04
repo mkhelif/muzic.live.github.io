@@ -5,5 +5,5 @@ artists:
   - "815d284a-0b9b-4dc6-a827-8fea0792bde2"
   - "9cde04d4-994c-46c7-9c0c-bb0b2a400d67"
 tickets:
-  web: "https://www.songkick.com/concerts/43055385-boris-brejcha-at-hollywood-bowl?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43055385-boris-brejcha-at-hollywood-bowl"
 ---

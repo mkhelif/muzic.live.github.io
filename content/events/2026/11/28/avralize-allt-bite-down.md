@@ -6,5 +6,5 @@ artists:
   - "5a4c7b45-be5b-4732-9aea-211d0a2d2b0e"
   - "bfb302b9-e165-40a7-b8d2-d04d12d9b011"
 tickets:
-  web: "https://www.songkick.com/concerts/43062429-allt-at-bei-chez-heinz?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43062429-allt-at-bei-chez-heinz"
 ---

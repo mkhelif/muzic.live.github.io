@@ -7,5 +7,5 @@ artists:
   - "a298e43a-882c-478c-959b-10a243cbd8b7"
   - "f92868b9-c71d-416f-bcc3-0ad6b46fd474"
 tickets:
-  web: "https://www.songkick.com/concerts/43164430-elmer-food-beat-at-salle-de-langelarde?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43164430-elmer-food-beat-at-salle-de-langelarde"
 ---

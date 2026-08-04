@@ -4,5 +4,5 @@ venue: "31b2d90c-4ea2-42ae-84a1-664204b996d9"
 artists:
   - "7f73ac3f-3884-4cea-9dbc-01ca03763819"
 tickets:
-  web: "https://www.songkick.com/concerts/43097976-josh-thomas-at-fairfield-social-club?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43097976-josh-thomas-at-fairfield-social-club"
 ---

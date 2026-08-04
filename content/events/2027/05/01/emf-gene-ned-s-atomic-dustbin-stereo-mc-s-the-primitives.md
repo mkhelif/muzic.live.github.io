@@ -8,5 +8,5 @@ artists:
   - "eb8e8a09-8886-46e6-b503-3231332851f2"
   - "8b494b1c-3681-4ad3-985e-6a87d755846a"
 tickets:
-  web: "https://www.songkick.com/concerts/43296970-gene-at-prospect-building?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43296970-gene-at-prospect-building"
 ---

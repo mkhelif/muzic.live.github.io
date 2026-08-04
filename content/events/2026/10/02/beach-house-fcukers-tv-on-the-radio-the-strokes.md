@@ -7,5 +7,5 @@ artists:
   - "4f33e0bc-d67c-43bb-97b0-f15e6b5e60e3"
   - "6eeebd34-e5d2-4831-9a8e-8ce653905f1e"
 tickets:
-  web: "https://www.songkick.com/concerts/43267656-strokes-at-flushing-meadows-corona-park?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43267656-strokes-at-flushing-meadows-corona-park"
 ---

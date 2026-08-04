@@ -6,5 +6,5 @@ artists:
   - "94c9c76e-82b7-43d8-8225-f56bb275a51b"
   - "0355c65f-89d4-423f-bfea-7ec119c9d4de"
 tickets:
-  web: "https://www.songkick.com/concerts/43288213-ella-langley-at-neville-arena-auburn-university?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43288213-ella-langley-at-neville-arena-auburn-university"
 ---

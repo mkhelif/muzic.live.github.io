@@ -4,5 +4,5 @@ venue: "2a2230b6-51bb-44b3-ab6d-ac05de9511ba"
 artists:
   - "148e6804-42c4-41aa-af25-33a693a8af13"
 tickets:
-  web: "https://www.songkick.com/concerts/43218053-angine-de-poitrine-at-ogden-theatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43218053-angine-de-poitrine-at-ogden-theatre"
 ---

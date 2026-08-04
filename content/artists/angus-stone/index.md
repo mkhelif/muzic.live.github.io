@@ -3,6 +3,7 @@ id: "91639365-40a5-409d-b268-bb5696f9e2ef"
 title: "Angus Stone"
 type: person
 socials:
+  musicbrainz: "1e0fb8da-b871-490c-91fd-6b24ede4fdb5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,7 +23,10 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
+date:
+  birth: 1986-04-27
 ---

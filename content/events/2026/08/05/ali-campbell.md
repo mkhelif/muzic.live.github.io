@@ -4,5 +4,5 @@ venue: "f0f86cc7-9fab-4305-a161-6b776f1055a8"
 artists:
   - "4ed90639-a41b-44f5-a3c8-b50683a6187b"
 tickets:
-  web: "https://www.songkick.com/concerts/43148116-ali-campbell-at-joseph-meyerhoff-symphony-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43148116-ali-campbell-at-joseph-meyerhoff-symphony-hall"
 ---

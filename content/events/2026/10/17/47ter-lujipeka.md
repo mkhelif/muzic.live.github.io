@@ -5,5 +5,5 @@ artists:
   - "9a356617-3c30-4619-872b-55d03e46659b"
   - "dd7493d8-7543-4363-b4a5-766b00ceeded"
 tickets:
-  web: "https://www.songkick.com/concerts/43140401-47ter-at-le-cube-troyes?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43140401-47ter-at-le-cube-troyes"
 ---

@@ -6,5 +6,5 @@ artists:
   - "ba7460bf-d7f6-4677-bd3e-658a70306a31"
   - "2f210526-2508-4ba4-b136-f649c4313c64"
 tickets:
-  web: "https://www.songkick.com/concerts/43148660-john-summit-at-uno?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43148660-john-summit-at-uno"
 ---

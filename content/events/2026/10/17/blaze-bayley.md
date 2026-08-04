@@ -4,5 +4,5 @@ venue: "41fffca1-b22a-4a43-83d0-0499cc19f53e"
 artists:
   - "582329e5-2609-4160-8e71-9d564d5b5dff"
 tickets:
-  web: "https://www.songkick.com/concerts/42933314-blaze-bayley-at-patriot-crumlin?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42933314-blaze-bayley-at-patriot-crumlin"
 ---

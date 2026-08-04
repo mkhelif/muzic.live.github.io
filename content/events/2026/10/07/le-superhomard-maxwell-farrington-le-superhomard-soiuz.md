@@ -6,5 +6,5 @@ artists:
   - "2e7e459c-defd-42d5-a8cd-d7b92be94c2d"
   - "c7c9e88a-3cf3-4e7e-a8c1-d81e6a5e15c1"
 tickets:
-  web: "https://www.songkick.com/concerts/43186596-maxwell-farrington-and-le-superhomard-at-le-grand-mix?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43186596-maxwell-farrington-and-le-superhomard-at-le-grand-mix"
 ---

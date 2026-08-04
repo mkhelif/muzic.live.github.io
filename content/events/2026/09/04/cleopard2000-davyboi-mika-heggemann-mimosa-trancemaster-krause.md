@@ -8,5 +8,5 @@ artists:
   - "ac4c5981-ab53-4d4b-9ff4-8e556ffe8729"
   - "bc64fffd-252b-410c-ae26-ee901e682104"
 tickets:
-  web: "https://www.songkick.com/concerts/43271296-mika-heggemann-at-arq-sydney?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43271296-mika-heggemann-at-arq-sydney"
 ---

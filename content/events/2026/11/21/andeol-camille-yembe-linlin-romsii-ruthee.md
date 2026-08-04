@@ -8,5 +8,5 @@ artists:
   - "160b966a-c099-412a-a8c0-fa967986a188"
   - "43e63878-2697-4754-8ebb-2f9422427e32"
 tickets:
-  web: "https://www.songkick.com/concerts/43257122-andeol-at-la-condition-publique?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43257122-andeol-at-la-condition-publique"
 ---

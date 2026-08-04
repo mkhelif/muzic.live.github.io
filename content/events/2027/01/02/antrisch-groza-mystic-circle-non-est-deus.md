@@ -7,5 +7,5 @@ artists:
   - "018c32da-4dc6-4364-b300-2969be0109e6"
   - "6155d9d4-5a3b-4c8f-a832-e65b4b6911e8"
 tickets:
-  web: "https://www.songkick.com/concerts/43296802-non-est-deus-at-halle02?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43296802-non-est-deus-at-halle02"
 ---

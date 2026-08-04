@@ -6,5 +6,5 @@ artists:
   - "87e02514-da90-4a3c-a482-efefc38ad659"
   - "274585c5-1b23-4748-aebc-89e7aced6e39"
 tickets:
-  web: "https://www.songkick.com/concerts/43235425-igorrr-at-o2-institute2-birmingham?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43235425-igorrr-at-o2-institute2-birmingham"
 ---

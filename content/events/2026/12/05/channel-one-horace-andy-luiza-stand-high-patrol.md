@@ -7,5 +7,5 @@ artists:
   - "98532893-3411-4e8a-9c5e-3ef0a5f9bc5b"
   - "73d20963-2db1-49c4-8a45-a682ecb51113"
 tickets:
-  web: "https://www.songkick.com/concerts/43259850-luiza-at-complexe-bocapole?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43259850-luiza-at-complexe-bocapole"
 ---

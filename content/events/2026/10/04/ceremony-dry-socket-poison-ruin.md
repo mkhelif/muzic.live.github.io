@@ -6,5 +6,5 @@ artists:
   - "63f1e41f-f8f0-46ee-9a81-ba8eda16a440"
   - "d52fe716-1c3f-4c55-94e0-bc47d929f3e1"
 tickets:
-  web: "https://www.songkick.com/concerts/43277994-ceremony-at-union-transfer?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43277994-ceremony-at-union-transfer"
 ---

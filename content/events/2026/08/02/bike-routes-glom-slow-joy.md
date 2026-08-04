@@ -6,5 +6,5 @@ artists:
   - "d4175384-5465-43c6-bbe8-bf3dc1fd5ed8"
   - "69ecb323-7fdb-4808-868b-3fdb2b38f05a"
 tickets:
-  web: "https://www.songkick.com/concerts/43199181-slow-joy-at-green-door?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43199181-slow-joy-at-green-door"
 ---

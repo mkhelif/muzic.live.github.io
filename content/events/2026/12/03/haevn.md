@@ -4,5 +4,5 @@ venue: "c4131bcf-5cde-4361-8b1a-a4f2a3de31f0"
 artists:
   - "98e37a4e-4214-47bc-be3d-efbbe640b933"
 tickets:
-  web: "https://www.songkick.com/concerts/43274298-haevn-at-spot-de-oosterpoort?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43274298-haevn-at-spot-de-oosterpoort"
 ---

@@ -5,5 +5,5 @@ artists:
   - "6444d412-cbb1-453c-9ca0-e33210af40a6"
   - "168c4464-94bc-48de-9c98-5c0ac544c317"
 tickets:
-  web: "https://www.songkick.com/concerts/43238821-altin-gun-at-lautre-canal?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43238821-altin-gun-at-lautre-canal"
 ---

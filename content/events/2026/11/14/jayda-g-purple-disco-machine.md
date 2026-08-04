@@ -5,5 +5,5 @@ artists:
   - "2cf878e1-37de-4d63-9666-8d956592bce7"
   - "55513cb2-8987-4c22-b713-aba235b9a9fc"
 tickets:
-  web: "https://www.songkick.com/concerts/43314154-purple-disco-machine-at-blackstone-street-warehouse?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43314154-purple-disco-machine-at-blackstone-street-warehouse"
 ---

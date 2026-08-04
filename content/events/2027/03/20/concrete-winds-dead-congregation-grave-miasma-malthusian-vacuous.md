@@ -8,5 +8,5 @@ artists:
   - "0ad6f754-c1f7-4eed-86cb-f018494e4152"
   - "695d636d-88ba-4717-88d4-fe94f1ba191a"
 tickets:
-  web: "https://www.songkick.com/concerts/43251038-dead-congregation-at-underworld?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43251038-dead-congregation-at-underworld"
 ---

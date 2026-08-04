@@ -3,6 +3,7 @@ id: "7771bfee-a125-43cf-960b-005a0ce4579b"
 title: "Amma"
 type: person
 socials:
+  musicbrainz: "99441d93-dee0-4cdd-ae7f-210c3ba3dd6c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,15 +14,18 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "11485"
   qobuz: ""
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
+date:
+  birth: 1953-09-27
 ---
 Amma est le nom de scène de Lauren Keen, chanteuse et auteure-compositrice britannique originaire du sud de Londres. Issue d'une famille profondément ancrée dans la musique — ses sœurs RAYE et **Absolutely** sont également artistes —, elle passe des années à développer discrètement son talent avant de se lancer sous son propre nom.
 

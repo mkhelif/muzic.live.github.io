@@ -5,5 +5,5 @@ artists:
   - "ec17ae82-6a88-4656-b741-848ec4ebd02f"
   - "f451a883-79b0-4b08-8bf7-607a0f54d96a"
 tickets:
-  web: "https://www.songkick.com/concerts/43117314-bahamas-at-history-ottawa?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43117314-bahamas-at-history-ottawa"
 ---

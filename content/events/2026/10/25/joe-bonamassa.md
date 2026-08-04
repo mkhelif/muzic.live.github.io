@@ -4,5 +4,5 @@ venue: "9a27ec74-e668-4a1e-b96f-7d84e7d04f2a"
 artists:
   - "107ed0f2-2854-4a6a-960d-a8e887ede2ee"
 tickets:
-  web: "https://www.songkick.com/concerts/42812923-joe-bonamassa-at-partille-arena?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42812923-joe-bonamassa-at-partille-arena"
 ---

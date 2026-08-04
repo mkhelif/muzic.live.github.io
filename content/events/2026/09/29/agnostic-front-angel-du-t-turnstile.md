@@ -6,5 +6,5 @@ artists:
   - "f16f33cf-299b-4d4a-b6e1-df178d3b4dc9"
   - "09a29e78-6bd1-48af-b268-c77642fe00af"
 tickets:
-  web: "https://www.songkick.com/concerts/43288905-turnstile-at-red-hat-amphitheater?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43288905-turnstile-at-red-hat-amphitheater"
 ---

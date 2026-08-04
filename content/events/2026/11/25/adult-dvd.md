@@ -4,5 +4,5 @@ venue: "17478b45-96c9-4557-8632-93acd8871981"
 artists:
   - "586a805e-4d16-45de-bce4-d74fb8d29044"
 tickets:
-  web: "https://www.songkick.com/concerts/43250642-adult-dvd-at-grand-social?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43250642-adult-dvd-at-grand-social"
 ---

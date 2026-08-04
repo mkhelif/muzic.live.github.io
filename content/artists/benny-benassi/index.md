@@ -3,6 +3,7 @@ id: "6a7e9728-495d-48f8-bafc-e24ed575c56c"
 title: "Benny Benassi"
 type: person
 socials:
+  musicbrainz: "674bf89f-8e70-4472-929d-6b4ed6f98c88"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,19 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "15654100"
+  deezer: "724"
   qobuz: ""
   spotify: "4Ws2otunReOa6BbwxxpCt6"
-  tidal: ""
+  tidal: "3519284"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+date:
+  birth: 1967-07-13
 ---
 
 Benny Benassi, de son vrai nom Marco Benassi, est un DJ et producteur italien né le 13 juillet 1967 à Milan, originaire

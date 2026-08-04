@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  deezer: 2026-08-04
 ---
 
 Glowsun est un groupe français de stoner/doom originaire de Lille, dont l'histoire démarre en 1997 autour du

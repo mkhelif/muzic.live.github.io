@@ -4,5 +4,5 @@ venue: "f437facb-30b5-400f-8f60-57ecbad44886"
 artists:
   - "c9322430-eb07-4ba5-9685-56144610d188"
 tickets:
-  web: "https://www.songkick.com/concerts/43119139-des-rocs-at-gretchen?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43119139-des-rocs-at-gretchen"
 ---

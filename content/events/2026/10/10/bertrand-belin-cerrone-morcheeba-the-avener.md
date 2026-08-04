@@ -7,5 +7,5 @@ artists:
   - "5d90dd65-b0b8-48e2-9d73-fb6501a4eb17"
   - "e178ab20-76de-4e0d-8997-d18bc5f54d86"
 tickets:
-  web: "https://www.songkick.com/concerts/43088718-morcheeba-at-parc-de-mussonville?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43088718-morcheeba-at-parc-de-mussonville"
 ---

@@ -7,5 +7,5 @@ artists:
   - "334bbfe0-a677-4e7c-bf20-2df2013bc8fa"
   - "a86d614e-ba64-4577-b3f7-10151cb3f8c0"
 tickets:
-  web: "https://www.songkick.com/concerts/42915275-pure-prairie-league-at-indian-ranch?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42915275-pure-prairie-league-at-indian-ranch"
 ---

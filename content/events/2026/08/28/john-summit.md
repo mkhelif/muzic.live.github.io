@@ -4,5 +4,5 @@ venue: "5c82f984-afdc-42f6-8db2-12a0780ac9b1"
 artists:
   - "ba7460bf-d7f6-4677-bd3e-658a70306a31"
 tickets:
-  web: "https://www.songkick.com/concerts/43071134-john-summit-at-ceamfields?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43071134-john-summit-at-ceamfields"
 ---

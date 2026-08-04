@@ -3,6 +3,7 @@ id: "04c61bd9-83c9-489f-a3f5-0eb10baf8bcf"
 title: "Anna Von Hausswolff"
 type: person
 socials:
+  musicbrainz: "6bd920ac-3b7c-47e0-8f0f-c390f63f5112"
   facebook: "annavonhausswolff"
   instagram: "annavonhausswolff"
   x: "avonhausswolff"
@@ -20,9 +21,12 @@ socials:
   deezer: "390950"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
+date:
+  birth: 1986-09-06
 ---
 
 Anna von Hausswolff est une artiste suédoise née le 6 septembre 1986 à Göteborg, figure incontournable de la scène

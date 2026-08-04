@@ -4,5 +4,5 @@ venue: "a4763d60-8c85-4fae-8a43-2bb9871e1235"
 artists:
   - "87036817-7208-49a2-a99c-23a4ddf87df2"
 tickets:
-  web: "https://www.songkick.com/concerts/43135524-old-crow-medicine-show-at-amphitheater-at-liberty-park?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43135524-old-crow-medicine-show-at-amphitheater-at-liberty-park"
 ---

@@ -5,5 +5,5 @@ artists:
   - "6e1a7285-6975-4d4c-b8b8-b8770f5eb81f"
   - "0db79235-b68d-47ef-817f-0feb211ea3d0"
 tickets:
-  web: "https://www.songkick.com/concerts/43159165-carrie-newcomer-at-portland-first-united-methodist-church?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43159165-carrie-newcomer-at-portland-first-united-methodist-church"
 ---

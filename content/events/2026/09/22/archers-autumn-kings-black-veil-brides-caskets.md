@@ -7,5 +7,5 @@ artists:
   - "516cd396-e51f-43da-892a-fdaf1f19cb60"
   - "4edfe0a1-33f2-443c-90fa-153e278185a0"
 tickets:
-  web: "https://www.songkick.com/concerts/43212431-black-veil-brides-at-house-of-blues-cleveland?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43212431-black-veil-brides-at-house-of-blues-cleveland"
 ---

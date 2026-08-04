@@ -4,5 +4,5 @@ venue: "471a3c0e-83a3-40ac-93f1-7c3ffd264024"
 artists:
   - "628894cb-f021-427b-9eee-0e19542ae38b"
 tickets:
-  web: "https://www.songkick.com/concerts/43330486-catch-your-breath-at-granada-theatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43330486-catch-your-breath-at-granada-theatre"
 ---

@@ -3,6 +3,7 @@ id: "5d425bce-356c-41c3-9d41-f3bc358a5bfa"
 title: "Ape Chimba"
 type: person
 socials:
+  musicbrainz: "b04ea610-4e4e-47b1-9079-dad52c64a96a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

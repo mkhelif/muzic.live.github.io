@@ -5,5 +5,5 @@ artists:
   - "eb35a0c6-f083-4afb-8eac-e65ae2b350c8"
   - "ae8063e3-3b87-43d1-b8fe-0bdce586bf93"
 tickets:
-  web: "https://www.songkick.com/concerts/43323712-braxton-keith-at-moultriedouglas-county-fairgrounds?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43323712-braxton-keith-at-moultriedouglas-county-fairgrounds"
 ---

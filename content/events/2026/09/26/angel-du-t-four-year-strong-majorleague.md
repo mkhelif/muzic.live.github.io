@@ -6,5 +6,5 @@ artists:
   - "89c76ae8-9b76-4da6-b216-953a59dc7616"
   - "8ef2ff8f-bfd8-4828-aa87-2f35603d822c"
 tickets:
-  web: "https://www.songkick.com/concerts/43122834-four-year-strong-at-bolero-snort-brewery?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43122834-four-year-strong-at-bolero-snort-brewery"
 ---

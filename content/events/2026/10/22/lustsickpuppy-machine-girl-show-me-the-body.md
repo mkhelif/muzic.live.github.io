@@ -6,5 +6,5 @@ artists:
   - "8324a827-a1c9-4221-9752-7d3988decfd4"
   - "40ebe7c2-0a7a-4d9d-b5d8-333f2b388efe"
 tickets:
-  web: "https://www.songkick.com/concerts/42849078-machine-girl-at-amfm?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42849078-machine-girl-at-amfm"
 ---

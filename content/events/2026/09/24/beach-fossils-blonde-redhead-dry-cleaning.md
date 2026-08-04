@@ -6,5 +6,5 @@ artists:
   - "214ba940-aa5f-431b-a2a1-5ec8a2028002"
   - "937455ed-5c33-4132-83ee-1e2c18986598"
 tickets:
-  web: "https://www.songkick.com/concerts/43249797-dry-cleaning-at-basel-venue?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43249797-dry-cleaning-at-basel-venue"
 ---

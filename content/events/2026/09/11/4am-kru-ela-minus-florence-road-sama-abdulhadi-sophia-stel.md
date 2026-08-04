@@ -8,5 +8,5 @@ artists:
   - "89eb507a-d4ad-4730-b574-3c86e8b5a944"
   - "d5bd71a4-601f-4361-8a10-54a98930049d"
 tickets:
-  web: "https://www.songkick.com/concerts/43299285-4am-kru-at-doss-trento?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43299285-4am-kru-at-doss-trento"
 ---

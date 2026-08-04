@@ -5,5 +5,5 @@ artists:
   - "6d3596dd-c483-4149-ba73-8e5dc1e4f2c5"
   - "04a00916-aac2-445a-b9fa-67efc0c02da1"
 tickets:
-  web: "https://www.songkick.com/concerts/42908519-kindred-the-family-soul-at-aretha-franklin-amphitheatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42908519-kindred-the-family-soul-at-aretha-franklin-amphitheatre"
 ---

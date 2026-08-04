@@ -4,5 +4,5 @@ venue: "800251fb-9534-47be-a0a0-561f6a83be5b"
 artists:
   - "66f8f414-5873-4b3f-90ae-8f9882565638"
 tickets:
-  web: "https://www.songkick.com/concerts/43228912-hatebreed-at-fabrik?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43228912-hatebreed-at-fabrik"
 ---

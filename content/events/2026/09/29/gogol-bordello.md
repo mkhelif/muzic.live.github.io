@@ -4,5 +4,5 @@ venue: "ffb60586-a5a4-4add-97d9-9b938f3e8d6c"
 artists:
   - "1edb82b9-9d91-456d-971d-3de0a3b52826"
 tickets:
-  web: "https://www.songkick.com/concerts/43222827-gogol-bordello-at-mr-smalls-theatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43222827-gogol-bordello-at-mr-smalls-theatre"
 ---

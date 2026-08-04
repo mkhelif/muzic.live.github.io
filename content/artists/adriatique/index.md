@@ -3,6 +3,7 @@ id: "84497f6b-27d2-4db8-8577-e043406e7db9"
 title: "Adriatique"
 type: band
 socials:
+  musicbrainz: "252bc5e8-d8e7-4f79-af85-cb7546793405"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +17,12 @@ socials:
   deezer: "1418997"
   qobuz: ""
   spotify: "02DWGcShQivFepRvGJ7xhB"
-  tidal: ""
+  tidal: "4524092"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

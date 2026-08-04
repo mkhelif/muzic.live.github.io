@@ -5,5 +5,5 @@ artists:
   - "e012768f-87f9-4a32-859a-912fbcae171b"
   - "c24a5b4d-8b9a-44a1-8069-180755736fab"
 tickets:
-  web: "https://www.songkick.com/concerts/43054704-john-craigie-at-arlene-schnitzer-concert-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43054704-john-craigie-at-arlene-schnitzer-concert-hall"
 ---

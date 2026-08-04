@@ -7,5 +7,5 @@ artists:
   - "907189aa-d94f-4870-a1ba-db5138fb0211"
   - "f2b4e8c3-1dbf-4ce5-9e55-c9fb8bf156ba"
 tickets:
-  web: "https://www.songkick.com/concerts/43034003-eyehategod-at-digital?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43034003-eyehategod-at-digital"
 ---

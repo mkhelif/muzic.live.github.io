@@ -5,5 +5,5 @@ artists:
   - "f89098c2-c7ff-4ccf-bc61-2052d15c9923"
   - "30e01f95-cf8f-47d1-af63-7293166e25b6"
 tickets:
-  web: "https://www.songkick.com/concerts/42965713-godsmack-at-la-riviera?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42965713-godsmack-at-la-riviera"
 ---

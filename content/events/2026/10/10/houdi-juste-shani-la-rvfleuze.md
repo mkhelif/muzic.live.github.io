@@ -6,5 +6,5 @@ artists:
   - "c6a3424d-ab0c-4f1e-a18e-3d84339da4b9"
   - "695c6224-8223-4904-a8cf-bb8e74ea4736"
 tickets:
-  web: "https://www.songkick.com/concerts/43213303-houdi-at-chapiteau-de-la-pepiniere?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43213303-houdi-at-chapiteau-de-la-pepiniere"
 ---

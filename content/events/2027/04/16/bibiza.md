@@ -4,5 +4,5 @@ venue: "afe3f142-8f1c-43c8-af06-9f76bf783d7d"
 artists:
   - "bfeaf5c8-9021-4ac8-9f03-73847b1141a8"
 tickets:
-  web: "https://www.songkick.com/concerts/43268883-bibiza-at-capitol?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43268883-bibiza-at-capitol"
 ---

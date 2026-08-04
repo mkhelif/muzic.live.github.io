@@ -6,5 +6,5 @@ artists:
   - "57b55a8a-c750-4a32-8f97-c621f0b3f2e0"
   - "0f808cf4-62da-4de4-baae-7cad4c604df4"
 tickets:
-  web: "https://www.songkick.com/concerts/43262350-hilight-tribe-at-hangar-ds?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43262350-hilight-tribe-at-hangar-ds"
 ---

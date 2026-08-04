@@ -6,5 +6,5 @@ artists:
   - "bbb77ae2-64af-473c-b186-ad22b01c1ef5"
   - "65a7f404-dbe2-4158-b1d4-20f54a428167"
 tickets:
-  web: "https://www.songkick.com/concerts/43264120-lorna-shore-at-riverstage-brisbane?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43264120-lorna-shore-at-riverstage-brisbane"
 ---

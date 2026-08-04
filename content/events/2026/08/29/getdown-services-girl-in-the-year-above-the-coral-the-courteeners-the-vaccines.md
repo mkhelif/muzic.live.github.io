@@ -8,5 +8,5 @@ artists:
   - "1106e3d1-b62b-4599-a614-f01aeae8361d"
   - "a743f4b3-5c8d-4045-98f1-c0de6a0a042f"
 tickets:
-  web: "https://www.songkick.com/concerts/42845321-courteeners-at-wythenshawe-park-and-gardens?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42845321-courteeners-at-wythenshawe-park-and-gardens"
 ---

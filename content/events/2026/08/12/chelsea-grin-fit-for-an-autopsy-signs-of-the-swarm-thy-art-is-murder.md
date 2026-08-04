@@ -7,5 +7,5 @@ artists:
   - "dff59088-81f8-4db6-9444-fcaa448da1a7"
   - "69728416-3211-4426-b877-2473ba7f3aa7"
 tickets:
-  web: "https://www.songkick.com/concerts/43082426-thy-art-is-murder-at-schlachthof-wiesbaden?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43082426-thy-art-is-murder-at-schlachthof-wiesbaden"
 ---

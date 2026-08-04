@@ -5,5 +5,5 @@ artists:
   - "8c003454-c49d-41a7-b42b-d908c1c6eb56"
   - "1ebe8f7f-ea88-4e92-a612-52a219efd468"
 tickets:
-  web: "https://www.songkick.com/concerts/43224614-don-broco-at-hard-rock-live-sacramento?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43224614-don-broco-at-hard-rock-live-sacramento"
 ---

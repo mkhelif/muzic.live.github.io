@@ -3,6 +3,7 @@ id: "5a9149fc-c422-4d34-9220-b5ecc86fede6"
 title: "Amaury Faivre"
 type: person
 socials:
+  musicbrainz: "3472fdec-5e5f-4296-ab4a-1e1dafc3e784"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

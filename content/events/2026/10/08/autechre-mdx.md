@@ -5,5 +5,5 @@ artists:
   - "9fcd4197-89a9-4815-a76b-15083826ad77"
   - "d05805ec-165e-4e4b-bbfe-668cd38a31d3"
 tickets:
-  web: "https://www.songkick.com/concerts/43268177-autechre-at-magyar-zene-haza?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43268177-autechre-at-magyar-zene-haza"
 ---

@@ -6,5 +6,5 @@ artists:
   - "c57b040b-0111-44f2-b69a-c2714d9f775c"
   - "9d34e64c-8785-44aa-bf58-9f26320dbd9e"
 tickets:
-  web: "https://www.songkick.com/concerts/43022027-eluveitie-at-tivolivredenburg?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43022027-eluveitie-at-tivolivredenburg"
 ---

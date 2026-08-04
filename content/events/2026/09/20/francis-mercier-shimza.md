@@ -5,5 +5,5 @@ artists:
   - "36bda35a-eb56-4d8f-9d70-ec384894454e"
   - "555db18e-9795-4396-9408-4cb289e54114"
 tickets:
-  web: "https://www.songkick.com/concerts/43184013-francis-mercier-at-reframe-studios-outdoors?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43184013-francis-mercier-at-reframe-studios-outdoors"
 ---

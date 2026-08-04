@@ -4,5 +4,5 @@ venue: "b61f3d35-28b0-45eb-83da-f4dd5451b0d5"
 artists:
   - "810d03f5-1154-4a5a-a0f9-2decf6b129ce"
 tickets:
-  web: "https://www.songkick.com/concerts/43301226-joris-voorn-at-location-tba-los-angeles?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43301226-joris-voorn-at-location-tba-los-angeles"
 ---

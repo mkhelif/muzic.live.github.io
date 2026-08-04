@@ -6,5 +6,5 @@ artists:
   - "d74a9c37-639b-4fdd-ba78-9b28b66d553a"
   - "12402f6a-cac6-485d-b730-201ac83faf3f"
 tickets:
-  web: "https://www.songkick.com/concerts/43307184-laura-cox-at-la-loco?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43307184-laura-cox-at-la-loco"
 ---

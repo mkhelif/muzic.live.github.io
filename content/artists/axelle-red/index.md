@@ -3,6 +3,7 @@ id: "d18458b1-844b-478e-9a09-a21158121654"
 title: "Axelle Red"
 type: person
 socials:
+  musicbrainz: "2334787c-a3d6-4dd2-a9ef-9c02b35e7485"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,14 +14,17 @@ socials:
   email: ""
   amazon: ""
   apple: "15024825"
-  deezer: ""
+  deezer: "815"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "8837"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+date:
+  birth: 1968-02-15
 ---
 
 Axelle Red, de son vrai nom **Fabienne Demal**, naît le 15 février 1968 à Hasselt, en Belgique, fille d'un avocat

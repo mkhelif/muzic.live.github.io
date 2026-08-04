@@ -4,5 +4,5 @@ venue: "1f85aa46-550e-4ba5-b4b1-00b85d97b9a8"
 artists:
   - "e13ccf39-606b-4fb3-96e8-864d99b2f091"
 tickets:
-  web: "https://www.songkick.com/concerts/43298602-igorrr-at-170-russell?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43298602-igorrr-at-170-russell"
 ---

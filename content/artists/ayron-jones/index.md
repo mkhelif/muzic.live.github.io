@@ -3,6 +3,7 @@ id: "86a76e89-6a89-414e-a154-2cb7cc98ec2b"
 title: "Ayron Jones"
 type: person
 socials:
+  musicbrainz: "d5765860-abca-4246-9e2b-fc2e55aeed81"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,11 +14,12 @@ socials:
   email: ""
   amazon: ""
   apple: "590713869"
-  deezer: ""
+  deezer: "745954"
   qobuz: ""
   spotify: "1iEaqWaYpKo9x0OrEq7Q7z"
-  tidal: ""
+  tidal: "7590797"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

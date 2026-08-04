@@ -4,5 +4,5 @@ venue: "6be1bf14-0dee-449a-87a0-34e4e49ba85f"
 artists:
   - "64cc9bf8-eeb6-4d64-b9a4-f50492d7d1d0"
 tickets:
-  web: "https://www.songkick.com/concerts/43240185-dune-rats-at-park-theatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43240185-dune-rats-at-park-theatre"
 ---

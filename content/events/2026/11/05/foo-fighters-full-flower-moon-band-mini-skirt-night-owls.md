@@ -6,5 +6,5 @@ artists:
   - "184e9bb1-3f18-4073-ab9c-e7b2b93a413b"
   - "977b141f-dfc3-4a02-9e4b-d0dd7fb45f88"
 tickets:
-  web: "https://www.songkick.com/concerts/43051541-foo-fighters-at-suncorp-stadium?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43051541-foo-fighters-at-suncorp-stadium"
 ---

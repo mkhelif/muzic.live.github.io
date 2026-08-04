@@ -6,5 +6,5 @@ artists:
   - "fb78f484-7ec1-4001-b212-29d20c18aec0"
   - "e99df652-6574-4fef-aba0-46e66a234fdc"
 tickets:
-  web: "https://www.songkick.com/concerts/43256431-damien-escobar-at-mable-house-barnes-amphitheatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43256431-damien-escobar-at-mable-house-barnes-amphitheatre"
 ---

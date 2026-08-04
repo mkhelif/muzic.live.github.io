@@ -4,5 +4,5 @@ venue: "7616505e-a044-4701-8afa-e708269b98ad"
 artists:
   - "88db523c-337b-4c97-a6bd-ed54cbb391d5"
 tickets:
-  web: "https://www.songkick.com/concerts/42874272-cat-power-at-bristol-beacon?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42874272-cat-power-at-bristol-beacon"
 ---

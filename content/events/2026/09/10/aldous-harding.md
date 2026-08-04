@@ -4,5 +4,5 @@ venue: "0e519439-d440-4ba7-83af-126648d2c447"
 artists:
   - "18e6547e-5e9f-4d45-b840-856e7afb9e29"
 tickets:
-  web: "https://www.songkick.com/concerts/43002821-aldous-harding-at-underground-arts?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43002821-aldous-harding-at-underground-arts"
 ---

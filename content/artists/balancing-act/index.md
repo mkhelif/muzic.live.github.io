@@ -2,6 +2,7 @@
 id: "4b45b03d-93b0-4eaf-84c8-e98cb6957b39"
 title: "Balancing Act"
 socials:
+  musicbrainz: "461290b9-bdc8-4ef1-af6d-2b55cf8c31e4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1606644024"
+  deezer: "169270887"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "6ZHfuZhV3q15jxpOY8S1m6"
+  tidal: "39812725"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27

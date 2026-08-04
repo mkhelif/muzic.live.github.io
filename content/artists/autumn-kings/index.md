@@ -2,6 +2,7 @@
 id: "913d5812-ba59-4a31-a265-124527b1bd0b"
 title: "Autumn Kings"
 socials:
+  musicbrainz: "941109b5-51c5-4f4f-9d15-b8ae3ceb98bc"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,12 +17,13 @@ socials:
   deezer: "9217956"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "7367781"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

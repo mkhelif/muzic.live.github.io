@@ -3,6 +3,7 @@ id: "26a74e65-51fa-4ba8-a9cd-3e8f241c66a7"
 title: "Barkanan"
 type: band
 socials:
+  musicbrainz: "b23261b0-8dcd-4d7e-9ad5-f471d4727d8e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: "4Ae3gMPu76v2G25Z9nrOpx"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

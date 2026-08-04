@@ -8,5 +8,5 @@ artists:
   - "1e6de55c-ab53-40c7-9ffb-c3c85b55fb2e"
   - "cef8e667-df8e-4a34-8f9c-19348752f6d5"
 tickets:
-  web: "https://www.songkick.com/concerts/43228857-mushroomhead-at-king-of-clubs?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43228857-mushroomhead-at-king-of-clubs"
 ---

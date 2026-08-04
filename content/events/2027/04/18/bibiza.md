@@ -4,5 +4,5 @@ venue: "0a3c7920-5bbd-47b2-b8a8-81321abb7e7a"
 artists:
   - "bfeaf5c8-9021-4ac8-9f03-73847b1141a8"
 tickets:
-  web: "https://www.songkick.com/concerts/43268885-bibiza-at-columbiahalle?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43268885-bibiza-at-columbiahalle"
 ---

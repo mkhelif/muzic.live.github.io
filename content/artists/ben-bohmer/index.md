@@ -3,6 +3,7 @@ id: "14c88ae8-5e39-4b62-894d-fd26d29d90ba"
 title: "Ben Böhmer"
 type: person
 socials:
+  musicbrainz: "e4f12dfc-1ee7-4250-8e24-549b6d46676d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,13 +15,16 @@ socials:
   amazon: ""
   apple: "794108530"
   deezer: "5468744"
-  qobuz: ""
+  qobuz: "2221977"
   spotify: "5tDjiBYUsTqzd0RkTZxK7u"
-  tidal: ""
+  tidal: "7977730"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+date:
+  birth: 1994
 ---
 
 Ben Böhmer est un producteur et DJ allemand né en 1993 à Göttingen, figure majeure de la scène melodic house et

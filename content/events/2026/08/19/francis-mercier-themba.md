@@ -5,5 +5,5 @@ artists:
   - "36bda35a-eb56-4d8f-9d70-ec384894454e"
   - "802d9e2d-0893-4839-a39d-a0296757903d"
 tickets:
-  web: "https://www.songkick.com/concerts/43339990-themba-at-santanna-mykonos?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43339990-themba-at-santanna-mykonos"
 ---

@@ -4,5 +4,5 @@ venue: "77e3400d-d679-49ed-b16f-8bb81cad4a4e"
 artists:
   - "fe11fca2-0746-4f0b-b839-b7d1424fd093"
 tickets:
-  web: "https://www.songkick.com/concerts/43200917-this-is-michael-at-teatro-nacional-cce?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43200917-this-is-michael-at-teatro-nacional-cce"
 ---

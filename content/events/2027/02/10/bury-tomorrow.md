@@ -4,5 +4,5 @@ venue: "69d2fa49-3077-468c-9ab5-b570044ca0b1"
 artists:
   - "e7a5711b-914c-4317-9d77-6af95cbc1a7b"
 tickets:
-  web: "https://www.songkick.com/concerts/43282240-bury-tomorrow-at-raiffeisen-halle-gasometer?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43282240-bury-tomorrow-at-raiffeisen-halle-gasometer"
 ---

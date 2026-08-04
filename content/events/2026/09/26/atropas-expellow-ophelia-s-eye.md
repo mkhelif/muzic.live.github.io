@@ -6,5 +6,5 @@ artists:
   - "d7c516bd-bce9-49ad-8eb3-4170d7c7cc29"
   - "d82dd80b-65cb-493b-8085-e20cc3c34409"
 tickets:
-  web: "https://www.songkick.com/concerts/43115675-expellow-at-district-28?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43115675-expellow-at-district-28"
 ---

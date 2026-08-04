@@ -8,5 +8,5 @@ artists:
   - "725d8b34-10e5-4557-ab85-9399c2a635eb"
   - "80c59192-8ad7-480b-8cbc-0b6a2ecd1dd1"
 tickets:
-  web: "https://www.songkick.com/concerts/43316269-alabama-3-at-strongroom-bar?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43316269-alabama-3-at-strongroom-bar"
 ---

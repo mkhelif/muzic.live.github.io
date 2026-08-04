@@ -8,5 +8,5 @@ artists:
   - "d72adaa5-3188-44f1-976d-259d4ad82680"
   - "e64632a0-5662-43db-9d09-91f7025f7ee8"
 tickets:
-  web: "https://www.songkick.com/concerts/43223957-muna-at-forest-hills-stadium?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43223957-muna-at-forest-hills-stadium"
 ---

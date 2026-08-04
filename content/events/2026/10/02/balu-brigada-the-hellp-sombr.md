@@ -6,5 +6,5 @@ artists:
   - "8e97096d-3473-4312-93dd-7f05e93b305c"
   - "13d7335a-067b-46f1-be43-caebe410a269"
 tickets:
-  web: "https://www.songkick.com/concerts/43154945-sombr-at-climate-pledge-arena?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43154945-sombr-at-climate-pledge-arena"
 ---

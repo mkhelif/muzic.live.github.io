@@ -4,5 +4,5 @@ venue: "b3e1b676-8c99-4857-874e-78718b48f288"
 artists:
   - "90f6f9b6-2b41-4bd0-bf5d-9e4604f2a000"
 tickets:
-  web: "https://www.songkick.com/concerts/43187681-kim-wilde-at-beethovensaal-liederhalle?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43187681-kim-wilde-at-beethovensaal-liederhalle"
 ---

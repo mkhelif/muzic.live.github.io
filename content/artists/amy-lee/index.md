@@ -3,6 +3,7 @@ id: "89b8387c-219c-4ae0-b4dc-974f72b245d6"
 title: "Amy Lee"
 type: person
 socials:
+  musicbrainz: "7ee89158-3446-4044-bb88-0dcc4d4cd6c0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,19 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "101711723"
+  deezer: "15741"
   qobuz: ""
   spotify: "0fGVuq5ed21pM7iWwTcMyk"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
+date:
+  birth: 1981-12-13
 ---
 Amy Lee est l'une des voix les plus reconnaissables du rock alternatif mondial. Co-fondatrice et chanteuse principale d'**Evanescence**, pianiste classique et compositrice, elle a imposé dans les années 2000 une vision du rock féminin radicalement différente de ce qui dominait alors les ondes : sombre, cinématographique, hanté par des émotions profondes, et porté par une technique vocale hors du commun.
 

@@ -2,7 +2,33 @@
 id: "8dc56785-18db-413c-9a79-e658a2a577e3"
 title: "Austere"
 type: band
+members:
+  - id: "4c483530-9031-4474-9d51-712296abd5ff"
+    roles:
+      - sing
+      - guitar
+      - bass
+      - keys
+    periods:
+      - start: 2005
+        end: 2010
+      - start: 2005
+        end: 2010
+      - start: 2005
+        end: 2010
+      - start: 2005
+        end: 2010
+  - id: "741dd894-8aa1-4814-b96d-e6a1e2e24bc5"
+    roles:
+      - drums
+      - keys
+    periods:
+      - start: 2007
+        end: 2010
+      - start: 2007
+        end: 2010
 socials:
+  musicbrainz: "f87a572c-b148-4e38-ab7e-a44d306f95ab"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +38,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "164952075"
   deezer: "205430"
   qobuz: ""
   spotify: "7gyVPCoE80rSyEW6yuJ6HM"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-26

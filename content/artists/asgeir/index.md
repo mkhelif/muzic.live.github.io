@@ -3,6 +3,7 @@ id: "4628e26a-cdcd-4eea-b665-8f1571a67ff4"
 title: "Ásgeir"
 type: person
 socials:
+  musicbrainz: "380429da-3827-43fd-9e67-558e4c6a91bf"
   facebook: "asgeirmusic"
   instagram: "asgeirmusic"
   tiktok: ""
@@ -14,15 +15,18 @@ socials:
   email: ""
   amazon: ""
   apple: "670807813"
-  deezer: ""
-  qobuz: ""
+  deezer: "1400638"
+  qobuz: "1236529"
   spotify: "7xUZ4069zcyBM4Bn10NQ1c"
-  tidal: ""
+  tidal: "4998650"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer-lookup: 2026-07-27
   apple: 2026-07-26
   bandsintown: 2026-07-26
   spotify: 2026-07-23
+date:
+  birth: 1992-07-01
 ---
 
 Ásgeir Trausti Einarsson, connu simplement sous le nom d'Ásgeir, est un chanteur-compositeur islandais né le

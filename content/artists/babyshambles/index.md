@@ -49,6 +49,7 @@ members:
       - start: 2004
         end: 2006
 socials:
+  musicbrainz: "8e1e03fe-ebbc-467a-b541-857144db10fb"
   facebook: "babyshambles"
   instagram: "babyshamblesuk"
   tiktok: ""
@@ -62,8 +63,9 @@ socials:
   deezer: "1331"
   qobuz: ""
   spotify: "0IBAqjHG8DSaD7PPCGnGiZ"
-  tidal: ""
+  tidal: "10088"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26

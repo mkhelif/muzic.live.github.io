@@ -5,5 +5,5 @@ artists:
   - "cfe1a1f3-4c43-43e8-a524-29c803a7b132"
   - "ffae93b2-8318-475a-8333-488acbe9b90d"
 tickets:
-  web: "https://www.songkick.com/concerts/43158920-nick-warren-at-evergreen-brick-works?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43158920-nick-warren-at-evergreen-brick-works"
 ---

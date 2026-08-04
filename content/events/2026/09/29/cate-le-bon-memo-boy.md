@@ -5,5 +5,5 @@ artists:
   - "dcd54fc0-8758-40c3-906c-88a386360b7d"
   - "44f04451-a1c8-426a-acfd-98462a9b0aed"
 tickets:
-  web: "https://www.songkick.com/concerts/43199168-cate-le-bon-at-higher-ground?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43199168-cate-le-bon-at-higher-ground"
 ---

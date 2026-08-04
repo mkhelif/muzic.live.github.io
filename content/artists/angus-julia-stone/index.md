@@ -16,6 +16,7 @@ members:
     periods:
       - start: 2006
 socials:
+  musicbrainz: "69837400-8e31-4949-aac2-00b46b4df126"
   facebook: "AngusAndJulia"
   instagram: "angusandjuliastone"
   tiktok: "@angusandjuliastone"
@@ -31,6 +32,7 @@ socials:
   amazon: ""
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   apple: 2026-07-26
   bandsintown-lookup: 2026-07-25

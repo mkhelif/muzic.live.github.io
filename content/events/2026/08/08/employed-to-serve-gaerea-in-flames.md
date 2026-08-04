@@ -6,5 +6,5 @@ artists:
   - "80f66fff-bbc0-4d7c-98ea-d8d353e6efbd"
   - "8af2f7d1-b3e2-4d20-957b-f6dd079140f1"
 tickets:
-  web: "https://www.songkick.com/concerts/42951198-in-flames-at-sala-custom?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42951198-in-flames-at-sala-custom"
 ---

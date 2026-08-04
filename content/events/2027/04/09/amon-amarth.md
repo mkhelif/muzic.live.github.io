@@ -4,5 +4,5 @@ venue: "69addc9e-6e01-44f3-827a-2a753d07cb41"
 artists:
   - "73c10f2c-3070-4ed0-b31b-836ee04c358d"
 tickets:
-  web: "https://www.songkick.com/concerts/43216316-amon-amarth-at-irish-house?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43216316-amon-amarth-at-irish-house"
 ---

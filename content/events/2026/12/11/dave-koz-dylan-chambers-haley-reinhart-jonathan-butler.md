@@ -7,5 +7,5 @@ artists:
   - "9721454b-0e8f-4699-8287-d73182c4f4e0"
   - "cf884c6a-a56f-4b26-91d0-aa14f4593b46"
 tickets:
-  web: "https://www.songkick.com/concerts/43156005-dave-koz-at-lansdowne-theater?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43156005-dave-koz-at-lansdowne-theater"
 ---

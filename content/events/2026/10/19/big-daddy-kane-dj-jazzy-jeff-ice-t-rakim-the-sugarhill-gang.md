@@ -8,5 +8,5 @@ artists:
   - "5427c89a-0f17-4bcc-b368-cbbcad75fb3b"
   - "6d9375ee-1251-4bea-b4ba-74640516cc47"
 tickets:
-  web: "https://www.songkick.com/concerts/43195824-icet-at-walmart-arkansas-music-pavilion?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43195824-icet-at-walmart-arkansas-music-pavilion"
 ---

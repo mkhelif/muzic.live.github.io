@@ -6,5 +6,5 @@ artists:
   - "3cae9251-d9c3-4621-a4f6-498e10cc50fa"
   - "93e57785-2567-4074-97f6-55d74a2fc225"
 tickets:
-  web: "https://www.songkick.com/concerts/43299951-oak-ridge-boys-at-grand-ole-opry-house?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43299951-oak-ridge-boys-at-grand-ole-opry-house"
 ---

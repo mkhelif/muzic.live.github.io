@@ -3,6 +3,8 @@
 id: "9137f73b-8a37-4be6-a9f3-ac38b037cc87"
 title: "Al Barr"
 socials:
+  tidal: "6256031"
+  musicbrainz: "896e8e5a-3e63-4c34-8216-90d95bfd459f"
   deezer: "4456137"
   facebook: ""
   spotify: "3dGF8ceVA8FVDWz6McxA4O"
@@ -12,6 +14,7 @@ socials:
   bandsintown: "820711"
   youtube: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-23

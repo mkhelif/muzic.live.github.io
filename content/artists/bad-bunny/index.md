@@ -3,6 +3,7 @@ id: "e6dfcbe7-af5f-458c-8357-fc89a62890f0"
 title: "Bad Bunny"
 type: person
 socials:
+  musicbrainz: "89aa5ecb-59ad-46f5-b3eb-2d424e941f19"
   facebook: "BadBunnyOfficial"
   instagram: "badbunnypr"
   x: "sanbenito"
@@ -20,10 +21,13 @@ socials:
 todo:
   - Add picture
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26
   spotify: 2026-07-23
+date:
+  birth: 1994-03-10
 ---
 
 Il s'appelle **Benito Antonio Martínez Ocasio**, il est né le 10 mars 1994 à Vega Baja, Puerto Rico, et il a changé la

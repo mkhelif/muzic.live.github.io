@@ -4,5 +4,5 @@ venue: "5e5a106f-5664-4ad7-8307-537d177c2e78"
 artists:
   - "e30a79da-7be4-4324-8e0f-a5c1440f3fe8"
 tickets:
-  web: "https://www.songkick.com/concerts/43205379-paris-paloma-at-fryshuset?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43205379-paris-paloma-at-fryshuset"
 ---

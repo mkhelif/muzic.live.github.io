@@ -5,5 +5,5 @@ artists:
   - "72edd215-1f05-46d3-b535-a85085aad69a"
   - "fc05e671-1427-4367-a7f2-12c292c3d2b7"
 tickets:
-  web: "https://www.songkick.com/concerts/43066041-boney-james-at-blue-note-summer-sessions-at-meritage-resort?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43066041-boney-james-at-blue-note-summer-sessions-at-meritage-resort"
 ---

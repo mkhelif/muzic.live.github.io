@@ -6,5 +6,5 @@ artists:
   - "65654368-fbef-452d-867e-092e42191146"
   - "6330d295-3a09-4bff-96ff-4273424eb493"
 tickets:
-  web: "https://www.songkick.com/concerts/43006674-danakil-at-festizac?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43006674-danakil-at-festizac"
 ---

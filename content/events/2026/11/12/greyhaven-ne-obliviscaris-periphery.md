@@ -6,5 +6,5 @@ artists:
   - "f5973260-52b6-41b6-a6ea-cecec5aef105"
   - "419275e7-7e84-4edc-88b2-c38ae7f33532"
 tickets:
-  web: "https://www.songkick.com/concerts/43237236-periphery-at-van-buren?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43237236-periphery-at-van-buren"
 ---

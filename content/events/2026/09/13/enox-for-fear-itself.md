@@ -5,5 +5,5 @@ artists:
   - "8bb3ae19-3b3d-46b5-a5d7-9f1e9a5f492d"
   - "7233ee06-0f29-4b4d-97d6-7fa575e3fe03"
 tickets:
-  web: "https://www.songkick.com/concerts/43338328-enox-at-metro-baltimore?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43338328-enox-at-metro-baltimore"
 ---

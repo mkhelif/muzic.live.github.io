@@ -4,5 +4,5 @@ venue: "2a03fad7-8f41-4695-b4a3-8ed8a8ea0f80"
 artists:
   - "f1e35ffd-2f19-40b6-9808-c0fff17d7435"
 tickets:
-  web: "https://www.songkick.com/concerts/43276651-abd-al-malik-at-theatre-national-national-theatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43276651-abd-al-malik-at-theatre-national-national-theatre"
 ---

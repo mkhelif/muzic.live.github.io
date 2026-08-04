@@ -4,5 +4,5 @@ venue: "96a62750-f649-460a-ba64-024ae8119388"
 artists:
   - "815d284a-0b9b-4dc6-a827-8fea0792bde2"
 tickets:
-  web: "https://www.songkick.com/concerts/42935559-boris-brejcha-at-o2-arena?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42935559-boris-brejcha-at-o2-arena"
 ---

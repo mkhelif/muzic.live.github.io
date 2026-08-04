@@ -7,5 +7,5 @@ artists:
   - "0eb7b431-5fb1-4807-8d4f-8e7d999e056a"
   - "a27550bf-9276-4859-a769-2cb1c23363bd"
 tickets:
-  web: "https://www.songkick.com/concerts/42804429-bolzer-at-hydrozagadka?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42804429-bolzer-at-hydrozagadka"
 ---

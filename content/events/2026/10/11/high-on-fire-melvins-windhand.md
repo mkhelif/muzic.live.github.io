@@ -6,5 +6,5 @@ artists:
   - "01b9bf67-7f3e-49e3-bdab-191c73af92da"
   - "17e5d67e-1dca-4443-935d-8a8a3e0ed3f0"
 tickets:
-  web: "https://www.songkick.com/concerts/43295769-high-on-fire-at-quarry-amphitheater?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43295769-high-on-fire-at-quarry-amphitheater"
 ---

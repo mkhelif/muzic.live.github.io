@@ -5,5 +5,5 @@ artists:
   - "3aae1358-fd46-475d-8c41-3dc0a6269cc9"
   - "c0049171-e2f8-4956-b28a-afd8827857d6"
 tickets:
-  web: "https://www.songkick.com/concerts/43253541-john-fogerty-at-pacific-amphitheatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43253541-john-fogerty-at-pacific-amphitheatre"
 ---

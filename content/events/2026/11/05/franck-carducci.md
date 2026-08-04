@@ -4,5 +4,5 @@ venue: "d6d34673-5398-4e66-a6f3-50ef513858fe"
 artists:
   - "41ad662d-f4a7-45b4-932d-b194e3aab7e6"
 tickets:
-  web: "https://www.songkick.com/concerts/43175344-franck-carducci-and-the-fantastic-squad-at-parish?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43175344-franck-carducci-and-the-fantastic-squad-at-parish"
 ---

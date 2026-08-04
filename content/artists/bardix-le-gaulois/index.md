@@ -2,6 +2,7 @@
 id: "70de8146-f520-444a-b0d3-c412488b8fdc"
 title: "Bardix le Gaulois"
 socials:
+  musicbrainz: "6794db5a-aded-4281-8712-2eabd647fc0b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

@@ -2,7 +2,39 @@
 id: "a9ea9e02-9276-4103-bd1d-6e50cc209550"
 title: "April Art"
 type: band
+members:
+  - id: "3b8667b8-d7f3-49eb-a471-47a575b40ace"
+    roles:
+      - drums
+    periods:
+      - start: 2014
+  - id: "24d5fc24-814a-4b61-999a-62807f9f44fb"
+    roles:
+      - guitar
+    periods:
+      - start: 2014
+  - id: "e63d1c2e-028f-4be6-b806-9e07b4730652"
+    roles:
+      - bass
+    periods:
+      - start: 2022
+  - id: "cf0b055f-d74e-40d2-b8c3-d91ad8ff63ef"
+    roles:
+      - bass
+    periods:
+      - start: 2014
+        end: 2021
+  - id: "07209a6c-3d5b-467b-888e-04f9fe80844a"
+    roles:
+      - guitar
+  - id: "8168332b-407f-439f-971a-395cc270c104"
+    roles:
+      - drums
+  - id: "a4fdc40d-15c9-4ced-93a9-522566a5c553"
+    roles:
+      - sing
 socials:
+  musicbrainz: "5f45af19-a744-4495-82b6-744c5a41f2ca"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +43,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B00TXMMLA8"
   apple: "960840600"
   deezer: "7426884"
   qobuz: ""
   spotify: "5SIU6vqESwt2muetzRSX7f"
-  tidal: ""
+  tidal: "6466153"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

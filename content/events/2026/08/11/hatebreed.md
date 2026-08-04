@@ -4,5 +4,5 @@ venue: "d02c3a64-a262-48eb-96ae-d1ab1622a9e2"
 artists:
   - "66f8f414-5873-4b3f-90ae-8f9882565638"
 tickets:
-  web: "https://www.songkick.com/concerts/43210098-hatebreed-at-werk-backstage?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43210098-hatebreed-at-werk-backstage"
 ---

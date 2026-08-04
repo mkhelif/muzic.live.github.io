@@ -3,6 +3,7 @@ id: "fbae8ace-493a-46ce-b2bc-609f2071c851"
 title: "Akryl"
 type: person
 socials:
+  musicbrainz: "6e436084-6f26-4edd-b2bc-6be46cf97935"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-23

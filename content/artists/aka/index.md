@@ -3,6 +3,7 @@ id: "5e01b460-6d0a-481d-aeb1-daf8466613c2"
 title: "AKA"
 type: person
 socials:
+  musicbrainz: "52486a37-7ebf-4eb4-b067-ba17417fe9d3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,19 +13,23 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "3556203"
+  deezer: "62884"
+  qobuz: "86350"
   spotify: ""
-  tidal: ""
+  tidal: "3932896"
 todo:
   - Add cover
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1988-01-28
+  death: 2023-02-10
 ---
 
 AKA, de son vrai nom Kiernan Jarryd Forbes, était un rappeur sud-africain né le 28 janvier 1988 au Cap et ayant grandi à

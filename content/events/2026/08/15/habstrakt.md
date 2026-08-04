@@ -4,5 +4,5 @@ venue: "455e57a5-00be-4510-840d-b7aaf5ae0d07"
 artists:
   - "e27f14c4-acb4-4a32-8d39-456cb84a8ba2"
 tickets:
-  web: "https://www.songkick.com/concerts/43201232-habstrakt-at-exchange-la?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43201232-habstrakt-at-exchange-la"
 ---

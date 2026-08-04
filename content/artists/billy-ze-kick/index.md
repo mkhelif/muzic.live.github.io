@@ -3,6 +3,7 @@ id: "4d3683d1-25b1-490b-8fd2-bd9e551150e2"
 title: "Billy Ze Kick"
 type: person
 socials:
+  musicbrainz: "b9b27e28-287f-4b68-a419-05326b31bdbf"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

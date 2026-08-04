@@ -4,5 +4,5 @@ venue: "8ea3bbb5-984f-4137-acac-e20e853af21a"
 artists:
   - "fe11fca2-0746-4f0b-b839-b7d1424fd093"
 tickets:
-  web: "https://www.songkick.com/concerts/43198208-this-is-michael-at-arena-cdmx?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43198208-this-is-michael-at-arena-cdmx"
 ---

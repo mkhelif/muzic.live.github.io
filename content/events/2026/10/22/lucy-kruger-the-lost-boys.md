@@ -4,5 +4,5 @@ venue: "793e47f3-fe3d-4c27-9f55-14230f1b85f5"
 artists:
   - "40d77beb-841e-40b7-8210-a32808f77f49"
 tickets:
-  web: "https://www.songkick.com/concerts/43211035-lucy-kruger-and-the-lost-boys-at-die-trompete?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43211035-lucy-kruger-and-the-lost-boys-at-die-trompete"
 ---

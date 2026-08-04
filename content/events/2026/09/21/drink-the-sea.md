@@ -4,5 +4,5 @@ venue: "d7e68616-994d-4a29-9451-2ae6a17fe2df"
 artists:
   - "9a9e58c3-b797-4e5d-99ad-661dcabe9217"
 tickets:
-  web: "https://www.songkick.com/concerts/43250947-drink-the-sea-at-treefort-music-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43250947-drink-the-sea-at-treefort-music-hall"
 ---

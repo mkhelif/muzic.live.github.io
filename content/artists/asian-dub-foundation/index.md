@@ -53,6 +53,7 @@ members:
     periods:
       - start: 2000
 socials:
+  musicbrainz: "db612997-f11e-424d-8b41-cf410a433656"
   facebook: "asiandubfoundation"
   instagram: "asian_dub_foundation"
   tiktok: "@asian_dub_foundation"
@@ -67,8 +68,9 @@ socials:
   amazon: ""
   apple: "6114527"
   deezer: "1422"
-  qobuz: ""
+  qobuz: "43812"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

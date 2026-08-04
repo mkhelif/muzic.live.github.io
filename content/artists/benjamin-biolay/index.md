@@ -3,6 +3,7 @@ id: "6e249aa8-54e7-4862-8627-444e3d7cb557"
 title: "Benjamin Biolay"
 type: person
 socials:
+  musicbrainz: "f0c58dc1-8262-410e-a38b-e4f92e14759a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +17,14 @@ socials:
   deezer: "2848"
   qobuz: ""
   spotify: "26Kq9bSJsElA93PflKEB1A"
-  tidal: ""
+  tidal: "56211"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+date:
+  birth: 1973-01-20
 ---
 
 Né le 20 janvier 1973 à Villefranche-sur-Saône, Benjamin Biolay grandit dans un foyer musical marqué par la clarinette

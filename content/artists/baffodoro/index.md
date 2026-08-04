@@ -2,6 +2,7 @@
 id: "d06be6b2-5c1a-4991-9ef1-02c46d549246"
 title: "Baffodoro"
 socials:
+  musicbrainz: "83b3ad8c-6049-4a03-9787-d8abf7550b16"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27
 ---

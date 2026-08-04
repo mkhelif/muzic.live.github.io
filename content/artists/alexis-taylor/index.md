@@ -3,6 +3,7 @@ id: "c7a41b99-b3c6-4e6d-9a67-6bfa9d2f181c"
 title: "Alexis Taylor"
 type: person
 socials:
+  musicbrainz: "afb5e512-7382-452f-81c3-bc0549a3d4db"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,18 +14,21 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "262789"
   qobuz: ""
   spotify: "6zclVXoEfp3nFq4dOgqgOX"
-  tidal: ""
+  tidal: "4800768"
 todo:
   - Add cover
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1980-04-20
 ---
 
 Alexis Taylor est un musicien britannique né le 20 avril 1980, figure centrale du groupe londonien **Hot Chip** dont il

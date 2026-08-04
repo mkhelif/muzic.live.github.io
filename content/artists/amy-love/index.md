@@ -3,6 +3,7 @@ id: "178b23e0-1834-4525-9e03-fd4b6695b65c"
 title: "Amy Love"
 type: person
 socials:
+  musicbrainz: "0fea1f68-1e5e-4777-a19e-e4716c3c6594"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-26

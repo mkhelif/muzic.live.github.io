@@ -2,6 +2,7 @@
 id: "396f1a0b-5a35-4ee5-b100-a7a37515be44"
 title: "Andéol"
 socials:
+  musicbrainz: "074c8368-497a-4e98-9d01-e1580d2fa1c2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,13 @@ socials:
   apple: "1394638328"
   deezer: "14966217"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "3lWweK5IAJrNMXazhS5oV3"
+  tidal: "9937346"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz: 2026-08-04
+  deezer: 2026-08-04
 ---

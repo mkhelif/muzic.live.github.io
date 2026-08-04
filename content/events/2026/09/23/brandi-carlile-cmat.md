@@ -5,5 +5,5 @@ artists:
   - "065ba9df-3a0a-4ade-8fa8-ae46a410d946"
   - "41f9c9af-0c3d-48ee-b31a-ba27e8950298"
 tickets:
-  web: "https://www.songkick.com/concerts/43103642-brandi-carlile-at-rady-shell-at-jacobs-park?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43103642-brandi-carlile-at-rady-shell-at-jacobs-park"
 ---

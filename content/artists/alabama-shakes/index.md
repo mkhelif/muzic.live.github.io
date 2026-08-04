@@ -31,6 +31,7 @@ members:
       - start: 2009
         end: 2018
 socials:
+  musicbrainz: "40419b33-18e9-4d5a-a674-30b4bb14bac2"
   facebook: "theAlabamaShakes"
   instagram: "alabama_shakes"
   tiktok: "@alabamashakesofficial"
@@ -47,6 +48,7 @@ socials:
   deezer: "1624980"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23

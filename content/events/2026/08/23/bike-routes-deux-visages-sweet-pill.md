@@ -6,5 +6,5 @@ artists:
   - "bdc56e34-6576-4329-9159-e461b40c3192"
   - "f240790c-2a68-4f13-80de-03c55b5b0e80"
 tickets:
-  web: "https://www.songkick.com/concerts/43225814-sweet-pill-at-paper-tiger?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43225814-sweet-pill-at-paper-tiger"
 ---

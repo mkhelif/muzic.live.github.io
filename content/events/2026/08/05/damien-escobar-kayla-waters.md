@@ -5,5 +5,5 @@ artists:
   - "7a54d142-9ef8-4d4b-bffa-21cb8fbade68"
   - "ffa41405-11c5-45d3-9e35-16b53d7a4dfb"
 tickets:
-  web: "https://www.songkick.com/concerts/43135632-damien-escobar-at-aretha-franklin-amphitheatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43135632-damien-escobar-at-aretha-franklin-amphitheatre"
 ---

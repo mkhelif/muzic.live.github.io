@@ -7,5 +7,5 @@ artists:
   - "71830f68-ecff-4f16-b795-5b10552afe98"
   - "5f4cfa8a-f7c3-4972-85d7-c5bee210d88e"
 tickets:
-  web: "https://www.songkick.com/concerts/43271397-eva-under-fire-at-rust-belt?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43271397-eva-under-fire-at-rust-belt"
 ---

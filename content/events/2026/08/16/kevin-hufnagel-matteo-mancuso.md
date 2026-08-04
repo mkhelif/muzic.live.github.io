@@ -5,5 +5,5 @@ artists:
   - "541c8328-32fe-4ce1-8309-404e9a1c33a9"
   - "ce405914-4efe-4a7f-9f81-f4d1da70854b"
 tickets:
-  web: "https://www.songkick.com/concerts/43193138-matteo-mancuso-at-ardmore-music-hall?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43193138-matteo-mancuso-at-ardmore-music-hall"
 ---

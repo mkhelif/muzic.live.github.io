@@ -4,5 +4,5 @@ venue: "64bbb0bc-e8fc-44a8-af1a-a0a059d35570"
 artists:
   - "148e6804-42c4-41aa-af25-33a693a8af13"
 tickets:
-  web: "https://www.songkick.com/concerts/43287725-angine-de-poitrine-at-showbox-sodo?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43287725-angine-de-poitrine-at-showbox-sodo"
 ---

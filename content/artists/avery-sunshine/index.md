@@ -2,6 +2,7 @@
 id: "06b0e1b6-f779-42f6-8dd2-a61510c66be5"
 title: "Avery*Sunshine"
 socials:
+  musicbrainz: "730e2789-465c-4d9f-a8db-ed491b5eb2ae"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,12 +12,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "356306430"
+  deezer: "1688018"
   qobuz: ""
   spotify: "4yMxdaUoKCalQPX9BMeeFf"
-  tidal: ""
+  tidal: "4347667"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27

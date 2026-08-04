@@ -30,6 +30,7 @@ members:
     periods:
       - start: 2006
 socials:
+  musicbrainz: "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -43,8 +44,9 @@ socials:
   deezer: "1182"
   qobuz: ""
   spotify: "7Ln80lUS6He07XvHI8qqHH"
-  tidal: ""
+  tidal: "3520710"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

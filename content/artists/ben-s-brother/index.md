@@ -2,7 +2,21 @@
 id: "a30db095-c81a-4160-a85a-5c2ad1178071"
 title: "Ben's Brother"
 type: band
+members:
+  - id: "7464237e-6bbe-44cf-978f-c824b8a85238"
+    roles:
+      - other
+  - id: "3e21ecce-b6ea-4ec0-a0be-b26b427a6b0c"
+    roles:
+      - other
+  - id: "14887cea-2d2b-4a5b-a130-d505bfc2fa5f"
+    roles:
+      - other
+  - id: "6a85cae7-e0ae-4d13-81e8-310d86ef4aef"
+    roles:
+      - guitar
 socials:
+  musicbrainz: "0e7f1604-2201-40ec-bc91-2d23b2df9723"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +35,7 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

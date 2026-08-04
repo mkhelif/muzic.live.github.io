@@ -2,7 +2,12 @@
 id: "1a28d864-043b-4e7e-ad63-5fe618b1469d"
 title: "ASM"
 type: band
+members:
+  - id: "33c38bcb-0fcb-4998-b7e8-f946af74be26"
+    roles:
+      - other
 socials:
+  musicbrainz: "06acc40d-24ef-416a-bc16-a4d40048292b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,11 +18,12 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "470723"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "3715481"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-26

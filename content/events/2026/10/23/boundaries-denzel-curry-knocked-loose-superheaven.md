@@ -7,5 +7,5 @@ artists:
   - "9b96f62b-0026-476c-a384-70786dbfca70"
   - "798891d9-2894-4a34-8d82-ac5fc89db0a3"
 tickets:
-  web: "https://www.songkick.com/concerts/43242106-knocked-loose-at-uptown-theater?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43242106-knocked-loose-at-uptown-theater"
 ---

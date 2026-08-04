@@ -6,5 +6,5 @@ artists:
   - "cc265013-af49-4f27-8361-d9e73fe82224"
   - "18db89a6-a86a-4194-acec-dc776530bfd0"
 tickets:
-  web: "https://www.songkick.com/concerts/42649694-die-toten-hosen-at-hannover-messe?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42649694-die-toten-hosen-at-hannover-messe"
 ---

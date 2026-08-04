@@ -5,5 +5,5 @@ artists:
   - "c356cb37-3a82-4978-a06c-97d089843c3f"
   - "c1b3a3af-b0c1-47c3-b0b2-0d898c7defab"
 tickets:
-  web: "https://www.songkick.com/concerts/43221591-alela-diane-at-de-roma?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43221591-alela-diane-at-de-roma"
 ---

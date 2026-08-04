@@ -8,5 +8,5 @@ artists:
   - "b871069e-a80e-43e8-9c23-fb9f18faccfe"
   - "ece75719-d98f-4939-b04d-dd0e594f6e0c"
 tickets:
-  web: "https://www.songkick.com/concerts/43086477-emily-ann-roberts-at-grand-ole-opry-house?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43086477-emily-ann-roberts-at-grand-ole-opry-house"
 ---

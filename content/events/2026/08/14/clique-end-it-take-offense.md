@@ -6,5 +6,5 @@ artists:
   - "ecdeffd9-1d22-4802-8323-697fa20aeeba"
   - "fbf81af3-9840-458d-acd3-ff6f80df73d1"
 tickets:
-  web: "https://www.songkick.com/concerts/43309977-end-it-at-corazon-del-barrio?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43309977-end-it-at-corazon-del-barrio"
 ---

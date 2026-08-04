@@ -6,5 +6,5 @@ artists:
   - "93526ec3-9cfe-426a-a2e3-633791153966"
   - "f7a7e23d-d40e-4849-b54a-d8f50f1da394"
 tickets:
-  web: "https://www.songkick.com/concerts/43171165-snarky-puppy-at-capitol-theatre?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43171165-snarky-puppy-at-capitol-theatre"
 ---

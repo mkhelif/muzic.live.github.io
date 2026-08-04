@@ -3,6 +3,7 @@ id: "7cb89e4a-738d-4260-b524-64b22d408743"
 title: "Ben Mazué"
 type: person
 socials:
+  musicbrainz: "6bc23bdf-751e-4873-8468-d3ba41087c07"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +17,14 @@ socials:
   deezer: "162540"
   qobuz: ""
   spotify: "73BDzWqbf1grbgQ8xYn2ou"
-  tidal: ""
+  tidal: "3951254"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+date:
+  birth: 1981-01-24
 ---
 
 Ben Mazué, de son vrai nom Benjamin Mazuet, est un auteur-compositeur-interprète français né le 24 janvier 1981 à

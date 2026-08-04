@@ -3,6 +3,7 @@ id: "18e6547e-5e9f-4d45-b840-856e7afb9e29"
 title: "Aldous Harding"
 type: person
 socials:
+  musicbrainz: "1d779dfd-d292-48b5-b232-a09687b9881a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,16 +15,19 @@ socials:
   amazon: ""
   apple: "896764341"
   deezer: "6081632"
-  qobuz: ""
+  qobuz: "2967709"
   spotify: "3lmR0qMiGuoIF9UC54egcG"
-  tidal: ""
+  tidal: "6168312"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1990
 ---
 
 Aldous Harding est le nom de scène de Hannah Sian Topp, chanteuse et compositrice néo-zélandaise née en 1990 à

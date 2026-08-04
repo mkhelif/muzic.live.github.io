@@ -8,5 +8,5 @@ artists:
   - "39dad41f-ee5e-4a2c-ad41-7bdfe09c5f99"
   - "c48b27f7-1171-47c5-a89e-0c268f36f8af"
 tickets:
-  web: "https://www.songkick.com/concerts/43221134-marcus-anderson-at-hampton-roads-convention-center?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43221134-marcus-anderson-at-hampton-roads-convention-center"
 ---

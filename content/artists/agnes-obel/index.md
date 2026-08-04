@@ -3,6 +3,7 @@ id: "a32488b7-3bac-4cd4-b091-e40932e3d85c"
 title: "Agnes Obel"
 type: person
 socials:
+  musicbrainz: "e3c4c4af-f83b-4168-84cb-898009dd0447"
   facebook: "agnesobelofficial"
   instagram: "agnesobel"
   x: "agnesobel"
@@ -18,12 +19,15 @@ socials:
   apple: "369610392"
   email: "contact@kmmltd.com"
   tiktok: ""
-  qobuz: ""
+  qobuz: "551325"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   apple: 2026-07-26
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1980-10-28
 ---
 
 Agnes Obel est une auteure-compositrice-interprète, pianiste et productrice danoise née le 28 octobre 1980 à Gentofte,

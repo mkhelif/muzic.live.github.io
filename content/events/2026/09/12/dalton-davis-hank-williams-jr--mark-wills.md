@@ -6,5 +6,5 @@ artists:
   - "359cf109-b9d5-41ad-a5a1-7aee9c14b765"
   - "67570d73-b0c2-4f55-afe6-deed83b4f616"
 tickets:
-  web: "https://www.songkick.com/concerts/43106293-hank-williams-jr-at-riverbend-music-center?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43106293-hank-williams-jr-at-riverbend-music-center"
 ---

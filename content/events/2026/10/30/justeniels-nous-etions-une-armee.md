@@ -5,5 +5,5 @@ artists:
   - "7a1dd7a6-2941-4876-94e3-10471a9e5df8"
   - "07de8796-2325-461c-99a9-69cfe5eca1d7"
 tickets:
-  web: "https://www.songkick.com/concerts/43110989-nous-etions-une-armee-at-la-cordo?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43110989-nous-etions-une-armee-at-la-cordo"
 ---

@@ -4,5 +4,5 @@ venue: "9f23521e-3fa3-4e6b-a9e7-777aa565d629"
 artists:
   - "924eacf1-a8ed-41de-9846-a40a142359f0"
 tickets:
-  web: "https://www.songkick.com/concerts/43330224-jefferson-starship-at-kansas-crossing-casino?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43330224-jefferson-starship-at-kansas-crossing-casino"
 ---

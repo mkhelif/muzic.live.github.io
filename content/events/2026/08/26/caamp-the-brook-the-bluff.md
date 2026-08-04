@@ -5,5 +5,5 @@ artists:
   - "35389e37-18f7-459c-8ef1-dd4d8709e4eb"
   - "5681cf0b-e631-44c1-a618-0357cdc3eafd"
 tickets:
-  web: "https://www.songkick.com/concerts/43047305-caamp-at-everwise-amphitheater-at-white-river-state-park?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43047305-caamp-at-everwise-amphitheater-at-white-river-state-park"
 ---

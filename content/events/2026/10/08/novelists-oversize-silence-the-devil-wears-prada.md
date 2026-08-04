@@ -7,5 +7,5 @@ artists:
   - "63e17676-9929-43d3-9ea3-bffc4eba88e1"
   - "9b9a6459-3dd7-4e47-b478-b5d40374a88a"
 tickets:
-  web: "https://www.songkick.com/concerts/42952833-devil-wears-prada-at-schlachthof-wiesbaden?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42952833-devil-wears-prada-at-schlachthof-wiesbaden"
 ---

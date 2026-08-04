@@ -3,6 +3,7 @@ id: "3f7679d6-dd37-4d8e-97cb-70b7770c4a83"
 title: "Aime Simone"
 type: person
 socials:
+  musicbrainz: "7dfae155-08e0-4d6b-b092-4a6c5e95a725"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,9 +19,12 @@ socials:
   spotify: "75oAxYtjhDyLttgvGwQIvM"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
+date:
+  birth: 1995
 ---
 
 Aime Simone est un artiste français né le 31 décembre 1993 à Paris, d'une famille aux origines norvégiennes. Chanteur,

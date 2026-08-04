@@ -6,5 +6,5 @@ artists:
   - "fd6a2a03-3ba4-427b-b4f1-9bb2c39f9a5d"
   - "91b876ac-2037-4d89-b56b-096e1e6cf80b"
 tickets:
-  web: "https://www.songkick.com/concerts/43059954-commodores-at-hollywood-bowl?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43059954-commodores-at-hollywood-bowl"
 ---

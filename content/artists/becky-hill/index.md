@@ -2,6 +2,7 @@
 id: "f0bf604d-4c9c-4134-8098-d6b5b0aafc1a"
 title: "Becky Hill"
 socials:
+  musicbrainz: "27bc6f5b-4585-49ab-8d7d-c62b59f5f010"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,9 +16,10 @@ socials:
   apple: "533839517"
   deezer: "2699221"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "4EPJlUEBy49EX1wuFOvtjK"
+  tidal: "5826096"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

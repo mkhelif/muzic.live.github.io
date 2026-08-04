@@ -4,5 +4,5 @@ venue: "7464f190-8884-4a62-b708-7b9002449509"
 artists:
   - "71e3ec7c-bbe7-4466-af09-8eedd49e7a6a"
 tickets:
-  web: "https://www.songkick.com/concerts/43292439-afrojack-at-silo?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43292439-afrojack-at-silo"
 ---

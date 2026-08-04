@@ -3,6 +3,7 @@ id: "c3c7f832-a850-432e-bc32-212522d06c06"
 title: "Amistat"
 type: band
 socials:
+  musicbrainz: "593b479e-f0d9-445e-bd7c-8dcc6bf3344d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23

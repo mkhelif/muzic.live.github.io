@@ -6,5 +6,5 @@ artists:
   - "4ce8940a-023b-4293-9641-3ba4201a051b"
   - "b45ebbe4-521e-4d45-8ebf-35d976a45251"
 tickets:
-  web: "https://www.songkick.com/concerts/43035703-jimmy-eat-world-at-moody-amphitheater?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43035703-jimmy-eat-world-at-moody-amphitheater"
 ---

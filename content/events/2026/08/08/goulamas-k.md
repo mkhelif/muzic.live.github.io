@@ -4,5 +4,5 @@ venue: "77c39d73-5085-4d97-94b6-ba06f439e3f7"
 artists:
   - "64e0d6d4-6c3b-47af-997b-5a0cb2a6c76c"
 tickets:
-  web: "https://www.songkick.com/concerts/43239206-goulamask-at-unknown-venue?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43239206-goulamask-at-unknown-venue"
 ---

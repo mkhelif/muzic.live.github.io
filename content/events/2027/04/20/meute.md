@@ -4,5 +4,5 @@ venue: "2e0ec215-605b-489a-ab6c-937126e38c8b"
 artists:
   - "6fe53129-6e87-4b75-9bbb-997bd74077af"
 tickets:
-  web: "https://www.songkick.com/concerts/43328584-meute-at-sant-jordi-club?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43328584-meute-at-sant-jordi-club"
 ---

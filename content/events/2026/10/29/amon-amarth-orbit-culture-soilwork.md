@@ -6,5 +6,5 @@ artists:
   - "d2b97ef4-8088-45a0-b09a-3ab19ebc9c75"
   - "51880403-22df-463f-a2de-34915230ee6e"
 tickets:
-  web: "https://www.songkick.com/concerts/42906147-amon-amarth-at-prezero-arena-gliwice?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42906147-amon-amarth-at-prezero-arena-gliwice"
 ---

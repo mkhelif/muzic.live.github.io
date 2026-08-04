@@ -2,6 +2,7 @@
 id: "36d71760-2975-46a4-8745-a2a8adf0bc2e"
 title: "arottenbit"
 socials:
+  musicbrainz: "94eec095-65c7-43d5-9db0-58962e99c1c7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26
 ---

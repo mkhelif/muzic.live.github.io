@@ -4,5 +4,5 @@ venue: "7c12b150-e372-4bdf-ae92-8714741a8edd"
 artists:
   - "cce09ced-c198-4d37-bc1b-0fe6346d9a04"
 tickets:
-  web: "https://www.songkick.com/concerts/42497506-jazzy-bazz-at-zenith-paris-la-villette?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/42497506-jazzy-bazz-at-zenith-paris-la-villette"
 ---

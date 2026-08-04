@@ -5,5 +5,5 @@ artists:
   - "6a5cfeb2-586f-4df0-b1b9-0264d060d792"
   - "01584c94-f880-4281-9735-242b3b98f2f2"
 tickets:
-  web: "https://www.songkick.com/concerts/43291287-r3hab-at-ushuaia-ibiza?referer_info=e155163d961d3a6896d3f376722250b809c6e9306821a15dcd2b782a1bdda058"
+  web: "https://www.songkick.com/concerts/43291287-r3hab-at-ushuaia-ibiza"
 ---
