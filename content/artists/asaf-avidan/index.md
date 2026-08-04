@@ -24,8 +24,8 @@ lastUpdate:
   apple: 2026-07-26
   bandsintown: 2026-07-23
   spotify: 2026-07-23
-date:
-  birth: 1980-03-23
+lifespan:
+  start: 1980-03-23
 ---
 
 Asaf Avidan est un chanteur-compositeur israélien né le 23 mars 1980 à Jérusalem, dont la voix — haute,

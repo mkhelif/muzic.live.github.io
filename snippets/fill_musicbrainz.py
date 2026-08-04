@@ -28,8 +28,8 @@ one of these fields, this script:
      (or other scripts) can look it up directly instead of re-searching
    - ``members:`` (only for ``type: band``, from "member of band" relations;
      missing member fiches are created as minimal ``type: person`` stubs)
-   - ``date.birth`` / ``date.death`` (only for ``type: person``, from
-     ``life-span``)
+   - ``lifespan.start`` / ``lifespan.end`` (only for ``type: person``, from
+     ``life-span``; named ``lifespan`` and not ``date``, which Hugo reserves)
 4. For a ``type: person`` fiche, also reads the mirror of step 3's members
    lookup — "member of band" relations pointing *forward* from the person to
    each band they are/were in — and creates a minimal ``type: band`` stub for
@@ -566,23 +566,26 @@ def insert_members(text, block):
     return text[:closing.start() + 1] + block + text[closing.start() + 1:]
 
 
-def has_date_block(text):
-    return re.search(r"^date:", text, re.MULTILINE) is not None
+def has_lifespan_block(text):
+    return re.search(r"^lifespan:", text, re.MULTILINE) is not None
 
 
-def insert_dates(text, birth, death):
-    """Insert a ``date:`` block before the closing front-matter ``---``,
-    writing only the keys found. Returns None if there's nothing to write."""
-    if not birth and not death:
+def insert_lifespan(text, start, end):
+    """Insert a ``lifespan:`` block before the closing front-matter ``---``,
+    writing only the keys found. Returns None if there's nothing to write.
+
+    The block is ``lifespan: {start, end}`` — *not* ``date:``, which Hugo
+    reserves for the page's own date and would misparse as a map."""
+    if not start and not end:
         return None
     closing = re.search(r"\n---[ \t]*(?:\n|$)", text)
     if not closing:
         return None
-    lines = ["date:"]
-    if birth:
-        lines.append(f"  birth: {birth}")
-    if death:
-        lines.append(f"  death: {death}")
+    lines = ["lifespan:"]
+    if start:
+        lines.append(f"  start: {start}")
+    if end:
+        lines.append(f"  end: {end}")
     block = "\n".join(lines) + "\n"
     return text[:closing.start() + 1] + block + text[closing.start() + 1:]
 
@@ -617,7 +620,7 @@ def load_candidates():
 
         needs_social = {p for p in ALL_SOCIAL_KEYS if not socials.get(p)}
         needs_members = artist_type == "band" and not has_members_block(text)
-        needs_dates = artist_type == "person" and not has_date_block(text)
+        needs_dates = artist_type == "person" and not has_lifespan_block(text)
 
         if not needs_social and not needs_members and not needs_dates:
             skipped_complete += 1
@@ -683,14 +686,14 @@ def process_artist(file, title, artist_type, needs_social, needs_members, needs_
     if needs_dates:
         span = data.get("life-span") or {}
         begin = (span.get("begin") or "").strip()
-        end = (span.get("end") or "").strip()
-        birth = begin if _DATE_RE.match(begin) else None
-        death = end if _DATE_RE.match(end) else None
-        if birth or death:
-            new_text = insert_dates(text, birth, death)
+        finish = (span.get("end") or "").strip()
+        start = begin if _DATE_RE.match(begin) else None
+        end = finish if _DATE_RE.match(finish) else None
+        if start or end:
+            new_text = insert_lifespan(text, start, end)
             if new_text:
                 text = new_text
-                changes.append(f"date=birth:{birth or '-'}/death:{death or '-'}")
+                changes.append(f"lifespan=start:{start or '-'}/end:{end or '-'}")
 
     # For persons, also create stub fiches for any band they're a member of
     # that doesn't exist locally yet — the mirror of what needs_members does

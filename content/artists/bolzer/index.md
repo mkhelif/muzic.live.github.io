@@ -2,7 +2,21 @@
 id: "f1e143f8-8e4a-4a23-a3b4-cb00e75524b1"
 title: "Bolzer"
 type: band
+members:
+  - id: "bfdf0606-b2ce-4050-a848-36b92810689f"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2008
+      - start: 2008
+  - id: "7646579b-b04d-4169-80b3-2ac19daebdca"
+    roles:
+      - drums
+    periods:
+      - start: 2008
 socials:
+  musicbrainz: "fd48b2e5-7d4e-46c2-88c9-56a91049a95a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +31,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

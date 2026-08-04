@@ -3,6 +3,7 @@ id: "e5836662-941c-4e7b-b688-b7f410fd043e"
 title: "Bob Hardy"
 type: person
 socials:
+  musicbrainz: "e57b586c-a85e-4b7e-ab8e-927dcf18b149"
   facebook: ""
   instagram: "_bob_hardy_"
   threads: "@_bob_hardy_"
@@ -19,6 +20,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

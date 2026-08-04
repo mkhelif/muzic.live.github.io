@@ -2,7 +2,8 @@
 date: 2026-09-22T20:00:00
 venue: "ed77b4a1-727a-4853-9987-bab0d9b29276"
 artists:
-  - "9ad562f0-f97d-44ed-9366-5bc7959172c6"
+  - "d45f99a1-f864-48c5-a003-2fbc39cc40e0"
+  - "5a619dd8-cdcc-4c02-8aae-28a0d93ef8cf"
 tickets:
   web: "https://www.bandsintown.com/e/108027520-sex-pistols-feat.-frank-carter-at-l'olympia?came_from=209"
 ---

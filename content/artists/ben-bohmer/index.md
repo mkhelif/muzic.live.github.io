@@ -23,8 +23,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
-date:
-  birth: 1994
+lifespan:
+  start: 1994
 ---
 
 Ben Böhmer est un producteur et DJ allemand né en 1993 à Göttingen, figure majeure de la scène melodic house et

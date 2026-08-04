@@ -2,7 +2,12 @@
 id: "138d2fd0-ad94-442a-9e2f-2f52e5482bd0"
 title: "BOLD"
 type: band
+members:
+  - id: "5fe3413c-22b7-43c9-ad57-5d011f879509"
+    roles:
+      - other
 socials:
+  musicbrainz: "b024b1bd-2020-4b7c-83f7-4660133c89fa"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,12 +16,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "83621829"
   deezer: ""
   qobuz: ""
   spotify: "18TAmMhE82KJZDg3lnrB5r"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

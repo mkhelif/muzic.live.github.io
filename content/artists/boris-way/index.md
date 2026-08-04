@@ -3,6 +3,7 @@ id: "9dd20107-5a2e-4b1b-887b-ce9620298a6d"
 title: "Boris Way"
 type: person
 socials:
+  musicbrainz: "a369e7a8-4c2f-4b43-9a22-7b64bef82d30"
   facebook: "boriswayofficial"
   instagram: "borisway"
   tiktok: "@borisway"
@@ -17,9 +18,12 @@ socials:
   deezer: "288833"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
+lifespan:
+  start: 1991-10-09
 ---
 
 Boris Way est un DJ et producteur français qui émerge sur la scène électronique hexagonale au milieu des années 2010,

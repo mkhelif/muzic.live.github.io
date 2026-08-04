@@ -3,6 +3,7 @@ id: "e9b36bd5-93fe-43a2-84bb-7a9fd39934cc"
 title: "Bonne Nuit"
 type: band
 socials:
+  musicbrainz: "341434c7-c43a-4cff-9a86-7dfe799af71c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,12 +12,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1678946444"
+  deezer: "207673467"
   qobuz: ""
   spotify: "2Xf3fVORh2V843bnBPq6SP"
-  tidal: ""
+  tidal: "74926719"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

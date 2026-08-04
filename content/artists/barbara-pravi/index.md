@@ -23,8 +23,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
-date:
-  birth: 1993-04-10
+lifespan:
+  start: 1993-04-10
 ---
 
 Barbara Piévic, connue sous le nom de Barbara Pravi, est une chanteuse,

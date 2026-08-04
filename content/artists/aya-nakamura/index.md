@@ -23,8 +23,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
-date:
-  birth: 1995-05-10
+lifespan:
+  start: 1995-05-10
 ---
 
 Aya Nakamura, de son vrai nom Aya Coco Danioko, est une chanteuse et autrice-compositrice franco-malienne née le 10 mai

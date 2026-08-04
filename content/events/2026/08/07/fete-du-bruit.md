@@ -8,7 +8,8 @@ artists:
   - "dd7493d8-7543-4363-b4a5-766b00ceeded"
   - "4791832b-ef82-4de6-9a0c-0a780b879fba"
   - "0acb8e69-eaf0-423a-8ac0-26fc12121856"
-  - "8209a130-2d60-4050-b8d0-de09ba2734ac"
+  - "e5865f96-049c-4c66-bb1d-a32ab7adb22c"
+  - "cfb689a9-8f5d-4299-b98d-15c0e7f4ac05"
 tickets:
   web: "https://landerneau.festival-fetedubruit.com/billetterie/"
 ---

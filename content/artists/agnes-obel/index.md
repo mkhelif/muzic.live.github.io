@@ -26,8 +26,8 @@ lastUpdate:
   apple: 2026-07-26
   bandsintown: 2026-07-23
   spotify: 2026-07-23
-date:
-  birth: 1980-10-28
+lifespan:
+  start: 1980-10-28
 ---
 
 Agnes Obel est une auteure-compositrice-interprète, pianiste et productrice danoise née le 28 octobre 1980 à Gentofte,

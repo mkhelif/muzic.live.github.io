@@ -23,8 +23,8 @@ lastUpdate:
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
-date:
-  birth: 1980-04-09
+lifespan:
+  start: 1980-04-09
 ---
 
 Albert Hammond Jr est un musicien américain né à Los Angeles, fils du compositeur britannico-gibraltarien Albert Hammond

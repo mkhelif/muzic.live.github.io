@@ -23,8 +23,8 @@ lastUpdate:
   deezer: 2026-08-04
   bandsintown: 2026-07-27
   spotify: 2026-07-23
-date:
-  birth: 1944-05-16
+lifespan:
+  start: 1944-05-16
 ---
 
 Billy Cobham est un batteur américano-panaméen né le 16 mai 1944 à Colón, au Panama. Élevé à Brooklyn, New York,

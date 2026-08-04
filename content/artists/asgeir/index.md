@@ -25,8 +25,8 @@ lastUpdate:
   apple: 2026-07-26
   bandsintown: 2026-07-26
   spotify: 2026-07-23
-date:
-  birth: 1992-07-01
+lifespan:
+  start: 1992-07-01
 ---
 
 Ásgeir Trausti Einarsson, connu simplement sous le nom d'Ásgeir, est un chanteur-compositeur islandais né le

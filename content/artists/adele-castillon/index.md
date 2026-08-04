@@ -23,8 +23,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
-date:
-  birth: 2001-10-24
+lifespan:
+  start: 2001-10-24
 ---
 
 Adèle Castillon est une chanteuse, actrice et compositrice française née le 24 août 2001. Cette jeune artiste s'est

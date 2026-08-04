@@ -3,6 +3,7 @@ id: "835f3114-4ce6-4773-9187-6cf5fd540228"
 title: "Bobby Lord"
 type: person
 socials:
+  musicbrainz: "b900ea64-7dac-46ff-9372-e187c0b82561"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,6 +24,10 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27
+lifespan:
+  start: 1934-01-06
+  end: 2008-02-16
 ---

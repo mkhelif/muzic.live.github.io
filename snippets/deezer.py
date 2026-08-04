@@ -282,8 +282,9 @@ def write_event(concert):
         "artists:",
     ]
     lines += [f'  - "{aid}"' for aid in artist_ids]
-    if concert.get("ticket"):
-        lines += ["tickets:", f'  web: "{concert["ticket"]}"']
+    ticket = utils.clean_ticket_url(concert.get("ticket"))
+    if ticket:
+        lines += ["tickets:", f'  web: "{utils.yaml_quote(ticket)}"']
     lines += ["---", ""]
     event_file.write_text("\n".join(lines), encoding="UTF-8")
     return event_file

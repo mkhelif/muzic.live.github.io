@@ -23,8 +23,8 @@ lastUpdate:
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
-date:
-  birth: 1991-05-31
+lifespan:
+  start: 1991-05-31
 ---
 
 Azealia Amanda Banks est une rappeuse, chanteuse et compositrice américaine née le

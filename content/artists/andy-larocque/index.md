@@ -28,6 +28,6 @@ lastUpdate:
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-27
-date:
-  birth: 1962-11-29
+lifespan:
+  start: 1962-11-29
 ---

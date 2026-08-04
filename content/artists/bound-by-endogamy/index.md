@@ -3,6 +3,7 @@ id: "629e2324-63d8-466f-ac8f-1e4c691605b0"
 title: "Bound by Endogamy"
 type: band
 socials:
+  musicbrainz: "13f40fce-135f-48c4-bc39-52b43816a451"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: "3EHQq2ADLHIwTa0mqiD1kx"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

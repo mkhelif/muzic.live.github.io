@@ -23,8 +23,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
-date:
-  birth: 1975-03-14
+lifespan:
+  start: 1975-03-14
 ---
 
 Abd al Malik, né Régis Fayette-Mikano le 14 mars 1975 à Paris (14e arrondissement) d'un père haut fonctionnaire

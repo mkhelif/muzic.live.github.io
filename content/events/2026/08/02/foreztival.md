@@ -19,5 +19,6 @@ artists:
   - "9de8da4e-fb6b-4463-ae75-b23cd4f6f093"
   - "2b21eece-86d0-4227-bb7e-fb66ce49b37d"
   - "2a5fa97f-283e-4604-9d99-72eca60d2851"
-  - "518cfb47-675d-4d2c-8827-3f9b1e999c48"
+  - "9f4fe8d8-4a3c-418b-879c-e344cbe7de0d"
+  - "668a5b6f-7cf5-42b1-b78f-e8874882312b"
 ---

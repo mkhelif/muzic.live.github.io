@@ -2,7 +2,73 @@
 id: "be796f8b-18b8-453e-a28b-12bc1889bde1"
 title: "Body Count"
 type: band
+members:
+  - id: "551617e5-08ea-4d9d-9748-84206a60f655"
+    roles:
+      - guitar
+    periods:
+      - start: 1989
+  - id: "f6b2d36a-4d31-4c8d-a989-86dff794fff8"
+    roles:
+      - sing
+    periods:
+      - start: 1989
+  - id: "02c53bae-dc00-47d9-93f0-6540432e90f6"
+    roles:
+      - bass
+    periods:
+      - start: 2001
+  - id: "b0e2eab3-4462-4236-9194-77d6e2cfd50c"
+    roles:
+      - drums
+    periods:
+      - start: 2009
+  - id: "49223ca3-d9fa-44eb-8c30-90be9681ff39"
+    roles:
+      - guitar
+    periods:
+      - start: 2013
+  - id: "d69d2d6a-38f9-44a1-b41c-6704a401bdb5"
+    roles:
+      - other
+    periods:
+      - start: 1989
+        end: 1996
+  - id: "21c248f3-050c-4e22-8238-75f550984b5f"
+    roles:
+      - bass
+    periods:
+      - start: 1989
+        end: 1997
+  - id: "af487f11-16f5-4f84-9d1a-7994004512e6"
+    roles:
+      - guitar
+    periods:
+      - start: 1989
+        end: 2004
+  - id: "cb1543cf-b36f-44df-ba65-e3d2e5069def"
+    roles:
+      - bass
+    periods:
+      - start: 1997
+        end: 2001
+  - id: "4e2b051e-6333-41c7-81a1-fdc37de36c19"
+    roles:
+      - other
+    periods:
+      - start: 1997
+        end: 2006
+  - id: "32b6d70c-7bf1-4f14-af86-449e58a58fac"
+    roles:
+      - guitar
+    periods:
+      - start: 2004
+        end: 2006
+  - id: "a832374c-3ed2-4eb3-bf1b-332504b18e9f"
+    roles:
+      - other
 socials:
+  musicbrainz: "8b12db5d-54a9-4014-9fa8-d646ac291361"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,12 +77,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "645352"
+  deezer: "2987"
   qobuz: ""
   spotify: "5KCph1z3jaSwhtwPzoYp6i"
-  tidal: ""
+  tidal: "11374"
 lastUpdate:
+  musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

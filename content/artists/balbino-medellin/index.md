@@ -23,8 +23,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
-date:
-  birth: 1979-08-11
+lifespan:
+  start: 1979-08-11
 ---
 
 Balbino Medellín est un auteur-compositeur-interprète français né le 11 août 1979

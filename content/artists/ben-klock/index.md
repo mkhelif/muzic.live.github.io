@@ -23,8 +23,8 @@ lastUpdate:
   deezer: 2026-08-04
   bandsintown: 2026-07-27
   spotify: 2026-07-23
-date:
-  birth: 1972
+lifespan:
+  start: 1972
 ---
 
 Ben Klock est un DJ et producteur de techno né en 1972 dans le quartier de Schöneberg, à Berlin-Ouest. Pilier de la

@@ -24,8 +24,8 @@ lastUpdate:
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
-date:
-  birth: 1967-07-13
+lifespan:
+  start: 1967-07-13
 ---
 
 Benny Benassi, de son vrai nom Marco Benassi, est un DJ et producteur italien né le 13 juillet 1967 à Milan, originaire

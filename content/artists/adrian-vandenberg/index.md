@@ -24,8 +24,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
-date:
-  birth: 1954-01-31
+lifespan:
+  start: 1954-01-31
 ---
 
 Adrian Vandenberg, de son vrai nom Adriaan van den Berg, naît le 31 janvier 1954 aux Pays-Bas et se passionne très tôt

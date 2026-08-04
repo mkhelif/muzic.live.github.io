@@ -27,8 +27,8 @@ lastUpdate:
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
-date:
-  birth: 1976-04-07
+lifespan:
+  start: 1976-04-07
 ---
 
 Andy C, de son vrai nom Andrew Michael Clarke, est né le 7 avril 1976 à Hornchurch, dans l'Essex. Il est l'un des

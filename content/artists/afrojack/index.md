@@ -27,8 +27,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
-date:
-  birth: 1987-09-09
+lifespan:
+  start: 1987-09-09
 ---
 
 Afrojack, de son vrai nom Nick Leonardus van de Wall, est un DJ, producteur et remixeur néerlandais né le 9 septembre

@@ -25,8 +25,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
-date:
-  birth: 1986-09-06
+lifespan:
+  start: 1986-09-06
 ---
 
 Anna von Hausswolff est une artiste suédoise née le 6 septembre 1986 à Göteborg, figure incontournable de la scène

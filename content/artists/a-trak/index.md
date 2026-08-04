@@ -28,8 +28,8 @@ lastUpdate:
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
-date:
-  birth: 1982-03-30
+lifespan:
+  start: 1982-03-30
 ---
 
 A-Trak est un DJ et producteur canadien né à Montréal sous le nom d'Alain Macklovitch, considéré comme l'un des

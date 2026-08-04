@@ -28,8 +28,8 @@ lastUpdate:
   apple: 2026-07-26
   bandsintown: 2026-07-26
   spotify: 2026-07-23
-date:
-  birth: 1987-08-25
+lifespan:
+  start: 1987-08-25
 ---
 
 Il y a une chanson que vous avez forcément entendue — dans un pub, dans un stade, lors d'un mariage, à la radio d'un

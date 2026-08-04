@@ -23,8 +23,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
-date:
-  birth: 1984-09-17
+lifespan:
+  start: 1984-09-17
 ---
 
 Anne Paceo, née le 17 septembre 1984 à Niort, est une batteuse et compositrice française qui a su créer un style

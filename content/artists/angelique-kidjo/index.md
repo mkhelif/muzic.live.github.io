@@ -26,8 +26,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
-date:
-  birth: 1960-07-14
+lifespan:
+  start: 1960-07-14
 ---
 
 Angélique Kidjo est une chanteuse, compositrice et militante béninoise née le 14 juillet 1960 à Ouidah, au Dahomey

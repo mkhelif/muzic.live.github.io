@@ -23,8 +23,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
-date:
-  birth: 1973-01-20
+lifespan:
+  start: 1973-01-20
 ---
 
 Né le 20 janvier 1973 à Villefranche-sur-Saône, Benjamin Biolay grandit dans un foyer musical marqué par la clarinette

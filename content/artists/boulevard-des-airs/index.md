@@ -2,7 +2,18 @@
 id: "994a6e07-7671-47bf-a0e0-776204b30966"
 title: "Boulevard des Airs"
 type: band
+members:
+  - id: "f746e5ce-1649-4a57-a49d-12e1caa965c9"
+    roles:
+      - other
+  - id: "e3448459-7f6d-4d28-85ba-10318e5c0fbd"
+    roles:
+      - other
+  - id: "bb110d98-1d14-4592-aabb-670aa4386a66"
+    roles:
+      - other
 socials:
+  musicbrainz: "1ce29420-14e2-4eb5-9740-f9efe3334c3f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,8 +26,9 @@ socials:
   deezer: "1204125"
   qobuz: ""
   spotify: "6px2zTzjQAPLkuea5qQ2Gx"
-  tidal: ""
+  tidal: "4031508"
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

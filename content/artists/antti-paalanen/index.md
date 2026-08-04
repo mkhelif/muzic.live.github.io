@@ -23,8 +23,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-26
   spotify: 2026-07-23
-date:
-  birth: 1977
+lifespan:
+  start: 1977
 ---
 
 Antti Paalanen, né en 1977 dans la région d'Alavus en Ostrobotnie du Sud (Finlande), est l'un des accordéonistes

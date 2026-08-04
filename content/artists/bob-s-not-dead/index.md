@@ -3,6 +3,7 @@ id: "66beb338-0023-4f40-8f7d-5ce40e395039"
 title: "Bob's Not Dead"
 type: band
 socials:
+  musicbrainz: "cb635441-acb3-4c89-b9e3-bf2ef90a757e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

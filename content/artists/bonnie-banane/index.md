@@ -3,6 +3,7 @@ id: "bc4782d5-ad58-4f00-b321-8035130bb68b"
 title: "Bonnie Banane"
 type: person
 socials:
+  musicbrainz: "fbeeac8c-5a26-4d7a-af73-15390fba3c6a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,7 +22,10 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
+lifespan:
+  start: 1992
 ---

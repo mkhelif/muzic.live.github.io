@@ -9,4 +9,6 @@ socials:
   x: ""
   threads: ""
   youtube: ""
+lastUpdate:
+  deezer: 2026-08-04
 ---

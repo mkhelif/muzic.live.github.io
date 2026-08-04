@@ -24,8 +24,8 @@ lastUpdate:
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
-date:
-  birth: 1998-01-08
+lifespan:
+  start: 1998-01-08
 ---
 
 Bekar est un rappeur français originaire de Roubaix, dans le Nord de la France. Issu d'un territoire marqué par

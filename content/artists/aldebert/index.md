@@ -22,8 +22,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-23
   spotify: 2026-07-23
-date:
-  birth: 1973-07-07
+lifespan:
+  start: 1973-07-07
 ---
 
 Aldebert, de son vrai nom Guillaume Aldebert, est un musicien, compositeur et chanteur français né le 7 juillet 1973 à

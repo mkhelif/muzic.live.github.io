@@ -24,6 +24,7 @@ import time
 import uuid
 from datetime import date, datetime
 from pathlib import Path
+from urllib.parse import urlsplit, urlunsplit
 
 import frontmatter
 import pycountry
@@ -84,6 +85,26 @@ def yaml_quote(value):
     provider name containing a quote (e.g. ``Centrum Targowe "Park"``) does not
     break the front matter."""
     return str(value).replace("\\", "\\\\").replace('"', '\\"')
+
+
+# Hosts whose ticket URLs carry a tracking query string we always drop.
+# Songkick appends ``?referer_info=<hash>``: it identifies the referrer, is not
+# needed to reach the page, and — being regenerated on every fetch — would make
+# the same event look "changed" on each import run.
+TRACKED_TICKET_HOSTS = ("songkick.com",)
+
+
+def clean_ticket_url(url):
+    """Return a ticket URL stripped of its tracking query string (and fragment)
+    when it points at a known tracking host; other URLs are returned as-is,
+    since their query string usually carries the ticket selection itself."""
+    if not url:
+        return url
+    parts = urlsplit(str(url).strip())
+    host = parts.hostname or ""
+    if any(host == h or host.endswith("." + h) for h in TRACKED_TICKET_HOSTS):
+        return urlunsplit((parts.scheme, parts.netloc, parts.path, "", ""))
+    return url
 
 
 def load_frontmatter(file):

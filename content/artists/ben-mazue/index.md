@@ -23,8 +23,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
-date:
-  birth: 1981-01-24
+lifespan:
+  start: 1981-01-24
 ---
 
 Ben Mazué, de son vrai nom Benjamin Mazuet, est un auteur-compositeur-interprète français né le 24 janvier 1981 à

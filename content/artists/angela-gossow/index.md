@@ -26,6 +26,6 @@ todo:
 lastUpdate:
   musicbrainz: 2026-08-04
   deezer: 2026-08-04
-date:
-  birth: 1974-11-05
+lifespan:
+  start: 1974-11-05
 ---

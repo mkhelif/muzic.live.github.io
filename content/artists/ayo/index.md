@@ -24,8 +24,8 @@ lastUpdate:
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
-date:
-  birth: 1980-09-14
+lifespan:
+  start: 1980-09-14
 ---
 
 Ayọ — de son vrai nom Joy Olasunmibo Ogunmakin — est une chanteuse, compositrice et actrice

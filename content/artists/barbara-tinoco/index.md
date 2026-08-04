@@ -26,8 +26,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
-date:
-  birth: 1998-11-16
+lifespan:
+  start: 1998-11-16
 ---
 
 Bárbara Tinoco est une chanteuse et compositrice portugaise née le 16 novembre 1998 à Lisbonne. Elle apprend la

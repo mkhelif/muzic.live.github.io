@@ -26,8 +26,8 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-23
   spotify: 2026-07-23
-date:
-  birth: 1990
+lifespan:
+  start: 1990
 ---
 
 Aldous Harding est le nom de scène de Hannah Sian Topp, chanteuse et compositrice néo-zélandaise née en 1990 à

@@ -27,6 +27,6 @@ lastUpdate:
   musicbrainz: 2026-08-04
   deezer: 2026-08-04
   apple-lookup: 2026-08-04
-date:
-  birth: 1975-01-13
+lifespan:
+  start: 1975-01-13
 ---

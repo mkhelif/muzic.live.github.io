@@ -19,6 +19,6 @@ lastUpdate:
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-23
   spotify: 2026-07-23
-date:
-  birth: 1999-10-19
+lifespan:
+  start: 1999-10-19
 ---
