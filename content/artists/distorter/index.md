@@ -2,6 +2,10 @@
 id: "7b13789e-da78-40b8-aa06-6329aa9c17e6"
 title: "distorter"
 type: band
+members:
+  - id: "f4a8c85a-aac5-4b9d-9228-33ecd6327fc6"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "05d32519-28ac-471e-9ddb-5f42357e7789"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

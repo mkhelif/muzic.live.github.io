@@ -2,6 +2,13 @@
 id: "9611ae11-3ccc-459f-951b-14cccc666fbc"
 title: "Fifty Five Fathoms"
 type: band
+members:
+  - id: "4e68504a-ae9d-45d9-ad16-d206ca305686"
+    roles:
+      - other
+  - id: "58efbf42-ab38-4535-983f-b0616184f26a"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +25,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "eebfad97-40ce-47d4-b172-50f9ef590fa1"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

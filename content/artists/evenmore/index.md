@@ -2,6 +2,10 @@
 id: "f7d472d2-1703-4a9e-9334-308a489afb8e"
 title: "Evenmore"
 type: band
+members:
+  - id: "2791ba63-3d18-4bee-a876-f4363acd523b"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "fa9d06ce-f8f0-4a22-8b47-d02f82e9b12f"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

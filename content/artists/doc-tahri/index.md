@@ -2,6 +2,10 @@
 id: "126e33c1-3b16-4f3d-8545-70c31fa5a8cc"
 title: "Doc Tahri"
 type: band
+members:
+  - id: "fe11fca2-0746-4f0b-b839-b7d1424fd093"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "fb1fa2a6-b83f-42dc-b34a-03a231e1226a"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
