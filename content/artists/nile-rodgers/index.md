@@ -3,11 +3,13 @@ id: "5a2fc0d2-bd3b-4fca-bc29-ae627149fcec"
 title: "Nile Rodgers"
 type: person
 socials:
+  musicbrainz: "c6d571dd-c0ae-4ac8-9500-780b1b9b25e5"
   facebook: "NileRodgersOfficial"
   instagram: "nilerodgers"
   tiktok: "@nilerodgersandchic"
   x: "nilerodgers"
   threads: "@nilerodgers"
+  songkick: "512601"
   youtube: "@NileRodgersOfficial"
   web: "https://www.nilerodgers.com"
   tidal: "30528"
@@ -16,7 +18,11 @@ socials:
   amazon: ""
   apple: "722791"
   deezer: "7207"
-  qobuz: ""
+  qobuz: "17965"
+lifespan:
+  start: 1952-09-19
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Nile Gregory Rodgers Jr., né le 19 septembre 1952 à New York, est un guitariste, producteur et compositeur légendaire

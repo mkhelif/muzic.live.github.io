@@ -3,6 +3,7 @@ id: "d01e187a-8065-4b26-b7c6-b48859f35eaf"
 title: "Nik West"
 type: person
 socials:
+  musicbrainz: "bde6cd44-9178-47a4-b0d8-2e1ab45e5a7e"
   facebook: "nikwestbass"
   instagram: "nikwestbass"
   tiktok: "@nikwest"
@@ -18,6 +19,8 @@ socials:
   apple: ""
   deezer: "1181203"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Nik West s'impose comme l'une des bassistes les plus innovantes et flamboyantes de sa génération, incarnant une fusion

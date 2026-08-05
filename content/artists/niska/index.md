@@ -3,20 +3,26 @@ id: "583715c3-660b-415b-9196-5b52b5fda6a6"
 title: "Niska"
 type: person
 socials:
+  musicbrainz: "e369e789-6f07-4ce8-a70f-e136bc57bf3b"
   facebook: "NiskaOfficiel"
   instagram: "niska_officiel"
   tiktok: "@niskamusic"
   x: "niska_officiel"
   bandsintown: "272239"
+  songkick: "9140834"
   youtube: "@NiskaOfficiel91"
   tidal: "6101571"
   spotify: "7CUFPNi1TU8RowpnFRSsZV"
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "727527367"
+  deezer: "5288900"
   qobuz: ""
+lifespan:
+  start: 1994-04-06
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Niska, de son vrai nom Georges Dinga Pinto, s'impose comme l'une des figures majeures du rap français contemporain,
