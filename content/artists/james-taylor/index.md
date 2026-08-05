@@ -3,6 +3,7 @@ id: "10024fad-03d5-4176-b7d3-f3d66152690d"
 title: "James Taylor"
 type: person
 socials:
+  musicbrainz: "107d0c22-d051-4d98-8206-4e14de02132a"
   facebook: "JamesTaylor"
   instagram: "jamestaylor_com"
   tiktok: "@jamestaylor_real"
@@ -10,15 +11,20 @@ socials:
   x: "jamestaylor_com"
   bluesky: "jamestaylor-com"
   bandsintown: "1152"
+  songkick: "431970"
   youtube: "JamesTaylor"
   web: "https://www.jamestaylor.com/"
   spotify: "0vn7UBvSQECKJm2817Yf1P"
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
-  tidal: ""
+  amazon: "B000QJI52U"
+  apple: "207815"
+  deezer: "2961"
+  qobuz: "39414"
+  tidal: "614"
+lifespan:
+  start: 1948-03-12
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 En 1971, **James Taylor** fait la couverture du magazine *Time*. Il a 23 ans. Le titre de l'article le désigne comme le

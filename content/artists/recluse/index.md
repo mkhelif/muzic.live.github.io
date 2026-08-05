@@ -1,0 +1,27 @@
+---
+id: "ff51ac51-3a50-4abd-be1d-da45fe27ef57"
+title: "Recluse"
+type: band
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  songkick: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+  musicbrainz: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+  - Add members
+---

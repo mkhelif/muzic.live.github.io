@@ -2,6 +2,7 @@
 id: "0d52c514-362e-44be-9627-3c3b5fdc2247"
 title: "Howlin' Jaws"
 socials:
+  musicbrainz: "fbba549e-ccf0-4dde-862f-eafadada1a67"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,4 +21,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

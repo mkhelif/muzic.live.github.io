@@ -3,6 +3,7 @@ id: "bfe43743-7bdb-41d9-a9d7-430783b9dae8"
 title: "Jay Buchanan"
 type: person
 socials:
+  musicbrainz: "445e8605-7dad-4cf0-b216-3d912aad635e"
   facebook: "jaybuchananrivalsons"
   instagram: "jaythebirdthatsings"
   threads: "@jaythebirdthatsings"
@@ -17,7 +18,9 @@ socials:
   apple: "288273413"
   deezer: "1071425"
   qobuz: ""
-  tidal: ""
+  tidal: "5005667"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jay Bartholomew Buchanan, né le 6 juillet 1975 à San Bernardino, en Californie, et qui a grandi entre Fontana et

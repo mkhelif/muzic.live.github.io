@@ -3,6 +3,7 @@ id: "eea2f9d5-e3ec-4224-944d-e38a010ec11f"
 title: "Ian Haugland"
 type: person
 socials:
+  musicbrainz: "d157c2a8-8c71-4440-a7fd-627206e0bbb0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,4 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lifespan:
+  start: 1964-08-13
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

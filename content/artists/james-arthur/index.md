@@ -3,23 +3,29 @@ id: "37efd0bd-6ea1-439a-b4ee-fcf44adb46f2"
 title: "James Arthur"
 type: person
 socials:
+  musicbrainz: "56f62fe8-d3a0-46e0-b5df-a64a8b4b4274"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "1793083"
+  songkick: "6256314"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "193502798"
+  deezer: "873890"
   qobuz: ""
   spotify: "4IWBUUAFIplrNtaOHcJPRM"
-  tidal: ""
+  tidal: "4804285"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1988-03-02
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 James Arthur, de son nom complet James Andrew Arthur, né le 2 mars 1988 à Middlesbrough, dans le Yorkshire du Nord, est

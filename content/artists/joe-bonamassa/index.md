@@ -2,24 +2,28 @@
 id: "107ed0f2-2854-4a6a-960d-a8e887ede2ee"
 title: "Joe Bonamassa"
 socials:
+  musicbrainz: "984f8239-8fe1-4683-9c54-10ffb14439e9"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
   bandsintown: "7442"
+  songkick: "414198"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B000QJZIX4"
   apple: "878402"
   deezer: "4781"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "312829"
+  spotify: "2SNzxY1OsSCHBLVi77mpPQ"
+  tidal: "3582779"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Joe Bonamassa est un guitariste, chanteur et compositeur américain né le 8 mai 1977 à New Hartford,

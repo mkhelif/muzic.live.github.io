@@ -12,15 +12,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1815804141"
+  deezer: "324575781"
   qobuz: ""
-  spotify: ""
-  tidal: ""
-  musicbrainz: ""
+  spotify: "2JolAkglUjazbqQetBefGk"
+  tidal: "60443272"
+  musicbrainz: "520b3730-4f29-465e-9003-0bee3cb3e5f4"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 I Promised the World est un groupe américain de post-hardcore originaire de Denton, au Texas, formé en 2020 par

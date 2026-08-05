@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jeannette & MAJ (Mise à Jour) est un duo musical français originaire des Hauts-de-France, né d'une passion commune

@@ -2,7 +2,40 @@
 id: "36692cd2-2cae-4af2-ab90-d187b43b460a"
 title: "i-dle"
 type: band
+members:
+  - id: "26c5c88f-145b-4489-b7ba-c42d25a660dd"
+    roles:
+      - other
+    periods:
+      - start: 2018
+  - id: "0775a74e-cc7f-4537-9cf1-1aa3a44e85fa"
+    roles:
+      - other
+    periods:
+      - start: 2018
+  - id: "02ceb025-de95-42cf-a8f1-71310965d1b0"
+    roles:
+      - other
+    periods:
+      - start: 2018
+  - id: "4f92a116-619a-45e2-b50d-8c4e6425685a"
+    roles:
+      - other
+    periods:
+      - start: 2018
+  - id: "5fb4517e-f0d6-4208-b026-6dc25d19e97a"
+    roles:
+      - other
+    periods:
+      - start: 2018
+  - id: "4ee46576-66df-47f5-9828-aefa9123677d"
+    roles:
+      - other
+    periods:
+      - start: 2018
+        end: 2021
 socials:
+  musicbrainz: "0068ae6c-7156-40f9-a81f-39294af6a549"
   facebook: ""
   instagram: "g_i_dle"
   x: "G_I_DLE"
@@ -13,13 +46,15 @@ socials:
   tiktok: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1378887586"
   deezer: ""
   qobuz: ""
   tidal: ""
 todo:
   - Verify social networks
   - Add logo cover
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 i-dle est un girl group sud-coréen formé en 2018 par l'agence Cube Entertainment, connu sous le nom de (G)I-DLE

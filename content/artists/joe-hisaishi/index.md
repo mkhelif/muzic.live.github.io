@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Joe Hisaishi, de son vrai nom **Mamoru Fujisawa**, est un compositeur, chef d'orchestre et pianiste japonais né le

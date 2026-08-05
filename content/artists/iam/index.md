@@ -35,6 +35,7 @@ members:
       - start: 1989
         end: 2008
 socials:
+  musicbrainz: "7aa4a16e-9d5a-41d3-968e-fae1a2c84d05"
   facebook: "iamlegroupe"
   instagram: "iam.officiel"
   bandsintown: "11461"
@@ -46,9 +47,11 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "14549540"
+  deezer: "48"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 IAM est un groupe de rap français formé à Marseille en 1989, qui s'est imposé comme l'une des formations les plus

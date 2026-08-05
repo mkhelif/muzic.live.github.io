@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jane et les Autres est un duo qui transforme l'ennui et l'errance de la vie urbaine en récits à raconter, porté par

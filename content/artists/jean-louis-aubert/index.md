@@ -3,20 +3,24 @@ id: "2b370e29-6a9e-4dfa-968b-49b2a1ebfa90"
 title: "Jean-Louis Aubert"
 type: unknown
 socials:
+  musicbrainz: "f8e2ddaf-f556-4e1f-8ab2-f111bc6410ee"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "69729"
+  songkick: "461544"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "14143433"
-  deezer: ""
+  deezer: "2236"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "1NCrHXp9R3ogv8ezWWHFNs"
+  tidal: "8845"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jean-Louis Aubert, né le 12 avril 1955 à Nantua dans l'Ain, est un chanteur, guitariste, auteur-compositeur et

@@ -2,6 +2,7 @@
 id: "339f5eec-3d10-4772-b89e-f432a3cd549f"
 title: "I Am Your God"
 socials:
+  musicbrainz: "aad19fce-36d2-482e-ba01-bda34e22bb65"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: "1482961047"
   deezer: "76050822"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "5jmZYC9vzvvJnN0QHExUsn"
+  tidal: "17071855"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

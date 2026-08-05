@@ -3,6 +3,7 @@ id: "a72b07b5-d734-4591-9e47-79c0a237bc3c"
 title: "Jehro"
 type: person
 socials:
+  musicbrainz: "e5622f32-faa3-4145-ae93-a7e413b1568d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,8 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lifespan:
+  start: 1965-02-11
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

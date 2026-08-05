@@ -89,22 +89,26 @@ members:
       - start: 1994
         end: 1999
 socials:
+  musicbrainz: "ca891d65-d9b0-4258-89f7-e6ba29d83767"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "1301"
+  songkick: "438390"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001EECXME"
   apple: "546381"
-  deezer: ""
-  qobuz: ""
+  deezer: "931"
+  qobuz: "94751"
   spotify: "6mdiAmATAx73kdxrNrnlao"
-  tidal: ""
+  tidal: "9196"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -3,6 +3,7 @@ id: "e7b61906-b30e-490b-9b09-3c7421e4c4dc"
 title: "Jeremy Bolm"
 type: person
 socials:
+  musicbrainz: "c3401f13-df8b-45f6-bd20-6f91f67d2cd4"
   facebook: ""
   instagram: "jeremyxbolm"
   tiktok: ""
@@ -15,5 +16,9 @@ socials:
   deezer: "10958656"
   qobuz: ""
   spotify: "5yWm3ru6bdHxEoCB0vFoUt"
-  tidal: ""
+  tidal: "12819943"
+lifespan:
+  start: 1983-04-06
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

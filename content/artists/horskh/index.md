@@ -3,6 +3,7 @@ id: "cd97ac92-12e0-4f5c-bb4f-9e691ad6f4e4"
 title: "HORSKH"
 type: band
 socials:
+  musicbrainz: "ed252228-fbcf-4b16-a38c-6964c5d841b9"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

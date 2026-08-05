@@ -25,6 +25,7 @@ members:
     periods:
       - start: 2020
 socials:
+  musicbrainz: "3bdb1f39-7ff2-454c-9978-85b09b4505ae"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -39,6 +40,8 @@ socials:
   spotify: ""
   tidal: ""
 cover: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 In Fallow est un quatuor originaire de Lausanne, en Suisse, mêlant les inspirations math rock et post-rock (dans la

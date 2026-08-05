@@ -3,20 +3,26 @@ id: "2ec21dcb-9d96-4a23-ad86-bad0772be646"
 title: "Iliona"
 type: person
 socials:
+  musicbrainz: "d2620c8f-c3a6-4fc3-ba25-bd0731649b60"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "15572191"
+  songkick: "10181637"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1503151877"
+  deezer: "91132672"
   qobuz: ""
   spotify: "64s6yr2vWCKyr5Ldwaslwk"
   tidal: ""
+lifespan:
+  start: 2000
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Iliona est une autrice-compositrice-interprète, musicienne et productrice belge, née le 7 juillet 2000 à Bruxelles,

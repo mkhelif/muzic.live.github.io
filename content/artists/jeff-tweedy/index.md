@@ -3,11 +3,13 @@ id: "416b5836-ca39-4a81-972e-a9a2130b6e02"
 title: "Jeff Tweedy"
 type: person
 socials:
+  musicbrainz: "63287966-6021-474a-ba76-edc37a5f1b7c"
   facebook: "JeffTweedyHQ"
   instagram: "jefftweedy"
   threads: "@jefftweedy"
   x: "jefftweedy"
   bandsintown: "18945"
+  songkick: "490682"
   youtube: "channel/UCBTNjh7tNSvoOwEvYeqWY0g"
   web: "https://jefftweedy.com/"
   tidal: "64633"
@@ -16,10 +18,14 @@ socials:
   email: ""
   amazon: ""
   apple: "23907941"
-  deezer: ""
+  deezer: "133435"
   qobuz: ""
 todo:
   - Add cover from concert
+lifespan:
+  start: 1967-08-25
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jeff Tweedy est un auteur-compositeur-interprète et guitariste américain né le 25 août 1967 à Belleville, dans

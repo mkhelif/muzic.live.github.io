@@ -3,6 +3,7 @@ id: "0acac2ff-98d5-41ce-81f7-3781479315a0"
 title: "Jerry Pierro"
 type: person
 socials:
+  musicbrainz: "1b76db4f-ae01-4d18-aeba-d2def0841575"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -2,6 +2,7 @@
 id: "4c771ed9-1967-4f2b-82b1-5ac1870eea8b"
 title: "HoneyLuv"
 socials:
+  musicbrainz: "8d839449-aa45-402a-af82-12b874b2ba02"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,13 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  apple: "1564761965"
+  deezer: "119265692"
+  qobuz: "9393599"
+  spotify: "1sl3gVNz3Nxd4poA8f76sl"
+  tidal: "22959308"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

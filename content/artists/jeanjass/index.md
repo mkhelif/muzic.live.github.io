@@ -3,9 +3,11 @@ id: "ec430e99-6e25-40d4-a5b3-3e70d272f7fb"
 title: "JeanJass"
 type: person
 socials:
+  musicbrainz: "5ab77d5d-f95f-4d95-b6bf-286ea3bd1a64"
   instagram: "jeanjass"
   x: "JeanJass"
   bandsintown: "10876649"
+  songkick: "8412883"
   youtube: "channel/UCBVvd8QemU9L_gpV4Frf3VA"
   spotify: "11jTIrOwxFOLvhJIdb4FYo"
   facebook: ""
@@ -13,10 +15,14 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "847805281"
+  deezer: "5838830"
   qobuz: ""
-  tidal: ""
+  tidal: "6053804"
+lifespan:
+  start: 1988-05-10
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 JeanJass est un rappeur belge membre du collectif Double Hélice, originaire de Belgique, qui apporte une couleur

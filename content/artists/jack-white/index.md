@@ -3,20 +3,26 @@ id: "a29f6bb3-100e-40d4-bae7-b298f312d9ee"
 title: "Jack White"
 type: person
 socials:
+  musicbrainz: "3ae2fb37-8a23-429d-9920-bac811c4fc22"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "89140"
+  songkick: "757422"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "826980"
+  deezer: "1945"
+  qobuz: "40569"
   spotify: "4FZ3j1oH43e7cukCALsCwf"
-  tidal: ""
+  tidal: "3523905"
+lifespan:
+  start: 1975-07-09
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jack White, né John Anthony Gillis le 9 juillet 1975 à Detroit, est un musicien américain, benjamin d'une fratrie de dix

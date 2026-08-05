@@ -3,6 +3,7 @@ id: "97ce0e46-fc6f-4938-9705-8ef504669179"
 title: "JADE"
 type: unknown
 socials:
+  musicbrainz: "22bec108-cd77-4b50-a9dd-449239909bf9"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

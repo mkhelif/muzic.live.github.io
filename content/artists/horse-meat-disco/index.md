@@ -2,6 +2,7 @@
 id: "d64722a0-20d9-45f2-908d-409dec80b4f2"
 title: "Horse Meat Disco"
 socials:
+  musicbrainz: "b3bfd3b4-2215-4e45-af59-b6f353bb2476"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: "330281721"
   deezer: "391320"
   qobuz: ""
-  spotify: ""
+  spotify: "5MnToV7aAt2Zy9ag3DAsna"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

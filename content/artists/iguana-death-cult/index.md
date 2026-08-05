@@ -2,12 +2,14 @@
 id: "235cb4fb-d184-421c-bffc-996e440c5b3a"
 title: "Iguana Death Cult"
 socials:
+  musicbrainz: "4b253e1e-2e12-4013-b566-d41ab99753fb"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
   bandsintown: "10339642"
+  songkick: "8543724"
   youtube: ""
   web: ""
   email: ""
@@ -15,11 +17,13 @@ socials:
   apple: "1037798412"
   deezer: "8923722"
   qobuz: ""
-  spotify: ""
+  spotify: "3krOZK9c8q5QOdt9QSdEV8"
   tidal: ""
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Iguana Death Cult est un groupe néerlandais formé en 2015 à l'initiative du guitariste et

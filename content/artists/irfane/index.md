@@ -3,6 +3,7 @@ id: "5b464e0c-c58a-47b2-8a46-fe50a24b8e03"
 title: "Irfane"
 type: person
 socials:
+  musicbrainz: "4405ea15-6e2b-4302-b6e8-12a51f9cd2ec"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -2,6 +2,7 @@
 id: "237c3265-d467-486f-9085-5e97b7eaf5e2"
 title: "J.D. Pinkus"
 socials:
+  musicbrainz: "e72f5512-49b1-498f-98ff-26e3e39322aa"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +12,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "272902668"
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "3kjDglROBT39WUVvPtDSEX"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

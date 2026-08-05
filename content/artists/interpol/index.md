@@ -43,20 +43,24 @@ members:
     periods:
       - start: 2026
 socials:
+  musicbrainz: "b23e8a63-8f47-4882-b55b-df2c92ef400e"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "744"
+  songkick: "138058"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "2960765"
+  deezer: "1652"
+  qobuz: "111978"
   spotify: "3WaJSfKnzc65VDgmj2zU8B"
-  tidal: ""
+  tidal: "9245"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Interpol est un groupe de rock américain formé à Manhattan, New York, en 1997. Figures de proue du renouveau

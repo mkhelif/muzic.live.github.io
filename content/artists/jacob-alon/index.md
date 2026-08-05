@@ -3,6 +3,7 @@ id: "432e26f0-edd8-4aea-97f8-b5dc23312aae"
 title: "Jacob Alon"
 type: person
 socials:
+  musicbrainz: "86621e68-ef8f-45ac-a6d0-b1824beb2666"
   facebook: "jacobal0n"
   instagram: "jacobalon"
   tiktok: "@jacobal0n"
@@ -17,7 +18,9 @@ socials:
   amazon: ""
   apple: "1763155380"
   deezer: ""
-  qobuz: ""
+  qobuz: "23710480"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jacob Alon est un auteur-compositeur-interprète écossais originaire de Dalgety Bay, dans le Fife, qui s'est imposé en

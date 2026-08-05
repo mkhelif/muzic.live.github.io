@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jennifer Cardini, connue sous le nom de Jen Cardini, est une DJ, productrice et patronne de label française, figure

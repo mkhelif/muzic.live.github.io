@@ -3,6 +3,7 @@ id: "fe11fca2-0746-4f0b-b839-b7d1424fd093"
 title: "Jennifer Batten"
 type: person
 socials:
+  musicbrainz: "b1d5accf-a81a-462f-a2ca-c59ba1cb07b8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,7 +17,11 @@ socials:
   deezer: "526095"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "3661264"
+lifespan:
+  start: 1957-11-28
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jennifer Batten, née le 29 novembre 1957, est une guitariste américaine virtuose, révélée au grand public dans les

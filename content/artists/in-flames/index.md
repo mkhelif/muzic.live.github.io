@@ -115,23 +115,27 @@ members:
       - start: 2018
         end: 2025
 socials:
+  musicbrainz: "31745282-b1ea-4d62-939f-226b14d68e7c"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "26695"
+  songkick: "494866"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001E3FWO6"
   apple: "15866128"
   deezer: "120"
-  qobuz: ""
+  qobuz: "551918"
   spotify: "57ylwQTnFnIhJh4nu4rxCs"
-  tidal: ""
+  tidal: "24053"
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 In Flames est un groupe suédois de melodic death metal formé à Göteborg en 1990 par le guitariste **Jesper Strömblad**,

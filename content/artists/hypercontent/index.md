@@ -3,6 +3,7 @@ id: "6ba02cc4-327c-479c-8106-5e239de35097"
 title: "HYPERCONTENT!"
 type: band
 socials:
+  musicbrainz: "0746ab51-3682-4d21-bece-161c9cad8c76"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -19,6 +20,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 HYPERCONTENT! est un collectif franco-chilio-belge basé à Bruxelles, qui brouille les frontières entre jazz,

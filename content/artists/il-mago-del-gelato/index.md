@@ -3,6 +3,7 @@ id: "c059372e-d3a7-42d2-9191-b66a7b272cfd"
 title: "Il Mago Del Gelato"
 type: band
 socials:
+  musicbrainz: "1d8d7f10-32ec-4280-bbf5-ae73b2a61407"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

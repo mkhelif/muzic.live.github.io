@@ -14,9 +14,11 @@ members:
     periods:
       - start: 2009
 socials:
+  musicbrainz: "cbef39ea-0915-448d-abb7-cf616514ab7d"
   facebook: "jahnerationofficial"
   instagram: "jahneration"
   bandsintown: "1411710"
+  songkick: "6928924"
   youtube: "@Jahneration"
   web: "https://www.jahneration.com"
   tidal: "7599364"
@@ -28,6 +30,8 @@ socials:
   apple: "584301907"
   deezer: "4243076"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jahneration est un groupe de reggae français formé en 2008 dans la région parisienne, né de la rencontre de musiciens

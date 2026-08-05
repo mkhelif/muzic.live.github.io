@@ -111,11 +111,13 @@ members:
       - start: 2018
         end: 2024
 socials:
+  musicbrainz: "d8f0f6ac-a0a7-47bd-9786-f9106d7bdd11"
   facebook: "IceNineKills"
   instagram: "iceninekills"
   tiktok: "@iceninekills"
   x: "ICENINEKILLS"
   bandsintown: "1610"
+  songkick: "1235575"
   youtube: "@IceNineKills"
   web: "https://iceninekills.com/"
   email: "info@iceninekills.com"
@@ -127,6 +129,8 @@ socials:
   tidal: "4216917"
 todo:
   - Add picture
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Ice Nine Kills est un groupe de heavy metal américain originaire de Boston, Massachusetts, dont la musique est

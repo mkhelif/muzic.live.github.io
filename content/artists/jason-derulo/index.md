@@ -3,6 +3,7 @@ id: "fc438050-a3ef-4c84-937a-fe8867d8e219"
 title: "Jason Derulo"
 type: person
 socials:
+  musicbrainz: "6de0f914-3e60-4418-be3b-42e0feb6eb4d"
   facebook: "jasonderulo"
   instagram: "jasonderulo"
   tiktok: "@jasonderulo"
@@ -10,6 +11,7 @@ socials:
   threads: "jasonderulo"
   soundcloud: "jasonderulo"
   bandsintown: "308742"
+  songkick: "1055942"
   youtube: "@JasonDerulo"
   web: "https://www.jasonderulo.com/"
   tidal: "3851664"
@@ -18,7 +20,11 @@ socials:
   amazon: ""
   apple: "259118085"
   deezer: "249599"
-  qobuz: ""
+  qobuz: "296908"
+lifespan:
+  start: 1989-09-21
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jason Derulo est un chanteur, danseur et compositeur américain né en Floride en 1989, qui s'est imposé comme l'une des

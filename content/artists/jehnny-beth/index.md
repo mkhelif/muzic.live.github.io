@@ -3,11 +3,13 @@ id: "862b2267-c61c-4d00-857a-c389dd8eabd5"
 title: "Jehnny Beth"
 type: person
 socials:
+  musicbrainz: "fdac609a-63d0-49b9-823a-daec52a0db97"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "7709034"
+  songkick: "7929253"
   youtube: ""
   web: ""
   email: ""
@@ -16,7 +18,11 @@ socials:
   deezer: "5000033"
   qobuz: ""
   spotify: "2WOMBqEsllg2ICn7D2L8ta"
-  tidal: ""
+  tidal: "7395369"
+lifespan:
+  start: 1984-12-24
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jehnny Beth, née Camille Berthomier le 24 décembre 1984, est originaire de Poitiers et vit entre Londres, où elle

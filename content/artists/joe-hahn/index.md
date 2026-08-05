@@ -5,6 +5,7 @@ type: person
 aliases:
   - "Joseph Hahn"
 socials:
+  musicbrainz: "d07bca29-d980-4100-8cad-065a05f2b343"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,4 +19,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lifespan:
+  start: 1977-03-15
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

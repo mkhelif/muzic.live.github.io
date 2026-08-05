@@ -3,6 +3,7 @@ id: "8434148c-1393-4dcd-81f2-92df171dd104"
 title: "Ino Casablanca"
 type: person
 socials:
+  musicbrainz: "2b252c46-81f0-4177-9b0f-7771702b2ef2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,10 @@ socials:
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 2000
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Ino Casablanca est un rappeur et auteur-compositeur français né en Espagne en août 2000, de parents marocains. Il

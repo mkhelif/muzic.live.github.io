@@ -64,6 +64,7 @@ members:
       - start: 2005
         end: 2017
 socials:
+  musicbrainz: "321fdfbb-426b-43f7-8295-fa9aca6348d9"
   facebook: "hollywoodundead"
   instagram: "hollywoodundead"
   tiktok: "@hollywoodundead"
@@ -83,6 +84,8 @@ socials:
   email: ""
 todo:
   - Add picture
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Hollywood Undead est un groupe américain de rap rock et de nu metal originaire de Los Angeles, formé en 2005. Reconnaissable

@@ -2,7 +2,12 @@
 id: "9434fb15-2dcf-49be-8dda-d885198f24cb"
 title: "Itchy"
 type: band
+members:
+  - id: "6c79c204-3bbc-48ca-851f-1a9ab830436d"
+    roles:
+      - other
 socials:
+  musicbrainz: "10c4141d-7169-4796-9b39-faa2eb5710a6"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,14 +17,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "82420310"
+  deezer: "13359"
+  qobuz: "916662"
   spotify: "42pWilgI9MEZARoTtGHNR4"
-  tidal: ""
+  tidal: "5949659"
 todo:
   - Add picture
   - Verify and add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Itchy est un groupe allemand de punk rock formé en 2001 à Eislingen an der Fils, à l'origine sous forme de groupe

@@ -2,6 +2,7 @@
 id: "f56727de-2fb1-4e8e-b0a8-de110911f77a"
 title: "Jim Younger's Spirit"
 socials:
+  musicbrainz: "8d3db3bc-cf88-4806-a3c6-4acfd92b8b60"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,4 +21,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
