@@ -42,8 +42,11 @@ free-text ``disambiguation``.
 Run from the repository root::
 
     python3 snippets/musicbrainz.py
+    python3 snippets/musicbrainz.py --refresh-members --dry-run
+    python3 snippets/musicbrainz.py --refresh-members --limit 20
 """
 
+import argparse
 import csv
 import re
 import sys
@@ -72,6 +75,12 @@ REQUEST_JITTER = 0.2    # extra random 0..JITTER seconds per request
 
 # Process at most this many artists (0 = no limit). Handy for a first test run.
 LIMIT = 0
+
+# Rewrite the `members:` block of bands that already have one, instead of only
+# filling bands that have none. Use it after changing instrument_roles.csv or
+# ROLE_ORDER, so existing rosters pick up the new mapping. Set by
+# --refresh-members; see the caveats in that flag's help.
+REFRESH_MEMBERS = False
 
 # Front-matter key (under `lastUpdate`) recording when we last refreshed an
 # artist from MusicBrainz. fill_musicbrainz.py uses a separate key for its
@@ -397,10 +406,18 @@ def extract_members(relations):
     return [m for m in members if m["current"]] + [m for m in members if not m["current"]]
 
 
-def render_members(members, ids):
+def render_members(members, ids, extras=None):
+    """Render the ``members:`` block.
+
+    ``extras`` maps a member id to raw front-matter lines to re-emit for that
+    member — used by --refresh-members to carry hand-added keys (``touring``,
+    for instance) across a rewrite, since MusicBrainz cannot reproduce them."""
+    extras = extras or {}
     lines = ["members:"]
     for member in members:
-        lines.append(f'  - id: "{ids[member["name"]]}"')
+        member_id = ids[member["name"]]
+        lines.append(f'  - id: "{member_id}"')
+        lines.extend(extras.get(member_id, []))
         lines.append("    roles:")
         for role in member["roles"]:
             lines.append(f"      - {role}")
@@ -411,6 +428,53 @@ def render_members(members, ids):
                 if period["end"] is not None:
                     lines.append(f"        end: {period['end']}")
     return "\n".join(lines) + "\n"
+
+
+# The whole `members:` block: the key plus every indented (or blank) line under
+# it, up to the next top-level front-matter key.
+MEMBERS_BLOCK = re.compile(r"^members:[ \t]*\n(?:[ \t]+[^\n]*\n)*", re.MULTILINE)
+
+# Keys render_members() produces by itself; anything else under a member entry
+# was added by hand and must survive a refresh.
+GENERATED_MEMBER_KEYS = {"id", "roles", "periods"}
+
+
+def existing_member_extras(text):
+    """Return ``{member id: [raw lines]}`` for hand-added keys in the current
+    ``members:`` block, so --refresh-members doesn't silently delete them."""
+    try:
+        members = frontmatter.loads(text).get("members") or []
+    except Exception:
+        return {}
+    if not isinstance(members, list):
+        return {}
+
+    extras = {}
+    for member in members:
+        if not isinstance(member, dict):
+            continue
+        member_id = str(member.get("id") or "")
+        custom = [k for k in member if k not in GENERATED_MEMBER_KEYS]
+        if not member_id or not custom:
+            continue
+        lines = []
+        for key in custom:
+            value = member[key]
+            if isinstance(value, bool):
+                value = "true" if value else "false"
+            elif isinstance(value, str):
+                value = f'"{utils.yaml_quote(value)}"'
+            lines.append(f"    {key}: {value}")
+        extras[member_id] = lines
+    return extras
+
+
+def replace_members(text, block):
+    """Swap the existing ``members:`` block for ``block``. Returns None when
+    there is no block to replace."""
+    if not MEMBERS_BLOCK.search(text):
+        return None
+    return MEMBERS_BLOCK.sub(lambda _: block, text, count=1)
 
 
 # ---------------------------------------------------------------------------
@@ -612,7 +676,11 @@ def load_candidates():
             continue
 
         needs_social = {p for p in SOCIAL_PATTERNS if not socials.get(p)}
-        needs_members = artist_type == "band" and not has_members_block(text)
+        # Normally only bands *without* a roster are candidates. With
+        # --refresh-members, bands that already have one are reconsidered so
+        # their roles can be recomputed.
+        needs_members = artist_type == "band" and (
+            REFRESH_MEMBERS or not has_members_block(text))
         needs_dates = artist_type == "person" and not has_lifespan_block(text)
 
         if not needs_social and not needs_members and not needs_dates:
@@ -669,11 +737,32 @@ def process_artist(file, title, artist_type, mbid, needs_social, needs_members, 
                 ids[member["name"]] = person_id
                 if created:
                     created_names.append(member["name"])
-            new_text = insert_members(text, render_members(members, ids))
+
+            refreshing = has_members_block(text)
+            if refreshing:
+                # Carry hand-added per-member keys across the rewrite, and warn
+                # about members the fiche has that MusicBrainz doesn't know:
+                # they are about to disappear.
+                extras = existing_member_extras(text)
+                known = set(ids.values())
+                current = {
+                    str(m.get("id")) for m in (frontmatter.loads(text).get("members") or [])
+                    if isinstance(m, dict) and m.get("id")
+                }
+                lost = current - known
+                block = render_members(members, ids, extras)
+                new_text = replace_members(text, block)
+                note = f", {len(lost)} dropped" if lost else ""
+                note += f", {len(extras)} kept custom" if extras else ""
+            else:
+                new_text = insert_members(text, render_members(members, ids))
+                note = ""
+
             if new_text:
                 text = new_text
                 suffix = f", created {len(created_names)} fiches" if created_names else ""
-                changes.append(f"members={len(members)}{suffix}")
+                verb = "members~" if refreshing else "members="
+                changes.append(f"{verb}{len(members)}{suffix}{note}")
 
     if needs_dates:
         span = data.get("life-span") or {}
@@ -711,7 +800,36 @@ def process_artist(file, title, artist_type, mbid, needs_social, needs_members, 
 # Entry point
 # ---------------------------------------------------------------------------
 
-def main():
+def parse_args(argv=None):
+    parser = argparse.ArgumentParser(
+        description="Refresh artist data from MusicBrainz using the stored id.")
+    parser.add_argument(
+        "--refresh-members", action="store_true",
+        help="Also rewrite the `members:` block of bands that already have "
+             "one, so they pick up a changed instrument_roles.csv / ROLE_ORDER. "
+             "The roster is re-derived from MusicBrainz: hand-added per-member "
+             "keys (e.g. `touring`) are carried over, but members MusicBrainz "
+             "does not list are dropped — the count is reported per band. "
+             "Try it with --dry-run first.")
+    parser.add_argument(
+        "--dry-run", action="store_true",
+        help="Report the changes without writing anything.")
+    parser.add_argument(
+        "--limit", type=int, default=None,
+        help="Process at most N artists.")
+    return parser.parse_args(argv)
+
+
+def main(argv=None):
+    global DRY_RUN, LIMIT, REFRESH_MEMBERS
+
+    args = parse_args(argv)
+    REFRESH_MEMBERS = args.refresh_members
+    if args.dry_run:
+        DRY_RUN = True
+    if args.limit is not None:
+        LIMIT = args.limit
+
     try:
         sys.stdout.reconfigure(line_buffering=True)
     except Exception:
@@ -732,7 +850,8 @@ def main():
         f"(no musicbrainz id — run fill_musicbrainz.py: {skipped_no_id}, "
         f"nothing missing: {skipped_complete}, "
         f"refreshed within the last month: {skipped_fresh}). "
-        f"Mode: {'DRY-RUN' if DRY_RUN else 'WRITE'}. "
+        f"Mode: {'DRY-RUN' if DRY_RUN else 'WRITE'}"
+        f"{', REFRESHING existing members' if REFRESH_MEMBERS else ''}. "
         f"1 request per artist (~{eta:.1f}h). "
         f"Interrupting is safe: progress is recorded per artist."
     )
