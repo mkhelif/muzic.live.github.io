@@ -2,7 +2,30 @@
 id: "f0146f86-7063-4597-8775-863020c06eef"
 title: "La P'tite Fumée"
 type: band
+members:
+  - id: "81c34a3c-c381-47d2-893f-85d64e2ba772"
+    roles:
+      - drums
+      - other
+    periods:
+      - start: 2014
+  - id: "4f36fbe9-5de4-4f04-9fcb-3800dc569502"
+    roles:
+      - bass
+    periods:
+      - start: 2014
+  - id: "8b152aa2-9e48-471e-a6ed-92253f90c84e"
+    roles:
+      - guitar
+    periods:
+      - start: 2014
+  - id: "f630500f-696b-467c-bb10-741d2480528d"
+    roles:
+      - drums
+    periods:
+      - start: 2014
 socials:
+  musicbrainz: "36b1c921-3681-460f-8fb9-ecaf36cba347"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -19,6 +42,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 La P'tite Fumée est un groupe français de musique électronique originaire de Biert, dans l'Ariège, formé en 2013.

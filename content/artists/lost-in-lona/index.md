@@ -16,6 +16,7 @@ members:
     periods:
       - start: 2022
 socials:
+  musicbrainz: "cc8e2187-7f21-418d-9582-0826b77758a0"
   instagram: "lost_in_lona"
   tiktok: "@lost.in.lona"
   bandcamp: "lostinlona"
@@ -31,6 +32,8 @@ socials:
   apple: "1598920828"
   deezer: "153552532"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Lost in Lona est un duo formé par la rencontre artistique de deux musiciens originaires de Bâle et Zurich, deux des

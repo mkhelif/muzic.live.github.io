@@ -2,12 +2,23 @@
 id: "e166df0f-cd75-4499-ad14-6f76902eba06"
 title: "Maustetytöt"
 type: band
+members:
+  - id: "511d15ce-fa27-4125-a2a0-d3782a42f90a"
+    roles:
+      - sing
+      - guitar
+  - id: "d3120552-65f9-4de4-bb61-42d4ea1ebd89"
+    roles:
+      - sing
+      - keys
 socials:
+  musicbrainz: "d3e47480-36ff-4135-b6ad-dc1a60205c1a"
   facebook: "maustetytot"
   instagram: "maustetytot_yhtye"
   tiktok: ""
   x: ""
   bandsintown: "15540275"
+  songkick: "9682454"
   youtube: ""
   web: "https://www.maustetytot.fi/"
   email: "aki@lordag.fi"
@@ -16,7 +27,9 @@ socials:
   deezer: "58122232"
   qobuz: ""
   spotify: "7JHNSkrbx2b0w8psFeVE4I"
-  tidal: ""
+  tidal: "10889732"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Maustetytöt (« les filles aux épices » en finnois) est un duo pop finlandais formé en 2017 par les sœurs **Anna

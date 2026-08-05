@@ -2,12 +2,14 @@
 id: "dd151435-22ab-42f5-9264-4cd3ef200622"
 title: "Livløs"
 socials:
+  musicbrainz: "8b155db3-a575-4a23-be15-72e33870caf7"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
   bandsintown: "13073772"
+  songkick: "8896459"
   youtube: ""
   web: ""
   email: ""
@@ -15,11 +17,13 @@ socials:
   apple: "1093777807"
   deezer: "10059816"
   qobuz: ""
-  spotify: ""
+  spotify: "3upLnjEfkXlcb8IddTLQUA"
   tidal: ""
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Livløs est un groupe danois de melodic death metal originaire d'Aarhus, formé en 2014. Son nom, qui signifie

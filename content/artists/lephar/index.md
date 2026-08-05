@@ -3,6 +3,7 @@ id: "e2a3c329-a42b-4b8c-92a8-972320505b24"
 title: "LePhar"
 type: unknown
 socials:
+  musicbrainz: "3b15cc80-a3a4-44b5-8440-ea28aaa554ad"
   instagram: "lephar__"
   threads: "@lephar__"
   youtube: "@lepharmusic"
@@ -17,6 +18,8 @@ socials:
   apple: "1463652292"
   deezer: "65553172"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Figure de la scène nocturne helvétique, LePhar a longtemps jonglé entre différents registres avant de trouver sa voie.

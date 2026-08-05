@@ -3,6 +3,7 @@ id: "1e37ccb0-ea56-4a9d-9ecd-73ac5621c09f"
 title: "Liam Kazar"
 type: person
 socials:
+  musicbrainz: "db22efed-4119-4eb5-97a4-414e47820d9e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,9 +17,11 @@ socials:
   deezer: "63142802"
   qobuz: ""
   spotify: "0wovYvR7eYIDf61MWmxjX9"
-  tidal: ""
+  tidal: "15454824"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

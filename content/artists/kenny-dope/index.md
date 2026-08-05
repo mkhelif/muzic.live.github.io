@@ -2,6 +2,7 @@
 id: "9b4ede0b-c41e-4969-90b6-cfec4285d202"
 title: "Kenny Dope"
 socials:
+  musicbrainz: "77820ed3-78b0-41a1-bbce-6b8482ebfe67"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,9 +17,11 @@ socials:
   deezer: ""
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "3932141"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -16,6 +16,8 @@ socials:
   apple: "1497226320"
   deezer: "84774842"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Lou Beurier est une chanteuse, auteure et interprète originaire du Doubs en Franche-Comté, une région plus connue pour

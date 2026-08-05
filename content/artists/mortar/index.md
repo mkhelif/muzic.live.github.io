@@ -2,6 +2,7 @@
 id: "ab5ffbbe-f026-4725-9888-17331553a5b1"
 title: "Mortar"
 socials:
+  musicbrainz: "abfb4784-4740-4d9b-996f-4ee5cfadaacb"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

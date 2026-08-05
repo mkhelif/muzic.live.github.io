@@ -3,6 +3,7 @@ id: "b4f265ff-069c-482a-8d9d-75e2ab578de0"
 title: "Lakna"
 type: person
 socials:
+  musicbrainz: "d838bbf1-4177-4361-bbc3-569d72f83572"
   facebook: "profile.php?id=100055051995283"
   instagram: "itslordlakna"
   tiktok: "@itslordlakna"
@@ -18,6 +19,8 @@ socials:
   apple: "1438349186"
   deezer: "257062802"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Lakna est une rappeuse française qui émerge sur la scène hip-hop hexagonale avec une approche moderne et personnelle du

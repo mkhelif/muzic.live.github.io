@@ -3,6 +3,7 @@ id: "b53f6590-619e-4fd0-8142-9243daf932e5"
 title: "Malcolm Young"
 type: person
 socials:
+  musicbrainz: "ea719716-da05-46f8-bbd5-cc5803db3d0e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,4 +23,9 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1953-01-06
+  end: 2017-11-18
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

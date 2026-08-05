@@ -3,6 +3,7 @@ id: "9b561105-9f20-4203-b4bd-6682bbfbf8ad"
 title: "Marie Jay"
 type: person
 socials:
+  musicbrainz: "3b127b7a-3036-406c-87e7-15cd497a808c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,7 +17,9 @@ socials:
   deezer: "111084372"
   qobuz: ""
   spotify: "3EfWdPE7TccXs99V0WuOZY"
-  tidal: ""
+  tidal: "23105258"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Marie Jay est une autrice-compositrice-interprète suisse originaire de Lausanne, rapidement devenue l'une des figures

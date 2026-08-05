@@ -2,24 +2,28 @@
 id: "4158eadd-115d-4eed-a44d-7ed4b81f53d8"
 title: "Kataklysm"
 socials:
+  musicbrainz: "91d51bc3-bfcc-49f2-b6c4-d6d205d6291b"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
   bandsintown: "3240"
+  songkick: "167509"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "15951546"
   deezer: "5599"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "551518"
+  spotify: "7kozeGeawfP7IEEL6dddrM"
+  tidal: "3648720"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kataklysm est un groupe canadien de death metal originaire de Montréal, formé en septembre 1991. Repéré dès 1992 par

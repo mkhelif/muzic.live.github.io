@@ -3,6 +3,7 @@ id: "57274040-61f1-4ede-93a2-e0c70d4cd8db"
 title: "Nerlov"
 type: person
 socials:
+  musicbrainz: "913d401c-068c-485a-932d-f4a2424023e2"
   facebook: "nerlovamish"
   instagram: "nerlov.nerlov"
   bandsintown: "15534618"
@@ -17,6 +18,8 @@ socials:
   apple: "1181114426"
   deezer: "11539775"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Nerlov, de son vrai nom Florent Vincelot, est un auteur-compositeur-interprète français dont la musique navigue entre

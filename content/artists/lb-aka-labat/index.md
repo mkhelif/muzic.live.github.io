@@ -3,6 +3,7 @@ id: "0be9d867-65e9-4758-984d-2102e85bea5f"
 title: "LB aka Labat"
 type: person
 socials:
+  musicbrainz: "11dceca3-6c90-449b-92d8-ab466ab045bc"
   instagram: "lbakalabat"
   facebook: ""
   tiktok: ""
@@ -17,6 +18,8 @@ socials:
   qobuz: ""
   spotify: "02fHczhlgEBCCjzjsNvJAh"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 LB aka Labat, de son vrai nom **Baptistin Cabalou**, est un DJ et producteur originaire de Strasbourg. Ayant grandi

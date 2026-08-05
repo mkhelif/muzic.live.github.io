@@ -3,6 +3,7 @@ id: "fbfb1f1a-8b4a-4b11-b3e9-2e9f7ffc697a"
 title: "Linlin"
 type: person
 socials:
+  musicbrainz: "db16e4f0-7086-46fe-88a4-f29a802c8bee"
   facebook: ""
   instagram: "linlinradio"
   tiktok: ""
@@ -18,6 +19,8 @@ socials:
   qobuz: ""
   spotify: "1D7nUBd4i2mrVpmLQmHI0n"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Linlin est une artiste parisienne qui glisse entre rap et vibrations électroniques, attirée par les beats

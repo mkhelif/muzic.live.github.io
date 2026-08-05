@@ -2,23 +2,39 @@
 id: "992ef99c-5107-460c-9906-8c8831487ad5"
 title: "Mother's Finest"
 type: band
+members:
+  - id: "e82e6cef-9dea-4bca-afd2-0378a2b437b4"
+    roles:
+      - sing
+    periods:
+      - start: 1970
+  - id: "4b07edfb-f550-4cd2-926c-3693a278009d"
+    roles:
+      - other
+  - id: "90c9568e-fe8d-4230-ab77-634eb811b670"
+    roles:
+      - other
 socials:
+  musicbrainz: "7b38a145-7137-4c61-8d04-89ade521a6fc"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "507745"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "909606"
-  deezer: ""
+  deezer: "11723"
   qobuz: ""
   spotify: "3csSQdDVhJlP3BUOoZ2N2H"
   tidal: ""
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Mother's Finest est un groupe américain de funk rock formé en 1970, connu pour avoir été, dès sa création, un sextet

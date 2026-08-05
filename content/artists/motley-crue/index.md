@@ -83,20 +83,24 @@ members:
       - start: 1999
         end: 2000
 socials:
+  musicbrainz: "26f07661-e115-471d-a930-206f5c89d17c"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "50324"
+  songkick: "109416"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B00137CPYI"
   apple: "284113"
   deezer: "531"
-  qobuz: ""
+  qobuz: "47438"
   spotify: "0cc6vw3VN8YlIcvr1v7tBL"
-  tidal: ""
+  tidal: "3555613"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Mötley Crüe est un groupe de glam metal américain formé en 1981 à Hollywood, Los Angeles, par le bassiste **Nikki

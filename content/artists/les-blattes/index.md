@@ -3,6 +3,7 @@ id: "ebe4cfe3-cad8-4554-8248-5f76e7b819de"
 title: "Les Blattes"
 type: band
 socials:
+  musicbrainz: "d2cc29e9-e538-42d1-bf91-78010bf5da15"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add description
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

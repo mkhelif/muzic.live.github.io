@@ -2,6 +2,7 @@
 id: "d43e13aa-3dc6-4588-88ba-804cd7e0ecb1"
 title: "KABEAUSHÉ"
 socials:
+  musicbrainz: "caf72aaf-b3af-43ae-a2b2-a25a6c0ed532"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,11 +16,13 @@ socials:
   apple: "1615728859"
   deezer: "141548522"
   qobuz: ""
-  spotify: ""
+  spotify: "0NNG4hBbXRp6HQ2EMEkYlj"
   tidal: ""
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kabeaushé est un·e artiste multi-instrumentiste, chanteur·se et producteur·rice originaire de Nairobi, au Kenya,

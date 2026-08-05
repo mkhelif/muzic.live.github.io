@@ -2,12 +2,96 @@
 id: "4a239c69-b1dd-469e-b62a-dbaa266d1a3a"
 title: "Kasabian"
 type: band
+members:
+  - id: "e06c4f5d-5dc5-4b25-85d3-8c17b713942e"
+    roles:
+      - sing
+      - guitar
+      - bass
+      - keys
+    periods:
+      - start: 2017
+      - start: 2004
+        end: 2007
+      - start: 1997
+      - start: 1997
+  - id: "b3d6e1fb-5ec2-44ba-897d-87d9b7936e40"
+    roles:
+      - sing
+      - guitar
+      - bass
+      - drums
+      - keys
+      - other
+    periods:
+      - start: 2020
+      - start: 2006
+        end: 2021
+      - start: 2004
+      - start: 2004
+      - start: 2004
+      - start: 1997
+      - start: 1997
+      - start: 1997
+      - start: 1997
+      - start: 1997
+  - id: "822fdd3d-6f3a-4780-8682-0940509b8e2f"
+    roles:
+      - drums
+    periods:
+      - start: 2005
+      - start: 2005
+  - id: "df239bd3-b0c8-4b8c-94a8-5ddfbf7e9404"
+    roles:
+      - sing
+      - guitar
+      - keys
+    periods:
+      - start: 2021
+      - start: 2021
+      - start: 2021
+  - id: "d007d680-6a7f-4cf9-90fb-dd00e729f255"
+    roles:
+      - guitar
+      - bass
+      - drums
+      - keys
+      - other
+    periods:
+      - start: 1997
+        end: 2004
+      - start: 1997
+        end: 2004
+      - start: 1997
+        end: 2006
+      - start: 1997
+        end: 2006
+      - start: 1997
+        end: 2006
+      - start: 1997
+        end: 2006
+  - id: "575872f1-7ada-4288-b07c-33d909666908"
+    roles:
+      - sing
+      - guitar
+      - drums
+    periods:
+      - start: 1997
+        end: 2020
+      - start: 1997
+        end: 2020
+      - start: 1997
+        end: 2020
+      - start: 1997
+        end: 2020
 socials:
+  musicbrainz: "69b39eab-6577-46a4-a9f5-817839092033"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "740"
+  songkick: "175029"
   youtube: ""
   web: ""
   email: ""
@@ -16,10 +100,12 @@ socials:
   deezer: "1247"
   qobuz: ""
   spotify: "11wRdbnoYqRddKBrpHt4Ue"
-  tidal: ""
+  tidal: "1556"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kasabian est un groupe de rock anglais formé à Leicester en 1997 par le chanteur **Tom Meighan**, le guitariste et

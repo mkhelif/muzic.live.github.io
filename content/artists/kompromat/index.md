@@ -2,17 +2,26 @@
 id: "5c70b949-a385-43d3-8e55-de2dd61dbc8d"
 title: "Kompromat"
 type: band
+members:
+  - id: "33c04cbf-0ed8-4b5d-89ff-89b80c314419"
+    roles:
+      - other
+  - id: "8cd2f026-dec6-4cb1-84b6-7e2c1441b77d"
+    roles:
+      - other
 socials:
+  musicbrainz: "c52e9aa4-5798-47da-94d8-9edb1bea8b82"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "14952143"
+  songkick: "9740059"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1449496350"
   deezer: ""
   qobuz: ""
   spotify: "1QYA7hFYKc0EuhE2MGpjH7"
@@ -20,6 +29,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kompromat est un groupe de musique électronique français formé par Rebeka Warrior, également membre de **Sexy Sushi** et de

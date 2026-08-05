@@ -35,11 +35,13 @@ members:
       - start: 2019
         end: 2023
 socials:
+  musicbrainz: "4eeea7eb-7554-48cb-9e50-c26d434ed9ef"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "15516345"
+  songkick: "10066540"
   youtube: ""
   web: ""
   email: ""
@@ -48,7 +50,9 @@ socials:
   deezer: "114111122"
   qobuz: ""
   spotify: "6VR4TJ20WGiho2xZWMuuWb"
-  tidal: ""
+  tidal: "22274325"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Lambrini Girls est un groupe de punk rock anglais formé à Brighton, composé aujourd'hui de **Phoebe Lunny** et **Selin Macieira-Boşgelmez**. À l'origine, le groupe réunissait la chanteuse **Flora Kimberly**, la guitariste et choriste **Phoebe Lunny**, la bassiste **Fox O'Reilly** et la batteuse **Catt Jack**, avant de se produire pour la première fois en mai 2019.

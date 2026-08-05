@@ -3,6 +3,7 @@ id: "98532893-3411-4e8a-9c5e-3ef0a5f9bc5b"
 title: "LUIZA"
 type: person
 socials:
+  musicbrainz: "4fbe2c5f-03c8-4ec0-af85-9558746a4c38"
   facebook: "LUIZAMUSICOFFICIAL"
   instagram: "luizamusic__"
   tiktok: "@luizamusic__"
@@ -16,10 +17,14 @@ socials:
   deezer: "108463102"
   qobuz: ""
   spotify: "3K5sYlHk7RZimjYhUWej8D"
-  tidal: ""
+  tidal: "48709525"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1995-03-04
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Luiza Fernandes Viana, connue sous le nom de Luiza, est une chanteuse née à Rennes en 1995, d'une mère brésilienne

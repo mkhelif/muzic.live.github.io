@@ -3,11 +3,13 @@ id: "69be5491-4296-4b53-9ace-e6bd316c5821"
 title: "Lakecia Benjamin"
 type: person
 socials:
+  musicbrainz: "9cc3954e-6587-4985-9ace-44d2f0baf917"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "2775553"
+  songkick: "2363300"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +22,10 @@ socials:
 todo:
   - Verify social networks
   - Add logo cover
+lifespan:
+  start: 1982-10-26
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Lakecia Benjamin est une saxophoniste alto, compositrice, arrangeuse et pédagogue américaine, née et élevée à New York,

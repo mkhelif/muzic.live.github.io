@@ -3,11 +3,13 @@ id: "2673a00b-94ae-4191-9b76-5b8ed2b44b74"
 title: "Keny Arkana"
 type: person
 socials:
+  musicbrainz: "f97c4058-cc2b-43da-97e5-96bef7e55f40"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "12729"
+  songkick: "144824"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +22,10 @@ socials:
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1982-12-20
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Keny Arkana est une rappeuse française née le 20 décembre 1982 à Boulogne-Billancourt et qui a grandi à Marseille, où

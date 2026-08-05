@@ -116,20 +116,24 @@ members:
       - start: 2003
         end: 2008
 socials:
+  musicbrainz: "172e1f1a-504d-4488-b053-6344ba63e6d0"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "5433"
+  songkick: "267727"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001E7497I"
   apple: "1698460"
   deezer: "1581"
-  qobuz: ""
+  qobuz: "37035"
   spotify: "4UXJsSlnKd7ltsrHebV79Q"
-  tidal: ""
+  tidal: "9003"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Nick Cave & The Bad Seeds est un groupe de rock australo-britannique formé en 1983 à Londres par le chanteur et

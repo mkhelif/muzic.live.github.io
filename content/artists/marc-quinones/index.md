@@ -3,6 +3,7 @@ id: "1a84f30f-a9cc-4282-9acd-db983ecc23de"
 title: "Marc Quiñones"
 type: person
 socials:
+  musicbrainz: "d4a305a5-9d06-4ab3-9200-6294f3ab4d66"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,4 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lifespan:
+  start: 1971-06-03
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

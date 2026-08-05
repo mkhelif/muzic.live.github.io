@@ -3,6 +3,7 @@ id: "61670524-d583-4319-94ac-f07d4ba1e92e"
 title: "Joseph Léon"
 type: unknown
 socials:
+  musicbrainz: "50f648d5-9e2d-4d37-8fb9-07c506c37e76"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

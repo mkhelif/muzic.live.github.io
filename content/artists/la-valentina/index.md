@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 La Valentina est une artiste colombienne installée à Paris, dont l'univers musical se construit à la croisée des langues

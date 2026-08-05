@@ -3,20 +3,26 @@ id: "6a5cfeb2-586f-4df0-b1b9-0264d060d792"
 title: "Martin Garrix"
 type: person
 socials:
+  musicbrainz: "3e1f2ee4-16be-4406-bf18-6173840cf2b1"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "3386497"
+  songkick: "5003643"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B004VJJSHW"
   apple: "430932944"
   deezer: "3968561"
-  qobuz: ""
+  qobuz: "974660"
   spotify: "60d24wfXkVzDSfLS6hyCjZ"
   tidal: ""
+lifespan:
+  start: 1996-05-15
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Martin Garrix, de son vrai nom Martijn Gerard Garritsen, est un DJ et producteur néerlandais né le 14 mai 1996 à

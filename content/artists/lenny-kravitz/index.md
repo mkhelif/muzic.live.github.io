@@ -3,20 +3,26 @@ id: "7859f4f7-78df-485d-b2d6-e1cffecac9de"
 title: "Lenny Kravitz"
 type: person
 socials:
+  musicbrainz: "0ef3f425-9bd2-4216-9dd2-219d2fe90f1f"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "1505"
+  songkick: "136159"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001E2Y6PI"
   apple: "160410"
   deezer: "189"
-  qobuz: ""
+  qobuz: "38318"
   spotify: "5gznATMVO85ZcLTkE9ULU7"
-  tidal: ""
+  tidal: "10926"
+lifespan:
+  start: 1964-05-26
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Lenny Kravitz, né le 26 mai 1964 à New York, est un musicien américain célébré pour sa capacité à fusionner rock,

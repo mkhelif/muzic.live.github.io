@@ -3,11 +3,13 @@ id: "1edfd1e2-f086-445d-ae0c-ab44359a5749"
 title: "Michel Polnareff"
 type: person
 socials:
+  musicbrainz: "90330a83-5547-491e-b83c-d10858e6073f"
   instagram: "michelpolnareff"
   x: "MICHELPOLNAREFF"
   facebook: ""
   tiktok: ""
   bandsintown: "60639"
+  songkick: "437638"
   youtube: ""
   web: ""
   email: ""
@@ -16,7 +18,11 @@ socials:
   deezer: "1803"
   qobuz: ""
   spotify: "7aKldvGENbL4bj8TCWHuhT"
-  tidal: ""
+  tidal: "3672683"
+lifespan:
+  start: 1944-07-03
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Michel Polnareff est un auteur-compositeur-interprète français né le 3 juillet 1944 à Nérac, dans le Lot-et-Garonne.

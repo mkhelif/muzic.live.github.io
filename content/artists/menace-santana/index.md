@@ -3,6 +3,7 @@ id: "6ac29a64-1058-412c-be10-5da40b3ae0ec"
 title: "Menace Santana"
 type: person
 socials:
+  musicbrainz: "0a8d3e94-ff62-446e-86f5-19d2a5f5dfb1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -3,6 +3,7 @@ id: "d77ce6f2-bc08-458b-a459-a2a3bff72ed7"
 title: "Léman"
 type: person
 socials:
+  musicbrainz: "3a6e8e8e-7ced-4f7c-bdf2-eccc05daed5e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,10 +14,14 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "90662"
   qobuz: ""
   spotify: "2EnOL1ADehfBQB03ELa3QQ"
   tidal: ""
+lifespan:
+  start: 1993-04-27
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Léman est un artiste français qui mêle l'énergie brute du rock à l'élégance de la pop, porté par des textes engagés et

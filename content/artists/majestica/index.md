@@ -34,23 +34,27 @@ members:
       - start: 2012
         end: 2021
 socials:
+  musicbrainz: "1d7c1c75-021c-48b5-bbd4-52d8d51d542a"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "15486133"
+  songkick: "10152033"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "504924029"
+  deezer: "4917926"
   qobuz: ""
   spotify: "52lkxAYfC9ypaPJ2EB22ki"
-  tidal: ""
+  tidal: "4989748"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Majestica est un groupe de power metal symphonique suédois originaire de Boden, fondé en 2000 par le chanteur et

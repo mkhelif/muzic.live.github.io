@@ -2,21 +2,61 @@
 id: "90d8ce1b-4cd3-40c8-ad75-ff870670e516"
 title: "Maximo Park"
 type: band
+members:
+  - id: "735c96c0-a329-4fe5-aa68-63baf1d21407"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2001
+      - start: 2001
+      - start: 2000
+  - id: "77f173a9-cd37-4402-80f8-d302242edc88"
+    roles:
+      - sing
+    periods:
+      - start: 2000
+  - id: "88f10f12-2fd7-4be3-abc0-55c7c6e1600b"
+    roles:
+      - other
+    periods:
+      - start: 2000
+  - id: "8f002f43-acac-4ede-b642-d69f6ed38cb9"
+    roles:
+      - sing
+      - keys
+    periods:
+      - start: 2000
+  - id: "b1c5895b-4cec-40e3-970f-904e49a71cfb"
+    roles:
+      - bass
+    periods:
+      - start: 2012
+  - id: "2f5c1bec-2946-4e7e-8c09-87e526130399"
+    roles:
+      - bass
+    periods:
+      - start: 2000
+        end: 2014
 socials:
+  musicbrainz: "92e634a7-6023-4be8-be15-ebba822f5b34"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "50422"
+  songkick: "419040"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B00E6JP2MC"
   apple: "39949413"
   deezer: "1946"
   qobuz: ""
   spotify: "048FBwXjFYBWxSggPDipic"
-  tidal: ""
+  tidal: "3531038"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Maxïmo Park est un groupe de rock alternatif anglais formé en 2000 à Newcastle upon Tyne. À l'origine, le guitariste

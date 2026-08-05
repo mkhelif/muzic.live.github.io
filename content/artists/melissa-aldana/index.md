@@ -3,23 +3,29 @@ id: "f69e6931-0b25-4c9c-a68a-1518c60790e4"
 title: "Melissa Aldana"
 type: person
 socials:
+  musicbrainz: "faa21ccf-f0d3-4a84-95d4-ae596aa40744"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "985873"
+  songkick: "6813869"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "400354738"
-  deezer: ""
+  deezer: "427417"
   qobuz: ""
   spotify: "56qrzp61GEif1i0UjqkHrz"
   tidal: ""
 todo:
   - Verify social networks
   - Add logo cover
+lifespan:
+  start: 1988-12-03
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Melissa Aldana est une saxophoniste ténor chilienne née à Santiago, reconnue comme l'une des instrumentistes les plus

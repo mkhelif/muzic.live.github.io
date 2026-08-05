@@ -5,20 +5,26 @@ type: person
 aliases:
   - Mika
 socials:
+  musicbrainz: "8a9ac1cb-faae-434e-8d60-b139a3707dfc"
   facebook: "mikasounds"
   instagram: "mikainstagram"
   tiktok: "@mikatiktok"
   x: "mikasounds"
   bandsintown: "657"
+  songkick: "638264"
   youtube: "@MikaSoundsOfficial"
   web: "https://www.yomika.com/"
   tidal: "16926"
   spotify: "5MmVJVhhYKQ86izuGHzJYA"
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "184932871"
+  deezer: "6603"
+  qobuz: "44833"
+lifespan:
+  start: 1983-08-18
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Michael Holbrook Penniman Jr. débarque dans l'univers musical tel un ouragan coloré, imposant instantanément cette

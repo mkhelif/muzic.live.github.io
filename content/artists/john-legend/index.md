@@ -3,12 +3,14 @@ id: "9a2ddcad-8960-426f-afb6-6ece6dd9739b"
 title: "John Legend"
 type: person
 socials:
+  musicbrainz: "75a72702-a5ef-4513-bca5-c5b944903546"
   facebook: "johnlegend"
   instagram: "johnlegend"
   tiktok: "@johnlegend"
   threads: "@johnlegend"
   x: "johnlegend"
   bandsintown: "193"
+  songkick: "421338"
   youtube: "@johnlegend"
   web: "https://johnlegend.com/"
   tidal: "490"
@@ -20,6 +22,10 @@ socials:
   email: ""
 todo:
   - Add picture from concert
+lifespan:
+  start: 1978-12-28
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il existe un club très exclusif dans le monde du spectacle américain. On l'appelle l'**EGOT** — Emmy, Grammy, Oscar,

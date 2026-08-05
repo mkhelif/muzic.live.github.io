@@ -2,6 +2,7 @@
 id: "ebe3e744-1de7-4d49-8ad9-c86fdb64d934"
 title: "Melting Rot"
 socials:
+  musicbrainz: "3a256a7d-09b8-49c0-bd61-7f8b13290e1e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,4 +21,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

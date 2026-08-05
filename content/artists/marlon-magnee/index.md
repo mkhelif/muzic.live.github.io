@@ -3,6 +3,7 @@ id: "60690523-5519-43a1-b5da-75da833e2e8f"
 title: "Marlon Magnée"
 type: person
 socials:
+  musicbrainz: "4abfaa76-c429-42d6-b155-68da3f4f1c2c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

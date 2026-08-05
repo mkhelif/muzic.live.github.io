@@ -18,6 +18,8 @@ socials:
   tidal: ""
 todo:
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Koum est une autrice-compositrice-interprète française nourrie de musique depuis son plus jeune âge. Ses chansons

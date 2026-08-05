@@ -2,6 +2,7 @@
 id: "9a77f01a-23a3-4ad6-a23e-ba69f0c29543"
 title: "Mauro Repetto"
 socials:
+  musicbrainz: "4b1723a4-23ea-46e0-954c-722ba052b987"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

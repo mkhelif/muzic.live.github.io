@@ -41,21 +41,25 @@ members:
       - start: 2014
         end: 2017
 socials:
+  musicbrainz: "8e9ed070-ed81-4c04-9d47-68cf571507cb"
   facebook: "LANDMVRKS"
   instagram: "landmvrks"
   x: "LANDMVRKS"
   threads: "@landmvrks"
   bandsintown: "12428321"
+  songkick: "8966444"
   youtube: "@LANDMVRKS"
   web: "https://www.landmvrks.com/"
   tidal: "7658307"
   spotify: "6G43CiunIxMwb2tQ12vNP6"
   tiktok: ""
   email: ""
-  amazon: ""
+  amazon: "B01CPRVUAY"
   apple: "1091321697"
   deezer: "9985838"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 LANDMVRKS est un groupe de metalcore français originaire de Marseille, formé en 2014 sous le nom de Coldsight par le

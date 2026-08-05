@@ -19,6 +19,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Marguerite Dedeyan, connue sous son seul prénom, s'est révélée au grand public en 2024 grâce à **Star Academy**. Son

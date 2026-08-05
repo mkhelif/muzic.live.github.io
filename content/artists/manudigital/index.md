@@ -3,6 +3,7 @@ id: "51436830-d36e-461d-85f1-b1145fec0cf7"
 title: "Manudigital"
 type: person
 socials:
+  musicbrainz: "e4d4bf5a-e200-4844-9745-d806b58cf827"
   facebook: "manudigital"
   instagram: "manudigital"
   x: "MANUDIGITAL"
@@ -14,9 +15,11 @@ socials:
   spotify: "1EPdzkPNE9fwx1qhN4mUrH"
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "568673459"
+  deezer: "4046318"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Manudigital est un producteur et musicien français spécialisé dans le reggae digital et le dub, basé à Marseille, qui

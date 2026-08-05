@@ -18,6 +18,7 @@ members:
       - start: 2012
         end: 2025
 socials:
+  musicbrainz: "7f1db41b-643b-4a78-8640-ebf34f7d42c2"
   facebook: "thisiskokomo"
   instagram: "thisiskokomo"
   tiktok: "@thisiskokomo"
@@ -28,10 +29,12 @@ socials:
   spotify: "37njHbDvYnaoRWbRwVTdaZ"
   x: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
+  amazon: "B01ASD7MIQ"
+  apple: "1076418680"
+  deezer: "9700354"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Ko Ko Mo incarne l'esprit festif et communicatif de la world music française, ce courant qui, depuis les années 1980,

@@ -3,6 +3,7 @@ id: "534071f2-73bc-4c62-8074-2fecc410a90d"
 title: "Mado"
 type: person
 socials:
+  musicbrainz: "912eb6e5-ce19-46e1-9e77-37f473f3ee69"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Mado est une artiste autodidacte qui écrit, compose et interprète une pop francophone intimiste et viscérale, nourrie de

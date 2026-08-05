@@ -3,11 +3,13 @@ id: "f2dc2b4c-634c-49f2-94f7-ec73a12caae7"
 title: "Marcus Miller"
 type: person
 socials:
+  musicbrainz: "8fbabd07-4b2b-4f4c-add5-680429a8c44a"
   facebook: "MarcusMillerOfficialFanPage"
   instagram: "therealmarcusmiller"
   threads: "@therealmarcusmiller"
   x: "MarcusMiller959"
   bandsintown: "3088"
+  songkick: "26078"
   youtube: "@MarcusMiller1"
   web: "https://www.marcusmiller.com"
   tidal: "3552389"
@@ -15,9 +17,13 @@ socials:
   tiktok: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "23450"
+  deezer: "3705"
   qobuz: ""
+lifespan:
+  start: 1959-06-14
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Marcus Miller transcende le simple statut de bassiste pour s'imposer comme architecte sonore de génie, révolutionnant

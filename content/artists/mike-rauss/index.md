@@ -3,6 +3,7 @@ id: "641783ce-ed40-4d5c-81d5-96349f6d0cb3"
 title: "Mike Rauss"
 type: person
 socials:
+  musicbrainz: "53c21b7b-6ecb-47fe-aa53-d3dc90187a3c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Mike Rauss est un chanteur, guitariste et compositeur basé à Barcelone, dont la vie a été façonnée

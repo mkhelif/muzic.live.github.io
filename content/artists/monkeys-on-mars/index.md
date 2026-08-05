@@ -3,6 +3,7 @@ id: "fd3f59bb-e581-47be-b5a5-1bec5a4b8b55"
 title: "Monkeys on Mars"
 type: band
 socials:
+  musicbrainz: "1a41aa76-2f34-45ca-8e96-dcee162f742d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

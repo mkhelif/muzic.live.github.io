@@ -3,11 +3,13 @@ id: "a1aa46b7-5027-400b-bc25-db9e000934de"
 title: "Maria Schneider"
 type: person
 socials:
+  musicbrainz: "a0eb374d-ce13-4900-b8aa-a25fde420355"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "47248"
+  songkick: "472026"
   youtube: ""
   web: ""
   email: ""
@@ -16,10 +18,14 @@ socials:
   deezer: "483372"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "50535252"
 todo:
   - Verify social networks
   - Add logo cover
+lifespan:
+  start: 1960-11-27
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Maria Schneider, née le 27 novembre 1960 à Windom dans le Minnesota, est une compositrice et cheffe d'orchestre de jazz

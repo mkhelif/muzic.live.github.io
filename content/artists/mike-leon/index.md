@@ -8,4 +8,6 @@ socials:
   threads: ""
   bandsintown: "4994383"
   youtube: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -3,11 +3,13 @@ id: "1b7f4d95-4a7e-4b49-abf8-a2972bc16a4a"
 title: "Miossec"
 type: person
 socials:
+  musicbrainz: "b44299ef-1399-48a4-832d-899b49c1455d"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "63796"
+  songkick: "451008"
   youtube: ""
   web: ""
   email: ""
@@ -16,7 +18,11 @@ socials:
   deezer: "1420"
   qobuz: ""
   spotify: "0wf6vuNqTvdRGrmpsPu2kW"
-  tidal: ""
+  tidal: "3580697"
+lifespan:
+  start: 1964-12-24
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Christophe Miossec, connu sous son seul nom de famille, Miossec, est un chanteur et auteur-compositeur français né le

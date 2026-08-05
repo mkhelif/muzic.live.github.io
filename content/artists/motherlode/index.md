@@ -2,7 +2,18 @@
 id: "0db79235-b68d-47ef-817f-0feb211ea3d0"
 title: "Motherlode"
 type: band
+members:
+  - id: "256651cc-80e4-4c34-b38d-2db7f5ed57f8"
+    roles:
+      - other
+    periods:
+      - start: 1970
+        end: 1970
+  - id: "b65ff095-0fda-49d1-a124-8073eb8bd13b"
+    roles:
+      - drums
 socials:
+  musicbrainz: "737144eb-4a89-4540-9c06-98e38d4d9f03"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +31,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Motherlode est un collectif de rap et trap originaire du sud de la France, réunissant les rappeurs CHAVI, GAL, LEDOUBLE,

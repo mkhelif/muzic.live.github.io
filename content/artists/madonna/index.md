@@ -3,23 +3,29 @@ id: "3ae36316-c909-43cd-b5dc-78c9abcc3684"
 title: "Madonna"
 type: person
 socials:
+  musicbrainz: "79239441-bfd5-4981-a70c-55c3f15c1287"
   facebook: ""
   instagram: "madonna"
   x: ""
   bandsintown: "205"
+  songkick: "363507"
   youtube: ""
   web: "https://www.madonna.com"
   spotify: "6tbjWDEIzxoDsBA1FuhfPW"
   tiktok: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B001Q5CK1K"
+  apple: "20044"
   deezer: ""
-  qobuz: ""
-  tidal: ""
+  qobuz: "38897"
+  tidal: "15545"
 todo:
   - Verify social networks
   - Add logo cover
+lifespan:
+  start: 1958-08-16
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Madonna est une autrice-compositrice-interprète, danseuse et productrice américaine née le 16 août 1958 à Bay City,

@@ -2,6 +2,7 @@
 id: "e226b083-1b52-46ec-8f04-e7d362855f57"
 title: "Luís Severo"
 socials:
+  musicbrainz: "3954856f-e891-4c7a-9acf-52d975ba44bd"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

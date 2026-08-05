@@ -3,6 +3,7 @@ id: "81e9737a-a75d-41dc-b608-203e6e3f795b"
 title: "Julien Lieb"
 type: person
 socials:
+  musicbrainz: "49a46894-dcd0-4500-8749-f0a9c6ebedd4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,10 +17,12 @@ socials:
   deezer: "266834372"
   qobuz: ""
   spotify: "0rQDrh9l7FTDm7cywWpW8i"
-  tidal: ""
+  tidal: "47980213"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Julien Lieb est un chanteur français né en 1999 à Pau, dans les Pyrénées-Atlantiques. Sa mère, passionnée de

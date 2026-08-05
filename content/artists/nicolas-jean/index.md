@@ -3,6 +3,7 @@ id: "2b2bdbae-f963-4f0b-b4ab-fd20ceb86a16"
 title: "Nicolas Jean"
 type: person
 socials:
+  musicbrainz: "e89b4129-6ff4-4ccf-8ec9-392179e13f1d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,4 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

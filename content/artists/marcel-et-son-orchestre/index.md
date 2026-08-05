@@ -3,6 +3,7 @@ id: "abf25b09-9daf-49b4-8943-b1390f8abecf"
 title: "Marcel et son Orchestre"
 type: band
 socials:
+  musicbrainz: "3ca4c7e4-9231-4209-a80b-68d6b4264f80"
   facebook: "marceletsonorchestre"
   instagram: "marceletsonorchestre_officiel"
   bandsintown: "19948"
@@ -17,6 +18,8 @@ socials:
   apple: "203086950"
   deezer: "1751"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Marcel et son Orchestre est un groupe de rock festif français, originaire de Boulogne-sur-Mer, dans le

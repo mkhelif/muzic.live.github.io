@@ -3,9 +3,11 @@ id: "c26eedfe-d090-4790-8010-8cd8f6332d75"
 title: "Murray Head"
 type: person
 socials:
+  musicbrainz: "071ab0f1-ac3f-48f6-9ee6-11b72eb73e57"
   facebook: "Murray-Head-Officiel-232219714044"
   instagram: "murrayheadmusic"
   bandsintown: "339587"
+  songkick: "170860"
   youtube: "@murrayhead4838"
   web: "https://www.murrayhead.online"
   tidal: "55703"
@@ -17,6 +19,10 @@ socials:
   apple: "56367"
   deezer: "1383"
   qobuz: ""
+lifespan:
+  start: 1946-03-05
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Murray Head incarne le profil de l'artiste transnational, britannique de naissance mais profondément lié à la France où

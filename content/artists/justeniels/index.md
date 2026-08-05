@@ -3,6 +3,7 @@ id: "7a1dd7a6-2941-4876-94e3-10471a9e5df8"
 title: "JusteNiels"
 type: person
 socials:
+  musicbrainz: "7cd58863-b17c-4b69-82fd-274e9d96fd29"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 JusteNiels est un auteur-compositeur et chanteur français qui, à seulement 24 ans, s'impose comme l'une des voix les

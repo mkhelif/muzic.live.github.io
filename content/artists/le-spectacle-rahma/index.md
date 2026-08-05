@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Le Spectacle RAHMA est la tournée conçue par **Zamdane** autour de son troisième album studio Rahma, paru en

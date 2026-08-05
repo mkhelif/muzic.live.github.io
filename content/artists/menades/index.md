@@ -18,6 +18,8 @@ socials:
   apple: "1368550356"
   deezer: ""
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Ménades émerge sur la scène punk parisienne avec une fureur et une détermination qui tranchent immédiatement avec la

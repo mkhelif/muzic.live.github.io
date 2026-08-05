@@ -3,6 +3,7 @@ id: "476449c1-aac8-434e-8c50-a6fdb3c9e873"
 title: "Le Pop"
 type: unknown
 socials:
+  musicbrainz: "78aa82fe-035a-4bc1-b854-13e7013b98be"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

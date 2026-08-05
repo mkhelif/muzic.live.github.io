@@ -8,18 +8,21 @@ socials:
   threads: ""
   x: ""
   bandsintown: "302058"
+  songkick: "935061"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "281737393"
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "7r9FLm0Rxp8u9tfSZhFxtL"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "cd261e77-63b3-4cc1-b901-ebb97a56e89f"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

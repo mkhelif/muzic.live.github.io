@@ -72,9 +72,11 @@ members:
       - start: 1993
         end: 1999
 socials:
+  musicbrainz: "38a35139-7ef9-44e1-a565-e1018b4a7635"
   facebook: "masshysteriaofficiel"
   instagram: "masshysteria_official"
   bandsintown: "38345"
+  songkick: "28532"
   youtube: "@masshysteria_official"
   web: "https://masshysteriaofficial.bigcartel.com/"
   tidal: "6023"
@@ -83,9 +85,11 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "13816835"
+  deezer: "3047"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Mass Hysteria débarque sur la scène metal française comme une déflagration sonore, imposant d'emblée ce son lourd et

@@ -3,6 +3,7 @@ id: "7b2b7f35-2232-42cd-a75f-ca9a24050923"
 title: "Luminati Suns"
 type: band
 socials:
+  musicbrainz: "5f4d158d-afad-4c12-9e1f-37379c0ca85b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +17,13 @@ socials:
   deezer: "200898707"
   qobuz: ""
   spotify: "3L3LFvtOjqaNkOvZDIFnW0"
-  tidal: ""
+  tidal: "37263696"
 cover: ""
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Luminati Suns est un groupe familial réunissant trois frères, Giorgio, Luigi et Romeo, qui jouent ensemble depuis

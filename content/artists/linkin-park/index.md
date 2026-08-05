@@ -46,21 +46,25 @@ members:
     periods:
       - start: 2024
 socials:
+  musicbrainz: "f59c5520-5f46-4d2c-b2c4-822eabf53419"
   facebook: "linkinpark"
   instagram: "linkinpark"
   tiktok: "@linkinpark"
   threads: "@linkinpark"
   x: "linkinpark"
   bandsintown: "32"
+  songkick: "96404"
   youtube: "@linkinpark"
   web: "https://www.linkinpark.com"
   tidal: "14123"
   spotify: "6XyY86QOPPrYVGvF9ch6wz"
   email: ""
-  amazon: ""
+  amazon: "B000VK762Y"
   apple: "148662"
   deezer: "92"
-  qobuz: ""
+  qobuz: "308709"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Linkin Park est un groupe américain formé en 1996 à Los Angeles, qui a révolutionné le rock moderne en fusionnant metal

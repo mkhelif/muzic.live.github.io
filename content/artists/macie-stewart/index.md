@@ -3,6 +3,7 @@ id: "aab89568-93ec-4fab-add1-392ff5e6edec"
 title: "Macie Stewart"
 type: person
 socials:
+  musicbrainz: "c10c4dbe-0680-4a2a-ae37-c3010b44c99a"
   facebook: "Maciestewartmusic"
   instagram: "maciestewart"
   threads: "@maciestewart"
@@ -18,6 +19,10 @@ socials:
   apple: "924860083"
   deezer: "6791197"
   qobuz: ""
+lifespan:
+  start: 1993-03-11
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Macie Stewart est une multi-instrumentiste, compositrice, autrice-compositrice et improvisatrice basée à Chicago, dans

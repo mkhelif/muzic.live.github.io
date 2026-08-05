@@ -2,6 +2,7 @@
 id: "d9ba1310-f1a9-4005-8e31-6e016c97ec65"
 title: "Mr.82"
 socials:
+  musicbrainz: "340a671e-78c2-48d3-b6fb-fd22f01a1504"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +12,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1510119923"
+  deezer: "56458782"
   qobuz: ""
-  spotify: ""
+  spotify: "6s0zcIGMdAVlrfiW6kfsv4"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

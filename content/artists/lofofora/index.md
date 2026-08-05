@@ -60,10 +60,12 @@ members:
     periods:
       - start: 2009
 socials:
+  musicbrainz: "fd928e9e-f8a8-45cb-b8bc-0daef087546e"
   facebook: "Lofofora"
   instagram: "lofoforaofficiel"
   x: "lofofora_"
   bandsintown: "45233"
+  songkick: "448325"
   youtube: "@lofoforaofficiel"
   web: "https://www.lofofora.com/"
   tidal: "3513934"
@@ -74,6 +76,8 @@ socials:
   apple: "17458047"
   deezer: "930"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Lofofora est un groupe de metal alternatif français formé à Paris en 1989, né dans le contexte de l'émergence du metal

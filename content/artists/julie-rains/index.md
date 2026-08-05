@@ -3,6 +3,7 @@ id: "5d1894e9-a934-4586-9a85-669c48917fd4"
 title: "Julie Rains"
 type: person
 socials:
+  musicbrainz: "fbe1283c-1d44-4f4f-9f32-25b6307b8634"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Julie Rains est une chanteuse, compositrice et multi-instrumentiste belge basée à Bruxelles, dont l'univers musical mêle

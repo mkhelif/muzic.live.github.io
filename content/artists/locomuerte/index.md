@@ -3,6 +3,7 @@ id: "39114567-d279-4117-af6f-8a9e677094cf"
 title: "LocoMuerte"
 type: band
 socials:
+  musicbrainz: "77c2ed07-8fd9-4852-ad91-4aba003b6511"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

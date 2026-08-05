@@ -3,20 +3,26 @@ id: "90965410-25b3-48f6-a7d2-49b2a0b0db92"
 title: "Loyle Carner"
 type: person
 socials:
+  musicbrainz: "09589937-20f0-40f8-a473-b22a0bac9ce5"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "8447527"
+  songkick: "7507524"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "978678884"
-  deezer: ""
+  deezer: "7704646"
   qobuz: ""
   spotify: "4oDjh8wNW5vDHyFRrDYC4k"
-  tidal: ""
+  tidal: "6693596"
+lifespan:
+  start: 1994-10-06
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Loyle Carner, de son vrai nom Benjamin Gerard Coyle-Larner, est un rappeur, auteur-compositeur et artiste de spoken

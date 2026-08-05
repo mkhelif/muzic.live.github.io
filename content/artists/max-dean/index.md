@@ -2,6 +2,7 @@
 id: "d8670df9-ec4b-4d76-9250-85154367538e"
 title: "Max Dean"
 socials:
+  musicbrainz: "94a6d4fa-c2d6-4e53-abe5-bfada0e64168"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,14 +13,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1084738003"
   deezer: "12957267"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "65TLDWbTJxYASqadmNAxvc"
+  tidal: "9219736"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Max Dean est un DJ et producteur britannique originaire de Londres, l'un des noms montants de la

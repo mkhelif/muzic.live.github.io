@@ -3,6 +3,7 @@ id: "95f5ed1a-5129-4025-8607-9e3d0383929e"
 title: "Koen Herfst"
 type: person
 socials:
+  musicbrainz: "20057c28-8bd0-48a7-a3fb-0eeaa61d67e9"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,4 +18,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

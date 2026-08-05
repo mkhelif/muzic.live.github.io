@@ -3,6 +3,7 @@ id: "ca12d822-07f4-48de-9e0b-4a49e14805b1"
 title: "Máté Bodor"
 type: person
 socials:
+  musicbrainz: "bdfd45bc-4616-4aaf-bbb9-0dcc9bb8bf13"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,4 +23,8 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1989-05-13
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

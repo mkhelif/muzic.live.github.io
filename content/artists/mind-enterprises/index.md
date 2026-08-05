@@ -2,21 +2,38 @@
 id: "d36372dc-ffe8-4f5b-939d-7b1f3bb93a63"
 title: "Mind Enterprises"
 type: band
+members:
+  - id: "e59f6fe1-28a6-4cbb-87c1-53df1612ca14"
+    roles:
+      - other
+    periods:
+      - start: 2012
+  - id: "cc709005-99ad-42fe-9b9e-82a5930aa215"
+    roles:
+      - bass
+      - drums
+    periods:
+      - start: 2020
+      - start: 2020
 socials:
+  musicbrainz: "d864fd61-929b-4d8c-a241-3c2eed1b53bb"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "1191576"
+  songkick: "6423349"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "552057922"
   deezer: "3722461"
-  qobuz: ""
+  qobuz: "1148182"
   spotify: "5pN1DJhPFDKso4OtC0QhnB"
-  tidal: ""
+  tidal: "4771638"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Mind Enterprises est un duo italien formé par le producteur turinois Andrea Tirone et le claviériste sicilien Roberto

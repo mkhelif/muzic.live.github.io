@@ -3,20 +3,26 @@ id: "f8ab2dc4-7729-456f-9c87-10675edeb784"
 title: "Ludovico Einaudi"
 type: person
 socials:
+  musicbrainz: "fa34b363-79df-434f-a5b8-be4e6898543f"
   instagram: "ludovicoeinaudi"
   web: "https://www.ludovicoeinaudi.com/"
   facebook: ""
   tiktok: ""
   x: ""
   bandsintown: "13119"
+  songkick: "114869"
   youtube: ""
   email: ""
-  amazon: ""
+  amazon: "B000QJU3AW"
   apple: "7420827"
   deezer: "4331"
-  qobuz: ""
+  qobuz: "7593"
   spotify: ""
-  tidal: ""
+  tidal: "1669"
+lifespan:
+  start: 1955-11-23
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Ludovico Einaudi est un pianiste et compositeur italien né le 23 novembre 1955 à Turin. Petit-fils de l'ancien président

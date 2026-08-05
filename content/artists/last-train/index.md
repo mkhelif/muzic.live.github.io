@@ -25,11 +25,13 @@ members:
     periods:
       - start: 2007
 socials:
+  musicbrainz: "4f527225-898d-4789-9868-697bcfd3b60b"
   facebook: "lasttrainofficial"
   instagram: "lasttrainband"
   tiktok: "@lasttrainband"
   x: "bandlasttrain"
   bandsintown: "1658370"
+  songkick: "1254306"
   youtube: "@lasttrainband"
   web: "https://www.lasttrain.fr/"
   tidal: "5876814"
@@ -37,8 +39,10 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "5080091"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Last Train est un groupe de rock français originaire de Mulhouse, en Alsace, formé en 2014. Quatuor électrique porté par

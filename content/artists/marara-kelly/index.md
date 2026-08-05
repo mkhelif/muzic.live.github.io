@@ -3,6 +3,7 @@ id: "51103322-8668-4b07-a507-b5ecbcf490c8"
 title: "Marara Kelly"
 type: person
 socials:
+  musicbrainz: "13d042eb-e64f-4992-ade5-74cf0acb0566"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Marara Kelly est le double artistique enchanté de Mayara Yamada, performeuse, DJ et artiste visuelle

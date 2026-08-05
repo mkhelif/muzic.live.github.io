@@ -3,6 +3,7 @@ id: "41491ce0-387e-4a1a-a854-f5e4ee898b18"
 title: "Malte Marten"
 type: person
 socials:
+  musicbrainz: "584f9b49-fa41-412d-9233-0b035bc53132"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,14 +12,16 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B084MM1L9R"
+  apple: "1051333241"
   deezer: "66913682"
-  qobuz: ""
+  qobuz: "8429044"
   spotify: "6gmfGQKmOr9z7GTYK7ecEj"
-  tidal: ""
+  tidal: "7319729"
 todo:
   - Add cover
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

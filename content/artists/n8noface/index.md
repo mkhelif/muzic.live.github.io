@@ -2,6 +2,7 @@
 id: "f43237c6-c79c-4e09-b5a0-42a94bfb3804"
 title: "N8NOFACE"
 socials:
+  musicbrainz: "847c25b1-cd81-4f6c-87f8-cec822686f32"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,13 +14,15 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "4744097"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0HlRzJcjY69mM3nW2Xvrzi"
+  tidal: "8887719"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 N8NOFACE est le nom de scène de Nathan Hose, musicien américain originaire de Tucson, en Arizona, aujourd'hui

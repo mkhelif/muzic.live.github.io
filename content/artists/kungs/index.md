@@ -3,20 +3,26 @@ id: "35385180-47f7-4908-901c-c25b55fbbc9f"
 title: "Kungs"
 type: person
 socials:
+  musicbrainz: "a125cd83-a379-4935-a7ec-beaa778bad70"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "10152923"
+  songkick: "8495643"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "885054140"
-  deezer: ""
+  deezer: "5992092"
   qobuz: ""
   spotify: "7keGfmQR4X5w0two1xKZ7d"
-  tidal: ""
+  tidal: "7001165"
+lifespan:
+  start: 1996-12-17
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kungs, de son vrai nom **Valentin Brunel**, est un DJ et producteur français né le 17 décembre 1996 à Toulon. Le nom

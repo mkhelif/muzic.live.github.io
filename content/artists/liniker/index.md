@@ -3,6 +3,7 @@ id: "b3c2be2a-608a-4c1b-9ef9-8868ab85f3f0"
 title: "Liniker"
 type: person
 socials:
+  musicbrainz: "6c8806e3-9f74-4dd1-9fcb-63352d1ba2a0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,12 +15,16 @@ socials:
   amazon: ""
   apple: "1091407312"
   deezer: "9151334"
-  qobuz: ""
+  qobuz: "3029167"
   spotify: "2O6q06oNcmOIPg1qidSU3C"
-  tidal: ""
+  tidal: "7658223"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1995-07-03
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Liniker de Barros Ferreira Campos, connue simplement sous le nom de Liniker, est une chanteuse et autrice-compositrice

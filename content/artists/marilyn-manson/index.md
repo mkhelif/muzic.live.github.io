@@ -3,20 +3,26 @@ id: "81c96688-6a19-4bc5-aa59-c3cb039fe6a0"
 title: "Marilyn Manson"
 type: person
 socials:
+  musicbrainz: "80cadd99-f560-41e3-babd-16292bbd248a"
   instagram: "marilynmanson"
   web: "https://www.marilynmanson.com/"
   facebook: ""
   tiktok: ""
   x: ""
   bandsintown: "26648"
+  songkick: "317102"
   youtube: ""
   email: ""
   amazon: ""
   apple: "251375"
-  deezer: ""
+  deezer: "482"
   qobuz: ""
-  spotify: ""
+  spotify: "2VYQTNDsvvKN9wmU5W7xpj"
   tidal: ""
+lifespan:
+  start: 1969-01-05
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Marilyn Manson, de son vrai nom **Brian Hugh Warner**, est un chanteur et musicien américain né le 5 janvier 1969. Leader

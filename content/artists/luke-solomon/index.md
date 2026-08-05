@@ -2,6 +2,7 @@
 id: "53579f9d-4019-48da-af60-39b5162cd60f"
 title: "Luke Solomon"
 socials:
+  musicbrainz: "ece32969-caec-46eb-b74b-336800ec48d5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: "14950808"
   deezer: "261100"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "25CzLz5CINIKfN2r2bcl11"
+  tidal: "3575256"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

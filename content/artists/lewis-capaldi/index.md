@@ -3,11 +3,13 @@ id: "a85985b5-4428-4baf-a61a-fe8549d1e6ec"
 title: "Lewis Capaldi"
 type: person
 socials:
+  musicbrainz: "526aab94-697f-44a9-b630-41d1c0505953"
   facebook: "lewiscapaldi"
   instagram: "lewiscapaldi"
   tiktok: "@lewiscapaldi"
   x: "lewiscapaldi"
   bandsintown: "9448076"
+  songkick: "7156949"
   youtube: "@LewisCapaldi"
   web: "https://www.lewiscapaldi.com/"
   tidal: "8583514"
@@ -17,6 +19,10 @@ socials:
   deezer: "12088868"
   qobuz: "3023213"
   email: ""
+lifespan:
+  start: 1996-10-17
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il y a deux Lewis Capaldi. Le premier est un **songwriter d'une intensité émotionnelle rare**, capable de vous arracher

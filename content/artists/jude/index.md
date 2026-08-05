@@ -3,6 +3,7 @@ id: "ae38a706-0af6-4674-8cd8-591fad385314"
 title: "Jude"
 type: unknown
 socials:
+  musicbrainz: "d56b91e0-1525-4ff5-8dc4-c3728b517091"
   instagram: "jude_wav"
   threads: "@jude_wav"
   soundcloud: "jude_wav"
@@ -14,11 +15,13 @@ socials:
   youtube: ""
   web: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1516642813"
+  deezer: "1140"
   qobuz: ""
   spotify: "1CBZeQYlE46wqgmn6AX3FZ"
-  tidal: ""
+  tidal: "3653353"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Certains DJ arrivent à la console par la danse, d'autres par la production, d'autres encore par des années de clubbing

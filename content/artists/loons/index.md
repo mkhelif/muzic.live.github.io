@@ -3,6 +3,7 @@ id: "73fd9807-7cb6-43b9-bdcc-4e57d192f146"
 title: "Loons"
 type: band
 socials:
+  musicbrainz: "7319c7fd-396c-4a3c-bd02-eeff759b4c2d"
   facebook: "loonsmusic"
   instagram: "loonstheband"
   bandcamp: "loonsrock"
@@ -19,6 +20,8 @@ socials:
   bandsintown: "15599339"
   youtube: ""
   web: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 ###### Le miracle post-hardcore venu du Sud

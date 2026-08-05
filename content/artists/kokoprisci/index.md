@@ -3,6 +3,7 @@ id: "5145049b-96c6-4c44-908e-6e899116c301"
 title: "Kokoprisci"
 type: person
 socials:
+  musicbrainz: "5b2345b3-d70b-4385-97ec-6a27e3d8fe1e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kokoprisci est une DJ parisienne qui navigue entre house, breaks et bass music, avec plus d'une décennie

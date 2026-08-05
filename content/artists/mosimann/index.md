@@ -3,10 +3,12 @@ id: "1f2c99dc-cdcb-4c46-a937-9253b03e73e5"
 title: "Mosimann"
 type: person
 socials:
+  musicbrainz: "1d887d26-6ec3-4818-ad7b-9c3c079033e4"
   facebook: "MosimannOfficial"
   instagram: "mosimann"
   tiktok: "@mosimannofficial"
   bandsintown: "4956367"
+  songkick: "8970444"
   youtube: "@MosimannOfficial"
   web: "quentinmosimann.com"
   tidal: "7641415"
@@ -15,10 +17,14 @@ socials:
   email: ""
   amazon: ""
   apple: "279329546"
-  deezer: ""
+  deezer: "5595093"
   qobuz: ""
 todo:
   - Add cover from concert pictures
+lifespan:
+  start: 1988-02-14
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Quentin Mosimann surgit de la scène électronique française armé d'une vision moderne qui révolutionne l'approche

@@ -18,6 +18,8 @@ socials:
   apple: ""
   deezer: "137732022"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 MTZx est un artiste indépendant originaire de Champagnole, dans le département du Jura, apparu sur la scène

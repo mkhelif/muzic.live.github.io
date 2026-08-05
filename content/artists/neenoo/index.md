@@ -2,6 +2,7 @@
 id: "1f02192a-1953-476d-ae93-2b54f04a1fe6"
 title: "NEENOO"
 socials:
+  musicbrainz: "db5905f7-37f8-4eb4-9309-53132dc0b20e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,14 +12,16 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B011QC52TE"
   apple: "991267372"
   deezer: "8533910"
   qobuz: ""
-  spotify: ""
+  spotify: "5mnKOMigx4ApG27GUCmmWS"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

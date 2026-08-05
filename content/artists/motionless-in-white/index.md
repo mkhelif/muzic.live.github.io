@@ -86,23 +86,27 @@ members:
       - start: 2011
         end: 2018
 socials:
+  musicbrainz: "1c5b9bd6-76e8-4fe7-a6df-3bc0b5a452cc"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "7532"
+  songkick: "2053409"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001SYW7VC"
   apple: "266666216"
   deezer: "131886"
-  qobuz: ""
+  qobuz: "940125"
   spotify: "6MwPCCR936cYfM1dLsGVnl"
-  tidal: ""
+  tidal: "3542740"
 todo:
   - Add picture
   - Verify and add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Motionless in White est un groupe américain de metalcore fondé en 2004 en Pennsylvanie par le chanteur-guitariste

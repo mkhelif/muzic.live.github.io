@@ -2,6 +2,7 @@
 id: "79cff8a2-7c82-4018-a7eb-f373bd1f1ba5"
 title: "Larry And His Flask"
 socials:
+  musicbrainz: "6c74516f-b42d-49c9-bd01-ab16b4391fee"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -6,6 +6,7 @@ labels:
   - "2e908056-b7d9-4ab2-a128-c59d98cabfc5"
   - "ce686a0c-6780-4d45-9fa9-0b25870de0f0"
 socials:
+  musicbrainz: "d6f204c1-ea79-4ad0-bac3-862faad14130"
   facebook: "Jeezyjeezybaby"
   instagram: "ogjosman"
   tiktok: "@tikmiddlefingertok"
@@ -21,6 +22,10 @@ socials:
   tidal: "6425205"
   web: ""
   email: ""
+lifespan:
+  start: 1992-10-28
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Josman, de son vrai nom **José Nzengo**, est un rappeur et producteur français né le 28 octobre 1992 à Vierzon, dans le

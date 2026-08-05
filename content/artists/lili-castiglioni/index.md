@@ -2,6 +2,7 @@
 id: "8f39648e-ca51-473a-b280-1fa5b671c759"
 title: "Lili Castiglioni"
 socials:
+  musicbrainz: "19f08ce1-48ad-4112-a8c2-abc31e5f164d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

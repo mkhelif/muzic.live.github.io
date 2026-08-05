@@ -3,11 +3,13 @@ id: "e011bc44-07df-480b-bb91-ef53922b2ad7"
 title: "MEZERG"
 type: person
 socials:
+  musicbrainz: "d1b53fc3-4223-4c51-a7c4-993fbb5880f8"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "14143829"
+  songkick: "9946369"
   youtube: ""
   web: ""
   email: ""
@@ -21,4 +23,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

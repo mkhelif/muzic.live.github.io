@@ -3,9 +3,11 @@ id: "b3a83259-8a14-4b9e-accf-b3bf0092c157"
 title: "Milla"
 type: person
 socials:
+  musicbrainz: "39f96cb8-fe7e-499f-820c-676267b617e6"
   facebook: "profile.php?id=100010448431103"
   instagram: "_mi_ll_a__"
   bandsintown: "15583088"
+  songkick: "138394"
   youtube: "@MillamusicOfficiel"
   soundcloud: "milla-besson"
   web: "https://millamusic.ch/"
@@ -16,8 +18,12 @@ socials:
   email: "milla@millamusic.ch"
   tiktok: ""
   x: ""
-  deezer: ""
+  deezer: "241686"
   qobuz: ""
+lifespan:
+  start: 1975-12-17
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il y a des voix qui s'imposent dans le fracas. Celle de Milla choisit le chemin inverse : elle s'insinue, feutrée, dans

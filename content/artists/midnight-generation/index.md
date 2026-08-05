@@ -3,6 +3,7 @@ id: "6cde6c49-c276-4778-951b-7e8acac66600"
 title: "Midnight Generation"
 type: band
 socials:
+  musicbrainz: "57613605-bb93-444d-980a-6e107692b958"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -2,6 +2,7 @@
 id: "e7888bf3-8368-475c-adf7-678be9582012"
 title: "Mixed Feelings"
 socials:
+  musicbrainz: "56a81fe0-8402-462f-bf04-7710f1857a00"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

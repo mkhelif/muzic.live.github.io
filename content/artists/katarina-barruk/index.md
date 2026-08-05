@@ -3,6 +3,7 @@ id: "a91c12e3-1b4f-4414-9dda-945079fa508b"
 title: "Katarina Barruk"
 type: person
 socials:
+  musicbrainz: "279f1e47-c8d9-4873-bff0-0dc3c00a11e7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Elina Maria Katarina Barruk, connue sous le nom de Katarina Barruk, est une chanteuse, autrice-compositrice et pianiste

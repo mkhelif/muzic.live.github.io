@@ -2,6 +2,7 @@
 id: "ece67333-8002-4536-9ac5-8a1ac967df98"
 title: "Kevin de Vries"
 socials:
+  musicbrainz: "21234737-13ef-4a52-9903-018c2f61a6b1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: "827599605"
   deezer: "5636490"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "11aPF3sc8lDWNqPVInm4Zx"
+  tidal: "6568508"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -7,6 +7,7 @@ birth:
   place: "Datteln, Allemagne"
 gender: "male"
 socials:
+  musicbrainz: "7cd2dbf2-ef6f-4981-a46d-c752a106f236"
   instagram: "kevinratajczak"
   facebook: ""
   tiktok: ""
@@ -22,6 +23,8 @@ socials:
   tidal: ""
 todo:
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 **Kevin Ratajczak** est un chanteur, auteur-compositeur et parolier allemand. Il est principalement connu comme membre

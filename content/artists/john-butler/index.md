@@ -3,11 +3,13 @@ id: "28ebf650-ab2c-44d0-9c20-db53fb7cdb12"
 title: "John Butler"
 type: person
 socials:
+  musicbrainz: "790278a2-0256-447e-891d-991211e90a86"
   facebook: "JohnButlerofficial"
   instagram: "johnbutler"
   tiktok: "@johnbutlerofficial"
   x: "johnbutlertrio"
   bandsintown: "252989"
+  songkick: "54991"
   youtube: "@jbtdotcom"
   web: "https://johnbutlertrio.com/"
   tidal: "10989171"
@@ -19,6 +21,10 @@ socials:
   email: ""
 todo:
   - Add cover from concert
+lifespan:
+  start: 1975-04-01
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il y a une vidéo sur YouTube qui cumule plus de 30 millions de vues. Pas de clip léché, pas de production

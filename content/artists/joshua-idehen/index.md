@@ -3,6 +3,7 @@ id: "3a9930c2-c4bc-46fd-a915-a91f99b657a0"
 title: "Joshua Idehen"
 type: person
 socials:
+  musicbrainz: "3fc0070f-6b5b-4fc3-b5d3-afc87c80354a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,9 +15,11 @@ socials:
   amazon: ""
   apple: "433436490"
   deezer: "5168232"
-  qobuz: ""
+  qobuz: "803335"
   spotify: "3PubLnxnO5N2Avr3UvG1Vc"
-  tidal: ""
+  tidal: "5919579"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Joshua Idehen est un poète et musicien britannico-nigérian né à Londres de parents nigérians, connu pour ses

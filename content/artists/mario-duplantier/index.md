@@ -3,6 +3,7 @@ id: "a7f18a91-26cc-43fd-9775-8d2dcb88ce82"
 title: "Mario Duplantier"
 type: person
 socials:
+  musicbrainz: "546887e6-9ef0-4b87-ad2a-a95c1dbf8ae4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,4 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lifespan:
+  start: 1981-06-19
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

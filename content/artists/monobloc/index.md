@@ -3,6 +3,7 @@ id: "9cc4d208-9432-4d42-ad94-1a77a90c47f8"
 title: "Monobloc"
 type: band
 socials:
+  musicbrainz: "cec19869-23df-4fd1-a32b-6ee0c6cb67f4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,8 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Monobloc est un groupe de rock indépendant basé à New York, réunissant le chanteur **Timothy Waldron**, le bassiste

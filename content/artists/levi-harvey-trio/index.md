@@ -19,6 +19,8 @@ socials:
 todo:
   - Verify social networks
   - Add logo cover
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Le Levi Harvey Trio est une formation de jazz française réunie autour du pianiste et compositeur Levi Harvey, musicien

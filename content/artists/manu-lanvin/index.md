@@ -3,11 +3,13 @@ id: "4766916f-f5a2-400e-a656-0859fc1618af"
 title: "Manu Lanvin"
 type: person
 socials:
+  musicbrainz: "8701e47d-4caa-4d07-9592-42360179529f"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "1848097"
+  songkick: "114055"
   youtube: ""
   web: ""
   email: ""
@@ -17,6 +19,10 @@ socials:
   qobuz: ""
   spotify: "2j4I4LkLLPEE7Ik29YwqrB"
   tidal: ""
+lifespan:
+  start: 1973-11-24
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Manu Lanvin est un chanteur, guitariste, compositeur et producteur français de blues rock, né le 24 novembre 1973 à

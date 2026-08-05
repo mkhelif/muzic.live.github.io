@@ -3,10 +3,12 @@ id: "17985c54-b7aa-47db-b170-0b10b2da5dd4"
 title: "Naaman"
 type: person
 socials:
+  musicbrainz: "96f24cce-09ca-41af-9bfb-73290fb5300c"
   facebook: "Naaman.Official"
   instagram: "naaman_official"
   soundcloud: "naaman_official"
   bandsintown: "441061"
+  songkick: "5670339"
   youtube: "@NaamanOfficial"
   web: "https://www.naaman-official.com/"
   tidal: "4900928"
@@ -15,9 +17,14 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "530658824"
+  deezer: "2577241"
   qobuz: ""
+lifespan:
+  start: 1990-02-25
+  end: 2025-02-07
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Naaman est un chanteur et producteur français de reggae-dancehall originaire de Dijon, qui développe sa passion pour la

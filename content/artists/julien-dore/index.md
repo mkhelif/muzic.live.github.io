@@ -3,23 +3,29 @@ id: "c3f801ba-b0c4-4fc6-b98b-1c479e6911bc"
 title: "Julien Doré"
 type: person
 socials:
+  musicbrainz: "b4d31609-8343-46f8-ad6a-728c5860c53e"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "207633"
+  songkick: "972795"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "261284322"
-  deezer: ""
+  deezer: "15887"
   qobuz: ""
   spotify: "6jStlKLflTMUN6BajxrNlj"
-  tidal: ""
+  tidal: "55853"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1982-07-07
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Né le 7 juillet 1982 à Alès, dans le Gard, Julien Doré grandit à Lunel avant d'étudier à l'École des Beaux-Arts de

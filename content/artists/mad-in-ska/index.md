@@ -3,6 +3,7 @@ id: "eb7b5954-56ad-434d-b6d7-1bec4bf7483b"
 title: "Mad in Ska"
 type: band
 socials:
+  musicbrainz: "61939e6f-c9a9-410f-9e17-5e5535066d98"
   facebook: "p/MAD-IN-SKA-100029087423540"
   instagram: "mad_in_ska"
   x: "madinska"
@@ -17,6 +18,8 @@ socials:
   apple: "426683519"
   deezer: "1215537"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Qu'il est loin le temps de la première répète... Cet été 2008 au cours duquel des amis se sont réunis dans un petit

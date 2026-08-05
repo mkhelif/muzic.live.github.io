@@ -3,6 +3,7 @@ id: "a7ee7975-4df0-4361-9ad6-7957d7f2edb2"
 title: "Naya"
 type: unknown
 socials:
+  musicbrainz: "16db6513-d722-40f7-9803-38309f84e8c7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

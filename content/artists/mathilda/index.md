@@ -3,10 +3,12 @@ id: "81632153-3e28-4969-a796-434a116e79da"
 title: "Mathilda"
 type: unknown
 socials:
+  musicbrainz: "0eede66c-28c4-4485-96e3-dc1cde7b1d07"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "456934"
   youtube: ""
   web: ""
   email: ""
@@ -16,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Mathilda est une autrice-compositrice-interprète française dont la pop aérienne, teintée de textures

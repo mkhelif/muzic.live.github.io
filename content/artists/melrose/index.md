@@ -2,11 +2,44 @@
 id: "9ba19a0a-b5b4-4580-a535-ed2130b09777"
 title: "Melrose"
 type: band
+members:
+  - id: "43a04cea-f08f-4a48-a6a8-fffc50b0dc04"
+    roles:
+      - drums
+    periods:
+      - start: 1984
+        end: 2024
+  - id: "7495127a-18f8-4b95-af43-0d17a56df9a1"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 1991
+        end: 2025
+      - start: 1991
+        end: 2025
+  - id: "d05467ad-85f7-4170-a25c-ca0da8b85ee4"
+    roles:
+      - bass
+    periods:
+      - start: 1990
+        end: 1990
+  - id: "5455ae46-812d-4558-ab24-d025fee0a56d"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2025
+        end: 2025
+      - start: 2025
+        end: 2025
 socials:
+  musicbrainz: "d3779982-9bef-4666-87e5-50d0b76d7938"
   facebook: "jesuismelrose"
   instagram: "jesuismelrose"
   tiktok: "@jesuismelrose"
   bandsintown: "74323"
+  songkick: "552227"
   youtube: "@jesuismelrose"
   tidal: "39556996"
   spotify: "1Ay914SUZT3uhezQ7fOOji"
@@ -15,8 +48,10 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "414747"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Melrose nous vient de Toulouse, la ville rose qui pourrait avoir inspiré son nom d'artiste. Cette jeune chanteuse

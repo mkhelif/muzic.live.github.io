@@ -2,6 +2,7 @@
 id: "cf333a4a-6c1c-46ba-812b-e955e1ea35cb"
 title: "Martin Meixner"
 socials:
+  musicbrainz: "cd92573a-ee02-4e60-819c-f36bd353246b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

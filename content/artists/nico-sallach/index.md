@@ -22,6 +22,8 @@ socials:
   tidal: ""
 todo:
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 **Nico Sallach** est un chanteur allemand reconnu pour sa voix mélodique, son énergie scénique et sa capacité à

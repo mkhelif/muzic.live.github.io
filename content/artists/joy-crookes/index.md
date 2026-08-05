@@ -3,11 +3,13 @@ id: "9c43f234-9495-49f4-b162-0f79ddc2453e"
 title: "Joy Crookes"
 type: person
 socials:
+  musicbrainz: "548e9a34-7476-4510-b3cf-70d17106d507"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "11842663"
+  songkick: "8981904"
   youtube: ""
   web: ""
   email: ""
@@ -16,7 +18,11 @@ socials:
   deezer: "9768228"
   qobuz: ""
   spotify: "5XMyhVhi5ZN2pi0Qwi1zXS"
-  tidal: ""
+  tidal: "7569157"
+lifespan:
+  start: 1998-10-09
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Joy Elizabeth Akther Crookes, née le 9 octobre 1998 dans le quartier de Lambeth, au sud de Londres, est une chanteuse et

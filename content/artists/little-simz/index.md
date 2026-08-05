@@ -3,6 +3,7 @@ id: "0b4e0c5a-a028-4470-80cf-e55a5fadb5a0"
 title: "Little Simz"
 type: person
 socials:
+  musicbrainz: "3cdb40fe-a63e-4bb9-b40d-17cda5f50979"
   facebook: "littlesimz"
   instagram: "littlesimz"
   x: "LittleSimz"
@@ -10,13 +11,18 @@ socials:
   web: "https://www.littlesimz.com"
   tiktok: ""
   bandsintown: "6864041"
+  songkick: "6418354"
   youtube: ""
   email: ""
-  amazon: ""
+  amazon: "B00C2LA9B0"
   apple: "627674564"
   deezer: "4578590"
-  qobuz: ""
-  tidal: ""
+  qobuz: "2020906"
+  tidal: "6038062"
+lifespan:
+  start: 1994-02-23
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Little Simz, de son vrai nom Simbiatu Ajikawo, est une rappeuse, actrice et musicienne britannique née en 1994 à

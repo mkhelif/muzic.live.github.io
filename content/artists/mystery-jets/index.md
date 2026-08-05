@@ -2,24 +2,28 @@
 id: "458202f1-2a97-46e2-bb8c-adb97c80eeb4"
 title: "Mystery Jets"
 socials:
+  musicbrainz: "0f8bd5a7-c915-4e00-a035-fe3969e9a9b1"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
   bandsintown: "2502"
+  songkick: "385346"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "65625018"
   deezer: "17247"
-  qobuz: ""
-  spotify: ""
+  qobuz: "386063"
+  spotify: "09K1H1DgyIXHsMx2j7KTFX"
   tidal: ""
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Mystery Jets est un groupe de rock indépendant anglais formé sur Eel Pie Island, un îlot bohème au milieu de la

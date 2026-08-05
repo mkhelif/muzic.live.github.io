@@ -3,20 +3,26 @@ id: "b0cc015c-35ed-4e35-82b3-b907db895d5b"
 title: "Kae Tempest"
 type: person
 socials:
+  musicbrainz: "7a2533c3-790e-4828-9b30-ca5467c609c5"
   facebook: "kaetempest"
   instagram: "kaetempest"
   tiktok: "@kaetempest"
   x: "kaetempest"
   bandsintown: "1049583"
+  songkick: "10141432"
   youtube: "@KaeTempestOfficial"
   web: "https://www.kaetempest.com/"
   tidal: "20802145"
   spotify: "1YcprGtF13BYCZQK9jYPEw"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "327874333"
   deezer: "808084"
   qobuz: ""
+lifespan:
+  start: 1985-12-22
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kae Tempest naît le 22 décembre 1985 à Brockley, dans le sud-est de Londres, grandissant dans une famille ouvrière au

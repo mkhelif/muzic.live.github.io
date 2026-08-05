@@ -2,6 +2,7 @@
 id: "0b98fc70-83cd-4bd5-86d4-a708d47e3424"
 title: "Jonell Mosser"
 socials:
+  musicbrainz: "41daa81a-d96d-432d-a349-d2e4345dee8e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

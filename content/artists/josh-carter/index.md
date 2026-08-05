@@ -3,11 +3,13 @@ id: "5f0a3307-994d-41b6-8e06-0456cc71151a"
 title: "Josh Carter"
 type: person
 socials:
+  musicbrainz: "c797247b-d0d3-4f82-a650-a52428f9e390"
   facebook: ""
   instagram: ""
   x: ""
   threads: ""
   bandsintown: "286706"
+  songkick: "786182"
   youtube: ""
   tiktok: ""
   web: ""
@@ -22,4 +24,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -3,6 +3,7 @@ id: "06270fb8-6dc8-46c6-8763-66cb3de58775"
 title: "KeBlack"
 type: person
 socials:
+  musicbrainz: "d03d13ab-c055-4028-80a1-c1329abf8550"
   facebook: "keblackofficial"
   instagram: "keblackofficiel"
   x: "keblackofficiel"
@@ -17,6 +18,10 @@ socials:
   email: "keblack@outlook.fr"
   tiktok: ""
   web: ""
+lifespan:
+  start: 1992-01-31
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 KeBlack, de son vrai nom **Cédric Matéta Nkomi**, est un chanteur et rappeur français d'origine congolaise né le

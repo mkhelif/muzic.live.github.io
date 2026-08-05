@@ -3,6 +3,7 @@ id: "529de074-4492-4cc2-86fe-0dad48d65dc2"
 title: "Jordan Patural"
 type: person
 socials:
+  musicbrainz: "ef1f7de6-35f8-49ce-aecf-72e8aeb60e59"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -2,21 +2,46 @@
 id: "3271c719-ab79-4ee1-a768-0a6b3c9684dd"
 title: "Kyo"
 type: band
+members:
+  - id: "2e792bef-c34f-4baa-8cf2-b84b08fc6d3f"
+    roles:
+      - guitar
+    periods:
+      - start: 1994
+  - id: "0732c79d-1bf5-424c-8d98-e2c361a0fe94"
+    roles:
+      - drums
+    periods:
+      - start: 1994
+  - id: "939912d5-cdf0-4ba4-9e87-54a6dc42a9fd"
+    roles:
+      - bass
+    periods:
+      - start: 1994
+  - id: "865911e0-e957-447d-bd9f-9a01cbe4e999"
+    roles:
+      - sing
+    periods:
+      - start: 1994
 socials:
+  musicbrainz: "c5d581b7-3b8b-414b-92ae-8f8ed6198901"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "9192"
+  songkick: "256972"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "15094974"
+  deezer: "44"
   qobuz: ""
   spotify: "5ylOD196qui8JgXBrQUzok"
-  tidal: ""
+  tidal: "1616"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kyo est un groupe français de pop-rock formé en 1994 au sein d'un collège de Verneuil-sur-Seine, dans les Yvelines. Le

@@ -2,6 +2,7 @@
 id: "ae19091f-5624-411e-812e-80406b8dcb5b"
 title: "John Corabi"
 socials:
+  musicbrainz: "0a383cd4-d26a-4ce1-8d9c-8bbb8a6df1e3"
   apple: "27519163"
   deezer: "497423"
   facebook: ""
@@ -9,8 +10,11 @@ socials:
   x: ""
   threads: ""
   bandsintown: "75157"
+  songkick: "316737"
   youtube: ""
   spotify: "0danyQ9A5BKBm1YozPJhoy"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 John Corabi est un chanteur et guitariste américain né le 26 avril 1959 à Philadelphie, en

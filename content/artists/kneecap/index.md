@@ -2,21 +2,35 @@
 id: "9d692538-c2b8-46d9-b3f0-766d7d320291"
 title: "Kneecap"
 type: band
+members:
+  - id: "573f3df1-a9d5-4344-9498-59cd54b1f4e6"
+    roles:
+      - other
+  - id: "1ab777db-4fd5-4fcc-93de-57c3dc523dd6"
+    roles:
+      - other
+  - id: "315582ba-a0f5-466d-9152-c8e4dad43b80"
+    roles:
+      - other
 socials:
+  musicbrainz: "6ac275dd-eb37-42cf-9a60-6b147320c7be"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "13727202"
+  songkick: "9759359"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "1330315811"
+  deezer: "13860855"
+  qobuz: "11472368"
   spotify: "1ZVACPeq7ccGCoUXwtafUU"
-  tidal: ""
+  tidal: "9401535"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kneecap est un trio de hip-hop irlandais originaire de Belfast, en Irlande du Nord. Composé de Mo Chara

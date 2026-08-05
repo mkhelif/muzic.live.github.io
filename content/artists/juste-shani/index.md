@@ -3,10 +3,12 @@ id: "c6a3424d-ab0c-4f1e-a18e-3d84339da4b9"
 title: "Juste Shani"
 type: person
 socials:
+  musicbrainz: "a1b544ed-4fb8-4dce-97c1-b2d823527cda"
   facebook: "justeshani"
   instagram: "juste_shani"
   tiktok: "@juste_shanii"
   bandsintown: "15491426"
+  songkick: "10137257"
   youtube: "@justeshani"
   amazon: "B07L972GSB"
   apple: "1446286243"
@@ -17,6 +19,8 @@ socials:
   email: "mgmt.shani@gmail.com"
   x: ""
   web: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Trop smart pour être rappeuse et trop street pour être mannequin. La formule circule depuis quelques années dans la

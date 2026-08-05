@@ -2,7 +2,17 @@
 id: "bb7f6d3f-3b1a-4947-a50c-4c4737c00a56"
 title: "Malevolence"
 type: band
+members:
+  - id: "7a382276-315b-41de-9ca5-ef849febc1a2"
+    roles:
+      - drums
+    periods:
+      - start: 2010
+  - id: "718732c9-b555-45a4-b880-7d6121f47e69"
+    roles:
+      - other
 socials:
+  musicbrainz: "736680eb-da66-4859-bc3a-9e340c570625"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,14 +22,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "267420258"
+  deezer: "1056811"
   qobuz: ""
   spotify: "7KFv5Cni7kseXWHJnnejXk"
-  tidal: ""
+  tidal: "5147251"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Malevolence est un groupe de metalcore et hardcore britannique originaire de Sheffield. Les guitaristes Josh Baines et

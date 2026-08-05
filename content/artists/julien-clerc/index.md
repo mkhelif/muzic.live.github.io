@@ -3,20 +3,26 @@ id: "08adeb69-d3ef-4fca-bf66-8bcaa7e3aeab"
 title: "Julien Clerc"
 type: person
 socials:
+  musicbrainz: "8b74c6be-1f8d-4893-8526-1be4a3686f7a"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "31030"
+  songkick: "358187"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "15023630"
   deezer: "3520"
   qobuz: ""
   spotify: "7gVzeNvBbUpj6PXX5ekCMs"
-  tidal: ""
+  tidal: "9229"
+lifespan:
+  start: 1947-10-04
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Julien Clerc, de son vrai nom Paul-Alain Auguste Leclerc, est né le 4 octobre 1947 dans le 19e arrondissement de Paris.

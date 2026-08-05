@@ -3,6 +3,7 @@ id: "2981e216-1d9a-4a02-9c0f-e651612b5f31"
 title: "Max Baby"
 type: person
 socials:
+  musicbrainz: "c2a14ea1-b750-48d8-984a-738b22739a7e"
   facebook: ""
   instagram: "maxrbaby"
   tiktok: "@maxrbaby"
@@ -18,6 +19,8 @@ socials:
   qobuz: ""
   spotify: "0ofOICmdTikzuZtaYALygA"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Max Baby est un musicien français originaire du nord du Cher, près de Bourges. Contrairement aux apparences, « Baby »

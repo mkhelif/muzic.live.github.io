@@ -2,6 +2,7 @@
 id: "f90b90f0-eb89-459e-a818-72946e48cf11"
 title: "Le Feste Antonacci"
 socials:
+  musicbrainz: "c0a24e67-aabe-411b-89be-eff89f52ec6b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Le Feste Antonacci est un duo italien de pop électronique formé en 2018 par **Giacomo Lecchi d'Alessandro** et

@@ -3,6 +3,7 @@ id: "a67ac70d-7fcc-4665-9cc6-b63faa8e286d"
 title: "Mentissa"
 type: person
 socials:
+  musicbrainz: "0b729d33-8a27-4914-b1f9-27b5f0f80d4f"
   facebook: "mentissamusic"
   instagram: "mentissa_off"
   tiktok: "@mentissa"
@@ -17,6 +18,10 @@ socials:
   apple: "1588419633"
   deezer: "147136312"
   qobuz: ""
+lifespan:
+  start: 1999-04-04
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Mentissa navigue dans l'univers musical français avec cette liberté créative totale qui caractérise les artistes

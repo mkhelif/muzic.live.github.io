@@ -19,6 +19,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jeune chanteuse originaire de Bertrix, dans les Ardennes belges, Marion Duplicy se fait d'abord connaître comme

@@ -3,6 +3,7 @@ id: "4977e564-5eb5-440c-956c-a783ebe79760"
 title: "John Watson"
 type: person
 socials:
+  musicbrainz: "4e572a91-1f54-4d5d-9e20-4c2efe09b997"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,4 +23,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

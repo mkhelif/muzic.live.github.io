@@ -3,6 +3,7 @@ id: "6bed4706-4f13-4f1c-b830-63bfe4a6e68a"
 title: "John Myung"
 type: person
 socials:
+  musicbrainz: "6e0f816b-2f2d-4b5f-bf95-24f07a208df2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,4 +18,8 @@ socials:
   qobuz: ""
   spotify: "5YiTQwF5inrWlOuv8iqRtn"
   tidal: ""
+lifespan:
+  start: 1967-01-24
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -118,22 +118,26 @@ members:
     periods:
       - start: 2023
 socials:
+  musicbrainz: "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "551"
+  songkick: "117140"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B000QJPK78"
   apple: "488289"
-  deezer: ""
-  qobuz: ""
+  deezer: "3487"
+  qobuz: "121232"
   spotify: "1Yox196W7bzVNZI7RBaPnf"
-  tidal: ""
+  tidal: "946"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

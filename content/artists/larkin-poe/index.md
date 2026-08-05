@@ -15,10 +15,12 @@ members:
     periods:
       - start: 2010
 socials:
+  musicbrainz: "ec5436c4-c44a-47f5-a640-da8d376a3871"
   facebook: "larkinpoe"
   instagram: "larkinpoe"
   tiktok: "@larkinpoe"
   bandsintown: "937435"
+  songkick: "2939616"
   youtube: "@larkinpoe"
   web: "https://www.larkinpoe.com"
   tidal: "3701245"
@@ -29,6 +31,8 @@ socials:
   apple: "360929055"
   deezer: "389902"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Larkin Poe est un duo de sœurs américaines, Rebecca et **Megan Lovell**, qui émerge sur la scène blues-rock internationale

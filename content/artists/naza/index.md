@@ -3,6 +3,7 @@ id: "9ab37262-9eaf-4b06-96f1-1784c2ee165d"
 title: "Naza"
 type: person
 socials:
+  musicbrainz: "465cc0d9-9429-471d-bc35-c3def57a9320"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,11 +12,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "304307063"
+  deezer: "7459270"
   qobuz: ""
   spotify: "7xNYY1Zkb1vks5m9ATlJok"
-  tidal: ""
+  tidal: "6629044"
+lifespan:
+  start: 1993-05-26
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Naza, de son vrai nom Jean-Désiré Dimitri Sosso Dzabatou, est un rappeur et chanteur français d'origine congolaise, né

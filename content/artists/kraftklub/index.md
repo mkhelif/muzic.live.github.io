@@ -30,18 +30,22 @@ members:
     periods:
       - start: 2009
 socials:
+  musicbrainz: "ecfc32cb-b26e-41a0-8b41-7100c6a3fcc4"
   facebook: "kraftklub"
   instagram: "kraftklub"
   tiktok: "@kraftklub"
   bandsintown: "1088261"
+  songkick: "3192661"
   youtube: "@kraftklub"
   web: "https://kraftklub.to/"
   tidal: "4384552"
   spotify: "0MZ55DwuMQ1B2TXq9lcrE4"
   x: ""
   email: ""
-  amazon: ""
+  amazon: "B005EVYGXC"
   apple: "1445610005"
   deezer: "985101"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

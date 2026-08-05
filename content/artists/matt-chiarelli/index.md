@@ -3,6 +3,7 @@ id: "604d5133-a5a8-47e1-b6ca-476eddce6311"
 title: "Matt Chiarelli"
 type: person
 socials:
+  musicbrainz: "b4823bd2-88fd-49f5-93c3-8e2f0f964787"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,4 +21,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -3,6 +3,7 @@ id: "3eb7081d-bbab-4e27-ad86-0109a9242109"
 title: "Naïka"
 type: person
 socials:
+  musicbrainz: "14d822c5-5f0e-4415-ac14-da7f49a2280e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,14 +13,18 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "552351691"
+  deezer: "5516666"
   qobuz: ""
   spotify: "4tk2WUKBOS9nKZj7bPQIXT"
-  tidal: ""
+  tidal: "8760578"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1998-03-03
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Naïka, de son vrai nom Victoria Naïka Richard, est une chanteuse et autrice-compositrice franco-haïtienne née le 2 mars

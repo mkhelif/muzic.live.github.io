@@ -3,6 +3,7 @@ id: "e31594c4-4181-46ab-9b2c-12dc7f7e6ae6"
 title: "Legit Girl DJ"
 type: person
 socials:
+  musicbrainz: "a1ca731d-33a1-4c68-9ba5-d4d72522894f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Legit Girl DJ est le nom de scène de Clothilde Zamponi-du-Mur, artiste parisienne aux multiples casquettes qui navigue

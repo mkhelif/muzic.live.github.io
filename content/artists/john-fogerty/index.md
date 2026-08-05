@@ -3,20 +3,26 @@ id: "c0049171-e2f8-4956-b28a-afd8827857d6"
 title: "John Fogerty"
 type: person
 socials:
+  musicbrainz: "c3649208-0ebe-449b-b1d7-4bd6c560f109"
   facebook: "johnfogerty"
   instagram: "johnfogerty"
   tiktok: "@johnfogerty"
   x: "john_fogerty"
   bandsintown: "5053"
+  songkick: "132348"
   youtube: "johnfogerty"
   web: "https://www.johnfogerty.com"
   tidal: "32144"
   spotify: "5ujCegv1BRbEPTCwQqFk6t"
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "147445"
+  deezer: "2140"
   qobuz: ""
+lifespan:
+  start: 1945-05-28
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 John Fogerty est un chanteur-compositeur américain né en 1945, qui a profondément marqué l'histoire du rock en tant que

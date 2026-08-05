@@ -85,11 +85,13 @@ members:
       - start: 2013
         end: 2019
 socials:
+  musicbrainz: "7952b266-9fd4-4a09-a324-7dc84f11b5fc"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "14534217"
+  songkick: "99621"
   youtube: ""
   web: ""
   email: ""
@@ -98,7 +100,9 @@ socials:
   deezer: "173233"
   qobuz: ""
   spotify: "6fBF4MULW5yMzyGaon1kUt"
-  tidal: ""
+  tidal: "19018"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 John Butler Trio est un groupe australien de roots rock mené par le guitariste et chanteur **John Butler**, considéré

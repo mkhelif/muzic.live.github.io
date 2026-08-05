@@ -3,11 +3,13 @@ id: "6dbb9165-a8bc-4d03-a223-64219a413a32"
 title: "Keziah Jones"
 type: person
 socials:
+  musicbrainz: "754932cb-a3df-43c5-99ab-c1a69190e4bc"
   facebook: "keziahjones"
   instagram: "keziahjonesofficiel"
   x: "keziahjones"
   threads: "@keziahjonesofficiel"
   bandsintown: "35195"
+  songkick: "80118"
   youtube: "@keziahjones"
   web: "https://keziah-jones.com/"
   tidal: "3510471"
@@ -18,6 +20,10 @@ socials:
   apple: "15123946"
   deezer: "244"
   qobuz: ""
+lifespan:
+  start: 1968-01-10
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Keziah Jones, de son vrai nom Olufemi Sanyaolu, est un chanteur-compositeur nigérian-britannique qui émerge sur la scène

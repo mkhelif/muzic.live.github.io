@@ -3,6 +3,7 @@ id: "d8cc4898-a7d8-4757-b034-52916290a565"
 title: "Makala"
 type: person
 socials:
+  musicbrainz: "631fbbab-7bc2-48d2-a5ae-9ddc71756806"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,11 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "1435966750"
+  deezer: "536194"
+  qobuz: "366241"
   spotify: "3r7t38zbphQtpfAH12UbRd"
   tidal: ""
+lifespan:
+  start: 1993-03-07
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Makala, de son vrai nom Jordy Makala, est un rappeur suisse né en 1993 à Bienne, fils d'immigrés congolais ayant fui

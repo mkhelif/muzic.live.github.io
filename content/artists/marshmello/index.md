@@ -3,23 +3,29 @@ id: "04490ab8-c4aa-40db-a8a6-f81977725409"
 title: "Marshmello"
 type: person
 socials:
+  musicbrainz: "301b45a4-b8b9-410e-8344-4b4eaf96691a"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "5585634"
+  songkick: "8613384"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001M5L2LI"
   apple: "980795202"
   deezer: "7890702"
-  qobuz: ""
+  qobuz: "792771"
   spotify: "64KEffDW9EtZ1y2vBYgq8T"
-  tidal: ""
+  tidal: "7250145"
 todo:
   - Add picture
   - Verify and add socials
+lifespan:
+  start: 1992-05-19
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Marshmello est le nom de scène de Christopher Comstock, producteur et DJ américain de musique

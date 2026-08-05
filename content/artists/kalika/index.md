@@ -2,6 +2,7 @@
 id: "62407c81-eebd-4899-909f-4be1fe845b2e"
 title: "KALIKA"
 socials:
+  musicbrainz: "8d9858ea-2d14-4d3d-9859-f819175534d7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,12 +14,14 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "119871642"
   qobuz: ""
-  spotify: ""
+  spotify: "0UgxFqJmwkpojz4mHBsRpD"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

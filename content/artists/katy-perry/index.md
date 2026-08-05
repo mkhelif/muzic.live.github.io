@@ -3,20 +3,26 @@ id: "00036a87-7197-4df1-af39-4bb045b210f6"
 title: "Katy Perry"
 type: person
 socials:
+  musicbrainz: "122d63fc-8671-43e4-9752-34e846d62a9c"
   facebook: "katyperry"
   instagram: "katyperry"
   tiktok: "@katyperry"
   x: "KatyPerry"
   bandsintown: "32666"
+  songkick: "1134363"
   youtube: "@KatyPerry"
   web: "https://www.katyperry.com/"
   email: ""
-  amazon: ""
+  amazon: "B000YBCXDC"
   apple: "64387566"
-  deezer: ""
-  qobuz: ""
+  deezer: "144227"
+  qobuz: "67294"
   spotify: "6jJ0s89eD6GaHleKKya26X"
   tidal: ""
+lifespan:
+  start: 1984-10-25
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Katy Perry, de son vrai nom Katheryn Elizabeth Hudson, est une chanteuse et autrice-compositrice américaine née le 25

@@ -3,20 +3,24 @@ id: "50597964-c316-4ddb-9e11-9085dee6927c"
 title: "Kerala Dust"
 type: band
 socials:
+  musicbrainz: "6a8f332b-a26d-48c3-afd9-b167abfb4562"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "13170674"
+  songkick: "9164534"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "1182111701"
   deezer: "11477462"
-  qobuz: ""
+  qobuz: "2885946"
   spotify: "6lK8O3kyFThiTmgowQZGOH"
-  tidal: ""
+  tidal: "8331170"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kerala Dust est un projet électronique britannique fondé à Londres en 2016 par Edmund Kenny, alors étudiant en musique

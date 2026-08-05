@@ -2,12 +2,30 @@
 id: "38847d85-dc00-4199-a364-77071d6c8858"
 title: "Massilia Sound System"
 type: band
+members:
+  - id: "266886cc-bfbe-4b8f-b60c-3bfd19886c4f"
+    roles:
+      - other
+    periods:
+      - start: 2008
+        end: 2008
+  - id: "92c423c7-5370-4f87-b49e-b3420ebbb504"
+    roles:
+      - other
+  - id: "13c8aeee-71b8-4b3f-b8b5-169ed6df6b05"
+    roles:
+      - other
+  - id: "62b72cb5-8f64-4cc9-b5c0-67478e40f29c"
+    roles:
+      - other
 socials:
+  musicbrainz: "4aa1d914-1a37-4076-8311-50484464da71"
   facebook: "LeMassiliaSoundSystem"
   instagram: "massilia_sound_system"
   tiktok: "@massilia_sound_system"
   x: "@MSSofficiel"
   bandsintown: "125006"
+  songkick: "339204"
   youtube: "@MSoundSystem13"
   web: "https://massilia-soundsystem.com/"
   tidal: "4561961"
@@ -17,6 +35,8 @@ socials:
   apple: "205427238"
   deezer: "1877"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Massilia Sound System déferle sur la scène française comme un raz-de-marée sonore et culturel, imposant cette esthétique

@@ -2,6 +2,7 @@
 id: "15f4aaf4-2013-4f94-9ae8-bb489af160ba"
 title: "Midnight Star"
 socials:
+  musicbrainz: "3d30a740-e36b-45b9-a395-a3b3696d1d7c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,13 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "550803"
   deezer: ""
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0KMLfCXYb3Dhf1hLpu8cVd"
+  tidal: "3684068"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

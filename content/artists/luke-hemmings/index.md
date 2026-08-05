@@ -3,6 +3,7 @@ id: "25866c2f-8947-4188-9f38-7974a9c98c48"
 title: "Luke Hemmings"
 type: person
 socials:
+  musicbrainz: "2ab4f061-bb6c-4fab-b469-7e4b25f34786"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,5 +17,9 @@ socials:
   deezer: "5622862"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "13349435"
+lifespan:
+  start: 1996-07-16
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

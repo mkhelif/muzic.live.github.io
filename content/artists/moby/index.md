@@ -3,10 +3,12 @@ id: "41e89fdf-34e2-44b3-bd84-bbffee6be42c"
 title: "Moby"
 type: person
 socials:
+  musicbrainz: "8970d868-0723-483b-a75b-51088913d3d4"
   facebook: "mobymusic"
   instagram: "moby"
   tiktok: "@moby"
   bandsintown: "807"
+  songkick: "109292"
   youtube: "@moby"
   web: "https://moby.com/"
   tidal: "9045"
@@ -16,7 +18,11 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  qobuz: ""
+  qobuz: "38372"
+lifespan:
+  start: 1965-09-11
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Moby, de son vrai nom Richard Melville Hall, est un musicien, auteur-compositeur, DJ, producteur et militant américain

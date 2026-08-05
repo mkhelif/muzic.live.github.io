@@ -3,6 +3,7 @@ id: "cf4abc25-0994-467d-90e1-aa414ba6edbd"
 title: "Kabylie Minogue"
 type: band
 socials:
+  musicbrainz: "7ebda8e9-8813-4bb5-8274-f3715f67fcdd"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,8 @@ socials:
   qobuz: ""
   spotify: "0OfuNV93XzkOehHIvyr0OU"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kabylie Minogue est un duo électro repéré grâce à un set remarqué au Boiler Room, où il tisse des rythmes

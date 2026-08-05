@@ -3,6 +3,7 @@ id: "884109ea-c008-4b3f-886d-e7f8f15d1a79"
 title: "Julien Granel"
 type: person
 socials:
+  musicbrainz: "215060da-a4de-43ff-99a3-4fcd1b6c5bf0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,8 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lifespan:
+  start: 1995
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

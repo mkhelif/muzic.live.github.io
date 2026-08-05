@@ -2,6 +2,7 @@
 id: "e449de1a-d549-47cc-8740-f21e87990eb0"
 title: "Miss Grit"
 socials:
+  musicbrainz: "a9cff714-1ff7-4b50-a800-5b43357e5c72"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: "1441850500"
   deezer: "53964162"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0kUsW40KML1SWGeOAvGtzD"
+  tidal: "10583996"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

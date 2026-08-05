@@ -3,23 +3,29 @@ id: "d26fab0b-ab51-4c7e-a97c-5b56fb629e73"
 title: "Max Cooper"
 type: person
 socials:
+  musicbrainz: "2d68f237-4e00-424a-a03e-d16993d1da15"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "264538"
+  songkick: "705568"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "77685145"
+  deezer: "181041"
+  qobuz: "747659"
   spotify: "0WSSKmoRbxqLf3MnXInQ2J"
-  tidal: ""
+  tidal: "3570517"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1980-05-19
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Max Cooper est un producteur et compositeur électronique britannique, né le 19 mai 1980 à Belfast et aujourd'hui

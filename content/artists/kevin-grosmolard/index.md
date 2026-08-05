@@ -3,6 +3,7 @@ id: "87088aa7-6dfd-4e2d-bdb1-60353236f83c"
 title: "Kevin Grosmolard"
 type: person
 socials:
+  musicbrainz: "1bb9820b-238c-4839-82c0-07a07ddea6ee"
   facebook: "kevin.grosmolard"
   instagram: ""
   tiktok: ""
@@ -16,4 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

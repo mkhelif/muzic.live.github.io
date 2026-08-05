@@ -3,22 +3,28 @@ id: "94f19406-4780-4c60-a2f0-2ec8386d639c"
 title: "Lorde"
 type: person
 socials:
+  musicbrainz: "8e494408-8620-4c6a-82c2-c2ca4a1e4f12"
   facebook: "lordemusic"
   instagram: "lorde"
   tiktok: ""
   threads: "@lorde"
   x: "lorde"
   bandsintown: "5522674"
+  songkick: "6715369"
   youtube: "@Lorde"
   soundcloud: "lordemusic"
   web: "https://www.lorde.co.nz/"
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  amazon: "B00BLWJZRA"
+  apple: "602767352"
+  deezer: "4448485"
+  qobuz: "1195379"
   spotify: "163tK9Wjr9P9DmM0AVK7lm"
-  tidal: ""
+  tidal: "4931831"
+lifespan:
+  start: 1996-11-07
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Lorde, de son vrai nom Ella Marija Lani Yelich-O'Connor, est une autrice-compositrice-interprète néo-zélandaise née le 7

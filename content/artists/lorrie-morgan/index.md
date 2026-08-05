@@ -12,15 +12,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "209470"
+  deezer: "76257"
   qobuz: ""
-  spotify: ""
-  tidal: ""
-  musicbrainz: ""
+  spotify: "0khzcQ6PQU5a6dl1Qss3pt"
+  tidal: "4606"
+  musicbrainz: "5f2dc270-3205-4aef-a8ea-119fb8b87294"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Lorrie Morgan, de son vrai nom Loretta Lynn Morgan, est une chanteuse de country américaine née le 27 juin 1959 à

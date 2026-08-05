@@ -3,6 +3,7 @@ id: "ce405914-4efe-4a7f-9f81-f4d1da70854b"
 title: "Matteo Mancuso"
 type: person
 socials:
+  musicbrainz: "c8472682-aeff-4121-8bb0-cbf3f426a841"
   facebook: "matteomancusoofficial"
   instagram: "matteomancuso.guitar"
   tiktok: "@matteomancuso.guitar"
@@ -14,9 +15,13 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "950667775"
   deezer: "7210988"
   qobuz: ""
+lifespan:
+  start: 1996-11-22
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Matteo Mancuso surgit de Sicile comme un météore guitaristique, bouleversant tous les codes établis avec une technique

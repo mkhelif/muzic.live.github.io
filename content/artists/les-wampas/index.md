@@ -30,9 +30,11 @@ members:
     periods:
       - start: 2016
 socials:
+  musicbrainz: "46c6a335-6064-4118-8021-83fb37b1bc6a"
   facebook: "LesWampasVousAiment"
   instagram: "leswampasofficiel"
   bandsintown: "13372"
+  songkick: "360120"
   youtube: "@LesWampas"
   web: "https://wampas.com/"
   tidal: "36432"
@@ -44,6 +46,8 @@ socials:
   apple: "14915060"
   deezer: "3252"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Les Wampas surgissent de la scène punk française des années 80 tel un ouragan salvateur, incarnant cette rage juvénile

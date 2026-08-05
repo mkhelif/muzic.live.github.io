@@ -16,6 +16,8 @@ socials:
   tidal: "4532908"
   web: "https://maureen-queen.com/"
   email: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Certains artistes se construisent patiemment, brique par brique, pendant des années. Maureen, elle, a connu

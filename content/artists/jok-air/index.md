@@ -3,6 +3,7 @@ id: "0baa94f3-2b33-45a0-b00f-b90a7616349f"
 title: "Jok'Air"
 type: person
 socials:
+  musicbrainz: "7f7e87b2-7680-42f5-8ad0-d0af6555212e"
   facebook: "ToutLeMondeEstBigDaddy"
   instagram: "bigdaddyjok"
   tiktok: "@lebigdaddyjok"
@@ -11,11 +12,15 @@ socials:
   web: "https://jokair.store/"
   email: "ismakaparis@gmail.com"
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "527379198"
+  deezer: "4907510"
+  qobuz: "1040833"
   spotify: "2kIs76sEGiulKeqetZq6ua"
-  tidal: ""
+  tidal: "6309003"
+lifespan:
+  start: 1991-09-23
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jok'Air, de son vrai nom Melvin Félix Aka, né le 23 septembre 1991 dans le 19e arrondissement de Paris, est un

@@ -3,6 +3,7 @@ id: "3bb24cd7-c172-4413-82f7-e60760191993"
 title: "Kendal"
 type: person
 socials:
+  musicbrainz: "11498701-d35b-4006-b1f9-b495779de045"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "2NJZShOescj4yIvO1d4yiV"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kendal est un producteur et DJ français basé à Toulouse, également patron du label Ritmo Fatale, guidé par sa devise : «

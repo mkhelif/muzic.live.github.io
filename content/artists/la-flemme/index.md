@@ -3,6 +3,7 @@ id: "d2dee3e3-ad7e-4ce5-b482-4d951daca597"
 title: "La Flemme"
 type: band
 socials:
+  musicbrainz: "2dca37b6-0781-4bfe-a366-19013cb164fb"
   facebook: "profile.php?id=61550970269839"
   instagram: "laflemme_band"
   bandcamp: "laflemmeband"
@@ -19,6 +20,8 @@ socials:
   bandsintown: "15545570"
   youtube: ""
   web: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il y a dans le nom de ce groupe une sorte de blague initiale — une manière de déjouer les attentes dès la première

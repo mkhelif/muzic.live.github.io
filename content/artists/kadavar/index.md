@@ -2,24 +2,52 @@
 id: "feae3867-5fc0-4975-8dfb-91ca936b5a54"
 title: "Kadavar"
 type: band
+members:
+  - id: "1aebe47c-24cb-4ed2-ac07-dfaa1763b717"
+    roles:
+      - drums
+    periods:
+      - start: 2010
+  - id: "ed514ba6-9f2c-46d6-b88f-264b873a4685"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2010
+      - start: 2010
+  - id: "72df6f54-3024-4fa5-bd44-2077e9770523"
+    roles:
+      - bass
+    periods:
+      - start: 2013
+  - id: "0d2838ed-9f57-49cf-a3ca-969eda856243"
+    roles:
+      - bass
+    periods:
+      - start: 2010
+        end: 2013
 socials:
+  musicbrainz: "aa262bd7-2217-4590-b2e3-38d148508916"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "398802"
+  songkick: "923478"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "534423387"
+  deezer: "2706571"
   qobuz: ""
   spotify: "0FfuujZJUa7Z2JzhhiPI2z"
-  tidal: ""
+  tidal: "4641638"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kadavar est un groupe de rock allemand originaire de Berlin, formé en 2010. Puisant dans le blues lourd et

@@ -3,23 +3,29 @@ id: "bc8855cd-3a83-4332-9198-ff549ca67151"
 title: "Lost Frequencies"
 type: person
 socials:
+  musicbrainz: "ea7260de-e1b1-43f1-bb11-f78274a36308"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "1670031"
+  songkick: "8423943"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "877792512"
-  deezer: ""
+  deezer: "5866223"
   qobuz: ""
   spotify: "7f5Zgnp2spUuuzKplmRkt7"
-  tidal: ""
+  tidal: "5834451"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1993-11-30
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Lost Frequencies est le nom de scène de Félix De Laet, DJ et producteur belge né le 30 novembre 1993 à Bruxelles, devenu

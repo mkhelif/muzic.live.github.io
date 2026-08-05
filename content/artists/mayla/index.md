@@ -3,6 +3,7 @@ id: "edee9b7b-75cf-4aee-8378-ef3092c2f34f"
 title: "MAYLA"
 type: band
 socials:
+  musicbrainz: "48d68f06-d172-4a05-a21c-cc158df19e03"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -3,6 +3,7 @@ id: "52d06dab-6372-4679-93e1-bcdd64ac9bd7"
 title: "Nectar Woode"
 type: person
 socials:
+  musicbrainz: "e65c1d4e-0866-4db3-94a6-05e4e15649cb"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,12 +15,16 @@ socials:
   amazon: ""
   apple: "1586283725"
   deezer: "121463392"
-  qobuz: ""
+  qobuz: "10574752"
   spotify: "6XwbawUNwNcZ7OXtvMVyKK"
   tidal: ""
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1999
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Nectar Abena Nyantekyewaa Woode, connue sous le nom de Nectar Woode, est une autrice-compositrice-interprète et

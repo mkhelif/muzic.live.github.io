@@ -3,11 +3,13 @@ id: "6db762ac-11c9-42cf-ae9e-7108d8f44e22"
 title: "Jovanotti"
 type: person
 socials:
+  musicbrainz: "373b3663-ecc3-40c4-9241-838ae8ca34d0"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "12016"
+  songkick: "80124"
   youtube: ""
   web: ""
   email: ""
@@ -16,7 +18,11 @@ socials:
   deezer: "3315"
   qobuz: ""
   spotify: "7tmMPdOmFvdRvbj2aWoiRi"
-  tidal: ""
+  tidal: "7709"
+lifespan:
+  start: 1966-09-27
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jovanotti, de son vrai nom Lorenzo Cherubini, est un auteur-compositeur-interprète, rappeur et disc-jockey italien né le

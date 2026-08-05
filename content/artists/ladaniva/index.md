@@ -16,6 +16,7 @@ members:
     periods:
       - start: 2019
 socials:
+  musicbrainz: "bf5b5110-784a-4211-b8f4-d33abe881da3"
   facebook: "ladanivayaman"
   instagram: "ladaniva.ladaniva"
   tiktok: "@ladaniva.ladaniva"
@@ -28,8 +29,10 @@ socials:
   email: ""
   amazon: ""
   apple: "1502475771"
-  deezer: ""
-  qobuz: ""
+  deezer: "88142012"
+  qobuz: "8841843"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Ladaniva est un groupe français qui émerge sur la scène world music hexagonale avec une approche festive mêlant

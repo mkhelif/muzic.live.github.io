@@ -2,6 +2,7 @@
 id: "b67f2bdd-2429-4b78-a540-afcb51aa66f7"
 title: "Katinka"
 socials:
+  musicbrainz: "2702b181-5238-45ad-9877-f644a9362382"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

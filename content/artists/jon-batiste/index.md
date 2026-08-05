@@ -3,11 +3,13 @@ id: "36a5443d-21b4-4092-8016-2e2a19b85f4a"
 title: "Jon Batiste"
 type: person
 socials:
+  musicbrainz: "a2a72dba-3a08-43c4-859c-4c7f5fcc9599"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "1224807"
+  songkick: "2824781"
   youtube: ""
   web: ""
   email: ""
@@ -16,7 +18,11 @@ socials:
   deezer: "1059460"
   qobuz: ""
   spotify: "0eRbECAGCLLiTyVXPBRexU"
-  tidal: ""
+  tidal: "6241227"
+lifespan:
+  start: 1986-11-11
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Jon Batiste est un musicien, compositeur, producteur et chef d'orchestre américain né le 11 novembre 1986 à Metairie, en

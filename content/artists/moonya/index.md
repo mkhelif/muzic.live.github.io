@@ -2,6 +2,7 @@
 id: "f9fdb73a-7631-4436-8b29-841c6bc67a26"
 title: "Moonya"
 socials:
+  musicbrainz: "220a3eb9-0e6d-4e88-9d37-2c2769884afd"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

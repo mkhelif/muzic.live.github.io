@@ -3,6 +3,7 @@ id: "e36230af-3a5f-443a-a5cc-8695580dc83a"
 title: "KWN"
 type: person
 socials:
+  musicbrainz: "2b6f07bc-79f0-4b30-bff0-412c2815a0f3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,14 +13,18 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1629656232"
   deezer: "14601135"
   qobuz: ""
   spotify: "2KnhnL8zuqLhIhGk601fsb"
-  tidal: ""
+  tidal: "9762896"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 2000-04-05
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kwn (prononcé « kay-wuhn »), de son vrai nom Khyra Wilson, est une chanteuse, autrice-compositrice, rappeuse et

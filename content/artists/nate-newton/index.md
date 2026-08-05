@@ -3,6 +3,7 @@ id: "61b19511-3527-4e19-8447-eeb9229fdef7"
 title: "Nate Newton"
 type: person
 socials:
+  musicbrainz: "5279c1b0-6751-4836-9c71-9abd227bd209"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,4 +21,8 @@ socials:
 todo:
   - Add description
   - Add socials
+lifespan:
+  start: 1975-10-09
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

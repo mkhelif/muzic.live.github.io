@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Quelque part entre les forêts ancestrales et les vallées où résonnent encore des échos païens, Meuhstache trace depuis

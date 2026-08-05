@@ -2,24 +2,28 @@
 id: "f96465fa-bceb-4a92-8539-3802b577a64a"
 title: "Lorna Shore"
 socials:
+  musicbrainz: "e86fc1f5-d632-44b2-8aea-38f83aadffe8"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
   bandsintown: "1004641"
+  songkick: "3271811"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B007ZMUGLY"
   apple: "385220213"
   deezer: "482260"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "1640917"
+  spotify: "6vXYoy8ouRVib302zxaxFF"
+  tidal: "5269283"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Lorna Shore est un groupe américain de deathcore formé début 2009 dans le New Jersey par Jeff Moskovciak, qui

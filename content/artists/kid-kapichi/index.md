@@ -27,6 +27,7 @@ members:
       - start: 2013
         end: 2025
 socials:
+  musicbrainz: "b0e1beff-2561-44c2-9c25-5f5fa9f41984"
   facebook: "KidKapichi"
   instagram: "kidkapichi"
   tiktok: "@kidkapichi"
@@ -41,6 +42,8 @@ socials:
   apple: "1134664298"
   deezer: "14331995"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kid Kapichi est un groupe de rock britannique formé à Hastings, qui émerge sur la scène rock indépendante avec une

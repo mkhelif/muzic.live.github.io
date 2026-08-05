@@ -20,6 +20,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 La musique électronique a ses dynasties parisiennes, ses dieux berlinois, ses prophètes ibiziens. Laura Laffon, elle,

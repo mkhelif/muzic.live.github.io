@@ -3,11 +3,13 @@ id: "3f95facc-d887-4f78-84fd-914b7d8d778a"
 title: "Kim Churchill"
 type: person
 socials:
+  musicbrainz: "3ba4fa74-272d-49a7-b36a-6c6c7abf9c09"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "1048768"
+  songkick: "3302466"
   youtube: ""
   web: ""
   email: ""
@@ -17,6 +19,10 @@ socials:
   qobuz: ""
   spotify: "0ZmJRBCKYicwq9n4FjZpho"
   tidal: ""
+lifespan:
+  start: 1990-09-26
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Kim Sebastian Churchill est un musicien australien né le 26 septembre 1990 à Canberra, avant de grandir dès l'âge de

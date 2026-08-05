@@ -3,6 +3,7 @@ id: "e8061004-8852-458a-910e-228208541778"
 title: "John Connelly"
 type: person
 socials:
+  musicbrainz: "10ec5978-200c-47ab-b2c6-a03ced1a76ed"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,4 +23,8 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1962-07-28
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

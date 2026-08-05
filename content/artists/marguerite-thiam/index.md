@@ -3,6 +3,7 @@ id: "1f817b2d-1513-4ce1-ba22-5bd905f576f1"
 title: "Marguerite Thiam"
 type: person
 socials:
+  musicbrainz: "37ae1458-d20b-4696-95da-532b0483c881"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

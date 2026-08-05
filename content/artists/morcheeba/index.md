@@ -30,23 +30,27 @@ members:
       - start: 2005
         end: 2005
 socials:
+  musicbrainz: "067102ea-9519-4622-9077-57ca4164cfbb"
   facebook: "MorcheebaBand"
   instagram: "morcheebaband"
   tiktok: ""
   x: "MorcheebaBand"
   bandsintown: "14641426"
+  songkick: "496494"
   youtube: "@MorcheebaHQ"
   web: "https://morcheeba.uk/"
   email: ""
-  amazon: ""
+  amazon: "B001E3X8VU"
   apple: "161916"
   deezer: "901"
   qobuz: ""
   spotify: "6bWxFw65IEJzBYjx3SxUXd"
-  tidal: ""
+  tidal: "12034"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Morcheeba est un groupe anglais fondé au milieu des années 1990 par les frères Paul et **Ross Godfrey**, qui recrutent

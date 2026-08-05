@@ -2,7 +2,12 @@
 id: "bcd28ca5-451c-4701-a968-48086d087d28"
 title: "MADAM"
 type: band
+members:
+  - id: "5c966e7e-833b-4d87-9faa-ed527a8e3640"
+    roles:
+      - other
 socials:
+  musicbrainz: "7b5b2dd0-d84a-407f-996b-4c699db50a37"
   facebook: "madamofficiel"
   instagram: "madamofficiel"
   bandcamp: "madam"
@@ -15,9 +20,11 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1100017233"
   deezer: ""
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Au départ, il n'y avait rien. Les trois musiciennes ne se connaissaient pas et se sont rencontrées pour monter le

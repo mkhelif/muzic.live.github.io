@@ -3,6 +3,7 @@ id: "8c7ebbbb-083b-482a-b579-1841c6992ab8"
 title: "Maïsman"
 type: band
 socials:
+  musicbrainz: "4a65137e-1d75-43ec-9d62-12aadceae11a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

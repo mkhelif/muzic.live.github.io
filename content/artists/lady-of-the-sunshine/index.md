@@ -2,6 +2,7 @@
 id: "9ca06b89-93e9-4d25-8c84-43c9db3a9d30"
 title: "Lady Of the Sunshine"
 socials:
+  musicbrainz: "745e8743-bb38-4fd5-b7ad-ef2bfec4d7f0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -2,11 +2,31 @@
 id: "35f3c146-0d9b-44d8-bb73-31342b2e6bee"
 title: "Nada Surf"
 type: band
+members:
+  - id: "bac2ecf5-50f6-466d-aa39-e360530a5270"
+    roles:
+      - other
+    periods:
+      - start: 2012
+  - id: "6a8c13fd-8c0f-4ded-971c-8eb56bf857df"
+    roles:
+      - other
+  - id: "a16e50ac-0557-4aa6-81a1-21c929b99f83"
+    roles:
+      - other
+  - id: "28500ab0-4dac-48f4-b726-3a62bf908378"
+    roles:
+      - other
+  - id: "ee3a1003-1dac-4502-9a6d-22207458d4ac"
+    roles:
+      - other
 socials:
+  musicbrainz: "b9a2a9a6-7a40-48a6-bcb1-8eff5b89ad5b"
   facebook: "NadaSurf"
   instagram: "nadasurf_official"
   x: "nadasurf"
   bandsintown: "753"
+  songkick: "172227"
   youtube: "@nadasurf"
   web: "https://www.nadasurf.com"
   tidal: "10595"
@@ -17,6 +37,8 @@ socials:
   apple: "193835"
   deezer: "1183"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Nada Surf est un groupe américain formé en 1992 à New York, qui a transcendé son statut de groupe à tube unique pour

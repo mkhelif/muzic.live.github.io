@@ -19,6 +19,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Née en 1979 à Aix-en-Provence, d'une mère anglo-danoise et d'un père franco-provençal, Liza baigne dès l'enfance dans un

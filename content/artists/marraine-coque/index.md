@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Marraine Coque est un groupe bisontin mené par Fabienne Boucard, auteur, compositeur, interprète, qu’elle a fondé en

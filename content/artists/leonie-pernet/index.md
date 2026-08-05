@@ -3,20 +3,26 @@ id: "6ffa4682-bd9d-4df7-a4df-4478fa4f1b76"
 title: "Léonie Pernet"
 type: person
 socials:
+  musicbrainz: "0de4c4c7-0525-4e6b-ba13-e05b0c3f18bc"
   instagram: "leoniepernet"
   facebook: ""
   tiktok: ""
   x: ""
   bandsintown: "4669195"
+  songkick: "7452264"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B00OAVWMYM"
   apple: "853216288"
   deezer: "5701960"
-  qobuz: ""
+  qobuz: "1725679"
   spotify: "5hGg5Xi5EqhkDooT7myKfC"
   tidal: ""
+lifespan:
+  start: 1989-01-13
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Léonie Pernet est une autrice-compositrice, multi-instrumentiste et productrice française née le 13 janvier 1989 à

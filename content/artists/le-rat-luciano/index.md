@@ -3,6 +3,7 @@ id: "1400eddd-a107-406a-bc6c-853e649984cf"
 title: "Le Rat Luciano"
 type: person
 socials:
+  musicbrainz: "efe85b46-488f-4fbf-adf8-a9ca1cf26d0b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,13 +14,17 @@ socials:
   email: ""
   amazon: ""
   apple: "15532259"
-  deezer: ""
-  qobuz: ""
+  deezer: "13672"
+  qobuz: "99709"
   spotify: "5QuZ9HdvnXcX8kEG782Phv"
-  tidal: ""
+  tidal: "25665"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1976-04-21
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Le Rat Luciano, de son vrai nom Christophe Carmona, né le 9 avril 1976, est un rappeur français originaire de Marseille,

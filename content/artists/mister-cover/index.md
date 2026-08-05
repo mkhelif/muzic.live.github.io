@@ -3,11 +3,13 @@ id: "d39a0d4a-d3a7-4783-9028-7e9453aba7a5"
 title: "Mister Cover"
 type: band
 socials:
+  musicbrainz: "cb6e7c28-feb5-43c8-adbb-400128390214"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "1485204"
+  songkick: "5338593"
   youtube: ""
   web: ""
   email: ""
@@ -17,6 +19,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Mister Cover est un groupe de reprises belge, considéré comme une référence incontournable dans le paysage des cover

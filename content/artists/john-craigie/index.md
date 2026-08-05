@@ -2,6 +2,7 @@
 id: "e012768f-87f9-4a32-859a-912fbcae171b"
 title: "John Craigie"
 socials:
+  musicbrainz: "89b381cf-89f4-43d7-b85b-f53efb2bd1a8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: "259716390"
   deezer: "582695"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "7ytgyYmtUPfxXHsXEvgObK"
+  tidal: "6356702"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

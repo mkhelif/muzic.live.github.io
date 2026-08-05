@@ -2,7 +2,12 @@
 id: "d996ca19-d866-4177-9978-09f96291696c"
 title: "Johnny Mafia"
 type: band
+members:
+  - id: "c31e2a5b-9cba-4feb-8b26-c090c535f390"
+    roles:
+      - other
 socials:
+  musicbrainz: "ec310197-19bf-4167-8340-85710d91bc41"
   facebook: "johnnymafiagroupe"
   instagram: "johnnymafiasens"
   x: "JohnnyMafia1"
@@ -18,6 +23,8 @@ socials:
   apple: "1164216063"
   deezer: "5623164"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Johnny Mafia s'impose comme l'un des groupes les plus explosifs et rafraîchissants de la scène rock hexagonale

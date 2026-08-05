@@ -3,6 +3,7 @@ id: "5a6cd4f1-3188-469a-be4f-d30a012d1de5"
 title: "Mystically"
 type: band
 socials:
+  musicbrainz: "63e007cc-ab5c-4447-978e-79dc37166748"
   facebook: "MYSTICALLYSOULREGGAE"
   instagram: "mysticallymusic"
   bandsintown: "11331729"
@@ -14,9 +15,11 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1489746858"
+  deezer: "79751922"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 L'histoire de Mystically commence dans les coulisses d'un concert parisien, fin 2006. Adeline Aurokiom et Marie-Lou

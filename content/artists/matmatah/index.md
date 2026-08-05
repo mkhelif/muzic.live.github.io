@@ -35,10 +35,12 @@ members:
     periods:
       - start: 2015
 socials:
+  musicbrainz: "276a554b-5be6-43b3-b05d-d1e6c3dadb64"
   facebook: "Matmatah.official"
   instagram: "matmatahofficiel"
   x: "matmatah"
   bandsintown: "40487"
+  songkick: "557431"
   youtube: "@Matmatah"
   web: "https://www.matmatah.com/"
   tidal: "3673229"
@@ -49,6 +51,8 @@ socials:
   apple: "128572788"
   deezer: "660"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Tout commence en septembre 1995, lorsque Stan et Sammy qui, à cette époque, formaient un duo appelé "Tricards Twins",

@@ -2,7 +2,15 @@
 id: "0acb8e69-eaf0-423a-8ac0-26fc12121856"
 title: "L'Entourloop"
 type: band
+members:
+  - id: "a588e892-2dad-4c62-bc45-59f9f2fbb326"
+    roles:
+      - other
+  - id: "f645d270-6276-4917-ad16-de6aff6d5345"
+    roles:
+      - other
 socials:
+  musicbrainz: "2b705925-4522-4193-a229-0d10a501b1d9"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,10 +20,12 @@ socials:
   email: ""
   amazon: ""
   apple: "936690950"
-  deezer: ""
+  deezer: "7010729"
   qobuz: ""
   spotify: "63vMehdxxRWq9HBZHskapk"
-  tidal: ""
+  tidal: "6214208"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 L'Entourloop est un duo français de hip-hop et de dub formé en 2013 à Saint-Étienne par deux DJs et beatmakers, **Sir

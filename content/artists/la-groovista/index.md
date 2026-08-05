@@ -3,6 +3,7 @@ id: "86ad3bfd-064b-4e5a-91b5-65839e348a75"
 title: "La Groovista"
 type: band
 socials:
+  musicbrainz: "e4cc0df8-d3b9-46c0-83de-bd852379261c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -19,6 +20,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 La Groovista est un groupe belge de six chanteuses percussionnistes qui partagent sur scène leur énergie, leur folie et

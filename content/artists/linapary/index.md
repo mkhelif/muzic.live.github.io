@@ -3,6 +3,7 @@ id: "311a3e0a-ad0e-4f2e-acff-38b82e3a4219"
 title: "Linapary"
 type: person
 socials:
+  musicbrainz: "8c6c1a99-5e7e-467a-8106-87877fe78696"
   facebook: ""
   instagram: "linapary"
   tiktok: ""
@@ -19,6 +20,8 @@ socials:
   qobuz: ""
   spotify: "1c0EKqLHGhhgS3hRMLPnuS"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Linapary est une artiste originaire de la côte caribéenne de la Colombie, aujourd'hui basée à Madrid.

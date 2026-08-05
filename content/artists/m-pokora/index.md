@@ -5,11 +5,13 @@ type: person
 aliases:
   - "Matt Pokora"
 socials:
+  musicbrainz: "7cf0d208-4232-4a56-a83b-3f28b2dd88cd"
   facebook: "MPokora"
   instagram: "mattpokora"
   x: "mpokora"
   threads: "@mattpokora"
   bandsintown: "445096"
+  songkick: "58880"
   youtube: "@MPokoraOfficiel"
   tiktok: ""
   web: ""
@@ -19,7 +21,11 @@ socials:
   deezer: "144446"
   qobuz: ""
   spotify: "6euPnGzBlDysAC5ecVguNZ"
-  tidal: ""
+  tidal: "3523376"
+lifespan:
+  start: 1985-09-26
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Matthieu Tota, dit **M. Pokora**, naît le 26 septembre 1985 à Strasbourg. Petit-fils d'immigrés polonais et fils de

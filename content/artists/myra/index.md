@@ -3,6 +3,7 @@ id: "4faee371-604a-44e9-a014-0d7418dc5dde"
 title: "Myra"
 type: person
 socials:
+  musicbrainz: "0ddd00fe-622f-425d-91b8-9ad5de7b9350"
   instagram: "smartkidmyra"
   facebook: ""
   tiktok: ""
@@ -15,8 +16,12 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "5A7Hbw7DZdPkS0IroRMDpd"
   tidal: ""
+lifespan:
+  start: 1986-05-21
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Myra est une autrice-compositrice-interprète française à la voix grave et veloutée, révélée par la nouvelle scène pop
