@@ -527,16 +527,22 @@ def _throttle():
         time.sleep(wait)
 
 
-def http_get(url, timeout=30):
+def http_get(url, timeout=30, headers=None):
     """GET ``url`` through the shared session, raising ``CloudflareBlocked`` on a
     bot challenge. Throttles to MIN_REQUEST_INTERVAL and retries rate-limit
     statuses (416/429/503) with backoff. The caller checks ``response.ok`` for
-    other statuses."""
+    other statuses.
+
+    ``headers`` are merged on top of the defaults — needed by APIs that require
+    an identifying User-Agent (MusicBrainz blocks generic ones)."""
     global _last_request_at
     session = get_session()
     # cloudscraper needs to control its own User-Agent to match its TLS
     # fingerprint; only send our browser headers on the plain-requests fallback.
-    headers = {} if USING_SCRAPER else BROWSER_HEADERS
+    base = {} if USING_SCRAPER else dict(BROWSER_HEADERS)
+    if headers:
+        base.update(headers)
+    headers = base
 
     response = None
     for attempt in range(HTTP_MAX_RETRIES):

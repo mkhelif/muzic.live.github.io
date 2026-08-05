@@ -253,90 +253,47 @@ def get_concert(event_id, country_code):
 
 
 # ---------------------------------------------------------------------------
-# Event writing
+# events.py adapter
 # ---------------------------------------------------------------------------
 
-def write_event(concert):
-    """Create a single event file (and its venue / line-up artists). Returns the
-    path if written, or ``None`` when skipped."""
-    date = datetime.fromisoformat(concert["date"])
-    date_format = f"{date.year}/{date.month:02d}/{date.day:02d}"
+PROVIDER = "deezer"
+SOCIAL_KEY = "deezer"
+THROTTLE = (REQUEST_INTERVAL, 0.0)
 
-    if len(concert["artists"]) > MAX_LINEUP:
-        return None
 
-    artist_ids = [utils.get_or_create_artist(name) for name in concert["artists"]]
-    location_id = utils.get_or_create_location(concert["location"])
+def fetch_events(provider_id, artist_name):
+    """Return this artist's concerts in events.py's common event model.
 
-    directory = Path(f"./content/events/{date_format}")
-    directory.mkdir(parents=True, exist_ok=True)
-    filename = "-".join(utils.format_filename(name) for name in concert["artists"]) + ".md"
-    event_file = directory.joinpath(filename)
-    if event_file.exists():
-        return None
-
-    lines = [
-        "---",
-        f"date: {date.isoformat()}",
-        f'venue: "{location_id}"',
-        "artists:",
-    ]
-    lines += [f'  - "{aid}"' for aid in artist_ids]
-    ticket = utils.clean_ticket_url(concert.get("ticket"))
-    if ticket:
-        lines += ["tickets:", f'  web: "{utils.yaml_quote(ticket)}"']
-    lines += ["---", ""]
-    event_file.write_text("\n".join(lines), encoding="UTF-8")
-    return event_file
+    Deezer is the only provider that flags festivals explicitly
+    (``types.isFestival``); events.py trusts that flag and falls back to the
+    line-up size heuristic for the others."""
+    events = []
+    for event_id, country_code in get_artist_events(provider_id):
+        concert = get_concert(event_id, country_code)
+        if concert is None:
+            continue
+        try:
+            date = datetime.fromisoformat(concert["date"])
+        except (KeyError, TypeError, ValueError):
+            continue
+        events.append({
+            "date": date,
+            "lineup": concert["artists"] or [artist_name],
+            "location": concert["location"],
+            "ticket": concert.get("ticket"),
+            "festival": bool(concert.get("festival")),
+            "source": PROVIDER,
+        })
+    return events
 
 
 # ---------------------------------------------------------------------------
-# Entry point: iterate over every artist declaring a Deezer id.
+# Entry point: run this provider alone, through the shared events.py driver.
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
-    utils.MIN_REQUEST_INTERVAL = REQUEST_INTERVAL
+    import sys
 
-    for artist in sorted(listdir("./content/artists")):
-        file = Path(f"./content/artists/{artist}/index.md")
-        if not file.exists():
-            continue
+    import events  # local import: events.py imports this module
 
-        data = utils.load_frontmatter(file)
-        socials = data.get("socials", None)
-        deezer_id = socials.get("deezer", None) if socials else None
-        if not deezer_id:
-            continue
-
-        name = data.get("title", None)
-
-        # Skip artists already refreshed from Deezer within the last week.
-        if not utils.is_stale(data, "deezer"):
-            print(f"{name} (skipped: refreshed within the last week)")
-            continue
-
-        print(name)
-        try:
-            for event_id, country_code in get_artist_events(deezer_id):
-                concert = get_concert(event_id, country_code)
-                if concert is None:
-                    continue
-
-                # Festivals are better handled as curated festival day events.
-                if concert["festival"]:
-                    location = concert["location"]
-                    print(
-                        f"  - (festival) {concert['date'][:10]}: "
-                        f"{', '.join(concert['artists'])} "
-                        f"({location['name']}, {location['city']}, {location['country']['name']})"
-                    )
-                    continue
-
-                created = write_event(concert)
-                if created is not None:
-                    print(f"  + {created}")
-
-            # Mark this artist as refreshed from Deezer today.
-            utils.set_last_update(file, "deezer")
-        except Exception:
-            print(traceback.format_exc())
+    events.run([sys.modules[__name__]])

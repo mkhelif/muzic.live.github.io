@@ -197,79 +197,50 @@ def build_location(venue):
 # Event writing
 # ---------------------------------------------------------------------------
 
-def write_event(concert, artist_name):
-    """Create a single event file from a parsed concert. Returns the path if
-    written, or ``None`` when skipped."""
-    date = concert["datetime"]
-    date_format = f"{date.year}/{date.month:02d}/{date.day:02d}"
+# ---------------------------------------------------------------------------
+# events.py adapter
+# ---------------------------------------------------------------------------
 
-    location = build_location(concert["venue"])
-    if location is None:
-        return None
+PROVIDER = "apple"
+SOCIAL_KEY = "apple"
+THROTTLE = (REQUEST_DELAY, 0.0)
 
-    artist_id = utils.get_or_create_artist(artist_name)
-    venue_id = utils.get_or_create_venue(location)
 
-    directory = Path(f"./content/events/{date_format}")
-    directory.mkdir(parents=True, exist_ok=True)
-    event_file = directory.joinpath(utils.format_filename(artist_name) + ".md")
-    if event_file.exists():
-        return None
+def fetch_events(provider_id, artist_name):
+    """Return this artist's concerts in events.py's common event model.
 
-    lines = [
-        "---",
-        f"date: {date.isoformat()}",
-        f'venue: "{venue_id}"',
-        "artists:",
-        f'  - "{artist_id}"',
-    ]
-    ticket = utils.clean_ticket_url(concert.get("ticket"))
-    if ticket:
-        lines += ["tickets:", f'  web: "{utils.yaml_quote(ticket)}"']
-    lines += ["---", ""]
-    event_file.write_text("\n".join(lines), encoding="UTF-8")
-    return event_file
+    Apple bills one concert page per artist, so the line-up is just the artist
+    being processed; events.py merges it with the richer line-ups the other
+    providers return for the same date and venue."""
+    events = []
+    for concert_id in get_concert_ids(provider_id):
+        response = utils.http_get(CONCERT_URL.format(sf=STOREFRONT, ce=concert_id))
+        if not response.ok:
+            continue
+        concert = parse_concert(response.text)
+        if concert is None:
+            continue
+        location = build_location(concert["venue"])
+        if location is None:
+            continue
+        events.append({
+            "date": concert["datetime"],
+            "lineup": [artist_name],
+            "location": location,
+            "ticket": concert.get("ticket"),
+            "festival": False,
+            "source": PROVIDER,
+        })
+    return events
 
 
 # ---------------------------------------------------------------------------
-# Entry point: iterate over every artist declaring an Apple Music id.
+# Entry point: run this provider alone, through the shared events.py driver.
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
-    for artist in sorted(listdir("./content/artists")):
-        file = Path(f"./content/artists/{artist}/index.md")
-        if not file.exists():
-            continue
+    import sys
 
-        data = utils.load_frontmatter(file)
-        socials = data.get("socials", None)
-        apple_id = socials.get("apple", None) if socials else None
-        if not apple_id:
-            continue
+    import events  # local import: events.py imports this module
 
-        name = data.get("title", None)
-
-        # Skip artists already refreshed from Apple Music within the last week.
-        if not utils.is_stale(data, "apple"):
-            print(f"{name} (skipped: refreshed within the last week)")
-            continue
-
-        print(name)
-        try:
-            for ce in get_concert_ids(apple_id):
-                response = utils.http_get(CONCERT_URL.format(sf=STOREFRONT, ce=ce))
-                if not response.ok:
-                    continue
-                concert = parse_concert(response.text)
-                if concert is not None:
-                    created = write_event(concert, name)
-                    if created is not None:
-                        print(f"  + {created}")
-                time.sleep(REQUEST_DELAY)
-            # Mark this artist as refreshed from Apple Music today.
-            utils.set_last_update(file, "apple")
-        except utils.CloudflareBlocked as blocked:
-            print(f"\n{blocked}")
-            break
-        except Exception:
-            print(traceback.format_exc())
+    events.run([sys.modules[__name__]])

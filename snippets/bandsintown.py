@@ -299,84 +299,50 @@ def ticket_url(event):
     return event.get("url")
 
 
-def write_event(event, artist_name):
-    """Create a single event file from a Bandsintown event. Returns the path
-    if written, or ``None`` when skipped."""
-    date = datetime.fromisoformat(event["datetime"])
-    date_format = f"{date.year}/{date.month:02d}/{date.day:02d}"
+# ---------------------------------------------------------------------------
+# events.py adapter
+# ---------------------------------------------------------------------------
 
-    location = build_location(event.get("venue") or {})
-    if location is None:
-        return None
+# Identity of this provider for events.py: the `socials` key holding its id,
+# the `lastUpdate` key, and the throttle it needs.
+PROVIDER = "bandsintown"
+SOCIAL_KEY = "bandsintown"
+THROTTLE = (REQUEST_INTERVAL, REQUEST_JITTER)
 
-    lineup = event_lineup(event, artist_name)
-    if len(lineup) > MAX_LINEUP:
-        return None
 
-    artist_ids = [utils.get_or_create_artist(a) for a in lineup]
-    venue_id = get_or_create_venue(location)
+def fetch_events(provider_id, artist_name):
+    """Return this artist's concerts in events.py's common event model.
 
-    filename = "-".join(utils.format_filename(a) for a in lineup) + ".md"
-    directory = Path(f"./content/events/{date_format}")
-    directory.mkdir(parents=True, exist_ok=True)
-    event_file = directory.joinpath(filename)
-    if event_file.exists():
-        return None
-
-    lines = [
-        "---",
-        f"date: {date.isoformat()}",
-        f'venue: "{venue_id}"',
-        "artists:",
-    ]
-    lines += [f'  - "{aid}"' for aid in artist_ids]
-
-    url = utils.clean_ticket_url(ticket_url(event))
-    if url:
-        lines += ["tickets:", f'  web: "{utils.yaml_quote(url)}"']
-
-    lines += ["---", ""]
-    event_file.write_text("\n".join(lines), encoding="UTF-8")
-    return event_file
+    Writing is events.py's job — this only fetches and normalises."""
+    events = []
+    for raw in get_artist_events(provider_id):
+        location = build_location(raw.get("venue") or {})
+        if location is None:
+            continue
+        try:
+            date = datetime.fromisoformat(raw["datetime"])
+        except (KeyError, TypeError, ValueError):
+            continue
+        events.append({
+            "date": date,
+            "lineup": event_lineup(raw, artist_name),
+            "location": location,
+            "ticket": ticket_url(raw),
+            # Bandsintown doesn't flag festivals; events.py falls back to the
+            # line-up size heuristic (MAX_LINEUP).
+            "festival": False,
+            "source": PROVIDER,
+        })
+    return events
 
 
 # ---------------------------------------------------------------------------
-# Entry point: iterate over every artist declaring a Bandsintown id.
+# Entry point: run this provider alone, through the shared events.py driver.
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
-    # Throttle Bandsintown requests to avoid its 416 rate-limit responses.
-    utils.MIN_REQUEST_INTERVAL = REQUEST_INTERVAL
-    utils.REQUEST_JITTER = REQUEST_JITTER
+    import sys
 
-    for artist in sorted(listdir("./content/artists")):
-        file = Path(f"./content/artists/{artist}/index.md")
-        if not file.exists():
-            continue
+    import events  # local import: events.py imports this module
 
-        data = utils.load_frontmatter(file)
-        socials = data.get("socials", None)
-        bandsintown_id = socials.get("bandsintown", None) if socials else None
-        if not bandsintown_id:
-            continue
-
-        name = data.get("title", None)
-
-        # Skip artists already refreshed from Bandsintown recently.
-        if not utils.is_stale(data, "bandsintown"):
-            print(f"{name} (skipped: refreshed recently)")
-            continue
-
-        print(name)
-        try:
-            for event in get_artist_events(bandsintown_id):
-                created = write_event(event, name)
-                if created is not None:
-                    print(f"  + {created}")
-            # Mark this artist as refreshed from Bandsintown today.
-            utils.set_last_update(file, "bandsintown")
-        except utils.CloudflareBlocked as blocked:
-            print(f"\n{blocked}")
-            break
-        except Exception:
-            print(traceback.format_exc())
+    events.run([sys.modules[__name__]])
