@@ -2,6 +2,17 @@
 id: "84497f6b-27d2-4db8-8577-e043406e7db9"
 title: "Adriatique"
 type: band
+members:
+  - id: "ad9aa277-5bce-45a3-b92c-246873e12671"
+    roles:
+      - other
+    periods:
+      - start: 2009
+  - id: "1e656038-4dc4-497e-8942-f74197f59ac8"
+    roles:
+      - other
+    periods:
+      - start: 2009
 socials:
   musicbrainz: "252bc5e8-d8e7-4f79-af85-cb7546793405"
   facebook: ""

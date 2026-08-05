@@ -2,6 +2,56 @@
 id: "ea091e2b-e77d-49a7-9f7b-69bba3562dd1"
 title: "1914"
 type: band
+members:
+  - id: "c2719dcc-3275-46fc-ba80-c6b68e136c6e"
+    roles:
+      - sing
+    periods:
+      - start: 2014
+  - id: "7a536d56-cdb0-437e-81eb-f73213b536b0"
+    roles:
+      - guitar
+    periods:
+      - start: 2014
+  - id: "734081c3-9f55-4b02-9014-04f5ea4b6415"
+    roles:
+      - guitar
+    periods:
+      - start: 2016
+  - id: "a004ab71-6ffe-4e19-bf17-11b11aa2eeeb"
+    roles:
+      - bass
+    periods:
+      - start: 2014
+  - id: "5d0dc989-8c77-4c7a-90c2-b4c79390db76"
+    roles:
+      - drums
+    periods:
+      - start: 2024
+  - id: "ec01035d-5a44-4790-9338-b8d00fbc47cd"
+    roles:
+      - drums
+    periods:
+      - start: 2014
+        end: 2016
+  - id: "1603ad00-f0cb-4009-9709-9f21807d6121"
+    roles:
+      - guitar
+    periods:
+      - start: 2014
+        end: 2015
+  - id: "ee016d56-667c-41d2-bbab-e9a23c5ed292"
+    roles:
+      - guitar
+    periods:
+      - start: 2015
+        end: 2016
+  - id: "2fb2401b-e5f3-4cb2-b32e-004937595ab1"
+    roles:
+      - drums
+    periods:
+      - start: 2016
+        end: 2024
 socials:
   musicbrainz: "eda0c0a6-c3ce-426d-8f84-e3200bc02693"
   facebook: ""

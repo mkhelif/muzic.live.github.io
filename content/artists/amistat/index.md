@@ -2,6 +2,19 @@
 id: "c3c7f832-a850-432e-bc32-212522d06c06"
 title: "Amistat"
 type: band
+members:
+  - id: "4b332f47-f5e0-452a-a722-fa26f91c30cd"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2012
+  - id: "62cba2ca-ceb7-4485-b155-3c9d2945c0d4"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2012
 socials:
   musicbrainz: "593b479e-f0d9-445e-bd7c-8dcc6bf3344d"
   facebook: ""

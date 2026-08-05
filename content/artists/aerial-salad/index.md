@@ -2,6 +2,24 @@
 id: "b3e8db31-40f7-4b92-a8e3-20e888655173"
 title: "Aerial Salad"
 type: band
+members:
+  - id: "854e3bde-ea18-40c1-b624-799c5a9943fe"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2016
+  - id: "ca0ff676-a0e7-43b7-943e-af3fe59ef44e"
+    roles:
+      - bass
+      - sing
+    periods:
+      - start: 2016
+  - id: "8bf335ef-39b5-474d-a455-5b2d8a7aacde"
+    roles:
+      - drums
+    periods:
+      - start: 2016
 socials:
   musicbrainz: "30be4dae-121e-4219-b366-cec72eae4724"
   facebook: ""
