@@ -6,10 +6,6 @@ members:
   - id: "bf7f6406-a9e0-4b56-8e22-df834347ee3a"
     roles:
       - sing
-    periods:
-      - start: 2004
-  - id: "65d37575-e6b5-4f91-aa42-0a75b818daef"
-    roles:
       - guitar
     periods:
       - start: 2004
@@ -21,6 +17,12 @@ members:
   - id: "4e0ed0c5-3861-4f2b-bc5c-77daed9f4a20"
     roles:
       - drums
+    periods:
+      - start: 2004
+  - id: "65d37575-e6b5-4f91-aa42-0a75b818daef"
+    roles:
+      - sing
+      - guitar
     periods:
       - start: 2004
 socials:
@@ -42,6 +44,7 @@ socials:
   spotify: "4DWX7u8BV0vZIQSpJQQDWU"
   tidal: "58484"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 
