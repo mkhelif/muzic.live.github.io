@@ -87,11 +87,13 @@ def yaml_quote(value):
     return str(value).replace("\\", "\\\\").replace('"', '\\"')
 
 
-# Hosts whose ticket URLs carry a tracking query string we always drop.
-# Songkick appends ``?referer_info=<hash>``: it identifies the referrer, is not
-# needed to reach the page, and — being regenerated on every fetch — would make
-# the same event look "changed" on each import run.
-TRACKED_TICKET_HOSTS = ("songkick.com",)
+# Hosts whose ticket URLs carry a tracking query string we always drop. These
+# parameters identify the referrer, are not needed to reach the page, and —
+# being regenerated on every fetch — would make the same event look "changed"
+# on each import run:
+#   songkick.com    ?referer_info=<hash>
+#   bandsintown.com ?came_from=<n>, ?app_id=&utm_medium=&utm_source=&utm_campaign=
+TRACKED_TICKET_HOSTS = ("songkick.com", "bandsintown.com")
 
 
 def clean_ticket_url(url):

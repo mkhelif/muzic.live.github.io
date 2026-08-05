@@ -62,6 +62,11 @@ _DATE_RE = re.compile(
 )
 _TIME_RE = re.compile(r"(\d{1,2})\s*[:h]\s*(\d{2})?")
 
+# How far a parsed date may fall outside "now" before it is rejected as a
+# false positive (see _parse_datetime). Apple lists upcoming concerts only.
+PAST_TOLERANCE_DAYS = 400
+FUTURE_TOLERANCE_DAYS = 365 * 3
+
 
 # ---------------------------------------------------------------------------
 # Concert list
@@ -126,23 +131,36 @@ def _parse_maps_link(html_text):
 
 
 def _parse_datetime(text):
-    """Parse the French date (+ time) into a naive datetime, or ``None``."""
-    date_match = _DATE_RE.search(text)
-    if not date_match:
-        return None
-    day = int(date_match.group(1))
-    month = _MONTHS_FR[date_match.group(2).lower()]
-    year = int(date_match.group(3))
+    """Parse the French date (+ time) into a naive datetime, or ``None``.
 
-    hour = minute = 0
-    time_match = _TIME_RE.search(text, date_match.end(), date_match.end() + 40)
-    if time_match:
-        hour = int(time_match.group(1))
-        minute = int(time_match.group(2) or 0)
-    try:
-        return datetime(year, month, day, hour, minute)
-    except ValueError:
-        return None
+    The page text includes the venue's postal address, and French streets are
+    very often named after a date — "Place du 8 Mai 1945", "Rue du 19 Mars
+    1962". Taking the first regex match therefore produced events dated 1945
+    or 1962. So every match is considered, and only a *plausible* concert date
+    is accepted: Apple's concerts pages list upcoming shows, so anything far
+    in the past is an address, not a date."""
+    today = datetime.now()
+    for date_match in _DATE_RE.finditer(text):
+        day = int(date_match.group(1))
+        month = _MONTHS_FR[date_match.group(2).lower()]
+        year = int(date_match.group(3))
+
+        hour = minute = 0
+        time_match = _TIME_RE.search(text, date_match.end(), date_match.end() + 40)
+        if time_match:
+            hour = int(time_match.group(1))
+            minute = int(time_match.group(2) or 0)
+        try:
+            when = datetime(year, month, day, hour, minute)
+        except ValueError:
+            continue
+
+        if (today - when).days > PAST_TOLERANCE_DAYS:
+            continue  # an address, or a long-gone show
+        if (when - today).days > FUTURE_TOLERANCE_DAYS:
+            continue  # nobody announces this far ahead
+        return when
+    return None
 
 
 def _ticket_url(html_text):

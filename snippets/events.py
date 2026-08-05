@@ -66,6 +66,7 @@ Run from the repository root::
 
 import sys
 import traceback
+from datetime import datetime
 from os import listdir
 from pathlib import Path
 
@@ -102,6 +103,15 @@ PAST_SINCE = "1970-01-01"
 
 # Beyond this many artists a concert is treated as a festival day.
 MAX_LINEUP = 5
+
+# Sanity window for an event date. A provider that parses dates out of page
+# text can latch onto the wrong number — apple.py once dated concerts to 1945
+# and 1962, having matched "Place du 8 Mai 1945" and "Rue du 19 Mars 1962" in
+# the venue's address. Those are real French street names, so the parse looked
+# perfectly valid. This is the backstop: whatever the source, an event outside
+# the window is reported and dropped rather than filed.
+MIN_EVENT_YEAR = 1950
+FUTURE_TOLERANCE_DAYS = 365 * 3
 
 # When True, report what would happen and create nothing.
 DRY_RUN = False
@@ -153,6 +163,17 @@ def merge(events):
     return list(merged.values())
 
 
+def implausible(event):
+    """Return why an event's date can't be real, or ``None`` when it's fine."""
+    date = event["date"]
+    if date.year < MIN_EVENT_YEAR:
+        return f"dated {date.date()} — before {MIN_EVENT_YEAR}"
+    ahead = (date.replace(tzinfo=None) - datetime.now()).days
+    if ahead > FUTURE_TOLERANCE_DAYS:
+        return f"dated {date.date()} — more than {FUTURE_TOLERANCE_DAYS // 365} years ahead"
+    return None
+
+
 def is_festival(event):
     """A provider flag, or a line-up too large to be a normal bill."""
     return bool(event["festival"]) or len(event["lineup"]) > MAX_LINEUP
@@ -166,11 +187,15 @@ def write_event(event):
     """Create the artists, the venue and the event file.
 
     Returns ``(path, status)`` where status is one of ``"created"``,
-    ``"exists"`` or ``"festival"``.
+    ``"exists"``, ``"festival"`` or ``"implausible"``.
 
     The artists are created **before** the festival check on purpose: a
     festival day is written up by hand later, and having every act on the bill
     already on file is exactly what that work needs."""
+    # A bad date must not create anything at all — not even the artists.
+    if implausible(event):
+        return None, "implausible"
+
     if DRY_RUN:
         status = "festival" if is_festival(event) else "created"
         return None, status
@@ -262,7 +287,7 @@ def run(providers=None):
     print(f"Importing events from: {names}. {window}. "
           f"Mode: {'DRY-RUN' if DRY_RUN else 'WRITE'}.\n")
 
-    processed = created = festivals = errors = 0
+    processed = created = festivals = dropped = errors = 0
     for slug in sorted(listdir("./content/artists")):
         file = Path(f"./content/artists/{slug}/index.md")
         if not file.exists():
@@ -310,6 +335,11 @@ def run(providers=None):
             if status == "created":
                 created += 1
                 print(f"  + {path or event['date'].date()}")
+            elif status == "implausible":
+                dropped += 1
+                print(f"  ! dropped: {implausible(event)} "
+                      f"({', '.join(event['lineup'])} @ {location['name']}) "
+                      f"[{', '.join(event.get('sources', []))}]")
             elif status == "festival":
                 festivals += 1
                 print(f"  - (festival) {event['date'].date()}: "
@@ -326,7 +356,8 @@ def run(providers=None):
             break
 
     print(f"\nDone. artists={processed}, events_created={created}, "
-          f"festivals_skipped={festivals}, errors={errors}")
+          f"festivals_skipped={festivals}, implausible_dates={dropped}, "
+          f"errors={errors}")
 
 
 def main():
