@@ -7,5 +7,6 @@ socials:
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "1160784"
   youtube: ""
 ---

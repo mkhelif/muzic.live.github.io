@@ -6,6 +6,7 @@ socials:
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "1068944"
   youtube: ""
 todo:
   - Add description/picture/socials

@@ -6,6 +6,7 @@ socials:
   instagram: ""
   tiktok: ""
   x: ""
+  bandsintown: "15401"
   youtube: ""
   web: ""
   email: ""

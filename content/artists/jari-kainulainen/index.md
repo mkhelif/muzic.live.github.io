@@ -8,6 +8,7 @@ socials:
   tiktok: ""
   x: ""
   threads: ""
+  bandsintown: "1470016"
   youtube: ""
 todo:
   - Add description

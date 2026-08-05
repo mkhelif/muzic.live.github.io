@@ -8,5 +8,6 @@ socials:
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "128437"
   youtube: ""
 ---

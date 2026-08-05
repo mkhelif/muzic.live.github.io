@@ -8,6 +8,7 @@ socials:
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "272824"
   youtube: ""
 lastUpdate:
   deezer: 2026-08-04

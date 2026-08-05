@@ -9,4 +9,6 @@ socials:
   x: ""
   threads: ""
   youtube: ""
+lastUpdate:
+  bandsintown-lookup: 2026-08-05
 ---

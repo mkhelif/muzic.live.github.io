@@ -12,5 +12,6 @@ socials:
   web: "https://www.kalafepalanga.com/"
   spotify: "4VhiGR0R8nQkpu89v8TfLB"
 lastUpdate:
+  bandsintown-lookup: 2026-08-05
   deezer: 2026-07-27
 ---

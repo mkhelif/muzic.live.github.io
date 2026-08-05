@@ -8,6 +8,7 @@ socials:
   tiktok: ""
   threads: ""
   x: ""
+  bandsintown: "14120930"
   youtube: ""
   web: ""
   email: ""

@@ -6,6 +6,7 @@ socials:
   instagram: ""
   x: ""
   threads: ""
+  bandsintown: "155045"
   youtube: ""
 lastUpdate:
   apple-lookup: 2026-07-27
