@@ -3,6 +3,7 @@ id: "db34e79a-dd70-451f-966b-9a930f7b9dbf"
 title: "Cali"
 type: person
 socials:
+  musicbrainz: "5cad62bb-d08e-4ed7-9b22-7c2026587fc4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,19 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "15023864"
+  deezer: "898"
   qobuz: ""
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1968-06-28
 ---
 
 Cali, de son vrai nom Bruno Caliciuri, est un auteur-compositeur-interprète français né le 28 juin 1968 à

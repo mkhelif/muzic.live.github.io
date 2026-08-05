@@ -3,6 +3,7 @@ id: "072b9fe9-1868-4efb-92e2-c9dd36b7d2d6"
 title: "Caballero"
 type: person
 socials:
+  musicbrainz: "2cf020ab-c329-476d-b5ff-3207fd3317d1"
   facebook: "Caballerobxl"
   instagram: "caballerobxl"
   x: "caballerobxl"
@@ -13,14 +14,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "174702001"
+  deezer: "315030"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
+lifespan:
+  start: 1988-11-22
 ---
 
 Caballero est un rappeur français membre du collectif Double Hélice, originaire de la région parisienne, qui développe

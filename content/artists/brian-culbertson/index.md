@@ -3,6 +3,7 @@ id: "8064e1de-3c2d-4a35-88b9-7e4e055b54a5"
 title: "Brian Culbertson"
 type: person
 socials:
+  musicbrainz: "4bb39356-0c2d-4318-a20b-12323f05eeaa"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,11 +16,15 @@ socials:
   deezer: "9383"
   qobuz: ""
   spotify: "4WQ8grqJHB2Y0IDjpro1FE"
-  tidal: ""
+  tidal: "4971"
 lastUpdate:
+  apple: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
+lifespan:
+  start: 1973-01-12
 ---
 
 Né le 12 janvier 1973 à Decatur, dans l'Illinois, Brian Culbertson grandit dans une famille où son père, professeur de

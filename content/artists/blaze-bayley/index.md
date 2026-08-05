@@ -16,6 +16,7 @@ socials:
   qobuz: "172269"
   spotify: "2N1l5VEy6whDRqvnUElnau"
 lastUpdate:
+  apple: 2026-08-05
   musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27

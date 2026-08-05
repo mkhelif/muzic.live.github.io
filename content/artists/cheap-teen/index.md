@@ -3,6 +3,7 @@ id: "a4d73903-191a-445f-a869-fbe9dc298b1d"
 title: "Cheap Teen"
 type: band
 socials:
+  musicbrainz: "b2b7c6e8-d871-4e3d-a655-6934460bec47"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

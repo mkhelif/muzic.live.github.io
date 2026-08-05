@@ -3,6 +3,7 @@ id: "0356d8dd-7e50-4ef0-a9bf-96ca577a0c2f"
 title: "Charlie Dominici"
 type: person
 socials:
+  musicbrainz: "781e305d-9224-4ee7-932e-58a6f33b22b3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,7 +19,11 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1951-06-16
+  end: 2023-11-17
 ---

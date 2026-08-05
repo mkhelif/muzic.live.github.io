@@ -20,7 +20,7 @@ socials:
 todo:
   - Add cover from concert picture
 lastUpdate:
-  musicbrainz: 2026-08-04
+  musicbrainz-lookup: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26

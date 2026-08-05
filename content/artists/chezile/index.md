@@ -3,6 +3,7 @@ id: "bac3b4aa-18ec-40bd-af10-8b283ee3b9c9"
 title: "Chezile"
 type: person
 socials:
+  musicbrainz: "6cdf7825-577b-4689-92f9-4df5c8bafe4b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,18 +13,21 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1502584860"
   deezer: "14414117"
   qobuz: ""
   spotify: "1EmdfupUQDpXOcb4Nj2mBH"
-  tidal: ""
+  tidal: "18671741"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 2000-10-06
 ---

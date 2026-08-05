@@ -3,6 +3,7 @@ id: "0b20fe3c-93ef-4e77-a00d-d4036f05d5d9"
 title: "Buster Odeholm"
 type: person
 socials:
+  musicbrainz: "a879f435-5a08-4cf3-93a8-4ff73e43c958"
   facebook: "Bystah"
   instagram: "buster.odeholm"
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

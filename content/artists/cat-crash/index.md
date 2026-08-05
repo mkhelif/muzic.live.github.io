@@ -3,6 +3,7 @@ id: "e44e2ebe-43d3-494b-8179-b7c6b609371d"
 title: "Cat Crash"
 type: band
 socials:
+  musicbrainz: "abd1fe81-0f71-4be4-82d0-e36c60703d71"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

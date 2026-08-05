@@ -3,6 +3,7 @@ id: "ca3a5d54-fcea-477a-ae76-461d97e0a5b8"
 title: "Boys Noize"
 type: person
 socials:
+  musicbrainz: "d2f4a968-1f6e-4a4a-9376-ee2b2a50c87a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -10,16 +11,21 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001T21XM2"
   apple: "60393190"
-  deezer: ""
+  deezer: "9907"
   qobuz: ""
   spotify: "62k5LKMhymqlDNo2DWOvvv"
-  tidal: ""
+  tidal: "3538392"
 lastUpdate:
+  deezer: 2026-08-05
+  apple: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
+lifespan:
+  start: 1982-08-22
 ---
 
 Boys Noize est le nom d'artiste d'Alexander Ridha, producteur, compositeur et DJ allemand d'origine irakienne

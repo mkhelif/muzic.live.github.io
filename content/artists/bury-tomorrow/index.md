@@ -2,7 +2,36 @@
 id: "e7a5711b-914c-4317-9d77-6af95cbc1a7b"
 title: "Bury Tomorrow"
 type: band
+members:
+  - id: "ca283ab3-05ec-4a96-900a-9f564972a862"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2006
+      - start: 2006
+  - id: "fa575dba-64f6-4b91-a952-5d0f44c46bd7"
+    roles:
+      - guitar
+    periods:
+      - start: 2021
+  - id: "72505acf-4204-4a10-b430-2d6989b3f8fc"
+    roles:
+      - other
+  - id: "6cf5ff76-5839-4f0f-a71b-5b124d5a348f"
+    roles:
+      - drums
+  - id: "b8d334e1-fa76-44fd-814e-7828166afe0c"
+    roles:
+      - other
+  - id: "73d70700-d508-4e60-a4b0-99912fc26b29"
+    roles:
+      - other
+  - id: "82f7bdb8-116b-4fcc-8c7d-6fc67c895268"
+    roles:
+      - other
 socials:
+  musicbrainz: "95c4e9ef-291b-4f94-8bc9-2b00e76eacb0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,10 +43,11 @@ socials:
   amazon: ""
   apple: "288273840"
   deezer: "390473"
-  qobuz: ""
+  qobuz: "582418"
   spotify: "6BD4lgmnh4vy6kkCaZRDWt"
-  tidal: ""
+  tidal: "3877910"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

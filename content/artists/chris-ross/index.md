@@ -3,6 +3,7 @@ id: "1cd55baa-96e2-4b4b-9234-e352a30f62ba"
 title: "Chris Ross"
 type: person
 socials:
+  musicbrainz: "85d0ab23-125c-4315-97f0-dbaa26ea1b78"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

@@ -17,11 +17,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "9c5133a0-b2c9-466d-b750-058a3816048c"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
 ---

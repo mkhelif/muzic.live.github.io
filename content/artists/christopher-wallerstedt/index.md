@@ -2,6 +2,7 @@
 id: "bb61796b-eac1-4170-8e53-0d7adebe3936"
 title: "Christopher Wallerstedt"
 socials:
+  musicbrainz: "f7c52ccb-05c6-442c-8197-83d3c81991ca"
   apple: "998844842"
   facebook: ""
   instagram: ""
@@ -14,6 +15,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown-lookup: 2026-08-04
   deezer-lookup: 2026-08-04
 ---

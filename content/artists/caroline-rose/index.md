@@ -2,6 +2,7 @@
 id: "85fa37fc-0320-40b8-b7f1-7a3f20de08e7"
 title: "Caroline Rose"
 socials:
+  musicbrainz: "17862c0f-a9b1-46dd-b85d-7af965974afd"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,15 +14,16 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  deezer: "394863"
+  qobuz: "1707611"
+  spotify: "06W84OT2eFUNVwG85UsxJw"
+  tidal: "4979309"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

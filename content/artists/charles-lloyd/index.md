@@ -3,6 +3,7 @@ id: "bbb0a3d7-7f7b-4c87-b307-3e7653fd176d"
 title: "Charles Lloyd"
 type: person
 socials:
+  musicbrainz: "b9b579ad-e499-4e3e-9d09-06bc8e504135"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +17,14 @@ socials:
   deezer: "14645"
   qobuz: ""
   spotify: "0GC1oqEWpiAjfE7jm5LQO5"
-  tidal: ""
+  tidal: "3544517"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1938-03-15
 ---
 
 Charles Lloyd est né le 15 mars 1938 à Memphis, Tennessee, dans un foyer imprégné par le blues, le gospel et le

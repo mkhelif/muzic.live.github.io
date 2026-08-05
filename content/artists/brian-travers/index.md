@@ -3,6 +3,7 @@ id: "e85271c4-0a79-4f02-922e-94068d939580"
 title: "Brian Travers"
 type: person
 socials:
+  musicbrainz: "9248496c-3f37-4e2c-8a6b-a11689cccb1d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,7 +18,11 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
+lifespan:
+  start: 1959-02-07
+  end: 2021-08-22
 ---

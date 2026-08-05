@@ -2,6 +2,7 @@
 id: "1b894324-d09b-45cb-9284-580ee5d92502"
 title: "Celtic Woman"
 socials:
+  musicbrainz: "4d483147-c871-48c4-8470-85e5a66381c5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "47384572"
   deezer: "7187"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "6NWtt9pNOL2Gx7kBykdE5x"
+  tidal: "3505279"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

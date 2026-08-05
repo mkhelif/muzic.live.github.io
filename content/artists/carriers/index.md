@@ -2,6 +2,7 @@
 id: "88126b2d-28a5-4bbe-8dfe-b521618d62da"
 title: "Carriers"
 socials:
+  musicbrainz: "fd67c36a-8673-4d6c-8690-3070a8d210f5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

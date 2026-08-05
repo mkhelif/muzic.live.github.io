@@ -3,6 +3,7 @@ id: "93bed9cd-d952-4bb2-b67c-8eb45cc67501"
 title: "Chuwi"
 type: band
 socials:
+  musicbrainz: "ec924d55-2e15-4dc1-8b34-d78a7a015d3d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1493658688"
   deezer: "56840732"
   qobuz: ""
   spotify: "6wF1Cz760dpdbX9RJIDpQW"
-  tidal: ""
+  tidal: "11712938"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

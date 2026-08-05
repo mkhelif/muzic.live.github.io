@@ -3,6 +3,7 @@ id: "9a68812d-53e4-4446-bff6-20eb0938f030"
 title: "Broken Back"
 type: person
 socials:
+  musicbrainz: "40b8d9ed-072f-4f32-8fa6-137a298d883a"
   facebook: "BrokenBackMusic"
   instagram: "brokenbackmusic"
   x: "BrokenBackMusic"
@@ -20,9 +21,12 @@ socials:
   deezer: "5126564"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1990-08-10
 ---
 
 Broken Back est le projet solo de Jérôme Fagnet, musicien français qui émerge sur la scène indie-pop hexagonale avec une

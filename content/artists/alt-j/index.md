@@ -18,7 +18,7 @@ socials:
   spotify: "3XHO7cRUPCLOr6jwp8vsx5"
   tidal: ""
 lastUpdate:
-  musicbrainz: 2026-08-04
+  musicbrainz-lookup: 2026-08-04
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-25

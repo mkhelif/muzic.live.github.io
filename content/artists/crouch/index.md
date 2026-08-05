@@ -1,0 +1,24 @@
+---
+id: "d87a990a-7efc-497a-a8c7-709304c5e4c0"
+title: "Crouch"
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+  musicbrainz: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

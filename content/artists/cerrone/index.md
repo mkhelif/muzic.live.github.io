@@ -3,6 +3,7 @@ id: "f64c4268-ac3b-450e-ba63-110c8f216d20"
 title: "Cerrone"
 type: person
 socials:
+  musicbrainz: "9ec90f51-2c4a-495b-b478-2dfc9c07f8bc"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,14 +14,17 @@ socials:
   email: ""
   amazon: ""
   apple: "1729086"
-  deezer: ""
-  qobuz: ""
+  deezer: "6185"
+  qobuz: "53136"
   spotify: "5SE2sfwTpxL2vXRdG6H5PM"
-  tidal: ""
+  tidal: "30159"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1952-05-24
 ---
 
 Marc Cerrone, dit Cerrone, est né le 24 mai 1952 à Vitry-sur-Seine de parents immigrés italiens ayant fui le

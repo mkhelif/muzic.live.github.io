@@ -71,6 +71,7 @@ socials:
   web: "https://www.cavaleraconspiracy.net/"
   email: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   apple: 2026-07-26
   bandsintown-lookup: 2026-07-25

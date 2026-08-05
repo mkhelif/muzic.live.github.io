@@ -3,6 +3,7 @@ id: "51669b3b-b74c-4c57-8a31-a59dc1fccae2"
 title: "Charlotte Cardin"
 type: person
 socials:
+  musicbrainz: "62a6ba5d-6e8a-406d-a768-44a433ff1f7f"
   facebook: "charlottecardinofficial"
   instagram: "charlottecardin"
   tiktok: "@charlottecardin_"
@@ -17,14 +18,17 @@ socials:
   apple: "784665014"
   email: "charlottemgmt@thecultnation.com"
   amazon: ""
-  qobuz: ""
+  qobuz: "1450486"
 todo:
   - Add picture from concert
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26
   spotify: 2026-07-23
+lifespan:
+  start: 1994-11-09
 ---
 
 Il y a des trajectoires qui semblent écrites d'avance. Et puis il y a celle de **Charlotte Cardin** — mannequin à 15

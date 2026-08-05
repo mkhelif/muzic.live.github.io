@@ -3,6 +3,7 @@ id: "b595ab13-040e-4198-ab9e-294539844b91"
 title: "Cimafunk"
 type: person
 socials:
+  musicbrainz: "1be1831c-48ac-4adc-aca9-cc4c5b3b6912"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,13 +17,16 @@ socials:
   deezer: "13390889"
   qobuz: ""
   spotify: "28wtFivtmdKxFRfu57AhBe"
-  tidal: ""
+  tidal: "9196210"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1989-04-07
 ---

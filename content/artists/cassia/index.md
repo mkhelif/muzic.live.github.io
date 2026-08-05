@@ -2,7 +2,18 @@
 id: "463865a5-3033-4f93-880b-b59d5a50264e"
 title: "Cassia"
 type: band
+members:
+  - id: "26511c1c-990e-4364-b30f-aa76363d9ea1"
+    roles:
+      - other
+  - id: "fa65ecc4-a8d0-4ec3-92be-4a828e1c21b8"
+    roles:
+      - other
+  - id: "086aefe6-32b5-491e-a0bf-5bc2d08ea0a4"
+    roles:
+      - other
 socials:
+  musicbrainz: "4619c6b2-11d0-443d-bc61-a218b437e6dd"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +23,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "30208723"
+  deezer: "572974"
+  qobuz: "75975"
   spotify: ""
-  tidal: ""
+  tidal: "4916492"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27

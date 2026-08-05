@@ -3,6 +3,7 @@ id: "e8c8b708-8f4b-4873-8d1c-46e16c5e48e8"
 title: "Charlie Cunningham"
 type: person
 socials:
+  musicbrainz: "73ed4066-c55b-496c-bb1a-1238937a2361"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,7 +23,10 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1984
 ---

@@ -3,6 +3,7 @@ id: "7d9942e2-a882-47ee-9535-bb053d3ddbfe"
 title: "Clara Ysé"
 type: person
 socials:
+  musicbrainz: "6618e6c4-f667-4030-b7a3-f587db525818"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,7 +14,7 @@ socials:
   email: ""
   amazon: ""
   apple: "1458373922"
-  deezer: ""
+  deezer: "62749942"
   qobuz: ""
   spotify: "5resnspF60fUdkKmQHn8em"
   tidal: ""
@@ -22,7 +23,10 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1992-10-27
 ---

@@ -3,6 +3,7 @@ id: "1d933d20-9bce-42a5-a0cc-bc8dc40137e3"
 title: "Brian Marshall"
 type: person
 socials:
+  musicbrainz: "95c6597a-d3c8-47bb-9152-db05347e937e"
   facebook: ""
   instagram: "bmarshall73"
   tiktok: ""
@@ -19,6 +20,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

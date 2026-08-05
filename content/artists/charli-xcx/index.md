@@ -3,6 +3,7 @@ id: "308cdf69-30bc-4402-8811-d2e91c1c2a35"
 title: "Charli XCX"
 type: person
 socials:
+  musicbrainz: "260b6184-8828-48eb-945c-bc4cb6fc34ca"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,20 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B001LG2EAG"
+  apple: "432942256"
   deezer: ""
-  qobuz: ""
+  qobuz: "581822"
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1992-08-02
 ---
 
 Charlotte Emma Aitchison, connue sous le nom de **Charli XCX**, naît le 2 août 1992 à Cambridge, au Royaume-Uni, fille

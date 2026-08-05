@@ -2,7 +2,12 @@
 id: "c16e1d22-6897-40eb-89b4-8aace08a22f1"
 title: "Camilla Sparksss"
 type: band
+members:
+  - id: "56b0588c-dd5b-4473-90d0-d3331b81f496"
+    roles:
+      - other
 socials:
+  musicbrainz: "c92d3582-7a26-4680-8620-de29885b3507"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,12 +21,13 @@ socials:
   deezer: "5766957"
   qobuz: ""
   spotify: "5RxUFk1D177dFGqFOUh2rg"
-  tidal: ""
+  tidal: "5534222"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

@@ -2,6 +2,7 @@
 id: "f451a883-79b0-4b08-8bf7-607a0f54d96a"
 title: "Boy Golden"
 socials:
+  musicbrainz: "89169d2b-f18f-4961-b284-98a6481fcd30"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -10,17 +11,19 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B01EC1P2O6"
+  apple: "392029780"
   deezer: "6968639"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "1152024"
+  spotify: "4oNZapwLKDfR92AX7LbRk1"
+  tidal: "11508732"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  apple: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25

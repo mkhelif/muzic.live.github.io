@@ -3,6 +3,7 @@ id: "9f4e1e71-c352-457b-9fc8-fe0e5aa9c89e"
 title: "Byron Luiters"
 type: person
 socials:
+  musicbrainz: "3a49acf5-fa57-452d-90c7-7a28e4ab9722"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

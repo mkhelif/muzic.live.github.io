@@ -3,6 +3,7 @@ id: "45bae539-2050-49bc-91c7-f20da14e585c"
 title: "Cancre"
 type: band
 socials:
+  musicbrainz: "98a71af4-61e7-46fc-bb0f-5d5164041e81"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

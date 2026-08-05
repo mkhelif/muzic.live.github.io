@@ -3,6 +3,7 @@ id: "04cbb459-2b0e-48c4-ab4d-e8e56de1f834"
 title: "Brooke Combe"
 type: person
 socials:
+  musicbrainz: "7621d315-cc2e-40c5-ac86-9a62fa8accb0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,13 +17,16 @@ socials:
   deezer: "54793462"
   qobuz: ""
   spotify: "0JXwYf8x27ZfMO2gGuh6HO"
-  tidal: ""
+  tidal: "11535655"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1999-10-29
 ---

@@ -2,6 +2,7 @@
 id: "7e0ebd29-ad35-4845-b79b-df08f23c4643"
 title: "Busta Rhymes"
 socials:
+  musicbrainz: "10a9ff92-9637-4498-afea-7044b2ab0dc0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +12,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001Q577VI"
   apple: "54583"
   deezer: ""
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "62425"
+  spotify: "1YfEcTuGvBQ8xSD1f53UnK"
+  tidal: "4141"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
 ---

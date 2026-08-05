@@ -2,6 +2,7 @@
 id: "ba5e1ea6-8d03-43af-92b8-2dde516b2068"
 title: "Citron"
 socials:
+  musicbrainz: "b64aca09-a378-4aeb-ba0f-2312335604d4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25

@@ -3,6 +3,7 @@ id: "37b092e2-8905-4342-ab59-5257f1e8fb3e"
 title: "Calum Hood"
 type: person
 socials:
+  musicbrainz: "6a80db73-0b3b-486c-b4e4-19e5240aeaac"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1803357790"
+  deezer: "317437061"
   qobuz: ""
   spotify: "663fZd6uEkPKLwBzPj50S3"
-  tidal: ""
+  tidal: "5351417"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27

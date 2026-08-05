@@ -2,7 +2,77 @@
 id: "77f45df2-2675-4a1c-a1d2-ebcac0e21288"
 title: "CHIC"
 type: band
+members:
+  - id: "9c4c3075-af9d-43bf-aaa7-3a292ef8690e"
+    roles:
+      - other
+    periods:
+      - start: 1992
+  - id: "568c81e8-12b6-4d41-a92f-e6c43c3fbaa6"
+    roles:
+      - other
+    periods:
+      - start: 1976
+        end: 1977
+  - id: "3172f0b5-d275-4367-ae5c-c17e8a5de113"
+    roles:
+      - other
+    periods:
+      - start: 1976
+        end: 1983
+  - id: "63daf836-b62f-410e-98bb-c577bd635c6b"
+    roles:
+      - other
+    periods:
+      - start: 1976
+        end: 1985
+  - id: "7aafcda9-baec-46e9-88ec-531a17ad7475"
+    roles:
+      - other
+    periods:
+      - start: 1977
+        end: 1983
+  - id: "0392b4ea-209f-42bf-b241-3272bb4c7954"
+    roles:
+      - other
+    periods:
+      - start: 1992
+        end: 1992
+  - id: "a3fdf32f-bed4-4f1e-9747-49a65f2e9d5e"
+    roles:
+      - other
+    periods:
+      - start: 1999
+        end: 2006
+  - id: "337f0faa-3997-4118-91f1-9e84b7b09e8c"
+    roles:
+      - other
+  - id: "5657d4d3-d2be-48ca-811f-fa38faaa2d48"
+    roles:
+      - other
+  - id: "ded6063b-76d4-4f5a-ae53-329e63c1c82b"
+    roles:
+      - other
+  - id: "62686f8f-34e1-4324-8310-576fd20dc763"
+    roles:
+      - other
+  - id: "5a2fc0d2-bd3b-4fca-bc29-ae627149fcec"
+    roles:
+      - other
+  - id: "3dff84c7-af2b-41cb-ad4d-42a9a541b88f"
+    roles:
+      - other
+  - id: "4dfc38e3-5198-4fed-bfd6-80d4b844d831"
+    roles:
+      - other
+  - id: "9dcbbaf0-e172-43ba-941f-10e80c22f5f4"
+    roles:
+      - other
+  - id: "2bafba52-3ace-44f1-9bf3-6c3d1c9ce70a"
+    roles:
+      - other
 socials:
+  musicbrainz: "a4ed036b-5f18-439c-b1e1-96d205bab255"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,12 +81,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "555106"
+  deezer: "2640"
+  qobuz: "135179"
   spotify: ""
-  tidal: ""
+  tidal: "8112"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

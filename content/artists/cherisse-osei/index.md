@@ -3,6 +3,7 @@ id: "de4baa7a-dcb3-4018-8e50-701fd0d5871e"
 title: "Cherisse Osei"
 type: person
 socials:
+  musicbrainz: "38cf9bff-440c-4856-84fa-d930c91fe6d8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,7 +23,10 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1986-12-23
 ---

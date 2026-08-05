@@ -2,6 +2,7 @@
 id: "23f60ede-148d-4215-a1bf-7fc84434bbf3"
 title: "Clan of Xymox"
 socials:
+  musicbrainz: "1fc54353-dcd0-47b1-bb59-7bd2974df829"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "63836080"
   deezer: "3736"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "1wHmR7I0UlF58WFQexCPha"
+  tidal: "3562001"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

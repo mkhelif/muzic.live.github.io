@@ -3,6 +3,7 @@ id: "3c80898b-c311-455f-8ce3-157c6badb848"
 title: "CIEL"
 type: person
 socials:
+  musicbrainz: "2dbd0bbc-a5da-4dd6-9e40-42549ed159a8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

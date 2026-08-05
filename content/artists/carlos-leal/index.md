@@ -3,6 +3,7 @@ id: "36a94908-27a8-4f86-96e5-5fdf5baf1273"
 title: "Carlos Leal"
 type: person
 socials:
+  musicbrainz: "0c754c4c-0eef-4c1d-a248-8d5b975d40d8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,8 +23,11 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1969-07-09
 ---

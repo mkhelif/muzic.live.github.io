@@ -3,6 +3,7 @@ id: "5137f4a5-90c8-4d30-b045-32e0ede69ff4"
 title: "Brian Johnson"
 type: person
 socials:
+  musicbrainz: "49acbee5-5fb5-4cf1-868f-67bc01de2d84"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,14 +17,17 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0TJOVQKoS7sbGVn8RkkvPI"
+  tidal: "3843645"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27
+lifespan:
+  start: 1947-10-05
 ---

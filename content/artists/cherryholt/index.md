@@ -2,6 +2,7 @@
 id: "46f3d4a6-cf36-4bd4-811d-6e6ef8f38948"
 title: "Cherryholt"
 socials:
+  musicbrainz: "8db2d79b-ed36-4298-a31e-3103d7cecb10"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

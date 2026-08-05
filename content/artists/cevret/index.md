@@ -3,6 +3,7 @@ id: "8423c8a5-dba3-4b67-a60c-c12998335fae"
 title: "Cevret"
 type: band
 socials:
+  musicbrainz: "fa7233d4-4581-4fc5-b38d-7599044f85cb"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

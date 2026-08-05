@@ -3,6 +3,7 @@ id: "c648262a-127d-47f8-a41f-596f0025f108"
 title: "Carmina Burana"
 type: band
 socials:
+  musicbrainz: "29394bef-cc7a-4c6f-a45e-ee1b933f4e90"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: "3wv9Ori0YHEUiLVz91Ej7D"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25

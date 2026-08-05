@@ -3,6 +3,7 @@ id: "576bf5f2-a384-4b84-a034-fa57fa72404b"
 title: "Bruno Mars"
 type: person
 socials:
+  musicbrainz: "afb680f2-b6eb-4cd7-a70b-a63b25c763d5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,16 +12,19 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001T1TD0W"
   apple: "278873078"
   deezer: "429675"
-  qobuz: ""
+  qobuz: "260803"
   spotify: "0du5cEVh5yTK9QJze8zA0C"
-  tidal: ""
+  tidal: "3658521"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1985-10-08
 ---
 
 Bruno Mars, de son vrai nom Peter Gene Hernandez, est un chanteur, auteur-compositeur, producteur et

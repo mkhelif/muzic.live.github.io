@@ -24,6 +24,6 @@ todo:
 lastUpdate:
   apple: 2026-08-05
   deezer: 2026-08-04
-  musicbrainz: 2026-08-04
+  musicbrainz-lookup: 2026-08-04
   bandsintown: 2026-07-27
 ---

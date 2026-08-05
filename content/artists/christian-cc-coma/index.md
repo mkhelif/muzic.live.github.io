@@ -2,6 +2,7 @@
 id: "8caa5b8b-8a79-4579-be76-4968a33b8930"
 title: 'Christian "CC" Coma'
 socials:
+  musicbrainz: "bf14115b-149a-4337-97e5-96d9ea7e7eb7"
   facebook: ""
   instagram: ""
   x: ""
@@ -9,6 +10,7 @@ socials:
   bandsintown: "1796782"
   youtube: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27

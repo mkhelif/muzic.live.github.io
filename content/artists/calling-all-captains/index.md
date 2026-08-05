@@ -3,6 +3,7 @@ id: "4c5fb857-26c7-400d-91ba-b175fffc8dad"
 title: "Calling All Captains"
 type: band
 socials:
+  musicbrainz: "bf912f97-efaf-4b6c-a945-474e0df910b7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,7 +12,7 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B00MJV0BZM"
   apple: "906784264"
   deezer: "8043129"
   qobuz: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

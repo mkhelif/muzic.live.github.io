@@ -45,6 +45,7 @@ members:
       - start: 2012
         end: 2023
 socials:
+  musicbrainz: "e4549ab4-48e1-4e0d-8c36-cb077f680b67"
   facebook: "brothersofmetalofficial"
   instagram: "brothersofmetalofficial"
   threads: "@brothersofmetalofficial"
@@ -57,11 +58,12 @@ socials:
   tiktok: ""
   x: ""
   email: ""
-  amazon: ""
+  amazon: "B01KMQ9RW8"
   apple: "1145316099"
   deezer: "10887490"
-  qobuz: ""
+  qobuz: "3894420"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

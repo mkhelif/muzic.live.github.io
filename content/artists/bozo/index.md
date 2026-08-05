@@ -3,6 +3,7 @@ id: "86bda5f0-fd2c-46ba-8a6d-b691010e8a63"
 title: "Bozo"
 type: person
 socials:
+  musicbrainz: "64b8c4c1-6574-44b4-9478-97c00a4814d9"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,8 +16,9 @@ socials:
   deezer: ""
   qobuz: ""
   spotify: "0MmTKGQIOhXazVmd3IdOKp"
-  tidal: ""
+  tidal: "4165054"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

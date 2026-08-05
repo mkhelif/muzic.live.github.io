@@ -3,6 +3,7 @@ id: "2fa67b4f-e53d-4e9b-8e73-7e593846f796"
 title: "Clara Kimera"
 type: unknown
 socials:
+  musicbrainz: "86d753ea-dd13-4e27-afd5-92b12b1fedab"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,12 +17,13 @@ socials:
   deezer: "270977962"
   qobuz: ""
   spotify: "4sQzCc8XZTTmnuSH770IBr"
-  tidal: ""
+  tidal: "48659680"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

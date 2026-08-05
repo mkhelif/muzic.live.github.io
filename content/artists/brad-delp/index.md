@@ -18,11 +18,15 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "ab534a7b-e5a4-45d4-bcec-d2f932c97edf"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
+lifespan:
+  start: 1951-06-12
+  end: 2007-03-09
 ---

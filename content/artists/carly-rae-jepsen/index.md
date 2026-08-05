@@ -2,6 +2,7 @@
 id: "f9881367-d2bb-430c-867f-d5f7d4c5923a"
 title: "Carly Rae Jepsen"
 socials:
+  musicbrainz: "09887aa7-226e-4ecc-9a0c-02d2ae5777e1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B007BY1R4G"
   apple: "284363062"
   deezer: "1002521"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "6sFIWsNpZYqfjUpaCgueju"
+  tidal: "3877793"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

@@ -11,17 +11,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001T2OAK4"
   apple: ""
-  deezer: ""
+  deezer: "73453"
   qobuz: ""
-  spotify: ""
-  tidal: ""
-  musicbrainz: ""
+  spotify: "4nqY8hkQNkHaDq4fdVxdYr"
+  tidal: "3540784"
+  musicbrainz: "b463a831-8ea0-40c4-9a56-34cfe0896931"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
 ---

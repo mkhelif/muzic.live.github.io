@@ -2,6 +2,7 @@
 id: "5c9802fc-f32a-4837-966c-91eb5da44ce4"
 title: "Catbite"
 socials:
+  musicbrainz: "60721379-e2cb-4f6c-badf-a8874c069db5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,7 +12,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1455762137"
   deezer: "64126892"
   qobuz: ""
   spotify: "5ZymRXV10TmuDovZVrx2RP"
@@ -21,6 +22,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

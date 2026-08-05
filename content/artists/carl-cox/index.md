@@ -3,6 +3,7 @@ id: "c844a8c3-8c59-426d-abfc-f7a755bcd96e"
 title: "Carl Cox"
 type: person
 socials:
+  musicbrainz: "8f614665-3418-4ca8-aa6a-737b4636b995"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,19 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "2811492"
   deezer: ""
-  qobuz: ""
+  qobuz: "71949"
   spotify: "19SmlbABtI4bXz864MLqOS"
-  tidal: ""
+  tidal: "3581673"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1962-07-29
 ---
 
 Carl Andrew Cox, né le 29 juillet 1962 dans le Grand Manchester et d'origine barbadienne, est l'une des figures les

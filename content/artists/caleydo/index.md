@@ -2,6 +2,7 @@
 id: "0757f9f1-f379-45c7-a848-20a4c43cfa60"
 title: "Caleydo"
 socials:
+  musicbrainz: "d4cf0f22-432d-413b-9853-9a0842c0f188"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

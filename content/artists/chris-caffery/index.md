@@ -3,6 +3,7 @@ id: "5cb9f5ac-db59-440f-a96e-93847d32b9cd"
 title: "Chris Caffery"
 type: person
 socials:
+  musicbrainz: "535ab5fb-3f22-46b8-af8c-ff0609ad727b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,10 +12,10 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001FG6LRO"
   apple: "49855258"
   deezer: "110212"
-  qobuz: ""
+  qobuz: "560025"
   spotify: "6wcLciIf42eKhlJ7hafgVh"
   tidal: ""
 todo:
@@ -22,7 +23,10 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1967-09-09
 ---

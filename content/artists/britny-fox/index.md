@@ -2,6 +2,7 @@
 id: "887ad7ca-1d93-4429-83bd-48fee73609b9"
 title: "Britny Fox"
 socials:
+  musicbrainz: "e6f73e88-1a75-4f96-b024-0b7a05531d53"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "1489365"
   deezer: "70046"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "4FffNBBwp4PayIiCBeJFPQ"
+  tidal: "3522591"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

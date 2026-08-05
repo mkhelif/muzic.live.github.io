@@ -2,6 +2,7 @@
 id: "c06e1c8b-2b0a-452e-be39-b0362ada66e5"
 title: "Brooklyn Funk Essentials"
 socials:
+  musicbrainz: "280d9262-c2fd-4875-a971-13a28a22f18b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B008WTWFWW"
   apple: "172015"
   deezer: "2058"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "4r4tRC1EUpfUCLjwQXP5EA"
+  tidal: "36458"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

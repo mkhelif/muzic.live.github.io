@@ -19,6 +19,7 @@ members:
     periods:
       - start: 2004
 socials:
+  musicbrainz: "0837d2bc-ceb6-4512-9490-b30f5c0390fa"
   facebook: "chineseman"
   instagram: "chinesemanmusic"
   tiktok: "@chinesemanmusic"
@@ -33,8 +34,9 @@ socials:
   apple: "270046635"
   deezer: "58801"
   qobuz: ""
-  tidal: ""
+  tidal: "3599751"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

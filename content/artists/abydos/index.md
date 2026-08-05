@@ -2,6 +2,10 @@
 id: "ef206f9d-efb2-421a-bc36-dbe0b5ddad8f"
 title: "Abydos"
 type: band
+members:
+  - id: "04b7ae8d-9e23-4e31-b24f-ed9de97829f5"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,12 +22,13 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "ce1e4d85-3282-4f0e-8b01-a3ba91bd5719"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
 ---

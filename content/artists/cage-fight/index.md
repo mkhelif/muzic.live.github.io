@@ -2,7 +2,34 @@
 id: "5db72fc0-999c-415f-a8d7-871904ffe8a8"
 title: "Cage Fight"
 type: band
+members:
+  - id: "e9560ffd-cc4e-49f9-8230-1b362684f94b"
+    roles:
+      - guitar
+    periods:
+      - start: 2020
+  - id: "538788ae-1c6c-466f-8130-25918953e4d8"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2020
+      - start: 2020
+  - id: "c1ffc38e-cce7-4aba-8761-aaeb182fb2bb"
+    roles:
+      - sing
+    periods:
+      - start: 2021
+  - id: "70801deb-9b64-4e04-a820-661666d01a5b"
+    roles:
+      - drums
+    periods:
+      - start: 2021
+  - id: "6723d321-97a4-49dd-82f0-c8a86aa4445f"
+    roles:
+      - bass
 socials:
+  musicbrainz: "3d9f09c4-2826-48eb-9fea-ca4d543d28ae"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,11 +40,12 @@ socials:
   email: ""
   amazon: ""
   apple: "1489034831"
-  deezer: ""
+  deezer: "14155103"
   qobuz: ""
   spotify: "35GpJabAKuETXnWsWQbTjr"
-  tidal: ""
+  tidal: "9495834"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

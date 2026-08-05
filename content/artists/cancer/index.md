@@ -2,7 +2,43 @@
 id: "91678be4-b289-4273-8eaa-ee5ac49df4fc"
 title: "Cancer"
 type: band
+members:
+  - id: "0f5fbc7f-0d45-4650-8db6-96598c0d9e83"
+    roles:
+      - bass
+    periods:
+      - start: 2013
+      - start: 1987
+        end: 1996
+  - id: "788a6dde-c50c-4afd-8f8a-d3573603a825"
+    roles:
+      - drums
+    periods:
+      - start: 2013
+      - start: 2003
+        end: 2006
+      - start: 1987
+        end: 1996
+  - id: "0baf1779-47f9-4921-8ea5-dbddcf7cfe00"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2013
+      - start: 2013
+      - start: 2003
+        end: 2006
+      - start: 2003
+        end: 2006
+      - start: 1987
+        end: 1996
+      - start: 1987
+        end: 1996
+  - id: "6fe7c201-47db-479d-aba3-21786469c2ed"
+    roles:
+      - other
 socials:
+  musicbrainz: "84638ab0-46f0-4bd7-90e2-b1ebc573c65c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,12 +47,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1434563614"
+  deezer: "553725"
   qobuz: ""
   spotify: "3AHeQk97Bdz43qM7GMlXL8"
-  tidal: ""
+  tidal: "4927442"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

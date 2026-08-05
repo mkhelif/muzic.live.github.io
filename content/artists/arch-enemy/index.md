@@ -110,7 +110,7 @@ socials:
   spotify: "0DCw6lHkzh9t7f8Hb4Z0Sx"
   tidal: ""
 lastUpdate:
-  musicbrainz: 2026-08-04
+  musicbrainz-lookup: 2026-08-04
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-26

@@ -3,6 +3,7 @@ id: "222c5744-86db-4407-90c3-7d59261d90f2"
 title: "Chris Acosta"
 type: person
 socials:
+  musicbrainz: "756ca1b9-02bd-4e4e-b663-df2dfaa62f85"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

@@ -24,6 +24,7 @@ members:
     periods:
       - start: 2017
 socials:
+  musicbrainz: "da09ff32-675a-49e9-8362-a97147db5680"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -32,13 +33,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B0748FHZ9R"
   apple: "1263726911"
   deezer: "12893803"
-  qobuz: ""
+  qobuz: "12165799"
   spotify: "2fqPOGxG12nEERj8YG7p22"
-  tidal: ""
+  tidal: "8972537"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

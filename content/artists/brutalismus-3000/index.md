@@ -2,7 +2,15 @@
 id: "ff3ef466-ef43-40fe-98b4-aec482508d68"
 title: "Brutalismus 3000"
 type: band
+members:
+  - id: "fd5c9581-ba5d-4fb9-8b88-2a56ee2fa5f3"
+    roles:
+      - other
+  - id: "c3663786-6e00-456d-b404-a53a5aa1dfeb"
+    roles:
+      - other
 socials:
+  musicbrainz: "b4cd749e-adce-4cb5-8a73-cdd0c7e4b9cc"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +19,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B08H81HZCZ"
   apple: "1530068480"
   deezer: "105788712"
   qobuz: ""
   spotify: "6LtXxYMIiKSy2EGHnz1f5j"
-  tidal: ""
+  tidal: "21145145"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

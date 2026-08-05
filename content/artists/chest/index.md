@@ -3,6 +3,7 @@ id: "57658ace-0ac5-48af-985d-77748eb3316e"
 title: "chest."
 type: band
 socials:
+  musicbrainz: "0c1a1419-6e6e-4343-ab29-319bbcfb9c4f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

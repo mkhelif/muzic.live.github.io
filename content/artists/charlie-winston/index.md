@@ -3,6 +3,7 @@ id: "05d01105-609d-4634-bea7-d0209808a121"
 title: "Charlie Winston"
 type: person
 socials:
+  musicbrainz: "983d4f8f-473e-4091-8394-415c105c4656"
   facebook: "charliewinstonoff"
   instagram: "charliewinston"
   x: "Charlie_Winston"
@@ -18,9 +19,12 @@ socials:
   deezer: "162248"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1978-09-14
 ---
 
 Charlie Winston est un chanteur-compositeur britannique né à Londres dans une famille de musiciens, ce qui l'amène très

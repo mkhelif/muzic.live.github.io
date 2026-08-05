@@ -11,14 +11,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
-  spotify: ""
-  tidal: ""
-  musicbrainz: ""
+  apple: "1093777721"
+  deezer: "10039120"
+  qobuz: "3586939"
+  spotify: "7miXLG9boDOGHJaEelSL7T"
+  tidal: "7677453"
+  musicbrainz: "773c3b3b-4368-4659-963a-4c8194ec9b1c"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

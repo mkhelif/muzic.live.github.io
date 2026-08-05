@@ -3,6 +3,7 @@ id: "86bd0538-b41b-46fb-bb6d-329d7241d816"
 title: "CAÏMAN"
 type: band
 socials:
+  musicbrainz: "4cc426c1-7478-4aba-9cf0-8b01d8065100"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

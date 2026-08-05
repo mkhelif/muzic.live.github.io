@@ -2,6 +2,7 @@
 id: "3b84f219-2bbf-460b-9f1d-f65dc8d17f33"
 title: "Chicha Libre"
 socials:
+  musicbrainz: "3009bda7-2fe6-4a68-ad89-fb24e88c2ff6"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

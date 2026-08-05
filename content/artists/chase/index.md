@@ -1,0 +1,25 @@
+---
+id: "e5c3e177-607d-4345-bc08-968baf957f77"
+title: "Chase"
+type: person
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+  musicbrainz: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

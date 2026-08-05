@@ -3,6 +3,7 @@ id: "579498d8-0cb6-494a-a351-0a03a09220df"
 title: "Cinza"
 type: unknown
 socials:
+  musicbrainz: "94ef7868-5cea-4e4a-affa-a1b25ebb58a5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -25,6 +26,7 @@ social:
   web: "https://www.cinza.fr/"
   spotify: "3KwmuFoCYBpnx7e9i6VZr0"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

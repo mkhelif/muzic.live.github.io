@@ -3,6 +3,7 @@ id: "2c128775-4c84-47b3-9e67-d273307bb53a"
 title: "Calogero"
 type: person
 socials:
+  musicbrainz: "7e26f094-2ab2-4810-be12-f8fd8953d99d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,19 +13,22 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "14959299"
+  deezer: "29"
   qobuz: ""
   spotify: "5Nq9MbzweBc5oL4WzsECx4"
-  tidal: ""
+  tidal: "3672715"
 todo:
   - Add picture
   - Verify and add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1971-07-30
 ---
 
 Calogero Maurici, né le 30 juillet 1971 à Échirolles, en Isère, est un chanteur, compositeur et musicien

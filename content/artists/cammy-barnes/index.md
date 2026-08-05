@@ -3,6 +3,7 @@ id: "85d468ad-5ec5-4b0e-bb53-8213e17e1db6"
 title: "Cammy Barnes"
 type: person
 socials:
+  musicbrainz: "87bd13e9-6c77-4a3b-91d2-540f672f36b0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

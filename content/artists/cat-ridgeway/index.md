@@ -2,6 +2,7 @@
 id: "6333fbb0-8a64-4769-9be4-68f0f9a9ac09"
 title: "Cat Ridgeway"
 socials:
+  musicbrainz: "89fb7be0-41bb-494a-9e75-09597d2dd7dd"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

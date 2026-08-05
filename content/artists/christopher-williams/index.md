@@ -3,6 +3,7 @@ id: "01034785-f5d6-43c2-989c-bf33a087bb66"
 title: "Christopher Williams"
 type: person
 socials:
+  musicbrainz: "5b1191e9-73e9-43da-b474-4e25ab27a7c9"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,6 +24,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
   apple-lookup: 2026-08-04

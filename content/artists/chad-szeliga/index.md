@@ -2,6 +2,7 @@
 id: "97c3f503-4572-4078-8bfa-39fef4bab53a"
 title: "Chad Szeliga"
 socials:
+  musicbrainz: "7e93ab2e-9352-4496-8bbb-4adc4728a2a0"
   deezer: "5062832"
   facebook: ""
   instagram: ""
@@ -12,6 +13,7 @@ socials:
 todo:
   - Add description/picture/socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27

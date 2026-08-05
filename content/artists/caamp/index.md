@@ -2,6 +2,7 @@
 id: "35389e37-18f7-459c-8ef1-dd4d8709e4eb"
 title: "Caamp"
 socials:
+  musicbrainz: "8e868f14-7fb1-4e80-b783-b992f844b010"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "1090637188"
   deezer: "11218214"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0wyMPXGfOuQzNR54ujR9Ix"
+  tidal: "8176562"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

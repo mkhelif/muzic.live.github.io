@@ -3,6 +3,7 @@ id: "967cd154-b7a8-4806-9dc2-d44743f8dd05"
 title: "Buddy Guy"
 type: person
 socials:
+  musicbrainz: "4336a134-d091-4e54-9967-c7c433db6d4e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,14 +14,17 @@ socials:
   email: ""
   amazon: ""
   apple: "97577"
-  deezer: ""
+  deezer: "8680"
   qobuz: ""
   spotify: "2gCsNOpiBaMNh20jQ5prf0"
-  tidal: ""
+  tidal: "1822"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1936-07-30
 ---
 
 Né le 30 juillet 1936 à Lettsworth, en Louisiane, dans une famille de métayers, Buddy Guy se fabrique sa première

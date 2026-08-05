@@ -3,6 +3,7 @@ id: "143f1839-51bc-4f34-8c83-d165ed0d615d"
 title: "cheapjewels"
 type: unknown
 socials:
+  musicbrainz: "69aa386c-ae6d-4fb2-8ef5-8724fbe1ed60"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

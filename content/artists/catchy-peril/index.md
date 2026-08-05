@@ -3,6 +3,7 @@ id: "36aa2101-60b2-433c-9b89-7127c6212c38"
 title: "Catchy Peril"
 type: band
 socials:
+  musicbrainz: "6605887e-2e38-42d7-b976-a02248e78b04"
   facebook: "p/Catchy-Peril-61555198564591/"
   instagram: "catchy_peril"
   threads: "@catchy_peril"
@@ -19,6 +20,7 @@ socials:
   email: ""
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26

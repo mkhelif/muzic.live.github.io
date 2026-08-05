@@ -38,6 +38,7 @@ members:
     periods:
       - start: 2008
 socials:
+  musicbrainz: "2061f628-01cd-4343-a078-900f639d67fe"
   facebook: "burakasomsistema"
   instagram: "burakaofficial"
   tiktok: "@burakaofficial"
@@ -52,11 +53,12 @@ socials:
   deezer: "114228"
   qobuz: ""
   spotify: "6zUiRChNyL3HEezOd1Wjam"
-  tidal: ""
+  tidal: "3575854"
 todo:
   - Add description
   - Add picture
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-07-27
   apple: 2026-07-27

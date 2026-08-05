@@ -3,6 +3,7 @@ id: "62a08581-9180-45c2-a7f4-d579d98720a8"
 title: "Calumny"
 type: band
 socials:
+  musicbrainz: "133d27db-bc3b-4c87-9d8a-625369fcb2d3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1337438547"
   deezer: "13964091"
   qobuz: ""
   spotify: "1VzCGzFPj5ZToYK3QmpD8R"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

@@ -3,6 +3,7 @@ id: "19fd49d3-dde3-4528-8082-ec4e77ac46b0"
 title: "Chris Isaak"
 type: person
 socials:
+  musicbrainz: "479497d4-e7c2-4e78-972e-56e78fac3995"
   facebook: "chrisisaak"
   instagram: "chrisisaak"
   tiktok: "@chrisisaak"
@@ -18,9 +19,12 @@ socials:
   deezer: "1040"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1956-06-26
 ---
 
 Chris Isaak est un chanteur-compositeur américain né en Californie en 1956, qui développe sa passion pour la musique dès

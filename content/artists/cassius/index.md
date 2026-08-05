@@ -2,7 +2,18 @@
 id: "2fa699c8-4989-4cdf-a0f7-0c6425a74195"
 title: "Cassius"
 type: band
+members:
+  - id: "37c83957-47f0-4c49-9bcd-2de2f87729f3"
+    roles:
+      - other
+    periods:
+      - start: 2019
+        end: 2019
+  - id: "2cd42cf0-c5e8-42ca-9865-3f8a0e12bae1"
+    roles:
+      - other
 socials:
+  musicbrainz: "256160e8-37fd-4f8c-a3ef-530ebbaa4b3d"
   instagram: "cassius"
   facebook: ""
   tiktok: ""
@@ -12,12 +23,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "14959761"
+  deezer: "2049"
   qobuz: ""
   spotify: "4sf3QZW8a3xZ14IGsOAzoy"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27

@@ -3,6 +3,7 @@ id: "81ca4361-af34-4f7a-8365-577393e2cf3e"
 title: "Christophe Maé"
 type: person
 socials:
+  musicbrainz: "48292311-c32c-41b6-af08-b7f61efd2f68"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +17,14 @@ socials:
   deezer: "11907"
   qobuz: ""
   spotify: "7jgnJBnpZTiGnCF2Wvka2Z"
-  tidal: ""
+  tidal: "25220"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1975-10-16
 ---
 
 Christophe Martichon, dit Christophe Maé, est né le 16 octobre 1975 à Carpentras, dans le Vaucluse. Auteur,

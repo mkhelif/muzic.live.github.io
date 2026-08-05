@@ -3,6 +3,7 @@ id: "c4948e25-0365-4d1a-bbcd-f4965c2d0efa"
 title: "Cœur de Pirate"
 type: person
 socials:
+  musicbrainz: "130e7bd0-6d34-48a9-822f-03eff7ea95d4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,17 +14,20 @@ socials:
   email: ""
   amazon: ""
   apple: "290621195"
-  deezer: ""
+  deezer: "174351"
   qobuz: ""
   spotify: "2eRNMtoi82UZUuaL6naDjA"
-  tidal: ""
+  tidal: "4064359"
 todo:
   - Add picture
   - Verify and add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1989-09-22
 ---
 
 Cœur de Pirate est le nom de scène de Béatrice Martin, autrice-compositrice-interprète

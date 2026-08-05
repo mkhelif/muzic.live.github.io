@@ -2,6 +2,7 @@
 id: "d5fa50a5-b1fb-467c-b5d8-313c23688710"
 title: "Cj Beth"
 socials:
+  musicbrainz: "3a6f531a-1e90-482e-9093-d2398a83ba96"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

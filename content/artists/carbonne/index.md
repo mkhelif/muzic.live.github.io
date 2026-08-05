@@ -3,6 +3,7 @@ id: "c994ca94-947d-49c0-a821-3c7add10d236"
 title: "Carbonne"
 type: person
 socials:
+  musicbrainz: "4bcc2994-795c-4100-b64d-4e6d701b0e33"
   facebook: "carbonne.p"
   instagram: "carbonne.14"
   tiktok: "@carbonne14"
@@ -14,14 +15,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1529303193"
+  deezer: "98775702"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1997
 ---
 
 Carbonne est un rappeur français qui émerge sur la scène hip-hop hexagonale avec une approche moderne du rap conscient

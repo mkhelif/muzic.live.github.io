@@ -2,6 +2,7 @@
 id: "a2e6b2c8-d9bd-4d54-8b2d-996d542c7e25"
 title: "Chris Willis"
 socials:
+  musicbrainz: "9871f931-c64a-4c09-b090-d1ce25b2c073"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "5634553"
+  deezer: "243009"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "2qSEpijpT3YSXgxcXac1ly"
+  tidal: "3510531"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

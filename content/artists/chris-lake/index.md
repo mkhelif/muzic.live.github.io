@@ -2,6 +2,7 @@
 id: "0aacc07f-f23f-44e4-a58a-48473569d0a0"
 title: "Chris Lake"
 socials:
+  musicbrainz: "fca94d64-9ada-4264-9373-4158e2f7c7e7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "135067114"
   deezer: ""
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "18324"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

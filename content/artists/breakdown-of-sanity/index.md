@@ -2,7 +2,18 @@
 id: "68001391-7583-4059-8120-7c207d6932d5"
 title: "Breakdown of Sanity"
 type: band
+members:
+  - id: "bedf5015-4ac9-44e7-b914-e4165c2025a6"
+    roles:
+      - guitar
+  - id: "8fb121d3-0412-405b-89c9-91e92bab0694"
+    roles:
+      - other
+  - id: "09ae5579-ef66-411f-953b-d33d198319d7"
+    roles:
+      - guitar
 socials:
+  musicbrainz: "a4fb1386-45e7-4c85-a8a5-396060f6ec66"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,8 +26,10 @@ socials:
   deezer: "471465"
   qobuz: ""
   spotify: "20reGZ0TQPGvwx5U4xx6D8"
-  tidal: ""
+  tidal: "4952816"
 lastUpdate:
+  apple: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

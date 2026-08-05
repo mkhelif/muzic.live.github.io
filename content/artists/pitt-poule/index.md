@@ -22,5 +22,6 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  deezer: 2026-08-05
   bandsintown: 2026-07-27
 ---

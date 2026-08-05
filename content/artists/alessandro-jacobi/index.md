@@ -13,7 +13,7 @@ todo:
   - Add description/picture/socials
 lastUpdate:
   apple: 2026-08-05
-  musicbrainz: 2026-08-04
+  musicbrainz-lookup: 2026-08-04
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-23
 ---

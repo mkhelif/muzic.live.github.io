@@ -3,6 +3,7 @@ id: "9d58db50-2b50-4339-9209-ada19ff6c9c7"
 title: "Clara Luciani"
 type: person
 socials:
+  musicbrainz: "a6386935-e6ee-4aaa-aaa8-70f56b79bc29"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,18 +13,21 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1178021987"
+  deezer: "4889156"
   qobuz: ""
   spotify: "2oVrruuEI0Dr2I4NvLtQS0"
-  tidal: ""
+  tidal: "8331779"
 todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1992-07-10
 ---

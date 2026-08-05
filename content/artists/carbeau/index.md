@@ -2,6 +2,7 @@
 id: "9652e0ab-21b2-41c3-8ea1-43c6801d7e32"
 title: "carbeau"
 socials:
+  musicbrainz: "a2d42e18-ba2f-46cf-ba48-b301ff4df422"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---
