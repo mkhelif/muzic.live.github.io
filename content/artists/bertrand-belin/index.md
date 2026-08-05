@@ -3,9 +3,11 @@ id: "0aaecd0d-4637-441b-b449-c3ba76dd4122"
 title: "Bertrand Belin"
 type: person
 socials:
+  musicbrainz: "024a7074-dcef-4851-8f9c-090a9746a75a"
   facebook: "bertrandbelin"
   instagram: "bertrand_belin"
   bandsintown: "417478"
+  songkick: "246928"
   youtube: "@bertrandbelin"
   web: "https://bertrandbelin.com/"
   tidal: "3765759"
@@ -15,10 +17,14 @@ socials:
   email: ""
   amazon: ""
   apple: "77904371"
-  deezer: ""
+  deezer: "55209"
   qobuz: ""
 todo:
   - Add cover from concert picture
+lifespan:
+  start: 1970-12-07
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il y a des artistes qu'on écoute. Et il y a des artistes qu'on habite. **Bertrand Belin** appartient à la seconde

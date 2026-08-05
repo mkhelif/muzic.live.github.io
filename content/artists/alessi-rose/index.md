@@ -3,6 +3,7 @@ id: "c4995815-f6f5-45c0-988b-8723507ce0da"
 title: "Alessi Rose"
 type: person
 socials:
+  musicbrainz: "7bb3d914-0a4d-4e96-a00e-d9815725244b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,10 +17,14 @@ socials:
   deezer: "172810197"
   qobuz: ""
   spotify: "6QXtidyXX0uGggafrYdktx"
-  tidal: ""
+  tidal: "32588915"
 todo:
   - Add socials
   - Add cover
+lifespan:
+  start: 2002-10-27
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Alessi Rose, de son vrai nom Alessandra Rose Jones, est une chanteuse et auteure-compositrice anglaise née le 27

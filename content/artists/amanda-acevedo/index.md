@@ -2,6 +2,7 @@
 id: "d6c6e0ae-5f51-465a-bcec-2f22a05c3d93"
 title: "Amanda Acevedo"
 socials:
+  musicbrainz: "d52c45ba-ea09-4b8e-b01f-028fb113e523"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,9 +17,11 @@ socials:
   deezer: "201537157"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "37378372"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -2,6 +2,7 @@
 id: "97c8a0a6-a726-446c-8bdd-f707d7eb6c02"
 title: "Biird"
 socials:
+  musicbrainz: "72fc0540-4701-4d54-8157-558e05ecbb40"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

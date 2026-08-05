@@ -2,6 +2,7 @@
 id: "b90ee047-b16b-49f8-8f36-3c01c086574f"
 title: "BlabberMouf"
 socials:
+  musicbrainz: "4d08c2e5-cbf0-42b6-9383-52d2180c26f4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

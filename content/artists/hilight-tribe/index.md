@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Hilight Tribe est un groupe français de natural trance, aussi appelée techno acoustique, originaire de la région

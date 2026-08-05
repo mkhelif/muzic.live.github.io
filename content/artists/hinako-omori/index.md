@@ -19,6 +19,8 @@ socials:
   apple: "1376399396"
   deezer: "10897114"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Hinako Omori est une artiste japonaise basée à Londres, qui crée des environnements sonores immersifs mêlant

@@ -2,6 +2,7 @@
 id: "c95d7d51-bd8f-4667-a675-bd507e3b4912"
 title: "Alex Montembault"
 socials:
+  musicbrainz: "d1d05681-a965-440e-a349-d7ac0ae055ac"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,8 +16,10 @@ socials:
   apple: "1500441314"
   deezer: "86720622"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "7Fbx8FniPmKUR3MfZCzh9a"
+  tidal: "18469464"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Originaire de Pouancé, dans le Maine-et-Loire, Alex Montembault grandit dans une famille de musiciens : un père

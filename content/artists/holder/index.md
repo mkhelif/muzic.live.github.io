@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Holder est un groupe de hardcore à tendance screamo originaire du Massachusetts occidental, formé en 2024. Rapidement

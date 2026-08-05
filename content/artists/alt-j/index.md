@@ -2,21 +2,40 @@
 id: "ec49f83e-7a05-4589-87a0-852168248938"
 title: "Alt-J"
 type: band
+members:
+  - id: "f640c8f7-858f-49eb-bfad-9b3d9454b82f"
+    roles:
+      - sing
+      - guitar
+  - id: "aa908e34-e60b-4882-969b-e6c43c9fb1ef"
+    roles:
+      - guitar
+      - bass
+  - id: "38fd7f24-1b21-4138-abd8-222369008ba2"
+    roles:
+      - drums
+  - id: "e019541b-0d07-4d21-9a09-52d8a859bfcf"
+    roles:
+      - keys
 socials:
+  musicbrainz: "fc7bbf00-fbaa-4736-986b-b3ac0266ca9b"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "11178017"
+  songkick: "4555533"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "494311026"
+  deezer: "1606315"
+  qobuz: "738095"
   spotify: "3XHO7cRUPCLOr6jwp8vsx5"
-  tidal: ""
+  tidal: "4491197"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Alt-J (stylisé Δ) est un groupe de rock indépendant anglais formé en 2007 à l'Université de Leeds. Composé à l'origine

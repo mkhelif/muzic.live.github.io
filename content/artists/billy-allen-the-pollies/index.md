@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Billy Allen + The Pollies est un groupe américain issu de Muscle Shoals, Alabama — la ville légendaire qui a vu

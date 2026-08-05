@@ -2,6 +2,7 @@
 id: "d2ece0b6-f62d-4b3b-b9be-c13211f3d770"
 title: "Bisou"
 socials:
+  musicbrainz: "a14d506d-94c0-4087-a36d-1c09c5e4563b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,12 +14,14 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "12226"
   qobuz: ""
-  spotify: ""
+  spotify: "74m2vnYnIGai5x0musAVGn"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

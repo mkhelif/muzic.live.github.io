@@ -2,6 +2,7 @@
 id: "50c4e228-fd6c-48ee-9ded-6f5864967cdb"
 title: "Helgrind"
 socials:
+  musicbrainz: "4ed5d35c-a2f6-44e7-8ba2-9e215a120365"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

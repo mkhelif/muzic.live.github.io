@@ -3,11 +3,13 @@ id: "c356cb37-3a82-4978-a06c-97d089843c3f"
 title: "Alela Diane"
 type: person
 socials:
+  musicbrainz: "8682866a-4f7a-43f5-83b2-06eabd0f2d4c"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "230031"
+  songkick: "262193"
   youtube: ""
   web: ""
   email: ""
@@ -16,10 +18,14 @@ socials:
   deezer: "56202"
   qobuz: ""
   spotify: "2QIHd0B2VIKlmLyoq4lUr7"
-  tidal: ""
+  tidal: "3580413"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1983-04-20
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Alela Diane Menig est une chanteuse et compositrice américaine née le 20 avril 1983 à Nevada City, en Californie.

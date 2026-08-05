@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 BRUIT ≤ est un quartet instrumental français fondé à Toulouse en 2016, dont les compositions se déploient

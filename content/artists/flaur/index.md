@@ -18,6 +18,8 @@ socials:
   deezer: "88466692"
   qobuz: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Flaur représente l'une des voix les plus prometteuses et innovantes du paysage musical actuel. Avec un univers sonore à

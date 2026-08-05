@@ -3,6 +3,7 @@ id: "f59d3471-0356-40bc-98cc-2a62a1aed47a"
 title: "Hey Satan"
 type: band
 socials:
+  musicbrainz: "1a5811c7-f7e7-4818-9393-abd425266968"
   facebook: "heysatanrock"
   instagram: "heysatanrock"
   bandcamp: "heysatan"
@@ -18,6 +19,8 @@ socials:
   deezer: "11698869"
   qobuz: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 

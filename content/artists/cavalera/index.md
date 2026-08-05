@@ -70,6 +70,8 @@ socials:
   tidal: "3523101"
   web: "https://www.cavaleraconspiracy.net/"
   email: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il y a des albums dont on dit qu'ils ont changé une discipline entière, et puis il y a *Chaos A.D.* — un disque qui,

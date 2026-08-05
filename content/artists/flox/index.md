@@ -20,6 +20,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Flox, de son vrai nom Florian Gratton, est un compositeur de reggae d'origine britannique installé en France depuis

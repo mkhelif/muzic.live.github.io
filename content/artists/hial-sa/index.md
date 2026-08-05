@@ -3,6 +3,7 @@ id: "6fe56f06-4aa5-4e6d-8200-7c286ec318a0"
 title: "Hialøsa"
 type: band
 socials:
+  musicbrainz: "50dcd5c4-d69e-446c-bc73-fc44885c37c2"
   facebook: "hialosa"
   instagram: "hialosa"
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

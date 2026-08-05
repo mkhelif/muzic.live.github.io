@@ -3,6 +3,7 @@ id: "e379d384-28d7-4e4c-8be8-80cce3008b34"
 title: "Chéri Chéri"
 type: band
 socials:
+  musicbrainz: "389d0386-d52c-4d9a-917c-26397ef33dab"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,8 +16,10 @@ socials:
   apple: "1715303381"
   deezer: "242170521"
   qobuz: ""
-  spotify: ""
+  spotify: "3vJdUMYSL0QKM6UoTtAUve"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Chéri Chéri est un groupe de rock franco-américain basé à Paris, né d'une annonce collée sur un poteau de rue par

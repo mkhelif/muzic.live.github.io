@@ -3,20 +3,26 @@ id: "da1eedba-41e1-49ef-b63d-d1b5e3858b83"
 title: "Big Daddy Kane"
 type: person
 socials:
+  musicbrainz: "8e75d270-4d53-4a4a-bc14-e3ace37ebd4e"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "2118"
+  songkick: "35658"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "1710196"
-  deezer: ""
+  deezer: "6889"
   qobuz: ""
   spotify: "6futYSDVulYR2PktBjTB5W"
-  tidal: ""
+  tidal: "3521126"
+lifespan:
+  start: 1968-09-10
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Big Daddy Kane, de son vrai nom Antonio Hardy, est un rappeur américain né le 10 septembre 1968 à Brooklyn, New York.

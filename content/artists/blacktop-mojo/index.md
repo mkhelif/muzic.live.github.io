@@ -2,21 +2,35 @@
 id: "0eb3ad0b-683e-4365-8120-3041fa1ca383"
 title: "Blacktop Mojo"
 type: band
+members:
+  - id: "a8a7a200-a6ec-4bcb-b893-fc7f579b29c5"
+    roles:
+      - other
+  - id: "4af24f04-3993-445d-ad46-700a50ed706f"
+    roles:
+      - other
+  - id: "014c4a8f-a7a5-48a3-9eff-8f08d83b414c"
+    roles:
+      - other
 socials:
+  musicbrainz: "8653b09a-abbc-4fd7-a754-ff990b9dfc77"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "5813937"
+  songkick: "6489564"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "606989963"
   deezer: "6360482"
-  qobuz: ""
+  qobuz: "4548382"
   spotify: "74YaL1CwdKlao06KrJyuX2"
-  tidal: ""
+  tidal: "5689359"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Fondé en 2012 à Palestine, au Texas, par le chanteur Matt James et le batteur Nathan Gillis, Blacktop Mojo développe

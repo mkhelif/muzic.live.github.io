@@ -17,6 +17,8 @@ socials:
   apple: "593104348"
   deezer: "4346177"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Alfred Massaï est un artiste français qui émerge sur la scène musicale hexagonale avec une approche originale mêlant

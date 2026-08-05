@@ -2,21 +2,32 @@
 id: "0b63be60-942b-45b6-97a3-fdc5fb4d6552"
 title: "Black Bomb A"
 type: band
+members:
+  - id: "f5174ca4-1906-4efb-8461-2a333660ce47"
+    roles:
+      - other
+  - id: "9cee3077-6742-4ca0-9919-1e19bbf23f87"
+    roles:
+      - other
 socials:
+  musicbrainz: "cfba3eea-7dd3-4032-9399-d201747f54a9"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "10957"
+  songkick: "42910"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "98292533"
   deezer: "10858"
   qobuz: ""
   spotify: "342r2dUbm7yE0uvOjmElcE"
-  tidal: ""
+  tidal: "4551512"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Formé fin 1994 à Viroflay, dans les Yvelines, Black Bomb A développe une fusion rebelle entre métal, punk et hardcore.

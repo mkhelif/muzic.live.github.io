@@ -3,6 +3,7 @@ id: "03bf3a85-e21a-42b9-8cc6-36ab96c9a345"
 title: "Alex Shelnutt"
 type: person
 socials:
+  musicbrainz: "b64d90c2-330d-4dcd-a623-797ace9bd635"
   facebook: ""
   instagram: "alexshelnutt"
   tiktok: ""
@@ -17,4 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lifespan:
+  start: 1990-08-15
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

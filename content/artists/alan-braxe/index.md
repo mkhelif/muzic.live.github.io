@@ -3,11 +3,13 @@ id: "c076f2a8-84bd-485d-903c-388ebdbaf7a5"
 title: "Alan Braxe"
 type: person
 socials:
+  musicbrainz: "26b513d8-199c-492e-9be7-72c340e40214"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "97257"
+  songkick: "582193"
   youtube: ""
   web: ""
   email: ""
@@ -16,7 +18,11 @@ socials:
   deezer: "11703"
   qobuz: ""
   spotify: "24JRvbKfTcF2x7c2kCCJrW"
-  tidal: ""
+  tidal: "3556683"
+lifespan:
+  start: 1973-08-06
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Alan Braxe, de son vrai nom Alain Quême, est l'un des architectes discrets mais essentiels de la French Touch, ce

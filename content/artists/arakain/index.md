@@ -2,6 +2,7 @@
 id: "94c7995c-7829-4348-a671-8a0d1e39e972"
 title: "Arakain"
 socials:
+  musicbrainz: "29460db7-eae0-4d01-ad8e-861e02987d68"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,13 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "290301667"
+  deezer: "129757"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "2V56RPfzXPhku6Qm3B2Zdr"
+  tidal: "3543783"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Alex Farell est un DJ et producteur britannique né en 2006 à Liverpool, représentant l'une des générations les plus

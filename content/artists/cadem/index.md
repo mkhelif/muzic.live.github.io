@@ -2,6 +2,10 @@
 id: "cfa34c3b-6883-4cf2-a349-7a40c054af99"
 title: "Cadem"
 type: band
+members:
+  - id: "1d05398e-49f6-4773-be47-e5da350fb1db"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -12,15 +16,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "964682622"
+  deezer: "7505158"
   qobuz: ""
-  spotify: ""
+  spotify: "5i3aYasTcHSRmJjO328pqj"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "f02a8392-baac-44a6-947f-cf7910d2d4d9"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

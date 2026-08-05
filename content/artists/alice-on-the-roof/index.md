@@ -3,11 +3,13 @@ id: "ec881eee-f6c7-415e-841f-65599501765c"
 title: "Alice on the Roof"
 type: person
 socials:
+  musicbrainz: "1b4ad2da-13b8-48a1-9e2b-7b044ca6649d"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "12005973"
+  songkick: "8646834"
   youtube: ""
   web: ""
   email: ""
@@ -16,10 +18,14 @@ socials:
   deezer: "7688082"
   qobuz: ""
   spotify: "4M07FSqpxgqLfCOaX1WUei"
-  tidal: ""
+  tidal: "6693604"
 todo:
   - Add cover
   - Add socials
+lifespan:
+  start: 1995-01-23
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Alice on the Roof est le nom de scène d'Alice Dutoit, chanteuse belge née le 23 janvier 1995 à Soignies, dans le

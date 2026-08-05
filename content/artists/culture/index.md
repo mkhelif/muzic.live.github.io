@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Culture est l'un des groupes de roots reggae les plus importants de l'histoire de la Jamaïque.

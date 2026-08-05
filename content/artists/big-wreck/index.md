@@ -2,11 +2,13 @@
 id: "851e5385-dd40-406c-b128-106f7dcf8ae7"
 title: "Big Wreck"
 socials:
+  musicbrainz: "ff714d73-031a-401b-8e69-487944335cc6"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "41890"
+  songkick: "29653"
   youtube: ""
   web: ""
   email: ""
@@ -15,10 +17,12 @@ socials:
   deezer: "15747"
   qobuz: ""
   spotify: "557SGrCJ59ysjCE1xjVZbS"
-  tidal: ""
+  tidal: "14875"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Big Wreck est un groupe de rock canadien formé par le chanteur-guitariste Ian Thornley et Brian Doherty à Boston en

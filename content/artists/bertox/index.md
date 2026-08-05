@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Bertox est un artiste de musique électronique présent sur les plateformes de streaming et de mix en ligne. Son

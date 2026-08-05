@@ -3,11 +3,13 @@ id: "bfeaf5c8-9021-4ac8-9f03-73847b1141a8"
 title: "BIBIZA"
 type: person
 socials:
+  musicbrainz: "627a2192-1645-457f-a710-3d182619f2e4"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "15514122"
+  songkick: "9955579"
   youtube: ""
   web: ""
   email: ""
@@ -16,7 +18,11 @@ socials:
   deezer: "13877285"
   qobuz: ""
   spotify: "4cohcn6lAkdQIAt3q5C4e2"
-  tidal: ""
+  tidal: "9413203"
+lifespan:
+  start: 1999
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Originaire du quartier viennois de Mariahilf, où il puise une bonne partie de son inspiration, BIBIZA construit sa

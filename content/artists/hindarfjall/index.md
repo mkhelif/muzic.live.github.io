@@ -3,6 +3,7 @@ id: "2dcfe567-1e6e-447f-a5cf-99a72972fb13"
 title: "Hindarfjäll"
 type: band
 socials:
+  musicbrainz: "4ca936e9-c21b-4957-9581-f5f2ca669874"
   facebook: "hindarfjall"
   instagram: "hindarfjall"
   tiktok: ""
@@ -19,6 +20,8 @@ socials:
   qobuz: ""
   spotify: "2whm1PlA7DHAGCTk7oQ0G4"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Hindarfjäll est un groupe suédois de folk metal et de néofolk formé en 2015 à Göteborg par Nils A. Edström, dont

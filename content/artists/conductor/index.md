@@ -9,4 +9,6 @@ socials:
   youtube: "@musicadelconductor"
   linkedin: "in/androcarvalho"
   email: "musicadelconductor@gmail.com"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

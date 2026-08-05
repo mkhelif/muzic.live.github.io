@@ -95,20 +95,24 @@ members:
     periods:
       - start: 2026
 socials:
+  musicbrainz: "e631bb92-3e2b-43e3-a2cb-b605e2fb53bd"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "862"
+  songkick: "247958"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B001E6UC8E"
+  apple: "18098340"
   deezer: "1392"
-  qobuz: ""
+  qobuz: "224949"
   spotify: "0DCw6lHkzh9t7f8Hb4Z0Sx"
-  tidal: ""
+  tidal: "24088"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Arch Enemy est un groupe suédois de melodic death metal fondé en 1995 par le guitariste **Michael Amott**, ancien

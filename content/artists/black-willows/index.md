@@ -3,6 +3,7 @@ id: "27f89472-2df3-4ccb-b7e5-675e4ce98fa2"
 title: "Black Willows"
 type: band
 socials:
+  musicbrainz: "b7c301fb-5ea8-465e-b087-0def3e421f67"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Black Willows est un groupe de doom stoner originaire de Lausanne, en Suisse, fondé en 2010. Dans le paysage de la

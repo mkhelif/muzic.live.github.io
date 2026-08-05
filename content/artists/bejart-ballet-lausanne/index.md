@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Le Béjart Ballet Lausanne (BBL) est l'une des compagnies de danse les plus célèbres au monde, fondée en 1987 par le

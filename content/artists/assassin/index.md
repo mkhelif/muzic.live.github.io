@@ -2,7 +2,38 @@
 id: "28802df1-0857-4bf2-8fbb-d385676781c1"
 title: "Assassin"
 type: band
+members:
+  - id: "3fb96b73-f5ef-4f17-95c8-3d52ece1fe75"
+    roles:
+      - other
+    periods:
+      - start: 1985
+  - id: "424524c0-d228-4811-935e-9b51e95200c8"
+    roles:
+      - other
+    periods:
+      - start: 1985
+        end: 1994
+  - id: "92450213-d0b8-43d8-a044-38e936237e5d"
+    roles:
+      - other
+    periods:
+      - start: 1995
+        end: 1997
+  - id: "2ce9dcfc-3e3e-40b8-a01b-ca26aaba3079"
+    roles:
+      - other
+    periods:
+      - start: 1993
+        end: 1993
+  - id: "16a63f86-bd2e-448f-b713-caddd323bb82"
+    roles:
+      - other
+  - id: "f2a589d1-eb9b-433f-9ef0-bdb4efbd3e50"
+    roles:
+      - other
 socials:
+  musicbrainz: "20cf9a2a-7418-42e1-9b36-312cd9c2088f"
   facebook: ""
   instagram: ""
   web: ""
@@ -13,10 +44,12 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "2521"
   qobuz: ""
   spotify: "5zbzDats0HBBPuir5QWKWm"
-  tidal: ""
+  tidal: "19576506"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Assassin est un groupe de thrash metal allemand fondé vers 1985 à Düsseldorf, en Allemagne de l'Ouest. Comptant parmi

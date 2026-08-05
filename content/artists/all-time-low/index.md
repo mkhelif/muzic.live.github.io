@@ -2,24 +2,44 @@
 id: "0685c69e-1ffe-4f60-8b8c-c9f8e7d10690"
 title: "All Time Low"
 type: band
+members:
+  - id: "3db4000b-45ca-4bb5-8f8b-ae6e9163907f"
+    roles:
+      - sing
+      - guitar
+  - id: "e00a5ec3-cccc-4f63-84c0-1d63e27d92c5"
+    roles:
+      - drums
+  - id: "0a5cc24f-c402-4dc7-9a92-97b647c8fd6b"
+    roles:
+      - sing
+      - guitar
+  - id: "948af3bd-bf9f-4db0-a634-85e074afe2ea"
+    roles:
+      - sing
+      - bass
 socials:
+  musicbrainz: "62162215-b023-4f0e-84bd-1e9412d5b32c"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "695"
+  songkick: "368240"
   youtube: ""
   web: ""
   email: ""
   amazon: "B000QJNVBU"
   apple: "167375968"
   deezer: "13191"
-  qobuz: ""
+  qobuz: "35053"
   spotify: "46gyXjRIvN1NL1eCB8GBxo"
-  tidal: ""
+  tidal: "36212"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 All Time Low est un groupe de pop punk américain originaire de Towson, Maryland, une banlieue de Baltimore, formé

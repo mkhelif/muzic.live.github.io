@@ -3,6 +3,7 @@ id: "5b6d8759-1fa2-40df-a3c4-592b2f24ed3c"
 title: "BEN plg"
 type: person
 socials:
+  musicbrainz: "5cc730f4-00ed-4298-8d1d-6fe90a0291eb"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,10 @@ socials:
   spotify: "4Q4yUu2v7zN40G0LtsnY98"
   tidal: ""
 cover: ""
+lifespan:
+  start: 1992-01-04
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 BEN plg, de son vrai nom Thomas Léger, est un rappeur français né le 4 janvier 1992 à Villeneuve-d'Ascq, dans le

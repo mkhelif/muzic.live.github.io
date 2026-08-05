@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 Antenn.e est un trio de punk alternatif lyonnais né à la fin de l'année 2020, qui s'est fait rapidement remarquer sur la scène locale et nationale pour son énergie brute, son humour poétique et son inclassable « Bright Punk » — une appellation qu'ils ont inventée eux-mêmes pour désigner leur mélange de post-punk, de noise pop décalée et de rock sauvage.
 

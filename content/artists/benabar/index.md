@@ -3,11 +3,13 @@ id: "6baa2aba-6ba9-4aec-9f74-d53e3706fff5"
 title: "Bénabar"
 type: person
 socials:
+  musicbrainz: "93942b87-215a-4626-b5ec-bf129d9fa2f6"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "65419"
+  songkick: "470445"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +22,10 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
+lifespan:
+  start: 1969-06-16
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Bénabar, de son vrai nom Bruno Nicolini, est un auteur-compositeur-interprète français né le 16 juin 1969 à

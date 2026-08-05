@@ -3,10 +3,12 @@ id: "21625c2a-34be-4103-900c-8fd757318a5c"
 title: "Björn Again"
 type: band
 socials:
+  musicbrainz: "3908a0ff-cc0c-4765-acf4-e33d52b16a6d"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "369545"
   youtube: ""
   web: ""
   email: ""
@@ -16,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Björn Again est le spectacle-hommage à ABBA le plus célèbre et le plus accompli au monde. Fondé en 1988 à Melbourne,

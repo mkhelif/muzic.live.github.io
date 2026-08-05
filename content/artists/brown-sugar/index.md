@@ -17,10 +17,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "3693894f-672e-468b-8112-cd8893bf380b"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

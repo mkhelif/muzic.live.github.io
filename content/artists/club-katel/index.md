@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Club Katel est un projet musical dont les informations publiques disponibles sont limitées. Il s'agit d'un

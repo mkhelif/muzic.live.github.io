@@ -2,6 +2,7 @@
 id: "0de9e826-d3d5-43af-8a1f-7f28b735e718"
 title: "American Jetset"
 socials:
+  musicbrainz: "64a0c125-1ed1-4f2d-aa11-e9fd5f3caea2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

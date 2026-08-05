@@ -2,7 +2,21 @@
 id: "586a805e-4d16-45de-bce4-d74fb8d29044"
 title: "Adult DVD"
 type: band
+members:
+  - id: "5034310d-0f85-40a8-b3aa-5c6aa77cb048"
+    roles:
+      - other
+  - id: "7a5550b6-3c32-4420-8f79-7801a6bd3bff"
+    roles:
+      - other
+  - id: "45218c98-a428-4fe0-b560-6c026a3f4da9"
+    roles:
+      - other
+  - id: "c775b644-bf87-452b-b328-ad9df7db3a30"
+    roles:
+      - other
 socials:
+  musicbrainz: "3daddca6-34a3-47b1-91a5-a1bff99c98dc"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,7 +30,9 @@ socials:
   deezer: "121127372"
   qobuz: ""
   spotify: "1lT3vDbjqz299SxePec6ZG"
-  tidal: ""
+  tidal: "23201828"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Adult DVD est un groupe de dance-punk anglais originaire de Leeds, formé en 2021 par **Harry Hanson** et Greg

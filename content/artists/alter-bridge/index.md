@@ -24,12 +24,14 @@ members:
     periods:
       - start: 2004
 socials:
+  musicbrainz: "60a23fda-a440-4ab9-a344-7dfdd2ed341a"
   facebook: "alterbridge"
   instagram: "officialalterbridge"
   tiktok: "@officialalterbridge"
   threads: "@officialalterbridge"
   x: "alterbridge"
   bandsintown: "1686"
+  songkick: "2250667"
   youtube: "@alterbridgeofficial"
   web: "https://alterbridge.com/"
   email: "info@janusmusicmgmt.com"
@@ -39,6 +41,8 @@ socials:
   qobuz: "130702"
   spotify: "4DWX7u8BV0vZIQSpJQQDWU"
   tidal: "58484"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Nés des cendres de Creed, Alter Bridge s'impose depuis plus de vingt ans comme l'un des groupes de rock les plus

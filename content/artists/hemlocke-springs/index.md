@@ -3,6 +3,7 @@ id: "0611bf62-2898-4399-9fbe-43c664ac5def"
 title: "Hemlocke Springs"
 type: person
 socials:
+  musicbrainz: "45859d30-a45b-4cc6-b9ba-85607dcc2819"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,10 +17,14 @@ socials:
   deezer: "124778512"
   qobuz: ""
   spotify: "52PdgUJOjvS6Mpmjy1SAlx"
-  tidal: ""
+  tidal: "23702100"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1998-11-16
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Hemlocke Springs est le nom de scène d'Isimeme "Naomi" Udu, autrice-compositrice, chanteuse et productrice américaine

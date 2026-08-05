@@ -2,24 +2,41 @@
 id: "5a4c7b45-be5b-4732-9aea-211d0a2d2b0e"
 title: "Allt"
 type: band
+members:
+  - id: "ba119759-c1bd-4052-864c-11bc43e6ceac"
+    roles:
+      - drums
+  - id: "469d1e08-94aa-4277-ac8d-c68371313d2e"
+    roles:
+      - guitar
+  - id: "26c9283e-7fd3-4302-ab8d-f52770b759c0"
+    roles:
+      - sing
+  - id: "50f1407f-ca1f-4de7-b227-f362fd957477"
+    roles:
+      - guitar
 socials:
+  musicbrainz: "bd25b4a6-09ee-4c88-96f3-04464e36c2e5"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "15502572"
+  songkick: "10165512"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "1529369992"
+  deezer: "105300172"
+  qobuz: "13202426"
   spotify: "6YRr0btzGqfQ5K7r23qjEM"
-  tidal: ""
+  tidal: "21078379"
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Allt est un groupe de metalcore progressif suédois originaire de Karlskoga, fondé en septembre 2020. Le nom du

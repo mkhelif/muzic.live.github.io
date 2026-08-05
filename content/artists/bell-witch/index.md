@@ -2,21 +2,46 @@
 id: "871e4e9a-fd72-406f-9dc9-dfafe001825b"
 title: "Bell Witch"
 type: band
+members:
+  - id: "1d604171-f26a-4189-bff4-64638ba73c18"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2010
+  - id: "d7c3db0b-e4be-4cfa-a515-d86a93a22554"
+    roles:
+      - sing
+      - drums
+      - keys
+    periods:
+      - start: 2015
+  - id: "420fa28f-15da-4d2e-ac41-3730d88c1317"
+    roles:
+      - sing
+      - drums
+    periods:
+      - start: 2010
+        end: 2015
 socials:
+  musicbrainz: "4a53fa0a-8c84-4299-b0fe-d0a7bb89adc7"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "1997027"
+  songkick: "4737848"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "571352531"
   deezer: "4521392"
-  qobuz: ""
+  qobuz: "2223936"
   spotify: "6lZ0xXnt7D1JXxv03XLX0K"
-  tidal: ""
+  tidal: "6822144"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Bell Witch est un groupe de doom metal américain originaire de Seattle, dans l'État de Washington, fondé en

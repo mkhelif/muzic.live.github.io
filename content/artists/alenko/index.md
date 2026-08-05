@@ -18,6 +18,8 @@ socials:
   spotify: ""
   tidal: ""
 cover: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Alenko (ALeNKò) est un quatuor formé en 2006 autour du chanteur-guitariste **Arnaud Lepresle**, à l'origine trio avec

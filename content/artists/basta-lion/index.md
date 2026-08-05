@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Basta Lion, de son vrai nom Loïc Maurizio, est un chanteur de dancehall malgache né le 27 décembre 1991 à Mahajanga.

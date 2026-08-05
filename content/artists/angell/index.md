@@ -2,6 +2,7 @@
 id: "93439d3b-3cb9-4670-9fa3-af4399443c1e"
 title: "ANGELL"
 socials:
+  musicbrainz: "25f67223-8eac-42f9-9923-0822e6888dc8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,13 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1805639261"
   deezer: "5300410"
   qobuz: ""
-  spotify: ""
+  spotify: "5Odh5zPX8FMbJTnhfsHP6X"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

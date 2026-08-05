@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 **Udo Dirkschneider**, né le 6 avril 1952 à Wuppertal et installé très tôt à Solingen, en Allemagne, est l'une des voix les

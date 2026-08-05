@@ -2,6 +2,7 @@
 id: "d0decc75-cf06-413d-946a-3fbe679dd9a9"
 title: "Alex Bugnon"
 socials:
+  musicbrainz: "295ba06a-d49d-4867-b15c-66ccef993f48"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

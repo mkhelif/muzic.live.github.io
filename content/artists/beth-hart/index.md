@@ -3,23 +3,29 @@ id: "1528aa21-2495-421a-aaec-65c7db731538"
 title: "Beth Hart"
 type: person
 socials:
+  musicbrainz: "3fe817fc-966e-4ece-b00a-76be43e7e73c"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "6636"
+  songkick: "405677"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "155294"
+  deezer: "16052"
+  qobuz: "308467"
   spotify: "30TrHDLNCKQVTYWOn9QqOC"
-  tidal: ""
+  tidal: "7650"
 todo:
   - Add picture
   - Verify and add socials
+lifespan:
+  start: 1972-01-24
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Beth Hart, née le 24 janvier 1972 à Los Angeles, est une chanteuse et pianiste américaine emblématique du blues rock.

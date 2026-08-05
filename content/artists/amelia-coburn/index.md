@@ -2,6 +2,7 @@
 id: "f2303208-8a0b-464a-a0b7-8cf0b44a1114"
 title: "Amelia Coburn"
 socials:
+  musicbrainz: "d2f8f2de-5d5e-4970-97c8-9bd973edc932"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

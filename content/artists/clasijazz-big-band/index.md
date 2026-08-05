@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Le Clasijazz Big Band est né dans le cadre du projet Clasijazz, association espagnole pionnière dans la diffusion du

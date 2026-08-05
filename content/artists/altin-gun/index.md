@@ -2,20 +2,50 @@
 id: "6444d412-cbb1-453c-9ca0-e33210af40a6"
 title: "Altın Gün"
 type: band
+members:
+  - id: "1c5ee470-01e6-4d41-a100-e3439084d5fe"
+    roles:
+      - sing
+    periods:
+      - start: 2024
+        end: 2024
+  - id: "9e2f2e0a-3217-4e6c-9494-a83830e64a14"
+    roles:
+      - drums
+  - id: "3455dd7c-830a-4412-ade6-14a97f85c4da"
+    roles:
+      - drums
+  - id: "8bcb0fec-bbf4-46fe-b824-cf725e4090bf"
+    roles:
+      - guitar
+  - id: "8aab0442-ca61-4e97-a6af-60d8d678e05a"
+    roles:
+      - other
+  - id: "f5d9b96e-a565-47d6-b008-94ca23205d82"
+    roles:
+      - bass
+  - id: "63c83cd2-9a5a-4f4f-853e-719dd81fc515"
+    roles:
+      - sing
+      - keys
 socials:
+  musicbrainz: "cd5799f6-e6cf-4322-a659-96f5de4a2f6c"
   facebook: ""
   instagram: ""
   web: ""
   tiktok: ""
   x: ""
+  songkick: "8959089"
   youtube: ""
   email: ""
   amazon: "B0725XKH89"
   apple: "1230077237"
   deezer: "12494758"
-  qobuz: ""
+  qobuz: "3589355"
   spotify: "37PL04N8kBWWW69jdrMMWT"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 Altın Gün — qui signifie « Jour d'Or » en turc — est l'une des formations les plus originales et les plus séduisantes à avoir émergé de la scène indépendante internationale dans les années 2010. Ce groupe à la fois hollandais et turc a réussi le tour de force de ressusciter et de réinventer le rock anatolien des années 1960 et 1970, tout en l'intégrant dans une esthétique psychédélique et funk résolument contemporaine.
 

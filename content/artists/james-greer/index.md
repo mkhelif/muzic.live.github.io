@@ -1,0 +1,26 @@
+---
+id: "d3e83372-3c17-47b0-8fd9-dec4ebfbe7b6"
+title: "James Greer"
+type: person
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  songkick: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+  musicbrainz: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

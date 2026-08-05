@@ -3,6 +3,7 @@ id: "97c8aef0-268e-4287-9311-c89ce1173c84"
 title: "Helmut Fritz"
 type: person
 socials:
+  musicbrainz: "6ea13e9f-5051-46e9-b23e-e5b6a0a5391a"
   facebook: "helmutfritzofficiel"
   bandsintown: "377183"
   youtube: "@HelmutFritzOfficiel"
@@ -17,6 +18,10 @@ socials:
   apple: "305988834"
   deezer: "175049"
   qobuz: ""
+lifespan:
+  start: 1975-07-19
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Helmut Fritz est le personnage décalé et irrésistible créé en 2009 par Éric Greff, artiste français né le 19 juillet

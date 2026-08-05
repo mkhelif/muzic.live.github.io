@@ -3,6 +3,7 @@ id: "259604b1-b6e7-484d-b952-8d6a9ee0c9fd"
 title: "Aloïse Sauvage"
 type: person
 socials:
+  musicbrainz: "6c6c3672-61bd-43d6-aa57-31c6c3d10298"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,7 +17,11 @@ socials:
   deezer: "13153273"
   qobuz: ""
   spotify: "5LYSuLVsB6OVxkDY107AyQ"
-  tidal: ""
+  tidal: "9083186"
+lifespan:
+  start: 1992-09-25
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Aloïse Sauvage est une artiste française pluridisciplinaire née le 25 septembre 1992 au Mée-sur-Seine, en

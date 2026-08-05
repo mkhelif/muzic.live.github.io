@@ -3,6 +3,7 @@ id: "6a31a3bb-54af-4031-920b-acb94293681a"
 title: "Argentique"
 type: band
 socials:
+  musicbrainz: "25d03359-5550-4d43-bd29-82b00a21debc"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,11 +12,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1490495071"
   deezer: "80335942"
   qobuz: ""
   spotify: "7w5UNJwyb9rHCmZujGwIzh"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Argentique est un trio d'électro-pop originaire de Lyon, composé de Philippine Boulet (chant, claviers), Thomas Lefebvre

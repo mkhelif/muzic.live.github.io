@@ -2,21 +2,43 @@
 id: "f96e6217-ef67-41b4-8501-28f89763e283"
 title: "Aura Noir"
 type: band
+members:
+  - id: "66472dbb-3e97-45bd-ac0a-3a0e0912a828"
+    roles:
+      - other
+    periods:
+      - start: 1993
+  - id: "300c04c4-b99d-4805-b544-63aa45bbe56f"
+    roles:
+      - other
+    periods:
+      - start: 1993
+  - id: "25a4bfb6-a71d-4b5c-bd52-6b1a22ca951d"
+    roles:
+      - other
+    periods:
+      - start: 2001
+      - start: 1995
+        end: 1998
 socials:
+  musicbrainz: "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "21282"
+  songkick: "261491"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "76581389"
   deezer: "10332"
-  qobuz: ""
+  qobuz: "883166"
   spotify: "4S2qftLTvdEFvIPPTYmeg6"
-  tidal: ""
+  tidal: "3604670"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Aura Noir est un groupe de black/thrash metal norvégien originaire d'Oslo, fondé en 1993 par Aggressor (Carl-Michael

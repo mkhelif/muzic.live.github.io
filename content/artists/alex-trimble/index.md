@@ -3,6 +3,7 @@ id: "13ce17d9-d81d-4067-8bae-5ea69abb875f"
 title: "Alex Trimble"
 type: person
 socials:
+  musicbrainz: "c627c28f-7b8e-44a9-b601-a211808df036"
   facebook: ""
   instagram: ""
   x: ""
@@ -22,4 +23,8 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1989-10-03
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

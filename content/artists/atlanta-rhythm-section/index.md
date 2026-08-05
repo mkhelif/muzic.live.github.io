@@ -2,6 +2,7 @@
 id: "8f069db3-e87d-4b0b-b6b5-b5bb35f8cf0d"
 title: "Atlanta Rhythm Section"
 socials:
+  musicbrainz: "6b627bd0-b839-40c7-b025-7b60c122dfea"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,14 +13,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "407492"
   deezer: "61678"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0WgyCbru4tXnMsbTmX4mFw"
+  tidal: "34452"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Atlanta Rhythm Section est un groupe de rock américain formé en 1969, réunissant

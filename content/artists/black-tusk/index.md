@@ -2,12 +2,29 @@
 id: "733eec93-c44b-4412-8b51-c534138dbc35"
 title: "Black Tusk"
 type: band
+members:
+  - id: "0a5f2ef3-d9d0-4c56-9969-fc337420d736"
+    roles:
+      - bass
+    periods:
+      - start: 2018
+  - id: "cbebec8c-8437-46b9-8156-1e2a40451e2d"
+    roles:
+      - bass
+  - id: "bb7a31fb-7268-45f9-8d7f-75afcd52a338"
+    roles:
+      - guitar
+  - id: "5a14d92c-e39b-4133-9997-3b7752bb1374"
+    roles:
+      - drums
 socials:
+  musicbrainz: "8a60a617-3de8-4ce9-bef1-8af7b971c064"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "184160"
+  songkick: "2320559"
   youtube: ""
   web: ""
   email: ""
@@ -16,10 +33,12 @@ socials:
   deezer: "393267"
   qobuz: ""
   spotify: "7iontmL8hXqoJcSA5oTZqa"
-  tidal: ""
+  tidal: "3700067"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Black Tusk est un groupe américain de sludge metal originaire de Savannah, en Géorgie, formé en 2005 alors que ses

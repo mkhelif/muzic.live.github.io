@@ -3,6 +3,7 @@ id: "ea97927e-5532-4faa-a57a-583db3a28f20"
 title: "Big Junior"
 type: band
 socials:
+  musicbrainz: "33ad140e-adc5-465a-9809-a4d3bfae0f04"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 BIG Junior est un groupe originaire de Lyon composé de quatre musiciens qui mêlent hip-hop, musique électronique et rock

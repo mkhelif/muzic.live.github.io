@@ -2,6 +2,7 @@
 id: "136250ca-d125-47d7-b33f-c24090fe9a9b"
 title: "Birds on a Wire"
 socials:
+  musicbrainz: "ce882404-1f7c-4cdf-be21-12d715e017af"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: "964048570"
   deezer: "7490064"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "3GKGEnbmQnaTNGJL6ZGryj"
+  tidal: "7710485"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

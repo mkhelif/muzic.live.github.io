@@ -3,6 +3,7 @@ id: "a2da5538-cfa9-4d01-88f2-c28ad1356d23"
 title: "Blair Davie"
 type: person
 socials:
+  musicbrainz: "c12d2ed3-44e0-456d-8bad-ce773fee40ee"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,7 +17,9 @@ socials:
   deezer: "14460075"
   qobuz: ""
   spotify: "3sDemA5FWaxfqPJFP2SK8x"
-  tidal: ""
+  tidal: "9653804"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Blair Davie est un·e auteur·rice-compositeur·rice-interprète écossais·e originaire de Perth, dont la voix

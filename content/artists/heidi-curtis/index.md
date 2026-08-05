@@ -3,6 +3,7 @@ id: "ad8e8bde-b982-4f7d-a574-866cbee2f2dd"
 title: "Heidi Curtis"
 type: person
 socials:
+  musicbrainz: "d34150bb-d3d6-4ced-9b93-e05b5a667e30"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,10 @@ socials:
   qobuz: ""
   spotify: "4Jc9s2qAwAsnS72FGbCrwZ"
   tidal: ""
+lifespan:
+  start: 2001-09-10
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Heidi Curtis est une autrice-compositrice-interprète britannique originaire de North Shields, près de Newcastle upon

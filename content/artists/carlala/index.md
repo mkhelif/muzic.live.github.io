@@ -17,6 +17,8 @@ socials:
   spotify: ""
   tidal: ""
 cover: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Carlala est une DJ et productrice marseillaise qui s'est imposée sur la scène clubbing depuis 2021 avec une énergie

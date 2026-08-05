@@ -2,7 +2,21 @@
 id: "200a335e-c670-4659-93c3-e556437b1a8e"
 title: "Heavy Lungs"
 type: band
+members:
+  - id: "cea68983-4801-4ba1-b8e5-41a7e8553352"
+    roles:
+      - drums
+  - id: "0b2f64f4-2464-4e18-a2f1-a9cb44534736"
+    roles:
+      - bass
+  - id: "beebef66-3ab5-4300-8b85-6398a0bc69c8"
+    roles:
+      - sing
+  - id: "ff4c6d75-f03e-4a06-9fd7-3e01a0036ab1"
+    roles:
+      - guitar
 socials:
+  musicbrainz: "b7faff47-57c9-4625-a612-4b0ea6c51511"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,9 +28,11 @@ socials:
   amazon: ""
   apple: "1362650992"
   deezer: "52155832"
-  qobuz: ""
+  qobuz: "4018662"
   spotify: "07eIrj0b3z5mgvtkDmWoxo"
-  tidal: ""
+  tidal: "10505027"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Heavy Lungs est un groupe de noise rock britannique formé à Bristol au début de l'année 2017, à l'origine comme un

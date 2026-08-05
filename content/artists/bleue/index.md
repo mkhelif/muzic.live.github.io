@@ -18,6 +18,8 @@ socials:
   spotify: ""
   tidal: ""
 cover: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Bleue est une jeune artiste française, autrice-compositrice-interprète révélée sur la scène nationale lors

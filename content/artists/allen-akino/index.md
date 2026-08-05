@@ -3,6 +3,7 @@ id: "c51a2e99-66fa-4d21-9fb7-849a06d54ed2"
 title: "Allen Akino"
 type: person
 socials:
+  musicbrainz: "6dda4b1c-296a-4c1a-a401-6cf06aaee879"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,8 @@ cover: ""
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Allen Akino est un artiste musical originaire de Marseille, dont le travail s'inscrit au croisement de la pop, du

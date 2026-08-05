@@ -19,6 +19,8 @@ socials:
   qobuz: ""
 todo:
   - Add picture from concert
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il ne chante pas. Il ne joue pas dans un groupe. Il est seul sur scène, armé d'une guitare acoustique, de dix doigts et

@@ -2,7 +2,15 @@
 id: "7ff86d9e-896b-46f8-9f66-808214decdec"
 title: "ATOEM"
 type: band
+members:
+  - id: "1326257b-aac3-4035-8caa-2347a8883730"
+    roles:
+      - other
+  - id: "bc7bf1d5-36ed-413f-b835-41da962d9afd"
+    roles:
+      - other
 socials:
+  musicbrainz: "d23eefb1-16cd-4183-bd64-45fe362836fb"
   facebook: "atoemmusic"
   instagram: "atoem_music"
   bandcamp: "atoem"
@@ -19,6 +27,8 @@ socials:
   apple: "1442704479"
   deezer: "54257692"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 ATOEM est un projet musical français qui émerge sur la scène électronique hexagonale avec une approche moderne des

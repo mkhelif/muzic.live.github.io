@@ -3,6 +3,7 @@ id: "da5cc585-c151-47bf-8807-10fe901df32b"
 title: "Andrew Stockdale"
 type: person
 socials:
+  musicbrainz: "fd174912-e40a-41f1-b0c2-ca0a82b34bf9"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,4 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lifespan:
+  start: 1976-07-20
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

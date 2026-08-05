@@ -17,11 +17,13 @@ members:
     periods:
       - start: 2012
 socials:
+  musicbrainz: "e0458faa-82b2-4011-b851-6a0ed1f5a0e6"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "8230658"
+  songkick: "7759199"
   youtube: ""
   web: ""
   email: ""
@@ -30,9 +32,11 @@ socials:
   deezer: "6541581"
   qobuz: ""
   spotify: "5KuuNGYTUTokLerXMNYCGL"
-  tidal: ""
+  tidal: "6931406"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

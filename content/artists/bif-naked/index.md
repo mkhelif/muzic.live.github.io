@@ -3,11 +3,13 @@ id: "d2eb8d06-a220-4f23-8c24-020999087eba"
 title: "Bif Naked"
 type: person
 socials:
+  musicbrainz: "e9a639e2-3840-410a-bd6d-4e7bdb66734d"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "2155"
+  songkick: "555434"
   youtube: ""
   web: ""
   email: ""
@@ -17,6 +19,10 @@ socials:
   qobuz: ""
   spotify: "02odAcSXGSPTSO4P44Ztuw"
   tidal: ""
+lifespan:
+  start: 1971-06-15
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Née Beth Nicole Torbert le 15 juin 1971 à New Delhi, en Inde, Bif Naked est adoptée par des missionnaires américains

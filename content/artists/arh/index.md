@@ -18,6 +18,8 @@ socials:
   spotify: ""
   tidal: ""
 cover: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 ARH est un groupe de metal progressif et math-metal français basé à Paris. Le groupe développe un son instrumental aux

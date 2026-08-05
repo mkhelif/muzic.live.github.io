@@ -3,11 +3,13 @@ id: "75df4267-d6bd-48e8-9069-a2e5ff6cbb01"
 title: "Biga*Ranx"
 type: person
 socials:
+  musicbrainz: "1515c76e-333d-43c1-bade-deebcc2028ef"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "7868872"
+  songkick: "3434866"
   youtube: ""
   web: ""
   email: ""
@@ -15,8 +17,12 @@ socials:
   apple: "384465010"
   deezer: "1377312"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "5rgdw8NVhnxWL8Poo6HsiX"
+  tidal: "4509158"
+lifespan:
+  start: 1988-09-27
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Gabriel Piotrowski, dit Biga*Ranx, est né le 27 septembre 1988 à Tours. Passionné de reggae dès l'âge de

@@ -3,11 +3,13 @@ id: "fa7d9df2-a86d-4d4c-9021-1b4c730c6de3"
 title: "Beth Ditto"
 type: person
 socials:
+  musicbrainz: "a23b8dc2-97f4-4eab-a76d-dc3b2ef4b537"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "252342"
+  songkick: "2629241"
   youtube: ""
   web: ""
   email: ""
@@ -16,7 +18,11 @@ socials:
   deezer: "1189520"
   qobuz: ""
   spotify: "7y8lzaGqtadGmtAtg2SGv4"
-  tidal: ""
+  tidal: "3899785"
+lifespan:
+  start: 1981-02-19
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Née Mary Beth Patterson le 19 février 1981 dans une famille modeste de l'Arkansas, Beth Ditto quitte le foyer familial

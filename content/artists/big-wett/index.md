@@ -3,11 +3,13 @@ id: "68415f54-f44f-499f-a74a-3aa5319ed212"
 title: "BIG WETT"
 type: person
 socials:
+  musicbrainz: "bb317c9c-fcb7-43ba-863a-7088f1ccceab"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "15516521"
+  songkick: "10273790"
   youtube: ""
   web: ""
   email: ""
@@ -16,7 +18,9 @@ socials:
   deezer: "187287697"
   qobuz: ""
   spotify: "5EbB3qseTBegpJEACqHfHB"
-  tidal: ""
+  tidal: "35130421"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 BIG WETT est une artiste électro-pop basée à Naarm/Melbourne, en Australie, qui cultive une part de mystère autour de

@@ -3,6 +3,7 @@ id: "bd5ac5e6-ba96-42b8-be14-982e0d094c23"
 title: "Alex Rüdinger"
 type: person
 socials:
+  musicbrainz: "da284bd1-53dd-4766-b41f-0c0011b54686"
   facebook: "AlexRudingerOfficial"
   instagram: "alexrudinger"
   tiktok: "@rudirudinger"
@@ -21,4 +22,8 @@ socials:
 todo:
   - Add socials
   - Add description
+lifespan:
+  start: 1991-11-18
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

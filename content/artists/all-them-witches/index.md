@@ -2,12 +2,33 @@
 id: "9dcf85ca-b97d-4c6a-b89c-008442b9102d"
 title: "All Them Witches"
 type: band
+members:
+  - id: "129eca5c-cd16-45ef-845b-20ea47fc2b25"
+    roles:
+      - drums
+    periods:
+      - start: 2024
+  - id: "41fd1b23-cb9c-4327-be71-2df63fc95784"
+    roles:
+      - keys
+  - id: "66ad51b6-315d-4f99-a155-9abdaab21bae"
+    roles:
+      - guitar
+  - id: "fa070854-dcfb-446d-9e64-665ec10afc9b"
+    roles:
+      - sing
+      - bass
+  - id: "699b6b38-c93e-4d83-b66c-31d015899afe"
+    roles:
+      - drums
 socials:
+  musicbrainz: "b574bfea-2359-4e9d-93f6-71c3c9a2a4f0"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "2714686"
+  songkick: "5283328"
   youtube: ""
   web: ""
   email: ""
@@ -16,10 +37,12 @@ socials:
   deezer: "2750711"
   qobuz: ""
   spotify: "29Wmfm1CojrjQ3aQP0FI65"
-  tidal: ""
+  tidal: "5181738"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 All Them Witches est un groupe de rock américain formé à Nashville, Tennessee, le 6 janvier 2012. Leur nom est

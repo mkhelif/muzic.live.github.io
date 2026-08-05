@@ -3,10 +3,12 @@ id: "8dc9c0b9-f6a7-42cd-85ab-7eec2b94810c"
 title: "Ben Harper"
 type: person
 socials:
+  musicbrainz: "1582a5b8-538e-45e7-9ae4-4099439a0e79"
   facebook: "benharper"
   instagram: "benharper"
   x: "benharper"
   bandsintown: "436"
+  songkick: "215077"
   youtube: "benharper"
   web: "https://www.benharper.com/"
   tidal: "10416"
@@ -19,6 +21,10 @@ socials:
   email: ""
 todo:
   - Add cover from concert picture
+lifespan:
+  start: 1969-10-28
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il y a un son qui n'appartient qu'à lui. Un son qui vient d'ailleurs — d'un instrument que presque personne n'utilisait

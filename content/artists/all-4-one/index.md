@@ -2,6 +2,7 @@
 id: "c21e59b6-df90-4ccf-aa4c-f04464996ae1"
 title: "All-4-One"
 socials:
+  musicbrainz: "ef9df4c9-0e76-451b-b174-2244bcc31f0c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,13 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "159019"
   deezer: ""
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "1B8ySGDAiXTCvnJNH4HSCG"
+  tidal: "13773"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

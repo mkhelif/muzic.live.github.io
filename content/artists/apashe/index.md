@@ -3,20 +3,26 @@ id: "5c360b40-181a-4ea7-89e6-7897ed25e8a7"
 title: "Apashe"
 type: person
 socials:
+  musicbrainz: "ce0724ab-2d63-415b-bbb1-839f97bb771a"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "2238420"
+  songkick: "7621484"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B006N0ZZMY"
   apple: "489718443"
   deezer: "1544711"
   qobuz: ""
   spotify: "1fd3fmwlhrDl2U5wbbPQYN"
-  tidal: ""
+  tidal: "4892508"
+lifespan:
+  start: 1992-05-09
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Apashe, de son vrai nom John De Buck, est un producteur et musicien belgo-canadien né le 9 mai 1992 à Bruxelles.

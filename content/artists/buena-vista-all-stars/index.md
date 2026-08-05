@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Buena Vista All Stars est un orchestre cubain dirigé par des membres originels du Buena Vista Social Club, le joueur de

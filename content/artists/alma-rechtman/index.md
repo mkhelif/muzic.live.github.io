@@ -2,6 +2,7 @@
 id: "2b6e1d4a-890e-4838-8934-4cfd0f6533ef"
 title: "Alma Rechtman"
 socials:
+  musicbrainz: "2d354a04-f105-4234-b257-ee964724edba"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

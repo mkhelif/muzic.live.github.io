@@ -2,6 +2,7 @@
 id: "60883eea-e409-4552-9bd1-d238982cbba1"
 title: "Alexa Rose"
 socials:
+  musicbrainz: "734a434b-c60e-4105-ab5e-b891b0e5df36"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: ""
   deezer: "5656802"
   qobuz: ""
-  spotify: ""
+  spotify: "7hVRBYGVXutdWChnzb92Jb"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

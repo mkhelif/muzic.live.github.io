@@ -3,20 +3,26 @@ id: "6a12d4a8-6aa7-4d7e-afdf-cdc98bb264dd"
 title: "Anis"
 type: person
 socials:
+  musicbrainz: "a9263af2-37bb-43cc-b236-d892e23e5a1e"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "41866"
+  songkick: "252426"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "3924"
   qobuz: ""
   spotify: ""
   tidal: ""
+lifespan:
+  start: 1977-03
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 Anis Kachohi, dit Anis, est l'une des personnalités les plus singulières de la chanson française des années 2000. Né le 27 mars 1977 à Pontoise d'une mère russe et d'un père marocain, il grandit dans la campagne du Vexin avant que sa famille ne s'installe à Cergy, en région parisienne. Ses origines métissées et ses années de débrouillardise à Paris façonnent une vision de la chanson résolument populaire, ancrée dans le quotidien des banlieues et des marges.
 

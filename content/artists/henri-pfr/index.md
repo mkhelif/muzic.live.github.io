@@ -3,23 +3,29 @@ id: "9d0b60d1-6bf0-4d16-b364-0ffef0301c47"
 title: "Henri PFR"
 type: person
 socials:
+  musicbrainz: "94e183b4-17f0-43fd-b57c-e2a3a0d6ad57"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "4467287"
+  songkick: "8385833"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "729594623"
-  deezer: ""
+  deezer: "5296616"
   qobuz: ""
   spotify: "6n9XmMc3mX18mrTHYOCPIq"
-  tidal: ""
+  tidal: "5176930"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1995-09-26
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Henri Peiffer, connu sous le nom de scène Henri PFR, est un DJ, musicien et compositeur belge né le 26 septembre 1995 à

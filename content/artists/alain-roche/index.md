@@ -3,6 +3,7 @@ id: "89482aa3-afa7-44f8-98dc-b65d763fe25b"
 title: "Alain Roche"
 type: person
 socials:
+  musicbrainz: "2737bc12-7dcb-4b0e-9acc-1b1a89c8c92b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,10 @@ socials:
   qobuz: ""
   spotify: "3Z1SzxiDJYfs7P4M7IRKcy"
   tidal: ""
+lifespan:
+  start: 1973
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Alain Roche est un pianiste, compositeur et performeur suisse né en 1973, connu pour avoir inventé un dispositif de

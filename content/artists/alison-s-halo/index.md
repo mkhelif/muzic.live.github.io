@@ -2,11 +2,37 @@
 id: "1dee6363-68c6-4a4a-90a5-d7eeafed57dc"
 title: "Alison's Halo"
 type: band
+members:
+  - id: "5c070217-e137-4115-b233-d30ed70a561a"
+    roles:
+      - drums
+    periods:
+      - start: 1992
+  - id: "40fafacd-a755-4f87-900a-72aa32b531d3"
+    roles:
+      - drums
+  - id: "6151103b-480c-4374-bd05-e1af7eccd7b3"
+    roles:
+      - other
+  - id: "52c191e1-eccc-4c4e-877d-4c277d4cbc15"
+    roles:
+      - other
+  - id: "9611e390-8270-46ca-a678-52c77d288303"
+    roles:
+      - bass
+  - id: "488af642-8573-4db9-b340-81720d618886"
+    roles:
+      - guitar
+  - id: "916c2523-36eb-453f-ab7f-5f733103591a"
+    roles:
+      - bass
 socials:
+  musicbrainz: "623977a4-2525-4668-8966-f255dd19700e"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "155435"
   youtube: ""
   web: ""
   email: ""
@@ -15,7 +41,9 @@ socials:
   deezer: "12370426"
   qobuz: ""
   spotify: "1xD4rzgPGOwrc7RHZywzKg"
-  tidal: ""
+  tidal: "8717493"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Alison's Halo est un groupe de shoegaze et de dream pop américain originaire de Tempe, en Arizona, formé en

@@ -3,6 +3,7 @@ id: "3616a191-a4d3-46f2-9ecb-ff6227b7c50d"
 title: "Alexander Tabisz"
 type: person
 socials:
+  musicbrainz: "c0766e30-0b2b-435d-b917-61556ad10f43"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

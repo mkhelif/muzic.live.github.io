@@ -18,6 +18,8 @@ socials:
   apple: "1288507962"
   deezer: "13291501"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Alice et Moi, de son vrai nom Alice Vannoorenberghe, est une chanteuse française qui s'est révélée sur la scène musicale

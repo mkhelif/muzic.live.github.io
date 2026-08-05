@@ -77,20 +77,24 @@ members:
       - start: 2000
         end: 2004
 socials:
+  musicbrainz: "bd513de0-e42f-425e-ae46-817d7bc5fb1c"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "5411"
+  songkick: "352738"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "240290"
+  deezer: "1334"
+  qobuz: "41332"
   spotify: "1Q776wzj2mrtXrNu3iH6nk"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Archive est un collectif musical britannique fondé à Londres en 1994 par **Darius Keeler** et **Danny Griffiths**, tous deux

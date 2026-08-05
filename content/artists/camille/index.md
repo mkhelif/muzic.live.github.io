@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Camille Dalmais, connue sous le mononyme Camille, est une chanteuse, autrice-compositrice-interprète et actrice
