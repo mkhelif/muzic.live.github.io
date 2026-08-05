@@ -51,9 +51,6 @@ socials:
   apple: ""
   deezer: "571758"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Rival Sons est un groupe américain formé en 2009 à Long Beach, Californie, qui incarne le revival authentique du rock

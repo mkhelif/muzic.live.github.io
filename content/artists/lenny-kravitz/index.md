@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "5gznATMVO85ZcLTkE9ULU7"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Lenny Kravitz, né le 26 mai 1964 à New York, est un musicien américain célébré pour sa capacité à fusionner rock,

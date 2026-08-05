@@ -18,12 +18,6 @@ socials:
   qobuz: "8539804"
   spotify: "7mycnkT3eOskxxGbN9skkV"
   tidal: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Diffrent est un producteur et DJ autodidacte originaire du sud de l'Allemagne, aujourd'hui installé à Berlin, où il

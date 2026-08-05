@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: "1mbgj8ERPs8lWi7t5cYrdy"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Isabelle Geffroy, dite **Zaz**, naît le 1er mai 1980 à Chambray-lès-Tours, en Indre-et-Loire. Chanteuse à la voix

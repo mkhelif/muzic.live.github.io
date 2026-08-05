@@ -19,8 +19,6 @@ socials:
   apple: ""
   deezer: "9025370"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Umbree est une DJ et productrice française originaire de Nice, figure montante de la scène électronique hexagonale dont

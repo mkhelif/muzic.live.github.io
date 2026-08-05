@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Marshmello est le nom de scène de Christopher Comstock, producteur et DJ américain de musique

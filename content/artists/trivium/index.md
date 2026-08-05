@@ -107,9 +107,6 @@ socials:
   web: "https://www.trivium.org/"
   tiktok: ""
   email: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
 ---
 
 Un adolescent de douze ans qui reprend **Metallica** lors du concours de talents de son collège — voilà le point de départ

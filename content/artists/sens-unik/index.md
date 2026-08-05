@@ -58,6 +58,4 @@ socials:
   apple: ""
   deezer: "13494"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---

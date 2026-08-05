@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: "1tlWl5ltF7CudnGGjF96KL"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Sam Sauvage, de son vrai nom Hugo Brebion, est un auteur-compositeur-interprète français né le 25 avril

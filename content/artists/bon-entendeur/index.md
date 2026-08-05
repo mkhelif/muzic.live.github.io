@@ -28,12 +28,6 @@ socials:
   apple: "1293255720"
   deezer: "13314683"
   qobuz: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown-lookup: 2026-07-25
-  spotify: 2026-07-23
 ---
 
 Bon Entendeur est un trio de producteurs et DJs français formé par **Arnaud Bonet**, Adrien Durand et **Pierre Della Monica**,

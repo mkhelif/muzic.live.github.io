@@ -17,12 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Benedetto & Farina est un duo de musique électronique dont le son se déploie à la croisée de la house profonde, de

@@ -17,12 +17,6 @@ socials:
   qobuz: ""
   spotify: "2yDodJUwXfdHzg4crwslUp"
   tidal: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-23
-  spotify: 2026-07-23
 ---
 
 Allah-Las est un groupe de rock psychédélique et garage rock fondé en 2008 à Los Angeles, Californie. Composé de **Miles Michaud** (chant, guitare), **Matthew Correia** (percussions, chant), **Spencer Dunham** (basse, chant) et **Pedrum Siadatian**

@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "3VNITwohbvU5Wuy5PC6dsI"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Kool & The Gang est un groupe américain de funk, soul et R&B formé en 1964 à Jersey City, dans le New Jersey, et l'un

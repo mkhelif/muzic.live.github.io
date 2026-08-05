@@ -36,12 +36,6 @@ socials:
   qobuz: "1890050"
   spotify: "1epGwdbjU7JSGVBHlqptpx"
   tidal: "7288807"
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-23
-  spotify: 2026-07-23
 ---
 
 Abbath est un groupe de black metal norvégien fondé en 2015 par Olve Eikemo, connu sous son pseudonyme de scène

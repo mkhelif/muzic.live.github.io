@@ -31,14 +31,6 @@ socials:
 todo:
   - Add cover
   - Add socials
-lastUpdate:
-  setlistfm: 2026-08-05
-  apple: 2026-08-05
-  deezer: 2026-08-04
-  musicbrainz: 2026-08-04
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-23
-  spotify: 2026-07-23
 ---
 
 2manydjs est un duo de DJs belges formé par les frères Steven et **David Dewaele**, originaires de Gand. Membres fondateurs

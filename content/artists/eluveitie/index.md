@@ -184,11 +184,6 @@ socials:
   qobuz: ""
   spotify: "5X0N2k3qMnI8kSrGJT3kfT"
   tidal: "3565330"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Eluveitie est un groupe suisse de folk metal originaire de Winterthur, dans le canton de Zurich, fondé en 2002 par

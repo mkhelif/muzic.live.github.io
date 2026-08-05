@@ -18,12 +18,6 @@ socials:
   spotify: ""
   tidal: ""
 cover: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Bleue est une jeune artiste française, autrice-compositrice-interprète révélée sur la scène nationale lors

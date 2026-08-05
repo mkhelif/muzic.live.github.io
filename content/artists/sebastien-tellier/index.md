@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Sébastien Tellier, né le 22 février 1975 au Plessis-Bouchard dans le Val-d'Oise, est un chanteur, auteur-compositeur

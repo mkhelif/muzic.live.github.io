@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Franc Fala est un producteur et DJ néerlandais installé à Amsterdam, devenu l'une des figures montantes de la nouvelle

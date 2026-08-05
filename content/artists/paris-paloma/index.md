@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "2EXpthNgSeTDeX8nGwxppp"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Paris Paloma est une autrice-compositrice-interprète et guitariste britannique née le 17 novembre 1999. Elle grandit à

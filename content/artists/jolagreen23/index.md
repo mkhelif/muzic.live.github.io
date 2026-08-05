@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "2jZ78PLlC1PuYKQ2bVwRvz"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Jolagreen23, de son vrai nom Jorghen Monteiro-Mbombo, est un rappeur français né le 23 mars 2001 à Bois-Colombes, dans

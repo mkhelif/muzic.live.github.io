@@ -21,9 +21,6 @@ socials:
   email: "sarah@sarahbrownofficial.com"
   tiktok: ""
   x: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
 ---
 
 Vous ne connaissez peut-être pas son nom. Mais vous avez entendu sa voix — sans le savoir. Sur le dernier album de

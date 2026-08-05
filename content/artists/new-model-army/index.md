@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 New Model Army est un groupe britannique de punk et post-punk formé en 1980 à Bradford, dans le Yorkshire, par le

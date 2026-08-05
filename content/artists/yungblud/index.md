@@ -17,9 +17,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Yungblud est le nom de scène de **Dominic Harrison**, musicien britannique originaire du Yorkshire, élevé dans une

@@ -22,8 +22,6 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Selah Sue, de son vrai nom Sanne Putseys, est une auteure-compositrice-interprète belge née le 3 mai 1989 à Louvain

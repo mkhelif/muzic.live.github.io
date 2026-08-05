@@ -40,8 +40,4 @@ socials:
   tidal: ""
 todo:
   - Add detailed description
-lastUpdate:
-  deezer-lookup: 2026-07-27
-  apple: 2026-07-26
-  bandsintown: 2026-07-23
 ---

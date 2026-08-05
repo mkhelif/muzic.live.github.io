@@ -3,6 +3,7 @@ id: "3821b0db-e267-4702-b7c2-e64bf41584ea"
 title: "Hannah Diamond"
 type: person
 socials:
+  musicbrainz: "76130c0b-b177-434f-893f-46c8d819548d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,13 +17,11 @@ socials:
   deezer: "7135525"
   qobuz: ""
   spotify: "3sXErEOw7EmO6Sj7EgjHdU"
-  tidal: ""
+  tidal: "6289492"
 todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  deezer: 2026-08-04
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
+lifespan:
+  start: 1991-06-20
 ---

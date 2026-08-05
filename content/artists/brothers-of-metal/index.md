@@ -62,11 +62,6 @@ socials:
   apple: "1145316099"
   deezer: "10887490"
   qobuz: "3894420"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Quelque part dans les forêts enneigées de Dalécarlie, au cœur de la Suède profonde, huit guerriers ont fait le serment

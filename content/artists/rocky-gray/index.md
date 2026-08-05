@@ -13,6 +13,4 @@ socials:
   spotify: "6Chzc8bFbzWJ2q4SgwG5uV"
 todo:
   - Add description/picture/socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---

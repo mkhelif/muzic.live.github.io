@@ -39,11 +39,6 @@ socials:
   qobuz: "12165799"
   spotify: "2fqPOGxG12nEERj8YG7p22"
   tidal: "8972537"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Catch Your Breath est un groupe de rock américain basé à Austin, au Texas, fondé en 2017. Composé de **Josh Mowery**

@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: "11T0XSkxSB5KUPTe8P8BOl"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
 ---
 
 Sylvie Kreusch est une chanteuse belge née le 16 mai 1991 à Anvers, figure singulière de la pop belge contemporaine,

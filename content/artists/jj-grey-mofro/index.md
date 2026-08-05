@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 JJ Grey & Mofro est un groupe américain de southern rock et de swamp rock originaire de Jacksonville, en Floride,

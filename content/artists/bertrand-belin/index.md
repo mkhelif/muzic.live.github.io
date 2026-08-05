@@ -19,12 +19,6 @@ socials:
   qobuz: ""
 todo:
   - Add cover from concert picture
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Il y a des artistes qu'on écoute. Et il y a des artistes qu'on habite. **Bertrand Belin** appartient à la seconde

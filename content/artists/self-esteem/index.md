@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Self Esteem est le nom de scène de Rebecca Lucy Taylor, autrice-compositrice-interprète britannique née le 15 octobre

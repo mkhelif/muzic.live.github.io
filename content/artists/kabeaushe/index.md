@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-08-05
-  deezer: 2026-08-04
 ---
 
 Kabeaushé est un·e artiste multi-instrumentiste, chanteur·se et producteur·rice originaire de Nairobi, au Kenya,

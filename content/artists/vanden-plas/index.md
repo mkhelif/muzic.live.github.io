@@ -43,8 +43,6 @@ socials:
   apple: ""
   deezer: "9677"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Vanden Plas représente l'excellence du metal progressif européen, incarnant depuis plus de trois décennies une approche

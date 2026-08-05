@@ -20,8 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Zarhzä est un groupe français né à Argenteuil dans l'énergie d'une vie de colocation, fruit de rencontres entre

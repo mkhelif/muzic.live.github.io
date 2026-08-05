@@ -3,6 +3,7 @@ id: "fd6b9f88-d5b6-41a3-95bf-7dcb40da13fd"
 title: "Günter Werno"
 type: person
 socials:
+  musicbrainz: "787182d1-ba59-4567-9385-e5bae5307d6c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -19,8 +20,6 @@ socials:
   tidal: ""
 todo:
   - Add description/picture/socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
+lifespan:
+  start: 1965-09-17
 ---

@@ -12,10 +12,4 @@ socials:
   apple: "1343536412"
   deezer: "79661662"
   spotify: "1i1Y1ypn7nCQrvMhqbe6wt"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---

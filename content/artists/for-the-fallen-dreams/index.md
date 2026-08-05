@@ -21,10 +21,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 For The Fallen Dreams est un groupe de metalcore américain originaire de Lansing, dans le Michigan, formé en 2003.

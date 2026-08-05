@@ -17,12 +17,6 @@ socials:
   qobuz: ""
   spotify: "0zfT626RwO6zN3RDYeRit5"
   tidal: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Black Label Society est un groupe de heavy metal américain formé à Los Angeles en 1998 par le guitariste et chanteur

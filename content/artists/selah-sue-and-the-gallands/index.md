@@ -19,9 +19,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-25
 ---
 
 Selah Sue and The Gallands est le nom du nouveau projet porté par la chanteuse belge **Selah Sue** (Sanne Putseys), né d'une

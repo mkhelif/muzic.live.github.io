@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: "2AyySZZK01JT6ZSYZ2CWgf"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Roberto Alagna est un ténor français né le 7 juin 1963 à Clichy-sous-Bois, dans une famille d'immigrés siciliens. Figure

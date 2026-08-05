@@ -17,10 +17,6 @@ socials:
   apple: "1500630417"
   deezer: "13636759"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Noé Preszow — que l'on prononce *Prèchof* — est né le 13 septembre 1994 à Bruxelles. Il est le fils d'une mère

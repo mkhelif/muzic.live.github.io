@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-08-04
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Pomme, de son vrai nom **Claire Pommet**, est une autrice-compositrice-interprète française née le 2 août 1996 à

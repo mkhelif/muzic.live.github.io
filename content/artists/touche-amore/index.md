@@ -55,9 +55,6 @@ socials:
   qobuz: ""
   spotify: "16QCJENzcdhwka9bTKYMVB"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
 ---
 
 Touché Amoré est un groupe de post-hardcore américain originaire de Burbank, en Californie, formé en 2007. Depuis

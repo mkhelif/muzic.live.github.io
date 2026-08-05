@@ -21,7 +21,4 @@ todo:
   - Add detailed description
   - Verify social networks
   - Add logo cover
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---

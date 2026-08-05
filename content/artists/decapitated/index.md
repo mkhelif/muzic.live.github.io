@@ -85,11 +85,6 @@ socials:
   qobuz: "598005"
   spotify: "17MbhJOaaPHuWnRaWU9xkc"
   tidal: "22183"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Decapitated est un groupe de death metal technique polonais fondé en 1996 à Krosno, dans le sud de

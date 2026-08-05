@@ -17,12 +17,6 @@ socials:
   qobuz: ""
   spotify: "3TcKgwcrTy4oLOQoEq3tGD"
   tidal: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Bibi Club est un duo montréalais formé en 2016 par Adèle Trottier-Rivard et Nicolas Basque, dont l'approche créative

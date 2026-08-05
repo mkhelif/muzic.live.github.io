@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "7bPs6jf983f0bjRAt1yxDM"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Patrick Watson, né le 8 octobre 1979 à Lancaster, en Californie, est un auteur-compositeur-interprète canadien

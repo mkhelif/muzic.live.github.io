@@ -3,6 +3,7 @@ id: "4a5aa767-d847-437b-ac9f-02514afb531c"
 title: "Hayley Cramer"
 type: person
 socials:
+  musicbrainz: "832e3f5c-be24-47b3-948e-175d8337653e"
   deezer: "206622357"
   facebook: ""
   instagram: ""
@@ -12,8 +13,4 @@ socials:
   youtube: ""
 todo:
   - Add description/picture/socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---

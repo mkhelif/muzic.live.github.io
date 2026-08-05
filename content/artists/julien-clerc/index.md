@@ -17,11 +17,6 @@ socials:
   qobuz: ""
   spotify: "7gVzeNvBbUpj6PXX5ekCMs"
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Julien Clerc, de son vrai nom Paul-Alain Auguste Leclerc, est né le 4 octobre 1947 dans le 19e arrondissement de Paris.

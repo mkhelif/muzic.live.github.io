@@ -20,13 +20,6 @@ socials:
   email: "contact@kmmltd.com"
   tiktok: ""
   qobuz: "551325"
-lastUpdate:
-  setlistfm: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  apple: 2026-07-26
-  bandsintown: 2026-07-23
-  spotify: 2026-07-23
 lifespan:
   start: 1980-10-28
 ---

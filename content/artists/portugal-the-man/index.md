@@ -54,10 +54,6 @@ socials:
   qobuz: ""
 todo:
   - Update cover with concert picture
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Il y a quelque chose d'ironique dans le fait que l'un des groupes les plus inclassables de la scène indépendante

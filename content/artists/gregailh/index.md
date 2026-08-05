@@ -17,11 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Gregailh est un duo rennais de musique néo-trad et musique à danser, apparu en 2024, formé d'Adrien Llave et

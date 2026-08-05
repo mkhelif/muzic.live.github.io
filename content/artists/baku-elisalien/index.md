@@ -16,12 +16,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-25
-  spotify: 2026-07-23
 ---
 
 Bakû & Elisalien forment un duo audiovisuel lyonnais où se répondent musique électronique sombre et création visuelle

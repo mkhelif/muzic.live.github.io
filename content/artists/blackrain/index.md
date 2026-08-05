@@ -18,13 +18,6 @@ socials:
   qobuz: ""
   spotify: "4zEFEt7m0lKVXd0k5JTLJN"
   tidal: ""
-lastUpdate:
-  deezer: 2026-08-05
-  musicbrainz: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Formé au début des années 2000 en Haute-Savoie autour du guitariste et chanteur Swan, associé au guitariste Max 2,

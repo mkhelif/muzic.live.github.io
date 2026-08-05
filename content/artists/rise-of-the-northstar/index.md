@@ -86,9 +86,6 @@ socials:
   apple: ""
   deezer: "1447548"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Rise of the **Northstar** (abrégé ROTNS) est un groupe de heavy metal français originaire de Paris, formé en 2008. Dès ses

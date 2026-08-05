@@ -19,10 +19,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-08-05
-  bandsintown-lookup: 2026-07-25
-  spotify: 2026-07-23
 ---
 
 Purple Disco Machine, de son vrai nom Tino Piontek, est un producteur et DJ allemand né le 12 juin 1980 à Dresde. Il

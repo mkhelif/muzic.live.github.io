@@ -17,10 +17,6 @@ socials:
   apple: "293423557"
   deezer: ""
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Il a longtemps joué le rôle du type normal dépassé par le monde — le procrastinateur ironique, le gamer insomniaque, le

@@ -22,13 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  setlistfm: 2026-08-05
-  musicbrainz: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-23
-  spotify: 2026-07-23
 lifespan:
   start: 1968-11-18
 ---

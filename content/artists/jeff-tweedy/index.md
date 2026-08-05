@@ -20,10 +20,6 @@ socials:
   qobuz: ""
 todo:
   - Add cover from concert
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Jeff Tweedy est un auteur-compositeur-interprète et guitariste américain né le 25 août 1967 à Belleville, dans

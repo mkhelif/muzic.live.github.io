@@ -20,11 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Max Cooper est un producteur et compositeur électronique britannique, né le 19 mai 1980 à Belfast et aujourd'hui

@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "02fHczhlgEBCCjzjsNvJAh"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 LB aka Labat, de son vrai nom **Baptistin Cabalou**, est un DJ et producteur originaire de Strasbourg. Ayant grandi

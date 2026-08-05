@@ -20,8 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Weeping Wound est un groupe de nu-metalcore originaire de Tampa, en Floride, formé dans le sud-ouest de l'État à la

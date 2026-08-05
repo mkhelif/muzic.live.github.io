@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: "40Yq4vzPs9VNUrIBG5Jr2i"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 The Smashing Pumpkins est un groupe de rock américain formé à Chicago à la fin des années 1980 autour de son leader,

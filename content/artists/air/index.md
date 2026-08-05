@@ -25,14 +25,6 @@ socials:
   qobuz: "36500"
   spotify: ""
   tidal: "9101"
-lastUpdate:
-  setlistfm: 2026-08-05
-  apple: 2026-08-05
-  musicbrainz: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-23
-  spotify: 2026-07-23
 ---
 
 Air est un duo de musique électronique français formé en 1995 à Versailles par **Nicolas Godin** et **Jean-Benoît Dunckel**.

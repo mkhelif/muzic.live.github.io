@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Iguana Death Cult est un groupe néerlandais formé en 2015 à l'initiative du guitariste et

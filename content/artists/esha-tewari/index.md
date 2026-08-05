@@ -18,11 +18,6 @@ socials:
   qobuz: ""
   spotify: "45W0uOq0sDCediEA9i8VJt"
   tidal: "45416948"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 lifespan:
   start: 2006-04-06
 ---

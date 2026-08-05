@@ -21,12 +21,6 @@ socials:
   qobuz: "725956"
 todo:
   - Add picture from concert
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  apple: 2026-07-26
-  spotify: 2026-07-23
 lifespan:
   start: 1971-11-04
 ---

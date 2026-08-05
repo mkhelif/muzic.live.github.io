@@ -13,16 +13,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1692775"
   deezer: ""
   qobuz: ""
-  spotify: ""
-  tidal: ""
-  musicbrainz: ""
+  spotify: "6UnvX7Zx85VNjOpLdaq49W"
+  tidal: "3748784"
+  musicbrainz: "cbbc6253-efea-4cc7-a279-f3ad348f6744"
 todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  bandsintown: 2026-08-05
+lifespan:
+  start: 1974-05-21
 ---

@@ -19,10 +19,4 @@ socials:
 todo:
   - Add description
   - Add socials
-lastUpdate:
-  musicbrainz-lookup: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-23
-  spotify: 2026-07-23
 ---

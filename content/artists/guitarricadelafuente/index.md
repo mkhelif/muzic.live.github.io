@@ -3,6 +3,7 @@ id: "4a01340e-b94c-4e72-bd5b-a24503e02850"
 title: "Guitarricadelafuente"
 type: person
 socials:
+  musicbrainz: "68416724-6cc4-41ee-b81c-1ce169c00f03"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,14 +17,12 @@ socials:
   deezer: "52265922"
   qobuz: ""
   spotify: "0oBiYchunKTMDesVICwrvL"
-  tidal: ""
+  tidal: "10434200"
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
+lifespan:
+  start: 1997-08-27
 ---
 
 Guitarricadelafuente, de son vrai nom Álvaro Lafuente Calvo, est un auteur-compositeur, guitariste et chanteur espagnol

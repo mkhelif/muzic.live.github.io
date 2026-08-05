@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Née en Suisse, Theodora grandit entre la Grèce, le Congo, La Réunion, la Bretagne et la banlieue parisienne, un parcours

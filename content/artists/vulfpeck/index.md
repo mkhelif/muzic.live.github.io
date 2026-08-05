@@ -43,8 +43,6 @@ socials:
   qobuz: ""
 todo:
   - Add picture from concert
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Vulfpeck est un groupe de funk américain fondé en 2011 à Ann Arbor, dans le Michigan, par quatre étudiants de l'école de

@@ -20,11 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Kompromat est un groupe de musique électronique français formé par Rebeka Warrior, également membre de **Sexy Sushi** et de

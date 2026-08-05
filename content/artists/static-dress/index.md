@@ -19,9 +19,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-26
 ---
 
 Static Dress est un groupe anglais originaire de Leeds, dans le West Yorkshire, formé en 2018 par d'anciens membres

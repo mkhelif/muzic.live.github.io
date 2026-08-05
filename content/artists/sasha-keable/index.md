@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: "7MxGWmiAbqjNOGmj23wbWf"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Sasha Keable, née le 27 février 1994, est une chanteuse et autrice-compositrice britannique élevée à Eltham, dans le sud

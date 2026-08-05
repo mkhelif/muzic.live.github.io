@@ -19,9 +19,6 @@ socials:
   tidal: ""
 todo:
   - Add picture
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 The Rolling Stones sont un groupe de rock britannique formé à Londres en 1962, autour de Mick Jagger (chant), Keith Richards (guitare) et Brian Jones (guitare). Rejoints rapidement par Charlie Watts (batterie) et Bill Wyman (basse), ils deviennent l'une des formations les plus influentes de l'histoire du rock.

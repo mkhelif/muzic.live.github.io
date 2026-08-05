@@ -39,11 +39,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Last Train est un groupe de rock français originaire de Mulhouse, en Alsace, formé en 2014. Quatuor électrique porté par

@@ -14,9 +14,9 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "1sd1XrYE5fNqd9vlTkH3lj"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "9460fe17-34de-4e92-a91c-4b1a969996f4"
 todo:
   - Add picture
   - Add socials

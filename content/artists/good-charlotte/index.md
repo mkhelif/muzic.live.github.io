@@ -62,11 +62,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Good Charlotte est un groupe de pop punk américain formé en 1996 à Waldorf, dans le Maryland, par les jumeaux Joel et

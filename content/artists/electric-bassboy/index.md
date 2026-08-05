@@ -16,10 +16,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown-lookup: 2026-07-25
 ---
 
 Electric Bassboy est un projet DJ lancé par les membres du groupe allemand **Electric Callboy**, référence du crossover

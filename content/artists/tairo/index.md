@@ -19,9 +19,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-26
 ---
 
 Taïro, de son vrai nom Ismaël Jolé-Ménébhi, est un auteur-compositeur-interprète français né à Paris le 5 février 1978,

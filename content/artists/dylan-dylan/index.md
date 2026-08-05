@@ -20,12 +20,6 @@ socials:
   qobuz: ""
   spotify: "2xwod0qobIBd0aaKo4t6BY"
   tidal: "15855958"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Dylan Dylan est une DJ et productrice française qui s'est imposée comme l'une des étoiles montantes de la scène

@@ -57,9 +57,6 @@ socials:
   qobuz: "1404675"
   x: ""
   web: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
 ---
 
 Shaârghot est un groupe de metal industriel français né à Paris en 2011, sous l'impulsion du vidéaste et

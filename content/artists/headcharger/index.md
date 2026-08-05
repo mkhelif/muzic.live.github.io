@@ -3,6 +3,7 @@ id: "b159ac40-d331-45c2-9982-dd2944060fe8"
 title: "Headcharger"
 type: band
 socials:
+  musicbrainz: "acd3f2bc-7535-403c-ad88-e62849cef589"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,8 +22,4 @@ todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---

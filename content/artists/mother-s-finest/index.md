@@ -19,10 +19,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-25
-  spotify: 2026-07-23
 ---
 
 Mother's Finest est un groupe américain de funk rock formé en 1970, connu pour avoir été, dès sa création, un sextet

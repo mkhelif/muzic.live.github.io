@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Lorna Shore est un groupe américain de deathcore formé début 2009 dans le New Jersey par Jeff Moskovciak, qui

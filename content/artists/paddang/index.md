@@ -18,10 +18,6 @@ socials:
   apple: "1500878246"
   deezer: "87013712"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Paddang est un trio de rock psychédélique et garage formé en 2020 au bord de la Garonne, à Toulouse. Le nom

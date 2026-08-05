@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Oliver Hazard est un trio américain de folk indé originaire de Waterville, dans l'Ohio, composé de Michael Belazis,

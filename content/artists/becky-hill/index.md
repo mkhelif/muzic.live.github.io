@@ -18,11 +18,6 @@ socials:
   qobuz: ""
   spotify: "4EPJlUEBy49EX1wuFOvtjK"
   tidal: "5826096"
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Rebecca Claire Hill, connue sous le nom de Becky Hill, naît le 14 février 1994 à Bewdley, dans le Worcestershire. Elle

@@ -2,6 +2,7 @@
 id: "295810f9-26fa-49b1-bd7e-32e774542290"
 title: "Harold López-Nussa"
 socials:
+  musicbrainz: "1e107a6a-7350-44d4-b450-e024c99f29de"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,17 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "259806783"
+  deezer: "298187"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0Idg159PTZKon9ZGAeCLjR"
+  tidal: "3654517"
 todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  bandsintown: 2026-08-05
-  apple-lookup: 2026-08-04
-  deezer-lookup: 2026-07-27
 ---

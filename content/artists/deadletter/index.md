@@ -55,10 +55,4 @@ socials:
   qobuz: ""
   spotify: "4MfUQ99z2kgMnl9hAwffBx"
   tidal: "19327437"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer-lookup: 2026-07-27
-  apple: 2026-07-26
-  spotify: 2026-07-23
-  bandsintown: 2026-07-23
 ---

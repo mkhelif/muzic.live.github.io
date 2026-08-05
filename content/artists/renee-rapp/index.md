@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  deezer: 2026-08-05
-  bandsintown: 2026-07-27
 ---
 
 Renée Rapp, née le 10 janvier 2000, est une chanteuse et actrice américaine originaire de Huntersville, en Caroline du

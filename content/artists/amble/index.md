@@ -36,14 +36,6 @@ socials:
   qobuz: "3531604"
   spotify: "5ZC7GPz5h9zkEfjZBUDNzI"
   tidal: "9069031"
-lastUpdate:
-  setlistfm: 2026-08-05
-  apple: 2026-08-05
-  musicbrainz: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-26
-  spotify: 2026-07-23
 ---
 Amble est un trio de folk indie irlandais formé en 2022, réunissant **Robbie Cunningham**, **Oisín McCaffrey** et **Ross McNerney**, trois musiciens originaires du centre et de l'ouest de l'Irlande — le Leitrim, le Longford et le Sligo. Leur histoire commence au terme d'un concert partagé, lorsque McNerney envoie immédiatement un message vocal aux deux autres pour leur proposer d'enregistrer ensemble. De cette impulsion spontanée naît une amitié musicale remarquablement productive.
 

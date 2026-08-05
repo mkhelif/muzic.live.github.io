@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "3ZZ9BwdWrBRhqNOvJ2ODNd"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Ondubground est un projet de dub électronique français lancé en 2004 à Tours par deux frères, Paul (**Art-X**) et Simon

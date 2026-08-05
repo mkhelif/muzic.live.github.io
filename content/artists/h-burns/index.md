@@ -3,6 +3,7 @@ id: "58767d5c-701c-4005-8418-77d62b69c7fe"
 title: "H-Burns"
 type: person
 socials:
+  musicbrainz: "444dfc12-aa86-49d7-bd44-e188fd1b9cd8"
   facebook: "hburnsmusic"
   instagram: "hburnsmusic1"
   threads: "hburnsmusic1"
@@ -16,12 +17,10 @@ socials:
   email: ""
   amazon: ""
   apple: "263356235"
-  deezer: ""
+  deezer: "69328"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
+lifespan:
+  start: 1979
 ---
 
 H-Burns, de son vrai nom **Renaud** Rebillaud, est un chanteur-compositeur français qui émerge sur la scène indie-folk

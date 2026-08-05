@@ -8,9 +8,4 @@ socials:
   x: ""
   threads: ""
   youtube: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  bandsintown-lookup: 2026-08-05
-  apple-lookup: 2026-08-04
-  deezer-lookup: 2026-08-04
 ---

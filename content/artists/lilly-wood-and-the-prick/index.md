@@ -17,11 +17,6 @@ socials:
   qobuz: ""
   spotify: "50OApTJurDusIo9dGTqSU4"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Lilly Wood and the Prick est un duo français de folk-pop formé par **Nili Hadida** et **Benjamin Cotto**. Les deux

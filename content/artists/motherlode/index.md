@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Motherlode est un collectif de rap et trap originaire du sud de la France, réunissant les rappeurs CHAVI, GAL, LEDOUBLE,

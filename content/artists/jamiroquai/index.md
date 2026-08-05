@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "6J7biCazzYhU3gM9j1wfid"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Jamiroquai est un groupe britannique fondé en 1992 à Londres autour de son chanteur et leader **Jay Kay**, figure de

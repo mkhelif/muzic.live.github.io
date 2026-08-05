@@ -17,10 +17,6 @@ socials:
   apple: "56367"
   deezer: "1383"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Murray Head incarne le profil de l'artiste transnational, britannique de naissance mais profondément lié à la France où

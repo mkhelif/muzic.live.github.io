@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-08-05
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Razorlight est un groupe de rock anglo-suédois formé à Londres à l'été 2002 autour du chanteur et guitariste Johnny

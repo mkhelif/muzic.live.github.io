@@ -2,6 +2,7 @@
 id: "50cdb781-b640-477c-a463-c095978d5214"
 title: "GROZA"
 socials:
+  musicbrainz: "da23cd1c-e0bd-442b-bcbc-811285cd4fe6"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,14 +16,10 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "5PC1B9qDXhyin3ZgyRcio7"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  bandsintown: 2026-08-05
-  apple-lookup: 2026-08-04
-  deezer-lookup: 2026-08-04
 ---

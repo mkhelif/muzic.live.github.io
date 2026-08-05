@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Opeth est un groupe suédois de metal progressif originaire de Stockholm, formé en 1990 par **David Isberg** puis

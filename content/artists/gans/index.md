@@ -27,12 +27,6 @@ socials:
   qobuz: ""
   spotify: "05PzzXnIetN4rWDlYv23SK"
   tidal: "6356523"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 GANS est un duo punk-rock britannique originaire des Midlands de l'Ouest, formé à Birmingham fin 2023 par le batteur

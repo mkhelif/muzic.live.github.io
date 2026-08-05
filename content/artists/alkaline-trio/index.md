@@ -21,9 +21,4 @@ todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-25
 ---

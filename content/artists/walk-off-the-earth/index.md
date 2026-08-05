@@ -18,9 +18,6 @@ socials:
   spotify: "6jEiUoyyJNPHzSR0Nib6HX"
   tidal: ""
 cover: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Walk off the Earth est un groupe canadien fondé en 2006 à Burlington, en Ontario, par Gianni « Luminati »

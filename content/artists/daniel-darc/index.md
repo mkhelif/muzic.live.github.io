@@ -22,11 +22,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 lifespan:
   start: 1959-05-20
   end: 2013-02-28

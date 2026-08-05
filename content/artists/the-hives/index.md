@@ -48,8 +48,6 @@ socials:
   qobuz: ""
   spotify: "4DToQR3aKrHQSSRzSz8Nzt"
   tidal: ""
-lastUpdate:
-  bandsintown-lookup: 2026-07-26
 ---
 
 The Hives sont un groupe de garage rock suédois formé en 1993 à Fagersta, une petite ville industrielle du centre de

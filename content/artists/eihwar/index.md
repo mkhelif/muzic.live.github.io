@@ -32,11 +32,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Eihwar est un duo français de neo-folk électronique originaire de Toulouse, actif depuis 2023, qui s'est fait

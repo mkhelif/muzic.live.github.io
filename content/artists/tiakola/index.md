@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: "3vUMXQ9kPnZAQkMkZZ7Hfh"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Tiakola, de son vrai nom **William Mundala**, est un rappeur, chanteur et mélodiste français né le 4 décembre 1999 à

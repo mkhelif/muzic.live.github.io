@@ -21,8 +21,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown-lookup: 2026-07-26
 ---
 
 Steve'n'Seagulls est un groupe finlandais de country rock qui s'est fait connaître en reprenant à la manière du

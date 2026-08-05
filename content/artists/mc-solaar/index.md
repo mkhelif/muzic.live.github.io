@@ -17,10 +17,6 @@ socials:
   apple: "79844817"
   deezer: "63"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 MC Solaar, de son vrai nom Claude M'Barali, est un rappeur français d'origine tchadienne qui émerge sur la scène hip-hop

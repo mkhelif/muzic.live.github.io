@@ -17,11 +17,6 @@ socials:
   qobuz: ""
   spotify: "1ZK2Qmuvb7rLD7NuCBxm6w"
   tidal: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Fire In Her Eyes est le projet des sœurs londoniennes **Daniella « Topaz » Livingstone** (piano, guitare, flûte, sitar,

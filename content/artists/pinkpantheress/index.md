@@ -19,10 +19,6 @@ socials:
   qobuz: ""
 todo:
   - Add picture from concert
-lastUpdate:
-  deezer: 2026-08-05
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 PinkPantheress, de son vrai nom Victoria Beverley Walker, est une chanteuse, auteure-compositrice et productrice

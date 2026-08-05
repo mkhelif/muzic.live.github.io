@@ -20,10 +20,6 @@ socials:
 todo:
   - Verify social networks
   - Add logo cover
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Marillion est un groupe britannique de rock progressif (puis neo-prog) formé en 1979 à Aylesbury, dans le

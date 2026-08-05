@@ -87,9 +87,6 @@ socials:
   tidal: "3664829"
   x: ""
   email: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
 ---
 
 Certains groupes naissent d'une rencontre. Savatage, lui, naît d'un sang partagé — celui de deux frères de Floride qui

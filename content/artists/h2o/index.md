@@ -2,6 +2,7 @@
 id: "ee9fdb45-15b5-433b-bf54-102174bdaac6"
 title: "H2O"
 socials:
+  musicbrainz: "b4307812-8143-46e0-9075-ffc06b30f3fe"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,14 +16,10 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "5riH5wM1PXkrW061b2OmVJ"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---

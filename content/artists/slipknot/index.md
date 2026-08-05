@@ -17,9 +17,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Slipknot émerge des entrailles de Des Moines, Iowa, en 1995, dans un contexte de contre-culture underground américaine.

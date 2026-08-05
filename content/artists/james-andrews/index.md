@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 James Andrews, né le 12 janvier 1969, est un trompettiste et chanteur américain originaire du quartier de Tremé, à La

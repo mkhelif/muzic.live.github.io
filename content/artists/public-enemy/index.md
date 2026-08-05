@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Public Enemy est un groupe de hip-hop américain formé en 1982 à l'université Adelphi, sur Long Island, autour de

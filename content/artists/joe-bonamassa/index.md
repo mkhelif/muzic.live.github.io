@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Joe Bonamassa est un guitariste, chanteur et compositeur américain né le 8 mai 1977 à New Hartford,

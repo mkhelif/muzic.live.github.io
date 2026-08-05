@@ -16,9 +16,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown-lookup: 2026-07-25
 ---
 
 Panache & Grabuge est un duo électro fusion formé à Bruxelles en 2024 par Antoine Flippo, également connu pour ses

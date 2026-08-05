@@ -17,8 +17,6 @@ socials:
   apple: ""
   deezer: "152271032"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Yuston XIII est l'un des artistes francophones les plus singuliers de sa génération. Là où d'autres passent par les

@@ -57,11 +57,6 @@ socials:
   qobuz: ""
   spotify: "3WaJSfKnzc65VDgmj2zU8B"
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Interpol est un groupe de rock américain formé à Manhattan, New York, en 1997. Figures de proue du renouveau

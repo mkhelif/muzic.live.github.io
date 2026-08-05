@@ -20,11 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Kadavar est un groupe de rock allemand originaire de Berlin, formé en 2010. Puisant dans le blues lourd et

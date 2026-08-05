@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Trinix est un duo français de producteurs et musiciens originaire de Lyon, formé en 2012 par Josh Chergui et Loïs

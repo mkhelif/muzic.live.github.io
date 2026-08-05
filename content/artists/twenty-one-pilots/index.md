@@ -41,8 +41,6 @@ socials:
   apple: ""
   deezer: "647650"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 ###### Genèse et formation : Columbus Underground

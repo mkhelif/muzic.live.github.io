@@ -49,11 +49,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 **Style intimiste et mélancolique** - Palace, c'est **Leo Wyndham** (chant/guitare), **Rupert Turner** (guitare) et **Matt Hodges** (batterie), trois amis de Londres qui transforment la mélancolie britannique en cathédrales sonores intimistes.

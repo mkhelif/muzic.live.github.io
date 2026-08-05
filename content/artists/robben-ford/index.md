@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: "7C1CFA2GWGFc51SrvX5Bvy"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Robben Lee Ford est un guitariste américain né le 16 décembre 1951 à Woodlake, en Californie, et élevé à Ukiah. Initié

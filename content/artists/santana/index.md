@@ -17,9 +17,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 **Carlos Santana** naît le 20 juillet 1947 à Autlán de Navarro, au Mexique, et grandit dans un environnement musical riche

@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Municipal Waste est un groupe de crossover thrash originaire de Richmond, en Virginie, formé en 2000 par le chanteur

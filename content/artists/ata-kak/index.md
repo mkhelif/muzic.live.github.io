@@ -19,12 +19,6 @@ socials:
   spotify: "172WdsNGJYNNXVNQ1tXfrB"
   tidal: ""
 cover: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-26
-  spotify: 2026-07-23
 ---
 
 Ata Kak, de son vrai nom Yaw Atta-Owusu, est un musicien ghanéen né en 1960 à Kumasi. Son nom de scène signifie « jumeau

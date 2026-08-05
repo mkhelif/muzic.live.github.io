@@ -49,9 +49,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-26
 ---
 
 Stereophonics est un groupe gallois formé en 1992 à Cwmaman, dans les vallées minières du sud du Pays de Galles, qui est

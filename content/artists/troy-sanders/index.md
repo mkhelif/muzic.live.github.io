@@ -10,6 +10,4 @@ socials:
   bandsintown: "1280806"
   youtube: ""
   spotify: "6xp1pJrjxWYZ6kIWfWgTex"
-lastUpdate:
-  bandsintown: 2026-07-27
 ---

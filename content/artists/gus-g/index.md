@@ -3,6 +3,7 @@ id: "716731f5-0ac5-4416-a855-fd1b669c5faa"
 title: "Gus G."
 type: person
 socials:
+  musicbrainz: "722a5515-d564-4215-b4e3-08abad8869f0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,16 +15,14 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "470954"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "6LEttL8kbm67tcEy84Qh5O"
+  tidal: "5421945"
 todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  bandsintown-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
+lifespan:
+  start: 1980-09-12
 ---

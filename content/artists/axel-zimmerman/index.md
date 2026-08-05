@@ -18,12 +18,6 @@ socials:
   apple: "1517588466"
   deezer: "97357832"
   qobuz: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Axel Zimmerman est un artiste français qui a su captiver l'attention du public avec son style musical unique, mêlant

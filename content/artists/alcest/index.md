@@ -48,13 +48,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  setlistfm: 2026-08-05
-  apple: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-23
-  spotify: 2026-07-23
 ---
 
 Alcest est un projet musical français fondé en 2000 à Bagnols-sur-Cèze, dans le Gard, par **Stéphane** Paut, plus connu

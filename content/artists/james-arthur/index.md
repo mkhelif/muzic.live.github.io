@@ -20,11 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 James Arthur, de son nom complet James Andrew Arthur, né le 2 mars 1988 à Middlesbrough, dans le Yorkshire du Nord, est

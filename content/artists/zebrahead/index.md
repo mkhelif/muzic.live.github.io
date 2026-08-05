@@ -63,9 +63,6 @@ socials:
   qobuz: ""
   spotify: "6SiyKSeJo6gcsS2NvuAbsl"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 *We came here to do 2 things... kick ass and chew bubble gum... and we're all out of bubble gum.* Cette phrase, que le

@@ -18,13 +18,6 @@ socials:
   qobuz: ""
   spotify: "6XJeFzmI6vrWyHcdB7EImP"
   tidal: "3685073"
-lastUpdate:
-  setlistfm: 2026-08-05
-  apple: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-26
-  spotify: 2026-07-23
 ---
 
 Le duo allemand andhim, formé à Cologne en 2010 par Simon Haehnel et Tobias Müller, sort de son studio pour présenter

@@ -18,11 +18,6 @@ socials:
   qobuz: ""
   spotify: "6VGEiVSxmAsoMMMeIM74YW"
   tidal: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Coup Dur est un trio de rock formé à la fin de l'année 2025, dont les membres sont répartis entre Bruxelles,

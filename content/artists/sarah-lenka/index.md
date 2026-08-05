@@ -17,8 +17,6 @@ socials:
   apple: ""
   deezer: "1092032"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Sarah Lenka est une autrice-compositrice-interprète et conteuse française dont la musique navigue entre

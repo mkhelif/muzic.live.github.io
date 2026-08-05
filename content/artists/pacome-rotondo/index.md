@@ -19,10 +19,6 @@ socials:
   qobuz: ""
 todo:
   - Add picture from concert
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Il a 24 ans, deux albums au compteur, un diplôme de la Music Academy International de Nancy en poche et un jeu de

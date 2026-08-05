@@ -18,11 +18,6 @@ socials:
   qobuz: ""
   spotify: "1D7nUBd4i2mrVpmLQmHI0n"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  apple: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Linlin est une artiste parisienne qui glisse entre rap et vibrations électroniques, attirée par les beats

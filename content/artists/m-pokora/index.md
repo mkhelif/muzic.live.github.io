@@ -20,10 +20,6 @@ socials:
   qobuz: ""
   spotify: "6euPnGzBlDysAC5ecVguNZ"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Matthieu Tota, dit **M. Pokora**, naît le 26 septembre 1985 à Strasbourg. Petit-fils d'immigrés polonais et fils de

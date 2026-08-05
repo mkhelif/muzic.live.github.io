@@ -36,8 +36,6 @@ socials:
   apple: ""
   deezer: "11622763"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Saults est un groupe fondé par deux frères, Antoine et **Greg Saults**, originaires de Bordeaux. Animés par des

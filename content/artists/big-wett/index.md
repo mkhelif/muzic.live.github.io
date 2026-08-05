@@ -17,12 +17,6 @@ socials:
   qobuz: ""
   spotify: "5EbB3qseTBegpJEACqHfHB"
   tidal: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 BIG WETT est une artiste électro-pop basée à Naarm/Melbourne, en Australie, qui cultive une part de mystère autour de

@@ -17,11 +17,6 @@ socials:
   deezer: ""
   qobuz: ""
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 JeanJass est un rappeur belge membre du collectif Double Hélice, originaire de Belgique, qui apporte une couleur

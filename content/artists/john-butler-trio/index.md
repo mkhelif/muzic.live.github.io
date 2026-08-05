@@ -99,10 +99,6 @@ socials:
   qobuz: ""
   spotify: "6fBF4MULW5yMzyGaon1kUt"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 John Butler Trio est un groupe australien de roots rock mené par le guitariste et chanteur **John Butler**, considéré

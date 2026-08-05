@@ -19,9 +19,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-26
 ---
 
 Tame Impala est le nom de scène derrière lequel se cache le musicien, auteur-compositeur et producteur australien Kevin

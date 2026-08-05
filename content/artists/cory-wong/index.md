@@ -19,12 +19,6 @@ socials:
   spotify: "6xt9sJmmyYwWkJv8A6ssiU"
   tidal: "7780376"
 cover: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 lifespan:
   start: 1985
 ---

@@ -44,11 +44,6 @@ socials:
   qobuz: ""
   spotify: "35GpJabAKuETXnWsWQbTjr"
   tidal: "9495834"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Cage Fight est un groupe de hardcore londonien fondé en 2021, né comme un projet de chambre avant de

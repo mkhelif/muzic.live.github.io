@@ -17,12 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-26
-  spotify: 2026-07-23
 ---
 Andert Tysma est un compositeur, multi-instrumentiste et producteur néerlandais installé à Berlin, dont le travail se situe à la lisière du néo-classique, de l'ambient et des musiques expérimentales. Pianiste et bassiste de formation, il a parcouru le monde comme musicien de scène avant de s'imposer sous son propre nom avec une œuvre instrumentale d'une grande sensibilité.
 

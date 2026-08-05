@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Le Feste Antonacci est un duo italien de pop électronique formé en 2018 par **Giacomo Lecchi d'Alessandro** et

@@ -20,11 +20,6 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
-lastUpdate:
-  deezer: 2026-07-27
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Patti Smith, née le 30 décembre 1946 à Chicago, est une poétesse, autrice-compositrice, chanteuse et artiste visuelle

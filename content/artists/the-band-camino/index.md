@@ -20,8 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 The Band CAMINO est un groupe de pop rock américain formé en 2015 à l'université de Memphis par des amis de lycée :

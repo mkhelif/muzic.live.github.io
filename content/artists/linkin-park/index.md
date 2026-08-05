@@ -61,10 +61,6 @@ socials:
   apple: "148662"
   deezer: "92"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Linkin Park est un groupe américain formé en 1996 à Los Angeles, qui a révolutionné le rock moderne en fusionnant metal

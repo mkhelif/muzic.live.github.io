@@ -12,7 +12,4 @@ todo:
   - Add description
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown-lookup: 2026-08-05
-  deezer-lookup: 2026-08-04
 ---

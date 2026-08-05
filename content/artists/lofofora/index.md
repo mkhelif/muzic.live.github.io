@@ -74,10 +74,6 @@ socials:
   apple: "17458047"
   deezer: "930"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Lofofora est un groupe de metal alternatif français formé à Paris en 1989, né dans le contexte de l'émergence du metal

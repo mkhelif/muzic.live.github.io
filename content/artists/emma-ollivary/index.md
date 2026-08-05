@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Emma Ollivary est une artiste électronique évoluant dans la scène montpelliéraine, où elle est notamment cofondatrice

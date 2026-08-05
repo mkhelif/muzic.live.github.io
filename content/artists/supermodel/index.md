@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 supermodel* est le projet solo du producteur et musicien Frankie Beanie, originaire de Virginie et aujourd'hui

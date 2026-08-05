@@ -18,12 +18,6 @@ socials:
   amazon: "B003Q57EZ0"
   email: ""
   qobuz: "3276425"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
-  spotify: 2026-07-23
 lifespan:
   start: 1991-12-13
 ---

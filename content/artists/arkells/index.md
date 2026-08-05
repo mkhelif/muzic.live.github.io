@@ -50,12 +50,6 @@ socials:
   qobuz: ""
   spotify: "3ShGiAyhxI6Rq3TknZ3gfk"
   tidal: "3910728"
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-26
-  spotify: 2026-07-23
 ---
 
 Arkells est un groupe de rock canadien fondé en 2004 à Hamilton, en Ontario. Le nom du groupe est emprunté à la rue

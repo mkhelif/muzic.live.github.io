@@ -82,14 +82,6 @@ socials:
   qobuz: ""
   spotify: "5KCph1z3jaSwhtwPzoYp6i"
   tidal: "11374"
-lastUpdate:
-  apple: 2026-08-05
-  deezer: 2026-08-05
-  musicbrainz: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-25
-  spotify: 2026-07-23
 ---
 
 Body Count est un groupe de heavy metal américain formé à Los Angeles en 1990 par le rappeur Ice-T et le guitariste

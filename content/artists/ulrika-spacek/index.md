@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: "07vC6cutbett8UknXnqxsu"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Ulrika Spacek est un groupe de rock alternatif britannique formé à Berlin au printemps 2014, avant de

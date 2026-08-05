@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: "7795o3nUrbz3kl6KOqHEDA"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Upsilone, de son vrai nom **Louis Huguenin**, est un DJ et producteur français originaire de Tours, actif depuis

@@ -78,11 +78,6 @@ socials:
   qobuz: "964413"
   spotify: "4XpPveeg7RuYS3CgLo75t9"
   tidal: "3938220"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Deafheaven est un groupe américain fondé à San Francisco en 2010 par le chanteur **George Clarke** et le

@@ -34,11 +34,6 @@ socials:
   deezer: "1197"
   qobuz: ""
   tidal: "5037022"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Deltron 3030 est un supergroupe de hip-hop conceptuel formé en 2000, réunissant le rappeur Del the Funky Homosapien, le

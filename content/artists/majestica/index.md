@@ -51,11 +51,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Majestica est un groupe de power metal symphonique suédois originaire de Boden, fondé en 2000 par le chanteur et

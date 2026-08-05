@@ -21,10 +21,6 @@ cover: ""
 todo:
   - Add cover
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Luminati Suns est un groupe familial réunissant trois frères, Giorgio, Luigi et Romeo, qui jouent ensemble depuis

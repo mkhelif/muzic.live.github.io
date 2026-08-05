@@ -72,8 +72,6 @@ socials:
   apple: ""
   deezer: "1581851"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 SOEN émerge des ombres de la scène metal progressive suédoise en 2004, non pas dans un murmure mais avec une clarté et

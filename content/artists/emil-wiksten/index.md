@@ -22,9 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  bandsintown-lookup: 2026-08-05
 lifespan:
   start: 1990
 ---

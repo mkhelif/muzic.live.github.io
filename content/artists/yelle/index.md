@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Yelle est un groupe français de pop électronique formé en 2005, composé de la chanteuse Julie Budet et du producteur

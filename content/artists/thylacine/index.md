@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 William Rezé, connu sous le nom de scène Thylacine, est un musicien et compositeur français de musique électronique

@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Heart Attack Man est un groupe de punk rock américain originaire de Cleveland, dans l'Ohio, reconnu pour son pop-punk

@@ -28,12 +28,6 @@ socials:
   qobuz: "75975"
   spotify: ""
   tidal: "4916492"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Cassia est un groupe de pop indie britannique originaire de Macclesfield, dans le Cheshire, formé en 2016 par Rob

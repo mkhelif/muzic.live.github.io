@@ -18,8 +18,6 @@ socials:
   qobuz: ""
   spotify: "2BwG5ZzIhpVZyVEhoK553g"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Trolska Polska est un ensemble folk danois emmené par le compositeur Martin Seeberg, entouré de sept musiciens

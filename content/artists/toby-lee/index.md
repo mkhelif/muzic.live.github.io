@@ -17,9 +17,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Toby Lee naît le 27 janvier 2005 en Grande-Bretagne et découvre la guitare à l'âge de huit ans, développant

@@ -3,6 +3,7 @@ id: "21834b2f-a7b8-4f17-899a-e6e137c7d937"
 title: "Headbussa"
 type: band
 socials:
+  musicbrainz: "80a7d7a8-02fb-42eb-b43a-96db888fe54e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,8 +18,4 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---

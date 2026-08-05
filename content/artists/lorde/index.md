@@ -19,11 +19,6 @@ socials:
   qobuz: ""
   spotify: "163tK9Wjr9P9DmM0AVK7lm"
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Lorde, de son vrai nom Ella Marija Lani Yelich-O'Connor, est une autrice-compositrice-interprète néo-zélandaise née le 7

@@ -18,6 +18,4 @@ socials:
   deezer: "337479311"
   qobuz: ""
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---

@@ -3,6 +3,7 @@ id: "3080b564-31a2-4d4e-9b37-1cd3bdae294e"
 title: "Hayley Williams"
 type: person
 socials:
+  musicbrainz: "b4b5b5a7-feff-47d0-9458-83d0d135a692"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,19 +12,16 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B0011Z51PM"
+  apple: "256673270"
   deezer: ""
-  qobuz: ""
+  qobuz: "145559"
   spotify: "6Rx1JKzBrSzoKQtmbVmBnM"
-  tidal: ""
+  tidal: "3653311"
 todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
+lifespan:
+  start: 1988-12-27
 ---

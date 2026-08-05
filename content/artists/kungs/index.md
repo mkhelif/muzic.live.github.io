@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "7keGfmQR4X5w0two1xKZ7d"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Kungs, de son vrai nom **Valentin Brunel**, est un DJ et producteur français né le 17 décembre 1996 à Toulon. Le nom

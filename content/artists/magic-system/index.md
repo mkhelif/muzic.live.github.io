@@ -41,10 +41,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Magic System est un groupe ivoirien de zouglou et de coupé-décalé formé en 1996 à Abidjan, en Côte d'Ivoire. Le groupe

@@ -9,6 +9,4 @@ socials:
   threads: ""
   bandsintown: "10762617"
   youtube: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---

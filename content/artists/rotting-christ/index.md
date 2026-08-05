@@ -20,8 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Rotting Christ est un groupe grec de metal extrême fondé à Athènes en 1987 par les frères

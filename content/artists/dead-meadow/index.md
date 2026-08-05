@@ -21,10 +21,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Dead Meadow est un groupe américain de stoner rock formé en 1998 à Washington D.C., né des cendres de deux

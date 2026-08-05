@@ -31,11 +31,6 @@ socials:
   qobuz: ""
   spotify: "7DlD7rLG9MKuvXtTeACzkO"
   tidal: "16065992"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Dry Cleaning est un groupe de post-punk anglais formé dans le sud de Londres en 2017.

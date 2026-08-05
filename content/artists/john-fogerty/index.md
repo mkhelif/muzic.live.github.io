@@ -17,11 +17,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 John Fogerty est un chanteur-compositeur américain né en 1945, qui a profondément marqué l'histoire du rock en tant que

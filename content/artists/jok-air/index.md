@@ -16,11 +16,6 @@ socials:
   qobuz: ""
   spotify: "2kIs76sEGiulKeqetZq6ua"
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-25
-  spotify: 2026-07-23
 ---
 
 Jok'Air, de son vrai nom Melvin Félix Aka, né le 23 septembre 1991 dans le 19e arrondissement de Paris, est un

@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: "0otAqZw8htTsGHfqR491Yh"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Sleaford Mods est un duo post-punk anglais formé en 2007 à Nottingham, réunissant le chanteur Jason Williamson et,

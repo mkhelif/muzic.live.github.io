@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "5VwCIS8jdx9ZHjApLFNrTZ"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Noga Erez est une artiste israélienne née le 26 décembre 1989 à Tel-Aviv et élevée à partir de six ans dans la ville

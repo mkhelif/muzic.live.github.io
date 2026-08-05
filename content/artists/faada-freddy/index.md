@@ -19,11 +19,6 @@ socials:
   apple: "157639536"
   deezer: "4499781"
   qobuz: "451895"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 lifespan:
   start: 1975-01-10
 ---

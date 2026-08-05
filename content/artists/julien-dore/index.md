@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Né le 7 juillet 1982 à Alès, dans le Gard, Julien Doré grandit à Lunel avant d'étudier à l'École des Beaux-Arts de

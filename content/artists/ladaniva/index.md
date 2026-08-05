@@ -30,10 +30,6 @@ socials:
   apple: "1502475771"
   deezer: ""
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Ladaniva est un groupe français qui émerge sur la scène world music hexagonale avec une approche festive mêlant

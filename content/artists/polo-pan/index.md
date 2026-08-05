@@ -28,10 +28,6 @@ socials:
   qobuz: ""
   spotify: "45yEuthJ9yq1rNXAOpBnqM"
   tidal: ""
-lastUpdate:
-  deezer: 2026-08-05
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Polo & Pan est un duo français composé de **Paul Armand-Delille**, alias Polocorp ou Polo, et d'**Alexandre Grynszpan**, alias

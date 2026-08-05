@@ -11,10 +11,6 @@ socials:
   bandsintown: "75157"
   youtube: ""
   spotify: "0danyQ9A5BKBm1YozPJhoy"
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 John Corabi est un chanteur et guitariste américain né le 26 avril 1959 à Philadelphie, en

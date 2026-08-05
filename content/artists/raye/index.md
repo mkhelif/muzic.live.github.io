@@ -20,11 +20,6 @@ socials:
   qobuz: ""
 todo:
   - Add picture from concert
-lastUpdate:
-  apple-lookup: 2026-08-04
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 RAYE, de son vrai nom Rachel Agatha Keen, est une chanteuse, auteure-compositrice et productrice britannique née le 24

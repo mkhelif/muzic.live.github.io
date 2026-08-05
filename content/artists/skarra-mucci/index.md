@@ -20,8 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Skarra Mucci, de son vrai nom Calvin Davis, est un artiste jamaïcain né le 9 mars 1973 à Kingston. Il enregistre son

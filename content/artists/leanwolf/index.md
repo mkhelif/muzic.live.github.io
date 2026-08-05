@@ -17,10 +17,6 @@ socials:
   apple: "1596737237"
   deezer: "152210002"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 LeanWolf tire son nom d'une métaphore puissante : celle du loup efflanqué, affamé, animé par une faim viscérale qui

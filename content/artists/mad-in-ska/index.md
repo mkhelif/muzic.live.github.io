@@ -17,10 +17,6 @@ socials:
   apple: "426683519"
   deezer: "1215537"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Qu'il est loin le temps de la première répète... Cet été 2008 au cours duquel des amis se sont réunis dans un petit

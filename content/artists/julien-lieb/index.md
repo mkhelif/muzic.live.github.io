@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Julien Lieb est un chanteur français né en 1999 à Pau, dans les Pyrénées-Atlantiques. Sa mère, passionnée de

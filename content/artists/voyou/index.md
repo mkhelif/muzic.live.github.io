@@ -18,9 +18,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Voyou est le projet solo électro-pop de Christophe Musset, ancien membre du groupe Les Bizarres, qui a décidé de se

@@ -3,6 +3,7 @@ id: "d163ef00-11c3-4520-94e7-11f00bd11874"
 title: "Guillaume Rousé"
 type: person
 socials:
+  musicbrainz: "ec65706a-661a-4bcc-9f67-e807bb0e8e35"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,8 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-25
+lifespan:
+  start: 1970-12-25
 ---

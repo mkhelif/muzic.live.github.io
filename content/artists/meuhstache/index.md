@@ -18,9 +18,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Quelque part entre les forêts ancestrales et les vallées où résonnent encore des échos païens, Meuhstache trace depuis

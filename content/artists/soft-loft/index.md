@@ -19,9 +19,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Soft Loft est un collectif indie originaire de Baden, en Suisse, emmené par la chanteuse et guitariste **Jorina

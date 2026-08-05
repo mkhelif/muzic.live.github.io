@@ -20,10 +20,6 @@ socials:
 todo:
   - Add cover
   - Add socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Mado est une artiste autodidacte qui écrit, compose et interprète une pop francophone intimiste et viscérale, nourrie de

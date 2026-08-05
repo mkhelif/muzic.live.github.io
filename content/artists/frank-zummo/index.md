@@ -27,12 +27,6 @@ socials:
 todo:
   - Add description
   - Add information (birth, gender, ...)
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
-  spotify: 2026-07-23
 lifespan:
   start: 1978-07-02
 ---

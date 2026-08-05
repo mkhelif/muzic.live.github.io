@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: "2Y4b1QBKPVyyhX1hFa1Wtk"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Xana Romeo, de son vrai nom Azana Makeda Smith, est née le 26 août 1994 à Greenwich Town, dans le quartier de

@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "07eIrj0b3z5mgvtkDmWoxo"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Heavy Lungs est un groupe de noise rock britannique formé à Bristol au début de l'année 2017, à l'origine comme un

@@ -17,9 +17,4 @@ socials:
   qobuz: ""
   spotify: "2U2L1YxD0FCUkCdDfEbHm1"
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---

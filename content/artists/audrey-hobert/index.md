@@ -17,12 +17,6 @@ socials:
   qobuz: ""
   spotify: "4N0TAwz9vhnQtjCqS65aKS"
   tidal: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-08-04
-  bandsintown: 2026-07-26
-  spotify: 2026-07-23
 ---
 
 Audrey Hobert est une autrice-compositrice-interprète américaine née le 19 février 1999 à New York. Après

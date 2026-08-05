@@ -44,10 +44,6 @@ socials:
   apple: "272130237"
   deezer: ""
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Powerwolf est un groupe de power metal allemand formé en 2003, qui a créé un univers musical unique mêlant imagerie

@@ -21,8 +21,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-08-05
 ---
 
 Lorrie Morgan, de son vrai nom Loretta Lynn Morgan, est une chanteuse de country américaine née le 27 juin 1959 à

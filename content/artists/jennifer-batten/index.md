@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Jennifer Batten, née le 29 novembre 1957, est une guitariste américaine virtuose, révélée au grand public dans les

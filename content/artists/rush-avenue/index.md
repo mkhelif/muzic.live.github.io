@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: "0BuZtV1vrh5miIrx1ZPgFP"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 RUSH AVENUE est un duo français de DJs et producteurs spécialisé dans l'afro house et la tribal house.

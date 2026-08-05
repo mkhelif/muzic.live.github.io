@@ -3,6 +3,7 @@ id: "65c0c4c3-a522-4f89-9780-cd36c642a977"
 title: "Haddaway"
 type: person
 socials:
+  musicbrainz: "6508cf1d-4da2-4d71-81ec-0e072338991f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,18 +12,16 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001SZ0QDW"
   apple: "1251593"
   deezer: "124"
   qobuz: ""
   spotify: "0Suv0tRrNrUlRzAy8aXjma"
-  tidal: ""
+  tidal: "3518650"
 todo:
   - Add cover
   - Add socials
   - Add description
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
+lifespan:
+  start: 1965-01-09
 ---

@@ -22,12 +22,6 @@ socials:
   web: "https://avantasia.com/"
   tiktok: ""
   email: ""
-lastUpdate:
-  musicbrainz: 2026-08-04
-  deezer: 2026-08-04
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
-  spotify: 2026-07-23
 ---
 
 Rares sont les projets musicaux nés d'une intuition solitaire sur une route de tournée qui finissent par remplir le

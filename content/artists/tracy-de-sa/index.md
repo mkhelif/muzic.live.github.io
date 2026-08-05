@@ -20,8 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Tracy De Sá est une rappeuse née le 12 octobre 1992 à Goa, en Inde. Sa famille émigre en Europe dès 1995, d'abord au

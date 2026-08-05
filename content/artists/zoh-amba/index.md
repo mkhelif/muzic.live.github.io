@@ -20,8 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Zoh Amba est une compositrice, saxophoniste et flûtiste américaine originaire de Kingsport, dans le Tennessee, issue

@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Love Gang est un groupe de rock'n'roll originaire de Denver, dans le Colorado, formé en 2015.

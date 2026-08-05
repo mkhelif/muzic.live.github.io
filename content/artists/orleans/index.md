@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Orleans est un groupe de soft rock américain fondé en janvier 1972 à Woodstock, dans l'État de New

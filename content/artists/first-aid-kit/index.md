@@ -25,12 +25,6 @@ socials:
   qobuz: ""
   spotify: "21egYD1eInY6bGFcniCRT1"
   tidal: "3575134"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 First Aid Kit est un duo folk suédois formé par les sœurs Johanna et Klara Söderberg, nées respectivement

@@ -46,11 +46,6 @@ socials:
   qobuz: ""
   spotify: "538TfjnJpRXI80MHYWfKlo"
   tidal: "5877725"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Feu! Chatterton est un groupe français de pop rock formé à Paris en 2011, porté par la voix singulière et le lyrisme

@@ -18,12 +18,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Ciel, de son vrai nom Cindy Li, est une DJ, productrice et organisatrice canadienne basée à Toronto, en Ontario, connue

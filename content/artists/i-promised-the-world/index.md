@@ -21,8 +21,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-08-05
 ---
 
 I Promised the World est un groupe américain de post-hardcore originaire de Denton, au Texas, formé en 2020 par

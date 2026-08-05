@@ -41,8 +41,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Thousand Below est un groupe de post-hardcore américain originaire de San **Diego**, en Californie, formé discrètement en

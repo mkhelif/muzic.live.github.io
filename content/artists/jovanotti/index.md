@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "7tmMPdOmFvdRvbj2aWoiRi"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Jovanotti, de son vrai nom Lorenzo Cherubini, est un auteur-compositeur-interprète, rappeur et disc-jockey italien né le

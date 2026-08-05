@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-08-05
-  deezer: 2026-08-05
 ---
 
 Livløs est un groupe danois de melodic death metal originaire d'Aarhus, formé en 2014. Son nom, qui signifie

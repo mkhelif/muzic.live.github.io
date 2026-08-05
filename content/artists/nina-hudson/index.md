@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Nina Hudson est une chanteuse et autrice-compositrice originaire de Hackney, dans l'est de Londres. Elle a écrit et

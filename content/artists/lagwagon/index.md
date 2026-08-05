@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Lagwagon est un groupe de punk rock américain formé en 1990 à Goleta, en Californie, dans la banlieue de Santa

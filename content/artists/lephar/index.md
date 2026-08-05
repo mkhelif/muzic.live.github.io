@@ -17,10 +17,6 @@ socials:
   apple: "1463652292"
   deezer: "65553172"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown-lookup: 2026-07-25
-  spotify: 2026-07-23
 ---
 
 Figure de la scène nocturne helvétique, LePhar a longtemps jonglé entre différents registres avant de trouver sa voie.

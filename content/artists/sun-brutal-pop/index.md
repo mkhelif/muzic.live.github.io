@@ -20,9 +20,6 @@ socials:
   tidal: "45630277"
   x: ""
   web: ""
-lastUpdate:
-  apple: 2026-07-26
-  bandsintown-lookup: 2026-07-26
 ---
 
 Il existe une question que beaucoup se posent en découvrant SUN pour la première fois : comment peut-on aimer à la fois

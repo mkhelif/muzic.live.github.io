@@ -20,8 +20,6 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 V.Love est un trio originaire de Lille formé par Gwendal Cloarec, Lena **Deluxe** et Hugo Vamour, qui propose une musique

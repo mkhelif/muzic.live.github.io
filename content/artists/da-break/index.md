@@ -18,12 +18,6 @@ socials:
   apple: "82146730"
   deezer: "4130957"
   qobuz: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Da Break est un projet musical français qui émerge sur la scène électronique hexagonale avec une approche moderne des

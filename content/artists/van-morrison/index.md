@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: "44NX2ffIYHr6D4n7RaZF7A"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Van Morrison, né George Ivan Morrison le 31 août 1945 à Belfast, en Irlande du Nord, est l'une des figures les plus

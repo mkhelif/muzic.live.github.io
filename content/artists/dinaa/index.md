@@ -18,11 +18,6 @@ socials:
   qobuz: ""
   spotify: "0shR2PS00avJ6Wp3npUBwS"
   tidal: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Dinaa est une chanteuse et autrice-compositrice-interprète française originaire de Toulouse. Elle commence à chanter et à

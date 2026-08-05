@@ -16,11 +16,6 @@ socials:
   qobuz: ""
   spotify: "2UV0xpXyJukSl1LErTk4Fo"
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-08-04
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-25
-  spotify: 2026-07-23
 ---
 
 Rau_Ze est un duo d'auteurs-compositeurs-interprètes originaire de Montréal, composé de Rose Perron et Félix Paul.

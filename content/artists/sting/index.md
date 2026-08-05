@@ -19,9 +19,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-26
 ---
 
 Sting, de son vrai nom Gordon Matthew Thomas Sumner, est un chanteur, bassiste, compositeur et acteur britannique né le

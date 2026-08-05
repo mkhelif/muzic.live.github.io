@@ -38,7 +38,4 @@ todo:
   - Add socials
   - Add description
   - Add members
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  bandsintown-lookup: 2026-08-05
 ---

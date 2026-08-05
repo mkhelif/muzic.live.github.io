@@ -37,8 +37,6 @@ socials:
   apple: ""
   deezer: "5848529"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 L'histoire de Storm Orchestra commence par une rencontre. **Maxime Goudard** (chant, guitare) et **Adrien Richard** (basse,

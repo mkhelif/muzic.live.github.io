@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Abigail Elizabeth Smith, connue sous le nom de scène Yebba, est une chanteuse et compositrice américaine née le 16

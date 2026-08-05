@@ -18,9 +18,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Simple Minds est un groupe écossais formé en 1977 à Glasgow par **Jim Kerr** et **Charlie Burchill**, qui est devenu l'un des

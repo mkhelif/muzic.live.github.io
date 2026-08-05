@@ -23,11 +23,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  bandsintown: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-08-04
-  apple-lookup: 2026-08-04
 lifespan:
   start: 1975-01-13
 ---

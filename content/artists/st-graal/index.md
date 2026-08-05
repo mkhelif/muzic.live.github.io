@@ -16,8 +16,6 @@ socials:
   qobuz: ""
   spotify: "7Kgv8CorcAKsG4of90vA5I"
   tidal: ""
-lastUpdate:
-  bandsintown-lookup: 2026-07-26
 ---
 
 St Graal est le nom de scène de Léo Meynard, auteur-compositeur-interprète français né en 1998 à Angoulême, dont la

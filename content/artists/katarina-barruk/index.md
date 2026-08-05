@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Elina Maria Katarina Barruk, connue sous le nom de Katarina Barruk, est une chanteuse, autrice-compositrice et pianiste

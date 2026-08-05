@@ -17,11 +17,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Manudigital est un producteur et musicien français spécialisé dans le reggae digital et le dub, basé à Marseille, qui

@@ -79,12 +79,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  apple: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Gorillaz est un groupe virtuel britannique formé en 1998 par le musicien Damon Albarn, également chanteur de Blur, et

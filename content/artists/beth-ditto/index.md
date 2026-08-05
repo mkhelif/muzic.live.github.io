@@ -17,12 +17,6 @@ socials:
   qobuz: ""
   spotify: "7y8lzaGqtadGmtAtg2SGv4"
   tidal: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Née Mary Beth Patterson le 19 février 1981 dans une famille modeste de l'Arkansas, Beth Ditto quitte le foyer familial

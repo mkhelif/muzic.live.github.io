@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Kasabian est un groupe de rock anglais formé à Leicester en 1997 par le chanteur **Tom Meighan**, le guitariste et

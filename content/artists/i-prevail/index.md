@@ -72,10 +72,6 @@ socials:
   qobuz: ""
   spotify: "3Uobr6LgQpBbk6k4QGAb3V"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 I Prevail est un groupe américain de post-hardcore et metalcore formé en 2013 à Southfield, dans le Michigan, autour

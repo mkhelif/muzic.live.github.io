@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
-lastUpdate:
-  deezer: 2026-07-27
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Monobloc est un groupe de rock indépendant basé à New York, réunissant le chanteur **Timothy Waldron**, le bassiste

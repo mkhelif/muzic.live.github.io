@@ -17,11 +17,6 @@ socials:
   email: "mgmt.shani@gmail.com"
   x: ""
   web: ""
-lastUpdate:
-  deezer: 2026-07-27
-  apple: 2026-07-26
-  spotify: 2026-07-23
-  bandsintown: 2026-07-23
 ---
 
 Trop smart pour être rappeuse et trop street pour être mannequin. La formule circule depuis quelques années dans la

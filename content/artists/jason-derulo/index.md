@@ -19,10 +19,6 @@ socials:
   apple: "259118085"
   deezer: "249599"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Jason Derulo est un chanteur, danseur et compositeur américain né en Floride en 1989, qui s'est imposé comme l'une des

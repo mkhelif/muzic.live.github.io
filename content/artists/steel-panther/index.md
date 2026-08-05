@@ -16,8 +16,6 @@ socials:
   qobuz: ""
   spotify: "3l02WF362j1oHOurzuseBv"
   tidal: ""
-lastUpdate:
-  bandsintown-lookup: 2026-07-26
 ---
 
 Steel Panther est un groupe américain de glam metal parodique, originaire de Los Angeles, emmené par le chanteur Michael

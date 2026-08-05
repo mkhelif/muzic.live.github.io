@@ -40,11 +40,6 @@ socials:
   apple: "1604787700"
   deezer: "157314032"
   qobuz: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Dynamite Shakers est un groupe de rock français qui émerge sur la scène hexagonale avec une approche festive et

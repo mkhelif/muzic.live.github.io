@@ -10,9 +10,4 @@ socials:
   bandsintown: "15512511"
   youtube: ""
   spotify: "69HMYPrcstafeCTHI3Dcp1"
-lastUpdate:
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---

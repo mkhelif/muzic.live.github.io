@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Tiss Rodriguez est un batteur et compositeur français né et élevé à Paris, au sein d'une famille qui a fondé il y a

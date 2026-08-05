@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "7aKldvGENbL4bj8TCWHuhT"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Michel Polnareff est un auteur-compositeur-interprète français né le 3 juillet 1944 à Nérac, dans le Lot-et-Garonne.

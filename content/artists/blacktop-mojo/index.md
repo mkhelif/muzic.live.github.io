@@ -17,12 +17,6 @@ socials:
   qobuz: ""
   spotify: "74YaL1CwdKlao06KrJyuX2"
   tidal: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Fondé en 2012 à Palestine, au Texas, par le chanteur Matt James et le batteur Nathan Gillis, Blacktop Mojo développe

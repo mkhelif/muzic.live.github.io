@@ -44,10 +44,6 @@ socials:
   apple: "14915060"
   deezer: "3252"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Les Wampas surgissent de la scène punk française des années 80 tel un ouragan salvateur, incarnant cette rage juvénile

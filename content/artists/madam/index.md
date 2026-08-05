@@ -18,11 +18,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Au départ, il n'y avait rien. Les trois musiciennes ne se connaissaient pas et se sont rencontrées pour monter le

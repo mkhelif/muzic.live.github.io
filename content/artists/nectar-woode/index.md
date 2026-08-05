@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Nectar Abena Nyantekyewaa Woode, connue sous le nom de Nectar Woode, est une autrice-compositrice-interprète et

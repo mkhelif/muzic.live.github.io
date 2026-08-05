@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: "0GLGeVG3XTA2KmlmAd05T8"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Sam Quealy est une artiste née à Sydney, en Australie, aujourd'hui installée à Paris, dont le parcours atypique mêle

@@ -17,12 +17,6 @@ socials:
   qobuz: ""
   spotify: "7z8khF1UMs48mtkh4xibRy"
   tidal: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-26
-  spotify: 2026-07-23
 ---
 Alune Wade est l'une des figures les plus singulières du jazz et des musiques du monde contemporains. Bassiste d'exception, compositeur et chanteur, cet artiste sénégalais établi à Paris a consacré sa carrière à tisser des ponts entre les traditions musicales africaines et les formes les plus sophistiquées du jazz international, imposant sa vision d'une musique universelle et profondément humaine.
 

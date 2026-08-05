@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Jean-Louis Aubert, né le 12 avril 1955 à Nantua dans l'Ain, est un chanteur, guitariste, auteur-compositeur et

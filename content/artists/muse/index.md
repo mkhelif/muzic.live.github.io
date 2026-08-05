@@ -33,11 +33,6 @@ socials:
   qobuz: ""
   spotify: "12Chz98pHFMPJEknJQMWvI"
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Muse est un groupe de rock britannique formé en 1994 à Teignmouth, dans le Devon, autour du chanteur, guitariste et

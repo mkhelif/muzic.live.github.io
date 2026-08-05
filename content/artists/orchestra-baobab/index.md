@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "7xT0arvCDupDU1YYy0BNv9"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Orchestra Baobab est un groupe sénégalais fondé en 1970 comme formation résidente du Club Baobab à Dakar, plusieurs de

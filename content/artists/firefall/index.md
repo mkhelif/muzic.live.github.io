@@ -21,11 +21,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Firefall est un groupe américain de soft rock fondé à l'été 1974 par le chanteur-compositeur Rick

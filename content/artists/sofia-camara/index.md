@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: "5bdLfpk3TpFVwrlHWmPL55"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Sofia Camara est une musicienne portugaise et canadienne née le 21 mai 2002 sur l'île de Terceira, au Portugal, avant

@@ -19,11 +19,6 @@ socials:
   bandsintown: "15545570"
   youtube: ""
   web: ""
-lastUpdate:
-  deezer: 2026-07-27
-  apple: 2026-07-26
-  spotify: 2026-07-23
-  bandsintown: 2026-07-23
 ---
 
 Il y a dans le nom de ce groupe une sorte de blague initiale — une manière de déjouer les attentes dès la première

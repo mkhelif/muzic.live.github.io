@@ -70,11 +70,6 @@ socials:
   apple: "269898376"
   deezer: "58707"
   qobuz: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Danakil est un groupe de reggae français formé à Paris en 2000, né de la passion de ses membres pour la culture rasta et

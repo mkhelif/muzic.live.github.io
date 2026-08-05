@@ -20,7 +20,4 @@ socials:
 todo:
   - Add description
   - Add socials
-lastUpdate:
-  bandsintown: 2026-08-05
-  deezer: 2026-08-05
 ---

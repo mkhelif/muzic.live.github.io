@@ -45,8 +45,6 @@ socials:
   apple: ""
   deezer: "105849322"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Fondé en 2019 à Los Angeles, Wings of Steel est l'un de ces groupes rares qui semblent surgir du passé pour rappeler à

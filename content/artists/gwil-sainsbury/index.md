@@ -3,6 +3,7 @@ id: "aa908e34-e60b-4882-969b-e6c43c9fb1ef"
 title: "Gwil Sainsbury"
 type: person
 socials:
+  musicbrainz: "fcc5ad85-4726-4580-82a3-f721ab13d744"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,8 +22,4 @@ todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  bandsintown-lookup: 2026-08-05
-  apple-lookup: 2026-08-04
-  deezer-lookup: 2026-07-27
 ---

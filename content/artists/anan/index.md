@@ -21,13 +21,6 @@ cover: ""
 todo:
   - Add cover
   - Add socials
-lastUpdate:
-  setlistfm: 2026-08-05
-  musicbrainz: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-25
-  spotify: 2026-07-23
 ---
 
 Anan est un artiste musical dont les informations biographiques détaillées restent peu documentées dans les sources

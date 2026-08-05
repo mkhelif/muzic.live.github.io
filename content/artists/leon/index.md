@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Léon, de son vrai nom Benoît Leclercq, est un artiste bruxellois polyvalent : multi-instrumentiste, producteur,

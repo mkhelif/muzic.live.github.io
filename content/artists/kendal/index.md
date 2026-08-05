@@ -16,11 +16,6 @@ socials:
   qobuz: ""
   spotify: "2NJZShOescj4yIvO1d4yiV"
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-25
-  spotify: 2026-07-23
 ---
 
 Kendal est un producteur et DJ français basé à Toulouse, également patron du label Ritmo Fatale, guidé par sa devise : «

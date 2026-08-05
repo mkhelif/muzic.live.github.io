@@ -72,15 +72,6 @@ socials:
   qobuz: "391633"
   spotify: "3ZztVuWxHzNpl0THurTFCv"
   tidal: ""
-lastUpdate:
-  setlistfm: 2026-08-05
-  apple: 2026-08-05
-  deezer: 2026-08-05
-  musicbrainz: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-26
-  spotify: 2026-07-23
 ---
 
 Architects est un groupe de metalcore britannique originaire de Brighton, fondé en 2004 par les frères jumeaux Dan et

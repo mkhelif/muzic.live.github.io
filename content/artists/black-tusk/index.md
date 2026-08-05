@@ -20,12 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Black Tusk est un groupe américain de sludge metal originaire de Savannah, en Géorgie, formé en 2005 alors que ses

@@ -16,10 +16,6 @@ socials:
   qobuz: ""
   spotify: "63vMehdxxRWq9HBZHskapk"
   tidal: ""
-lastUpdate:
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-25
-  spotify: 2026-07-23
 ---
 
 L'Entourloop est un duo français de hip-hop et de dub formé en 2013 à Saint-Étienne par deux DJs et beatmakers, **Sir

@@ -19,10 +19,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Jeanne Cherhal est une chanteuse et pianiste française née le 28 février 1978 à Nantes, où elle

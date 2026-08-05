@@ -18,12 +18,6 @@ socials:
   qobuz: ""
   spotify: "0A1HmlpMHsKQXyXkwoS26h"
   tidal: "15579255"
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Bandit Bandit est un duo de rock français fondé en 2019 à Montpellier par Maëva

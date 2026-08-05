@@ -13,11 +13,6 @@ socials:
   bandsintown: "1094987"
   youtube: ""
   spotify: "2MqLs2L4iNhAUNwJQwjmdm"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 lifespan:
   start: 1975-07-18
 ---

@@ -17,11 +17,6 @@ socials:
   qobuz: ""
   spotify: "4FZ3j1oH43e7cukCALsCwf"
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Jack White, né John Anthony Gillis le 9 juillet 1975 à Detroit, est un musicien américain, benjamin d'une fratrie de dix

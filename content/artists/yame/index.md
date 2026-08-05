@@ -18,10 +18,6 @@ socials:
   qobuz: ""
   spotify: "0wiCfDEHaEcPkKZOi7Nivl"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  apple: 2026-07-26
 ---
 
 Emmanuel Sow, connu sous le nom de Yamê, est un chanteur, rappeur et auteur-compositeur né le 19 avril 1993 à

@@ -33,12 +33,6 @@ socials:
   qobuz: ""
   spotify: "6O9vGMmTwzihULICPCsNf2"
   tidal: "8246511"
-lastUpdate:
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
-  spotify: 2026-07-23
 ---
 
 Balu Brigada est un duo de pop alternative originaire d'Auckland, en Nouvelle-Zélande, composé des frères Henry et

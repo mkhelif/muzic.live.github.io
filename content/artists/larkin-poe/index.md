@@ -29,10 +29,6 @@ socials:
   apple: "360929055"
   deezer: "389902"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Larkin Poe est un duo de sœurs américaines, Rebecca et **Megan Lovell**, qui émerge sur la scène blues-rock internationale

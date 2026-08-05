@@ -16,8 +16,6 @@ socials:
   qobuz: ""
   spotify: "45dkTj5sMRSjrmBSBeiHym"
   tidal: ""
-lastUpdate:
-  bandsintown-lookup: 2026-07-26
 ---
 
 Tate Rosner McRae naît le 1er juillet 2003 au Canada. Danseuse avant d'être chanteuse, elle se fait d'abord connaître

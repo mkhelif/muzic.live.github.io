@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "4oDjh8wNW5vDHyFRrDYC4k"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Loyle Carner, de son vrai nom Benjamin Gerard Coyle-Larner, est un rappeur, auteur-compositeur et artiste de spoken

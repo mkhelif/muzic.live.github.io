@@ -36,6 +36,7 @@ members:
     periods:
       - start: 2024
 socials:
+  musicbrainz: "b3e28883-d118-4180-b458-568a18bc239d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -47,15 +48,11 @@ socials:
   amazon: ""
   apple: "1582307686"
   deezer: "143101532"
-  qobuz: ""
+  qobuz: "12991707"
   spotify: "0bPAi2zCrxUrPBREWdetZ5"
-  tidal: ""
+  tidal: "28053177"
 todo:
   - Add detailed description
   - Verify social networks
   - Add logo cover
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---

@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "5XMyhVhi5ZN2pi0Qwi1zXS"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Joy Elizabeth Akther Crookes, née le 9 octobre 1998 dans le quartier de Lambeth, au sud de Londres, est une chanteuse et

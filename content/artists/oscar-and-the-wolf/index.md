@@ -17,10 +17,6 @@ socials:
   apple: "534494455"
   deezer: "2710661"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Oscar and the Wolf représente l'une des propositions les plus singulières de la scène électro-pop européenne

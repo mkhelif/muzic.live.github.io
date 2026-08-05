@@ -17,6 +17,4 @@ socials:
   qobuz: ""
   spotify: "7eQO3iU07YqJwHm4JaK0Q9"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---

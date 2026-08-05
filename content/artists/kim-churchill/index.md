@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "0ZmJRBCKYicwq9n4FjZpho"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Kim Sebastian Churchill est un musicien australien né le 26 septembre 1990 à Canberra, avant de grandir dès l'âge de

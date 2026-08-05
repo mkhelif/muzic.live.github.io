@@ -64,11 +64,6 @@ socials:
   qobuz: ""
   spotify: "1xE3snzm12GBK259IqEFlY"
   tidal: "27499"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Clawfinger est un groupe suédois de rap metal formé à Stockholm en 1989, pionnier d'un genre qui allait

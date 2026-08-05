@@ -3,6 +3,7 @@ id: "e019541b-0d07-4d21-9a09-52d8a859bfcf"
 title: "Gus Unger‐Hamilton"
 type: person
 socials:
+  musicbrainz: "9b389776-09a2-410f-8c39-67651a5af206"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,8 +22,4 @@ todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  bandsintown-lookup: 2026-08-05
-  apple-lookup: 2026-08-04
-  deezer-lookup: 2026-07-27
 ---

@@ -16,9 +16,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-26
 ---
 
 Sunday Best est un groupe londonien de la scène DIY emo et post-hardcore, qui se définit lui-même comme « une bande de

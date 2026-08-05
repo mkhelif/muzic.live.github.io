@@ -20,11 +20,6 @@ socials:
   email: ""
 todo:
   - Add picture from concert
-lastUpdate:
-  deezer: 2026-08-04
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
-  spotify: 2026-07-23
 ---
 
 Il existe un club très exclusif dans le monde du spectacle américain. On l'appelle l'**EGOT** — Emmy, Grammy, Oscar,

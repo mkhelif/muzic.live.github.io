@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: "41HOzTOe9JNerhym1HWxti"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Yann Muller est un DJ et producteur français originaire de Nice, connu pour ses réinventions ensoleillées de tubes pop,

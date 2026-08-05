@@ -31,9 +31,6 @@ socials:
   email: ""
 todo:
   - Add picture
-lastUpdate:
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
 ---
 
 Il y a dans l'histoire des Black Keys quelque chose qui ressemble à une fable américaine — mais sans la partie facile.

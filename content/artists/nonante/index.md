@@ -16,9 +16,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown-lookup: 2026-07-25
 ---
 
 Nonante — « quatre-vingt-dix » en français de Suisse et de Belgique — est un quatuor originaire de Fribourg,

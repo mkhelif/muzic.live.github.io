@@ -20,12 +20,6 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
-lastUpdate:
-  musicbrainz-lookup: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Beth Hart, née le 24 janvier 1972 à Los Angeles, est une chanteuse et pianiste américaine emblématique du blues rock.

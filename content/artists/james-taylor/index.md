@@ -19,11 +19,6 @@ socials:
   deezer: ""
   qobuz: ""
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 En 1971, **James Taylor** fait la couverture du magazine *Time*. Il a 23 ans. Le titre de l'article le désigne comme le

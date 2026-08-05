@@ -62,9 +62,6 @@ socials:
   qobuz: "147414"
   spotify: "5LfGQac0EIXyAN8aUwmNAQ"
   tidal: "1009"
-lastUpdate:
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
 ---
 
 The Offspring est un groupe de punk rock formé à Garden Grove, en Californie. Emmené depuis les années 1980 par son

@@ -22,11 +22,6 @@ socials:
   qobuz: "3257248"
   spotify: "4CqPd0j1VupcPYQRTMBn1c"
   tidal: "7454528"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Eva Under Fire est un groupe de rock américain originaire de Détroit, dans le Michigan, apparu en 2015 avec un son

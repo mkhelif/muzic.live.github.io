@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-08-05
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Pixies sont un groupe de rock alternatif américain formé à Boston en 1986, considéré comme l'un des piliers fondateurs

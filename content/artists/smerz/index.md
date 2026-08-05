@@ -21,6 +21,4 @@ todo:
   - Add detailed description
   - Verify social networks
   - Add logo cover
-lastUpdate:
-  bandsintown: 2026-07-27
 ---

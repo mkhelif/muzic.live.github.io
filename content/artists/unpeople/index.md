@@ -48,6 +48,4 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
-lastUpdate:
-  bandsintown: 2026-07-27
 ---

@@ -58,14 +58,6 @@ socials:
   apple: "27944896"
   deezer: "8514548"
   qobuz: "35187"
-lastUpdate:
-  apple: 2026-08-05
-  deezer: 2026-08-05
-  musicbrainz: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Bloc Party est un groupe de rock britannique formé à Londres en 1999, qui émerge au début des années 2000 dans le

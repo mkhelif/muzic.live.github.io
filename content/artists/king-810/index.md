@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 King 810 est un groupe de metal américain originaire de Flint, dans le Michigan, formé en 2007. Le groupe s'est fait

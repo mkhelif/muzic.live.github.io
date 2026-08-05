@@ -17,10 +17,6 @@ socials:
   apple: "253190707"
   deezer: "81238"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Orianthi Panagaris, connue simplement sous le nom d'Orianthi, s'est imposée comme l'une des guitaristes les plus

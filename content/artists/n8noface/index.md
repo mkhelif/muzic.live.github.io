@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 N8NOFACE est le nom de scène de Nathan Hose, musicien américain originaire de Tucson, en Arizona, aujourd'hui

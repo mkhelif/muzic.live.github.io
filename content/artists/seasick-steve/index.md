@@ -18,8 +18,6 @@ socials:
   apple: ""
   deezer: "133271"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Seasick Steve, de son vrai nom Steven Gene Wold, est un musicien américain né dans l'Ohio, qui développe son approche

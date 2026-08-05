@@ -17,9 +17,6 @@ socials:
   x: ""
   web: ""
   email: ""
-lastUpdate:
-  apple: 2026-07-26
-  bandsintown-lookup: 2026-07-26
 ---
 
 ###### Quand Marseille rêve en Britpop

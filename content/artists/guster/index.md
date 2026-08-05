@@ -2,6 +2,7 @@
 id: "385f1e6d-51cc-478f-8c9f-66af016aedc8"
 title: "Guster"
 socials:
+  musicbrainz: "6cbe1e63-5895-4168-ac7e-f0d2836ba0c1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,17 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "148727"
+  deezer: "1815"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "34XlPCFfB4vT7P1ekWq9Jc"
+  tidal: "12030"
 todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  bandsintown: 2026-08-05
-  deezer-lookup: 2026-07-27
-  apple-lookup: 2026-07-27
 ---

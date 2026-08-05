@@ -18,11 +18,6 @@ socials:
   qobuz: ""
   spotify: "7yLFzjoFTaleRDbOsaSvXE"
   tidal: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Franck Carducci est un multi-instrumentiste français originaire de Lyon, issu d'une famille où la musique tient lieu

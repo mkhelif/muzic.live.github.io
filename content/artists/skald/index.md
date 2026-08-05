@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: "3uliAYf4KyTkBpVf3BiWVv"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 SKÁLD est un projet français de folk nordique fondé en 2018 par le producteur et compositeur **Christophe

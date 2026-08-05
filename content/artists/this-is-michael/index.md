@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 This is Michael est un spectacle-hommage à Michael Jackson porté par Lenny Jay, dont la ressemblance physique et

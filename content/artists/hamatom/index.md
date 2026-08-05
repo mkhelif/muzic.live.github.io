@@ -2,7 +2,27 @@
 id: "37c17d8a-0952-422d-b30d-8b27ff923db7"
 title: "Hämatom"
 type: band
+members:
+  - id: "84daf9a8-230e-413e-98cc-54c57f3a5c47"
+    roles:
+      - other
+  - id: "8ceb7eac-b12f-4ed3-b099-5c9e13c8bd55"
+    roles:
+      - sing
+  - id: "91a9ee6a-6e64-4d58-bf28-a7904715a18c"
+    roles:
+      - guitar
+  - id: "28a32ade-a91b-49d3-904b-1d073170d5a3"
+    roles:
+      - other
+  - id: "d1a0c076-268c-4d3c-8e19-cbc4c8762ad0"
+    roles:
+      - drums
+  - id: "8569f9c1-a07b-4f91-b52f-920bf8209eb5"
+    roles:
+      - bass
 socials:
+  musicbrainz: "f10ad2fb-d81e-4075-9070-453f481b5fc9"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,20 +31,15 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B002SR9YJG"
+  apple: "154066010"
   deezer: "393876"
   qobuz: ""
   spotify: "6vg9BW5gHSjidGbypXQku2"
-  tidal: ""
+  tidal: "4077084"
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Hämatom est un groupe allemand de metal fondé en 2004 à Speichersdorf, en Haute-Franconie, figure de

@@ -34,13 +34,6 @@ socials:
   qobuz: ""
 todo:
   - Add picture
-lastUpdate:
-  setlistfm: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  apple: 2026-07-26
-  bandsintown: 2026-07-23
-  spotify: 2026-07-23
 ---
 
 Angine de Poitrine est un duo de rock expérimental originaire de Chicoutimi, dans la région du Saguenay au Québec, formé

@@ -68,11 +68,6 @@ socials:
   tidal: "24791"
 todo:
   - Add picture
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Il y a des groupes qui construisent leur légende sur des concepts, des pochettes énigmatiques ou des interviews

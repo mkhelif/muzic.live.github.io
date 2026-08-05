@@ -19,12 +19,6 @@ socials:
   spotify: "7CfH9Pe1z2V3OuUCIH9ru4"
   tidal: "19453496"
 cover: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Baka G est une DJ et productrice française basée à Bruxelles, connue pour son approche

@@ -17,10 +17,6 @@ socials:
   qobuz: ""
   spotify: "0wf6vuNqTvdRGrmpsPu2kW"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Christophe Miossec, connu sous son seul nom de famille, Miossec, est un chanteur et auteur-compositeur français né le

@@ -29,12 +29,6 @@ socials:
   qobuz: "104577"
   spotify: "2J257euzcjnDLipsyJH3F2"
   tidal: "4332"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Clipse est un duo de hip-hop américain originaire de Virginia Beach, en Virginie, formé en 1994 par les

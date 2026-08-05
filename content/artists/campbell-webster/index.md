@@ -9,9 +9,4 @@ socials:
   threads: ""
   bandsintown: "6220620"
   youtube: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-27
 ---

@@ -64,11 +64,6 @@ socials:
   qobuz: "4157625"
   spotify: "49Q7rQ1e651IkT2AHKYgnx"
   tidal: "8728117"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Cryptic Shift est un groupe de death metal progressif et technique anglais originaire de Leeds, dans le West

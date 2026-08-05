@@ -16,8 +16,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  bandsintown-lookup: 2026-07-26
 ---
 
 Teksti-TV 666 est un collectif de rock finlandais formé en juillet 2013, qui mêle shoegaze, krautrock et punk.

@@ -17,8 +17,6 @@ socials:
   apple: ""
   deezer: "106569262"
   qobuz: ""
-lastUpdate:
-  bandsintown-lookup: 2026-07-26
 ---
 
 Il y a des guitaristes qui jouent. Il y a des guitaristes qui impressionnent. Et puis il y a Taj Farrant — un gamin qui,

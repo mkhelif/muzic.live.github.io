@@ -20,8 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Sienna Ann Spiro, née le 28 septembre 2005 à Londres, est une autrice-compositrice-interprète et productrice britannique

@@ -41,10 +41,6 @@ socials:
   apple: "1475032506"
   deezer: "70899992"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-08-05
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Pinkshift est un groupe de rock américain formé en 2019 à Baltimore, dans le Maryland, par trois étudiants de la Johns

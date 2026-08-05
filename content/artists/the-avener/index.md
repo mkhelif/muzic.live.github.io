@@ -17,9 +17,6 @@ socials:
   bandsintown: "8680922"
   youtube: ""
   email: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
 ---
 
 The Avener, de son vrai nom **Tristan Casara**, est un DJ, producteur et musicien français né le 23 janvier 1987 à

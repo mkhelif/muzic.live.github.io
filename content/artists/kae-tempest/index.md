@@ -17,11 +17,6 @@ socials:
   apple: ""
   deezer: "808084"
   qobuz: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Kae Tempest naît le 22 décembre 1985 à Brockley, dans le sud-est de Londres, grandissant dans une famille ouvrière au

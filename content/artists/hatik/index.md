@@ -3,6 +3,7 @@ id: "0c852f81-ec36-452a-8291-d132dfe418b1"
 title: "Hatik"
 type: person
 socials:
+  musicbrainz: "b436035e-1cc0-488d-8122-58ecc6c706f1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,18 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1232534347"
+  deezer: "12422192"
   qobuz: ""
   spotify: "05hirnMeVIzCrcUxbrysZU"
-  tidal: ""
+  tidal: "8738086"
 todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---

@@ -102,9 +102,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Saxon incarne l'essence de la New Wave of British Heavy Metal (NWOBHM), ce mouvement qui, à la fin des années 1970, a

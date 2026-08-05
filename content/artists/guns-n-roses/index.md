@@ -2,7 +2,151 @@
 id: "757080a0-89e3-4b62-a7e6-5155e30966df"
 title: "Guns N' Roses"
 type: band
+members:
+  - id: "0cf63451-4e97-4d29-9b46-a4bcf6c450b8"
+    roles:
+      - sing
+    periods:
+      - start: 1985
+  - id: "8eddf627-344f-47ca-ae38-5633bb046929"
+    roles:
+      - bass
+    periods:
+      - start: 2016
+      - start: 1985
+        end: 1997
+  - id: "a3f13803-dd38-412c-a6d1-d3fb2d1cfbb0"
+    roles:
+      - guitar
+    periods:
+      - start: 2016
+      - start: 1985
+        end: 1996
+  - id: "bc02784f-843e-4223-88cf-c71296e6fd93"
+    roles:
+      - keys
+    periods:
+      - start: 1990
+  - id: "c60a8979-7a3b-4e64-af7a-f2410beb5696"
+    roles:
+      - other
+    periods:
+      - start: 2002
+  - id: "c54d2820-5268-499c-a606-95da2d08e2f8"
+    roles:
+      - keys
+    periods:
+      - start: 2016
+  - id: "94a1776c-6cf3-40c7-86f2-63198bacda66"
+    roles:
+      - drums
+    periods:
+      - start: 2025
+  - id: "b6bbb111-4d62-4d5c-81df-afdbd29dce27"
+    roles:
+      - guitar
+    periods:
+      - start: 1985
+        end: 1985
+  - id: "3d653776-873b-4373-9ab6-b9e1bda9e829"
+    roles:
+      - guitar
+    periods:
+      - start: 1985
+        end: 1991
+  - id: "093f7aad-def5-4c53-b899-0c279edf72b7"
+    roles:
+      - drums
+    periods:
+      - start: 1985
+        end: 1990
+  - id: "fcfd08f8-1676-4999-a76f-7875887c5af4"
+    roles:
+      - other
+    periods:
+      - start: 1985
+        end: 1985
+  - id: "ce912485-fb47-4176-873e-7f9077e76aa4"
+    roles:
+      - other
+    periods:
+      - start: 1985
+        end: 1985
+  - id: "5cbad7e6-a6d5-416d-87a8-b5d5000bba32"
+    roles:
+      - drums
+    periods:
+      - start: 1990
+        end: 1997
+  - id: "2f08f9b8-2c6d-4647-9bfe-3a9964f4a85f"
+    roles:
+      - guitar
+    periods:
+      - start: 1991
+        end: 1993
+  - id: "91eddbc3-2afa-4905-82a8-7536e5a10e15"
+    roles:
+      - other
+    periods:
+      - start: 1994
+        end: 2002
+  - id: "125bf3d5-489e-49f5-a116-71509a72d9a2"
+    roles:
+      - drums
+    periods:
+      - start: 1997
+        end: 2000
+  - id: "546cc445-f125-4279-bd98-33af36372495"
+    roles:
+      - guitar
+    periods:
+      - start: 1997
+        end: 2007
+  - id: "c7ea6ba0-53b0-4e52-9352-c1c89048ddfe"
+    roles:
+      - bass
+    periods:
+      - start: 1998
+        end: 2014
+  - id: "db4c1f5a-a975-4f08-b73e-e2c5240d07f8"
+    roles:
+      - other
+    periods:
+      - start: 1998
+        end: 2016
+  - id: "d765264e-7115-4c4a-8c25-5b865c05a1a1"
+    roles:
+      - guitar
+    periods:
+      - start: 2000
+        end: 2004
+  - id: "bcd981aa-181b-4e1a-9853-74076196935d"
+    roles:
+      - drums
+    periods:
+      - start: 2001
+        end: 2006
+  - id: "056b8f23-a348-4f6d-868a-3caabad12a90"
+    roles:
+      - guitar
+    periods:
+      - start: 2006
+        end: 2014
+  - id: "d4076a65-7c27-41d0-a73c-377c4b117ae8"
+    roles:
+      - drums
+    periods:
+      - start: 2006
+        end: 2025
+  - id: "4cc76659-d665-4ac7-b112-b41cdf0290f4"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2009
+        end: 2015
 socials:
+  musicbrainz: "eeb1195b-f213-4ce1-b28c-8565211f8e43"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -10,19 +154,15 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001E6X9F2"
   apple: "106621"
-  deezer: ""
-  qobuz: ""
+  deezer: "663"
+  qobuz: "54838"
   spotify: "3qm84nBOXUEQ2vnTfUTTFC"
-  tidal: ""
+  tidal: "32944"
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-25
-  spotify: 2026-07-23
 ---
 
 Guns N' Roses est un groupe de hard rock américain formé à Los Angeles en 1985, né de la fusion de deux formations

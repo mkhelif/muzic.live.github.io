@@ -3,6 +3,7 @@ id: "3aae1358-fd46-475d-8c41-3dc0a6269cc9"
 title: "Hearty Har"
 type: band
 socials:
+  musicbrainz: "e2497330-5364-4b3a-99f1-0f2fc87f4dad"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,8 +22,4 @@ todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---

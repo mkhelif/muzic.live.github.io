@@ -22,10 +22,6 @@ socials:
   tidal: ""
 todo:
   - Add socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown-lookup: 2026-07-25
 ---
 
 **Kevin Ratajczak** est un chanteur, auteur-compositeur et parolier allemand. Il est principalement connu comme membre

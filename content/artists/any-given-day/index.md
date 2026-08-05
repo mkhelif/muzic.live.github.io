@@ -54,15 +54,6 @@ socials:
   qobuz: ""
   spotify: "4p6RoajGbtqLSfYZpFxHyU"
   tidal: "4327478"
-lastUpdate:
-  setlistfm: 2026-08-05
-  apple: 2026-08-05
-  deezer: 2026-08-05
-  musicbrainz: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-26
-  spotify: 2026-07-23
 ---
 Any Given Day est un groupe de metalcore allemand originaire de Gelsenkirchen, ville de la Ruhr au passé industriel marqué, formé en 2012. En une décennie, ils se sont imposés comme l'une des formations les plus constantes et les plus ambitieuses de la scène metal heavy européenne, construisant patiemment une discographie solide et une fanbase internationale.
 

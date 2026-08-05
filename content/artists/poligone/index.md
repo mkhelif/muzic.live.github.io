@@ -16,9 +16,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  deezer: 2026-08-05
-  bandsintown-lookup: 2026-07-25
 ---
 
 Poligone est un duo franco-suisse de pop indépendante formé à la faveur d'une rencontre entre **Hugo Dordor**,

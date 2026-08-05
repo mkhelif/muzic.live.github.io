@@ -2,6 +2,7 @@
 id: "11020cce-2eb8-428d-be0c-2e2258e8cf48"
 title: "Gyan Riley"
 socials:
+  musicbrainz: "1b4cdd3d-9979-4271-b4c8-b57093f22ec3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,7 +22,4 @@ todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---

@@ -20,6 +20,4 @@ socials:
 todo:
   - Add description
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---

@@ -20,8 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Skunk Anansie est un groupe de rock britannique originaire de Londres, formé en 1994. Il réunit Skin au chant et à

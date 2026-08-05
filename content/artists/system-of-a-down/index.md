@@ -49,9 +49,6 @@ socials:
   email: ""
 todo:
   - Add logo cover
-lastUpdate:
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
 ---
 
 System of a Down est un groupe de metal alternatif américain formé en 1994 à Glendale, en Californie, par quatre

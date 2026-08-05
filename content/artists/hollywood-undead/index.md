@@ -83,11 +83,6 @@ socials:
   email: ""
 todo:
   - Add picture
-lastUpdate:
-  deezer: 2026-07-27
-  apple: 2026-07-26
-  spotify: 2026-07-23
-  bandsintown: 2026-07-23
 ---
 
 Hollywood Undead est un groupe américain de rap rock et de nu metal originaire de Los Angeles, formé en 2005. Reconnaissable

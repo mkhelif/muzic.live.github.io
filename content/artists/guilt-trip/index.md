@@ -2,6 +2,7 @@
 id: "7d2cdbaf-d712-4997-8719-fd287033d42e"
 title: "Guilt Trip"
 socials:
+  musicbrainz: "7115dd4a-2960-46a1-ab39-aba869a304ec"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,10 +21,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Guilt Trip est un groupe de metalcore britannique originaire de Manchester, formé en 2015 avec pour ambition de jouer

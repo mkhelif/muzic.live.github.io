@@ -66,9 +66,6 @@ socials:
   qobuz: ""
   spotify: "3hAv15rFpsTe7zteKhhJTx"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Vandenberg est un groupe de hard rock néerlando-américain fondé en 1981 à Amsterdam par le guitariste **Adrian Vandenberg**, qui recrute alors le chanteur **Bert Heerink**, le bassiste **Dick Kemper** et le batteur **Jos Zoomer**.

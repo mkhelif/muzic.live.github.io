@@ -39,9 +39,6 @@ socials:
   qobuz: ""
   spotify: "7zliF6Q946WznVk3ZMYhZX"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 The Sugarhill Gang est un groupe américain de hip-hop old-school formé à Englewood, dans le New Jersey, en 1979. Ses

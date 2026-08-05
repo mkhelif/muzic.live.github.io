@@ -17,12 +17,6 @@ socials:
   qobuz: ""
   spotify: "2ajYWJbGYdzpGnxEgXjDLa"
   tidal: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-23
-  spotify: 2026-07-23
 ---
 
 Adrienne Pauly est une artiste française née le 30 mai 1977 à Clamart, à la fois comédienne et chanteuse pop-rock. Issue

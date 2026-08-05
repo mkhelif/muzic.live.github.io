@@ -17,8 +17,6 @@ socials:
   apple: ""
   deezer: "123619862"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Smokeheads est un groupe de metal alternatif français dont le son repose sur une alchimie entre puissance

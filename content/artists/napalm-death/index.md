@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Napalm Death est un groupe britannique formé en 1981 à Meriden, près de Birmingham, considéré comme l'inventeur du

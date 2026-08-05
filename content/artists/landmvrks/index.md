@@ -56,10 +56,6 @@ socials:
   apple: "1091321697"
   deezer: "9985838"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-08-05
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 LANDMVRKS est un groupe de metalcore français originaire de Marseille, formé en 2014 sous le nom de Coldsight par le

@@ -17,11 +17,6 @@ socials:
   qobuz: ""
   spotify: "3dJ5aHKA9m7zKAr0lX6rtb"
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-08-04
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Perceval est un DJ et producteur français originaire de Rennes, devenu en quelques années un phénomène de la scène

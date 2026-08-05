@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Mystery Jets est un groupe de rock indépendant anglais formé sur Eel Pie Island, un îlot bohème au milieu de la

@@ -91,13 +91,6 @@ socials:
   qobuz: "1904394"
   spotify: "7lAi1Cv19DsukgGjbZQxFg"
   tidal: "4636433"
-lastUpdate:
-  setlistfm: 2026-08-05
-  apple: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-26
-  spotify: 2026-07-23
 ---
 Annisokay (stylisé « annisokay », prononcé « Ann is okay ») est un groupe de post-hardcore et metalcore allemand originaire de Halle, en Saxe-Anhalt. Depuis leur formation en 2007, ils ont progressivement élargi leur palette sonore — des riffs massifs et des passages hurlés jusqu'aux crochets électroniques et aux hymnes mélodiques — pour devenir l'une des formations les plus polyvalentes et les plus dynamiques de la scène hard rock europée.
 

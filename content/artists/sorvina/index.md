@@ -20,8 +20,6 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Sorvina est une rappeuse originaire de New York, aujourd'hui installée à Berlin. Élevée dans une petite ville de

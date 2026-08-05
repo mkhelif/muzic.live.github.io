@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: "1FmxE030Xe2H8Bn9bdv6Pd"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Vanessa Chantal **Paradis**, née le 22 décembre 1972, est une chanteuse, mannequin et actrice française qui grandit à

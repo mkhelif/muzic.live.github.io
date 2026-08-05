@@ -20,11 +20,6 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Itchy est un groupe allemand de punk rock formé en 2001 à Eislingen an der Fils, à l'origine sous forme de groupe

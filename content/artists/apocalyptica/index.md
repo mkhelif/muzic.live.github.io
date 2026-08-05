@@ -51,13 +51,6 @@ socials:
   qobuz: "71451"
   spotify: "4Lm0pUvmisUHMdoky5ch2I"
   tidal: "27420"
-lastUpdate:
-  setlistfm: 2026-08-05
-  apple: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-26
-  spotify: 2026-07-23
 ---
 
 Apocalyptica est un groupe finlandais fondé en 1993 à l'Académie Sibelius d'Helsinki, dont la démarche musicale

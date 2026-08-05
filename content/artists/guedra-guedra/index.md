@@ -2,6 +2,7 @@
 id: "c00f31d3-82dd-40a2-9de8-554beb4f581a"
 title: "Guedra Guedra"
 socials:
+  musicbrainz: "886ef094-9b67-4c07-894c-47b240a07210"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,7 +21,4 @@ todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown-lookup: 2026-07-25
 ---

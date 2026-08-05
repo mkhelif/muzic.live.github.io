@@ -86,6 +86,7 @@ members:
       - start: 1994
         end: 2024
 socials:
+  musicbrainz: "40b7efb7-1268-4a80-b354-600afdcbe9e2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -94,19 +95,15 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001Q9GEL8"
   apple: "90291"
   deezer: "6021"
   qobuz: ""
   spotify: "17Mb968quDHpjCkIyq30QV"
-  tidal: ""
+  tidal: "30138"
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Hatebreed est un groupe de metalcore et thrash/groove metal américain, originaire de Bridgeport et New Haven, dans le

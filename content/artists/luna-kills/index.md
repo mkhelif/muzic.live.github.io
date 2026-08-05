@@ -20,9 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Luna Kills est un groupe de metal moderne finlandais formé en 2019, qui marie nu-metal et rock

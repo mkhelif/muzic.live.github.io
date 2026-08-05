@@ -10,11 +10,6 @@ socials:
   x: ""
   threads: ""
   youtube: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown-lookup: 2026-07-25
 lifespan:
   start: 1999-05-06
 ---

@@ -19,8 +19,6 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
-lastUpdate:
-  bandsintown-lookup: 2026-07-26
 ---
 
 The Datsuns sont un groupe de hard rock néo-zélandais originaire de Cambridge, formé en 1998, réputé pour avoir ramené

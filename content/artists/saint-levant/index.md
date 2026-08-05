@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: "5ZZsFnpO7frU8h5xH1wtjT"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Saint Levant, de son vrai nom Marwan Abdelhamid, est un rappeur trilingue palestino-algérien né le 6 octobre 2000 à

@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Henri Peiffer, connu sous le nom de scène Henri PFR, est un DJ, musicien et compositeur belge né le 26 septembre 1995 à

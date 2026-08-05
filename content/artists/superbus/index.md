@@ -63,8 +63,6 @@ socials:
   apple: ""
   deezer: "1024"
   qobuz: ""
-lastUpdate:
-  bandsintown-lookup: 2026-07-26
 ---
 
 Superbus est un groupe de rock-pop français formé en 1999 par **Jennifer Ayache**, qui en devient la chanteuse principale et

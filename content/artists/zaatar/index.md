@@ -17,8 +17,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Zaatar est une artiste, productrice et DJ originaire du Maroc, basée à Lille, dont la musique puise dans le mouvement

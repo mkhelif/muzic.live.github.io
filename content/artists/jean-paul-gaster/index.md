@@ -10,7 +10,4 @@ socials:
   threads: ""
   bandsintown: "1094227"
   youtube: ""
-lastUpdate:
-  bandsintown: 2026-08-05
-  deezer: 2026-08-04
 ---

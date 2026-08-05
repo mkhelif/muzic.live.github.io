@@ -17,12 +17,6 @@ socials:
   qobuz: ""
   spotify: "02odAcSXGSPTSO4P44Ztuw"
   tidal: ""
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Née Beth Nicole Torbert le 15 juin 1971 à New Delhi, en Inde, Bif Naked est adoptée par des missionnaires américains

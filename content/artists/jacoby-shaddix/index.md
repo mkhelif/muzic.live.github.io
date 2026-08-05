@@ -12,9 +12,4 @@ socials:
   spotify: "3a0Ol9AaugGXjf1ZQcAs1U"
 todo:
   - Add description/picture/socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---

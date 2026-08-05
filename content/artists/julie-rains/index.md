@@ -20,10 +20,6 @@ socials:
 todo:
   - Add cover
   - Add socials
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Julie Rains est une chanteuse, compositrice et multi-instrumentiste belge basée à Bruxelles, dont l'univers musical mêle

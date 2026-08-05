@@ -32,11 +32,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Ko Ko Mo incarne l'esprit festif et communicatif de la world music française, ce courant qui, depuis les années 1980,

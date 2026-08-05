@@ -45,13 +45,6 @@ socials:
   qobuz: ""
   spotify: "7Ln80lUS6He07XvHI8qqHH"
   tidal: "3520710"
-lastUpdate:
-  setlistfm: 2026-08-05
-  apple: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-26
-  spotify: 2026-07-23
 ---
 
 Arctic Monkeys est un groupe de rock britannique formé en 2002 à Sheffield, dans le quartier de High Green. Né de

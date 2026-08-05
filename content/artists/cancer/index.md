@@ -52,12 +52,6 @@ socials:
   qobuz: ""
   spotify: "3AHeQk97Bdz43qM7GMlXL8"
   tidal: "4927442"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-25
-  spotify: 2026-07-23
 ---
 
 Cancer est un groupe britannique de death metal fondé en 1988 à Ironbridge, dans le Shropshire, par le batteur Carl

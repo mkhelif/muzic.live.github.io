@@ -16,7 +16,7 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "d0e39e38-242d-4391-a450-1773260284f7"
 todo:
   - Add picture
   - Add socials

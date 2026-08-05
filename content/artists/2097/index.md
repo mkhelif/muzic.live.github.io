@@ -52,12 +52,6 @@ socials:
   spotify: ""
 todo:
   - Add picture from concert
-lastUpdate:
-  musicbrainz-lookup: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-23
-  spotify: 2026-07-23
 ---
 
 Le groupe de rock bisontin, « 2097 », est fondé en 2017 par Victor (Batteur) ensuite rejoins par **Antonin** (Guitare),

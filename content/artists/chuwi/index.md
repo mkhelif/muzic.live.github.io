@@ -18,12 +18,6 @@ socials:
   qobuz: ""
   spotify: "6wF1Cz760dpdbX9RJIDpQW"
   tidal: "11712938"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Chuwi est un groupe indie porto-ricain formé en 2019 à Isabela, sur la côte nord-ouest de l'île. Composé de Willy

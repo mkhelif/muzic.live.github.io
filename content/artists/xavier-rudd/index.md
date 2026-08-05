@@ -19,8 +19,6 @@ socials:
   apple: ""
   deezer: "8448"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Xavier Rudd incarne une approche holistique de la musique, où l'art devient le vecteur d'un message spirituel,

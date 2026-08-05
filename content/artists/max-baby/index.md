@@ -18,10 +18,6 @@ socials:
   qobuz: ""
   spotify: "0ofOICmdTikzuZtaYALygA"
   tidal: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Max Baby est un musicien français originaire du nord du Cher, près de Bourges. Contrairement aux apparences, « Baby »

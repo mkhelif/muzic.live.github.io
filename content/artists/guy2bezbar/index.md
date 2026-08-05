@@ -3,6 +3,7 @@ id: "309a0f06-d8fe-4f78-8053-b44ee46517ae"
 title: "Guy2Bezbar"
 type: person
 socials:
+  musicbrainz: "368f3a86-e100-44e3-a65e-3f93b60a0cc1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,18 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "1151818028"
+  deezer: "11026886"
+  qobuz: "2779965"
   spotify: "07h4CCFmlXkwx0g4PL5Uuh"
-  tidal: ""
+  tidal: "8108984"
 todo:
   - Add socials
   - Add cover
   - Add description
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
+lifespan:
+  start: 1997-12-03
 ---

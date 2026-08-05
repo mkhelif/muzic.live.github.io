@@ -127,11 +127,6 @@ socials:
   tidal: "4216917"
 todo:
   - Add picture
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
-  spotify: 2026-07-23
 ---
 
 Ice Nine Kills est un groupe de heavy metal américain originaire de Boston, Massachusetts, dont la musique est

@@ -26,14 +26,6 @@ socials:
   qobuz: "20773940"
   spotify: "5ERzKZCMDsFeH15G80MFSS"
   tidal: "44409024"
-lastUpdate:
-  apple: 2026-08-05
-  deezer: 2026-08-05
-  musicbrainz: 2026-08-04
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown: 2026-07-26
-  spotify: 2026-07-23
 ---
 
 Aurorawave est un groupe de rock américain né de l'imagination de Nathan Feinstein (également connu sous le nom **Nathan Aurora**), ancien chanteur du groupe de reggae Iya Terra. Basé dans la région du lac Tahoe en Californie, Aurorawave

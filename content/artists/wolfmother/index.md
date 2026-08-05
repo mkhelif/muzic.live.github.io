@@ -46,9 +46,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Wolfmother est un groupe australien formé en 2004 à Sydney par **Andrew Stockdale** (chant, guitare), qui a propulsé un

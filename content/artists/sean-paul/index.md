@@ -19,9 +19,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Sean Paul Ryan Francis Henriques, connu sous le nom de Sean Paul, est un artiste jamaïcain né le 9 janvier 1973 à

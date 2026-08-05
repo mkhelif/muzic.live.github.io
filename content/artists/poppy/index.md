@@ -20,10 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  apple-lookup: 2026-08-04
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Moriah Rose Pereira, connue sous le nom de Poppy, est une chanteuse, musicienne et réalisatrice américaine née le 1er

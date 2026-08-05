@@ -18,9 +18,6 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Vladimir Cauchemar est un DJ et producteur français qui émerge sur la scène électronique underground hexagonale avec une

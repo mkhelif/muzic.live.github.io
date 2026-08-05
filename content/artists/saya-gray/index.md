@@ -19,8 +19,6 @@ socials:
   apple: ""
   deezer: "13706355"
   qobuz: ""
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Née en 1995 à Toronto, dans le quartier de Beaches, Saya Gray est une artiste canadienne issue d'une famille

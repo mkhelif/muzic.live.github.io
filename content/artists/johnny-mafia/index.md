@@ -18,10 +18,6 @@ socials:
   apple: "1164216063"
   deezer: "5623164"
   qobuz: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Johnny Mafia s'impose comme l'un des groupes les plus explosifs et rafraîchissants de la scène rock hexagonale

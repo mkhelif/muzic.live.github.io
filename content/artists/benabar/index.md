@@ -20,12 +20,6 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
-lastUpdate:
-  apple: 2026-08-05
-  musicbrainz-lookup: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Bénabar, de son vrai nom Bruno Nicolini, est un auteur-compositeur-interprète français né le 16 juin 1969 à

@@ -17,9 +17,6 @@ socials:
   qobuz: ""
   spotify: "00CTomLgA78xvwEwL0woWx"
   tidal: ""
-lastUpdate:
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-26
 ---
 
 Suzane, de son vrai nom **Océane Colom**, est une chanteuse et autrice-compositrice française née le 29

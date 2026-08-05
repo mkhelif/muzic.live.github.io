@@ -20,10 +20,6 @@ socials:
 todo:
   - Verify social networks
   - Add logo cover
-lastUpdate:
-  deezer: 2026-07-27
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
 ---
 
 Maria Schneider, née le 27 novembre 1960 à Windom dans le Minnesota, est une compositrice et cheffe d'orchestre de jazz

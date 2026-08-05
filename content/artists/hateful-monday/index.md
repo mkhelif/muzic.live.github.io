@@ -3,6 +3,7 @@ id: "aea0eff5-394e-42ac-8e05-5f65bc1fc645"
 title: "Hateful Monday"
 type: band
 socials:
+  musicbrainz: "4b048f74-c632-4e5a-a8db-dbf648f68264"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,7 +22,4 @@ todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
 ---

@@ -17,11 +17,6 @@ socials:
   qobuz: ""
   spotify: "2EnOL1ADehfBQB03ELa3QQ"
   tidal: ""
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Léman est un artiste français qui mêle l'énergie brute du rock à l'élégance de la pop, porté par des textes engagés et

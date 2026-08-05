@@ -46,11 +46,6 @@ socials:
   qobuz: "582418"
   spotify: "6BD4lgmnh4vy6kkCaZRDWt"
   tidal: "3877910"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Bury Tomorrow est un groupe de metalcore britannique formé en 2006 à Southampton, dans le Hampshire, qui

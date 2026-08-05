@@ -2,6 +2,7 @@
 id: "58077177-6d1a-4402-b51b-90b710ca9bfb"
 title: "Harsh Realm"
 socials:
+  musicbrainz: "a6184e06-0f06-4b67-9cab-9dbe27b20d93"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,8 +22,4 @@ todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  bandsintown: 2026-08-05
-  apple-lookup: 2026-08-04
-  deezer-lookup: 2026-08-04
 ---

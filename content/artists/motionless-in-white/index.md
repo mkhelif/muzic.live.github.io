@@ -103,10 +103,6 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Motionless in White est un groupe américain de metalcore fondé en 2004 en Pennsylvanie par le chanteur-guitariste

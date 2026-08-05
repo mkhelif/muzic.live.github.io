@@ -21,11 +21,6 @@ socials:
 todo:
   - Add cover
   - Add socials
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Expellow est un groupe suisse fondé en 2006 à Regensdorf-Watt, près de Zurich, aujourd'hui associé à

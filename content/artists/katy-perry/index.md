@@ -17,11 +17,6 @@ socials:
   qobuz: ""
   spotify: "6jJ0s89eD6GaHleKKya26X"
   tidal: ""
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  apple: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Katy Perry, de son vrai nom Katheryn Elizabeth Hudson, est une chanteuse et autrice-compositrice américaine née le 25

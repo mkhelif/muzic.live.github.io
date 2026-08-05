@@ -35,13 +35,6 @@ cover: ""
 todo:
   - Add cover
   - Add socials
-lastUpdate:
-  setlistfm: 2026-08-05
-  apple: 2026-08-05
-  musicbrainz: 2026-08-04
-  deezer: 2026-07-27
-  bandsintown: 2026-07-23
-  spotify: 2026-07-23
 ---
 
 Acid Arab est un collectif français de musique électronique fondé en 2012 à Paris par les DJs Guido Minisky et **Hervé Carvalho**, rapidement rejoints par Pierrot Casanova, **Nicolas Borne** et le claviériste Kenzi Bourras. Pionniers d'un

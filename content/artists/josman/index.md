@@ -21,11 +21,6 @@ socials:
   tidal: "6425205"
   web: ""
   email: ""
-lastUpdate:
-  deezer: 2026-07-27
-  bandsintown: 2026-07-27
-  apple: 2026-07-26
-  spotify: 2026-07-23
 ---
 
 Josman, de son vrai nom **José Nzengo**, est un rappeur et producteur français né le 28 octobre 1992 à Vierzon, dans le

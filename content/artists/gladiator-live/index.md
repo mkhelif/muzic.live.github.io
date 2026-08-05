@@ -16,11 +16,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-25
 ---
 
 **Gladiator Live** est un ciné-concert qui propose la projection du film culte de Ridley Scott, *Gladiator* (2000),

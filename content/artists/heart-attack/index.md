@@ -2,6 +2,7 @@
 id: "cb137c72-42ca-4dd1-8925-470d7f6ca9cc"
 title: "Heart Attack"
 socials:
+  musicbrainz: "9fd2fa3a-8145-45ed-8e1e-6bca8f684898"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,14 +16,10 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "3ZNpC1P3jaqgAyx7bDWk6q"
+  tidal: "3545417"
 todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---

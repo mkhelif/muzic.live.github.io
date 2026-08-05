@@ -30,12 +30,6 @@ socials:
   qobuz: "8748399"
   spotify: "2933wDUojoQmvqSdTAE5NB"
   tidal: "5474583"
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
-  apple-lookup: 2026-07-27
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
-  spotify: 2026-07-23
 ---
 
 Darkside est un groupe américain basé à New York, formé à Providence, dans le Rhode Island, en 2011 par le musicien

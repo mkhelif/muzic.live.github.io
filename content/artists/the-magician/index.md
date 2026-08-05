@@ -19,9 +19,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  deezer-lookup: 2026-07-27
-  bandsintown-lookup: 2026-07-26
 ---
 
 Stephen Fasano, plus connu sous le nom de scène The Magician, est un DJ et producteur belge originaire de Namur.

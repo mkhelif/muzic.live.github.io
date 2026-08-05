@@ -19,9 +19,6 @@ socials:
   qobuz: ""
 todo:
   - Add picture from concert
-lastUpdate:
-  bandsintown: 2026-07-27
-  deezer-lookup: 2026-07-27
 ---
 
 Tyla, de son vrai nom Tyla Laura Seethal, est une chanteuse, danseuse et auteure-compositrice sud-africaine née le 30

@@ -20,8 +20,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-lastUpdate:
-  bandsintown: 2026-07-27
 ---
 
 Samara Joy, de son nom complet Samara Joy McLendon, est une chanteuse de jazz américaine née le 11 novembre 1999 dans le
