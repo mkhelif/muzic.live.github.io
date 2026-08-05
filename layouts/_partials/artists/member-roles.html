@@ -1,14 +1,30 @@
+{{- /*
+    French labels for the project's role vocabulary, in the same order as
+    ROLE_ORDER in snippets/musicbrainz.py. The two must stay in sync: a role
+    missing from this mapping renders as nothing at all (see the guard below).
+*/ -}}
 {{- $mapping := dict
-  "bass" "Basse"
-  "dance" "Dance"
-  "dj" "DJ"
-  "drums" "Batterie"
-  "flute" "Flute"
-  "guitar" "Guitare"
-  "keys" "Clavier"
-  "percussion" "Percussions"
-  "saxophone" "Saxophone"
   "sing" "Chant"
+  "guitar" "Guitare"
+  "bass" "Basse"
+  "drums" "Batterie"
+  "percussion" "Percussions"
+  "keys" "Clavier"
+  "accordion" "Accordéon"
+  "strings" "Cordes"
+  "violin" "Violon"
+  "harp" "Harpe"
+  "banjo" "Banjo"
+  "mandolin" "Mandoline"
+  "wind" "Vents"
+  "flute" "Flûte"
+  "saxophone" "Saxophone"
+  "trumpet" "Trompette"
+  "trombone" "Trombone"
+  "harmonica" "Harmonica"
+  "bagpipe" "Cornemuse"
+  "dj" "DJ"
+  "dance" "Danse"
   "other" "Divers"
 -}}
 {{- range . -}}

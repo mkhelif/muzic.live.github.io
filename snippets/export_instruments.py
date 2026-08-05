@@ -51,6 +51,30 @@ PAGE_SIZE = 100
 MATCH_ALL_QUERIES = ["*", "*:*"]
 
 
+# Kept in sync with ROLE_ORDER in musicbrainz.py and with the labels in
+# layouts/_partials/artists/member-roles.html.
+ROLE_ORDER = [
+    "sing",
+    "guitar", "bass",
+    "drums", "percussion",
+    "keys", "accordion",
+    "strings", "violin", "harp", "banjo", "mandolin",
+    "wind", "flute", "saxophone", "trumpet", "trombone", "harmonica", "bagpipe",
+    "dj", "dance",
+    "other",
+]
+
+# Instruments whose name contains the key map straight to the role. Ordered:
+# the first match wins, so put the specific before the generic.
+NAME_TO_ROLE = [
+    ("harmonica", "harmonica"), ("bagpipe", "bagpipe"), ("accordion", "accordion"),
+    ("saxophone", "saxophone"), ("trumpet", "trumpet"), ("trombone", "trombone"),
+    ("flute", "flute"), ("violin", "violin"), ("fiddle", "violin"),
+    ("harp", "harp"), ("banjo", "banjo"), ("mandolin", "mandolin"),
+    ("turntable", "dj"), ("theremin", "keys"),
+]
+
+
 def propose_role(name: str, mb_type: str) -> str:
     """Best-effort mapping of an instrument to the project role vocabulary."""
     n = name.lower()
@@ -58,6 +82,9 @@ def propose_role(name: str, mb_type: str) -> str:
 
     if "vocal" in n or "voice" in n:
         return "sing"
+    for needle, role in NAME_TO_ROLE:
+        if needle in n:
+            return role
     if "bass" in n and ("guitar" in n or n in ("bass guitar", "electric bass guitar", "acoustic bass guitar")):
         return "bass"
     if n in ("double bass", "contrabass", "upright bass", "bass viol", "bass violin", "washtub bass", "footbass"):
@@ -67,9 +94,14 @@ def propose_role(name: str, mb_type: str) -> str:
     if "drum" in n or "percussion" in t or "percussion" in n or n in ("cymbal", "cymbals", "timpani", "congas", "bongos", "cajón", "cajon", "tambourine"):
         return "drums"
     if "keyboard" in t or "keyboard" in n or "piano" in n or "organ" in n or "synth" in n or n in (
-        "keys", "harpsichord", "clavinet", "celesta", "mellotron", "rhodes piano", "wurlitzer electric piano", "accordion"
+        "keys", "harpsichord", "clavinet", "celesta", "mellotron", "rhodes piano", "wurlitzer electric piano"
     ):
         return "keys"
+    # MusicBrainz types are the last resort, and map to the family roles.
+    if "string" in t:
+        return "strings"
+    if "wind" in t or "brass" in t or "reed" in t:
+        return "wind"
     return "other"
 
 
