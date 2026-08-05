@@ -2,12 +2,14 @@
 id: "0e5e59f8-982b-43f1-a8e6-c27005219536"
 title: "1000mods"
 socials:
+  musicbrainz: "e24255dd-f024-4abd-8ca5-9e14a8a85580"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
   bandsintown: "440916"
+  songkick: "357052"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +22,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 1000mods est un groupe grec de stoner et de rock psychédélique originaire de Chiliomodi, un petit village du

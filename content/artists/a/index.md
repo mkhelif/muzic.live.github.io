@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Le groupe britannique A voit le jour en 1993 à Lowestoft, dans le Suffolk, autour du chanteur Jason Perry, accompagné

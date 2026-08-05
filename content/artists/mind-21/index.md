@@ -1,13 +1,14 @@
 ---
-id: "e0769fee-dbc4-4041-a85b-6ecb0cb832d5"
-title: "A Ghoul Writer"
-type: person
+id: "269f7a0e-1f4a-479a-a953-ebdd0817b98e"
+title: "Mind 21"
+type: band
 socials:
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  songkick: ""
   youtube: ""
   web: ""
   email: ""
@@ -17,11 +18,10 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: "54cc3ad6-ae6d-485c-9a31-1a708de5863a"
+  musicbrainz: ""
 todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
+  - Add members
 ---

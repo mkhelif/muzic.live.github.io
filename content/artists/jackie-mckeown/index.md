@@ -1,6 +1,6 @@
 ---
-id: "e0769fee-dbc4-4041-a85b-6ecb0cb832d5"
-title: "A Ghoul Writer"
+id: "deb024b2-148c-4075-abcf-2f793e57bf6a"
+title: "Jackie McKeown"
 type: person
 socials:
   facebook: ""
@@ -8,6 +8,7 @@ socials:
   tiktok: ""
   threads: ""
   x: ""
+  songkick: ""
   youtube: ""
   web: ""
   email: ""
@@ -17,11 +18,9 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: "54cc3ad6-ae6d-485c-9a31-1a708de5863a"
+  musicbrainz: ""
 todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
 ---

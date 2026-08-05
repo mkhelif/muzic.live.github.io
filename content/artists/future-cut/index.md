@@ -1,13 +1,14 @@
 ---
-id: "e0769fee-dbc4-4041-a85b-6ecb0cb832d5"
-title: "A Ghoul Writer"
-type: person
+id: "bae06b73-3a8e-47e5-a7a2-d57066a4d7ea"
+title: "Future Cut"
+type: band
 socials:
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
+  songkick: ""
   youtube: ""
   web: ""
   email: ""
@@ -17,11 +18,10 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: "54cc3ad6-ae6d-485c-9a31-1a708de5863a"
+  musicbrainz: ""
 todo:
   - Add picture
   - Add socials
   - Add description
-lastUpdate:
-  musicbrainz-lookup: 2026-08-05
+  - Add members
 ---
