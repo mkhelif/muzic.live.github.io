@@ -2,6 +2,7 @@
 id: "f281a8bc-015a-4ac8-833e-39ebece28533"
 title: "Faudel"
 socials:
+  musicbrainz: "5b330b43-ea98-486f-a15d-4aa09e990ac7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,15 +14,16 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "4989"
   qobuz: ""
-  spotify: ""
+  spotify: "3z7JrEEE9McrDXpYigPncZ"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

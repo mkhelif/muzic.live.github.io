@@ -3,6 +3,7 @@ id: "e0e86f79-d430-4e94-b447-2e53a1f159aa"
 title: "Fatoumata Diawara"
 type: person
 socials:
+  musicbrainz: "6f5064bb-7dbb-4a44-bac5-04c467394817"
   instagram: "fatoumatadiawaraofficial"
   web: "https://www.fatoumatadiawara.fr/"
   facebook: ""
@@ -12,16 +13,19 @@ socials:
   youtube: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "466213610"
+  deezer: "390174"
   qobuz: ""
   spotify: "4G5ZJny3HvX6Il7eHVfnNC"
-  tidal: ""
+  tidal: "3627667"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1982
 ---
 
 Fatoumata Diawara est une chanteuse, guitariste et actrice malienne née en 1982 en Côte d'Ivoire. Élevée au Mali durant

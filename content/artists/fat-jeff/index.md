@@ -3,6 +3,7 @@ id: "38b28e6a-5107-4194-be5d-a8cd972a883b"
 title: "Fat Jeff"
 type: person
 socials:
+  musicbrainz: "790c244b-0199-4c90-9375-f0588d9c59be"
   facebook: "fatbluesjeff"
   bandcamp: "fatjeff"
   bandsintown: "14123663"
@@ -19,6 +20,7 @@ socials:
   deezer: "105843582"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

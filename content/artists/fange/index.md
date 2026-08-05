@@ -2,7 +2,16 @@
 id: "248aa436-b6b6-4943-9a63-c7b4deea3198"
 title: "Fange"
 type: band
+members:
+  - id: "d9f7f421-315b-479b-b803-ed4ce89883e2"
+    roles:
+      - guitar
+      - drums
+  - id: "9f6d556e-8085-41e5-a97c-595dadf3d22e"
+    roles:
+      - sing
 socials:
+  musicbrainz: "ba5c16a5-903e-4523-93ed-f781a15b2cef"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +31,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

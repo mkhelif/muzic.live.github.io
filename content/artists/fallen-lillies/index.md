@@ -3,6 +3,7 @@ id: "59fa218d-98f2-4c0b-8069-a1193f081c8a"
 title: "Fallen Lillies"
 type: band
 socials:
+  musicbrainz: "534a9d39-159a-48db-97c4-f2cad6099382"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

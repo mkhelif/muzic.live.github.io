@@ -3,6 +3,7 @@ id: "531920fd-d858-488a-bbe8-b6a96848c47e"
 title: "False Reality"
 type: band
 socials:
+  musicbrainz: "74a90f79-e64e-4d7d-886d-94197fec3930"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,7 +14,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "305362961"
   qobuz: ""
   spotify: ""
   tidal: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

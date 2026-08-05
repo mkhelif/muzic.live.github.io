@@ -3,6 +3,7 @@ id: "4a61fcb3-ea57-441c-acee-fc28ef4e5809"
 title: "Faouzia"
 type: person
 socials:
+  musicbrainz: "6aed0a74-92a7-47e6-97d1-7b6a72afec4b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,13 +15,16 @@ socials:
   amazon: ""
   apple: "414067643"
   deezer: "1054948"
-  qobuz: ""
+  qobuz: "1401708"
   spotify: "5NhgsV7qPWHZqYEMKzbYvo"
-  tidal: ""
+  tidal: "7319305"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 2000-07-05
 ---
 
 Faouzia Ouihya, dite Faouzia, est une autrice-compositrice-interprète et musicienne maroco-canadienne née le 5 juillet

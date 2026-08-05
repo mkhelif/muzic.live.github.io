@@ -2,6 +2,7 @@
 id: "3a5fdda6-bd55-4371-9d0a-34059f811788"
 title: "Faye Webster"
 socials:
+  musicbrainz: "ce4a1c08-6912-423f-bf6c-97ce69f5e89f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,12 +16,13 @@ socials:
   deezer: "5613564"
   qobuz: ""
   spotify: "5szilpXHcwOqnyKLqGco5j"
-  tidal: ""
+  tidal: "8517573"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

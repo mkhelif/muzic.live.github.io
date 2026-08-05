@@ -3,6 +3,7 @@ id: "62ef5fde-be61-43c1-8f65-ae931f5f16c7"
 title: "Fantastic Negrito"
 type: person
 socials:
+  musicbrainz: "b7be8029-5ebe-4e4b-bc0c-a4d4756463c7"
   facebook: "fantasticnegrito"
   instagram: "fantasticnegrito"
   tiktok: "@fantasticnegrito"
@@ -16,13 +17,16 @@ socials:
   amazon: ""
   apple: "720222195"
   deezer: "6495271"
-  qobuz: ""
+  qobuz: "2380008"
 todo:
   - Add picture from concert
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1968-01-20
 ---
 
 Il y a des artistes qui font de la musique. Et il y a ceux dont la musique est un acte de survie. Xavier Amin
