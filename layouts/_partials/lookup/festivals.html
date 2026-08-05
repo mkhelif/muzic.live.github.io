@@ -1,6 +1,0 @@
-{{- /* Returns a map of festival id -> page, built once per build. */ -}}
-{{- $s := newScratch -}}
-{{- range where site.RegularPages "Section" "festivals" -}}
-    {{- with .Params.id }}{{ $s.SetInMap "m" . $ }}{{ end -}}
-{{- end -}}
-{{- return $s.Get "m" -}}
