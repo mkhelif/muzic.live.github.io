@@ -3,6 +3,7 @@ id: "90f65c37-97fb-40e6-9076-7a1fe1d70049"
 title: "Felix Fröhlich"
 type: person
 socials:
+  musicbrainz: "0354cdc4-1326-4a28-ba87-b6e50a738471"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown-lookup: 2026-08-05
   deezer: 2026-08-04
 ---

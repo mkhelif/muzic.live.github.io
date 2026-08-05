@@ -2,7 +2,15 @@
 id: "38646682-0e2a-4174-a303-7b7c7229222a"
 title: "First Aid Kit"
 type: band
+members:
+  - id: "f7adcd53-75d8-40a7-b16a-5fad6d922a49"
+    roles:
+      - other
+  - id: "58953ae4-beb5-4c85-8fe3-4f6ae3fa6689"
+    roles:
+      - other
 socials:
+  musicbrainz: "373faa02-74d7-4b1d-9b47-7574ad510f8d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +19,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
+  amazon: "B0019I3CGG"
+  apple: "370729254"
+  deezer: "167324"
   qobuz: ""
   spotify: "21egYD1eInY6bGFcniCRT1"
-  tidal: ""
+  tidal: "3575134"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

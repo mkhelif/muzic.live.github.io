@@ -3,6 +3,7 @@ id: "530ec233-24ef-4e71-8227-f154453e5226"
 title: "Green Lads"
 type: band
 socials:
+  musicbrainz: "3c8e86c2-7348-4bdd-8306-b1c8d0410802"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

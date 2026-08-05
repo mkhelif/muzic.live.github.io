@@ -2,6 +2,7 @@
 id: "8215956f-8eaa-4f05-af82-1589800b5202"
 title: "Francesco Del Garda"
 socials:
+  musicbrainz: "c13f201c-83bc-4a6e-a7b0-7fbcd13adddc"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
   apple-lookup: 2026-08-04

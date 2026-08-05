@@ -32,6 +32,7 @@ members:
     periods:
       - start: 2025
 socials:
+  musicbrainz: "31b575d4-11ce-472a-a892-4cc847f8f5f0"
   facebook: "floodlights88"
   instagram: "floodlights___"
   tiktok: "@floodlightsband"
@@ -42,12 +43,13 @@ socials:
   web: "https://www.floodlightsband.com/"
   email: "floodlights.band123@gmail.com"
   amazon: ""
-  apple: ""
+  apple: "431659029"
   deezer: "60804582"
   qobuz: ""
   spotify: "5gQvIK95LKrgtgkBPlH3XI"
-  tidal: ""
+  tidal: "16979318"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

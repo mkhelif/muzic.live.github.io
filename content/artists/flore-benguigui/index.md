@@ -3,6 +3,7 @@ id: "47c916f7-8b1a-444b-a53b-6f6c9d94e740"
 title: "Flore Benguigui"
 type: person
 socials:
+  musicbrainz: "826825b7-7540-4d70-8e6f-d43dfa892c6b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add cover
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

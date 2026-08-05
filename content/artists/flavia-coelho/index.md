@@ -3,6 +3,7 @@ id: "3d92fe02-9f2f-4b0c-9dcf-9f56512a1c59"
 title: "Flavia Coelho"
 type: person
 socials:
+  musicbrainz: "f8b9ba51-dee0-44a7-85ae-49562482b722"
   facebook: "flaviacoelho.officiel"
   instagram: "flaviacoelhobr"
   threads: "flaviacoelhobr"
@@ -19,10 +20,13 @@ socials:
   deezer: "1005185"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1980-07-26
 ---
 
 Flavia Coelho est une chanteuse brésilienne installée en France, qui émerge sur la scène world music européenne avec une

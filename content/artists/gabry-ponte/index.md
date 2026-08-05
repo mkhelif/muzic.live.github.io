@@ -2,6 +2,7 @@
 id: "21a8c0ef-6988-46ec-b2a0-b12304b1eace"
 title: "Gabry Ponte"
 socials:
+  musicbrainz: "5a578188-781d-46a3-ac29-1974060702ad"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "91585"
   deezer: "6550"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "5ENS85nZShljwNgg4wFD7D"
+  tidal: "3678611"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

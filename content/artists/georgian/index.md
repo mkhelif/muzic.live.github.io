@@ -2,6 +2,7 @@
 id: "90ec473c-7b79-438a-b6fa-16bbacda5844"
 title: "Georgian"
 socials:
+  musicbrainz: "ccf201a3-5d7e-4681-aae9-6b777c7e6f72"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

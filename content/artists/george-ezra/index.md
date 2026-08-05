@@ -3,6 +3,7 @@ id: "87b137ed-c38a-4916-a5a7-a4056454ec82"
 title: "George Ezra"
 type: person
 socials:
+  musicbrainz: "2c5e2a98-d9ea-46b5-9618-d9bb4863a920"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,15 +15,18 @@ socials:
   amazon: ""
   apple: "705812852"
   deezer: "5241932"
-  qobuz: ""
+  qobuz: "1399291"
   spotify: "2ysnwxxNtSgbb9t1m2Ur4j"
-  tidal: ""
+  tidal: "5131589"
 todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1993-06-07
 ---

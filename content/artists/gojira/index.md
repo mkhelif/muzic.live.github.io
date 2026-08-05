@@ -31,6 +31,7 @@ members:
       - start: 1996
         end: 1998
 socials:
+  musicbrainz: "1c5efd53-d6b6-4d63-9d22-a15025cf5f07"
   facebook: "gojiramusic"
   instagram: "gojiraofficial"
   tiktok: "@gojiraband"
@@ -41,11 +42,12 @@ socials:
   tidal: "3883303"
   spotify: "0GDGKpJFhVpcjIGF8N6Ewt"
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  amazon: "B0025OEHAI"
+  apple: "65158676"
+  deezer: "2993"
+  qobuz: "82320"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

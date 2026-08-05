@@ -2,6 +2,7 @@
 id: "bf2604a1-7687-49de-92cc-f9d5dfd89ee0"
 title: "Goodboys"
 socials:
+  musicbrainz: "59ffa494-f0de-4744-80ee-d26d4eb92e57"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,8 +13,8 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1474673499"
+  deezer: "9710684"
   qobuz: ""
   spotify: ""
   tidal: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

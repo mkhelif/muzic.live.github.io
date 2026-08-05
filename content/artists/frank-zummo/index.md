@@ -6,6 +6,7 @@ birth:
   date: 1978-07-02
   place: "Columbus, Ohio, États-Unis"
 socials:
+  musicbrainz: "2831a6fb-851e-4ee7-97f5-aaa46a4f6e2f"
   facebook: "FrankZummo"
   instagram: "frankzummo"
   tiktok: "@frankzummo"
@@ -20,15 +21,18 @@ socials:
   deezer: "4487389"
   qobuz: ""
   spotify: "7xN9WPokBDyU1yTL2nxmjz"
-  tidal: ""
+  tidal: "12314104"
   x: ""
   email: ""
 todo:
   - Add description
   - Add information (birth, gender, ...)
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26
   spotify: 2026-07-23
+lifespan:
+  start: 1978-07-02
 ---

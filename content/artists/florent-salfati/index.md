@@ -3,6 +3,7 @@ id: "01c12748-506c-4cc3-a035-1b5ab7556906"
 title: "Florent Salfati"
 type: person
 socials:
+  musicbrainz: "082fc8ad-1961-448f-b851-913bdcd59679"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: "3u41yvYi4ylHamsT1Ksu4l"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

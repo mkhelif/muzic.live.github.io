@@ -3,6 +3,7 @@ id: "9e2f2e0a-3217-4e6c-9494-a83830e64a14"
 title: "Gino Groeneveld"
 type: person
 socials:
+  musicbrainz: "adcc2a9f-6ec3-4c7f-a00e-c281f478dbf8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown-lookup: 2026-08-05
   deezer: 2026-08-04
   apple-lookup: 2026-08-04

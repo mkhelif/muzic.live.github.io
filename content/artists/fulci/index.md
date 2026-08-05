@@ -3,6 +3,7 @@ id: "77785550-e27c-4dd2-a51a-cd2494067e80"
 title: "Fulci"
 type: band
 socials:
+  musicbrainz: "aa299c3e-ba6d-46fc-99df-313ce341bc20"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,16 +12,17 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B008LLTXSK"
   apple: ""
   deezer: "4595093"
   qobuz: ""
   spotify: "5rK5iEoGaC5LtoBCiXpCet"
-  tidal: ""
+  tidal: "6683687"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-08-04
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27

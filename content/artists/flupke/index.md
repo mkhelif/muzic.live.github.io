@@ -3,6 +3,7 @@ id: "76ec1edb-7cb0-4ce1-abdc-df101d13c410"
 title: "Flupke"
 type: unknown
 socials:
+  musicbrainz: "43b346a5-7c4e-464e-bbc2-99187fdae754"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,6 +24,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

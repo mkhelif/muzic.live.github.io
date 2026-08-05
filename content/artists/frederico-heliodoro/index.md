@@ -3,6 +3,7 @@ id: "6fd7041e-c0b7-49f6-b723-d84f43bc8be0"
 title: "Frederico Heliodoro"
 type: person
 socials:
+  musicbrainz: "6944a54b-71f4-4024-bbbd-f6e9d9c29843"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

@@ -2,6 +2,7 @@
 id: "9fc27310-70a8-4736-ae35-7a6bebba9266"
 title: "Flageladör"
 socials:
+  musicbrainz: "cf218083-2de3-407a-8937-5b98962f3689"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

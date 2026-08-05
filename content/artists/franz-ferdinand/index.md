@@ -50,6 +50,7 @@ members:
       - start: 2002
         end: 2016
 socials:
+  musicbrainz: "aa7a2827-f74b-473c-bd79-03d065835cf7"
   facebook: "officialfranzferdinand"
   instagram: "franz_ferdinand"
   tiktok: "@officialfranzferdinand"
@@ -64,8 +65,9 @@ socials:
   amazon: ""
   apple: "6596751"
   deezer: "919"
-  qobuz: ""
+  qobuz: "53199"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

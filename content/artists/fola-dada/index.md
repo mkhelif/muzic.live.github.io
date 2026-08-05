@@ -2,6 +2,7 @@
 id: "6eb042b4-49b6-4fc5-95a0-2f23ee09e793"
 title: "Fola Dada"
 socials:
+  musicbrainz: "88155390-3c99-4852-92a5-473a19bbbb7d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

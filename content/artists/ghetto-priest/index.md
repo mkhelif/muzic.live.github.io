@@ -3,6 +3,7 @@ id: "d0522160-e901-42aa-8cf0-cd4c76c1d324"
 title: "Ghetto Priest"
 type: person
 socials:
+  musicbrainz: "333cc7e6-9cdd-48c7-89a4-dfe074cd7b54"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "80036297"
   deezer: "336413"
   qobuz: ""
   spotify: "0BHLDBEV3j1FdzTwLzRhsV"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

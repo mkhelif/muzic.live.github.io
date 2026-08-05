@@ -3,6 +3,7 @@ id: "49e6c387-9a9e-4dd7-8d23-de4f2c2d4506"
 title: "Fredrik Åkesson"
 type: person
 socials:
+  musicbrainz: "a823ee4e-e5d3-4481-8151-9f8d2f36b667"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,7 +24,10 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
   apple-lookup: 2026-08-04
+lifespan:
+  start: 1972-07-18
 ---

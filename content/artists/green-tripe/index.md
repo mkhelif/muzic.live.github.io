@@ -2,6 +2,7 @@
 id: "c97841f3-43ca-4f9d-b5e7-a3a6a682fc17"
 title: "Green Tripe"
 socials:
+  musicbrainz: "a0fb0f7d-8826-4ec4-bed7-10747fb032b1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

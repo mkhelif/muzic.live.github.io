@@ -2,6 +2,7 @@
 id: "af9d93f4-d4e4-451b-913f-b0048a84022e"
 title: "Fit For A King"
 socials:
+  musicbrainz: "6eaab7b4-f2cb-4c80-9b36-7e7d5c2fa8c5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,16 +12,17 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B003Q0F4NO"
   apple: "279581764"
   deezer: "522946"
   qobuz: ""
-  spotify: ""
+  spotify: "0OgdRTPItr9dw4XYp4JJUx"
   tidal: ""
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

@@ -2,6 +2,7 @@
 id: "8c687160-9270-427c-af35-4e2bcf4cce33"
 title: "Goldfinger"
 socials:
+  musicbrainz: "87fc1871-b74e-4bf5-a00d-8a89c288008b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "2089079"
+  deezer: "2128"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "7sVQKNtdP2NylxMgbNOJMM"
+  tidal: "6320"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

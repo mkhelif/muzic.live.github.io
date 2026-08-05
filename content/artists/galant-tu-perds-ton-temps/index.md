@@ -3,6 +3,7 @@ id: "4e24f5a9-ff8b-4733-9867-1f3f0dbe02f2"
 title: "Galant Tu Perds Ton Temps"
 type: unknown
 socials:
+  musicbrainz: "4908da2a-e73d-4345-9850-f578cdbbe6d8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

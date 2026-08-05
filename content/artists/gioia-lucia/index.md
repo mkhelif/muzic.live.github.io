@@ -2,6 +2,7 @@
 id: "ea4a7b5f-614f-44ef-94af-958af4efeb6e"
 title: "Gioia Lucia"
 socials:
+  musicbrainz: "7632e231-c39e-48df-ac0a-28a75dd1ecf1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

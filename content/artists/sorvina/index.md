@@ -20,7 +20,15 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
-  - Add detailed description
 lastUpdate:
   bandsintown: 2026-07-27
 ---
+
+Sorvina est une rappeuse originaire de New York, aujourd'hui installée à Berlin. Élevée dans une petite ville de
+banlieue, elle découvre d'abord sa voix artistique du côté de la country avant de se tourner vers le hip-hop.
+
+###### Une artiste versatile
+
+Sa musique mêle soul, jazz, pop expérimentale et hip-hop dans des performances énergiques à la portée souvent
+sociale et réflexive. Elle se produit régulièrement en duo avec l'artiste Adja, avec qui elle partage volontiers la
+scène lors de concerts pensés comme des dialogues entre leurs univers respectifs.

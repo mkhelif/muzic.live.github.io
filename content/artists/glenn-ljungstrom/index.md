@@ -3,6 +3,7 @@ id: "4fe641f3-9388-41e6-bcb0-ecf6975969ec"
 title: "Glenn Ljungström"
 type: person
 socials:
+  musicbrainz: "1ba48056-d0a9-430d-8676-74de0633e010"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,7 +23,10 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
+lifespan:
+  start: 1974-09-07
 ---

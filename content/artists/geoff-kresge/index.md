@@ -3,6 +3,7 @@ id: "0a90cc35-bdda-49ad-9ea6-fbb7801707c0"
 title: "Geoff Kresge"
 type: person
 socials:
+  musicbrainz: "f108fd23-2a30-48dc-b9fa-07229107f1f2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,6 +24,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

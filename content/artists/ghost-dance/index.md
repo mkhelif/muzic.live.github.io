@@ -2,7 +2,24 @@
 id: "a7557e9d-89d4-40b0-9285-e51128f90b34"
 title: "Ghost Dance"
 type: band
+members:
+  - id: "5c99d4bb-5db2-48c7-905f-de5f95199b7f"
+    roles:
+      - other
+    periods:
+      - start: 1985
+        end: 1990
+  - id: "b68dc909-1d2d-48ef-aa9b-c3edf01f8424"
+    roles:
+      - sing
+  - id: "e34e5a04-79b5-4f64-a48c-12fbeddd7e56"
+    roles:
+      - other
+  - id: "204e8f1a-f49d-417b-87a4-98b2c52d0bfc"
+    roles:
+      - other
 socials:
+  musicbrainz: "f9ad90b0-42b8-4123-8551-03604c8a367c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +35,7 @@ socials:
   spotify: "0LZtBVbX5gxfaoSWfOBWoZ"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

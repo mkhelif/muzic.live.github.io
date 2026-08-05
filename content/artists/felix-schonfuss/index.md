@@ -3,6 +3,7 @@ id: "60ec4532-91e9-46c2-8cfb-637bd9cc3e67"
 title: "Felix Schönfuss"
 type: person
 socials:
+  musicbrainz: "95a04961-c7b9-4334-bf12-2c23651570da"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown-lookup: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

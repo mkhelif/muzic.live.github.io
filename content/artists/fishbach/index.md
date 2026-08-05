@@ -3,6 +3,7 @@ id: "73f77fdb-330f-4750-bb6d-dc569023d735"
 title: "Fishbach"
 type: person
 socials:
+  musicbrainz: "92aa0d60-c3d9-4c6a-85f0-11ca38c5cc28"
   youtube: "@ffishbach"
   web: "https://florafishbach.fr/"
   facebook: ""
@@ -12,14 +13,17 @@ socials:
   email: ""
   amazon: ""
   apple: "1038504532"
-  deezer: ""
+  deezer: "8852364"
   qobuz: ""
   spotify: "6smOYrOT8fGSn5lDC86Jjb"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
+lifespan:
+  start: 1991-09-06
 ---
 
 Fishbach — qui se présente depuis 2025 sous son nom complet **Flora Fishbach** — est une autrice-compositrice-interprète

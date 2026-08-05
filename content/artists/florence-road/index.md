@@ -2,6 +2,7 @@
 id: "18f2deb9-0723-4a0a-975b-b116b268dd47"
 title: "Florence Road"
 socials:
+  musicbrainz: "9b189d1b-3d6d-41d1-9053-cf29a487a75e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B0BG5TCGVR"
   apple: "1646425758"
   deezer: "184257827"
-  qobuz: ""
-  spotify: ""
+  qobuz: "15725454"
+  spotify: "0zzKEeF2bAVKrWeKc9CyJV"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

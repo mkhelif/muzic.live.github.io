@@ -3,6 +3,7 @@ id: "61b36cfd-6f0e-4a6c-ae75-1671fafbf49f"
 title: "Gary Numan"
 type: person
 socials:
+  musicbrainz: "6cb79cb2-9087-44d4-828b-5c6fdff2c957"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,17 +14,20 @@ socials:
   email: ""
   amazon: ""
   apple: "2780160"
-  deezer: ""
-  qobuz: ""
+  deezer: "2706"
+  qobuz: "68370"
   spotify: "5KQMtyPE8DCQNUzoNqlEsE"
-  tidal: ""
+  tidal: "11048"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1958-03-08
 ---
 
 Gary Numan, de son vrai nom Gary Anthony James Webb, est un chanteur, compositeur et musicien anglais né le 8 mars

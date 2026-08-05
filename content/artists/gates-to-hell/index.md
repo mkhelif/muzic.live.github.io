@@ -2,6 +2,7 @@
 id: "d5de880f-492a-4eae-b146-1d6c5641224a"
 title: "Gates to Hell"
 socials:
+  musicbrainz: "2729d5b8-3576-4d56-9660-1a9986544274"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B07VSCCM98"
   apple: "1474307662"
   deezer: "70569912"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "5LcybrMKewCzWmVWvWAauw"
+  tidal: "16404865"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

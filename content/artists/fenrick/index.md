@@ -3,6 +3,7 @@ id: "a553ee20-6523-4be7-929a-a9805dd0c443"
 title: "Fenrick"
 type: unknown
 socials:
+  musicbrainz: "d5c3e49b-8481-434b-9a3f-baf6cb8eb7b8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,15 +13,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1516677203"
   deezer: "96750292"
-  qobuz: ""
+  qobuz: "7388061"
   spotify: "4xfKbQQytFl4LWMGe2v5P3"
-  tidal: ""
+  tidal: "20234748"
 todo:
   - Add description
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

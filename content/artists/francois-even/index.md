@@ -3,6 +3,7 @@ id: "5fda3e9a-6f87-4bb6-965e-588de66808c8"
 title: "François Even"
 type: person
 socials:
+  musicbrainz: "d1748b23-a9bb-4f1e-913f-a11a30295c36"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

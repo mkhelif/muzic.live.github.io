@@ -2,6 +2,7 @@
 id: "733c8cb1-03ef-46be-96ff-05e83bd78316"
 title: "Frieder & Jakob"
 socials:
+  musicbrainz: "32df0913-6d77-48a2-876e-f7adaf7b5f33"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "1718286673"
   deezer: "244585772"
   qobuz: ""
-  spotify: ""
+  spotify: "0rngZQF9IoOPgAXhJmF35V"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

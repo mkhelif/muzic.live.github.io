@@ -2,6 +2,7 @@
 id: "571f34ab-72b8-4995-92cd-723136142393"
 title: "Forndom"
 socials:
+  musicbrainz: "3ed6dce5-c14b-4569-83e6-f700e1118519"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "1000642795"
   deezer: "7879956"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "1DO3ytbfXlJUOoy77yH7IH"
+  tidal: "6779605"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

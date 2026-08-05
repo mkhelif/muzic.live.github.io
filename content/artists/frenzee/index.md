@@ -2,6 +2,7 @@
 id: "5a2593e3-6c18-4383-9a76-c9956c62e72f"
 title: "Frenzee"
 socials:
+  musicbrainz: "c6e00bed-4a17-4f60-9417-933af17ed5e3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
   apple-lookup: 2026-07-27

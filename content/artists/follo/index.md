@@ -3,6 +3,7 @@ id: "2aa8de7e-8131-4431-9c04-4e831d7608a0"
 title: "Follo"
 type: person
 socials:
+  musicbrainz: "441a30a0-8d30-4551-93ee-6be45a59fd6d"
   instagram: "follosound"
   youtube: "@follosound"
   spotify: "7ExuslYYmBsf5EDB4qrUNY"
@@ -17,6 +18,7 @@ socials:
   qobuz: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

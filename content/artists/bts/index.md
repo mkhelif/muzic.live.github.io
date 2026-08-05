@@ -57,7 +57,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
@@ -65,3 +64,19 @@ lastUpdate:
   bandsintown: 2026-07-27
   spotify: 2026-07-23
 ---
+
+BTS est un groupe sud-coréen de sept membres — RM, Jin, Suga, J-Hope, Jimin, V et Jungkook — formé par la maison de
+disques Big Hit Entertainment (aujourd'hui HYBE) en 2013 à Séoul.
+
+###### Le premier groupe de K-pop à conquérir le monde
+
+Porté par une fanbase mondiale extrêmement soudée, l'ARMY, BTS devient le premier acte de K-pop à atteindre la
+première place du Billboard Hot 100 et à se produire aux Grammy Awards, tout en remplissant des stades sur
+plusieurs continents. Le groupe s'impose comme l'un des artistes les plus vendus de l'histoire de la musique.
+
+###### Réunion et retour sur scène
+
+Après le service militaire obligatoire effectué successivement par chacun des sept membres, BTS se retrouve au
+complet en juin 2025 et reprend l'enregistrement en studio dès juillet. Cette réunion débouche sur le **BTS World
+Tour 'Arirang'**, leur première tournée en groupe depuis *Permission to Dance on Stage* (2021-2022) : 79 dates
+prévues dans 34 régions du monde, sur une scène circulaire à 360 degrés plaçant le public au centre du dispositif.

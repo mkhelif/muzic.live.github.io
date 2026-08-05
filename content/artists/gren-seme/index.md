@@ -13,15 +13,31 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "1631192"
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "35f1b15c-ff0f-443c-94dc-b4cfa0f54ed9"
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
 ---
+
+Grèn Sémé est un groupe formé en 2006 à Montpellier par des étudiants réunionnais réunis autour du
+chanteur-percussionniste **Carlo De Sacco**, avec l'ambition d'inventer une musique nouvelle mêlant leurs racines et
+la scène rock française.
+
+###### Le maloya à la rencontre de la chanson française
+
+Le quintet marie le créole et le maloya traditionnel de La Réunion à une écriture proche de Brel, Bashung ou Noir
+Désir, entre poésie rock, pulsations dub et rythmes ternaires. Cette rencontre singulière leur vaut le prix Alain
+Péters au festival Sakifo dès 2012.
+
+###### Une discographie en constante évolution
+
+Grèn Sémé publie trois albums — **Grèn Sémé** (2013), **Hors Sol** (2016) et **Zamroza** (2022) — suivis de l'EP
+**Maloya Gazé** en 2024. Le groupe continue de tourner en France et à l'international, portant sur scène une énergie
+festive et engagée héritée de la culture réunionnaise.

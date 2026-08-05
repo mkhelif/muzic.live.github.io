@@ -3,6 +3,7 @@ id: "2d432f7d-e261-4aca-af21-73c01c33ec8b"
 title: "Gemroz"
 type: person
 socials:
+  musicbrainz: "66dd79e0-3da1-48a7-9188-75dd6ad242a6"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

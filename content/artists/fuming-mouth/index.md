@@ -2,6 +2,7 @@
 id: "d978c8d0-e02e-4eac-9229-97d81cca1b0f"
 title: "Fuming Mouth"
 socials:
+  musicbrainz: "06cd3013-82d9-4713-8d82-4b46aec62215"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B01E81SXHS"
   apple: "1102638476"
   deezer: "10174514"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "2I7atnUFOmvMyGPuesD7cB"
+  tidal: "7743736"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

@@ -2,6 +2,7 @@
 id: "30ab2321-7a60-4945-bcba-f77a8ddb9a40"
 title: "FVLCRVM"
 socials:
+  musicbrainz: "b66d429d-153f-42a4-ba4a-d8057c4df5cb"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "987803229"
   deezer: "5895962"
   qobuz: ""
-  spotify: ""
+  spotify: "7AjItKsRnEYRSiBt2OxK1y"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

@@ -3,6 +3,7 @@ id: "6d870661-a309-472c-9976-4725ed0a7141"
 title: "Franglish"
 type: person
 socials:
+  musicbrainz: "ad29aaaf-c93b-4841-8730-380a2c85986a"
   facebook: "MisterFranglish"
   instagram: "franglish"
   tiktok: "@franglishoff"
@@ -21,9 +22,12 @@ socials:
 todo:
   - Add cover from concert picture
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1994-08-02
 ---
 
 Il y a des artistes qui choisissent un camp. Franglish a décidé de les occuper tous. Rap et R&B, français et anglais,

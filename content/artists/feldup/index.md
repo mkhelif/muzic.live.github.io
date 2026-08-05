@@ -3,6 +3,7 @@ id: "de5dd543-22f9-4e1a-a53c-4aafc85b8c77"
 title: "Feldup"
 type: person
 socials:
+  musicbrainz: "12cbd614-9ed2-4b27-8369-9184d5b5aff8"
   facebook: "feldupmusic"
   instagram: "feldup_official"
   x: "Feldup_official"
@@ -16,14 +17,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1517053704"
   deezer: "15371303"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 2002-03-05
 ---
 
 Feldup est un vidéaste, musicien et chanteur français, né en mars 2002, de son vrai nom Félix Dupuis. Originaire de

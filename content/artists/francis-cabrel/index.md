@@ -3,6 +3,7 @@ id: "5507cc7a-918b-4397-844f-94892e9c9188"
 title: "Francis Cabrel"
 type: person
 socials:
+  musicbrainz: "9476ee3c-ede2-46e8-ae24-ce2db54b5df3"
   bandsintown: "44966"
   youtube: "@FrancisCabrelOfficiel"
   web: "https://www.franciscabrel.com/"
@@ -15,12 +16,15 @@ socials:
   email: ""
   amazon: ""
   apple: "296102"
-  deezer: ""
+  deezer: "670"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1953-11-23
 ---
 
 Francis Cabrel naît le 23 novembre 1953 à Agen, dans une famille modeste où la musique occupe une place importante grâce

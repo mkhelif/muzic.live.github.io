@@ -3,6 +3,7 @@ id: "cab4c355-2aa0-47e4-8dd0-e5c0cd702be3"
 title: "Gregory Porter"
 type: person
 socials:
+  musicbrainz: "7ac1e33f-0cdf-4e81-b914-41830700d746"
   facebook: "gregoryportermusic"
   instagram: "gregoryportermusic"
   threads: "@gregoryportermusic"
@@ -17,14 +18,17 @@ socials:
   email: "paul@wingsmusic.com"
   tiktok: ""
   deezer: ""
-  qobuz: ""
+  qobuz: "725956"
 todo:
   - Add picture from concert
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   apple: 2026-07-26
   spotify: 2026-07-23
+lifespan:
+  start: 1971-11-04
 ---
 
 Il y a des voix qui chantent. Et il y a des voix qui enveloppent — qui vous prennent par les épaules, vous serrent

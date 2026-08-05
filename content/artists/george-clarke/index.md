@@ -2,6 +2,7 @@
 id: "fd8149f7-d859-484c-9dcf-0eb2441c13d5"
 title: "George Clarke"
 socials:
+  musicbrainz: "81ff2ec7-8d2e-41cf-8009-6724848855dd"
   deezer: "338392"
   facebook: ""
   instagram: ""
@@ -10,6 +11,7 @@ socials:
   bandsintown: "984110"
   youtube: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27

@@ -3,6 +3,7 @@ id: "708fd8e5-d0fa-4a29-9bb9-10a41ac0c2f0"
 title: "Givēon"
 type: person
 socials:
+  musicbrainz: "ad322b8b-31b2-437d-8fd8-1af13c1d7b91"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,9 +22,12 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1990-02-21
 ---
 
 Giveon Dezmann Evans, né le 21 février 1995 à Long Beach, en Californie, est un chanteur et auteur-compositeur américain

@@ -3,6 +3,7 @@ id: "e248c86f-6b5b-48a8-b1e1-78d577940427"
 title: "Fritz Randow"
 type: person
 socials:
+  musicbrainz: "c031cd73-4411-4034-a23a-4652d40093b4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,7 +19,10 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27
+lifespan:
+  start: 1952-08-06
 ---

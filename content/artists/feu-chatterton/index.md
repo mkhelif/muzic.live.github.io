@@ -31,6 +31,7 @@ members:
     periods:
       - start: 2011
 socials:
+  musicbrainz: "b1eac47e-77b5-4f5c-ae33-442c07182278"
   facebook: "feu.chatterton"
   instagram: "feuchatterton"
   tiktok: ""
@@ -39,13 +40,14 @@ socials:
   youtube: ""
   web: "http://www.feuchatterton.fr/"
   email: "feuchatterton@gmail.com"
-  amazon: ""
+  amazon: "B00MH1T7FO"
   apple: "876503395"
   deezer: "5623138"
   qobuz: ""
   spotify: "538TfjnJpRXI80MHYWfKlo"
-  tidal: ""
+  tidal: "5877725"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

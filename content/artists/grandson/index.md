@@ -3,6 +3,7 @@ id: "68618401-47a8-439b-8e62-ba14b080ff6a"
 title: "Grandson"
 type: person
 socials:
+  musicbrainz: "cc699fe3-db51-4837-928f-8f712c61a01a"
   facebook: "grandsonmusic"
   instagram: "grandson"
   x: "grandson"
@@ -13,15 +14,18 @@ socials:
   tidal: "4409634"
   spotify: "4ZgQDCtRqZlhLswVS6MHN4"
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
+  amazon: "B00161KPUM"
+  apple: "1156231026"
+  deezer: "324922"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1993-10-25
 ---
 
 Grandson est le nom de scène de **Jordan Edward Benjamin**, auteur-compositeur-interprète né le 25 octobre 1993 à

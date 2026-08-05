@@ -3,6 +3,7 @@ id: "dd564986-a7b0-4c28-8d6a-0c831bce3310"
 title: "Felix Brummer"
 type: person
 socials:
+  musicbrainz: "d365d8a2-f38e-4a5f-bebf-2824a88eecb3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: "7jR7cyGDAnM8PP9pjNd9Al"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

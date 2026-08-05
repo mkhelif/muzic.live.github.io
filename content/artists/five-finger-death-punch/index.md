@@ -59,6 +59,7 @@ members:
       - start: 2005
         end: 2010
 socials:
+  musicbrainz: "7e8571b1-7c5a-4739-bc51-73d422ee9d74"
   facebook: "fivefingerdeathpunch"
   instagram: "5fdp"
   tiktok: "@fivefingerdeathpunch"
@@ -77,6 +78,7 @@ todo:
   - Add picture
   - Review description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26

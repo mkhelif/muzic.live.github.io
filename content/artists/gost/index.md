@@ -3,6 +3,7 @@ id: "935c3394-1904-403f-b36f-c84ae0cc40b0"
 title: "Gost"
 type: person
 socials:
+  musicbrainz: "73ed3b2f-6d5e-46c6-8f75-952c383f6b33"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,18 +13,22 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1434068160"
+  deezer: "3125331"
   qobuz: ""
   spotify: "46HcJG62ky3Tj7yJpB2Qqg"
-  tidal: ""
+  tidal: "3707279"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1980-03-16
+  end: 2026-04-01
 ---

@@ -3,6 +3,7 @@ id: "a032b0b8-838c-461a-9891-e2bf592de8fe"
 title: "Gavin James"
 type: person
 socials:
+  musicbrainz: "efd22686-4b72-43d5-9265-d5b073f550d1"
   facebook: "gavinjamesmusic"
   instagram: "gavinjameslive"
   tiktok: "@gavinjamesmusic"
@@ -15,12 +16,15 @@ socials:
   email: ""
   amazon: ""
   apple: "715175756"
-  deezer: ""
+  deezer: "2668241"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1991-07-06
 ---
 
 Gavin James est un chanteur-compositeur irlandais né à Dublin, qui émerge sur la scène musicale au début des années 2010

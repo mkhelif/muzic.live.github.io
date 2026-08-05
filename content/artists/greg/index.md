@@ -3,6 +3,7 @@ id: "851c82d2-0879-4884-861a-f209dd295627"
 title: "GЯEG"
 type: unknown
 socials:
+  musicbrainz: "491208b5-ad9a-4135-955b-04ea1a363d86"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
 ---

@@ -3,6 +3,7 @@ id: "c8aecc46-2625-4a35-ae9e-649b72cb318e"
 title: "Gavin Shoesmith"
 type: person
 socials:
+  musicbrainz: "2f2571cd-6c90-4ef4-9e10-8c28aa14d9ca"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

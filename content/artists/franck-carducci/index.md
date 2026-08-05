@@ -3,6 +3,7 @@ id: "41ad662d-f4a7-45b4-932d-b194e3aab7e6"
 title: "Franck Carducci"
 type: person
 socials:
+  musicbrainz: "1e6cb486-62b5-477a-bea5-080ab49bc3b4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: "7yLFzjoFTaleRDbOsaSvXE"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

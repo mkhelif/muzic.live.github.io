@@ -3,6 +3,7 @@ id: "22ba3766-86b2-4bc7-a9e4-6508e1b1ee15"
 title: "Finnegan Tui"
 type: person
 socials:
+  musicbrainz: "167efe51-8a25-4d67-ab03-3c9b9acd3472"
   facebook: "FinneganTui"
   instagram: "finnegantui"
   tiktok: "@finnegantui"
@@ -18,9 +19,12 @@ socials:
   deezer: "132374332"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 2000-02-08
 ---
 
 Avec sa folk organique, Finnegan Tui s'impose comme l'un des chanteurs guitare-voix les plus captivants du moment.

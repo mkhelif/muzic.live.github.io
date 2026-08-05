@@ -3,6 +3,7 @@ id: "888f0c73-c56b-4922-92fd-0df305edccbc"
 title: "Galibot"
 type: band
 socials:
+  musicbrainz: "d0f7843b-3cb8-439c-b6f0-c82c9887a71f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

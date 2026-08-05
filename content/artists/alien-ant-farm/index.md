@@ -21,7 +21,6 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   setlistfm: 2026-08-05
   apple: 2026-08-05
@@ -30,3 +29,19 @@ lastUpdate:
   musicbrainz: 2026-08-04
   deezer-lookup: 2026-07-27
 ---
+
+Alien Ant Farm est un groupe de rock alternatif américain formé en 1996 à Riverside, en Californie, par le chanteur
+Dryden Mitchell, le guitariste Terry Corso, le bassiste Tye Zamora et le batteur Mike Cosgrove, tous quatre lassés de
+leurs emplois de bureau.
+
+###### Le succès de « Smooth Criminal »
+
+Après un premier album autoproduit, le groupe signe en major et publie en 2001 **ANThology**, porté par une reprise
+funk-metal de *Smooth Criminal* de Michael Jackson. Le titre, popularisé par son apparition dans le film *American
+Pie 2*, grimpe en tête des classements rock et propulse l'album au disque de platine.
+
+###### Une carrière en dents de scie
+
+Le groupe enchaîne ensuite **TruANT** (2003), **Up in the Attic** (2006) puis **Always and Forever** (2015), avant de
+revenir en 2024 avec **Mantras** après près de dix ans d'absence discographique. Alien Ant Farm a écoulé plus de cinq
+millions de disques dans le monde et continue de tourner avec Dryden Mitchell, Terry Corso et Mike Cosgrove.

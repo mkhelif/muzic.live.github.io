@@ -2,6 +2,7 @@
 id: "f863a6c4-513d-42b3-8ad0-428d84f8161a"
 title: "Fredo"
 socials:
+  musicbrainz: "45d8a704-4539-496e-9344-3de5d9dca011"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "31427440"
+  deezer: "74545"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "3rbtPd0NcvhO2AzMfzx90z"
+  tidal: "4504785"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-08-04

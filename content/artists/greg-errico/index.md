@@ -3,6 +3,7 @@ id: "7fdcdf54-c097-4659-8a71-e583c4123538"
 title: "Greg Errico"
 type: person
 socials:
+  musicbrainz: "bce4602d-abd3-411f-8522-fcd9c0fa0a07"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,7 +23,10 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27
+lifespan:
+  start: 1948-09-01
 ---

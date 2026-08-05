@@ -3,6 +3,7 @@ id: "d68ab756-1ef8-4850-a6b3-070d122d5d82"
 title: "George MacDonald"
 type: person
 socials:
+  musicbrainz: "bb40e4db-054f-451d-9e34-67bb0582ca87"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

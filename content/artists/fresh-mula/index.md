@@ -3,6 +3,7 @@ id: "905c182c-256b-4812-bbc0-7db90f58e28e"
 title: "Fresh Mula"
 type: person
 socials:
+  musicbrainz: "ef54d00a-41ea-4f04-b40a-a8fc829ae75b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,10 +19,13 @@ socials:
   spotify: "6IwmCDDOJfupZ9uDvSwfPe"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1998
 ---
 
 Fresh Mula, de son vrai nom Omar, est un rappeur italien né en 1998 d'une mère italienne et d'un père sénégalais, qui

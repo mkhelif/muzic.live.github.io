@@ -2,6 +2,7 @@
 id: "1731da75-c359-4aa0-86c1-b3cc3b815195"
 title: "Firefall"
 socials:
+  musicbrainz: "87b12e99-75f4-4b53-8858-cab215f3ea4f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,15 +13,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "40284999"
+  deezer: "64404"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "1tfXh4XxILEuMU2qZupFn8"
+  tidal: "13365"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

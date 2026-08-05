@@ -2,7 +2,12 @@
 id: "47a3f5f6-cd3c-4d30-b05b-49fe1ace11ef"
 title: "Frankie and the Witch Fingers"
 type: band
+members:
+  - id: "0949d18f-d0a2-4f48-bcc0-e4d5b5532444"
+    roles:
+      - other
 socials:
+  musicbrainz: "cc846715-ccc7-4391-868b-0876d135daa0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +21,12 @@ socials:
   deezer: "7572838"
   qobuz: ""
   spotify: "5UdQDFQ3wgUPuL5kiL7KqU"
-  tidal: ""
+  tidal: "6511885"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

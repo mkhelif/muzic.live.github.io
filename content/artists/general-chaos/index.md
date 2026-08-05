@@ -2,6 +2,7 @@
 id: "72e9c5e4-0785-4eb4-a9cf-9313b889bbf4"
 title: "General Chaos"
 socials:
+  musicbrainz: "3cd70c5c-5a5b-4554-aeba-f30048ab5f6c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

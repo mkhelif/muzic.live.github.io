@@ -3,6 +3,7 @@ id: "d535c2d4-5654-4f40-a3e4-451301d8279d"
 title: "Fey Fili"
 type: unknown
 socials:
+  musicbrainz: "013e52eb-3e9b-410d-8447-b9de630c97a1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

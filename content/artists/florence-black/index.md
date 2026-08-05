@@ -2,6 +2,7 @@
 id: "9f12393f-168d-4e8b-8584-7a7c25ba2d81"
 title: "Florence Black"
 socials:
+  musicbrainz: "033ec4aa-e035-42dd-aff4-fb3be08e33b3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "887638115"
   deezer: "5934917"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "7ubhUvkY7FB68rfzz7DmW4"
+  tidal: "5726191"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

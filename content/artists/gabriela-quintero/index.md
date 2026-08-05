@@ -3,6 +3,7 @@ id: "c87231cb-f1b3-4024-a144-499759adbecf"
 title: "Gabriela Quintero"
 type: person
 socials:
+  musicbrainz: "e6d456f3-a45c-47f5-8093-be3bb3367c9f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,7 +19,10 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27
+lifespan:
+  start: 1973
 ---

@@ -2,6 +2,7 @@
 id: "52d7acaa-eaf2-432c-b07a-98b74c936789"
 title: "GoldFish"
 socials:
+  musicbrainz: "98f1b98b-2296-4fb3-ab16-4dffe67f2174"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "3196352"
+  deezer: "146952"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0uRdK8gy7fXJGRywrlmPM7"
+  tidal: "3506396"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-08-04

@@ -3,6 +3,7 @@ id: "e0b2e729-1d43-45f6-a9ef-6fc7397750c5"
 title: "Gliz"
 type: band
 socials:
+  musicbrainz: "013a3e9a-b259-4c79-a506-9c2cfce8efba"
   facebook: "gliiizzz"
   instagram: "_gliz_"
   soundcloud: "gliz-2"
@@ -19,6 +20,7 @@ socials:
   qobuz: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

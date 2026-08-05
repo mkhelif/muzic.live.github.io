@@ -3,6 +3,7 @@ id: "d581d9a3-f67b-435e-a150-236ca285c90c"
 title: "Gea"
 type: unknown
 socials:
+  musicbrainz: "3fa4b7cd-efc4-41c1-9aad-42c80552e31e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,7 @@ todo:
   - Add description
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

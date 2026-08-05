@@ -2,6 +2,7 @@
 id: "d4175384-5465-43c6-bbe8-bf3dc1fd5ed8"
 title: "Glom"
 socials:
+  musicbrainz: "17cde238-cfd7-4ec3-9bf9-69e9daf9840a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: ""
   deezer: "14003415"
   qobuz: ""
-  spotify: ""
+  spotify: "0OY528sf5HGsPB2xi8BJ4H"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
   apple-lookup: 2026-08-04

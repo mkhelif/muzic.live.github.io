@@ -3,6 +3,7 @@ id: "42f3d745-870f-4d37-9ca6-3462f7045f83"
 title: "Gaël Faye"
 type: person
 socials:
+  musicbrainz: "8c75b0dc-7c8a-4ea4-a678-0f46c62edace"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,14 +17,17 @@ socials:
   deezer: "2607221"
   qobuz: ""
   spotify: "69irZ4R8OsrLHjr6VmMmMg"
-  tidal: ""
+  tidal: "4645745"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1982-08-06
 ---
 
 Gaël Faye est un auteur-compositeur-interprète, rappeur et écrivain franco-rwandais né le 6 août 1982 à Bujumbura, au

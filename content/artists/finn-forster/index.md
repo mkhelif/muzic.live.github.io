@@ -3,6 +3,7 @@ id: "af51446e-5719-4c11-ad8a-5016870fb7fd"
 title: "Finn Forster"
 type: person
 socials:
+  musicbrainz: "fe0e02c5-7c00-4c69-815b-ac28817af247"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

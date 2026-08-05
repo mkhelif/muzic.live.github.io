@@ -2,6 +2,7 @@
 id: "d696d522-c154-4e56-b58b-19bd5bfc2d8e"
 title: "Graham Massey"
 socials:
+  musicbrainz: "6739352a-3f16-418b-ba43-6c41912badc5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: ""
   deezer: "1283323"
   qobuz: ""
-  spotify: ""
+  spotify: "1n3BJ5dmOq0ELwG3swuCBS"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

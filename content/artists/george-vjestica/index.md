@@ -2,6 +2,7 @@
 id: "e9ed477e-d1c3-4525-a079-51d55a88ea7a"
 title: "George Vjestica"
 socials:
+  musicbrainz: "42509acb-c96b-40c8-8731-91a6c5594bd1"
   deezer: "515696"
   facebook: ""
   instagram: ""
@@ -10,6 +11,7 @@ socials:
   bandsintown: "1014160"
   youtube: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

@@ -2,6 +2,7 @@
 id: "844c531c-675b-4fdc-9488-d23d04b87b5c"
 title: "Francesco Napoli"
 socials:
+  musicbrainz: "279e01bb-dc46-42c6-bfba-dc54f4f782af"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "52214633"
   deezer: "250746"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "4ehDlSEuqN9uVXcwce30K1"
+  tidal: "3527614"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

@@ -2,6 +2,7 @@
 id: "792d1ce1-d2b9-4eb1-b14f-3e59a894c5ca"
 title: "Fire In Her Eyes"
 socials:
+  musicbrainz: "bb24967d-1a5f-4efb-8d6e-6140cd3e970b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: "1ZK2Qmuvb7rLD7NuCBxm6w"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

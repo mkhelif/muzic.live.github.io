@@ -3,6 +3,7 @@ id: "f3ae4175-b75d-47fb-a339-dff06c1e89e0"
 title: "Fritüür"
 type: band
 socials:
+  musicbrainz: "fcfd8032-1a30-4d48-97ca-11e5d6b92860"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

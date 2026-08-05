@@ -2,6 +2,7 @@
 id: "b1f6eeed-60db-440d-be7c-2f9fc2a266b3"
 title: "Grim Rhythm"
 socials:
+  musicbrainz: "c929d30b-52f8-462b-8df2-21e0f3c38954"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

@@ -26,6 +26,7 @@ members:
     periods:
       - start: 2020
 socials:
+  musicbrainz: "6d5ce39c-2508-44ab-a83c-2bb5ce4315f3"
   facebook: "girlscouttheband"
   instagram: "girlscouttheband"
   tiktok: "@girlscouttheband"
@@ -35,13 +36,14 @@ socials:
   bandcamp: "girlscouttheband"
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B0BG7S9R9H"
+  apple: "907034421"
   deezer: "6289976"
-  qobuz: ""
+  qobuz: "11309740"
   spotify: "4CbghtwTo6bvxk5QacvRrE"
-  tidal: ""
+  tidal: "8389894"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

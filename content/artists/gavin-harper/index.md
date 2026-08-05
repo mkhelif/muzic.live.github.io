@@ -3,6 +3,7 @@ id: "73480e98-2a12-498d-962a-728b27732af4"
 title: "Gavin Harper"
 type: person
 socials:
+  musicbrainz: "b640c206-8836-4eff-aca0-452fd31a472e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,6 +24,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

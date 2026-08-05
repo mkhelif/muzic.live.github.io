@@ -3,6 +3,7 @@ id: "523e7674-bff1-4195-87b0-0dec748a2fb3"
 title: "Georgio"
 type: person
 socials:
+  musicbrainz: "4020ea18-d886-483c-910f-a0e7e039c097"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,15 +14,18 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "183727"
   qobuz: ""
   spotify: "6Xc0KDqzw5u6EQLgdfeoKO"
-  tidal: ""
+  tidal: "3655492"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1993-01-21
 ---
 
 Georgio, de son vrai nom Georges Édouard Nicolo, est né le 21 janvier 1993 aux Lilas, en Seine-Saint-Denis. Rappeur et

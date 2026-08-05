@@ -3,6 +3,7 @@ id: "1789074c-d45e-43fa-92d0-ad63ea45943f"
 title: "Gracie Abrams"
 type: person
 socials:
+  musicbrainz: "f7441bc7-d7de-4813-a2fc-31a4033d396d"
   facebook: ""
   instagram: "gracieabrams"
   x: "gracieabrams"
@@ -11,20 +12,23 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B07Z8QVBQ2"
   apple: "1450554836"
   deezer: ""
-  qobuz: ""
+  qobuz: "5758516"
   spotify: "4tuJ0bMpJh08umKkEXKUI5"
-  tidal: ""
+  tidal: "15686643"
 todo:
   - Add picture
   - Verify social networks
   - Add discography
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1999-09-07
 ---
 
 Gracie Madigan Abrams, née le 7 septembre 1999 à Los Angeles, est une autrice-compositrice-interprète américaine.

@@ -3,6 +3,7 @@ id: "35cc54e4-f81d-4f02-9727-22a9b3e128f0"
 title: "GORRCH"
 type: band
 socials:
+  musicbrainz: "15c4cd3b-1c14-44a6-9894-1f3e2e6f95be"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

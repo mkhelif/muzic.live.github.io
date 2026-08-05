@@ -2,6 +2,7 @@
 id: "4a7cdefd-775e-412d-aa41-3dd4a99e7e17"
 title: "Glowsun"
 socials:
+  musicbrainz: "ea3781cf-0777-4c90-8a90-63b0713d35ef"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

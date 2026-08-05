@@ -2,6 +2,7 @@
 id: "dd4b2b98-f072-492e-b157-acd465b0e9ef"
 title: "For The Fallen Dreams"
 socials:
+  musicbrainz: "6fca6647-1dce-4028-8348-68238b8d2237"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,16 +12,17 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B0011VD3CO"
   apple: "439435774"
   deezer: "65876"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0rsHKddRhuze38fVL0egOY"
+  tidal: "3540803"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

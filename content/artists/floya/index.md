@@ -2,6 +2,7 @@
 id: "7fb6eaa4-9775-46a7-898a-d96fb34f9393"
 title: "FLOYA"
 socials:
+  musicbrainz: "bb2952b5-6d9a-4b47-b236-7250c9ae23e8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1610191372"
   deezer: "56786502"
   qobuz: ""
-  spotify: ""
+  spotify: "1jGACwVpRJvsOfg29pM5L7"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

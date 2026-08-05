@@ -20,8 +20,23 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---
+
+Le Feste Antonacci est un duo italien de pop électronique formé en 2018 par **Giacomo Lecchi d'Alessandro** et
+**Leonardo Rizzi**, dont l'amitié et la complicité artistique naissent après leur installation en France.
+
+###### Des jams mystiques à la pop italienne
+
+Leur univers se construit autour de flûtes envoûtantes, de chœurs amples, de percussions primitives et de textes en
+italien, nés de longues séances d'improvisation quasi rituelles où des motifs répétitifs installent des atmosphères
+changeantes. Le duo se fait connaître dès 2018 avec l'EP **Grandi Successi**, salué par la critique.
+
+###### De la pop au cinéma
+
+En 2023, leur collaboration avec le ténor Andrea Bocelli sur le titre *Festa*, repris dans une campagne publicitaire
+de Noël pour John Lewis, leur offre une exposition internationale inédite. Le Feste Antonacci diversifie depuis son
+activité vers la composition de musiques de film et de séries, travaillant notamment pour Disney, HBO et Netflix,
+tout en poursuivant sa carrière discographique.

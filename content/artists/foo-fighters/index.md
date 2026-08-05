@@ -66,6 +66,7 @@ members:
       - start: 2023
         end: 2025
 socials:
+  musicbrainz: "67f66c07-6e61-4026-ade5-7e782fad3a5d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -74,10 +75,10 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B000QKAGGM"
   apple: "6906197"
   deezer: "566"
-  qobuz: ""
+  qobuz: "148676"
   spotify: "7jy3rLJdDQY21OgRLCZ9sD"
   tidal: ""
 todo:
@@ -85,6 +86,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

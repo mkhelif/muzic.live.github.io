@@ -3,6 +3,7 @@ id: "835bc880-4d35-4d8c-b271-5602711c7a8b"
 title: "Fugue"
 type: band
 socials:
+  musicbrainz: "47b382f2-b83f-4c3c-9d46-afde9dc9eb70"
   facebook: "FUGUEofficial"
   instagram: "fugue.official"
   tiktok: "@fugue.official"
@@ -14,10 +15,11 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1435248995"
+  deezer: "159132292"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

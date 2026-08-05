@@ -3,6 +3,7 @@ id: "f45f9e3c-aa42-436a-897d-28d964223827"
 title: "Fufanu"
 type: band
 socials:
+  musicbrainz: "8f47f5f4-9d53-48f6-9cf1-85a0e7e0ad5a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

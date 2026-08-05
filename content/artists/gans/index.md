@@ -2,7 +2,17 @@
 id: "c23b5587-0e74-4c28-8ce4-1f3fc81bddb5"
 title: "Gans"
 type: band
+members:
+  - id: "576930f2-fc11-4e7e-b260-3f55577ffc10"
+    roles:
+      - sing
+      - bass
+  - id: "f481998b-af2e-4c22-a46d-bc3b20e2b358"
+    roles:
+      - sing
+      - drums
 socials:
+  musicbrainz: "8e5c16ed-5bd1-4614-bede-41f594abf8d8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +22,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1735752368"
+  deezer: "5211717"
   qobuz: ""
   spotify: "05PzzXnIetN4rWDlYv23SK"
-  tidal: ""
+  tidal: "6356523"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

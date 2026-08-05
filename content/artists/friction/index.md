@@ -3,6 +3,7 @@ id: "4dd79d16-af18-4931-bf15-b5061a3ad424"
 title: "Friction"
 type: unknown
 socials:
+  musicbrainz: "6bab48a1-c3e0-4160-b574-f99fc7dfad9f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,15 +13,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "744244447"
+  deezer: "12395"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "3643168"
 todo:
   - Add description
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

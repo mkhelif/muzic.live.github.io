@@ -3,6 +3,7 @@ id: "f71f4f31-e3ba-4b31-8728-afba07c14905"
 title: "Gaëtan Roussel"
 type: person
 socials:
+  musicbrainz: "3e2c4afa-36a0-4955-a5b2-7cf3949e038e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,19 +13,22 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "59914696"
+  deezer: "281509"
+  qobuz: "118463"
   spotify: "2FDsdMev4pzIXwoJGXi9zf"
-  tidal: ""
+  tidal: "3850579"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1972-10-13
 ---
 
 Gaëtan Roussel, né le 13 octobre 1972 à Rodez, est un auteur-compositeur-interprète et guitariste français, connu comme

@@ -2,6 +2,7 @@
 id: "cb911438-8fcc-4148-b476-0338af225591"
 title: "GEN.KLOUD"
 socials:
+  musicbrainz: "d3f2424c-d4ca-446a-9c13-ba99d0b93e93"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,13 +15,14 @@ socials:
   apple: "1709726225"
   deezer: "233311611"
   qobuz: ""
-  spotify: ""
+  spotify: "5SA5qxjYXQTxjQ56s22J4q"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown-lookup: 2026-08-05
   deezer: 2026-08-04
 ---

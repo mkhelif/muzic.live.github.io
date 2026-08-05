@@ -2,6 +2,7 @@
 id: "eb8ad014-a0f3-44ac-bb28-f942c3ab2ad8"
 title: "Gazebo"
 socials:
+  musicbrainz: "a259ee76-5910-4dd6-8bdb-9d4a69ecfc96"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,16 +12,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "49636036"
   deezer: "8804"
   qobuz: ""
-  spotify: ""
+  spotify: "1Tzu45aHnn0Xz4msfhHRW1"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25

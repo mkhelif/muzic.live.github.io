@@ -3,6 +3,7 @@ id: "a8180ef2-7ca7-448e-aae8-78ef3de9a050"
 title: "Gros Coeur"
 type: band
 socials:
+  musicbrainz: "9b7c46b8-6421-4211-8baa-3270c12d9ee7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,12 +16,13 @@ socials:
   apple: "1618627044"
   deezer: "166392817"
   qobuz: ""
-  spotify: ""
+  spotify: "43uAhK5zH94bIYS0IW6AHw"
   tidal: ""
 todo:
   - Add cover
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---
