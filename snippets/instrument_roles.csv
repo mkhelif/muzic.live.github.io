@@ -1,0 +1,759 @@
+instrument,type,role
+12 string guitar,String instrument,guitar
+17-string bass koto,String instrument,strings
+accordina,Wind instrument,harmonica
+accordion,Wind instrument,accordion
+acoustic bass guitar,String instrument,bass
+acoustic fretless guitar,String instrument,guitar
+acoustic guitar,String instrument,guitar
+aeolian harp,String instrument,harp
+agogô,Percussion instrument,drums
+akkordolia,String instrument,strings
+alfaia,Percussion instrument,drums
+algozey,Wind instrument,wind
+alphorn,Wind instrument,wind
+alto flute,Wind instrument,flute
+alto saxophone,Wind instrument,saxophone
+alto viol,String instrument,violin
+amadinda,Percussion instrument,drums
+analog synthesizer,Electronic instrument,keys
+Anglo concertina,Wind instrument,accordion
+ankle rattlers,Percussion instrument,drums
+Appalachian dulcimer,String instrument,strings
+archtop guitar,String instrument,guitar
+arghul,Wind instrument,flute
+arpeggione,String instrument,guitar
+ashiko,Percussion instrument,drums
+atabaque,Percussion instrument,drums
+atarigane,Percussion instrument,drums
+baandu,Percussion instrument,drums
+baglamas,String instrument,guitar
+bagpipe,Wind instrument,bagpipe
+bajo sexto,String instrument,guitar
+balafon,Percussion instrument,drums
+Baltic psalteries,Family,other
+bandoneón,Wind instrument,accordion
+bandora,String instrument,strings
+bandura,String instrument,strings
+bandurria,String instrument,strings
+bangu,Percussion instrument,drums
+banhu,String instrument,guitar
+banjolin,String instrument,guitar
+bansuri,Wind instrument,flute
+barbat,String instrument,guitar
+baritone guitar,String instrument,guitar
+baritone horn,Wind instrument,wind
+baritone saxophone,Wind instrument,saxophone
+baroque guitar,String instrument,guitar
+barrel drum,Percussion instrument,drums
+barrel organ,Wind instrument,keys
+baryton,String instrument,strings
+bass,Other instrument,bass
+bass clarinet,Wind instrument,flute
+bass drum,Percussion instrument,drums
+bass flute,Wind instrument,flute
+bass harmonica,Wind instrument,harmonica
+bass oboe,Wind instrument,flute
+bass pedals,Electronic instrument,keys
+bass saxophone,Wind instrument,saxophone
+bass synthesizer,Electronic instrument,keys
+bass trombone,Wind instrument,trombone
+bass trumpet,Wind instrument,trumpet
+bass violin,String instrument,violin
+basset clarinet,Wind instrument,flute
+bateria,Ensemble,drums
+bawu,Wind instrument,flute
+bayan,Wind instrument,accordion
+bazooka,Wind instrument,wind
+bedug,Percussion instrument,drums
+bell,Percussion instrument,drums
+bell plate,Percussion instrument,drums
+bendir,Percussion instrument,drums
+berda,String instrument,strings
+berimbau,String instrument,strings
+bhapang,String instrument,strings
+bicycle bell,Percussion instrument,drums
+bin-sasara,Percussion instrument,drums
+bin-sitar,String instrument,strings
+biniou,Wind instrument,wind
+birch lur,Wind instrument,wind
+bisernica,String instrument,strings
+biwa,String instrument,strings
+boatswain's pipe,Wind instrument,wind
+bodhrán,Percussion instrument,drums
+body percussion,Percussion instrument,drums
+bombarde,Wind instrument,wind
+bombo legüero,Percussion instrument,drums
+bonang barung,Percussion instrument,drums
+bonang panembung,Percussion instrument,drums
+bonang panerus,Percussion instrument,drums
+bones,Percussion instrument,drums
+boomwhacker,Percussion instrument,drums
+bouzar / gouzouki,String instrument,guitar
+bouzouki,String instrument,guitar
+bowed piano,String instrument,keys
+bowed psaltery,String instrument,strings
+brass,Wind instrument,wind
+brač,String instrument,strings
+buk,Percussion instrument,drums
+bulbul tarang,String instrument,strings
+button accordion,Wind instrument,accordion
+buzuq,String instrument,guitar
+bīn,Family,other
+cabasa,Percussion instrument,drums
+caixa,Percussion instrument,drums
+calabash,Percussion instrument,drums
+calliope,Wind instrument,wind
+calung,Percussion instrument,drums
+castanets,Percussion instrument,drums
+cavaquinho,String instrument,strings
+caxixi,Percussion instrument,drums
+celesta,Percussion instrument,drums
+cello,String instrument,strings
+Cembalet,Wind instrument,wind
+chacha,Percussion instrument,drums
+chalumeau,Wind instrument,wind
+chanzy,String instrument,strings
+chap,Percussion instrument,drums
+Chapman stick,String instrument,strings
+charumera,Wind instrument,wind
+chau gong,Percussion instrument,drums
+chikuzen biwa,String instrument,strings
+ching,Percussion instrument,drums
+chirimía,Wind instrument,wind
+chitarra battente,String instrument,strings
+chitra veena,String instrument,strings
+chromatic button accordion,Wind instrument,wind
+chromatic harmonica,Wind instrument,wind
+chuurqin,String instrument,strings
+cimbasso,Wind instrument,wind
+cimpoi,Wind instrument,wind
+clapper,Percussion instrument,drums
+clarinet,Wind instrument,flute
+classical guitar,String instrument,guitar
+classical kemençe,String instrument,strings
+claves,Percussion instrument,drums
+clavichord,String instrument,strings
+clavinet,String instrument,keys
+clavioline,Electronic instrument,keys
+claviorganum,,keys
+cobla,Ensemble,other
+concert flute,Family,flute
+conch,Wind instrument,wind
+continuum,Electronic instrument,other
+contrabass clarinet,Wind instrument,flute
+contrabassoon,Wind instrument,flute
+cornamuse,Wind instrument,bagpipe
+cornet,Wind instrument,wind
+cowbell,Percussion instrument,drums
+craviola,String instrument,strings
+Cristal Baschet,Percussion instrument,drums
+crotales,Percussion instrument,drums
+crumhorn,Wind instrument,wind
+crwth,String instrument,strings
+cuatro,String instrument,strings
+cuíca,Percussion instrument,drums
+cymbal,Percussion instrument,drums
+cò ke,String instrument,strings
+daegeum,Wind instrument,wind
+daf,Percussion instrument,drums
+daire,Percussion instrument,drums
+daluo,Percussion instrument,drums
+daruan,String instrument,strings
+davul,Percussion instrument,drums
+Denis d'or,Electronic instrument,keys
+dhol,Percussion instrument,drums
+dholak,Percussion instrument,drums
+diatonic button accordion,Wind instrument,accordion
+didgeridoo,Wind instrument,wind
+ding tac ta,Wind instrument,wind
+disk drive,Electronic instrument,other
+diyingehu,String instrument,strings
+djoza,String instrument,strings
+dolceola,String instrument,strings
+dombra,String instrument,strings
+domra,String instrument,strings
+donso ngɔni,String instrument,strings
+doshpuluur,String instrument,strings
+double bass,String instrument,bass
+double reed,Wind instrument,wind
+dramyin,String instrument,strings
+drums (drum set),Percussion instrument,drums
+Dubreq Stylophone,Electronic instrument,other
+duck call,Wind instrument,wind
+dudy,Wind instrument,wind
+duggi,Percussion instrument,drums
+dulce melos,String instrument,strings
+dulcian,Wind instrument,wind
+dulzaina,Wind instrument,wind
+dutar,String instrument,strings
+duxianqin,String instrument,strings
+dūdmaišis,Wind instrument,wind
+E-flat clarinet,Wind instrument,other
+ebow,Electronic instrument,other
+effects,Other instrument,other
+electric bass guitar,String instrument,bass
+electric cello,String instrument,strings
+electric grand piano,String instrument,keys
+electric guitar,String instrument,guitar
+electric harp,String instrument,harp
+electric piano,Other instrument,keys
+electric sitar,String instrument,strings
+electric upright bass,String instrument,bass
+electronic drum set,Percussion instrument,drums
+electronic instruments,Electronic instrument,other
+electronic shruti box,Electronic instrument,other
+elektronium,Electronic instrument,other
+end-blown flute,Wind instrument,flute
+English flageolet,Wind instrument,other
+erhu,String instrument,strings
+esraj,String instrument,strings
+EWI,Electronic instrument,other
+farfisa,Electronic instrument,other
+fife,Wind instrument,other
+finger snaps,Percussion instrument,drums
+fiscorn,Wind instrument,other
+five-string banjo,String instrument,banjo
+flageolet,Wind instrument,other
+flamenco guitar,String instrument,guitar
+floppy disk drive,Electronic instrument,other
+flugelhorn,Wind instrument,other
+flumpet,Wind instrument,other
+flute,Wind instrument,flute
+flutina,Wind instrument,flute
+folk harp,String instrument,harp
+foot stomps,Percussion instrument,drums
+footbass,Wind instrument,bass
+four-string banjo,String instrument,banjo
+frame drum,Percussion instrument,drums
+free reed,Wind instrument,other
+French horn,Wind instrument,other
+fretless bass,String instrument,bass
+friction drum,Percussion instrument,drums
+friction idiophone,Percussion instrument,drums
+frottoir,Percussion instrument,drums
+fujara,Wind instrument,other
+gadulka,String instrument,strings
+gaida,Wind instrument,other
+gaita asturiana,Wind instrument,other
+gaita sanabresa,Wind instrument,other
+gambang,Percussion instrument,drums
+game console sound chip,Electronic instrument,other
+gamelan,Ensemble,other
+ganzá,Percussion instrument,drums
+gaohu,String instrument,strings
+garklein recorder,Wind instrument,other
+gayageum,String instrument,strings
+gemshorn,Wind instrument,other
+gendèr,Family,other
+gendèr barung,Percussion instrument,drums
+gendèr panerus,Percussion instrument,drums
+gendèr wayang,Percussion instrument,drums
+geomungo,String instrument,strings
+German concertina,Wind instrument,other
+ghatam,Percussion instrument,drums
+ghaychak,String instrument,strings
+gizmo,Other instrument,other
+glass harmonica,Percussion instrument,drums
+glass harp,Percussion instrument,drums
+glockenspiel,Percussion instrument,drums
+goblet drum,Percussion instrument,drums
+gong bass drum,Percussion instrument,drums
+gong-chime,Percussion instrument,drums
+gopichant,String instrument,strings
+gramorimba,Percussion instrument,drums
+Gravikord,String instrument,strings
+great bass recorder / c-bass recorder,Wind instrument,other
+Great Highland bagpipe,Wind instrument,other
+guan,Wind instrument,other
+guban,Ensemble,other
+guitalele,String instrument,strings
+guitarrón mexicano,String instrument,guitar
+guitorgan,Electronic instrument,keys
+gumbri,String instrument,strings
+guqin,String instrument,strings
+gusli,String instrument,strings
+guzheng,String instrument,strings
+güira,Percussion instrument,drums
+haegeum,String instrument,strings
+hammered dulcimer,String instrument,strings
+Hammond organ,Electronic instrument,keys
+handclaps,Percussion instrument,drums
+handpan,Percussion instrument,drums
+hard disk drive,Electronic instrument,other
+hardingfele,String instrument,strings
+harmonica,Wind instrument,other
+harmonium,Wind instrument,other
+harp,String instrument,strings
+harpsichord,String instrument,keys
+Hawaiian guitar,String instrument,guitar
+heckelphone,Wind instrument,other
+heike biwa,String instrument,strings
+helicon,Wind instrument,other
+hi-hat,Percussion instrument,drums
+hichiriki,Wind instrument,other
+hmông flute,Wind instrument,other
+horn,Wind instrument,other
+hotchiku,Wind instrument,other
+hourglass drum,Percussion instrument,drums
+hue puruhau,Wind instrument,other
+hulusi,Wind instrument,other
+hummel,String instrument,strings
+huqin,Family,other
+hurdy gurdy,String instrument,strings
+hydraulophone,Other instrument,other
+hyoshigi,Percussion instrument,drums
+hümmelchen,Wind instrument,other
+igil,String instrument,strings
+Indonesian rebab,String instrument,strings
+Irish bouzouki,String instrument,strings
+Irish harp / clàrsach,String instrument,strings
+janggu,Percussion instrument,drums
+jantar,String instrument,strings
+jegogan,Percussion instrument,drums
+jeli ngɔni,String instrument,strings
+jing,Percussion instrument,drums
+jing'erhu,String instrument,strings
+jinghu,String instrument,strings
+junjung,Percussion instrument,drums
+k'lông pút,Wind instrument,other
+kacapi indung,String instrument,strings
+kacapi siter,String instrument,strings
+kachva sitar,String instrument,strings
+kamale ngɔni,String instrument,strings
+kamancheh,String instrument,strings
+kanjira,Percussion instrument,drums
+kanklės,String instrument,strings
+kannel,String instrument,strings
+kantilan,Percussion instrument,drums
+kanun,String instrument,strings
+kartal,Percussion instrument,drums
+kaval,Wind instrument,other
+kazoo,Other instrument,other
+kecer,Percussion instrument,drums
+kemanak,Percussion instrument,drums
+kemenche,String instrument,strings
+kemençe of the Black Sea,String instrument,strings
+kempul,Percussion instrument,drums
+kempyang,Percussion instrument,drums
+kendang,Percussion instrument,drums
+kendang lanang,Percussion instrument,drums
+kendang wadon,Percussion instrument,drums
+kendhang indung,Percussion instrument,drums
+kendhang ketipung,Percussion instrument,drums
+kendhang kulanter,Percussion instrument,drums
+kenong,Percussion instrument,drums
+kethuk,Percussion instrument,drums
+kettle drum,Percussion instrument,drums
+keyboard,Electronic instrument,keys
+keyboard bass,Electronic instrument,keys
+keyed box zither,String instrument,strings
+keyed brass instruments,Wind instrument,other
+keytar,Electronic instrument,other
+khamak,String instrument,strings
+khene,Wind instrument,other
+khim,String instrument,strings
+khèn Mèo,Wind instrument,other
+kinnor,String instrument,strings
+kkwaenggwari,Percussion instrument,drums
+klong khaek,Percussion instrument,drums
+klong song na,Percussion instrument,drums
+klong that,Percussion instrument,drums
+klong yao,Percussion instrument,drums
+kokle,String instrument,strings
+kokyu,String instrument,strings
+komuz,String instrument,strings
+kora,String instrument,strings
+koto,String instrument,strings
+kotsuzumi,Percussion instrument,drums
+krakeb,Percussion instrument,drums
+krap,Family,other
+krap khū,Percussion instrument,drums
+krar,String instrument,strings
+kudüm,Percussion instrument,drums
+kèn lá,Wind instrument,other
+kös,Percussion instrument,drums
+kōauau,Wind instrument,other
+kōauau ponga ihu,Wind instrument,other
+lamellaphone,Percussion instrument,drums
+langeleik,String instrument,strings
+laouto,String instrument,strings
+lap harp,String instrument,harp
+lap steel guitar,String instrument,guitar
+laser harp,Electronic instrument,other
+lasso d'amore,Other instrument,other
+lautenwerck,String instrument,strings
+lavta,String instrument,strings
+laúd,String instrument,strings
+limbe,Wind instrument,other
+lira da braccio,String instrument,strings
+lirone,String instrument,strings
+lithophone,Percussion instrument,drums
+liuqin,String instrument,strings
+lute family,Family,other
+luthéal,String instrument,strings
+lyra viol,String instrument,strings
+lyre,String instrument,strings
+Lyricon,Electronic instrument,other
+madal,Percussion instrument,drums
+maddale,Percussion instrument,drums
+Magyar duda,Wind instrument,other
+mandoguitar,String instrument,guitar
+mandolin,String instrument,guitar
+mandolute,String instrument,mandolin
+maracas,Percussion instrument,drums
+marimba,Percussion instrument,drums
+marimba lumina,Electronic instrument,other
+Mark tree,Percussion instrument,drums
+marímbula,Percussion instrument,drums
+matstsyanka,Wind instrument,other
+mbira,Percussion instrument,drums
+mellophone,Wind instrument,other
+melodica,Wind instrument,other
+melophone,Wind instrument,other
+membranophone,Percussion instrument,drums
+metallophone,Family,other
+Mexican vihuela,String instrument,strings
+mezwed,Wind instrument,other
+mijwiz,Wind instrument,other
+minipiano,String instrument,keys
+mirliton,Wind instrument,other
+monkey stick,Percussion instrument,drums
+morsing,Percussion instrument,drums
+mouth organ,Wind instrument,keys
+mridangam,Percussion instrument,drums
+mukkuri,Percussion instrument,drums
+musette de cour,Wind instrument,other
+musical bow,String instrument,strings
+musical box,Percussion instrument,drums
+musical saw,Other instrument,other
+nabal,Wind instrument,other
+nadaswaram,Wind instrument,other
+nagadou-daiko,Percussion instrument,drums
+nagak,Wind instrument,other
+nai,Wind instrument,other
+natural horn,Wind instrument,other
+natural trumpet,Wind instrument,other
+neyanban,Wind instrument,other
+nguru,Wind instrument,other
+njarka,String instrument,strings
+nohkan,Wind instrument,other
+Northumbrian pipes,Wind instrument,other
+nose flute,Wind instrument,other
+nose whistle,Wind instrument,other
+nyatiti,String instrument,strings
+oboe d'amore,Wind instrument,other
+oboe da caccia,Wind instrument,other
+ocarina,Wind instrument,other
+ocean drum,Percussion instrument,drums
+octave mandolin,String instrument,mandolin
+octoban,Percussion instrument,drums
+ondioline,Electronic instrument,other
+ophicleide,Wind instrument,other
+organ,Wind instrument,keys
+orpharion,String instrument,strings
+orphica,String instrument,strings
+other instruments,Other instrument,other
+oval spinet,String instrument,strings
+pahū,Percussion instrument,drums
+pahū pounamu,Percussion instrument,drums
+paiban,Percussion instrument,drums
+pan flute,Wind instrument,other
+pang gu ly hu hmông,Wind instrument,other
+Paraguayan harp,String instrument,harp
+parkapzuk,Wind instrument,other
+pedal steel guitar,String instrument,guitar
+percussion,Percussion instrument,drums
+percussion idiophone,Percussion instrument,drums
+phách,Percussion instrument,drums
+pi nai,Wind instrument,other
+Pianet,Electronic instrument,other
+piano accordion,Wind instrument,keys
+piano duo,Ensemble,keys
+piano four hands,Ensemble,keys
+piano quartet,Ensemble,keys
+piano spinet,String instrument,keys
+piano trio,Ensemble,keys
+piccolo oboe,Wind instrument,other
+piccolo trumpet,Wind instrument,other
+pipa,String instrument,strings
+pipe and tabor,Ensemble,other
+pipe organ,Wind instrument,keys
+piva,Wind instrument,other
+pkhachich,Percussion instrument,drums
+plucked string instruments,String instrument,strings
+pluriarc,String instrument,strings
+pocket trumpet,Wind instrument,other
+poi,Percussion instrument,drums
+portative,Wind instrument,other
+Portuguese guitar,String instrument,guitar
+post horn,Wind instrument,other
+practice chanter,Wind instrument,other
+prepared piano,String instrument,keys
+primero,Percussion instrument,drums
+psaltery,String instrument,strings
+pākuru,Percussion instrument,drums
+pātē,Percussion instrument,drums
+pōrutu,Wind instrument,other
+pūkaea,Wind instrument,other
+pūmotomoto,Wind instrument,other
+pūpakapaka,Wind instrument,other
+pūtātara,Wind instrument,other
+pūtōrino,Wind instrument,other
+qilaut,Percussion instrument,drums
+quadruple reed,Wind instrument,other
+quena,Wind instrument,other
+quijada,Percussion instrument,drums
+quinto,Percussion instrument,drums
+Radhika's Mohan veena,String instrument,strings
+rainstick,Percussion instrument,drums
+ranat thum,Percussion instrument,drums
+ratchet,Percussion instrument,drums
+rauschpfeife,Wind instrument,other
+ravanahatta,String instrument,strings
+Reactable,Electronic instrument,other
+rebab,String instrument,strings
+reclam de xeremies,Wind instrument,other
+reco-reco,Percussion instrument,drums
+recorder,Wind instrument,other
+reed organ,Wind instrument,keys
+regal,Wind instrument,other
+repinique,Percussion instrument,drums
+reyong,Percussion instrument,drums
+Rhodes piano,Percussion instrument,drums
+rhythm sticks,Percussion instrument,drums
+riq,Percussion instrument,drums
+ronroco,String instrument,strings
+rototom,Percussion instrument,drums
+ruan,String instrument,strings
+rubab,String instrument,strings
+sac de gemecs,Wind instrument,other
+saduk,Wind instrument,other
+sampler,Electronic instrument,other
+sanshin,String instrument,strings
+santoor,String instrument,strings
+santur,String instrument,strings
+sanxian,String instrument,strings
+sarangi,String instrument,strings
+sarod,String instrument,strings
+saron barung,Percussion instrument,drums
+saron demung,Percussion instrument,drums
+saron family,Percussion instrument,drums
+saron panerus,Percussion instrument,drums
+saron wayang,Percussion instrument,drums
+sarrusophone,Wind instrument,other
+satsuma biwa,String instrument,strings
+saw duang,String instrument,strings
+saw sam sai,String instrument,strings
+saw u,String instrument,strings
+saxophone,Wind instrument,other
+saxophone quartet,Ensemble,saxophone
+scraped idiophone,Percussion instrument,drums
+segunda,Percussion instrument,drums
+Serbo-Croatian tamburica orchestra,Ensemble,other
+shakers,Percussion instrument,drums
+shawm,Wind instrument,other
+shehnai,Wind instrument,other
+sheng,Wind instrument,other
+shofar,Wind instrument,other
+shruti box,Wind instrument,other
+siku,Wind instrument,other
+single reed,Wind instrument,other
+sistrum,Percussion instrument,drums
+slenthem,Percussion instrument,drums
+slentho,Percussion instrument,drums
+slide guitar,String instrument,guitar
+slide whistle,Wind instrument,other
+somu dūdas,Wind instrument,other
+song loan,Percussion instrument,drums
+sopranino saxophone,Wind instrument,other
+soprano clarinet,Wind instrument,other
+soprano flute,Wind instrument,other
+soprano recorder,Wind instrument,other
+soprano saxophone,Wind instrument,other
+soprano violin,String instrument,violin
+sordellina,Wind instrument,other
+sousaphone,Wind instrument,other
+spilåpipa,Wind instrument,other
+spinet,String instrument,strings
+spinettone,String instrument,strings
+spoons,Percussion instrument,drums
+steel guitar,String instrument,guitar
+string quartet,Ensemble,strings
+string quintet,Ensemble,strings
+string synthesizer,Electronic instrument,keys
+string trio,Ensemble,strings
+strings,String instrument,strings
+Stroh violin,String instrument,violin
+struck idiophone,Percussion instrument,drums
+subcontrabass recorder,Wind instrument,other
+suikinkutsu,Other instrument,other
+suling,Wind instrument,other
+suona,Wind instrument,other
+surbahar,String instrument,strings
+surdo,Percussion instrument,drums
+swaragat,String instrument,strings
+swarmandal,String instrument,strings
+synthesizer,Electronic instrument,keys
+syrinx,Wind instrument,other
+sáo meò,Wind instrument,other
+sáo trúc,Wind instrument,other
+säckpipa,Wind instrument,other
+sênh tiền,Percussion instrument,drums
+t'rưng,Percussion instrument,drums
+tabla,Percussion instrument,drums
+table steel guitar,String instrument,guitar
+tabor,Percussion instrument,drums
+taiko,Percussion instrument,drums
+taishogoto,String instrument,strings
+talharpa,String instrument,strings
+talkbox,Other instrument,other
+talking drum,Percussion instrument,drums
+tamborim,Percussion instrument,drums
+tambourine,Percussion instrument,drums
+tambura,String instrument,strings
+tanbou ka,Percussion instrument,drums
+tanbur,String instrument,strings
+tangent piano,String instrument,keys
+tanpura,String instrument,strings
+taonga pūoro,Ensemble,other
+tap dance,Percussion instrument,drums
+tape,Other instrument,other
+taphon,Percussion instrument,drums
+tar,Percussion instrument,drums
+taragot,Wind instrument,other
+te kū,String instrument,strings
+tef,Percussion instrument,drums
+telharmonium,Electronic instrument,other
+temple blocks,Percussion instrument,drums
+temür khuur,Percussion instrument,drums
+tenor banjo,String instrument,banjo
+tenor guitar,String instrument,guitar
+tenor horn / alto horn,Wind instrument,other
+tenor recorder,Wind instrument,other
+tenor saxophone,Wind instrument,other
+tenor trombone,Wind instrument,other
+tenor viol,String instrument,violin
+tenor violin,String instrument,violin
+tenora,Wind instrument,other
+The Great Stalacpipe Organ,Percussion instrument,drums
+theremin,Electronic instrument,other
+thon,Percussion instrument,drums
+three-hole pipe,Wind instrument,other
+ti bwa,Percussion instrument,drums
+tible,Wind instrument,other
+timbales,Percussion instrument,drums
+timpani,Percussion instrument,drums
+tin whistle,Wind instrument,other
+tinya,Percussion instrument,drums
+tololoche,String instrument,strings
+tom-tom,Percussion instrument,drums
+Tonette,Wind instrument,other
+tonkori,String instrument,strings
+topshuur,String instrument,strings
+torupill,Wind instrument,other
+toy piano,String instrument,keys
+traditional basque ensemble,Ensemble,other
+transverse flute,Wind instrument,other
+trautonium,Electronic instrument,other
+treble viol,String instrument,violin
+tres,String instrument,strings
+tritantri veena,String instrument,strings
+tromba marina,String instrument,strings
+trombone,Wind instrument,other
+trumpet,Wind instrument,other
+trumpet family,Family,trumpet
+tràm plè,Wind instrument,other
+trắng jâu,Wind instrument,other
+trắng lu,Wind instrument,other
+tsampouna,Wind instrument,other
+tuba,Wind instrument,other
+tubax,Wind instrument,other
+tube zither,String instrument,strings
+tubular bells,Percussion instrument,drums
+tubulum,Percussion instrument,drums
+tulum,Wind instrument,other
+tumbi,String instrument,strings
+tumutumu,Percussion instrument,drums
+tun tuna,String instrument,strings
+txalaparta,Percussion instrument,drums
+txistu,Wind instrument,other
+typewriter,Percussion instrument,drums
+tzoura,String instrument,strings
+tōkere,Percussion instrument,drums
+udu,Percussion instrument,drums
+uilleann pipes,Wind instrument,other
+valiha,String instrument,strings
+valve trombone,Wind instrument,other
+valved brass instruments,Wind instrument,other
+veena,Family,other
+venu,Wind instrument,other
+vertical viola,String instrument,strings
+vessel flute,Wind instrument,other
+vibrandoneon,Wind instrument,other
+vichitra veena,String instrument,strings
+viol consort,Ensemble,violin
+viol family,Family,violin
+viola caipira,String instrument,violin
+viola da gamba,String instrument,violin
+violin,String instrument,violin
+violin family,Family,violin
+violino piccolo,String instrument,violin
+viololyra,String instrument,violin
+violoncello piccolo,String instrument,violin
+violone,String instrument,violin
+violotta,String instrument,violin
+virginal,String instrument,strings
+VM Bhatt's Mohan veena,String instrument,strings
+vocoder,Electronic instrument,other
+voice synthesizer,Electronic instrument,sing
+vuvuzela,Wind instrument,other
+washboard,Percussion instrument,drums
+washtub bass,String instrument,bass
+water drum,Percussion instrument,drums
+waterphone,Percussion instrument,drums
+whistle,Wind instrument,other
+willow flute,Wind instrument,other
+wind chime,Percussion instrument,drums
+wind instruments,Wind instrument,other
+wood block,Percussion instrument,drums
+wot,Wind instrument,other
+Wurlitzer electric piano,Percussion instrument,drums
+xalam,String instrument,strings
+Xaphoon,Wind instrument,other
+xeremies,Wind instrument,other
+xiao,Wind instrument,other
+xiaoluo,Percussion instrument,drums
+xun,Wind instrument,other
+yangqin,String instrument,strings
+yatga,String instrument,strings
+yaylı tanbur,String instrument,strings
+yazh,String instrument,strings
+yehu,String instrument,strings
+yonggo,Percussion instrument,drums
+yoochin,String instrument,strings
+yu,Percussion instrument,drums
+yueqin,String instrument,strings
+zabumba,Percussion instrument,drums
+zampogna,Wind instrument,other
+zarb,Percussion instrument,drums
+zhaleika,Wind instrument,other
+zhonghu,String instrument,strings
+zhongruan,String instrument,strings
+zhuihu,String instrument,strings
+zill,Percussion instrument,drums
+zither,String instrument,strings
+zurna,Wind instrument,other
+çevgen,Percussion instrument,drums
+đing buốt,Wind instrument,other
+đing năm,Wind instrument,other
+đàn nguyệt,String instrument,strings
+đàn tam,String instrument,strings
+đàn tranh,String instrument,strings
+đàn tứ,String instrument,strings
+đàn tứ dây,String instrument,strings
+đàn tỳ bà,String instrument,strings
+ģīga,String instrument,strings
+ōtsuzumi,Percussion instrument,drums
+żafżafa,Percussion instrument,drums
+żummara,Other instrument,other
