@@ -20,4 +20,6 @@ socials:
 todo:
   - Add description
   - Add socials
+lastUpdate:
+  deezer: 2026-08-05
 ---

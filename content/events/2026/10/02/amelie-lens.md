@@ -1,0 +1,8 @@
+---
+date: 2026-10-02T18:00:00+00:00
+venue: "43a1ca1d-86a8-47d5-a3f5-81e6ad531b01"
+artists:
+  - "b2775aa2-1ca5-40f7-89a7-5dd64fa107d8"
+tickets:
+  web: "https://www.songkick.com/concerts/43310632-amelie-lens-at-uber-eats-music-hall"
+---

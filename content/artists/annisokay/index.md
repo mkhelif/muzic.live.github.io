@@ -92,6 +92,7 @@ socials:
   spotify: "7lAi1Cv19DsukgGjbZQxFg"
   tidal: "4636433"
 lastUpdate:
+  apple: 2026-08-05
   musicbrainz: 2026-08-04
   deezer: 2026-07-27
   bandsintown: 2026-07-26

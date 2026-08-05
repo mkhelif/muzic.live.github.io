@@ -1,0 +1,8 @@
+---
+date: 2026-10-09T20:00:00
+venue: "50dd4a64-b2a6-4fce-a266-c89b8d98909f"
+artists:
+  - "ea60ca7f-c096-48e7-9d13-303b98459f81"
+tickets:
+  web: "https://www.bandsintown.com/e/1039390561?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event"
+---

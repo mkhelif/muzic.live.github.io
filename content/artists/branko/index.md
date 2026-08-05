@@ -14,6 +14,7 @@ socials:
   email: "hellobranko@gmail.com"
   spotify: "1lEBJGJgdoevi1Clv9CqLT"
 lastUpdate:
+  bandsintown: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
 ---

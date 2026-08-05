@@ -13,6 +13,7 @@ socials:
   email: "riotctc@gmail.com"
   spotify: "2HXQkBMnQACqEBPtGReJUy"
 lastUpdate:
+  bandsintown: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
 ---

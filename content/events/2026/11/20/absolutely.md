@@ -1,0 +1,8 @@
+---
+date: 2026-11-20T19:00:00
+venue: "20b7de07-2670-43e1-afae-c710a69ffba7"
+artists:
+  - "d9bae1c7-5a7f-4694-a752-840bd5dab1a0"
+tickets:
+  web: "https://www.bandsintown.com/e/108724059?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event"
+---
