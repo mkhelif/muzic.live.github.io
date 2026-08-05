@@ -2,6 +2,7 @@
 id: "fde746b1-53fd-4265-955b-3eaa46d7ac2e"
 title: "Conjurer"
 socials:
+  musicbrainz: "ce45c8f5-3f83-4c5e-8eb0-0b5ac85edd5e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  apple: "1313801006"
+  deezer: "8284000"
+  qobuz: "2377477"
+  spotify: "38eUVFRyGFT6VnEbaFRScQ"
+  tidal: "7185952"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

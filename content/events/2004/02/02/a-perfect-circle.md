@@ -1,0 +1,6 @@
+---
+date: 2004-02-02T00:00:00
+venue: "4d797a7d-4e57-44fe-a9c6-05b9a55c6ce5"
+artists:
+  - "d0f8e6cf-407f-4c7f-8bfa-262e69963b42"
+---

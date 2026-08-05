@@ -3,6 +3,7 @@ id: "817071b5-1e4b-4d0c-83c1-036a38b2e743"
 title: "Colin Burgess"
 type: person
 socials:
+  musicbrainz: "75b06696-4cc6-4d24-a277-808d7c87a5a5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,7 +23,11 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-08-04
   bandsintown-lookup: 2026-08-04
   apple-lookup: 2026-08-04
+lifespan:
+  start: 1946-11-16
+  end: 2023-12
 ---

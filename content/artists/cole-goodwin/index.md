@@ -3,6 +3,7 @@ id: "e6ce3e17-c38a-4546-a309-e80d28b06146"
 title: "Cole Goodwin"
 type: person
 socials:
+  musicbrainz: "d084ab60-4ff7-48a0-bc23-f2ca916b1669"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

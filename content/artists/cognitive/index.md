@@ -10,15 +10,17 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
+  amazon: "B008SPKJ4G"
+  apple: "551895725"
+  deezer: "5404705"
   qobuz: ""
-  spotify: ""
-  tidal: ""
-  musicbrainz: ""
+  spotify: "0Hlqz8aUm8vneFH4NFxepf"
+  tidal: "6749208"
+  musicbrainz: "53284b47-b2d3-45e5-954d-e13284ce72ff"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

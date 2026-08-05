@@ -2,6 +2,7 @@
 id: "397bba30-4fc8-4086-a3a7-ebf6dd0d8a47"
 title: "Colorado Symphony"
 socials:
+  musicbrainz: "b9221984-913e-4845-8487-518f8f71b741"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "29769512"
   deezer: "424445"
   qobuz: ""
-  spotify: ""
+  spotify: "2OWBfxGoj5GhipuZ1cKnmB"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

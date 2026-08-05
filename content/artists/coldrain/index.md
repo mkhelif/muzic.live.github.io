@@ -2,7 +2,41 @@
 id: "732431c8-d60d-45b0-b033-c04fc828f83a"
 title: "coldrain"
 type: band
+members:
+  - id: "ad67f434-de5f-49dd-bffc-ba182889a6f9"
+    roles:
+      - drums
+    periods:
+      - start: 2007
+  - id: "e1f33730-1a1a-4e48-8910-c007ffe78ce8"
+    roles:
+      - sing
+    periods:
+      - start: 2007
+  - id: "60ca64a0-55d9-4c1c-b29c-b44a901f01ae"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2007
+      - start: 2007
+  - id: "c6f3d87c-94e3-40c2-b411-6dec612a89e4"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2007
+  - id: "0d905e94-3e95-42ff-ac92-ff2a46c45678"
+    roles:
+      - guitar
+      - keys
+    periods:
+      - start: 2007
+  - id: "0b9c7175-36a8-4242-b253-d1865d1933c9"
+    roles:
+      - other
 socials:
+  musicbrainz: "eeee01ef-15b6-4741-9f42-9477c9ee0804"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +45,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  amazon: "B00CHF0SAS"
+  apple: "294914748"
+  deezer: "4690857"
+  qobuz: "1610063"
   spotify: "4pCVGaLWxDe4d8bsjsnmUM"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

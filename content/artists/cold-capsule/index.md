@@ -3,6 +3,7 @@ id: "8443df22-4463-46fd-9db2-566ac67410fb"
 title: "Cold.cApsule"
 type: band
 socials:
+  musicbrainz: "209abc70-8208-440a-9232-1407c521c997"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

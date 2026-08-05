@@ -2,6 +2,7 @@
 id: "e21e8418-f2cb-498f-b894-9686daeef536"
 title: "Cold Culture"
 socials:
+  musicbrainz: "49e1088f-6263-4260-8f36-386934ed4f83"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

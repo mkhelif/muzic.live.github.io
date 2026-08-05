@@ -2,6 +2,7 @@
 id: "9bcac75a-145e-4239-bb7a-255e57d232e4"
 title: "Concrete Winds"
 socials:
+  musicbrainz: "b0f8f945-96df-4b18-84fd-f8dae0aa3eea"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "1509185069"
   deezer: "91979492"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "3EgVbnn78KGifB0CL39kET"
+  tidal: "19204446"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

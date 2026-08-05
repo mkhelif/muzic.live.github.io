@@ -2,6 +2,7 @@
 id: "f16f58b7-bf4b-4e0e-a822-e47b31fac5a3"
 title: "Colin Newman"
 socials:
+  musicbrainz: "7178b24a-4ec0-48bb-b740-deef07deafd8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

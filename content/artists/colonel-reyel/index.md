@@ -2,6 +2,7 @@
 id: "871af523-9815-4114-913b-4b3cbf2a831d"
 title: "Colonel Reyel"
 socials:
+  musicbrainz: "0f23f6cd-6ffc-46dc-8c43-8f9c0d0ddaa7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "367201239"
   deezer: "378392"
   qobuz: ""
-  spotify: ""
+  spotify: "5gNYKVooIJ94WPmhZXbKMz"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---
