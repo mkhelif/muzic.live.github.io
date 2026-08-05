@@ -2,6 +2,7 @@
 id: "2d0025a1-ff53-4d52-bbd4-e3d36d088e55"
 title: "Actus Reus"
 socials:
+  musicbrainz: "1f737449-6e62-47ff-8e06-080ff40f6f1c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,12 +15,14 @@ socials:
   amazon: ""
   apple: "1435815624"
   deezer: "51099882"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "10630040"
+  spotify: "4C4RlxUxFJDNAtJRRyIsBK"
+  tidal: "10320113"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Actus Reus est un groupe de metalcore originaire de Buford, dans la région d'Atlanta en Géorgie. Son nom, qui

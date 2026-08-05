@@ -51,23 +51,27 @@ members:
       - start: 1996
         end: 1997
 socials:
+  musicbrainz: "8b8b33a3-0a11-48b4-8f5a-aaa79f4282a8"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "4256"
+  songkick: "418758"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "125351413"
+  deezer: "7279"
+  qobuz: "4638785"
   spotify: "3n5jeTRWZEbTPJWyHSYUqn"
-  tidal: ""
+  tidal: "30715400"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Acid Bath est un groupe américain de sludge metal fondé en 1991 à Houma, en Louisiane. Actif pendant seulement six ans
