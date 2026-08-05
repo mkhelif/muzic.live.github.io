@@ -3,6 +3,7 @@ id: "eae3c7a3-8c11-46c4-ae3a-e2ff553a5006"
 title: "Pierre de Maere"
 type: person
 socials:
+  musicbrainz: "5e07a62f-c3dd-4a72-b47f-ab64cc78cca1"
   facebook: "pierredemaere"
   instagram: "pierredemaere"
   tiktok: "@pierredemaere"
@@ -11,6 +12,7 @@ socials:
   tidal: "16099726"
   spotify: "13mm5rU1jvWfWG6uQ46ypd"
   bandsintown: "15495425"
+  songkick: "10200584"
   youtube: ""
   web: ""
   email: ""
@@ -18,6 +20,11 @@ socials:
   apple: "1467579626"
   deezer: "67149402"
   qobuz: ""
+lifespan:
+  start: 2001-05-24
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Pierre de Maere est un chanteur belge né à Bruxelles qui a connu une révélation artistique remarquable grâce aux réseaux

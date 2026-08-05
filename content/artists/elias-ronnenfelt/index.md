@@ -20,6 +20,8 @@ socials:
   tidal: "22185530"
 lifespan:
   start: 1992-03-24
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Elias Rønnenfelt est un musicien et poète danois, surtout connu comme chanteur et parolier du groupe post-punk

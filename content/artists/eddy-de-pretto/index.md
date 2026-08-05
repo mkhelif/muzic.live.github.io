@@ -8,6 +8,7 @@ socials:
   instagram: "eddydepretto"
   tiktok: "@eddydepretto"
   bandsintown: "6905528"
+  songkick: "7772384"
   youtube: "@iameddydepretto"
   web: "https://eddydepretto.com/"
   tidal: "7284774"
@@ -20,6 +21,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1993-05-02
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Eddy de Pretto est un chanteur français né en 1993, qui émerge sur la scène musicale hexagonale avec une approche

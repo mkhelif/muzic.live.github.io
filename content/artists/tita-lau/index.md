@@ -2,6 +2,7 @@
 id: "7953b0dc-b3ab-402a-99d1-35f25d7e89fd"
 title: "Tita Lau"
 socials:
+  musicbrainz: "0a17d34d-23b4-4bf7-aa48-d65a6a3814ae"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,13 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "435723159"
   deezer: ""
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "5g93IJMEpfC68NUaeVjr4h"
+  tidal: "4976587"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

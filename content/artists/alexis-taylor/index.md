@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "218072"
+  songkick: "2344664"
   youtube: ""
   web: ""
   email: ""
@@ -23,6 +24,8 @@ todo:
   - Add socials
 lifespan:
   start: 1980-04-20
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Alexis Taylor est un musicien britannique né le 20 avril 1980, figure centrale du groupe londonien **Hot Chip** dont il

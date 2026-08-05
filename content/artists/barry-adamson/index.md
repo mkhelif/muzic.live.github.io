@@ -12,5 +12,8 @@ socials:
   x: ""
   threads: ""
   bandsintown: "63053"
+  songkick: "111852"
   youtube: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

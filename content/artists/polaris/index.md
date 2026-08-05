@@ -43,6 +43,7 @@ members:
       - start: 2013
         end: 2023
 socials:
+  musicbrainz: "6ffb7be4-0a53-4014-853d-83790cd5e091"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -52,8 +53,8 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1258307298"
+  deezer: "14095"
   qobuz: ""
   spotify: "0v2e0oznnTaIXKLGKHphfX"
   tidal: ""
@@ -61,4 +62,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

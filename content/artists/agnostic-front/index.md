@@ -164,6 +164,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "3131"
+  songkick: "125591"
   youtube: ""
   web: ""
   email: ""
@@ -176,6 +177,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Agnostic Front est un groupe américain de hardcore punk fondé en 1980 à New York, pionnier et emblème de la scène New

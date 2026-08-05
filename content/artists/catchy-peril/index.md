@@ -19,6 +19,8 @@ socials:
   web: ""
   email: ""
   qobuz: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 « Je voulais que ce soit fun et accrocheur » — voilà un souhait exaucé pour Benjamin Delair, leader du bien nommé Catchy

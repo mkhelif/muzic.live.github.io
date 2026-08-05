@@ -9,6 +9,7 @@ socials:
   tiktok: "@finnegantui"
   x: "FinneganTui"
   bandsintown: "15168835"
+  songkick: "9821709"
   youtube: "@FinneganTui"
   web: "https://www.finnegantui.com/"
   tidal: "24762452"
@@ -20,6 +21,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 2000-02-08
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Avec sa folk organique, Finnegan Tui s'impose comme l'un des chanteurs guitare-voix les plus captivants du moment.

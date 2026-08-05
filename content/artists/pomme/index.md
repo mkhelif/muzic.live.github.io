@@ -3,20 +3,26 @@ id: "ee55e51d-ba98-4bfb-83a6-7037a5f950c8"
 title: "Pomme"
 type: person
 socials:
+  musicbrainz: "c75b226d-d643-41dc-a2b7-00c0ff8c8e7b"
   instagram: "pommedeparis"
   facebook: ""
   tiktok: ""
   x: ""
   bandsintown: "2011329"
+  songkick: "5076048"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "498198638"
+  deezer: "5382747"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "6320695"
+lifespan:
+  start: 1996-08-02
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Pomme, de son vrai nom **Claire Pommet**, est une autrice-compositrice-interprète française née le 2 août 1996 à

@@ -16,4 +16,6 @@ socials:
   bandsintown: "1958388"
   youtube: "@BlayaOfficial"
   email: "blaya.k@gmail.com"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

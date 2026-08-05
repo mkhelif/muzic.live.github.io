@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "8577186"
+  songkick: "9041804"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "7977730"
 lifespan:
   start: 1994
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Ben Böhmer est un producteur et DJ allemand né en 1993 à Göttingen, figure majeure de la scène melodic house et

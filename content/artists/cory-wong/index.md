@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "2192802"
+  songkick: "2908766"
   youtube: ""
   web: ""
   email: ""
@@ -21,6 +22,8 @@ socials:
 cover: ""
 lifespan:
   start: 1985
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Cory Wong est un guitariste, compositeur et producteur américain né à Poughkeepsie, dans l'État de New York,

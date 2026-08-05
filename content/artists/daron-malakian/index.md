@@ -15,4 +15,6 @@ socials:
   spotify: "2MqLs2L4iNhAUNwJQwjmdm"
 lifespan:
   start: 1975-07-18
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Pond est un groupe de rock psychédélique australien originaire de Perth, en Australie-Occidentale, formé en 2008 par

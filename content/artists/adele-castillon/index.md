@@ -20,6 +20,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 2001-10-24
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Adèle Castillon est une chanteuse, actrice et compositrice française née le 24 août 2001. Cette jeune artiste s'est

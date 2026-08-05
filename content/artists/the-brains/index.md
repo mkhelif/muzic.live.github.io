@@ -3,6 +3,7 @@ id: "38c99a5e-6c1e-4a7e-b9cf-7aa4864e9cc2"
 title: "The Brains"
 type: band
 socials:
+  musicbrainz: "18b92461-4838-4985-88d1-a1d045fe1d97"
   facebook: "TheBrainsMTL"
   instagram: "thebrainsmtl"
   soundcloud: "the-brains-official"
@@ -15,6 +16,8 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "350709"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "42017"
+  songkick: "51806"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "3566173"
 lifespan:
   start: 1971-12-18
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Baxter Dury est un musicien anglais né le 18 décembre 1971 à Wingrave, dans le Buckinghamshire. Fils du légendaire

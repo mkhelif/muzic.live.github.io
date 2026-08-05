@@ -16,5 +16,6 @@ socials:
   qobuz: "197154"
   spotify: "03xb2BUdIFzuRQ6o88yfCB"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

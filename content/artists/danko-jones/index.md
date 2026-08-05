@@ -57,6 +57,7 @@ socials:
   threads: "@danko_jones"
   x: "dankojones"
   bandsintown: "4717"
+  songkick: "535795"
   youtube: "@dankotv"
   web: "https://dankojones.com/"
   email: "info@dankojones.com"
@@ -68,6 +69,8 @@ socials:
   tidal: "24791"
 todo:
   - Add picture
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Il y a des groupes qui construisent leur légende sur des concepts, des pochettes énigmatiques ou des interviews

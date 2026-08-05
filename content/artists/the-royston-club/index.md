@@ -25,6 +25,7 @@ members:
     periods:
       - start: 2019
 socials:
+  musicbrainz: "f97bc6cb-289f-4eaf-aeb5-3488d83b55cd"
   facebook: "theroystonclub"
   instagram: "theroystonclub_"
   tiktok: "@theroystonclub"
@@ -36,7 +37,9 @@ socials:
   spotify: "5N5jf98OOEf3uAIJpi1deD"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1454830357"
   deezer: "60674402"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

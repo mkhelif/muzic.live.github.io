@@ -14,21 +14,25 @@ members:
     periods:
       - start: 1992
 socials:
+  musicbrainz: "1946a82a-f927-40c2-8235-38d64f50d043"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "220274"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B00G71EMO6"
+  apple: "3726283"
   deezer: "81"
-  qobuz: ""
+  qobuz: "38332"
   spotify: "1GhPHrq36VKCY3ucVaZCfo"
-  tidal: ""
+  tidal: "9124"
 todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

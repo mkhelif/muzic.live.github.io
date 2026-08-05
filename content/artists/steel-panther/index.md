@@ -2,20 +2,70 @@
 id: "8241513a-9287-4a78-801b-eec88d1a9625"
 title: "Steel Panther"
 type: band
+members:
+  - id: "b907f09d-4dd0-4151-a2d6-5e3ce0da59b7"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2008
+  - id: "6b0b756a-bbea-4fb7-b5a2-0c4a6225e663"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2008
+  - id: "cdd08993-2e0c-409c-bf0f-20c206036c70"
+    roles:
+      - sing
+      - drums
+      - keys
+    periods:
+      - start: 2008
+  - id: "cbebe21a-aa74-4d01-bba1-f1ed71d6a169"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2022
+      - start: 2022
+  - id: "6450e2c3-6f59-4def-bd5b-3e8e5b5f231f"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2008
+        end: 2021
+  - id: "34dc1b0e-8adc-4da3-905c-3215007e47d3"
+    roles:
+      - drums
+    periods:
+      - start: 2003
+        end: 2003
+  - id: "aad4e737-45c8-4967-88ad-da8369c2ea92"
+    roles:
+      - other
+  - id: "2df87c80-597d-44e3-914a-c16da871fca2"
+    roles:
+      - sing
 socials:
+  musicbrainz: "f82927e4-b905-4e3b-a82e-5184fbb68b29"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "2330488"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "302709189"
   deezer: "288251"
   qobuz: ""
   spotify: "3l02WF362j1oHOurzuseBv"
-  tidal: ""
+  tidal: "3608807"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Steel Panther est un groupe américain de glam metal parodique, originaire de Los Angeles, emmené par le chanteur Michael

@@ -16,6 +16,7 @@ members:
     periods:
       - start: 2008
 socials:
+  musicbrainz: "8d5586b4-74f2-4297-a298-f6fe02986523"
   facebook: "thelastinternationale"
   instagram: "thelastinternationale"
   threads: "@thelastinternationale"
@@ -30,6 +31,8 @@ socials:
   email: "thelastinternationale@gmail.com"
   tiktok: ""
   x: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il y a des groupes qui font de la musique. Il y a des groupes qui font de la musique et de la politique. Et puis il y a

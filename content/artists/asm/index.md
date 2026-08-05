@@ -22,6 +22,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: "3715481"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 ASM — acronyme d'A State of Mind — est un collectif français fondé autour des paroliers et MC Green-T et FP,

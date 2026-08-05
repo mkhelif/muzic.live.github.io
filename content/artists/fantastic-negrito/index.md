@@ -9,6 +9,7 @@ socials:
   tiktok: "@fantasticnegrito"
   x: "MusicNegrito"
   bandsintown: "8266248"
+  songkick: "7525424"
   youtube: "@fantasticnegrito"
   web: "https://www.fantasticnegrito.com"
   tidal: "5788516"
@@ -22,6 +23,8 @@ todo:
   - Add picture from concert
 lifespan:
   start: 1968-01-20
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Il y a des artistes qui font de la musique. Et il y a ceux dont la musique est un acte de survie. Xavier Amin

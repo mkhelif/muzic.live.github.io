@@ -9,18 +9,21 @@ socials:
   threads: ""
   x: ""
   bandsintown: "7716"
+  songkick: "471526"
   youtube: ""
   web: ""
   email: ""
   amazon: "B001SXZ96I"
   apple: "5254483"
   deezer: "1685"
-  qobuz: ""
+  qobuz: "386023"
   spotify: "0AI2um3PpFgOj7Yzmk2Xu0"
   tidal: "3575036"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Dead Meadow est un groupe américain de stoner rock formé en 1998 à Washington D.C., né des cendres de deux

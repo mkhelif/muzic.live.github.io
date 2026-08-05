@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "183619"
+  songkick: "9117239"
   youtube: ""
   web: ""
   email: ""
@@ -18,6 +19,8 @@ socials:
   qobuz: ""
   spotify: "4WnfD0e5J91W7zyHBK6svA"
   tidal: "33073"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Originaire de Chemnitz, en Allemagne, le trio Blond réunit les sœurs Nina et Lotta Kummer ainsi que Johann Bonitz

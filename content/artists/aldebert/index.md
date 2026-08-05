@@ -8,6 +8,7 @@ socials:
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "118636"
   youtube: ""
   web: ""
   email: ""
@@ -19,6 +20,8 @@ socials:
   tidal: "15529"
 lifespan:
   start: 1973-07-07
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Aldebert, de son vrai nom Guillaume Aldebert, est un musicien, compositeur et chanteur français né le 7 juillet 1973 à

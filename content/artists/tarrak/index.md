@@ -3,6 +3,7 @@ id: "354af2ce-b349-44a6-a9ae-882132e68cb8"
 title: "Tarrak"
 type: person
 socials:
+  musicbrainz: "dc0f1289-6477-4721-b527-abc553027c49"
   facebook: "JosefTarrakpetrussen"
   instagram: "joseftarrak"
   tiktok: ""
@@ -16,6 +17,10 @@ socials:
   qobuz: ""
   spotify: "3FTKo3aheAF0aAxbJWyiP8"
   tidal: ""
+lifespan:
+  start: 1998
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Tarrak, de son nom complet Josef Tarrak Petrussen, est un rappeur et producteur de films groenlandais né en 1998

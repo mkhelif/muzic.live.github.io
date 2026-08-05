@@ -19,4 +19,6 @@ socials:
   deezer: "8823932"
   qobuz: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

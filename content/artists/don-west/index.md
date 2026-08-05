@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: "2FjzRd1bgtsmhESettmFAN"
   tidal: "4696918"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Don West est un musicien soul australien originaire de Sydney, dont la voix chaleureuse et l'écriture directement

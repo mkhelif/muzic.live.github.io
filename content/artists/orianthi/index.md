@@ -3,10 +3,12 @@ id: "851a0e6f-2991-412b-90eb-d055a7f87d21"
 title: "Orianthi"
 type: person
 socials:
+  musicbrainz: "15674cab-ca9c-4704-b15f-c601d2f4409b"
   facebook: "Orianthi"
   instagram: "iamorianthi"
   x: "orianthi"
   bandsintown: "20098"
+  songkick: "577118"
   youtube: "@OfficialOrianthi"
   web: "https://www.orianthi.me"
   tidal: "3638303"
@@ -17,6 +19,11 @@ socials:
   apple: "253190707"
   deezer: "81238"
   qobuz: ""
+lifespan:
+  start: 1985-01-22
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Orianthi Panagaris, connue simplement sous le nom d'Orianthi, s'est imposée comme l'une des guitaristes les plus

@@ -21,6 +21,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "110690"
+  songkick: "7345119"
   youtube: ""
   web: ""
   email: ""
@@ -30,6 +31,8 @@ socials:
   qobuz: "8748399"
   spotify: "2933wDUojoQmvqSdTAE5NB"
   tidal: "5474583"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Darkside est un groupe américain basé à New York, formé à Providence, dans le Rhode Island, en 2011 par le musicien

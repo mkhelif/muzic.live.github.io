@@ -3,11 +3,13 @@ id: "397ec926-80f8-45ec-b08d-5f4bb7833c88"
 title: "Noga Erez"
 type: person
 socials:
+  musicbrainz: "06479724-ee7d-471e-a3d4-4554330a0293"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "10344512"
+  songkick: "8829879"
   youtube: ""
   web: ""
   email: ""
@@ -16,7 +18,12 @@ socials:
   deezer: "11226070"
   qobuz: ""
   spotify: "5VwCIS8jdx9ZHjApLFNrTZ"
-  tidal: ""
+  tidal: "8209311"
+lifespan:
+  start: 1989-12-26
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Noga Erez est une artiste israélienne née le 26 décembre 1989 à Tel-Aviv et élevée à partir de six ans dans la ville

@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "224600"
+  songkick: "2362171"
   youtube: ""
   web: ""
   email: ""
@@ -20,4 +21,6 @@ socials:
   tidal: "3576747"
 lifespan:
   start: 1979-05-14
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

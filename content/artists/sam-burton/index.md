@@ -2,6 +2,7 @@
 id: "48e75c94-0bd9-4c79-8835-41e176a2c74b"
 title: "Sam Burton"
 socials:
+  musicbrainz: "c20fd948-fb2b-482d-9582-1fe53f15d546"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,13 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "320859369"
   deezer: "12844217"
   qobuz: ""
-  spotify: ""
+  spotify: "38uF92nRI3YmOAeocf4D6J"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

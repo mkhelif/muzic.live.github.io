@@ -44,6 +44,7 @@ socials:
   tiktok: "@burakaofficial"
   x: ""
   bandsintown: "5197"
+  songkick: "419263"
   youtube: "@BURAKA01"
   bandcamp: "burakasomsistema"
   web: ""
@@ -57,4 +58,6 @@ socials:
 todo:
   - Add description
   - Add picture
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

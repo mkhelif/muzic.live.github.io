@@ -8,6 +8,7 @@ socials:
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "118721"
   youtube: ""
   web: ""
   email: ""
@@ -19,6 +20,8 @@ socials:
   tidal: "3538392"
 lifespan:
   start: 1982-08-22
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Boys Noize est le nom d'artiste d'Alexander Ridha, producteur, compositeur et DJ allemand d'origine irakienne

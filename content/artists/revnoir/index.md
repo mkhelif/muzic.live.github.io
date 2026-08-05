@@ -3,6 +3,7 @@ id: "ba91c87a-3b73-4630-8c8e-f6440bf8e3eb"
 title: "Revnoir"
 type: band
 socials:
+  musicbrainz: "553331a9-fcac-47c0-8299-62cbbca5b521"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,12 +15,14 @@ socials:
   amazon: ""
   apple: "1699841343"
   deezer: "14657475"
-  qobuz: ""
+  qobuz: "19552972"
   spotify: "6Jnxg5O26hXfwfbRSMzVuB"
-  tidal: ""
+  tidal: "41002226"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Revnoir est un groupe français formé à Paris en septembre 2023, après près de deux ans de gestation dans

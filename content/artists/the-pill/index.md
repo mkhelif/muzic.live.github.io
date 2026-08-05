@@ -3,6 +3,7 @@ id: "467ee4b4-0ec9-43d9-a512-66f33864449b"
 title: "The Pill"
 type: band
 socials:
+  musicbrainz: "062bbad8-0854-4bf0-843c-7573f1a59746"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

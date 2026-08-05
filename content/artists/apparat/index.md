@@ -10,6 +10,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "51937"
+  songkick: "396628"
   youtube: ""
   email: ""
   amazon: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "3519747"
 lifespan:
   start: 1978-06-27
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 Apparat est le nom de scène de Sascha Ring, compositeur et producteur électronique allemand né le 27 juin 1978 à Quedlinburg, dans l'ex-RDA. Depuis ses débuts berlinois au tournant des années 2000, il s'est imposé comme l'une des voix les plus personnelles de la musique électronique européenne contemporaine, traçant un chemin singulier entre ambient, électronica, pop et musique orchestrale, toujours guidé par une recherche du beau et de l'émotion vraie.
 

@@ -3,9 +3,11 @@ id: "208bb2a8-7d65-4c91-9286-55b4627682d4"
 title: "Sheila"
 type: person
 socials:
+  musicbrainz: "4188bdf2-7c26-45b4-9b4e-c2cb9d26e38d"
   facebook: "SheilaOfficiel"
   instagram: "sheila_artiste_officiel"
   bandsintown: "105503"
+  songkick: "252432"
   youtube: "@SheilaOfficiel"
   web: "https://www.sheilaofficiel.com/"
   tidal: "8335"
@@ -14,9 +16,13 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "13082233"
+  deezer: "2881"
   qobuz: ""
+lifespan:
+  start: 1945-08-16
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Sheila représente l'une des figures les plus emblématiques de la chanson française et de la variété internationale,

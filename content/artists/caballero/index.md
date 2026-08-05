@@ -7,6 +7,7 @@ socials:
   facebook: "Caballerobxl"
   instagram: "caballerobxl"
   x: "caballerobxl"
+  songkick: "291856"
   youtube: "@caballerojeanjass"
   tidal: "3846706"
   spotify: "5DE0by3fZT0nrlJSutY2D7"
@@ -19,6 +20,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1988-11-22
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Caballero est un rappeur français membre du collectif Double Hélice, originaire de la région parisienne, qui développe

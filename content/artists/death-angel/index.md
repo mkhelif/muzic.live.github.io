@@ -61,6 +61,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "5269"
+  songkick: "321913"
   youtube: ""
   web: ""
   email: ""
@@ -70,6 +71,8 @@ socials:
   qobuz: "551514"
   spotify: "6KVc8Llznru8n9LVCYe9dz"
   tidal: "3554846"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Death Angel est un groupe de thrash metal américain d'origine philippine fondé en 1982 à Daly City,

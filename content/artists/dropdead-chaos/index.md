@@ -18,6 +18,8 @@ socials:
   apple: "1506881925"
   deezer: "90807992"
   qobuz: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Dropdead Chaos est un groupe de metal alternatif français né durant le premier confinement de mars 2020, fruit de la

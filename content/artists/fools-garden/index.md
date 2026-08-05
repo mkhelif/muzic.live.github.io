@@ -56,6 +56,7 @@ socials:
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "341356"
   youtube: ""
   web: ""
   email: ""
@@ -69,4 +70,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

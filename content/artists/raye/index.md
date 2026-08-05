@@ -3,23 +3,29 @@ id: "f5247646-e809-45e8-b7cb-1052412b014b"
 title: "RAYE"
 type: person
 socials:
+  musicbrainz: "8be564c3-dfba-440b-af8c-4ffbceeef45e"
   facebook: "raye"
   instagram: "raye"
   tiktok: "@raye"
   x: "raye"
   snapshat: "@arayeofcolours"
   bandsintown: "13886765"
+  songkick: "7177119"
   youtube: "@RAYEofficial"
   web: "https://rayeofficial.com/"
   tidal: "7779063"
   spotify: "5KKpBU5eC2tJDzf0wmlRp2"
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "261686"
+  deezer: "805948"
+  qobuz: "17487"
 todo:
   - Add picture from concert
+lifespan:
+  start: 1997-10-24
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 RAYE, de son vrai nom Rachel Agatha Keen, est une chanteuse, auteure-compositrice et productrice britannique née le 24

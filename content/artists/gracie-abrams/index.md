@@ -9,6 +9,7 @@ socials:
   x: "gracieabrams"
   tiktok: ""
   bandsintown: "15467681"
+  songkick: "10119070"
   youtube: ""
   web: ""
   email: ""
@@ -24,6 +25,8 @@ todo:
   - Add discography
 lifespan:
   start: 1999-09-07
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Gracie Madigan Abrams, née le 7 septembre 1999 à Los Angeles, est une autrice-compositrice-interprète américaine.

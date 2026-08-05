@@ -20,6 +20,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 El Gato Negro est un projet musical français qui émerge sur la scène alternative hexagonale avec une approche

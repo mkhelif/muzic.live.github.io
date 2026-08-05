@@ -10,6 +10,7 @@ socials:
   bandcamp: "annavonhausswolff"
   soundcloud: "nnavonausswolff"
   bandsintown: "943376"
+  songkick: "2795241"
   youtube: "AnnavonHausswolff"
   web: "https://www.annavonhausswolff.com/"
   tidal: "3664307"
@@ -22,6 +23,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1986-09-06
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Anna von Hausswolff est une artiste suédoise née le 6 septembre 1986 à Göteborg, figure incontournable de la scène

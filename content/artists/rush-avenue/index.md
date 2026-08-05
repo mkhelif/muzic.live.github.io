@@ -3,6 +3,7 @@ id: "51b85277-8ecc-4a7e-88f9-df7b69f0bb0a"
 title: "RUSH AVENUE"
 type: unknown
 socials:
+  musicbrainz: "2bf93eee-7588-4b61-99ac-ea1fef075af3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,7 +17,9 @@ socials:
   deezer: "237500051"
   qobuz: ""
   spotify: "0BuZtV1vrh5miIrx1ZPgFP"
-  tidal: ""
+  tidal: "43007797"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 RUSH AVENUE est un duo français de DJs et producteurs spécialisé dans l'afro house et la tribal house.

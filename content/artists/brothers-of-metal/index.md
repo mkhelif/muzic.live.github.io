@@ -51,6 +51,7 @@ socials:
   threads: "@brothersofmetalofficial"
   soundcloud: "brothersofmetal"
   bandsintown: "1666918"
+  songkick: "9863864"
   youtube: "@BrothersofMetalOfficial"
   web: "https://www.brothersofmetal.net/"
   tidal: "8070914"
@@ -62,6 +63,8 @@ socials:
   apple: "1145316099"
   deezer: "10887490"
   qobuz: "3894420"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Quelque part dans les forêts enneigées de Dalécarlie, au cœur de la Suède profonde, huit guerriers ont fait le serment

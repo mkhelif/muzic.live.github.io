@@ -5,7 +5,7 @@ type: person
 socials:
   musicbrainz: "d1b05469-8012-4030-b47f-f5653d624ca9"
   facebook: ""
-  instagram: ""
+  instagram: "jonathannoyce"
   tiktok: ""
   x: ""
   youtube: ""
@@ -18,11 +18,11 @@ socials:
   spotify: ""
   tidal: ""
 todo:
-  - Add picture
   - Add socials
   - Add description
 lifespan:
   start: 1971-07-15
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

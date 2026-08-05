@@ -72,11 +72,13 @@ members:
       - start: 1995
         end: 1999
 socials:
+  musicbrainz: "ac15222f-fb8a-4d2b-b4da-bde1c19f0a9f"
   facebook: "savatage"
   instagram: "thisissavatage"
   tiktok: "@thisissavatage"
   threads: "@thisissavatage"
   bandsintown: "36428"
+  songkick: "240806"
   youtube: "@thisissavatage"
   web: "https://www.savatage.com/"
   amazon: "B000RHS2SS"
@@ -87,6 +89,8 @@ socials:
   tidal: "3664829"
   x: ""
   email: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Certains groupes naissent d'une rencontre. Savatage, lui, naît d'un sang partagé — celui de deux frères de Floride qui

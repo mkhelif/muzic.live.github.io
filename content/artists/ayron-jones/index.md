@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: "1iEaqWaYpKo9x0OrEq7Q7z"
   tidal: "7590797"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Ayron Jones est un guitariste, chanteur et compositeur américain né le 23 août 1986 à

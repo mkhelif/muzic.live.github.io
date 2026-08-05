@@ -12,6 +12,7 @@ socials:
   instagram: "tobiassammetofficial"
   x: "_avantasia"
   bandsintown: "50615"
+  songkick: "216245"
   youtube: "@avantasiaofficial"
   amazon: "B0025PEDX8"
   apple: "72260874"
@@ -22,6 +23,8 @@ socials:
   web: "https://avantasia.com/"
   tiktok: ""
   email: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Rares sont les projets musicaux nés d'une intuition solitaire sur une route de tournée qui finissent par remplir le

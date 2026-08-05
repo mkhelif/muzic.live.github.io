@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "12049041"
+  songkick: "10148416"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "7473244"
 lifespan:
   start: 1993-04-10
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Barbara Piévic, connue sous le nom de Barbara Pravi, est une chanteuse,

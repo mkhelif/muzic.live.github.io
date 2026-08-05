@@ -3,6 +3,7 @@ id: "01dd23b4-b121-4c88-acdc-4aae99c70ef5"
 title: "The White Rattlesnake"
 type: band
 socials:
+  musicbrainz: "c967d463-5ef9-4e35-971c-bd291dfd5f4b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -2,6 +2,13 @@
 id: "490a8dfa-4d61-40a8-83a6-66e56df9b907"
 title: "A-Beat Friends"
 type: band
+members:
+  - id: "fe11fca2-0746-4f0b-b839-b7d1424fd093"
+    roles:
+      - guitar
+    periods:
+      - start: 1997
+        end: 1997
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +25,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "b3f52c32-e291-466c-970f-12de561460b9"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

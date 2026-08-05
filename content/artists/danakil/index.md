@@ -60,6 +60,7 @@ socials:
   instagram: "danakilofficiel"
   tiktok: "@danakilofficiel"
   bandsintown: "279294"
+  songkick: "540568"
   youtube: "@Danakil"
   web: "http://www.danakil.fr"
   tidal: "4505277"
@@ -70,6 +71,8 @@ socials:
   apple: "269898376"
   deezer: "58707"
   qobuz: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Danakil est un groupe de reggae français formé à Paris en 2000, né de la passion de ses membres pour la culture rasta et

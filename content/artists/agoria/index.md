@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "49193"
+  songkick: "312972"
   youtube: ""
   web: ""
   email: ""
@@ -23,6 +24,8 @@ todo:
   - Add socials
 lifespan:
   start: 1976-01-16
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Agoria est le nom de scène de Sébastien Devaud, DJ et producteur électronique français né le 16 janvier 1976 à Lyon et

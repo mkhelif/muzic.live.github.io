@@ -5,9 +5,10 @@ type: person
 socials:
   musicbrainz: "69751b2d-bfa1-47e7-8b54-df54907fbfc9"
   facebook: ""
-  instagram: ""
+  instagram: "itsdavepen"
   tiktok: ""
   x: ""
+  bandcamp: "davepen"
   bandsintown: "1104052"
   youtube: ""
   web: ""
@@ -22,4 +23,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

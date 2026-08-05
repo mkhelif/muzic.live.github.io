@@ -3,6 +3,7 @@ id: "3973bcca-28e6-4ae5-8539-6c7064de749d"
 title: "Quavo"
 type: person
 socials:
+  musicbrainz: "6143403a-df6c-429e-8ee6-ef869896b0da"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,10 +14,14 @@ socials:
   email: ""
   amazon: ""
   apple: "673556643"
-  deezer: ""
+  deezer: "5059044"
   qobuz: ""
   spotify: "0VRj0yCOv2FXJNP47XQnx5"
-  tidal: ""
+  tidal: "5906497"
+lifespan:
+  start: 1991-04-02
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Quavious Keyate Marshall, alias Quavo, est un rappeur et producteur américain né le 2 avril 1991 à Athens, en Géorgie,

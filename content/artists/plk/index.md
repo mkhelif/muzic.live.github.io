@@ -3,6 +3,7 @@ id: "f9aa7bef-337e-4606-ab14-ea3302bf5fce"
 title: "PLK"
 type: person
 socials:
+  musicbrainz: "55304866-1b79-4365-a6b1-961c95e9fc57"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,14 +13,18 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "316583534"
+  deezer: "1479842"
   qobuz: ""
   spotify: "3DCWeG2J1fZeu0Oe6i5Q6m"
-  tidal: ""
+  tidal: "4767261"
 todo:
   - Add cover
   - Add socials
+lifespan:
+  start: 1997-04-15
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 PLK, de son vrai nom Mathieu Claude Daniel Pruski, est un rappeur français né le 15 avril 1997, d'origine polonaise et

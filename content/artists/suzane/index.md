@@ -3,20 +3,26 @@ id: "e31f0522-4825-4f7c-a958-1378af3d6883"
 title: "Suzane"
 type: person
 socials:
+  musicbrainz: "d0fd9aec-0483-46ef-8126-4fcbb7dc5ab0"
   facebook: "suzanemusique"
   instagram: "suzanemusique"
   tiktok: "@suzanemusique"
   threads: "@suzanemusique"
   x: ""
+  songkick: "9685804"
   youtube: "@Suzanemusique"
   web: "https://suzane.store/"
   email: "suzanemgmt@gmail.com"
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "341596319"
+  deezer: "2090121"
   qobuz: ""
   spotify: "00CTomLgA78xvwEwL0woWx"
-  tidal: ""
+  tidal: "9668922"
+lifespan:
+  start: 1990-12-29
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Suzane, de son vrai nom **Océane Colom**, est une chanteuse et autrice-compositrice française née le 29

@@ -17,6 +17,8 @@ socials:
   tidal: "35867573"
   facebook: ""
   email: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Anaïs MVA est une autrice-compositrice-interprète française révélée par une pop introspective et bouleversante de

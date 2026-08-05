@@ -53,21 +53,25 @@ members:
       - start: 2003
         end: 2009
 socials:
+  musicbrainz: "8ac9e35c-e92d-4030-99ef-ba4127b1555c"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "496907"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B000QJP8OS"
+  apple: "161690"
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "7JDSHlDdVTo7aZKdQZ53Vf"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

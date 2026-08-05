@@ -9,6 +9,7 @@ socials:
   tiktok: "@curtishardingmusic"
   x: "Curtis_Harding"
   bandsintown: "8030961"
+  songkick: "7160554"
   youtube: "@curtishardingofficial"
   web: "https://curtisharding.com/"
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "5430289"
 lifespan:
   start: 1979-06-11
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Curtis Harding est un chanteur et musicien soul américain né le 11 juin 1979 à Saginaw, dans le Michigan, avant que sa

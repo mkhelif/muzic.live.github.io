@@ -2,6 +2,10 @@
 id: "aa21514e-304d-4c10-b500-78772573a864"
 title: "Anderlecht"
 type: band
+members:
+  - id: "ecab4254-b4c9-4697-9398-81181ef227d3"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "b0300dcd-f75a-484e-bdd3-7c6784fef8e3"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

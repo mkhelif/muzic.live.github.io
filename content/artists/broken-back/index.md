@@ -22,6 +22,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1990-08-10
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Broken Back est le projet solo de Jérôme Fagnet, musicien français qui émerge sur la scène indie-pop hexagonale avec une

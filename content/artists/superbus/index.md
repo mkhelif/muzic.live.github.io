@@ -50,10 +50,12 @@ members:
       - start: 2000
         end: 2000
 socials:
+  musicbrainz: "2be7b462-382f-4dd4-a635-99c4801dcd39"
   facebook: "superbusofficiel"
   instagram: "superbus__"
   tiktok: "@superbus__"
   x: "superbus__"
+  songkick: "21129"
   youtube: "@Superbus__"
   web: "https://superbus.fr/"
   tidal: "3672711"
@@ -63,6 +65,8 @@ socials:
   apple: ""
   deezer: "1024"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Superbus est un groupe de rock-pop français formé en 1999 par **Jennifer Ayache**, qui en devient la chanteuse principale et

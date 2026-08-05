@@ -22,6 +22,7 @@ socials:
   x: "Blasterjaxx"
   soundcloud: "blasterjaxx"
   bandsintown: "1473923"
+  songkick: "5107583"
   youtube: "@Blasterjaxx"
   tidal: "4538567"
   spotify: "37awA8DFCAnCCL7aqYbDnD"
@@ -31,6 +32,8 @@ socials:
   apple: "390612080"
   deezer: "789285"
   qobuz: "533474"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Blasterjaxx est un duo de DJ/producteurs néerlandais composé de **Thom Jongkind** et **Idir Makhlaf**, formé en 2010

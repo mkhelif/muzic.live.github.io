@@ -3,6 +3,7 @@ id: "155c93a8-0b66-44f1-9322-88ca9e52a44d"
 title: "Toby Lee"
 type: person
 socials:
+  musicbrainz: "57c9708f-21d8-4a9b-bc01-b3af1244b1c7"
   facebook: "tobyleeguitar"
   instagram: "tobyleeguitar"
   x: "tobyleeguitar"
@@ -17,6 +18,10 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lifespan:
+  start: 2005-01-31
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Toby Lee naît le 27 janvier 2005 en Grande-Bretagne et découvre la guitare à l'âge de huit ans, développant

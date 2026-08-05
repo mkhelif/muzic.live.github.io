@@ -20,6 +20,8 @@ socials:
   tidal: ""
 lifespan:
   start: 1997-01-17
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Camille Yembe est une chanteuse et auteure-compositrice belgo-congolaise née en 1997 à Molenbeek-Saint-Jean, dans la

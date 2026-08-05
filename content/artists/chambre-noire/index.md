@@ -16,10 +16,12 @@ socials:
   apple: "1608815212"
   deezer: "222632605"
   qobuz: "13802922"
-  spotify: ""
+  spotify: "4dspptVuyilRDA79hZ1yL2"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

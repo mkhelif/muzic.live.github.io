@@ -22,6 +22,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1985
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Cléa Vincent est une chanteuse française qui émerge sur la scène pop hexagonale avec une approche moderne et

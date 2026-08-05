@@ -2,24 +2,28 @@
 id: "334bbfe0-a677-4e7c-bf20-2df2013bc8fa"
 title: "Orleans"
 socials:
+  musicbrainz: "5049ad6c-5ca0-46cb-9416-4567597be83f"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
   bandsintown: "46396"
+  songkick: "1922337"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  amazon: "B000QJO2S6"
+  apple: "160237"
+  deezer: "66028"
+  qobuz: "333726"
+  spotify: "1667U2YoucgG5Pdvm2M59c"
+  tidal: "13379"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Orleans est un groupe de soft rock américain fondé en janvier 1972 à Woodstock, dans l'État de New

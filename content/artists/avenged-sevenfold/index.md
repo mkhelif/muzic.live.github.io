@@ -74,6 +74,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "42"
+  songkick: "425252"
   youtube: ""
   web: ""
   email: ""
@@ -86,6 +87,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Avenged Sevenfold est un groupe de rock américain originaire de Huntington Beach, en Californie, formé en 1999 par des

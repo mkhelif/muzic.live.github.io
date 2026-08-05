@@ -3,6 +3,7 @@ id: "aa6ddfa7-86f9-4f7b-9307-f978aa2dc281"
 title: "Supermodel"
 type: person
 socials:
+  musicbrainz: "92612cbb-4b7a-4e7f-b816-316aba404bc6"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 supermodel* est le projet solo du producteur et musicien Frankie Beanie, originaire de Virginie et aujourd'hui

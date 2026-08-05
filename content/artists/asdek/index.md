@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: "2rxubOde1svVDYAVDy7PDS"
   tidal: "4027313"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Asdek est un producteur et DJ français dont le projet musical prend forme à Montpellier en 2012. Depuis lors,

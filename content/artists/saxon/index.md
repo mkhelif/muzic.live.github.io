@@ -88,20 +88,24 @@ members:
       - start: 2004
         end: 2005
 socials:
+  musicbrainz: "bbd80354-597e-4d53-94e4-92b3a7cb8f2c"
   facebook: "SaxonOfficial"
   instagram: "saxon.official"
   x: "SaxonOfficial"
   bandsintown: "30806"
+  songkick: "239328"
   youtube: "@PlanetSaxon"
   web: "https://www.saxon747.com"
   tidal: "10370"
   spotify: "71vVmHeNgCVSa5SVmfvscU"
   tiktok: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
+  amazon: "B001DTD5PO"
+  apple: "3632744"
+  deezer: "8552"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Saxon incarne l'essence de la New Wave of British Heavy Metal (NWOBHM), ce mouvement qui, à la fin des années 1970, a

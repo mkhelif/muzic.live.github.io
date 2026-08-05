@@ -3,6 +3,7 @@ id: "55f62ae6-f2aa-4e82-ac11-76ec9948edee"
 title: "Orelsan"
 type: person
 socials:
+  musicbrainz: "6cad3ce5-6380-4594-a8da-ae7d273b683d"
   facebook: "orelsan"
   instagram: "orelsan"
   tiktok: "@orelsan"
@@ -15,8 +16,13 @@ socials:
   email: ""
   amazon: ""
   apple: "293423557"
-  deezer: ""
+  deezer: "259467"
   qobuz: ""
+lifespan:
+  start: 1982-08-01
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il a longtemps joué le rôle du type normal dépassé par le monde — le procrastinateur ironique, le gamer insomniaque, le

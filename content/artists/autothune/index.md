@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Dignes représentants de l’esprit du Nord d’où ils sont originaires à travers leurs accoutrements qui ne feraient pas

@@ -16,6 +16,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Grandmaster Flash and the Furious Five est un groupe américain de hip-hop formé dans le South Bronx, à New York, en

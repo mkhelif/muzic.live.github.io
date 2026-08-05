@@ -2,6 +2,7 @@
 id: "55be3ff1-fbbe-48e0-aa59-8fb85031b612"
 title: "Sofiane"
 socials:
+  musicbrainz: "68c0d5e5-c550-4232-b6b0-8eb35404fe16"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,13 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "160331273"
   deezer: ""
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "6qFt3TjvxMt77YGsktWG8Z"
+  tidal: "10762"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

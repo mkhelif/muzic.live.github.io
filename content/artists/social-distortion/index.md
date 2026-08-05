@@ -78,6 +78,7 @@ members:
       - start: 2000
         end: 2009
 socials:
+  musicbrainz: "e1e05cce-3922-44e1-8f20-015abe5e309d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -87,13 +88,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "543473"
   deezer: "2129"
   qobuz: ""
   spotify: "16nn7kCHPWIB6uK09GQCNI"
-  tidal: ""
+  tidal: "6236"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

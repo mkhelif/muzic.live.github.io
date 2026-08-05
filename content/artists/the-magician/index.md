@@ -2,6 +2,7 @@
 id: "67dc9934-bc71-4de3-930d-c1f83a201f4b"
 title: "The Magician"
 socials:
+  musicbrainz: "075b86e3-6045-4a49-a1c8-a0b81c1a9dc0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,14 +12,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "129960661"
   deezer: ""
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "4096846"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Stephen Fasano, plus connu sous le nom de scène The Magician, est un DJ et producteur belge originaire de Namur.

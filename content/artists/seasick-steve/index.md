@@ -3,6 +3,7 @@ id: "8a768de7-6d03-4526-be59-59a7ed18e834"
 title: "Seasick Steve"
 type: person
 socials:
+  musicbrainz: "231ff972-4e8e-4157-95e2-12f963cb478c"
   facebook: "seasicksteve"
   instagram: "seasickstevemusic"
   x: "seasicksteve"
@@ -18,6 +19,10 @@ socials:
   apple: ""
   deezer: "133271"
   qobuz: ""
+lifespan:
+  start: 1941
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Seasick Steve, de son vrai nom Steven Gene Wold, est un musicien américain né dans l'Ohio, qui développe son approche

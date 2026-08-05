@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "15262247"
+  songkick: "625335"
   youtube: ""
   web: ""
   email: ""
@@ -23,6 +24,8 @@ todo:
   - Verify and add socials
 lifespan:
   start: 1989-09-22
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Cœur de Pirate est le nom de scène de Béatrice Martin, autrice-compositrice-interprète

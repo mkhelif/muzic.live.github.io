@@ -3,19 +3,25 @@ id: "fbd0a98b-8365-4916-b7c4-e2e46fe47f79"
 title: "Trombone Shorty"
 type: person
 socials:
+  musicbrainz: "cae4fd51-4d58-4d48-92c1-6198cc2e45ed"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "579055"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "258779315"
   deezer: "387412"
   qobuz: ""
   spotify: "37ZvFp654tY74Z1D2TLOGR"
-  tidal: ""
+  tidal: "3703210"
+lifespan:
+  start: 1986-01-02
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Troy Andrews, dit Trombone Shorty, est un musicien et tromboniste américain né le 2 janvier 1986 dans le quartier de

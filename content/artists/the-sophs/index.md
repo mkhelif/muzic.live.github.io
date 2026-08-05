@@ -34,6 +34,7 @@ members:
     periods:
       - start: 2023
 socials:
+  musicbrainz: "c564ca3a-cf3b-4192-807e-b3a46c26cc5e"
   facebook: ""
   instagram: "sophsesque"
   tiktok: "@sophsesque"
@@ -43,9 +44,11 @@ socials:
   web: "https://thesophs.com/"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1807775480"
   deezer: "320355391"
   qobuz: ""
   spotify: "2zX0ROHqU3TEfFtKBtqOAE"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -15,11 +15,13 @@ members:
     periods:
       - start: 2001
 socials:
+  musicbrainz: "d15721d8-56b4-453d-b506-fc915b14cba2"
   facebook: "TheBlackKeys"
   instagram: "theblackkeys"
   tiktok: "@theblackkeys"
   x: "theblackkeys"
   bandsintown: "955"
+  songkick: "108359"
   youtube: "@theblackkeys"
   web: "https://theblackkeys.com/"
   amazon: "B0025NCDR8"
@@ -31,6 +33,8 @@ socials:
   email: ""
 todo:
   - Add picture
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il y a dans l'histoire des Black Keys quelque chose qui ressemble à une fable américaine — mais sans la partie facile.

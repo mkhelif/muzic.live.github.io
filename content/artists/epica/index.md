@@ -65,6 +65,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "33162"
+  songkick: "149536"
   youtube: ""
   web: ""
   email: ""
@@ -77,6 +78,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Formé en 2002 aux Pays-Bas par le guitariste **Mark Jansen**, ancien membre du groupe After Forever, Epica s'impose

@@ -3,6 +3,7 @@ id: "0ea8520b-371e-4eda-b1ed-243e366d24a1"
 title: "Sam Sauvage"
 type: person
 socials:
+  musicbrainz: "53ceabc4-9e4c-4dd2-b067-c212e9f70062"
   facebook: "SamSauvageOff"
   instagram: "samsauvageoff"
   tiktok: ""
@@ -12,11 +13,15 @@ socials:
   web: ""
   email: "contact@samsauvage.fr"
   amazon: ""
-  apple: ""
+  apple: "1677200145"
   deezer: "101969182"
   qobuz: ""
   spotify: "1tlWl5ltF7CudnGGjF96KL"
-  tidal: ""
+  tidal: "20594314"
+lifespan:
+  start: 2000-04-25
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Sam Sauvage, de son vrai nom Hugo Brebion, est un auteur-compositeur-interprète français né le 25 avril

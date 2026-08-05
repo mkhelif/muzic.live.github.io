@@ -3,6 +3,7 @@ id: "26a6688c-4bca-4034-ac00-0cbdbc8a3040"
 title: "Roxane"
 type: person
 socials:
+  musicbrainz: "881861f8-0d54-4b5d-9dec-d0602717de71"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,10 @@ socials:
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1979-03-05
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Roxane Ischi, connue sous le nom de Roxane, est une auteure-compositrice-interprète suisse basée à Genève, formée à

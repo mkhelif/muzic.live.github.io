@@ -12,4 +12,6 @@ socials:
   threads: ""
   youtube: ""
   spotify: "6VaynR6YaIKy3mS57FAmKK"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

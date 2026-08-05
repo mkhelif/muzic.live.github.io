@@ -36,6 +36,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Aerial Salad est un trio punk de Manchester, formé en 2016, qui s'est rapidement imposé comme l'une des formations les

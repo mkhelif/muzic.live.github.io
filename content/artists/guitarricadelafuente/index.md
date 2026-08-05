@@ -23,6 +23,8 @@ todo:
   - Add socials
 lifespan:
   start: 1997-08-27
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Guitarricadelafuente, de son vrai nom Álvaro Lafuente Calvo, est un auteur-compositeur, guitariste et chanteur espagnol

@@ -3,6 +3,7 @@ id: "c84f196f-4c02-44cc-9b88-a1f5d8d74bb0"
 title: "Samara Joy"
 type: person
 socials:
+  musicbrainz: "bf9bd7ab-57f1-426e-bf4f-2da6103b9c17"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,14 +13,18 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1538636625"
   deezer: "112224542"
   qobuz: ""
   spotify: "5LkbTSqXfMBjFSGi9LOGjq"
-  tidal: ""
+  tidal: "22031303"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1999-11-11
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Samara Joy, de son nom complet Samara Joy McLendon, est une chanteuse de jazz américaine née le 11 novembre 1999 dans le

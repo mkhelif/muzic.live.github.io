@@ -3,6 +3,7 @@ id: "e9703786-3553-4925-8b0c-9b8c5401d445"
 title: "Sam Quealy"
 type: person
 socials:
+  musicbrainz: "f6c94a77-1c13-4ef0-880a-ff9264e5070c"
   facebook: "profile.php?id=100069181204638"
   instagram: "samquealy"
   tiktok: "@samquealy"
@@ -17,6 +18,8 @@ socials:
   qobuz: ""
   spotify: "0GLGeVG3XTA2KmlmAd05T8"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Sam Quealy est une artiste née à Sydney, en Australie, aujourd'hui installée à Paris, dont le parcours atypique mêle

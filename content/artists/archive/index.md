@@ -94,6 +94,7 @@ socials:
   spotify: "1Q776wzj2mrtXrNu3iH6nk"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

@@ -3,20 +3,27 @@ id: "70c4d59d-8313-47fb-9e58-9cf6f9fc56f6"
 title: "Paul Kalkbrenner"
 type: person
 socials:
+  musicbrainz: "a5f92d47-b562-4582-b267-71963a515f4c"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "59541"
+  songkick: "525648"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "49254184"
   deezer: "6377"
-  qobuz: ""
+  qobuz: "182335"
   spotify: "0rasA5Z5h1ITtHelCpfu9R"
-  tidal: ""
+  tidal: "3580646"
+lifespan:
+  start: 1977-06-12
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Paul Kalkbrenner est un musicien et producteur électronique allemand, figure incontournable de la scène techno de

@@ -56,6 +56,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Dying Wish est un groupe américain de metalcore originaire de Portland, dans l'Oregon, formé en 2016 sous le nom

@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "861490"
+  songkick: "2859201"
   youtube: ""
   web: ""
   email: ""
@@ -23,6 +24,8 @@ todo:
   - Add socials
 lifespan:
   start: 1972-10-13
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Gaëtan Roussel, né le 13 octobre 1972 à Rodez, est un auteur-compositeur-interprète et guitariste français, connu comme

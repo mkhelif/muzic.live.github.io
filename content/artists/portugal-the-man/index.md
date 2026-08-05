@@ -36,12 +36,14 @@ members:
       - start: 2005
         end: 2008
 socials:
+  musicbrainz: "3599a39e-4e10-4cb5-90d4-c8a015ebc73b"
   facebook: "portugaltheman"
   instagram: "portugaltheman"
   tiktok: "@portugaltheman"
   x: "portugaltheman"
   threads: "@portugaltheman"
   bandsintown: "1650"
+  songkick: "400418"
   youtube: "@Portugal.TheMan"
   soundcloud: "portugaltheman"
   web: "https://portugaltheman.com/"
@@ -50,10 +52,12 @@ socials:
   email: ""
   amazon: ""
   apple: "167649475"
-  deezer: ""
-  qobuz: ""
+  deezer: "181878"
+  qobuz: "596410"
 todo:
   - Update cover with concert picture
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il y a quelque chose d'ironique dans le fait que l'un des groupes les plus inclassables de la scène indépendante

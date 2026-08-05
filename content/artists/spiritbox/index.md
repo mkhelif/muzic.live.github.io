@@ -38,19 +38,23 @@ members:
       - start: 2018
         end: 2020
 socials:
+  musicbrainz: "9c935736-7530-41e4-b776-1dbcf534c061"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "9360914"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  amazon: "B0764DNTSL"
+  apple: "1293047384"
+  deezer: "13321745"
+  qobuz: "6006722"
   spotify: "4MzJMcHQBl9SIYSjwWn8QW"
-  tidal: ""
+  tidal: "9163057"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Spiritbox est un groupe de metal canadien formé en 2017 par la chanteuse **Courtney LaPlante** et le guitariste **Mike Stringer**, qui se marient et fondent le projet après une expérience commune au sein d'un autre groupe.

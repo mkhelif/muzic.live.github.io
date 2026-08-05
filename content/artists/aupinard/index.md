@@ -20,6 +20,8 @@ socials:
   tidal: "29389777"
 todo:
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Aupinard est le nom de scène de Frédéric Yoan Opina, auteur-compositeur-interprète français d'origine congolaise né

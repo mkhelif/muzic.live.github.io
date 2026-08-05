@@ -3,6 +3,7 @@ id: "529ea8ff-56b9-4244-8d7c-3820f4616499"
 title: "Tutti Fenomeni"
 type: person
 socials:
+  musicbrainz: "ec938ff8-9bca-4329-a759-4e278c04ab34"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

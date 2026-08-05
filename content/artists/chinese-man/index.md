@@ -26,6 +26,7 @@ socials:
   x: "ChineseManMusic"
   soundcloud: "chineseman"
   bandsintown: "221418"
+  songkick: "2444006"
   youtube: "@chinesemanrec"
   web: "https://www.chinesemanrecords.com/chineseman/"
   spotify: "6vgw0jwJkUnW2NR1rzsQU3"
@@ -35,6 +36,8 @@ socials:
   deezer: "58801"
   qobuz: ""
   tidal: "3599751"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 ###### Genèse et formation

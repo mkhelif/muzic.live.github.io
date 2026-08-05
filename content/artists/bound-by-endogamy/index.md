@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "3EHQq2ADLHIwTa0mqiD1kx"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Bound by Endogamy est un duo genevois formé en 2019 par Shlomo Balexert et Kleio Thomaïdes, deux figures

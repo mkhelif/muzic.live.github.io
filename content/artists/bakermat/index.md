@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "3149174"
+  songkick: "5854694"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "4781900"
 lifespan:
   start: 1991-10-08
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Bakermat, de son vrai nom Lodewijk Fluttert, est un DJ et producteur néerlandais né le 8 octobre 1991 à Markelo,

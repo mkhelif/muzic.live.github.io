@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "15624565"
+  songkick: "60236"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "3698242"
 lifespan:
   start: 1976-08-20
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 Anaïs Croze est une chanteuse, auteure et compositrice française dont la trajectoire singulière — du groupe indépendant aux scènes nationales, du one-woman-show décalé au rock folk affiné — illustre une liberté artistique rare et une personnalité marquante dans le paysage de la chanson hexagonale.
 

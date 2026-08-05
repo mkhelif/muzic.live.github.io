@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: "2LZ44MLhhXG2SlHhWUOGXg"
   tidal: "8440096"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Alexia Gredy est une chanteuse et compositrice française originaire de Mulhouse, en Alsace, qui s'est imposée comme

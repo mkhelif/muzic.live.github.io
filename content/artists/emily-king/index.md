@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "16067"
+  songkick: "195027"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "5352308"
 lifespan:
   start: 1985-07-10
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Emily King, née Emily Cowings le 10 juillet 1985 à New York, est une chanteuse et autrice-compositrice américaine

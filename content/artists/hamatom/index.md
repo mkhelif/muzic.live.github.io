@@ -28,6 +28,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "350484"
+  songkick: "2789331"
   youtube: ""
   web: ""
   email: ""
@@ -40,6 +41,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Hämatom est un groupe allemand de metal fondé en 2004 à Speichersdorf, en Haute-Franconie, figure de

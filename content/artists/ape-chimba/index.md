@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Ape Chimba est un musicien, chanteur, compositeur et producteur multi-instrumentiste dont la musique constitue un

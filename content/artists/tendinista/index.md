@@ -18,6 +18,8 @@ socials:
   apple: ""
   deezer: "59355922"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Tendinista est un groupe originaire de Nyon, en Suisse, réunissant Rod Haener, Mathieu Karcher, Laurent Nicolas

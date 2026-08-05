@@ -20,10 +20,12 @@ members:
     periods:
       - start: 2007
 socials:
+  musicbrainz: "6f1de078-6684-4792-820d-2ffad64c15ed"
   facebook: "twodoorcinemaclub"
   instagram: "twodoorcinemaclub"
   x: "TDCinemaClub"
   bandsintown: "212526"
+  songkick: "804901"
   youtube: "@twodoorcinemaclub"
   web: "https://twodoorcinemaclub.com"
   amazon: "B0025SSHQO"
@@ -34,6 +36,8 @@ socials:
   qobuz: "69600"
   tiktok: ""
   email: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Two Door Cinema Club est un trio indie rock originaire de Bangor et Donaghadee, en Irlande du Nord, formé en 2007 par

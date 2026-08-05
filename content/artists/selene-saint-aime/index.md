@@ -3,6 +3,7 @@ id: "8296eb2d-80d4-4a7d-bf21-a7b17661b452"
 title: "Sélène Saint-Aimé"
 type: person
 socials:
+  musicbrainz: "68a9b7f7-be69-4b70-bee1-77c18595330a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,11 +12,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1524455968"
   deezer: "101523102"
   qobuz: ""
-  spotify: ""
+  spotify: "5kWK4UGTuzfbsWpOdGnEzs"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Sélène Saint-Aimé est une contrebassiste et chanteuse de jazz française qui se définit elle-même comme «

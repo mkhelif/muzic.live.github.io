@@ -14,6 +14,7 @@ members:
     periods:
       - start: 2013
 socials:
+  musicbrainz: "9b864be6-8c43-4867-9091-b54bbc6a80fd"
   facebook: "sorgandnapoleonmaddox"
   instagram: "sorgmusic"
   threads: "@sorgmusic"
@@ -31,4 +32,6 @@ socials:
   apple: ""
   deezer: "5612863"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

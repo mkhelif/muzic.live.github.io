@@ -42,6 +42,7 @@ members:
     periods:
       - start: 2021
 socials:
+  musicbrainz: "51e3a04e-9bf5-4efc-a4ea-72de4a9f0803"
   facebook: "shaarghot"
   instagram: "shaarghot_official"
   tiktok: "@shaarghot_official"
@@ -57,6 +58,8 @@ socials:
   qobuz: "1404675"
   x: ""
   web: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Shaârghot est un groupe de metal industriel français né à Paris en 2011, sous l'impulsion du vidéaste et

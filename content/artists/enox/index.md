@@ -21,6 +21,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 ENOX est un groupe de metalcore progressif originaire de Jersey City, dans le New Jersey, aujourd'hui installé à

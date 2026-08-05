@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "88253"
+  songkick: "539154"
   youtube: ""
   web: ""
   email: ""
@@ -23,6 +24,8 @@ todo:
   - Add socials
 lifespan:
   start: 1957-12-19
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Eric Marienthal, né le 19 décembre 1957 à Sacramento, est un saxophoniste américain nommé aux Grammy Awards, figure du

@@ -109,20 +109,24 @@ members:
       - start: 2005
         end: 2006
 socials:
+  musicbrainz: "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "796"
+  songkick: "479466"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001EHSCX0"
   apple: "857919"
   deezer: "1177"
-  qobuz: ""
+  qobuz: "148265"
   spotify: "4pejUc4iciQfgdX6OKulQn"
-  tidal: ""
+  tidal: "29902"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Queens of the Stone Age est un groupe de rock américain formé en 1996 à Seattle par le chanteur et guitariste **Josh Homme**, peu avant son retour à Palm Desert, en Californie, sa ville natale. Le groupe naît de la dissolution de son

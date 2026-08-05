@@ -20,6 +20,8 @@ socials:
   tidal: ""
 lifespan:
   start: 1979-08-11
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Balbino Medellín est un auteur-compositeur-interprète français né le 11 août 1979

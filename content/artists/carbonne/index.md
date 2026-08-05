@@ -20,6 +20,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1997
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Carbonne est un rappeur français qui émerge sur la scène hip-hop hexagonale avec une approche moderne du rap conscient

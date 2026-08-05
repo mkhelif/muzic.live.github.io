@@ -2,12 +2,54 @@
 id: "898409fa-3c34-47d6-affd-ad81b65d7497"
 title: "Planet Funk"
 type: band
+members:
+  - id: "e8beda29-7ec8-43e3-9217-a0c61851e301"
+    roles:
+      - sing
+    periods:
+      - start: 2016
+      - start: 2009
+      - start: 2002
+        end: 2005
+  - id: "5afea4ca-24e4-4171-9c53-dc801b048edb"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2011
+      - start: 2011
+  - id: "6bfcfde1-a3b9-4ba1-9509-78ec72e14210"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 1999
+        end: 2005
+      - start: 1999
+        end: 2005
+  - id: "663aedc9-5748-44cd-a9e7-d27895b6c915"
+    roles:
+      - guitar
+    periods:
+      - start: 1999
+        end: 2025
+  - id: "601e7ab9-1366-45cb-b856-569803a681cd"
+    roles:
+      - other
+  - id: "5e79909b-e615-46cb-8908-36bd716fda92"
+    roles:
+      - other
+  - id: "7a719bfe-8b24-4153-a3cc-bee4e88e099a"
+    roles:
+      - other
 socials:
+  musicbrainz: "9bc0a9a2-e909-488b-ac31-d0ddd88ab1b0"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "14007"
+  songkick: "205142"
   youtube: ""
   web: ""
   email: ""
@@ -16,7 +58,9 @@ socials:
   deezer: "5016"
   qobuz: ""
   spotify: "4c4Ce4N4vJOs3Tzee020S4"
-  tidal: ""
+  tidal: "2959"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Planet Funk est un groupe électronique italien formé en 1999, connu dans le monde entier pour son hymne dancefloor «

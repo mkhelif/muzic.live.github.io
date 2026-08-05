@@ -24,6 +24,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "5473"
+  songkick: "461906"
   youtube: ""
   web: ""
   email: ""
@@ -33,6 +34,8 @@ socials:
   qobuz: ""
   spotify: "3r6Sk3pYxdJk7MekhBGgMR"
   tidal: "3530423"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Blood Red Shoes est un duo de rock alternatif anglais formé à Brighton à la fin de l'année 2004, composé

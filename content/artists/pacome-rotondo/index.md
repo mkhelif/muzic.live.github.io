@@ -3,6 +3,7 @@ id: "674f3c50-024a-4dce-9321-82da5467665e"
 title: "Pacôme Rotondo"
 type: person
 socials:
+  musicbrainz: "b2a8e1ed-c678-4424-8010-972fca8e78f4"
   facebook: "pacomerotondoofficial"
   instagram: "pacome_rotondo"
   bandsintown: "15581833"
@@ -19,6 +20,9 @@ socials:
   qobuz: ""
 todo:
   - Add picture from concert
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il a 24 ans, deux albums au compteur, un diplôme de la Music Academy International de Nancy en poche et un jeu de

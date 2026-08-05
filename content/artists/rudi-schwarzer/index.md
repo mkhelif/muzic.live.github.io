@@ -3,6 +3,7 @@ id: "1dfa5a79-48d7-4529-97d6-3e270a12ca4c"
 title: "Rudi Schwarzer"
 type: person
 socials:
+  musicbrainz: "7c1abc54-3337-47c0-b8fc-98b49d0c0dc8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: ""
   deezer: "9938440"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "2qP5iVfBqi4AcnrDVf6ugC"
+  tidal: "10141007"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

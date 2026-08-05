@@ -2,7 +2,21 @@
 id: "a81b1812-fc37-4890-9948-088fac9680f1"
 title: "The Datsuns"
 type: band
+members:
+  - id: "24f6f7f5-ede4-42a5-8fe3-bf26ca510a85"
+    roles:
+      - other
+  - id: "bb30f762-dc19-49b4-b600-edeee3065d4e"
+    roles:
+      - other
+  - id: "57a3736f-0cf6-44a6-8769-28860da56261"
+    roles:
+      - other
+  - id: "a9787118-539e-4620-ae71-75c87b41449c"
+    roles:
+      - other
 socials:
+  musicbrainz: "7a5bcae1-45e5-495b-9f5b-254987b364bf"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -19,6 +33,8 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 The Datsuns sont un groupe de hard rock néo-zélandais originaire de Cambridge, formé en 1998, réputé pour avoir ramené

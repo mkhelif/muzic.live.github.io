@@ -3,6 +3,7 @@ id: "ae3e5fb1-2817-45ac-80b8-ecef98898a55"
 title: "Tracy De Sá"
 type: person
 socials:
+  musicbrainz: "07ec43cb-9142-4018-97d9-82b48de9a65e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,14 +13,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1220860980"
   deezer: "12212602"
   qobuz: ""
   spotify: "5PPRykFD70uQSLdvukWxyV"
-  tidal: ""
+  tidal: "8646274"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Tracy De Sá est une rappeuse née le 12 octobre 1992 à Goa, en Inde. Sa famille émigre en Europe dès 1995, d'abord au

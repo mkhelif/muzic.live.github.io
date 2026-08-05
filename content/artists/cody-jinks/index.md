@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "623094"
+  songkick: "795036"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "6364193"
 lifespan:
   start: 1980-08-18
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Meredith Cody Jinks, né le 18 août 1980 à Haltom City, près de Fort Worth au Texas, est un chanteur et auteur de

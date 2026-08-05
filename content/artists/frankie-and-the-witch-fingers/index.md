@@ -13,6 +13,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "7476302"
+  songkick: "7170049"
   youtube: ""
   web: ""
   email: ""
@@ -25,6 +26,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Frankie and the Witch Fingers est un groupe américain de rock psychédélique

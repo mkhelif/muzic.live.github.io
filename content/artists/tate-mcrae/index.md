@@ -3,19 +3,25 @@ id: "fc20efce-1ed9-48f5-857c-e5d16b82452c"
 title: "Tate McRae"
 type: person
 socials:
+  musicbrainz: "f9133869-f87c-459c-9aa7-2f176cda7e06"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "10040539"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B078NC9NN3"
+  apple: "1446365464"
   deezer: "13817211"
-  qobuz: ""
+  qobuz: "4405200"
   spotify: "45dkTj5sMRSjrmBSBeiHym"
-  tidal: ""
+  tidal: "9380062"
+lifespan:
+  start: 2003-07-01
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Tate Rosner McRae naît le 1er juillet 2003 au Canada. Danseuse avant d'être chanteuse, elle se fait d'abord connaître

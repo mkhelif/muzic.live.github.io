@@ -2,7 +2,15 @@
 id: "6e785149-e9e8-4bf2-9216-7aa2ed9d06fd"
 title: "Rau_ze"
 type: band
+members:
+  - id: "b374da77-32ad-4142-9f5e-81643eff35b4"
+    roles:
+      - other
+  - id: "9b0e98bb-964f-4e72-93f1-d0c73f240cb6"
+    roles:
+      - other
 socials:
+  musicbrainz: "9e44d843-d29b-46b3-9ba1-cbcdea95239b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,6 +24,8 @@ socials:
   qobuz: ""
   spotify: "2UV0xpXyJukSl1LErTk4Fo"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Rau_Ze est un duo d'auteurs-compositeurs-interprètes originaire de Montréal, composé de Rose Perron et Félix Paul.

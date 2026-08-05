@@ -9,6 +9,7 @@ socials:
   threads: ""
   x: ""
   bandsintown: "770"
+  songkick: "381679"
   youtube: ""
   web: ""
   email: ""
@@ -21,6 +22,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Alien Ant Farm est un groupe de rock alternatif américain formé en 1996 à Riverside, en Californie, par le chanteur

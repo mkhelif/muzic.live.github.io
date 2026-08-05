@@ -15,10 +15,12 @@ members:
     periods:
       - start: 2014
 socials:
+  musicbrainz: "6a81fbbc-acea-4221-9199-957842125078"
   facebook: "NovaTwinsMusic"
   instagram: "novatwinsmusic"
   tiktok: "@novatwinsmusic"
   bandsintown: "11555251"
+  songkick: "8443473"
   youtube: "@NovaTwinsMusic"
   amazon: "B01GA2WLM6"
   apple: "1118452716"
@@ -29,6 +31,8 @@ socials:
   web: "https://novatwins.co.uk/"
   x: ""
   email: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il existe peu de groupes capables de faire dire à un magazine spécialisé qu'ils produisent des sons que personne ne sait

@@ -5,23 +5,29 @@ type: person
 aliases:
   - "Selah Sue & The Gallands"
 socials:
+  musicbrainz: "fefeb63b-9430-4fe8-a332-0c400351af50"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "215085"
+  songkick: "2292682"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "374909793"
   deezer: "400934"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "3705324"
 todo:
   - Add picture
   - Verify and add socials
+lifespan:
+  start: 1989-05-03
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Selah Sue, de son vrai nom Sanne Putseys, est une auteure-compositrice-interprète belge née le 3 mai 1989 à Louvain

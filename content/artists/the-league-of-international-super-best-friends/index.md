@@ -2,6 +2,10 @@
 id: "a4d095f3-400b-4086-a655-96bcf77bbb8b"
 title: "The League of International Super Best Friends"
 type: band
+members:
+  - id: "2b0c2417-831a-469b-9dcf-d2226969a0f0"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -17,10 +21,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "51335263-68d8-4562-b235-955aa82aee57"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

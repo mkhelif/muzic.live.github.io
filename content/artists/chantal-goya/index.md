@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "43601"
+  songkick: "186840"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: ""
 lifespan:
   start: 1942-06-10
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Chantal de Guerre, connue sous le nom de Chantal Goya, est née le 10 juin 1942 à Saïgon, au Vietnam, où son père

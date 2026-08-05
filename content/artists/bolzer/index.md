@@ -28,8 +28,10 @@ socials:
   apple: "897894654"
   deezer: "10871606"
   qobuz: ""
-  spotify: ""
+  spotify: "6toR2I8BssfcGNJWkL2S0W"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Bölzer est un duo de metal extrême suisse formé à Zurich en 2008, composé du guitariste-chanteur Okoi

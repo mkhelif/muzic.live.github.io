@@ -2,6 +2,7 @@
 id: "f3628cb8-e46d-461e-ac75-5f70d756058f"
 title: "Oliver Hazard"
 socials:
+  musicbrainz: "53d83abf-8dca-47dd-9b0a-6ae268aabf8d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,11 +16,14 @@ socials:
   apple: "1304041365"
   deezer: "13485799"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "3F4iXxXxe7iazo3Jnwucng"
+  tidal: "9239879"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Oliver Hazard est un trio américain de folk indé originaire de Waterville, dans l'Ohio, composé de Michael Belazis,

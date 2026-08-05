@@ -3,6 +3,7 @@ id: "072d2be7-bb53-4e71-bb35-38a8557bddfb"
 title: "Trinix"
 type: band
 socials:
+  musicbrainz: "5a691568-a34e-4fd8-b031-01e4c9e36070"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,14 +13,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "748118472"
+  deezer: "5355382"
   qobuz: ""
   spotify: "3HqP3nd8WI0VfHRhApPlan"
-  tidal: ""
+  tidal: "7771842"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Trinix est un duo français de producteurs et musiciens originaire de Lyon, formé en 2012 par Josh Chergui et Loïs

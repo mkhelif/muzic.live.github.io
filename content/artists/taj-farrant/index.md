@@ -3,6 +3,7 @@ id: "d10e8b72-f8e5-40f6-92f7-a8f8d6f7a90b"
 title: "Taj Farrant"
 type: person
 socials:
+  musicbrainz: "9ffbaad7-1653-4178-93b7-e4ea2eacea97"
   facebook: "tajfarrant"
   instagram: "tajfarrant"
   tiktok: "@tajfarrantofficial"
@@ -17,6 +18,8 @@ socials:
   apple: ""
   deezer: "106569262"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il y a des guitaristes qui jouent. Il y a des guitaristes qui impressionnent. Et puis il y a Taj Farrant — un gamin qui,

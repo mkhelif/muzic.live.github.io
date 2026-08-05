@@ -29,4 +29,6 @@ todo:
   - Add information (birth, gender, ...)
 lifespan:
   start: 1978-07-02
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

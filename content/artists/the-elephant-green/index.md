@@ -17,6 +17,8 @@ socials:
   x: ""
   web: ""
   email: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 ###### Quand Marseille rêve en Britpop

@@ -21,4 +21,6 @@ socials:
   tidal: "7171305"
 lifespan:
   start: 1982-06-28
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

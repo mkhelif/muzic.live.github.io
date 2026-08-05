@@ -14,5 +14,6 @@ socials:
   deezer: "298500"
   spotify: "7mAqCk75DUBWgcC0sqhzwX"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

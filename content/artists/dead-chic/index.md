@@ -22,6 +22,8 @@ socials:
   qobuz: ""
   spotify: "4hCjCdMZF65nKTdjsPUvfh"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Dead Chic est né de la rencontre, en 2020, du guitariste jurassien Damien Félix (connu notamment pour

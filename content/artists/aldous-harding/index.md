@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "3766560"
+  songkick: "5530488"
   youtube: ""
   web: ""
   email: ""
@@ -23,6 +24,8 @@ todo:
   - Add socials
 lifespan:
   start: 1990
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Aldous Harding est le nom de scène de Hannah Sian Topp, chanteuse et compositrice néo-zélandaise née en 1990 à

@@ -3,11 +3,13 @@ id: "d808b484-648d-419c-8ca4-c5cf0729cbe4"
 title: "Renée Rapp"
 type: person
 socials:
+  musicbrainz: "e4378b7a-6138-441a-aa34-50e11a562066"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "15512778"
+  songkick: "9616784"
   youtube: ""
   web: ""
   email: ""
@@ -15,8 +17,12 @@ socials:
   apple: "1626560688"
   deezer: "171528407"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "2hUYKu1x0UZQXvzCmggvSn"
+  tidal: "32385126"
+lifespan:
+  start: 2000-01-10
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Renée Rapp, née le 10 janvier 2000, est une chanteuse et actrice américaine originaire de Huntersville, en Caroline du

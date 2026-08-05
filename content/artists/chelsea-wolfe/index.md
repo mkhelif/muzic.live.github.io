@@ -10,6 +10,7 @@ socials:
   threads: ""
   x: ""
   bandsintown: ""
+  songkick: "183260"
   youtube: ""
   web: ""
   email: ""
@@ -25,4 +26,6 @@ todo:
   - Add description
 lifespan:
   start: 1983-11-14
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

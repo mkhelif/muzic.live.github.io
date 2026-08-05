@@ -20,6 +20,8 @@ socials:
   tidal: "45416948"
 lifespan:
   start: 2006-04-06
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Esha Tewari est une autrice-compositrice-interprète australienne née le 6 avril 2006, installée à Sydney, où elle

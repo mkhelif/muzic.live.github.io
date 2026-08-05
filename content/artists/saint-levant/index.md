@@ -3,6 +3,7 @@ id: "04d42388-e92d-4584-99aa-5b016b3268f2"
 title: "Saint Levant"
 type: person
 socials:
+  musicbrainz: "015c8b7d-015b-4603-9792-18bb440178ac"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,11 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1592125003"
   deezer: "148852642"
   qobuz: ""
   spotify: "5ZZsFnpO7frU8h5xH1wtjT"
-  tidal: ""
+  tidal: "28914106"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Saint Levant, de son vrai nom Marwan Abdelhamid, est un rappeur trilingue palestino-algérien né le 6 octobre 2000 à

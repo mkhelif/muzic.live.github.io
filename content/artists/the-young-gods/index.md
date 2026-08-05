@@ -22,21 +22,25 @@ members:
       - start: 1985
         end: 1988
 socials:
+  musicbrainz: "134c8992-069e-4561-8d12-cdebbf5fbc34"
   facebook: "theyounggods"
   instagram: "theyounggodsmusic"
   tiktok: ""
   x: "theyounggods"
   bandsintown: "17761"
+  songkick: "410952"
   youtube: "@YounggodsZTUBE"
   soundcloud: "younggods-remixes"
   web: "https://www.younggods.com/"
   email: "cesare@twoflow.com"
   amazon: ""
-  apple: ""
+  apple: "65691738"
   deezer: "4274"
-  qobuz: ""
+  qobuz: "552077"
   spotify: "1xF9B1eiCKUejBnEE9k3sY"
-  tidal: ""
+  tidal: "3575544"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 The Young Gods sont un groupe suisse de rock industriel et expérimental formé en 1985 à Fribourg, pionnier d'une

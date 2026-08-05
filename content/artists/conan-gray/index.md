@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "15372014"
+  songkick: "9749509"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "9042401"
 lifespan:
   start: 1998-12-05
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Conan Gray est un chanteur, compositeur et multi-instrumentiste américain né le 5 décembre 1998 à Lemon Grove,

@@ -20,6 +20,8 @@ socials:
   tidal: "45630277"
   x: ""
   web: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Il existe une question que beaucoup se posent en découvrant SUN pour la première fois : comment peut-on aimer à la fois

@@ -20,6 +20,8 @@ socials:
   tidal: ""
 lifespan:
   start: 1995
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Aime Simone est un artiste français né le 31 décembre 1993 à Paris, d'une famille aux origines norvégiennes. Chanteur,

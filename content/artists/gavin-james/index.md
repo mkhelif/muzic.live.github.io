@@ -9,6 +9,7 @@ socials:
   tiktok: "@gavinjamesmusic"
   x: "gavinjames"
   bandsintown: "1675519"
+  songkick: "6069699"
   youtube: "@gavinjamesofficial"
   web: "https://gavinjamesmusic.com/"
   tidal: "5087386"
@@ -20,6 +21,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1991-07-06
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Gavin James est un chanteur-compositeur irlandais né à Dublin, qui émerge sur la scène musicale au début des années 2010

@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "794212"
+  songkick: "3542446"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "4589255"
 lifespan:
   start: 1991-05-31
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Azealia Amanda Banks est une rappeuse, chanteuse et compositrice américaine née le

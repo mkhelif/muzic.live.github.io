@@ -92,6 +92,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "565"
+  songkick: "238833"
   youtube: ""
   web: ""
   email: ""
@@ -104,6 +105,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Hatebreed est un groupe de metalcore et thrash/groove metal américain, originaire de Bridgeport et New Haven, dans le

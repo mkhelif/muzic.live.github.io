@@ -3,6 +3,7 @@ id: "1bcae853-086c-4bb8-b755-26167b028172"
 title: "Theodora"
 type: person
 socials:
+  musicbrainz: "3d519348-d1eb-4e8d-aab4-85ebe819bc46"
   facebook: ""
   instagram: "theodorabosslady"
   tiktok: "@theodorabossladyy"
@@ -13,13 +14,17 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "13820325"
   qobuz: ""
   spotify: "3PpJbrAbphauEun8Xf9tD2"
   tidal: ""
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 2003-10-23
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Née en Suisse, Theodora grandit entre la Grèce, le Congo, La Réunion, la Bretagne et la banlieue parisienne, un parcours

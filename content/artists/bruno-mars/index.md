@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "279327"
+  songkick: "941964"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "3658521"
 lifespan:
   start: 1985-10-08
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Bruno Mars, de son vrai nom Peter Gene Hernandez, est un chanteur, auteur-compositeur, producteur et

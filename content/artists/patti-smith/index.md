@@ -3,23 +3,30 @@ id: "7c838cd5-9331-460d-b6c2-184179c0bf03"
 title: "Patti Smith"
 type: person
 socials:
+  musicbrainz: "d135874d-9cae-4fef-97e3-36acbd9f5a26"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "31491"
+  songkick: "94437"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "13762"
   deezer: "3307"
-  qobuz: ""
+  qobuz: "53922"
   spotify: "0vYkHhJ48Bs3jWcvZXvOrP"
-  tidal: ""
+  tidal: "3872"
 todo:
   - Add picture
   - Verify and add socials
+lifespan:
+  start: 1946-12-30
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Patti Smith, née le 30 décembre 1946 à Chicago, est une poétesse, autrice-compositrice, chanteuse et artiste visuelle

@@ -20,6 +20,8 @@ socials:
   tidal: "3655492"
 lifespan:
   start: 1993-01-21
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Georgio, de son vrai nom Georges Édouard Nicolo, est né le 21 janvier 1993 aux Lilas, en Seine-Saint-Denis. Rappeur et

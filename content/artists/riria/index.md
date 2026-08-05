@@ -3,6 +3,7 @@ id: "0c9a177e-a0f9-4687-bbc8-d4e4dd26cda5"
 title: "Riria"
 type: person
 socials:
+  musicbrainz: "48b6d116-65d1-4173-b06f-330f820eaf34"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Riria est une DJ née à Tokyo et aujourd'hui basée à Londres, dont les sets bass music, nourris d'amapiano, de jersey

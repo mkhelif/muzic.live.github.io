@@ -19,4 +19,6 @@ socials:
   qobuz: ""
 todo:
   - Add picture
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -8,6 +8,7 @@ socials:
   threads: ""
   x: ""
   bandsintown: "66885"
+  songkick: "264684"
   youtube: ""
   web: ""
   email: ""
@@ -22,4 +23,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

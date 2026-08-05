@@ -21,6 +21,7 @@ members:
     periods:
       - start: 2017
 socials:
+  musicbrainz: "ea7f48d6-185c-4a6e-9b8d-d548fbfe6fbe"
   facebook: "saultsmusic"
   instagram: "saultsmusic"
   tiktok: "@saults_music"
@@ -36,6 +37,8 @@ socials:
   apple: ""
   deezer: "11622763"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Saults est un groupe fondé par deux frères, Antoine et **Greg Saults**, originaires de Bordeaux. Animés par des

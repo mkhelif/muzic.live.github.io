@@ -3,6 +3,7 @@ id: "b802fa5b-c8ac-4198-84b6-cafae9e15412"
 title: "Swab"
 type: unknown
 socials:
+  musicbrainz: "09023fea-6b15-4be6-b210-780a60368a67"
   instagram: "swab_music"
   threads: "@swab_music"
   youtube: "@swab_music"
@@ -17,4 +18,6 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

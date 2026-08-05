@@ -35,6 +35,7 @@ members:
       - start: 2009
         end: 2013
 socials:
+  musicbrainz: "2aff9c10-2145-4851-a656-898aeb434ad5"
   facebook: "rivalsons"
   instagram: "rivalsons"
   tiktok: "@rivalsons"
@@ -42,15 +43,18 @@ socials:
   threads: "@rivalsons"
   soundcloud: "rivalsonsofficial"
   bandsintown: "267681"
+  songkick: "2496911"
   youtube: "@RivalSons"
   web: "https://www.rivalsons.com"
   tidal: "4101294"
   spotify: "356c8AN5YWKvz86B4Sb1yf"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "413542573"
   deezer: "571758"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Rival Sons est un groupe américain formé en 2009 à Long Beach, Californie, qui incarne le revival authentique du rock

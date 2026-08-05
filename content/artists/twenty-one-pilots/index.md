@@ -27,8 +27,10 @@ members:
       - start: 2009
         end: 2011
 socials:
+  musicbrainz: "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67"
   facebook: "twentyonepilots"
   bandsintown: "6986370"
+  songkick: "3123851"
   youtube: "@twentyonepilots"
   instagram: "twentyonepilots"
   web: "https://www.twentyonepilots.com/"
@@ -38,9 +40,11 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "349736311"
   deezer: "647650"
-  qobuz: ""
+  qobuz: "859484"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 ###### Genèse et formation : Columbus Underground

@@ -3,23 +3,29 @@ id: "eab7d010-05c4-4178-9e1f-f20c6c2e5909"
 title: "Sienna Spiro"
 type: person
 socials:
+  musicbrainz: "ea696191-407a-4bf2-8302-7e05f6c163c5"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "15579368"
+  songkick: "10370270"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B0D3VDVZWJ"
+  apple: "1745678083"
   deezer: "265272032"
-  qobuz: ""
+  qobuz: "22407938"
   spotify: "02gSuSAWEdWa5UOvqzjX6v"
-  tidal: ""
+  tidal: "47700691"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 2005-09-28
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Sienna Ann Spiro, née le 28 septembre 2005 à Londres, est une autrice-compositrice-interprète et productrice britannique

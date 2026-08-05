@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "263166"
+  songkick: "1103471"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "3570316"
 lifespan:
   start: 1970
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Arnaud Rebotini est un compositeur, producteur et musicien électronique français né le 12 avril 1970. Figure

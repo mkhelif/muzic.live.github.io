@@ -2,6 +2,7 @@
 id: "d1f94246-47de-4813-8380-334e9b5d28c0"
 title: "Simone Santagati"
 socials:
+  musicbrainz: "367a69b6-cd8c-482d-b7e1-2e3714d41058"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

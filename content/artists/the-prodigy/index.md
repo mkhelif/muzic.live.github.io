@@ -27,20 +27,24 @@ members:
       - start: 1990
         end: 2000
 socials:
+  musicbrainz: "4a4ee089-93b1-4470-af9a-6ff575d32704"
   facebook: "theprodigyofficial"
   instagram: "theprodigyofficial"
   tiktok: "@the.prodigy.official"
   x: "the_prodigy"
   bandsintown: "1157"
+  songkick: "88480"
   youtube: "@theprodigy"
   web: "https://theprodigy.com/"
   tidal: "14596"
   spotify: "4k1ELeJKT1ISyDv8JivPpB"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1093102"
   deezer: "85"
-  qobuz: ""
+  qobuz: "224109"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 The Prodigy est un groupe britannique de musique électronique formé en 1990 à Braintree, dans l'Essex, par le

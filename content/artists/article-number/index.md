@@ -2,6 +2,10 @@
 id: "7814bf9b-c426-42a6-a76d-16ec9871d703"
 title: "Article Number"
 type: band
+members:
+  - id: "4abc28d3-3128-4e46-8408-dd898a1ea197"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "a8369d6b-d6a2-4b22-834a-0130215e9ada"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

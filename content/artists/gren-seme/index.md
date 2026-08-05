@@ -21,6 +21,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Grèn Sémé est un groupe formé en 2006 à Montpellier par des étudiants réunionnais réunis autour du

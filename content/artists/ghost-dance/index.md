@@ -25,6 +25,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "15560909"
+  songkick: "485277"
   youtube: ""
   web: ""
   email: ""
@@ -34,6 +35,8 @@ socials:
   qobuz: ""
   spotify: "0LZtBVbX5gxfaoSWfOBWoZ"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Ghost Dance est un groupe britannique de rock gothique dont l'histoire s'étend sur quatre décennies,

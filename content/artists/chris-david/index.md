@@ -11,4 +11,6 @@ socials:
   bandsintown: "714255"
   youtube: ""
   spotify: "72QQM3zL2LJv02kNvQZkPp"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

@@ -40,6 +40,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "11442497"
+  songkick: "9061394"
   youtube: ""
   web: ""
   email: ""
@@ -49,6 +50,8 @@ socials:
   qobuz: ""
   spotify: "5SIU6vqESwt2muetzRSX7f"
   tidal: "6466153"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 April Art est un groupe de rock alternatif allemand originaire de Gießen, en Hesse, fondé en avril 2014. Le nom du

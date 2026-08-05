@@ -3,6 +3,7 @@ id: "17a8edac-d29a-4d98-9a1b-f392475c690b"
 title: "Second Major"
 type: band
 socials:
+  musicbrainz: "2887fe9c-6656-4697-aff8-7b8cf7b82984"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

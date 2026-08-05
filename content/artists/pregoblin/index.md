@@ -2,6 +2,7 @@
 id: "415bf05d-400d-4c7a-aba5-119cfe073186"
 title: "PREGOBLIN"
 socials:
+  musicbrainz: "5a789613-f0c6-4a8e-b415-78af5b8e088d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: "1452841364"
   deezer: "59403082"
   qobuz: ""
-  spotify: ""
+  spotify: "06qVD2kbL38EYhHpSOu6jh"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

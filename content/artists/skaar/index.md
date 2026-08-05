@@ -3,6 +3,7 @@ id: "f6e50731-08ca-49f5-9b55-7b71f757ec69"
 title: "SKAAR"
 type: person
 socials:
+  musicbrainz: "3d768f9b-4590-4100-aeb0-8d13f3980dd2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,11 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1436621427"
+  deezer: "6496495"
   qobuz: ""
   spotify: "4NwacAakrdNGNinNP54KTQ"
-  tidal: ""
+  tidal: "10363759"
+lifespan:
+  start: 1998-08-08
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Skaar, de son vrai nom Hilde Skaar, est une chanteuse et compositrice norvégienne née le 8 août 1998 à Stord, dans

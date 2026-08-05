@@ -10,6 +10,7 @@ socials:
   instagram: "datcha.mandala"
   bandcamp: "datchamandala"
   bandsintown: "1441583"
+  songkick: "4902708"
   youtube: "@datchamandala"
   email: "datchamandala@gmail.com"
   amazon: "B004YIE0J6"
@@ -23,6 +24,8 @@ socials:
   web: ""
 todo:
   - Add description
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Il existe dans le rock une tradition du trio sacré : trois musiciens, pas un de plus, pour une alchimie qui soit totale

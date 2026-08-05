@@ -2,6 +2,7 @@
 id: "1757b0c8-77c9-44c9-a11b-1a9c38c0b57f"
 title: "Tex Crick"
 socials:
+  musicbrainz: "fcf04d37-70a0-49ca-a6d7-7267989f294f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

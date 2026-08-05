@@ -3,22 +3,28 @@ id: "41b17499-c8b5-4add-ae90-bd221551e418"
 title: "Sting"
 type: person
 socials:
+  musicbrainz: "7944ed53-2a58-4035-9b93-140a71e41c34"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "165478"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  amazon: "B001E3FX40"
+  apple: "94804"
+  deezer: "368"
+  qobuz: "38129"
   spotify: "0Ty63ceoRnnJKVEYP0VQpk"
-  tidal: ""
+  tidal: "17356"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1951-10-02
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Sting, de son vrai nom Gordon Matthew Thomas Sumner, est un chanteur, bassiste, compositeur et acteur britannique né le

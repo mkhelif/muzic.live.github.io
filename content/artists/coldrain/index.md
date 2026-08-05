@@ -42,6 +42,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "1167455"
+  songkick: "1365125"
   youtube: ""
   web: ""
   email: ""
@@ -51,6 +52,8 @@ socials:
   qobuz: "1610063"
   spotify: "4pCVGaLWxDe4d8bsjsnmUM"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Coldrain est un groupe de rock japonais originaire de Nagoya, fondé le 17 avril 2007. Composé du chanteur

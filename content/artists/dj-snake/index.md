@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "691727"
+  songkick: "297319"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "4826235"
 lifespan:
   start: 1986-06-13
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 William Sami Étienne Grigahcine, alias DJ Snake, né le 13 juin 1986 à Paris d'un père français et d'une mère algérienne,

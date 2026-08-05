@@ -20,6 +20,8 @@ socials:
   tidal: "3519246"
 lifespan:
   start: 1965-01-22
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Jeffrey Allen Townes, alias DJ Jazzy Jeff, né le 22 janvier 1965 à Philadelphie, est un DJ, producteur et acteur

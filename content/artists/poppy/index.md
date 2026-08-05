@@ -3,23 +3,29 @@ id: "1ee75f98-04a5-4ca1-be56-212d04fcb4f2"
 title: "Poppy"
 type: person
 socials:
+  musicbrainz: "4ad8190b-d2fd-46f8-a3d9-c0f55c034976"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "231079"
+  songkick: "727817"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
-  qobuz: ""
+  deezer: "712754"
+  qobuz: "654210"
   spotify: ""
   tidal: ""
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1995-01-01
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Moriah Rose Pereira, connue sous le nom de Poppy, est une chanteuse, musicienne et réalisatrice américaine née le 1er

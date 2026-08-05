@@ -36,6 +36,7 @@ members:
       - start: 2019
         end: 2023
 socials:
+  musicbrainz: "07fd812f-ac9e-4057-baac-4fe2cf9f6070"
   facebook: "tvsundaze"
   instagram: "tvsundaze"
   tiktok: ""
@@ -54,4 +55,6 @@ socials:
   tidal: ""
 todo:
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

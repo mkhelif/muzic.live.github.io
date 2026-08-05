@@ -23,6 +23,8 @@ todo:
   - Add cover from concert picture
 lifespan:
   start: 1994-08-02
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Il y a des artistes qui choisissent un camp. Franglish a décidé de les occuper tous. Rap et R&B, français et anglais,

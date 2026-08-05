@@ -13,6 +13,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "189422"
+  songkick: "2398701"
   youtube: ""
   web: ""
   email: ""
@@ -26,4 +27,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

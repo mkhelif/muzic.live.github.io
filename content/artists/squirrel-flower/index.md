@@ -2,6 +2,7 @@
 id: "79f0ce34-327b-45d1-8e5e-5661c4a8777c"
 title: "Squirrel Flower"
 socials:
+  musicbrainz: "cf1021a4-ba16-4563-b4c2-e40aaf1802f6"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,13 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1016930777"
   deezer: "13316469"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "7bI1v9NGBBhq8iGfytctni"
+  tidal: "8282381"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

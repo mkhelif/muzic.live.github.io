@@ -21,6 +21,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Derrick McKenzie, né le 27 mars 1964, est un batteur britannique surtout connu comme membre du groupe **Jamiroquai**. La

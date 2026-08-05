@@ -18,6 +18,7 @@ socials:
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "748027"
   youtube: ""
   web: ""
   email: ""
@@ -27,6 +28,8 @@ socials:
   qobuz: ""
   spotify: "6px2zTzjQAPLkuea5qQ2Gx"
   tidal: "4031508"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Boulevard des Airs est un groupe français de pop rock formé en 2004 au lycée Marie-Curie de Tarbes, dans

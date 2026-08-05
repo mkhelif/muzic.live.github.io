@@ -4,6 +4,7 @@ title: "Sarah Brown"
 type: person
 management: "c11897d2-4f2d-4947-b086-510e064854de"
 socials:
+  musicbrainz: "4c8c598f-ba16-4fb6-9a64-7bbf21d20ed5"
   facebook: "sarahbrownvocal"
   instagram: "sarahbrownvocal"
   threads: "@sarahbrownvocal"
@@ -21,6 +22,8 @@ socials:
   email: "sarah@sarahbrownofficial.com"
   tiktok: ""
   x: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Vous ne connaissez peut-être pas son nom. Mais vous avez entendu sa voix — sans le savoir. Sur le dernier album de

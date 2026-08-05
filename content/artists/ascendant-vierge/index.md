@@ -16,6 +16,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "15517711"
+  songkick: "10160222"
   youtube: ""
   web: ""
   email: ""
@@ -25,6 +26,8 @@ socials:
   qobuz: "7878561"
   spotify: "3IMOGrM63og03I4jMYo35G"
   tidal: "16306103"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Ascendant Vierge est un duo de musique électronique français formé en 2019, réunissant la chanteuse et

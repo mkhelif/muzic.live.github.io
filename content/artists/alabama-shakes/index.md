@@ -37,6 +37,7 @@ socials:
   tiktok: "@alabamashakesofficial"
   threads: "@alabama_shakes"
   bandsintown: "1946416"
+  songkick: "4601908"
   youtube: "@AlabamaShakes"
   web: "https://www.alabamashakes.com/"
   tidal: "4513089"
@@ -47,6 +48,8 @@ socials:
   apple: "498509884"
   deezer: "1624980"
   qobuz: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 ###### Les origines : une rencontre dans l'Alabama profond

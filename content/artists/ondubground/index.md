@@ -2,12 +2,25 @@
 id: "a66c823e-de2e-436b-8cd6-22f048d53455"
 title: "Ondubground"
 type: band
+members:
+  - id: "88d00ce7-2f9f-4e06-a142-ce5c21fea1f8"
+    roles:
+      - other
+    periods:
+      - start: 2004
+  - id: "81fca7e6-9ab6-4c4a-985f-879a9f624d9c"
+    roles:
+      - other
+    periods:
+      - start: 2004
 socials:
+  musicbrainz: "eb274bec-4432-494b-8a45-74f08d3e59c9"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "588533"
+  songkick: "793535"
   youtube: ""
   web: ""
   email: ""
@@ -17,6 +30,9 @@ socials:
   qobuz: ""
   spotify: "3ZZ9BwdWrBRhqNOvJ2ODNd"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Ondubground est un projet de dub électronique français lancé en 2004 à Tours par deux frères, Paul (**Art-X**) et Simon

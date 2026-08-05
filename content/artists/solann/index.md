@@ -3,6 +3,7 @@ id: "76c5eb70-9f91-4778-bf94-144fe26726dc"
 title: "Solann"
 type: person
 socials:
+  musicbrainz: "562d445c-f7ee-41d5-bc85-1c39302c9935"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,12 +12,16 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B081S7J51R"
   apple: ""
-  deezer: ""
+  deezer: "78965772"
   qobuz: ""
   spotify: "17u6mMCLx4RTzjIKRaTRIv"
-  tidal: ""
+  tidal: "17439030"
+lifespan:
+  start: 1999-12-26
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Solann Lis-Amboyan, née le 26 décembre 1999 à Paris, est une autrice-compositrice-interprète et musicienne française.

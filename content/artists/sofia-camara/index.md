@@ -3,6 +3,7 @@ id: "b3a799d6-13ee-40ec-9e86-9a8890cfd277"
 title: "Sofia Camara"
 type: person
 socials:
+  musicbrainz: "b2d774c0-2c0b-4710-92f6-47ebcf7a7784"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,11 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1506432156"
   deezer: "90429402"
-  qobuz: ""
+  qobuz: "7027292"
   spotify: "5bdLfpk3TpFVwrlHWmPL55"
-  tidal: ""
+  tidal: "18961083"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Sofia Camara est une musicienne portugaise et canadienne née le 21 mai 2002 sur l'île de Terceira, au Portugal, avant

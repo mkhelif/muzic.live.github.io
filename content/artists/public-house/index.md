@@ -3,6 +3,7 @@ id: "15c621ca-a93a-45fa-814e-5cb86ad86932"
 title: "Public House"
 type: band
 socials:
+  musicbrainz: "bb6ee932-c18f-42c3-bbce-fea9b0a010a3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,8 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Public House est un groupe de rock garage, aux riffs incisifs et à l'énergie live revendiquée, qui évolue notamment sur

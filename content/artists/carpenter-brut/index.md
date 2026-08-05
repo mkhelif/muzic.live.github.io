@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "2435315"
+  songkick: "7214659"
   youtube: ""
   web: ""
   email: ""
@@ -24,4 +25,6 @@ todo:
   - Add description
 lifespan:
   start: 1977
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

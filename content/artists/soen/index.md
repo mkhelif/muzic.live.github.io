@@ -58,9 +58,11 @@ members:
       - start: 2010
         end: 2013
 socials:
+  musicbrainz: "7a42f70d-7c01-46d2-bd88-738967a631f0"
   facebook: "SoenMusic"
   instagram: "soenmusic"
   bandsintown: "1887141"
+  songkick: "1794694"
   youtube: "@SoenOfficial"
   web: "https://soenmusic.com/"
   tidal: "4373811"
@@ -69,9 +71,11 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "423817511"
   deezer: "1581851"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 SOEN émerge des ombres de la scène metal progressive suédoise en 2004, non pas dans un murmure mais avec une clarté et

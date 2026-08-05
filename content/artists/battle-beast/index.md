@@ -61,6 +61,7 @@ socials:
   instagram: "battlebeastband"
   x: "battlebeast"
   bandsintown: "469142"
+  songkick: "4062726"
   youtube: "@BattleBeast"
   web: "https://www.battlebeast.fi"
   tidal: "3866638"
@@ -71,6 +72,8 @@ socials:
   apple: "412807070"
   deezer: "400967"
   qobuz: "593035"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Battle Beast est un groupe de metal finlandais formé en 2008, qui émerge de la riche scène metal scandinave avec une

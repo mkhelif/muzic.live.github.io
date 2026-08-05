@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "5716"
+  songkick: "183162"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "1822"
 lifespan:
   start: 1936-07-30
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Né le 30 juillet 1936 à Lettsworth, en Louisiane, dans une famille de métayers, Buddy Guy se fabrique sa première

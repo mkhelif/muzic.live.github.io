@@ -25,6 +25,7 @@ socials:
   spotify: "63vMehdxxRWq9HBZHskapk"
   tidal: "6214208"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

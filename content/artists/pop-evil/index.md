@@ -82,20 +82,24 @@ members:
       - start: 2001
         end: 2007
 socials:
+  musicbrainz: "8e3ce660-79ed-4072-bd3d-e8db7a409946"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "16090"
+  songkick: "568890"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B000RRHNT2"
   apple: "441597923"
   deezer: "288299"
   qobuz: ""
   spotify: "1pRaG81GsVtaTBuVSpldt2"
-  tidal: ""
+  tidal: "3802382"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Pop Evil est un groupe de hard rock américain fondé en 2001 à North Muskegon, dans le Michigan, par le

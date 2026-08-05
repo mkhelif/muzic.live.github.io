@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: "47e6jtFUUl53YpTpvzOOMN"
   tidal: "9067147"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Catherine Saint Jude Pretorius, connue sous le nom de Dope Saint Jude, est une rappeuse, chanteuse, autrice et

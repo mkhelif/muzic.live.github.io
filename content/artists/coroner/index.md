@@ -37,6 +37,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "56648"
+  songkick: "557175"
   youtube: ""
   web: ""
   email: ""
@@ -46,6 +47,8 @@ socials:
   qobuz: "713808"
   spotify: "7lfdXL6PuTM5iWJNvI7PPV"
   tidal: "4332264"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Coroner est un groupe de thrash metal technique suisse originaire de Zurich, fondé en 1983 et stabilisé dans

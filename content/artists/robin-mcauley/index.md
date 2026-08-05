@@ -2,6 +2,7 @@
 id: "ab228ba4-5b0e-4b75-aabc-53772d3a4f9b"
 title: "Robin McAuley"
 socials:
+  musicbrainz: "3c8522eb-81ea-4403-83b8-e0088587564a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: ""
   deezer: "267849"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "5vwEknXi4MlLlFVFF3hDOg"
+  tidal: "4032881"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

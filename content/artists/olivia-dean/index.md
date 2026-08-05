@@ -3,20 +3,26 @@ id: "a8b21eee-f7be-425f-b568-b13378f6a7dd"
 title: "Olivia Dean"
 type: person
 socials:
+  musicbrainz: "15e0d608-0869-429b-898d-3d8db3ecedd5"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "11137816"
+  songkick: "9854184"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B07YZGWDLF"
   apple: "1487253329"
   deezer: "75659582"
-  qobuz: ""
+  qobuz: "5639782"
   spotify: "00x1fYSGhdqScXBRpSj3DW"
-  tidal: ""
+  tidal: "17009569"
+lifespan:
+  start: 1999-03-14
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Olivia Dean est une autrice-compositrice-interprète britannique originaire de Londres. Avant d'être chanteuse en son

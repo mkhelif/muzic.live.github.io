@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Day We Ran est un groupe de rock alternatif australien originaire de Lennox Head, en Nouvelle-Galles du Sud, formé

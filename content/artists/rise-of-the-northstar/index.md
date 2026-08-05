@@ -71,21 +71,25 @@ members:
       - start: 2018
         end: 2022
 socials:
+  musicbrainz: "13fc6434-1d2b-49f5-a1cb-b38358b5a15f"
   facebook: "rotnsofficial"
   instagram: "rotnsofficial"
   threads: "@rotnsofficial"
   x: "rotnsofficial"
   bandsintown: "1296468"
+  songkick: "4251436"
   youtube: "@RiseoftheNorthstar"
   web: "https://www.rotnsofficial.com/"
   tidal: "4130561"
   spotify: "5vDfbSPkurKQxpVVXALJ4K"
   tiktok: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B005T79EFG"
+  apple: "470639725"
   deezer: "1447548"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Rise of the **Northstar** (abrégé ROTNS) est un groupe de heavy metal français originaire de Paris, formé en 2008. Dès ses

@@ -93,6 +93,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 Ankor est un groupe de metal alternatif catalan fondé en 2003 dans le village d'Els Pallaresos, près de Tarragone. Portés par la voix percutante et polyvalente de leur chanteuse-screameuse **Jessie Williams**, ils se sont imposés au fil des années comme l'une des formations metal les plus intéressantes issues de la péninsule ibérique, combinant puissance sonore et accessibilité mélodique.
 

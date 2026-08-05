@@ -22,6 +22,7 @@ cover: ""
 lifespan:
   start: 1992-01-04
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

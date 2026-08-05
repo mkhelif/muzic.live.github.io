@@ -2,6 +2,7 @@
 id: "3d1f6297-9cc0-4e02-b761-842cee7b94c6"
 title: "Selofan"
 socials:
+  musicbrainz: "ec84e56f-9fbe-40d3-9979-bc084359d79c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,13 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "792070333"
   deezer: "11094550"
   qobuz: ""
-  spotify: ""
+  spotify: "1StVGGYOC5FM3aNpJQ74Vj"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -21,6 +21,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Eto, aussi connu sous le nom d'Etoclit, est un crew de rap suisse originaire de Berne qui bouscule le paysage du rap

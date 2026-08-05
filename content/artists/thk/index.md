@@ -3,6 +3,7 @@ id: "7f30ae6a-f609-4488-8c3c-4a81401b022f"
 title: "THK"
 type: person
 socials:
+  musicbrainz: "dee32df0-d47e-404d-ace6-7e42a9f91444"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 THK, pour Tetra Hydro K, est un duo français d'électro-dub originaire de Besançon, actif depuis 2009.

@@ -24,4 +24,6 @@ todo:
   - Add logo cover
 lifespan:
   start: 1976-12-16
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

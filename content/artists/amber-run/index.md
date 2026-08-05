@@ -38,6 +38,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "8806130"
+  songkick: "7464274"
   youtube: ""
   web: ""
   email: ""
@@ -47,6 +48,8 @@ socials:
   qobuz: ""
   spotify: "0MmnmsAuQKRFpo6vJElcaU"
   tidal: "5171573"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 Originaires de Nottingham, Amber Run sont l'un des groupes indie rock britanniques les plus touchants de leur génération. Portés par des mélodies sincères, des paroles introspectives et une production soignée, ils ont su trouver un public fidèle et international sans jamais renoncer à leur authenticité.
 

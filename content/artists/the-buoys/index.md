@@ -2,6 +2,7 @@
 id: "adffcd41-a03a-452f-949c-be7ddce6c5f4"
 title: "The Buoys"
 socials:
+  musicbrainz: "dd1d5e59-5ea9-4e48-a49a-1823fa19906b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

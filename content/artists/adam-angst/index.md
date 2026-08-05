@@ -28,6 +28,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "11055850"
+  songkick: "8368828"
   youtube: ""
   web: ""
   email: ""
@@ -37,6 +38,8 @@ socials:
   qobuz: ""
   spotify: "4s8thwd54lskRtbVXTIaDh"
   tidal: "6369964"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Adam Angst est un groupe de punk rock allemand fondé en 2014, dont la musique renoue avec les racines

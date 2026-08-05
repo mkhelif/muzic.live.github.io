@@ -12,6 +12,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "2125120"
+  songkick: "6988684"
   youtube: ""
   email: ""
   amazon: ""
@@ -20,6 +21,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1991-07-06
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Elie zoé, connu jusqu'en octobre 2024 sous le nom d'Emilie Zoé, est un chanteur et musicien suisse, né le 6 juillet 1991

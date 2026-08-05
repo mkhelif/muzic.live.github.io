@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Galant, tu perds ton temps est un quintette vocal a cappella québécois, actif depuis 2003 et composé de cinq

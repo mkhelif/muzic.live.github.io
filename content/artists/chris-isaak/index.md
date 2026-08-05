@@ -9,6 +9,7 @@ socials:
   tiktok: "@chrisisaak"
   x: "ChrisIsaak"
   bandsintown: "1471"
+  songkick: "477865"
   youtube: "@officialchrisisaak"
   web: "https://chrisisaak.com/"
   tidal: "6891"
@@ -20,6 +21,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1956-06-26
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Chris Isaak est un chanteur-compositeur américain né en Californie en 1956, qui développe sa passion pour la musique dès

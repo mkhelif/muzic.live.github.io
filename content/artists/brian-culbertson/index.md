@@ -19,6 +19,8 @@ socials:
   tidal: "4971"
 lifespan:
   start: 1973-01-12
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Né le 12 janvier 1973 à Decatur, dans l'Illinois, Brian Culbertson grandit dans une famille où son père, professeur de

@@ -8,6 +8,7 @@ socials:
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "483167"
   youtube: ""
   web: ""
   email: ""
@@ -19,4 +20,6 @@ socials:
   tidal: "3666430"
 lifespan:
   start: 1968-09-17
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

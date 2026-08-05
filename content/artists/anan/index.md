@@ -21,6 +21,8 @@ cover: ""
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Anan est un artiste musical dont les informations biographiques détaillées restent peu documentées dans les sources

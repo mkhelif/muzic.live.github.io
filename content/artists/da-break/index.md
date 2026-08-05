@@ -7,6 +7,7 @@ socials:
   instagram: "dabreakstagram"
   facebook: "DaBreaktheband"
   bandsintown: "421210"
+  songkick: "9304354"
   youtube: "@DaBreak"
   web: "https://www.da-break.com/"
   tidal: "4023164"
@@ -18,6 +19,8 @@ socials:
   apple: "82146730"
   deezer: "4130957"
   qobuz: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Da Break est un projet musical français qui émerge sur la scène électronique hexagonale avec une approche moderne des

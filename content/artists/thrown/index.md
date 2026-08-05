@@ -24,6 +24,7 @@ members:
     periods:
       - start: 2019
 socials:
+  musicbrainz: "fd012922-72b2-4aa7-b796-012f2177c5af"
   facebook: "thrownband"
   instagram: "thrownband"
   tiktok: "@thrownband"
@@ -34,10 +35,12 @@ socials:
   email: ""
   amazon: ""
   apple: "1586844225"
-  deezer: ""
-  qobuz: ""
+  deezer: "151533412"
+  qobuz: "30465584"
   spotify: "5eBCPtU2iPbzuMRre9BePt"
-  tidal: ""
+  tidal: "28964992"
 todo:
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

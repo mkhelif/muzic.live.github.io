@@ -31,6 +31,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Ahna est un duo de métal extrême originaire de Vancouver, en Colombie-Britannique, Canada, formé en 2008. Le

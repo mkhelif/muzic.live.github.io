@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "12760751"
+  songkick: "8931019"
   youtube: ""
   web: ""
   email: ""
@@ -23,6 +24,8 @@ todo:
   - Add cover
 lifespan:
   start: 1990-05-31
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Amelie Lens est une DJ et productrice de musique électronique belge née à Vilvorde le 31 mai 1990. Ancienne

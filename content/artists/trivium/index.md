@@ -91,11 +91,13 @@ members:
       - start: 2003
         end: 2003
 socials:
+  musicbrainz: "1f5ff245-2837-4d4a-a609-e93e544478c3"
   facebook: "Trivium"
   instagram: "triviumband"
   threads: "@triviumband"
   x: "TriviumOfficial"
   bandsintown: "210"
+  songkick: "108040"
   youtube: "@trivium"
   soundcloud: "triviumofficial"
   amazon: "B0025P6G9M"
@@ -107,6 +109,8 @@ socials:
   web: "https://www.trivium.org/"
   tiktok: ""
   email: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Un adolescent de douze ans qui reprend **Metallica** lors du concours de talents de son collège — voilà le point de départ

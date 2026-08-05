@@ -21,6 +21,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Née le 15 juillet 1992, Flore Benguigui est une autrice-compositrice-interprète et productrice française, formée au

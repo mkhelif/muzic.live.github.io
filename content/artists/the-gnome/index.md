@@ -2,6 +2,7 @@
 id: "9fbe8565-7131-448b-a3bd-93d7368c5563"
 title: "The Gnome"
 socials:
+  musicbrainz: "d7ea03ed-969d-4b6d-bf42-06db07aefcd7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

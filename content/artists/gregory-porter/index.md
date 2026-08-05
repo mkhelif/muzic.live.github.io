@@ -9,6 +9,7 @@ socials:
   threads: "@gregoryportermusic"
   x: "GregoryPorter"
   bandsintown: "1025093"
+  songkick: "115057"
   youtube: "@GregoryPorterMusic"
   web: "https://www.gregoryporter.com/"
   tidal: "3780424"
@@ -23,6 +24,8 @@ todo:
   - Add picture from concert
 lifespan:
   start: 1971-11-04
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Il y a des voix qui chantent. Et il y a des voix qui enveloppent — qui vous prennent par les épaules, vous serrent

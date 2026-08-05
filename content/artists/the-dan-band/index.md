@@ -3,10 +3,12 @@ id: "4c09e8cb-56a7-4478-9a09-4d9f44948af3"
 title: "The Dan Band"
 type: band
 socials:
+  musicbrainz: "67ed4dc5-143d-4e34-b83b-0932cacfe09a"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "539310"
   youtube: ""
   web: ""
   email: ""
@@ -16,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 The Dan Band est un groupe comique américain créé par l'acteur et humoriste Dan Finnerty, connu pour ses reprises très

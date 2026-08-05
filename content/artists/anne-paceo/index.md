@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "338661"
+  songkick: "927757"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: ""
 lifespan:
   start: 1984-09-17
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Anne Paceo, née le 17 septembre 1984 à Niort, est une batteuse et compositrice française qui a su créer un style

@@ -9,6 +9,7 @@ socials:
   tiktok: "@dermotkennedy"
   x: "DermotKennedy"
   bandsintown: "3141879"
+  songkick: "8732299"
   youtube: "@DermotKennedy"
   web: "https://www.dermotkennedy.com/"
   tidal: "8557616"
@@ -20,6 +21,8 @@ socials:
   qobuz: "3276425"
 lifespan:
   start: 1991-12-13
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Il y a des voix qu'on reconnaît à la première seconde. Pas parce qu'elles sont parfaites — parce qu'elles sont vraies.

@@ -41,6 +41,8 @@ socials:
   web: "https://www.dominumofficial.com/"
   x: ""
   email: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 DOMINUM est un groupe de power metal allemand formé en 2022 à Nuremberg, devenu en quelques années l'un des phénomènes

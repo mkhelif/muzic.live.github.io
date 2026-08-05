@@ -20,6 +20,8 @@ socials:
   tidal: "5707852"
 lifespan:
   start: 1985-01-10
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Claudio Ruccolo, dit Claudio Capéo, est né le 10 janvier 1985 à Cernay, en Alsace, d'une famille d'origine

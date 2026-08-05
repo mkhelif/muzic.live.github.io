@@ -3,6 +3,7 @@ id: "1fe399c1-992e-4381-8670-206c14053b93"
 title: "This is Michael"
 type: band
 socials:
+  musicbrainz: "66ea2663-c8e4-4df2-8895-e75e64bfff50"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 This is Michael est un spectacle-hommage à Michael Jackson porté par Lenny Jay, dont la ressemblance physique et

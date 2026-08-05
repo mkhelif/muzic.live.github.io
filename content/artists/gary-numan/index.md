@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "2701"
+  songkick: "520156"
   youtube: ""
   web: ""
   email: ""
@@ -23,6 +24,8 @@ todo:
   - Add socials
 lifespan:
   start: 1958-03-08
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Gary Numan, de son vrai nom Gary Anthony James Webb, est un chanteur, compositeur et musicien anglais né le 8 mars

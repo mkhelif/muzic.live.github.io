@@ -3,20 +3,26 @@ id: "d1edfacb-30d1-420f-9f18-3c304c29a591"
 title: "Robben Ford"
 type: person
 socials:
+  musicbrainz: "9c17c956-de06-4463-9a87-234652c306dc"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "12431043"
+  songkick: "293951"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B000QJHT3G"
+  apple: "74400"
   deezer: "17033"
-  qobuz: ""
+  qobuz: "39921"
   spotify: "7C1CFA2GWGFc51SrvX5Bvy"
-  tidal: ""
+  tidal: "15102"
+lifespan:
+  start: 1951-12-16
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Robben Lee Ford est un guitariste américain né le 16 décembre 1951 à Woodlake, en Californie, et élevé à Ukiah. Initié

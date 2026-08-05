@@ -24,6 +24,8 @@ todo:
 lifespan:
   start: 1988-01-28
   end: 2023-02-10
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 AKA, de son vrai nom Kiernan Jarryd Forbes, était un rappeur sud-africain né le 28 janvier 1988 au Cap et ayant grandi à

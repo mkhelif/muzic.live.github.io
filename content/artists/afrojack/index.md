@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "336042"
+  songkick: "2479031"
   youtube: ""
   web: ""
   email: ""
@@ -23,6 +24,8 @@ todo:
   - Add socials
 lifespan:
   start: 1987-09-09
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Afrojack, de son vrai nom Nick Leonardus van de Wall, est un DJ, producteur et remixeur néerlandais né le 9 septembre

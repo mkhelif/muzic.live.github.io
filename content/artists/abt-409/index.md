@@ -27,4 +27,6 @@ todo:
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

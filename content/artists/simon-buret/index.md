@@ -3,6 +3,7 @@ id: "d113feba-b381-4769-8a16-b41f762ab4b2"
 title: "Simon Buret"
 type: person
 socials:
+  musicbrainz: "a2895066-233c-4658-8bf7-5355aa66dd90"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,4 +23,8 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1981
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

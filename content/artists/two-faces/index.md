@@ -3,6 +3,7 @@ id: "f689b1ff-c5f4-413d-9f9b-c7d079a28294"
 title: "Two Faces"
 type: band
 socials:
+  musicbrainz: "61f29991-0e9d-4985-8321-ee4470e39170"
   facebook: "wearetwofaces"
   instagram: "twofaces.music"
   bandcamp: "wearetwofaces"
@@ -19,6 +20,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Two Faces naît à Lyon de la rencontre entre deux frères d'âme partageant une vision artistique commune, unis par une

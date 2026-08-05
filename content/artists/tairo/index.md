@@ -3,22 +3,28 @@ id: "f44ef4cb-cbbd-475f-903b-802a6bd14f41"
 title: "Taïro"
 type: person
 socials:
+  musicbrainz: "5230f750-e29f-40c4-b240-30f7ce15be4f"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "1243385"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "15969"
   qobuz: ""
   spotify: "3yTebTUCCcdO6f6RN7vVlY"
-  tidal: ""
+  tidal: "3708433"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1978-02-05
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Taïro, de son vrai nom Ismaël Jolé-Ménébhi, est un auteur-compositeur-interprète français né à Paris le 5 février 1978,

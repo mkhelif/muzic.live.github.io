@@ -23,6 +23,8 @@ todo:
   - Add cover
 lifespan:
   start: 2003
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 2L est une rappeuse et violoniste française née en 2003 à Paris, dans le 20e arrondissement. Son pseudonyme, issu de son

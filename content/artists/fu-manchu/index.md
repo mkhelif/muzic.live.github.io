@@ -76,6 +76,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "3620"
+  songkick: "109470"
   youtube: ""
   web: ""
   email: ""
@@ -88,6 +89,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Fu Manchu est un groupe de stoner rock américain originaire du comté d'Orange, en Californie. Formé en 1985 sous le

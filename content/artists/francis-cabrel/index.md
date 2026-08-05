@@ -5,6 +5,7 @@ type: person
 socials:
   musicbrainz: "9476ee3c-ede2-46e8-ae24-ce2db54b5df3"
   bandsintown: "44966"
+  songkick: "368153"
   youtube: "@FrancisCabrelOfficiel"
   web: "https://www.franciscabrel.com/"
   tidal: "797"
@@ -20,6 +21,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1953-11-23
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Francis Cabrel naît le 23 novembre 1953 à Agen, dans une famille modeste où la musique occupe une place importante grâce

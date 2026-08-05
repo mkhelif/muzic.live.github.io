@@ -8,6 +8,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "1148025"
+  songkick: "366944"
   youtube: ""
   web: ""
   email: ""
@@ -17,6 +18,8 @@ socials:
   qobuz: "62469"
   spotify: "6w7j5wQ5AI5OQYlcM15s2L"
   tidal: "27540"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Extreme est un groupe de hard rock américain formé en 1985 à Boston, Massachusetts, autour du chanteur **Gary

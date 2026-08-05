@@ -35,22 +35,26 @@ members:
     periods:
       - start: 2012
 socials:
+  musicbrainz: "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "1460592"
+  songkick: "4441173"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B0080JVO3U"
+  apple: "524830875"
   deezer: "2210161"
-  qobuz: ""
+  qobuz: "1841735"
   spotify: "1kDGbuxWknIKx4FlgWxiSp"
-  tidal: ""
+  tidal: "5164477"
 todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

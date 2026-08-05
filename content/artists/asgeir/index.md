@@ -10,6 +10,7 @@ socials:
   threads: "@asgeirmusic"
   x: "AsgeirMusic"
   bandsintown: "876239"
+  songkick: "116729"
   youtube: "@Asgeirmusic"
   web: "https://www.asgeirmusic.com/"
   email: ""
@@ -21,6 +22,8 @@ socials:
   tidal: "4998650"
 lifespan:
   start: 1992-07-01
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Ásgeir Trausti Einarsson, connu simplement sous le nom d'Ásgeir, est un chanteur-compositeur islandais né le

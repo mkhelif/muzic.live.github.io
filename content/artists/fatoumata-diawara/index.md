@@ -20,6 +20,8 @@ socials:
   tidal: "3627667"
 lifespan:
   start: 1982
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Fatoumata Diawara est une chanteuse, guitariste et actrice malienne née en 1982 en Côte d'Ivoire. Élevée au Mali durant

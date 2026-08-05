@@ -3,6 +3,7 @@ id: "f98dd26e-240a-4a42-9640-70007ff7b1f0"
 title: "Sean Paul"
 type: person
 socials:
+  musicbrainz: "c3da3346-2643-48a7-93cd-011f6834b3d7"
   facebook: "seanpaul"
   instagram: "duttypaul"
   tiktok: "@duttypaul"
@@ -10,15 +11,20 @@ socials:
   threads: "@duttypaul"
   soundcloud: "seanpaulofficial"
   bandsintown: "50"
+  songkick: "127006"
   youtube: "@AllSeanPaul"
   web: "https://allseanpaul.com/"
   tidal: "15406"
   spotify: "3Isy6kedDrgPYoTS1dazA9"
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B000QJR936"
+  apple: "155138"
   deezer: ""
-  qobuz: ""
+  qobuz: "35232"
+lifespan:
+  start: 1973-01-09
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Sean Paul Ryan Francis Henriques, connu sous le nom de Sean Paul, est un artiste jamaïcain né le 9 janvier 1973 à

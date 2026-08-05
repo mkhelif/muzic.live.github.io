@@ -54,6 +54,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "22809"
+  songkick: "428244"
   youtube: ""
   web: ""
   email: ""
@@ -66,6 +67,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Airbourne est un groupe australien de hard rock fondé à Warrnambool, dans l'État du Victoria, à la fin de l'année 2001.

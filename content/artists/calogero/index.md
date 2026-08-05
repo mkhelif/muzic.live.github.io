@@ -23,6 +23,8 @@ todo:
   - Verify and add socials
 lifespan:
   start: 1971-07-30
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Calogero Maurici, né le 30 juillet 1971 à Échirolles, en Isère, est un chanteur, compositeur et musicien

@@ -2,6 +2,7 @@
 id: "b5d15f83-c9f0-4d0a-9b05-6dc3ca5e3b49"
 title: "Static Dress"
 socials:
+  musicbrainz: "9f61afe8-7142-44ee-b518-4dbb1caefb82"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,14 +12,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  apple: "1476714067"
+  deezer: "71960582"
+  qobuz: "9967512"
+  spotify: "1Lqdsv7Ff4GNq9PM3Yd0vi"
+  tidal: "16582455"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Static Dress est un groupe anglais originaire de Leeds, dans le West Yorkshire, formé en 2018 par d'anciens membres

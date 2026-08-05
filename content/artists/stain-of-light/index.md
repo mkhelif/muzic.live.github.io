@@ -3,6 +3,7 @@ id: "60dec6b9-c72e-4806-ab64-bbbce083b9e3"
 title: "Stain of Light"
 type: band
 socials:
+  musicbrainz: "e8b0513d-a1da-4e45-8c38-d62915a23375"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,4 +21,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

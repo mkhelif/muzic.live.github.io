@@ -43,6 +43,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Deliverance est un groupe de metal extrême français originaire d'Île-de-France, fondé en 2012 par

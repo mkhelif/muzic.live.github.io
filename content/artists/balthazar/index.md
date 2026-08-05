@@ -65,6 +65,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "16338"
+  songkick: "383629"
   youtube: ""
   web: ""
   email: ""
@@ -74,6 +75,8 @@ socials:
   qobuz: ""
   spotify: "4oMBP1OWXtmxyDhAj2aRyQ"
   tidal: "3577076"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Balthazar est un groupe de rock indie belge originaire de Courtrai (Kortrijk), en

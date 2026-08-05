@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "197154"
+  songkick: "102956"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "4133279"
 lifespan:
   start: 1951-06-24
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 David Michael « Ram Jam » Rodigan MBE est né le 24 juin 1951 en Allemagne, sur une base militaire, d'une

@@ -21,6 +21,8 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 DJ Bens est un DJ et producteur français qui émerge sur la scène électronique hexagonale avec une approche technique et

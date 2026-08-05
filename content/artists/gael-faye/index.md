@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "1432292"
+  songkick: "5473573"
   youtube: ""
   web: ""
   email: ""
@@ -23,6 +24,8 @@ todo:
   - Add socials
 lifespan:
   start: 1982-08-06
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Gaël Faye est un auteur-compositeur-interprète, rappeur et écrivain franco-rwandais né le 6 août 1982 à Bujumbura, au

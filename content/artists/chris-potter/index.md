@@ -9,6 +9,7 @@ socials:
   threads: ""
   x: ""
   bandsintown: "48339"
+  songkick: "466442"
   youtube: ""
   web: ""
   email: ""
@@ -16,10 +17,12 @@ socials:
   apple: "408167"
   deezer: "74604"
   qobuz: ""
-  spotify: ""
+  spotify: "4hdVPbHhsWAn2XTXVRJoxB"
   tidal: "60001"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

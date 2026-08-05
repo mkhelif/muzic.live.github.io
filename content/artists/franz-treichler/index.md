@@ -14,4 +14,6 @@ socials:
   youtube: ""
 lifespan:
   start: 1961
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

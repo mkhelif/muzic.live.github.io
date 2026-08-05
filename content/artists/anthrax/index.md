@@ -113,6 +113,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "1135"
+  songkick: "447883"
   youtube: ""
   web: ""
   email: ""
@@ -122,6 +123,8 @@ socials:
   qobuz: "62193"
   spotify: "3JysSUOyfVs1UQ0UaESheP"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Anthrax est l'un des groupes fondateurs du thrash metal, formé le 18 juillet 1981 à New York par le guitariste

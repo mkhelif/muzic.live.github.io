@@ -151,6 +151,7 @@ socials:
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "509644"
   youtube: ""
   web: ""
   email: ""
@@ -163,6 +164,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Guns N' Roses est un groupe de hard rock américain formé à Los Angeles en 1985, né de la fusion de deux formations

@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "1092"
+  songkick: "452089"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "3566016"
 lifespan:
   start: 1980-04-09
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Albert Hammond Jr est un musicien américain né à Los Angeles, fils du compositeur britannico-gibraltarien Albert Hammond

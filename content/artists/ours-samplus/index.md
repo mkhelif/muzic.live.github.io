@@ -2,7 +2,15 @@
 id: "ebc8e73e-5fde-49cb-8198-4349c49f5501"
 title: "Ours Samplus"
 type: band
+members:
+  - id: "10a5c68f-8c41-4ff4-8eac-992dd5ad2030"
+    roles:
+      - other
+  - id: "7b389c2c-4aab-4083-a003-d4e9533ed121"
+    roles:
+      - other
 socials:
+  musicbrainz: "41acb83d-394a-453c-936b-8d6d5098bfdd"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,9 +22,12 @@ socials:
   amazon: ""
   apple: ""
   deezer: "7247886"
-  qobuz: ""
+  qobuz: "3080065"
   spotify: "0XtVN1QaB7vYRpw4qEIRt0"
-  tidal: ""
+  tidal: "8666087"
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Ours Samplus est un duo de beatmakers français originaire de Lille, membre du collectif Tchernolille, actif depuis

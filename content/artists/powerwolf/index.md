@@ -29,12 +29,14 @@ members:
     periods:
       - start: 2011
 socials:
+  musicbrainz: "3ef77bdc-b1ce-4e44-aa4b-acfa763c5284"
   facebook: "powerwolfmetal"
   instagram: "officialpowerwolf"
   tiktok: "@powerwolfmetal"
   x: "powerwolfband"
   threads: "@officialpowerwolf"
   bandsintown: "66273"
+  songkick: "528716"
   youtube: "@Powerwolfmetal"
   web: "https://www.powerwolf.net"
   tidal: "3545381"
@@ -42,8 +44,10 @@ socials:
   email: ""
   amazon: ""
   apple: "272130237"
-  deezer: ""
+  deezer: "428405"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Powerwolf est un groupe de power metal allemand formé en 2003, qui a créé un univers musical unique mêlant imagerie

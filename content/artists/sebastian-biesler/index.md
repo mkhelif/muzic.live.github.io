@@ -20,5 +20,7 @@ todo:
   - Add bio
   - Add socials
   - Add information
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 

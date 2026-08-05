@@ -3,6 +3,7 @@ id: "edd8b184-b0de-4293-a33a-3a0b298da435"
 title: "Steve Gallo"
 type: person
 socials:
+  musicbrainz: "ebbe1f26-dc2e-4560-b196-54f806cf28fc"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

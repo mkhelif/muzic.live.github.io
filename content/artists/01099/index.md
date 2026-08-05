@@ -34,6 +34,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 01099 est un groupe de rap allemand originaire de Dresde, dont le nom fait directement référence au code postal du

@@ -11,10 +11,13 @@ socials:
   x: ""
   threads: ""
   bandsintown: "37676"
+  songkick: "9515"
   youtube: ""
   spotify: "7fRabwYwLBgvOudI9GY2Op"
 todo:
   - Add description/picture/socials
 lifespan:
   start: 1978-12-05
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

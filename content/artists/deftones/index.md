@@ -46,6 +46,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "81"
+  songkick: "83230"
   youtube: ""
   web: ""
   email: ""
@@ -55,6 +56,8 @@ socials:
   qobuz: ""
   spotify: "6Ghvu1VvMGScGpOUJBAHNH"
   tidal: "15349"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Deftones est un groupe de metal alternatif américain formé à Sacramento, en Californie, en 1988.

@@ -20,6 +20,7 @@ members:
     periods:
       - start: 2020
 socials:
+  musicbrainz: "c602c091-19d7-4f3a-82f3-636d318c5445"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -29,13 +30,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1160478537"
   deezer: "11121598"
   qobuz: ""
   spotify: "79wCmFlJs2qglR5n4UHMoq"
-  tidal: ""
+  tidal: "8165897"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

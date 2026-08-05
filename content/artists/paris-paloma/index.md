@@ -3,6 +3,7 @@ id: "e30a79da-7be4-4324-8e0f-a5c1440f3fe8"
 title: "Paris Paloma"
 type: person
 socials:
+  musicbrainz: "2ba1af4b-9d6b-4a0a-af47-f00769700da2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,9 +15,14 @@ socials:
   amazon: ""
   apple: "1530898376"
   deezer: "106394202"
-  qobuz: ""
+  qobuz: "10534816"
   spotify: "2EXpthNgSeTDeX8nGwxppp"
-  tidal: ""
+  tidal: "21236935"
+lifespan:
+  start: 1999-11-17
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Paris Paloma est une autrice-compositrice-interprète et guitariste britannique née le 17 novembre 1999. Elle grandit à

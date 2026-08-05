@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "40342"
+  songkick: "481948"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "3672712"
 lifespan:
   start: 1975-03-14
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Abd al Malik, né Régis Fayette-Mikano le 14 mars 1975 à Paris (14e arrondissement) d'un père haut fonctionnaire

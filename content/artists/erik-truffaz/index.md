@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "39853"
+  songkick: "460492"
   youtube: ""
   web: ""
   email: ""
@@ -23,6 +24,8 @@ todo:
   - Add logo cover
 lifespan:
   start: 1960-04-03
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Erik Truffaz est un trompettiste de jazz né en 1960 en Suisse et qui a grandi dans le Pays de Gex, en France, où

@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "78611"
+  songkick: "205177"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "30159"
 lifespan:
   start: 1952-05-24
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Marc Cerrone, dit Cerrone, est né le 24 mai 1952 à Vitry-sur-Seine de parents immigrés italiens ayant fui le

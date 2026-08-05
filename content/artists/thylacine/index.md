@@ -3,23 +3,29 @@ id: "408ec437-b75c-47d8-9dd6-78011ac7c011"
 title: "Thylacine"
 type: person
 socials:
+  musicbrainz: "e095407c-4103-4c66-b616-0dab1db05106"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "721358"
+  songkick: "1134886"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "106574"
   qobuz: ""
   spotify: "5If5Tdg66Q5X3L57G7A6Pn"
-  tidal: ""
+  tidal: "4432941"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1992-08-13
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 William Rezé, connu sous le nom de scène Thylacine, est un musicien et compositeur français de musique électronique

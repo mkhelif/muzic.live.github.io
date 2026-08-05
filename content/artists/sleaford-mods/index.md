@@ -2,21 +2,42 @@
 id: "a483f812-b351-44aa-95e9-623e18842a29"
 title: "Sleaford Mods"
 type: band
+members:
+  - id: "6c27065c-c9f9-42c7-ba6c-df26f244d29b"
+    roles:
+      - sing
+    periods:
+      - start: 2007
+  - id: "59f3ddcc-91e7-4c94-a3b5-73d74c739e8a"
+    roles:
+      - other
+    periods:
+      - start: 2011
+  - id: "64678949-7e95-4dbf-8ad1-9009cfe10b68"
+    roles:
+      - other
+    periods:
+      - start: 2007
+        end: 2011
 socials:
+  musicbrainz: "09d8290b-6ada-422f-8ce3-19349fb1c15d"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "251855"
+  songkick: "635776"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B0077FOANE"
+  apple: "501699727"
   deezer: "5326959"
   qobuz: ""
   spotify: "0otAqZw8htTsGHfqR491Yh"
-  tidal: ""
+  tidal: "6024212"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Sleaford Mods est un duo post-punk anglais formé en 2007 à Nottingham, réunissant le chanteur Jason Williamson et,

@@ -20,6 +20,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "1997739"
+  songkick: "6035949"
   youtube: ""
   web: ""
   email: ""
@@ -32,6 +33,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Adriatique est un duo de DJs et producteurs suisses formé à Zurich, composé d'Adrian Shala et Adrian Schweizer. Le nom

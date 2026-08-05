@@ -25,4 +25,6 @@ todo:
   - Add description
 lifespan:
   start: 1969-09-30
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

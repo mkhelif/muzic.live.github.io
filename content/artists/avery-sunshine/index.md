@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "4yMxdaUoKCalQPX9BMeeFf"
   tidal: "4347667"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Née Denise Nicole White le 22 mai 1975 à Chester, en Pennsylvanie, Avery Sunshine commence le piano dès l'âge de huit

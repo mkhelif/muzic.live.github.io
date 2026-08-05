@@ -22,6 +22,7 @@ socials:
   tiktok: "@angusandjuliastone"
   x: "angusjuliastone"
   threads: "@angusandjuliastone"
+  songkick: "87034"
   youtube: "AngusAndJuliaStone"
   web: "https://angusandjuliastone.com/"
   tidal: "3722143"
@@ -31,6 +32,8 @@ socials:
   email: "info@angusandjuliastone.com"
   amazon: ""
   qobuz: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Angus & Julia Stone sont un duo australien formé par un frère et une sœur originaires des Northern Beaches de Sydney.

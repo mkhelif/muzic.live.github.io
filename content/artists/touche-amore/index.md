@@ -41,11 +41,13 @@ members:
     periods:
       - start: 2010
 socials:
+  musicbrainz: "ea367e3c-4c74-460b-8a99-bbbb9b1ad5cf"
   facebook: "ToucheAmore"
   instagram: "toucheamore"
   tiktok: ""
   x: "toucheamore"
   bandsintown: "248434"
+  songkick: "2388997"
   youtube: "@toucheamoreband"
   web: "www.toucheamore.com"
   email: ""
@@ -54,7 +56,9 @@ socials:
   deezer: "391403"
   qobuz: ""
   spotify: "16QCJENzcdhwka9bTKYMVB"
-  tidal: ""
+  tidal: "3814729"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Touché Amoré est un groupe de post-hardcore américain originaire de Burbank, en Californie, formé en 2007. Depuis

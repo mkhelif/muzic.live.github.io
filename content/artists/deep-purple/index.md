@@ -110,6 +110,7 @@ socials:
   x: "_DeepPurple"
   threads: "@deeppurple_official"
   bandsintown: "31005"
+  songkick: "99952"
   youtube: "@DeepPurpleOfficial"
   web: "https://deeppurple.com/"
   tidal: "3355"
@@ -122,6 +123,8 @@ socials:
   qobuz: "26742"
 todo:
   - Add cover picture from concert
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Il existe un riff de guitare que tout le monde connaît. Absolument tout le monde — votre grand-mère, votre voisin, le

@@ -3,6 +3,7 @@ id: "ac4cbdec-d9a6-4a20-8837-fb4b786d4920"
 title: "Seedy Liars"
 type: band
 socials:
+  musicbrainz: "b17c8c18-ade3-4999-9338-9e71ec64f6ad"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

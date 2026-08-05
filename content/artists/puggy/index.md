@@ -2,21 +2,37 @@
 id: "4f7db108-d174-49ab-abda-7e6177ff4517"
 title: "Puggy"
 type: band
+members:
+  - id: "ae5a49e5-c811-4668-a795-fe096e7b8524"
+    roles:
+      - drums
+    periods:
+      - start: 2005
+  - id: "24dcc21e-a0ad-4c23-9469-4871d8bcaf95"
+    roles:
+      - other
+  - id: "b3f97d6a-0700-4f61-bab0-81e2fb401fdb"
+    roles:
+      - other
 socials:
+  musicbrainz: "5049ba10-e082-480b-b5da-0b89a1869e84"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "17732"
+  songkick: "289691"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "200654100"
+  deezer: "310268"
+  qobuz: "303550"
   spotify: "1BNQnTVxfQqeMxr6xBi8X6"
-  tidal: ""
+  tidal: "3922974"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Puggy est un trio pop rock cosmopolite formé en 2004 sur les bancs de l'école Jazz Studio d'Anvers, composé du

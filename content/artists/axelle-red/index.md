@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "77041"
+  songkick: "497030"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "8837"
 lifespan:
   start: 1968-02-15
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Axelle Red, de son vrai nom **Fabienne Demal**, naît le 15 février 1968 à Hasselt, en Belgique, fille d'un avocat

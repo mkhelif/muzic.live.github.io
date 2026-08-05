@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "348068"
+  songkick: "2803851"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "3951254"
 lifespan:
   start: 1981-01-24
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Ben Mazué, de son vrai nom Benjamin Mazuet, est un auteur-compositeur-interprète français né le 24 janvier 1981 à

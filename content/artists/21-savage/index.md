@@ -16,7 +16,7 @@ socials:
   amazon: "B01AB4CR8W"
   apple: "894820464"
   deezer: "6853403"
-  qobuz: ""
+  qobuz: "2766992"
   spotify: "1URnnhqYAYcrqrcwql10ft"
   tidal: "7279286"
 todo:
@@ -26,5 +26,6 @@ todo:
 lifespan:
   start: 1992-10-22
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

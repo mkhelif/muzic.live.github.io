@@ -3,20 +3,27 @@ id: "df73511e-2798-4de5-9688-a784a41536a5"
 title: "Patrick Watson"
 type: person
 socials:
+  musicbrainz: "592da4c4-9618-4a1a-a944-e60c05c39037"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "9436"
+  songkick: "91425"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B000QJR864"
   apple: "67896299"
   deezer: "13887"
   qobuz: ""
   spotify: "7bPs6jf983f0bjRAt1yxDM"
-  tidal: ""
+  tidal: "3541669"
+lifespan:
+  start: 1979-10-08
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Patrick Watson, né le 8 octobre 1979 à Lancaster, en Californie, est un auteur-compositeur-interprète canadien

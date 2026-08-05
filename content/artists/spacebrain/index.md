@@ -3,6 +3,7 @@ id: "0c1ca2a9-dbb7-4e44-8ad8-404d3038c1a4"
 title: "SpaceBrain"
 type: band
 socials:
+  musicbrainz: "d693f325-b49c-4c47-a1b8-06adb0d922fa"
   facebook: "spacebraingva"
   instagram: "spacebrain_band"
   youtube: "@spacebraingva"
@@ -17,6 +18,8 @@ socials:
   deezer: "9691442"
   qobuz: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Dans le paysage rock helvétique, Spacebrain trace depuis 2020 une trajectoire singulière, quelque part entre les grooves

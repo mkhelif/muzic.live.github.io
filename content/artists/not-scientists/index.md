@@ -3,6 +3,7 @@ id: "b14e9075-536c-4533-a631-bcee9a625d47"
 title: "Not Scientists"
 type: band
 socials:
+  musicbrainz: "0a97f7a2-e63d-4b31-ba34-32046857e26c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,7 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---

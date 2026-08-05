@@ -21,6 +21,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 1000 Rabbits est un groupe britannique d'art-rock et d'indie pop formé à Aldeburgh, dans le Suffolk, avant de s'établir

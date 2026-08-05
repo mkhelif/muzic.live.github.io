@@ -2,21 +2,33 @@
 id: "9fa6ad88-bcb1-49a1-9ef4-215646ca14a0"
 title: "Nusantara Beat"
 type: band
+members:
+  - id: "548fd43e-7971-4dc6-99ad-4f2d7ed64645"
+    roles:
+      - other
+  - id: "07384c26-eca9-48f8-813e-3cdffb179d07"
+    roles:
+      - other
 socials:
+  musicbrainz: "f7fbd3f4-d47b-4d49-a09f-a9273b0a9c86"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "15542045"
+  songkick: "10255668"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "1681072877"
   deezer: "208901187"
-  qobuz: ""
+  qobuz: "18077358"
   spotify: "6iQZl7RmTVznyFCrML933x"
-  tidal: ""
+  tidal: "38626188"
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Nusantara Beat est un sextet psych-folk originaire d'Amsterdam qui explore l'héritage indonésien commun à ses membres à

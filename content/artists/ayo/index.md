@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "4436"
+  songkick: "398570"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: ""
 lifespan:
   start: 1980-09-14
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Ayọ — de son vrai nom Joy Olasunmibo Ogunmakin — est une chanteuse, compositrice et actrice

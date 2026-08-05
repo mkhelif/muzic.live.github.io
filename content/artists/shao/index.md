@@ -2,6 +2,7 @@
 id: "319e2374-fdd3-4c2a-85c1-ceafa4b49ffa"
 title: "Shao"
 socials:
+  musicbrainz: "1ee531ac-2612-4b8f-9520-c00808e0dad0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,4 +21,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -84,6 +84,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "2941"
+  songkick: "94059"
   youtube: ""
   web: ""
   email: ""
@@ -93,6 +94,8 @@ socials:
   qobuz: "809394"
   spotify: "29PgYwTelpNl6370XLqFtN"
   tidal: "3542791"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Cryptopsy est un groupe de death metal canadien originaire de Montréal, au Québec, fondé en 1988 sous le

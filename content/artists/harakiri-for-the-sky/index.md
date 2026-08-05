@@ -13,6 +13,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "2260779"
+  songkick: "7701824"
   youtube: ""
   web: ""
   email: ""
@@ -22,4 +23,6 @@ socials:
   qobuz: "2304847"
   spotify: "58KBq6qkQnfWYRqCjffQQq"
   tidal: "5607378"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

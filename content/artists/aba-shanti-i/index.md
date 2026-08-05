@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Aba Shanti-I, de son vrai nom Joseph Smith, est né à Hackney, à Londres, de parents originaires d'Antigua ayant

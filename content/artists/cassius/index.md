@@ -19,6 +19,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "2470"
+  songkick: "565104"
   youtube: ""
   web: ""
   email: ""
@@ -28,6 +29,8 @@ socials:
   qobuz: ""
   spotify: "4sf3QZW8a3xZ14IGsOAzoy"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Cassius est un duo français emblématique de la French Touch, formé par les producteurs **Philippe Zdar** (Philippe

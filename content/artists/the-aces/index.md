@@ -28,6 +28,7 @@ members:
     periods:
       - start: 2008
 socials:
+  musicbrainz: "48f2694e-c226-4e01-a0d4-d7ea007ccd47"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -37,13 +38,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "1238525085"
+  deezer: "11639679"
+  qobuz: "95086"
   spotify: "2AmfMGi3WZMxqFDHissIAe"
-  tidal: ""
+  tidal: "8790544"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -20,6 +20,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1954-01-31
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Adrian Vandenberg, de son vrai nom Adriaan van den Berg, naît le 31 janvier 1954 aux Pays-Bas et se passionne très tôt

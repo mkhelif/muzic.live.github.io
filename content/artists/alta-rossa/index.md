@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "1OZJ1yBSsVelarbCxxWgRj"
   tidal: "25584866"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Alta Rossa est un groupe de post-metal sludge formé en 2020 à Besançon, dans l'est de la France. Réunissant cinq

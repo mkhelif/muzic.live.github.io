@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: "1foySkXTahyUyQ1ojNowrI"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 After Geography est un quartet de pop rock français dont le nom évoque à lui seul une certaine idée du voyage musical.

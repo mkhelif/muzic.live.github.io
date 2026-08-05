@@ -9,6 +9,7 @@ socials:
   x: "grandson"
   tiktok: "@grandson"
   bandsintown: "5358826"
+  songkick: "9072919"
   youtube: "@grandson"
   web: "https://grandsonmusic.com/"
   tidal: "4409634"
@@ -20,6 +21,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1993-10-25
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Grandson est le nom de scène de **Jordan Edward Benjamin**, auteur-compositeur-interprète né le 25 octobre 1993 à

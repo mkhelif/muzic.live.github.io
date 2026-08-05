@@ -20,6 +20,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1980-02-20
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Gringe, de son vrai nom Guillaume Tranchant, est un rappeur français membre du duo Casseurs Flowters avec **Orelsan**, qui

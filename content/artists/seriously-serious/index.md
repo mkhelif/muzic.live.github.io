@@ -3,6 +3,7 @@ id: "43dde4ab-4757-4283-90ce-408d050bc4bc"
 title: "Seriously Serious"
 type: band
 socials:
+  musicbrainz: "721d8eb2-f26b-4657-8592-d74308823398"
   facebook: "seriously.serious.official"
   instagram: "seriously_serious_official"
   youtube: "@SeriouslySerious"
@@ -16,4 +17,6 @@ socials:
   apple: ""
   deezer: "12127848"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

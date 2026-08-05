@@ -24,6 +24,7 @@ members:
     periods:
       - start: 2019
 socials:
+  musicbrainz: "7d85221d-8ec3-4049-94bf-42b213ff85d2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -33,14 +34,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1199243583"
   deezer: "11843541"
   qobuz: ""
   spotify: "0iU3WDujScAofxcK2EMypN"
-  tidal: ""
+  tidal: "8466912"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Thousand Below est un groupe de post-hardcore américain originaire de San **Diego**, en Californie, formé discrètement en

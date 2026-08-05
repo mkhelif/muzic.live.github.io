@@ -20,6 +20,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1952-09-09
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Dave Stewart est un musicien britannique né en 1952, qui commence sa carrière dans les années 70 avant de connaître la

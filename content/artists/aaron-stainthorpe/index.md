@@ -22,4 +22,6 @@ todo:
   - Add socials
 lifespan:
   start: 1968-11-12
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

@@ -2,24 +2,63 @@
 id: "3236b049-6333-4c39-8372-1b4b53ba864b"
 title: "Skunk Anansie"
 type: band
+members:
+  - id: "a7f8f11b-99b7-4dd3-af40-497ffffff016"
+    roles:
+      - guitar
+    periods:
+      - start: 2009
+      - start: 1994
+        end: 2001
+  - id: "6c39de19-1dd3-4086-b01e-800680289527"
+    roles:
+      - bass
+    periods:
+      - start: 2009
+      - start: 1994
+        end: 2001
+  - id: "3f5e1837-8238-4a8a-9b19-1c57171d4b91"
+    roles:
+      - sing
+    periods:
+      - start: 2009
+      - start: 1994
+        end: 2001
+  - id: "82a408b0-b06a-43ff-8c7b-1df7ecf3311f"
+    roles:
+      - drums
+    periods:
+      - start: 2009
+      - start: 1995
+        end: 2001
+  - id: "d218b56c-11f2-4dd5-9137-a341f5cd2160"
+    roles:
+      - drums
+    periods:
+      - start: 1994
+        end: 1995
 socials:
+  musicbrainz: "e212efdf-98b2-4dce-92ed-62cfc1e29854"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "9283"
+  songkick: "396097"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "5796114"
   deezer: "1025"
-  qobuz: ""
+  qobuz: "121234"
   spotify: "5HlXA01kcjssYDT7EoqUJF"
-  tidal: ""
+  tidal: "9566"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Skunk Anansie est un groupe de rock britannique originaire de Londres, formé en 1994. Il réunit Skin au chant et à

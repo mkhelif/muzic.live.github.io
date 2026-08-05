@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "47671"
+  songkick: "458707"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "3544517"
 lifespan:
   start: 1938-03-15
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Charles Lloyd est né le 15 mars 1938 à Memphis, Tennessee, dans un foyer imprégné par le blues, le gospel et le

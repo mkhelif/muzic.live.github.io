@@ -2,6 +2,7 @@
 id: "f9fc2a6c-77bd-4dc2-a65b-0a85c4eefce8"
 title: "The Bar Stool Preachers"
 socials:
+  musicbrainz: "e46a4d39-7043-42b3-ae12-d441a385796c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: ""
   deezer: "12767795"
   qobuz: ""
-  spotify: ""
+  spotify: "3KcidWlhRLEyML9jFE6fKg"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

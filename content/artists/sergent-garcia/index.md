@@ -3,6 +3,7 @@ id: "08987023-cbee-4238-a3c1-38937775d332"
 title: "Sergent Garcia"
 type: person
 socials:
+  musicbrainz: "84f6391b-32be-4e06-bfa4-ad9d9cb9ce29"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,7 +17,11 @@ socials:
   deezer: "1605"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "3510626"
+lifespan:
+  start: 1964
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Sergent Garcia est le nom de scène de Bruno Garcia, chanteur français né en 1964, ancien guitariste du groupe punk

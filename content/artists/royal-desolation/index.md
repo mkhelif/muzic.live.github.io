@@ -3,6 +3,7 @@ id: "8e2d9bb6-4300-4074-bf47-4cf86d0d6b45"
 title: "Royal Desolation"
 type: band
 socials:
+  musicbrainz: "87e17fa2-06a0-434a-9190-4ece0f43d2f5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add cover
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

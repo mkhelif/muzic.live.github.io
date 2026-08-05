@@ -20,6 +20,8 @@ socials:
   tidal: "3558465"
 lifespan:
   start: 1992
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Danny Ocean, de son vrai nom Daniel Alejandro Morales Reyes, est né le 5 mai 1992 à Caracas, Venezuela.

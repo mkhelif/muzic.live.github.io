@@ -3,6 +3,7 @@ id: "ff5468ca-a4dc-4a06-9993-76c8756462b2"
 title: "Tuuletar"
 type: band
 socials:
+  musicbrainz: "757334ee-3e12-474f-a11d-97e870e7e183"
   facebook: "tuuletarband"
   instagram: "tuuletarband/?hl=fi"
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

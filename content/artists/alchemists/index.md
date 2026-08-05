@@ -21,6 +21,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Alchemists est un groupe de metal moderne suisse fondé en 2019. Puisant leur inspiration auprès de formations telles

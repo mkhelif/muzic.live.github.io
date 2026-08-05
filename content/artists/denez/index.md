@@ -8,6 +8,7 @@ socials:
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "8998"
   youtube: ""
   web: ""
   email: ""
@@ -19,6 +20,8 @@ socials:
   tidal: "57081"
 lifespan:
   start: 1966-02-17
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 **Denez Prigent** est né le 17 février 1966 à Santec, dans le Finistère. Il grandit entre Le Relecq-Kerhuon

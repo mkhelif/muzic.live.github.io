@@ -3,6 +3,7 @@ id: "c395f378-6ba4-4901-8421-1e8d5cef2fbe"
 title: "The Dead Sexy"
 type: band
 socials:
+  musicbrainz: "85e7475a-c1f7-498d-95c7-32c1407c8d82"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,4 +21,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

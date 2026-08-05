@@ -2,6 +2,13 @@
 id: "66a7fb55-fcdb-488b-960d-0b86867ae81e"
 title: "AREA21"
 type: band
+members:
+  - id: "6a5cfeb2-586f-4df0-b1b9-0264d060d792"
+    roles:
+      - other
+  - id: "a507779f-98cd-4276-87eb-e69fc8c742de"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -13,15 +20,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1101569583"
+  deezer: "10159116"
   qobuz: ""
-  spotify: ""
-  tidal: ""
-  musicbrainz: ""
+  spotify: "76YIoWHp3Ri3q1ocOPtFzp"
+  tidal: "7728653"
+  musicbrainz: "579e4050-bd08-4d8c-8634-47299dd34995"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

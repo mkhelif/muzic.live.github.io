@@ -22,6 +22,8 @@ todo:
   - Add picture
 lifespan:
   start: 1994-03-10
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Il s'appelle **Benito Antonio Martínez Ocasio**, il est né le 10 mars 1994 à Vega Baja, Puerto Rico, et il a changé la

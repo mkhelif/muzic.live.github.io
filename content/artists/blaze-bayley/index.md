@@ -12,9 +12,12 @@ socials:
   x: ""
   threads: ""
   bandsintown: "148226"
+  songkick: "253165"
   youtube: ""
   qobuz: "172269"
   spotify: "2N1l5VEy6whDRqvnUElnau"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Blaze Bayley, de son vrai nom Bayley Alexander Cooke, est un chanteur, musicien et parolier anglais né le 29 mai

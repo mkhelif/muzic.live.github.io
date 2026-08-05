@@ -20,6 +20,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Edge of Paradise est un groupe de rock américain formé à Los Angeles en 2011 par la chanteuse, pianiste et

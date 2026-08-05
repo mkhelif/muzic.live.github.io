@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "61232"
+  songkick: "357202"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "56211"
 lifespan:
   start: 1973-01-20
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Né le 20 janvier 1973 à Villefranche-sur-Saône, Benjamin Biolay grandit dans un foyer musical marqué par la clarinette

@@ -9,6 +9,7 @@ socials:
   threads: ""
   x: ""
   bandsintown: "211495"
+  songkick: "1035378"
   youtube: ""
   web: ""
   email: ""
@@ -21,6 +22,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Fit For A King, aussi connu sous le sigle FFAK, est un groupe de metalcore américain originaire de Tyler, au Texas,

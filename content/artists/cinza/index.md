@@ -25,5 +25,7 @@ social:
   youtube: "@cinza1879"
   web: "https://www.cinza.fr/"
   spotify: "3KwmuFoCYBpnx7e9i6VZr0"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 

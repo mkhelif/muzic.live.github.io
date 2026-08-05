@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "2199303"
+  songkick: "4727783"
   youtube: ""
   web: ""
   email: ""
@@ -18,6 +19,8 @@ socials:
   qobuz: ""
   spotify: "7yLFzjoFTaleRDbOsaSvXE"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Franck Carducci est un multi-instrumentiste français originaire de Lyon, issu d'une famille où la musique tient lieu

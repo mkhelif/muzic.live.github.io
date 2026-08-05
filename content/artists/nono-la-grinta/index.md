@@ -3,6 +3,7 @@ id: "2d9bfcc2-dedf-4ec6-98b8-bfc205165cf8"
 title: "Nono La Grinta"
 type: person
 socials:
+  musicbrainz: "ef57061a-5919-4c3c-8905-ceb7615eb874"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,10 +14,13 @@ socials:
   email: ""
   amazon: ""
   apple: "1660680236"
-  deezer: ""
+  deezer: "194146027"
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Nono La Grinta, de son vrai nom Noé Kasiama, est un rappeur et producteur français né le 5 février 2006

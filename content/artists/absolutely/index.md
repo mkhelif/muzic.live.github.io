@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: "4ellgkPyhbJetngXmHX5Zh"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Absolutely est un projet musical dont les détails biographiques restent peu documentés dans les sources

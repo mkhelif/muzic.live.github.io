@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "10024792"
+  songkick: "8113498"
   youtube: ""
   web: ""
   email: ""
@@ -18,6 +19,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Fallen Lillies est un groupe de hard rock à quatre têtes originaire de la région de Besançon, en Franche-Comté.

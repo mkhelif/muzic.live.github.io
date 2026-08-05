@@ -73,6 +73,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "3310"
+  songkick: "421595"
   youtube: ""
   web: ""
   email: ""
@@ -82,6 +83,8 @@ socials:
   qobuz: "556086"
   spotify: "7eYmDBinb760MUIfoRdlGQ"
   tidal: "3564158"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Bloodbath est un supergroupe de death metal suédois formé à Stockholm en 1998, né d'une volonté commune de

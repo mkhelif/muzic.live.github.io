@@ -12,5 +12,6 @@ socials:
   youtube: ""
   spotify: "4BcM3SmpFeEwv3KztlpYFR"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

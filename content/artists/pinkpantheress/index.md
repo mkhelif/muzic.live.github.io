@@ -3,22 +3,28 @@ id: "c480bd4b-fa61-4b35-a7af-4d38033b13de"
 title: "PinkPantheress"
 type: person
 socials:
+  musicbrainz: "7441014f-f8f5-494f-81db-ff166fbc078d"
   instagram: "pinkpantheress"
   tiktok: "@pinkpantheress"
   x: "pinkpantheress2"
   bandsintown: "15495835"
+  songkick: "10176925"
   youtube: "@ponies721"
   web: "https://www.pantheress.pink/"
   tidal: "23409727"
   spotify: "78rUTD7y6Cy67W1RVzYs7t"
   facebook: ""
   email: ""
-  amazon: ""
+  amazon: "B08W333WRL"
   apple: "1552521489"
   deezer: "122602052"
-  qobuz: ""
+  qobuz: "9614461"
 todo:
   - Add picture from concert
+lifespan:
+  start: 2001-04-19
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 PinkPantheress, de son vrai nom Victoria Beverley Walker, est une chanteuse, auteure-compositrice et productrice

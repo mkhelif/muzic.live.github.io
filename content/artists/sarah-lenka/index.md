@@ -3,6 +3,7 @@ id: "f41d5f2d-7194-4db7-91ae-0bbbc0dc2d24"
 title: "Sarah Lenka"
 type: person
 socials:
+  musicbrainz: "2ee3c683-78aa-4fd9-94c8-b8a58972c2c9"
   facebook: "sarah.lenka"
   instagram: "sarah.lenka"
   bandsintown: "335773"
@@ -17,6 +18,8 @@ socials:
   apple: ""
   deezer: "1092032"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Sarah Lenka est une autrice-compositrice-interprète et conteuse française dont la musique navigue entre

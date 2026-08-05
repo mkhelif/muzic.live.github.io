@@ -21,6 +21,8 @@ socials:
   tidal: "4549591"
 lifespan:
   start: 1978-03-22
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Sérigne M'Baye Gueye, connu sous le nom de Disiz (anciennement Disiz la Peste), est un rappeur et acteur français né le

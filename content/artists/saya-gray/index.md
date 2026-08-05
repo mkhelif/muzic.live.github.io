@@ -3,10 +3,12 @@ id: "35074d96-f001-461c-8c28-60eaa0abacc5"
 title: "Saya Gray"
 type: person
 socials:
+  musicbrainz: "b949a783-214b-429d-a184-4e75c0f8be9c"
   instagram: "sayagray"
   bandcamp: "sayagray"
   soundcloud: "sayagray-music"
   bandsintown: "15547399"
+  songkick: "10277192"
   youtube: "sayagraymusic"
   web: "https://www.sayagray.ca/"
   tidal: "14347717"
@@ -16,9 +18,11 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1360394036"
   deezer: "13706355"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Née en 1995 à Toronto, dans le quartier de Beaches, Saya Gray est une artiste canadienne issue d'une famille

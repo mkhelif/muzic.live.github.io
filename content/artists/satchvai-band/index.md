@@ -2,7 +2,15 @@
 id: "eba52f68-86ef-4673-ab48-9075d93d9704"
 title: "SatchVai Band"
 type: band
+members:
+  - id: "f2456d41-ce8e-4ca5-95fd-3f0ad99e6c81"
+    roles:
+      - other
+  - id: "de1540b4-a662-44f1-b079-4c7b0b6c7ec5"
+    roles:
+      - other
 socials:
+  musicbrainz: "9620e5d2-df6c-4cb1-832a-6bb7d749025e"
   web: "https://www.satchvaiband.com/"
   facebook: ""
   instagram: ""
@@ -17,6 +25,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Le SatchVai Band incarne la rencontre exceptionnelle de deux virtuoses de la guitare électrique : **Joe Satriani** et **Steve Vai**. Cette formation occasionnelle réunit deux des instrumentistes les plus influents de la scène rock instrumentale

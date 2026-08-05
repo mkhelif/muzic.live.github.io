@@ -48,6 +48,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "528"
+  songkick: "449005"
   youtube: ""
   web: ""
   email: ""
@@ -57,6 +58,8 @@ socials:
   qobuz: "111721"
   spotify: "6H1RjVyNruCmrBEWRbD0VZ"
   tidal: "948"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Def Leppard est un groupe de rock britannique formé à Sheffield en 1976, devenu l'une des formations les plus vendues de

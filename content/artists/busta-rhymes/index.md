@@ -9,6 +9,7 @@ socials:
   threads: ""
   x: ""
   bandsintown: "138"
+  songkick: "336514"
   youtube: ""
   web: ""
   email: ""
@@ -18,6 +19,8 @@ socials:
   qobuz: "62425"
   spotify: "1YfEcTuGvBQ8xSD1f53UnK"
   tidal: "4141"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Né Trevor George Smith Jr. le 20 mai 1972 de parents jamaïcains, Busta Rhymes revendique très tôt son héritage

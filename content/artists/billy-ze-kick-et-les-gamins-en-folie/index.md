@@ -22,6 +22,7 @@ socials:
   threads: ""
   x: ""
   bandsintown: "372602"
+  songkick: "501804"
   youtube: ""
   web: ""
   email: ""
@@ -37,4 +38,6 @@ todo:
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

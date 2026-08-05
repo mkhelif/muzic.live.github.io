@@ -59,6 +59,7 @@ socials:
   tiktok: "@asian_dub_foundation"
   x: "ADFofficial"
   bandsintown: "7482"
+  songkick: "265138"
   youtube: "@AsianDubFoundation1official"
   bandcamp: "asiandubfoundation"
   web: "https://www.asiandubfoundation.com"
@@ -69,6 +70,8 @@ socials:
   apple: "6114527"
   deezer: "1422"
   qobuz: "43812"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Asian Dub Foundation est un groupe britannique formé à Londres en 1993, né de la rencontre entre musiciens d'origines

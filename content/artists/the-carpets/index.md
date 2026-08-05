@@ -3,6 +3,7 @@ id: "bfc92821-f6b9-466a-9f8d-7692b862e016"
 title: "The Carpets"
 type: band
 socials:
+  musicbrainz: "ca7615e3-6ccc-4551-86bb-38be62724d6c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,8 @@ socials:
   spotify: ""
   tidal: ""
 cover: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 The Carpets est un groupe de rock indépendant né de l'amitié entre le chanteur-guitariste **Luís Santos** et le

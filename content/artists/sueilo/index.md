@@ -3,6 +3,7 @@ id: "0409aaff-fce1-43c0-ab33-883883f155f2"
 title: "Sueilo"
 type: person
 socials:
+  musicbrainz: "6a8b1e7f-83d8-4fa4-867a-d9da61c2de4b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Sueilo, de son vrai nom Louise Benard, est une artiste originaire de l'île de la Réunion, active depuis 2022. Elle se

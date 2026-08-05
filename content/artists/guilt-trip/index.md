@@ -21,6 +21,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Guilt Trip est un groupe de metalcore britannique originaire de Manchester, formé en 2015 avec pour ambition de jouer

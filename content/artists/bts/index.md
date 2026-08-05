@@ -45,6 +45,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "695158"
+  songkick: "8268208"
   youtube: ""
   web: ""
   email: ""
@@ -57,6 +58,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 BTS est un groupe sud-coréen de sept membres — RM, Jin, Suga, J-Hope, Jimin, V et Jungkook — formé par la maison de

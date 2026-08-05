@@ -149,6 +149,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "51356"
+  songkick: "84651"
   youtube: ""
   web: ""
   email: ""
@@ -161,6 +162,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Accept est un groupe de heavy metal allemand originaire de Solingen, en Rhénanie-du-Nord-Westphalie, dont les racines

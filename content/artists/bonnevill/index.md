@@ -2,6 +2,10 @@
 id: "494061ce-5dec-45f3-88d4-58202b5f84b6"
 title: "Bonnevill"
 type: band
+members:
+  - id: "e4671f25-b7f0-4ed4-8dcc-0039eda0cfec"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "707784a4-6332-4a54-8cba-67a8df626ea1"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

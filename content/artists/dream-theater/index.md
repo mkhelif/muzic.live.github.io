@@ -67,6 +67,7 @@ socials:
   tiktok: "@dreamtheaternet"
   x: "dreamtheaternet"
   bandsintown: "13451"
+  songkick: "8765"
   youtube: "dreamtheaterofficial"
   web: "https://dreamtheater.net/"
   tidal: "14670"
@@ -76,6 +77,8 @@ socials:
   apple: "730091"
   deezer: "828"
   qobuz: "62194"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Dream Theater est un groupe de metal progressif américain formé en 1985 à Boston, né de la rencontre d'étudiants du

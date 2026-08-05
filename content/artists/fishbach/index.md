@@ -4,6 +4,7 @@ title: "Fishbach"
 type: person
 socials:
   musicbrainz: "92aa0d60-c3d9-4c6a-85f0-11ca38c5cc28"
+  songkick: "8753989"
   youtube: "@ffishbach"
   web: "https://florafishbach.fr/"
   facebook: ""
@@ -19,6 +20,8 @@ socials:
   tidal: ""
 lifespan:
   start: 1991-09-06
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Fishbach — qui se présente depuis 2025 sous son nom complet **Flora Fishbach** — est une autrice-compositrice-interprète

@@ -2,6 +2,7 @@
 id: "e5a46056-70a7-4bcd-8387-71e28b13cf33"
 title: "The Youth"
 socials:
+  musicbrainz: "bcf5ae36-4ba9-4324-8dec-ee4fcee85d03"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

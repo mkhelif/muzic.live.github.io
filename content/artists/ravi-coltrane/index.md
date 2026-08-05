@@ -3,11 +3,13 @@ id: "b18c0e0e-6244-4fba-8545-5a330ec9122d"
 title: "Ravi Coltrane"
 type: person
 socials:
+  musicbrainz: "c14149eb-877d-460d-9d84-459dd14a3206"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "28164"
+  songkick: "384107"
   youtube: ""
   web: ""
   email: ""
@@ -21,4 +23,8 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1965-08-06
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

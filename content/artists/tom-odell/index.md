@@ -3,20 +3,26 @@ id: "da8b9bd2-7240-47fb-89e4-b51a6e60d946"
 title: "Tom Odell"
 type: person
 socials:
+  musicbrainz: "fee6a7fb-80d9-4290-a171-e48f1f20e381"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "1911853"
+  songkick: "4582588"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "524929515"
+  deezer: "4044787"
+  qobuz: "945398"
   spotify: "2txHhyCwHjUEpJjWrEyqyX"
-  tidal: ""
+  tidal: "4770169"
+lifespan:
+  start: 1990-11-24
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Tom Odell est un auteur-compositeur-interprète britannique né le 24 novembre 1990 à Chichester, dans le West Sussex.

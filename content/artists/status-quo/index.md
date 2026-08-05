@@ -2,10 +2,87 @@
 id: "3b3caeec-2b4e-497c-9514-aff5b75475e9"
 title: "Status Quo"
 type: band
+members:
+  - id: "e49d8c92-92ca-4f48-a092-aba328418dce"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 1962
+      - start: 1962
+  - id: "b1088638-ca39-4118-beb7-5a023c4ba39f"
+    roles:
+      - guitar
+      - keys
+      - other
+    periods:
+      - start: 1982
+      - start: 1982
+      - start: 1982
+  - id: "5d559d3a-abb9-472b-9d7d-3043ebe846f0"
+    roles:
+      - bass
+    periods:
+      - start: 1986
+  - id: "6bc12703-796a-43c5-9764-43801a678992"
+    roles:
+      - guitar
+    periods:
+      - start: 2016
+  - id: "044f8f60-b5fa-4261-ab67-07d87942bdf3"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 1962
+        end: 1985
+      - start: 1962
+        end: 1985
+  - id: "db96c2b2-7f98-4b83-a4da-31e72a09dc61"
+    roles:
+      - keys
+    periods:
+      - start: 1963
+        end: 1970
+  - id: "6a7523d9-63b4-49e5-9085-90a834749ab6"
+    roles:
+      - drums
+    periods:
+      - start: 1963
+        end: 1981
+  - id: "295dc49f-c143-47bf-b948-c9aae499e83c"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 1967
+        end: 2016
+      - start: 1967
+        end: 2016
+  - id: "2a0438e0-5028-48a0-a4b1-2c32e6d14a29"
+    roles:
+      - other
+    periods:
+      - start: 1982
+        end: 1985
+  - id: "4670082f-18f4-4024-a8c9-440b2405e2c1"
+    roles:
+      - drums
+    periods:
+      - start: 1986
+        end: 2000
+  - id: "77ed1723-882c-4726-928f-16cecebb1acd"
+    roles:
+      - drums
+    periods:
+      - start: 2000
+        end: 2012
 socials:
+  musicbrainz: "1884ed9c-6fe1-468d-a7f8-8d19c9c4e441"
   facebook: "StatusQuoOfficial"
   instagram: "statusquobandofficial"
   tiktok: "@statusquoofficial"
+  songkick: "155407"
   youtube: "@OfficialStatusQuo"
   web: "https://www.statusquo.co.uk"
   tidal: "17400"
@@ -13,9 +90,11 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "92175"
+  deezer: "694"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Status Quo représente l'une des institutions les plus durables et respectées du rock britannique, incarnant depuis plus

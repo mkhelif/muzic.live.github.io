@@ -3,6 +3,7 @@ id: "b2891304-d1ef-496a-b07c-461104efd4a8"
 title: "Smokeheads"
 type: band
 socials:
+  musicbrainz: "4b05f488-0730-4cc3-9fde-c146a85a2c37"
   facebook: "smokeheadsband"
   instagram: "smokeheadsband"
   web: "https://smokeheadsband.com/"
@@ -17,6 +18,8 @@ socials:
   apple: ""
   deezer: "123619862"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Smokeheads est un groupe de metal alternatif français dont le son repose sur une alchimie entre puissance

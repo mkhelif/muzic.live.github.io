@@ -9,6 +9,7 @@ socials:
   threads: "flaviacoelhobr"
   x: "flaviacoelhobr"
   bandsintown: "1114105"
+  songkick: "3707051"
   youtube: "@FlaviaCoelhoMusic"
   tidal: "4102226"
   spotify: "4Lu4jDj4ky1wxvRDgL90tc"
@@ -21,6 +22,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1980-07-26
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Flavia Coelho est une chanteuse brésilienne installée en France, qui émerge sur la scène world music européenne avec une

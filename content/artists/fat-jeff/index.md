@@ -19,4 +19,6 @@ socials:
   apple: "1530449996"
   deezer: "105843582"
   qobuz: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

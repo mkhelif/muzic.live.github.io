@@ -61,6 +61,7 @@ socials:
   instagram: "duranduran"
   x: ""
   bandsintown: "1206"
+  songkick: "427500"
   youtube: ""
   web: "https://duranduran.com"
   spotify: "0lZoBs4Pzo7R89JM9lxwoT"
@@ -74,6 +75,8 @@ socials:
 todo:
   - Verify social networks
   - Add logo cover
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Duran Duran est un groupe de pop rock britannique formé en 1978 à Birmingham, figure de proue de la scène new

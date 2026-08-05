@@ -15,4 +15,6 @@ socials:
   soundcloud: "riot-buraka"
   email: "riotctc@gmail.com"
   spotify: "2HXQkBMnQACqEBPtGReJUy"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

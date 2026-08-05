@@ -42,6 +42,7 @@ socials:
   facebook: "deportivomusic"
   instagram: "deportivoofficiel"
   bandsintown: "69730"
+  songkick: "190298"
   youtube: "@dēportivoRock"
   amazon: "B0025Q67PY"
   apple: "17847656"
@@ -53,6 +54,8 @@ socials:
   tiktok: ""
   x: ""
   web: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Trois gamins de Bois-d'Arcy, dans les Yvelines, qui se retrouvent dans une cour d'école à sept ans, passionnés de foot

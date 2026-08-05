@@ -47,12 +47,14 @@ members:
     periods:
       - start: 2023
 socials:
+  musicbrainz: "23a03e33-a603-404e-bcbf-2c00159d7067"
   facebook: "Offspring"
   instagram: "offspring"
   tiktok: "@offspring"
   threads: "@offspring"
   x: "offspring"
   bandsintown: "327"
+  songkick: "422558"
   youtube: "@offspring"
   web: "https://www.offspring.com"
   email: ""
@@ -62,6 +64,8 @@ socials:
   qobuz: "147414"
   spotify: "5LfGQac0EIXyAN8aUwmNAQ"
   tidal: "1009"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 The Offspring est un groupe de punk rock formé à Garden Grove, en Californie. Emmené depuis les années 1980 par son

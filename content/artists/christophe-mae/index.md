@@ -20,6 +20,8 @@ socials:
   tidal: "25220"
 lifespan:
   start: 1975-10-16
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Christophe Martichon, dit Christophe Maé, est né le 16 octobre 1975 à Carpentras, dans le Vaucluse. Auteur,

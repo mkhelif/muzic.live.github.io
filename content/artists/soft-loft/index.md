@@ -3,6 +3,7 @@ id: "18e1b882-d0e1-4d33-a181-26b6db17625d"
 title: "Soft Loft"
 type: band
 socials:
+  musicbrainz: "499dabc1-47b9-4078-b53f-11ea2cf41a80"
   facebook: "softloftmusic"
   instagram: "softloftsoftloft"
   threads: "@softloftsoftloft"
@@ -16,9 +17,11 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1671153297"
   deezer: ""
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Soft Loft est un collectif indie originaire de Baden, en Suisse, emmené par la chanteuse et guitariste **Jorina

@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "15510596"
+  songkick: "10200269"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "7580765"
 lifespan:
   start: 2003-01-21
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Erin Ruth LeCount est une autrice-compositrice-interprète anglaise révélée au grand public après sa participation à

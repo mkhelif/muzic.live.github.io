@@ -20,6 +20,8 @@ socials:
   tidal: ""
 lifespan:
   start: 1998-01-08
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Bekar est un rappeur français originaire de Roubaix, dans le Nord de la France. Issu d'un territoire marqué par

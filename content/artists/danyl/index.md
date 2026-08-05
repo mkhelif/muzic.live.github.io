@@ -20,6 +20,8 @@ socials:
   tidal: "5511094"
 lifespan:
   start: 1998-10-25
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Danyl, de son vrai nom **Danyl Boudali**, est un chanteur et rappeur franco-algérien né le 25 octobre 1998 à

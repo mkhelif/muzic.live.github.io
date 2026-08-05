@@ -3,20 +3,26 @@ id: "9ee4edfc-9d86-4228-a88c-96dcbae5b4a9"
 title: "Roni Size"
 type: person
 socials:
+  musicbrainz: "2eeba1d4-f67d-45be-a22e-ab73e925aa43"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "51757"
+  songkick: "510173"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "14430134"
   deezer: "3618"
-  qobuz: ""
+  qobuz: "40575"
   spotify: "5UjqeSp9dX6Nrge7WdDukr"
-  tidal: ""
+  tidal: "33218"
+lifespan:
+  start: 1969-10-29
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Roni Size, de son vrai nom **Ryan Owen Granville Williams**, est un producteur et DJ britannique originaire de

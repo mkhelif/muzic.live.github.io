@@ -3,22 +3,28 @@ id: "55513cb2-8987-4c22-b713-aba235b9a9fc"
 title: "Purple Disco Machine"
 type: person
 socials:
+  musicbrainz: "dc71939a-416f-4804-b031-5749287943f9"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "8247433"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "357397685"
   deezer: "1658572"
-  qobuz: ""
+  qobuz: "939607"
   spotify: "2WBJQGf1bT1kxuoqziH5g4"
-  tidal: ""
+  tidal: "3765344"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1980-02-12
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Purple Disco Machine, de son vrai nom Tino Piontek, est un producteur et DJ allemand né le 12 juin 1980 à Dresde. Il

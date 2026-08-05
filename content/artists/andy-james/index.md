@@ -18,4 +18,6 @@ todo:
   - Add description/picture/socials
 lifespan:
   start: 1981-05-15
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

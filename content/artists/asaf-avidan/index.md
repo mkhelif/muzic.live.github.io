@@ -9,6 +9,7 @@ socials:
   tiktok: "@asafavidanofficial"
   x: "AvidanOfficial"
   bandsintown: "252839"
+  songkick: "714339"
   youtube: "@AsafAvidan"
   web: "https://www.asafavidan.com/"
   email: "lior@telmavar.com"
@@ -20,6 +21,8 @@ socials:
   tidal: "4751617"
 lifespan:
   start: 1980-03-23
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Asaf Avidan est un chanteur-compositeur israélien né le 23 mars 1980 à Jérusalem, dont la voix — haute,

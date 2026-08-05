@@ -130,6 +130,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "2644742"
+  songkick: "276130"
   youtube: ""
   web: ""
   email: ""
@@ -139,6 +140,8 @@ socials:
   qobuz: "161143"
   spotify: "711MCceyCBcFnzjGY4Q7Un"
   tidal: "945"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Formé à Sydney en 1973 par les frères Malcolm et **Angus Young**, guitaristes d'origine écossaise émigrés en Australie,

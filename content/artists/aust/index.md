@@ -18,4 +18,6 @@ socials:
   qobuz: ""
   spotify: "5vKWepuMbUEPh8iRpbpoxp"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

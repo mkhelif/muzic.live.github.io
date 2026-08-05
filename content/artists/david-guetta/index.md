@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "26317"
+  songkick: "149066"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "27343"
 lifespan:
   start: 1967-11-07
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Pierre David Guetta est né le 7 novembre 1967 à Paris. Autodidacte, il commence à mixer à treize ans

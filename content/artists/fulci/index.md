@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "776879"
+  songkick: "10141347"
   youtube: ""
   web: ""
   email: ""
@@ -21,6 +22,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Fulci est un groupe italien de death metal originaire de Caserte, formé en 2013. Le nom du groupe rend hommage à

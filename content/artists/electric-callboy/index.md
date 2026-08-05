@@ -53,6 +53,7 @@ socials:
   tiktok: "@electriccallboy"
   x: "electriccallboy"
   bandsintown: "1089397"
+  songkick: "3676776"
   youtube: "electriccallboy"
   web: "https://www.electriccallboy.com/"
   email: "info@electriccallboy.com"
@@ -62,6 +63,8 @@ socials:
   qobuz: "13177828"
   spotify: "1WNoKxsp715jez1Td4vthc"
   tidal: "31100862"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Montez le son, lâchez prise et dansez comme si personne ne vous regardait. **Voilà**, en une phrase, le programme d'Electric

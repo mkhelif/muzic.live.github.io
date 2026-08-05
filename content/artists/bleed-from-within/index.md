@@ -25,6 +25,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "79336"
+  songkick: "590146"
   youtube: ""
   web: ""
   email: ""
@@ -34,6 +35,8 @@ socials:
   qobuz: "1043093"
   spotify: "5ZvwJikDgdP1PFU4PkAPVG"
   tidal: "3637268"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Bleed From Within est un groupe de metalcore écossais originaire de Glasgow, fondé en 2005, qui s'est imposé

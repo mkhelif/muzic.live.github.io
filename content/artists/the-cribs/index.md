@@ -2,6 +2,7 @@
 id: "d81ef66d-25bf-4c26-8b90-e36aa6ad2ddc"
 title: "The Cribs"
 socials:
+  musicbrainz: "a3a92047-be1c-4f3e-8960-c4f8570984df"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +12,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "27944725"
   deezer: "1333"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "125991"
+  spotify: "51Eq6WMVEOjjx9KQMAnneG"
+  tidal: "20003"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

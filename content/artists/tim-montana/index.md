@@ -2,6 +2,7 @@
 id: "3390dc3f-466d-4dfe-9d66-a731f2782829"
 title: "Tim Montana"
 socials:
+  musicbrainz: "45a0f21b-f688-40b2-935a-2a314f06020d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +12,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "263068617"
   deezer: "523937"
   qobuz: ""
   spotify: "5RM955coCWa6UkFtlMapwC"
-  tidal: ""
+  tidal: "9069775"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

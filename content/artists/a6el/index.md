@@ -16,11 +16,13 @@ socials:
   apple: "1722248360"
   deezer: "247939962"
   qobuz: ""
-  spotify: ""
+  spotify: "3B4P9BeoaJXid1mY7BmUvY"
   tidal: "44585597"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 a6el est un rappeur suisse romand né en 2005 à Renens, dans le canton de Vaud, dont la trajectoire fulgurante illustre

@@ -16,6 +16,8 @@ socials:
   deezer: ""
   qobuz: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Rosaly est un groupe de rock progressif français formé en 2022, dont la musique cherche à concilier la

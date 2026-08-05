@@ -3,6 +3,7 @@ id: "60ddb2aa-307f-4134-90ae-2b76d0f04f19"
 title: "Pogo Car Crash Control"
 type: band
 socials:
+  musicbrainz: "6d0155d7-bb0b-4811-b345-7ec29bda8994"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

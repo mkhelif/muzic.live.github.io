@@ -3,6 +3,7 @@ id: "979d3c6a-2385-4f25-80f6-4e42e1f2ce51"
 title: "Nuttea"
 type: person
 socials:
+  musicbrainz: "cde7486e-68c3-4867-a3b6-fb88f8ef8b84"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,10 +14,15 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "11175"
   qobuz: ""
   spotify: "65LSKdbofg1NdWkaLSVXKc"
-  tidal: ""
+  tidal: "3513695"
+lifespan:
+  start: 1968-01-01
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Nuttea, de son vrai nom Olivier Lara, est un chanteur de reggae et de ragga français né le 26 décembre 1968, l'une des

@@ -10,6 +10,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "1039297"
+  songkick: "5592793"
   youtube: ""
   email: ""
   amazon: ""
@@ -24,4 +25,6 @@ todo:
   - Add logo cover
 lifespan:
   start: 1994-02-24
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

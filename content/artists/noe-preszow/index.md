@@ -3,9 +3,11 @@ id: "5aba9f2d-28f1-488e-85fe-18059af1f7f8"
 title: "Noé Preszow"
 type: person
 socials:
+  musicbrainz: "a5498321-fcde-4b06-97bd-8f53a510dda1"
   facebook: "noeofficiel"
   instagram: "noe_preszow"
   bandsintown: "1501837"
+  songkick: "10129975"
   youtube: "@noepreszowofficiel"
   web: "https://www.noepreszow.com"
   tidal: "13810946"
@@ -17,6 +19,11 @@ socials:
   apple: "1500630417"
   deezer: "13636759"
   qobuz: ""
+lifespan:
+  start: 1994-09-13
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Noé Preszow — que l'on prononce *Prèchof* — est né le 13 septembre 1994 à Bruxelles. Il est le fils d'une mère

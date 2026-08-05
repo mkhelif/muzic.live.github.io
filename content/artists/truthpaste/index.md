@@ -3,6 +3,7 @@ id: "f47c348c-c0ca-434f-95f1-12d1d002cc9d"
 title: "Truthpaste"
 type: band
 socials:
+  musicbrainz: "e6c87347-046b-46eb-a190-4d35c8352671"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,11 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1793805265"
   deezer: "300817631"
   qobuz: ""
   spotify: "1jX7jSANud3GSSMfs41KPs"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Truthpaste est un groupe britannique formé à Manchester en 2022, où ses membres se rencontrent alors qu'ils sont

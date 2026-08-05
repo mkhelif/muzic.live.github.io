@@ -22,21 +22,25 @@ members:
     periods:
       - start: 2019
 socials:
+  musicbrainz: "5ff18569-2043-448e-b691-0d20fde7160a"
   facebook: "stormorchestra"
   instagram: "storm_orchestra"
   tiktok: "@storm.orchestra"
   x: "storm_orchestra"
   threads: "@storm_orchestra"
   bandsintown: "8289915"
+  songkick: "8136348"
   youtube: "@StormOrchestra"
   web: "https://stormorchestra.com/"
   tidal: "5936094"
   spotify: "5Zl04O5XJOu7kGrAosCPfR"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "672996275"
   deezer: "5848529"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 L'histoire de Storm Orchestra commence par une rencontre. **Maxime Goudard** (chant, guitare) et **Adrien Richard** (basse,

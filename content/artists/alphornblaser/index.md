@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Les Alphornbläser sont les représentants d'une tradition musicale alpestre parmi les plus anciennes et les plus

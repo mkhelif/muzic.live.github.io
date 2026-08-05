@@ -21,4 +21,6 @@ socials:
 lifespan:
   start: 1951-06-16
   end: 2023-11-17
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

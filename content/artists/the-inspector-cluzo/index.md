@@ -15,8 +15,10 @@ members:
     periods:
       - start: 2007
 socials:
+  musicbrainz: "791564ac-90f2-409e-b623-eef85c721ef4"
   facebook: "ticluzo"
   instagram: "theinspectorcluzo"
+  songkick: "2331969"
   youtube: "@theinspectorcluzo"
   web: "https://www.theinspectorcluzo.com"
   tidal: "4110463"
@@ -28,6 +30,8 @@ socials:
   apple: ""
   deezer: "210923"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 The Inspector Cluzo est un duo de rock français composé de **Laurent Lacrouts** (chant, guitare) et Phil Jourdain (

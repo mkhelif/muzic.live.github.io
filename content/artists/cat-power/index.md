@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "1585"
+  songkick: "629497"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "27440"
 lifespan:
   start: 1972-01-21
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Cat Power est le nom de scène de Charlyn Marie Marshall, dite Chan Marshall, chanteuse et auteure-compositrice

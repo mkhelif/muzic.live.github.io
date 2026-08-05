@@ -10,6 +10,7 @@ socials:
   threads: "@eivormusic"
   x: ""
   bandsintown: "622322"
+  songkick: "3010871"
   youtube: "@eivormusic"
   web: "https://www.eivor.com/"
   email: "management@eivor.com"
@@ -21,6 +22,8 @@ socials:
   tidal: "3587964"
 lifespan:
   start: 1983-07-21
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Eivør Pálsdóttir, connue simplement sous le nom d'Eivør, est une chanteuse, autrice-compositrice et musicienne

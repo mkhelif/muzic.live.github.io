@@ -36,6 +36,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "430"
+  songkick: "520117"
   youtube: ""
   web: ""
   email: ""
@@ -45,6 +46,8 @@ socials:
   qobuz: ""
   spotify: "7Ln80lUS6He07XvHI8qqHH"
   tidal: "3520710"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Arctic Monkeys est un groupe de rock britannique formé en 2002 à Sheffield, dans le quartier de High Green. Né de

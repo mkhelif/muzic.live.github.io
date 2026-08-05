@@ -3,6 +3,7 @@ id: "fe6cb017-32a5-4ab1-a987-92cb0284f79a"
 title: "Robin Campbell"
 type: person
 socials:
+  musicbrainz: "170621b5-37b1-4e77-870c-9f4441898eac"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,4 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lifespan:
+  start: 1954-12-25
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

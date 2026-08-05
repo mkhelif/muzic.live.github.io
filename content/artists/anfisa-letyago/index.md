@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: "7icoOm5fKKPo49jVxoj1Cq"
   tidal: "5827197"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Née le 5 mars 1990 à Mirny, en République de Sakha (Russie), Anfisa Letyago s'installe avec sa famille à Naples vers

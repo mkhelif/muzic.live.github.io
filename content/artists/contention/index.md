@@ -21,6 +21,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Contention est un groupe de metalcore et hardcore straight edge originaire de Tampa, en Floride, formé en 2019. Le

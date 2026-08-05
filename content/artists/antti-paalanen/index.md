@@ -20,6 +20,8 @@ socials:
   tidal: "4066526"
 lifespan:
   start: 1977
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Antti Paalanen, né en 1977 dans la région d'Alavus en Ostrobotnie du Sud (Finlande), est l'un des accordéonistes

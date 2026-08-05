@@ -8,6 +8,7 @@ socials:
   instagram: "gims"
   tiktok: "@gims_off"
   x: "GIMS"
+  songkick: "6616309"
   youtube: "@GIMS"
   web: "https://www.gimstour.com/"
   email: "pro.gims86@gmail.com"
@@ -19,6 +20,8 @@ socials:
   tidal: "4850045"
 lifespan:
   start: 1986-05-06
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 GIMS, de son vrai nom Gandhi Alimasi Djuna, est un chanteur et rappeur né le 6 mai 1986 à Kinshasa, en République

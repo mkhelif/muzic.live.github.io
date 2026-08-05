@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "15539223"
+  songkick: "10189469"
   youtube: ""
   web: ""
   email: ""
@@ -21,6 +22,8 @@ socials:
 todo:
   - Add cover
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Gros Cœur est un quatuor belge de rock psychédélique aux accents tropicaux, chanté en français, formé en 2020 à

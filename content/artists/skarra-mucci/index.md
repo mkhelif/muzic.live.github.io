@@ -3,6 +3,7 @@ id: "28a55e9f-db8d-4b86-b110-7178bad47a92"
 title: "Skarra Mucci"
 type: person
 socials:
+  musicbrainz: "15d7c4d6-ea9e-437e-b239-cd2ce5151e12"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,14 +13,18 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "13578683"
   deezer: "252534"
   qobuz: ""
   spotify: "7kV4pmJgdYg4Cn9ZK98Fky"
-  tidal: ""
+  tidal: "3527537"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1973-03-09
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Skarra Mucci, de son vrai nom Calvin Davis, est un artiste jamaïcain né le 9 mars 1973 à Kingston. Il enregistre son

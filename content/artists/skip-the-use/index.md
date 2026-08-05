@@ -52,6 +52,7 @@ members:
     periods:
       - start: 2018
 socials:
+  musicbrainz: "1c346a43-0fba-4702-bc1b-c198f07e3da4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -61,11 +62,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "427298840"
   deezer: "372175"
   qobuz: ""
   spotify: "6UWiE4V9p2HK4C74A0CGKB"
-  tidal: ""
+  tidal: "4443213"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Skip The Use est un groupe de rock électro français fondé en 2008 à Ronchin, dans l'agglomération lilloise, par

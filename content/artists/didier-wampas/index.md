@@ -20,6 +20,8 @@ socials:
   tidal: "4088837"
 lifespan:
   start: 1962-02-19
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Didier Wampas, de son vrai nom Didier Chappedelaine, est un auteur-compositeur-interprète français né

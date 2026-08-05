@@ -18,6 +18,8 @@ socials:
   qobuz: "21537413"
   spotify: ""
   tidal: "5187924"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Daoud est un trompettiste et compositeur franco-marocain qui s'est imposé en quelques années comme l'une

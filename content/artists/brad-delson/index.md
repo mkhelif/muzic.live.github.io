@@ -19,4 +19,6 @@ socials:
   tidal: ""
 lifespan:
   start: 1977-12-01
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

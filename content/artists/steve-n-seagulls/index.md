@@ -21,6 +21,8 @@ socials:
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Steve'n'Seagulls est un groupe finlandais de country rock qui s'est fait connaître en reprenant à la manière du

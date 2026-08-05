@@ -19,6 +19,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "268629"
+  songkick: "2395474"
   youtube: ""
   web: ""
   email: ""
@@ -28,6 +29,8 @@ socials:
   qobuz: ""
   spotify: "4ddt8PPvmWrI9mJQy1VrIG"
   tidal: "3603300"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Band of Skulls est un groupe de rock anglais fondé en 2002 à Southampton,

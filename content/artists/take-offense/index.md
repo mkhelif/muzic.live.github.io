@@ -2,6 +2,7 @@
 id: "fbf81af3-9840-458d-acd3-ff6f80df73d1"
 title: "Take Offense"
 socials:
+  musicbrainz: "4e4511f6-4f1a-44b9-9ec1-33f0f11c0b39"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,11 +14,13 @@ socials:
   amazon: ""
   apple: ""
   deezer: "543615"
-  qobuz: ""
+  qobuz: "5361704"
   spotify: ""
-  tidal: ""
+  tidal: "4228311"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

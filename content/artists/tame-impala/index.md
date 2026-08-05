@@ -3,22 +3,28 @@ id: "c3dd5d27-ece1-4cf2-92ae-98a24776618b"
 title: "Tame Impala"
 type: person
 socials:
+  musicbrainz: "63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "927852"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  amazon: "B001FEAEBU"
+  apple: "290242959"
+  deezer: "134790"
+  qobuz: "655417"
   spotify: "5INjqkS1o8h1imAzPqGZBb"
-  tidal: ""
+  tidal: "3736815"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1986-01-20
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Tame Impala est le nom de scène derrière lequel se cache le musicien, auteur-compositeur et producteur australien Kevin

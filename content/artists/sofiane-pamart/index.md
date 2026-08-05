@@ -3,6 +3,7 @@ id: "e6e01965-dd59-4eb7-a319-6199828192a0"
 title: "Sofiane Pamart"
 type: person
 socials:
+  musicbrainz: "04896676-1b8f-4457-9fa6-458c346bc1ae"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,14 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B00GIAJIOA"
+  apple: "739404413"
   deezer: "5335252"
-  qobuz: ""
+  qobuz: "2921459"
   spotify: "4RB2EEsmLhQTOSVQQpDzNg"
-  tidal: ""
+  tidal: "9476424"
 todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lifespan:
+  start: 1990-04-25
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

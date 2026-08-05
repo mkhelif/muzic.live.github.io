@@ -2,12 +2,27 @@
 id: "d2a816fd-fc72-43d5-8bd4-c5f1a0b9d366"
 title: "Sprints"
 type: band
+members:
+  - id: "833c63e6-5022-40fa-824d-235310cf975d"
+    roles:
+      - other
+  - id: "f728fc26-3da5-4e0e-a6fa-6a1c9d4597e8"
+    roles:
+      - other
+  - id: "2d2dd5dc-e5b0-4eb9-9e43-0bc8c11789a4"
+    roles:
+      - other
+  - id: "1605702e-82d8-41dd-86d0-d56cc1bdf184"
+    roles:
+      - other
 socials:
+  musicbrainz: "256e0b36-88cb-453a-9ce4-7b73cb6b882f"
   facebook: "sprintsmusic"
   instagram: "sprintsmusic"
   tiktok: ""
   threads: "@sprintsmusic"
   x: "sprintsmusic"
+  songkick: "10080404"
   youtube: "@SprintsMusic"
   web: "https://www.sprintsmusic.com/"
   email: "sprintsmusic@gmail.com"
@@ -16,7 +31,9 @@ socials:
   deezer: "62109552"
   qobuz: ""
   spotify: "27nD8P491xX8UzG3j01eIY"
-  tidal: ""
+  tidal: "15344564"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 SPRINTS est un groupe de garage punk irlandais formé à Dublin en 2019, composé de Karla Chubb (chant, guitare), Sam

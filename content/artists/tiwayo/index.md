@@ -3,6 +3,7 @@ id: "f4ed4e29-3ecd-4b12-996a-609b68ee99a2"
 title: "Tiwayo"
 type: person
 socials:
+  musicbrainz: "47fcaacc-10a6-4371-97e0-b3c1be649633"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

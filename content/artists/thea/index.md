@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Théa, de son nom complet Théa Barromes, est une chanteuse, productrice et autrice-compositrice-interprète

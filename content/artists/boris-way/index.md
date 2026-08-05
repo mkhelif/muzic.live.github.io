@@ -19,6 +19,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1991-10-09
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Boris Way est un DJ et producteur français qui émerge sur la scène électronique hexagonale au milieu des années 2010,

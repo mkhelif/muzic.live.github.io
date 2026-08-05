@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "289995"
+  songkick: "2274326"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: ""
 lifespan:
   start: 1992-08-02
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Charlotte Emma Aitchison, connue sous le nom de **Charli XCX**, naît le 2 août 1992 à Cambridge, au Royaume-Uni, fille

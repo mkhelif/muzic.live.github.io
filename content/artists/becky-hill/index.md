@@ -9,6 +9,7 @@ socials:
   threads: ""
   x: ""
   bandsintown: "2879733"
+  songkick: "5518983"
   youtube: ""
   web: ""
   email: ""
@@ -18,6 +19,8 @@ socials:
   qobuz: ""
   spotify: "4EPJlUEBy49EX1wuFOvtjK"
   tidal: "5826096"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Rebecca Claire Hill, connue sous le nom de Becky Hill, naît le 14 février 1994 à Bewdley, dans le Worcestershire. Elle

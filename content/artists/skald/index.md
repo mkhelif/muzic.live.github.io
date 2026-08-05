@@ -2,12 +2,27 @@
 id: "937a55f6-d2e4-4438-887e-3f68fa77549b"
 title: "SKÁLD"
 type: band
+members:
+  - id: "d96899fd-86d0-4293-9e39-699335386639"
+    roles:
+      - other
+    periods:
+      - start: 2017
+        end: 2020
+  - id: "19c5c507-d1c8-4084-8227-5974c41437a1"
+    roles:
+      - other
+  - id: "06b84149-4f4e-42b4-a858-31d76283ee9d"
+    roles:
+      - other
 socials:
+  musicbrainz: "e4b3876d-549a-4b53-bc5e-b3b87bf2d778"
   facebook: "skaldvikings"
   instagram: "skaldvikings"
   tiktok: ""
   x: ""
   bandsintown: "463539"
+  songkick: "9725619"
   youtube: ""
   web: "https://skald.com/"
   email: "skaldvikings@gmail.com"
@@ -16,7 +31,9 @@ socials:
   deezer: ""
   qobuz: ""
   spotify: "3uliAYf4KyTkBpVf3BiWVv"
-  tidal: ""
+  tidal: "10083560"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 SKÁLD est un projet français de folk nordique fondé en 2018 par le producteur et compositeur **Christophe

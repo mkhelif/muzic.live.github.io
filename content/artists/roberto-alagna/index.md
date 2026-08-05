@@ -3,12 +3,14 @@ id: "b0ad5ca4-d5ed-465f-b4d1-ee638e00a186"
 title: "Roberto Alagna"
 type: person
 socials:
+  musicbrainz: "0459517d-082f-4983-b7eb-5680d3913cb4"
   instagram: "robertoalagnaofficiel"
   web: "https://www.robertoalagna.com/"
   facebook: ""
   tiktok: ""
   x: ""
   bandsintown: "252957"
+  songkick: "147994"
   youtube: ""
   email: ""
   amazon: ""
@@ -17,6 +19,10 @@ socials:
   qobuz: ""
   spotify: "2AyySZZK01JT6ZSYZ2CWgf"
   tidal: ""
+lifespan:
+  start: 1963-06-07
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Roberto Alagna est un ténor français né le 7 juin 1963 à Clichy-sous-Bois, dans une famille d'immigrés siciliens. Figure

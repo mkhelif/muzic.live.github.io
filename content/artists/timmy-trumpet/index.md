@@ -3,20 +3,26 @@ id: "e9d4ccb5-631d-4db1-8658-285ca3864ae7"
 title: "Timmy Trumpet"
 type: person
 socials:
+  musicbrainz: "07aceecf-0fa2-4d51-865f-273313cba931"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "445444"
+  songkick: "2564106"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "270602804"
   deezer: "661247"
-  qobuz: ""
+  qobuz: "816449"
   spotify: "0CbeG1224FS58EUx4tPevZ"
-  tidal: ""
+  tidal: "4720480"
+lifespan:
+  start: 1982-06-09
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Timmy Trumpet, de son vrai nom **Timothy Jude Smith**, naît en 1982 à Sydney, en Australie. Il commence la trompette

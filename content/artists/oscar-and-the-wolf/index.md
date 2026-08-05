@@ -2,12 +2,27 @@
 id: "84423f84-1b3f-4269-9d0b-212edc08fb53"
 title: "Oscar and the Wolf"
 type: band
+members:
+  - id: "0424fc6a-cd4d-44ad-a65a-18b52b4680a2"
+    roles:
+      - drums
+  - id: "a2840ec1-0c3c-4722-a6ce-d6cc0dc4f436"
+    roles:
+      - other
+  - id: "2cc595db-d626-4253-940a-c030122d830a"
+    roles:
+      - sing
+  - id: "67a314c5-4c58-4065-89c6-a3a2e331c998"
+    roles:
+      - guitar
 socials:
+  musicbrainz: "74e6bd6b-46fd-4f6a-80e1-c16e8169a21c"
   facebook: "oscarandthewolf"
   instagram: "oscarandthewolf"
   tiktok: "@oscarandthewolf"
   x: "OscarandtheWolf"
   bandsintown: "1322208"
+  songkick: "4424198"
   youtube: "@oscarandthewolf"
   web: "https://www.oscarandthewolf.com"
   tidal: "4642437"
@@ -16,7 +31,10 @@ socials:
   amazon: ""
   apple: "534494455"
   deezer: "2710661"
-  qobuz: ""
+  qobuz: "815858"
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Oscar and the Wolf représente l'une des propositions les plus singulières de la scène électro-pop européenne

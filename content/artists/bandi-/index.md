@@ -15,6 +15,8 @@ socials:
   apple: ""
   deezer: "5062435"
   qobuz: ""
-  spotify: ""
+  spotify: "3fwHrVsWl7SWCTTTEG3tnn"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

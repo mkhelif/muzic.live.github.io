@@ -9,6 +9,7 @@ socials:
   threads: "@amy__macdonald"
   x: "Amy__Macdonald"
   bandsintown: "30967"
+  songkick: "398398"
   youtube: "@amymacdonaldofficial"
   web: "https://www.amymacdonald.co.uk/"
   tidal: "3648083"
@@ -24,6 +25,8 @@ todo:
   - Add picture from concert
 lifespan:
   start: 1987-08-25
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Il y a une chanson que vous avez forcément entendue — dans un pub, dans un stade, lors d'un mariage, à la radio d'un

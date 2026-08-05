@@ -2,6 +2,10 @@
 id: "fa82edc7-1e24-44e4-8a32-9b3a0fe4de3e"
 title: "Apricot Brandy"
 type: band
+members:
+  - id: "54538121-c88e-4b48-b71e-920b93a05281"
+    roles:
+      - keys
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "f20891e9-c102-46b1-8425-54d20647ce22"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "442101"
+  songkick: "3909026"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "5086494"
 lifespan:
   start: 1987-11-03
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Courtney Melba Barnett est née le 3 novembre 1987 à Sydney, dans le quartier des Northern Beaches. Après

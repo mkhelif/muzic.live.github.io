@@ -3,11 +3,13 @@ id: "da4b2e96-6fc7-42df-902f-7cd8e771bb32"
 title: "Puma Blue"
 type: person
 socials:
+  musicbrainz: "c4e929ed-f0d2-4794-a800-5f1495612164"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "12618827"
+  songkick: "8729739"
   youtube: ""
   web: ""
   email: ""
@@ -21,4 +23,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -63,22 +63,26 @@ members:
       - start: 2011
         end: 2024
 socials:
+  musicbrainz: "1d93c839-22e7-4f76-ad84-d27039efc048"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "1641"
+  songkick: "374117"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "918092"
   deezer: "632"
-  qobuz: ""
+  qobuz: "170399"
   spotify: "6JW8wliOEwaDZ231ZY7cf4"
-  tidal: ""
+  tidal: "37203"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

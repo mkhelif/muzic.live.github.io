@@ -2,6 +2,7 @@
 id: "599894e7-c6d7-4e9d-ae1b-83480404100e"
 title: "Schur"
 socials:
+  musicbrainz: "d1ee1eab-dec6-4542-97f7-1809b780a448"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: ""
   deezer: "6437168"
   qobuz: ""
-  spotify: ""
+  spotify: "0lidIulPhPCS2cN4qDatt7"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

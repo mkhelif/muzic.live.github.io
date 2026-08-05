@@ -2,24 +2,74 @@
 id: "afeb60c3-ae28-48f2-93ea-3491cd32b225"
 title: "Pixies"
 type: band
+members:
+  - id: "21260558-1193-42e5-889e-4e583ab0e84d"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 1986
+  - id: "2eaad330-e5dd-450f-9ad5-1687f97a35c7"
+    roles:
+      - drums
+    periods:
+      - start: 1986
+  - id: "9d64ef32-ba15-4bd6-b2b7-8d92b413c7cf"
+    roles:
+      - guitar
+    periods:
+      - start: 1986
+  - id: "40e47bdc-c940-468f-9ca9-e33e07290b0b"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2024
+      - start: 2024
+  - id: "c400a1a3-14c5-4d58-82af-7afdc72fc42c"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 1986
+        end: 2013
+  - id: "5447ca8a-a057-4216-8e71-4943ad9992d1"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2013
+        end: 2013
+  - id: "4bbb4943-1c70-44d6-9089-65a6e8ca795e"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2013
+        end: 2024
 socials:
+  musicbrainz: "b6b2bb8d-54a9-491f-9607-7b546023b433"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "417"
+  songkick: "297809"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "2730151"
   deezer: "652"
-  qobuz: ""
+  qobuz: "384655"
   spotify: "6zvul52xwTWzilBZl6BUbT"
-  tidal: ""
+  tidal: "3565255"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Pixies sont un groupe de rock alternatif américain formé à Boston en 1986, considéré comme l'un des piliers fondateurs

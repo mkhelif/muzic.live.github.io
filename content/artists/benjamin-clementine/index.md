@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "3891830"
+  songkick: "7125659"
   youtube: ""
   web: ""
   email: ""
@@ -23,6 +24,8 @@ todo:
   - Verify and add socials
 lifespan:
   start: 1988-12-07
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Benjamin Clementine, de son nom complet Benjamin Sainte-Clémentine, est un artiste, poète, compositeur et

@@ -10,6 +10,7 @@ socials:
   tiktok: "@flechelove"
   x: "fleche_love"
   bandsintown: "13337500"
+  songkick: "9537859"
   youtube: "@flechelove7314"
   web: "https://www.flecheloveofficiel.com/"
   tidal: "8760785"
@@ -24,5 +25,7 @@ todo:
   - Add description
 lifespan:
   start: 1990-03-30
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 

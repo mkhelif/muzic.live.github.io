@@ -65,6 +65,7 @@ socials:
   tiktok: "@fivefingerdeathpunch"
   x: "FFDP"
   bandsintown: "1965"
+  songkick: "577269"
   youtube: "@FiveFingerDeathPunch"
   web: "https://fivefingerdeathpunch.com"
   amazon: "B002WLNO6W"
@@ -77,6 +78,8 @@ socials:
 todo:
   - Add picture
   - Review description
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Fondé à Las Vegas en 2005 par le guitariste **Zoltan Bathory**, Five Finger Death Punch s'est imposé comme l'un des groupes

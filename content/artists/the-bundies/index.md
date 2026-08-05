@@ -17,6 +17,8 @@ socials:
   x: ""
   youtube: ""
   web: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Leur devise résume tout en une ligne : « Pas de bla-bla, matte la vidéo, écoute le son. » The Bundies n'ont pas de temps

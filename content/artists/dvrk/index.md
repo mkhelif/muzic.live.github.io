@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: "2veLy5cp8tE2IUS47EwzlB"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 DVRK est un groupe parisien de deathcore et nu metal formé en 2019, d'abord conçu comme un projet solo avant d'évoluer

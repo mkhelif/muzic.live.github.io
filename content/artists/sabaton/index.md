@@ -37,6 +37,7 @@ members:
       - start: 2016
         end: 2024
 socials:
+  musicbrainz: "39a31de6-763d-48b6-a45c-f7cfad58ffd8"
   facebook: "sabaton"
   instagram: "sabatonofficial"
   tiktok: "@sabatonofficial"
@@ -45,15 +46,18 @@ socials:
   bandcamp: "sabaton"
   soundcloud: "sabatonofficial"
   bandsintown: "20303"
+  songkick: "233066"
   youtube: "@Sabaton"
   web: "https://www.sabaton.net/"
   tidal: "3616281"
   spotify: "3o2dn2O0FCVsWDFSh8qxgG"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "184065032"
   deezer: "12022"
-  qobuz: ""
+  qobuz: "551516"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Depuis plus de deux décennies, Sabaton s'est imposé comme l'un des groupes de heavy metal les plus respectés et les plus

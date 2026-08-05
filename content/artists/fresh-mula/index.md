@@ -20,6 +20,8 @@ socials:
   tidal: ""
 lifespan:
   start: 1998
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Fresh Mula, de son vrai nom Omar, est un rappeur italien né en 1998 d'une mère italienne et d'un père sénégalais, qui

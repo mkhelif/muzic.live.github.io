@@ -3,6 +3,7 @@ id: "925a3b52-c2d8-4d34-93b1-c7a8ae528e82"
 title: "OkGiorgio"
 type: person
 socials:
+  musicbrainz: "94d8ae2b-e702-4cf4-90f3-bee97244667d"
   facebook: ""
   instagram: "okgiorgio"
   tiktok: ""
@@ -16,10 +17,13 @@ socials:
   deezer: "107552862"
   qobuz: ""
   spotify: "3SAZh4k4iDPFngB60QKpxg"
-  tidal: ""
+  tidal: "20344536"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 OkGiorgio est un artiste italien, DJ, producteur, auteur-compositeur et multi-instrumentiste basé à Milan. Inspiré par

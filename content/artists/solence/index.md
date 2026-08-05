@@ -24,6 +24,7 @@ members:
     periods:
       - start: 2012
 socials:
+  musicbrainz: "ee944257-940d-44c3-abae-2aae243b9373"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -33,13 +34,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "563152754"
+  deezer: "4022422"
+  qobuz: "4491744"
   spotify: "4fnono0JCZFAeeaecrI7kg"
-  tidal: ""
+  tidal: "4724125"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

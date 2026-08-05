@@ -52,6 +52,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "3225"
+  songkick: "540123"
   youtube: ""
   web: ""
   email: ""
@@ -61,6 +62,8 @@ socials:
   qobuz: "223881"
   spotify: "79qRD2IfSr3pmuYUficMWX"
   tidal: "19203"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Les Beatsteaks sont un groupe de rock alternatif allemand originaire de Berlin, fondé en 1995. Formé par Peter

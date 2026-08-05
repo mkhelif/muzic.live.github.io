@@ -3,6 +3,7 @@ id: "b60e629a-4d86-41f1-a6ad-5c0bacca9bc7"
 title: "Sorvina"
 type: unknown
 socials:
+  musicbrainz: "2c9c3372-7fed-4cf0-9ebb-bc08a66abcc8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,8 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Sorvina est une rappeuse originaire de New York, aujourd'hui installée à Berlin. Élevée dans une petite ville de

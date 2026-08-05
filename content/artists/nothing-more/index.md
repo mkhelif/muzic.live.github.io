@@ -69,20 +69,25 @@ members:
       - start: 2011
         end: 2015
 socials:
+  musicbrainz: "6def3fa9-836f-4b50-8815-b96cc92e63b8"
   facebook: "nothingmore"
   instagram: "nothingmoremusic"
   tiktok: "@nothingmoremusic"
   x: "nothingmorerock"
   bandsintown: "8979"
+  songkick: "155681"
   youtube: "@NothingMoremusic"
   web: "https://www.nothingmore.net"
   tidal: "5485751"
   spotify: "39VNwvlQTqE9SvgPjjnMpc"
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
+  amazon: "B001E2ITMO"
+  apple: "18531379"
+  deezer: "414744"
   qobuz: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Nothing More incarne la nouvelle vague du rock alternatif américain, mêlant habilement agressivité metal, mélodies

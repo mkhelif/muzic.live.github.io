@@ -21,6 +21,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1992-04-24
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Joseph David Keery est né le 24 avril 1992 à Newburyport, Massachusetts. Le grand public le connaît principalement sous

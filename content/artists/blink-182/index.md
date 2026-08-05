@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "26335"
+  songkick: "479410"
   youtube: ""
   web: ""
   email: ""
@@ -16,10 +17,12 @@ socials:
   apple: "116851"
   deezer: "409"
   qobuz: "62549"
-  spotify: ""
+  spotify: "6FBDaR13swtiWwGhX1WQsP"
   tidal: "29850"
 todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

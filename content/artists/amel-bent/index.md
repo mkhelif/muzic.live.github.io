@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "87562"
+  songkick: "334965"
   youtube: ""
   web: ""
   email: ""
@@ -23,6 +24,8 @@ todo:
   - Add socials
 lifespan:
   start: 1985-06-21
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Amel Bent est une chanteuse française de soul, R'n'B et variété née le 21 juin 1985 à Paris, d'origine algérienne

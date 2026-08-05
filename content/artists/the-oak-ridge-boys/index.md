@@ -2,6 +2,7 @@
 id: "93e57785-2567-4074-97f6-55d74a2fc225"
 title: "The Oak Ridge Boys"
 socials:
+  musicbrainz: "1089f50b-10c3-47ef-8b21-b0b899c827d8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,13 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1153608"
   deezer: "13188"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "3XnO697XIus1M0cMuxZjos"
+  tidal: "56755"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

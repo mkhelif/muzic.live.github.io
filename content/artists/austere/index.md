@@ -43,6 +43,8 @@ socials:
   qobuz: ""
   spotify: "7gyVPCoE80rSyEW6yuJ6HM"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Austere est un groupe de black metal dépressif australien originaire d'East Corrimal, en

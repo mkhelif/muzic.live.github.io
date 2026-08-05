@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "881676"
+  songkick: "8320613"
   youtube: ""
   web: ""
   email: ""
@@ -18,6 +19,8 @@ socials:
   qobuz: "2247761"
   spotify: "1PNvaesh1mkKZucGhBuqgD"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Danny L Harle est né le 25 septembre 1989 à Londres. Fils du saxophoniste John Harle, il ne manifeste

@@ -3,20 +3,26 @@ id: "d05f321e-d3d9-4c8e-b8c6-4adab8d1f7c4"
 title: "Sébastien Tellier"
 type: person
 socials:
+  musicbrainz: "ac69016f-42cc-4322-b70e-101458b769aa"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "62718"
+  songkick: "62875"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "15025750"
   deezer: "1408"
-  qobuz: ""
+  qobuz: "38068"
   spotify: ""
-  tidal: ""
+  tidal: "11611"
+lifespan:
+  start: 1975-02-22
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Sébastien Tellier, né le 22 février 1975 au Plessis-Bouchard dans le Val-d'Oise, est un chanteur, auteur-compositeur

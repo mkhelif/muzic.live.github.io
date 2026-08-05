@@ -2,24 +2,28 @@
 id: "204295f4-6ba2-4c2a-a570-43c2e6396eca"
 title: "The Band CAMINO"
 socials:
+  musicbrainz: "fb4d3639-dac0-478e-8776-4417096d8381"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
   bandsintown: "12879971"
+  songkick: "8697553"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1097752725"
   deezer: "10100048"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "6d4jrmreCmsenscuieJERc"
+  tidal: "7708670"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 The Band CAMINO est un groupe de pop rock américain formé en 2015 à l'université de Memphis par des amis de lycée :

@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "2968"
+  songkick: "111215"
   youtube: ""
   web: ""
   email: ""
@@ -16,13 +17,15 @@ socials:
   apple: "70281883"
   deezer: "152629"
   qobuz: ""
-  spotify: ""
+  spotify: "3TaUSUXn41GixL7zbvrIDt"
   tidal: "3525549"
 todo:
   - Add picture
   - Add socials
 lifespan:
   start: 1982-03-30
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 A-Trak est un DJ et producteur canadien né à Montréal sous le nom d'Alain Macklovitch, considéré comme l'un des

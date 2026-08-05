@@ -2,19 +2,23 @@
 id: "3cb88296-922b-4a8e-99fb-4dbb3d270f88"
 title: "Tesla"
 socials:
+  musicbrainz: "eeacb319-8d4c-48e0-80a0-944e71c375bf"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "451873"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "113592"
+  deezer: "7117"
   qobuz: ""
   spotify: "0dgnITyIAN4NrmUVisvxHU"
-  tidal: ""
+  tidal: "952"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Tesla est un groupe de hard rock américain originaire de Sacramento, en Californie, formé au début des années 1980

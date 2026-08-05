@@ -2,6 +2,7 @@
 id: "d259954f-4d7b-4229-afca-6e29049ea1de"
 title: "Taalkimia"
 socials:
+  musicbrainz: "45467e07-d21a-4caa-8aa9-3e968de8931c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,13 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1717659414"
   deezer: "244260732"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "7FeV7EwRimqtVSwO8PMQvr"
+  tidal: "43984741"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

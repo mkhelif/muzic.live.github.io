@@ -23,6 +23,8 @@ todo:
   - Add socials
 lifespan:
   start: 1990-02-21
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Giveon Dezmann Evans, né le 21 février 1995 à Long Beach, en Californie, est un chanteur et auteur-compositeur américain

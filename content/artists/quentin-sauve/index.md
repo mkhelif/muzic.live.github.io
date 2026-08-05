@@ -2,6 +2,7 @@
 id: "8e0b5ec6-17ab-4c75-9cdd-44c438c25e92"
 title: "Quentin Sauvé"
 socials:
+  musicbrainz: "573895b0-e91b-463b-8301-615484107bbb"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,9 +17,11 @@ socials:
   deezer: "5787824"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "9808721"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

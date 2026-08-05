@@ -8,6 +8,7 @@ socials:
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "388355"
   youtube: ""
   web: ""
   email: ""
@@ -20,4 +21,6 @@ socials:
 todo:
   - Add description
   - Add socials
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

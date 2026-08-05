@@ -38,6 +38,7 @@ members:
     periods:
       - start: 2019
 socials:
+  musicbrainz: "2f971072-e9ef-4b27-9473-9340c693f262"
   facebook: "PambeleColombia"
   instagram: "pambelemusic"
   tiktok: "@pambeleband"
@@ -48,10 +49,13 @@ socials:
   bandsintown: "15558161"
   youtube: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
+  amazon: "B09F6YB1GD"
+  apple: "1777066988"
+  deezer: "144146662"
   qobuz: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Pambelé est un groupe de sept musiciens fondé en 2019 à Lyon, mêlant la transe des rythmes afro-colombiens à des

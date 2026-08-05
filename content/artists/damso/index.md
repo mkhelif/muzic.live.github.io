@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "7240013"
+  songkick: "9061564"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "7358888"
 lifespan:
   start: 1992-05-10
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Damso, de son vrai nom William Kalubi Mwamba, est né le 10 mai 1992 à Kinshasa (République démocratique

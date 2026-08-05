@@ -32,12 +32,14 @@ members:
       - start: 1994
         end: 1997
 socials:
+  musicbrainz: "cc0b7089-c08d-4c10-b6b0-873582c17fd6"
   facebook: "systemofadown"
   instagram: "systemofadown"
   tiktok: "@systemofadown"
   x: "systemofadown"
   threads: "@systemofadown"
   bandsintown: "54"
+  songkick: "74172"
   youtube: "systemofadown"
   web: "https://systemofadown.com"
   amazon: "B0025NYZ9W"
@@ -49,6 +51,8 @@ socials:
   email: ""
 todo:
   - Add logo cover
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 System of a Down est un groupe de metal alternatif américain formé en 1994 à Glendale, en Californie, par quatre

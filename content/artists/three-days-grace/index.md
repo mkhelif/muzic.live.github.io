@@ -31,12 +31,14 @@ members:
     periods:
       - start: 2013
 socials:
+  musicbrainz: "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d"
   facebook: "threedaysgrace"
   instagram: "threedaysgraceofficial"
   tiktok: "@threedaysgrace"
   x: "threedaysgrace"
   threads: "@threedaysgraceofficial"
   bandsintown: "28"
+  songkick: "424396"
   youtube: "@ThreeDaysGrace"
   web: "https://threedaysgrace.com/"
   amazon: "B000XXMDB8"
@@ -46,6 +48,8 @@ socials:
   spotify: "2xiIXseIJcq3nG7C8fHeBj"
   tidal: "35937"
   email: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 "Dès que je l'ai entendu chanter, je me suis dit : je veux être dans un groupe avec ce gars-là". Cette phrase de **Neil Sanderson** à propos d'**Adam Gontier**, prononcée alors qu'ils étaient tous deux en neuvième année dans la petite ville

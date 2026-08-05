@@ -3,6 +3,7 @@ id: "c0362299-6772-4a5c-ac57-5820071602e1"
 title: "St Graal"
 type: person
 socials:
+  musicbrainz: "45af9fbe-b0c1-417b-baba-56beb48c1039"
   facebook: "stgraal"
   instagram: "le.st.graal"
   tiktok: "@st.graal"
@@ -10,12 +11,14 @@ socials:
   youtube: "@stgraal"
   web: ""
   email: "stgraalofficiel@gmail.com"
-  amazon: ""
-  apple: ""
+  amazon: "B0767JYLZ2"
+  apple: "1294527832"
   deezer: "13311053"
   qobuz: ""
   spotify: "7Kgv8CorcAKsG4of90vA5I"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 St Graal est le nom de scène de Léo Meynard, auteur-compositeur-interprète français né en 1998 à Angoulême, dont la

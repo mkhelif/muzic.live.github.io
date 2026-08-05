@@ -9,6 +9,7 @@ socials:
   tiktok: "@charlottecardin_"
   x: "Charlottecardin"
   bandsintown: "10148052"
+  songkick: "8741094"
   youtube: "@CharlotteCardin"
   web: "https://www.charlottecardin.com/"
   soundcloud: "charlottecardin"
@@ -23,6 +24,8 @@ todo:
   - Add picture from concert
 lifespan:
   start: 1994-11-09
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Il y a des trajectoires qui semblent écrites d'avance. Et puis il y a celle de **Charlotte Cardin** — mannequin à 15

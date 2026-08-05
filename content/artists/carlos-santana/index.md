@@ -8,6 +8,7 @@ socials:
   instagram: ""
   tiktok: ""
   x: ""
+  songkick: "151868"
   youtube: ""
   web: ""
   email: ""
@@ -23,4 +24,6 @@ todo:
   - Add detailed description
 lifespan:
   start: 1947-07-20
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---

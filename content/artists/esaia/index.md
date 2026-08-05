@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: "0WnZZIIgtyE3Qdfzfhje70"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Esaïa est une productrice et artiste genevoise évoluant dans les musiques électroniques, passionnée de techno et de

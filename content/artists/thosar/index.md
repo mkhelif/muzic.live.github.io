@@ -2,6 +2,7 @@
 id: "58d2aa20-0db3-47db-bc3c-53638e7d8f2a"
 title: "Thosar"
 socials:
+  musicbrainz: "c19fe423-62da-42cc-9cab-ada0e8ed1ed0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: ""
   deezer: "112327792"
   qobuz: ""
-  spotify: ""
+  spotify: "5t5z4DajuM5B73ssHaa97N"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

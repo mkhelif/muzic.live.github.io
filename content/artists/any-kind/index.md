@@ -31,6 +31,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Any Kind est un groupe indie rock originaire de Brooklyn, New York, dont le son mêle l'intimité du bedroom pop à

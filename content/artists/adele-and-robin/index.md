@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: "1C04qPsvqhYBJhpWGCIFo8"
   tidal: "16224164"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Adèle & Robin est un duo de chanson française formé à Grenoble, révélation attachante de la nouvelle variété

@@ -2,11 +2,31 @@
 id: "eee02509-12fa-4047-8060-ca9ce5a56291"
 title: "Stuck in the Sound"
 type: band
+members:
+  - id: "3e5d8a0e-a1ea-4314-8020-f5dbc4349f90"
+    roles:
+      - other
+    periods:
+      - start: 2012
+  - id: "2eeb860d-f017-46ef-a23b-bc2b1afa200c"
+    roles:
+      - other
+  - id: "860c831b-81aa-42a8-b3a2-fd4b4cde31ca"
+    roles:
+      - other
+  - id: "f18590ea-bf13-490c-8711-6401b502dd7b"
+    roles:
+      - other
+  - id: "309832ae-64b2-4067-92c0-6cdfa08f63d5"
+    roles:
+      - other
 socials:
+  musicbrainz: "335abb73-0134-4264-bfd7-9b110ab8d4db"
   facebook: "stuckinthesound"
   instagram: "stuckinthesoundofficial"
   x: "stuckinthesound"
   threads: "@stuckinthesoundofficial"
+  songkick: "222816"
   youtube: "@stuckinthesoundofficial"
   web: "http://stuckinthesound.com/"
   tidal: "3918337"
@@ -14,9 +34,11 @@ socials:
   tiktok: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "191706318"
   deezer: "17290"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 **Style énergique et direct** - Stuck in the Sound débarque en 2002 depuis Montreuil avec une énergie qui claque comme

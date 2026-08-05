@@ -9,6 +9,7 @@ socials:
   threads: ""
   x: ""
   bandsintown: "984391"
+  songkick: "10201843"
   youtube: ""
   web: ""
   email: ""
@@ -18,6 +19,8 @@ socials:
   qobuz: ""
   spotify: "6ZHfuZhV3q15jxpOY8S1m6"
   tidal: "39812725"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Formé au Royaume-Uni, le groupe Balancing Act fait ses débuts en 2022 et se retrouve rapidement sur les listes « Ones

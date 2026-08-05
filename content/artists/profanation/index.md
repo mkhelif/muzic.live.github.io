@@ -3,6 +3,7 @@ id: "4886cc25-07b6-4dbd-969d-e388f4bfe98d"
 title: "Profanation"
 type: band
 socials:
+  musicbrainz: "a8d90f10-6b36-40ed-a975-77e5647058ae"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

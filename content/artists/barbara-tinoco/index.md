@@ -23,6 +23,8 @@ todo:
   - Add socials
 lifespan:
   start: 1998-11-16
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Bárbara Tinoco est une chanteuse et compositrice portugaise née le 16 novembre 1998 à Lisbonne. Elle apprend la

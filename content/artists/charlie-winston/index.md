@@ -20,6 +20,8 @@ socials:
   qobuz: ""
 lifespan:
   start: 1978-09-14
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Charlie Winston est un chanteur-compositeur britannique né à Londres dans une famille de musiciens, ce qui l'amène très

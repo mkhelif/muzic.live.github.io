@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "15383305"
+  songkick: "9729054"
   youtube: ""
   web: ""
   email: ""
@@ -18,6 +19,8 @@ socials:
   qobuz: ""
   spotify: "1VzCGzFPj5ZToYK3QmpD8R"
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Calumny est un duo de DJ-producteurs belges composé de Bastien et Quentin, qui se rencontrent en 2017 et

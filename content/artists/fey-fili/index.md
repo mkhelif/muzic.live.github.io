@@ -18,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Fey Fili est une autrice-compositrice-interprète folk-country émergente, révélée en 2026 par ses premières

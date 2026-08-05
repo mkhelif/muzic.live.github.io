@@ -36,19 +36,23 @@ members:
     periods:
       - start: 2007
 socials:
+  musicbrainz: "0bfba3d3-6a04-4779-bb0a-df07df5b0558"
   facebook: "stereophonics"
   instagram: "stereophonicsofficial"
   tiktok: "@stereophonicsofficial"
   x: "stereophonics"
+  songkick: "126330"
   youtube: "@stereophonicsmusic"
   web: "https://www.stereophonics.com"
   tidal: "10374"
   spotify: "21UJ7PRWb3Etgsu99f8yo8"
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  amazon: "B001ED474W"
+  apple: "2579656"
+  deezer: "707"
+  qobuz: "51382"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Stereophonics est un groupe gallois formé en 1992 à Cwmaman, dans les vallées minières du sud du Pays de Galles, qui est

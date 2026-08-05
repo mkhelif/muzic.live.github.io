@@ -14,20 +14,24 @@ members:
     periods:
       - start: 2000
 socials:
+  musicbrainz: "a8ed28e3-5c08-4448-b889-867483e251f5"
   facebook: "rodgab"
   instagram: "rodrigoygabriela"
   tiktok: "@rodygab"
   x: "rodgab"
   bandsintown: "1983"
+  songkick: "195992"
   youtube: "@RodrigoyGabriela"
   web: "https://www.rodgab.com"
   tidal: "3575292"
   spotify: "7vX3cMVyW8gtDA4y855ynF"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "68341685"
   deezer: "15794"
-  qobuz: ""
+  qobuz: "53377"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
 
 Rodrigo y Gabriela est un duo mexicain formé par **Rodrigo Sánchez** et **Gabriela Quintero**, qui a révolutionné la guitare

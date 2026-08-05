@@ -9,6 +9,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "11675173"
+  songkick: "8890164"
   youtube: ""
   web: ""
   email: ""
@@ -20,6 +21,8 @@ socials:
   tidal: "7319305"
 lifespan:
   start: 2000-07-05
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Faouzia Ouihya, dite Faouzia, est une autrice-compositrice-interprète et musicienne maroco-canadienne née le 5 juillet

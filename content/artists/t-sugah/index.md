@@ -3,6 +3,7 @@ id: "010543b2-dc44-4a11-a475-764b0a001d34"
 title: "T & Sugah"
 type: unknown
 socials:
+  musicbrainz: "0cebaa51-3787-423a-a287-4c7607ff0ee8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,14 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "595934095"
   deezer: "5469454"
   qobuz: ""
   spotify: "6jsS2mOTAxVrlSUWiPLXpH"
-  tidal: ""
+  tidal: "6390277"
 todo:
   - Add description
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

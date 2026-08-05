@@ -23,6 +23,8 @@ todo:
   - Add socials
 lifespan:
   start: 1976-04-07
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Andy C, de son vrai nom Andrew Michael Clarke, est né le 7 avril 1976 à Hornchurch, dans l'Essex. Il est l'un des

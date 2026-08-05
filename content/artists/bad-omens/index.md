@@ -42,6 +42,7 @@ socials:
   tiktok: ""
   x: ""
   bandsintown: "2534884"
+  songkick: "4651863"
   youtube: ""
   web: ""
   email: ""
@@ -51,6 +52,8 @@ socials:
   qobuz: "2532415"
   spotify: "3Ri4H12KFyu98LMjSoij5V"
   tidal: "7541226"
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Bad Omens est un groupe de metal américain originaire de Richmond, en Virginie, fondé en

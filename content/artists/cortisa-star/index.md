@@ -20,6 +20,8 @@ socials:
   tidal: "39320812"
 lifespan:
   start: 2005-07-11
+lastUpdate:
+  musicbrainz: 2026-08-05
 ---
 
 Cortisa Star, née le 11 juillet 2005, est une rappeuse et mannequin américaine. Née à Baltimore, elle grandit

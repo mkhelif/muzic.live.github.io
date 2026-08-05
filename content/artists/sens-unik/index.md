@@ -44,8 +44,10 @@ members:
       - start: 1987
         end: 1998
 socials:
+  musicbrainz: "b2ac9415-8075-475a-9b51-020cb6172100"
   facebook: "sensunikhiphop"
   bandsintown: "80908"
+  songkick: "172629"
   youtube: "channel/UC-Cnlcx0QTD5WO9C8Z_suVQ"
   tidal: "3688091"
   spotify: "4NJQiZfOszzd9O6z2gR8hS"
@@ -55,7 +57,9 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "79721903"
   deezer: "13494"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

@@ -3,6 +3,7 @@ id: "eef56d39-5fd8-4184-beeb-f607424e0096"
 title: "Super Besse"
 type: band
 socials:
+  musicbrainz: "b17670ac-f4cf-4ecc-a392-0e1d44a97351"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,4 +21,6 @@ todo:
   - Add detailed description
   - Verify social networks
   - Add logo cover
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---
