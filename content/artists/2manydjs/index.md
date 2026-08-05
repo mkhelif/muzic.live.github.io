@@ -32,6 +32,10 @@ todo:
   - Add cover
   - Add socials
 lastUpdate:
+  setlistfm: 2026-08-05
+  deezer: 2026-08-05
+  apple: 2026-08-05
+  bandsintown: 2026-08-05
   musicbrainz: 2026-08-05
 ---
 

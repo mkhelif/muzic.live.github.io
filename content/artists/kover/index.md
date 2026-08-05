@@ -2,6 +2,16 @@
 id: "6e55e6be-fee6-441b-a2ce-52a5be3868e5"
 title: "Kover"
 type: band
+members:
+  - id: "111c9418-3dc7-4388-be84-ed02b6826928"
+    roles:
+      - drums
+  - id: "73813e8e-97f3-4110-bca9-ef919dd428d1"
+    roles:
+      - other
+  - id: "447458a4-7d48-4637-b432-cf6bf926c3b3"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +28,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "2139f09e-b75d-41e7-bf0f-43514638b756"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

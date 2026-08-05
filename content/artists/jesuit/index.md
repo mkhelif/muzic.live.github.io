@@ -2,6 +2,15 @@
 id: "aa7cf4e4-6f09-4b28-ae78-f963bdb42714"
 title: "Jesuit"
 type: band
+members:
+  - id: "61b19511-3527-4e19-8447-eeb9229fdef7"
+    roles:
+      - guitar
+    periods:
+      - start: 2011
+        end: 2011
+      - start: 1995
+        end: 1999
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +27,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "c969b72b-0032-4952-835a-ceefc269dfa7"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-05
 ---

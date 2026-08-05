@@ -53,6 +53,8 @@ socials:
 todo:
   - Add picture from concert
 lastUpdate:
+  deezer: 2026-08-05
+  bandsintown: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 
