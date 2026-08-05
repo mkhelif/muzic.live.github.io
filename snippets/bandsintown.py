@@ -309,13 +309,24 @@ PROVIDER = "bandsintown"
 SOCIAL_KEY = "bandsintown"
 THROTTLE = (REQUEST_INTERVAL, REQUEST_JITTER)
 
+# The artist page's JSON-LD is overwhelmingly upcoming shows, but it does carry
+# a few past ones, which DATE_FILTER would otherwise drop.
+SUPPORTS_PAST = True
 
-def fetch_events(provider_id, artist_name):
+
+def fetch_events(provider_id, artist_name, past=False, since=None):
     """Return this artist's concerts in events.py's common event model.
 
     Writing is events.py's job — this only fetches and normalises."""
+    global DATE_FILTER
+    previous, DATE_FILTER = DATE_FILTER, ("all" if past else "upcoming")
+    try:
+        raw_events = get_artist_events(provider_id)
+    finally:
+        DATE_FILTER = previous
+
     events = []
-    for raw in get_artist_events(provider_id):
+    for raw in raw_events:
         location = build_location(raw.get("venue") or {})
         if location is None:
             continue

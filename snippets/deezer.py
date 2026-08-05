@@ -258,10 +258,14 @@ def get_concert(event_id, country_code):
 
 PROVIDER = "deezer"
 SOCIAL_KEY = "deezer"
+
+# Deezer's LiveEventList returns *pending* events only — there is no
+# past-events query.
+SUPPORTS_PAST = False
 THROTTLE = (REQUEST_INTERVAL, 0.0)
 
 
-def fetch_events(provider_id, artist_name):
+def fetch_events(provider_id, artist_name, past=False, since=None):
     """Return this artist's concerts in events.py's common event model.
 
     Deezer is the only provider that flags festivals explicitly

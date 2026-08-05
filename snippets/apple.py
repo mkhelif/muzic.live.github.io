@@ -203,10 +203,14 @@ def build_location(venue):
 
 PROVIDER = "apple"
 SOCIAL_KEY = "apple"
+
+# Apple's concerts page lists upcoming shows only — there is no
+# past-events feed to read.
+SUPPORTS_PAST = False
 THROTTLE = (REQUEST_DELAY, 0.0)
 
 
-def fetch_events(provider_id, artist_name):
+def fetch_events(provider_id, artist_name, past=False, since=None):
     """Return this artist's concerts in events.py's common event model.
 
     Apple bills one concert page per artist, so the line-up is just the artist

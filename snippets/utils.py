@@ -282,6 +282,7 @@ socials:
   tiktok: ""
   threads: ""
   x: ""
+  songkick: ""
   youtube: ""
   web: ""
   email: ""
