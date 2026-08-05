@@ -23,6 +23,7 @@ socials:
   spotify: "0ussJndMOAWWfaUtXSttFU"
   tidal: "4169471"
 lastUpdate:
+  apple: 2026-08-05
   deezer: 2026-08-05
   musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27
