@@ -3,6 +3,7 @@ id: "252fed35-b592-4ebd-b54f-c61bb77a30f7"
 title: "Darrian Gerard"
 type: person
 socials:
+  musicbrainz: "bb638ec9-2f30-4954-88dc-db34513d06a3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,7 +23,10 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 2021-04-04
 ---

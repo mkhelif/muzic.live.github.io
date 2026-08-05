@@ -2,6 +2,7 @@
 id: "d5ba87bb-10aa-4c52-8744-4ed34759a00d"
 title: "Etaoin"
 socials:
+  musicbrainz: "6511b1b6-0fd3-4d45-b370-94ded345c97c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "312719842"
   deezer: "6838629"
   qobuz: ""
-  spotify: ""
+  spotify: "5V9BcFYORnSqjFtBgrpx01"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

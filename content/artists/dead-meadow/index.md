@@ -2,6 +2,7 @@
 id: "25671ff2-7d67-4ffe-b950-df9f8e900df0"
 title: "Dead Meadow"
 socials:
+  musicbrainz: "a60ca9de-acd1-4452-be33-e5b4f0564757"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,16 +12,17 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001SXZ96I"
   apple: "5254483"
   deezer: "1685"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0AI2um3PpFgOj7Yzmk2Xu0"
+  tidal: "3575036"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

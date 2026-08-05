@@ -2,6 +2,7 @@
 id: "686c75c3-859d-4f69-b9a1-832e7bd81c0c"
 title: "Consumer Culture"
 socials:
+  musicbrainz: "563f4493-5cb9-42b3-9df5-2c929a668dc7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

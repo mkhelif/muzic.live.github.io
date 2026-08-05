@@ -2,6 +2,7 @@
 id: "44f48dac-6df4-4d99-b9d8-6933d705eee4"
 title: "Eliptek"
 socials:
+  musicbrainz: "f3895c51-529f-4b49-bb12-2ec2237add00"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "1449217789"
   deezer: "57326562"
   qobuz: ""
-  spotify: ""
+  spotify: "1wLZRC8mZHXDK3oA2M6frL"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

@@ -30,6 +30,7 @@ members:
       - start: 2012
         end: 2015
 socials:
+  musicbrainz: "490edaab-6da3-435f-8129-2074ec63fff3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -49,6 +50,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

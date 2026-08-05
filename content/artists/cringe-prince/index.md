@@ -2,6 +2,7 @@
 id: "ad82b72a-3436-4f0b-8548-79e47b4db99b"
 title: "Cringe Prince"
 socials:
+  musicbrainz: "322b92fb-6df9-48ca-944e-7342a16fe8e5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "1566472928"
   deezer: "132331752"
   qobuz: ""
-  spotify: ""
+  spotify: "2viCEeiVX5JZNBpMj5iJL3"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

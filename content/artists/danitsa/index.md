@@ -3,6 +3,7 @@ id: "be2aeec5-8bec-44ee-825d-a54a09c97fa9"
 title: "Danitsa"
 type: person
 socials:
+  musicbrainz: "0426faab-8367-428f-87d4-de8af0dd0a97"
   facebook: "DanitsaOfficiel"
   instagram: "danitsa_m"
   tiktok: "@danitsa_m"
@@ -19,6 +20,7 @@ socials:
   x: ""
   web: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26

@@ -2,7 +2,111 @@
 id: "f1461356-818c-4271-b8fc-a096006ef18b"
 title: "Corrosion Of Conformity"
 type: band
+members:
+  - id: "ddb4ff22-eafc-4586-adb8-72fabd365e74"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2010
+      - start: 2010
+      - start: 1993
+        end: 2006
+      - start: 1985
+        end: 1985
+      - start: 1982
+        end: 1987
+  - id: "63d40561-b970-4944-9489-fe5291187b49"
+    roles:
+      - guitar
+    periods:
+      - start: 2010
+      - start: 1982
+        end: 2006
+  - id: "096591af-d54b-4ce4-bf83-950bf32ca501"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2014
+      - start: 1993
+        end: 2006
+      - start: 1989
+        end: 2006
+  - id: "4c5ab233-1867-4ec2-b91e-018ae1717c96"
+    roles:
+      - bass
+    periods:
+      - start: 2024
+  - id: "831d08ae-dad8-4242-839f-768d6b29a165"
+    roles:
+      - drums
+    periods:
+      - start: 2026
+  - id: "72989bb3-3554-4925-a7f3-bfe136c2df30"
+    roles:
+      - sing
+    periods:
+      - start: 1982
+        end: 1983
+  - id: "f7c59494-d62d-4877-a701-355c040ca2ea"
+    roles:
+      - drums
+    periods:
+      - start: 2010
+        end: 2020
+      - start: 1982
+        end: 2001
+  - id: "7b51a929-e886-4c4a-a265-64e414486a5b"
+    roles:
+      - sing
+    periods:
+      - start: 1983
+        end: 1984
+  - id: "854bb59d-b913-4924-b01d-8daccb18b71d"
+    roles:
+      - sing
+    periods:
+      - start: 1986
+        end: 1988
+  - id: "e59255d9-f8b0-442f-9f62-6769ee617853"
+    roles:
+      - bass
+    periods:
+      - start: 1987
+        end: 1993
+  - id: "82043061-64f9-411d-b5be-33d4c85fe393"
+    roles:
+      - sing
+    periods:
+      - start: 1989
+        end: 1993
+  - id: "9c043e1b-075d-46e4-863e-5d58c0518f7a"
+    roles:
+      - drums
+    periods:
+      - start: 2001
+        end: 2002
+  - id: "0e07d3b6-84b4-4047-b921-fe285e252991"
+    roles:
+      - drums
+    periods:
+      - start: 2002
+        end: 2003
+  - id: "7b692ec0-128a-4f91-9988-0b0381f172a8"
+    roles:
+      - drums
+    periods:
+      - start: 2003
+        end: 2005
+  - id: "50373ff8-0119-4501-917a-50fb856efa20"
+    roles:
+      - drums
+    periods:
+      - start: 2005
+        end: 2006
 socials:
+  musicbrainz: "0f6e80ef-1972-4dee-8896-dc9955f1beeb"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,10 +118,11 @@ socials:
   amazon: ""
   apple: "485858"
   deezer: "2484"
-  qobuz: ""
+  qobuz: "151867"
   spotify: "1BBIIH0h76KN8gYeXFcPjR"
-  tidal: ""
+  tidal: "3993"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-08-04
   bandsintown: 2026-07-27
   spotify: 2026-07-23

@@ -2,7 +2,12 @@
 id: "357fe504-9b19-478d-aa36-8c6f9e1f10e8"
 title: "Dead Chic"
 type: band
+members:
+  - id: "eacdea80-d864-4ee6-a08e-b1d1e549b00e"
+    roles:
+      - other
 socials:
+  musicbrainz: "b34ff603-5ef6-49f7-91c1-95603891f9e5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +23,7 @@ socials:
   spotify: "4hCjCdMZF65nKTdjsPUvfh"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

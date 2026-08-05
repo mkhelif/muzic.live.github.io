@@ -2,6 +2,7 @@
 id: "6fb5ed3f-4b6a-44d0-8f70-e5c91d3e27e9"
 title: "Denzel Curry"
 socials:
+  musicbrainz: "5f95440d-7737-4a36-9bcf-c05337f7129b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "631440154"
   deezer: "5131091"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "1815481"
+  spotify: "6fxyWrfmjcbj5d12gXeiNV"
+  tidal: "5082898"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

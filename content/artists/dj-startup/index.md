@@ -2,6 +2,7 @@
 id: "f3c07b9f-80f8-4945-9122-da609804a04e"
 title: "DJ Startup"
 socials:
+  musicbrainz: "45f44bca-0f3e-4cb2-8bee-589d31245785"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

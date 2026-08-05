@@ -2,7 +2,20 @@
 id: "26d7e51e-e083-4c30-b8ee-bcecff1c9bee"
 title: "DARKSIDE"
 type: band
+members:
+  - id: "6fda5fbc-3ab6-4d02-ab91-1b0f59d114bb"
+    roles:
+      - other
+    periods:
+      - start: 2022
+  - id: "97a5007e-1fd0-4105-8346-e8a96167153e"
+    roles:
+      - other
+  - id: "b5e37d5c-6e67-402b-8a9c-42c85a9bb5ba"
+    roles:
+      - other
 socials:
+  musicbrainz: "116b79ab-b049-4299-8fd8-17ac8a18b7f3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +25,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "710179990"
+  deezer: "62604"
+  qobuz: "8748399"
   spotify: "2933wDUojoQmvqSdTAE5NB"
-  tidal: ""
+  tidal: "5474583"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

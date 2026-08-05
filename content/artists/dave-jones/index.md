@@ -3,6 +3,7 @@ id: "977aa164-1286-4c93-9ddd-b658f58aab55"
 title: "Dave Jones"
 type: person
 socials:
+  musicbrainz: "4852a149-8003-4bda-ae76-e204379e2dfa"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,6 +24,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
   apple-lookup: 2026-08-04

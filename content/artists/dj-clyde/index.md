@@ -3,6 +3,7 @@ id: "2ce9dcfc-3e3e-40b8-a01b-ca26aaba3079"
 title: "DJ Clyde"
 type: person
 socials:
+  musicbrainz: "bdfccb42-0d73-409a-a25b-0db11edbecb1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,6 +24,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer-lookup: 2026-07-27
 ---

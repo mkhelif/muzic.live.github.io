@@ -3,6 +3,7 @@ id: "69628b7e-b391-4a5c-aa69-c53ab2b15537"
 title: "Dave Grunewald"
 type: person
 socials:
+  musicbrainz: "97de3725-f3f6-4af9-8fdb-3e2a1935f1a7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-08-04
   bandsintown-lookup: 2026-08-04
 ---

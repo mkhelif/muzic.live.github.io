@@ -3,6 +3,7 @@ id: "ae8063e3-3b87-43d1-b8fe-0bdce586bf93"
 title: "Dalton Davis"
 type: person
 socials:
+  musicbrainz: "2d5b06e1-a5a0-4da3-93f3-e9649641531e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

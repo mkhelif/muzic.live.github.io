@@ -2,6 +2,7 @@
 id: "05b3f9f7-10e8-420e-9c1d-5d41592b7527"
 title: "Corina Smith"
 socials:
+  musicbrainz: "6ed4df75-c42d-4890-906d-d34f0a1db984"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "491887531"
   deezer: "1576809"
   qobuz: ""
-  spotify: ""
+  spotify: "7mXfsy3lF4kU0f2KTNKSr8"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

@@ -2,6 +2,7 @@
 id: "4f92f0cb-63b4-49a5-a735-06a150feef81"
 title: "Derya Yildirim"
 socials:
+  musicbrainz: "961f11f3-3c55-4b0e-ab30-53c0dc8d956e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,15 +14,16 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "11582757"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "3sOZwUEz343zQBrsgfXEO7"
+  tidal: "27420869"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer-lookup: 2026-07-27
   apple-lookup: 2026-07-27

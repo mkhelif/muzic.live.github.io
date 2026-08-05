@@ -2,6 +2,7 @@
 id: "a327dd9b-f703-4595-b567-77ed9e7d6598"
 title: "Eric Harland"
 socials:
+  musicbrainz: "f05360a9-63ab-4fb4-9a7f-fa7cd3f45c5a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "2439515"
   deezer: ""
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0wTdAqanDZiEonTBUmBSQh"
+  tidal: "4667200"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
 ---

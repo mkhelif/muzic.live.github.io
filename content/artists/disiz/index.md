@@ -3,6 +3,7 @@ id: "2daaab87-62b4-43f2-b950-450266800867"
 title: "disiz"
 type: person
 socials:
+  musicbrainz: "daba3096-88f2-4322-9b00-10938b0220b8"
   facebook: "DisizFr"
   instagram: "disizfr"
   tiktok: ""
@@ -13,15 +14,18 @@ socials:
   email: ""
   phone: "+33782715018"
   amazon: ""
-  apple: ""
+  apple: "13633118"
   deezer: "292"
-  qobuz: ""
+  qobuz: "93266"
   spotify: "7rz6ZZErn5YFDteXKhyf3g"
-  tidal: ""
+  tidal: "4549591"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27
+lifespan:
+  start: 1978-03-22
 ---
 
 Sérigne M'Baye Gueye, connu sous le nom de Disiz (anciennement Disiz la Peste), est un rappeur et acteur français né le

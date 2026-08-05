@@ -2,6 +2,7 @@
 id: "f3e99ce9-30af-4f11-be09-0a231b8b260f"
 title: "Ecca Vandal"
 socials:
+  musicbrainz: "6b4e962d-3dbc-4bda-82f0-25d35786f076"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "878909173"
   deezer: "5895611"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0NhKCHTPG7Sz62S3zxV1Cf"
+  tidal: "7039287"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

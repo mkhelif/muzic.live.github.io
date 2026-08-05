@@ -3,6 +3,7 @@ id: "7abbfe07-c09c-4b25-be40-9005bf091d04"
 title: "Darcy"
 type: unknown
 socials:
+  musicbrainz: "38616c51-cf5b-4b17-a272-67cbf78492af"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,8 +13,8 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1161406796"
+  deezer: "192002"
   qobuz: ""
   spotify: "5ywHMPFQxs6TM3iPSvX4l8"
   tidal: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

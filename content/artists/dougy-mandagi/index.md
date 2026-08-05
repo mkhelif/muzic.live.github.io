@@ -3,6 +3,7 @@ id: "65183d02-a84b-42ec-b03c-50d02e41e70b"
 title: "Dougy Mandagi"
 type: person
 socials:
+  musicbrainz: "d4dee582-5ead-4294-88f4-25747cb8a72c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

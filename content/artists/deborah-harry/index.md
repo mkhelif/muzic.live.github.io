@@ -16,13 +16,16 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
-  tidal: ""
-  musicbrainz: ""
+  spotify: "7FxMjqH6DH056sdsstGeVl"
+  tidal: "3513575"
+  musicbrainz: "2e229823-0fc2-438b-aacb-5de02bd0b9b7"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
+lifespan:
+  start: 1945-07-01
 ---

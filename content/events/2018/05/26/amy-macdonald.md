@@ -1,0 +1,6 @@
+---
+date: 2018-05-26T00:00:00
+venue: "a185b571-d7f2-429c-bea8-0dd14bdf2aff"
+artists:
+  - "ddfc3b61-7c0f-4722-a46e-f690c38f8f49"
+---

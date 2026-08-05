@@ -2,6 +2,7 @@
 id: "6a6f0561-a351-4800-be01-b0b3936efd67"
 title: "Cor de Lux"
 socials:
+  musicbrainz: "cc928b6b-c7b5-446f-a70a-6135da8aacfe"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

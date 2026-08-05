@@ -2,6 +2,7 @@
 id: "7527a5c9-ae39-4aa1-b746-be25c7b9575f"
 title: "Dylan Chambers"
 socials:
+  musicbrainz: "10c23343-61ab-492f-9a44-24e983157daf"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "399709150"
   deezer: "5485142"
   qobuz: ""
-  spotify: ""
+  spotify: "2jP4GO0BDgY15BqUcUVhG9"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

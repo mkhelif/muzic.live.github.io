@@ -47,6 +47,7 @@ members:
       - start: 2010
         end: 2012
 socials:
+  musicbrainz: "cf075492-d880-4afc-b87b-d6b03e33dacc"
   facebook: "electriccallboy"
   instagram: "electriccallboy"
   tiktok: "@electriccallboy"
@@ -62,6 +63,7 @@ socials:
   spotify: "1WNoKxsp715jez1Td4vthc"
   tidal: "31100862"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26

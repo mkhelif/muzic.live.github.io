@@ -2,6 +2,7 @@
 id: "7844d641-d68d-488d-a733-2de649b67f71"
 title: "Dan Byrne"
 socials:
+  musicbrainz: "9174421e-f6f3-4cec-9ae5-fc853a2ffd1c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: ""
   deezer: "8628670"
   qobuz: ""
-  spotify: ""
+  spotify: "0h3wi5ds4I33B5RnlDZ50n"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

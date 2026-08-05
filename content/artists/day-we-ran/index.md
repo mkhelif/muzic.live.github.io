@@ -2,6 +2,7 @@
 id: "e608da76-f9d8-42ef-9804-e79291e24c92"
 title: "Day We Ran"
 socials:
+  musicbrainz: "bcd4384c-c239-4d7a-af60-e68d49e54e3b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

@@ -18,6 +18,7 @@ socials:
   spotify: "1OZJ1yBSsVelarbCxxWgRj"
   tidal: "25584866"
 lastUpdate:
+  setlistfm: 2026-08-05
   apple: 2026-08-05
   musicbrainz: 2026-08-04
   deezer: 2026-07-27

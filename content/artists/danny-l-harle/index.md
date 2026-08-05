@@ -3,6 +3,7 @@ id: "d763eaba-5a26-4650-bde8-192d096cd43b"
 title: "Danny L Harle"
 type: person
 socials:
+  musicbrainz: "1fd94d42-5e6a-46f2-84bf-9cc0be6c009f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,11 +14,12 @@ socials:
   email: ""
   amazon: ""
   apple: "985576556"
-  deezer: ""
-  qobuz: ""
+  deezer: "7850514"
+  qobuz: "2247761"
   spotify: "1PNvaesh1mkKZucGhBuqgD"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23

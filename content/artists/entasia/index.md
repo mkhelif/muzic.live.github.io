@@ -2,6 +2,7 @@
 id: "89149953-9f2d-44cf-bb0c-4ca400f6745d"
 title: "Entasia"
 socials:
+  musicbrainz: "ba5c88b8-5c73-4f4b-b522-f98bbfe75023"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

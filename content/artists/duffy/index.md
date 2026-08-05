@@ -3,6 +3,7 @@ id: "ba4b7236-00bf-433f-8f18-1d7e51b3c6a1"
 title: "Duffy"
 type: person
 socials:
+  musicbrainz: "2c4dae8c-e591-49e0-9c5a-62b310a15788"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,18 +13,21 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "272521020"
+  deezer: "72519"
   qobuz: ""
   spotify: "37NqXwtb6nIEqRt4EJSoIO"
-  tidal: ""
+  tidal: "3014"
 todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1984-06-23
 ---

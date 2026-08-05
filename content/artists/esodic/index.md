@@ -3,6 +3,7 @@ id: "f8649efe-4243-4d0b-93c8-d0503eac8a98"
 title: "Esodic"
 type: band
 socials:
+  musicbrainz: "80adc505-39b6-45a4-b3b9-e90d306881df"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

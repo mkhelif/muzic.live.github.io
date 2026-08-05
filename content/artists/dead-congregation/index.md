@@ -2,6 +2,7 @@
 id: "51f9d659-a31a-4aa9-b5a5-5b714021ea91"
 title: "Dead Congregation"
 socials:
+  musicbrainz: "0dd3b052-3169-4b24-9327-b59d16c3de63"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

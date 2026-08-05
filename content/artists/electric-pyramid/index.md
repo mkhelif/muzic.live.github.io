@@ -3,6 +3,7 @@ id: "57dc9b24-72f1-4fa6-b2a3-f9434a159c96"
 title: "Electric Pyramid"
 type: band
 socials:
+  musicbrainz: "fda582f5-c255-4c82-9202-7fb72740e3ba"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add cover
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

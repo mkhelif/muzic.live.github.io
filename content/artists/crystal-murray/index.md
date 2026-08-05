@@ -3,6 +3,7 @@ id: "77058621-6185-493a-90c5-4544e6175496"
 title: "Crystal Murray"
 type: person
 socials:
+  musicbrainz: "28618ae8-bf38-45ab-8517-2fe79933aacf"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,18 +13,21 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1453840796"
+  deezer: "60037822"
   qobuz: ""
   spotify: "2lRXAjsNoYGqyYkgHxk5OH"
-  tidal: ""
+  tidal: "15175179"
 todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 2001-12-08
 ---

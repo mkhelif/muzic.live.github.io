@@ -2,6 +2,7 @@
 id: "1598034a-8889-4b59-8dc4-93296fa3a469"
 title: "Contention"
 socials:
+  musicbrainz: "d2fef6da-2d9a-4618-b1f4-44e5f9e06a98"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,7 +13,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1489810173"
   deezer: "5247983"
   qobuz: ""
   spotify: ""
@@ -21,6 +22,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-08-04
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27

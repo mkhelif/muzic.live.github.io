@@ -2,6 +2,7 @@
 id: "17da66c1-0145-481d-a333-93a81894e3cc"
 title: "Droges"
 socials:
+  musicbrainz: "234afef3-b988-4249-bf69-656410bba6e1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

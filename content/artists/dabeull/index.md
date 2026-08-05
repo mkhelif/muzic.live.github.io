@@ -3,6 +3,7 @@ id: "fbc474d3-2053-4e8b-9c36-c2dbff6edd81"
 title: "Dabeull"
 type: person
 socials:
+  musicbrainz: "f543ad5c-f165-47bf-bd68-744989828314"
   instagram: "dabeull"
   facebook: ""
   tiktok: ""
@@ -16,8 +17,9 @@ socials:
   deezer: "1030815"
   qobuz: ""
   spotify: "7sw3xJMTpdcpfssx17hfrb"
-  tidal: ""
+  tidal: "4715326"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

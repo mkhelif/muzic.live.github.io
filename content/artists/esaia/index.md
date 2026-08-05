@@ -3,6 +3,7 @@ id: "183ccba0-92af-45c2-a2bb-f61e4e346435"
 title: "Esaïa"
 type: person
 socials:
+  musicbrainz: "b6858a72-9c61-42bb-ae7a-ab2a44996e77"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: "0WnZZIIgtyE3Qdfzfhje70"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

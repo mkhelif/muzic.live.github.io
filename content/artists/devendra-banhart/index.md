@@ -3,6 +3,7 @@ id: "ea1e1fc7-df02-4b8d-adef-8dcfd379c495"
 title: "Devendra Banhart"
 type: person
 socials:
+  musicbrainz: "0110e63e-0a9b-4818-af8e-41e180c20b9a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,15 +15,18 @@ socials:
   amazon: ""
   apple: "5621730"
   deezer: "2689"
-  qobuz: ""
+  qobuz: "65571"
   spotify: "1YZEoYFXx4AxVv13OiOPvZ"
-  tidal: ""
+  tidal: "3566081"
 todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1981-05-30
 ---

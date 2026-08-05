@@ -2,6 +2,7 @@
 id: "d500b687-f2f3-47f5-9913-347984c41238"
 title: "Danzig"
 socials:
+  musicbrainz: "8925a01a-8608-411d-a90b-f3a52d061208"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
+  amazon: "B001Q97SXQ"
+  apple: "236338"
+  deezer: "2118"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "34c4iQ5tkaZKu6Sv28BTde"
+  tidal: "18084"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

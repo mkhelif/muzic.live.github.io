@@ -2,6 +2,7 @@
 id: "e4dfc299-1583-4a51-988f-4c0ac20c034d"
 title: "Enzo Siragusa"
 socials:
+  musicbrainz: "c4f8d8b1-253f-4852-b797-72514b545067"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

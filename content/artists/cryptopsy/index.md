@@ -2,7 +2,83 @@
 id: "6381049c-3551-46e3-bff4-d2462272ce28"
 title: "Cryptopsy"
 type: band
+members:
+  - id: "a1daa0ec-6c33-4c59-bc8f-ce9548e2ecc2"
+    roles:
+      - other
+    periods:
+      - start: 2003
+      - start: 1992
+        end: 1996
+  - id: "eec1f574-837d-4db3-ba73-1c6e10fd4161"
+    roles:
+      - other
+    periods:
+      - start: 1992
+  - id: "d6da18f1-d161-4e04-a318-f9689032d4ab"
+    roles:
+      - other
+    periods:
+      - start: 1994
+  - id: "a6ddc883-0742-4007-8505-64dfd977a979"
+    roles:
+      - other
+    periods:
+      - start: 1998
+  - id: "49edbf1a-92dd-4e64-af0e-af3d850a1759"
+    roles:
+      - guitar
+    periods:
+      - start: 2005
+  - id: "53581e36-6745-4673-bde8-8b48c5b77d7c"
+    roles:
+      - other
+    periods:
+      - start: 2007
+  - id: "4c272803-76f9-4b6b-97f0-f18275c82a09"
+    roles:
+      - other
+    periods:
+      - start: 1992
+        end: 1995
+  - id: "c3b728e1-4231-4441-a979-b4403bc493b6"
+    roles:
+      - other
+    periods:
+      - start: 1994
+        end: 2004
+  - id: "bccc2609-fbcb-4d93-af2c-a47019f47c78"
+    roles:
+      - other
+    periods:
+      - start: 1995
+        end: 1998
+  - id: "efe9d7bf-b1ed-4a0e-8b06-706733e000b7"
+    roles:
+      - other
+    periods:
+      - start: 1996
+        end: 2001
+  - id: "b83b9df4-0c58-4dd8-89d8-71d4ec0e6d7f"
+    roles:
+      - other
+    periods:
+      - start: 2001
+        end: 2001
+  - id: "ea5653fa-5917-49f8-89af-4e36d9505bcd"
+    roles:
+      - other
+    periods:
+      - start: 2004
+        end: 2005
+  - id: "5a6fa5d1-d579-4ad4-bfc4-f1ebd583a796"
+    roles:
+      - other
+  - id: "3b591b16-95c2-4946-95ab-0832699d06c7"
+    roles:
+      - bass
 socials:
+  musicbrainz: "756af95c-8793-4546-a93f-f3581b5b1c8d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,10 +90,11 @@ socials:
   amazon: ""
   apple: "41977108"
   deezer: "10290"
-  qobuz: ""
+  qobuz: "809394"
   spotify: "29PgYwTelpNl6370XLqFtN"
-  tidal: ""
+  tidal: "3542791"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

@@ -3,6 +3,7 @@ id: "c6858a16-b031-4b14-a527-66a158458ef9"
 title: "Daniel Herrmann"
 type: person
 socials:
+  musicbrainz: "8d74b702-969c-4001-9b9d-5bed7cf31e06"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,6 +24,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
   apple-lookup: 2026-08-04

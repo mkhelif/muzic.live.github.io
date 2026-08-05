@@ -3,6 +3,7 @@ id: "3a2ee53e-faec-460c-8398-7b39e33245b4"
 title: "Dvrk"
 type: person
 socials:
+  musicbrainz: "06f246d5-effd-4f0d-a415-90a39f96788d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1462754288"
+  deezer: "13667525"
   qobuz: ""
   spotify: "2veLy5cp8tE2IUS47EwzlB"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

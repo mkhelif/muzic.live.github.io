@@ -3,6 +3,7 @@ id: "a5a17feb-cfb6-41c0-8f95-bca8d4137f0a"
 title: "Derek Lappano"
 type: person
 socials:
+  musicbrainz: "341a73e1-1c12-4d0b-be97-c25ada70c68e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown-lookup: 2026-08-04
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

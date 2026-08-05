@@ -3,6 +3,7 @@ id: "9b36dbbe-d33c-4b5f-bfaf-6e8bb64f9380"
 title: "Dani"
 type: person
 socials:
+  musicbrainz: "96497074-ae28-4346-93d6-1fd9f8355d2f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,14 +17,18 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "5lCJ034qFUkrWNFXUTxLVn"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27
+lifespan:
+  start: 1944-10-01
+  end: 2022-07-18
 ---

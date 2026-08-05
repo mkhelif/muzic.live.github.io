@@ -2,7 +2,36 @@
 id: "a278b892-b4db-445d-8a93-c566bdbf266f"
 title: "Coroner"
 type: band
+members:
+  - id: "271f075b-c68a-4054-993a-53d6e7b23f5b"
+    roles:
+      - guitar
+    periods:
+      - start: 2010
+      - start: 1985
+        end: 1994
+  - id: "fe0ee346-0214-462b-98a8-898551bf464f"
+    roles:
+      - bass
+    periods:
+      - start: 2010
+      - start: 1985
+        end: 1996
+  - id: "b999eff5-1cab-41f7-a6b0-78c1e2f04860"
+    roles:
+      - drums
+    periods:
+      - start: 2014
+  - id: "126338f4-4bb3-4357-a98e-2d0f17452ec7"
+    roles:
+      - drums
+    periods:
+      - start: 2010
+        end: 2014
+      - start: 1985
+        end: 1996
 socials:
+  musicbrainz: "509dc5b1-f264-43f3-9035-473e7020e77f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,10 +43,11 @@ socials:
   amazon: ""
   apple: "191721935"
   deezer: "9922"
-  qobuz: ""
+  qobuz: "713808"
   spotify: "7lfdXL6PuTM5iWJNvI7PPV"
-  tidal: ""
+  tidal: "4332264"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

@@ -3,6 +3,7 @@ id: "7af5c839-9b17-4921-b785-a45f6c8f0c23"
 title: "Courtney Barnett"
 type: person
 socials:
+  musicbrainz: "55111838-f001-494a-a1b5-9d818db85810"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,14 +14,17 @@ socials:
   email: ""
   amazon: ""
   apple: "479276137"
-  deezer: ""
-  qobuz: ""
+  deezer: "1701387"
+  qobuz: "780765"
   spotify: "4OOlG5eBXSkSAAEeKjJb5Y"
-  tidal: ""
+  tidal: "5086494"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1987-11-03
 ---
 
 Courtney Melba Barnett est née le 3 novembre 1987 à Sydney, dans le quartier des Northern Beaches. Après

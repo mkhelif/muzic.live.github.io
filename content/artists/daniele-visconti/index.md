@@ -3,6 +3,7 @@ id: "74a9a5f3-aad0-4ec3-a5df-d559dbf07a91"
 title: "Daniele Visconti"
 type: person
 socials:
+  musicbrainz: "fe376507-e98e-4b2f-af0b-df36e10475a4"
   facebook: ""
   instagram: ""
   x: ""
@@ -23,6 +24,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

@@ -3,6 +3,7 @@ id: "a2d826a8-2746-49f4-8628-52c60c389199"
 title: "Dub FX"
 type: person
 socials:
+  musicbrainz: "4623daa8-d17f-4e76-a39d-fd22408463f1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,15 +14,18 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "400869"
   qobuz: ""
   spotify: "4ucW1LE5T7y7X4jlaKCeVo"
-  tidal: ""
+  tidal: "4801043"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1983-06-11
 ---
 
 Benjamin Stanford, connu sous le nom de Dub FX, né le 11 juin 1983 à St Kilda, dans la banlieue de Melbourne, est un

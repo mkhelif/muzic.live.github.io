@@ -1,0 +1,6 @@
+---
+date: 2017-07-15T00:00:00
+venue: "94e1e9ba-d2ce-4a9a-9f73-aed89aeadd22"
+artists:
+  - "b7d355d7-ef99-4e08-b090-d7c86465edb1"
+---

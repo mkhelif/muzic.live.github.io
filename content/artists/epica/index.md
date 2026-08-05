@@ -59,6 +59,7 @@ members:
       - start: 2002
         end: 2002
 socials:
+  musicbrainz: "21985b14-1b0d-44fe-b357-310b29bba510"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -67,16 +68,17 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  amazon: "B000VC20H8"
+  apple: "185933496"
+  deezer: "1343"
+  qobuz: "541435"
   spotify: "5HA5aLY3jJV7eimXWkRBBp"
-  tidal: ""
+  tidal: "3554837"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

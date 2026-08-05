@@ -3,6 +3,7 @@ id: "1ef5a18c-5191-4f75-8119-c44bc6f773e5"
 title: "Dominic Howard"
 type: person
 socials:
+  musicbrainz: "3144bf1e-4033-4de0-900f-a59726a9681f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,9 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
+lifespan:
+  start: 1977-12-07
 ---

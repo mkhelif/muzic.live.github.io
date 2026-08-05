@@ -3,6 +3,7 @@ id: "213018e4-93cf-4dbd-9843-642a475c264a"
 title: "Dan Lilker"
 type: person
 socials:
+  musicbrainz: "016f6fbe-ac51-49f6-b9ad-efbe84ba12b5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,6 +24,9 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
+lifespan:
+  start: 1964-10-18
 ---

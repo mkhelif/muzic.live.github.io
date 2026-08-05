@@ -3,6 +3,7 @@ id: "3359f956-a55b-4b78-bf3e-a7c4d391ef9a"
 title: "Faada Freddy"
 type: person
 socials:
+  musicbrainz: "b3c89b39-4564-4dc4-a071-24b649bf3dfe"
   facebook: "FaadaFreddyMusic"
   instagram: "faadafreddy"
   threads: "faadafreddy"
@@ -17,11 +18,14 @@ socials:
   amazon: ""
   apple: "157639536"
   deezer: "4499781"
-  qobuz: ""
+  qobuz: "451895"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1975-01-10
 ---
 
 Faada Freddy, de son vrai nom Abdou Fatha Seck, est un chanteur sénégalais qui émerge d'abord comme membre du groupe

@@ -2,6 +2,7 @@
 id: "94d7a006-de3a-430a-a9e0-ed766abb4b8b"
 title: "Daniel Nöjd"
 socials:
+  musicbrainz: "8ee012b0-bff8-4956-b171-2de03f8f5bc7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,6 +14,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown-lookup: 2026-08-04
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-08-04

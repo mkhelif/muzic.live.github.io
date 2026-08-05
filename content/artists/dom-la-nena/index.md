@@ -12,16 +12,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "559922860"
+  deezer: "3987671"
   qobuz: ""
-  spotify: ""
-  tidal: ""
-  musicbrainz: ""
+  spotify: "7cfKXiA9YUupXEjCUWPtxY"
+  tidal: "4816782"
+  musicbrainz: "f8701e93-f208-42af-9642-a95056bf7a47"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
 ---

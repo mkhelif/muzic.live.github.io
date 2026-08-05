@@ -32,6 +32,7 @@ members:
     periods:
       - start: 2012
 socials:
+  musicbrainz: "ecf280af-d9b5-45e0-bf24-b3ad60d26d24"
   facebook: "fabuloussheep"
   instagram: "fabuloussheepband"
   bandsintown: "2108766"
@@ -47,6 +48,7 @@ socials:
   deezer: "10017928"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

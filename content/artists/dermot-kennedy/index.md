@@ -3,6 +3,7 @@ id: "9142631c-939b-4d24-8d7c-1683d5086e86"
 title: "Dermot Kennedy"
 type: person
 socials:
+  musicbrainz: "aa9ea04c-6d55-4244-9139-22c75bd19f97"
   facebook: "dermotkennedymusic"
   instagram: "dermotkennedy"
   tiktok: "@dermotkennedy"
@@ -16,12 +17,15 @@ socials:
   apple: "376564133"
   amazon: "B003Q57EZ0"
   email: ""
-  qobuz: ""
+  qobuz: "3276425"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26
   spotify: 2026-07-23
+lifespan:
+  start: 1991-12-13
 ---
 
 Il y a des voix qu'on reconnaît à la première seconde. Pas parce qu'elles sont parfaites — parce qu'elles sont vraies.

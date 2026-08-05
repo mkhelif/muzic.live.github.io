@@ -1,0 +1,6 @@
+---
+date: 2024-08-29T00:00:00
+venue: "ce972aed-4a9a-4e32-843d-01e1414b3ac4"
+artists:
+  - "58dbbe35-9c6e-4a60-a974-2e75e6d08df5"
+---

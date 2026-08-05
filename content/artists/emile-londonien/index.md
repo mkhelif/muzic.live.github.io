@@ -3,6 +3,7 @@ id: "e67b0c6e-0e14-403d-9591-89d714f2f4c9"
 title: "Émile Londonien"
 type: unknown
 socials:
+  musicbrainz: "6277f98f-c70c-42d5-a843-b42904c939bb"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "1552241664"
   deezer: "122395922"
   qobuz: ""
-  spotify: ""
+  spotify: "5xl5tvMxqmHqRbSUHajNS7"
   tidal: ""
 todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

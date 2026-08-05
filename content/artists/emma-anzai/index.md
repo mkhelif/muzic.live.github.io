@@ -3,6 +3,7 @@ id: "1d000924-c845-4b03-af7c-257cde9f38aa"
 title: "Emma Anzai"
 type: person
 socials:
+  musicbrainz: "11f66ca4-02d9-429e-a117-892a0af8fa6a"
   apple: "219918513"
   deezer: "4431731"
   facebook: ""
@@ -14,6 +15,7 @@ socials:
 todo:
   - Add description/picture/socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

@@ -3,6 +3,7 @@ id: "4f66c1ab-923d-46d0-99c2-59ca37c60a4e"
 title: "Etienne de Crecy"
 type: person
 socials:
+  musicbrainz: "f174152d-da33-46bd-8cb4-c8d24b834bf7"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,13 +17,16 @@ socials:
   deezer: "2318"
   qobuz: ""
   spotify: "78YRbJhMi5kXKruiQGCJo7"
-  tidal: ""
+  tidal: "3538394"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1969-02-25
 ---

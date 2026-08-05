@@ -2,6 +2,7 @@
 id: "1773f6bc-3eab-44e0-8464-abda2e97fd6f"
 title: "Crypt Monarch"
 socials:
+  musicbrainz: "f0c9b71d-f999-47af-a96c-2b6678bbfff8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

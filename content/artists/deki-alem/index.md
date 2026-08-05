@@ -3,6 +3,7 @@ id: "ecf7b324-25da-4539-b45a-ac3f2e11c4c8"
 title: "Deki Alem"
 type: band
 socials:
+  musicbrainz: "77a626b5-e7da-4a1b-8a5a-fd899ed08e85"
   instagram: "dekialem"
   facebook: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: "2AK3F4tVjxYuqSGefozy52"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

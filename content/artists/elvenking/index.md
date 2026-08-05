@@ -2,6 +2,7 @@
 id: "db2eda14-6c6d-42d3-bef3-9fb386008db7"
 title: "Elvenking"
 socials:
+  musicbrainz: "3d6bbeb7-f90e-4d10-b440-e153c0d10b53"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B008WMB926"
   apple: "80081895"
   deezer: "16621"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "09b5OcuIELTdD7FfzQzcdB"
+  tidal: "3560397"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

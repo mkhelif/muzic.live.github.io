@@ -3,6 +3,7 @@ id: "3f567212-a724-47e8-b04f-42e06d807e64"
 title: "Dylan Dylan"
 type: person
 socials:
+  musicbrainz: "b585214c-85e7-4418-a29e-79fc11efd281"
   facebook: "dylandylanmusic"
   instagram: "imdylandylan"
   tiktok: ""
@@ -14,12 +15,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1143932874"
   deezer: "66255672"
   qobuz: ""
   spotify: "2xwod0qobIBd0aaKo4t6BY"
-  tidal: ""
+  tidal: "15855958"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

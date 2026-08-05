@@ -24,6 +24,7 @@ members:
     periods:
       - start: 2022
 socials:
+  musicbrainz: "a0385d31-16c4-49b6-ab2c-51877aa653e5"
   facebook: "realdominum"
   instagram: "realdominum"
   tiktok: "@realdominum"
@@ -41,6 +42,7 @@ socials:
   x: ""
   email: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   apple: 2026-07-26
   spotify: 2026-07-23

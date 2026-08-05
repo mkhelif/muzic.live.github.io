@@ -2,6 +2,7 @@
 id: "8bb3ae19-3b3d-46b5-a5d7-9f1e9a5f492d"
 title: "ENOX"
 socials:
+  musicbrainz: "33e938e0-606d-4fa5-8b1c-586989ea0918"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,15 +13,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1500880348"
   deezer: "7885008"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "3772925"
+  spotify: "29giH6njkq3yqb6lIf4dou"
+  tidal: "8561427"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

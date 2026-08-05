@@ -3,6 +3,7 @@ id: "56a76c9d-3e7d-462c-b654-c12a25ff6c33"
 title: "Demented Are Go"
 type: unknown
 socials:
+  musicbrainz: "8a1f012c-acc1-4dda-878f-43ac02f2366f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "161939202"
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "7fvToIpjDfwtLhAoZdVF5W"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
 ---

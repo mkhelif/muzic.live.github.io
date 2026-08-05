@@ -1,0 +1,6 @@
+---
+date: 2017-11-08T00:00:00
+venue: "07cea8a9-b495-4d68-ac62-6e60ecf2dbb1"
+artists:
+  - "ddfc3b61-7c0f-4722-a46e-f690c38f8f49"
+---

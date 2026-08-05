@@ -3,6 +3,7 @@ id: "f0e41167-5c56-4c4c-ab1f-21de11be1acf"
 title: "Creature"
 type: person
 socials:
+  musicbrainz: "13213679-cc32-4c8e-94a4-517ccf90bbbd"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,13 +17,14 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "0JDM5i6TA4r5GCFN02n0Ox"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

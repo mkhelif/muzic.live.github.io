@@ -3,6 +3,7 @@ id: "97684d40-fe74-4e9e-920d-1ea4f366a65c"
 title: "David Guetta"
 type: person
 socials:
+  musicbrainz: "302bd7b9-d012-4360-897a-93b00c855680"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,13 +15,16 @@ socials:
   amazon: ""
   apple: "5557599"
   deezer: "542"
-  qobuz: ""
+  qobuz: "35894"
   spotify: "1Cs0zKBU1kc0i8ypK3B9ai"
-  tidal: ""
+  tidal: "27343"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1967-11-07
 ---
 
 Pierre David Guetta est né le 7 novembre 1967 à Paris. Autodidacte, il commence à mixer à treize ans

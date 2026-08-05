@@ -2,6 +2,7 @@
 id: "abd9a1d2-6567-4097-9aaf-54a0a2cb365a"
 title: "Currls"
 socials:
+  musicbrainz: "03d751e0-fb9f-4473-be9e-29f44906e278"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

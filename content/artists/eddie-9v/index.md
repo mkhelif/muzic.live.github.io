@@ -3,6 +3,7 @@ id: "a34b74d9-bf11-4479-8061-005d96fe847e"
 title: "Eddie 9V"
 type: person
 socials:
+  musicbrainz: "bf530a68-5477-4e06-a4d7-4151e6ef6a52"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: "2GHXeEEol7BPT31flS6O1B"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

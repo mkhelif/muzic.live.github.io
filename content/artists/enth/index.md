@@ -2,6 +2,7 @@
 id: "1ecef900-1d31-4a54-bee4-00eb68d31edf"
 title: "ENTH"
 socials:
+  musicbrainz: "9a1d6250-b7e8-4648-b24d-b52783d99c1b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25

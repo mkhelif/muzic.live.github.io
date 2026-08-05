@@ -3,6 +3,7 @@ id: "233b0dcb-ed2f-46c1-8b5c-1a0f1dc5e554"
 title: "Doug E. Fresh"
 type: person
 socials:
+  musicbrainz: "029c683d-4e0f-4264-a563-ca7743b33b07"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,17 +14,20 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "443093"
   qobuz: ""
   spotify: "7xN8vFwslE67EC3DhgB9Ip"
-  tidal: ""
+  tidal: "3540069"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1966-09-17
 ---

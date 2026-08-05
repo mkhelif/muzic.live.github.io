@@ -3,6 +3,7 @@ id: "15084580-17ec-4786-91ae-40f241e58e3e"
 title: "DJ Bens"
 type: person
 socials:
+  musicbrainz: "071fb9ac-637d-4b70-84b8-2806ff935415"
   facebook: "djbensfan"
   instagram: "djbens"
   snapchat: "@djbenslive"
@@ -21,6 +22,7 @@ socials:
   deezer: ""
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

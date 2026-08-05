@@ -1,0 +1,6 @@
+---
+date: 2023-10-18T00:00:00
+venue: "83ff690c-3ad7-4def-b76c-a03ff0b7f2c3"
+artists:
+  - "f16f33cf-299b-4d4a-b6e1-df178d3b4dc9"
+---

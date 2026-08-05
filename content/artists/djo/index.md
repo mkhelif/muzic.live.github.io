@@ -3,6 +3,7 @@ id: "c39c265e-2ecd-43bf-9201-ee3667d9f76b"
 title: "Djo"
 type: person
 socials:
+  musicbrainz: "dc84c3f5-a44c-4a46-bf41-fd1640e3c99d"
   instagram: "djotime"
   tiktok: "@djo_time"
   soundcloud: "djokyri"
@@ -15,14 +16,17 @@ socials:
   youtube: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1473178582"
+  deezer: "70227002"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1992-04-24
 ---
 
 Joseph David Keery est né le 24 avril 1992 à Newburyport, Massachusetts. Le grand public le connaît principalement sous

@@ -2,6 +2,7 @@
 id: "8dbc7a75-a9dc-4b5b-b842-1db5070930db"
 title: "Destinity"
 socials:
+  musicbrainz: "de22083a-d0ad-447d-89e5-ef9d3a14d8e3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B0035CJYLQ"
   apple: "276930058"
   deezer: "111058"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "954988"
+  spotify: "553eIV3aSzE17cxgVVG7o6"
+  tidal: "4168704"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

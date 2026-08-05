@@ -3,6 +3,7 @@ id: "5ab6cc26-3abd-40db-8895-a76c9556d79f"
 title: "Deize Tigrona"
 type: person
 socials:
+  musicbrainz: "d71b56b6-fea1-4300-8a69-94c78feeb4aa"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

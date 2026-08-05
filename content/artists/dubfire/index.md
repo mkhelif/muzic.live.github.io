@@ -2,6 +2,7 @@
 id: "cfe1a1f3-4c43-43e8-a524-29c803a7b132"
 title: "Dubfire"
 socials:
+  musicbrainz: "849db3f8-0c48-4a30-bba6-07bdc693c551"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "13678084"
   deezer: "162013"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "3bVYqr2NfmwmL4YJisWhJI"
+  tidal: "3538388"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

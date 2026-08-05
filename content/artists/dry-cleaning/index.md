@@ -2,7 +2,21 @@
 id: "937455ed-5c33-4132-83ee-1e2c18986598"
 title: "Dry Cleaning"
 type: band
+members:
+  - id: "2c1a8860-2a6e-44f1-bd46-a932f867fbda"
+    roles:
+      - other
+  - id: "69d5bc64-74ed-4bd1-aa2c-9d11be0ac802"
+    roles:
+      - other
+  - id: "3d8ca477-b840-4e18-993d-6b143a2cfc94"
+    roles:
+      - other
+  - id: "e35555ba-34a8-461a-9a36-b0ee02294f22"
+    roles:
+      - sing
 socials:
+  musicbrainz: "8a74e5ea-6f68-49e1-951c-80d2291f7c3f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +25,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B07TBVSFD7"
   apple: "1469164908"
   deezer: "67907232"
   qobuz: ""
   spotify: "7DlD7rLG9MKuvXtTeACzkO"
-  tidal: ""
+  tidal: "16065992"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

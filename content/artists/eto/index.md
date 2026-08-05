@@ -2,7 +2,12 @@
 id: "8af602a0-055a-49a7-adee-2ba49191f341"
 title: "Eto"
 type: band
+members:
+  - id: "15d2d5e3-ad61-44ce-ae24-c9b2fea4881d"
+    roles:
+      - other
 socials:
+  musicbrainz: "d132941c-4223-4380-986d-b5e1994a681e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +22,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

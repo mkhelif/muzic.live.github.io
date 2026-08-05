@@ -3,6 +3,7 @@ id: "bac2ecf5-50f6-466d-aa39-e360530a5270"
 title: "Doug Gillard"
 type: person
 socials:
+  musicbrainz: "e1cfd005-e293-4196-af38-3a0ac0ab1dbe"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,9 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
+lifespan:
+  start: 1965-12-23
 ---

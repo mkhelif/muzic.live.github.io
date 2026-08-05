@@ -2,6 +2,7 @@
 id: "4f556b6c-4381-45e8-af41-2fe24a025c22"
 title: "Dan Shake"
 socials:
+  musicbrainz: "d43d08e2-0f31-48bc-b98e-ba1627dbc0fb"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "959620028"
   deezer: "7363950"
   qobuz: ""
-  spotify: ""
+  spotify: "7wxLYZxFPf1HWPIaGesxAg"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

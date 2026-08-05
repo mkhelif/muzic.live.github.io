@@ -3,6 +3,7 @@ id: "ffd346db-8f25-42e7-9110-714aa509af2e"
 title: "Coup Dur"
 type: band
 socials:
+  musicbrainz: "5640d54b-2456-4d80-a809-58870f1e295b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: "6VGEiVSxmAsoMMMeIM74YW"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

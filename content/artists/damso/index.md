@@ -3,6 +3,7 @@ id: "71b7f5a5-368b-4603-aa04-9c83494f2aa6"
 title: "Damso"
 type: person
 socials:
+  musicbrainz: "71ff695e-896a-4043-aea4-93eadde08d09"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,19 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "628476824"
+  deezer: "9197980"
   qobuz: ""
   spotify: "2UwqpfQtNuhBwviIC0f2ie"
-  tidal: ""
+  tidal: "7358888"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1992-05-10
 ---
 
 Damso, de son vrai nom William Kalubi Mwamba, est né le 10 mai 1992 à Kinshasa (République démocratique

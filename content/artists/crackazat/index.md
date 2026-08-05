@@ -2,6 +2,7 @@
 id: "5298cc14-ed1c-4410-a0e6-314611be73d6"
 title: "Crackazat"
 socials:
+  musicbrainz: "22b46247-7dbe-4640-a6f1-16c4926cfa4c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "371701383"
   deezer: "1290727"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "2PagBkTVHoKFjuxtCJp3As"
+  tidal: "4250893"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

@@ -2,6 +2,7 @@
 id: "4e8f0077-6045-4300-b597-f9d2702f9e9f"
 title: "Etceteral"
 socials:
+  musicbrainz: "7722e249-3597-4376-9ffb-574334c7e74c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown-lookup: 2026-08-05
   deezer: 2026-08-04
 ---

@@ -2,7 +2,60 @@
 id: "a4bdfcf7-0c05-403e-ad85-b6ec8550181f"
 title: "Death Angel"
 type: band
+members:
+  - id: "3970b85a-a329-44aa-952b-90932ac3546f"
+    roles:
+      - other
+    periods:
+      - start: 2001
+      - start: 1982
+        end: 1991
+  - id: "4a07b8b5-bbed-4c67-b1ea-f01b8c9e9eb3"
+    roles:
+      - other
+    periods:
+      - start: 2001
+      - start: 1984
+        end: 1991
+  - id: "60f43839-7e82-4ad5-89ca-e340df33bbc7"
+    roles:
+      - other
+    periods:
+      - start: 2001
+  - id: "8bef2787-8275-46a4-bc3c-512d28b3de90"
+    roles:
+      - other
+    periods:
+      - start: 2009
+  - id: "df28998c-89f3-4a3f-8256-e805e3ff2d1e"
+    roles:
+      - bass
+    periods:
+      - start: 2009
+  - id: "c35b3240-e502-47ed-9c74-038d9818e00c"
+    roles:
+      - other
+    periods:
+      - start: 2001
+        end: 2009
+      - start: 1982
+        end: 1991
+  - id: "986250ca-dc7f-4fce-82c3-d54462cadffe"
+    roles:
+      - other
+    periods:
+      - start: 2001
+        end: 2008
+      - start: 1982
+        end: 1991
+  - id: "0109d0ed-ae84-4c91-bb1a-2a234ad06cfb"
+    roles:
+      - other
+    periods:
+      - start: 1982
+        end: 1991
 socials:
+  musicbrainz: "562ff334-c34f-45b0-a519-e5d171482df2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +64,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  amazon: "B000QKG6A2"
+  apple: "20826107"
+  deezer: "7103"
+  qobuz: "551514"
   spotify: "6KVc8Llznru8n9LVCYe9dz"
-  tidal: ""
+  tidal: "3554846"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

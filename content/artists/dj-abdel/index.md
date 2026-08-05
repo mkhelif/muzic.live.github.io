@@ -3,6 +3,7 @@ id: "e49ca098-0210-45ba-9eec-08facf0cf69d"
 title: "DJ Abdel"
 type: person
 socials:
+  musicbrainz: "7b4ac3d6-19df-4663-8d22-18189394acff"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,7 +23,10 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1970-06-05
 ---

@@ -2,6 +2,7 @@
 id: "44e27014-1542-4814-8f69-0e9020a603dc"
 title: "Faetooth"
 socials:
+  musicbrainz: "4f554f8f-990b-4060-b407-0226fd5497d6"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,14 +15,15 @@ socials:
   amazon: ""
   apple: "1493046333"
   deezer: "82253292"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "14511191"
+  spotify: "6bAM7jeIX4pI5lZ0QoSZjt"
+  tidal: "17871929"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

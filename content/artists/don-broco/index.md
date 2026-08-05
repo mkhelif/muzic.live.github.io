@@ -2,6 +2,7 @@
 id: "8c003454-c49d-41a7-b42b-d908c1c6eb56"
 title: "DON BROCO"
 socials:
+  musicbrainz: "38fd7691-0543-409c-997f-7f15c10394a4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001KRXAWW"
   apple: "307317604"
   deezer: "522533"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "771804"
+  spotify: "1aOt6LvXOV6I8dv1A5Diia"
+  tidal: "4589814"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

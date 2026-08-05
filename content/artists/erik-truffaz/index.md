@@ -3,6 +3,7 @@ id: "4cc9102d-9ddf-49b7-ac94-45128b9bf36a"
 title: "Erik Truffaz"
 type: person
 socials:
+  musicbrainz: "aecd2d93-082b-4d5a-b519-521f2e18f796"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,14 +17,17 @@ socials:
   deezer: "1980"
   qobuz: ""
   spotify: "6U3cvMmHIab0CAGtC5tRY3"
-  tidal: ""
+  tidal: "9067"
 todo:
   - Verify social networks
   - Add logo cover
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1960-04-03
 ---
 
 Erik Truffaz est un trompettiste de jazz né en 1960 en Suisse et qui a grandi dans le Pays de Gex, en France, où

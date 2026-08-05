@@ -2,6 +2,7 @@
 id: "8287235a-12ac-4eff-97d2-d8c1b27c41fe"
 title: "Edge Of Paradise"
 socials:
+  musicbrainz: "6b851503-f82c-44e2-9713-9cc3e4c520c1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,6 +21,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

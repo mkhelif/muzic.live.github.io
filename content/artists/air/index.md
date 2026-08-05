@@ -26,6 +26,7 @@ socials:
   spotify: ""
   tidal: "9101"
 lastUpdate:
+  setlistfm: 2026-08-05
   apple: 2026-08-05
   musicbrainz: 2026-08-04
   apple-lookup: 2026-07-27

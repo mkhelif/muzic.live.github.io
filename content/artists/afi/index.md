@@ -68,6 +68,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  setlistfm: 2026-08-05
   apple: 2026-08-05
   deezer: 2026-08-05
   musicbrainz: 2026-08-04

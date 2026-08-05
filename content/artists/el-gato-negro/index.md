@@ -3,6 +3,7 @@ id: "7507579e-bf09-461e-9e78-ddf54a9d8e50"
 title: "El Gato Negro"
 type: band
 socials:
+  musicbrainz: "d67b2644-81b4-493e-8ae8-aa63498eefa3"
   facebook: "elgatonegrotropical"
   instagram: "elgatonegrotropical"
   threads: "elgatonegrotropical"
@@ -20,6 +21,7 @@ socials:
   deezer: ""
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

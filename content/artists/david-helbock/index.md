@@ -2,6 +2,7 @@
 id: "443335da-d298-4c4a-b641-dbdffa17b8f9"
 title: "David Helbock"
 socials:
+  musicbrainz: "3d419c29-e577-4193-9e87-d510700527cd"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "472253706"
   deezer: "1595617"
   qobuz: ""
-  spotify: ""
+  spotify: "0vL5aeUgB40QfmprJKhpOq"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

@@ -3,6 +3,7 @@ id: "f1386626-f3e1-4a39-afc8-8de7c4e18a63"
 title: "Cortisa Star"
 type: person
 socials:
+  musicbrainz: "435debe4-64cf-4455-a345-96e91ab23165"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,16 +12,19 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B0C4QY4SKC"
   apple: "1687153586"
   deezer: "213140937"
-  qobuz: ""
+  qobuz: "18382116"
   spotify: "7oM0bObDNv5Uv1TNyDoqEG"
-  tidal: ""
+  tidal: "39320812"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 2005-07-11
 ---
 
 Cortisa Star, née le 11 juillet 2005, est une rappeuse et mannequin américaine. Née à Baltimore, elle grandit

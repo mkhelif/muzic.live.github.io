@@ -2,7 +2,18 @@
 id: "52d350a1-990a-4316-b28b-11ead980b8e2"
 title: "Dirty Three"
 type: band
+members:
+  - id: "bc9a0d94-d07d-4bcc-9f80-9586339a579f"
+    roles:
+      - other
+  - id: "e4671f25-b7f0-4ed4-8dcc-0039eda0cfec"
+    roles:
+      - other
+  - id: "bfbbd0b9-4434-48f9-9667-7658bd20b2fb"
+    roles:
+      - other
 socials:
+  musicbrainz: "af8bb921-4d67-4f0d-ba17-6215315f92e4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +23,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "60310193"
+  deezer: "288313"
+  qobuz: "189253"
   spotify: "1QUsHFoDqNsC0W9AlNyHWF"
-  tidal: ""
+  tidal: "3519307"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

@@ -3,6 +3,7 @@ id: "d7bdba87-c21e-4f07-b0b4-775e201e304b"
 title: "Erin LeCount"
 type: person
 socials:
+  musicbrainz: "52d273ca-1f68-440c-9c37-751358cf0434"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +17,14 @@ socials:
   deezer: "9785400"
   qobuz: ""
   spotify: "1h6v3Gd5Ub1xmiSMq0X5f3"
-  tidal: ""
+  tidal: "7580765"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 2003-01-21
 ---
 
 Erin Ruth LeCount est une autrice-compositrice-interprète anglaise révélée au grand public après sa participation à

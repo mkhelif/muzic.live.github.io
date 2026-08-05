@@ -55,6 +55,7 @@ members:
     periods:
       - start: 2000
 socials:
+  musicbrainz: "9d66f2f6-380b-450c-8ab8-931e75bf1976"
   facebook: "danakil"
   instagram: "danakilofficiel"
   tiktok: "@danakilofficiel"
@@ -65,11 +66,12 @@ socials:
   spotify: "52MTyKpEJBAnWj1oVNYGTj"
   x: ""
   email: ""
-  amazon: ""
+  amazon: "B0015BXJV0"
   apple: "269898376"
-  deezer: ""
+  deezer: "58707"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23

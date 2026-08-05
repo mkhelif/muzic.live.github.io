@@ -3,6 +3,7 @@ id: "f791404b-653f-46d4-ad16-e890097f046a"
 title: "Ectovoid"
 type: band
 socials:
+  musicbrainz: "ca2ebfb8-5030-483b-84fb-66300ee82f7f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

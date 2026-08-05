@@ -2,7 +2,47 @@
 id: "ee857d5f-49c9-4fd2-84ea-fcb700f72fc4"
 title: "Def Leppard"
 type: band
+members:
+  - id: "a96da508-308f-4205-84e1-6e3ea44b1aad"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 1977
+  - id: "0e3c94b8-3cbf-4349-b036-5b925d82f6cf"
+    roles:
+      - bass
+    periods:
+      - start: 1977
+  - id: "9b04b9b6-2bdd-4970-96c4-c4b7379a6cb6"
+    roles:
+      - drums
+    periods:
+      - start: 1978
+  - id: "fba6de84-777e-4f24-b962-01c0916f27eb"
+    roles:
+      - guitar
+    periods:
+      - start: 1982
+  - id: "c96d83d8-57a2-4fde-8c21-3150eef34db9"
+    roles:
+      - guitar
+    periods:
+      - start: 1992
+  - id: "27a049ab-04ed-4bf2-b360-8e752b7fcf3c"
+    roles:
+      - guitar
+    periods:
+      - start: 1977
+        end: 1982
+  - id: "e152cd77-8d37-4b0f-8cd8-ad8b2b7bc5b6"
+    roles:
+      - guitar
+    periods:
+      - start: 1978
+        end: 1991
 socials:
+  musicbrainz: "7249b899-8db8-43e7-9e6e-22f1e736024e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +51,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B001368ZNY"
   apple: "117554"
   deezer: "2557"
-  qobuz: ""
+  qobuz: "111721"
   spotify: "6H1RjVyNruCmrBEWRbD0VZ"
-  tidal: ""
+  tidal: "948"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

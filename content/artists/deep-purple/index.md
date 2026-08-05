@@ -104,6 +104,7 @@ members:
       - start: 1994
         end: 2022
 socials:
+  musicbrainz: "79491354-3d83-40e3-9d8e-7592d58d790a"
   facebook: "officialdeeppurple"
   instagram: "deeppurple_official"
   x: "_DeepPurple"
@@ -118,10 +119,11 @@ socials:
   amazon: "B000QJNHU0"
   tiktok: ""
   email: ""
-  qobuz: ""
+  qobuz: "26742"
 todo:
   - Add cover picture from concert
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26

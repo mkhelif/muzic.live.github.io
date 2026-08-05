@@ -3,6 +3,7 @@ id: "a863c039-e5dc-4781-9a2d-983be106cfb5"
 title: "Emma Peters"
 type: person
 socials:
+  musicbrainz: "89646d43-5981-4ba6-b212-f162cc02918a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,16 +14,19 @@ socials:
   email: ""
   amazon: ""
   apple: "882524500"
-  deezer: ""
+  deezer: "7733482"
   qobuz: ""
   spotify: "6lY6kOVMG0mR07JTzU33o5"
-  tidal: ""
+  tidal: "6700724"
 todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1996-11-25
 ---

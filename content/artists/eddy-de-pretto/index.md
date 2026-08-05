@@ -3,6 +3,7 @@ id: "ba76eed2-50c9-4fed-9156-c9724b6446fa"
 title: "Eddy De Pretto"
 type: person
 socials:
+  musicbrainz: "f7431a56-ef33-4d93-9676-4492f9fb18cb"
   facebook: "eddydepretto"
   instagram: "eddydepretto"
   tiktok: "@eddydepretto"
@@ -18,9 +19,12 @@ socials:
   deezer: "9030084"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1993-05-02
 ---
 
 Eddy de Pretto est un chanteur français né en 1993, qui émerge sur la scène musicale hexagonale avec une approche

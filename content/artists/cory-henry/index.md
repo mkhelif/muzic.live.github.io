@@ -2,6 +2,7 @@
 id: "752f1a5f-02ce-4be6-9547-f73fc54edc6d"
 title: "Cory Henry"
 socials:
+  musicbrainz: "3d475031-f309-4d57-b88d-22cfa40f4e78"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "398508609"
   deezer: "2795241"
   qobuz: ""
-  spotify: ""
+  spotify: "21SOnTj5ECwVXeBUTRcP3s"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

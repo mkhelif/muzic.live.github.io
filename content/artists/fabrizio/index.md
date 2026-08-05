@@ -2,6 +2,7 @@
 id: "c583af53-c213-4976-82a5-d4972f985c45"
 title: "Fabrizio"
 socials:
+  musicbrainz: "204db5a8-78f1-4078-801f-ae8f456eeb60"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "27387550"
+  deezer: "3164"
   qobuz: ""
-  spotify: ""
+  spotify: "19HiWVd2g0XyJstBsbW2Qm"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

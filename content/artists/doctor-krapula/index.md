@@ -2,6 +2,7 @@
 id: "b07a04eb-9862-480c-8efb-386c806680f9"
 title: "Doctor Krápula"
 socials:
+  musicbrainz: "07f0253f-3347-41ae-9dfd-08d37d66f607"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "295234886"
   deezer: "877980"
   qobuz: ""
-  spotify: ""
+  spotify: "6qr2W4OfZLCIC7gItc7j0r"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

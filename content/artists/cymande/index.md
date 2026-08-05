@@ -2,6 +2,7 @@
 id: "b1d0c712-2bee-4588-a634-87366a104beb"
 title: "Cymande"
 socials:
+  musicbrainz: "21c5fb53-6fbc-4080-989a-b26d4540f4fd"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "28398376"
   deezer: "2884"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "4hfcSstwnyuBoek1dQwLkG"
+  tidal: "3607354"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

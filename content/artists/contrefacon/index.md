@@ -3,6 +3,7 @@ id: "6602b80e-8712-4e15-a45a-6ab64d628223"
 title: "Contrefaçon"
 type: band
 socials:
+  musicbrainz: "f75a9f1e-4df7-484e-804f-585eb5ea3b23"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23

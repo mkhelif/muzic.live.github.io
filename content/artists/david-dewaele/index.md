@@ -3,6 +3,7 @@ id: "a9fd65d3-aa10-4284-95f1-60706d733e7e"
 title: "David Dewaele"
 type: person
 socials:
+  musicbrainz: "b4209bc6-ad50-4f97-aec1-d162f222018f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,7 +24,10 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27
+lifespan:
+  start: 1975-05-24
 ---

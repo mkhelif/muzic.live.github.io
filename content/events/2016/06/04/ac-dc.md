@@ -1,0 +1,6 @@
+---
+date: 2016-06-04T00:00:00
+venue: "c859fcff-4a3d-4066-ad55-91f67676c9b2"
+artists:
+  - "f54dc7d2-557a-4ed7-aabe-9921294ba5f2"
+---

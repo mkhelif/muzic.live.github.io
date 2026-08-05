@@ -3,6 +3,7 @@ id: "66047ddd-37c2-44e1-8c63-0ed7177349f2"
 title: "David Rodigan"
 type: person
 socials:
+  musicbrainz: "c44f51bb-22c9-42d8-8aee-f7649c8fa5e0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +17,14 @@ socials:
   deezer: "408841"
   qobuz: ""
   spotify: "3Ecj5Hl1oHo9V7XKXdursh"
-  tidal: ""
+  tidal: "4133279"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1951-06-24
 ---
 
 David Michael « Ram Jam » Rodigan MBE est né le 24 juin 1951 en Allemagne, sur une base militaire, d'une

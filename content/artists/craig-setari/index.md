@@ -3,6 +3,7 @@ id: "e1ac8cde-9873-4019-a2b5-979f69890f2f"
 title: "Craig Setari"
 type: person
 socials:
+  musicbrainz: "3908d895-a1af-42a7-b86b-93a3074057ee"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-08-04
   bandsintown-lookup: 2026-08-04
 ---

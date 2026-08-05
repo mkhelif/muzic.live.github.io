@@ -3,6 +3,7 @@ id: "f5532e9f-2576-4890-887a-f26e41a82ad7"
 title: "Eloi"
 type: person
 socials:
+  musicbrainz: "19e67c66-5a8a-413f-944e-3bff10bd5485"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,17 +14,20 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "6151932"
   qobuz: ""
   spotify: "5J65ukR6WWDkuRrqYa4Knl"
-  tidal: ""
+  tidal: "7418672"
 todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1998
 ---

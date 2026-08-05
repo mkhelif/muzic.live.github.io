@@ -3,6 +3,7 @@ id: "64b23f6a-0ebc-4904-b4f3-6ff13e035d54"
 title: "Dope Saint Jude"
 type: person
 socials:
+  musicbrainz: "64103b07-df5d-45ae-93dc-48efc594b878"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,8 +17,9 @@ socials:
   deezer: "13117901"
   qobuz: ""
   spotify: "47e6jtFUUl53YpTpvzOOMN"
-  tidal: ""
+  tidal: "9067147"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

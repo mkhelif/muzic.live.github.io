@@ -3,6 +3,7 @@ id: "7afe8675-2cc9-4cae-b11a-865622797e1f"
 title: "Dominique A"
 type: person
 socials:
+  musicbrainz: "8ae5648d-d9b7-4083-b538-17f71672990f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,7 +14,7 @@ socials:
   email: ""
   amazon: ""
   apple: "15028011"
-  deezer: ""
+  deezer: "1311"
   qobuz: ""
   spotify: "6IoS9ojtxKCL1tW5VL1buI"
   tidal: ""
@@ -22,7 +23,10 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1968-10-06
 ---

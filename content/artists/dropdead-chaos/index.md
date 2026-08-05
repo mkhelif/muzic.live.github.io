@@ -3,6 +3,7 @@ id: "2b16462f-27f8-46b9-9db6-ab08c8872b9f"
 title: "Dropdead Chaos"
 type: band
 socials:
+  musicbrainz: "f448f1a4-097d-43f4-adad-79132cfdf7e0"
   facebook: "dropdeadchaos"
   instagram: "dropdeadchaosofficial"
   tiktok: "@dropdeadchaos"
@@ -18,6 +19,7 @@ socials:
   deezer: "90807992"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

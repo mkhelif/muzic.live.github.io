@@ -3,6 +3,7 @@ id: "c5cecb3b-d800-40c0-8d0a-801fd3e0bc96"
 title: "Devangelic"
 type: band
 socials:
+  musicbrainz: "4ce45a50-03c8-4bec-9b91-531cc7bd5e95"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B00VNERIJ8"
   apple: "982600359"
   deezer: "9577300"
   qobuz: ""
   spotify: "0c91Xi4FCxmA42VdvSxJ52"
-  tidal: ""
+  tidal: "6858760"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

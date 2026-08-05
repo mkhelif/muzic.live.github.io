@@ -2,6 +2,7 @@
 id: "2f33a15d-ba15-46ec-a86f-8b624645400f"
 title: "Ella Langley"
 socials:
+  musicbrainz: "b16c0872-31a7-4db9-8569-0e3146fcecfc"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B07D3HJ53H"
   apple: "1384373733"
   deezer: "14867123"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "10954650"
+  spotify: "6BRxQ8cD3eqnrVj6WKDok8"
+  tidal: "9850354"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

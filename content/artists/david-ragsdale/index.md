@@ -2,6 +2,7 @@
 id: "5579744b-6210-4e01-8772-51db3352f7fe"
 title: "David Ragsdale"
 socials:
+  musicbrainz: "7073be95-820a-4a76-86f5-db52cd1d9308"
   apple: "210437612"
   deezer: "8095313"
   facebook: ""
@@ -11,6 +12,7 @@ socials:
   bandsintown: "437971"
   youtube: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

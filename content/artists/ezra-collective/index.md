@@ -2,6 +2,7 @@
 id: "a2c4ef3d-e7e1-49a6-ae8d-2be5252895f8"
 title: "Ezra Collective"
 socials:
+  musicbrainz: "d51acca9-a88b-4f5c-a2fe-f069de70ca1d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "1103640281"
   deezer: "13882529"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "5BRAUN0yN8557PLRZIr02W"
+  tidal: "9313524"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

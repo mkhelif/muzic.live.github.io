@@ -50,6 +50,7 @@ members:
       - start: 1996
         end: 1998
 socials:
+  musicbrainz: "ab4721e4-bc37-4bd2-be8c-8f1550152ad6"
   facebook: "dankojones"
   instagram: "danko_jones"
   tiktok: ""
@@ -59,15 +60,16 @@ socials:
   youtube: "@dankotv"
   web: "https://dankojones.com/"
   email: "info@dankojones.com"
-  amazon: ""
+  amazon: "B000QKL67A"
   apple: "28696140"
   deezer: "7270"
-  qobuz: ""
+  qobuz: "212219"
   spotify: "7CGoviGsNXYmGOBkXk8dtW"
-  tidal: ""
+  tidal: "24791"
 todo:
   - Add picture
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

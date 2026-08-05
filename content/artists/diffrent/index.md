@@ -3,6 +3,7 @@ id: "2f1c029c-1f3f-414d-8850-e191b56937c7"
 title: "Diffrent"
 type: person
 socials:
+  musicbrainz: "b8f734da-71ce-4338-aa7d-049380eb2be3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "325330569"
+  deezer: "60341202"
+  qobuz: "8539804"
   spotify: "7mycnkT3eOskxxGbN9skkV"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

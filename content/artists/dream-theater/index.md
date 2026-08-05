@@ -61,6 +61,7 @@ members:
       - start: 2010
         end: 2023
 socials:
+  musicbrainz: "28503ab7-8bf2-4666-a7bd-2644bfc7cb1d"
   facebook: "dreamtheater"
   instagram: "dreamtheaterofficial"
   tiktok: "@dreamtheaternet"
@@ -71,11 +72,12 @@ socials:
   tidal: "14670"
   spotify: "2aaLAng2L2aWD2FClzwiep"
   email: ""
-  amazon: ""
+  amazon: "B000ZPJFXS"
   apple: "730091"
   deezer: "828"
-  qobuz: ""
+  qobuz: "62194"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

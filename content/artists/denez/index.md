@@ -3,6 +3,7 @@ id: "8a4bd525-cc48-4b61-9d21-28cb62c1f877"
 title: "Denez"
 type: person
 socials:
+  musicbrainz: "ff7592f0-2c7f-4df6-a178-56aa5c5cf966"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,16 +12,19 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "13632778"
   deezer: "10771150"
   qobuz: ""
   spotify: "1qid89y11TF9zHS8N3FibN"
-  tidal: ""
+  tidal: "57081"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
+lifespan:
+  start: 1966-02-17
 ---
 
 **Denez Prigent** est né le 17 février 1966 à Santec, dans le Finistère. Il grandit entre Le Relecq-Kerhuon

@@ -3,6 +3,7 @@ id: "222a8450-c348-4f0f-aae0-5653b08e8c2e"
 title: "Dan Cornelius"
 type: person
 socials:
+  musicbrainz: "afa14f16-20c9-4123-bbeb-03eaa065bf2a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25

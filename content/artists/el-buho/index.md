@@ -2,6 +2,7 @@
 id: "1afaea81-dd34-4cb6-a54f-cfae478fcd20"
 title: "El Búho"
 socials:
+  musicbrainz: "0981102f-a51b-474e-849e-3756fe1fef64"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,15 +14,16 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
-  qobuz: ""
-  spotify: ""
+  deezer: "4945567"
+  qobuz: "1483963"
+  spotify: "1I7FVmvisCtSFzmm87mbLR"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

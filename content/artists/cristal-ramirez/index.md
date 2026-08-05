@@ -3,6 +3,7 @@ id: "b76f9c51-9c63-4875-bd16-eee16b5ba694"
 title: "Cristal Ramirez"
 type: person
 socials:
+  musicbrainz: "2f8603e8-622f-44c1-bdfc-67dbcfc8e0d1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

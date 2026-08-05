@@ -5,6 +5,7 @@ type: unknown
 aliases:
   - "Datcha Mandala"
 socials:
+  musicbrainz: "d0941f7b-f5ee-48fb-99fe-a63547328ff8"
   facebook: "datchamandala"
   instagram: "datcha.mandala"
   bandcamp: "datchamandala"
@@ -23,6 +24,7 @@ socials:
 todo:
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26

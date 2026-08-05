@@ -3,6 +3,7 @@ id: "00a3fc49-de5a-4a06-a40b-941dc7ad6739"
 title: "Craig Silverman"
 type: person
 socials:
+  musicbrainz: "8e531318-16ec-41cd-9d84-95d33c307d07"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,6 +24,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

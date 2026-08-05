@@ -2,6 +2,7 @@
 id: "2d86391b-7302-4ec5-b8e3-75e4f4527551"
 title: "Dimartino"
 socials:
+  musicbrainz: "8c483312-f8d7-4f1c-8932-fc357b7657b5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  apple: "306332795"
+  deezer: "2236041"
+  qobuz: "86521"
+  spotify: "1k3zqz5SgrYCE0wpcfJX3g"
+  tidal: "4605113"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

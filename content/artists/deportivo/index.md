@@ -38,6 +38,7 @@ members:
 aliases:
   - "Deportivo"
 socials:
+  musicbrainz: "c7a27457-bf9a-41f1-bd62-b865ab7977a8"
   facebook: "deportivomusic"
   instagram: "deportivoofficiel"
   bandsintown: "69730"
@@ -53,6 +54,7 @@ socials:
   x: ""
   web: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   apple: 2026-07-26

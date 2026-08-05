@@ -3,6 +3,7 @@ id: "92450213-d0b8-43d8-a044-38e936237e5d"
 title: "Doctor L"
 type: person
 socials:
+  musicbrainz: "a3e4961e-2b3e-45e9-80e2-2e869e6ae0e4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,17 +14,20 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "129336009"
+  deezer: "55322"
   qobuz: ""
-  spotify: ""
+  spotify: "3Qlv0hE2wSzSDFUmQNw0ZP"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27
+lifespan:
+  start: 1968
 ---

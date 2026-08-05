@@ -3,6 +3,7 @@ id: "d3a670c2-9e8b-48e8-b21c-a403ceba8ee5"
 title: "Didier Wampas"
 type: person
 socials:
+  musicbrainz: "f8b2af1b-c01f-4f11-b93e-cf6d54de5334"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,14 +14,17 @@ socials:
   email: ""
   amazon: ""
   apple: "462183894"
-  deezer: ""
+  deezer: "281501"
   qobuz: ""
   spotify: "2FAz9uibBqE9W5FQKlluEr"
-  tidal: ""
+  tidal: "4088837"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1962-02-19
 ---
 
 Didier Wampas, de son vrai nom Didier Chappedelaine, est un auteur-compositeur-interprète français né

@@ -3,6 +3,7 @@ id: "79a6537c-21d8-4626-997f-726564b38dc6"
 title: "Dave Stewart"
 type: person
 socials:
+  musicbrainz: "183da50a-b033-408e-862b-cab1c2425cff"
   facebook: "davestewart"
   instagram: "davestewarteurythmics"
   x: "davestewart"
@@ -14,14 +15,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "771102"
+  deezer: "9916"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1952-09-09
 ---
 
 Dave Stewart est un musicien britannique né en 1952, qui commence sa carrière dans les années 70 avant de connaître la

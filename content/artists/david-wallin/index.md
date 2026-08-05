@@ -3,6 +3,7 @@ id: "6f4b7a83-9d0d-410b-95ef-1022a0d0b567"
 title: "David Wallin"
 type: person
 socials:
+  musicbrainz: "a34fa16c-292c-4b30-99d6-079914bcbcbe"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23

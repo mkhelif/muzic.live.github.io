@@ -2,6 +2,7 @@
 id: "6a68517f-3564-49e3-8062-560057893817"
 title: "Evan Wright"
 socials:
+  musicbrainz: "c9b2cb3d-d802-4df7-9f32-de9edcd11d54"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1348925041"
+  deezer: "7001583"
   qobuz: ""
-  spotify: ""
+  spotify: "4xkRqU2tCsLx2RJO5RXQUX"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

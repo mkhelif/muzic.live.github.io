@@ -3,6 +3,7 @@ id: "47e5e5d3-fdd5-4be0-8f9f-3f04d0fed03e"
 title: "Everette Harp"
 type: person
 socials:
+  musicbrainz: "36888e42-b2cb-46c4-aadc-c8b1ade9c3b1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,8 +23,11 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1961-08-17
 ---

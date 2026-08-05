@@ -3,6 +3,8 @@ id: "6bcd9baa-648a-4e7f-b5a9-d6cbbff29ddb"
 title: "Courtney LaPlante"
 type: person
 socials:
+  tidal: "11773823"
+  musicbrainz: "bb724584-25e0-4388-b00d-c477a3c97fad"
   apple: "668042460"
   deezer: "4964765"
   facebook: ""
@@ -14,6 +16,9 @@ socials:
 todo:
   - Add description/picture/socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
+lifespan:
+  start: 1989-02-26
 ---

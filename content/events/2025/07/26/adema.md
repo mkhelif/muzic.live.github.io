@@ -1,0 +1,6 @@
+---
+date: 2025-07-26T00:00:00
+venue: "3a940fcb-bb7b-4bac-8194-009c85f84b6b"
+artists:
+  - "3f85e56d-57dd-46f7-89ea-88f157cae39f"
+---

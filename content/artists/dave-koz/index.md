@@ -2,6 +2,7 @@
 id: "4c376cd4-aeac-4873-ac00-56abe7386100"
 title: "Dave Koz"
 socials:
+  musicbrainz: "461b7812-cc9c-4e30-ab22-1b42bdba15fd"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B000QJHQUM"
   apple: "529662"
   deezer: "7499"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0ZcJXldoq09BRIMl0Qh1Vm"
+  tidal: "10475"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

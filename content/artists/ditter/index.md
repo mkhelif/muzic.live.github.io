@@ -3,6 +3,7 @@ id: "e86f504d-e9a4-447c-be45-00194ccc3147"
 title: "Ditter"
 type: band
 socials:
+  musicbrainz: "f8269b27-938d-4135-afd7-60a75e995a58"
   facebook: "dittertheband"
   instagram: "ditter_theband"
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: "dittertheband@gmail.com"
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1666599334"
+  deezer: "198114357"
   qobuz: ""
   spotify: "2XQrzLnabbe3OLJOctSvSQ"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

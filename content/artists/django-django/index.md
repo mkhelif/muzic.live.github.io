@@ -2,6 +2,7 @@
 id: "da74673c-887a-46b9-898b-118a928dd522"
 title: "Django Django"
 socials:
+  musicbrainz: "4bfce038-b1a0-4bc4-abe1-b679ab900f03"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,14 +15,15 @@ socials:
   amazon: ""
   apple: "318721881"
   deezer: "356529"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "111407"
+  spotify: "2ARO60gI5do88ho6azmzab"
+  tidal: "3660775"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

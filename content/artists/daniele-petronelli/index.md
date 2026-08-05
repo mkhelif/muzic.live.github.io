@@ -3,6 +3,7 @@ id: "9c996992-ff92-495b-ba7a-5bacafb64fb1"
 title: "Daniele Petronelli"
 type: person
 socials:
+  musicbrainz: "68880c23-03f2-41ef-a090-1d13bc21cd2e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

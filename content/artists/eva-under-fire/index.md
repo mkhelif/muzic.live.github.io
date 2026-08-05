@@ -2,7 +2,12 @@
 id: "71830f68-ecff-4f16-b795-5b10552afe98"
 title: "Eva Under Fire"
 type: band
+members:
+  - id: "f715fdcd-fb6c-49ac-8b90-c3294b671335"
+    roles:
+      - sing
 socials:
+  musicbrainz: "1b09e72f-374a-42aa-8bf7-4eb4b2b6eb59"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,11 +18,12 @@ socials:
   email: ""
   amazon: ""
   apple: "1066053168"
-  deezer: ""
-  qobuz: ""
+  deezer: "9484842"
+  qobuz: "3257248"
   spotify: "4CqPd0j1VupcPYQRTMBn1c"
-  tidal: ""
+  tidal: "7454528"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23

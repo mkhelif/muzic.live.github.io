@@ -15,13 +15,14 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "5cjR3WlUBpSCQ6il8Gqsfu"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "bd533fba-77a6-481c-8056-c71b9cf16b2f"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
 ---

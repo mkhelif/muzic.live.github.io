@@ -3,6 +3,7 @@ id: "f3af646c-5e12-41ec-a95c-203bb8d4188e"
 title: "Da Break"
 type: band
 socials:
+  musicbrainz: "9994750c-5be2-4b0e-a13e-bd4bfe8bb366"
   instagram: "dabreakstagram"
   facebook: "DaBreaktheband"
   bandsintown: "421210"
@@ -14,10 +15,11 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "82146730"
+  deezer: "4130957"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

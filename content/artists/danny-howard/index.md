@@ -2,6 +2,7 @@
 id: "291cf0de-4333-4908-ae3b-d35324ff7f1a"
 title: "Danny Howard"
 socials:
+  musicbrainz: "bdd313b9-50c1-4957-8ca5-bb2a09f580f2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "472233829"
   deezer: "1690237"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "14MtanGZe4G1fzC8raLFUK"
+  tidal: "4562394"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

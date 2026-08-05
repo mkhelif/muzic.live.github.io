@@ -3,6 +3,7 @@ id: "6615fd9b-58d3-4e52-a14f-846c3c7f552c"
 title: "David Frings"
 type: person
 socials:
+  musicbrainz: "42d7c1dc-c092-40ce-b736-73f29adae12b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown-lookup: 2026-08-04
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

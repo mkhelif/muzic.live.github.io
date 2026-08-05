@@ -3,6 +3,7 @@ id: "b3a31b01-971b-4adf-8d0d-5df11b2053ab"
 title: "Danny Ocean"
 type: person
 socials:
+  musicbrainz: "ddb0b09f-284f-45dd-b394-05f58b0eeb76"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,19 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1248515752"
   deezer: ""
-  qobuz: ""
+  qobuz: "1906264"
   spotify: "5H1nN1SzW0qNeUEZvuXjAj"
-  tidal: ""
+  tidal: "3558465"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1992
 ---
 
 Danny Ocean, de son vrai nom Daniel Alejandro Morales Reyes, est né le 5 mai 1992 à Caracas, Venezuela.

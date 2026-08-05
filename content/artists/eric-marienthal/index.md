@@ -3,6 +3,7 @@ id: "3b1b004e-08a9-4c84-995f-c1be9de148b5"
 title: "Eric Marienthal"
 type: person
 socials:
+  musicbrainz: "9e20cb53-1193-4dd0-a156-838b3e6278d0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,10 +22,13 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1957-12-19
 ---
 
 Eric Marienthal, né le 19 décembre 1957 à Sacramento, est un saxophoniste américain nommé aux Grammy Awards, figure du

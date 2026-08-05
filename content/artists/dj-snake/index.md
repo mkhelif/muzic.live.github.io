@@ -3,6 +3,7 @@ id: "798f598b-dde1-4824-b532-6dad7c922859"
 title: "DJ Snake"
 type: person
 socials:
+  musicbrainz: "31445b1e-96f3-4c7f-84ec-dd02e647e690"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,19 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "125742557"
+  deezer: "482758"
   qobuz: ""
   spotify: "540vIaP2JwjQb9dm3aArA4"
-  tidal: ""
+  tidal: "4826235"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1986-06-13
 ---
 
 William Sami Étienne Grigahcine, alias DJ Snake, né le 13 juin 1986 à Paris d'un père français et d'une mère algérienne,

@@ -3,6 +3,7 @@ id: "73963256-6f73-481b-a63a-d79aa88ebc14"
 title: "Dieter Rubach"
 type: person
 socials:
+  musicbrainz: "00518e3e-c4ea-4d4d-a4b2-a683796ecf05"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,7 +24,10 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27
+lifespan:
+  start: 1955-04-28
 ---

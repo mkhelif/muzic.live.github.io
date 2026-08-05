@@ -2,7 +2,111 @@
 id: "48040970-34e1-4baf-a183-ca8ca11fc066"
 title: "Esoteric"
 type: band
+members:
+  - id: "d6073ac7-f859-44fd-96a6-e4860dc39460"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 1992
+      - start: 1992
+  - id: "5cbed3c4-020f-4c17-ac0b-86377150cea1"
+    roles:
+      - bass
+    periods:
+      - start: 2003
+  - id: "c4b9d9ee-8956-4a4a-8200-2ed0b8a29b22"
+    roles:
+      - drums
+    periods:
+      - start: 2007
+  - id: "918486e9-0873-4ec8-a76d-fd885b0bb9aa"
+    roles:
+      - guitar
+    periods:
+      - start: 2022
+  - id: "e78ab577-ae54-4487-a749-700f1032d975"
+    roles:
+      - guitar
+    periods:
+      - start: 1992
+        end: 1994
+  - id: "9ed2a410-4311-4bb8-9fe5-b3ae164ce950"
+    roles:
+      - drums
+    periods:
+      - start: 1992
+        end: 1994
+  - id: "be264a82-923a-48d9-b38d-2babee176d42"
+    roles:
+      - guitar
+      - keys
+    periods:
+      - start: 2011
+        end: 2019
+      - start: 1992
+        end: 1996
+      - start: 1992
+        end: 2010
+  - id: "674ca981-0e6f-46a2-925c-f6059641180d"
+    roles:
+      - guitar
+    periods:
+      - start: 1992
+        end: 1997
+  - id: "9f59a685-9461-4700-8271-90e9a891640f"
+    roles:
+      - bass
+    periods:
+      - start: 1992
+        end: 2002
+  - id: "fa594538-6be1-4d04-8c87-66efce573363"
+    roles:
+      - guitar
+    periods:
+      - start: 1994
+        end: 2007
+  - id: "36ca04e5-ead6-4eb7-a2a0-ace59d10bbd8"
+    roles:
+      - other
+    periods:
+      - start: 2003
+        end: 2009
+  - id: "159d932f-129a-4ceb-af2d-c674c8cef4b6"
+    roles:
+      - drums
+    periods:
+      - start: 2003
+        end: 2005
+  - id: "5f3c1eb2-a6dd-4a4d-8339-ad3597afe650"
+    roles:
+      - guitar
+    periods:
+      - start: 2007
+        end: 2009
+  - id: "9a96636c-376e-4afd-bafd-d86ad475582f"
+    roles:
+      - guitar
+      - keys
+    periods:
+      - start: 2009
+        end: 2019
+      - start: 2009
+        end: 2019
+  - id: "23c49ff4-b4fe-4d14-8946-a6af0529d92f"
+    roles:
+      - keys
+    periods:
+      - start: 2012
+        end: 2014
+  - id: "983124fc-d230-44fa-ba83-e10b0d7a09c0"
+    roles:
+      - guitar
+    periods:
+      - start: 2020
+        end: 2024
 socials:
+  musicbrainz: "2fb3d95a-3a38-47bf-bb9a-0592e28a75d8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,10 +118,11 @@ socials:
   amazon: ""
   apple: ""
   deezer: "56142"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "258598"
+  spotify: "36b4aldhhv4vxGWtykfTRA"
+  tidal: "3604099"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

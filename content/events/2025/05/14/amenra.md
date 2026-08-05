@@ -1,0 +1,6 @@
+---
+date: 2025-05-14T00:00:00
+venue: "2ca8bfac-becc-4260-a6f6-b624be1cc530"
+artists:
+  - "ab576014-5b3b-47a6-b2b5-a49f4a27118c"
+---

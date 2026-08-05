@@ -3,6 +3,7 @@ id: "df7c4ce1-04b5-45f0-a26b-4030e09100f9"
 title: "Enola Gay"
 type: band
 socials:
+  musicbrainz: "b7b27e00-abf6-4ad2-aac8-ad419a3aee7b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

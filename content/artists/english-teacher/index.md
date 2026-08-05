@@ -2,6 +2,7 @@
 id: "42b218ed-ec98-4263-82be-913ff06b800c"
 title: "English Teacher"
 socials:
+  musicbrainz: "b60fd6f1-a47a-4021-b8df-83f8e8893e91"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B0846VJM5P"
   apple: "1517648723"
   deezer: ""
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "6669479"
+  spotify: "5H9IFTRxSICj24uxO15ScU"
+  tidal: "18121796"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
 ---

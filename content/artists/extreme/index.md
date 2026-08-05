@@ -2,6 +2,7 @@
 id: "f163bf9b-6bbb-422f-a271-219c03a925f2"
 title: "Extreme"
 socials:
+  musicbrainz: "0e6cc5e5-4f03-4993-a481-d70d0e354d9f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -10,13 +11,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  amazon: "B001FLYC0M"
+  apple: "106804"
+  deezer: "527"
+  qobuz: "62469"
   spotify: "6w7j5wQ5AI5OQYlcM15s2L"
-  tidal: ""
+  tidal: "27540"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

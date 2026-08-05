@@ -2,7 +2,12 @@
 id: "d1526a9e-382b-4931-85c8-1fa6ada47e54"
 title: "Elwood Stray"
 type: band
+members:
+  - id: "dfd1b3a5-2a2b-45e8-a161-cba8f5a67bd7"
+    roles:
+      - sing
 socials:
+  musicbrainz: "951a944e-b471-4ab4-968a-084d575a88be"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +16,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B07285F5GW"
   apple: "1110032029"
   deezer: "10293536"
-  qobuz: ""
+  qobuz: "3854602"
   spotify: "6n5DUGtIWYMurrtVt7IdZr"
-  tidal: ""
+  tidal: "8769099"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

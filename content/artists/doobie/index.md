@@ -3,6 +3,7 @@ id: "b30aedf0-d7df-4468-8dbc-be85cd4bf107"
 title: "Doobie"
 type: person
 socials:
+  musicbrainz: "882b8259-6079-4393-bdc0-5e70673ce07b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,11 +14,12 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "337610"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "6127970"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

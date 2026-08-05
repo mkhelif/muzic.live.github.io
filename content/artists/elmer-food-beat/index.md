@@ -2,6 +2,7 @@
 id: "6631d576-bba3-4b2a-b810-1599244c20e7"
 title: "Elmer Food Beat"
 socials:
+  musicbrainz: "af3ec750-88ec-4943-be9d-d14a740cf54d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "250794664"
   deezer: "5043"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "1scwxd2WrAOSgUDm89YMVi"
+  tidal: "3961228"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

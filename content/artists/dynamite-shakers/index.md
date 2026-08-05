@@ -25,6 +25,7 @@ members:
     periods:
       - start: 2020
 socials:
+  musicbrainz: "4083aef8-840b-42ec-a153-ee96e4f95ee3"
   facebook: "dynamiteshakers"
   instagram: "dynashakers"
   bandsintown: "15505092"
@@ -40,6 +41,7 @@ socials:
   deezer: "157314032"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

@@ -1,0 +1,6 @@
+---
+date: 2026-04-10T00:00:00
+venue: "e990753b-491c-4541-922b-2faabc0bdffc"
+artists:
+  - "ddfc3b61-7c0f-4722-a46e-f690c38f8f49"
+---

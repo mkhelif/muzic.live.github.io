@@ -3,6 +3,7 @@ id: "c9c7b4ec-f032-4b8f-addb-2774cd91adc4"
 title: "Ethel Cain"
 type: person
 socials:
+  musicbrainz: "677e31f1-4035-463c-8ca4-41175440c919"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,18 +12,21 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B07VR8VD88"
   apple: "1474427879"
   deezer: "70590892"
-  qobuz: ""
+  qobuz: "8703887"
   spotify: "0avMDS4HyoCEP6RqZJWpY2"
-  tidal: ""
+  tidal: "16406714"
 todo:
   - Add picture
   - Add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1998-03-24
 ---

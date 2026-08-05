@@ -2,6 +2,7 @@
 id: "cbb07e05-5b34-4a59-ac86-cdf210a45b68"
 title: "Dosem"
 socials:
+  musicbrainz: "fac67cfd-981b-4669-9bdd-8254e9c97053"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "256573197"
   deezer: "178414"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "3639795"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

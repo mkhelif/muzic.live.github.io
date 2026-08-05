@@ -3,6 +3,7 @@ id: "ac40541d-ff40-4d01-906f-2afee88bcba8"
 title: "Dan Griffin"
 type: person
 socials:
+  musicbrainz: "255193da-411d-470b-8afc-d88e93e20360"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -23,6 +24,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

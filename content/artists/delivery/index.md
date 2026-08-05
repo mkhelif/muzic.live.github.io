@@ -3,6 +3,7 @@ id: "88ab7b6a-b2d9-46fb-b029-b85fce1ac469"
 title: "Delivery"
 type: unknown
 socials:
+  musicbrainz: "8ea1a45f-4a8a-494b-bda1-b44ab2ba376a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

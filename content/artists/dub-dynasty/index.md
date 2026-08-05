@@ -2,6 +2,7 @@
 id: "a9300f53-fd56-418a-94d0-ba6b7cd43e17"
 title: "Dub Dynasty"
 socials:
+  musicbrainz: "84135f45-6ca5-4a7b-988a-9b6e1484b41c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

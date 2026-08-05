@@ -3,6 +3,7 @@ id: "0176d93d-8767-4244-96ba-d957271ec62b"
 title: "Daoud"
 type: person
 socials:
+  musicbrainz: "0d56df5b-9a94-42cc-9590-5bb42daecb63"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1531663397"
   deezer: ""
-  qobuz: ""
+  qobuz: "21537413"
   spotify: ""
-  tidal: ""
+  tidal: "5187924"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

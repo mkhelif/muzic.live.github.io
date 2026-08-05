@@ -2,7 +2,32 @@
 id: "3a032431-6ffc-424e-aa40-22ba8f78f7d3"
 title: "Dub Inc"
 type: band
+members:
+  - id: "09b70b9b-e4b8-457b-8858-97877c7b5e8d"
+    roles:
+      - other
+    periods:
+      - start: 1997
+  - id: "0a7baf63-9de4-469f-b9c4-1f24987e69af"
+    roles:
+      - other
+  - id: "cd9c0660-6dd8-4375-bc39-684fc1dc3005"
+    roles:
+      - other
+  - id: "bfc52139-dae1-47a8-9385-f12d5468ed84"
+    roles:
+      - other
+  - id: "86318530-6a6a-4087-8d96-f6dc705abb3a"
+    roles:
+      - other
+  - id: "d5b84580-2c27-4d21-9896-f2a3a32acb1c"
+    roles:
+      - other
+  - id: "faf6b7c0-a759-417a-acb4-3eb2e29d2ea9"
+    roles:
+      - other
 socials:
+  musicbrainz: "c3aad6b3-4462-4dcd-a7d9-b2f81c6211b3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,11 +38,12 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "308253"
   qobuz: ""
   spotify: "0fSuChlRe8ZYtVFYDoG87U"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

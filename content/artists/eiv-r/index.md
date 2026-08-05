@@ -3,6 +3,7 @@ id: "916d4dbc-aa1b-4b4b-a971-ee8daab41931"
 title: "Eivør"
 type: person
 socials:
+  musicbrainz: "cdcc26ed-818f-4c95-b177-b56ac1410f8f"
   facebook: "eivormusic"
   instagram: "eivormusic"
   tiktok: ""
@@ -14,15 +15,18 @@ socials:
   email: "management@eivor.com"
   amazon: ""
   apple: "259306836"
-  deezer: ""
-  qobuz: ""
+  deezer: "572019"
+  qobuz: "1019375"
   spotify: "2dB4ya2W1Gvng8gjWSPu2H"
-  tidal: ""
+  tidal: "3587964"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   apple: 2026-07-26
   spotify: 2026-07-23
+lifespan:
+  start: 1983-07-21
 ---
 
 Eivør Pálsdóttir, connue simplement sous le nom d'Eivør, est une chanteuse, autrice-compositrice et musicienne

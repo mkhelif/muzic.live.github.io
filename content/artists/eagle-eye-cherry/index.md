@@ -3,6 +3,7 @@ id: "4a8092a2-dfe1-463e-b0b8-3070d6b6d2db"
 title: "Eagle-Eye Cherry"
 type: person
 socials:
+  musicbrainz: "4a5777b3-f55b-437c-8b23-d9ee7791c7fc"
   facebook: "EagleEyeCherryofficial"
   instagram: "eagle_eyecherry"
   bandsintown: "5008"
@@ -18,9 +19,12 @@ socials:
   deezer: "1193"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1968-05-07
 ---
 
 Eagle-Eye Cherry est un chanteur-compositeur suédois-américain né en 1968, fils du trompettiste de jazz Don Cherry.

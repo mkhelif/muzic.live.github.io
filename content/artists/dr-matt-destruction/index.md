@@ -3,6 +3,7 @@ id: "961ac54b-142c-469d-8c17-54c4019bfa33"
 title: "Dr. Matt Destruction"
 type: person
 socials:
+  musicbrainz: "546ab261-4991-42c5-a8a2-31b16efbbebf"
   facebook: ""
   instagram: ""
   x: ""
@@ -10,7 +11,10 @@ socials:
   bandsintown: "1631405"
   youtube: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
+lifespan:
+  start: 1978-03-18
 ---

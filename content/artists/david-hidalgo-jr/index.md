@@ -2,6 +2,7 @@
 id: "e0f1761b-4f39-4615-b186-71aa4e2f465b"
 title: "David Hidalgo Jr."
 socials:
+  musicbrainz: "2792be91-9a54-47fb-a0ee-0efd73999f28"
   apple: "31844140"
   deezer: "140387272"
   facebook: ""
@@ -10,6 +11,7 @@ socials:
   threads: ""
   youtube: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
 ---

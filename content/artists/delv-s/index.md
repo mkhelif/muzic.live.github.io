@@ -3,6 +3,7 @@ id: "1c6b7d43-63c8-41c3-88db-df64e6af97a3"
 title: "Delv!s"
 type: person
 socials:
+  musicbrainz: "222749bd-24f8-40c3-a9dd-7304ab06a750"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,7 +22,10 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown-lookup: 2026-07-25
   spotify: 2026-07-23
+lifespan:
+  start: 1987-09-09
 ---

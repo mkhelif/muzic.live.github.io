@@ -2,6 +2,7 @@
 id: "e97fda0d-3762-483d-a275-a7860690e643"
 title: "Dokken"
 socials:
+  musicbrainz: "09ade3bd-b110-4277-b923-7dc32e6a3f92"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "578830"
   deezer: ""
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "09hNSPPOxDop4FRdr6UEnq"
+  tidal: "28603"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
 ---

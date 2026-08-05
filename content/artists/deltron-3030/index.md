@@ -19,6 +19,7 @@ members:
     periods:
       - start: 1999
 socials:
+  musicbrainz: "ce886f30-8b8f-4cc8-b854-3749291350fd"
   facebook: "OfficialDELTRON"
   instagram: "officialdeltron"
   x: "officialdeltron"
@@ -32,8 +33,9 @@ socials:
   apple: "290096769"
   deezer: "1197"
   qobuz: ""
-  tidal: ""
+  tidal: "5037022"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

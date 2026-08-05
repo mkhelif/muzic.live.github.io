@@ -3,6 +3,7 @@ id: "549648aa-56ce-494f-a7fe-7460f6c3dc29"
 title: "Dirty Harry"
 type: person
 socials:
+  musicbrainz: "974ff107-ef4a-4095-91d4-bf47af61ce61"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

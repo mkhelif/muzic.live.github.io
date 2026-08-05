@@ -2,7 +2,77 @@
 id: "076b7910-99e2-4727-968f-cfdb619a9002"
 title: "Emperor"
 type: band
+members:
+  - id: "dfc14526-3049-4b42-8e0c-c110bed93a83"
+    roles:
+      - guitar
+      - drums
+    periods:
+      - start: 2016
+      - start: 2013
+        end: 2014
+      - start: 2005
+        end: 2007
+      - start: 1992
+        end: 2001
+      - start: 1991
+        end: 1992
+  - id: "2a3c6ab7-1dbc-495a-ba65-cb68761bb253"
+    roles:
+      - sing
+      - guitar
+      - bass
+      - keys
+    periods:
+      - start: 2016
+      - start: 2016
+      - start: 2013
+        end: 2014
+      - start: 2013
+        end: 2014
+      - start: 2005
+        end: 2007
+      - start: 1999
+        end: 2001
+      - start: 1991
+        end: 2001
+  - id: "604d4ba7-1c20-4b50-835b-6795a6e15e1b"
+    roles:
+      - drums
+    periods:
+      - start: 2016
+      - start: 2005
+        end: 2007
+      - start: 1996
+        end: 2001
+  - id: "d71877e6-7bd8-4b18-a849-2f2ef7f66dd8"
+    roles:
+      - bass
+    periods:
+      - start: 1991
+        end: 1992
+  - id: "daddacba-9b88-4578-a563-51031b82a488"
+    roles:
+      - drums
+    periods:
+      - start: 2013
+        end: 2014
+      - start: 1992
+        end: 1993
+  - id: "97366b55-807d-4575-9187-caa1f85e0d11"
+    roles:
+      - bass
+    periods:
+      - start: 1992
+        end: 1994
+  - id: "a76cb51d-0394-4557-9753-fce95f438216"
+    roles:
+      - bass
+    periods:
+      - start: 1995
+        end: 1998
 socials:
+  musicbrainz: "d9951785-7906-4daf-9a60-21753bf64aa9"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +82,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "78923932"
+  deezer: "5175"
+  qobuz: "1039084"
   spotify: ""
-  tidal: ""
+  tidal: "21573"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

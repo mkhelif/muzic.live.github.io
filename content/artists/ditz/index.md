@@ -3,6 +3,7 @@ id: "6855267d-1a3c-4c79-a02c-ce9b51a9ff13"
 title: "DITZ"
 type: band
 socials:
+  musicbrainz: "bd0f9f45-22c2-4566-b2cc-3c255ceb6e76"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1258978899"
+  deezer: "12816189"
   qobuz: ""
   spotify: "3oSKgWx1dqjhidhnhpGbfJ"
-  tidal: ""
+  tidal: "8931410"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

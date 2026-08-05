@@ -3,6 +3,7 @@ id: "e4d91b8d-f277-4178-addc-40c1d3f3a7ef"
 title: "Eve Angeli"
 type: unknown
 socials:
+  musicbrainz: "f8205ff3-87fc-4993-9801-c243ec9ee133"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: ""
   deezer: "70208"
   qobuz: ""
-  spotify: ""
+  spotify: "6X7g77aoOChMz6alr8u8VT"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

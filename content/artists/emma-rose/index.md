@@ -2,6 +2,7 @@
 id: "f55b2c34-edbf-4d0a-bda8-3cc411b9931a"
 title: "Emma Rose"
 socials:
+  musicbrainz: "c5ac4b29-e4e2-4917-9268-537de845ef81"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "6vc6P08Faons4L5D6eKPB2"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

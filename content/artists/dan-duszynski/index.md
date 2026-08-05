@@ -3,6 +3,7 @@ id: "875aa9ab-001f-43c8-a1b9-5efad822106d"
 title: "Dan Duszynski"
 type: person
 socials:
+  musicbrainz: "e86258f5-46dc-4c4b-9b05-eebe45efe752"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-08-04
   bandsintown-lookup: 2026-08-04
   apple-lookup: 2026-08-04

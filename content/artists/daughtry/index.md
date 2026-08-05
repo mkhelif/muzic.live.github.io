@@ -2,6 +2,7 @@
 id: "d3dccdda-6cff-427b-8387-473947409fc4"
 title: "Daughtry"
 socials:
+  musicbrainz: "21e3292e-dac8-4609-b57d-402f926aa41f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B000RZ8II4"
   apple: "748174"
   deezer: ""
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "197294"
+  spotify: "5P5FTygHyx2G57oszR3Wot"
+  tidal: "10673"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer-lookup: 2026-07-27
 ---

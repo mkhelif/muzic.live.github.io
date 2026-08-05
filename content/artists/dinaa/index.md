@@ -3,6 +3,7 @@ id: "b5d0fe24-672a-4485-afc7-63028c4ca707"
 title: "Dinaa"
 type: person
 socials:
+  musicbrainz: "d9f0af5b-3401-44f7-a35a-a183727e08d2"
   instagram: "dinaa"
   facebook: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: "0shR2PS00avJ6Wp3npUBwS"
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

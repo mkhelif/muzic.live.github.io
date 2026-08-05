@@ -3,6 +3,7 @@ id: "95a7ef89-cfe9-4c67-a8e5-8a0ca56e5ed4"
 title: "Daniel Darc"
 type: person
 socials:
+  musicbrainz: "e5173fff-a188-40a2-99ca-67fc4cdd5a68"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,7 +23,11 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1959-05-20
+  end: 2013-02-28
 ---

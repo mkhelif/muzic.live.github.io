@@ -3,6 +3,7 @@ id: "4504fc84-735b-4872-9467-8346f78d5fcb"
 title: "Doug Scarratt"
 type: person
 socials:
+  musicbrainz: "bc032a6b-c612-4145-affd-682d78b8db11"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,7 +19,10 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
+lifespan:
+  start: 1959-09-08
 ---

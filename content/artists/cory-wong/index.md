@@ -3,6 +3,7 @@ id: "f7d73281-7e5e-4ac4-b73b-1d4796eb722c"
 title: "CORY WONG"
 type: person
 socials:
+  musicbrainz: "ead26d19-20b3-49ac-92e9-3d8a25ca9462"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,17 +13,20 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1277188895"
   deezer: "8607980"
   qobuz: ""
   spotify: "6xt9sJmmyYwWkJv8A6ssiU"
-  tidal: ""
+  tidal: "7780376"
 cover: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1985
 ---
 
 Cory Wong est un guitariste, compositeur et producteur américain né à Poughkeepsie, dans l'État de New York,

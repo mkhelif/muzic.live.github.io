@@ -2,6 +2,7 @@
 id: "a959e407-ac23-4048-86fd-75821b0c696a"
 title: "Derrick Mckenzie"
 socials:
+  musicbrainz: "3ea9bbe7-8777-434a-9538-1ca771706dc2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,12 +16,13 @@ socials:
   apple: ""
   deezer: "4430595"
   qobuz: ""
-  spotify: ""
+  spotify: "2yTk5VCLEsumMmQf25x8VI"
   tidal: ""
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

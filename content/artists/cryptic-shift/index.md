@@ -2,7 +2,54 @@
 id: "a00e4024-5ab0-43e2-843f-5fb3b36fe90b"
 title: "Cryptic Shift"
 type: band
+members:
+  - id: "4c7d69f5-d0ad-4d2d-a059-4cbf490fc6b4"
+    roles:
+      - drums
+    periods:
+      - start: 2012
+  - id: "7cf94f83-3577-4f33-bb9f-d7b955cbdd7d"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 2014
+  - id: "3e6a9e58-438b-426a-959f-58441177125f"
+    roles:
+      - bass
+    periods:
+      - start: 2015
+  - id: "312a51a8-949b-4603-83a7-a176f3d222df"
+    roles:
+      - guitar
+    periods:
+      - start: 2020
+  - id: "d4dfeda8-bf7f-469a-9ac0-e53ae3e65800"
+    roles:
+      - sing
+    periods:
+      - start: 2011
+        end: 2014
+  - id: "3c236ff5-ff6c-4e88-8514-30dde9245c3c"
+    roles:
+      - bass
+    periods:
+      - start: 2012
+        end: 2015
+  - id: "9d674c70-a93f-47bb-9fec-f02b8534add4"
+    roles:
+      - guitar
+    periods:
+      - start: 2014
+        end: 2017
+  - id: "5e99a632-5ba3-4ac9-8e89-02bc1d30b87c"
+    roles:
+      - guitar
+    periods:
+      - start: 2017
+        end: 2020
 socials:
+  musicbrainz: "f0b1c181-9d14-4504-bf00-abac3e64dc24"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,10 +61,11 @@ socials:
   amazon: ""
   apple: "1231531059"
   deezer: "12382218"
-  qobuz: ""
+  qobuz: "4157625"
   spotify: "49Q7rQ1e651IkT2AHKYgnx"
-  tidal: ""
+  tidal: "8728117"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

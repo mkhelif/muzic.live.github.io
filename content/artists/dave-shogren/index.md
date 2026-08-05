@@ -3,6 +3,7 @@ id: "d4cb1695-5f05-4465-946f-66de64fbe734"
 title: "Dave Shogren"
 type: person
 socials:
+  musicbrainz: "37fdad6d-0d36-45b8-84f2-6222e21ed08f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

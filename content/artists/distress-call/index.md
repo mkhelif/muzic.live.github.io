@@ -2,6 +2,7 @@
 id: "80009a5b-c308-44c9-90aa-381ad21d1a40"
 title: "Distress Call"
 socials:
+  musicbrainz: "f762e74e-ff13-4309-9cf9-d2168cfd83f5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: ""
   deezer: "8445148"
   qobuz: ""
-  spotify: ""
+  spotify: "74WjsnzWwkPxzHXmIearVt"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

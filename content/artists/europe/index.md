@@ -49,6 +49,7 @@ members:
       - start: 1986
         end: 1992
 socials:
+  musicbrainz: "ccfe7a3c-1a45-4984-a8d0-644549cefe61"
   facebook: "europetheband"
   instagram: "officialeuropetheband"
   tiktok: "@europethebandofficial"
@@ -60,10 +61,11 @@ socials:
   spotify: "7Js6Lde8thlIHXggv2SCBz"
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "461932"
+  deezer: "1903"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

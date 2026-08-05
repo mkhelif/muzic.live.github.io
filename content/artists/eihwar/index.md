@@ -2,7 +2,19 @@
 id: "65f877d2-d822-4725-8515-67e91a3c25e9"
 title: "Eihwar"
 type: band
+members:
+  - id: "7c8fe61b-0217-460b-8587-a24afc0cb5ad"
+    roles:
+      - sing
+      - guitar
+      - drums
+      - other
+  - id: "a0bbd6ae-6feb-49bb-b883-a2e03f26cf99"
+    roles:
+      - sing
+      - drums
 socials:
+  musicbrainz: "9fd868b2-3559-40bc-ae2d-8c8125c2eee5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +28,12 @@ socials:
   deezer: "224131655"
   qobuz: ""
   spotify: "2VFxoCJQPfQauZujESPjQK"
-  tidal: ""
+  tidal: "41105436"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

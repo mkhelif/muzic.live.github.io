@@ -2,6 +2,7 @@
 id: "37242c3e-f6bd-47d5-922f-4835ca9a12e4"
 title: "Fabio Frizzi"
 socials:
+  musicbrainz: "21dc853f-9d63-40d9-b90c-781e9138618c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B008GXQ5DY"
   apple: "55138246"
   deezer: "208640"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "41WV5TRkqaqE84nspGDiXZ"
+  tidal: "3910545"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

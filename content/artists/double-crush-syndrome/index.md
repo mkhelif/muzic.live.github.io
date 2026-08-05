@@ -3,6 +3,7 @@ id: "a0adf676-bb4a-44db-8849-ec928887a4dc"
 title: "Double Crush Syndrome"
 type: unknown
 socials:
+  musicbrainz: "1eb8a5f2-9e11-4634-a532-01611df9e45a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

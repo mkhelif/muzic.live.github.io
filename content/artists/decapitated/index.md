@@ -2,7 +2,75 @@
 id: "47e0e00b-36fd-45d5-9ab3-eea36ccb5990"
 title: "Decapitated"
 type: band
+members:
+  - id: "76daa52b-fdeb-46cf-93bf-d93fd131a107"
+    roles:
+      - guitar
+    periods:
+      - start: 2009
+      - start: 1996
+        end: 2007
+  - id: "fc1d6728-feec-462b-a906-68abb37a7f98"
+    roles:
+      - sing
+    periods:
+      - start: 2009
+  - id: "de94aa0e-37bd-480f-85cc-31bd52f9b741"
+    roles:
+      - drums
+    periods:
+      - start: 2014
+  - id: "8221c163-6117-4eb0-80d1-5f94c4929127"
+    roles:
+      - bass
+    periods:
+      - start: 2016
+  - id: "3133af84-1c15-46bb-813d-72c61976d0cc"
+    roles:
+      - sing
+    periods:
+      - start: 1996
+        end: 2005
+  - id: "4b88558a-8daa-4bd5-927f-a759a722c33f"
+    roles:
+      - drums
+    periods:
+      - start: 1996
+        end: 2007
+  - id: "343a30a5-33fd-4ec9-9a91-ee7f5fb88fc1"
+    roles:
+      - bass
+    periods:
+      - start: 2006
+        end: 2007
+      - start: 1997
+        end: 2005
+  - id: "9058c8b5-85dd-48e8-97a7-b77a6c420c6a"
+    roles:
+      - sing
+    periods:
+      - start: 2005
+        end: 2007
+  - id: "d4fb062c-cb3e-47d0-9684-cec3c96523d3"
+    roles:
+      - bass
+    periods:
+      - start: 2009
+        end: 2011
+  - id: "58a654d8-0f36-4c72-be88-ebde88324a8b"
+    roles:
+      - drums
+    periods:
+      - start: 2009
+        end: 2012
+  - id: "664d87ee-e4f7-40dc-9b20-37fbb1f3a2ab"
+    roles:
+      - bass
+    periods:
+      - start: 2012
+        end: 2016
 socials:
+  musicbrainz: "bfef61c6-53c0-4a12-9a42-1411111e7402"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,10 +82,11 @@ socials:
   amazon: ""
   apple: "42258018"
   deezer: "5600"
-  qobuz: ""
+  qobuz: "598005"
   spotify: "17MbhJOaaPHuWnRaWU9xkc"
-  tidal: ""
+  tidal: "22183"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

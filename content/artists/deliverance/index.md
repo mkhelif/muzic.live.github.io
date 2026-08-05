@@ -2,7 +2,33 @@
 id: "64d85df7-7866-4440-b07b-27ff5676bd1d"
 title: "Deliverance"
 type: band
+members:
+  - id: "701a4fa4-b514-47d8-940f-7474bbc78eed"
+    roles:
+      - other
+  - id: "a1d5464f-e738-430d-b450-c98f42a1ae43"
+    roles:
+      - drums
+  - id: "d4604361-a7ab-421c-b9c6-78138687aeed"
+    roles:
+      - guitar
+  - id: "914fee1b-3c1b-4a83-b7f7-ba5d4c765b53"
+    roles:
+      - other
+  - id: "2608a37a-f51b-4555-82fb-acb884f9155f"
+    roles:
+      - other
+  - id: "c61d4e0e-b4c9-4a8c-b6b6-6a892e85d1d4"
+    roles:
+      - guitar
+  - id: "6fbe70a1-ae07-450e-87b2-ab81a8150d77"
+    roles:
+      - other
+  - id: "a74424d5-400f-44ac-b66e-f1c42c64b321"
+    roles:
+      - guitar
 socials:
+  musicbrainz: "8d37ba6b-5474-4e49-9a93-7696aa08c0c3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +44,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

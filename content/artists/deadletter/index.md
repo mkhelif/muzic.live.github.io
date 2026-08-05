@@ -40,6 +40,7 @@ members:
     periods:
       - start: 2017
 socials:
+  musicbrainz: "f62f5f75-f6a2-42ea-a8b2-9732ca1be53c"
   facebook: "DEADLETTERTHEBAND"
   instagram: "_deadletter"
   tiktok: "@_deadletter"
@@ -50,11 +51,12 @@ socials:
   email: "deadletter.b4nd@gmail.com"
   amazon: ""
   apple: "1510366909"
-  deezer: ""
+  deezer: "92786852"
   qobuz: ""
   spotify: "4MfUQ99z2kgMnl9hAwffBx"
-  tidal: ""
+  tidal: "19327437"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer-lookup: 2026-07-27
   apple: 2026-07-26
   spotify: 2026-07-23

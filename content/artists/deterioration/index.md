@@ -2,6 +2,7 @@
 id: "ca311d55-c460-4269-80f0-8d2c7bf76538"
 title: "Deterioration"
 socials:
+  musicbrainz: "99947bfd-f58c-4c9a-b633-1db590684163"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

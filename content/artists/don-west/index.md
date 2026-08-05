@@ -3,6 +3,7 @@ id: "513e1419-f2ee-499b-a1a6-d172c2136ecf"
 title: "Don West"
 type: person
 socials:
+  musicbrainz: "5f026fdc-72d1-4739-a035-71a7defad279"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "551652575"
+  deezer: "3768401"
   qobuz: ""
   spotify: "2FjzRd1bgtsmhESettmFAN"
-  tidal: ""
+  tidal: "4696918"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

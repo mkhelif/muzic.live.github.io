@@ -103,6 +103,7 @@ members:
       - start: 2014
         end: 2022
 socials:
+  musicbrainz: "e8374874-4178-4869-b92e-fef6bf30dc04"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -113,11 +114,12 @@ socials:
   email: ""
   amazon: ""
   apple: "2928220"
-  deezer: ""
+  deezer: "4611"
   qobuz: ""
   spotify: "7w9jdhcgHNdiPeNPUoFSlx"
-  tidal: ""
+  tidal: "3517809"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23

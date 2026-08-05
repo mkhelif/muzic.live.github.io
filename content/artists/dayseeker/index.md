@@ -2,6 +2,7 @@
 id: "697e930d-6bfa-43c3-9dd4-7b6bca247713"
 title: "Dayseeker"
 socials:
+  musicbrainz: "d9a9b6aa-c5c5-40dc-95ec-0bff029245c0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "726336927"
   deezer: "5289615"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "5FjQVp1Lb0kltmwIuu5kfj"
+  tidal: "5155430"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

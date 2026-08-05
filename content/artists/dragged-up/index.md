@@ -2,6 +2,7 @@
 id: "1c7528b9-9322-4040-a368-29f106eb1870"
 title: "Dragged Up"
 socials:
+  musicbrainz: "3a134c85-a672-4ea8-8c1a-d30d7d31c783"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

@@ -23,6 +23,7 @@ management: "97049768-d9c6-4bf6-ba4e-1ead47b41b83"
 todo:
   - Add picture from concert
 lastUpdate:
+  setlistfm: 2026-08-05
   musicbrainz: 2026-08-04
   deezer: 2026-07-27
   apple: 2026-07-26

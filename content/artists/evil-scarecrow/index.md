@@ -2,6 +2,7 @@
 id: "01e268a5-eb10-4485-a7b1-eb0abe8f2f27"
 title: "Evil Scarecrow"
 socials:
+  musicbrainz: "aa8b73ef-4e40-4322-af24-7887dc69798e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "316333112"
   deezer: "484050"
   qobuz: ""
-  spotify: ""
+  spotify: "1SxULWBMeC87rRdPznDSYm"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer: 2026-07-27
   bandsintown: 2026-07-27

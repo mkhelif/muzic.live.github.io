@@ -1,0 +1,6 @@
+---
+date: 2000-09-07T00:00:00
+venue: "f046555c-e339-4a4f-abc1-5fea58ed18eb"
+artists:
+  - "f54dc7d2-557a-4ed7-aabe-9921294ba5f2"
+---

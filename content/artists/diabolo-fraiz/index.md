@@ -2,6 +2,7 @@
 id: "d600b68d-5782-4322-85bc-3bc0f8e086d1"
 title: "diabolo fraiz"
 socials:
+  musicbrainz: "a27e5c77-b9fa-43d3-852b-02d20cb0ea3a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

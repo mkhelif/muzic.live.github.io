@@ -2,6 +2,7 @@
 id: "7bae00d8-5970-415b-9e5d-72d0444f81f5"
 title: "Earth, Wind & Fire"
 socials:
+  musicbrainz: "535afeda-2538-435d-9dd1-5e10be586774"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,17 +12,18 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B000QJKEJW"
   apple: "290699"
   deezer: ""
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "61717"
+  spotify: "4QQgXkCYTt3BlENzhyNETg"
+  tidal: "637"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
 ---

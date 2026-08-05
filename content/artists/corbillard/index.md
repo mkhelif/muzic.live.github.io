@@ -3,6 +3,7 @@ id: "133fdbce-1e5d-4b15-ae57-f76b42396248"
 title: "Corbillard"
 type: band
 socials:
+  musicbrainz: "fdf6ae1d-c986-4b4b-8a26-0e9fdd6391e0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

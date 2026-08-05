@@ -2,7 +2,12 @@
 id: "e37bcf06-abf5-415e-9ef5-e73a8262094b"
 title: "Copycat"
 type: band
+members:
+  - id: "45830a47-97d7-43c4-99d2-64cb1f083742"
+    roles:
+      - other
 socials:
+  musicbrainz: "11cfc2e9-c507-44c3-8688-96d8b3f5e860"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +23,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

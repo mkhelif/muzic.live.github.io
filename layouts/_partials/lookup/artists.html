@@ -1,0 +1,7 @@
+{{- /* Returns a map of artist id -> page, built once per build.
+       Use via: {{ index (partialCached "lookup/artists.html" . "artists") $id }} */ -}}
+{{- $s := newScratch -}}
+{{- range where site.RegularPages "Section" "artists" -}}
+    {{- with .Params.id }}{{ $s.SetInMap "m" . $ }}{{ end -}}
+{{- end -}}
+{{- return $s.Get "m" -}}

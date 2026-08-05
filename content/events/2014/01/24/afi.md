@@ -1,0 +1,6 @@
+---
+date: 2014-01-24T00:00:00
+venue: "16af732c-1cad-4c1d-bb2a-da0aa9482c4e"
+artists:
+  - "ff615936-e811-4cd5-ac29-64ff845da9cc"
+---

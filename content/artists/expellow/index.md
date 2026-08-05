@@ -3,6 +3,7 @@ id: "d7c516bd-bce9-49ad-8eb3-4170d7c7cc29"
 title: "Expellow"
 type: band
 socials:
+  musicbrainz: "2f305607-ae46-43b1-bc13-42740183e2ba"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add cover
   - Add socials
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

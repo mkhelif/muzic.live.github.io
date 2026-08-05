@@ -3,6 +3,7 @@ id: "9f9a9be7-3d27-43a5-9d5f-9810203c3f20"
 title: "Danyèl Waro"
 type: person
 socials:
+  musicbrainz: "ae354cb8-cdea-4d14-8457-ac2b9bfbb001"
   facebook: ""
   instagram: ""
   web: ""
@@ -13,16 +14,19 @@ socials:
   email: ""
   amazon: ""
   apple: "424527387"
-  deezer: ""
+  deezer: "15624"
   qobuz: ""
   spotify: "0XIJloMh6WWaXC21g4uVwj"
-  tidal: ""
+  tidal: "4536889"
 todo:
   - Add description
   - Verify social networks
   - Add logo cover
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1955-05-10
 ---

@@ -3,6 +3,7 @@ id: "0966f8ed-beff-431e-aab3-4c5ca749ab33"
 title: "Eric Howk"
 type: person
 socials:
+  musicbrainz: "e7a91da6-ca0a-4528-96e8-279811edd87f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
 ---

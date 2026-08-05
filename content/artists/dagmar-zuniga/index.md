@@ -2,6 +2,7 @@
 id: "ff6b8afb-de60-4494-9206-76af83373e7e"
 title: "Dagmar Zuniga"
 socials:
+  musicbrainz: "9542584f-d6c4-4e8b-bb14-bba52bd15b32"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,14 @@ socials:
   apple: "1878749533"
   deezer: "374791011"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "59ZW99eqMF7Iv6QayaCD3Q"
+  tidal: "74796182"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

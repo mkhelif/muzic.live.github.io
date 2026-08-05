@@ -25,6 +25,7 @@ members:
     periods:
       - start: 2005
 socials:
+  musicbrainz: "440ab1b5-cc1d-412f-931f-81ecdd72e49f"
   facebook: "dacruzmusic"
   instagram: "dacruzmusic"
   tiktok: "@dacruzmusica"
@@ -36,10 +37,11 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "259894046"
+  deezer: "158985"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

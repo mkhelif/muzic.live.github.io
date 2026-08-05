@@ -2,7 +2,45 @@
 id: "0e67deef-962b-488a-a4c1-3cd509f507b7"
 title: "Deftones"
 type: band
+members:
+  - id: "d720c9ec-0930-4523-b59e-16438fc58b55"
+    roles:
+      - guitar
+    periods:
+      - start: 1988
+  - id: "97e5c4c8-cbfb-4856-9def-307dcf14f3fc"
+    roles:
+      - drums
+    periods:
+      - start: 1988
+  - id: "c6278b62-0524-4e6f-b33f-bab48e311567"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 1988
+  - id: "c1fd583a-4494-4b99-84a1-d26cb565dab3"
+    roles:
+      - keys
+      - other
+    periods:
+      - start: 1999
+  - id: "6bf90e7d-ffa6-4496-bca3-3632c93bee4e"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 1988
+        end: 2008
+  - id: "61c0d921-b67b-4f2c-b551-a014bef58a7c"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2009
+        end: 2021
 socials:
+  musicbrainz: "7527f6c2-d762-4b88-b5e2-9244f1e34c46"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +49,14 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B0011TTKN2"
   apple: "1092903"
-  deezer: ""
+  deezer: "535"
   qobuz: ""
   spotify: "6Ghvu1VvMGScGpOUJBAHNH"
-  tidal: ""
+  tidal: "15349"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
