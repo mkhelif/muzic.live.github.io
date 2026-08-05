@@ -4,5 +4,5 @@ venue: "f07ab5cb-e983-4930-adb1-c266e46aa2cf"
 artists:
   - "b7d00abe-f231-48b7-9f08-a2f9ab59987e"
 tickets:
-  web: "https://www.bandsintown.com/e/108461923-kelela-at-theatre-of-the-living-arts?came_from=209"
+  web: "https://www.bandsintown.com/e/108461923-kelela-at-theatre-of-the-living-arts"
 ---

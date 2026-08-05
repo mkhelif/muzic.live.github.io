@@ -16,13 +16,17 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "61epBnARBxcRE73wVCuUqd"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "5901a313-d735-4678-b2eb-fc7fe58b5cd9"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
+lifespan:
+  start: 1955-11-24
+  end: 2025-04-06
 ---

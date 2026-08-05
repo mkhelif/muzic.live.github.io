@@ -4,5 +4,5 @@ venue: "13c4c8f2-758c-4413-a6f3-a42ed0292e23"
 artists:
   - "843122f1-40a4-4e9c-85da-16ee1c8f3f1d"
 tickets:
-  web: "https://www.bandsintown.com/e/1039463064-the-velveteers-at-the-wellmont-theater?came_from=209"
+  web: "https://www.bandsintown.com/e/1039463064-the-velveteers-at-the-wellmont-theater"
 ---

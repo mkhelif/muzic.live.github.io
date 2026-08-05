@@ -4,5 +4,5 @@ venue: "4806f9d1-3a46-4d2f-bdb2-d4dd52d83f98"
 artists:
   - "b66a622e-d316-4c1c-9c74-f373d048d5bc"
 tickets:
-  web: "https://www.bandsintown.com/e/108571561-nothing-at-brooklyn-paramount?came_from=209"
+  web: "https://www.bandsintown.com/e/108571561-nothing-at-brooklyn-paramount"
 ---

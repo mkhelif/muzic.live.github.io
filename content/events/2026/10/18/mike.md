@@ -4,5 +4,5 @@ venue: "3f282814-6207-4210-afc1-f3fbdeef11ca"
 artists:
   - "4470992f-97f9-4fa7-bd17-cb8f4df2d1eb"
 tickets:
-  web: "https://www.bandsintown.com/e/108630341-mike-at-roxian-theatre-presented-by-citizens?came_from=209"
+  web: "https://www.bandsintown.com/e/108630341-mike-at-roxian-theatre-presented-by-citizens"
 ---

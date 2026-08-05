@@ -4,5 +4,5 @@ venue: "caaed687-4233-4451-8599-2a52d1fbd098"
 artists:
   - "575872f1-7ada-4288-b07c-33d909666908"
 tickets:
-  web: "https://www.bandsintown.com/e/1038161969-tom-meighan-at-enginerooms?came_from=209"
+  web: "https://www.bandsintown.com/e/1038161969-tom-meighan-at-enginerooms"
 ---

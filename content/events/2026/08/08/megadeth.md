@@ -4,5 +4,5 @@ venue: "c35b3b5d-9385-4052-972c-de7536193089"
 artists:
   - "c09d0d5e-3918-4c11-ae2c-c026c07868bb"
 tickets:
-  web: "https://www.bandsintown.com/e/1037482862-megadeth-at-sturgis-buffalo-chip?came_from=209"
+  web: "https://www.bandsintown.com/e/1037482862-megadeth-at-sturgis-buffalo-chip"
 ---

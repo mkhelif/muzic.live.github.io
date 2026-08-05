@@ -4,5 +4,5 @@ venue: "9418ceb6-3315-4afb-be8c-0a8f8ee79a8e"
 artists:
   - "b4f26edc-a557-4dab-9a15-8a985f048db6"
 tickets:
-  web: "https://www.bandsintown.com/e/108685504-vincent-peirani-at-carrieres-des-lumieres?came_from=209"
+  web: "https://www.bandsintown.com/e/108685504-vincent-peirani-at-carrieres-des-lumieres"
 ---

@@ -4,5 +4,5 @@ venue: "4539ec0b-7720-4df6-b312-03b6d08a762c"
 artists:
   - "db7fad68-16fa-4057-879e-abd98c609420"
 tickets:
-  web: "https://www.bandsintown.com/e/1039133719-adela-at-bramham-park?came_from=209"
+  web: "https://www.bandsintown.com/e/1039133719-adela-at-bramham-park"
 ---

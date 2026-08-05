@@ -4,5 +4,5 @@ venue: "c58c9123-9181-45e0-b89a-e0c3e34f50f1"
 artists:
   - "7c9c8e8e-e3ea-489a-94da-2e776eb92bde"
 tickets:
-  web: "https://www.bandsintown.com/e/1038979915-sofy-at-think-tank?came_from=209"
+  web: "https://www.bandsintown.com/e/1038979915-sofy-at-think-tank"
 ---

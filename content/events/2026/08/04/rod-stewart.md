@@ -4,5 +4,5 @@ venue: "c5328ab8-4e5b-4a62-a74b-245a2b872648"
 artists:
   - "6b567649-4dd4-4232-bf20-b518164b3842"
 tickets:
-  web: "https://www.bandsintown.com/e/1037257217-rod-stewart-at-olg-stage-at-fallsview-casino?came_from=209"
+  web: "https://www.bandsintown.com/e/1037257217-rod-stewart-at-olg-stage-at-fallsview-casino"
 ---

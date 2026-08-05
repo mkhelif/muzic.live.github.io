@@ -4,5 +4,5 @@ venue: "8368030c-5bd3-4f1e-8d1a-7ffe4ccc505b"
 artists:
   - "33b54375-66f8-4da9-8341-09493e0890c7"
 tickets:
-  web: "https://www.bandsintown.com/e/108302542-sleater-kinney-at-franklin-music-hall?came_from=209"
+  web: "https://www.bandsintown.com/e/108302542-sleater-kinney-at-franklin-music-hall"
 ---

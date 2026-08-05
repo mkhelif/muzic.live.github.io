@@ -4,5 +4,5 @@ venue: "97e742b1-e982-485e-ae59-e3e0dca7d057"
 artists:
   - "d72306c4-faaf-484e-a73c-694b726710b1"
 tickets:
-  web: "https://www.bandsintown.com/e/108300876-thus-at-republica-da-musica?came_from=209"
+  web: "https://www.bandsintown.com/e/108300876-thus-at-republica-da-musica"
 ---

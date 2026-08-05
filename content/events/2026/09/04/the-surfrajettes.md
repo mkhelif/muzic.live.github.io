@@ -4,5 +4,5 @@ venue: "51a3a8aa-b543-42a6-9607-5a71af6a0356"
 artists:
   - "55770926-1c95-470c-b956-e8e822c6b3f9"
 tickets:
-  web: "https://www.bandsintown.com/e/108605284-the-surfrajettes-at-horseshoe-tavern?came_from=209"
+  web: "https://www.bandsintown.com/e/108605284-the-surfrajettes-at-horseshoe-tavern"
 ---

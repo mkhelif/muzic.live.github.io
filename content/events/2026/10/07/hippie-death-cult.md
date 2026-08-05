@@ -4,5 +4,5 @@ venue: "a15a7281-ca59-4f5b-843d-1094d8937f3d"
 artists:
   - "b3889eb6-fded-4801-af84-45f59cc291f6"
 tickets:
-  web: "https://www.bandsintown.com/e/108689661-hippie-death-cult-at-arci-trinita?came_from=209"
+  web: "https://www.bandsintown.com/e/108689661-hippie-death-cult-at-arci-trinita"
 ---

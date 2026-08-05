@@ -1,0 +1,6 @@
+---
+date: 2026-05-29T00:00:00
+venue: "4e0dbfd7-6e91-4b28-b25d-e066b8bd9743"
+artists:
+  - "041a8e5f-210f-4e77-84b9-a1ffd12dc0bd"
+---

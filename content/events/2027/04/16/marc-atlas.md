@@ -4,5 +4,5 @@ venue: "c3ecc510-32cb-46dc-bfe2-5cd62ab31594"
 artists:
   - "5132e8c1-2a28-488c-bae7-6804213eccd5"
 tickets:
-  web: "https://www.bandsintown.com/e/1038861966-marc-atlas-at-mikropol?came_from=209"
+  web: "https://www.bandsintown.com/e/1038861966-marc-atlas-at-mikropol"
 ---

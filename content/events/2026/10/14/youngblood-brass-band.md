@@ -4,5 +4,5 @@ venue: "b68586db-6054-424a-b6b5-8594a2ec0d38"
 artists:
   - "a69e4b00-845c-447c-bff2-1738e84311a3"
 tickets:
-  web: "https://www.bandsintown.com/e/1039060764-youngblood-brass-band-at-le-mem?came_from=209"
+  web: "https://www.bandsintown.com/e/1039060764-youngblood-brass-band-at-le-mem"
 ---

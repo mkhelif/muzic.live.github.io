@@ -4,5 +4,5 @@ venue: "aa1f5adf-98fb-46bb-80a3-2aa526502fae"
 artists:
   - "47e5e5d3-fdd5-4be0-8f9f-3f04d0fed03e"
 tickets:
-  web: "https://www.bandsintown.com/e/1037361275-everette-harp-at-vince-j.-whibbs-sr.-community-maritime-park?came_from=209"
+  web: "https://www.bandsintown.com/e/1037361275-everette-harp-at-vince-j.-whibbs-sr.-community-maritime-park"
 ---

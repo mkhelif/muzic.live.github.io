@@ -4,5 +4,5 @@ venue: "193243c6-bd37-468d-909c-27e9bb2814c2"
 artists:
   - "07de8796-2325-461c-99a9-69cfe5eca1d7"
 tickets:
-  web: "https://www.bandsintown.com/e/1038490851-nous-etions-une-armee-at-le-makeda?came_from=209"
+  web: "https://www.bandsintown.com/e/1038490851-nous-etions-une-armee-at-le-makeda"
 ---

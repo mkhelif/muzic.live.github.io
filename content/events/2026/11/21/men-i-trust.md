@@ -4,5 +4,5 @@ venue: "b2d3a483-68aa-4e48-bd06-d40a5545d1df"
 artists:
   - "dcb92254-f1de-490b-801c-0e87e3dd814f"
 tickets:
-  web: "https://www.bandsintown.com/e/108029308-men-i-trust-at-enmore-theatre?came_from=209"
+  web: "https://www.bandsintown.com/e/108029308-men-i-trust-at-enmore-theatre"
 ---

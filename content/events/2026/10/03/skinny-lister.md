@@ -4,5 +4,5 @@ venue: "d920688d-3ea2-4367-9409-3ddec04a55ea"
 artists:
   - "afef4ff7-57b9-4bc4-8277-ec1ed90efd97"
 tickets:
-  web: "https://www.bandsintown.com/e/107870968-skinny-lister-at-village-hall-wroot?came_from=209"
+  web: "https://www.bandsintown.com/e/107870968-skinny-lister-at-village-hall-wroot"
 ---

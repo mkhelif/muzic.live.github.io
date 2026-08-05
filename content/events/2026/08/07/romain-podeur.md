@@ -4,5 +4,5 @@ venue: "1c219ef3-4606-4221-9a43-b5ffc2fb8f31"
 artists:
   - "b4223fc1-73ed-4f54-963c-7dd2e4dc45fe"
 tickets:
-  web: "https://www.bandsintown.com/e/108645034-romain-podeur-at-la-suite-restaurant-perros-guirec?came_from=209"
+  web: "https://www.bandsintown.com/e/108645034-romain-podeur-at-la-suite-restaurant-perros-guirec"
 ---

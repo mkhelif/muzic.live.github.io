@@ -4,5 +4,5 @@ venue: "2a9791da-a889-407b-9eb3-c4b1634a389b"
 artists:
   - "1247adb2-ca44-45ac-b42c-b6f1b23b1591"
 tickets:
-  web: "https://www.bandsintown.com/e/1039370972-ugly-kid-joe-at-stereolux?came_from=209"
+  web: "https://www.bandsintown.com/e/1039370972-ugly-kid-joe-at-stereolux"
 ---

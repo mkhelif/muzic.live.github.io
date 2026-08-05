@@ -4,5 +4,5 @@ venue: "e4281b21-9927-40d7-a705-b162af2b98e5"
 artists:
   - "ff2bb283-50f1-4e95-9df4-34753e3d647c"
 tickets:
-  web: "https://www.bandsintown.com/e/1038122456-anstandslos-and-durchgeknallt-at-eventhalle-strohofer-geiselwind?came_from=209"
+  web: "https://www.bandsintown.com/e/1038122456-anstandslos-and-durchgeknallt-at-eventhalle-strohofer-geiselwind"
 ---

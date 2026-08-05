@@ -4,5 +4,5 @@ venue: "bf62d639-d3f1-4b37-a4ee-0713a004b529"
 artists:
   - "d72adaa5-3188-44f1-976d-259d4ad82680"
 tickets:
-  web: "https://www.bandsintown.com/e/1038274732-muna-at-pioneer-courthouse-square?came_from=209"
+  web: "https://www.bandsintown.com/e/1038274732-muna-at-pioneer-courthouse-square"
 ---

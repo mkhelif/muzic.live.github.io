@@ -1,0 +1,8 @@
+---
+date: 2026-11-02T20:00:00
+venue: "d029041c-b7f8-42cc-aaea-96c51e443c71"
+artists:
+  - "61420d85-efd9-4e6d-b94e-ef0bd55c2ceb"
+tickets:
+  web: "https://www.bandsintown.com/e/108311751"
+---

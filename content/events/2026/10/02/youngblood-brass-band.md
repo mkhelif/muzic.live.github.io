@@ -4,5 +4,5 @@ venue: "2b0d49bf-bfc3-4755-96bb-d34e280b5bc5"
 artists:
   - "a69e4b00-845c-447c-bff2-1738e84311a3"
 tickets:
-  web: "https://www.bandsintown.com/e/108680477-youngblood-brass-band-at-swt-kulturwerk?came_from=209"
+  web: "https://www.bandsintown.com/e/108680477-youngblood-brass-band-at-swt-kulturwerk"
 ---

@@ -4,5 +4,5 @@ venue: "5e9c58f1-597d-4cc9-8c22-6d4975c66374"
 artists:
   - "db7fad68-16fa-4057-879e-abd98c609420"
 tickets:
-  web: "https://www.bandsintown.com/e/1039133894-adela-at-the-depot?came_from=209"
+  web: "https://www.bandsintown.com/e/1039133894-adela-at-the-depot"
 ---

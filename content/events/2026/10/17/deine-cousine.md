@@ -4,5 +4,5 @@ venue: "2d5c5690-4fad-4b92-984a-9e0c20d0d17b"
 artists:
   - "848295fa-174e-486d-aacc-7b1049ffe580"
 tickets:
-  web: "https://www.bandsintown.com/e/1037985847-deine-cousine-at-stadthalle-offenbach?came_from=209"
+  web: "https://www.bandsintown.com/e/1037985847-deine-cousine-at-stadthalle-offenbach"
 ---

@@ -2,6 +2,7 @@
 id: "166ec4a1-f49c-4e2e-978b-5eb321307a2b"
 title: "Clique"
 socials:
+  musicbrainz: "872065cb-9c77-422e-ab93-38eac04905d9"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,16 +13,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1627598399"
+  deezer: "266564"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "2VsAskD8T8epxy1TuVAO0F"
+  tidal: "19153"
 todo:
   - Add picture
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   apple-lookup: 2026-08-04
   deezer-lookup: 2026-07-27

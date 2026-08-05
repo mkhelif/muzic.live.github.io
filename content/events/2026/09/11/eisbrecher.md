@@ -4,5 +4,5 @@ venue: "8160cbbd-ea9e-4dfa-99e9-9418af88f612"
 artists:
   - "bf5ce3b7-fadf-48d4-8374-69bd162d4923"
 tickets:
-  web: "https://www.bandsintown.com/e/1037855060-eisbrecher-at-garage-saarbrucken?came_from=209"
+  web: "https://www.bandsintown.com/e/1037855060-eisbrecher-at-garage-saarbrucken"
 ---

@@ -4,5 +4,5 @@ venue: "61253683-420f-4226-8b6b-7bd8209c9712"
 artists:
   - "65ce4614-8761-4e85-ad8c-0db499330f1c"
 tickets:
-  web: "https://www.bandsintown.com/e/1039176272-melrose-avenue-at-the-rave-eagles-club?came_from=209"
+  web: "https://www.bandsintown.com/e/1039176272-melrose-avenue-at-the-rave-eagles-club"
 ---

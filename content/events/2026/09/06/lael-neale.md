@@ -4,5 +4,5 @@ venue: "789c830f-0ac9-4261-8f42-f080385e910a"
 artists:
   - "ea407c16-d982-451f-9a79-4cc9c4df267d"
 tickets:
-  web: "https://www.bandsintown.com/e/1037773724-lael-neale-at-various-venues?came_from=209"
+  web: "https://www.bandsintown.com/e/1037773724-lael-neale-at-various-venues"
 ---

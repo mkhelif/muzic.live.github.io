@@ -4,5 +4,5 @@ venue: "d9141d0e-4365-4e05-979e-5909dc66e2a3"
 artists:
   - "037abaf9-7bc0-4c99-824e-3b98b361b4a7"
 tickets:
-  web: "https://www.bandsintown.com/e/108584453-fai-laci-at-cobra-lounge?came_from=209"
+  web: "https://www.bandsintown.com/e/108584453-fai-laci-at-cobra-lounge"
 ---

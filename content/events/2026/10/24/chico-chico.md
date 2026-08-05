@@ -4,5 +4,5 @@ venue: "bd0d42a1-7bde-4b2f-9d1b-df0576e05209"
 artists:
   - "d71485dc-b392-44ab-bf61-6839c251a079"
 tickets:
-  web: "https://www.bandsintown.com/e/108614728-chico-chico-at-piracicaba?came_from=209"
+  web: "https://www.bandsintown.com/e/108614728-chico-chico-at-piracicaba"
 ---

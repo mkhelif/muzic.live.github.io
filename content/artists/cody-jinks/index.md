@@ -3,6 +3,7 @@ id: "e86f8b7e-e00b-49dd-b693-7f78f0eca11e"
 title: "Cody Jinks"
 type: person
 socials:
+  musicbrainz: "39540957-25e5-42b7-b183-48c1a269908f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,14 +14,17 @@ socials:
   email: ""
   amazon: ""
   apple: "363412711"
-  deezer: ""
-  qobuz: ""
+  deezer: "7249394"
+  qobuz: "1000305"
   spotify: "2v7wIbCkIzxOfT3GnqCexD"
-  tidal: ""
+  tidal: "6364193"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1980-08-18
 ---
 
 Meredith Cody Jinks, né le 18 août 1980 à Haltom City, près de Fort Worth au Texas, est un chanteur et auteur de

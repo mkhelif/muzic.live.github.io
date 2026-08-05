@@ -4,5 +4,5 @@ venue: "ed2228a0-72b7-476b-8510-fc016660f919"
 artists:
   - "3012321a-9e84-41d8-a696-e1f0502ae043"
 tickets:
-  web: "https://www.bandsintown.com/e/1039720160-polaris-at-praha-ruzna-mista?came_from=209"
+  web: "https://www.bandsintown.com/e/1039720160-polaris-at-praha-ruzna-mista"
 ---

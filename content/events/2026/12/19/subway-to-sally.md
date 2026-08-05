@@ -4,5 +4,5 @@ venue: "98bf7b1e-e7cb-4edb-b6a3-1a80a75055c5"
 artists:
   - "92266357-dbed-4bf0-bad0-027f6ad49515"
 tickets:
-  web: "https://www.bandsintown.com/e/1037406686-subway-to-sally-at-buderus-arena-wetzlar?came_from=209"
+  web: "https://www.bandsintown.com/e/1037406686-subway-to-sally-at-buderus-arena-wetzlar"
 ---

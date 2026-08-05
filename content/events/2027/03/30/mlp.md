@@ -4,5 +4,5 @@ venue: "c3d1ef0c-8650-4e3a-81d2-ae242429015a"
 artists:
   - "dcf27394-8a78-4444-95c5-ad2d250ba2af"
 tickets:
-  web: "https://www.bandsintown.com/e/1039405710-mlp-at-radiant-bellevue?came_from=209"
+  web: "https://www.bandsintown.com/e/1039405710-mlp-at-radiant-bellevue"
 ---

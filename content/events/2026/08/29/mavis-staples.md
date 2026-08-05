@@ -4,5 +4,5 @@ venue: "c2afefa2-0165-42b4-affb-2696c2778558"
 artists:
   - "160da6e1-ba4f-4a71-89aa-c4999254a366"
 tickets:
-  web: "https://www.bandsintown.com/e/1039390782-mavis-staples-at-libbey-bowl?came_from=209"
+  web: "https://www.bandsintown.com/e/1039390782-mavis-staples-at-libbey-bowl"
 ---

@@ -4,5 +4,5 @@ venue: "e3b8ca72-a62e-46a9-9b3d-29c06d8b8cf0"
 artists:
   - "65d9ebbc-ea9b-4470-84b9-526466b9624c"
 tickets:
-  web: "https://www.bandsintown.com/e/108308326-piche-at-central?came_from=209"
+  web: "https://www.bandsintown.com/e/108308326-piche-at-central"
 ---

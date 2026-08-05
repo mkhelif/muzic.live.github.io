@@ -4,5 +4,5 @@ venue: "81728e6e-4358-4f1a-8621-62d9aa4aa3ec"
 artists:
   - "7f447805-8b86-485a-96bc-f1bf38129039"
 tickets:
-  web: "https://www.bandsintown.com/e/1039697697-holder-at-idle-free?came_from=209"
+  web: "https://www.bandsintown.com/e/1039697697-holder-at-idle-free"
 ---

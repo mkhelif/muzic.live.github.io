@@ -4,5 +4,5 @@ venue: "b817b24e-e803-4a42-8560-267298c21ab2"
 artists:
   - "19f38e9a-de56-444f-b129-23775c0e4b44"
 tickets:
-  web: "https://www.bandsintown.com/e/108677747-buena-vista-all-stars-at-donald-gordon-theatre?came_from=209"
+  web: "https://www.bandsintown.com/e/108677747-buena-vista-all-stars-at-donald-gordon-theatre"
 ---

@@ -4,5 +4,5 @@ venue: "04dbb078-c2b4-409e-a54e-fcb979399fc5"
 artists:
   - "d18458b1-844b-478e-9a09-a21158121654"
 tickets:
-  web: "https://www.bandsintown.com/e/107812482-axelle-red-at-de-roma?came_from=209"
+  web: "https://www.bandsintown.com/e/107812482-axelle-red-at-de-roma"
 ---

@@ -3,6 +3,7 @@ id: "13a78327-5cf9-435d-9c36-b78fcc3fc40c"
 title: "Clément Fonio"
 type: person
 socials:
+  musicbrainz: "046636bc-99f4-4210-9383-94164d0e2661"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   deezer-lookup: 2026-07-27
   bandsintown-lookup: 2026-07-25

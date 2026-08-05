@@ -4,5 +4,5 @@ venue: "1c264239-df6a-4795-9227-a5027e76f031"
 artists:
   - "4f832fa9-f48f-4286-8c58-53f7df372fee"
 tickets:
-  web: "https://www.bandsintown.com/e/108405417-backstreet-girls-at-parkbiografen?came_from=209"
+  web: "https://www.bandsintown.com/e/108405417-backstreet-girls-at-parkbiografen"
 ---

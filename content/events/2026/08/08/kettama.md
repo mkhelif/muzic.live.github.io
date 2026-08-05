@@ -4,5 +4,5 @@ venue: "2d0e1971-730a-4a4f-8358-f463f46890f1"
 artists:
   - "975b9ba2-dcb3-4705-bdef-3922f63c12fd"
 tickets:
-  web: "https://www.bandsintown.com/e/1039576470-kettama-at-liv-nightclub?came_from=209"
+  web: "https://www.bandsintown.com/e/1039576470-kettama-at-liv-nightclub"
 ---

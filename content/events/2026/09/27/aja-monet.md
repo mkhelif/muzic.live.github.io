@@ -4,5 +4,5 @@ venue: "57ed9977-7338-48cc-b1b3-d2bc037e0163"
 artists:
   - "09ed7332-1f37-47ec-a04c-d8840bab3d3d"
 tickets:
-  web: "https://www.bandsintown.com/e/108248999-aja-monet-at-monterey-fairgrounds?came_from=209"
+  web: "https://www.bandsintown.com/e/108248999-aja-monet-at-monterey-fairgrounds"
 ---

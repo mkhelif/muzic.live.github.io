@@ -4,5 +4,5 @@ venue: "d2b33a42-22d2-4aff-b509-8109ab141d26"
 artists:
   - "823d55ac-8dee-46d9-8e17-492975cd45ba"
 tickets:
-  web: "https://www.bandsintown.com/e/1038731090-warren-wolf-at-cityfest-inc.-mayor's-office-of-cultural-affairs?came_from=209"
+  web: "https://www.bandsintown.com/e/1038731090-warren-wolf-at-cityfest-inc.-mayor's-office-of-cultural-affairs"
 ---

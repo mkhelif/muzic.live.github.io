@@ -4,5 +4,5 @@ venue: "f46da38e-89c6-4c0b-b62d-75f48f5905e1"
 artists:
   - "f28ba661-b321-4099-9b3c-d3dbff36b273"
 tickets:
-  web: "https://www.bandsintown.com/e/108684330-sam-divine-at-drumsheds?came_from=209"
+  web: "https://www.bandsintown.com/e/108684330-sam-divine-at-drumsheds"
 ---

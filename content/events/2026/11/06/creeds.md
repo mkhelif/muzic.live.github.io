@@ -4,5 +4,5 @@ venue: "b4a86f2f-9158-48cc-b926-ad478792f778"
 artists:
   - "8c970892-a910-4c84-87bb-b6f31f498a9b"
 tickets:
-  web: "https://www.bandsintown.com/e/1039157833-creeds-at-parc-expo-rennes?came_from=209"
+  web: "https://www.bandsintown.com/e/1039157833-creeds-at-parc-expo-rennes"
 ---

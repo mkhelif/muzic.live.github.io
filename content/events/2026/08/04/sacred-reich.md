@@ -4,5 +4,5 @@ venue: "d1d66bfd-0a55-4d69-966d-56b69a2780aa"
 artists:
   - "71438e37-e4b3-4fb7-a12a-5076e0ac2bee"
 tickets:
-  web: "https://www.bandsintown.com/e/1038255962-sacred-reich-at-tivolivredenburg?came_from=209"
+  web: "https://www.bandsintown.com/e/1038255962-sacred-reich-at-tivolivredenburg"
 ---

@@ -4,5 +4,5 @@ venue: "6fb6e0de-8f56-42d0-a3ec-92e6866cc8ec"
 artists:
   - "c858b2ec-3d8a-414d-ae87-07e385eb832c"
 tickets:
-  web: "https://www.bandsintown.com/e/1039610446-rauhbein-at-burgerhaus?came_from=209"
+  web: "https://www.bandsintown.com/e/1039610446-rauhbein-at-burgerhaus"
 ---

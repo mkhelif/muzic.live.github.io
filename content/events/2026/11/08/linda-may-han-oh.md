@@ -4,5 +4,5 @@ venue: "9e261a51-6c78-45b0-8124-08920f024259"
 artists:
   - "fccb1f3a-b123-4dc7-b276-07d6cceacb0a"
 tickets:
-  web: "https://www.bandsintown.com/e/1039666515-linda-may-han-oh-at-elbphilharmonie-hamburg?came_from=209"
+  web: "https://www.bandsintown.com/e/1039666515-linda-may-han-oh-at-elbphilharmonie-hamburg"
 ---

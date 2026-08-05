@@ -4,5 +4,5 @@ venue: "9c8eaf49-45d8-459f-9b35-2028166696d6"
 artists:
   - "1e2a0c17-cf60-4ecc-afbd-42c3b5afb2b9"
 tickets:
-  web: "https://www.bandsintown.com/e/108337513-arcy-drive-at-zilker-park?came_from=209"
+  web: "https://www.bandsintown.com/e/108337513-arcy-drive-at-zilker-park"
 ---

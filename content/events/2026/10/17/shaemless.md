@@ -4,5 +4,5 @@ venue: "103bb482-702b-412d-83cc-21f2f226b957"
 artists:
   - "fe455e56-1184-432e-ae50-3cd3b59f92d5"
 tickets:
-  web: "https://www.bandsintown.com/e/1039174618-shaemless-at-prince-albert?came_from=209"
+  web: "https://www.bandsintown.com/e/1039174618-shaemless-at-prince-albert"
 ---

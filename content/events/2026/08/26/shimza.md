@@ -4,5 +4,5 @@ venue: "d5d9acef-bfd9-4f46-94c4-0861721a0e9a"
 artists:
   - "555db18e-9795-4396-9408-4cb289e54114"
 tickets:
-  web: "https://www.bandsintown.com/e/1039564079-shimza-at-club-chinois?came_from=209"
+  web: "https://www.bandsintown.com/e/1039564079-shimza-at-club-chinois"
 ---

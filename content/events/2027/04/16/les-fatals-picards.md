@@ -4,5 +4,5 @@ venue: "35880777-ecf2-42ea-8c54-e299e26eb4a6"
 artists:
   - "919b555e-dfff-45c0-9407-0e104c0175cf"
 tickets:
-  web: "https://www.bandsintown.com/e/1037674930-les-fatals-picards-at-la-cooperative-de-mai?came_from=209"
+  web: "https://www.bandsintown.com/e/1037674930-les-fatals-picards-at-la-cooperative-de-mai"
 ---

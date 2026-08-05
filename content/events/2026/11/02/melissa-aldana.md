@@ -4,5 +4,5 @@ venue: "28d2b0b7-3849-4863-ac87-b5c057290d54"
 artists:
   - "f69e6931-0b25-4c9c-a68a-1518c60790e4"
 tickets:
-  web: "https://www.bandsintown.com/e/108691818-melissa-aldana-at-cankarjev-dom?came_from=209"
+  web: "https://www.bandsintown.com/e/108691818-melissa-aldana-at-cankarjev-dom"
 ---

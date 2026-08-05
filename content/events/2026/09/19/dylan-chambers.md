@@ -4,5 +4,5 @@ venue: "6562b5c5-8498-46ac-8234-14cb30049197"
 artists:
   - "7527a5c9-ae39-4aa1-b746-be25c7b9575f"
 tickets:
-  web: "https://www.bandsintown.com/e/108253348-dylan-chambers-at-castoro-cellars-vineyards-and-winery?came_from=209"
+  web: "https://www.bandsintown.com/e/108253348-dylan-chambers-at-castoro-cellars-vineyards-and-winery"
 ---

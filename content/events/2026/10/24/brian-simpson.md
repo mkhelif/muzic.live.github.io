@@ -4,5 +4,5 @@ venue: "f40c2de5-9dc0-4aff-8d60-3cc5dc1981fc"
 artists:
   - "54e8255d-802f-487d-beb6-341512e94891"
 tickets:
-  web: "https://www.bandsintown.com/e/1039748894-brian-simpson-at-iridium?came_from=209"
+  web: "https://www.bandsintown.com/e/1039748894-brian-simpson-at-iridium"
 ---

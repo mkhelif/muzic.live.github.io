@@ -4,5 +4,5 @@ venue: "e21776b8-ab7d-4514-a3a9-d943bff952a9"
 artists:
   - "9ced1172-76fa-41f7-bdef-71a32452cb2f"
 tickets:
-  web: "https://www.bandsintown.com/e/1036390227-annie-bosko-at-the-colosseum-theater-at-caesars-palace?came_from=209"
+  web: "https://www.bandsintown.com/e/1036390227-annie-bosko-at-the-colosseum-theater-at-caesars-palace"
 ---

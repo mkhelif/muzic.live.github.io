@@ -4,5 +4,5 @@ venue: "9f6881d5-5dbc-4b06-af5a-cfe75d811bf5"
 artists:
   - "843122f1-40a4-4e9c-85da-16ee1c8f3f1d"
 tickets:
-  web: "https://www.bandsintown.com/e/1039452025-the-velveteers-at-beachland-ballroom-and-tavern?came_from=209"
+  web: "https://www.bandsintown.com/e/1039452025-the-velveteers-at-beachland-ballroom-and-tavern"
 ---

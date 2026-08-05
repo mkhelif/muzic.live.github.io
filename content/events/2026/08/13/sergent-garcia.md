@@ -4,5 +4,5 @@ venue: "8e0f630a-7d81-4112-8b24-98af8390953e"
 artists:
   - "08987023-cbee-4238-a3c1-38937775d332"
 tickets:
-  web: "https://www.bandsintown.com/e/108571369-sergent-garcia-at-mairie?came_from=209"
+  web: "https://www.bandsintown.com/e/108571369-sergent-garcia-at-mairie"
 ---

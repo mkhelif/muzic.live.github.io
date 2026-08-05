@@ -4,5 +4,5 @@ venue: "dad27327-97be-43be-aca4-0d2e55b308f1"
 artists:
   - "30ed24b6-c12d-4af1-ba38-f3b406582add"
 tickets:
-  web: "https://www.bandsintown.com/e/108510105-hypocrisy-at-the-waiting-room-lounge?came_from=209"
+  web: "https://www.bandsintown.com/e/108510105-hypocrisy-at-the-waiting-room-lounge"
 ---

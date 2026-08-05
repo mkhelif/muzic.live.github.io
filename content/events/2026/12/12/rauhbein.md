@@ -4,5 +4,5 @@ venue: "7f07839a-10ba-4e61-854f-df0ac4c33d80"
 artists:
   - "c858b2ec-3d8a-414d-ae87-07e385eb832c"
 tickets:
-  web: "https://www.bandsintown.com/e/1038651017-rauhbein-at-lido?came_from=209"
+  web: "https://www.bandsintown.com/e/1038651017-rauhbein-at-lido"
 ---

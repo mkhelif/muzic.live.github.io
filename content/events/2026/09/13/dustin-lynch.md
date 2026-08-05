@@ -4,5 +4,5 @@ venue: "b4069384-492e-4517-9f2c-ee3961982ce7"
 artists:
   - "220b0d1f-b525-429b-9476-b436a605a12d"
 tickets:
-  web: "https://www.bandsintown.com/e/108280569-dustin-lynch-at-harlingen-soccer-complex?came_from=209"
+  web: "https://www.bandsintown.com/e/108280569-dustin-lynch-at-harlingen-soccer-complex"
 ---

@@ -4,5 +4,5 @@ venue: "a44afd86-13d5-44bd-b79f-cbf50cc1bbfe"
 artists:
   - "6cb50f4c-2cbc-4912-ad7f-e83834ae129f"
 tickets:
-  web: "https://www.bandsintown.com/e/1038129010-soulfly-at-kentucky-state-fair?came_from=209"
+  web: "https://www.bandsintown.com/e/1038129010-soulfly-at-kentucky-state-fair"
 ---

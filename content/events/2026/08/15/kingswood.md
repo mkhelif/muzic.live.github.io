@@ -4,5 +4,5 @@ venue: "dea987e1-cfd8-4cf4-866c-a62ebd698378"
 artists:
   - "c9afa15e-138d-4fd3-8e1a-8c96756c09f5"
 tickets:
-  web: "https://www.bandsintown.com/e/1039651982-kingswood-at-palais?came_from=209"
+  web: "https://www.bandsintown.com/e/1039651982-kingswood-at-palais"
 ---

@@ -4,5 +4,5 @@ venue: "bb141d3c-8a9d-41af-be55-4d0e4d6c6cc7"
 artists:
   - "6eb042b4-49b6-4fc5-95a0-2f23ee09e793"
 tickets:
-  web: "https://www.bandsintown.com/e/1037072777-fola-dada-at-landesmusikakademie-niedersachsen?came_from=209"
+  web: "https://www.bandsintown.com/e/1037072777-fola-dada-at-landesmusikakademie-niedersachsen"
 ---

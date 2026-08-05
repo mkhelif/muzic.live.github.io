@@ -4,5 +4,5 @@ venue: "0c06d7a2-6b3e-4813-87e0-4370be470554"
 artists:
   - "9d3ae107-ced8-466a-a2d4-6333707859dc"
 tickets:
-  web: "https://www.bandsintown.com/e/1039085372-sarah-julia-at-theatre-rialto?came_from=209"
+  web: "https://www.bandsintown.com/e/1039085372-sarah-julia-at-theatre-rialto"
 ---

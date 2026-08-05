@@ -4,5 +4,5 @@ venue: "37c3e7cc-72eb-48fd-a8b2-2e818a5c919c"
 artists:
   - "06810194-a5e3-408a-8e64-f138ce3bced8"
 tickets:
-  web: "https://www.bandsintown.com/e/108099696-rufus-wainwright-at-city-winery-philadelphia?came_from=209"
+  web: "https://www.bandsintown.com/e/108099696-rufus-wainwright-at-city-winery-philadelphia"
 ---

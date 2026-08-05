@@ -4,5 +4,5 @@ venue: "19efa0be-9075-4f0b-bddd-57baab2e6aaf"
 artists:
   - "aa209fb6-a2ad-4217-bcf8-e0488c5d16d2"
 tickets:
-  web: "https://www.bandsintown.com/e/1038941145-califone-at-the-fillmore-philadelphia?came_from=209"
+  web: "https://www.bandsintown.com/e/1038941145-califone-at-the-fillmore-philadelphia"
 ---

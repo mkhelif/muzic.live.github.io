@@ -4,5 +4,5 @@ venue: "debe885f-9a9f-4339-ad79-91b1bffda0d0"
 artists:
   - "b57d69de-9d41-4724-bc75-8d796ccb44dd"
 tickets:
-  web: "https://www.bandsintown.com/e/107992038-dying-wish-at-motorpoint-arena?came_from=209"
+  web: "https://www.bandsintown.com/e/107992038-dying-wish-at-motorpoint-arena"
 ---

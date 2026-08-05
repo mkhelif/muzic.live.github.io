@@ -4,5 +4,5 @@ venue: "0af383d0-4968-49c8-ad1b-c70ad4062a2d"
 artists:
   - "f853198e-21bc-471e-924f-1abe87487db0"
 tickets:
-  web: "https://www.bandsintown.com/e/1039293274-1000-rabbits-at-diverse-locations?came_from=209"
+  web: "https://www.bandsintown.com/e/1039293274-1000-rabbits-at-diverse-locations"
 ---

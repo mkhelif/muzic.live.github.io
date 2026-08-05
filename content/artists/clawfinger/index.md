@@ -2,7 +2,54 @@
 id: "13236954-f328-4fda-b170-b95eb32fbcc9"
 title: "Clawfinger"
 type: band
+members:
+  - id: "f5035714-f635-4a15-ae50-854eae18a1c5"
+    roles:
+      - other
+    periods:
+      - start: 1989
+  - id: "9290154d-a69f-46c6-b206-fbaa4ab6cce5"
+    roles:
+      - other
+    periods:
+      - start: 1989
+  - id: "1e88685a-386f-493f-a654-a95c0514516b"
+    roles:
+      - other
+    periods:
+      - start: 1990
+  - id: "dd3d5f7e-b5d4-46a7-997f-bd72f0703886"
+    roles:
+      - other
+    periods:
+      - start: 1990
+        end: 2003
+  - id: "4c015cb6-76a3-473a-84f9-d3a1c4d6b71e"
+    roles:
+      - other
+    periods:
+      - start: 1994
+        end: 1995
+  - id: "d077895c-3a2e-43b7-bea3-a2207f3b350d"
+    roles:
+      - other
+    periods:
+      - start: 1998
+        end: 1998
+  - id: "a0f3b8a6-597e-485d-9a10-825f2c79db3e"
+    roles:
+      - other
+  - id: "922b3793-cb5d-4822-89fe-4f92725a67a4"
+    roles:
+      - other
+  - id: "7f139996-60a6-4abc-a43b-522be60a38d0"
+    roles:
+      - other
+  - id: "266ad49e-5ee6-468e-b1ba-849c3a67b49b"
+    roles:
+      - other
 socials:
+  musicbrainz: "f16d25c6-556f-42f9-b648-5f48a8f96ec2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,8 +63,9 @@ socials:
   deezer: "2218"
   qobuz: ""
   spotify: "1xE3snzm12GBK259IqEFlY"
-  tidal: ""
+  tidal: "27499"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23

@@ -4,5 +4,5 @@ venue: "bd5b5b64-86cd-43e1-a24e-887fec046255"
 artists:
   - "b4f26edc-a557-4dab-9a15-8a985f048db6"
 tickets:
-  web: "https://www.bandsintown.com/e/108701358-vincent-peirani-at-jazz-club-grenoble?came_from=209"
+  web: "https://www.bandsintown.com/e/108701358-vincent-peirani-at-jazz-club-grenoble"
 ---

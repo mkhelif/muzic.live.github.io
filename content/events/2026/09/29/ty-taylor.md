@@ -4,5 +4,5 @@ venue: "609dbf85-6be0-4ec5-8c8c-daafa37ad375"
 artists:
   - "258a9018-ce3e-4fde-bd8f-11d5638cd57b"
 tickets:
-  web: "https://www.bandsintown.com/e/1039449489-ty-taylor-at-paramount-theatre?came_from=209"
+  web: "https://www.bandsintown.com/e/1039449489-ty-taylor-at-paramount-theatre"
 ---

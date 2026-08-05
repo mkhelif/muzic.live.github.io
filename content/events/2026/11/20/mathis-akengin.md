@@ -4,5 +4,5 @@ venue: "63556e07-a248-426a-ba47-acd57d96b927"
 artists:
   - "6f2238dc-1916-45ec-9a11-b69677090794"
 tickets:
-  web: "https://www.bandsintown.com/e/108430807-mathis-akengin-at-la-cigale?came_from=209"
+  web: "https://www.bandsintown.com/e/108430807-mathis-akengin-at-la-cigale"
 ---

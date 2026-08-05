@@ -4,5 +4,5 @@ venue: "681f4a7c-3277-45c9-ad51-8cec23a3e9a9"
 artists:
   - "cdcab8b6-b5cc-405a-b462-cd65d33ce419"
 tickets:
-  web: "https://www.bandsintown.com/e/1039591075-dmize-at-gold-sounds?came_from=209"
+  web: "https://www.bandsintown.com/e/1039591075-dmize-at-gold-sounds"
 ---

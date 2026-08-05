@@ -4,5 +4,5 @@ venue: "fd0e9b1f-1676-4754-b870-4d824dd86194"
 artists:
   - "c21e59b6-df90-4ccf-aa4c-f04464996ae1"
 tickets:
-  web: "https://www.bandsintown.com/e/108529053-all-4-one-at-river-cree-entertainment-centre?came_from=209"
+  web: "https://www.bandsintown.com/e/108529053-all-4-one-at-river-cree-entertainment-centre"
 ---

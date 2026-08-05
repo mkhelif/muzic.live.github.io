@@ -4,5 +4,5 @@ venue: "80585945-9899-423b-9401-e1b7db8950ee"
 artists:
   - "4470992f-97f9-4fa7-bd17-cb8f4df2d1eb"
 tickets:
-  web: "https://www.bandsintown.com/e/108630327-mike-at-the-complex?came_from=209"
+  web: "https://www.bandsintown.com/e/108630327-mike-at-the-complex"
 ---

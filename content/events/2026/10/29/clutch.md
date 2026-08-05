@@ -4,5 +4,5 @@ venue: "5f377685-d707-4371-a85a-2e1fbf6c1b19"
 artists:
   - "0363b2e0-0ca6-40bd-a751-ac16857e0b89"
 tickets:
-  web: "https://www.bandsintown.com/e/108366232-clutch-at-epic-event-center?came_from=209"
+  web: "https://www.bandsintown.com/e/108366232-clutch-at-epic-event-center"
 ---

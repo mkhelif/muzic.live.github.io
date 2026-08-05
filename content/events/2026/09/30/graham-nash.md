@@ -4,5 +4,5 @@ venue: "56277016-47ec-4e11-9f1d-d56a17b0011a"
 artists:
   - "d5f1fe16-f081-4140-b6e0-07d19c1304cb"
 tickets:
-  web: "https://www.bandsintown.com/e/108332626-graham-nash-at-warner-theatre?came_from=209"
+  web: "https://www.bandsintown.com/e/108332626-graham-nash-at-warner-theatre"
 ---

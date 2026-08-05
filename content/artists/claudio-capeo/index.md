@@ -3,6 +3,7 @@ id: "6aef574f-275d-4256-9187-30af133aff76"
 title: "Claudio Capéo"
 type: person
 socials:
+  musicbrainz: "6da9d04a-1163-4826-a843-a2ccc6d52c3e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,11 +17,14 @@ socials:
   deezer: "378751"
   qobuz: ""
   spotify: "5KBbs98MK59UNMF1VTwMmz"
-  tidal: ""
+  tidal: "5707852"
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1985-01-10
 ---
 
 Claudio Ruccolo, dit Claudio Capéo, est né le 10 janvier 1985 à Cernay, en Alsace, d'une famille d'origine

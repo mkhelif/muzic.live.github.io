@@ -4,5 +4,5 @@ venue: "45046c1c-c094-475b-9d9b-ef9ba38e42a4"
 artists:
   - "f76626a9-41d8-4ed6-aced-3c0abb658f9c"
 tickets:
-  web: "https://www.bandsintown.com/e/1039326660-zazie-at-bocapole-espace-europe?came_from=209"
+  web: "https://www.bandsintown.com/e/1039326660-zazie-at-bocapole-espace-europe"
 ---

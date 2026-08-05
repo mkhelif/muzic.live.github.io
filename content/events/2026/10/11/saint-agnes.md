@@ -4,5 +4,5 @@ venue: "7ecb968d-4756-420b-9ca8-bafa21af8bd6"
 artists:
   - "0e369d7d-809c-47ad-af31-a3daa3ac8881"
 tickets:
-  web: "https://www.bandsintown.com/e/1039579316-saint-agnes-at-house-of-blues-san-diego?came_from=209"
+  web: "https://www.bandsintown.com/e/1039579316-saint-agnes-at-house-of-blues-san-diego"
 ---

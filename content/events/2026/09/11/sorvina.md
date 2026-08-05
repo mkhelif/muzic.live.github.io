@@ -4,5 +4,5 @@ venue: "70b14745-d657-421f-90fa-b826cc7bbb61"
 artists:
   - "b60e629a-4d86-41f1-a6ad-5c0bacca9bc7"
 tickets:
-  web: "https://www.bandsintown.com/e/108672759-sorvina-at-choreographic-centre-national?came_from=209"
+  web: "https://www.bandsintown.com/e/108672759-sorvina-at-choreographic-centre-national"
 ---

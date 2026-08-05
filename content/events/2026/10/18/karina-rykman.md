@@ -4,5 +4,5 @@ venue: "e296e314-6b98-4910-8586-e7b87adcaa9e"
 artists:
   - "e5d75f9a-71fb-4486-aeab-0a82b57dd055"
 tickets:
-  web: "https://www.bandsintown.com/e/108567036-karina-rykman-at-white-oak-music-hall?came_from=209"
+  web: "https://www.bandsintown.com/e/108567036-karina-rykman-at-white-oak-music-hall"
 ---

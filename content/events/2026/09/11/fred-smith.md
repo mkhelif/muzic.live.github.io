@@ -4,5 +4,5 @@ venue: "f8003a95-c52c-4c06-b828-0e2559833024"
 artists:
   - "89f717e8-f480-40cb-9360-dcacd94b6b10"
 tickets:
-  web: "https://www.bandsintown.com/e/108618149-fred-smith-at-herbert-hotel?came_from=209"
+  web: "https://www.bandsintown.com/e/108618149-fred-smith-at-herbert-hotel"
 ---

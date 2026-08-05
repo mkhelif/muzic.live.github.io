@@ -4,5 +4,5 @@ venue: "ae38a768-9fcb-49a1-aa92-aa406ae23652"
 artists:
   - "505d1b05-b13c-4b8d-8eae-ddab571d45a7"
 tickets:
-  web: "https://www.bandsintown.com/e/108525670-girl-in-a-coma-at-mkeultra?came_from=209"
+  web: "https://www.bandsintown.com/e/108525670-girl-in-a-coma-at-mkeultra"
 ---

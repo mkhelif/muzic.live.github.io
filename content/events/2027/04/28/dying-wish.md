@@ -4,5 +4,5 @@ venue: "651ea393-8071-4403-a205-81b18cd85d65"
 artists:
   - "b57d69de-9d41-4724-bc75-8d796ccb44dd"
 tickets:
-  web: "https://www.bandsintown.com/e/108220106-dying-wish-at-a-day-to-remember's-big-ole-boat-show?came_from=209"
+  web: "https://www.bandsintown.com/e/108220106-dying-wish-at-a-day-to-remember's-big-ole-boat-show"
 ---

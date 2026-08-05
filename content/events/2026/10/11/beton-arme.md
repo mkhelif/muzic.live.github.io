@@ -4,5 +4,5 @@ venue: "1ab795dd-d6c3-484b-a2a8-4714a0464326"
 artists:
   - "f2d8ac69-1188-4697-9f06-6ea17a8b5312"
 tickets:
-  web: "https://www.bandsintown.com/e/108708262-beton-arme-at-west-edge?came_from=209"
+  web: "https://www.bandsintown.com/e/108708262-beton-arme-at-west-edge"
 ---

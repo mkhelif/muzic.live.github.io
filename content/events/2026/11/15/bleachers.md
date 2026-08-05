@@ -4,5 +4,5 @@ venue: "1d277c61-20e7-40cd-94de-27debac61aa9"
 artists:
   - "7ad7a2b0-f6d9-4674-aea8-712a5c0e1b47"
 tickets:
-  web: "https://www.bandsintown.com/e/1038625755-bleachers-at-sporthalle-hamburg?came_from=209"
+  web: "https://www.bandsintown.com/e/1038625755-bleachers-at-sporthalle-hamburg"
 ---

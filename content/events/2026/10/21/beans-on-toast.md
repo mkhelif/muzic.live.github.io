@@ -4,5 +4,5 @@ venue: "c41826aa-b83f-49e4-b4f0-56f27c56bdaf"
 artists:
   - "d55d5547-62c1-459c-ac0b-c66917817ddc"
 tickets:
-  web: "https://www.bandsintown.com/e/108480245-beans-on-toast-at-jammin-java?came_from=209"
+  web: "https://www.bandsintown.com/e/108480245-beans-on-toast-at-jammin-java"
 ---

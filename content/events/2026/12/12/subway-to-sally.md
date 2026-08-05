@@ -4,5 +4,5 @@ venue: "9cb5f306-18f8-4b5e-8edd-27bbcd5ee32f"
 artists:
   - "92266357-dbed-4bf0-bad0-027f6ad49515"
 tickets:
-  web: "https://www.bandsintown.com/e/1037406848-subway-to-sally-at-im-wizemann-(halle)?came_from=209"
+  web: "https://www.bandsintown.com/e/1037406848-subway-to-sally-at-im-wizemann-(halle)"
 ---

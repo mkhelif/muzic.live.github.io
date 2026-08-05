@@ -2,6 +2,7 @@
 id: "397a03ae-9417-4d77-bd07-7ca00f3d2a23"
 title: "COCON JAVEL"
 socials:
+  musicbrainz: "1a739e2f-cc93-462f-8a29-bcf648dd33b4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   bandsintown: 2026-08-05
   deezer: 2026-08-04
 ---

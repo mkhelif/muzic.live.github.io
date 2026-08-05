@@ -4,5 +4,5 @@ venue: "8e17cca9-9fad-4b97-9891-a4422c1241ab"
 artists:
   - "f28ba661-b321-4099-9b3c-d3dbff36b273"
 tickets:
-  web: "https://www.bandsintown.com/e/108684277-sam-divine-at-karma-beach-club?came_from=209"
+  web: "https://www.bandsintown.com/e/108684277-sam-divine-at-karma-beach-club"
 ---

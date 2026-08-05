@@ -4,5 +4,5 @@ venue: "7697c83a-5482-46d7-a326-ea94e2467945"
 artists:
   - "8ed512f9-7892-4d1f-9d95-41c8782daf0b"
 tickets:
-  web: "https://www.bandsintown.com/e/1039730522-lessss-at-palexpo?came_from=209"
+  web: "https://www.bandsintown.com/e/1039730522-lessss-at-palexpo"
 ---

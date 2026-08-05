@@ -4,5 +4,5 @@ venue: "67c9cc9c-fe5a-4625-a3ec-2c97a70239f2"
 artists:
   - "52a656bf-e796-4bed-a1ba-636e45469b73"
 tickets:
-  web: "https://www.bandsintown.com/e/1037221794-tryo-at-elispace?came_from=209"
+  web: "https://www.bandsintown.com/e/1037221794-tryo-at-elispace"
 ---

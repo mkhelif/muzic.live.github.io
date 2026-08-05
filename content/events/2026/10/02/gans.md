@@ -4,5 +4,5 @@ venue: "4cf7b3cc-b785-4ac7-8fb5-d8b11967e94c"
 artists:
   - "c23b5587-0e74-4c28-8ce4-1f3fc81bddb5"
 tickets:
-  web: "https://www.bandsintown.com/e/1039206735-gans-at-the-bunkhouse-bar-and-music-venue?came_from=209"
+  web: "https://www.bandsintown.com/e/1039206735-gans-at-the-bunkhouse-bar-and-music-venue"
 ---

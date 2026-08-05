@@ -4,5 +4,5 @@ venue: "b94256ec-ed66-4d1d-b630-e794f6902439"
 artists:
   - "15d4de42-d4c6-4222-aedd-dcd2c2494964"
 tickets:
-  web: "https://www.bandsintown.com/e/108580404-fernanda-martins-at-amfiteatr-pod-grojcem?came_from=209"
+  web: "https://www.bandsintown.com/e/108580404-fernanda-martins-at-amfiteatr-pod-grojcem"
 ---

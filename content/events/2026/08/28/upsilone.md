@@ -4,5 +4,5 @@ venue: "4d8be4b4-5369-43a5-adb5-91af7cbff384"
 artists:
   - "4986ba2c-8a43-44e0-bdb5-825c5adf11f6"
 tickets:
-  web: "https://www.bandsintown.com/e/108389703-upsilone-at-l'orangerie-de-la-baie?came_from=209"
+  web: "https://www.bandsintown.com/e/108389703-upsilone-at-l'orangerie-de-la-baie"
 ---

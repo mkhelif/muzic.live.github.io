@@ -4,5 +4,5 @@ venue: "01caad9e-0094-46d0-a6fb-309595c4da08"
 artists:
   - "a78737a8-b78c-4ef2-b3a4-39eaedddf0d4"
 tickets:
-  web: "https://www.bandsintown.com/e/1038693257-d-frek-at-lsr-festival?came_from=209"
+  web: "https://www.bandsintown.com/e/1038693257-d-frek-at-lsr-festival"
 ---

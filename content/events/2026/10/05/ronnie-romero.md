@@ -4,5 +4,5 @@ venue: "cd7d4d12-53c5-4cbd-9f09-74a8fdc9e899"
 artists:
   - "8a241946-1801-4555-8bb1-23bda8e46a1a"
 tickets:
-  web: "https://www.bandsintown.com/e/1038517169-ronnie-romero-at-spirit-of-66?came_from=209"
+  web: "https://www.bandsintown.com/e/1038517169-ronnie-romero-at-spirit-of-66"
 ---

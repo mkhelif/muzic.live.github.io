@@ -4,5 +4,5 @@ venue: "af7b4cc6-e17f-4184-a347-6c5814f38414"
 artists:
   - "397a03ae-9417-4d77-bd07-7ca00f3d2a23"
 tickets:
-  web: "https://www.bandsintown.com/e/1039407056-cocon-javel-at-case-a-chocs?came_from=209"
+  web: "https://www.bandsintown.com/e/1039407056-cocon-javel-at-case-a-chocs"
 ---

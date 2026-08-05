@@ -4,5 +4,5 @@ venue: "1a06998a-71bd-40a0-8e03-6c236228854b"
 artists:
   - "99453964-c0a5-431a-9bf9-c96e54954652"
 tickets:
-  web: "https://www.bandsintown.com/e/108079378-renan-luce-at-espace-culturel-barbara?came_from=209"
+  web: "https://www.bandsintown.com/e/108079378-renan-luce-at-espace-culturel-barbara"
 ---

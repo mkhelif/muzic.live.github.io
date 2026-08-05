@@ -4,5 +4,5 @@ venue: "3cf693f0-07c6-4f11-8571-0c0904ef6fc5"
 artists:
   - "a67ac70d-7fcc-4665-9cc6-b63faa8e286d"
 tickets:
-  web: "https://www.bandsintown.com/e/108668576-mentissa-at-le-safran?came_from=209"
+  web: "https://www.bandsintown.com/e/108668576-mentissa-at-le-safran"
 ---

@@ -4,5 +4,5 @@ venue: "f87021a4-fb42-4664-90c8-38c613ef29df"
 artists:
   - "59bf4a2d-5e56-4a06-a389-70b36948a1f6"
 tickets:
-  web: "https://www.bandsintown.com/e/108405619-dirty-sound-magnet-at-c3-rooftop?came_from=209"
+  web: "https://www.bandsintown.com/e/108405619-dirty-sound-magnet-at-c3-rooftop"
 ---

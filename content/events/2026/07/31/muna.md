@@ -4,5 +4,5 @@ venue: "33c2dc58-59af-4eab-8558-76b646bbdb42"
 artists:
   - "d72adaa5-3188-44f1-976d-259d4ad82680"
 tickets:
-  web: "https://www.bandsintown.com/e/107609324-muna-at-hinterland-music-festival?came_from=209"
+  web: "https://www.bandsintown.com/e/107609324-muna-at-hinterland-music-festival"
 ---

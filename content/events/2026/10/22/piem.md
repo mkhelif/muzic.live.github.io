@@ -4,5 +4,5 @@ venue: "673b717a-fb96-46a3-89d7-dca5695d0d75"
 artists:
   - "ab254ccc-ac0b-4992-9355-fb4e63aea737"
 tickets:
-  web: "https://www.bandsintown.com/e/1039385887-piem-at-supperclub-cruise?came_from=209"
+  web: "https://www.bandsintown.com/e/1039385887-piem-at-supperclub-cruise"
 ---

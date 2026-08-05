@@ -4,5 +4,5 @@ venue: "d10d7e60-c376-48f4-9d22-f1a434744ce7"
 artists:
   - "23e066bc-bee2-4d4d-8a44-406b93bfcc3c"
 tickets:
-  web: "https://www.bandsintown.com/e/108674282-mourir-at-cafe-wagner?came_from=209"
+  web: "https://www.bandsintown.com/e/108674282-mourir-at-cafe-wagner"
 ---

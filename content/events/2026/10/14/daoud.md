@@ -4,5 +4,5 @@ venue: "31ba7bf5-874f-47b3-aea5-0118431c1930"
 artists:
   - "0176d93d-8767-4244-96ba-d957271ec62b"
 tickets:
-  web: "https://www.bandsintown.com/e/108701190-daoud-at-kulturzentrum-pavillon?came_from=209"
+  web: "https://www.bandsintown.com/e/108701190-daoud-at-kulturzentrum-pavillon"
 ---

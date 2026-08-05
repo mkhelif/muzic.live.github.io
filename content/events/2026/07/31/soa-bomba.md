@@ -4,5 +4,5 @@ venue: "b7e44470-1604-4016-aab0-e8fbaff4f83a"
 artists:
   - "38c0fb7d-749f-422f-abe3-42524ac64020"
 tickets:
-  web: "https://www.bandsintown.com/e/108404520-soa-bomba-at-mescladis-festival?came_from=209"
+  web: "https://www.bandsintown.com/e/108404520-soa-bomba-at-mescladis-festival"
 ---

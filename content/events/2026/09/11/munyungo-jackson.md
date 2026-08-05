@@ -4,5 +4,5 @@ venue: "b6fbb729-9ffb-47de-9ddd-37cb382c5861"
 artists:
   - "2795e452-615c-4763-886a-09b678b01d39"
 tickets:
-  web: "https://www.bandsintown.com/e/108288127-munyungo-jackson-at-celebrity-summit?came_from=209"
+  web: "https://www.bandsintown.com/e/108288127-munyungo-jackson-at-celebrity-summit"
 ---

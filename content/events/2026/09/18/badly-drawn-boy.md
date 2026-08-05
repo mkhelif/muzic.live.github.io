@@ -4,5 +4,5 @@ venue: "7ce9bead-dfca-4c28-96eb-4afd401198a3"
 artists:
   - "bf0b2982-91d4-4d93-8bc3-d7fe51ce5f57"
 tickets:
-  web: "https://www.bandsintown.com/e/108016064-badly-drawn-boy-at-old-woollen?came_from=209"
+  web: "https://www.bandsintown.com/e/108016064-badly-drawn-boy-at-old-woollen"
 ---

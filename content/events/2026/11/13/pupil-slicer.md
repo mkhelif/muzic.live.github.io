@@ -4,5 +4,5 @@ venue: "4ab61dde-a0ee-4671-9c42-5f658b5f2c84"
 artists:
   - "7042938e-5421-4a55-ae40-f5ba131efbd6"
 tickets:
-  web: "https://www.bandsintown.com/e/108621017-pupil-slicer-at-substage?came_from=209"
+  web: "https://www.bandsintown.com/e/108621017-pupil-slicer-at-substage"
 ---

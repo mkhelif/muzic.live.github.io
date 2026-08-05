@@ -4,5 +4,5 @@ venue: "3186a59d-43e0-486a-9c3e-3ae39a8b0ca0"
 artists:
   - "6333fbb0-8a64-4769-9be4-68f0f9a9ac09"
 tickets:
-  web: "https://www.bandsintown.com/e/108277705-cat-ridgeway-at-carrie's-corner?came_from=209"
+  web: "https://www.bandsintown.com/e/108277705-cat-ridgeway-at-carrie's-corner"
 ---

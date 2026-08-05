@@ -4,5 +4,5 @@ venue: "e8ba6847-dbda-444f-ab63-e7da9a7d8c32"
 artists:
   - "db7fad68-16fa-4057-879e-abd98c609420"
 tickets:
-  web: "https://www.bandsintown.com/e/1039133986-adela-at-royale?came_from=209"
+  web: "https://www.bandsintown.com/e/1039133986-adela-at-royale"
 ---

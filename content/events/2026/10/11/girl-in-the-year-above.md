@@ -4,5 +4,5 @@ venue: "fb25dedd-ea92-4a37-895c-c7e0919bdc8d"
 artists:
   - "267bd60b-ac09-4a2d-b848-ce23254cbbc8"
 tickets:
-  web: "https://www.bandsintown.com/e/1039576055-girl-in-the-year-above-at-bodega-social?came_from=209"
+  web: "https://www.bandsintown.com/e/1039576055-girl-in-the-year-above-at-bodega-social"
 ---

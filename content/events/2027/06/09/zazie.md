@@ -4,5 +4,5 @@ venue: "b9db0ba1-5e88-43c2-9a95-fd4381135612"
 artists:
   - "f76626a9-41d8-4ed6-aced-3c0abb658f9c"
 tickets:
-  web: "https://www.bandsintown.com/e/1039296679-zazie-at-l'olympia?came_from=209"
+  web: "https://www.bandsintown.com/e/1039296679-zazie-at-l'olympia"
 ---

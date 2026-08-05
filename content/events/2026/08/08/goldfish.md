@@ -4,5 +4,5 @@ venue: "cb2000e9-45fc-409f-a8a3-790f77d202ec"
 artists:
   - "52d7acaa-eaf2-432c-b07a-98b74c936789"
 tickets:
-  web: "https://www.bandsintown.com/e/108424092-goldfish-at-huddle-park-golf-and-recreation?came_from=209"
+  web: "https://www.bandsintown.com/e/108424092-goldfish-at-huddle-park-golf-and-recreation"
 ---

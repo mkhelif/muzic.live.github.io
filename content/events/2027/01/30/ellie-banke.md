@@ -4,5 +4,5 @@ venue: "4396f2a4-f35f-4772-a0cf-e2857e57c5d6"
 artists:
   - "22c0370e-da45-4efa-94f9-fe1313589a19"
 tickets:
-  web: "https://www.bandsintown.com/e/108612164-ellie-banke-at-subterranean?came_from=209"
+  web: "https://www.bandsintown.com/e/108612164-ellie-banke-at-subterranean"
 ---

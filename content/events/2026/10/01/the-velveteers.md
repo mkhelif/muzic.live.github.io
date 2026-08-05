@@ -4,5 +4,5 @@ venue: "b9dd8604-f4d9-4b85-b0fc-6d962a87c56c"
 artists:
   - "843122f1-40a4-4e9c-85da-16ee1c8f3f1d"
 tickets:
-  web: "https://www.bandsintown.com/e/1039449373-the-velveteers-at-the-blue-room?came_from=209"
+  web: "https://www.bandsintown.com/e/1039449373-the-velveteers-at-the-blue-room"
 ---

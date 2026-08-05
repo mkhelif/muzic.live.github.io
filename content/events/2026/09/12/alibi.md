@@ -4,5 +4,5 @@ venue: "f6b86dd9-6031-4fe8-a4ae-586c9c7faab7"
 artists:
   - "342ce246-ab80-4e04-90ce-6e7c14352e76"
 tickets:
-  web: "https://www.bandsintown.com/e/1039272449-alibi-at-sawmills?came_from=209"
+  web: "https://www.bandsintown.com/e/1039272449-alibi-at-sawmills"
 ---

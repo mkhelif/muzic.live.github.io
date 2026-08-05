@@ -4,5 +4,5 @@ venue: "43ac2c02-ad64-474e-92ab-ccefff19692b"
 artists:
   - "38c0fb7d-749f-422f-abe3-42524ac64020"
 tickets:
-  web: "https://www.bandsintown.com/e/108404539-soa-bomba-at-festival-bo-bazar?came_from=209"
+  web: "https://www.bandsintown.com/e/108404539-soa-bomba-at-festival-bo-bazar"
 ---

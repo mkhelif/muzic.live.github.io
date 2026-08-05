@@ -4,5 +4,5 @@ venue: "fbcd7c6c-471d-48b7-abe3-2ceb635de47b"
 artists:
   - "90801b3e-27b7-476a-b44b-99cf5ebd328f"
 tickets:
-  web: "https://www.bandsintown.com/e/1039128954-ando-san-at-moore-theatre?came_from=209"
+  web: "https://www.bandsintown.com/e/1039128954-ando-san-at-moore-theatre"
 ---

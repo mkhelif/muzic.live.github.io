@@ -4,5 +4,5 @@ venue: "23dd6450-b4de-4c39-800f-239946beaae3"
 artists:
   - "fd3f59bb-e581-47be-b5a5-1bec5a4b8b55"
 tickets:
-  web: "https://www.bandsintown.com/e/108647942-monkeys-on-mars-at-bal-chavaux?came_from=209"
+  web: "https://www.bandsintown.com/e/108647942-monkeys-on-mars-at-bal-chavaux"
 ---

@@ -4,5 +4,5 @@ venue: "893e5043-11b7-4235-8123-08f7ee053fc2"
 artists:
   - "9922ffbb-2982-4882-8296-832ddbcb6a3c"
 tickets:
-  web: "https://www.bandsintown.com/e/108070889-200-stab-wounds-at-hellraiser?came_from=209"
+  web: "https://www.bandsintown.com/e/108070889-200-stab-wounds-at-hellraiser"
 ---

@@ -4,5 +4,5 @@ venue: "91a289a0-d592-4dcf-b821-8ae31533f603"
 artists:
   - "0176d93d-8767-4244-96ba-d957271ec62b"
 tickets:
-  web: "https://www.bandsintown.com/e/108301861-daoud-at-de-oosterpoort?came_from=209"
+  web: "https://www.bandsintown.com/e/108301861-daoud-at-de-oosterpoort"
 ---

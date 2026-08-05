@@ -4,5 +4,5 @@ venue: "5916af58-b265-40ce-8485-a809598c26a0"
 artists:
   - "f2726ca7-2ee5-4685-b3a1-86755c80c7da"
 tickets:
-  web: "https://www.bandsintown.com/e/108142756-bullet-tooth-at-union-park?came_from=209"
+  web: "https://www.bandsintown.com/e/108142756-bullet-tooth-at-union-park"
 ---

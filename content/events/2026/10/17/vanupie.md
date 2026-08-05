@@ -4,5 +4,5 @@ venue: "a0e6e010-05d6-4202-82d3-c8e57098a6e9"
 artists:
   - "651061e0-a69a-4266-aa71-0167bff04c70"
 tickets:
-  web: "https://www.bandsintown.com/e/1037209685-vanupie-at-la-commanderie?came_from=209"
+  web: "https://www.bandsintown.com/e/1037209685-vanupie-at-la-commanderie"
 ---

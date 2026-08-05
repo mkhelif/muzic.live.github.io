@@ -4,5 +4,5 @@ venue: "b04b3242-c9bc-446c-8220-b40aed77375f"
 artists:
   - "067caa30-b527-4546-91c4-a77841b5984b"
 tickets:
-  web: "https://www.bandsintown.com/e/1038634250-yann-muller-at-hippodrome-de-hyeres?came_from=209"
+  web: "https://www.bandsintown.com/e/1038634250-yann-muller-at-hippodrome-de-hyeres"
 ---

@@ -3,6 +3,7 @@ id: "634bd5cb-db5d-40e5-8e1c-b5e069f403bf"
 title: "Cliff Burton"
 type: person
 socials:
+  musicbrainz: "7a77627e-78f3-489f-827a-7caea3342bba"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,7 +19,11 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1962-02-10
+  end: 1986-09-27
 ---

@@ -4,5 +4,5 @@ venue: "a677d6eb-819b-4097-a20f-d936f3efbb83"
 artists:
   - "95b88718-9221-4730-8e2d-c573022e12e2"
 tickets:
-  web: "https://www.bandsintown.com/e/1037402599-counting-hours-at-bibelot?came_from=209"
+  web: "https://www.bandsintown.com/e/1037402599-counting-hours-at-bibelot"
 ---

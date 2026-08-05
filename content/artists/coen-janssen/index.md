@@ -3,6 +3,7 @@ id: "143d0b21-4936-4339-b176-b23e5e37a139"
 title: "Coen Janssen"
 type: person
 socials:
+  musicbrainz: "667b4971-b13d-4b74-a4bf-71b7c511421b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,7 +19,10 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1981-04-02
 ---

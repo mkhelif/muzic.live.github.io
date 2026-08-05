@@ -4,5 +4,5 @@ venue: "3e77f53b-7604-48c1-b14b-73ebc6f70bde"
 artists:
   - "ce8552c1-2ae5-4705-968d-ef11b1922760"
 tickets:
-  web: "https://www.bandsintown.com/e/1038786048-sami-galbi-at-cella-monte?came_from=209"
+  web: "https://www.bandsintown.com/e/1038786048-sami-galbi-at-cella-monte"
 ---

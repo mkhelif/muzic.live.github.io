@@ -4,5 +4,5 @@ venue: "75168a54-eec7-452c-8b0c-cdd952eb6a12"
 artists:
   - "777e746a-ee17-439c-85ca-d4e14dfc4b1d"
 tickets:
-  web: "https://www.bandsintown.com/e/1039658445-velvet-rush-at-hellraiser-leipzig?came_from=209"
+  web: "https://www.bandsintown.com/e/1039658445-velvet-rush-at-hellraiser-leipzig"
 ---

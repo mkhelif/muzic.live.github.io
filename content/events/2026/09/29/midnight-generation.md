@@ -4,5 +4,5 @@ venue: "50aeab15-919b-4929-bedf-3305ff937578"
 artists:
   - "6cde6c49-c276-4778-951b-7e8acac66600"
 tickets:
-  web: "https://www.bandsintown.com/e/1038302932-midnight-generation-at-talking-stick-resort-amphitheatre?came_from=209"
+  web: "https://www.bandsintown.com/e/1038302932-midnight-generation-at-talking-stick-resort-amphitheatre"
 ---

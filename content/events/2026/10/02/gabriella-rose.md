@@ -4,5 +4,5 @@ venue: "192c3808-6798-45f0-9eaf-48155af9f857"
 artists:
   - "94c9c76e-82b7-43d8-8225-f56bb275a51b"
 tickets:
-  web: "https://www.bandsintown.com/e/1037248925-gabriella-rose-at-gillette-stadium?came_from=209"
+  web: "https://www.bandsintown.com/e/1037248925-gabriella-rose-at-gillette-stadium"
 ---

@@ -4,5 +4,5 @@ venue: "ed76c9fe-19bd-4dd8-b90b-9a28f5b022cb"
 artists:
   - "f82f665d-7e06-4d53-b1a7-b55a6cf1b520"
 tickets:
-  web: "https://www.bandsintown.com/e/1039638518-magdalena-bay-at-radioeast?came_from=209"
+  web: "https://www.bandsintown.com/e/1039638518-magdalena-bay-at-radioeast"
 ---

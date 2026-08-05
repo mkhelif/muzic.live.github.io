@@ -4,5 +4,5 @@ venue: "dd81b8fe-6a08-4cd5-a0a9-3ae71b8a65d8"
 artists:
   - "abd9a1d2-6567-4097-9aaf-54a0a2cb365a"
 tickets:
-  web: "https://www.bandsintown.com/e/1039669630-currls-at-green-door-store?came_from=209"
+  web: "https://www.bandsintown.com/e/1039669630-currls-at-green-door-store"
 ---

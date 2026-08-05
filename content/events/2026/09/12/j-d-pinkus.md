@@ -4,5 +4,5 @@ venue: "87519f50-bda0-4dc3-bd1a-a57396f275de"
 artists:
   - "237c3265-d467-486f-9085-5e97b7eaf5e2"
 tickets:
-  web: "https://www.bandsintown.com/e/108509078-j.d.-pinkus-at-timonium-fairgrounds?came_from=209"
+  web: "https://www.bandsintown.com/e/108509078-j.d.-pinkus-at-timonium-fairgrounds"
 ---

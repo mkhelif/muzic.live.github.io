@@ -4,5 +4,5 @@ venue: "c4932f78-03e5-4901-a7e7-a0e5172eef15"
 artists:
   - "4342f9fc-4a66-4a52-a1b5-6b4ac20e498c"
 tickets:
-  web: "https://www.bandsintown.com/e/1038333116-rakoon-at-foreztival?came_from=209"
+  web: "https://www.bandsintown.com/e/1038333116-rakoon-at-foreztival"
 ---

@@ -4,5 +4,5 @@ venue: "9a632f5b-67ad-418d-a5c9-7926f62a91b9"
 artists:
   - "9148dfcb-4a95-4f10-b722-6c7eece8de8e"
 tickets:
-  web: "https://www.bandsintown.com/e/1037383406-rotting-christ-at-turbinenhalle-oberhausen?came_from=209"
+  web: "https://www.bandsintown.com/e/1037383406-rotting-christ-at-turbinenhalle-oberhausen"
 ---

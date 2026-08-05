@@ -4,5 +4,5 @@ venue: "346f74ab-5f21-4fe6-8145-374252b9453a"
 artists:
   - "8fef7b6b-172d-43f6-b505-46dd17710e94"
 tickets:
-  web: "https://www.bandsintown.com/e/108446305-revocation-at-exitin?came_from=209"
+  web: "https://www.bandsintown.com/e/108446305-revocation-at-exitin"
 ---

@@ -4,5 +4,5 @@ venue: "23b4e98e-b726-4a72-86b7-2de54f6a25a7"
 artists:
   - "df354bf8-cce1-4204-8b55-bceb4a296882"
 tickets:
-  web: "https://www.bandsintown.com/e/108712439-arabrot-at-la-maison-bleue?came_from=209"
+  web: "https://www.bandsintown.com/e/108712439-arabrot-at-la-maison-bleue"
 ---

@@ -4,5 +4,5 @@ venue: "50c7768d-916c-4331-a3b2-d116c3318af2"
 artists:
   - "f61639d1-e87f-4a5f-b076-b588b0c3cfce"
 tickets:
-  web: "https://www.bandsintown.com/e/108459454-weeping-wound-at-the-albatross?came_from=209"
+  web: "https://www.bandsintown.com/e/108459454-weeping-wound-at-the-albatross"
 ---

@@ -4,5 +4,5 @@ venue: "71a3acb1-d162-4651-a907-1b2660dd6c73"
 artists:
   - "6ae17bc0-d30a-430c-9216-3223b7c54ea4"
 tickets:
-  web: "https://www.bandsintown.com/e/1039238721-franc-fala-at-pacha-ibiza?came_from=209"
+  web: "https://www.bandsintown.com/e/1039238721-franc-fala-at-pacha-ibiza"
 ---

@@ -4,5 +4,5 @@ venue: "62bb0526-e266-4a53-b4c6-d09193368459"
 artists:
   - "2795e452-615c-4763-886a-09b678b01d39"
 tickets:
-  web: "https://www.bandsintown.com/e/108411849-munyungo-jackson-at-mable-house-barnes-amphitheatre?came_from=209"
+  web: "https://www.bandsintown.com/e/108411849-munyungo-jackson-at-mable-house-barnes-amphitheatre"
 ---

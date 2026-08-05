@@ -4,5 +4,5 @@ venue: "3e49dacf-e732-4048-968f-3b08e5472674"
 artists:
   - "997d49a6-fac6-421c-833a-bd158c015f60"
 tickets:
-  web: "https://www.bandsintown.com/e/1039576490-slay-squad-at-black-cat?came_from=209"
+  web: "https://www.bandsintown.com/e/1039576490-slay-squad-at-black-cat"
 ---

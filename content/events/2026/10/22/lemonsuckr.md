@@ -4,5 +4,5 @@ venue: "ba642359-0f75-4b9a-9288-8594e2fd1678"
 artists:
   - "300c4a1b-7d51-4db0-aa4a-55766b3e49a3"
 tickets:
-  web: "https://www.bandsintown.com/e/108614227-lemonsuckr-at-left-of-the-dial?came_from=209"
+  web: "https://www.bandsintown.com/e/108614227-lemonsuckr-at-left-of-the-dial"
 ---

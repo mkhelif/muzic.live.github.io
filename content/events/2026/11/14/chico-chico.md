@@ -4,5 +4,5 @@ venue: "4f3f5d7b-1d5f-4748-8cbc-e6c741792e88"
 artists:
   - "d71485dc-b392-44ab-bf61-6839c251a079"
 tickets:
-  web: "https://www.bandsintown.com/e/108614747-chico-chico-at-oasis-eventos?came_from=209"
+  web: "https://www.bandsintown.com/e/108614747-chico-chico-at-oasis-eventos"
 ---

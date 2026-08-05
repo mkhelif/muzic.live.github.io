@@ -4,5 +4,5 @@ venue: "fd0b0f70-4090-43b4-9816-8923f0cafb30"
 artists:
   - "39251774-c78a-4634-84a6-643122ae4e9f"
 tickets:
-  web: "https://www.bandsintown.com/e/108682245?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event"
+  web: "https://www.bandsintown.com/e/108682245"
 ---

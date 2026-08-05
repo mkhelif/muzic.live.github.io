@@ -4,5 +4,5 @@ venue: "43d5e80d-c6f2-484a-a783-6cccda254684"
 artists:
   - "422b382a-c8a5-47d3-98b7-c0b9ae44e513"
 tickets:
-  web: "https://www.bandsintown.com/e/108606518-misthyrming-at-usf-verftet?came_from=209"
+  web: "https://www.bandsintown.com/e/108606518-misthyrming-at-usf-verftet"
 ---

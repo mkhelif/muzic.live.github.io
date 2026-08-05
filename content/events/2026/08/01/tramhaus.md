@@ -4,5 +4,5 @@ venue: "28a9e5f8-77e7-47cb-8c64-58427b8cc18b"
 artists:
   - "2d606c65-9a4d-40bc-8d26-b78fab764a80"
 tickets:
-  web: "https://www.bandsintown.com/e/108516541-tramhaus-at-draiser-hof?came_from=209"
+  web: "https://www.bandsintown.com/e/108516541-tramhaus-at-draiser-hof"
 ---

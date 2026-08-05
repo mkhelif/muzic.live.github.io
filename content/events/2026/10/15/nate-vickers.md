@@ -4,5 +4,5 @@ venue: "3e0a7e30-df53-4547-bda1-c7aa6bcea910"
 artists:
   - "0b262815-7a4e-4465-b92b-475f5bc35122"
 tickets:
-  web: "https://www.bandsintown.com/e/1039682830-nate-vickers-at-tower-theatre?came_from=209"
+  web: "https://www.bandsintown.com/e/1039682830-nate-vickers-at-tower-theatre"
 ---

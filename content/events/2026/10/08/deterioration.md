@@ -4,5 +4,5 @@ venue: "9c4b020e-cf94-4a28-98df-d1e1bee64a31"
 artists:
   - "ca311d55-c460-4269-80f0-8d2c7bf76538"
 tickets:
-  web: "https://www.bandsintown.com/e/1038832664-deterioration-at-the-uc-theatre?came_from=209"
+  web: "https://www.bandsintown.com/e/1038832664-deterioration-at-the-uc-theatre"
 ---

@@ -4,5 +4,5 @@ venue: "48fed623-518f-470f-b2fc-0fba1970e662"
 artists:
   - "3d019ec7-a897-44b8-89c3-bd42825dc92a"
 tickets:
-  web: "https://www.bandsintown.com/e/108649629-chucho-valdes-at-recoletos-jazz?came_from=209"
+  web: "https://www.bandsintown.com/e/108649629-chucho-valdes-at-recoletos-jazz"
 ---

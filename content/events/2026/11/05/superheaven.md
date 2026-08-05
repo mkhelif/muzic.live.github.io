@@ -4,5 +4,5 @@ venue: "edc54d73-b97c-4728-8c52-528128c16f72"
 artists:
   - "798891d9-2894-4a34-8d82-ac5fc89db0a3"
 tickets:
-  web: "https://www.bandsintown.com/e/108451919-superheaven-at-moody-amphitheater?came_from=209"
+  web: "https://www.bandsintown.com/e/108451919-superheaven-at-moody-amphitheater"
 ---

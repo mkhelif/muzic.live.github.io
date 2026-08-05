@@ -4,5 +4,5 @@ venue: "2c5203e4-d125-400e-8243-d2f0ada5ba55"
 artists:
   - "08987023-cbee-4238-a3c1-38937775d332"
 tickets:
-  web: "https://www.bandsintown.com/e/108674483-sergent-garcia-at-theatre-de-la-rotonde?came_from=209"
+  web: "https://www.bandsintown.com/e/108674483-sergent-garcia-at-theatre-de-la-rotonde"
 ---

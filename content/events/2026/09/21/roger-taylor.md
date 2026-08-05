@@ -4,5 +4,5 @@ venue: "798f8f28-637a-46e2-8ef1-936977e063da"
 artists:
   - "c8219651-0424-480e-84fe-74c974a7142d"
 tickets:
-  web: "https://www.bandsintown.com/e/1039315772-roger-taylor-at-o2-city-hall-newcastle?came_from=209"
+  web: "https://www.bandsintown.com/e/1039315772-roger-taylor-at-o2-city-hall-newcastle"
 ---

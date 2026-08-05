@@ -4,5 +4,5 @@ venue: "d8d6c65f-a803-46f9-bca2-085ea991211c"
 artists:
   - "b229632d-3ce0-48a6-adc5-a3927198c9fb"
 tickets:
-  web: "https://www.bandsintown.com/e/1039213848-the-backfires-at-hershey-theatre?came_from=209"
+  web: "https://www.bandsintown.com/e/1039213848-the-backfires-at-hershey-theatre"
 ---

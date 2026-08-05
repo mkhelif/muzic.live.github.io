@@ -4,5 +4,5 @@ venue: "90eb6648-ad01-4895-9bf8-e1699e31b834"
 artists:
   - "0a2e5e97-9954-45c5-a758-b93bb5dca202"
 tickets:
-  web: "https://www.bandsintown.com/e/1039267552-chxrry-at-house-of-blues-houston?came_from=209"
+  web: "https://www.bandsintown.com/e/1039267552-chxrry-at-house-of-blues-houston"
 ---

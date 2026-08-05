@@ -4,5 +4,5 @@ venue: "abe5107a-3422-49a2-b880-6ae74b44e50e"
 artists:
   - "58077177-6d1a-4402-b51b-90b710ca9bfb"
 tickets:
-  web: "https://www.bandsintown.com/e/1039491666-harsh-realm-at-revival-asheville?came_from=209"
+  web: "https://www.bandsintown.com/e/1039491666-harsh-realm-at-revival-asheville"
 ---

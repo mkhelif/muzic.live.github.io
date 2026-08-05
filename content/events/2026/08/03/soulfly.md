@@ -4,5 +4,5 @@ venue: "35f783c1-33a4-4a3f-ae65-93d77bb99a71"
 artists:
   - "6cb50f4c-2cbc-4912-ad7f-e83834ae129f"
 tickets:
-  web: "https://www.bandsintown.com/e/108454903-soulfly-at-columbia-theatre?came_from=209"
+  web: "https://www.bandsintown.com/e/108454903-soulfly-at-columbia-theatre"
 ---

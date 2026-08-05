@@ -4,5 +4,5 @@ venue: "de4b6cb6-a0c1-44b2-91aa-37a162421570"
 artists:
   - "27752590-2135-4c26-84fe-4b0a6ec15cca"
 tickets:
-  web: "https://www.bandsintown.com/e/1038975633-everything-everything-at-brooklyn-bowl-philadelphia?came_from=209"
+  web: "https://www.bandsintown.com/e/1038975633-everything-everything-at-brooklyn-bowl-philadelphia"
 ---

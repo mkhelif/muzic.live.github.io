@@ -4,5 +4,5 @@ venue: "2f5cfbc3-2b98-4e70-9968-8a87fab7f8f3"
 artists:
   - "d71485dc-b392-44ab-bf61-6839c251a079"
 tickets:
-  web: "https://www.bandsintown.com/e/108385231-chico-chico-at-m.ou.co-restaurante-and-bar?came_from=209"
+  web: "https://www.bandsintown.com/e/108385231-chico-chico-at-m.ou.co-restaurante-and-bar"
 ---

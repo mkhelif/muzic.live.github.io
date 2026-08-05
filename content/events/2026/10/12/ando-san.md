@@ -4,5 +4,5 @@ venue: "e384c68e-a9c8-4c53-9e97-17ccc54f6dbc"
 artists:
   - "90801b3e-27b7-476a-b44b-99cf5ebd328f"
 tickets:
-  web: "https://www.bandsintown.com/e/1039563634-ando-san-at-outernet-london?came_from=209"
+  web: "https://www.bandsintown.com/e/1039563634-ando-san-at-outernet-london"
 ---

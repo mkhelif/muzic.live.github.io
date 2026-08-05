@@ -4,5 +4,5 @@ venue: "beba37de-e544-4d84-9ed7-c7a8dfc2209a"
 artists:
   - "4c817f69-2f3b-4824-be6f-0ff65be2ce13"
 tickets:
-  web: "https://www.bandsintown.com/e/1039720855-admiral-t.-at-earth?came_from=209"
+  web: "https://www.bandsintown.com/e/1039720855-admiral-t.-at-earth"
 ---

@@ -4,5 +4,5 @@ venue: "1d611809-9ffa-4f0b-9644-f7930e678a33"
 artists:
   - "b6dbae50-3bd1-44fd-8e87-72759ca1ef49"
 tickets:
-  web: "https://www.bandsintown.com/e/1039297379-big-special-at-tramshed?came_from=209"
+  web: "https://www.bandsintown.com/e/1039297379-big-special-at-tramshed"
 ---

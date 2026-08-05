@@ -4,5 +4,5 @@ venue: "6718d67c-4a42-49f9-bc6c-170e12b3a5ac"
 artists:
   - "a91a6a98-86bc-424a-9f63-c87ec37c311a"
 tickets:
-  web: "https://www.bandsintown.com/e/1037019923-ill-nino-at-tork-n'-roll?came_from=209"
+  web: "https://www.bandsintown.com/e/1037019923-ill-nino-at-tork-n'-roll"
 ---

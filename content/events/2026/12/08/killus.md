@@ -4,5 +4,5 @@ venue: "f355f17d-1e11-4b70-9186-e25c38901788"
 artists:
   - "b310210d-36d8-4ffc-aff3-a0f405c4d0a4"
 tickets:
-  web: "https://www.bandsintown.com/e/108576262-killus-at-backstage?came_from=209"
+  web: "https://www.bandsintown.com/e/108576262-killus-at-backstage"
 ---

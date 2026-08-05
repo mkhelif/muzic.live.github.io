@@ -4,5 +4,5 @@ venue: "2870ed8f-b3a2-4070-947f-94b0cba2deb8"
 artists:
   - "eae3c7a3-8c11-46c4-ae3a-e2ff553a5006"
 tickets:
-  web: "https://www.bandsintown.com/e/108300270-pierre-de-maere-at-le-106?came_from=209"
+  web: "https://www.bandsintown.com/e/108300270-pierre-de-maere-at-le-106"
 ---

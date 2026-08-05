@@ -4,5 +4,5 @@ venue: "0c2c3c59-6e14-4957-90ba-23ea87191197"
 artists:
   - "2ec22824-ec08-49ed-8f6b-06d315e0b0a0"
 tickets:
-  web: "https://www.bandsintown.com/e/1038703462-tete-at-rock-school-barbey?came_from=209"
+  web: "https://www.bandsintown.com/e/1038703462-tete-at-rock-school-barbey"
 ---

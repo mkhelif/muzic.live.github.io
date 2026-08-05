@@ -4,5 +4,5 @@ venue: "520f1596-26d5-4ec5-a745-796f7d7f4e00"
 artists:
   - "7f73ac3f-3884-4cea-9dbc-01ca03763819"
 tickets:
-  web: "https://www.bandsintown.com/e/1038278103-josh-thomas-at-west-end-cultural-centre?came_from=209"
+  web: "https://www.bandsintown.com/e/1038278103-josh-thomas-at-west-end-cultural-centre"
 ---

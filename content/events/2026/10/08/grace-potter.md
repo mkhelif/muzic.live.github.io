@@ -4,5 +4,5 @@ venue: "de1bdbae-be6f-4840-8068-5935ed9c3e6c"
 artists:
   - "716b0739-f9e5-4258-bb3e-800692ee4871"
 tickets:
-  web: "https://www.bandsintown.com/e/1037809622-grace-potter-at-food-city-center?came_from=209"
+  web: "https://www.bandsintown.com/e/1037809622-grace-potter-at-food-city-center"
 ---

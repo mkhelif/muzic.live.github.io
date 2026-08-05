@@ -4,5 +4,5 @@ venue: "03711201-2c25-4067-b315-ac46fb02497f"
 artists:
   - "18b860ad-c95f-4ee1-96cd-3a2cf9c3bb06"
 tickets:
-  web: "https://www.bandsintown.com/e/1039286901-blu-detiger-at-steelhouse-omaha?came_from=209"
+  web: "https://www.bandsintown.com/e/1039286901-blu-detiger-at-steelhouse-omaha"
 ---

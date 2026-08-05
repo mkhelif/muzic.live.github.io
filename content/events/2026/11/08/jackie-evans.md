@@ -4,5 +4,5 @@ venue: "1bd41086-b975-4d1e-a80d-52bd8c6e36e4"
 artists:
   - "38b66c94-6ee5-4101-8429-25a52a15d611"
 tickets:
-  web: "https://www.bandsintown.com/e/108608375-jackie-evans-at-drake-underground?came_from=209"
+  web: "https://www.bandsintown.com/e/108608375-jackie-evans-at-drake-underground"
 ---

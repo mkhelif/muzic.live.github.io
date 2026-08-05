@@ -4,5 +4,5 @@ venue: "9e4902a3-6b79-460c-9b01-745d704b6a8d"
 artists:
   - "bc64fffd-252b-410c-ae26-ee901e682104"
 tickets:
-  web: "https://www.bandsintown.com/e/1039415384-trancemaster-krause-at-input-high-fidelity-dance-club?came_from=209"
+  web: "https://www.bandsintown.com/e/1039415384-trancemaster-krause-at-input-high-fidelity-dance-club"
 ---

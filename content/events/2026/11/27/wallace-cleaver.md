@@ -4,5 +4,5 @@ venue: "8b5117a5-325f-4749-be2c-a9cec8143d72"
 artists:
   - "0ec772d1-6700-40a4-a869-88a5b714b637"
 tickets:
-  web: "https://www.bandsintown.com/e/108260522-wallace-cleaver-at-le-fil?came_from=209"
+  web: "https://www.bandsintown.com/e/108260522-wallace-cleaver-at-le-fil"
 ---

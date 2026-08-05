@@ -4,5 +4,5 @@ venue: "94a469f6-b502-4958-a40a-74d5ba7a5e1f"
 artists:
   - "92c08df5-db92-47ea-8876-3fc466de7bfe"
 tickets:
-  web: "https://www.bandsintown.com/e/1038122942-manntra-at-alter-schlachthof?came_from=209"
+  web: "https://www.bandsintown.com/e/1038122942-manntra-at-alter-schlachthof"
 ---

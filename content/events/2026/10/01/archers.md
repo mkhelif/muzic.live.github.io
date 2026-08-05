@@ -4,5 +4,5 @@ venue: "fdaaad0e-a202-4552-8d1a-2a7eb18a66e5"
 artists:
   - "c3d86f58-f951-4efb-a575-77a3daeaa8fc"
 tickets:
-  web: "https://www.bandsintown.com/e/108476587-archers-at-house-of-blues-las-vegas?came_from=209"
+  web: "https://www.bandsintown.com/e/108476587-archers-at-house-of-blues-las-vegas"
 ---

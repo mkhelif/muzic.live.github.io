@@ -4,5 +4,5 @@ venue: "0a818824-7834-44e7-b536-38c365980413"
 artists:
   - "90593fe6-e58e-47b9-8cbe-d1be185529e9"
 tickets:
-  web: "https://www.bandsintown.com/e/108423648-smemo-at-kabana-rooftop-food-and-cocktails?came_from=209"
+  web: "https://www.bandsintown.com/e/108423648-smemo-at-kabana-rooftop-food-and-cocktails"
 ---

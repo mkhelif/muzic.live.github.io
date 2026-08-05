@@ -4,5 +4,5 @@ venue: "785176f5-10b8-43eb-acd6-6745fbcdb9e7"
 artists:
   - "c6a3424d-ab0c-4f1e-a18e-3d84339da4b9"
 tickets:
-  web: "https://www.bandsintown.com/e/108302008-juste-shani-at-ancienne-belgique?came_from=209"
+  web: "https://www.bandsintown.com/e/108302008-juste-shani-at-ancienne-belgique"
 ---

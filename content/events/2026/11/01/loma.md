@@ -4,5 +4,5 @@ venue: "e64d2962-5ae2-4cef-88ab-9dbd5bcd662e"
 artists:
   - "09d2b102-9551-4625-8b06-5f269fd088ca"
 tickets:
-  web: "https://www.bandsintown.com/e/108649724-loma-at-bitterzoet?came_from=209"
+  web: "https://www.bandsintown.com/e/108649724-loma-at-bitterzoet"
 ---

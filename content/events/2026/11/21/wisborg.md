@@ -4,5 +4,5 @@ venue: "42afb941-7dbe-4c71-9138-9b2c452ef543"
 artists:
   - "0d3efee8-5c50-49cb-b2c9-89f58635fba9"
 tickets:
-  web: "https://www.bandsintown.com/e/107678636-wisborg-at-urban-spree?came_from=209"
+  web: "https://www.bandsintown.com/e/107678636-wisborg-at-urban-spree"
 ---

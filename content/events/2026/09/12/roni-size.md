@@ -4,5 +4,5 @@ venue: "f6b86dd9-6031-4fe8-a4ae-586c9c7faab7"
 artists:
   - "9ee4edfc-9d86-4228-a88c-96dcbae5b4a9"
 tickets:
-  web: "https://www.bandsintown.com/e/1039269118-roni-size-at-sawmills?came_from=209"
+  web: "https://www.bandsintown.com/e/1039269118-roni-size-at-sawmills"
 ---

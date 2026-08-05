@@ -4,5 +4,5 @@ venue: "b02508a7-c5d1-4c39-8e60-68494438e4e3"
 artists:
   - "71438e37-e4b3-4fb7-a12a-5076e0ac2bee"
 tickets:
-  web: "https://www.bandsintown.com/e/1038254326-sacred-reich-at-ms-stubnitz?came_from=209"
+  web: "https://www.bandsintown.com/e/1038254326-sacred-reich-at-ms-stubnitz"
 ---

@@ -4,5 +4,5 @@ venue: "8f462f52-feb5-4b8e-a4bf-651a717c2c0f"
 artists:
   - "6d2b134e-dd42-419f-b812-b32f5293a179"
 tickets:
-  web: "https://www.bandsintown.com/e/1039753555-lammer-at-888-garage-(the-midway)?came_from=209"
+  web: "https://www.bandsintown.com/e/1039753555-lammer-at-888-garage-(the-midway)"
 ---

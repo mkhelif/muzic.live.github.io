@@ -4,5 +4,5 @@ venue: "51740eba-4118-4c59-beee-6ae7c3360cf8"
 artists:
   - "d55d5547-62c1-459c-ac0b-c66917817ddc"
 tickets:
-  web: "https://www.bandsintown.com/e/108480186-beans-on-toast-at-live-from-the-divide?came_from=209"
+  web: "https://www.bandsintown.com/e/108480186-beans-on-toast-at-live-from-the-divide"
 ---

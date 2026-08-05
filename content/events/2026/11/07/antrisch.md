@@ -4,5 +4,5 @@ venue: "f7938db2-2be7-42f0-81cf-63b0731b6bda"
 artists:
   - "cd431a0f-2fe9-4a46-ac54-c82ed01ea9d1"
 tickets:
-  web: "https://www.bandsintown.com/e/108534027-antrisch-at-industriedenkmal-eulenburg?came_from=209"
+  web: "https://www.bandsintown.com/e/108534027-antrisch-at-industriedenkmal-eulenburg"
 ---

@@ -4,5 +4,5 @@ venue: "84c3f4dd-590b-4e97-9b90-b5005bcd5e5e"
 artists:
   - "200a335e-c670-4659-93c3-e556437b1a8e"
 tickets:
-  web: "https://www.bandsintown.com/e/108665981-heavy-lungs-at-warm-audio?came_from=209"
+  web: "https://www.bandsintown.com/e/108665981-heavy-lungs-at-warm-audio"
 ---

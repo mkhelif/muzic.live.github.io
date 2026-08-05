@@ -4,5 +4,5 @@ venue: "eac60cd7-6be3-42e4-a61e-8edce0b6ae57"
 artists:
   - "bf5ce3b7-fadf-48d4-8374-69bd162d4923"
 tickets:
-  web: "https://www.bandsintown.com/e/108627342-eisbrecher-at-rockharz?came_from=209"
+  web: "https://www.bandsintown.com/e/108627342-eisbrecher-at-rockharz"
 ---

@@ -4,5 +4,5 @@ venue: "4f557163-10f5-469e-b52d-17473f57a9b7"
 artists:
   - "c309f074-d521-4316-9ffa-2faaeaaa107d"
 tickets:
-  web: "https://www.bandsintown.com/e/1039425880-maria-iskariot-at-paradiso?came_from=209"
+  web: "https://www.bandsintown.com/e/1039425880-maria-iskariot-at-paradiso"
 ---

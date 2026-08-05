@@ -4,5 +4,5 @@ venue: "46027e91-fa12-42b8-ba8b-7a63eafc86e0"
 artists:
   - "b7d00abe-f231-48b7-9f08-a2f9ab59987e"
 tickets:
-  web: "https://www.bandsintown.com/e/108461927-kelela-at-o2-academy-brixton?came_from=209"
+  web: "https://www.bandsintown.com/e/108461927-kelela-at-o2-academy-brixton"
 ---

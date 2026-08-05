@@ -4,5 +4,5 @@ venue: "04609890-a346-4414-9a5c-e06f530c7fb6"
 artists:
   - "0e369d7d-809c-47ad-af31-a3daa3ac8881"
 tickets:
-  web: "https://www.bandsintown.com/e/1039578728-saint-agnes-at-the-regent-theater?came_from=209"
+  web: "https://www.bandsintown.com/e/1039578728-saint-agnes-at-the-regent-theater"
 ---

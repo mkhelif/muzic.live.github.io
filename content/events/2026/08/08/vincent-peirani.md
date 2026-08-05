@@ -4,5 +4,5 @@ venue: "d662cf2c-8ab8-46ec-b4a3-c75924955e88"
 artists:
   - "b4f26edc-a557-4dab-9a15-8a985f048db6"
 tickets:
-  web: "https://www.bandsintown.com/e/108139771-vincent-peirani-at-theatre-d'isny?came_from=209"
+  web: "https://www.bandsintown.com/e/108139771-vincent-peirani-at-theatre-d'isny"
 ---

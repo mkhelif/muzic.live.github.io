@@ -4,5 +4,5 @@ venue: "e0fcb7d8-f1c6-4bb5-b24b-d721567f2474"
 artists:
   - "64e235f3-bc76-4b77-9eaf-de1a712d33bf"
 tickets:
-  web: "https://www.bandsintown.com/e/1038512961-formal-sppeedwear-at-various-venues-brighton?came_from=209"
+  web: "https://www.bandsintown.com/e/1038512961-formal-sppeedwear-at-various-venues-brighton"
 ---

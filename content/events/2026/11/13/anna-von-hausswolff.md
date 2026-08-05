@@ -4,5 +4,5 @@ venue: "26fa7561-b586-4093-8cc0-aac1d86d07bc"
 artists:
   - "04c61bd9-83c9-489f-a3f5-0eb10baf8bcf"
 tickets:
-  web: "https://www.bandsintown.com/e/1038997724-anna-von-hausswolff-at-grand-central-hall?came_from=209"
+  web: "https://www.bandsintown.com/e/1038997724-anna-von-hausswolff-at-grand-central-hall"
 ---

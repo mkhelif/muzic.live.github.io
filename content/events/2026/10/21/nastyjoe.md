@@ -4,5 +4,5 @@ venue: "22cb6c1a-6080-455a-8194-423f5a2a7e87"
 artists:
   - "aa4af471-b5dc-4d27-a08c-17f3f7485569"
 tickets:
-  web: "https://www.bandsintown.com/e/108637676-nastyjoe-at-la-sirene?came_from=209"
+  web: "https://www.bandsintown.com/e/108637676-nastyjoe-at-la-sirene"
 ---

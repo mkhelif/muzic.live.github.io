@@ -4,5 +4,5 @@ venue: "da988c9b-deae-4273-8259-8db520e17521"
 artists:
   - "ed3ade56-591f-416c-95ec-1d968a41ae54"
 tickets:
-  web: "https://www.bandsintown.com/e/1038650054-gildaa-at-l'epicerie-moderne?came_from=209"
+  web: "https://www.bandsintown.com/e/1038650054-gildaa-at-l'epicerie-moderne"
 ---

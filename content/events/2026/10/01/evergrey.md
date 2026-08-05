@@ -4,5 +4,5 @@ venue: "ff03add3-1deb-4cea-bec8-035b843b4664"
 artists:
   - "58a97ccc-5daa-47b4-90ca-ba8fdb2b629f"
 tickets:
-  web: "https://www.bandsintown.com/e/1037421306-evergrey-at-the-glass-house?came_from=209"
+  web: "https://www.bandsintown.com/e/1037421306-evergrey-at-the-glass-house"
 ---

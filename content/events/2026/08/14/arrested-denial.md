@@ -4,5 +4,5 @@ venue: "2ebd7b40-fa10-4572-86c3-69eb2f70ff76"
 artists:
   - "b56f6875-1899-4ed5-a717-548d50215503"
 tickets:
-  web: "https://www.bandsintown.com/e/108573316-arrested-denial-at-logo?came_from=209"
+  web: "https://www.bandsintown.com/e/108573316-arrested-denial-at-logo"
 ---

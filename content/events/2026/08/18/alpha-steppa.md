@@ -4,5 +4,5 @@ venue: "03bdbb75-f76a-41e8-a908-ebfaf24161e9"
 artists:
   - "8a11f1d6-c5c3-44cf-9056-575e01a72439"
 tickets:
-  web: "https://www.bandsintown.com/e/108176928-alpha-steppa-at-rototom-sunsplash?came_from=209"
+  web: "https://www.bandsintown.com/e/108176928-alpha-steppa-at-rototom-sunsplash"
 ---

@@ -4,5 +4,5 @@ venue: "320f908f-a135-4c4d-8e17-63957496be9c"
 artists:
   - "ea68800d-6e59-4f8b-9191-3a73226f7ee2"
 tickets:
-  web: "https://www.bandsintown.com/e/108496729-thousand-below-at-turntable?came_from=209"
+  web: "https://www.bandsintown.com/e/108496729-thousand-below-at-turntable"
 ---

@@ -4,5 +4,5 @@ venue: "1ec30082-aa5d-492f-92e6-312d8ef993ad"
 artists:
   - "d71485dc-b392-44ab-bf61-6839c251a079"
 tickets:
-  web: "https://www.bandsintown.com/e/108385283-chico-chico-at-circolo-arci-bellezza?came_from=209"
+  web: "https://www.bandsintown.com/e/108385283-chico-chico-at-circolo-arci-bellezza"
 ---

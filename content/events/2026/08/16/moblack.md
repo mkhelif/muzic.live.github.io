@@ -4,5 +4,5 @@ venue: "4db28d8f-cc72-47a5-8caf-8a7c6135259e"
 artists:
   - "ee170e8b-fcee-4000-a646-d5ad30f2e47d"
 tickets:
-  web: "https://www.bandsintown.com/e/1039563908-moblack-at-chinois-ibiza?came_from=209"
+  web: "https://www.bandsintown.com/e/1039563908-moblack-at-chinois-ibiza"
 ---

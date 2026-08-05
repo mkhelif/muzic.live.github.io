@@ -4,5 +4,5 @@ venue: "fd69023e-536e-4814-b5eb-c9ffca65b2ea"
 artists:
   - "f5d284ad-3059-401c-94c0-5a8d2053457b"
 tickets:
-  web: "https://www.bandsintown.com/e/108569837-soulwax-at-norton-disney?came_from=209"
+  web: "https://www.bandsintown.com/e/108569837-soulwax-at-norton-disney"
 ---

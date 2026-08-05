@@ -4,5 +4,5 @@ venue: "40c490c8-052b-4e7a-a06e-329f14bbaa57"
 artists:
   - "c4948e25-0365-4d1a-bbcd-f4965c2d0efa"
 tickets:
-  web: "https://www.bandsintown.com/e/1037667973-coeur-de-pirate-at-le-plan?came_from=209"
+  web: "https://www.bandsintown.com/e/1037667973-coeur-de-pirate-at-le-plan"
 ---

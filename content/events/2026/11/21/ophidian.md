@@ -4,5 +4,5 @@ venue: "58d14cfd-9420-4511-8e24-cf97e35c7aab"
 artists:
   - "741434f4-873a-4a7c-a30b-c946a2d4ee48"
 tickets:
-  web: "https://www.bandsintown.com/e/1039066014-ophidian-at-autotron-rosmalen?came_from=209"
+  web: "https://www.bandsintown.com/e/1039066014-ophidian-at-autotron-rosmalen"
 ---

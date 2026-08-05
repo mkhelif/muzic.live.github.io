@@ -4,5 +4,5 @@ venue: "8368030c-5bd3-4f1e-8d1a-7ffe4ccc505b"
 artists:
   - "2c388851-6044-44fc-bc51-0dd699acbc72"
 tickets:
-  web: "https://www.bandsintown.com/e/1039434596-ravyn-lenae-at-franklin-music-hall?came_from=209"
+  web: "https://www.bandsintown.com/e/1039434596-ravyn-lenae-at-franklin-music-hall"
 ---

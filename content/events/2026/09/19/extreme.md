@@ -4,5 +4,5 @@ venue: "ea450250-68e9-4df6-82db-d099c1151a91"
 artists:
   - "f163bf9b-6bbb-422f-a271-219c03a925f2"
 tickets:
-  web: "https://www.bandsintown.com/e/107599166-extreme-at-long-beach-amphitheater?came_from=209"
+  web: "https://www.bandsintown.com/e/107599166-extreme-at-long-beach-amphitheater"
 ---

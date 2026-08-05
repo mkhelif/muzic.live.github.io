@@ -4,5 +4,5 @@ venue: "5d894c0b-21c2-4b55-b49c-d08e38cb4c21"
 artists:
   - "334bbfe0-a677-4e7c-bf20-2df2013bc8fa"
 tickets:
-  web: "https://www.bandsintown.com/e/1038997095-orleans-at-center-for-the-arts-of-homer?came_from=209"
+  web: "https://www.bandsintown.com/e/1038997095-orleans-at-center-for-the-arts-of-homer"
 ---

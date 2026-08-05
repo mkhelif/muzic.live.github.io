@@ -4,5 +4,5 @@ venue: "cb9eaa79-0e10-4dca-81ea-96cf518b2ad5"
 artists:
   - "0176d93d-8767-4244-96ba-d957271ec62b"
 tickets:
-  web: "https://www.bandsintown.com/e/108563786-daoud-at-les-herbiers?came_from=209"
+  web: "https://www.bandsintown.com/e/108563786-daoud-at-les-herbiers"
 ---

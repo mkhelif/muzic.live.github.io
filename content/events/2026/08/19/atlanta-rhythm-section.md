@@ -4,5 +4,5 @@ venue: "87cb5d49-8e08-4004-9841-9c9dabfc3b65"
 artists:
   - "8f069db3-e87d-4b0b-b6b5-b5bb35f8cf0d"
 tickets:
-  web: "https://www.bandsintown.com/e/1038325655-atlanta-rhythm-section-at-mayo-performing-arts-center?came_from=209"
+  web: "https://www.bandsintown.com/e/1038325655-atlanta-rhythm-section-at-mayo-performing-arts-center"
 ---

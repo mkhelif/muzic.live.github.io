@@ -4,5 +4,5 @@ venue: "3c9b9ac7-2a7d-4ccd-85b8-54eee1c662a4"
 artists:
   - "2ec22824-ec08-49ed-8f6b-06d315e0b0a0"
 tickets:
-  web: "https://www.bandsintown.com/e/1038781104-tete-at-rockstore?came_from=209"
+  web: "https://www.bandsintown.com/e/1038781104-tete-at-rockstore"
 ---

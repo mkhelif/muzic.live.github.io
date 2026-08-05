@@ -4,5 +4,5 @@ venue: "655c01ce-910f-4f76-a0e7-203baccddfd8"
 artists:
   - "2c388851-6044-44fc-bc51-0dd699acbc72"
 tickets:
-  web: "https://www.bandsintown.com/e/1036824769-ravyn-lenae-at-slottsskogen?came_from=209"
+  web: "https://www.bandsintown.com/e/1036824769-ravyn-lenae-at-slottsskogen"
 ---

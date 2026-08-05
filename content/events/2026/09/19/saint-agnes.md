@@ -4,5 +4,5 @@ venue: "b5a3e971-aa1c-4186-952a-8255dab1ed05"
 artists:
   - "0e369d7d-809c-47ad-af31-a3daa3ac8881"
 tickets:
-  web: "https://www.bandsintown.com/e/1039576613-saint-agnes-at-varsity-theater?came_from=209"
+  web: "https://www.bandsintown.com/e/1039576613-saint-agnes-at-varsity-theater"
 ---

@@ -4,5 +4,5 @@ venue: "08a7c7f3-2bb0-41d6-8106-88eb3de54c0e"
 artists:
   - "36d71760-2975-46a4-8745-a2a8adf0bc2e"
 tickets:
-  web: "https://www.bandsintown.com/e/1038406648-arottenbit-at-slay-glasgow?came_from=209"
+  web: "https://www.bandsintown.com/e/1038406648-arottenbit-at-slay-glasgow"
 ---

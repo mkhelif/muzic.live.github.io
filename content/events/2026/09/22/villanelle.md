@@ -4,5 +4,5 @@ venue: "04ab926b-05a5-4609-a3a2-bf6f74cfe927"
 artists:
   - "fcca18fd-32d0-4a08-93cc-dd90d335fc90"
 tickets:
-  web: "https://www.bandsintown.com/e/1039146086-villanelle-at-bok-center?came_from=209"
+  web: "https://www.bandsintown.com/e/1039146086-villanelle-at-bok-center"
 ---

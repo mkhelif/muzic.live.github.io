@@ -4,5 +4,5 @@ venue: "faae28f3-62c9-4f04-9a3d-621785554808"
 artists:
   - "5d066f72-b489-4304-adb0-c24676611c98"
 tickets:
-  web: "https://www.bandsintown.com/e/1039418375-koriass-at-le-club-dix30?came_from=209"
+  web: "https://www.bandsintown.com/e/1039418375-koriass-at-le-club-dix30"
 ---

@@ -4,5 +4,5 @@ venue: "af7b4cc6-e17f-4184-a347-6c5814f38414"
 artists:
   - "37ff9237-7441-496c-8f71-fb6d33d082a5"
 tickets:
-  web: "https://www.bandsintown.com/e/1037950693-nes-at-case-a-chocs?came_from=209"
+  web: "https://www.bandsintown.com/e/1037950693-nes-at-case-a-chocs"
 ---

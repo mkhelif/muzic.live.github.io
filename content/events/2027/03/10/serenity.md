@@ -4,5 +4,5 @@ venue: "bd856009-3aea-4bc2-8482-0b62dcd8f2aa"
 artists:
   - "45e3ff93-e08c-4461-8855-9eb34936a216"
 tickets:
-  web: "https://www.bandsintown.com/e/1039624106-serenity-at-garage-kleiner-klub?came_from=209"
+  web: "https://www.bandsintown.com/e/1039624106-serenity-at-garage-kleiner-klub"
 ---

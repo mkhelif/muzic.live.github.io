@@ -4,5 +4,5 @@ venue: "5aa0fed2-cbbb-4644-8337-ec194c7f88ce"
 artists:
   - "14555cb9-0620-46b9-8545-a34a0ecba5ce"
 tickets:
-  web: "https://www.bandsintown.com/e/1039626925-ana-at-bayou-music-center?came_from=209"
+  web: "https://www.bandsintown.com/e/1039626925-ana-at-bayou-music-center"
 ---

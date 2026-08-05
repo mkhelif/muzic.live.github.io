@@ -4,5 +4,5 @@ venue: "224cfcf0-19de-4540-94b8-90e8e0fd1d05"
 artists:
   - "b66a622e-d316-4c1c-9c74-f373d048d5bc"
 tickets:
-  web: "https://www.bandsintown.com/e/108562790-nothing-at-kulttuuritalo?came_from=209"
+  web: "https://www.bandsintown.com/e/108562790-nothing-at-kulttuuritalo"
 ---

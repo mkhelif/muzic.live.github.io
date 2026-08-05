@@ -4,5 +4,5 @@ venue: "73b38440-b686-480b-a1c7-58700f513c1f"
 artists:
   - "6c733c26-4674-4a1d-8a03-04c57347648d"
 tickets:
-  web: "https://www.bandsintown.com/e/108411460-black-country-new-road-at-orbe?came_from=209"
+  web: "https://www.bandsintown.com/e/108411460-black-country-new-road-at-orbe"
 ---

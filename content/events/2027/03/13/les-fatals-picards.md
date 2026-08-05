@@ -4,5 +4,5 @@ venue: "31e06350-c49d-4f92-bce3-9bfad0e7dc3d"
 artists:
   - "919b555e-dfff-45c0-9407-0e104c0175cf"
 tickets:
-  web: "https://www.bandsintown.com/e/1037318967-les-fatals-picards-at-la-laiterie?came_from=209"
+  web: "https://www.bandsintown.com/e/1037318967-les-fatals-picards-at-la-laiterie"
 ---

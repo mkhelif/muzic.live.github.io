@@ -4,5 +4,5 @@ venue: "3bcbf62b-e2a1-4c65-9899-dad1a11b0ffb"
 artists:
   - "2cd5189a-8e01-4c7f-a5e4-fce7df5ed1d1"
 tickets:
-  web: "https://www.bandsintown.com/e/108630317-earl-sweatshirt-at-rock-and-rock-hall-of-fame?came_from=209"
+  web: "https://www.bandsintown.com/e/108630317-earl-sweatshirt-at-rock-and-rock-hall-of-fame"
 ---

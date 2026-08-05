@@ -4,5 +4,5 @@ venue: "c1d049be-cf75-424e-852b-1eca499c318f"
 artists:
   - "2ab2da9d-b445-4b03-ac40-df80ece8af1e"
 tickets:
-  web: "https://www.bandsintown.com/e/108667411-myd-at-hossegor?came_from=209"
+  web: "https://www.bandsintown.com/e/108667411-myd-at-hossegor"
 ---

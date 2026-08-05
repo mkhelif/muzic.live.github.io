@@ -4,5 +4,5 @@ venue: "45e232ba-7260-433f-8291-dc1088d45abc"
 artists:
   - "d9cb29a4-4871-4ca1-a038-0bfa74c5bb00"
 tickets:
-  web: "https://www.bandsintown.com/e/107971405-pussy-miel-at-le-bus-stop?came_from=209"
+  web: "https://www.bandsintown.com/e/107971405-pussy-miel-at-le-bus-stop"
 ---

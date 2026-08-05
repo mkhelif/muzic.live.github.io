@@ -4,5 +4,5 @@ venue: "6bb0f1a4-7483-4421-a90b-40c8c084d4ee"
 artists:
   - "67b529a4-857c-455a-909a-c0fcbbfc4d9e"
 tickets:
-  web: "https://www.bandsintown.com/e/1038509962-declan-mckenna-at-richfield-avenue?came_from=209"
+  web: "https://www.bandsintown.com/e/1038509962-declan-mckenna-at-richfield-avenue"
 ---

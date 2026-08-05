@@ -4,5 +4,5 @@ venue: "bb4de981-9bdb-4305-8f07-f89ec0e924f2"
 artists:
   - "6ae17bc0-d30a-430c-9216-3223b7c54ea4"
 tickets:
-  web: "https://www.bandsintown.com/e/1038413359-franc-fala-at-1-hotel-brooklyn-bridge?came_from=209"
+  web: "https://www.bandsintown.com/e/1038413359-franc-fala-at-1-hotel-brooklyn-bridge"
 ---

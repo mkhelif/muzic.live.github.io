@@ -4,5 +4,5 @@ venue: "02e43326-4ea9-4afb-86b0-bdfc1069dcec"
 artists:
   - "2856fe20-af86-4082-a565-c953e09858e8"
 tickets:
-  web: "https://www.bandsintown.com/e/1037311638-2hot2play-at-fort-medoc?came_from=209"
+  web: "https://www.bandsintown.com/e/1037311638-2hot2play-at-fort-medoc"
 ---

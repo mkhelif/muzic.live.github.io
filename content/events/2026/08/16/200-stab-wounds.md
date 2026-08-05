@@ -4,5 +4,5 @@ venue: "c012e06e-7f9d-42fa-a7c4-723c4cb25c6b"
 artists:
   - "9922ffbb-2982-4882-8296-832ddbcb6a3c"
 tickets:
-  web: "https://www.bandsintown.com/e/108295354-200-stab-wounds-at-ijssportcentrum-eindhoven?came_from=209"
+  web: "https://www.bandsintown.com/e/108295354-200-stab-wounds-at-ijssportcentrum-eindhoven"
 ---

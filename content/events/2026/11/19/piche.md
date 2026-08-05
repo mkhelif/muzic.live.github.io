@@ -4,5 +4,5 @@ venue: "b41b0313-d8dd-4e7a-bdb2-93acf1bee3dd"
 artists:
   - "65d9ebbc-ea9b-4470-84b9-526466b9624c"
 tickets:
-  web: "https://www.bandsintown.com/e/108308313-piche-at-la-bam?came_from=209"
+  web: "https://www.bandsintown.com/e/108308313-piche-at-la-bam"
 ---

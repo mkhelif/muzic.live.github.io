@@ -4,5 +4,5 @@ venue: "9ba4e41e-6835-43fa-9c9c-97bea9863bcc"
 artists:
   - "73480e98-2a12-498d-962a-728b27732af4"
 tickets:
-  web: "https://www.bandsintown.com/e/108571175-gavin-harper-at-margaritaville-resort-gatlinburg?came_from=209"
+  web: "https://www.bandsintown.com/e/108571175-gavin-harper-at-margaritaville-resort-gatlinburg"
 ---

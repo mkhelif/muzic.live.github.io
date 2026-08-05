@@ -4,5 +4,5 @@ venue: "15551bdf-041b-4829-a1f5-d137440292fe"
 artists:
   - "8b395a4e-ab68-49bd-b083-38f136ae30ce"
 tickets:
-  web: "https://www.bandsintown.com/e/108377582-sam-carter-at-newhampton-arts-centre?came_from=209"
+  web: "https://www.bandsintown.com/e/108377582-sam-carter-at-newhampton-arts-centre"
 ---

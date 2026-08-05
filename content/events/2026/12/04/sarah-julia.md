@@ -4,5 +4,5 @@ venue: "e1c89933-598b-4015-aecd-332b9a056707"
 artists:
   - "9d3ae107-ced8-466a-a2d4-6333707859dc"
 tickets:
-  web: "https://www.bandsintown.com/e/108233545-sarah-julia-at-rotown-rotterdam?came_from=209"
+  web: "https://www.bandsintown.com/e/108233545-sarah-julia-at-rotown-rotterdam"
 ---

@@ -5,5 +5,5 @@ artists:
   - "d45f99a1-f864-48c5-a003-2fbc39cc40e0"
   - "5a619dd8-cdcc-4c02-8aae-28a0d93ef8cf"
 tickets:
-  web: "https://www.bandsintown.com/e/108027520-sex-pistols-feat.-frank-carter-at-l'olympia?came_from=209"
+  web: "https://www.bandsintown.com/e/108027520-sex-pistols-feat.-frank-carter-at-l'olympia"
 ---

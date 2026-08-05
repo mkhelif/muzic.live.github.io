@@ -4,5 +4,5 @@ venue: "afa9b3ae-fa0f-46a2-b0c5-5cb7b0d2e7ac"
 artists:
   - "1ba85cb0-ac00-47ee-a32e-64575d1462ae"
 tickets:
-  web: "https://www.bandsintown.com/e/108443511-serapis-project-at-feierwerk?came_from=209"
+  web: "https://www.bandsintown.com/e/108443511-serapis-project-at-feierwerk"
 ---

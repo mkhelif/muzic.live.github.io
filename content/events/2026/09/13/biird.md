@@ -4,5 +4,5 @@ venue: "5f82380a-0b20-4b23-b80e-242a14a15ab7"
 artists:
   - "97c8a0a6-a726-446c-8bdd-f707d7eb6c02"
 tickets:
-  web: "https://www.bandsintown.com/e/1038716752-biird-at-the-basement?came_from=209"
+  web: "https://www.bandsintown.com/e/1038716752-biird-at-the-basement"
 ---

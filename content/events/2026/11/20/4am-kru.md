@@ -4,5 +4,5 @@ venue: "ec0ae1f6-73c6-4dd8-bcd6-1ac3c93e3d39"
 artists:
   - "b3dfc14c-e5a1-499f-a294-a0449353034b"
 tickets:
-  web: "https://www.bandsintown.com/e/1038572534-4am-kru-at-o2-academy-oxford?came_from=209"
+  web: "https://www.bandsintown.com/e/1038572534-4am-kru-at-o2-academy-oxford"
 ---

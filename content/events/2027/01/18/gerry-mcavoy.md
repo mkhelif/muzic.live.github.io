@@ -4,5 +4,5 @@ venue: "38ef6888-9593-4354-9410-63bc1e96efb5"
 artists:
   - "6f23dcf0-de95-446a-b2f4-a6525c549514"
 tickets:
-  web: "https://www.bandsintown.com/e/1037834087-gerry-mcavoy-at-229?came_from=209"
+  web: "https://www.bandsintown.com/e/1037834087-gerry-mcavoy-at-229"
 ---

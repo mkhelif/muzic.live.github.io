@@ -4,5 +4,5 @@ venue: "fdbe9abb-993e-4bc0-8dde-c7d476e481c9"
 artists:
   - "df7c4ce1-04b5-45f0-a26b-4030e09100f9"
 tickets:
-  web: "https://www.bandsintown.com/e/1039084643-enola-gay-at-circolo-magnolia?came_from=209"
+  web: "https://www.bandsintown.com/e/1039084643-enola-gay-at-circolo-magnolia"
 ---

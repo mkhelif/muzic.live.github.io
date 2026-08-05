@@ -4,5 +4,5 @@ venue: "79d6f8a8-4788-420c-a2cc-edab4b8cef4d"
 artists:
   - "3804a6a6-4f46-4087-88f6-4656b3337241"
 tickets:
-  web: "https://www.bandsintown.com/e/108408871-la-luz-at-wild-buffalo-house-of-music?came_from=209"
+  web: "https://www.bandsintown.com/e/108408871-la-luz-at-wild-buffalo-house-of-music"
 ---

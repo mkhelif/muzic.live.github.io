@@ -4,5 +4,5 @@ venue: "c82140ac-310e-4ade-9c80-e40e3b75f48c"
 artists:
   - "19b96c93-43ba-4b97-b55b-20902fb084c6"
 tickets:
-  web: "https://www.bandsintown.com/e/107937794-green-carnation-at-la-carpa-poble-espanyol?came_from=209"
+  web: "https://www.bandsintown.com/e/107937794-green-carnation-at-la-carpa-poble-espanyol"
 ---

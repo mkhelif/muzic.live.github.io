@@ -4,5 +4,5 @@ venue: "0a3c7920-5bbd-47b2-b8a8-81321abb7e7a"
 artists:
   - "d1526a9e-382b-4931-85c8-1fa6ada47e54"
 tickets:
-  web: "https://www.bandsintown.com/e/1039401021-elwood-stray-at-columbiahalle?came_from=209"
+  web: "https://www.bandsintown.com/e/1039401021-elwood-stray-at-columbiahalle"
 ---

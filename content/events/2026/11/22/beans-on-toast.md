@@ -4,5 +4,5 @@ venue: "460f4348-d827-47a4-b206-60bf257593e9"
 artists:
   - "d55d5547-62c1-459c-ac0b-c66917817ddc"
 tickets:
-  web: "https://www.bandsintown.com/e/108609788-beans-on-toast-at-queens-hall?came_from=209"
+  web: "https://www.bandsintown.com/e/108609788-beans-on-toast-at-queens-hall"
 ---

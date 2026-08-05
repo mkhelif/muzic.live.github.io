@@ -4,5 +4,5 @@ venue: "4f209913-8fc1-4902-aa37-e23402187621"
 artists:
   - "10d04de8-c14a-4cf0-ac1c-8bd91d07657a"
 tickets:
-  web: "https://www.bandsintown.com/e/1039009847-gerd-janson-at-dc10?came_from=209"
+  web: "https://www.bandsintown.com/e/1039009847-gerd-janson-at-dc10"
 ---

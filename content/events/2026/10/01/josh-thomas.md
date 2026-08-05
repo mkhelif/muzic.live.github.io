@@ -4,5 +4,5 @@ venue: "74f7a6bd-b03b-4df6-9525-e8a169b6edca"
 artists:
   - "7f73ac3f-3884-4cea-9dbc-01ca03763819"
 tickets:
-  web: "https://www.bandsintown.com/e/1038277009-josh-thomas-at-light-house-arts-centre?came_from=209"
+  web: "https://www.bandsintown.com/e/1038277009-josh-thomas-at-light-house-arts-centre"
 ---

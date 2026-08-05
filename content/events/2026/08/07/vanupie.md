@@ -4,5 +4,5 @@ venue: "8f52a759-24e0-44a8-b284-2ebe14503316"
 artists:
   - "651061e0-a69a-4266-aa71-0167bff04c70"
 tickets:
-  web: "https://www.bandsintown.com/e/108033037-vanupie-at-festival-ohlinda?came_from=209"
+  web: "https://www.bandsintown.com/e/108033037-vanupie-at-festival-ohlinda"
 ---

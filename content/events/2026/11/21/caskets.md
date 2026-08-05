@@ -4,5 +4,5 @@ venue: "688fbed7-d4f7-49a4-b6a3-89fdd0c520d4"
 artists:
   - "4edfe0a1-33f2-443c-90fa-153e278185a0"
 tickets:
-  web: "https://www.bandsintown.com/e/1038771105-caskets-at-lucerna-music-bar?came_from=209"
+  web: "https://www.bandsintown.com/e/1038771105-caskets-at-lucerna-music-bar"
 ---

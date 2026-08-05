@@ -4,5 +4,5 @@ venue: "fe92d5db-7cab-416d-90a5-393bbf870c54"
 artists:
   - "09d2b102-9551-4625-8b06-5f269fd088ca"
 tickets:
-  web: "https://www.bandsintown.com/e/1039157638-loma-at-beta?came_from=209"
+  web: "https://www.bandsintown.com/e/1039157638-loma-at-beta"
 ---

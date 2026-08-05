@@ -4,5 +4,5 @@ venue: "80db3d3b-43e4-4a25-a3f7-c5babcd24b71"
 artists:
   - "5132e8c1-2a28-488c-bae7-6804213eccd5"
 tickets:
-  web: "https://www.bandsintown.com/e/1038862094-marc-atlas-at-fzw?came_from=209"
+  web: "https://www.bandsintown.com/e/1038862094-marc-atlas-at-fzw"
 ---

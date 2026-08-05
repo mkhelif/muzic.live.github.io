@@ -4,5 +4,5 @@ venue: "d1b9a2e2-31b2-40cf-a0a7-ad7f0fc2aa24"
 artists:
   - "6c4d9cce-7151-4794-8786-274201f7df9e"
 tickets:
-  web: "https://www.bandsintown.com/e/1039439084-dom-glynn-and-his-sunday-best-at-hyde-park-book-club?came_from=209"
+  web: "https://www.bandsintown.com/e/1039439084-dom-glynn-and-his-sunday-best-at-hyde-park-book-club"
 ---

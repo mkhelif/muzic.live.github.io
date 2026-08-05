@@ -4,5 +4,5 @@ venue: "4df1f03c-28e8-459c-9fad-b62207290ef4"
 artists:
   - "a36fc689-098e-41c1-b6b5-b9cd3a49b36e"
 tickets:
-  web: "https://www.bandsintown.com/e/108668656-paradise-lost-at-mr.fox-live-house?came_from=209"
+  web: "https://www.bandsintown.com/e/108668656-paradise-lost-at-mr.fox-live-house"
 ---

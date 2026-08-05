@@ -4,5 +4,5 @@ venue: "3f76512c-35d0-413f-aa20-0cf68a1aa960"
 artists:
   - "0176d93d-8767-4244-96ba-d957271ec62b"
 tickets:
-  web: "https://www.bandsintown.com/e/1039529970-daoud-at-l'avant-seine-theatre-de-colombes?came_from=209"
+  web: "https://www.bandsintown.com/e/1039529970-daoud-at-l'avant-seine-theatre-de-colombes"
 ---

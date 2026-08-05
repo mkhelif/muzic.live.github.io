@@ -3,6 +3,7 @@ id: "ab264918-b7a4-488a-836e-93a7c61cf157"
 title: "Cléa Vincent"
 type: person
 socials:
+  musicbrainz: "90024c0b-daa5-485c-818c-c600522ce1b8"
   facebook: "cleavincentmusic"
   instagram: "cleavincent"
   bandcamp: "cleavincent"
@@ -20,9 +21,12 @@ socials:
   deezer: "4856469"
   qobuz: ""
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   deezer: 2026-07-27
   bandsintown: 2026-07-27
   spotify: 2026-07-23
+lifespan:
+  start: 1985
 ---
 
 Cléa Vincent est une chanteuse française qui émerge sur la scène pop hexagonale avec une approche moderne et

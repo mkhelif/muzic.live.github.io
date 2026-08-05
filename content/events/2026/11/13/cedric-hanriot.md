@@ -4,5 +4,5 @@ venue: "7ddbcbb2-77c5-4e40-bd17-f754424c9b60"
 artists:
   - "bca3e988-7365-40f6-9ef8-1b165a5d57d3"
 tickets:
-  web: "https://www.bandsintown.com/e/108526711-cedric-hanriot-at-national-center-of-musical-creation-voce?came_from=209"
+  web: "https://www.bandsintown.com/e/108526711-cedric-hanriot-at-national-center-of-musical-creation-voce"
 ---

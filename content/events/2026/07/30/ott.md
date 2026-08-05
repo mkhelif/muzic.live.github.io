@@ -4,5 +4,5 @@ venue: "5d36b16b-0669-40f6-bfff-ebc8d0c21e33"
 artists:
   - "7efea2e6-942f-46e5-b24a-e6ffa2f9757d"
 tickets:
-  web: "https://www.bandsintown.com/e/108275073-ott-at-jaceland?came_from=209"
+  web: "https://www.bandsintown.com/e/108275073-ott-at-jaceland"
 ---

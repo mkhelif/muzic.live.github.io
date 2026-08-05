@@ -4,5 +4,5 @@ venue: "398cbcb5-48d3-4825-abe9-308745f520f7"
 artists:
   - "5c962b05-0937-4731-8c1c-2221d1f255c8"
 tickets:
-  web: "https://www.bandsintown.com/e/108025306-dominum-at-turbinenhalle?came_from=209"
+  web: "https://www.bandsintown.com/e/108025306-dominum-at-turbinenhalle"
 ---

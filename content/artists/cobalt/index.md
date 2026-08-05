@@ -2,6 +2,7 @@
 id: "8383fea1-ba81-4615-ad8f-47da334912ff"
 title: "Cobalt"
 socials:
+  musicbrainz: "4f6c7a73-372c-4610-b2c5-be7e372b30b0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,6 +23,7 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz-lookup: 2026-08-05
   apple-lookup: 2026-07-27
   bandsintown: 2026-07-27
   deezer-lookup: 2026-07-27

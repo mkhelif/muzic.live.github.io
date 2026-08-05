@@ -4,5 +4,5 @@ venue: "d72abde8-2052-46d9-a73e-b0345edf5d4b"
 artists:
   - "c858b2ec-3d8a-414d-ae87-07e385eb832c"
 tickets:
-  web: "https://www.bandsintown.com/e/1038651427-rauhbein-at-conrad-sohm?came_from=209"
+  web: "https://www.bandsintown.com/e/1038651427-rauhbein-at-conrad-sohm"
 ---

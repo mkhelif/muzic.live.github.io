@@ -4,5 +4,5 @@ venue: "ee886180-3c29-42dc-a4f6-47950ff6e861"
 artists:
   - "45e3ff93-e08c-4461-8855-9eb34936a216"
 tickets:
-  web: "https://www.bandsintown.com/e/1039624517-serenity-at-bahnhof-pauli?came_from=209"
+  web: "https://www.bandsintown.com/e/1039624517-serenity-at-bahnhof-pauli"
 ---

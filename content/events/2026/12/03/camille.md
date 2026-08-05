@@ -4,5 +4,5 @@ venue: "ca235cc1-b53b-4a4b-bf2d-5ecef4caa8de"
 artists:
   - "878c9e8e-5fa0-40a5-9c75-1c050e52ac9a"
 tickets:
-  web: "https://www.bandsintown.com/e/108202099-camille-at-la-vapeur?came_from=209"
+  web: "https://www.bandsintown.com/e/108202099-camille-at-la-vapeur"
 ---

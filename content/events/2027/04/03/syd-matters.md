@@ -4,5 +4,5 @@ venue: "dcd7a90e-57fb-407c-92a6-f47e855f4e58"
 artists:
   - "cd42db45-383b-4d25-8775-8a3c665660b6"
 tickets:
-  web: "https://www.bandsintown.com/e/108449213-syd-matters-at-paloma?came_from=209"
+  web: "https://www.bandsintown.com/e/108449213-syd-matters-at-paloma"
 ---

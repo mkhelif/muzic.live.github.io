@@ -4,5 +4,5 @@ venue: "fc94bc47-0189-4fc9-83d8-5bdeae2f7212"
 artists:
   - "090df0b4-064b-48e0-b228-a2f41bb91bc0"
 tickets:
-  web: "https://www.bandsintown.com/e/1038286702-mor-elian-at-cadavra?came_from=209"
+  web: "https://www.bandsintown.com/e/1038286702-mor-elian-at-cadavra"
 ---

@@ -4,5 +4,5 @@ venue: "0a3c7920-5bbd-47b2-b8a8-81321abb7e7a"
 artists:
   - "ff2bb283-50f1-4e95-9df4-34753e3d647c"
 tickets:
-  web: "https://www.bandsintown.com/e/1038122449-anstandslos-and-durchgeknallt-at-columbiahalle?came_from=209"
+  web: "https://www.bandsintown.com/e/1038122449-anstandslos-and-durchgeknallt-at-columbiahalle"
 ---

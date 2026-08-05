@@ -4,5 +4,5 @@ venue: "7408fede-36fb-47c4-a88c-f7985e1a07d0"
 artists:
   - "7ad7a2b0-f6d9-4674-aea8-712a5c0e1b47"
 tickets:
-  web: "https://www.bandsintown.com/e/1038328596-bleachers-at-landmark-credit-union-live?came_from=209"
+  web: "https://www.bandsintown.com/e/1038328596-bleachers-at-landmark-credit-union-live"
 ---

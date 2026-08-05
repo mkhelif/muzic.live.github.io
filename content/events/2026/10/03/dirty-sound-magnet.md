@@ -4,5 +4,5 @@ venue: "2b4b16db-e0ae-4e56-b0c2-1d1ca4e9d0c8"
 artists:
   - "59bf4a2d-5e56-4a06-a389-70b36948a1f6"
 tickets:
-  web: "https://www.bandsintown.com/e/1038933425-dirty-sound-magnet-at-boggs-social-and-supply?came_from=209"
+  web: "https://www.bandsintown.com/e/1038933425-dirty-sound-magnet-at-boggs-social-and-supply"
 ---

@@ -4,5 +4,5 @@ venue: "50766a4b-e1b4-4a22-b043-dcc3a8320910"
 artists:
   - "1757b0c8-77c9-44c9-a11b-1a9c38c0b57f"
 tickets:
-  web: "https://www.bandsintown.com/e/108392586-tex-crick-at-the-waiting-room?came_from=209"
+  web: "https://www.bandsintown.com/e/108392586-tex-crick-at-the-waiting-room"
 ---

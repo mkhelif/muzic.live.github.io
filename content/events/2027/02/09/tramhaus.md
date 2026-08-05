@@ -4,5 +4,5 @@ venue: "e3c25b23-d07d-40c6-a519-f0864afc04d3"
 artists:
   - "2d606c65-9a4d-40bc-8d26-b78fab764a80"
 tickets:
-  web: "https://www.bandsintown.com/e/1039268421-tramhaus-at-neue-zukunft?came_from=209"
+  web: "https://www.bandsintown.com/e/1039268421-tramhaus-at-neue-zukunft"
 ---

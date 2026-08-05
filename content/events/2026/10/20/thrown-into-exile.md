@@ -4,5 +4,5 @@ venue: "43aa8298-fe57-46e6-9866-d39e6a704093"
 artists:
   - "d8fbb6ec-d445-4959-bb22-270f41d8cc4b"
 tickets:
-  web: "https://www.bandsintown.com/e/1039060774-thrown-into-exile-at-the-masquerade?came_from=209"
+  web: "https://www.bandsintown.com/e/1039060774-thrown-into-exile-at-the-masquerade"
 ---

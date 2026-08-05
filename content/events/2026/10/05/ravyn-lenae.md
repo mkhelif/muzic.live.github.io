@@ -4,5 +4,5 @@ venue: "340eec97-a23d-4d82-aab9-f9a62369ee84"
 artists:
   - "2c388851-6044-44fc-bc51-0dd699acbc72"
 tickets:
-  web: "https://www.bandsintown.com/e/1039436020-ravyn-lenae-at-history?came_from=209"
+  web: "https://www.bandsintown.com/e/1039436020-ravyn-lenae-at-history"
 ---

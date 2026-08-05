@@ -4,5 +4,5 @@ venue: "0b054708-b817-41fa-9c94-70058b54c9d2"
 artists:
   - "3c50b718-b8e1-4bce-9cd4-cbbdd6a30e95"
 tickets:
-  web: "https://www.bandsintown.com/e/1039155147-justin-nozuka-at-deep-ellum-art-company?came_from=209"
+  web: "https://www.bandsintown.com/e/1039155147-justin-nozuka-at-deep-ellum-art-company"
 ---

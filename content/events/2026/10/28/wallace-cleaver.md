@@ -4,5 +4,5 @@ venue: "85281d3f-8c7d-4ddc-8aef-01c42dafbf2d"
 artists:
   - "0ec772d1-6700-40a4-a869-88a5b714b637"
 tickets:
-  web: "https://www.bandsintown.com/e/108260526-wallace-cleaver-at-le-transbordeur?came_from=209"
+  web: "https://www.bandsintown.com/e/108260526-wallace-cleaver-at-le-transbordeur"
 ---

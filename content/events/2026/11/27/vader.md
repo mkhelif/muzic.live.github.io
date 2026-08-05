@@ -4,5 +4,5 @@ venue: "dcf4d2f1-f26f-4c5e-8b75-cc6cdef8699a"
 artists:
   - "f9da39f9-7208-42e9-912a-f66cb2483087"
 tickets:
-  web: "https://www.bandsintown.com/e/1038489555-vader-at-crowbar-sydney?came_from=209"
+  web: "https://www.bandsintown.com/e/1038489555-vader-at-crowbar-sydney"
 ---

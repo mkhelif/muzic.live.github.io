@@ -4,5 +4,5 @@ venue: "e67f8a3d-60d1-4360-b715-82ce4858105c"
 artists:
   - "6eb042b4-49b6-4fc5-95a0-2f23ee09e793"
 tickets:
-  web: "https://www.bandsintown.com/e/1039668102-fola-dada-at-haus-des-gastes?came_from=209"
+  web: "https://www.bandsintown.com/e/1039668102-fola-dada-at-haus-des-gastes"
 ---

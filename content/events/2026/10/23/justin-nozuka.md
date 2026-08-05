@@ -4,5 +4,5 @@ venue: "c76488cc-4780-4da5-8572-c2c64cac1ed2"
 artists:
   - "3c50b718-b8e1-4bce-9cd4-cbbdd6a30e95"
 tickets:
-  web: "https://www.bandsintown.com/e/1039151268-justin-nozuka-at-teragram-ballroom?came_from=209"
+  web: "https://www.bandsintown.com/e/1039151268-justin-nozuka-at-teragram-ballroom"
 ---

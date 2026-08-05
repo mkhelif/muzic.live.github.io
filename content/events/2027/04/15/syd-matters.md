@@ -4,5 +4,5 @@ venue: "2870ed8f-b3a2-4070-947f-94b0cba2deb8"
 artists:
   - "cd42db45-383b-4d25-8775-8a3c665660b6"
 tickets:
-  web: "https://www.bandsintown.com/e/1039146345-syd-matters-at-le-106?came_from=209"
+  web: "https://www.bandsintown.com/e/1039146345-syd-matters-at-le-106"
 ---
