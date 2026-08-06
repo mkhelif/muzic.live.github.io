@@ -2,6 +2,10 @@
 id: "4b10f702-1c52-4afc-9012-3111f0125c11"
 title: "Crushed Being Groovy"
 type: band
+members:
+  - id: "eeceff5c-bb9a-42a3-93af-4e3b8bb13e5c"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "23744c54-ebe6-4f82-82d3-ccbaafddaf7f"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
