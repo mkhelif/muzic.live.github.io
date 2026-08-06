@@ -2,6 +2,11 @@
 id: "30c89cc9-d1b2-40bb-b33a-750c78852818"
 venue: "dfc99999-4112-47ce-915d-38f00ea0bc7a"
 title: "L'Usine"
+# Per-venue calendars are opt-in: `ics` was removed from [outputs].page
+# in hugo.toml (it produced 58k mostly-empty files). This venue keeps one.
+outputs:
+  - html
+  - ics
 address: "Place des Volontaires 4, 1204 Genève, Suisse"
 coordinates:
   latitude: 46.203977

@@ -27,11 +27,11 @@ enableRobotsTXT = true
 [pagination]
   pagerSize = 50
 
-# RSS
+# Outputs
 [outputs]
-  home = ['html', 'rss', 'ics']
-  page = ['html', 'ics']
-  section = ['html', 'ics']
+  home = ['html', 'rss']
+  page = ['html']
+  section = ['html']
   taxonomy = ['html']
   term = ['html']
 

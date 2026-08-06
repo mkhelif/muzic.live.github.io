@@ -2,6 +2,11 @@
 id: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 venue: "675b6a08-55bc-4cc7-92b8-e235888b8925"
 title: "Les Docks"
+# Per-venue calendars are opt-in: `ics` was removed from [outputs].page
+# in hugo.toml (it produced 58k mostly-empty files). This venue keeps one.
+outputs:
+  - html
+  - ics
 address: "Avenue de Sévelin 34, 1004 Lausanne, Suisse"
 coordinates:
   latitude: 46.522434

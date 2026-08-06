@@ -1,6 +1,12 @@
 {{- if gt (len .events) 0 -}}
     <div id="events" data-pagefind-ignore="all">
-        {{- partial "titles/h3.html" (dict "title" "Concerts à venir" "link" (printf "%s/calendar.ics" .context.Path) "linkText" " " "linkIcon" "fa-calendar") -}}
+        {{- if .context.OutputFormats.Get "ics" -}}
+            {{- with .context.OutputFormats.Get "ics" -}}
+                {{- partial "titles/h3.html" (dict "title" "Concerts à venir" "link" .RelPermalink "linkText" " " "linkIcon" "fa-calendar") -}}
+            {{- end -}}
+        {{- else -}}
+            {{- partial "titles/h3.html" (dict "title" "Concerts à venir") -}}
+        {{- end -}}
         <table class="table table-sm table-borderless">
             <thead>
                 <tr>
