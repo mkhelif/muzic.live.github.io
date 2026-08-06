@@ -2,6 +2,10 @@
 id: "8c725fcc-68b3-4a55-bea6-b356bc50c34a"
 title: "Drachenfeuer"
 type: band
+members:
+  - id: "315fd741-1f13-4d24-8e49-733fee96e752"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "b8c01140-ed49-4abe-b2c4-31c557f7affb"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

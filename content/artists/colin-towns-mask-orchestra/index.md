@@ -1,0 +1,27 @@
+---
+id: "9642caf4-2832-400d-958e-c98c28f1dc08"
+title: "Colin Towns Mask Orchestra"
+type: band
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  songkick: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+  musicbrainz: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+  - Add members
+---
