@@ -2,6 +2,10 @@
 id: "3ab627df-f299-4b8c-b2e6-6d07e9ea9dea"
 title: "Dogpiss"
 type: band
+members:
+  - id: "eac11102-4568-46b1-ad3b-7037f4a15ae7"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "0d9b3721-c30e-47bb-aaaf-11c78249e9b8"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

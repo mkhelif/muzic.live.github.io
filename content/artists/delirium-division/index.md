@@ -2,6 +2,10 @@
 id: "007450a9-95ef-4274-86fe-b62d319d845e"
 title: "Delirium Division"
 type: band
+members:
+  - id: "60428f07-6454-47b9-9ba5-b5de897ada40"
+    roles:
+      - guitar
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "b2514e1b-0371-4fe1-af18-1fbf7e32a1f2"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
