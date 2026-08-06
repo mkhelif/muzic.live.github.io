@@ -6,7 +6,7 @@ members:
   - id: "21b3a678-d01d-458d-a6aa-f27e5a09e356"
     roles:
       - guitar
-      - other
+      - strings
     periods:
       - start: 1995
         end: 2006
@@ -59,5 +59,6 @@ todo:
   - Add description
   - Add members
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

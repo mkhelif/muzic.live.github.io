@@ -55,8 +55,24 @@ socials:
 todo:
   - Add picture
   - Verify and add socials
-  - Add detailed description
 lastUpdate:
   musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
+
+Orange Blossom est un groupe français d'électro-world music formé à Nantes en 1993, dont le nom
+est emprunté au morceau *Orange Blossom Special* du groupe suédois The Spotnicks. Le trio fondateur réunit
+**Pierre-Jean Chabot** (violon, basse), **Jay C.** (chant, guitare, orgue) et **Éric Le Brun** (guitare, orgue).
+
+###### Entre électronique pure et musiques du monde
+
+Après deux cassettes autoproduites, le groupe publie son premier album éponyme en 1997, développant un style à la
+croisée de la musique électronique et de la world music, entre influences arabes et occidentales. Le départ de Jay C.
+en 2000 amène l'arrivée, l'année suivante, de la chanteuse **Leïla Bounous** et du percussionniste **Mathias
+Vaguenez**, qui infléchissent le son du groupe.
+
+###### Vers la fusion orientale-électronique
+
+Avec l'album **Everything Must Change** (2005), Orange Blossom pousse plus loin ses collaborations avec des musiciens
+traditionnels égyptiens et nubiens du collectif Ganoub, affirmant une identité électro-ethnique singulière sur la
+scène world française.

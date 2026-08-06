@@ -26,5 +26,7 @@ todo:
 lifespan:
   start: 1975-04-22
 lastUpdate:
+  setlistfm: 2026-08-06
+  bandsintown: 2026-08-06
   musicbrainz: 2026-08-05
 ---

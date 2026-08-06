@@ -22,6 +22,10 @@ socials:
 lifespan:
   start: 1995-12-03
 lastUpdate:
+  setlistfm: 2026-08-06
+  deezer: 2026-08-06
+  apple: 2026-08-06
+  bandsintown: 2026-08-06
   musicbrainz: 2026-08-05
 ---
 Angèle Van Laeken est l'une des artistes les plus marquantes de la scène pop francophone des années 2010 et 2020. Née dans une famille d'artistes à Bruxelles, révélée par un premier album au succès foudroyant, elle a su imposer un style musical personnel — mêlant pop, R&B, électro et jazz — et une présence publique engagée qui font d'elle bien plus qu'une simple chanteuse à succès.

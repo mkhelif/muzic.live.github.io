@@ -49,6 +49,8 @@ members:
       - bass
       - drums
       - keys
+      - accordion
+      - strings
       - other
     periods:
       - start: 1962
@@ -109,6 +111,7 @@ socials:
 todo:
   - Add picture
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

@@ -19,6 +19,8 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  setlistfm: 2026-08-05
+  bandsintown: 2026-08-05
   musicbrainz: 2026-08-05
 ---
 

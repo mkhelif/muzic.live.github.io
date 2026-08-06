@@ -2,24 +2,28 @@
 id: "4ac9b58d-c4a7-4d8e-9b5a-ec35ccc4c491"
 title: "Zoh Amba"
 socials:
+  musicbrainz: "e2e401aa-48a4-4c94-8f21-431a42506a33"
   facebook: ""
   instagram: ""
   tiktok: ""
   threads: ""
   x: ""
   bandsintown: "15522953"
+  songkick: "10225593"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1574656422"
   deezer: "137992872"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "3Xfp6T1hoOKpC4Ywcz93EL"
+  tidal: "26620823"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Zoh Amba est une compositrice, saxophoniste et flûtiste américaine originaire de Kingsport, dans le Tennessee, issue

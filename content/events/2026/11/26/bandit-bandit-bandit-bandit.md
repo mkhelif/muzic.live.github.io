@@ -1,0 +1,9 @@
+---
+date: 2026-11-26T20:00:00
+venue: "c807f981-1636-4417-a407-992385df55b2"
+artists:
+  - "404bf386-6e22-4c2c-9109-832c64bb3638"
+  - "404bf386-6e22-4c2c-9109-832c64bb3638"
+tickets:
+  web: "https://www.bandsintown.com/e/108485679-bandit-bandit-at-le-poche"
+---

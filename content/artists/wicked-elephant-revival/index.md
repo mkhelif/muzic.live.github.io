@@ -5,6 +5,7 @@ type: band
 aliases:
   - "W.E.R."
 socials:
+  musicbrainz: "d9ce4308-856f-4621-bde3-4c99c0a642e2"
   facebook: "werthebandofficial"
   instagram: "werthebandofficial"
   tiktok: "@werthebandofficial"
@@ -18,6 +19,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 ###### Le classic rock azuréen ressuscite ses démons

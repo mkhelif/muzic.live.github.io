@@ -3,20 +3,26 @@ id: "83b7f94f-c89e-49a1-80bc-8aac57c3cd19"
 title: "Vanessa Paradis"
 type: person
 socials:
+  musicbrainz: "46193c80-959a-499d-b42f-f33ba7b9b18e"
   facebook: "vanessaparadisofficiel"
   instagram: "vanessa.paradis"
   tiktok: ""
   x: ""
   bandsintown: "61238"
+  songkick: "275931"
   youtube: "@vanessaparadis7759"
   web: "https://vanessaparadis.store/"
   email: ""
   amazon: ""
-  apple: ""
+  apple: "77625205"
   deezer: "1127"
-  qobuz: ""
+  qobuz: "34932"
   spotify: "1FmxE030Xe2H8Bn9bdv6Pd"
-  tidal: ""
+  tidal: "32136"
+lifespan:
+  start: 1972-12-22
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Vanessa Chantal **Paradis**, née le 22 décembre 1972, est une chanteuse, mannequin et actrice française qui grandit à

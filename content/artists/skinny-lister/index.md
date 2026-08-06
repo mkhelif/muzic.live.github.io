@@ -21,7 +21,7 @@ members:
     roles:
       - sing
       - guitar
-      - other
+      - accordion
     periods:
       - start: 2009
       - start: 2009
@@ -122,5 +122,6 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

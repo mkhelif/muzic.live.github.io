@@ -71,7 +71,7 @@ members:
         end: 1975
   - id: "f499e15d-b2a5-45fb-abae-f5523d95139c"
     roles:
-      - other
+      - violin
     periods:
       - start: 1973
         end: 1974
@@ -104,5 +104,6 @@ todo:
   - Add description
   - Add members
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

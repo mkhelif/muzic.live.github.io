@@ -5,47 +5,61 @@ type: band
 members:
   - id: "9441f502-ef5b-46e0-a882-4b0b05fcf94a"
     roles:
-      - sing
+      - other
     periods:
       - start: 1984
-  - id: "c95a2364-faaa-4a8a-84a1-5a916b81054e"
-    roles:
-      - guitar
-    periods:
-      - start: 1985
-  - id: "6da32e7c-6507-4967-bd69-5e2fe684cb9c"
-    roles:
-      - bass
-    periods:
-      - start: 1984
-        end: 2018
-  - id: "71a21aa0-be2e-41ef-bd46-45713bc69871"
-    roles:
-      - bass
-    periods:
-      - start: 2019
-  - id: "1da80423-87e7-4393-aab6-4e50329f4d38"
-    roles:
-      - drums
-    periods:
-      - start: 1987
-        end: 2003
-  - id: "df53d676-280b-44b1-9d51-9e43269fc87f"
-    roles:
-      - drums
-    periods:
-      - start: 2007
-        end: 2021
-  - id: "825d205a-f3a8-48b0-ac32-c2e78658f549"
-    roles:
-      - drums
-    periods:
-      - start: 2023
-  - id: "fe9d24a3-9161-4efd-b5ee-3fc6b85b4bfd"
+  - id: "c9cdeddb-d45a-4b0b-89dc-2bb7fbeb2dfa"
     roles:
       - other
     periods:
+      - start: 1985
+  - id: "df53d676-280b-44b1-9d51-9e43269fc87f"
+    roles:
+      - other
+    periods:
+      - start: 2007
+  - id: "1ca505c5-73f1-4879-8109-c8d9ddaaa981"
+    roles:
+      - sing
+      - guitar
+      - keys
+      - other
+    periods:
       - start: 2023
+      - start: 2023
+      - start: 2023
+      - start: 2023
+      - start: 2023
+  - id: "76db0298-4c99-46b2-b088-e6a9e6f578b8"
+    roles:
+      - drums
+    periods:
+      - start: 1984
+        end: 1987
+  - id: "eb547be7-5710-4f76-808f-9ed452a61f9a"
+    roles:
+      - other
+    periods:
+      - start: 1984
+        end: 2018
+  - id: "1da80423-87e7-4393-aab6-4e50329f4d38"
+    roles:
+      - other
+    periods:
+      - start: 1987
+        end: 2003
+  - id: "255e1d6a-09af-4048-b2da-897da7402b4e"
+    roles:
+      - other
+    periods:
+      - start: 1994
+        end: 2005
+  - id: "b13ba61c-350c-45dd-909f-750b64f3561b"
+    roles:
+      - drums
+    periods:
+      - start: 2003
+        end: 2005
 socials:
   musicbrainz: "23a03e33-a603-404e-bcbf-2c00159d7067"
   facebook: "Offspring"
@@ -65,6 +79,7 @@ socials:
   spotify: "5LfGQac0EIXyAN8aUwmNAQ"
   tidal: "1009"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

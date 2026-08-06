@@ -21,4 +21,6 @@ todo:
   - Add detailed description
   - Verify social networks
   - Add logo cover
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

@@ -6,16 +6,21 @@ members:
   - id: "c595bc09-6f4a-4a71-a4d4-9fb897a1c198"
     roles:
       - sing
-    periods:
-      - start: 1994
-  - id: "6fc1c62f-4787-4db0-b496-877b63d950a6"
-    roles:
-      - bass
+      - guitar
+      - keys
     periods:
       - start: 1994
   - id: "1ef5a18c-5191-4f75-8119-c44bc6f773e5"
     roles:
       - drums
+      - keys
+    periods:
+      - start: 1994
+  - id: "ee1d36d6-5f65-42f9-8621-a8d5fe6c1a5b"
+    roles:
+      - sing
+      - bass
+      - other
     periods:
       - start: 1994
 socials:
@@ -36,6 +41,7 @@ socials:
   spotify: "12Chz98pHFMPJEknJQMWvI"
   tidal: "16335"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

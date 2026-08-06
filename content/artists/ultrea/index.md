@@ -3,6 +3,7 @@ id: "5244a455-80b3-44b2-b86e-5190f6fed578"
 title: "Ultrea"
 type: band
 socials:
+  musicbrainz: "bb099603-804d-49e2-befe-7d4f40a5fde8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

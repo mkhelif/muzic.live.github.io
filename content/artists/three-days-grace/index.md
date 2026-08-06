@@ -3,16 +3,12 @@ id: "0c37f31b-10ff-44e8-9205-f7d5ff9de427"
 title: "Three Days Grace"
 type: band
 members:
-  - id: "b7d355d7-ef99-4e08-b090-d7c86465edb1"
-    roles:
-      - sing
-    periods:
-      - start: 2024
-      - start: 1997
-        end: 2013
   - id: "7860605f-39c1-4e2c-b6a9-6fde28174053"
     roles:
+      - sing
       - drums
+      - keys
+      - other
     periods:
       - start: 1997
   - id: "10e6ae7f-107e-4158-88f0-fa17c86612d2"
@@ -30,6 +26,13 @@ members:
       - sing
     periods:
       - start: 2013
+  - id: "b7d355d7-ef99-4e08-b090-d7c86465edb1"
+    roles:
+      - sing
+      - guitar
+    periods:
+      - start: 1997
+        end: 2013
 socials:
   musicbrainz: "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d"
   facebook: "threedaysgrace"
@@ -49,6 +52,7 @@ socials:
   tidal: "35937"
   email: ""
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

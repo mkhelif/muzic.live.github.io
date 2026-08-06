@@ -3,22 +3,28 @@ id: "4fec5d54-529f-4f7b-9261-f7b2804263c3"
 title: "Zara Larsson"
 type: person
 socials:
+  musicbrainz: "134e6410-6954-45d1-bd4a-0f2d2ad5471d"
   facebook: "ZaraLarsson"
   instagram: "zaralarsson"
   tiktok: "@zaralarsson"
   x: "zaralarsson"
   bandsintown: "1602952"
+  songkick: "7245764"
   youtube: "@ZaraLarssonOfficial"
   web: "https://www.zaralarssonofficial.com/"
   tidal: "4815108"
   spotify: "1Xylc3o4UrD53lo9CvFvVg"
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B00BE054OW"
+  apple: "570372593"
   deezer: "4331004"
-  qobuz: ""
+  qobuz: "1120297"
 todo:
   - Add picture from concert
+lifespan:
+  start: 1997-12-16
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Zara Larsson est une chanteuse et auteure-compositrice suédoise née le 16 décembre 1997 à Solna, dans la banlieue de

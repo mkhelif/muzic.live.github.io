@@ -3,20 +3,26 @@ id: "d3df9cd6-179b-4b26-99bc-f3d2b793a24d"
 title: "Zaz"
 type: person
 socials:
+  musicbrainz: "e3214827-bd09-4d53-a88c-893d61556352"
   facebook: "zazofficial"
   instagram: "zaz_off"
   tiktok: "@zaz_officiel"
   x: "Zaz_Official"
   bandsintown: "941158"
+  songkick: "659617"
   youtube: "@Zaz_off"
   web: "https://zazofficial.com/"
   email: "contact@zazofficial.com"
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "67103434"
+  deezer: "71069"
+  qobuz: "273514"
   spotify: "1mbgj8ERPs8lWi7t5cYrdy"
-  tidal: ""
+  tidal: "3705900"
+lifespan:
+  start: 1980-05-01
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Isabelle Geffroy, dite **Zaz**, naît le 1er mai 1980 à Chambray-lès-Tours, en Indre-et-Loire. Chanteuse à la voix

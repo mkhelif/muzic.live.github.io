@@ -3,26 +3,30 @@ id: "d774c773-472f-4cd1-8d6e-a15efce12060"
 title: "Hollywood Undead"
 type: band
 members:
+  - id: "ad119b2a-a0e1-45c8-8748-aa0ed71c4ddb"
+    roles:
+      - sing
+    periods:
+      - start: 2005
+      - start: 2005
   - id: "0ca12b40-e7fc-44f7-85ea-dc63dc84bd3f"
     roles:
       - sing
       - guitar
       - bass
       - keys
-      - other
     periods:
       - start: 2005
-  - id: "ad119b2a-a0e1-45c8-8748-aa0ed71c4ddb"
-    roles:
-      - sing
-      - bass
-    periods:
+      - start: 2005
+      - start: 2005
+      - start: 2005
       - start: 2005
   - id: "127e0857-5519-4ccd-8d50-8e8819dcc4a8"
     roles:
       - sing
       - bass
     periods:
+      - start: 2013
       - start: 2005
   - id: "897ff011-105f-4eb0-a147-2b90f250a377"
     roles:
@@ -30,21 +34,24 @@ members:
       - guitar
     periods:
       - start: 2005
-  - id: "5732cb6b-bb5e-4317-a970-ee8f1f76ceaf"
+      - start: 2005
+  - id: "f677a309-4c9a-4cfc-bdbe-537f5c4731be"
     roles:
       - sing
-      - keys
       - guitar
-      - bass
-      - other
+      - keys
     periods:
+      - start: 2013
+      - start: 2011
+      - start: 2010
       - start: 2009
+        end: 2010
   - id: "45bd6d4c-7f15-4ef1-b10c-323fcfd82a9a"
     roles:
       - sing
-      - keys
-      - other
     periods:
+      - start: 2005
+        end: 2007
       - start: 2005
         end: 2007
   - id: "4d66bdd8-1266-416d-b36a-83494fac1d6c"
@@ -52,17 +59,40 @@ members:
       - sing
       - bass
       - keys
-      - other
     periods:
       - start: 2005
         end: 2009
-  - id: "f16b133f-75bd-4ca1-987f-1c36a125a921"
+      - start: 2005
+        end: 2009
+      - start: 2005
+        end: 2009
+  - id: "6e2c409c-86d6-47e9-b341-d4e8f4f3548a"
     roles:
       - sing
       - drums
     periods:
       - start: 2005
         end: 2017
+      - start: 2005
+        end: 2017
+      - start: 2005
+        end: 2017
+      - start: 2005
+        end: 2017
+      - start: 2005
+        end: 2017
+  - id: "4b8b765c-09d4-4c47-bf93-d5c5eb3b045c"
+    roles:
+      - drums
+    periods:
+      - start: 2008
+        end: 2009
+  - id: "04b397c8-ac35-4df7-97be-2777bb631c42"
+    roles:
+      - drums
+    periods:
+      - start: 2009
+        end: 2010
 socials:
   musicbrainz: "321fdfbb-426b-43f7-8295-fa9aca6348d9"
   facebook: "hollywoodundead"
@@ -85,6 +115,7 @@ socials:
 todo:
   - Add picture
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

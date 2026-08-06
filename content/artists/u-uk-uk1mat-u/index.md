@@ -3,6 +3,7 @@ id: "cde22ca5-e1fb-4884-ac48-20c4813bb856"
 title: "¥ØU$UK€ ¥UK1MAT$U"
 type: person
 socials:
+  musicbrainz: "317ddb49-97db-4382-86e9-5c51519f23ac"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,6 +17,8 @@ socials:
   qobuz: ""
   spotify: "0BEmPeY22LTrZJFFP2xIyk"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 ¥ØU$UK€ ¥UK1MAT$U (Yousuke Yukimatsu) est un DJ et producteur japonais originaire d'Osaka, dont le parcours personnel

@@ -3,20 +3,26 @@ id: "ae1b2a4e-291a-4cc2-8b0f-764ab7159a6c"
 title: "Van Morrison"
 type: person
 socials:
+  musicbrainz: "a41ac10f-0a56-4672-9161-b83f9b223559"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "5288921"
+  songkick: "156780"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "253638"
+  deezer: "2798"
+  qobuz: "25039"
   spotify: "44NX2ffIYHr6D4n7RaZF7A"
-  tidal: ""
+  tidal: "582"
+lifespan:
+  start: 1945-08-31
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Van Morrison, né George Ivan Morrison le 31 août 1945 à Belfast, en Irlande du Nord, est l'une des figures les plus

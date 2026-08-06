@@ -16,5 +16,7 @@ socials:
 lifespan:
   start: 1999-10-19
 lastUpdate:
+  setlistfm: 2026-08-05
+  deezer: 2026-08-05
   musicbrainz: 2026-08-05
 ---

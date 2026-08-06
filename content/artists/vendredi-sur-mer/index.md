@@ -3,12 +3,14 @@ id: "00d73f02-6d56-4de9-a57f-d967e082d099"
 title: "Vendredi Sur Mer"
 type: person
 socials:
+  musicbrainz: "2c430199-2dbe-42b1-8dd4-45b85a919136"
   facebook: "vendredisurmer"
   instagram: "vendredisurmer_"
   x: "vendredisurmer"
   threads: "@vendredisurmer_"
   soundcloud: "vendredisurmer"
   bandsintown: "12421107"
+  songkick: "8709108"
   youtube: "@vendredisurmer8046"
   tidal: "6628353"
   spotify: "0wuuYZFptujAsRthrdea2B"
@@ -16,9 +18,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "971929720"
+  deezer: "7604062"
+  qobuz: "2157569"
+lifespan:
+  start: 1995-04-20
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Style onirique et poétique - Vendredi sur Mer, c'est Charline Mignot, Genevoise née en 1993, qui distille une pop

@@ -26,7 +26,7 @@ members:
       - sing
       - guitar
       - keys
-      - other
+      - violin
     periods:
       - start: 2013
       - start: 2013
@@ -333,7 +333,7 @@ members:
       - bass
       - drums
       - keys
-      - other
+      - strings
     periods:
       - start: 2013
         end: 2025
@@ -378,7 +378,7 @@ members:
       - bass
       - drums
       - keys
-      - other
+      - strings
     periods:
       - start: 2013
         end: 2013
@@ -436,5 +436,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

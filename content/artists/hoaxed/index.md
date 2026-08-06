@@ -21,8 +21,23 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
+
+Hoaxed est un duo américain de rock sombre originaire de Portland, dans l'Oregon, formé par la
+chanteuse-guitariste **Kat Keo** et la batteuse **Kim Coffel**, qui profitent des mois de confinement pour donner
+naissance à ce projet à deux voix.
+
+###### Des hymnes envoûtants
+
+Le duo marie les mélodies éthérées et l'écriture poétique acérée de Kat Keo à la frappe puissante et pulsée de Kim
+Coffel, dans un style qui navigue entre plusieurs genres sombres, à la croisée du witch house et du rock gothique. Le
+choix du nom Hoaxed, selon les membres du groupe, transforme l'idée ludique du tour de magie en quelque chose de plus
+malveillant une fois placée dans un contexte plus sombre.
+
+###### De l'autoproduction à Relapse Records
+
+Après un premier EP éponyme quatre titres autoproduit en février 2021, Hoaxed signe chez **Relapse Records** et publie
+son premier album complet en 2022, confirmant l'ambition de ce projet né dans l'urgence créative de la pandémie.

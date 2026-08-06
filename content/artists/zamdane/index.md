@@ -3,6 +3,7 @@ id: "6a53f280-ce9c-42a5-bcae-481d9430d404"
 title: "Zamdane"
 type: person
 socials:
+  musicbrainz: "64baacc9-13bb-4722-bf2e-10f2b4073fa0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,11 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1281344721"
+  deezer: "13152245"
   qobuz: ""
   spotify: "5CtPAGoxpJ4yLJLx6CSrO8"
-  tidal: ""
+  tidal: "9098951"
+lifespan:
+  start: 1997-09-25
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Zamdane, de son vrai nom Ayoub Zaidane, est un rappeur et chanteur franco-marocain né le 25 septembre

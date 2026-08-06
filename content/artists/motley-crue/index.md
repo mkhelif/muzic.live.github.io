@@ -3,70 +3,51 @@ id: "b4f4aa83-a2b3-4bbe-848c-ae23c9fe21ad"
 title: "Mötley Crüe"
 type: band
 members:
-  - id: "c52f2e33-8257-4c14-bbd5-8b2d79fcfeb9"
+  - id: "b1225bc0-078b-4418-a642-5170aaab5d4c"
     roles:
-      - bass
-      - keys
       - sing
+      - guitar
+      - other
     periods:
       - start: 2018
-      - start: 2004
+      - start: 1997
         end: 2015
       - start: 1981
-        end: 2002
+        end: 1992
   - id: "624bf8af-8ff0-4baf-8f8a-d3688099d386"
     roles:
+      - sing
       - drums
       - keys
-      - sing
     periods:
       - start: 2018
       - start: 2004
         end: 2015
       - start: 1981
         end: 1999
-  - id: "b1225bc0-078b-4418-a642-5170aaab5d4c"
+  - id: "c52f2e33-8257-4c14-bbd5-8b2d79fcfeb9"
     roles:
       - sing
-      - guitar
+      - bass
+      - keys
     periods:
       - start: 2018
-      - start: 2004
-        end: 2015
-      - start: 1996
-        end: 2002
       - start: 1981
-        end: 1992
+        end: 2015
   - id: "e755cb3b-e3e6-4ad6-85a3-06ec07f239cc"
     roles:
       - guitar
-      - sing
     periods:
-      - start: 2023
-  - id: "0f7f0662-f8b1-45a9-94f0-63e6c23460e9"
-    roles:
-      - sing
-      - guitar
-    periods:
-      - start: 1981
-        end: 1981
+      - start: 2022
   - id: "5f157932-4e1b-4a23-bca1-0a139aaeff60"
     roles:
-      - guitar
       - sing
+      - guitar
     periods:
       - start: 2018
         end: 2022
-      - start: 2004
+      - start: 1981
         end: 2015
-      - start: 1981
-        end: 2002
-  - id: "fda6e77e-2907-4b1c-8971-dd100547034a"
-    roles:
-      - sing
-    periods:
-      - start: 1981
-        end: 1981
   - id: "ae19091f-5624-411e-812e-80406b8dcb5b"
     roles:
       - sing
@@ -81,7 +62,10 @@ members:
       - drums
     periods:
       - start: 1999
-        end: 2000
+        end: 2002
+  - id: "d26647de-eaf7-4ee6-a712-0f915fdc0414"
+    roles:
+      - other
 socials:
   musicbrainz: "26f07661-e115-471d-a930-206f5c89d17c"
   facebook: ""
@@ -100,6 +84,7 @@ socials:
   spotify: "0cc6vw3VN8YlIcvr1v7tBL"
   tidal: "3555613"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

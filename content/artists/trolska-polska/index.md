@@ -8,19 +8,24 @@ members:
       - drums
   - id: "ef59f837-accc-48a0-828b-efbb9578e5ab"
     roles:
-      - other
+      - strings
+      - flute
+      - bagpipe
   - id: "a8eec917-4c01-49bb-aa04-4595815362c1"
     roles:
       - sing
-      - other
+      - strings
   - id: "85b57e88-6037-42c0-a33c-f068aa070b3b"
     roles:
       - guitar
   - id: "830bd6f9-8813-4066-9c63-4c20ed75df9f"
     roles:
+      - violin
+      - flute
       - other
   - id: "98be40f0-ef20-4aeb-bd1c-b394d4b8159c"
     roles:
+      - violin
       - other
   - id: "fb68efd7-2650-4e14-977d-56cc6b711a69"
     roles:
@@ -45,6 +50,7 @@ socials:
   spotify: "2BwG5ZzIhpVZyVEhoK553g"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-06
   musicbrainz-lookup: 2026-08-05
 ---
 

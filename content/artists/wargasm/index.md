@@ -6,7 +6,19 @@ aliases:
   - "Wargasm (UK)"
 name:
 type: band
+members:
+  - id: "5cd947c0-62c1-46e1-b03b-11522cde1635"
+    roles:
+      - sing
+      - bass
+  - id: "fc50db31-530f-4428-8dc9-80f4695d2144"
+    roles:
+      - drums
+  - id: "915c0ec3-5bc7-4ab5-bd3e-db135b852e67"
+    roles:
+      - guitar
 socials:
+  musicbrainz: "9ffe3a3c-4f1f-44bb-9d72-a0a2b62edfa8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,13 +28,15 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "201841"
   qobuz: ""
   spotify: ""
   tidal: ""
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Wargasm est un duo anglais de rock électronique originaire de Londres, formé en 2018 par Sam Matlock, ancien membre

@@ -27,6 +27,9 @@ lifespan:
   start: 1946-08-06
   end: 2017-04-15
 lastUpdate:
+  setlistfm: 2026-08-06
+  deezer: 2026-08-06
+  apple: 2026-08-06
   musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

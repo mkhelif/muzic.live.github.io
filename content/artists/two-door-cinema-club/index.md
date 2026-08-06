@@ -3,22 +3,20 @@ id: "e202aa2b-69cf-461e-b7bb-22a756e7cf66"
 title: "Two Door Cinema Club"
 type: band
 members:
+  - id: "fbc55659-4162-4901-be97-6fe8c068a86d"
+    roles:
+      - sing
+      - bass
+  - id: "cd9e65b0-9a0c-49f8-ae9b-e633595ad761"
+    roles:
+      - sing
+      - guitar
   - id: "13ce17d9-d81d-4067-8bae-5ea69abb875f"
     roles:
       - sing
       - guitar
-    periods:
-      - start: 2007
-  - id: "cd9e65b0-9a0c-49f8-ae9b-e633595ad761"
-    roles:
-      - guitar
-    periods:
-      - start: 2007
-  - id: "fbc55659-4162-4901-be97-6fe8c068a86d"
-    roles:
-      - bass
-    periods:
-      - start: 2007
+      - drums
+      - keys
 socials:
   musicbrainz: "6f1de078-6684-4792-820d-2ffad64c15ed"
   facebook: "twodoorcinemaclub"
@@ -37,6 +35,7 @@ socials:
   tiktok: ""
   email: ""
 lastUpdate:
+  musicbrainz: 2026-08-06
   musicbrainz-lookup: 2026-08-05
 ---
 

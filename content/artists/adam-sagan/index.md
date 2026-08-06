@@ -26,6 +26,7 @@ todo:
 lifespan:
   end: 2016-12-05
 lastUpdate:
+  setlistfm: 2026-08-05
   musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

@@ -8,12 +8,12 @@ members:
       - sing
     periods:
       - start: 2016
-  - id: "b2100b75-abd1-4675-b423-246b15817b17"
+  - id: "a7d7eb65-c43f-476a-9963-a4db4697c8e0"
     roles:
       - guitar
     periods:
       - start: 2016
-  - id: "956e54c9-d3f5-4757-919c-af76ed8c2c39"
+  - id: "3a5dae85-0172-489c-890d-a0c1d776aa92"
     roles:
       - drums
     periods:
@@ -21,22 +21,14 @@ members:
   - id: "da881a91-6862-41a2-8bc9-0b68f63b60d5"
     roles:
       - bass
-      - sing
     periods:
       - start: 2023
   - id: "fee3903d-5655-41de-a88c-2d9b10aa3957"
     roles:
       - bass
-      - sing
     periods:
       - start: 2018
         end: 2022
-  - id: "89b9e6b5-527e-4852-99b3-d57deeb9a37b"
-    roles:
-      - drums
-    periods:
-      - start: 2018
-        end: 2020
 socials:
   musicbrainz: "9c935736-7530-41e4-b776-1dbcf534c061"
   facebook: ""
@@ -54,6 +46,7 @@ socials:
   spotify: "4MzJMcHQBl9SIYSjwWn8QW"
   tidal: "9163057"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

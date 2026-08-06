@@ -3,20 +3,24 @@ id: "58f95100-cf76-4c5a-aa1f-855ae4999849"
 title: "Ulrika Spacek"
 type: band
 socials:
+  musicbrainz: "b4e8e5f4-be91-473f-af73-de332ecd8f20"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "12434159"
+  songkick: "8492438"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: ""
   deezer: "9177160"
-  qobuz: ""
+  qobuz: "2466336"
   spotify: "07vC6cutbett8UknXnqxsu"
-  tidal: ""
+  tidal: "7351209"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Ulrika Spacek est un groupe de rock alternatif britannique formé à Berlin au printemps 2014, avant de

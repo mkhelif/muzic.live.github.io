@@ -3,6 +3,7 @@ id: "4f5e1d94-4e0b-4610-9098-1be5b10a5c22"
 title: "Yebba"
 type: person
 socials:
+  musicbrainz: "0aeea1ef-8d96-4556-8c4a-84b88ae271bb"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,14 +13,18 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1289015994"
+  deezer: "2830461"
   qobuz: ""
   spotify: ""
-  tidal: ""
+  tidal: "9206235"
 todo:
   - Add picture
   - Add socials
+lifespan:
+  start: 1995-01-16
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Abigail Elizabeth Smith, connue sous le nom de scène Yebba, est une chanteuse et compositrice américaine née le 16

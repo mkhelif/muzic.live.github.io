@@ -3,6 +3,7 @@ id: "dfacf017-ffa8-4483-b9e1-582825d38fd3"
 title: "Wheobe"
 type: band
 socials:
+  musicbrainz: "c241e818-4234-42a7-82bb-ec9ded91e397"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

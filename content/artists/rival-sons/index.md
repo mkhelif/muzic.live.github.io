@@ -6,26 +6,28 @@ members:
   - id: "bfe43743-7bdb-41d9-a9d7-430783b9dae8"
     roles:
       - sing
-      - guitar
-      - other
     periods:
       - start: 2009
   - id: "99d2113a-233f-4356-ae1b-ce74b8d34fc8"
     roles:
-      - guitar
       - sing
+      - guitar
+    periods:
+      - start: 2009
+      - start: 2009
+  - id: "fb02c744-269b-4252-a9ae-c707c8e62da4"
+    roles:
+      - guitar
     periods:
       - start: 2009
   - id: "aef1e246-24ce-4576-879d-49ca44c6df9e"
     roles:
       - drums
-      - sing
     periods:
       - start: 2009
   - id: "587fece7-0d37-4f65-aaa3-c2379df17e76"
     roles:
       - bass
-      - sing
     periods:
       - start: 2013
   - id: "27ec3317-a4bd-4797-bed1-b0a05ec6a749"
@@ -54,6 +56,7 @@ socials:
   deezer: "571758"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

@@ -5,91 +5,57 @@ type: band
 members:
   - id: "8fdd86b8-1def-48b4-ad1f-28486d96371f"
     roles:
-      - guitar
       - sing
+      - guitar
     periods:
       - start: 1999
   - id: "4604de57-a4de-480e-ae2f-8dca7216b244"
     roles:
+      - sing
       - guitar
     periods:
       - start: 2003
   - id: "6ba3380d-78d0-4572-af77-e318c765ef7b"
     roles:
       - bass
-      - sing
     periods:
       - start: 2004
-  - id: "bd5ac5e6-ba96-42b8-be14-982e0d094c23"
+  - id: "15b7379a-3afc-4b72-8fb0-b133d4e60c5a"
+    roles:
+      - bass
+    periods:
+      - start: 2000
+        end: 2004
+  - id: "f92cf6f5-ca0e-4ba8-aeff-5deb4cde5ca0"
     roles:
       - drums
     periods:
-      - start: 2025
-  - id: "8af204a0-3679-4036-a095-909e56e4c7c8"
+      - start: 2000
+        end: 2009
+  - id: "75ee31ef-1472-4325-a451-ac01d7e4fc57"
     roles:
-      - drums
+      - bass
     periods:
-      - start: 2017
-        end: 2025
-  - id: "67d4cc00-3394-4fc2-b4f1-6817511686ca"
-    roles:
-      - drums
-    periods:
-      - start: 2015
-        end: 2017
-  - id: "c26e4238-273f-4e9b-8a85-1b18eee8608e"
-    roles:
-      - drums
-    periods:
-      - start: 2014
-        end: 2015
+      - start: 2001
+        end: 2001
   - id: "d467a1c0-cf6f-4a30-8273-3c8d8cb012d3"
     roles:
       - drums
     periods:
       - start: 2010
         end: 2014
-  - id: "f92cf6f5-ca0e-4ba8-aeff-5deb4cde5ca0"
+  - id: "c26e4238-273f-4e9b-8a85-1b18eee8608e"
     roles:
       - drums
     periods:
-      - start: 1999
-        end: 2010
-  - id: "15b7379a-3afc-4b72-8fb0-b133d4e60c5a"
+      - start: 2014
+        end: 2015
+  - id: "8af204a0-3679-4036-a095-909e56e4c7c8"
     roles:
-      - bass
-      - sing
-      - guitar
+      - drums
     periods:
-      - start: 2000
-        end: 2004
-  - id: "6b98d30b-35b1-4cd4-a46c-104ce466259e"
-    roles:
-      - bass
-      - guitar
-    periods:
-      - start: 1999
-        end: 2001
-  - id: "75ee31ef-1472-4325-a451-ac01d7e4fc57"
-    roles:
-      - bass
-      - sing
-    periods:
-      - start: 2001
-        end: 2001
-  - id: "27bd5038-73ed-44cd-a1f2-c677634ea86e"
-    roles:
-      - sing
-      - bass
-    periods:
-      - start: 1999
-        end: 2000
-  - id: "2f2a1452-89ca-485b-a3c2-0cb12939173c"
-    roles:
-      - guitar
-    periods:
-      - start: 2003
-        end: 2003
+      - start: 2016
+        end: 2025
 socials:
   musicbrainz: "1f5ff245-2837-4d4a-a609-e93e544478c3"
   facebook: "Trivium"
@@ -110,6 +76,7 @@ socials:
   tiktok: ""
   email: ""
 lastUpdate:
+  musicbrainz: 2026-08-06
   musicbrainz-lookup: 2026-08-05
 ---
 

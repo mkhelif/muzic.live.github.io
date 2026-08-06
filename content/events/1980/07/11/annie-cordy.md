@@ -1,0 +1,6 @@
+---
+date: 1980-07-11T00:00:00
+venue: "84371f2d-b1f5-49e8-a3df-a2bfd186ac37"
+artists:
+  - "9d7fb08e-0f87-4460-a7ff-ec4577d8b95e"
+---

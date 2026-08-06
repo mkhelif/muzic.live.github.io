@@ -8,49 +8,8 @@ members:
   - id: "95b2338e-1d8d-415e-9409-64506ea1ef1f"
     roles:
       - sing
-      - guitar
-      - keys
     periods:
       - start: 2008
-  - id: "ea6bfd0e-87e7-48cb-af9b-d18d9ac10f59"
-    roles:
-      - guitar
-      - keys
-      - sing
-    periods:
-      - start: 2008
-  - id: "d8fef9a8-466b-49c6-97d3-3808039a1e5c"
-    roles:
-      - bass
-      - sing
-    periods:
-      - start: 2008
-        end: 2016
-  - id: "8595d4d3-c3fd-44f8-a2b6-42669ca58d97"
-    roles:
-      - keys
-      - other
-      - sing
-    periods:
-      - start: 2008
-        end: 2016
-  - id: "6ed25293-401a-42dd-914f-97df447e88fc"
-    roles:
-      - drums
-    periods:
-      - start: 2008
-        end: 2016
-  - id: "64f8974c-1852-4265-95e9-76c802491620"
-    roles:
-      - bass
-      - sing
-    periods:
-      - start: 2018
-  - id: "baae0152-b956-4cb7-8587-ee438593b8d9"
-    roles:
-      - drums
-    periods:
-      - start: 2018
 socials:
   musicbrainz: "1c346a43-0fba-4702-bc1b-c198f07e3da4"
   facebook: ""
@@ -68,6 +27,7 @@ socials:
   spotify: "6UWiE4V9p2HK4C74A0CGKB"
   tidal: "4443213"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

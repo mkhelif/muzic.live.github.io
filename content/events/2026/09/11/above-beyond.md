@@ -1,0 +1,8 @@
+---
+date: 2026-09-11T17:00:00
+venue: "f31a61c3-484c-4613-b729-ce79aa995656"
+artists:
+  - "8ec89a83-9707-4c35-a175-41372009ccbf"
+tickets:
+  web: "https://www.bandsintown.com/e/107704587"
+---

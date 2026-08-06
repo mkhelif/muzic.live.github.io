@@ -72,7 +72,30 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
+
+Queensrÿche est un groupe américain de heavy metal progressif originaire de Bellevue, dans l'État de
+Washington, formé en 1980 sous le nom de The Mob avant d'adopter son nom actuel en 1982. Le noyau fondateur réunit les
+guitaristes **Chris DeGarmo** et **Michael Wilton**, le bassiste **Eddie Jackson** et le batteur **Scott
+Rockenfield**,
+bientôt rejoints par le chanteur **Geoff Tate**, dont le timbre lyrique deviendra la signature du groupe.
+
+###### Le sommet d'*Operation: Mindcrime*
+
+Considéré comme l'un des piliers du metal progressif aux côtés de Dream Theater et Fates Warning, Queensrÿche impose
+sa
+marque avec des albums comme *Rage for Order* (1986) et surtout **Operation: Mindcrime** (1988), concept-album
+ambitieux
+mêlant la puissance d'Iron Maiden aux atmosphères pink-floydiennes, aujourd'hui considéré comme une référence absolue
+du
+genre. Le succès grand public arrive avec **Empire** (1990) et son single *Silent Lucidity*.
+
+###### Une histoire mouvementée
+
+Après le départ de Geoff Tate en 2012, remplacé par **Todd La Torre**, le groupe poursuit sa route sous la houlette de
+Wilton et Jackson, seuls membres originaux restants. Fort de seize albums studio et de plus de vingt millions de
+disques
+vendus dans le monde, Queensrÿche continue de tourner internationalement, fidèle à son héritage progressif.

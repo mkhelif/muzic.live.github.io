@@ -48,21 +48,25 @@ members:
     periods:
       - start: 2013
 socials:
+  musicbrainz: "4df5d35b-a9d4-4d4f-91f6-bae55693de31"
   facebook: "Zebrahead"
   instagram: "zebraheadofficial"
   x: "zebrahead"
   threads: "@zebraheadofficial"
   bandsintown: "1141"
+  songkick: "205061"
   youtube: "@Zebraheadofficial"
   web: "https://zebrahead.com/"
   tiktok: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  amazon: "B001EE5VKU"
+  apple: "483363"
+  deezer: "1777"
+  qobuz: "154320"
   spotify: "6SiyKSeJo6gcsS2NvuAbsl"
-  tidal: ""
+  tidal: "3833"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 *We came here to do 2 things... kick ass and chew bubble gum... and we're all out of bubble gum.* Cette phrase, que le

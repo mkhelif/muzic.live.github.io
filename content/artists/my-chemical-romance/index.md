@@ -59,7 +59,7 @@ members:
         end: 2013
   - id: "2ac5ec9f-1c69-4759-a095-fba62db4ccfb"
     roles:
-      - other
+      - strings
     periods:
       - start: 2025
         end: 2025
@@ -85,5 +85,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

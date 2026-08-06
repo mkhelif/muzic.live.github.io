@@ -23,7 +23,7 @@ members:
   - id: "9f7a12c7-a2a1-4fe8-9d4f-c59b81a70853"
     roles:
       - keys
-      - other
+      - violin
     periods:
       - start: 2009
   - id: "7c05db74-33eb-4db3-9639-e8b2492c81e2"
@@ -54,7 +54,7 @@ members:
   - id: "979c2499-b7cf-4c66-933f-170d74863855"
     roles:
       - keys
-      - other
+      - violin
     periods:
       - start: 1991
         end: 1998
@@ -93,7 +93,7 @@ members:
   - id: "5c59cf28-6720-4272-a2ce-3f361e367f74"
     roles:
       - keys
-      - other
+      - violin
     periods:
       - start: 2008
         end: 2009
@@ -125,5 +125,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

@@ -6,7 +6,11 @@ members:
   - id: "f4ac5e41-4bc8-4425-9938-e127336edc1c"
     roles:
       - sing
+      - keys
     periods:
+      - start: 2012
+      - start: 1999
+        end: 2005
       - start: 1999
   - id: "2be430a3-81cf-452d-9582-0d3b1b74bee4"
     roles:
@@ -15,7 +19,7 @@ members:
       - start: 1999
   - id: "9c70f300-1c35-4b2e-8633-31c8d9728361"
     roles:
-      - guitar
+      - other
     periods:
       - start: 2012
   - id: "2f5cfb9e-df00-4098-b72d-b2eb2f8147d5"
@@ -23,19 +27,47 @@ members:
       - drums
     periods:
       - start: 2013
-  - id: "4c4d3929-c4a0-4cb2-ad1c-022f6deaaba8"
-    roles:
-      - guitar
-    periods:
-      - start: 2024
-      - start: 2012
-        end: 2016
   - id: "63289c64-f357-418c-960d-32c5b001e00a"
     roles:
       - guitar
     periods:
       - start: 2016
-        end: 2024
+  - id: "2cbb2c23-cddc-4816-9c70-1ede6f626c1c"
+    roles:
+      - guitar
+    periods:
+      - start: 1999
+        end: 2012
+  - id: "515b947e-a20d-4e0b-b113-25290ced9e40"
+    roles:
+      - other
+    periods:
+      - start: 1999
+        end: 2012
+  - id: "20c88092-eab3-49ee-bf78-8d0f055aacbe"
+    roles:
+      - other
+    periods:
+      - start: 2001
+        end: 2012
+  - id: "728d75e8-459a-480f-ba43-8674165d5d41"
+    roles:
+      - keys
+    periods:
+      - start: 2005
+        end: 2012
+  - id: "93620c34-72d9-42d3-b909-9a60c97c4b25"
+    roles:
+      - drums
+    periods:
+      - start: 2012
+        end: 2013
+  - id: "4c4d3929-c4a0-4cb2-ad1c-022f6deaaba8"
+    roles:
+      - guitar
+    periods:
+      - start: 2012
+        end: 2016
 socials:
   musicbrainz: "39a31de6-763d-48b6-a45c-f7cfad58ffd8"
   facebook: "sabaton"
@@ -57,6 +89,7 @@ socials:
   deezer: "12022"
   qobuz: "551516"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

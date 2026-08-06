@@ -3,16 +3,12 @@ id: "bb0a1043-d8af-44fb-bca5-2778d6ab0437"
 title: "Rodrigo y Gabriela"
 type: band
 members:
-  - id: "4340d0a2-4116-4bd3-9ccb-738e812b0a56"
-    roles:
-      - guitar
-    periods:
-      - start: 2000
   - id: "c87231cb-f1b3-4024-a144-499759adbecf"
     roles:
-      - guitar
-    periods:
-      - start: 2000
+      - other
+  - id: "4340d0a2-4116-4bd3-9ccb-738e812b0a56"
+    roles:
+      - other
 socials:
   musicbrainz: "a8ed28e3-5c08-4448-b889-867483e251f5"
   facebook: "rodgab"
@@ -31,6 +27,7 @@ socials:
   deezer: "15794"
   qobuz: "53377"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

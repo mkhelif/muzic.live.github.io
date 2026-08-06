@@ -33,7 +33,7 @@ members:
     roles:
       - sing
       - drums
-      - other
+      - flute
     periods:
       - start: 1997
         end: 2010
@@ -41,7 +41,7 @@ members:
     roles:
       - sing
       - drums
-      - other
+      - violin
     periods:
       - start: 2010
         end: 2010
@@ -52,7 +52,7 @@ members:
   - id: "19e184cb-06cf-4a91-a88d-c0f24b6eed2a"
     roles:
       - drums
-      - other
+      - wind
     periods:
       - start: 2010
         end: 2010
@@ -65,10 +65,10 @@ members:
         end: 2010
   - id: "9c429574-e759-4fec-a707-a2673d882f73"
     roles:
-      - other
+      - violin
   - id: "d25d98d3-c057-4b04-a292-8c742e951278"
     roles:
-      - other
+      - strings
   - id: "b210b12d-c09c-45c2-b2a5-3c829075d1e3"
     roles:
       - guitar
@@ -89,5 +89,6 @@ socials:
   deezer: ""
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

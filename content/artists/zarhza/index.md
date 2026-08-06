@@ -2,6 +2,7 @@
 id: "2d009dfb-f226-413f-9f3f-632c0dd364df"
 title: "Zarhzä"
 socials:
+  musicbrainz: "4a5afb54-4a72-4715-ab2b-f77566a7c2e0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,11 +16,13 @@ socials:
   apple: ""
   deezer: "53890432"
   qobuz: ""
-  spotify: ""
+  spotify: "1WaoEDqlgE7qzvQxvw6J6V"
   tidal: ""
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Zarhzä est un groupe français né à Argenteuil dans l'énergie d'une vie de colocation, fruit de rencontres entre

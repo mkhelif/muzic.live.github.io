@@ -6,15 +6,11 @@ members:
   - id: "a7879d25-79aa-49cb-882e-a18235f59322"
     roles:
       - sing
-      - bass
-      - keys
     periods:
       - start: 2008
-  - id: "a4a7a1ec-f4ce-4ad8-b15b-199953675912"
+  - id: "40d66c58-832f-47b0-80f7-bf9f30210816"
     roles:
-      - guitar
-    periods:
-      - start: 2008
+      - drums
 socials:
   musicbrainz: "8d5586b4-74f2-4297-a298-f6fe02986523"
   facebook: "thelastinternationale"
@@ -32,6 +28,7 @@ socials:
   tiktok: ""
   x: ""
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

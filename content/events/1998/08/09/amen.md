@@ -1,0 +1,6 @@
+---
+date: 1998-08-09T00:00:00
+venue: "02bd201d-365b-4042-b9b7-fbae6fa12fa9"
+artists:
+  - "404c73ff-eff3-445b-9f97-bf2252c289b2"
+---

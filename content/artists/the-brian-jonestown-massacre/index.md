@@ -29,7 +29,7 @@ members:
     roles:
       - sing
       - guitar
-      - other
+      - flute
     periods:
       - start: 1995
         end: 1999
@@ -84,5 +84,6 @@ todo:
   - Add description
   - Add members
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

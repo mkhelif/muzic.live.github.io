@@ -2,6 +2,16 @@
 id: "150c6fb5-d6b2-47c6-8059-784682503a7e"
 title: "A A Bottom"
 type: band
+members:
+  - id: "3450ac29-85e0-408a-a60a-0a8357fcc939"
+    roles:
+      - other
+  - id: "eeceff5c-bb9a-42a3-93af-4e3b8bb13e5c"
+    roles:
+      - other
+  - id: "6349f7a3-e670-40db-b564-3b9bd2b87be2"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +28,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "a54c02f0-b4c7-45dd-a051-35725920b0b7"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

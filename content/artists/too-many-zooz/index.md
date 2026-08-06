@@ -11,7 +11,7 @@ members:
       - drums
   - id: "8ed722b7-4ab1-4d24-9f29-d73ed4f34fc9"
     roles:
-      - other
+      - saxophone
 socials:
   musicbrainz: "e44ef539-1ec9-4cb2-bee7-852e84618308"
   facebook: ""
@@ -34,5 +34,6 @@ todo:
   - Verify social networks
   - Add logo cover
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

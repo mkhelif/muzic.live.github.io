@@ -6,18 +6,29 @@ members:
   - id: "ed5cef95-426d-4d86-8a37-ff8675b8cb8c"
     roles:
       - sing
+      - guitar
     periods:
-      - start: 1992
+      - start: 1996
   - id: "2e5cd39b-170f-4afd-a283-fe0bddb1576f"
     roles:
       - bass
     periods:
-      - start: 1992
+      - start: 1996
+  - id: "660c4078-76c4-4610-9363-eef1084ada6d"
+    roles:
+      - guitar
+    periods:
+      - start: 2007
+  - id: "d8a8aa6e-7d51-4307-af5e-cff9287da994"
+    roles:
+      - drums
+    periods:
+      - start: 2012
   - id: "f259ada5-c07b-46b4-9d88-58cce930499b"
     roles:
       - drums
     periods:
-      - start: 1992
+      - start: 1996
         end: 2003
   - id: "7f3adaaa-ad36-4031-9e31-95fd82f0cdfb"
     roles:
@@ -25,16 +36,6 @@ members:
     periods:
       - start: 2004
         end: 2012
-  - id: "d8a8aa6e-7d51-4307-af5e-cff9287da994"
-    roles:
-      - drums
-    periods:
-      - start: 2013
-  - id: "660c4078-76c4-4610-9363-eef1084ada6d"
-    roles:
-      - guitar
-    periods:
-      - start: 2007
 socials:
   musicbrainz: "0bfba3d3-6a04-4779-bb0a-df07df5b0558"
   facebook: "stereophonics"
@@ -52,6 +53,7 @@ socials:
   deezer: "707"
   qobuz: "51382"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

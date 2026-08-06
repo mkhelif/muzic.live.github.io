@@ -16,38 +16,43 @@ members:
       - start: 1981
   - id: "e23f121a-75f9-4899-a13c-fbccbdf4bdeb"
     roles:
+      - sing
       - guitar
     periods:
       - start: 1983
   - id: "d760eae8-fb27-4ed7-a78e-cd8853bbfc02"
     roles:
+      - sing
       - bass
     periods:
       - start: 2003
-  - id: "54405beb-8a34-4b26-91d3-82ba756e180d"
-    roles:
-      - bass
-    periods:
-      - start: 1986
-        end: 2001
-  - id: "634bd5cb-db5d-40e5-8e1c-b5e069f403bf"
-    roles:
-      - bass
-    periods:
-      - start: 1982
-        end: 1986
   - id: "d5a5c250-8bdc-4c66-beca-758683194163"
     roles:
+      - sing
       - guitar
     periods:
       - start: 1981
         end: 1983
+  - id: "634bd5cb-db5d-40e5-8e1c-b5e069f403bf"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 1982
+        end: 1986
   - id: "d84d02cf-3695-4063-b510-b465a03dd28b"
     roles:
       - bass
     periods:
-      - start: 1981
+      - start: 1982
         end: 1982
+  - id: "54405beb-8a34-4b26-91d3-82ba756e180d"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 1986
+        end: 2001
 socials:
   musicbrainz: "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
   facebook: ""
@@ -70,5 +75,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

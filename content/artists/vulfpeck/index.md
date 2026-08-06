@@ -27,10 +27,12 @@ members:
     periods:
       - start: 2011
 socials:
+  musicbrainz: "7d0e8067-10b9-4069-95dc-1110a0fbb877"
   facebook: "vulfpeck"
   instagram: "vulfpeck"
   x: "vulfpeck"
   bandsintown: "2957241"
+  songkick: "6634379"
   youtube: "@Vulf"
   web: "https://vulfpeck.com/"
   tidal: "5980686"
@@ -38,11 +40,13 @@ socials:
   email: "vulfpeckteam@teamwass.com"
   tiktok: ""
   amazon: ""
-  apple: ""
+  apple: "449917675"
   deezer: "4441488"
   qobuz: ""
 todo:
   - Add picture from concert
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Vulfpeck est un groupe de funk américain fondé en 2011 à Ann Arbor, dans le Michigan, par quatre étudiants de l'école de

@@ -3,17 +3,16 @@ id: "e7519b44-fd6a-4eb6-9ae1-88b12d266419"
 title: "The Inspector Cluzo"
 type: band
 members:
-  - id: "6e5cc0fa-bec5-460e-bbc7-8772d7fe6570"
-    roles:
-      - sing
-      - guitar
-    periods:
-      - start: 2007
   - id: "503289ae-6b4e-46dc-8153-53b7ee9e3305"
     roles:
-      - drums
+      - other
     periods:
-      - start: 2007
+      - start: 2008
+  - id: "6e5cc0fa-bec5-460e-bbc7-8772d7fe6570"
+    roles:
+      - other
+    periods:
+      - start: 2008
 socials:
   musicbrainz: "791564ac-90f2-409e-b623-eef85c721ef4"
   facebook: "ticluzo"
@@ -31,6 +30,7 @@ socials:
   deezer: "210923"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

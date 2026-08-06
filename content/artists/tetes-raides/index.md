@@ -10,7 +10,7 @@ members:
       - start: 2007
   - id: "f7287da3-75af-4330-bce4-e6be942dcb17"
     roles:
-      - other
+      - accordion
     periods:
       - start: 1997
         end: 1997
@@ -65,5 +65,6 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

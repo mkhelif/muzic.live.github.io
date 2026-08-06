@@ -3,6 +3,7 @@ id: "e56d5d8e-d08c-48fe-91e9-7d8764709ac0"
 title: "Witch Club Satan"
 type: band
 socials:
+  musicbrainz: "cfff9237-d957-41c2-9561-7c13b91c68b7"
   facebook: "witchclubsatan"
   instagram: "witchclubsatan"
   tiktok: "@witch.club.satan"
@@ -16,7 +17,9 @@ socials:
   deezer: "171456867"
   qobuz: ""
   spotify: "395rqoVSDgQIF7fzRfZIoy"
-  tidal: ""
+  tidal: "32375474"
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Witch Club Satan est un trio de black metal norvégien entièrement féminin, formé début 2022 par **Victoria F. S.

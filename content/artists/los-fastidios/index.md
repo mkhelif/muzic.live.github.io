@@ -29,8 +29,22 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
+
+Los Fastidios est un groupe italien de ska-punk formé à Vérone à la fin de 1991 autour
+d'**Enrico**, également fondateur du label indépendant KOB Records.
+
+###### Un street-punk engagé
+
+Le groupe développe un son mêlant le punk-oï britannique des années 1980 à des rythmiques ska et 2-Tone, ainsi que des
+touches de rock'n'roll et de hardcore. Chantés en italien, avec des incursions en anglais, français, espagnol et
+allemand, les textes s'attaquent frontalement au racisme et au fascisme, défendent les droits des animaux et la
+liberté, valant au groupe d'être associé au mouvement **SHARP** (Skinheads Against Racial Prejudice).
+
+###### Une intense activité scénique
+
+Plus de trente ans après ses débuts, Los Fastidios continue de tourner à un rythme soutenu, avec plus d'une centaine
+de concerts par an à travers l'Europe, aux côtés de nombreuses formations du circuit punk et ska international.

@@ -3,26 +3,62 @@ id: "0b8a7424-dba1-4f5a-8f0e-42ebd1dd9f3b"
 title: "Linkin Park"
 type: band
 members:
+  - id: "f291c1f4-bcbb-40be-8c11-efeac4f143f4"
+    roles:
+      - sing
+      - guitar
+      - bass
+      - keys
+    periods:
+      - start: 2007
+        end: 2017
+      - start: 1999
+        end: 2000
+      - start: 1996
+      - start: 1996
+  - id: "f3c9f04c-39eb-4c4f-818c-fb9a64bee955"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 1996
+      - start: 1996
+  - id: "14d2e355-58cf-4ee0-824d-bf438595fd1f"
+    roles:
+      - sing
+      - keys
+      - other
+    periods:
+      - start: 1996
+      - start: 1996
+      - start: 1996
+      - start: 1996
   - id: "18be376b-1dac-4211-961a-6004d9f728a3"
+    roles:
+      - sing
+      - guitar
+      - keys
+      - other
+    periods:
+      - start: 1996
+      - start: 1996
+      - start: 1996
+  - id: "8c0bd75d-1cd5-4f9f-bfab-1eaf23b25261"
+    roles:
+      - sing
+    periods:
+      - start: 2024
+  - id: "0d00ab93-c45c-423e-a477-2fc7d7decb3d"
+    roles:
+      - drums
+    periods:
+      - start: 2024
+  - id: "a8cebaeb-2816-46c6-a4c3-d18b3dae4c4d"
     roles:
       - sing
     periods:
       - start: 1996
-  - id: "f291c1f4-bcbb-40be-8c11-efeac4f143f4"
-    roles:
-      - guitar
-    periods:
-      - start: 1996
-  - id: "2894848d-8bc1-4a0f-98a8-6e41105bd44a"
-    roles:
-      - dj
-    periods:
-      - start: 1996
-  - id: "bbe38514-8d11-40f1-bfec-c9382c0748e3"
-    roles:
-      - bass
-    periods:
-      - start: 1996
+        end: 1998
   - id: "752075d7-7eb2-4537-9d79-4a021de397ff"
     roles:
       - drums
@@ -35,16 +71,6 @@ members:
     periods:
       - start: 1999
         end: 2017
-  - id: "8c0bd75d-1cd5-4f9f-bfab-1eaf23b25261"
-    roles:
-      - sing
-    periods:
-      - start: 2024
-  - id: "0d00ab93-c45c-423e-a477-2fc7d7decb3d"
-    roles:
-      - drums
-    periods:
-      - start: 2024
 socials:
   musicbrainz: "f59c5520-5f46-4d2c-b2c4-822eabf53419"
   facebook: "linkinpark"
@@ -64,6 +90,7 @@ socials:
   deezer: "92"
   qobuz: "308709"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

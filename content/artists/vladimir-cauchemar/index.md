@@ -3,10 +3,12 @@ id: "273fb493-da91-4853-9fb7-e49b11a17635"
 title: "Vladimir Cauchemar"
 type: person
 socials:
+  musicbrainz: "fb5b5da8-61f3-445e-8e2d-f9873b330b13"
   facebook: "vladimircauchemar"
   instagram: "vladimircauchemar"
   x: "VCauchemar"
   bandsintown: "15071194"
+  songkick: "9380424"
   youtube: "@vladimircauchemar"
   soundcloud: "vladimircauchemarmusic"
   tidal: "9306980"
@@ -15,9 +17,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1307031985"
+  deezer: "13682095"
   qobuz: ""
+lifespan:
+  start: 1978-12-17
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Vladimir Cauchemar est un DJ et producteur français qui émerge sur la scène électronique underground hexagonale avec une

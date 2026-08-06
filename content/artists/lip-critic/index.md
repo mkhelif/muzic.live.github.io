@@ -35,7 +35,23 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
+
+Lip Critic est un groupe américain originaire de New York, formé en 2018 autour de **Bret Kaser**,
+**Connor Kleitz**, **Danny Eberle** et **Michael Sandvig**. Le nom du groupe, volontairement absurde, donne le ton
+d'une musique qui refuse toute étiquette facile.
+
+###### Une électro-punk chaotique
+
+Porté par deux batteurs, des samplers et des voix criées, Lip Critic mélange punk, hardcore, électronique clubbing et
+bruitisme dans une formule abrasive et imprévisible, aussi bien en studio que sur scène, où le groupe s'est forgé une
+réputation de concerts intenses au sein de la scène underground new-yorkaise.
+
+###### De l'underground à Partisan Records
+
+Signé chez Partisan Records en 2023, le groupe publie son premier album, **Hex Dealer**, en 2024, confirmant son
+statut
+de révélation de la scène électro-punk américaine, avant d'enchaîner avec un second disque, **Theft World**.

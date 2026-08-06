@@ -3,20 +3,26 @@ id: "c68bb3bd-7687-4e1e-a85c-0403ad554dc2"
 title: "Young Miko"
 type: person
 socials:
+  musicbrainz: "c4442130-e7f2-40aa-bcab-b921cc45a365"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "15532498"
+  songkick: "10209898"
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
+  amazon: "B099FH72HB"
+  apple: "1576521417"
+  deezer: "139171932"
   qobuz: ""
   spotify: "3qsKSpcV3ncke3hw52JSMB"
-  tidal: ""
+  tidal: "27015158"
+lifespan:
+  start: 1998-11-08
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Young Miko, de son vrai nom María Victoria Ramírez de Arellano Cardona, est une rappeuse, chanteuse et autrice

@@ -19,6 +19,9 @@ socials:
   spotify: "6lM3Lss7HI9Zpq4d4GqjIG"
   tidal: ""
 lastUpdate:
+  setlistfm: 2026-08-05
+  apple: 2026-08-05
+  bandsintown: 2026-08-05
   musicbrainz: 2026-08-05
 ---
 

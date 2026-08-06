@@ -3,60 +3,17 @@ id: "7f854bed-ca88-4c33-9be8-2d4f6c4d1b22"
 title: "SOEN"
 type: band
 members:
-  - id: "55e1a1ef-dcd4-4910-a2e0-15182ad80c20"
-    roles:
-      - guitar
-      - sing
-    periods:
-      - start: 2018
-  - id: "e48372d3-fe36-4db5-86e3-27300bbf5e93"
-    roles:
-      - bass
-    periods:
-      - start: 2025
-      - start: 2013
-        end: 2020
-  - id: "add57838-9cf8-4abe-a159-580193c1dea5"
-    roles:
-      - keys
-      - guitar
-      - sing
-    periods:
-      - start: 2014
-  - id: "890bb277-b7f6-40ad-b111-3607f3d5fc4c"
-    roles:
-      - sing
-    periods:
-      - start: 2010
-  - id: "9365c4e8-2c6a-4a7f-a720-edd1930a24c3"
-    roles:
-      - drums
-    periods:
-      - start: 2010
-  - id: "4ea3a76e-a576-4741-94f0-f9e74cf09262"
-    roles:
-      - bass
-    periods:
-      - start: 2020
-        end: 2025
   - id: "405574d5-32f7-43e3-8e7e-2e5edcd2e05c"
     roles:
       - guitar
     periods:
       - start: 2015
-        end: 2018
-  - id: "e2c6ff53-f73e-498e-8b00-8a11ae89e534"
-    roles:
-      - guitar
-    periods:
-      - start: 2010
-        end: 2015
   - id: "b10607e4-06eb-4c4d-ad32-52f36a7408be"
     roles:
-      - bass
-    periods:
-      - start: 2010
-        end: 2013
+      - other
+  - id: "9365c4e8-2c6a-4a7f-a720-edd1930a24c3"
+    roles:
+      - other
 socials:
   musicbrainz: "7a42f70d-7c01-46d2-bd88-738967a631f0"
   facebook: "SoenMusic"
@@ -75,6 +32,7 @@ socials:
   deezer: "1581851"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

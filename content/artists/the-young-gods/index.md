@@ -3,24 +3,18 @@ id: "67d4ab51-5979-466b-9c89-daf669fc2500"
 title: "The Young Gods"
 type: band
 members:
-  - id: "b219003e-2a06-42de-8028-64b431d45683"
+  - id: "1c720b61-e172-42d1-a1b9-08179fd6b8a8"
     roles:
-      - sing
-      - guitar
-    periods:
-      - start: 1985
-  - id: "1ac94a24-1123-4fbb-8f4c-35327954cfd1"
+      - other
+  - id: "79cb0d5d-d078-4762-ba86-5346affc471c"
     roles:
       - drums
-    periods:
-      - start: 1997
   - id: "eb4e673e-8e0c-408b-b1f3-373015f4113a"
     roles:
       - other
-    periods:
-      - start: 2012
-      - start: 1985
-        end: 1988
+  - id: "b219003e-2a06-42de-8028-64b431d45683"
+    roles:
+      - other
 socials:
   musicbrainz: "134c8992-069e-4561-8d12-cdebbf5fbc34"
   facebook: "theyounggods"
@@ -40,6 +34,7 @@ socials:
   spotify: "1xF9B1eiCKUejBnEE9k3sY"
   tidal: "3575544"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

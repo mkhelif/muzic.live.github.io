@@ -42,7 +42,7 @@ socials:
   amazon: "B07DNK7WNX"
   apple: "1397009313"
   deezer: "15011347"
-  qobuz: ""
+  qobuz: "6005454"
   spotify: "6PXYvMeTixxDzYAYugMlbg"
   tidal: "9953702"
 todo:
@@ -50,5 +50,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

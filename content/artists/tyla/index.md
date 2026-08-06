@@ -3,6 +3,7 @@ id: "3ee1931d-1237-4b0b-9a9e-2a8c519484a0"
 title: "Tyla"
 type: person
 socials:
+  musicbrainz: "2bf761c6-4bcf-4cfc-a388-8fcb2eea8cc8"
   facebook: "Tylasings"
   instagram: "tyla"
   tiktok: "@hernametyla"
@@ -19,6 +20,8 @@ socials:
   qobuz: ""
 todo:
   - Add picture from concert
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Tyla, de son vrai nom Tyla Laura Seethal, est une chanteuse, danseuse et auteure-compositrice sud-africaine née le 30

@@ -2,6 +2,10 @@
 id: "7b2f44fb-8e11-4c8a-bd16-688fa4572bf8"
 title: "UB40 featuring Ali Campbell"
 type: band
+members:
+  - id: "4ed90639-a41b-44f5-a3c8-b50683a6187b"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "0ae0c87e-c935-482d-ab74-162744111a53"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

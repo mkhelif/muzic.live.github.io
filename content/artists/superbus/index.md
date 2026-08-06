@@ -6,49 +6,48 @@ members:
   - id: "ea291fc0-cf13-45a6-a9f7-abf588d3a6de"
     roles:
       - sing
-      - guitar
-      - keys
-      - drums
-    periods:
-      - start: 1999
-  - id: "e327cf34-eedd-46b3-a127-6b01d794590d"
-    roles:
-      - guitar
-      - keys
-      - sing
-    periods:
-      - start: 2000
-  - id: "2b5f1db7-4846-4fcb-8de5-c78bce7612c1"
-    roles:
-      - guitar
-      - keys
     periods:
       - start: 1999
   - id: "5fda3e9a-6f87-4bb6-965e-588de66808c8"
     roles:
       - bass
-      - keys
     periods:
-      - start: 2000
-  - id: "02699fb1-0854-4e76-b170-e1d9fc1bd0fe"
+      - start: 1999
+  - id: "e327cf34-eedd-46b3-a127-6b01d794590d"
+    roles:
+      - guitar
+    periods:
+      - start: 1999
+  - id: "2b5f1db7-4846-4fcb-8de5-c78bce7612c1"
+    roles:
+      - guitar
+    periods:
+      - start: 1999
+  - id: "edf98033-1062-4a88-bc38-7010e6e04e64"
     roles:
       - drums
     periods:
-      - start: 2019
-      - start: 2006
-        end: 2015
-  - id: "d163ef00-11c3-4520-94e7-11f00bd11874"
-    roles:
-      - drums
-    periods:
-      - start: 2000
-        end: 2006
+      - start: 2023
   - id: "2b2bdbae-f963-4f0b-b4ab-fd20ceb86a16"
     roles:
       - drums
     periods:
       - start: 2000
         end: 2000
+  - id: "d163ef00-11c3-4520-94e7-11f00bd11874"
+    roles:
+      - drums
+    periods:
+      - start: 2000
+        end: 2006
+  - id: "dbc44d5d-e3e0-483d-965b-640b00a45bc4"
+    roles:
+      - drums
+    periods:
+      - start: 2019
+        end: 2023
+      - start: 2006
+        end: 2015
 socials:
   musicbrainz: "2be7b462-382f-4dd4-a635-99c4801dcd39"
   facebook: "superbusofficiel"
@@ -66,6 +65,7 @@ socials:
   deezer: "1024"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

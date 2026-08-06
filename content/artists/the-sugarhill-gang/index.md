@@ -8,22 +8,23 @@ members:
       - sing
     periods:
       - start: 1979
+  - id: "669dbc25-6cfe-436d-abae-60834cb830eb"
+    roles:
+      - sing
+    periods:
+      - start: 1985
   - id: "fdd92b22-d005-446c-abb0-4490e7df2820"
     roles:
       - sing
     periods:
       - start: 1979
+        end: 1985
   - id: "c508f7d5-f070-4ae4-839f-3c9aa928ab69"
     roles:
       - sing
     periods:
       - start: 1979
         end: 2014
-  - id: "e51e4e56-c3fa-4ea2-9eac-4e80aae8c314"
-    roles:
-      - sing
-    periods:
-      - start: 2016
 socials:
   musicbrainz: "336f2e14-b064-45c8-8b2a-01663a0bee64"
   facebook: ""
@@ -42,6 +43,7 @@ socials:
   spotify: "7zliF6Q946WznVk3ZMYhZX"
   tidal: "19042"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

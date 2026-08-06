@@ -3,6 +3,7 @@ id: "25f21473-b387-4694-88e0-edf7100b7134"
 title: "Xana Romeo"
 type: person
 socials:
+  musicbrainz: "e08a8970-b53c-42e9-be7a-216472cf3886"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,11 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "962996440"
   deezer: "7562674"
   qobuz: ""
   spotify: "2Y4b1QBKPVyyhX1hFa1Wtk"
-  tidal: ""
+  tidal: "6558768"
+lifespan:
+  start: 1994-08-26
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Xana Romeo, de son vrai nom Azana Makeda Smith, est née le 26 août 1994 à Greenwich Town, dans le quartier de

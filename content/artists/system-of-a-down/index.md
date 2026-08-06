@@ -3,21 +3,21 @@ id: "49f16864-4db8-41d6-8ed3-71dcec686f4b"
 title: "System of a Down"
 type: band
 members:
-  - id: "9a1843bb-824e-4ab0-86cb-ef8fb9af50dd"
-    roles:
-      - sing
-      - keys
-    periods:
-      - start: 1994
   - id: "f9dbe4e1-c4ef-4680-a924-87a9cf1b2a68"
     roles:
-      - guitar
       - sing
+      - guitar
     periods:
       - start: 1994
   - id: "f66032eb-f8c6-40e3-bbe9-a3ea7d41eefe"
     roles:
+      - sing
       - bass
+    periods:
+      - start: 1994
+  - id: "9a1843bb-824e-4ab0-86cb-ef8fb9af50dd"
+    roles:
+      - sing
     periods:
       - start: 1994
   - id: "8605160a-cefa-4afb-8ad1-176568d7409c"
@@ -25,7 +25,13 @@ members:
       - drums
     periods:
       - start: 1997
-  - id: "3531cc35-43fa-44b4-98f8-87082c2c0e57"
+  - id: "02de7200-fc72-450b-828e-69708b6a56ed"
+    roles:
+      - drums
+    periods:
+      - start: 1994
+        end: 1997
+  - id: "7f80a512-2dd4-4900-aa6b-6a95ea2690e4"
     roles:
       - drums
     periods:
@@ -52,6 +58,7 @@ socials:
 todo:
   - Add logo cover
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

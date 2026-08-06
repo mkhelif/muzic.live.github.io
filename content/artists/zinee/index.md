@@ -2,6 +2,7 @@
 id: "96ca928a-2966-417d-84fa-e7902f5839f3"
 title: "Zinee"
 socials:
+  musicbrainz: "f2459e43-64c8-4aab-8681-0741888f77ae"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,10 +16,12 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "6LAeGs6PiBDev5KdMdbRY3"
   tidal: ""
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

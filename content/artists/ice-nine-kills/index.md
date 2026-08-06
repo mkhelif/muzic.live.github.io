@@ -6,51 +6,54 @@ members:
   - id: "23b5d95a-dd6b-4871-a5f9-c627c8de1ea9"
     roles:
       - sing
+      - guitar
     periods:
-      - start: 2000
+      - start: 2002
+        end: 2009
+      - start: 2002
+  - id: "00927220-cbe5-41f2-a53a-b21d4e046044"
+    roles:
+      - guitar
+    periods:
+      - start: 2009
   - id: "c9d3b3cb-c9e7-4d44-a6a6-3357b063068c"
     roles:
       - guitar
     periods:
       - start: 2018
-  - id: "e5c09e7b-57fd-4906-8db6-abc36c3058ff"
-    roles:
-      - bass
-    periods:
-      - start: 2019
-  - id: "e2541e12-85d3-4466-aeea-84be6301cd0b"
-    roles:
-      - guitar
-    periods:
-      - start: 2019
-  - id: "ba1790f3-38da-4eb8-8778-557909663951"
+  - id: "cfb37a73-8660-49e5-9590-89a3afe9365d"
     roles:
       - drums
     periods:
-      - start: 2024
-  - id: "1a4377e3-21bc-4033-aa96-fb6c9cc50ed6"
+      - start: 2018
+  - id: "a9655bdf-69c3-4965-885c-5e5d7b4b04d2"
     roles:
       - guitar
     periods:
-      - start: 2023
-  - id: "d85d9023-bc87-4846-bcda-3bf6099ff067"
-    roles:
-      - sing
-      - guitar
-    periods:
-      - start: 2002
-        end: 2009
+      - start: 2021
   - id: "c8bea7f0-f6de-464e-b0a4-db3f099a344a"
     roles:
       - bass
     periods:
       - start: 2002
-        end: 2007
+        end: 2004
+  - id: "d85d9023-bc87-4846-bcda-3bf6099ff067"
+    roles:
+      - guitar
+    periods:
+      - start: 2002
+        end: 2009
+  - id: "3e3858aa-f181-4bbf-9436-6499cafa0d68"
+    roles:
+      - drums
+    periods:
+      - start: 2003
+        end: 2008
   - id: "d3f15c6d-253a-47cf-ab62-7a2ea0dfcbc0"
     roles:
       - bass
     periods:
-      - start: 2007
+      - start: 2004
         end: 2008
   - id: "84767d0b-14c9-43f4-ac75-f1cc0d38d446"
     roles:
@@ -70,46 +73,31 @@ members:
     periods:
       - start: 2009
         end: 2011
-  - id: "b8a8f235-0d2e-4595-82eb-4513c17f07b9"
-    roles:
-      - bass
-      - sing
-    periods:
-      - start: 2011
-        end: 2013
-  - id: "3e3858aa-f181-4bbf-9436-6499cafa0d68"
-    roles:
-      - drums
-    periods:
-      - start: 2006
-        end: 2008
-  - id: "2a40c13e-d706-45e7-aa69-9e2174f29b5a"
-    roles:
-      - drums
-    periods:
-      - start: 2009
-        end: 2018
   - id: "30ea63e3-97ed-402a-a9a1-87dfbfab65d3"
     roles:
       - guitar
       - bass
     periods:
       - start: 2009
-        end: 2019
-  - id: "00927220-cbe5-41f2-a53a-b21d4e046044"
-    roles:
-      - sing
-      - guitar
-      - keys
-    periods:
-      - start: 2009
-        end: 2018
-  - id: "cfb37a73-8660-49e5-9590-89a3afe9365d"
+        end: 2013
+  - id: "85a2e73b-ed3a-4f78-942c-1540cd37bda2"
     roles:
       - drums
     periods:
-      - start: 2018
-        end: 2024
+      - start: 2009
+        end: 2018
+  - id: "b8a8f235-0d2e-4595-82eb-4513c17f07b9"
+    roles:
+      - bass
+    periods:
+      - start: 2011
+        end: 2013
+  - id: "e2541e12-85d3-4466-aeea-84be6301cd0b"
+    roles:
+      - guitar
+    periods:
+      - start: 2013
+        end: 2021
 socials:
   musicbrainz: "d8f0f6ac-a0a7-47bd-9786-f9106d7bdd11"
   facebook: "IceNineKills"
@@ -130,6 +118,7 @@ socials:
 todo:
   - Add picture
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

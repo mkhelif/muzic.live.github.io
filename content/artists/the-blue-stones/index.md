@@ -7,14 +7,12 @@ members:
     roles:
       - sing
       - guitar
-    periods:
-      - start: 2011
+      - bass
+      - keys
   - id: "9215cd10-aa6a-4c77-b17e-82e7ffd450d8"
     roles:
-      - drums
       - sing
-    periods:
-      - start: 2011
+      - drums
 socials:
   musicbrainz: "bff6b03f-c91b-4af9-a7f3-3dad6bc3165e"
   facebook: ""
@@ -36,5 +34,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

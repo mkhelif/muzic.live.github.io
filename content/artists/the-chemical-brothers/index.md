@@ -5,14 +5,14 @@ type: band
 members:
   - id: "e4d6a3ac-ce18-44ee-80e0-fcd394a26b9d"
     roles:
-      - keys
+      - other
     periods:
-      - start: 1992
+      - start: 1989
   - id: "9cfb0c5d-da5e-4310-bca2-cff1c69b0186"
     roles:
-      - keys
+      - other
     periods:
-      - start: 1992
+      - start: 1989
 socials:
   musicbrainz: "1946a82a-f927-40c2-8235-38d64f50d043"
   facebook: ""
@@ -34,5 +34,6 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

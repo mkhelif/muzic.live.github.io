@@ -3,38 +3,74 @@ id: "447f0a27-2b10-4c9c-b0f2-f9e6d7c8ee90"
 title: "Portugal. the Man"
 type: band
 members:
-  - id: "ed9aa5ad-7c0a-4d32-bbf2-a2df3025561a"
+  - id: "0a171ac3-a160-469d-8953-8bb088cd1d34"
+    roles:
+      - sing
+      - bass
+    periods:
+      - start: 2004
+  - id: "1e6b3178-161d-44b1-a299-13bde4f53cd8"
+    roles:
+      - sing
+      - guitar
+      - drums
+      - keys
+    periods:
+      - start: 2004
+  - id: "2164eef6-559a-40a1-ba04-198f0cfd4343"
+    roles:
+      - drums
+    periods:
+      - start: 2005
+  - id: "ae4ffb54-08ad-4937-b499-e9bbe3accafc"
+    roles:
+      - sing
+      - guitar
+      - keys
+    periods:
+      - start: 2007
+  - id: "4a3ed95b-c950-4482-9ec4-d04490267593"
+    roles:
+      - sing
+      - drums
+    periods:
+      - start: 2008
+      - start: 2008
+  - id: "0966f8ed-beff-431e-aab3-4c5ca749ab33"
     roles:
       - sing
       - guitar
     periods:
-      - start: 2004
-  - id: "757311b5-410b-40bd-a080-56768c642031"
-    roles:
-      - bass
-    periods:
-      - start: 2004
-  - id: "0966f8ed-beff-431e-aab3-4c5ca749ab33"
-    roles:
-      - guitar
-    periods:
       - start: 2015
-  - id: "ae4ffb54-08ad-4937-b499-e9bbe3accafc"
+      - start: 2015
+  - id: "b6c02dad-49d8-403e-91e0-7b82c27d073b"
     roles:
       - keys
     periods:
-      - start: 2012
-      - start: 2007
-        end: 2007
-  - id: "b4a1ae45-171e-4524-a1ca-4d2edd21a129"
+      - start: 2004
+        end: 2006
+  - id: "56138b4b-91ca-4399-8e37-3524fbc63f79"
     roles:
+      - sing
+      - keys
+      - wind
+    periods:
+      - start: 2008
+        end: 2012
+  - id: "d708fe31-0143-4f9b-9cd9-081d47aa00f9"
+    roles:
+      - guitar
       - drums
     periods:
-      - start: 2016
-      - start: 2009
-        end: 2011
-      - start: 2005
-        end: 2008
+      - start: 2011
+        end: 2013
+  - id: "c4af769d-4e69-441e-9544-006c5b16ab4e"
+    roles:
+      - sing
+      - drums
+    periods:
+      - start: 2012
+        end: 2016
 socials:
   musicbrainz: "3599a39e-4e10-4cb5-90d4-c8a015ebc73b"
   facebook: "portugaltheman"
@@ -57,6 +93,7 @@ socials:
 todo:
   - Update cover with concert picture
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

@@ -3,6 +3,7 @@ id: "26e7c3bb-4db9-442a-a4ba-9bdaaa00a385"
 title: "Vikie"
 type: band
 socials:
+  musicbrainz: "3d23e38c-3664-41a6-aec9-54abc4674522"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -20,4 +21,6 @@ todo:
   - Add description
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

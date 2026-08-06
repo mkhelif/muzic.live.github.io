@@ -10,7 +10,7 @@ members:
       - start: 1991
   - id: "23561df5-364e-40f8-9a6c-cbd22b8df531"
     roles:
-      - other
+      - strings
     periods:
       - start: 1993
   - id: "8e2d5aa6-83a6-421f-9090-07e256016150"
@@ -41,7 +41,7 @@ members:
       - start: 2005
   - id: "658ac44c-3a91-49a4-b4f9-7065d0c93059"
     roles:
-      - other
+      - violin
     periods:
       - start: 2005
   - id: "2c3918ea-7c86-4966-9fef-76e6cf536ae0"
@@ -83,7 +83,7 @@ members:
   - id: "13db9516-e09a-4da4-8ac2-a2b71564856f"
     roles:
       - keys
-      - other
+      - accordion
     periods:
       - start: 1995
         end: 2001
@@ -97,7 +97,7 @@ members:
         end: 2001
   - id: "22b8b714-15bd-4a07-a45c-5e596e0c89b2"
     roles:
-      - other
+      - violin
   - id: "c1a1828b-eca6-4808-a995-a3f92e261721"
     roles:
       - other
@@ -122,5 +122,6 @@ todo:
   - Verify social networks
   - Add logo cover
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

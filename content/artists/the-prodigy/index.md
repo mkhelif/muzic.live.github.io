@@ -5,15 +5,9 @@ type: band
 members:
   - id: "93110461-ca37-4869-8b15-e749e2d3efd9"
     roles:
-      - keys
+      - other
     periods:
       - start: 1990
-  - id: "6ba3959a-f1c7-4969-bb8a-bddf765ab9e0"
-    roles:
-      - sing
-    periods:
-      - start: 1990
-        end: 2019
   - id: "1043ccaa-6e1c-4764-85ba-5613e82b5c40"
     roles:
       - sing
@@ -22,10 +16,15 @@ members:
   - id: "3c2d0a6a-4de7-4f86-b0b6-b6a30674c259"
     roles:
       - keys
-      - other
     periods:
       - start: 1990
         end: 2000
+  - id: "6ba3959a-f1c7-4969-bb8a-bddf765ab9e0"
+    roles:
+      - sing
+    periods:
+      - start: 1990
+        end: 2019
 socials:
   musicbrainz: "4a4ee089-93b1-4470-af9a-6ff575d32704"
   facebook: "theprodigyofficial"
@@ -44,6 +43,7 @@ socials:
   deezer: "85"
   qobuz: "224109"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

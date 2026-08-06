@@ -3,6 +3,7 @@ id: "45f33a1e-2abc-4549-906f-064dbde258c4"
 title: "Zaatar"
 type: person
 socials:
+  musicbrainz: "20f9e4e8-70f3-4583-a772-297a993bfbab"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Zaatar est une artiste, productrice et DJ originaire du Maroc, basée à Lille, dont la musique puise dans le mouvement

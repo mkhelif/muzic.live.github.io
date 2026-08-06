@@ -21,5 +21,7 @@ socials:
 lifespan:
   start: 1981-11-29
 lastUpdate:
+  setlistfm: 2026-08-05
+  bandsintown: 2026-08-05
   musicbrainz: 2026-08-05
 ---

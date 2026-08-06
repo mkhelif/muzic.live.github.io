@@ -21,6 +21,10 @@ socials:
 lifespan:
   start: 2001-10-24
 lastUpdate:
+  setlistfm: 2026-08-05
+  deezer: 2026-08-05
+  apple: 2026-08-05
+  bandsintown: 2026-08-05
   musicbrainz: 2026-08-05
 ---
 

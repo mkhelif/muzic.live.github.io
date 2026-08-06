@@ -93,7 +93,26 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
+
+Kittie est un groupe canadien de metal originaire de London, en Ontario, formé en 1996 par la batteuse
+**Mercedes Lander** et la guitariste **Fallon Bowman**, rapidement rejointes par la chanteuse-guitariste **Morgan
+Lander** et la bassiste **Tanya Candler**.
+
+###### La révélation de *Spit*
+
+Le groupe connaît un succès fulgurant en 1999 avec le single *Brackish*, extrait de son premier album **Spit**,
+certifié
+disque d'or et écoulé à plus de 600 000 exemplaires aux États-Unis. Débutant dans le nu metal, Kittie fait alors
+partie
+des pionnières de la présence féminine dans le metal grand public.
+
+###### Une évolution vers un metal plus extrême
+
+Au fil des albums, le groupe — dont Morgan et Mercedes Lander restent les membres constants — évolue vers des
+sonorités
+plus extrêmes, empruntant au death metal et au metal alternatif. Fort d'une carrière de près de trente ans et de plus
+de deux millions de disques vendus, Kittie demeure une référence pour les groupes de metal menés par des femmes.

@@ -3,6 +3,7 @@ id: "067caa30-b527-4546-91c4-a77841b5984b"
 title: "Yann Muller"
 type: person
 socials:
+  musicbrainz: "809e3d5f-72f0-44fd-84bb-de76a62ac19f"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,10 +14,12 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "13381609"
   qobuz: ""
   spotify: "41HOzTOe9JNerhym1HWxti"
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Yann Muller est un DJ et producteur français originaire de Nice, connu pour ses réinventions ensoleillées de tubes pop,

@@ -3,6 +3,7 @@ id: "65964aec-dc50-47e0-a3d3-5c7eff7e974d"
 title: "Weird Nightmare"
 type: person
 socials:
+  musicbrainz: "846693e7-792d-419d-b4c4-3810053f44f9"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,7 +13,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1593482194"
   deezer: "159530942"
   qobuz: ""
   spotify: "2dRm7hmP96rgIGGGX1wiLc"
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

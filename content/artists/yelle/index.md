@@ -3,6 +3,7 @@ id: "a2e01ea5-dd7e-4c13-a4c9-8bb1b964c230"
 title: "Yelle"
 type: person
 socials:
+  musicbrainz: "063b295f-6712-442d-a20c-3a7a4d709c2c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,8 +16,12 @@ socials:
   apple: ""
   deezer: "9009"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0WbqAlM1WvfUD6dF7omThd"
+  tidal: "3516036"
+lifespan:
+  start: 1983-01-17
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Yelle est un groupe français de pop électronique formé en 2005, composé de la chanteuse Julie Budet et du producteur

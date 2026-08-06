@@ -20,5 +20,7 @@ todo:
   - Add description
   - Add socials
 lastUpdate:
+  deezer: 2026-08-05
+  apple: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

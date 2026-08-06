@@ -1,0 +1,6 @@
+---
+date: 2009-06-15T00:00:00
+venue: "859ef144-c72b-4c2a-8dfa-4f38d81b58ee"
+artists:
+  - "cfb73548-4aec-42e0-a224-6c189af8b6e3"
+---

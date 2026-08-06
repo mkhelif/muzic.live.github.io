@@ -3,6 +3,7 @@ id: "418c882a-d0f4-4fa4-a1eb-defd71641e95"
 title: "Voyou"
 type: person
 socials:
+  musicbrainz: "3294c3b7-d90f-4947-8aa7-e5136f352a67"
   facebook: "voyoumusique"
   instagram: "voyovoyou"
   tiktok: "@voyovoyou"
@@ -15,9 +16,13 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1610367025"
   deezer: ""
   qobuz: ""
+lifespan:
+  start: 1989
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Voyou est le projet solo électro-pop de Christophe Musset, ancien membre du groupe Les Bizarres, qui a décidé de se

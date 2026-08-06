@@ -60,11 +60,13 @@ members:
       - start: 2009
         end: 2014
 socials:
+  musicbrainz: "9b1f75d4-46b5-4fe2-8787-027faa1b4f60"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "36631"
+  songkick: "18713"
   youtube: ""
   web: ""
   email: ""
@@ -73,10 +75,12 @@ socials:
   deezer: "14563"
   qobuz: ""
   spotify: "4mnp6YW545j0Qb5PYS9Wmv"
-  tidal: ""
+  tidal: "4514268"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Ultra Vomit est un groupe français de heavy metal parodique formé en 2000 à Nantes. À ses débuts, initialement

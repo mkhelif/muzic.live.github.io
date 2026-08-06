@@ -46,7 +46,7 @@ members:
   - id: "f5d0d463-8b7b-4f93-a6d2-1a1e38e18d9a"
     roles:
       - guitar
-      - other
+      - violin
     periods:
       - start: 1983
         end: 1997
@@ -160,5 +160,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

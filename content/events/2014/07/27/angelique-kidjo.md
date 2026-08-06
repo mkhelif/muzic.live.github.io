@@ -1,0 +1,6 @@
+---
+date: 2014-07-27T00:00:00
+venue: "99aeb72f-7171-4f0d-a6bf-925539e94cf6"
+artists:
+  - "5bb45dc9-8a78-4278-ba4f-f8bce4f58ec5"
+---

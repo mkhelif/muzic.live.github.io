@@ -2,6 +2,7 @@
 id: "b2a7aa87-e563-446d-a7b0-bb668c58ae77"
 title: "Yuria"
 socials:
+  musicbrainz: "568b62fc-a8fe-4811-a9ee-8473914381e9"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

@@ -17,5 +17,6 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  deezer: 2026-08-06
   musicbrainz-lookup: 2026-08-05
 ---

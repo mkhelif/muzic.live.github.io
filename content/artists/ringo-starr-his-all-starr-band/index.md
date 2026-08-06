@@ -90,7 +90,7 @@ members:
     roles:
       - sing
       - guitar
-      - other
+      - accordion
   - id: "de1727ef-4202-46ca-b3d4-9ade8a059dad"
     roles:
       - other
@@ -163,5 +163,6 @@ todo:
   - Add description
   - Add members
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

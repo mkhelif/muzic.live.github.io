@@ -2,22 +2,54 @@
 id: "3d9584a9-2382-4ff4-b08f-d55a6efdbd87"
 title: "Walk off the Earth"
 type: band
+members:
+  - id: "4e6c1dcf-b2d9-4c65-b8f2-b71fb2458851"
+    roles:
+      - drums
+    periods:
+      - start: 2006
+        end: 2010
+  - id: "d03d2a26-fc54-4883-879b-542de19b8fd0"
+    roles:
+      - keys
+    periods:
+      - start: 2010
+        end: 2018
+  - id: "1f21db52-97a1-48f8-9cf7-8bee717e0eb3"
+    roles:
+      - other
+    periods:
+      - start: 2019
+        end: 2019
+  - id: "d38030f9-9017-4e8a-a6cb-46621512c48a"
+    roles:
+      - other
+  - id: "19019a11-0a6b-4e1e-9db0-ea4690f93922"
+    roles:
+      - other
+  - id: "af475e94-3617-46a3-be06-b69f7f0a80a7"
+    roles:
+      - other
 socials:
+  musicbrainz: "e2a5eaeb-7de7-4ffe-a519-e18e427a5060"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "158776"
+  songkick: "605561"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "271356617"
+  deezer: "470349"
   qobuz: ""
   spotify: "6jEiUoyyJNPHzSR0Nib6HX"
-  tidal: ""
+  tidal: "4489722"
 cover: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Walk off the Earth est un groupe canadien fondé en 2006 à Burlington, en Ontario, par Gianni « Luminati »

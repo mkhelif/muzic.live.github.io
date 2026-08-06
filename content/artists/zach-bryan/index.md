@@ -3,20 +3,26 @@ id: "0b31e661-9de7-485c-9fc9-52f48b4ce349"
 title: "Zach Bryan"
 type: person
 socials:
+  musicbrainz: "51e90731-08c0-4f60-89b6-5b78e5844de8"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "15492027"
+  songkick: "10141045"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1436413980"
   deezer: "71855892"
   qobuz: ""
   spotify: "40ZNYROS4zLfyyBSs2PGe2"
-  tidal: ""
+  tidal: "16568778"
+lifespan:
+  start: 1996-04-02
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Zachary Lane Bryan naît le 2 avril 1996 à Okinawa, au Japon, où sa famille est alors stationnée dans le cadre du

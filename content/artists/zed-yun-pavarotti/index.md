@@ -3,6 +3,7 @@ id: "9cb4682e-90fb-4e11-abbf-ca2a0bfd3563"
 title: "Zed Yun Pavarotti"
 type: person
 socials:
+  musicbrainz: "c1800613-ce18-4d86-a318-02b986459435"
   facebook: "ZEDYUNPAVA"
   instagram: "zedyunpavarotti"
   x: "zedyunpava"
@@ -18,4 +19,8 @@ socials:
   apple: ""
   deezer: "14082715"
   qobuz: ""
+lifespan:
+  start: 1997-03-07
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

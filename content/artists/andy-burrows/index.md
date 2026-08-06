@@ -26,6 +26,8 @@ todo:
 lifespan:
   start: 1979-06-30
 lastUpdate:
+  setlistfm: 2026-08-06
+  deezer: 2026-08-06
   musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

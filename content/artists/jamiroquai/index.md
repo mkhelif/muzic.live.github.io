@@ -141,6 +141,7 @@ socials:
   spotify: "6J7biCazzYhU3gM9j1wfid"
   tidal: "526"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

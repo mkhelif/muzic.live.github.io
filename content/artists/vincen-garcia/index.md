@@ -3,6 +3,7 @@ id: "c5ccabfa-a41e-4789-8243-75b8d1a2a534"
 title: "Vincen García"
 type: person
 socials:
+  musicbrainz: "047368ad-dc41-4f2c-a2ef-a898374f4af8"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,7 +13,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1619250675"
   deezer: "166767337"
   qobuz: ""
   spotify: "1E17v2QgyFXkqxsHngr6YD"
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

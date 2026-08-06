@@ -3,6 +3,7 @@ id: "948af3bd-bf9f-4db0-a634-85e074afe2ea"
 title: "Zack Merrick"
 type: person
 socials:
+  musicbrainz: "19e9027e-24b4-4689-9d49-97bc07bb7a97"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -22,4 +23,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

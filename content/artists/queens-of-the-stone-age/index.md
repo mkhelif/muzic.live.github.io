@@ -7,107 +7,144 @@ members:
     roles:
       - sing
       - guitar
-      - keys
       - bass
+      - keys
     periods:
       - start: 1996
+      - start: 1995
+        end: 1996
+      - start: 1995
+        end: 1996
   - id: "54385061-89f3-4b39-b0f7-32cd47c3de14"
     roles:
-      - guitar
-      - keys
       - sing
+      - guitar
       - bass
+      - keys
       - other
     periods:
       - start: 2002
-  - id: "717da951-0892-499c-982d-d754330a5b4a"
-    roles:
-      - bass
-      - keys
-      - sing
-    periods:
-      - start: 2007
   - id: "e75dff06-8297-4f4a-9919-26ab5fc8e585"
     roles:
-      - keys
-      - guitar
       - sing
-      - other
+      - guitar
+      - drums
+      - keys
+    periods:
+      - start: 2007
+  - id: "717da951-0892-499c-982d-d754330a5b4a"
+    roles:
+      - sing
+      - bass
     periods:
       - start: 2007
   - id: "1cec44ec-7fea-4a92-a270-282290be190e"
     roles:
       - drums
-      - other
     periods:
       - start: 2013
+  - id: "d1fd3124-e2d5-4499-9e9c-b03523d4efac"
+    roles:
+      - drums
+    periods:
+      - start: 1997
+        end: 1997
+      - start: 1995
+        end: 1996
+  - id: "f38b2b57-befb-46c9-8eb9-97ea13954fc5"
+    roles:
+      - bass
+    periods:
+      - start: 1995
+        end: 1996
+  - id: "8ca7a3fd-e2cf-4b9a-a8b5-ab40200cf779"
+    roles:
+      - drums
+    periods:
+      - start: 1995
+        end: 1996
+  - id: "0c64c8b1-1546-44af-ade1-eccb6def1e99"
+    roles:
+      - bass
+    periods:
+      - start: 1998
+        end: 1998
   - id: "3eaab70e-816f-4b74-9a9d-8d478bccfd1c"
     roles:
       - drums
-      - other
     periods:
       - start: 1998
         end: 1999
-  - id: "2daa7d0d-5f1a-465c-9d03-a7d1e398d349"
-    roles:
-      - bass
-      - sing
-    periods:
-      - start: 1998
-        end: 2004
   - id: "a4752971-20c9-478f-803c-fe1cac960722"
     roles:
       - guitar
       - keys
-      - sing
-      - other
     periods:
       - start: 1998
         end: 2000
+  - id: "2daa7d0d-5f1a-465c-9d03-a7d1e398d349"
+    roles:
+      - sing
+      - guitar
+      - bass
+    periods:
+      - start: 1998
+        end: 2004
   - id: "4da0f478-bbcb-4d14-afe1-925dc0d620c2"
     roles:
       - drums
-      - other
     periods:
       - start: 1999
-        end: 2001
+        end: 2002
+  - id: "fcea18fe-50be-4ce7-ba50-bd329d9df516"
+    roles:
+      - guitar
+      - keys
+    periods:
+      - start: 2000
+        end: 2002
+  - id: "8c4fdae8-a371-4fef-9952-c8ab307ce383"
+    roles:
+      - sing
+      - drums
+    periods:
+      - start: 2012
+        end: 2013
+      - start: 2001
+        end: 2002
   - id: "070d2386-6a6d-4079-aa60-5b75d40e0f62"
     roles:
       - sing
       - keys
     periods:
-      - start: 2000
-        end: 2005
-  - id: "8c4fdae8-a371-4fef-9952-c8ab307ce383"
-    roles:
-      - drums
-      - other
-    periods:
       - start: 2001
-        end: 2002
+        end: 2005
   - id: "38ba7567-5dfb-4d87-88f1-b9837ba23637"
     roles:
       - drums
-      - other
     periods:
       - start: 2002
         end: 2012
-  - id: "39251774-c78a-4634-84a6-643122ae4e9f"
+  - id: "facc1604-9d34-43d5-92b5-489d24025afd"
     roles:
       - bass
-      - guitar
-      - keys
-      - sing
     periods:
-      - start: 2005
-        end: 2007
+      - start: 2004
+        end: 2005
   - id: "3675cf48-572b-4501-87ba-46c03e72d2f8"
     roles:
       - keys
-      - sing
     periods:
       - start: 2005
-        end: 2006
+        end: 2005
+  - id: "39251774-c78a-4634-84a6-643122ae4e9f"
+    roles:
+      - guitar
+      - bass
+      - keys
+    periods:
+      - start: 2005
+        end: 2007
 socials:
   musicbrainz: "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
   facebook: ""
@@ -126,6 +163,7 @@ socials:
   spotify: "4pejUc4iciQfgdX6OKulQn"
   tidal: "29902"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

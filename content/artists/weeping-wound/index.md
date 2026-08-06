@@ -2,6 +2,7 @@
 id: "f61639d1-e87f-4a5f-b076-b588b0c3cfce"
 title: "Weeping Wound"
 socials:
+  musicbrainz: "3cf61b08-65bf-4869-8d7f-a5b213e4b1cf"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,14 +13,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1261130488"
   deezer: "12835949"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "6YXj8wWQGAopBQLxF1zjRn"
+  tidal: "8948450"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Weeping Wound est un groupe de nu-metalcore originaire de Tampa, en Floride, formé dans le sud-ouest de l'État à la

@@ -2,6 +2,13 @@
 id: "94d9f6df-a063-4ded-b548-20a8bac9a4f0"
 title: "Angry Salad"
 type: band
+members:
+  - id: "6fca1d7b-8555-465d-8850-86ef0c55fb23"
+    roles:
+      - guitar
+    periods:
+      - start: 2001
+        end: 2001
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +25,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "7333680c-e94e-4439-a178-907ea814f20b"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

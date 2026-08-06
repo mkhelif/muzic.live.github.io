@@ -11,5 +11,6 @@ socials:
 todo:
   - Add description/picture/socials
 lastUpdate:
+  setlistfm: 2026-08-05
   musicbrainz: 2026-08-05
 ---

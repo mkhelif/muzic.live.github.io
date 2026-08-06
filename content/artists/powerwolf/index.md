@@ -10,13 +10,10 @@ members:
       - start: 2003
   - id: "10162977-468b-43fa-8131-78b91a484c78"
     roles:
+      - guitar
       - bass
     periods:
-      - start: 2003
-  - id: "21b3a678-d01d-458d-a6aa-f27e5a09e356"
-    roles:
-      - guitar
-    periods:
+      - start: 2011
       - start: 2003
   - id: "7b806ccc-5acd-488e-a435-ea4e2830d19d"
     roles:
@@ -28,6 +25,21 @@ members:
       - drums
     periods:
       - start: 2011
+  - id: "b459043b-0157-4684-8d45-1fcd1cab583a"
+    roles:
+      - drums
+    periods:
+      - start: 2003
+        end: 2010
+  - id: "98cb7157-84b2-407b-89b6-1e52efabe182"
+    roles:
+      - drums
+    periods:
+      - start: 2010
+        end: 2011
+  - id: "21b3a678-d01d-458d-a6aa-f27e5a09e356"
+    roles:
+      - guitar
 socials:
   musicbrainz: "3ef77bdc-b1ce-4e44-aa4b-acfa763c5284"
   facebook: "powerwolfmetal"
@@ -47,6 +59,7 @@ socials:
   deezer: "428405"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

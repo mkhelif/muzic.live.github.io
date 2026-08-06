@@ -7,12 +7,7 @@ members:
     roles:
       - sing
     periods:
-      - start: 1975
-  - id: "6ec2038f-5025-4de2-b44d-0f4f6765caa1"
-    roles:
-      - guitar
-    periods:
-      - start: 1975
+      - start: 1976
   - id: "72f3efda-5b21-44e7-9e0b-bad7e55ceda5"
     roles:
       - drums
@@ -31,38 +26,31 @@ members:
     roles:
       - guitar
     periods:
-      - start: 1996
-  - id: "582f0dc0-e8c4-4762-8b6a-c49e85d4c058"
-    roles:
-      - guitar
-    periods:
-      - start: 2023
-      - start: 2022
-        end: 2022
-  - id: "74721ce4-f9e6-4185-b924-71fa62f73b5c"
-    roles:
-      - guitar
-    periods:
-      - start: 1970
-        end: 1996
-  - id: "441e6115-0ef1-4f14-8909-261cef67c00f"
-    roles:
-      - bass
-    periods:
-      - start: 1970
-        end: 1986
-  - id: "0baf1779-47f9-4921-8ea5-dbddcf7cfe00"
-    roles:
-      - drums
-    periods:
-      - start: 1975
-        end: 1977
+      - start: 1995
   - id: "4a79b6dc-5fb2-4931-9393-ea9541313c98"
     roles:
       - drums
     periods:
       - start: 1977
         end: 1981
+  - id: "441e6115-0ef1-4f14-8909-261cef67c00f"
+    roles:
+      - bass
+    periods:
+      - start: 1977
+        end: 1986
+  - id: "74721ce4-f9e6-4185-b924-71fa62f73b5c"
+    roles:
+      - guitar
+    periods:
+      - start: 1977
+        end: 1994
+  - id: "6ec2038f-5025-4de2-b44d-0f4f6765caa1"
+    roles:
+      - guitar
+    periods:
+      - start: 1977
+        end: 2023
   - id: "dd2a8171-32a6-4cbf-9ec4-90fe1df431d0"
     roles:
       - bass
@@ -105,6 +93,7 @@ socials:
   deezer: "8552"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

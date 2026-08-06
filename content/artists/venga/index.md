@@ -3,6 +3,7 @@ id: "9d27e97d-e2e9-438f-8677-8cf1255eb412"
 title: "VENGA"
 type: person
 socials:
+  musicbrainz: "76583975-81fc-484d-bb35-105fd3316d08"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,13 +13,15 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "683667772"
+  deezer: "5298678"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "4SHOU5SKwu9LVOwGPHUotS"
+  tidal: "7666561"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

@@ -3,20 +3,26 @@ id: "bcac1f21-cfe2-4ed2-a941-a4331f6e6d69"
 title: "Vald"
 type: person
 socials:
+  musicbrainz: "062ab94e-b7a5-47a9-b3f4-cc1750c3f859"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "593844"
+  songkick: "5490553"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "556508733"
+  deezer: "5175734"
   qobuz: ""
   spotify: "3CnCGFxXbOA8bAK54jR8js"
-  tidal: ""
+  tidal: "5996867"
+lifespan:
+  start: 1992-07-15
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Vald, de son vrai nom Valentin Le Du, est un rappeur français né le 15 juillet 1992, qui a grandi à Aulnay-sous-Bois,

@@ -3,6 +3,7 @@ id: "4fcb851e-b996-408f-a0fe-3e3a4aa359fd"
 title: "Urumi"
 type: person
 socials:
+  musicbrainz: "b099f5b7-395c-40c4-a1aa-58e26af6cc14"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -16,10 +17,12 @@ socials:
   deezer: "10618019"
   qobuz: ""
   spotify: "6OY49yYVyrfA74zEAFrcYJ"
-  tidal: ""
+  tidal: "8919041"
 todo:
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Urumi s'est imposée ces dernières années comme l'une des productrices et DJ les plus prometteuses de sa génération,

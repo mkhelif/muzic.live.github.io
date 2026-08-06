@@ -3,6 +3,7 @@ id: "1f80065a-496b-4e1e-8ee1-bea2d04cb4b0"
 title: "Yuston XIII"
 type: person
 socials:
+  musicbrainz: "2d0ee72f-8c7d-47e2-aaa8-80a710555e22"
   instagram: "yustontrayz"
   tiktok: "@yustontrayz"
   x: "yustontrayz"
@@ -17,6 +18,8 @@ socials:
   apple: ""
   deezer: "152271032"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Yuston XIII est l'un des artistes francophones les plus singuliers de sa génération. Là où d'autres passent par les

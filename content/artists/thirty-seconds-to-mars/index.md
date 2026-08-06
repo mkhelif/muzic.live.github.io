@@ -31,7 +31,7 @@ members:
       - bass
       - drums
       - keys
-      - other
+      - violin
     periods:
       - start: 2003
         end: 2018
@@ -65,5 +65,6 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

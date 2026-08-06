@@ -3,103 +3,79 @@ id: "65cd3bf4-ca4e-442d-b731-5dc023597827"
 title: "The Doobie Brothers"
 type: band
 members:
-  - id: "9027dcac-721e-47a3-b424-e0ea4e28fa98"
+  - id: "d4cb1695-5f05-4465-946f-66de64fbe734"
     roles:
-      - guitar
-      - sing
+      - other
     periods:
       - start: 1970
-  - id: "3626f513-74e6-4552-868c-603733bd1b1e"
+        end: 1971
+  - id: "a843591d-90bb-48b9-8998-6873a00c25d7"
     roles:
-      - guitar
-      - sing
+      - drums
     periods:
-      - start: 1987
-      - start: 1970
-        end: 1977
-  - id: "3146e488-6fdc-4199-86c0-4da39df19c14"
+      - start: 1974
+        end: 2005
+  - id: "780a5596-6fb9-4cf6-b30c-53c61a936e8e"
     roles:
-      - sing
-      - keys
+      - other
     periods:
-      - start: 2019
-      - start: 1975
-        end: 1982
-  - id: "a1914f0d-85b9-47a8-bb56-64b6aaf845e4"
-    roles:
-      - guitar
-    periods:
-      - start: 1993
       - start: 1979
+        end: 1987
+  - id: "fef6644a-e0ae-448f-b889-ca9b36facd12"
+    roles:
+      - other
+    periods:
+      - start: 1979
+        end: 1989
+  - id: "e0ca6d57-f8b2-4a99-8563-31ccb359dc8c"
+    roles:
+      - other
+    periods:
+      - start: 1980
         end: 1982
   - id: "92209c38-fc04-4574-86de-24e4a5088863"
     roles:
       - drums
     periods:
-      - start: 1987
+      - start: 1992
         end: 1992
-      - start: 1970
-        end: 1979
-  - id: "d4cb1695-5f05-4465-946f-66de64fbe734"
-    roles:
-      - bass
-    periods:
-      - start: 1970
-        end: 1971
-  - id: "90fd075a-b3a9-4ae8-a297-205fd1a4bd47"
-    roles:
-      - bass
-    periods:
-      - start: 1987
-        end: 1992
-      - start: 1971
-        end: 1980
   - id: "1b8f4c6a-7d98-4daa-999e-067061feffdc"
     roles:
       - drums
     periods:
-      - start: 1987
-        end: 2012
-      - start: 1971
-        end: 1973
-  - id: "a843591d-90bb-48b9-8998-6873a00c25d7"
-    roles:
-      - drums
-    periods:
-      - start: 1987
-        end: 2005
-      - start: 1973
-        end: 1982
-  - id: "995857ff-f721-4f61-828a-76396a9c93ac"
-    roles:
-      - guitar
-    periods:
-      - start: 1974
-        end: 1979
-  - id: "a1d9d2be-2d07-4b3c-8046-660772f29d3f"
-    roles:
-      - bass
-      - sing
-    periods:
       - start: 2010
-      - start: 1993
-        end: 1995
-  - id: "fb0b3ebd-acfb-4f46-9354-650276e7a430"
+        end: 2010
+  - id: "2117da01-128c-4964-bc83-9264b9d2daee"
     roles:
       - other
-    periods:
-      - start: 1998
-  - id: "f0d7e1fc-ed63-45f4-8728-6a36b3786a33"
-    roles:
-      - drums
-    periods:
-      - start: 2005
-  - id: "1a84f30f-a9cc-4282-9acd-db983ecc23de"
+  - id: "bc15119c-67f0-4ac1-89d8-8a8888fd2d9b"
     roles:
       - other
+  - id: "8925f0c4-9a28-428d-aafa-a2b6fe6d33f7"
+    roles:
+      - other
+  - id: "3626f513-74e6-4552-868c-603733bd1b1e"
+    roles:
       - sing
-    periods:
-      - start: 2018
+      - guitar
+  - id: "cf8aeece-30bd-4dc8-beeb-b0d7a880932d"
+    roles:
+      - other
+  - id: "3146e488-6fdc-4199-86c0-4da39df19c14"
+    roles:
+      - other
+  - id: "a1914f0d-85b9-47a8-bb56-64b6aaf845e4"
+    roles:
+      - other
+  - id: "33d3868c-9fe9-491c-a70f-0a949b929991"
+    roles:
+      - other
+  - id: "90fd075a-b3a9-4ae8-a297-205fd1a4bd47"
+    roles:
+      - other
+  - id: "9027dcac-721e-47a3-b424-e0ea4e28fa98"
+    roles:
+      - other
 socials:
   musicbrainz: "588dea29-eea3-456b-a815-3ee04f75c8e7"
   facebook: ""
@@ -117,6 +93,7 @@ socials:
   spotify: "39T6qqI0jDtSWWioX8eGJz"
   tidal: "107"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

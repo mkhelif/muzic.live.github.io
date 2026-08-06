@@ -5,20 +5,13 @@ type: band
 members:
   - id: "ed72ee69-4268-4d52-a9d5-234a8cf5630c"
     roles:
-      - sing
-      - guitar
-    periods:
-      - start: 2014
+      - other
+  - id: "832d714c-8478-429e-8cad-939db3e403a7"
+    roles:
+      - other
   - id: "9cf70d04-9add-4174-8472-d662a02cd788"
     roles:
-      - drums
-    periods:
-      - start: 2014
-  - id: "f94f512c-2717-4f13-b84d-f3102f23d25b"
-    roles:
-      - drums
-    periods:
-      - start: 2020
+      - other
 socials:
   musicbrainz: "c602c091-19d7-4f3a-82f3-636d318c5445"
   facebook: ""
@@ -40,5 +33,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

@@ -7,6 +7,7 @@ members:
     roles:
       - sing
       - keys
+      - other
     periods:
       - start: 2009
   - id: "bddb2c39-99fb-4f89-a2d8-ff3a4fb4eedf"
@@ -14,15 +15,15 @@ members:
       - drums
     periods:
       - start: 2011
-  - id: "4fa9734d-27ab-400f-8f47-85cfaffe0399"
-    roles:
-      - bass
-    periods:
-      - start: 2009
-        end: 2011
   - id: "c9aa14cb-9e1a-430b-ae21-fa796b3f7f6d"
     roles:
       - drums
+    periods:
+      - start: 2009
+        end: 2011
+  - id: "4fa9734d-27ab-400f-8f47-85cfaffe0399"
+    roles:
+      - other
     periods:
       - start: 2009
         end: 2011
@@ -44,6 +45,7 @@ socials:
   deezer: "647650"
   qobuz: "859484"
 lastUpdate:
+  musicbrainz: 2026-08-06
   musicbrainz-lookup: 2026-08-05
 ---
 

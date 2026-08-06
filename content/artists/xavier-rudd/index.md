@@ -3,12 +3,14 @@ id: "0be79706-ed1e-4a08-ae29-6037112323b2"
 title: "Xavier Rudd"
 type: person
 socials:
+  musicbrainz: "6689a626-4de7-41d5-9ec3-5a289472a9e2"
   facebook: "XavierRuddOfficial"
   instagram: "xavierruddofficial"
   x: "xavierrudd"
   threads: "@xavierruddofficial"
   soundcloud: "xavierrudd"
   bandsintown: "2240"
+  songkick: "240231"
   youtube: "@XavierRudd"
   web: "https://www.xavierrudd.com"
   tidal: "3517820"
@@ -19,6 +21,10 @@ socials:
   apple: ""
   deezer: "8448"
   qobuz: ""
+lifespan:
+  start: 1978-05-29
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Xavier Rudd incarne une approche holistique de la musique, où l'art devient le vecteur d'un message spirituel,

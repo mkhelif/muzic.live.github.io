@@ -29,9 +29,11 @@ members:
     periods:
       - start: 1986
 socials:
+  musicbrainz: "59b858bb-e13a-4608-b30d-8a4b7f282e26"
   facebook: "VandenPlasOfficial"
   instagram: "vanden.plas.official"
   bandsintown: "47438"
+  songkick: "205783"
   youtube: "@vanden_plas"
   web: "https://www.vandenplas.de/"
   tidal: "3659739"
@@ -39,10 +41,12 @@ socials:
   tiktok: ""
   x: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B000RHPTGQ"
+  apple: "188157560"
   deezer: "9677"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Vanden Plas représente l'excellence du metal progressif européen, incarnant depuis plus de trois décennies une approche

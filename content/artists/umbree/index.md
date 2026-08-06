@@ -3,6 +3,7 @@ id: "73cd7419-efde-4e00-888d-8bacc9dc3ec4"
 title: "Umbree"
 type: person
 socials:
+  musicbrainz: "eb69a0f6-2af4-4e11-b7c8-edad4b3bd107"
   facebook: "umbreemusic"
   instagram: "iamumbree"
   threads: "@iamumbree"
@@ -19,6 +20,8 @@ socials:
   apple: ""
   deezer: "9025370"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Umbree est une DJ et productrice française originaire de Nice, figure montante de la scène électronique hexagonale dont

@@ -31,21 +31,25 @@ members:
     periods:
       - start: 2024
 socials:
+  musicbrainz: "f0c8f75f-8736-4b1d-b312-9349fcff321d"
   facebook: "wolfmother"
   instagram: "officialwolfmother"
   x: "wolfmother"
   threads: "@officialwolfmother"
   bandsintown: "238"
+  songkick: "192603"
   youtube: "@OfficialWolfmother"
   web: "https://www.wolfmother.com"
   tidal: "19379"
   spotify: "3yEnArbNHyTCwMRvD9SBy4"
   tiktok: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
+  amazon: "B000QK1JKY"
+  apple: "27076064"
+  deezer: "5359"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Wolfmother est un groupe australien formé en 2004 à Sydney par **Andrew Stockdale** (chant, guitare), qui a propulsé un

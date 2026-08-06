@@ -3,20 +3,26 @@ id: "a8dafe59-199e-4985-881e-ab080f52fc94"
 title: "Youssoupha"
 type: person
 socials:
+  musicbrainz: "6fabf3aa-1822-49f2-b6c7-57560464696f"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "65390"
+  songkick: "558710"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
+  apple: "89876765"
+  deezer: "13020"
+  qobuz: "61838"
   spotify: "5DW7NxqQ2875JtjuV7KMn4"
-  tidal: ""
+  tidal: "3510793"
+lifespan:
+  start: 1979-04-29
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Youssoupha Mabiki naît le 29 août 1979 à Kinshasa, en République démocratique du Congo. Il est le fils du musicien et

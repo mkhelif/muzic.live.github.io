@@ -22,10 +22,29 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lifespan:
   start: 1971-06-21
 lastUpdate:
+  setlistfm: 2026-08-06
+  deezer: 2026-08-06
+  apple: 2026-08-06
   musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
+
+Anette Olzon, née **Anette Ingegerd Olsson** le 21 juin 1971 à Katrineholm en Suède, est une
+chanteuse suédoise de metal symphonique. Après des débuts dans le groupe AOR **Alyson Avenue** au tournant des années
+2000, elle est choisie en 2007, parmi plus de 2 000 candidates, pour devenir la nouvelle voix de **Nightwish**, en
+remplacement de Tarja Turunen.
+
+###### Les années Nightwish
+
+Avec Nightwish, Anette Olzon participe aux albums **Dark Passion Play** (2007) et **Imaginaerum** (2011), portant des
+titres devenus emblématiques comme *Amaranth* ou *Storytime*, et tourne intensivement à travers le monde jusqu'à son
+départ du groupe en 2012.
+
+###### Une carrière solo affirmée
+
+Depuis, elle poursuit une carrière solo entamée avec l'album **Shine** (2014), tout en menant en parallèle le projet
+**The Dark Element** aux côtés de Jani Liimatainen. Son troisième album solo, **Rapture**, paraît en 2024, et Anette
+Olzon continue de tourner en Europe et en Amérique latine, notamment autour de son répertoire de l'ère Nightwish.

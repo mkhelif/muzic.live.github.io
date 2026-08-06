@@ -30,6 +30,7 @@ members:
     periods:
       - start: 2023
 socials:
+  musicbrainz: "b0cbb906-8576-4b7c-9cc5-c790502eb043"
   facebook: ""
   instagram: "weareunpeople"
   tiktok: ""
@@ -38,14 +39,16 @@ socials:
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B005I5UARA"
+  apple: "1643941873"
   deezer: "182589097"
-  qobuz: ""
+  qobuz: "15531555"
   spotify: "515JoZzxBrdm0TxOhHa2n2"
-  tidal: ""
+  tidal: "34282464"
 todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

@@ -2,6 +2,7 @@
 id: "f1d23fa4-dd77-432e-a4d0-43f1030d61d6"
 title: "Uphoria"
 socials:
+  musicbrainz: "8705be71-2402-4d7d-947e-9cab22c44e5d"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

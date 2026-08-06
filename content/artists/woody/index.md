@@ -17,6 +17,8 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Woody est une chanteuse franco-britannique dont l'univers musical se situe à la confluence de la pop, du

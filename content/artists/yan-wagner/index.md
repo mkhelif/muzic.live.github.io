@@ -3,6 +3,7 @@ id: "a77bb5d2-d4bf-4120-870f-7bee358a7555"
 title: "Yan Wagner"
 type: person
 socials:
+  musicbrainz: "cb8d39fc-e180-4263-ab54-2c6c98676eab"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,4 +22,6 @@ todo:
   - Add picture
   - Verify and add socials
   - Add detailed description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

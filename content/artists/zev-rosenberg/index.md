@@ -10,4 +10,6 @@ socials:
   youtube: ""
 todo:
   - Add description/picture/socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

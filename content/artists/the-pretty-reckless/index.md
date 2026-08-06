@@ -9,11 +9,6 @@ members:
       - guitar
     periods:
       - start: 2009
-  - id: "053ce66d-62e3-4379-946b-0e5fbb135663"
-    roles:
-      - guitar
-    periods:
-      - start: 2010
   - id: "dcfb7ac8-5b7d-4457-a24f-66fc0390bed5"
     roles:
       - bass
@@ -24,24 +19,9 @@ members:
       - drums
     periods:
       - start: 2010
-  - id: "66ae5274-2a04-4da6-b6bd-8b00a540a0da"
+  - id: "053ce66d-62e3-4379-946b-0e5fbb135663"
     roles:
-      - guitar
-    periods:
-      - start: 2009
-        end: 2010
-  - id: "604d5133-a5a8-47e1-b6ca-476eddce6311"
-    roles:
-      - bass
-    periods:
-      - start: 2009
-        end: 2010
-  - id: "580a8e92-30ec-4348-ac00-107d523fdbb7"
-    roles:
-      - drums
-    periods:
-      - start: 2009
-        end: 2010
+      - other
 socials:
   musicbrainz: "54f8c12e-571c-4c5a-9f79-5336b39e84b0"
   facebook: ""
@@ -64,5 +44,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

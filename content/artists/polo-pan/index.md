@@ -3,16 +3,27 @@ id: "fe0409c4-9e0c-4c6b-a8f6-e9ce5a218f82"
 title: "Polo & Pan"
 type: band
 members:
-  - id: "e40969a0-be6f-457c-9208-286d992f11e2"
+  - id: "d7d2b86a-9377-4287-b32f-41f86a951832"
     roles:
       - other
     periods:
-      - start: 2013
-  - id: "663f983b-d598-4ff8-9cb0-40370752c63f"
+      - start: 2012
+  - id: "2a5bb878-8885-404c-b5e6-5ccbe8f26431"
     roles:
       - other
     periods:
-      - start: 2013
+      - start: 2012
+  - id: "d2c13377-d864-4c76-b69d-1b666cf0d0b7"
+    roles:
+      - sing
+    periods:
+      - start: 2025
+  - id: "962526bb-c31d-49de-ad7f-71bf4dcadee9"
+    roles:
+      - sing
+    periods:
+      - start: 2025
+        end: 2025
 socials:
   musicbrainz: "1d9ec7ea-0fa4-41d9-917b-723c735ebbfe"
   facebook: ""
@@ -31,6 +42,7 @@ socials:
   spotify: "45yEuthJ9yq1rNXAOpBnqM"
   tidal: "4936294"
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

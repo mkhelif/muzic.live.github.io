@@ -9,10 +9,15 @@ members:
       - guitar
     periods:
       - start: 2014
+      - start: 2014
   - id: "6d71a29c-617d-4f58-9e5a-3a8358b155c1"
     roles:
+      - sing
       - bass
+      - keys
     periods:
+      - start: 2014
+      - start: 2014
       - start: 2014
 socials:
   musicbrainz: "6a81fbbc-acea-4221-9199-957842125078"
@@ -32,6 +37,7 @@ socials:
   x: ""
   email: ""
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
 

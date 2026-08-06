@@ -29,6 +29,7 @@ members:
     periods:
       - start: 2024
 socials:
+  musicbrainz: "9b949394-d500-48c3-8fa9-33ad52697c96"
   facebook: "OfficialWingsofSteel"
   instagram: "wingsofsteelband"
   tiktok: "@wingsofsteelband"
@@ -42,9 +43,11 @@ socials:
   x: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1609761093"
   deezer: "105849322"
   qobuz: ""
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Fondé en 2019 à Los Angeles, Wings of Steel est l'un de ces groupes rares qui semblent surgir du passé pour rappeler à

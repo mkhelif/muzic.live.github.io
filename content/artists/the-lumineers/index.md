@@ -5,7 +5,7 @@ type: band
 members:
   - id: "e11f3d2b-b032-40ad-a302-ff5a52b053b9"
     roles:
-      - other
+      - strings
     periods:
       - start: 2010
   - id: "d8650e64-3597-459e-80ae-7fc4e5783b8c"
@@ -38,5 +38,6 @@ todo:
   - Verify and add socials
   - Add detailed description
 lastUpdate:
+  musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---

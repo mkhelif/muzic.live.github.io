@@ -3,20 +3,26 @@ id: "e6dfcff4-99fa-40d1-be11-b358ceb9fdc7"
 title: "YUNGBLUD"
 type: person
 socials:
+  musicbrainz: "97529a9e-4b5a-4a9c-9c08-c42401d1c268"
   facebook: "yungblud"
   instagram: "yungblud"
   tiktok: "@yungblud"
   x: "yungblud"
   bandsintown: "554251"
+  songkick: "8969499"
   youtube: "@yungblud"
   web: "https://www.yungbludofficial.com/"
   tidal: "8605746"
   spotify: "6Ad91Jof8Niiw0lGLLi3NW"
   email: ""
-  amazon: ""
+  amazon: "B06XP72XC5"
   apple: ""
-  deezer: ""
+  deezer: "12133088"
   qobuz: ""
+lifespan:
+  start: 1997-08-05
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
 
 Yungblud est le nom de scène de **Dominic Harrison**, musicien britannique originaire du Yorkshire, élevé dans une
