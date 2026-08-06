@@ -2,6 +2,11 @@
 id: "5096dd15-789e-4196-8a90-4f16c0c654f9"
 title: "Isogram"
 type: band
+members:
+  - id: "fc3b5cee-aac1-4994-854e-579b87a9855f"
+    roles:
+      - keys
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -24,4 +29,7 @@ todo:
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-06
+  musicbrainz-lookup: 2026-08-06
 ---

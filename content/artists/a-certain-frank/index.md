@@ -2,6 +2,17 @@
 id: "75163d15-3c15-47b1-83db-1b0ea0cb153b"
 title: "a certain frank"
 type: band
+members:
+  - id: "2f1e3d64-5aae-47e7-bdde-33f7399d5d6e"
+    roles:
+      - other
+    periods:
+      - start: 1996
+  - id: "b051616a-dd31-47ad-a4e5-994cd75a6764"
+    roles:
+      - other
+    periods:
+      - start: 1996
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +29,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "1308d142-97d7-4b4a-b4ed-049ae4eb79f5"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

@@ -2,6 +2,13 @@
 id: "454fea0f-e72f-4e0e-ab1c-69464d420659"
 title: "30footFALL"
 type: band
+members:
+  - id: "a761924e-c71e-490a-a154-47912eb5f6af"
+    roles:
+      - other
+  - id: "475ff39a-ea0c-4f60-b147-c235b754f093"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -13,15 +20,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "20422752"
+  deezer: "5269951"
   qobuz: ""
-  spotify: ""
+  spotify: "4LmlErNDGKB4r1rioVZqtJ"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "b73843bd-05c1-450c-8397-9da93b90fec5"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

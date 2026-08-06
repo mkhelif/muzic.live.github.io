@@ -15,7 +15,7 @@ socials:
   amazon: ""
   apple: "712040"
   deezer: "8491"
-  qobuz: ""
+  qobuz: "154423"
   spotify: "5K0rbdBrs2tNXe5LeWMATT"
   tidal: "7171"
   musicbrainz: "b0ca0d85-24a8-4a00-860d-357ff688b69c"
@@ -26,5 +26,6 @@ todo:
 lifespan:
   start: 1951-10-26
 lastUpdate:
+  musicbrainz: 2026-08-06
   musicbrainz-lookup: 2026-08-06
 ---

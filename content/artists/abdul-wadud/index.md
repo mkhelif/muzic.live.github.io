@@ -27,6 +27,7 @@ lifespan:
   start: 1947-04-30
   end: 2022-08-10
 lastUpdate:
+  musicbrainz: 2026-08-06
   apple-lookup: 2026-08-06
   musicbrainz-lookup: 2026-08-06
 ---
