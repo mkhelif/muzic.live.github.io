@@ -32,7 +32,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "35918100"
   deezer: ""
   qobuz: ""
   spotify: ""

@@ -42,7 +42,7 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "314171285"
   deezer: ""
   qobuz: ""
   spotify: ""

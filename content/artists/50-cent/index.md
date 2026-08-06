@@ -23,4 +23,6 @@ todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  apple-lookup: 2026-08-06
 ---

@@ -1,0 +1,26 @@
+---
+id: "0222b21a-34d1-41a4-9d58-fcce0e0a0d71"
+title: "Eric Cutler"
+type: person
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  songkick: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+  musicbrainz: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---

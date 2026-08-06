@@ -27,5 +27,6 @@ lifespan:
   start: 1948-07-06
   end: 2026-04-17
 lastUpdate:
+  musicbrainz: 2026-08-06
   musicbrainz-lookup: 2026-08-05
 ---

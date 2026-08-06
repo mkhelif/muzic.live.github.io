@@ -32,5 +32,6 @@ todo:
   - Add description
   - Add members
 lastUpdate:
+  apple-lookup: 2026-08-06
   musicbrainz-lookup: 2026-08-06
 ---
