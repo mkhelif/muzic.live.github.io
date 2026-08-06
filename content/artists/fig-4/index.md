@@ -2,6 +2,10 @@
 id: "0aa03c2d-4113-4d88-9949-ccd7d0e9cc7b"
 title: "fig. 4"
 type: band
+members:
+  - id: "6349f7a3-e670-40db-b564-3b9bd2b87be2"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "52347b70-41f0-4bee-acae-968ee03e6018"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

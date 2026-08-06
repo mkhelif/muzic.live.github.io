@@ -2,6 +2,10 @@
 id: "b6f12891-f1d4-44cf-815e-3b18c7fc7e96"
 title: "Golem"
 type: band
+members:
+  - id: "a2607cbb-e172-4bd3-b6f5-bb3c26121a02"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "5d886945-b36e-4724-8805-05f86c86945c"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

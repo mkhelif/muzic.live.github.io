@@ -2,6 +2,10 @@
 id: "a89c7a24-5b13-48e1-9bc2-494cd019b4e9"
 title: "Godagainst"
 type: band
+members:
+  - id: "bb3dc586-2215-4f6c-88c9-b27d04e3a89f"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -16,12 +20,14 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "53U1th9jHJva0RqQ28HGdz"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "28d39499-0941-4090-884b-c05312615a9a"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

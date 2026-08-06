@@ -1,0 +1,27 @@
+---
+id: "3ab4c270-4dd5-41f7-a673-eb8b9a13382a"
+title: "Nick DeCaro and His Orchestra"
+type: band
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  songkick: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+  musicbrainz: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+  - Add members
+---
