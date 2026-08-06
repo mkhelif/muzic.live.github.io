@@ -1,3 +1,9 @@
+name = "muzic-live"
+
+[assets]
+directory = "./public"
+not_found_handling = "404-page"
+
 [observability]
 enabled = false
 head_sampling_rate = 1
