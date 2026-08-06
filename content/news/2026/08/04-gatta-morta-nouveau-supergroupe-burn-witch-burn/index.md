@@ -6,7 +6,6 @@ artists:
   - "a97b0146-7c92-460a-90cf-c3748f48bef8"
   - "01b9bf67-7f3e-49e3-bdab-191c73af92da"
   - "f81a3f41-0a45-4844-b526-7dbfc405dd7d"
-draft: true
 ---
 
 **Buzz Osborne**, guitariste et chanteur de **Melvins**, et **JD Pinkus**, bassiste des **Butthole Surfers**,

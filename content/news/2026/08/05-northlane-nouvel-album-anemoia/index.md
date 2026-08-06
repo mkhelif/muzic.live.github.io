@@ -4,7 +4,6 @@ title: "Northlane annonce son septième album « Anemoia », dévoile le single 
 category: "album"
 artists:
   - "7982868a-da83-4a49-b4f5-67a8a9dfeb8b"
-draft: true
 ---
 
 Les Australiens de **Northlane** annoncent *Anemoia*, leur septième album studio, attendu pour le 30 octobre,

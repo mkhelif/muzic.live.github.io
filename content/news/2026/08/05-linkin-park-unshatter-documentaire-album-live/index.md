@@ -4,11 +4,10 @@ title: "Linkin Park annonce le documentaire « Unshatter » et un album live en 
 category: "event"
 artists:
   - "0b8a7424-dba1-4f5a-8f0e-42ebd1dd9f3b"
-draft: true
 ---
 
 **Linkin Park** annonce *Unshatter*, un documentaire réalisé par **Joe Hahn**, qui sortira en salles le 30
-septembre, accompagné d'un album live paru le 25 septembre.
+septembre, accompagné d'un album live à paraitre le 25 septembre.
 
 ###### Du retour en studio à la scène de São Paulo
 

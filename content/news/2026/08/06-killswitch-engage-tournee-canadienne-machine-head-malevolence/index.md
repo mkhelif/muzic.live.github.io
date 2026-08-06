@@ -6,7 +6,6 @@ artists:
   - "e841081b-f42a-4332-93f7-fa2feab96902"
   - "ca3ccc02-5a70-4569-8b04-90918140c21e"
   - "bb7f6d3f-3b1a-4947-a50c-4c4737c00a56"
-draft: true
 ---
 
 **Killswitch Engage** a lancé mercredi à Ottawa le volet canadien de sa tournée 2026, accompagné de **Machine
