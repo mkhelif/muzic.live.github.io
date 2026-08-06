@@ -1,0 +1,27 @@
+---
+id: "e75900d8-b4e1-4616-9ac4-cdcfad5b58be"
+title: "Dazzle"
+type: band
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  songkick: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+  musicbrainz: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+  - Add members
+---
