@@ -1,9 +1,7 @@
 #!/usr/bin/env bash
 
-#------------------------------------------------------------------------------
-# @file
-# Builds a Hugo project hosted on a Cloudflare Worker.
-#------------------------------------------------------------------------------
+# Configuration
+HUGO_BASE_URL="https://muzic.live/"
 
 # Exit on error, undefined variables, or pipe failures
 set -euo pipefail
@@ -19,17 +17,6 @@ cleanup() {
 trap cleanup EXIT SIGINT SIGTERM
 
 main() {
-  # Verify environment variables configuration
-  local missing=()
-  for var in HUGO_VERSION DART_SASS_VERSION PAGEFIND_VERSION HUGO_BASE_URL; do
-    [[ -n "${!var:-}" ]] || missing+=("${var}")
-  done
-  if (( ${#missing[@]} )); then
-    echo "Missing environment variable(s): ${missing[*]}" >&2
-    echo "Set them in the Cloudflare Pages project settings." >&2
-    return 1
-  fi
-
   # Export the build cache directory
   export HUGO_CACHEDIR="${PWD}/.cache/hugo"
 
@@ -69,32 +56,9 @@ main() {
     export PATH="${HOME}/.local/node-v${NODE_VERSION}-linux-x64/bin:${PATH}"
   fi
 
-  # Log tool versions
-  echo "Logging tool versions..."
-  command -v sass &> /dev/null && echo "Dart Sass: $(sass --version)" || echo "Dart Sass: not installed"
-  command -v go &> /dev/null && echo "Go: $(go version)" || echo "Go: not installed"
-  command -v hugo &> /dev/null && echo "Hugo: $(hugo version)" || echo "Hugo: not installed"
-  command -v node &> /dev/null && echo "Node.js: $(node --version)" || echo "Node.js: not installed"
-
-  # Configure Git
-  echo "Configuring Git..."
-  git config --global core.quotepath false
-
-  # Fetch full Git history
-  if [[ $(git rev-parse --is-shallow-repository) == true ]]; then
-    echo "Fetching full Git history..."
-    git fetch --unshallow
-  fi
-
-  # Initialize Git submodules
-  if [[ -f .gitmodules ]]; then
-    echo "Initializing Git submodules..."
-    git submodule update --init --recursive
-  fi
-
   # Build the project
   echo "Building the project..."
-  hugo build --buildFuture --gc --minify --baseURL "${HUGO_BASE_URL}"
+  hugo build --buildFuture --gc --minify --cleanDestinationDir --baseURL "${HUGO_BASE_URL}"
   npx pagefind@${PAGEFIND_VERSION} --site public
 }
 

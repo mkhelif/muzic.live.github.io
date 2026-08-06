@@ -1,4 +1,5 @@
 name = "muzic-live"
+ compatibility_date = "2026-08-06"
 
 [assets]
 directory = "./public"
