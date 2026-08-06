@@ -1,0 +1,26 @@
+---
+id: "0b8d240a-5513-4970-b9a9-f8c5381252b4"
+title: "Jules Bowen"
+type: person
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  songkick: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+  musicbrainz: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+---
