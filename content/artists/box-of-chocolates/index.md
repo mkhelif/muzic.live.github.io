@@ -2,6 +2,10 @@
 id: "1ba6edd1-62cd-433b-aa6b-62c7f7878479"
 title: "Box of Chocolates"
 type: band
+members:
+  - id: "148d7885-7452-4978-8ab7-a33ebdaf6fd7"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -13,15 +17,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1525262133"
+  deezer: "10981912"
   qobuz: ""
-  spotify: ""
+  spotify: "55cEqROYqtg0Ne09kTv97T"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "f595c6df-a30e-4de2-927c-0ec74e08e8f5"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

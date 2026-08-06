@@ -2,6 +2,10 @@
 id: "fc876080-1066-476c-bc09-446aba89317c"
 title: "Al Haig Quartet"
 type: band
+members:
+  - id: "2059e535-c68f-452f-a59c-fc92f7f802e3"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "ea104739-4a9a-49ef-8359-2b9a00692855"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

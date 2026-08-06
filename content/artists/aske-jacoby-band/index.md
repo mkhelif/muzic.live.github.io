@@ -2,6 +2,10 @@
 id: "f86257f2-9e58-4474-a35b-9183468d561f"
 title: "Aske Jacoby Band"
 type: band
+members:
+  - id: "7ba38e6c-ea40-4421-b90e-b67dbef6e5ba"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "0e11e43a-750a-4add-82ff-d16f86fedefb"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

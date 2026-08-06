@@ -1,0 +1,27 @@
+---
+id: "764b278a-236c-4ea3-834d-07dc20b6ffcd"
+title: "Connie & Howie"
+type: band
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  songkick: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+  musicbrainz: ""
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+  - Add members
+---

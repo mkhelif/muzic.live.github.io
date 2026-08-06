@@ -2,6 +2,11 @@
 id: "bdb43dec-b760-41ae-b78f-fd144cb0943b"
 title: "Black Motor"
 type: band
+members:
+  - id: "e4226e2c-263b-43c9-9079-af08e41fab4d"
+    roles:
+      - sing
+      - bass
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +23,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "4718a094-7374-43cb-9b83-103c86adfd28"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

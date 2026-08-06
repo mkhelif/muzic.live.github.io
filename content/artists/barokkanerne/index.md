@@ -2,6 +2,10 @@
 id: "46eb0150-34d1-42ad-a7d9-b01b23f6ee65"
 title: "Barokkanerne"
 type: band
+members:
+  - id: "ee2ab1ce-2f4d-45f0-9e73-92728f6ad6d5"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -16,12 +20,14 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "3NMqU6akXT4Ykg8mbvKJvx"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "237af3b0-5b90-460d-9d10-eea9f2abd2cb"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

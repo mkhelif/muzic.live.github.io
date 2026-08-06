@@ -24,6 +24,33 @@ todo:
   - Add socials
 lastUpdate:
   musicbrainz: 2026-08-05
+members:
+  - id: "b5471e5e-927b-4da8-a378-7310ed73c454"
+    roles:
+      - bass
+    periods:
+      - start: 2013
+  - id: "5f06e7e4-c528-4fa8-b99f-01393de38708"
+    roles:
+      - guitar
+      - keys
+    periods:
+      - start: 2013
+  - id: "45bdc989-20da-41d8-a45d-5898d2066c4f"
+    roles:
+      - sing
+    periods:
+      - start: 2013
+  - id: "c76bd68a-18c0-46e2-a7fb-eac958523e7e"
+    roles:
+      - drums
+    periods:
+      - start: 2023
+  - id: "d95a0bb4-109b-4745-ad1a-eb0ce7c0056a"
+    roles:
+      - guitar
+    periods:
+      - start: 2023
 ---
 
 Fulci est un groupe italien de death metal originaire de Caserte, formé en 2013. Le nom du groupe rend hommage à

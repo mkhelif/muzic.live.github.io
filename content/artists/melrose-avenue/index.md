@@ -25,4 +25,26 @@ todo:
 lastUpdate:
   musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
+members:
+  - id: "1037a401-d9fa-491b-a2f0-47e17e933f48"
+    roles:
+      - sing
+    periods:
+      - start: 2021
+  - id: "eea10a86-00df-48fc-9d03-6dfb91dcd3ba"
+    roles:
+      - guitar
+      - sing
+    periods:
+      - start: 2021
+  - id: "8df1bab0-19dc-42e5-8abc-9950c7e21968"
+    roles:
+      - guitar
+    periods:
+      - start: 2022
+  - id: "2140371b-e056-4c44-9e5d-2005d0ce9006"
+    roles:
+      - drums
+    periods:
+      - start: 2022
 ---
