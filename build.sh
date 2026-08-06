@@ -19,6 +19,17 @@ cleanup() {
 trap cleanup EXIT SIGINT SIGTERM
 
 main() {
+  # Verify environment variables configuration
+  local missing=()
+  for var in HUGO_VERSION DART_SASS_VERSION PAGEFIND_VERSION HUGO_BASE_URL; do
+    [[ -n "${!var:-}" ]] || missing+=("${var}")
+  done
+  if (( ${#missing[@]} )); then
+    echo "Missing environment variable(s): ${missing[*]}" >&2
+    echo "Set them in the Cloudflare Pages project settings." >&2
+    return 1
+  fi
+
   # Export the build cache directory
   export HUGO_CACHEDIR="${PWD}/.cache/hugo"
 
@@ -43,10 +54,11 @@ main() {
   fi
 
   # Install Hugo
-  echo "Installing Hugo ${HUGO_VERSION}..."
-  curl -sfL --output-dir "${build_temp_dir}" -O "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux-amd64.tar.gz"
+  echo "Installing Hugo ${HUGO_VERSION} (extended)..."
+  hugo_archive="hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+  curl -sfL --output-dir "${build_temp_dir}" -O "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${hugo_archive}"
   mkdir -p "${HOME}/.local/hugo"
-  tar -C "${HOME}/.local/hugo" -xf "${build_temp_dir}/hugo_${HUGO_VERSION}_linux-amd64.tar.gz"
+  tar -C "${HOME}/.local/hugo" -xf "${build_temp_dir}/${hugo_archive}"
   export PATH="${HOME}/.local/hugo:${PATH}"
 
   # Install Node.js
