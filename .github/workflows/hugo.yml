@@ -44,7 +44,7 @@ jobs:
     steps:
       - name: Cache Hugo .deb
         id: hugo-deb
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: ${{ runner.temp }}/hugo.deb
           key: hugo-deb-${{ env.HUGO_VERSION }}
@@ -64,7 +64,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v6
       - name: Cache Hugo resources
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: |
             resources/_gen
@@ -73,7 +73,7 @@ jobs:
           restore-keys: |
             hugo-resources-
       - name: Cache Pagefind binary
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: ~/.npm
           key: pagefind-${{ env.PAGEFIND_VERSION }}
