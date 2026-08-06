@@ -605,7 +605,13 @@ def has_members_block(text):
 
 def insert_members(text, block):
     """Insert the members block just before ``socials:`` (or before the
-    closing front-matter ``---`` as a fallback)."""
+    closing front-matter ``---`` as a fallback).
+
+    Idempotent for the same reason as insert_lifespan: never add a second
+    ``members:`` key behind a stale flag. Rewriting an existing roster is
+    replace_members()'s job, under --refresh-members."""
+    if has_members_block(text):
+        return None
     match = re.search(r"^socials:[ \t]*\n", text, re.MULTILINE)
     if match:
         return text[:match.start()] + block + text[match.start():]
@@ -624,8 +630,17 @@ def insert_lifespan(text, start, end):
     writing only the keys found. Returns None if there's nothing to write.
 
     The block is ``lifespan: {start, end}`` — *not* ``date:``, which Hugo
-    reserves for the page's own date and would misparse as a map."""
+    reserves for the page's own date and would misparse as a map.
+
+    Idempotent by design: the caller's ``needs_dates`` flag is computed once,
+    up front, but a full run takes hours, and musicbrainz.py and
+    fill_musicbrainz.py both reach this code. Two overlapping runs would each
+    hold a stale "no lifespan yet" flag and insert a second block — YAML then
+    has a duplicate key and Hugo refuses to build the page. So the decision is
+    re-taken here, against the text as it is *now*."""
     if not start and not end:
+        return None
+    if has_lifespan_block(text):
         return None
     closing = re.search(r"\n---[ \t]*(?:\n|$)", text)
     if not closing:
