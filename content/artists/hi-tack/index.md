@@ -2,6 +2,13 @@
 id: "efcdba27-3b2c-41e5-a9fd-8abe38146feb"
 title: "Hi_Tack"
 type: band
+members:
+  - id: "39d0e445-6a47-4305-a482-9ae1ad33262d"
+    roles:
+      - other
+  - id: "97cf5568-08e2-4df8-baf8-7003102de997"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -14,14 +21,16 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "3148"
   qobuz: ""
-  spotify: ""
+  spotify: "6N1W9mAlncCKbqBHgBR2bN"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "2fd7e5d6-fe15-480e-9f10-6c48f297af23"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

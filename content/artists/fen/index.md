@@ -1,27 +1,19 @@
 ---
-id: "aab733e7-edd3-4697-8f94-3453d7154bb9"
-title: "FEN"
+id: "ba241b8b-a9ba-4e13-8587-de3a428110db"
+title: "Fen"
 type: band
 socials:
   facebook: ""
   instagram: ""
   tiktok: ""
-  threads: ""
   x: ""
-  songkick: ""
   youtube: ""
   web: ""
   email: ""
-  amazon: ""
-  apple: ""
-  deezer: ""
-  qobuz: ""
   spotify: ""
+  deezer: ""
+  apple: ""
   tidal: ""
-  musicbrainz: ""
 todo:
-  - Add picture
-  - Add socials
-  - Add description
-  - Add members
+  - Add description/picture/socials
 ---

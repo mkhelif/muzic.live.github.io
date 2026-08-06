@@ -2,6 +2,10 @@
 id: "81530905-3b6a-4d89-aa46-ce68937d6aeb"
 title: "Huge on Pluto"
 type: band
+members:
+  - id: "eeceff5c-bb9a-42a3-93af-4e3b8bb13e5c"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "e44eb6e4-db35-4977-a1d3-b205aec86fcf"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
