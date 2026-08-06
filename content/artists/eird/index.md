@@ -2,6 +2,10 @@
 id: "9647aec9-3440-414c-8a85-d2eec34382f2"
 title: "Eirð"
 type: band
+members:
+  - id: "4fe77051-7e22-4ca6-963e-9dd873dd7861"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "4d083180-3844-40ff-ae78-d0d78649d3d2"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---
