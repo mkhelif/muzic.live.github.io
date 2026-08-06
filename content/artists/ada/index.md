@@ -15,12 +15,14 @@ socials:
   amazon: ""
   apple: ""
   deezer: ""
-  qobuz: ""
-  spotify: ""
+  qobuz: "563004"
+  spotify: "1SUz2JjWDXSVyAtWokVinQ"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "86bb09f3-7ace-45dc-b26a-6833b18ecb85"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

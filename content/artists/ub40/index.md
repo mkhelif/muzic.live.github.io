@@ -3,61 +3,66 @@ id: "dcd1f68a-07ec-45b6-b0fb-b52b1743fbbc"
 title: "UB40"
 type: band
 members:
-  - id: "4ed90639-a41b-44f5-a3c8-b50683a6187b"
+  - id: "5db4b040-c876-456a-8c59-9c8af29b89c9"
     roles:
-      - sing
+      - drums
     periods:
-      - start: 1979
-        end: 2008
+      - start: 1978
   - id: "fe6cb017-32a5-4ab1-a987-92cb0284f79a"
-    roles:
-      - guitar
-    periods:
-      - start: 1979
-  - id: "e85271c4-0a79-4f02-922e-94068d939580"
     roles:
       - other
     periods:
-      - start: 1979
-        end: 2021
+      - start: 1978
   - id: "ce424291-28d4-487a-83e4-b96687a52f1f"
     roles:
       - bass
     periods:
-      - start: 1979
-  - id: "dd642d46-b03e-4ad7-841c-87ceb8be6823"
-    roles:
-      - drums
-    periods:
-      - start: 1979
+      - start: 1978
   - id: "b002073c-e0f1-4bda-9fc6-ebbaf269e42e"
     roles:
       - other
     periods:
-      - start: 1979
-  - id: "a5d7524c-c3f9-4f6d-b2c1-1fe500d15bb4"
+      - start: 1978
+  - id: "e85271c4-0a79-4f02-922e-94068d939580"
+    roles:
+      - other
+    periods:
+      - start: 1978
+  - id: "c0b77c63-1f28-494c-948e-fd0d110d762d"
     roles:
       - keys
+    periods:
+      - start: 2008
+  - id: "4ed90639-a41b-44f5-a3c8-b50683a6187b"
+    roles:
+      - other
+    periods:
+      - start: 1978
+        end: 2008
+  - id: "790729f5-bace-4b95-b3d9-263075b72240"
+    roles:
+      - other
     periods:
       - start: 1979
         end: 2008
   - id: "9e73fe64-1ee4-4404-b570-a8d5f6626e81"
     roles:
-      - sing
+      - other
     periods:
-      - start: 1979
+      - start: 1980
         end: 2013
-  - id: "16c16b30-3ba3-46e0-814e-3e77b1365837"
+  - id: "5cfd7399-e9d9-4158-9436-ceb91c8aaf71"
     roles:
-      - sing
+      - other
     periods:
-      - start: 2008
-        end: 2021
-  - id: "08d8d165-d253-4850-83a7-ce2efdd1c5ae"
+      - start: 2013
+        end: 2014
+  - id: "9216fc69-a276-42bf-b51b-e3b7d64c3867"
     roles:
-      - sing
-    periods:
-      - start: 2021
+      - saxophone
+  - id: "d7e5a40d-76cb-41e0-aab4-9401fd47b161"
+    roles:
+      - other
 socials:
   musicbrainz: "7113aab7-628f-4050-ae49-dbecac110ca8"
   facebook: "ub40official"
@@ -76,6 +81,7 @@ socials:
   deezer: "165"
   qobuz: "38321"
 lastUpdate:
+  musicbrainz: 2026-08-06
   musicbrainz-lookup: 2026-08-06
 ---
 

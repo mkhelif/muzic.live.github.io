@@ -3,31 +3,24 @@ id: "e62d8440-4b62-47b4-bf7f-01b645c9bfbd"
 title: "Vanden Plas"
 type: band
 members:
-  - id: "04b7ae8d-9e23-4e31-b24f-ed9de97829f5"
-    roles:
-      - sing
-    periods:
-      - start: 1986
-  - id: "2147388f-d23b-4ceb-81a0-58494383163e"
-    roles:
-      - guitar
-    periods:
-      - start: 1986
   - id: "fd6b9f88-d5b6-41a3-95bf-7dcb40da13fd"
     roles:
       - keys
     periods:
       - start: 1986
-  - id: "7bdacd86-02f5-4422-82d8-507edcdd68ac"
+        end: 2023
+  - id: "04b7ae8d-9e23-4e31-b24f-ed9de97829f5"
     roles:
-      - bass
-    periods:
-      - start: 1986
+      - other
   - id: "d8ef395a-4555-4097-a6bf-b269d7399f78"
     roles:
-      - drums
-    periods:
-      - start: 1986
+      - other
+  - id: "2147388f-d23b-4ceb-81a0-58494383163e"
+    roles:
+      - other
+  - id: "7bdacd86-02f5-4422-82d8-507edcdd68ac"
+    roles:
+      - other
 socials:
   musicbrainz: "59b858bb-e13a-4608-b30d-8a4b7f282e26"
   facebook: "VandenPlasOfficial"
@@ -46,6 +39,7 @@ socials:
   deezer: "9677"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-06
   musicbrainz-lookup: 2026-08-06
 ---
 

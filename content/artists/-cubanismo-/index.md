@@ -2,6 +2,10 @@
 id: "e2fabd6b-2ccd-4887-b0f4-fcd3d66528d4"
 title: "¡Cubanismo!"
 type: band
+members:
+  - id: "e8940cfc-0019-40d1-873d-ca970678b88a"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -13,15 +17,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "15225198"
   deezer: ""
   qobuz: ""
-  spotify: ""
-  tidal: ""
-  musicbrainz: ""
+  spotify: "6zygHJohBT7HtAU23xF0qD"
+  tidal: "16686"
+  musicbrainz: "8a48c5fe-3c6c-4f1b-9d64-478318e89d09"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-06
 ---

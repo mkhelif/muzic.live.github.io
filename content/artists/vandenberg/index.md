@@ -6,7 +6,6 @@ members:
   - id: "700ef4e7-e11c-4e5d-84f5-3b4aeb2347d6"
     roles:
       - guitar
-      - keys
     periods:
       - start: 2020
       - start: 1981
@@ -16,26 +15,30 @@ members:
       - sing
     periods:
       - start: 2021
-  - id: "d488c700-c037-40c5-82b4-b0336ee85d50"
-    roles:
-      - bass
-    periods:
-      - start: 2023
-  - id: "95f5ed1a-5129-4025-8607-9e3d0383929e"
+  - id: "8998b15e-1a1c-4298-9a3b-2fd622ce0617"
     roles:
       - drums
     periods:
       - start: 2023
+  - id: "e694c968-1fc6-4ab4-af8b-aeb1d6ed117e"
+    roles:
+      - bass
+    periods:
+      - start: 2024
+  - id: "0d76aaf3-ed13-472f-8047-587a2dfa08ea"
+    roles:
+      - keys
+    periods:
+      - start: 2024
   - id: "ed32d494-2f70-44bb-b107-c0869477880b"
     roles:
       - sing
     periods:
       - start: 1981
-        end: 1985
+        end: 1986
   - id: "a6f41728-8878-4ab9-9297-4fa06f9703a3"
     roles:
       - bass
-      - keys
     periods:
       - start: 1981
         end: 1987
@@ -45,12 +48,30 @@ members:
     periods:
       - start: 1981
         end: 1987
+  - id: "22b7307d-a3e0-4c4f-b3ac-3db22df61084"
+    roles:
+      - sing
+    periods:
+      - start: 1986
+        end: 1987
   - id: "8a241946-1801-4555-8bb1-23bda8e46a1a"
     roles:
       - sing
     periods:
       - start: 2020
         end: 2021
+  - id: "95f5ed1a-5129-4025-8607-9e3d0383929e"
+    roles:
+      - drums
+    periods:
+      - start: 2020
+        end: 2023
+  - id: "d488c700-c037-40c5-82b4-b0336ee85d50"
+    roles:
+      - bass
+    periods:
+      - start: 2020
+        end: 2024
 socials:
   musicbrainz: "103b58fb-26ef-4c66-9b48-6eda02763fc8"
   facebook: ""
@@ -69,6 +90,7 @@ socials:
   spotify: "3hAv15rFpsTe7zteKhhJTx"
   tidal: "3640352"
 lastUpdate:
+  musicbrainz: 2026-08-06
   musicbrainz-lookup: 2026-08-06
 ---
 

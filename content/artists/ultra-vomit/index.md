@@ -3,62 +3,24 @@ id: "37fd18d8-422e-425b-9227-b1d49f6b3cda"
 title: "Ultra Vomit"
 type: band
 members:
-  - id: "4dab3aec-d01b-4633-a3ba-4a7ea5bd2678"
-    roles:
-      - guitar
-      - sing
-    periods:
-      - start: 1999
-  - id: "ce91ab09-27ab-49bd-be74-5ccd8d5fb318"
-    roles:
-      - drums
-      - sing
-    periods:
-      - start: 1999
-  - id: "8e801f3d-f9fb-443f-928e-507c3db600ac"
-    roles:
-      - guitar
-      - bass
-      - sing
-    periods:
-      - start: 2005
   - id: "4d7ab583-4df3-4625-a945-f468d3315f4a"
     roles:
-      - bass
-    periods:
-      - start: 2014
-  - id: "acfe5afc-f0df-4042-972f-257a99dec792"
+      - other
+  - id: "ce91ab09-27ab-49bd-be74-5ccd8d5fb318"
     roles:
-      - bass
-    periods:
-      - start: 1999
-        end: 2000
-  - id: "3f830f50-895d-4623-91eb-371f75da670b"
+      - other
+  - id: "8e801f3d-f9fb-443f-928e-507c3db600ac"
     roles:
-      - bass
-      - sing
-    periods:
-      - start: 2000
-        end: 2005
-  - id: "86308db3-61f9-4fed-8565-c130cb7229ca"
+      - other
+  - id: "4dab3aec-d01b-4633-a3ba-4a7ea5bd2678"
     roles:
-      - bass
-    periods:
-      - start: 2005
-        end: 2005
-  - id: "6155291d-2ce6-4456-bf9b-0f88e5b68517"
+      - other
+  - id: "96d9f291-7854-4b04-b44d-a4b7f6eaed19"
     roles:
-      - bass
-      - sing
-    periods:
-      - start: 2007
-        end: 2009
+      - other
   - id: "bcc272cf-dcf9-4727-8d67-f262c3da9337"
     roles:
-      - bass
-    periods:
-      - start: 2009
-        end: 2014
+      - other
 socials:
   musicbrainz: "9b1f75d4-46b5-4fe2-8787-027faa1b4f60"
   facebook: ""
@@ -80,6 +42,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-06
   musicbrainz-lookup: 2026-08-06
 ---
 
