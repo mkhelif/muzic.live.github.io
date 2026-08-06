@@ -10,4 +10,5 @@
     {{- end -}}
 {{- end -}}
 {{- $events = sort $events "Date" -}}
+{{- $events = where $events ".Date" "ge" (now.AddDate 0 0 -3) -}}
 {{- partial "calendar/events.ics" (dict "page" . "events" $events) -}}

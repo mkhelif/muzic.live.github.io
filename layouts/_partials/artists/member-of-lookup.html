@@ -1,12 +1,24 @@
+{{- /*
+    Cached reverse index: person id -> the bands they are/were a member of.
+
+    Returns a scratch with a single map "bands": member id -> slice of
+    {id, roles, periods}, the shape artists/member-hero.html expects.
+*/ -}}
 {{- $cache := newScratch -}}
+{{- $cache.Set "bands" dict -}}
+
 {{- range $band := where site.RegularPages "Section" "artists" -}}
-    {{- range $band.Params.members -}}
-        {{- $memberOf := merge . (dict "id" $band.Params.id) -}}
-        {{- if not (in $cache .id) -}}
-            {{- $cache.Add .id (slice $memberOf) -}}
-        {{- else -}}
-            {{- $cache.SetInMap .id (merge ($cache.Get .id) (slice $memberOf)) -}}
+    {{- $bandId := $band.Params.id -}}
+    {{- range $member := $band.Params.members -}}
+        {{- with $member.id -}}
+            {{- $entry := dict
+                  "id" $bandId
+                  "roles" $member.roles
+                  "periods" $member.periods -}}
+            {{- $existing := index ($cache.Get "bands") . | default slice -}}
+            {{- $cache.SetInMap "bands" . ($existing | append $entry) -}}
         {{- end -}}
     {{- end -}}
 {{- end -}}
+
 {{- return $cache -}}

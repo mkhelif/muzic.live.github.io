@@ -5,7 +5,8 @@
 {{- $artistIds := slice -}}
 {{- if $id -}}
     {{- $artistIds = $artistIds | append $id -}}
-    {{- range (partialCached "artists/member-of-lookup.html" .).Get $id -}}
+    {{- $bands := (partialCached "artists/member-of-lookup.html" .).Get "bands" -}}
+    {{- range (index $bands (string $id) | default slice) -}}
         {{- $artistIds = $artistIds | append .id -}}
     {{- end -}}
 {{- end -}}
