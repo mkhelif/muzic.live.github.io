@@ -10,7 +10,7 @@
     <div class="row row-cols-1 row-cols-md-4">
     {{- range $index, $membership := $memberOf -}}
         <div class="col">
-            <div class="rounded overflow-hidden position-relative {{ cond (eq $index 0) "mb-3" "" }}" style="height:clamp(160px,21vw,235px);">
+            <div class="rounded overflow-hidden position-relative mb-3" style="height:clamp(160px,21vw,235px);">
                 {{- partial "artists/member-hero.html" . -}}
             </div>
         </div>
