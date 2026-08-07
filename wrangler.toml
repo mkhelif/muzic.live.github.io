@@ -1,0 +1,27 @@
+name = "muziclive"
+main = "worker/index.ts"
+compatibility_date = "2026-08-01"
+
+routes = [
+  { pattern = "muzic.live/api/*", zone_name = "muzic.live" },
+]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "muziclive"
+database_id = "a0149707-63f0-45da-aa5f-45273b2110bc"
+
+[observability]
+enabled = false
+head_sampling_rate = 1
+
+[observability.logs]
+enabled = true
+head_sampling_rate = 1
+persist = true
+invocation_logs = true
+
+[observability.traces]
+enabled = true
+persist = true
+head_sampling_rate = 1

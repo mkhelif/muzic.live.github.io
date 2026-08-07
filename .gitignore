@@ -166,3 +166,4 @@ tags
 
 # CloudFlare
 .wrangler/
+node_modules/
