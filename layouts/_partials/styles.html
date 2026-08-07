@@ -1,8 +1,34 @@
 {{ with resources.Get "scss/main.scss" }}
+    {{/*
+        Dart Sass, not LibSass.
+
+        `transpiler` defaults to `libsass`, which only ships in Hugo's extended
+        edition and was deprecated in Hugo v0.153.0 — it will be removed. Dart
+        Sass is the upstream-supported implementation; build.sh already
+        installs it (DART_SASS_VERSION), it was simply never asked for.
+
+        Deprecation warnings are silenced deliberately:
+
+        - `import`: assets/scss/main.scss still uses 12 `@import` statements
+          and no `@use`. Dart Sass deprecated `@import` and will drop it
+          eventually, so migrating to `@use` is real work — tracked separately
+          rather than bundled into this change. Silencing keeps the build log
+          readable in the meantime.
+        - `silenceDependencyDeprecations`: the vendored Bootstrap 5.3.8 and
+          Font Awesome 7 trees are full of `@import` and legacy colour
+          functions we do not control.
+
+        Note `outputStyle`: Dart Sass only accepts `expanded` or `compressed`
+        (LibSass also had `nested` and `compact`). Both values used here are
+        valid for either transpiler.
+    */}}
     {{ $options := dict
+        "transpiler" "dartsass"
         "enableSourceMap" hugo.IsDevelopment
         "outputStyle" (cond hugo.IsDevelopment "expanded" "compressed")
         "targetPath" "css/styles.css"
+        "silenceDeprecations" (slice "import")
+        "silenceDependencyDeprecations" true
     }}
 
     {{ with . | toCSS $options | fingerprint "sha512" }}
