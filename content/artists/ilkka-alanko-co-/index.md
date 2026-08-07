@@ -2,6 +2,10 @@
 id: "5401c266-7040-41a8-936e-0f6e6217b520"
 title: "Ilkka Alanko & Co."
 type: band
+members:
+  - id: "6a5d65ba-e1bd-4e87-b7c0-691b8987b28f"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "0366476e-b3e7-45bd-8610-8e2e5abdd221"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

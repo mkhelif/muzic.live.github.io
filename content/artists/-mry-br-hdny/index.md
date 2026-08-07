@@ -18,9 +18,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "db51d895-3950-4a30-8618-a4b4a617391e"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  setlistfm: 2026-08-07
+  musicbrainz: 2026-08-07
 ---

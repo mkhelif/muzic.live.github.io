@@ -2,6 +2,13 @@
 id: "57f2c911-38a6-457c-81c5-ab2223f6d2c8"
 title: "2 Guys From Minnesota"
 type: band
+members:
+  - id: "dafac6a5-4b84-4e86-942d-e2cfed9a2a3e"
+    roles:
+      - other
+  - id: "395d5f1a-2541-42e9-b9eb-dfffb11a70dd"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +25,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "6417fc6c-95fa-4136-a8bb-148d6baf45cb"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

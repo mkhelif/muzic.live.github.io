@@ -2,6 +2,10 @@
 id: "ccce9952-df56-4cb6-bf18-c98bce414970"
 title: "Tropicana All Stars"
 type: band
+members:
+  - id: "32838375-6b07-4b97-9b34-64df2bf29ff8"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "b3d4d164-4b84-4b74-9ad9-84eca1551759"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

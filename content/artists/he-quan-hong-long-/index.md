@@ -16,11 +16,16 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "3k3Ks7T1shSdFxMRnHUTAO"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "ce53241a-4383-44c6-9d79-ab2b812313b0"
 todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1958-09-28
+  end: 2021-04-26
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

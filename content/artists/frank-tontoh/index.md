@@ -17,10 +17,14 @@ socials:
   deezer: ""
   qobuz: ""
   spotify: ""
-  tidal: ""
-  musicbrainz: ""
+  tidal: "12313283"
+  musicbrainz: "48b626b0-8362-400c-b4c2-3cffa3f9705f"
 todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1964-05-22
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

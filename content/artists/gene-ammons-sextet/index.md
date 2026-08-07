@@ -2,6 +2,88 @@
 id: "774af840-f6fe-4c9f-b65a-afdc5e53c8b6"
 title: "Gene Ammons Sextet"
 type: band
+members:
+  - id: "c47ed495-69aa-4141-a745-2992ea574c03"
+    roles:
+      - other
+    periods:
+      - start: 1947
+        end: 1947
+  - id: "f5ecbd3e-03c7-4618-8203-7b97eb0d5fd9"
+    roles:
+      - other
+    periods:
+      - start: 1947
+        end: 1947
+  - id: "60f412ad-2b78-4594-a81f-4188b9079a3b"
+    roles:
+      - other
+    periods:
+      - start: 1947
+        end: 1947
+  - id: "88c7ae56-be0a-4801-b60f-724e668ff920"
+    roles:
+      - other
+    periods:
+      - start: 1947
+        end: 1947
+  - id: "4c5c7e59-0ff3-402c-b88e-e7dd9ac18d1d"
+    roles:
+      - other
+    periods:
+      - start: 1947
+        end: 1947
+  - id: "77666ec6-54e1-4905-9afb-d4e85b71629f"
+    roles:
+      - other
+    periods:
+      - start: 1947
+        end: 1947
+  - id: "7e004e46-c46f-45ec-adbb-70979f255227"
+    roles:
+      - other
+    periods:
+      - start: 1947
+        end: 1947
+  - id: "16ac6eeb-5f09-4d23-b104-e499f0296c6c"
+    roles:
+      - other
+    periods:
+      - start: 1947
+        end: 1947
+  - id: "c4b4f614-dccd-45d1-9efa-66892e4c7df6"
+    roles:
+      - other
+    periods:
+      - start: 1949
+        end: 1949
+  - id: "4ad79363-d422-46c5-aa4a-f7e2fc3e0854"
+    roles:
+      - other
+    periods:
+      - start: 1949
+        end: 1949
+  - id: "db5a2841-ceb8-4480-be9f-69b08b6858e5"
+    roles:
+      - other
+    periods:
+      - start: 1949
+        end: 1949
+  - id: "0bceb776-78d4-48a9-bc9a-fb148f0a9cff"
+    roles:
+      - other
+    periods:
+      - start: 1949
+        end: 1949
+  - id: "406dc719-f85b-469c-bef3-dc87fa97c1f4"
+    roles:
+      - other
+  - id: "1a1843fa-9eca-4b80-80ff-3fff10eb6f53"
+    roles:
+      - keys
+  - id: "a098217b-b155-4222-9edf-47f040143996"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +100,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "7f5b670f-1109-4b69-ab1e-9d6f876409aa"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

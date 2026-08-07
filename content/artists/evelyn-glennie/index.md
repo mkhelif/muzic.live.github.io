@@ -8,7 +8,7 @@ socials:
   tiktok: ""
   threads: ""
   x: ""
-  songkick: ""
+  songkick: "33521"
   youtube: ""
   web: ""
   email: ""
@@ -16,11 +16,15 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "6MYiQGy8MIcBps6Ez0IQA8"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "ead6afb1-f957-4528-b778-b433cb35b1f9"
 todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1965-07-19
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

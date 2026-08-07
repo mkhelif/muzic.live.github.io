@@ -18,9 +18,13 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "f0bd2bf7-d3bc-4f32-9e93-3d9b1b410809"
 todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1963-01-02
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

@@ -2,6 +2,13 @@
 id: "5c15da01-d584-435f-bb58-e4b65fa8fba1"
 title: "This Way Up"
 type: band
+members:
+  - id: "7ca102e3-d735-4df3-ab54-ceac23cb943f"
+    roles:
+      - other
+  - id: "06c6798e-8fbd-493a-aec4-25d454102fea"
+    roles:
+      - sing
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +25,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "803ca34e-5e1d-4f49-b41d-d284b54e7dd2"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

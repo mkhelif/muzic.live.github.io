@@ -2,6 +2,13 @@
 id: "edf1768e-445a-4fae-bfb1-c46a071376e3"
 title: "[T]ékël"
 type: band
+members:
+  - id: "787eaa2f-713a-4f3e-9026-13991d7867b6"
+    roles:
+      - other
+  - id: "f609f55e-1432-4d26-b334-643f6362b3bb"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +25,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "c940fe43-e810-4e08-8e67-325ef879d40c"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

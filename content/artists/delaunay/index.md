@@ -2,6 +2,10 @@
 id: "8e4fce33-2018-424c-9b99-004da0937886"
 title: "Delaunay"
 type: band
+members:
+  - id: "efd68373-d8c0-42cf-b683-4008e1e8c11c"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "8dcea54f-2477-4845-abb4-5f62565bcebc"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

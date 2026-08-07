@@ -1,0 +1,28 @@
+---
+id: "a82bf2af-3592-4247-9c59-1c98b184c59a"
+title: "Klaus Lass"
+type: person
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  songkick: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+  musicbrainz: "50143ef7-bec8-4aaa-bd25-ec355c49fe1e"
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+lastUpdate:
+  musicbrainz: 2026-08-07
+---

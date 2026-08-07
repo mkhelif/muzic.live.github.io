@@ -2,6 +2,13 @@
 id: "e0b4cee8-1cdf-44bf-ae5e-1385c1563fba"
 title: "DJ Fruit"
 type: band
+members:
+  - id: "2fbd1c84-168a-470f-8e81-ba4df51460c5"
+    roles:
+      - other
+  - id: "2f83eb2c-4d92-406b-bd4e-b6f56e2a59f7"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +25,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "bbb36afd-acd7-43f6-932f-79b33b9b2b56"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

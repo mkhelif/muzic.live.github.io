@@ -2,6 +2,13 @@
 id: "9df9d3f9-889d-4e56-b03f-27d9b939a297"
 title: "Homer & Jethro"
 type: band
+members:
+  - id: "75be178f-2204-4907-9441-218322009b98"
+    roles:
+      - other
+  - id: "702a9c37-9449-42bc-be5e-b6ca6651da97"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +25,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "f5a6bb71-f49d-4115-b285-fda004821497"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

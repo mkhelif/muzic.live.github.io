@@ -2,6 +2,16 @@
 id: "53026984-97c6-41ae-91bb-04b6bbd52116"
 title: "The Carib Beats"
 type: band
+members:
+  - id: "ed9d7f75-d8ac-4302-9e93-d944386f79ff"
+    roles:
+      - guitar
+  - id: "fd880905-f350-4aa1-9902-f487eb22c4db"
+    roles:
+      - drums
+  - id: "d739a3fb-d755-4cb3-9983-a8c87559798d"
+    roles:
+      - keys
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +28,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "b76e3c23-c5a5-4000-bd20-6946562563fc"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

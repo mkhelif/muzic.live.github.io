@@ -2,6 +2,10 @@
 id: "6569c880-4c82-4885-a699-c426744cd770"
 title: "San Jose Cow Muzak"
 type: band
+members:
+  - id: "b0e3f986-0f6f-4328-950a-f644819376eb"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "470df4ff-b5c3-460e-a6e5-fbf654d1d55a"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---
