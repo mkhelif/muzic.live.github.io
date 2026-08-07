@@ -2,6 +2,10 @@
 id: "195daded-b6db-4d9d-93bb-56e7819589df"
 title: "Response Negative"
 type: band
+members:
+  - id: "5e113f62-e9bc-4a64-a734-822503bf4650"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "c076a203-9b04-4acf-ae13-427a91f599fb"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-07
 ---
