@@ -69,8 +69,9 @@ jobs:
           path: |
             resources/_gen
             ${{ runner.temp }}/hugo_cache
-          key: hugo-resources-${{ hashFiles('content/**/*.jpg', 'content/**/*.jpeg', 'content/**/*.png', 'content/**/*.webp', 'assets/**') }}
+          key: hugo-resources-${{ hashFiles('assets/**') }}-${{ github.sha }}
           restore-keys: |
+            hugo-resources-${{ hashFiles('assets/**') }}-
             hugo-resources-
       - name: Cache Pagefind binary
         uses: actions/cache@v6
