@@ -1,0 +1,41 @@
+/*
+ * Silktide consent manager — theme overrides.
+ */
+#stcm-wrapper {
+    --boxShadow: -5px 5px 10px 0px #00000012, 0px 0px 50px 0px #0000001a;
+    --fontFamily: 'Noto Sans', sans-serif;
+    --primaryColor: #0b0b0b;
+    --backgroundColor: #c6f853;
+    --textColor: #0b0b0b;
+    --backdropBackgroundColor: #00000080;
+    --backdropBackgroundBlur: 0px;
+    --iconColor: #c6f853;
+    --iconBackgroundColor: #0b0b0b;
+}
+
+#stcm-banner {
+    bottom: 48px !important;
+    left: 48px !important;
+    border-radius: 8px !important;
+}
+
+#stcm-icon {
+    bottom: 24px !important;
+    left: 24px !important;
+    width: 40px !important;
+    height: 40px !important;
+}
+
+#stcm-icon svg {
+    width: 20px;
+    height: 20px;
+}
+
+#stcm-modal {
+    border-radius: 8px !important;
+}
+
+#stcm-modal .stcm-toggle-off,
+#stcm-modal .stcm-toggle-on {
+    top: 6px !important;
+}

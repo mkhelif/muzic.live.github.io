@@ -9,6 +9,19 @@
 {{- else -}}
     {{- with .Summary -}}
         {{- $desc = (. | plainify | truncate 160) -}}
+    {{- end -}}
+{{- end -}}
+{{- if not $desc -}}
+    {{- if eq .Section "artists" -}}
+        {{- $desc = printf "%s : concerts à venir, membres, albums et chroniques sur Muzic.Live." .Title -}}
+    {{- else if eq .Section "venues" -}}
+        {{- $desc = printf "%s : programmation, concerts à venir et chroniques sur Muzic.Live." .Title -}}
+    {{- else if eq .Section "festivals" -}}
+        {{- $desc = printf "%s : programmation, line-up et chroniques sur Muzic.Live." .Title -}}
+    {{- else if eq .Section "albums" -}}
+        {{- $desc = printf "Chronique de l'album %s sur Muzic.Live." .Title -}}
+    {{- else if eq .Section "reports" -}}
+        {{- $desc = printf "Chronique de concert : %s. Récit et photos sur Muzic.Live." .Title -}}
     {{- else -}}
         {{- $desc = site.Params.description -}}
     {{- end -}}
@@ -41,16 +54,15 @@
 {{ with $ogImage -}}
     <meta property="og:image" content="{{ . }}">
 {{- end -}}
-{{ if .IsPage -}}
+{{ if and .IsPage (not .Date.IsZero) -}}
     <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-    <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+    {{ if not .Lastmod.IsZero -}}
+        <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+    {{- end }}
 {{- end }}
 
 {{/* ---- Twitter Card ---- */}}
 <meta name="twitter:card" content="{{ cond (ne $ogImage "") "summary_large_image" "summary" }}">
-<meta name="twitter:title" content="{{ $title }}">
-<meta name="twitter:description" content="{{ $desc }}">
-{{ with $ogImage }}<meta name="twitter:image" content="{{ . }}">{{ end }}
 {{ with site.Params.twitter }}<meta name="twitter:site" content="@{{ . }}">{{ end }}
 
 {{/* ---- Icons & theme ---- */}}
