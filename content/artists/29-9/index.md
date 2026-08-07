@@ -2,6 +2,13 @@
 id: "4ccf724e-05f4-408d-849c-f3f304377698"
 title: "29.9"
 type: band
+members:
+  - id: "793635d0-40d0-4884-8a6a-5571dca4a4e6"
+    roles:
+      - sing
+    periods:
+      - start: 1969
+        end: 1970
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +25,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "b58eff42-27dc-47a8-a81e-bfb01b661362"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-07
 ---

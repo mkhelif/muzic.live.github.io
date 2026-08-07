@@ -1,8 +1,11 @@
 {{ with resources.Get "scss/main.scss" }}
     {{ $options := dict
+        "transpiler" "dartsass"
         "enableSourceMap" hugo.IsDevelopment
         "outputStyle" (cond hugo.IsDevelopment "expanded" "compressed")
         "targetPath" "css/styles.css"
+        "silenceDeprecations" (slice "import")
+        "silenceDependencyDeprecations" true
     }}
 
     {{ with . | toCSS $options | fingerprint "sha512" }}
