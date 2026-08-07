@@ -1,0 +1,6 @@
+---
+date: 2017-08-20T00:00:00
+venue: "8aefcabd-34cc-4a16-80ce-84b44ff2e30c"
+artists:
+  - "b28a0db3-9359-498c-aea3-b1b2f97d845b"
+---

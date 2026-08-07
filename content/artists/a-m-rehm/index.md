@@ -26,5 +26,6 @@ todo:
 lifespan:
   start: 1989
 lastUpdate:
+  setlistfm: 2026-08-07
   musicbrainz: 2026-08-07
 ---

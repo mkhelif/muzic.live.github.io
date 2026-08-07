@@ -1,0 +1,6 @@
+---
+date: 2009-10-02T00:00:00
+venue: "d2ceb492-edcc-4a93-96ab-5710f0d526b4"
+artists:
+  - "5ff3ad2a-0d29-4ed7-aba5-f4179d695c11"
+---

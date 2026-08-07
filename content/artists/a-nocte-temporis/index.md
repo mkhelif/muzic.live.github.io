@@ -80,5 +80,8 @@ todo:
   - Add description
   - Add members
 lastUpdate:
+  setlistfm: 2026-08-07
+  deezer: 2026-08-07
+  apple: 2026-08-07
   musicbrainz: 2026-08-07
 ---

@@ -1,0 +1,6 @@
+---
+date: 2003-05-30T00:00:00
+venue: "19eb0537-cff2-47f1-afea-22bdfffd35ab"
+artists:
+  - "5e013e4d-9e49-492f-a658-fabf3627cdcd"
+---

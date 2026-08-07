@@ -1,0 +1,6 @@
+---
+date: 2008-04-11T00:00:00
+venue: "9b4bf82d-1e4c-4b01-b8ad-1a0c739cc1df"
+artists:
+  - "5ff3ad2a-0d29-4ed7-aba5-f4179d695c11"
+---

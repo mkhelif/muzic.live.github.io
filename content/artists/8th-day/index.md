@@ -43,5 +43,7 @@ todo:
   - Add description
   - Add members
 lastUpdate:
+  setlistfm: 2026-08-07
+  deezer: 2026-08-07
   musicbrainz-lookup: 2026-08-07
 ---

@@ -86,5 +86,6 @@ todo:
   - Add description
   - Add members
 lastUpdate:
+  setlistfm: 2026-08-07
   musicbrainz: 2026-08-07
 ---

@@ -1,0 +1,6 @@
+---
+date: 2001-08-11T00:00:00
+venue: "0e4e434f-10f8-4a10-bf3b-05c7d264d2fa"
+artists:
+  - "1f5ded44-e20b-4ff5-bb7f-905912b51a22"
+---

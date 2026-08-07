@@ -27,5 +27,6 @@ lifespan:
   start: 1897-03-25
   end: 1983-01-28
 lastUpdate:
+  setlistfm: 2026-08-07
   musicbrainz-lookup: 2026-08-07
 ---
