@@ -2,6 +2,10 @@
 id: "a6031cac-fef2-4b2e-8802-50af22acdd56"
 title: "A-void"
 type: band
+members:
+  - id: "9903dc97-21eb-4225-9341-2731af842ea4"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -16,12 +20,14 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "3ha9mtXhb0Ia40lnrU2cOI"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "a4cfa920-2737-47ae-b6a8-5be3632872c4"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-07
 ---
