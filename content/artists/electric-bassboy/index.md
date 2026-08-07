@@ -3,6 +3,7 @@ id: "e6400b43-d2ae-4cf1-abb6-3fa5643cded6"
 title: "Electric Bassboy"
 type: person
 socials:
+  musicbrainz: "64fcd549-baa5-4ec8-88e6-6a99eec99892"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,10 +15,13 @@ socials:
   apple: "1815229249"
   deezer: "325542071"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "5OhB4WP6o9odTeJS6rEC9g"
+  tidal: "60695533"
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
+lifespan:
+  start: 2025
 ---
 
 Electric Bassboy est un projet DJ lancé par les membres du groupe allemand **Electric Callboy**, référence du crossover

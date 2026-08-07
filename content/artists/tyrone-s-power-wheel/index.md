@@ -2,6 +2,10 @@
 id: "fdc27e20-6358-4678-964f-cdb3bb85683d"
 title: "Tyrone's Power Wheel"
 type: band
+members:
+  - id: "42b1bef2-e6f6-4b5f-86a1-19231402d3dc"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "80e1752b-9d6c-4d1c-9432-a7349e9843aa"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

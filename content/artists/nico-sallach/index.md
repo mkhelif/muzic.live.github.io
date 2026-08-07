@@ -7,6 +7,7 @@ birth:
   place: "Essen, Allemagne"
 gender: "male"
 socials:
+  musicbrainz: "35e49c59-3b91-4cd2-b27c-b88dfd5873db"
   instagram: "nico_ec_"
   facebook: ""
   tiktok: ""
@@ -18,11 +19,12 @@ socials:
   apple: "981535611"
   deezer: "7763956"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "02UmgKnxslxUbrVpHhF9bb"
+  tidal: "13787269"
 todo:
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

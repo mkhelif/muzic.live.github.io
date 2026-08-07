@@ -3,26 +3,31 @@ id: "78a6fec2-6417-4eda-af4e-d651e0420094"
 title: "Alice et Moi"
 type: person
 socials:
+  musicbrainz: "f1165d9e-2103-4ed1-a3f9-d57ab3e9d1dd"
   facebook: "pagealiceetmoi"
   instagram: "aliceetmoii"
   x: "aliceetmoii"
   soundcloud: "aliceetmoi"
   bandsintown: "14099718"
+  songkick: "8989019"
   youtube: "@aliceetmoiofficiel"
   tidal: "9134481"
   spotify: "1NcCVE1FRpBSlN3LcAfhn3"
   tiktok: ""
   web: ""
   email: ""
-  amazon: ""
+  amazon: "B075V83QY1"
   apple: "1288507962"
   deezer: "13291501"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   deezer: 2026-08-06
   apple: 2026-08-06
   bandsintown: 2026-08-06
   musicbrainz-lookup: 2026-08-05
+lifespan:
+  start: 2016
 ---
 
 Alice et Moi, de son vrai nom Alice Vannoorenberghe, est une chanteuse française qui s'est révélée sur la scène musicale

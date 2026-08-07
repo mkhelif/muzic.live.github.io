@@ -2,6 +2,10 @@
 id: "45931885-99ba-4e22-bd53-facd07bbf254"
 title: "Slash Orchestra"
 type: band
+members:
+  - id: "760011d1-9aae-44f6-a5d4-83908a016c67"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "99bdf8cd-f187-4753-89de-6627faf43ccd"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

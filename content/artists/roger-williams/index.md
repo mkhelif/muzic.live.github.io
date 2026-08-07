@@ -14,7 +14,7 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "134183"
   qobuz: ""
   spotify: ""
   tidal: ""
@@ -24,5 +24,9 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-07
+lifespan:
+  start: 1924-10-01
+  end: 2011-10-08
 ---

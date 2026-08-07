@@ -2,6 +2,10 @@
 id: "f29e317d-f56a-42f1-b343-65d5f09bf39b"
 title: "The Young Liberals"
 type: band
+members:
+  - id: "17628093-772f-4310-bfc0-5065b39b78c6"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "969fc45c-1669-4480-95b8-d846591a3b0b"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

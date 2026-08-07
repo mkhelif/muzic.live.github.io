@@ -2,12 +2,26 @@
 id: "8ff08758-f0d8-47cc-929b-d285f27929f9"
 title: "BRUIT"
 type: band
+members:
+  - id: "2577def6-a4bc-4159-a148-e8e2738e4d91"
+    roles:
+      - guitar
+  - id: "2f93a8f9-0d6b-4841-b132-52439f1b18b7"
+    roles:
+      - other
+  - id: "a62a21d3-ecba-44cf-9349-b7e62e6ce286"
+    roles:
+      - bass
+      - keys
+      - violin
 socials:
+  musicbrainz: "749dd6b7-c4bc-4116-b889-91718c7b0cf7"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "5319230"
+  songkick: "10053644"
   youtube: ""
   web: ""
   email: ""
@@ -18,6 +32,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

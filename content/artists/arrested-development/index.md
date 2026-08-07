@@ -3,25 +3,30 @@ id: "40ed0fbb-1b6d-4ee7-be74-af8f8b99c32c"
 title: "Arrested Development"
 type: person
 socials:
+  musicbrainz: "d8b15d32-609e-44a6-bff1-65c4df53a9f1"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "4421"
+  songkick: "93876"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
   apple: "543044"
   deezer: "2712"
-  qobuz: ""
-  spotify: ""
-  tidal: ""
+  qobuz: "68085"
+  spotify: "5Va9LuEmaZxnbk1gMnjMD7"
+  tidal: "11000"
 lastUpdate:
+  musicbrainz: 2026-08-07
   deezer: 2026-08-06
   apple: 2026-08-06
   bandsintown: 2026-08-06
   musicbrainz-lookup: 2026-08-05
+lifespan:
+  start: 1988
 ---
 
 Arrested Development est un groupe de hip-hop américain fondé en 1988 à Atlanta, en Géorgie, par le rappeur

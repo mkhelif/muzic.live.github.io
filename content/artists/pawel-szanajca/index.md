@@ -1,0 +1,28 @@
+---
+id: "b6ab1e18-dcf7-4b0a-bb60-e6809258bc50"
+title: "Paweł Szanajca"
+type: person
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  songkick: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+  musicbrainz: "b7f2065c-2164-482e-a927-cdfbb212d15d"
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+lastUpdate:
+  musicbrainz: 2026-08-07
+---

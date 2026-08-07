@@ -3,6 +3,7 @@ id: "7c922798-cf32-416c-8e62-ff509209bc64"
 title: "La Valentina"
 type: person
 socials:
+  musicbrainz: "5bc568f7-ce7f-4f71-ae4c-8d7702457c93"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,6 +22,7 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

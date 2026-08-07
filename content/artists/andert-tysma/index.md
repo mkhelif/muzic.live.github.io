@@ -3,6 +3,7 @@ id: "11b8b1ba-6104-4f72-bcd5-8542f1f466c3"
 title: "Andert Tysma"
 type: person
 socials:
+  musicbrainz: "be0161bb-5b2b-4253-a782-02ae7da8d2b2"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   deezer: 2026-08-06
   apple: 2026-08-06
   bandsintown: 2026-08-06

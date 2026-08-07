@@ -3,6 +3,7 @@ id: "23a9e179-041a-442e-9826-33fb7380b36e"
 title: "Alex Farell"
 type: person
 socials:
+  musicbrainz: "943b1d30-5109-46a6-9e91-88e14ad7a3cc"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,9 +16,10 @@ socials:
   apple: "508816271"
   deezer: "6686777"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "02AllsoWp6Gf9O26tNXf8I"
+  tidal: "21678869"
 lastUpdate:
+  musicbrainz: 2026-08-07
   deezer: 2026-08-06
   apple: 2026-08-06
   bandsintown: 2026-08-06

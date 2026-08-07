@@ -2,6 +2,43 @@
 id: "57fb0fd0-5615-4b67-b21d-4fa826c19264"
 title: "BYLUG"
 type: band
+members:
+  - id: "66c51ce2-8ac2-477b-b698-b6ba89cde248"
+    roles:
+      - other
+  - id: "2d94b067-7d8f-48fd-b830-409d058bdc5d"
+    roles:
+      - other
+  - id: "d24d4fd6-24db-48a2-a129-d08a52e6ba62"
+    roles:
+      - other
+  - id: "d6697440-08b2-43d1-ade6-8b68200387fa"
+    roles:
+      - other
+  - id: "03fc27d2-8ebe-4c16-bb3b-a32c59f09bf3"
+    roles:
+      - other
+  - id: "4d6652f1-b0ca-4e7d-bd09-073a6729adaa"
+    roles:
+      - other
+  - id: "f7ab2e25-fa2d-4223-a8e2-6ed9babafdff"
+    roles:
+      - other
+  - id: "6b313617-0167-4f96-bbbd-ce3e3fd5c074"
+    roles:
+      - other
+  - id: "de87d417-4502-4ec6-85ca-55667e56201a"
+    roles:
+      - other
+  - id: "75cd0fc9-1495-4da8-b8c0-dfba7290037a"
+    roles:
+      - other
+  - id: "e9522207-036a-420b-8c77-5e207dac279d"
+    roles:
+      - other
+  - id: "b8696237-d845-4aa9-a00a-6450c9bbf9cc"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +55,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "c6d8f413-5a95-4116-9d37-7b50e3d7c444"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

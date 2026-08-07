@@ -3,6 +3,7 @@ id: "ce73bab1-f2b5-4a8b-942a-1578f74f7009"
 title: "Aziz Konkrite"
 type: person
 socials:
+  musicbrainz: "e0998340-a808-44eb-a985-8b708aac4f7f"
   facebook: ""
   instagram: ""
   web: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   deezer: 2026-08-06
   apple: 2026-08-06
   bandsintown: 2026-08-06

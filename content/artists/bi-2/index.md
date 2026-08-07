@@ -2,7 +2,32 @@
 id: "007643a2-f707-4c8c-b7ba-740899c6a223"
 title: "Bi-2"
 type: band
+members:
+  - id: "6ec80744-91f6-4c59-8076-fd5aceb0d36f"
+    roles:
+      - other
+    periods:
+      - start: 1988
+  - id: "41d67e03-80f6-4906-afcd-bf509d84c10d"
+    roles:
+      - other
+    periods:
+      - start: 1988
+  - id: "0f0e882a-fad6-4864-9ff7-9da1d87aef01"
+    roles:
+      - other
+    periods:
+      - start: 2006
+  - id: "4f443e4f-efbc-40ef-92c1-e3627b7bdb11"
+    roles:
+      - other
+    periods:
+      - start: 2008
+  - id: "c4501fb7-9424-469c-b302-263eeb6681a2"
+    roles:
+      - other
 socials:
+  musicbrainz: "5ca35ace-4006-4d4a-af04-5cd91dafab14"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +37,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "586919688"
+  deezer: "4546074"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "3SXDCIdqI1AR686ukKtKCq"
+  tidal: "5422428"
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

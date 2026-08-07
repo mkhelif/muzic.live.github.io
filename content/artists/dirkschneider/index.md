@@ -3,6 +3,7 @@ id: "da033b1a-0f74-41f9-ab9f-f0d59aaf2092"
 title: "Dirkschneider"
 type: person
 socials:
+  musicbrainz: "e2be4ab4-b96b-4a9d-a6a7-2746e0c0014a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -12,12 +13,13 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1217148"
+  deezer: "4897933"
   qobuz: ""
-  spotify: ""
+  spotify: "3Ki97iRlfQmVk6qw5tXULX"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

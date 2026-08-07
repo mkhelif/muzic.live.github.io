@@ -14,6 +14,7 @@ members:
     periods:
       - start: 2012
 socials:
+  musicbrainz: "c6217a1f-da06-4760-aeef-3dc7aea999dc"
   facebook: "bonentendeurmusic"
   instagram: "bon_entendeur"
   tiktok: "@bon_entendeur"
@@ -29,6 +30,7 @@ socials:
   deezer: "13314683"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

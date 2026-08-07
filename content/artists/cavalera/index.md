@@ -57,10 +57,12 @@ members:
 aliases:
   - "Cavalera Conspiracy"
 socials:
+  musicbrainz: "5bd1060b-8608-4817-93ca-207f7c828e2f"
   facebook: "cavaleraconspiracy"
   instagram: "cavaleraconspiracy"
   tiktok: "@cavconspiracy"
   x: "cavconspiracy"
+  songkick: "2326423"
   youtube: "@CavaleraConspiracy"
   amazon: "B0025Q4HDI"
   apple: "273152410"
@@ -71,6 +73,7 @@ socials:
   web: "https://www.cavaleraconspiracy.net/"
   email: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

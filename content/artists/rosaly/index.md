@@ -3,6 +3,7 @@ id: "64bc1b8d-8c06-40ad-bf81-12d7f8475d67"
 title: "Rosaly"
 type: band
 socials:
+  musicbrainz: "999a7b5a-88a6-47ce-9ab4-99c0dc2459fd"
   facebook: "p/Rosaly-100095079766926"
   instagram: "rosalyoff"
   youtube: "@rosalyoff"
@@ -17,6 +18,7 @@ socials:
   qobuz: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

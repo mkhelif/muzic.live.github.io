@@ -2,6 +2,10 @@
 id: "d20f8b37-2111-49f8-97f4-937edee4c286"
 title: "Gaistaz"
 type: band
+members:
+  - id: "1d1d142d-7a51-452f-81dc-5c6ee53b894a"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "114a34e0-7ced-4cb1-9414-159874fed197"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

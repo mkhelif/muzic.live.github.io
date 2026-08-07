@@ -3,6 +3,7 @@ id: "e7ae033b-46c3-473a-99b2-e1209f7e97a9"
 title: "Ménades"
 type: unknown
 socials:
+  musicbrainz: "2842c269-0d42-4986-85dd-d6710b514195"
   facebook: "MenadesBand"
   instagram: "menades__"
   bandcamp: "menadesband"
@@ -19,6 +20,7 @@ socials:
   deezer: ""
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

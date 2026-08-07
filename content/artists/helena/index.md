@@ -5,6 +5,7 @@ aliases:
   - "Helena"
 type: person
 socials:
+  musicbrainz: "de3b522f-5fd2-4321-bf3c-d4d520201c5d"
   facebook: ""
   instagram: "helena_blly"
   tiktok: ""
@@ -13,13 +14,16 @@ socials:
   web: "https://helenaofficiel.store/"
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1736549634"
+  deezer: "258938052"
   qobuz: ""
   spotify: "6M0dlWzmJ9Z81JM2WpHbsC"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
+lifespan:
+  start: 2002-02-19
 ---
 
 Helena Bailly, connue sous le nom d'**Helena**, est une chanteuse franco-belge révélée lors de la saison 11 de **Star Academy**.

@@ -3,11 +3,13 @@ id: "02d228a2-67e3-4e75-a886-df1bd85399aa"
 title: "Hinako Omori"
 type: person
 socials:
+  musicbrainz: "cef688b0-aa07-40c8-a4d9-dee382fd9e47"
   instagram: "hinakoomori"
   x: "hinakoomori"
   bandcamp: "hinakoomori"
   soundcloud: "hinakoomori"
   bandsintown: "15525662"
+  songkick: "10028104"
   youtube: "hinakoomori"
   web: "https://hinakoomori.com/"
   email: "hello@hinakoomori.com"
@@ -20,6 +22,7 @@ socials:
   deezer: "10897114"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

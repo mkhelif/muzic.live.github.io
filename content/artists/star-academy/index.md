@@ -3,6 +3,7 @@ id: "957c1db3-d7ab-4c9b-a77e-26fb27f19db1"
 title: "Star Academy"
 type: band
 socials:
+  musicbrainz: "aa9892cf-5268-442b-ac53-155a73774a1e"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,5 +22,6 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---

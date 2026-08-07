@@ -3,6 +3,7 @@ id: "13bfbfda-9515-47c0-b3d4-9166b70ec12a"
 title: "MTZx"
 type: person
 socials:
+  musicbrainz: "e3d53d54-05c8-4ab1-a9be-f9c73ed9873e"
   facebook: "MTZoff3"
   instagram: "mtzx_off3"
   tiktok: "@mtzx_off3"
@@ -19,6 +20,7 @@ socials:
   deezer: "137732022"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

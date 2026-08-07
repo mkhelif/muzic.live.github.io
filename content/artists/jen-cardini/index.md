@@ -3,11 +3,13 @@ id: "4c0b6a9d-5ebf-43d9-ae3f-ff543f9540d7"
 title: "Jen Cardini"
 type: unknown
 socials:
+  musicbrainz: "34f6cf54-4a82-4931-89a0-b1d7deabe403"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "35755"
+  songkick: "977319"
   youtube: ""
   web: ""
   email: ""
@@ -15,9 +17,10 @@ socials:
   apple: "260619351"
   deezer: ""
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "3AN049igIAaoX0fjTCkpnf"
+  tidal: "6188361"
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

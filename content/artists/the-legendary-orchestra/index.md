@@ -3,6 +3,7 @@ id: "2e53d4c9-7c54-429e-b174-a580661cf258"
 title: "The Legendary Orchestra"
 type: band
 socials:
+  musicbrainz: "d290ad14-9356-4312-985e-64e1551014b7"
   instagram: "thelegendaryorchestra"
   tiktok: "@thelegendaryorchestra"
   web: "https://legendary-orchestra.com/"
@@ -17,6 +18,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

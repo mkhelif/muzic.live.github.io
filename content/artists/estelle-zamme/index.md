@@ -3,6 +3,7 @@ id: "d4332970-cf26-443b-b03e-93dd6068180c"
 title: "Estelle Zamme"
 type: band
 socials:
+  musicbrainz: "ab106c82-16ac-4a8e-874b-7452f8194e4b"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

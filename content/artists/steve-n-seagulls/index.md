@@ -2,26 +2,50 @@
 id: "80216f89-8e61-4fa7-9e5d-0c161422d4fe"
 title: "Steve'n'Seagulls"
 type: band
+members:
+  - id: "bd8cdde0-4701-4abd-ae40-941d8267e3ea"
+    roles:
+      - guitar
+  - id: "17c01340-f611-42b1-99d6-2afb28516108"
+    roles:
+      - keys
+      - accordion
+  - id: "f2657f19-6937-4617-b733-210fcde633b0"
+    roles:
+      - bass
+  - id: "9974dc2a-c47e-4819-98ab-19aaca7c1081"
+    roles:
+      - drums
+  - id: "fba96277-c7e6-48e3-ab5c-f382a9268bda"
+    roles:
+      - sing
+      - guitar
+  - id: "56e38a1d-f4c8-4761-98b8-04d2bfa4ba2e"
+    roles:
+      - other
 socials:
+  musicbrainz: "c463f1c4-d19f-420f-ac88-a7b5afabeeb9"
   facebook: "Stevenseagulls"
   instagram: "stevenseagullsband"
   tiktok: "@stevenseagulls"
   threads: "@stevenseagullsband"
   x: "SeagullsBand"
   twitch: "stevenseagullsband"
+  songkick: "8438728"
   youtube: "@SteveSeagulls"
   web: "https://stevenseagulls.com/"
   email: ""
-  amazon: ""
-  apple: ""
+  amazon: "B08DJ4LPT4"
+  apple: "981357713"
   deezer: "7700568"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "77A9XsX4SDJlhB23yyUwQt"
+  tidal: "20562814"
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

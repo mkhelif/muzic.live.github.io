@@ -3,6 +3,7 @@ id: "52280f6f-a118-4fbb-b4ec-22ff870ac361"
 title: "Billy Allen + The Pollies"
 type: band
 socials:
+  musicbrainz: "d1b15bb4-f08f-46f5-92ec-e8308607f7b5"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

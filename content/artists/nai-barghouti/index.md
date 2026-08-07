@@ -3,6 +3,7 @@ id: "0d64fdf9-5b97-405a-9b37-84de7a23f5a8"
 title: "Nai Barghouti"
 type: person
 socials:
+  musicbrainz: "325dd58f-093a-4472-90d3-ad2950cc40a3"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -21,5 +22,8 @@ todo:
   - Add socials
   - Add description
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
+lifespan:
+  start: 1996-09-24
 ---

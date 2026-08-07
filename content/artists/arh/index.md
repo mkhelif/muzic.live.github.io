@@ -3,6 +3,7 @@ id: "5c29c6bf-f45e-49a1-90f8-6aa96dc936fb"
 title: "ARH"
 type: band
 socials:
+  musicbrainz: "f4ff5630-ca72-4a0e-8bc8-485266890087"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -19,6 +20,7 @@ socials:
   tidal: ""
 cover: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   bandsintown: 2026-08-06
   musicbrainz-lookup: 2026-08-05
 ---

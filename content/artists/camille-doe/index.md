@@ -3,6 +3,7 @@ id: "709aa506-d816-418d-b96f-571dcc604eaa"
 title: "Camille Doe"
 type: person
 socials:
+  musicbrainz: "497f0c54-cd9b-4ef9-b01d-396f29fb7b57"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,9 +16,10 @@ socials:
   apple: "1600133950"
   deezer: "154317492"
   qobuz: ""
-  spotify: ""
+  spotify: "0zjpQf6f3cYtgAR1egb6Gy"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

@@ -3,6 +3,7 @@ id: "44fd8b5b-b8ff-4148-a046-bb041dabe072"
 title: "Linh"
 type: person
 socials:
+  musicbrainz: "2488ff83-648e-4103-936d-f993caa8e2f0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,16 +12,19 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1603796345"
+  deezer: "156679672"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "15h1AB4jpLCdXLZNT7glWj"
+  tidal: "56078172"
 todo:
   - Add cover
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
+lifespan:
+  start: 1995-07-05
 ---
 
 Pauline Thisse, connue sous le nom de scène Linh, est une auteure-compositrice-interprète française née le 5 juillet

@@ -3,6 +3,7 @@ id: "3e6aad48-eccc-4894-83eb-7a312c3ad20c"
 title: "Jane et les autres"
 type: band
 socials:
+  musicbrainz: "02612391-3054-4106-b917-515ce5f7a2b4"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

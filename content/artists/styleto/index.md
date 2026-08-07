@@ -3,6 +3,7 @@ id: "efcab4e0-6cc0-4155-bc82-353508f4b6f9"
 title: "Styleto"
 type: person
 socials:
+  musicbrainz: "2611af40-9ecd-4998-a7d1-79118c399955"
   facebook: "Styletonicyoutube.fr"
   instagram: "styleto"
   threads: "@styleto"
@@ -16,8 +17,9 @@ socials:
   amazon: ""
   apple: ""
   deezer: "170886747"
-  qobuz: ""
+  qobuz: "14189639"
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

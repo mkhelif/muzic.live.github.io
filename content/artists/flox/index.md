@@ -3,6 +3,7 @@ id: "025bf231-c372-4f3b-961e-1e289b639ab1"
 title: "Flox"
 type: person
 socials:
+  musicbrainz: "946938d2-5dde-4aac-b02f-df9cc7837583"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -13,14 +14,15 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "16178"
   qobuz: ""
-  spotify: ""
+  spotify: "2YY8u7yMQyNgJWK4XOpP2x"
   tidal: ""
 todo:
   - Add cover
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

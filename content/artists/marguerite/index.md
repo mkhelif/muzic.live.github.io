@@ -3,6 +3,7 @@ id: "657d6704-b527-4c7a-89a7-19c1abc7a91c"
 title: "Marguerite"
 type: person
 socials:
+  musicbrainz: "27d186f5-db55-4e98-bf64-06a43d20bf76"
   facebook: ""
   instagram: "margueritecommelafleur_"
   tiktok: "@margueritecommelafleur__"
@@ -20,7 +21,10 @@ todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
+lifespan:
+  start: 2000-11-03
 ---
 
 Marguerite Dedeyan, connue sous son seul prénom, s'est révélée au grand public en 2024 grâce à **Star Academy**. Son

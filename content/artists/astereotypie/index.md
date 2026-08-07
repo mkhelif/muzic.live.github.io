@@ -3,6 +3,7 @@ id: "5e7c8d23-2384-4302-afab-04e4aadd6987"
 title: "Astéréotypie"
 type: person
 socials:
+  musicbrainz: "67fb8bbc-e154-4000-a200-a701918c41ca"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,13 +15,16 @@ socials:
   apple: "1313425269"
   deezer: "13552461"
   qobuz: ""
-  spotify: ""
+  spotify: "1bPIphq90zexFcnUA7qILm"
   tidal: ""
 cover: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   deezer: 2026-08-06
   apple: 2026-08-06
   musicbrainz-lookup: 2026-08-05
+lifespan:
+  start: 2010
 ---
 
 Astéréotypie est un groupe de post-punk inclassable et profondément humain, né en 2010 au sein de l'Institut

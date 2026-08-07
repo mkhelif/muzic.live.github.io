@@ -2,6 +2,10 @@
 id: "5cac26f7-0ba2-444e-937b-d6bae8bf45fe"
 title: "Spy 51"
 type: band
+members:
+  - id: "245caeca-c209-467d-a067-56b5bbbfd71d"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "afe31f63-38bf-4335-b803-02a1e82b7fed"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

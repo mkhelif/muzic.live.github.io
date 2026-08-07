@@ -3,6 +3,7 @@ id: "1a0a0791-3184-42ef-ac08-251e40a1557d"
 title: "Eve La Marka"
 type: person
 socials:
+  musicbrainz: "111e4491-7189-4723-8a52-bbc2a18eb4a0"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

@@ -17,7 +17,7 @@ socials:
   deezer: "1451873"
   qobuz: ""
   spotify: "1QdjL34EAib5zndNoqA2ly"
-  tidal: ""
+  tidal: "4133264"
   musicbrainz: "6bcc1ff2-65bf-4ac9-bb5e-560d2a30ca7a"
 todo:
   - Add picture
@@ -26,6 +26,6 @@ todo:
 lifespan:
   start: 1990-06-06
 lastUpdate:
-  musicbrainz: 2026-08-06
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---

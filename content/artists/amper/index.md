@@ -3,6 +3,7 @@ id: "930fddec-4c8e-45a3-8760-9b5ead893184"
 title: "Amper"
 type: person
 socials:
+  musicbrainz: "cb840138-35e2-41ae-b9af-72ccb11ea1dd"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   bandsintown: 2026-08-06
   musicbrainz-lookup: 2026-08-05
 ---

@@ -3,6 +3,7 @@ id: "78901e8e-0b49-48ff-8bae-3f52ae3c56fe"
 title: "Nino Baliardo"
 type: unknown
 socials:
+  musicbrainz: "ab23a17c-1593-4e62-9cd8-c024c6ada6f2"
   facebook: "nino.baliardo"
   instagram: "baliardonino"
   threads: "@baliardonino"
@@ -18,6 +19,7 @@ socials:
   qobuz: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

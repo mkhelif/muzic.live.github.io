@@ -3,6 +3,7 @@ id: "0cd6622d-6384-41df-a834-ca331dc6da5a"
 title: "Bertox"
 type: person
 socials:
+  musicbrainz: "17f776d1-455b-4a0e-89e2-f91f5506b51c"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

@@ -3,6 +3,7 @@ id: "db31a702-5cee-4c52-a5e0-aad911775c19"
 title: "The Elephant Green"
 type: person
 socials:
+  musicbrainz: "849fafa4-7b5e-462f-8d14-30c747b1c7b8"
   facebook: "p/The-Elephant-Green-61573551773577/"
   instagram: "the_elephant_green"
   tiktok: "@the_elephant_green"
@@ -18,6 +19,7 @@ socials:
   web: ""
   email: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

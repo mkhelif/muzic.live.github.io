@@ -1,0 +1,28 @@
+---
+id: "5f504ddd-714b-40fb-9dd3-2eaff9fddad9"
+title: "Dana Chalberg"
+type: person
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  songkick: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+  musicbrainz: "1fc58d2c-b7cd-4495-8405-81563d2a8133"
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+lastUpdate:
+  musicbrainz: 2026-08-07
+---

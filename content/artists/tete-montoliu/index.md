@@ -13,14 +13,19 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "5373972"
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "4Mrtf4qZIq9OQFL7JTYmNS"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "769d402e-20c3-40ec-8369-86fe8120bce8"
 todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1933-03-28
+  end: 1997-08-24
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

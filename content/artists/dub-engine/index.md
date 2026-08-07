@@ -3,6 +3,7 @@ id: "6bc38016-e859-4611-a64b-e71de720149e"
 title: "Dub Engine"
 type: person
 socials:
+  musicbrainz: "930f0c58-707a-461a-8763-ed26b886dedf"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,9 +16,10 @@ socials:
   apple: "1329009397"
   deezer: "13830183"
   qobuz: ""
-  spotify: ""
+  spotify: "7AZXagnBMpeTetsLOXU2jk"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

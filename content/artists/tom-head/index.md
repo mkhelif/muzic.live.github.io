@@ -1,0 +1,28 @@
+---
+id: "60d4ac2b-ebed-403b-8996-b6edccde769e"
+title: "Tom Head"
+type: person
+socials:
+  facebook: ""
+  instagram: ""
+  tiktok: ""
+  threads: ""
+  x: ""
+  songkick: ""
+  youtube: ""
+  web: ""
+  email: ""
+  amazon: ""
+  apple: ""
+  deezer: ""
+  qobuz: ""
+  spotify: ""
+  tidal: ""
+  musicbrainz: "dbba2bfc-dccc-4bd1-9a63-80e9646f81c4"
+todo:
+  - Add picture
+  - Add socials
+  - Add description
+lastUpdate:
+  musicbrainz: 2026-08-07
+---

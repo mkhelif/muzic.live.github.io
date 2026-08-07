@@ -15,12 +15,17 @@ socials:
   amazon: ""
   apple: ""
   deezer: ""
-  qobuz: ""
-  spotify: ""
+  qobuz: "43116"
+  spotify: "7BevvFNyB69FsRX8xa44FF"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "73eb0b8f-dc78-40cd-be24-0b4557a62ec5"
 todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1925-07-15
+  end: 1973-01-02
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

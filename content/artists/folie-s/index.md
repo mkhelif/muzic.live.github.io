@@ -3,6 +3,7 @@ id: "6245d233-373e-4483-8b47-90690880f91a"
 title: "Folie's"
 type: person
 socials:
+  musicbrainz: "e132494a-9138-49b4-a64e-874974729ef1"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -14,9 +15,10 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "0pyhWJCYRgIoXusQQuMO4c"
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

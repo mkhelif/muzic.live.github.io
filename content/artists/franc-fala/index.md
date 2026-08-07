@@ -3,6 +3,7 @@ id: "6ae17bc0-d30a-430c-9216-3223b7c54ea4"
 title: "Franc Fala"
 type: person
 socials:
+  musicbrainz: "1dd820ae-da7e-4e1c-84cb-62b9550c69a9"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,9 +16,10 @@ socials:
   apple: "1582612717"
   deezer: "143321342"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "0FSasrFTs0AQBrJkcFE6vB"
+  tidal: "28324823"
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

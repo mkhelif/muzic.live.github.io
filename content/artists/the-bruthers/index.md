@@ -2,6 +2,10 @@
 id: "487c8f51-e8be-4004-b130-d1ab01a641d6"
 title: "The Bruthers"
 type: band
+members:
+  - id: "941f1f98-8816-4ed9-bb5f-47738492a220"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "0646cc37-493b-4750-86d6-c103c9401c22"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---

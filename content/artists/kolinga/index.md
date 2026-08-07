@@ -3,6 +3,7 @@ id: "8c0e20a1-717a-465c-a09d-baeacebca72f"
 title: "Kolinga"
 type: person
 socials:
+  musicbrainz: "4b864787-9adf-4f0a-90c0-2fb9ff78e3d3"
   facebook: "kolingamusic"
   instagram: "kolingamusic"
   bandcamp: "kolinga"
@@ -19,6 +20,7 @@ socials:
   deezer: "12199790"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

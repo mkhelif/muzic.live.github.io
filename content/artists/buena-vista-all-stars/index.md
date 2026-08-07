@@ -3,6 +3,7 @@ id: "19f38e9a-de56-444f-b129-23775c0e4b44"
 title: "Buena Vista All Stars"
 type: band
 socials:
+  musicbrainz: "5b073552-c0a8-4785-aa08-77596f364b55"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -18,6 +19,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

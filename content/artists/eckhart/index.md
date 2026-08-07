@@ -3,6 +3,7 @@ id: "c0e144d7-a92d-4dfb-bf1a-68f4104e1651"
 title: "Eckhart"
 type: unknown
 socials:
+  musicbrainz: "804f7d59-ff35-4fe1-ac4b-235e6b02522c"
   instagram: "eckhart._"
   youtube: "@eckhart_music"
   bandcamp: "eckhart"
@@ -15,10 +16,11 @@ socials:
   x: ""
   web: ""
   amazon: ""
-  apple: ""
+  apple: "522931519"
   deezer: "6195358"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

@@ -3,6 +3,7 @@ id: "fc1dfdf8-c96b-4062-9b2b-339680683290"
 title: "Poligone"
 type: unknown
 socials:
+  musicbrainz: "7459afe6-7f64-4cfa-992b-ac759cb0dc8a"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

@@ -3,6 +3,7 @@ id: "3db3e3ff-2b57-4ff7-bab7-0b4c452f5b04"
 title: "Basta Lion"
 type: person
 socials:
+  musicbrainz: "eafc412e-ee79-4000-b706-6ac28952da63"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -17,6 +18,7 @@ socials:
   spotify: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   deezer: 2026-08-06
   apple: 2026-08-06
   musicbrainz-lookup: 2026-08-05

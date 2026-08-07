@@ -3,6 +3,7 @@ id: "f890a214-787f-41f9-a623-7a6cf42550cb"
 title: "El Grande Toto"
 type: person
 socials:
+  musicbrainz: "49487c06-ec80-470d-9f97-e80649a05b90"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -11,13 +12,16 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "1438644588"
+  deezer: "52463032"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "4BFLElxtBEdsdwGA1kHTsx"
+  tidal: "10451984"
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
+lifespan:
+  start: 1996-08-03
 ---
 
 ElGrandeToto, de son vrai nom Taha Fahssi, est un rappeur marocain né le 3 août 1996 à Casablanca. Issu d'une famille

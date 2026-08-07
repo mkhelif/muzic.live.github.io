@@ -3,6 +3,7 @@ id: "684b074a-7b55-484a-883f-ed648b73cb6d"
 title: "Crazy Jesse"
 type: person
 socials:
+  musicbrainz: "c02bf3aa-baca-4409-a935-4b730f33aa48"
   facebook: "crazyjesseband"
   instagram: "crazyjesse_the_band"
   bandcamp: "crazyjesse"
@@ -19,6 +20,7 @@ socials:
   qobuz: ""
   tidal: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

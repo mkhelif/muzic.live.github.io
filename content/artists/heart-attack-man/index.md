@@ -3,6 +3,7 @@ id: "c89ef059-89ac-4b81-adb4-e09b9560772b"
 title: "Heart Attack Man"
 type: person
 socials:
+  musicbrainz: "9f7a4907-9c6d-4e84-9a16-5bcaee2f8381"
   facebook: ""
   instagram: ""
   tiktok: ""
@@ -15,13 +16,16 @@ socials:
   apple: "949770256"
   deezer: "7201880"
   qobuz: ""
-  spotify: ""
+  spotify: "5esKrGWvWmBAmjnao5jInN"
   tidal: ""
 todo:
   - Add picture
   - Add socials
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
+lifespan:
+  start: 2013
 ---
 
 Heart Attack Man est un groupe de punk rock américain originaire de Cleveland, dans l'Ohio, reconnu pour son pop-punk

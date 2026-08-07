@@ -3,11 +3,13 @@ id: "02c7fb8d-92e7-4dea-bc41-a9124bdabaca"
 title: "Hilight Tribe"
 type: person
 socials:
+  musicbrainz: "1c8f8ab5-ba03-4aa6-9eab-850e1d3a2ff7"
   facebook: ""
   instagram: ""
   tiktok: ""
   x: ""
   bandsintown: "123891"
+  songkick: "431776"
   youtube: ""
   web: ""
   email: ""
@@ -15,9 +17,10 @@ socials:
   apple: "120612070"
   deezer: "16937"
   qobuz: ""
-  spotify: ""
-  tidal: ""
+  spotify: "62RdOEwjfXjFOQpKdufMR7"
+  tidal: "4031913"
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

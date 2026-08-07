@@ -3,6 +3,7 @@ id: "4aa72a79-5f0b-4057-a515-16b3d7861e05"
 title: "Tendinista"
 type: band
 socials:
+  musicbrainz: "9a8d854f-1c62-4c79-8f66-13bf6c930db4"
   facebook: "tendinista"
   instagram: "tendinista"
   bandcamp: "tendinista"
@@ -15,10 +16,11 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "1452014083"
   deezer: "59355922"
   qobuz: ""
 lastUpdate:
+  musicbrainz: 2026-08-07
   musicbrainz-lookup: 2026-08-05
 ---
 

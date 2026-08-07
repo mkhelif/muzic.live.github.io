@@ -8,19 +8,23 @@ socials:
   tiktok: ""
   threads: ""
   x: ""
-  songkick: ""
+  songkick: "8042973"
   youtube: ""
   web: ""
   email: ""
   amazon: ""
-  apple: ""
+  apple: "561646282"
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "65ML8tZVfIo0B8qhbMZYWY"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "b12aae1c-5ee7-4cce-ae0a-aaaf3b1ef18a"
 todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1978-07-24
+lastUpdate:
+  musicbrainz: 2026-08-07
 ---
