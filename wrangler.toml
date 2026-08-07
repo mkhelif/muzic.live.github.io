@@ -6,6 +6,11 @@ routes = [
   { pattern = "muzic.live/api/*", zone_name = "muzic.live" },
 ]
 
+[[ratelimits]]
+name = "RATE_LIMIT"
+namespace_id = "1"
+simple = { limit = 60, period = 60 }
+
 [[d1_databases]]
 binding = "DB"
 database_name = "muziclive"

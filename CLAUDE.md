@@ -11,7 +11,8 @@ Guidance for working in this repository. Read this before editing content or tem
 - **Hugo extended** `0.163.2` (uses the modern `layouts/` template system: `page.html`, `section.html`, `term.html`, `taxonomy.html`, `_partials/`, `_shortcodes/`, `_markup/`).
 - **Dart Sass** for SCSS (`assets/scss/`), **Bootstrap 5.3.8** and **Font Awesome 7** vendored under `assets/scss/` and `assets/js/`.
 - **Pagefind** `1.5.2` for client-side search (built against `public/` after the Hugo build).
-- No `package.json`; JS deps are vendored; Pagefind runs via `npx`.
+- The **site** has no `package.json`; its JS deps are vendored and Pagefind runs via `npx`. The only npm
+  project is `worker/` (TypeScript, wrangler) — keep it that way.
 
 ## Build, deploy & local dev
 

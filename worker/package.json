@@ -1,0 +1,16 @@
+{
+    "name": "muziclive-api",
+    "private": true,
+    "type": "module",
+    "description": "Type-checking and deploy tooling for the Cloudflare Worker. Scoped to worker/ on purpose: the Hugo site has no npm dependencies and should keep none.",
+    "scripts": {
+        "typecheck": "tsc --noEmit",
+        "dev": "wrangler dev --config ../wrangler.toml",
+        "deploy": "wrangler deploy --config ../wrangler.toml"
+    },
+    "devDependencies": {
+        "@cloudflare/workers-types": "^5.20260801.1",
+        "typescript": "^5.7.3",
+        "wrangler": "^4.120.0"
+    }
+}
