@@ -1,3 +1,13 @@
+// Dart Sass deprecated the global colour functions (lighten, darken,
+// transparentize...) in favour of the sass:color module. These are exact
+// equivalents, not a redesign: color.adjust($lightness: 0.5%) is what
+// lighten($c, 0.5) did, and $alpha: -0.5 what transparentize($c, 0.5) did.
+//
+// NOTE: this file is still @imported (not @used) by main.scss on purpose —
+// see the comment there. It carries Bootstrap's !default overrides, which
+// only work from the global scope.
+@use "sass:color";
+
 // Colors
 $primary: #c5f853;
 //$secondary:     $gray-600 !default;
@@ -11,8 +21,8 @@ $dark: #0b0b0b;
 $body-bg: $dark;
 $body-color: $light;
 
-$primary-emphasis: lighten($primary, 0.5);
-$primary-muted: transparentize($primary, 0.5);
+$primary-emphasis: color.adjust($primary, $lightness: 0.5%);
+$primary-muted: color.adjust($primary, $alpha: -0.5);
 
 // Fonts
 $font-path: "/fonts/fontawesome-7.0.1";

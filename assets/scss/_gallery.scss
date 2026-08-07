@@ -1,3 +1,5 @@
+@use "variables" as v;
+
 // Masonry-style photo grid: preserves each image's aspect ratio so that
 // portrait and landscape shots sit side by side without cropping.
 .gallery {
@@ -88,14 +90,14 @@ body.gallery-lock {
     }
 
     &__caption {
-        color: $light;
-        font-family: $font-family-mono;
+        color: v.$light;
+        font-family: v.$font-family-mono;
         font-size: 0.8rem;
         margin-top: 0.75rem;
     }
 
     &__credit {
-        color: $light;
+        color: v.$light;
         font-size: 0.75rem;
         margin-top: 0.25rem;
         opacity: 0.75;
@@ -105,7 +107,7 @@ body.gallery-lock {
         }
 
         a {
-            color: $primary;
+            color: v.$primary;
         }
     }
 
@@ -115,7 +117,7 @@ body.gallery-lock {
         right: 1.25rem;
         background: none;
         border: none;
-        color: $primary;
+        color: v.$primary;
         font-size: 2.25rem;
         line-height: 1;
         cursor: pointer;
@@ -125,7 +127,7 @@ body.gallery-lock {
         flex: 0 0 auto;
         background: none;
         border: none;
-        color: $primary;
+        color: v.$primary;
         font-size: 2.5rem;
         line-height: 1;
         padding: 0 1rem;
@@ -133,7 +135,7 @@ body.gallery-lock {
         transition: color 150ms ease;
 
         &:hover {
-            color: $primary-emphasis;
+            color: v.$primary-emphasis;
         }
     }
 

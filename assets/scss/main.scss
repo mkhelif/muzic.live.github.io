@@ -1,3 +1,17 @@
+// Why this file still uses @import and not @use
+// ---------------------------------------------
+// `_variables.scss` overrides Bootstrap's `!default` variables ($primary,
+// $input-bg, $pagination-active-bg...). That mechanism needs those variables in
+// the *global* scope before Bootstrap is loaded. `@use` namespaces them per
+// module, which would silently break every override and revert the theme to
+// Bootstrap's defaults. The vendored Bootstrap 5.3.8 and Font Awesome 7 trees
+// are `@import`-based too; Bootstrap only plans module support for v6.
+//
+// So this entry point stays on @import until the Bootstrap 6 migration. What
+// *has* moved to `@use` is the partials of ours that only consume our own
+// variables — see _gallery.scss, _type.scss and _search.scss. `_news.scss`
+// ($white) and `_input-group.scss` ($input-group-addon-padding-*) still read
+// Bootstrap variables from the global scope and are deliberately left alone.
 @import "variables";
 @import "fonts";
 

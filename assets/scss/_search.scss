@@ -1,3 +1,5 @@
+@use "variables" as v;
+
 #search-open {
     @include media-breakpoint-up(sm) {
         flex: 0 0 auto;
@@ -12,7 +14,7 @@
 }
 
 #search-results-container {
-    background-color: $dark;
+    background-color: v.$dark;
     overflow-y: scroll;
 }
 
