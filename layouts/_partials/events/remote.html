@@ -1,0 +1,29 @@
+{{- /*
+    Chrome for a concert listing filled at runtime from /api/events.
+
+    Hugo emits the heading, the table and an empty <tbody>; assets/js/events.js
+    fetches the rows. The container starts hidden so a page with no upcoming
+    concert shows nothing at all, as it did when the list was built statically.
+
+    Usage: {{ partial "events/remote.html" (dict "context" . "query" "artist=<uuid>&with_bands=1") }}
+*/ -}}
+<div id="events" data-pagefind-ignore="all" hidden data-events="{{ .query }}">
+    {{- if .context.OutputFormats.Get "ics" -}}
+        {{- with .context.OutputFormats.Get "ics" -}}
+            {{- partial "titles/h3.html" (dict "title" "Concerts à venir" "link" .RelPermalink "linkText" " " "linkIcon" "fa-calendar") -}}
+        {{- end -}}
+    {{- else -}}
+        {{- partial "titles/h3.html" (dict "title" "Concerts à venir") -}}
+    {{- end -}}
+    <table class="table table-sm table-borderless">
+        <thead>
+            <tr>
+                <th></th>
+                <th width="100%"></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody></tbody>
+    </table>
+</div>

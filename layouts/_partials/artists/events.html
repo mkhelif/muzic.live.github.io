@@ -1,24 +1,7 @@
-{{/* --- Events ---  */}}
-{{- /* On taxonomy term pages `.Params.id` is not a string: keep the id list
-       empty rather than feeding a nil key to `index`. */ -}}
-{{- $id := .Params.id -}}
-{{- $artistIds := slice -}}
-{{- if $id -}}
-    {{- $artistIds = $artistIds | append $id -}}
-    {{- $bands := (partialCached "artists/member-of-lookup.html" .).Get "bands" -}}
-    {{- range (index $bands (string $id) | default slice) -}}
-        {{- $artistIds = $artistIds | append .id -}}
-    {{- end -}}
+{{/* --- Events --- */}}
+{{- /* `with_bands=1`: the API also returns the concerts of the bands this
+       person belongs to, which member-of-lookup.html used to resolve here.
+       On a taxonomy term page `.Params.id` is not a string, hence `string`. */ -}}
+{{- with .Params.id -}}
+    {{- partial "events/remote.html" (dict "context" $ "query" (printf "artist=%s" (string .))) -}}
 {{- end -}}
-{{- $byArtist := (partialCached "index/events.html" .).Get "artists" -}}
-{{- $events := slice -}}
-{{- range $artistIds -}}
-    {{- range (index $byArtist . | default slice) -}}
-        {{- if not (in $events .) -}}
-            {{- $events = $events | append . -}}
-        {{- end -}}
-    {{- end -}}
-{{- end -}}
-{{- $events = where $events ".Date" "ge" (now.AddDate 0 0 -3) -}}
-{{- $events = sort $events "Date" -}}
-{{ partial "events/list.html" (dict "context" . "events" $events) }}

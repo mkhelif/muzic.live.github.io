@@ -1,14 +1,6 @@
 {{/* --- Events --- */}}
-{{- $venues := partial "venues/descendants.html" .Params.id -}}
-{{- $byVenue := (partialCached "index/events.html" .).Get "venues" -}}
-{{- $events := slice -}}
-{{- range $venues -}}
-    {{- range (index $byVenue . | default slice) -}}
-        {{- if not (in $events .) -}}
-            {{- $events = $events | append . -}}
-        {{- end -}}
-    {{- end -}}
+{{- /* No descendants walk any more: a venue fiche's `venue` field points at its
+       city, not at a parent venue, so `?venue=` already covers everything. */ -}}
+{{- with .Params.id -}}
+    {{- partial "events/remote.html" (dict "context" $ "query" (printf "venue=%s" (string .))) -}}
 {{- end -}}
-{{- $events = where $events ".Date" "ge" (now.AddDate 0 0 -3) -}}
-{{- $events = sort $events "Date" -}}
-{{ partial "events/list.html" (dict "context" . "events" (first 50 $events)) }}

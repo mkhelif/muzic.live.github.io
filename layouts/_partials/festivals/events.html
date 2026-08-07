@@ -1,5 +1,4 @@
-{{/* --- Events ---  */}}
-{{- $events := partial "index/get.html" (dict "index" "events" "group" "festivals" "id" .Params.id) -}}
-{{- $events = where $events ".Date" "ge" (now.AddDate 0 0 -3) -}}
-{{- $events = sort $events "Date" -}}
-{{ partial "events/list.html" (dict "context" . "events" $events) }}
+{{/* --- Events --- */}}
+{{- with .Params.id -}}
+    {{- partial "events/remote.html" (dict "context" $ "query" (printf "festival=%s" (string .))) -}}
+{{- end -}}
