@@ -163,3 +163,6 @@ tags
 # Claude
 .claude/
 .artist-desc-progress.txt
+
+# CloudFlare
+.wrangler/
