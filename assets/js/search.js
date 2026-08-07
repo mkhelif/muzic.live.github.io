@@ -112,6 +112,9 @@ window.addEventListener('DOMContentLoaded', () => loading.then(pagefind => {
     });
 
     function showResults(search) {
+        if (!search) {
+            return;
+        }
         const term = normalizeText(input.value || '');
 
         Promise.all(search.results.map((result, index) => result.data().then(data => ({ data, index }))))
