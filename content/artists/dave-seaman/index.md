@@ -1,6 +1,6 @@
 ---
-id: "281a4f8f-67d9-4b80-a246-9fcdbddf2f2e"
-title: "Bruno Biriaco"
+id: "ee403ab4-a628-4727-a9bd-940b6cfa3451"
+title: "Dave Seaman"
 type: person
 socials:
   facebook: ""
@@ -18,13 +18,9 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: "f2c08518-0e17-4dcd-98ef-c6c9a419d376"
+  musicbrainz: ""
 todo:
   - Add picture
   - Add socials
   - Add description
-lifespan:
-  start: 1949-05-29
-lastUpdate:
-  musicbrainz-lookup: 2026-08-07
 ---

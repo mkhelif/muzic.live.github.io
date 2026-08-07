@@ -1,6 +1,6 @@
 ---
-id: "281a4f8f-67d9-4b80-a246-9fcdbddf2f2e"
-title: "Bruno Biriaco"
+id: "4bcf69a0-e61b-49e6-a649-84c7ed9c4af5"
+title: "제아"
 type: person
 socials:
   facebook: ""
@@ -18,13 +18,9 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: "f2c08518-0e17-4dcd-98ef-c6c9a419d376"
+  musicbrainz: ""
 todo:
   - Add picture
   - Add socials
   - Add description
-lifespan:
-  start: 1949-05-29
-lastUpdate:
-  musicbrainz-lookup: 2026-08-07
 ---

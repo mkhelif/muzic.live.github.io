@@ -1,7 +1,7 @@
 ---
-id: "281a4f8f-67d9-4b80-a246-9fcdbddf2f2e"
-title: "Bruno Biriaco"
-type: person
+id: "30b52f4f-dc51-4be1-91a9-90cb6c03ed6f"
+title: "Caveman"
+type: band
 socials:
   facebook: ""
   instagram: ""
@@ -18,13 +18,10 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: "f2c08518-0e17-4dcd-98ef-c6c9a419d376"
+  musicbrainz: ""
 todo:
   - Add picture
   - Add socials
   - Add description
-lifespan:
-  start: 1949-05-29
-lastUpdate:
-  musicbrainz-lookup: 2026-08-07
+  - Add members
 ---
