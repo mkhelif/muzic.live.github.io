@@ -2,6 +2,22 @@
 id: "178f63eb-3c9d-41e1-a68f-f506fa6867d0"
 title: "European Jazz Sextet"
 type: band
+members:
+  - id: "7e492a35-bcd0-4ca0-99f4-20d0f1067b46"
+    roles:
+      - other
+  - id: "79eef6b9-6d7b-415e-b5bd-441844c2ace0"
+    roles:
+      - other
+  - id: "1e4f2ed9-d62f-49f3-9c47-0ee7b4d039a1"
+    roles:
+      - other
+  - id: "06ecfd4f-7ca2-443d-ac07-a18eb2abdfe6"
+    roles:
+      - other
+  - id: "7de0e763-bf66-4f3b-8d0b-f434eec8b119"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +34,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "a32a5d79-e161-43b7-b9cd-54ecf198007a"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-07
 ---

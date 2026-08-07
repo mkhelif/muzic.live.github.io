@@ -13,14 +13,18 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "277468721"
+  deezer: "153637"
   qobuz: ""
-  spotify: ""
+  spotify: "1X1jfWx9rBfdhlt11Xl9LK"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "d4d138cf-30d6-4a3e-bf6e-ce2f40e9a37b"
 todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1965
+lastUpdate:
+  musicbrainz-lookup: 2026-08-07
 ---

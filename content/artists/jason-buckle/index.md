@@ -14,13 +14,15 @@ socials:
   email: ""
   amazon: ""
   apple: ""
-  deezer: ""
+  deezer: "4485145"
   qobuz: ""
-  spotify: ""
+  spotify: "7io4bUU367MUPQRAK7LlIB"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "5346bea8-2d87-41e3-b3c2-8ce6f2bb246e"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-07
 ---

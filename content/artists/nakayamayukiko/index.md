@@ -18,9 +18,13 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "ccabe249-1890-4591-971e-34df8dc3b794"
 todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1991-11-11
+lastUpdate:
+  musicbrainz-lookup: 2026-08-07
 ---

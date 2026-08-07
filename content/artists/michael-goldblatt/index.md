@@ -11,4 +11,6 @@ todo:
   - Add description
   - Add picture
   - Add socials
+lastUpdate:
+  musicbrainz-lookup: 2026-08-07
 ---

@@ -16,11 +16,13 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
-  tidal: ""
-  musicbrainz: ""
+  spotify: "3TY6vWXG1UKBnX3Y7CSO8l"
+  tidal: "6260372"
+  musicbrainz: "fc586c77-9100-4ba0-bd11-d56b6b034bac"
 todo:
   - Add picture
   - Add socials
   - Add description
+lastUpdate:
+  musicbrainz-lookup: 2026-08-07
 ---

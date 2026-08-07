@@ -16,11 +16,15 @@ socials:
   apple: ""
   deezer: ""
   qobuz: ""
-  spotify: ""
+  spotify: "2PACq2ZcgnzS5MrVTbcm09"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "50b0f330-3215-4420-a6c0-f50ae8547c09"
 todo:
   - Add picture
   - Add socials
   - Add description
+lifespan:
+  start: 1984
+lastUpdate:
+  musicbrainz-lookup: 2026-08-07
 ---
