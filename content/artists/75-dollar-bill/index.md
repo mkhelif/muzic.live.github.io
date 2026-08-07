@@ -2,6 +2,13 @@
 id: "62586c71-bffe-4a8d-9c7d-483072c39820"
 title: "75 Dollar Bill"
 type: band
+members:
+  - id: "169ddf6e-d58d-4d1b-8abd-26d618ecc1bb"
+    roles:
+      - other
+  - id: "9d9c1c32-0398-464f-9a39-735f3c9caabf"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -13,15 +20,17 @@ socials:
   web: ""
   email: ""
   amazon: ""
-  apple: ""
-  deezer: ""
+  apple: "956722129"
+  deezer: "7348304"
   qobuz: ""
-  spotify: ""
+  spotify: "62xQQN2TCGZpRo4ZoFy7qq"
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "2abe8e8b-4f70-4379-9348-ec559faab8e3"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-07
 ---
