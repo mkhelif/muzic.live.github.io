@@ -1,4 +1,5 @@
 ---
+id: "6c1ef8be-8222-4acf-9736-0ec68ce794a9"
 date: 1984-09-21T00:00:00
 venue: "0f48a79e-c547-4782-be3c-22397d81f461"
 artists:

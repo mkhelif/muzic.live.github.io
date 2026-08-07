@@ -1,4 +1,5 @@
 ---
+id: "b0bc0e3c-05c2-46e3-af5f-65934b497b34"
 date: 2026-07-30 12:00:00-05:00
 festival: "667bf290-67ca-4866-bced-4b41b1c53697"
 venue: "fc0a28be-19b2-41de-a3bb-403762dd6ee2"

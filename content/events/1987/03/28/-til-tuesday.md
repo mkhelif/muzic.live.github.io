@@ -1,4 +1,5 @@
 ---
+id: "dbefbfa7-3a2e-4c5a-853a-a3862e06cece"
 date: 1987-03-28T00:00:00
 venue: "94665f24-029e-4522-ab48-0caada0dd436"
 artists:

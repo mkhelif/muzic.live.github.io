@@ -1,4 +1,5 @@
 ---
+id: "faceec34-c7ef-436d-8ad2-7c3057760bb7"
 date: 2013-12-08T00:00:00
 venue: "52abca8c-abc9-46b7-b4bd-075d6776ee43"
 artists:

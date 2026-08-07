@@ -1,4 +1,5 @@
 ---
+id: "9272db59-0cfe-43d4-926b-b2b82131bd3f"
 date: 1983-02-04T00:00:00
 venue: "e191b536-ef8f-4012-bef8-ee0323a74ded"
 artists:

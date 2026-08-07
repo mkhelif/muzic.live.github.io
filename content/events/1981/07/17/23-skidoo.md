@@ -1,4 +1,5 @@
 ---
+id: "8c64c945-c0db-4f83-b1fe-d2e8d9710da8"
 date: 1981-07-17T00:00:00
 venue: "2a894a5d-17bc-43e1-8ee2-50d91e49bd4b"
 artists:

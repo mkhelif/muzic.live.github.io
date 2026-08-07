@@ -1,4 +1,5 @@
 ---
+id: "c56c6e65-ca88-4e72-9292-17bc0f369bcf"
 date: 2021-07-02T00:00:00
 venue: "e80fea72-ae83-4935-9445-194c7a2627bc"
 artists:

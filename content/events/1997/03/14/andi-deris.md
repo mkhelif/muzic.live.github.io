@@ -1,4 +1,5 @@
 ---
+id: "ce5f0e5a-69cf-4b29-835b-462bb3bf31ab"
 date: 1997-03-14T00:00:00
 venue: "7101c45c-11cf-4cb4-9994-e88e51818e39"
 artists:

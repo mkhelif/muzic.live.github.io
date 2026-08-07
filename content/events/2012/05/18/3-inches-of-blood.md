@@ -1,4 +1,5 @@
 ---
+id: "bead2d54-e3ee-40ae-b22c-5dfeef367e39"
 date: 2012-05-18T00:00:00
 venue: "2db6ed6d-9f75-4edf-9ead-7d76b31d0f7a"
 artists:

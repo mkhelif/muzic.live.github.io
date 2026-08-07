@@ -1,4 +1,5 @@
 ---
+id: "8149efba-f916-4b84-930c-6c51c7207cd9"
 date: 2026-11-26T19:30:00+00:00
 venue: "dfa5fb2c-ce97-490a-bf3d-228b3799c4f1"
 artists:

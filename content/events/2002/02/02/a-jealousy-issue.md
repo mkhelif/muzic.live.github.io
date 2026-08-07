@@ -1,4 +1,5 @@
 ---
+id: "7afc7eba-6d6e-4cf4-9b1f-e78ff23868b4"
 date: 2002-02-02T00:00:00
 venue: "a734a75a-0482-4e41-b9ca-9bb0ca80a669"
 artists:

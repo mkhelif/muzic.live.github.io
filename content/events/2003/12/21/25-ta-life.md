@@ -1,4 +1,5 @@
 ---
+id: "1a3ccd7e-1d5a-43de-a812-3c925f4ed849"
 date: 2003-12-21T00:00:00
 venue: "b0353573-1a0d-4da7-b50f-5e551aba7ccd"
 artists:

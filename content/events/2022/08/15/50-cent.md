@@ -1,4 +1,5 @@
 ---
+id: "f56f4ade-c761-4f50-bf4f-0277d1d047af"
 date: 2022-08-15T00:00:00
 venue: "8988b7ec-91cf-4584-ae29-2ef501ba5f47"
 artists:

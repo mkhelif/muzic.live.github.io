@@ -1,4 +1,5 @@
 ---
+id: "fbef0623-56fb-4e4e-af1b-3eb0df5fd38e"
 date: 1995-07-05T00:00:00
 venue: "19ab9e7f-bfa7-4e3f-bb23-7752e283e037"
 artists:

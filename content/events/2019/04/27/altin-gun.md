@@ -1,4 +1,5 @@
 ---
+id: "ec1cf747-9270-45af-b26d-f432af8b02ca"
 date: 2019-04-27T00:00:00
 venue: "67338f3b-f246-4491-acdf-f69ecc6e272c"
 artists:

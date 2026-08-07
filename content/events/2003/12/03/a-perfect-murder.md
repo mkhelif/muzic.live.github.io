@@ -1,4 +1,5 @@
 ---
+id: "aacb3120-c310-4aba-8a30-ae58165e70b0"
 date: 2003-12-03T00:00:00
 venue: "cb67b641-0fa0-4dfc-82a8-fed49ca61b7f"
 artists:

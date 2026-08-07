@@ -1,4 +1,5 @@
 ---
+id: "bc3925aa-49ee-4598-afbe-ef24f711a8ec"
 date: 1983-02-15T00:00:00
 venue: "73025e26-3fda-49ba-bb63-d54240288cc1"
 artists:

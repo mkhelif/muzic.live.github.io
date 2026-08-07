@@ -1,4 +1,5 @@
 ---
+id: "6f2d04f9-ac8d-4dc6-8798-feeec1ee1cda"
 date: 2017-11-14T00:00:00
 venue: "0c6fd7ed-87c3-4556-850e-08d3fc9f5408"
 artists:

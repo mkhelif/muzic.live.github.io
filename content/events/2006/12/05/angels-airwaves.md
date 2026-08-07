@@ -1,4 +1,5 @@
 ---
+id: "83b47360-494f-4ebc-aae8-5cf9ecbdc61e"
 date: 2006-12-05T00:00:00
 venue: "4e0dbfd7-6e91-4b28-b25d-e066b8bd9743"
 artists:

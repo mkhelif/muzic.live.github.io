@@ -1,4 +1,5 @@
 ---
+id: "308e9806-8747-4b75-b4e5-09c855b36f8e"
 date: 1983-08-07T00:00:00
 venue: "c3396f4b-ad2f-48cb-b3f6-fd2c30bb6ff8"
 artists:

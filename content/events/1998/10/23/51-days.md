@@ -1,4 +1,5 @@
 ---
+id: "ecd1d3b6-b3c8-4fcc-9856-b0a963c2692e"
 date: 1998-10-23T00:00:00
 venue: "1b7350ea-bd04-4ed9-b5d5-dc68b038f8b5"
 artists:

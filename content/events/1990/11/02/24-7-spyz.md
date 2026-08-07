@@ -1,4 +1,5 @@
 ---
+id: "dbcd9838-e436-4a71-864d-9c38582ff292"
 date: 1990-11-02T00:00:00
 venue: "1aa91d11-95ce-4dd2-944e-e1e4e10a31a7"
 artists:

@@ -1,4 +1,5 @@
 ---
+id: "92bd3874-c668-4c36-9c3c-bafff946029e"
 date: 1971-01-12T00:00:00
 venue: "b22fd173-29ce-4849-9195-6c112b356bee"
 artists:

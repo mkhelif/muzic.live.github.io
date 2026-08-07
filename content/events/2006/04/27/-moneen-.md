@@ -1,4 +1,5 @@
 ---
+id: "dc591f65-3849-4602-baaf-bb3bddd82f83"
 date: 2006-04-27T00:00:00
 venue: "2e221d6b-d0a3-40a4-b308-32564540a68c"
 artists:

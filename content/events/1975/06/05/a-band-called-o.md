@@ -1,4 +1,5 @@
 ---
+id: "c1ffd233-0797-4a29-a2e3-5b7584f9674c"
 date: 1975-06-05T00:00:00
 venue: "5a16e3f5-75de-43e8-87bd-4a7fe63b5b48"
 artists:

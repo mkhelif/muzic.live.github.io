@@ -1,4 +1,5 @@
 ---
+id: "e83c556f-a572-4c3d-89b3-1999d2ec2cd6"
 date: 1982-06-25T00:00:00
 venue: "001bc799-c775-4b9b-9f26-48e92c6f76e1"
 artists:

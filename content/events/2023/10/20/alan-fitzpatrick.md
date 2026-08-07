@@ -1,4 +1,5 @@
 ---
+id: "6057d5ae-7bf0-47b9-a5a7-e9d3a83f2d9d"
 date: 2023-10-20T00:00:00
 venue: "ce5b68dd-824f-48e3-8983-a5955a8b55a7"
 artists:

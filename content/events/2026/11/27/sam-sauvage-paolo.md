@@ -1,4 +1,5 @@
 ---
+id: "9bf6998a-08c9-4c6b-babf-5874d6dbc371"
 date: 2026-11-27T20:30:00+02:00
 artists:
   - "0ea8520b-371e-4eda-b1ed-243e366d24a1"

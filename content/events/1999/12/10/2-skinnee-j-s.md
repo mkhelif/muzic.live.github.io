@@ -1,4 +1,5 @@
 ---
+id: "95d83172-4934-4cbb-b0e6-e84742067fa6"
 date: 1999-12-10T00:00:00
 venue: "0d6f6448-daec-49cb-af9d-030b8980898c"
 artists:

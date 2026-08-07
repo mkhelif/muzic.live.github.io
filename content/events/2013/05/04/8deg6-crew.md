@@ -1,4 +1,5 @@
 ---
+id: "fade8723-9301-44d1-afef-290b487dc3b8"
 date: 2013-05-04T00:00:00
 venue: "8c84cbd2-b6b7-42e5-bfe5-6205fbbabec9"
 artists:

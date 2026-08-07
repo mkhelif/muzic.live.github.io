@@ -1,4 +1,5 @@
 ---
+id: "fede4830-0976-4ae1-a5dd-3fc6184a8b60"
 date: 2026-10-22T20:00:00
 venue: "48c1c3d0-fbaf-47af-b09b-2e7f927261af"
 artists:

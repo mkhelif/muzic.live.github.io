@@ -1,4 +1,5 @@
 ---
+id: "dc049129-5c86-40a1-85b3-66dba768ce26"
 date: 1972-08-07T00:00:00
 venue: "ddee7d58-3775-4b65-9f76-beec1163b985"
 artists:

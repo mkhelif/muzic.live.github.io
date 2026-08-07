@@ -1,4 +1,5 @@
 ---
+id: "799df86b-e873-4aef-a113-a0583b8decb9"
 date: 1990-09-18T00:00:00
 venue: "d2a02528-ffcb-44a2-b811-c91afd6fab3d"
 artists:

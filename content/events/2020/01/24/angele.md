@@ -1,4 +1,5 @@
 ---
+id: "b960ae01-d56d-473a-a97f-381140274cd7"
 date: 2020-01-24T00:00:00
 venue: "6011a2e1-14b9-41f9-9bca-a1e797ada569"
 artists:

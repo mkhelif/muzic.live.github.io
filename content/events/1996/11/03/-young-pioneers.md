@@ -1,4 +1,5 @@
 ---
+id: "434bb92e-91fd-47ae-9fbd-dc538a268348"
 date: 1996-11-03T00:00:00
 venue: "dca823d3-184e-4765-9194-4367fb12abcd"
 artists:

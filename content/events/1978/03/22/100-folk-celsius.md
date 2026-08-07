@@ -1,4 +1,5 @@
 ---
+id: "b6e88003-04c5-4500-ac6f-d4d442e23dae"
 date: 1978-03-22T00:00:00
 venue: "52ccb6e7-9bb0-442f-a941-064669c9621d"
 artists:

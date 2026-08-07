@@ -1,4 +1,5 @@
 ---
+id: "48d5f01f-ada9-4f54-a5ba-dcfddb6d79e2"
 date: 1973-01-06T00:00:00
 venue: "4ba43b6f-9903-4cfd-8381-5b4c6fb59a05"
 artists:

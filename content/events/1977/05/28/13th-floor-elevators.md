@@ -1,4 +1,5 @@
 ---
+id: "796a101a-043d-4bc5-accb-3e90aacbd94f"
 date: 1977-05-28T00:00:00
 venue: "a61ce926-92b1-4965-bc0e-8ab0e538be04"
 artists:

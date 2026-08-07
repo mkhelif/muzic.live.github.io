@@ -1,4 +1,5 @@
 ---
+id: "070e2dec-7ad7-40c3-a2f1-4b17b7dc983b"
 date: 2025-12-05T20:00:00+01:00
 venue: "62feb88d-23fc-456e-b60f-50baaeb89b5b"
 artists:

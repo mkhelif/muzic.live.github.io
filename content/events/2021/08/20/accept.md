@@ -1,4 +1,5 @@
 ---
+id: "a8e3a9e6-810f-4ff0-9901-d5c47e662e7e"
 date: 2021-08-20T00:00:00
 venue: "0a347aa7-db99-4e64-a16a-620bd19611a6"
 artists:

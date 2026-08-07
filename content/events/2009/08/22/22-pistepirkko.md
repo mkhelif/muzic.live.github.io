@@ -1,4 +1,5 @@
 ---
+id: "d5daece0-86fa-40fa-a1cf-33ebe47486e2"
 date: 2009-08-22T00:00:00
 venue: "05f129f1-c266-4cae-91ce-4ec7bb31dd7e"
 artists:

@@ -1,4 +1,5 @@
 ---
+id: "6111e68f-46f6-498b-8f8a-7872f88df952"
 date: 2013-06-23T00:00:00
 venue: "06f60228-afda-464e-83bb-528bfc6f906d"
 artists:

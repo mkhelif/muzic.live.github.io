@@ -1,4 +1,5 @@
 ---
+id: "4707ae6f-fe93-4a15-841a-85f998a19379"
 date: 1985-05-31T00:00:00
 venue: "4441895c-ba7d-4bee-b46d-2f3b7bb7ba27"
 artists:

@@ -1,4 +1,5 @@
 ---
+id: "e8bfb17f-c585-4568-8c57-7f1cbd5c2645"
 date: 2005-09-28T00:00:00
 venue: "2bba9ff1-78cb-4f50-86fc-eaa469753a55"
 artists:

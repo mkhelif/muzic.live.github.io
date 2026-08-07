@@ -1,4 +1,5 @@
 ---
+id: "52a96f15-8c15-49b7-96c3-85ce24bc519c"
 date: 1980-02-09T00:00:00
 venue: "8dc9fb2a-fe37-4506-9162-9d56a7ad523f"
 artists:

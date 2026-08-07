@@ -1,4 +1,5 @@
 ---
+id: "6af954a6-5b21-49b9-95cc-fba07cd1688a"
 date: 2007-11-15T00:00:00
 venue: "a2190257-45ab-43e5-b5eb-aa253c1dd98b"
 artists:

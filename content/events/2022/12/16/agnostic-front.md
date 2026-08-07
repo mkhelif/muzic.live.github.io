@@ -1,4 +1,5 @@
 ---
+id: "f32e77fa-ddd9-4a9c-84ed-a3ddf3217c90"
 date: 2022-12-16T00:00:00
 venue: "afc3b287-41e9-4bdf-abe4-6d7d734457b1"
 artists:

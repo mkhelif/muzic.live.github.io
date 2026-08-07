@@ -1,4 +1,5 @@
 ---
+id: "8ac6c8c9-1f39-47be-a005-19156c211c32"
 date: 2012-02-23T00:00:00
 venue: "eda3170c-9060-46fd-8af1-7281fc09b7e3"
 artists:

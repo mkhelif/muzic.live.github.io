@@ -1,4 +1,5 @@
 ---
+id: "a5dd68ae-2f87-444d-9433-c69653f7651f"
 date: 2004-02-28T00:00:00
 venue: "7ad257ca-bc52-4bea-bc20-997e662387c6"
 artists:

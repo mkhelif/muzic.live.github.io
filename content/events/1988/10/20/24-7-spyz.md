@@ -1,4 +1,5 @@
 ---
+id: "baf221b6-d7d3-461a-a22b-68d6b5132a0a"
 date: 1988-10-20T00:00:00
 venue: "c7cf2aba-13ce-4ba1-8911-d8f4b76d2913"
 artists:

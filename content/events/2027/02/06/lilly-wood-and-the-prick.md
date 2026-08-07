@@ -1,4 +1,5 @@
 ---
+id: "1dcd77c0-970f-492a-8a33-f92388bded94"
 date: 2027-02-06T20:00:00
 venue: "8fa068be-fbb5-4bd4-b238-381ea935946d"
 artists:

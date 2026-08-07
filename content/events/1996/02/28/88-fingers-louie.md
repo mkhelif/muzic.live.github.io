@@ -1,4 +1,5 @@
 ---
+id: "cabb4230-1b53-4374-bad8-1ee6df08cb0c"
 date: 1996-02-28T00:00:00
 venue: "92981ff0-9464-4d87-b0fa-a63d945d4860"
 artists:

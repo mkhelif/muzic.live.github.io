@@ -1,4 +1,5 @@
 ---
+id: "e95b88d2-fdfe-459b-b047-a7aba582c5a8"
 date: 2011-01-03T00:00:00
 venue: "c66ec749-a87e-4714-84c1-317624a0d2e1"
 artists:

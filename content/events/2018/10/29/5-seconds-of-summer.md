@@ -1,4 +1,5 @@
 ---
+id: "73e809fc-a2a8-4f2e-bf61-f9e959b04fef"
 date: 2018-10-29T00:00:00
 venue: "46027e91-fa12-42b8-ba8b-7a63eafc86e0"
 artists:

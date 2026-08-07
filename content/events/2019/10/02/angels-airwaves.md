@@ -1,4 +1,5 @@
 ---
+id: "1489af86-8da1-4467-bead-b5cc607d2db2"
 date: 2019-10-02T00:00:00
 venue: "422fb1f1-232b-442c-b85a-bd8ed130325f"
 artists:

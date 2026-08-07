@@ -1,4 +1,5 @@
 ---
+id: "427d7c50-ad95-4e91-ba89-890ad788ec9f"
 date: 2000-01-10T00:00:00
 venue: "048a965a-ecca-4398-a129-a040ebb34e0e"
 artists:

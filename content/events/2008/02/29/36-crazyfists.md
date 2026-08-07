@@ -1,4 +1,5 @@
 ---
+id: "8625376f-e93b-484f-b06a-dbff41c6ce2c"
 date: 2008-02-29T00:00:00
 venue: "d2dd55cd-4466-49a2-8a56-f5e4893c337d"
 artists:

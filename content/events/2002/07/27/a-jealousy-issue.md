@@ -1,4 +1,5 @@
 ---
+id: "9ff1de62-1f70-48f2-872d-2ae6bdcad618"
 date: 2002-07-27T00:00:00
 venue: "229db37c-4cbc-4a05-b219-9e04b51cbbb1"
 artists:

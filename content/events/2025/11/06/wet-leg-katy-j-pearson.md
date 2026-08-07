@@ -1,4 +1,5 @@
 ---
+id: "ebfa084c-c0cc-4933-80c4-54e2aa077e6a"
 date: 2025-11-06T20:30:00+02:00
 venue: "592a1212-36b9-48c2-9bfe-ebaa09957bde"
 full: true

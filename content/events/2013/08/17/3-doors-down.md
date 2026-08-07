@@ -1,4 +1,5 @@
 ---
+id: "d9dc5684-6d5e-4be0-adba-10755f9e3c50"
 date: 2013-08-17T00:00:00
 venue: "1f472423-9650-45e0-b1a4-d86c98b297eb"
 artists:

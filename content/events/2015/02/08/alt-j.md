@@ -1,4 +1,5 @@
 ---
+id: "55f571dc-e7f4-4ba8-a388-086c6b2670d4"
 date: 2015-02-08T00:00:00
 venue: "7ad257ca-bc52-4bea-bc20-997e662387c6"
 artists:

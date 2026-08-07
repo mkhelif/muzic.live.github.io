@@ -1,4 +1,5 @@
 ---
+id: "f57aaa06-e0b4-4b1f-b22f-4c3c57ae9727"
 date: 1992-12-27T00:00:00
 venue: "78d98c39-f47d-4865-a7a9-4a25f495811b"
 artists:

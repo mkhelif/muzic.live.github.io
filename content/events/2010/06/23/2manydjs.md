@@ -1,4 +1,5 @@
 ---
+id: "2f5c041a-568e-4732-bfdc-c373fdf00633"
 date: 2010-06-23T00:00:00
 venue: "f8edf55c-b794-4833-9c32-84b04f87001b"
 artists:

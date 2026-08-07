@@ -1,4 +1,5 @@
 ---
+id: "d6725922-7ccb-4a40-8b8b-4d33ed975e9b"
 date: 2024-11-29T00:00:00
 venue: "01fe20fb-9bc4-4e50-8733-9a952bc893b3"
 artists:

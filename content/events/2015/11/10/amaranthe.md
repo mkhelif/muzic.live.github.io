@@ -1,4 +1,5 @@
 ---
+id: "12764e05-cc2f-4160-977e-cd8cafa031d2"
 date: 2015-11-10T00:00:00
 venue: "fabb3424-d8b2-4d3f-97f6-775b7171b35f"
 artists:

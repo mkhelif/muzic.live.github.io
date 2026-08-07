@@ -1,4 +1,5 @@
 ---
+id: "ec25cddf-b660-4027-acba-c0d3fa10f1b1"
 date: 1988-08-21T00:00:00
 venue: "935fd9cd-c123-451c-b299-d3ea3a8421c2"
 artists:

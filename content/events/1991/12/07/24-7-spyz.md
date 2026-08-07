@@ -1,4 +1,5 @@
 ---
+id: "1230ee91-0bc4-4afc-9d79-120821d85880"
 date: 1991-12-07T00:00:00
 venue: "6ee712c9-b65d-4147-bb6f-493a10a3b3fd"
 artists:

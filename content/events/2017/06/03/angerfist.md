@@ -1,4 +1,5 @@
 ---
+id: "feda29ba-302c-4d53-8dfa-0d9927fa2347"
 date: 2017-06-03T00:00:00
 venue: "05bb3d69-cd10-4fc1-beee-a9f6c2da48d6"
 artists:

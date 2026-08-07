@@ -1,4 +1,5 @@
 ---
+id: "2b375a44-ad22-4b9c-a77b-fcb5e7df6aaf"
 date: 2021-12-03T00:00:00
 venue: "67ebd870-6c8d-4bc7-a3c7-e5c107f29c71"
 artists:

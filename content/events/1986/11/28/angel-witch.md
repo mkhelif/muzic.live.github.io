@@ -1,4 +1,5 @@
 ---
+id: "c37bd1ed-2fdd-4b6a-a371-94096017789f"
 date: 1986-11-28T00:00:00
 venue: "4b625fbd-217f-4e20-aac0-ccd0d9d5c9ad"
 artists:

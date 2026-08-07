@@ -1,4 +1,5 @@
 ---
+id: "972bc764-af9e-4711-bc21-2cc908a025c0"
 date: 2018-12-08T00:00:00
 venue: "9351fb3a-218e-4259-9ab2-fbb263aab6a2"
 artists:

@@ -1,4 +1,5 @@
 ---
+id: "e04b818f-da50-4bf4-a970-7baf707166ae"
 date: 2025-01-03T00:00:00
 venue: "571ca8b1-a251-4957-be31-2bfc673170aa"
 artists:

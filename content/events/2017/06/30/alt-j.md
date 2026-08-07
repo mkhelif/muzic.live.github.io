@@ -1,4 +1,5 @@
 ---
+id: "bed04145-6150-4831-8fda-8afb80375555"
 date: 2017-06-30T00:00:00
 venue: "dcba98e3-f6fc-4768-92eb-b86b1298fa0f"
 artists:

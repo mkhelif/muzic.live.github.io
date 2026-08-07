@@ -1,4 +1,5 @@
 ---
+id: "ceef364b-d773-497c-8ee1-973e5a19b3e1"
 date: 1982-09-29T00:00:00
 venue: "e83906ff-e660-4fe6-8825-6f51f4bf7030"
 artists:

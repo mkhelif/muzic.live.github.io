@@ -1,4 +1,5 @@
 ---
+id: "eed5e475-8dbd-4dfa-bead-a877899ccfcd"
 date: 2010-07-23T00:00:00
 venue: "fc31d2cb-3e7e-4066-8d76-0b65d7dad188"
 artists:

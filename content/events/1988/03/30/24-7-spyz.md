@@ -1,4 +1,5 @@
 ---
+id: "2df5c348-1ced-42bc-8931-7b0fff9d8e01"
 date: 1988-03-30T00:00:00
 venue: "caa00620-06fb-40a0-a853-906fddd79c02"
 artists:

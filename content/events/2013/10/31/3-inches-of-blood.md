@@ -1,4 +1,5 @@
 ---
+id: "03918c14-d86b-4559-b8f1-4cafc892debd"
 date: 2013-10-31T00:00:00
 venue: "fabb3424-d8b2-4d3f-97f6-775b7171b35f"
 artists:

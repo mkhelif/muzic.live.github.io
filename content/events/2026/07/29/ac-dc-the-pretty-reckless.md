@@ -1,4 +1,5 @@
 ---
+id: "67df8312-4e50-47c8-a5b3-c2477cf4b3e7"
 date: 2026-07-29T01:00:00+00:00
 venue: "1278abad-1a5f-47e3-9470-536ebfc3e4d0"
 artists:

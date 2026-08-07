@@ -1,4 +1,5 @@
 ---
+id: "779a85a9-3c1a-47db-b63e-169be6ecf997"
 date: 2024-09-14T00:00:00
 venue: "6db413b3-1340-4a97-b870-4677a9c2efec"
 artists:

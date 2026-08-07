@@ -1,4 +1,5 @@
 ---
+id: "52dd6a24-f279-4006-bbb6-694106d34ebb"
 date: 2005-07-22T00:00:00
 venue: "173b7bc7-467a-44ba-8ec4-8c5a1619d309"
 artists:

@@ -1,4 +1,5 @@
 ---
+id: "76506858-000c-48ed-bd6b-e93cca017656"
 date: 1980-11-19T00:00:00
 venue: "27a1a05f-2e65-48ba-b4db-d8eb4f6387c8"
 artists:

@@ -1,4 +1,5 @@
 ---
+id: "c99c9e48-0dc5-41b8-8a84-a381a404e4eb"
 date: 2026-06-26T18:30:00+02:00
 festival: "26e7f23b-ad12-409a-9e42-64ec6fd664f5"
 venue: "7a63aa82-6df0-48fc-9302-fd76b7405bf9"

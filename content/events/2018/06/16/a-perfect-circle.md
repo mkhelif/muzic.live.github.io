@@ -1,4 +1,5 @@
 ---
+id: "7c5ccd0a-55d3-4e40-a696-454ef8e595df"
 date: 2018-06-16T00:00:00
 venue: "847d11ba-9f8e-4cdb-9d64-11f9e35cfeb0"
 artists:

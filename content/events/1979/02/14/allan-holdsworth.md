@@ -1,4 +1,5 @@
 ---
+id: "bb9f80e0-56f2-4561-be5a-4a97c06efc67"
 date: 1979-02-14T00:00:00
 venue: "e7583e8d-e9df-4538-be86-f62278ba4272"
 artists:

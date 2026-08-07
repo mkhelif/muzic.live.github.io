@@ -1,4 +1,5 @@
 ---
+id: "3570f33f-87fe-4d8a-a4a4-40b9774f2eba"
 date: 2010-07-24T00:00:00
 venue: "427b5c55-780b-42cb-ad48-01d707481d31"
 artists:

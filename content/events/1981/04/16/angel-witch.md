@@ -1,4 +1,5 @@
 ---
+id: "fdcb3dac-72d7-49be-afd8-a2324c157092"
 date: 1981-04-16T00:00:00
 venue: "49d4e3a2-fa8c-4947-b582-3dcc6d3de9b9"
 artists:

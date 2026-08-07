@@ -1,4 +1,5 @@
 ---
+id: "57a7bc42-dc77-4dfc-b8de-fce51e821070"
 date: 1993-07-29T00:00:00
 venue: "fdc8c3c4-6bd0-4301-938d-75ca11997a66"
 artists:

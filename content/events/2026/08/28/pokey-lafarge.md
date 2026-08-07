@@ -1,4 +1,5 @@
 ---
+id: "2d8bf335-1abb-4ff8-9cb2-b0b9699424b1"
 date: 2026-08-28T19:00:00-04:00
 venue: "e916d864-cfe6-4c6e-9edf-f9c2b8ba8a42"
 artists:

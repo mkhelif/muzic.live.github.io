@@ -1,4 +1,5 @@
 ---
+id: "133da28e-718d-4d17-ac2e-fe827b808a2d"
 date: 1989-11-13T00:00:00
 venue: "6afdfe24-def8-494b-aee2-04e6bdb8b647"
 artists:

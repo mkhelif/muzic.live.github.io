@@ -1,4 +1,5 @@
 ---
+id: "aff8da4c-e9eb-4a22-897c-e57c81d2b2a3"
 date: 1970-01-27T00:00:00
 venue: "b22fd173-29ce-4849-9195-6c112b356bee"
 artists:

@@ -1,4 +1,5 @@
 ---
+id: "d2291245-9876-43a1-8993-c6aeec7afef8"
 date: 1979-09-25T00:00:00
 venue: "054fa5b9-4b7b-4f59-be7d-34931a064c42"
 artists:

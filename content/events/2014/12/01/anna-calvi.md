@@ -1,4 +1,5 @@
 ---
+id: "1f0d81cc-bee0-412b-9844-3eea219b5cb9"
 date: 2014-12-01T00:00:00
 venue: "c6fcd890-73c1-40ea-8a85-a82834167c6e"
 artists:

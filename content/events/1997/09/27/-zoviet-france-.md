@@ -1,4 +1,5 @@
 ---
+id: "36995b3b-672c-4291-9beb-90bb97361cfa"
 date: 1997-09-27T00:00:00
 venue: "b261a36d-a340-4abe-9241-0c43b38bc64f"
 artists:

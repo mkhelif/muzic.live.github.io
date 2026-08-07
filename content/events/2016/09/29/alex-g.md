@@ -1,4 +1,5 @@
 ---
+id: "ddf70b1c-576f-4b1c-b11f-fc23a99b1c82"
 date: 2016-09-29T00:00:00
 venue: "34da9c5c-d63a-46e5-abff-4dc9a85a5d0e"
 artists:

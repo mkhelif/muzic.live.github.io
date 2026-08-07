@@ -1,4 +1,5 @@
 ---
+id: "ff4301c2-deed-4884-ad0a-ef858d3d83c8"
 date: 2027-01-28T20:00:00+01:00
 venue: "6f970706-8a68-435a-8d9f-01af6d897f94"
 artists:

@@ -1,4 +1,5 @@
 ---
+id: "c7dd96fc-36d4-41df-a48a-812aef30910d"
 date: 2007-05-06T00:00:00
 venue: "e31838d6-067b-46ff-9a6d-339056e33d34"
 artists:

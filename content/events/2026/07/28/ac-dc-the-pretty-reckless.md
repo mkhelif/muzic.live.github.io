@@ -1,4 +1,5 @@
 ---
+id: "f891e06d-cb89-499c-a8b7-4c5b0fd87642"
 date: 2026-07-28T19:00:00-06:00
 venue: "1278abad-1a5f-47e3-9470-536ebfc3e4d0"
 artists:

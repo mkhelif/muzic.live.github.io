@@ -1,4 +1,5 @@
 ---
+id: "258ede3c-843b-43c6-8e5f-f8a58f99621c"
 date: 1990-10-31T00:00:00
 venue: "fa1db023-fb6e-47c9-a856-2dfd3f05bbdf"
 artists:

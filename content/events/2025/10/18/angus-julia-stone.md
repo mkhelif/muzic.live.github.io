@@ -1,4 +1,5 @@
 ---
+id: "2069cabe-cdf4-478e-b063-3286f411e20c"
 date: 2025-10-18T00:00:00
 venue: "b41f81a7-9d00-4743-8b4a-f3c9191c829d"
 artists:

@@ -1,4 +1,5 @@
 ---
+id: "0ece6815-5b55-44c0-9652-7d535afd132c"
 date: 1996-06-11T00:00:00
 venue: "c51a7b6f-b097-4ebd-becc-1f30467b9f0a"
 artists:
