@@ -22,7 +22,25 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   musicbrainz-lookup: 2026-08-05
 ---
+
+Suffocation est un groupe américain de death metal originaire de Centereach, dans l'État de New York, formé
+en 1989. Aux côtés de Cannibal Corpse ou Deicide, le groupe est considéré comme l'un des piliers fondateurs du death
+metal technique et brutal.
+
+###### Une genèse et une renaissance
+
+Le line-up originel réunit le chanteur **Frank Mullen**, les guitaristes **Doug Cerrito** et **Terrance Hobbs**, le
+bassiste **Chris Richards** et le batteur **Mike Smith**. Leur premier album, **Effigy of the Forgotten** (1991),
+devient une référence absolue du genre, suivi par **Breeding the Spawn** (1993). Le groupe se sépare en 1995 avant de
+se reformer en 2004 pour **Souls to Deny**, marquant le début d'une seconde carrière tout aussi respectée.
+
+###### Une influence toujours vive
+
+Après le retrait de Frank Mullen en 2019, c'est **Ricky Myers** qui reprend le micro, notamment sur l'album **Hymns
+from the Apocrypha** (2023). Aux côtés de Terrance Hobbs, seul membre fondateur encore présent, le groupe compte
+aujourd'hui huit albums studio à son actif. En 2016, le magazine Loudwire classait Suffocation 23e meilleur groupe de
+metal de tous les temps, saluant son rôle pionnier dans l'équilibre entre brutalité et technicité qui définit le death
+metal du XXIe siècle.

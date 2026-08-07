@@ -49,7 +49,25 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   musicbrainz: 2026-08-05
 ---
+
+Dirty Sound Magnet est un groupe suisse originaire de Fribourg, mêlant rock psychédélique,
+progressif et blues rock.
+
+###### Des débuts à quatre
+
+**Stavros Dzodzos** (guitare, chant), **Marco Mottolini** (basse, chœurs) et **Maxime Cosandey** (batterie, chœurs)
+se rencontrent adolescents en 2008, unis par leur passion pour le rock psychédélique des années 1960-1970. Rejoints
+par le chanteur-claviériste Didier Coenegracht, ils publient deux albums, **What Lies Behind** (2012) et **The
+Bloop** (2014), avant que ce dernier ne quitte le groupe en 2015.
+
+###### La consécration du power trio
+
+C'est en trio que Dirty Sound Magnet publie **Western Lies** (2017) chez le label berlinois Noisolution, récompensé
+du prix du meilleur titre rock suisse pour **Homo Economicus**. Suivent l'album-concept **Transgenic** (2019) puis
+**DSM-III** (2022, Hummus Records), leur disque le plus abouti, qui leur vaut le titre de meilleur groupe de rock
+suisse la même année et plus de 130 concerts, dont des tournées à guichets fermés au Royaume-Uni, en Allemagne et au
+Mexique. Entre The Doors et Queens of the Stone Age, le trio fribourgeois cultive un psychédélisme organique et
+puissant.

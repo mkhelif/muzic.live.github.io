@@ -2,6 +2,32 @@
 id: "6855267d-1a3c-4c79-a02c-ce9b51a9ff13"
 title: "DITZ"
 type: band
+members:
+  - id: "35fe04c8-8c89-4034-92bc-55413a62c1bd"
+    roles:
+      - sing
+    periods:
+      - start: 2016
+  - id: "e4fcb507-da4a-4867-92e6-dfaf33901a81"
+    roles:
+      - bass
+    periods:
+      - start: 2016
+  - id: "21fae26b-24be-487c-b050-dbea4a635c0f"
+    roles:
+      - guitar
+    periods:
+      - start: 2016
+  - id: "3871bd3d-06e3-4553-84ef-0ef93efac30e"
+    roles:
+      - guitar
+    periods:
+      - start: 2016
+  - id: "192b4ba2-3349-4347-af28-50fbbba80628"
+    roles:
+      - drums
+    periods:
+      - start: 2019
 socials:
   musicbrainz: "bd0f9f45-22c2-4566-b2cc-3c255ceb6e76"
   facebook: ""

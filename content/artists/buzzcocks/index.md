@@ -120,7 +120,24 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   musicbrainz: 2026-08-05
 ---
+
+Buzzcocks est un groupe de punk rock anglais formé à Bolton en 1976 par le chanteur-guitariste
+**Pete Shelley** et le chanteur **Howard Devoto**.
+
+###### Les pionniers du DIY punk
+
+Le groupe joue son tout premier concert en première partie des Sex Pistols dès juillet 1976. Devoto quitte
+l'aventure l'année suivante pour fonder Magazine, laissant à Shelley les rênes de l'écriture. Financé par un prêt du
+père de Shelley, l'EP **Spiral Scratch**, paru en janvier 1977 sur leur propre label New Hormones, est considéré
+comme le tout premier disque autoproduit de l'ère punk.
+
+###### Une carrière en dents de scie
+
+Buzzcocks publie deux albums pop-punk en 1978, **Another Music in a Different Kitchen** et **Love Bites**, puis le
+plus expérimental **A Different Kind of Tension** (1979), avant de se séparer en 1981. Le groupe se reforme en 1989
+et enchaîne tournées et albums jusqu'à **The Way** (2014). Pete Shelley s'éteint le 6 décembre 2018, laissant
+derrière lui l'héritage d'un groupe considéré, aux côtés du Clash et des Sex Pistols, comme l'un des piliers
+fondateurs du punk britannique.

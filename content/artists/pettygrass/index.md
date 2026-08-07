@@ -2,6 +2,10 @@
 id: "58c49caf-41b4-4b6d-9482-3da3614c065a"
 title: "PettyGrass"
 type: band
+members:
+  - id: "de615937-602f-4069-b483-5147e645702e"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +22,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "e14440a6-886d-4199-a992-d889778aa37f"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-07
 ---

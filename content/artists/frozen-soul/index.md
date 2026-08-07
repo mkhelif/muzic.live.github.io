@@ -66,7 +66,24 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   musicbrainz: 2026-08-05
 ---
+
+Frozen Soul est un groupe américain de death metal old-school originaire de Fort Worth, au Texas,
+fondé en 2018.
+
+###### Nés dans un magasin de jeux de cartes
+
+**Chad Green** et **Michael Munday** se rencontrent dans un magasin de comics et de cartes Magic: The Gathering, où
+naît l'idée du groupe dès 2016, sans suite immédiate. Le projet prend réellement forme en 2018 avec l'arrivée de la
+bassiste **Samantha Mobley** et du batteur Brady Tripp : dès début 2019, le groupe enregistre sa première démo et
+joue un premier concert quasiment à guichets fermés.
+
+###### Une ascension rapide
+
+Après l'EP **Encased in Ice** (2019), l'album **Crypt of Ice** (2021) installe Frozen Soul comme l'un des
+représentants les plus prometteurs du renouveau death metal old-school, dans la lignée de Bolt Thrower et Obituary.
+**Glacial Domination** (2023), salué pour son mélange de death metal traditionnel et de hardcore, confirme cette
+trajectoire. Le groupe, aujourd'hui composé de Green, Munday, Mobley, Matt Dennard et Chris Bonner, poursuit une
+ascension continue sur la scène metal internationale.

@@ -22,8 +22,24 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
+
+Thrown into Exile est un groupe américain de metal originaire de Los Angeles, actif depuis
+2011, dont le son mêle avec conviction death metal mélodique et groove metal.
+
+###### De la scène locale aux grands festivals
+
+Le groupe se fait connaître en 2012 en remportant le concours « Road to Mayhem », qui lui offre une place sur
+l'affiche du Rockstar Mayhem Festival aux côtés de Slipknot, Motörhead, Anthrax et Slayer. Il assure par la suite les
+premières parties de Sepultura, Fear Factory, Chimaira, All Shall Perish, Testament ou encore Morbid Angel,
+consolidant sa réputation sur le circuit metal américain.
+
+###### Une discographie exigeante
+
+Son premier EP quatre titres, sorti en 2013, est produit par Mike Spreitzer, guitariste de DevilDriver. Suivent les
+albums **Safe Inside** (2016) puis **II: Illusion of Control** (2020), qui affinent une formule alliant lourdeur
+implacable et mélodies aériennes, caractéristique d'un groupe qui a su se forger une identité propre sur plus d'une
+décennie d'activité.

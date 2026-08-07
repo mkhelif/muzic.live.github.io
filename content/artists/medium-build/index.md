@@ -21,8 +21,24 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
+
+Medium Build est le nom de scène de **Nicholas Carpenter**, auteur-compositeur-interprète
+américain élevé en Géorgie, où il joue de la musique dès l'enfance à l'église.
+
+###### De la Géorgie à l'Alaska
+
+Il quitte Atlanta pour Nashville à 21 ans afin d'étudier l'écriture de chansons à la Middle Tennessee State
+University, avant de s'installer en 2016 en Alaska, où il commence à se produire sous le nom de Medium Build. Son
+premier album, **Falling Apart**, sort la même année, suivi de **Softboy** et **Roughboy** en 2018, puis de
+**Wild** en 2019.
+
+###### Une reconnaissance grandissante
+
+Il connaît son premier succès en playlist en 2023 avec **Friend for Life**, collaboration avec X Ambassadors, avant
+de tourner aux côtés de Lewis Capaldi et FINNEAS. En 2024, il publie l'album **Country** ainsi que l'EP
+**Marietta**, sur lequel figure **Yoke**, un titre coécrit avec son ancienne camarade de fac Julien Baker, confirmant
+la trajectoire ascendante d'un artiste habile à faire dialoguer folk, pop et confession intime.

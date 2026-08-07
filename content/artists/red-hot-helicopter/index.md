@@ -2,6 +2,16 @@
 id: "7f3de022-049d-47b0-977a-4d10bfd2b7c0"
 title: "Red Hot Helicopter"
 type: band
+members:
+  - id: "eeceff5c-bb9a-42a3-93af-4e3b8bb13e5c"
+    roles:
+      - other
+  - id: "ac71a4c4-82b8-4175-b4cb-5350677c9d4f"
+    roles:
+      - other
+  - id: "6349f7a3-e670-40db-b564-3b9bd2b87be2"
+    roles:
+      - other
 socials:
   facebook: ""
   instagram: ""
@@ -18,10 +28,12 @@ socials:
   qobuz: ""
   spotify: ""
   tidal: ""
-  musicbrainz: ""
+  musicbrainz: "e043c793-35d4-4ca0-becd-0b9ec2b61532"
 todo:
   - Add picture
   - Add socials
   - Add description
   - Add members
+lastUpdate:
+  musicbrainz-lookup: 2026-08-07
 ---

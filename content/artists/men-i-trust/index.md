@@ -44,8 +44,24 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
+
+Men I Trust est un groupe canadien de pop indé formé à Québec en 2014.
+
+###### De Laval à la scène indie
+
+Le projet naît de la rencontre de **Dragos Chiriac** (claviers) et **Jessy Caron** (basse, guitare), qui se
+connaissent depuis le lycée avant de se retrouver à l'Université Laval en 2012. La chanteuse et guitariste
+**Emmanuelle Proulx** rejoint officiellement le groupe en 2015, apportant sa voix éthérée à des compositions
+mêlant nappes rêveuses, accords mélancoliques et grooves dansants et feutrés.
+
+###### Un son planant et autoproduit
+
+Le trio a publié six albums en totale autoproduction : l'éponyme **Men I Trust** (2014), **Headroom** (2015),
+**Oncle Jazz** (2019, présélectionné pour le prix Polaris en 2020), **Untourable Album** (2021), puis les jumeaux
+**Equus Asinus** et **Equus Caballus** (2025). Cette indépendance totale, de l'enregistrement à la distribution, a
+permis à Men I Trust de bâtir une base de fans fidèle bien au-delà du Québec, portée par un bouche-à-oreille
+numérique constant.

@@ -21,8 +21,24 @@ socials:
 todo:
   - Add picture
   - Add socials
-  - Add description
 lastUpdate:
   musicbrainz: 2026-08-05
   musicbrainz-lookup: 2026-08-05
 ---
+
+Man/Woman/Chainsaw est un groupe de rock anglais originaire de Londres, dont le noyau
+créatif se forme dès l'adolescence.
+
+###### Une amitié d'enfance devenue groupe
+
+**Billy Ward** (chant, guitare) et **Vera Leppänen** (chant, basse) commencent à composer ensemble à 14 ans, sur les
+bancs de l'école. Rejoints par la claviériste et chanteuse Emmie-Mae Avery, la violoniste Clio Starwood et la
+batteuse Lola Cherry, ils cristallisent véritablement leur formation pendant les confinements du Covid-19, à force de
+sessions improvisées dans leurs chambres.
+
+###### « Eazy Peazy » et le pari de Fiction Records
+
+Le groupe publie son premier single, **Any Given Sunday**, en septembre 2022 sur le label Big Richard Records, puis
+signe chez Fiction Records. Leur premier EP, **Eazy Peazy** (2024), produit par Daniel Fox du groupe irlandais Gilla
+Band, confirme le potentiel de ce jeune quintette londonien, salué pour une énergie aussi joyeuse qu'imprévisible qui
+tranche avec son jeune âge.
