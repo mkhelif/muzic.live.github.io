@@ -85,7 +85,7 @@
     }
 
     async function load(container, query) {
-        const response = await fetch(`/api/events?${query}`);
+        const response = await fetch(`https://muzic.live/api/events?${query}`);
         if (!response.ok) {
             /* Nothing to show and nothing to explain to a reader: leave the
                block hidden, and leave a trace for us. */
@@ -94,7 +94,7 @@
         }
 
         const { events } = await response.json();
-        if (events?.length) {
+        if (!events?.length) {
             return;
         }
 
