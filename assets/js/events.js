@@ -10,12 +10,6 @@
  * one concert: a page with nothing coming up shows nothing, as before.
  */
 (() => {
-    const container = document.getElementById("events");
-    const query = container?.dataset.events;
-    if (!query) {
-        return;
-    }
-
     const DATE = new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "long", year: "numeric" });
     const TIME = new Intl.DateTimeFormat("fr-FR", { hour: "2-digit", minute: "2-digit" });
 
@@ -90,7 +84,7 @@
 </tr>`;
     }
 
-    async function load() {
+    async function load(container, query) {
         const response = await fetch(`/api/events?${query}`);
         if (!response.ok) {
             /* Nothing to show and nothing to explain to a reader: leave the
@@ -100,7 +94,7 @@
         }
 
         const { events } = await response.json();
-        if (!events?.length) {
+        if (events?.length) {
             return;
         }
 
@@ -108,5 +102,18 @@
         container.hidden = false;
     }
 
-    load().catch((error) => console.error("events:", error));
+    function start() {
+        const container = document.getElementById("events");
+        const query = container?.dataset.events;
+        if (!query) {
+            return;
+        }
+        load(container, query).catch((error) => console.error("events:", error));
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", start, { once: true });
+    } else {
+        start();
+    }
 })();

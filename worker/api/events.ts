@@ -152,10 +152,7 @@ export async function list({ env, url }: Context): Promise<Response> {
         return badRequest(`${name} must be a UUID`);
     }
 
-    const withBands = name === "artist" && url.searchParams.get("with_bands") === "1";
-    const query = withBands ? byArtistWithBands : QUERIES[name];
-
-    const { results } = await query(env, id, limitOf(url));
+    const { results } = await QUERIES[name](env, id, limitOf(url));
     const bills = await lineups(env, results.map((event) => event.id));
 
     return json({
